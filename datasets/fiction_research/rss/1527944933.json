@@ -1,0 +1,140 @@
+{
+  "show_id": "1527944933",
+  "feed_url": "https://feeds.soundon.fm/podcasts/6b518c40-2130-4c6d-b9a1-dccbc0fc1bcd.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/6b518c40-2130-4c6d-b9a1-dccbc0fc1bcd.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/6b518c40-2130-4c6d-b9a1-dccbc0fc1bcd.xml",
+    "fetched_at": "2026-10-25T14:53:45.903345+00:00",
+    "status": 200,
+    "sha256": "c1421fd7c34ae6269e39ff6f287a2077ba98017f238d12dc2b07977a3502a8a1"
+  },
+  "status": "ok",
+  "title": {
+    "text": "現在旅行式",
+    "truncated": false
+  },
+  "description": {
+    "text": "一位在英國倫敦打滾的西漂老男孩，一直以來都想紀錄自己離開台灣後所看見的世界。相較於文字與影像，說話似乎是更直白的方法，因此有了這個頻道的誕生。 如果你對英國的生活，乃至於歐洲有一些興趣、憧憬，甚至特別的回憶，每週三晚間九點，歡迎準時鎖定我們的節目，在小週末的夜晚聽我們閒聊、扯淡。我們每週將會訂定一個主題，葷素不忌。 對節目有任何意見或單純想分享心情，可上「現在旅行式」臉書粉絲專頁、Instagram：@arrivendepart 或者寄電子郵件至信箱：[email removed]",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "yes"
+  },
+  "feed_item_count": 17,
+  "episodes": [
+    {
+      "id": "f4303d44c04606610b1902c0d835aca286690264564d65998a9865c01d86faf1",
+      "guid": "e61adfdb-21ae-422b-b2d9-b618d29e5c10",
+      "title": {
+        "text": "EP.16 異國戀的酸甜苦辣(下)",
+        "truncated": false
+      },
+      "description": {
+        "text": "哈囉大家好，我是在英國打滾多年的「倫敦老男孩」克里斯。 上一集我們聊到在一段異國戀的關係中，飲食習慣及母語的不同可能會造成的問題。今天這集我跟Cherry將繼續以個人經驗出發，談國外約會文化以及金錢觀的不同。究竟怎麼樣算是一段關係正式確立？有無儲蓄習慣會不會對異國戀情侶造成影響？趕快拉好板凳，加入我們的行列一起探討。",
+        "truncated": false
+      },
+      "published_at": "Wed, 27 Jan 2021 12:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "55c69e244d11ee1f1fd69549d3b4581eb341a528753759cf050dac365d4528cf",
+      "guid": "3fe10bfe-c7eb-4fda-900b-74161259a961",
+      "title": {
+        "text": "EP.14 倫敦憑什麼蟬聯全球最佳城市？！",
+        "truncated": false
+      },
+      "description": {
+        "text": "哈囉大家好，我是在英國打滾多年的「倫敦老男孩」克里斯。 根據一份最新的報告顯示，在居民、文化、氣候、生活等各項指標的綜合評估下，倫敦再次拿下2021年全球最佳城市的頭銜，這也是連續第六年蟬聯冠軍。本集節目邀請已在倫敦長住15年的Cherry，針對報告中特別有共鳴的部分進行討論，究竟我們喜歡倫敦哪裡？而倫敦又憑什麼可以拿下最佳城市的寶座？ 資料來源：https://www.bestcities.org",
+        "truncated": false
+      },
+      "published_at": "Wed, 06 Jan 2021 00:00:00 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "453c022fc0dfc776db2babdacd96e401c91955c2aa6158ec85bd3b8024128499",
+      "guid": "d735e571-1fdc-4b51-b1ea-544b63f0d1f3",
+      "title": {
+        "text": "EP.11 英國租屋停看聽（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "哈囉大家好，我是在英國打滾多年的「倫敦老男孩」克里斯。 每到一個新的環境落腳，最重要的事情之一是得先解決「住」的問題。剛來到英國的時候，也是在租屋的課題上下了不少功夫，許多人更是因為碰到惡房東、黑心仲介而繳了不少學費。今天的節目再次邀請到Ashni來聊當初我們抵達英國後，透過何種管道找到房子？之後又是因為什麼原因而選擇再次搬家呢？",
+        "truncated": false
+      },
+      "published_at": "Wed, 18 Nov 2020 13:00:00 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "78a6e065bb1ef3355c9ed8324548fc2801af75a312231c9298dcd039c8751143",
+      "guid": "400b00ce-00b1-41e1-a377-7816d5ebfe4b",
+      "title": {
+        "text": "EP.09 英國人跟你想得不一樣（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "哈囉大家好，我是在英國打滾多年的「倫敦老男孩」克里斯。 講到英國人，你第一個想到的印象是什麼？是文質彬彬又有禮貌的紳士？一口地道的英國腔？還是早已習慣多雨的天氣而不愛撐傘？但真的跟你想像的一樣嗎？還是有更多共通點讓你意想不到呢？ 本集節目邀請到已長住英國十五年的Tiffany來跟我大聊英國人，並共同針對一份2019年的線上民調「Top 40 signs you're British」進行盤點，除將揭露一些新奇有趣的特點外，也想順便告訴你英國人跟你想得可不一樣！",
+        "truncated": false
+      },
+      "published_at": "Wed, 28 Oct 2020 14:00:00 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "ffc30cc7767e37eeb8ec7dfff386830fa91dfd04b3d4bc53929837f8f599b926",
+      "guid": "7aeafdb8-5ccc-4aed-9564-7b6111b1bed0",
+      "title": {
+        "text": "EP.07 職場放大鏡——如何踏進英國精品業？（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "哈囉大家好，我是在英國打滾多年的「倫敦老男孩」克里斯。 近期熱播的電視劇「三十而已」引起許多人對精品業的好奇，原來外表光鮮亮麗的背後有許多不為人知的秘辛與心酸。本集節目邀請曾在英國知名品牌Burberry擔任精品銷售的Ashni，跟我們聊聊她當初如何連過三關，獲得該品牌的入職邀請。她也將透露許多面試內容，以及臨場應對技巧。 至於想要在英國踏進精品業工作的人，又該具備何種特質並提前做好哪些準備呢？有興趣的朋友，千萬不要錯過本集的精彩內容唷！",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Oct 2020 13:00:00 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "0194cc0f78aeceffa36d47516af057996cb7faa251ed1981e27d25559194762e",
+      "guid": "86a7695e-aaa7-40fe-a9e4-97700a899119",
+      "title": {
+        "text": "EP.05 各國美食大盤點（上）——歐洲篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "哈囉大家好，我是在英國打滾多年的「倫敦老男孩」克里斯。 最近在Netflix看了一檔2018年廚藝實境秀節目「決戰餐桌」，對於其精彩的程度印象深刻，因此有了這集Podcast的主題。到世界各地旅行時，總有機會品嚐當地的美食，有些可能聞名已久，有些可能則是在當地人的引領下才得已一探究竟。在新冠肺炎仍肆虐的情況下，旅行或許是短期內遙不可及的奢侈，不妨跟著節目的腳步，重溫旅行的美好。如果你對節目中提到的各地美食有所共鳴，甚至是對於我們疏漏的部分想要補充，都歡迎你到我們的社群網站分享意見，也可以直接寫信給我們唷！",
+        "truncated": false
+      },
+      "published_at": "Wed, 30 Sep 2020 13:00:00 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "850b29a10d7cf83c37670e0c4e26a8630f5b12e92e03062a8baadd7f6eb89d2d",
+      "guid": "f022b5b0-7f77-41a3-89b8-a9784256975a",
+      "title": {
+        "text": "EP.02 疫情下的倫敦（下）——政府燒錢救失業，旅外台人防疫不鬆懈",
+        "truncated": false
+      },
+      "description": {
+        "text": "哈囉大家好，我是在英國打滾多年的「倫敦老男孩」克里斯。 上一集我們提到東、西方對於「戴口罩」的不同態度及文化差異，這一集則是談到英國自三月底封城之後，政府推出強制休假方案，透過補助員工8成薪水，來減輕裁員潮，但仍有不少人失去工作。而在6月中旬逐漸解禁後，也推出包括「EAT OUT TO HELP OUT」、免除部分購屋印花稅、降低消費增值稅等一系列措施，都是希望能刺激民眾消費，試圖為目前英國欲振乏力的經濟注入活水。 在防疫方面，雖然民眾的生活看似慢慢恢復「新常態」，但對許多旅居海外的台灣人而言仍不敢因此懈怠。",
+        "truncated": false
+      },
+      "published_at": "Wed, 09 Sep 2020 13:00:00 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "2d7fc608da3db7f4fe3bafe05d7b335bbd7b4e3497d38c10489dede079556a89",
+      "guid": "2e0ebca4-c7c4-4b59-a7c1-e1c1a0734073",
+      "title": {
+        "text": "EP.00 Intro - 9月2日首播",
+        "truncated": false
+      },
+      "description": {
+        "text": "「現在旅行式」終於要跟大家在空中相見啦！ 九月二日起，每週三晚間九點準時開播！歡迎大家揪親朋好友一起收聽！ Podcast播出平台： SoundOn- http://sndn.link/arrivendepart Apple Podcast- https://reurl.cc/bRn0zr Google Podcast- https://reurl.cc/8nWz0d Spotify- https://reurl.cc/d5GNVq YouTube- https://reurl.cc/GroQRG 若對節目有任何意見與建議，請來信至： [email removed] 《現在旅行式》社群網站： 粉絲專頁- https://www.facebook.com/arrivendepart Instagram- @arrivendepart Twitter- @arrivendepart",
+        "truncated": false
+      },
+      "published_at": "Sun, 16 Aug 2020 23:21:36 GMT",
+      "feed_index": 16
+    }
+  ]
+}

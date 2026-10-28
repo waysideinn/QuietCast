@@ -1,0 +1,140 @@
+{
+  "show_id": "1575085310",
+  "feed_url": "http://www.ximalaya.com/album/50514636.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/50514636.xml",
+    "final_url": "http://www.ximalaya.com/album/50514636.xml",
+    "fetched_at": "2026-10-25T14:42:57.508100+00:00",
+    "status": 200,
+    "sha256": "797d01ff81561fb013cef1abf898f18e731af1cf22f6358a670f498401359ac0"
+  },
+  "status": "ok",
+  "title": {
+    "text": "满级大佬也要努力修仙",
+    "truncated": false
+  },
+  "description": {
+    "text": "景浦穿越就满级了，琴棋书画，样样精通，文韬武略，啥都行，但，很快景浦就发现，这里是一个修仙的世界！可为啥自己是个废材凡人，天下第一剑仙与天下第一刀圣，为了谁能给自己挑水劈柴而打架？还有那仙界第一圣女与妖界第一妖女,为了谁能早上给自己送早餐而吵架？",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 31,
+  "episodes": [
+    {
+      "id": "74763bb60235c27b3dfbed87902c5ce6aa5c0397fef1ea8d206c1464b7feb10f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5ddc-audiofreehighqps/DD/14/CKwRIJIEvH4QACmaygDE92rD.m4a",
+      "title": {
+        "text": "满级大佬也要努力修仙（第01章）",
+        "truncated": false
+      },
+      "description": {
+        "text": "大不了从头再来！",
+        "truncated": false
+      },
+      "published_at": "Thu, 08 Jul 2021 08:44:30 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "3f9f703d5444c26f74f9d68fdc0725dfec8d879d215b0faa07a156563ece077d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7764-audiofreehighqps/A5/59/CKwRIW4EqNgcACqxygC9vkri.m4a",
+      "title": {
+        "text": "满级大佬也要努力修仙（第05章）",
+        "truncated": false
+      },
+      "description": {
+        "text": "一直努力中！喜马小白！还请各位观众老爷批评指点！！",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Jun 2021 11:03:05 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "efdd917d886426a8aa873658262f59835859dbe57208f293131779c9740a3777",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3c75-audiofreehighqps/E3/74/CKwRIJEErgeeAEb0xgC_eyba.m4a",
+      "title": {
+        "text": "满级大佬也要努力修仙（第10章）",
+        "truncated": false
+      },
+      "description": {
+        "text": "继续加油！！",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Jun 2021 09:27:42 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "ae03736747271236480e72879d837f2facc6e6a96af097c8f8dba39a5648481a",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/50a3-audiofreehighqps/45/36/CKwRIMAEs0rDAD8e5wDBaY-v.m4a",
+      "title": {
+        "text": "满级大佬也要努力修仙（第14章）",
+        "truncated": false
+      },
+      "description": {
+        "text": "太忙了！！一天就睡4小时！！晕晕的！",
+        "truncated": false
+      },
+      "published_at": "Thu, 01 Jul 2021 09:15:27 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "886b4bdb4b4ea8badd43554cb24c01e7e0d7f4a2c4ba3ae7da4bbd7a89591ee7",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e0b9-audiofreehighqps/B2/E5/CKwRIJIEuEV3AEf0xwDDHSNW.m4a",
+      "title": {
+        "text": "满级大佬也要努力修仙（第18章)",
+        "truncated": false
+      },
+      "description": {
+        "text": "业余爱好！真的没时间啊！挣钱啊！",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Jul 2021 03:54:10 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "aec8028ac48abc868ff201ef28c926aa3f606fa303e36e8382461791a6d22b84",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ed83-audiofreehighqps/77/05/CKwRIW4Ew1X8ABAAAADHkBmV.mp3",
+      "title": {
+        "text": "满级大佬也要努力修仙（第22章）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 13 Jul 2021 13:20:06 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "29ca35e52f26a631f9f7a40d5f3fead2172a0e3dfad47ca2bbd519cca98a09b5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b3ff-audiofreehighqps/94/81/CKwRIMAFAX3SABAAAADduZya.mp3",
+      "title": {
+        "text": "满级大佬也要努力修仙（第27章）",
+        "truncated": false
+      },
+      "description": {
+        "text": "一直都没更，，、自己学习一下！！哪里不好！还请观众老爷批评指导！",
+        "truncated": false
+      },
+      "published_at": "Sun, 29 Aug 2021 16:50:40 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "7fec1cbc4e83bb323a1ec7a6fd8ba66785006ef004b4a6265ba8396155cb4e33",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2d17-audiofreehighqps/52/B0/CKwRIaIFHpJ4ADG6GQDlCjaG.m4a",
+      "title": {
+        "text": "满级大佬也要努力修仙（第31章）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 21 Sep 2021 22:00:00 GMT",
+      "feed_index": 30
+    }
+  ]
+}

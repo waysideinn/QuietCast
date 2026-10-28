@@ -1,0 +1,70 @@
+{
+  "show_id": "1647497900",
+  "feed_url": "https://feeds.soundon.fm/podcasts/9e02bd6f-bcd7-4e5b-aa6c-bee1550006e0.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/9e02bd6f-bcd7-4e5b-aa6c-bee1550006e0.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/9e02bd6f-bcd7-4e5b-aa6c-bee1550006e0.xml",
+    "fetched_at": "2026-10-25T14:44:48.661289+00:00",
+    "status": 200,
+    "sha256": "7aa9ed70417170fae594dca3f30594f4b48786e5b27ba19eb49791f3085c8fbf"
+  },
+  "status": "ok",
+  "title": {
+    "text": "沄川原創廣播劇",
+    "truncated": false
+  },
+  "description": {
+    "text": "沄川工作室是一間由不同地區、國籍的夥伴組成的有聲工作室，一同朝「讓接觸我們作品的聽眾能產生共鳴」的方向努力。 作品方向為原創廣播劇、二創有聲書、配音有聲漫畫等等，喜歡這類有聲作品的朋友歡迎關注我們喔～也歡迎各個華語地區的同好加入沄川一起成長。 我們將推出各類型的廣播劇例如：『百合GL』、『耽美BL』、『穿越』、『多元文化』等等，歡迎關注我們的Youtube頻道喔～ -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 3,
+  "episodes": [
+    {
+      "id": "ebc514e906e0768e9623fdf6dfdc3b860c411e85c79b22b3dd50dd39561bf7a6",
+      "guid": "04ca2526-132a-41c5-bfa8-eb1c91eac0d1",
+      "title": {
+        "text": "☁️ 沄川有聲－《有問題的女兒新年番外篇》｜願你有個大團圓的新年",
+        "truncated": false
+      },
+      "description": {
+        "text": "新年來到，欣怡一家忙著打掃迎接除夕…… 但監視器好像記錄著某些意外驚喜的來訪？ ――•―― 《有問題的女兒》正劇馬上聽 ➡️ https://bit.ly/3Xk1kzd ――•―― ［STAFF］ 編 劇 菜 姬 音 效 後 製 江月英 美 術 繪 師 Kalina ［CAST］ 黃 欣 怡 沉 檀 張 文 莉 南 安 吳 雯 鈴 希 尼 吳 凱 強 餅乾熊熊 ［劇中卡通］ 編 劇 烏克東東 怪獸-香菜魔人 鹽 巴 魔法少女-霍藍 酪梨不是蘿莉 魔法少女-金粉紅 Eva 德 瑩 ［音樂］ KenKenbgm啃君 https://www.youtube.com/@kenkenbgmk57… 108.アリバイ 165.Old Castle 232.夏の弦 242.暗い謎 264.マシュマロ ――•―― ∙☁️ 歡迎訂閱追蹤 ➤ https://linktr.ee/yunchuan202202",
+        "truncated": false
+      },
+      "published_at": "Sat, 01 Apr 2023 11:24:11 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1097e0e8f6d62310cc97ff183aeba5984b7142d9c36a493615bbaf3592d87566",
+      "guid": "9b11dceb-823a-40ac-a748-ee74bcd69e3d",
+      "title": {
+        "text": "☁️ 沄川有聲－全一期現代懸疑廣播劇《有問題的女兒》",
+        "truncated": false
+      },
+      "description": {
+        "text": "細碎的哭吟，是誰的渴求？ 真相一幕幕閃過，卻又一次次躲藏。 看似童言無忌的話語，藏著誰也不敢想像的秘密…… 「我們⋯⋯都會死掉的——」 《有問題女兒》全一期原創現代懸疑廣播劇 ——有問題的人，到底是誰呢？ ――•―― ［STAFF］ 策 劃｜江月英 導 演｜鳶閆 編 劇｜菜姬 音效後製｜Jui Jui 美術繪師｜MU 視覺設計｜MU 影像後製｜夜離 宣傳企劃｜江月英、Tobey、zzTajuhn 行銷協力｜夜雨時、阿九 出 品｜沄川工作室 YUNCHUAN Studio ［CAST］ 黃 欣怡｜沉檀 張 文莉｜南安 吳 雯鈴｜希尼 吳 凱強｜餅乾熊熊 體育老師｜老德 同學Ａ、電視主播｜Golf 同學Ｂ、鄰居Ｂ｜三梅 鄰 居Ａ｜阿宗 報 幕｜希尼 ――•―― ∙☁️ 歡迎訂閱追蹤 ➤ https://linktr.ee/yunchuan202202",
+        "truncated": false
+      },
+      "published_at": "Sat, 01 Apr 2023 11:21:16 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "cbf73cc6c3cdf78628655f1d260a5c04c844a42f88ef254d8510f2f9524e7cd3",
+      "guid": "b20f863e-0c8f-461e-b1e2-5bd7ea2af13f",
+      "title": {
+        "text": "『百合廣播劇』全一期原創百合廣播劇《插翅難飛》[ 沄川有聲工作室出品 ]",
+        "truncated": false
+      },
+      "description": {
+        "text": "∙ ☁️ 關於《插翅難飛》 昏黑的夜色將樹林蒙上一層可怕的氛圍。 我小心翼翼的躲藏在森林裡的一隅，祈禱著可以不被發現。 「小寶貝快出來--」 「妳還想跟我玩躲貓貓呀，真壞--」 「妳逃不掉的--」 殘酷的現實打破了我的希望，我聽到遠處傳來了那個女人戲謔的呼喚聲。 必須在她找到我之前逃走才行，不然的話…… ――·―― ∙ ☁️ 《插翅難飛》全體工作人員 ［STAFF］ 製作 沄川文化工作室 廣播劇導演 鳶閆 編劇 菜瓜不 策劃 睿 音效後製 夜深 影像後製 夜離 美術繪師 白怪、花生、zzTajuhn 視覺設計 唐赫 ［CAST］ 顏 湘 駱彤 顧 晴 水晶 小嘍囉甲 公主 小嘍囉乙 冰焰 小嘍囉丙 皮雷諾 ［宣傳行銷］ 直播美術 白怪、zzTajuhn、 唐赫 宣傳企劃 裂帛、zzTajuhn 影像製作 夜離、zzTajuhn、蠱醉君生 音聲呈現 瓜叔、zzTajuhn",
+        "truncated": false
+      },
+      "published_at": "Sun, 26 Jun 2022 04:00:00 GMT",
+      "feed_index": 2
+    }
+  ]
+}

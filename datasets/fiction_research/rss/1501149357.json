@@ -1,0 +1,139 @@
+{
+  "show_id": "1501149357",
+  "feed_url": "https://papi.qingting.fm/podcast/channels/10290",
+  "source": {
+    "url": "https://papi.qingting.fm/podcast/channels/10290",
+    "final_url": "https://papi.qingting.fm/podcast/channels/10290",
+    "fetched_at": "2026-10-25T14:49:39.805668+00:00",
+    "status": 200,
+    "sha256": "da0391ab39b8d290f55d4ee84f13da5a338deebb3cd2f54195815c99abea4cdb"
+  },
+  "status": "ok",
+  "title": {
+    "text": "宇宙乘客 Universal Residents",
+    "truncated": false
+  },
+  "description": {
+    "text": "这是一档建立在七个小时时差之上的跨国实验播客，一端位于中国，一端位于西班牙。若将人生当作一张有效期不等的地球临时签证，那么每个人都将成为宇宙的临时乘客：入境日期已知，离境时刻待定。在变幻的未知图景中，两位临时乘客借助科技跨越距离，分享在地球两端观察到的文化细节，探讨充满可能性的未来生活方式。 This is a multinational experimental podcast based on a time difference of seven hours, with one side in China and the other in Spain. In the changing global situation, two universal residents are using the technology to share cultural details of the Earth Village. We are looking forward to welcoming you to join us and explore the possible future lifestyles beyond the limitation of space and time.",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "explicit": "false"
+  },
+  "feed_item_count": 152,
+  "episodes": [
+    {
+      "id": "49e5bbdd142d0f70d0762097a2aa3be95e3d7fde3bc3b79d9fe4bcf06cddf0a3",
+      "guid": "35027713",
+      "title": {
+        "text": "vol.149 重返巴厘岛：对当下有耐心，对未来有信心",
+        "truncated": false
+      },
+      "description": {
+        "text": "忘记错误，忘记失败，忘记一切，只记住你现在要做什么并付诸行动，今天就是你的幸运日。无需多言，朋友们，If you want to go far in life, learn to be bored, silent and alone. 我会一直在这里，陪伴你。",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Oct 2026 17:52:13 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "910d50ede6500e55c7a846c370a819211fe988dc46566e5f21b5b134902223f0",
+      "guid": "32479560",
+      "title": {
+        "text": "vol.128 32岁辞职，人生没有重启，也尚未完蛋",
+        "truncated": false
+      },
+      "description": {
+        "text": "春节后的第一期节目，也是我把节目重新带回对谈形式的第一期。这次回归，我想用更真实，也更锋利一点的方式，和身边真实的人好好聊一聊。我们聊的不是如何赢得比赛，而是如何真实地活着。那些来自真实生活的普通人，他们的选择，代价，挣扎和快乐，本身就足够有力量。感谢大家的收听和支持。",
+        "truncated": false
+      },
+      "published_at": "Fri, 27 Feb 2026 10:35:23 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "0efdf37e88d1f533810bafebba474b487269fbeeefcff7b5e4c58f0758024b5a",
+      "guid": "29266834",
+      "title": {
+        "text": "vol.111 要强的你，其实不必这么努力",
+        "truncated": false
+      },
+      "description": {
+        "text": "这些年，我一直拼命，一直拧巴，也在一直在治愈自己，但我的恐惧一直没有离去，但是当听友都开始告诉我：你对自己太苛刻了，你需要放松的时候，我才真正意识到，这是个需要解决的问题了。从我的父母，到我，我们都活的太用力了，我甚至因为这五年我自己进步太慢而感到非常生气。这种远远不够，不断进步的状态，让我习惯了持久且无尽的内在焦虑和压力。",
+        "truncated": false
+      },
+      "published_at": "Fri, 11 Apr 2025 05:22:01 GMT",
+      "feed_index": 43
+    },
+    {
+      "id": "d4d38ca89741541340426530491d40f77e5ecd6224fe42295770c1c77fe047f0",
+      "guid": "27677500",
+      "title": {
+        "text": "vol.92 成为女儿，是一件比想象中艰难许多倍的事情",
+        "truncated": false
+      },
+      "description": {
+        "text": "东亚女儿的自由与羁绊。",
+        "truncated": false
+      },
+      "published_at": "Tue, 24 Sep 2024 15:04:38 GMT",
+      "feed_index": 65
+    },
+    {
+      "id": "f48fca63d763d02780e1890fb7ca4d667bd612f06991aee01dbad26390598695",
+      "guid": "24434674",
+      "title": {
+        "text": "vol.74 你的找寻正在寻找你",
+        "truncated": false
+      },
+      "description": {
+        "text": "如何从「女本位」和「我本位」的角度思考问题，需要练习，也可以从她人的故事中借鉴自己可以学习的经验；",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 May 2023 04:07:44 GMT",
+      "feed_index": 86
+    },
+    {
+      "id": "dce778be805ae25630944a8e9b7600b1e03c17308b34206a2a59669aaae7c9c0",
+      "guid": "18313184",
+      "title": {
+        "text": "vol.48 全世界都在以不同的方式寻找幸福",
+        "truncated": false
+      },
+      "description": {
+        "text": "在 Ale 的文章：《跟人交流，像玩儿拼图一样》，他说：「在我看来，他们似乎会呈现我的信仰：全世界的人都在以不同的方式而寻找幸福呢；尽管文化的差异，我们是可以互相理解的、交流彼此的经验。」 虽然我们在录制节目前从未在现实中见过，但看到这一句话，我们就认为彼此是可以沟通的、可以理解的，于是有了这一期节目。这是我们第一次和 Ale 沟通的全记录，即使困难重重，也要保持对话。",
+        "truncated": false
+      },
+      "published_at": "Sat, 19 Jun 2021 16:08:30 GMT",
+      "feed_index": 108
+    },
+    {
+      "id": "482767d0c270e7d504fe21d99ade0c76d48e1dfdbd087e9b79a4841975cfe495",
+      "guid": "16334908",
+      "title": {
+        "text": "vol.26 生命是时时刻刻不知如何是好",
+        "truncated": false
+      },
+      "description": {
+        "text": "木心先生在书籍《哥伦比亚的倒影》中写道：「生命是什么呢，生命是时时刻刻不知如何是好。」他在 56 岁出国去纽约，生存压力甚于年轻人，若是连木心先生都有那样的勇气去看世界，我们也愿意陪着你一起多走走、看看。 这是我们的第 26 期节目，致老朋友：谢谢你还在这里；致新朋友：非常高兴终于等到你。",
+        "truncated": false
+      },
+      "published_at": "Sat, 24 Oct 2020 02:36:03 GMT",
+      "feed_index": 129
+    },
+    {
+      "id": "1a30eaa4e46ec9b5a91bbae505bd7e22c07ee9035a0f13209c42a83268c32175",
+      "guid": "14251850",
+      "title": {
+        "text": "vol.01 宇宙欢迎指南",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播 MT 和小姨相识于北京，周游在伦敦，在一分半钟的开场曲之后，我们会正式开始第一期节目：宇宙欢迎指南。共同聊聊「宇宙乘客」这档播客的产生背景以及建立一种全球生活方式的可能性。播客作为生活中的一种声音陪伴，曾经给予我们启发与勇气，如今借助科技的力量，我们位于相隔 9864 公里的地球两端，将共同录制的音频文件放入同一个轨道，通过电波记录并讨论我们在不同社会中观察到的事物。",
+        "truncated": false
+      },
+      "published_at": "Fri, 14 Feb 2020 15:08:35 GMT",
+      "feed_index": 151
+    }
+  ]
+}

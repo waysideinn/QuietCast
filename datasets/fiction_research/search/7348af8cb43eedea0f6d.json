@@ -1,0 +1,313 @@
+{
+  "group": "boundary",
+  "term": "真实故事",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:46:34.046188+00:00",
+    "status": 200,
+    "sha256": "d500b533488e1d1a4bda6b39b725b877437f39e98dd19226c737158b11521a7a"
+  },
+  "result_count": 13,
+  "records": [
+    {
+      "collectionId": 1546801105,
+      "trackId": 1546801105,
+      "collectionName": "真故编辑部",
+      "artistName": "真实故事计划",
+      "feedUrl": "http://www.ximalaya.com/album/45183550.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%9C%9F%E6%95%85%E7%BC%96%E8%BE%91%E9%83%A8/id1546801105?uo=4",
+      "genres": [
+        "情感与人际关系",
+        "播客",
+        "社会与文化",
+        "休闲",
+        "爱好"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 21,
+      "releaseDate": "2025-04-09T03:04:00Z",
+      "country": "CHN",
+      "primaryGenreName": "情感与人际关系"
+    },
+    {
+      "collectionId": 1205474193,
+      "trackId": 1205474193,
+      "collectionName": "故事酒吧（陈光陈家恒主役）：真实故事换治愈之酒",
+      "artistName": "程涵729",
+      "feedUrl": "http://www.ximalaya.com/album/6419801.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%95%85%E4%BA%8B%E9%85%92%E5%90%A7-%E9%99%88%E5%85%89%E9%99%88%E5%AE%B6%E6%81%92%E4%B8%BB%E5%BD%B9-%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B%E6%8D%A2%E6%B2%BB%E6%84%88%E4%B9%8B%E9%85%92/id1205474193?uo=4",
+      "genres": [
+        "个人日记",
+        "播客",
+        "社会与文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 426,
+      "releaseDate": "2019-04-26T08:45:00Z",
+      "country": "CHN",
+      "primaryGenreName": "个人日记"
+    },
+    {
+      "collectionId": 1707504271,
+      "trackId": 1707504271,
+      "collectionName": "上海滩的名妓生涯｜根据上海滩名妓的真实故事改编",
+      "artistName": "君道明学",
+      "feedUrl": "https://www.ximalaya.com/album/77978053.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%8A%E6%B5%B7%E6%BB%A9%E7%9A%84%E5%90%8D%E5%A6%93%E7%94%9F%E6%B6%AF-%E6%A0%B9%E6%8D%AE%E4%B8%8A%E6%B5%B7%E6%BB%A9%E5%90%8D%E5%A6%93%E7%9A%84%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B%E6%94%B9%E7%BC%96/id1707504271?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 128,
+      "releaseDate": "2024-09-15T04:35:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1865332335,
+      "trackId": 1865332335,
+      "collectionName": "留学故事慧丨关于成长的真实故事",
+      "artistName": "西学千万里",
+      "feedUrl": "https://www.ximalaya.com/album/38773980.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%95%99%E5%AD%A6%E6%95%85%E4%BA%8B%E6%85%A7%E4%B8%A8%E5%85%B3%E4%BA%8E%E6%88%90%E9%95%BF%E7%9A%84%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B/id1865332335?uo=4",
+      "genres": [
+        "自我完善",
+        "播客",
+        "教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304"
+      ],
+      "trackCount": 129,
+      "releaseDate": "2026-10-10T03:07:00Z",
+      "country": "CHN",
+      "primaryGenreName": "自我完善"
+    },
+    {
+      "collectionId": 1874774871,
+      "trackId": 1874774871,
+      "collectionName": "八方斋·干活听 | 真实故事·历史点滴",
+      "artistName": "bafangzhaizhu",
+      "feedUrl": "https://www.ximalaya.com/album/58598479.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%AB%E6%96%B9%E6%96%8B-%E5%B9%B2%E6%B4%BB%E5%90%AC-%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B-%E5%8E%86%E5%8F%B2%E7%82%B9%E6%BB%B4/id1874774871?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 549,
+      "releaseDate": "2026-08-27T01:04:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1532017519,
+      "trackId": 1532017519,
+      "collectionName": "青春不败|笑谈真实故事背后的现实",
+      "artistName": "学姐小李",
+      "feedUrl": "http://www.ximalaya.com/album/41623140.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%9D%92%E6%98%A5%E4%B8%8D%E8%B4%A5-%E7%AC%91%E8%B0%88%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B%E8%83%8C%E5%90%8E%E7%9A%84%E7%8E%B0%E5%AE%9E/id1532017519?uo=4",
+      "genres": [
+        "个人日记",
+        "播客",
+        "社会与文化",
+        "电视与电影",
+        "节目漫谈"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1309",
+        "1562"
+      ],
+      "trackCount": 67,
+      "releaseDate": "2026-10-13T14:02:00Z",
+      "country": "CHN",
+      "primaryGenreName": "个人日记"
+    },
+    {
+      "collectionId": 1883295554,
+      "trackId": 1883295554,
+      "collectionName": "【嚎叫派对】30+女性真实故事与社会热点",
+      "artistName": "我是小狼 和 神奇小七",
+      "feedUrl": "https://feed.xyzfm.space/gthe7lwefjnt",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%9A%8E%E5%8F%AB%E6%B4%BE%E5%AF%B9-30-%E5%A5%B3%E6%80%A7%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A%E7%83%AD%E7%82%B9/id1883295554?uo=4",
+      "genres": [
+        "休闲",
+        "播客"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2026-10-07T15:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "休闲"
+    },
+    {
+      "collectionId": 6810171503,
+      "trackId": 6810171503,
+      "collectionName": "DeepEvolutions｜企业AI真实故事",
+      "artistName": "Toni｜DeepEvolutions",
+      "feedUrl": "https://www.ximalaya.com/album/130997734.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/deepevolutions-%E4%BC%81%E4%B8%9Aai%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B/id6810171503?uo=4",
+      "genres": [
+        "创业",
+        "播客",
+        "商务"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-10-07T15:28:00Z",
+      "country": "CHN",
+      "primaryGenreName": "创业"
+    },
+    {
+      "collectionId": 1822242840,
+      "trackId": 1822242840,
+      "collectionName": "月半怪谈|真实灵异故事|鬼压床|恐怖悬疑",
+      "artistName": "月半怪谈",
+      "feedUrl": "https://feed.xyzfm.space/yrnnkf9lr789",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9C%88%E5%8D%8A%E6%80%AA%E8%B0%88-%E7%9C%9F%E5%AE%9E%E7%81%B5%E5%BC%82%E6%95%85%E4%BA%8B-%E9%AC%BC%E5%8E%8B%E5%BA%8A-%E6%81%90%E6%80%96%E6%82%AC%E7%96%91/id1822242840?uo=4",
+      "genres": [
+        "休闲",
+        "播客"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 11,
+      "releaseDate": "2025-10-01T05:24:00Z",
+      "country": "CHN",
+      "primaryGenreName": "休闲"
+    },
+    {
+      "collectionId": 1763539749,
+      "trackId": 1763539749,
+      "collectionName": "中国刑侦大案纪实|真实案件|案件侦破实录",
+      "artistName": "大庞说故事",
+      "feedUrl": "https://www.ximalaya.com/album/78088550.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%AD%E5%9B%BD%E5%88%91%E4%BE%A6%E5%A4%A7%E6%A1%88%E7%BA%AA%E5%AE%9E-%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BB%B6-%E6%A1%88%E4%BB%B6%E4%BE%A6%E7%A0%B4%E5%AE%9E%E5%BD%95/id1763539749?uo=4",
+      "genres": [
+        "犯罪纪实",
+        "播客"
+      ],
+      "genreIds": [
+        "1488",
+        "26"
+      ],
+      "trackCount": 123,
+      "releaseDate": "2024-04-08T08:01:00Z",
+      "country": "CHN",
+      "primaryGenreName": "犯罪纪实"
+    },
+    {
+      "collectionId": 1773890301,
+      "trackId": 1773890301,
+      "collectionName": "灵澜诡卷语|灵异怪谈录故事集|睡前恐怖夜话试胆真实",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/83845731.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%81%B5%E6%BE%9C%E8%AF%A1%E5%8D%B7%E8%AF%AD-%E7%81%B5%E5%BC%82%E6%80%AA%E8%B0%88%E5%BD%95%E6%95%85%E4%BA%8B%E9%9B%86-%E7%9D%A1%E5%89%8D%E6%81%90%E6%80%96%E5%A4%9C%E8%AF%9D%E8%AF%95%E8%83%86%E7%9C%9F%E5%AE%9E/id1773890301?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "健康与健身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 347,
+      "releaseDate": "2025-01-24T03:34:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1772528638,
+      "trackId": 1772528638,
+      "collectionName": "犯罪大案纪实丨真实案件",
+      "artistName": "曲艺大剧院",
+      "feedUrl": "https://www.ximalaya.com/album/78299597.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E6%A1%88%E7%BA%AA%E5%AE%9E%E4%B8%A8%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BB%B6/id1772528638?uo=4",
+      "genres": [
+        "犯罪纪实",
+        "播客"
+      ],
+      "genreIds": [
+        "1488",
+        "26"
+      ],
+      "trackCount": 315,
+      "releaseDate": "2024-04-01T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "犯罪纪实"
+    },
+    {
+      "collectionId": 1723638369,
+      "trackId": 1723638369,
+      "collectionName": "【免费】匪夷所思怪谈社｜短故事集｜奇闻｜真实",
+      "artistName": "乔居蓝星的猫儒",
+      "feedUrl": "https://www.ximalaya.com/album/79698731.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E5%8C%AA%E5%A4%B7%E6%89%80%E6%80%9D%E6%80%AA%E8%B0%88%E7%A4%BE-%E7%9F%AD%E6%95%85%E4%BA%8B%E9%9B%86-%E5%A5%87%E9%97%BB-%E7%9C%9F%E5%AE%9E/id1723638369?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "休闲",
+        "爱好"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 51,
+      "releaseDate": "2024-01-30T16:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    }
+  ]
+}

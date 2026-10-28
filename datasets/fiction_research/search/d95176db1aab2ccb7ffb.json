@@ -1,0 +1,37 @@
+{
+  "group": "fiction",
+  "term": "完结小说",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%AE%8C%E7%BB%93%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%AE%8C%E7%BB%93%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:42:17.342755+00:00",
+    "status": 200,
+    "sha256": "ae32bf5a0a427e6b825637c0e16a1b54d00df2a1129f5cf5bb81035ae7d23b31"
+  },
+  "result_count": 1,
+  "records": [
+    {
+      "collectionId": 1684406211,
+      "trackId": 1684406211,
+      "collectionName": "轮回劫：花若殇【粤语】古风玄幻言情小说|甜宠完结",
+      "artistName": "车理有声",
+      "feedUrl": "https://www.ximalaya.com/album/67975280.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%BD%AE%E5%9B%9E%E5%8A%AB-%E8%8A%B1%E8%8B%A5%E6%AE%87-%E7%B2%A4%E8%AF%AD-%E5%8F%A4%E9%A3%8E%E7%8E%84%E5%B9%BB%E8%A8%80%E6%83%85%E5%B0%8F%E8%AF%B4-%E7%94%9C%E5%AE%A0%E5%AE%8C%E7%BB%93/id1684406211?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 107,
+      "releaseDate": "2022-11-30T12:54:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    }
+  ]
+}

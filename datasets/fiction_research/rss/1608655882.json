@@ -1,0 +1,140 @@
+{
+  "show_id": "1608655882",
+  "feed_url": "http://www.ximalaya.com/album/52438097.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/52438097.xml",
+    "final_url": "http://www.ximalaya.com/album/52438097.xml",
+    "fetched_at": "2026-10-25T14:43:45.757969+00:00",
+    "status": 200,
+    "sha256": "716d84bb7eaa101a15f5090b9435c8fb6238db23219e6243f288f38acab51fb3"
+  },
+  "status": "ok",
+  "title": {
+    "text": "和你错过的旧时光｜精品免费多人有声剧｜校园青春言情",
+    "truncated": false
+  },
+  "description": {
+    "text": "“逗你呢，你还真信？！” 一句不经意的玩笑话，最终成了他与她彼此误会，一再错过，甚至天人永隔的不详预言。 “杜裳，你欠我的！” 是他心中永远无法释怀的伤痛。 “你在哪里，我就在哪里！” 是他们深深相爱的誓言。 她遵守承诺追随他，守望他。而又是谁始终追随着她，守望着她？ 谁也没有想到，高二时的一场豪赌，居然持续了十二年。 他貌似顽劣的外表下，竟然是一颗温柔细腻的心； 他飞扬跋扈的背后，竟有着那般的隐忍和坚持。 她何其幸运，春华烁烁，两厢情长，一生终难忘； 她何其不幸，北风瑟瑟，千里孤坟，无处话凄凉。 她又何其甚幸，一个人亏欠她的，有另一个人来补偿，包括爱情…… 青春经历了痛与伤，让我们明白什么是真正的爱； 爱情经历了失去和错过，才让我们懂得幸福的珍贵。 年少时毫不在意的，也许以后就是你一生的回忆； 当初我们随随便便放弃的，也许是你多年以后拼命想抓在手里的。 是错过，还是缘本注定？ 或许，一切都是最好的安排。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 114,
+  "episodes": [
+    {
+      "id": "39de23757866cd3951567a23f73b3af3c66dda3b2bf5631c6f029569af2820cd",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/bb3e-audiofreehighqps/6F/6F/CKwRIaIE-qmkAEYxegDbt0qp-aacv2-48K.m4a",
+      "title": {
+        "text": "和你错过的旧时光 001 擦肩（快来关注筱配吧）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 24 Aug 2021 12:31:18 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "bcb546847130c6ebc4ad63e90073605a514669a400eca1ca9689dfafd3da5dc4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c8a1-audiofreehighqps/FE/C9/CKwRIasFD5d0ADvGywDhV7Oh-aacv2-48K.m4a",
+      "title": {
+        "text": "和你错过的旧时光 017 回不去的旧时光2",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Sep 2021 09:30:05 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "0b08a02984ac6fa15e03c84271e084a654b8e900261df977f87582129e3e7fb7",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a1d6-audiofreehighqps/79/1D/CKwRIaIFH2miADy5GADlNpMs-aacv2-48K.m4a",
+      "title": {
+        "text": "和你错过的旧时光 033 我的青春记忆里都是你13（中秋节爆更3集）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 21 Sep 2021 09:30:05 GMT",
+      "feed_index": 32
+    },
+    {
+      "id": "9c8f9cc9437bcf36d98a21f4f8c2c3d8509560622243ca311fdaaa366b9646c2",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b0d6-audiofreehighqps/86/0D/CKwRIUEFMd6zAEAujgDpnx2M.m4a",
+      "title": {
+        "text": "和你错过的旧时光 049 十二年前的那场豪赌3",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Oct 2021 09:30:07 GMT",
+      "feed_index": 48
+    },
+    {
+      "id": "0aed8ad56adb0a4b0cdb760b5cbd1532c269b2ac60d58fcb79df908c64c8dfb6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e2df-audiofreehighqps/EE/51/CKwRIaIFSEgPAD9xIADvK7tH-aacv2-48K.m4a",
+      "title": {
+        "text": "和你错过的旧时光 066 我要弥补我们错过的青春1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Oct 2021 09:30:12 GMT",
+      "feed_index": 65
+    },
+    {
+      "id": "b47ba8f3432b7a2c436bde1e3b59762950077df5a6b8f791b4bd8f4e81ecba19",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e70e-audiofreehighqps/55/11/CKwRIJIFXWBQAD0ORAD0vEIb-aacv2-48K.m4a",
+      "title": {
+        "text": "和你错过的旧时光 082 谁说她结婚了？！（3）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 Nov 2021 09:30:10 GMT",
+      "feed_index": 81
+    },
+    {
+      "id": "e5a729f0ce6bd1b5a309c5ec725d94d8ed81dea73d8cfcbe0a86c5a1ce894b4f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4661-audiofreehighqps/56/A2/GKwRINsFZprLAEMBBQD3JUfO-aacv2-48K.m4a",
+      "title": {
+        "text": "和你错过的旧时光 098 安琪的计谋3",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 14 Nov 2021 09:30:08 GMT",
+      "feed_index": 97
+    },
+    {
+      "id": "0cea38885b720b15b3815717c8f8444185d1d8802d262a48e51d6d8a78643b38",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/672b-audiofreehighqps/86/EF/GKwRIUEFbTHyADKQfwD4_qag.m4a",
+      "title": {
+        "text": "《岁月霜满头，也算是白首》 友人 跋（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Nov 2021 09:30:09 GMT",
+      "feed_index": 113
+    }
+  ]
+}

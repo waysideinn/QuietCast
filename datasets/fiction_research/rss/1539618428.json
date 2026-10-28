@@ -1,0 +1,140 @@
+{
+  "show_id": "1539618428",
+  "feed_url": "http://www.ximalaya.com/album/43233370.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/43233370.xml",
+    "final_url": "http://www.ximalaya.com/album/43233370.xml",
+    "fetched_at": "2026-10-25T14:51:11.763091+00:00",
+    "status": 200,
+    "sha256": "c8bc394dfd7525845cee8430e45ee80ecb396385202eedc676ac216ad3473036"
+  },
+  "status": "ok",
+  "title": {
+    "text": "盗墓神兵|这是一本盗墓贼的手记",
+    "truncated": false
+  },
+  "description": {
+    "text": "他是最后一代海捞者（深海摸金校尉）， 2021老刘摸金新作：蜃海诡影，戳这里去听 【内容简介】 一流的风水师，一流的盗墓高手，一流的雇佣兵，组成了一支世界顶尖级的盗墓团队，野心勃勃的威廉家族，以科学考察的名义踏进了中国大陆，他们曾经成功的盗窃了金字塔，这次他们能成功吗？ 这是一个全新的盗墓时代，现代的高科技能对付古老的机关玄术吗？可以肯定的说，古人的智慧永远不是我们想象的那么简单，他们踏入地下王陵的那一刻，就踏入了地狱之门，",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 271,
+  "episodes": [
+    {
+      "id": "0168bbb632ace8a850d7f688538e4000567c979847dc8dfd8a5495e5d4e5ea8e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ede0-audiofreehighqps/13/76/CMCoOR4DbwVsAJk6iQBhX5Pp-aacv2-48K.m4a",
+      "title": {
+        "text": "盗墓神兵01—二十年前的事儿",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 28 Oct 2020 10:03:36 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "6c6b80ebfc263a8456fb0b2a49bfe9a6577b693b364aa9c92fd3ad8a485dc8d5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/46c9-audiofreehighqps/00/EA/CMCoOSIDhRoxAGchOwBmxhvn-aacv2-48K.m4a",
+      "title": {
+        "text": "盗墓神兵040—黑洞",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 Nov 2020 04:03:44 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "e2012d62ef52082bdc54ad3066cd4b449755ce908544c2d2e7418cc269d69a9a",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a9ed-audiofreehighqps/DD/7D/CMCoOSEDpP3DAGBWnQBvJ0WB-aacv2-48K.m4a",
+      "title": {
+        "text": "盗墓神兵078—血隐图",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 08 Dec 2020 08:34:57 GMT",
+      "feed_index": 77
+    },
+    {
+      "id": "6bb426bf06569cd57bf20cd79f17e741b68e24670e9d154c7d9661ad4bfe24e0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/911b-audiofreehighqps/F1/11/CMCoOSQDw12BAFbyyAB2zeey-aacv2-48K.m4a",
+      "title": {
+        "text": "盗墓神兵117—活死人",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 03 Jan 2021 01:02:01 GMT",
+      "feed_index": 116
+    },
+    {
+      "id": "c26454ceef032bb3cb2416b3180b84caeefbf4a3ecbe09294b21efad76fd9efc",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/49c0-audiofreehighqps/52/D3/CKwRIDoD4ZUUAF8cWgB-3oqw-aacv2-48K.m4a",
+      "title": {
+        "text": "盗墓神兵155—吊死鬼",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 Jan 2021 07:36:34 GMT",
+      "feed_index": 154
+    },
+    {
+      "id": "8c6f3217311f52e7e70d52107cf4f51310c2dfc434b6ca59b5dcb416a9214751",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b903-audiofreehighqps/B1/DF/CKwRIaID9tIVAGeoUQCFkxsy-aacv2-48K.m4a",
+      "title": {
+        "text": "盗墓神兵194—磊子墓",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 12 Feb 2021 01:01:56 GMT",
+      "feed_index": 193
+    },
+    {
+      "id": "c3da40e59b38959a6e72a62949f13781cfc88795fd2b02f2f7924455d8028972",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7773-audiofreehighqps/DA/21/CKwRIaIEFLjIAFo5PwCN5PjQ-aacv2-48K.m4a",
+      "title": {
+        "text": "盗墓神兵232—藏甲秘术",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 03 Mar 2021 02:34:31 GMT",
+      "feed_index": 231
+    },
+    {
+      "id": "e4698e6c0038c23ba8755c2fde2bd3ab37b4ded9e7a2b3cbb4280fb6a8603ea1",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4104-audiofreehighqps/9F/A1/CKwRIMAEMbXoAAcP4QCWe2NB-aacv2-48K.m4a",
+      "title": {
+        "text": "我的新书《夷陵异事》今天已发布（快来关注订阅吧）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 25 Mar 2021 02:18:14 GMT",
+      "feed_index": 270
+    }
+  ]
+}

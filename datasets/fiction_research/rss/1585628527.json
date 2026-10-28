@@ -1,0 +1,140 @@
+{
+  "show_id": "1585628527",
+  "feed_url": "http://www.ximalaya.com/album/40737756.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/40737756.xml",
+    "final_url": "http://www.ximalaya.com/album/40737756.xml",
+    "fetched_at": "2026-10-25T14:53:56.417633+00:00",
+    "status": 200,
+    "sha256": "d23685e405fcae3f9a33be77d8398f9ef5dde8020b74fbafa586b3d7ed53d971"
+  },
+  "status": "ok",
+  "title": {
+    "text": "老小虎诡事录丨恐怖悬疑精品多人剧",
+    "truncated": false
+  },
+  "description": {
+    "text": "多人精品短篇恐怖悬疑故事集本专辑由喜马拉雅大学优秀主播联袂打造。==============================================老小虎诡事录的每一个故事，都鞭挞着人的内心，是善是恶，往往只在一个细微的动作，便可改变自己或者他人的命运。本部专辑，带您走进，不一样的恐怖气氛当中，揭秘比鬼更可怕的嘴脸，许多故事都是作者亲身经历。最后奉劝大家一句：勿以恶小而为之，也许，下一个故事的主角就是你……==============================================演员表：（除出场率最高的三位其他排名不分先后）Chilli女王大民播讲陆小泗妖魔鬼怪丶黑金今夜没有岗甜涩涩EmilyNJ小狸百变关音教英语的大沙伦儿__风语者__狐耳先生岚岛飘然zy浅笑_Alpha水飞烟落鲜于天籁柠檬茶香槟徐小k玉米玉米大玉米老彩故事会柏成夜语离曼夭鸿雁书场旗遇记",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 31,
+  "episodes": [
+    {
+      "id": "aff29e1fae293bb0ce25079c07a6e58cee29116661bbab55275ad5c119195500",
+      "guid": "https://aod.cos.tx.xmcdn.com/group87/M01/75/98/wKg5IV8xLpKxKd-CAI2y-8WHmYI610.m4a",
+      "title": {
+        "text": "烟雾拼凑的女人（新书上架！求订阅评论转发！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "你抽烟吗？ 你会在午夜抽烟吗？ 如果午夜抽烟的时候... 你喷出的烟雾... 会形成一张人脸... 你会不会害怕？... =================== 本集CV： Chilli女王 狐耳先生 妖魔鬼怪丶黑金",
+        "truncated": false
+      },
+      "published_at": "Mon, 10 Aug 2020 11:24:30 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "068fb2862e01d54fde9afe293be8b0eda07ea141f2d41d7fc687040d819801cb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group82/M02/B1/07/wKg5HF82iUXAKB-3AJRC4fQbCeg028.m4a",
+      "title": {
+        "text": "他看见了谁（天理循环，报应不爽）",
+        "truncated": false
+      },
+      "description": {
+        "text": "CV：Chilli女王 柏成夜语 岚岛",
+        "truncated": false
+      },
+      "published_at": "Fri, 14 Aug 2020 12:00:28 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "7b8a5acdb1e4a1c7e518da6882a097af410b592d9e38c952f435850b7c9d43de",
+      "guid": "https://aod.cos.tx.xmcdn.com/group82/M04/F6/55/wKg5Il89FNvyhhgaAKNaVDivAXQ089.m4a",
+      "title": {
+        "text": "欺疯骗傻（傻子是那么好欺负的吗？）",
+        "truncated": false
+      },
+      "description": {
+        "text": "CV表： 大民播讲 鲜于天籁 柏成夜语 徐小k 离曼夭 风语者 玉米玉米大玉米",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Aug 2020 12:00:23 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "64f21348879936b0f57f7bb24e227b90d7e0a6869b71874c17b307bfbeecc3d1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group86/M01/33/39/wKg5IF9CW7bg5YflALijsANPYZA834.m4a",
+      "title": {
+        "text": "争命（请向对轨致敬！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "CV表： 飘然 柏成夜语 百变关音 大民播讲 陆小泗 徐小k 老彩故事会 柠檬茶香槟 狐耳先生 夏夜晓繁星 岚岛 玉米玉米大玉米 Chilli女王",
+        "truncated": false
+      },
+      "published_at": "Sun, 23 Aug 2020 12:00:14 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "0a9d8a0980e650508670acd430f7096bd805ae439de9a4272be1024ad75c0914",
+      "guid": "https://aod.cos.tx.xmcdn.com/group82/M0B/6B/44/wKg5Il9HoSHRYIGWAIhQIsmmf14144.m4a",
+      "title": {
+        "text": "房东的石英钟（你租过房子吗？）",
+        "truncated": false
+      },
+      "description": {
+        "text": "CV表： Chilli女王 岚岛 陆小泗 玉米玉米大玉米",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 Aug 2020 12:00:14 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "0d93c50bd6b0e1c421c30fd1b628af9b020dbd419881d8bc5eb8a55a9e4ca48d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/67f4-audiofreehighqps/0E/C1/CMCoOSQDIqnHAK8sxgBQZHdI.m4a",
+      "title": {
+        "text": "讨饭娃娃（别看不起讨饭的）",
+        "truncated": false
+      },
+      "description": {
+        "text": "CV表： Chilli女王 大民播讲 陆小泗 风语者 玉米玉米大玉米 飘然",
+        "truncated": false
+      },
+      "published_at": "Mon, 31 Aug 2020 12:00:13 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "c44335a18d4cf1d6f7051f38fb53d3f80eb794f0ab1708c9f2eb21427ed1f89c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d72e-audiofreehighqps/F0/11/CMCoOSQDKUHpAJ3UOwBR3Osa.m4a",
+      "title": {
+        "text": "死人发来的消息（偷情好玩儿吗？）",
+        "truncated": false
+      },
+      "description": {
+        "text": "CV表： 小川说书 冷月浅浅 柏城夜语 A大路 离曼夭 旗遇记 飘然 Chilli女王",
+        "truncated": false
+      },
+      "published_at": "Sat, 05 Sep 2020 12:01:33 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "7659649312a31dd03b02ad1c3fb89b36c7d072ddd507e8bacb102e9a175ae43b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/139d-audiofreehighqps/36/FA/CMCoOR4DS8kXABjppwBZijEn.m4a",
+      "title": {
+        "text": "必听的收官说明（新书《女殡仪师日记》更多恐怖悬疑精彩剧情等你来！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 01 Oct 2020 16:38:43 GMT",
+      "feed_index": 30
+    }
+  ]
+}

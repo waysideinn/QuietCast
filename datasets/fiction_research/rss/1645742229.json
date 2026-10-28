@@ -1,0 +1,56 @@
+{
+  "show_id": "1645742229",
+  "feed_url": "https://feeds.soundon.fm/podcasts/28f558b9-3a40-4352-833a-5c0193e1bed6.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/28f558b9-3a40-4352-833a-5c0193e1bed6.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/28f558b9-3a40-4352-833a-5c0193e1bed6.xml",
+    "fetched_at": "2026-10-25T14:44:46.039524+00:00",
+    "status": 200,
+    "sha256": "e703a3edf2dff942f556bc1625134e94ae33259b46ef3638e6af2f9de06234d2"
+  },
+  "status": "ok",
+  "title": {
+    "text": "廣播劇《Flat White and Martini》｜The Voices Room｜香港本地創作",
+    "truncated": false
+  },
+  "description": {
+    "text": "廣播劇《Flat White and Martini》｜The Voices Room｜香港本地創作 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-HK",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 2,
+  "episodes": [
+    {
+      "id": "87dec89a700d65956f986d70c90de26f2dfd451ee01b6b651f9547ba73aff150",
+      "guid": "72500dca-3fa1-4ca8-84a4-c6e693aed14d",
+      "title": {
+        "text": "廣播劇《Flat White and Martini》Chapter: Martini｜The Voices Room｜香港本地創作",
+        "truncated": false
+      },
+      "description": {
+        "text": "到底屋企人定義係啲乜嘢？ 喺身體裏邊流住同樣嘅血嘅人？ 定係無論乜嘢事，佢都喺你身邊嘅人？ 導演：湘藍、企鵝 編劇：史丹尼 編審：企鵝 剪接：史丹尼 後期製作：小魂 美術設計：阿鬼、小魂 演出： Mia 飾演 Martini 史丹尼 飾演 Mojito Norman 飾演 Alvin 阿寶 飾演 細姨 小魂 飾演 Alvin同事 Angus 飾演 Jason 海獅 飾演 酒吧老闆 細Joe 飾演 酒吧同事 波兒 飾演 演唱會飛賣家 湘藍 飾演 比賽主持 音樂採用： 《Engagement Party》 《Herman’s Habit》 作曲：Justin Hurwitz 專輯：La La Land: Original Motion Picture Soundtrack 《Beachwalker》 演出：Liphe 作曲：Joe Derrington 專輯：Beachwalker 《The Wind In The Night》 演出：Aaron Goldberg 專輯：The Now 《Ain't Enough》 演出：Jin Akanishi 作詞：Jin Akanishi、Tomohisa Yamashita、Zen Nishizawa、Dominic Pierson 作曲：Jin Akanishi、Tomohisa Yamashita、Zen Nishizawa、Dominic",
+        "truncated": true
+      },
+      "published_at": "Mon, 03 Jul 2023 12:40:37 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "afbb56efe9eb3d5c3982192b8f0e3a9aa2e0729605792373e1e344e16e8237e1",
+      "guid": "1e1ab656-190b-4926-a886-1ab8c58fe6fa",
+      "title": {
+        "text": "廣播劇《Flat White and Martini》Chapter: Sugar｜The Voices Room｜香港本地創作",
+        "truncated": false
+      },
+      "description": {
+        "text": "陷入暗戀境地，到底要如何打破兩人之間的透明牆，令對方明白自己心意 最後，相襯的雙方要如何成為一杯適合的…flat white 導演：湘藍、企鵝 編劇：史丹尼 編審：企鵝 剪接：史丹尼 後期製作：小魂 美術設計：小魂、Midjourney 演出： 波兒 飾演 Sugar Sharon 飾演 Sugar同事 Norman 飾演 Alvin Angus 飾演 Jason 史丹尼 飾演 Mojito Mia飾演Martini 音樂採用： 《Coisa Linda (Solo Guitar)》 演出：Antonio Garcia Isaac 作曲：Antonio Garcia Isaac 專輯：Feelin' 《Can't Say Goodbye to Yesterday》 原唱：Carla White 作詞：村中りか 作曲：村中りか 編曲：村中りか 《次元壁》 原唱：林欣彤 作詞：黃偉文 作曲：蘇道哲 編曲：蘇道哲 監製：蘇道哲 《Someone like you》 原唱：Adele 作詞：Adkins (Wilson) 作曲：Adkins (Wilson) 《Someone like you》 原唱：Adele 作詞：Bob Dylan 作曲：Bob Dylan 監製：Jim Abbiss",
+        "truncated": false
+      },
+      "published_at": "Mon, 03 Jul 2023 12:39:25 GMT",
+      "feed_index": 1
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1544727675",
+  "feed_url": "http://www.ximalaya.com/album/39391561.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/39391561.xml",
+    "final_url": "http://www.ximalaya.com/album/39391561.xml",
+    "fetched_at": "2026-10-25T14:51:44.661677+00:00",
+    "status": 200,
+    "sha256": "5549550a51337b64ed5ea2485f4b96df6c9f508528df44c2aa417e11ade4bf30"
+  },
+  "status": "ok",
+  "title": {
+    "text": "每晚一个历史故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "每晚一个历史故事，伴您入眠。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 207,
+  "episodes": [
+    {
+      "id": "b440ff55153ad37e62070d1c2c266b577584f8aa4767c364ed453fd627c1ee87",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5890-audiofreehighqps/03/AA/CKwRIJIE6XSVABAAAADWNFY4.mp3",
+      "title": {
+        "text": "第二百零三夜 绿林赤眉起义",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 11 Aug 2021 11:16:39 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "af0e62e6e6d7adf448f836c52f3676bbc23b8ffe5a557d34938374707236a815",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/df3e-audiofreehighqps/31/DE/CKwRIaIE0dJPABR5FQDNCafo.m4a",
+      "title": {
+        "text": "第一百七十五夜 消灭异姓王（公元前202年-公元前196年）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 24 Jul 2021 13:02:00 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "ba3d5633c728cff661ba68004cb6228c303943cac69d26e300a9c86c508bc552",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b61e-audiofreehighqps/2D/1B/CKwRIaIEqionAD6nBwC-OyIf.m4a",
+      "title": {
+        "text": "第一百四十五夜 长平之战（公元前260年）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 24 Jun 2021 11:05:54 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "8047fb274ac2a7460ed22174879b9c538a41cee561f9e4f79edc9f19c6cb2cd4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2f29-audiofreehighqps/D8/E1/CKwRIaIESC3LAA0HPACdG4Fc.m4a",
+      "title": {
+        "text": "第一百一十六夜 徐州相王（公元前334年）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Apr 2021 03:19:36 GMT",
+      "feed_index": 88
+    },
+    {
+      "id": "953ceaa431e9860736ccdb1b897f83dab7336747a82c78fe0cfed0496e022945",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3036-audiofreehighqps/80/D1/CKwRIUEEHmUFAAzcdwCQu-SA.m4a",
+      "title": {
+        "text": "第八十六夜 弭兵会盟（公元前546年）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Mar 2021 10:40:01 GMT",
+      "feed_index": 118
+    },
+    {
+      "id": "61635d95e3d3b95d774c0193e1b18026f16ffea0bc86baa56cf835d1e0d084c3",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/86bf-audiofreehighqps/18/0A/CKwRINsD3UbyABARVAB9onJb.m4a",
+      "title": {
+        "text": "第五十七夜 平王东迁",
+        "truncated": false
+      },
+      "description": {
+        "text": "第五十七夜 平王东迁（公元前770年） 平王东迁是东周初期周王室把都城由镐京迁到洛邑的历史事件。周幽王时，废掉申后及太子宜臼，立其宠爱的褒姒为后，伯服为太子。公元前771年，申后之父申侯勾结犬戎攻破镐京。周幽王点起烽火求援，众诸侯因以前被烽火所戏而不加理会。周幽王最后被杀于骊山，西周灭亡。其后众诸侯拥立太子宜臼为王，是为周平王。因镐京曾发生过地震受损，残破不堪，又接近戎、狄等外患威胁之下，于是平王在即位后第二年（公元前770年），在郑、秦、晋等诸侯的护卫下，将国都迁至洛邑，开始了东周的历史。平王东迁是历史学家划分时段的重要事件，亦是周朝国势的转折点。平王迁都之后的周朝被称为东周，而由周武王立国至周幽王被杀的时期则称为西周。平王东迁后，周天子王权开始衰落，不能担当共主的责任，诸侯势力不断坐大。因为平王是由申侯拥立的，间接犯了弑父罪名，开始得不到诸侯的尊重。而且，周天子无力自保和抗拒外族入侵，须依赖诸侯国保护，致周天子地位不断衰落，最终形成春秋时期群雄争霸的局面。",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Jan 2021 01:14:22 GMT",
+      "feed_index": 147
+    },
+    {
+      "id": "6f0e20b5837735bd8368d867963f04095929f8973ed564f34348b41e6ee619cd",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d05c-audiofreehighqps/16/A2/CMCoOSADsyrEABPkxwByxn4g.m4a",
+      "title": {
+        "text": "第二十七夜 少康中兴",
+        "truncated": false
+      },
+      "description": {
+        "text": "第二十七夜 少康中兴 少康中兴乃中国史上首个出现「中兴」二字的时代。少康是中国夏朝的第六代天子。第三代天子太康被东方一个诸侯国有穷氏（今山东西部）后羿所伐，后羿取代了夏之政权。后来后羿的宠臣寒浞发动政变，血洗后羿一族。而太康终，弟仲康继位成第四代夏王，寒浞对太康一家穷追不捨。于是仲康逃难时死，儿子相（第五代夏王）也被杀死，相的妻子是有仍国（今山东省济宁市任城区，或说济宁市金乡县）诸侯的女儿后缗氏，有身孕，逃回有仍国，生下了少康，当上牧正，负责管理畜牧。寒浞不肯放过夏朝宗室，寒浞之子寒奡派人杀少康。后来少康避难，逃往有虞国（今河南省虞城县），担任有虞氏庖正（掌厨），国王虞思把女儿「二桃」嫁给了少康，并积极厚植势力，有田一成（方十里），有众一旅（五百人），又得有虞国诸侯伯思相助。一日少康发起义师，联络夏朝遗臣伯靡，派女艾刺探浇的军情，伯靡挥军直攻有穹国都穹石，寒浞自杀未遂，被人民绑住拖到伯靡面前。伯靡历数寒浞各项罪状，将他的肉一片一片割下，凌迟至死。接著少康命女艾攻打寒奡（ào），季杼则奉命攻打寒豷。功成之后，少康命人将豷剁成肉酱，寒奡被设鼎烹杀。少康重新取回夏朝的政权，成为第六代夏天子。在位期间，少康勤政爱民，专心农业水利，史称为「少康中兴」。",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Dec 2020 04:35:00 GMT",
+      "feed_index": 177
+    },
+    {
+      "id": "dfec6ecf9703192e7abc3b747fa38bcb4f9b597256983ebd2e23c846b2d471a4",
+      "guid": "https://aod.cos.tx.xmcdn.com/group84/M04/96/64/wKg5Hl8D5mTw0jwvACLJY290Po4946.aac",
+      "title": {
+        "text": "每晚一个历史故事—短序",
+        "truncated": false
+      },
+      "description": {
+        "text": "每晚一个历史故事，与你同在。",
+        "truncated": false
+      },
+      "published_at": "Tue, 07 Jul 2020 03:05:09 GMT",
+      "feed_index": 206
+    }
+  ]
+}

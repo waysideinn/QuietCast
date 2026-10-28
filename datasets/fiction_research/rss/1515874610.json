@@ -1,0 +1,70 @@
+{
+  "show_id": "1515874610",
+  "feed_url": "https://anchor.fm/s/227c3068/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/227c3068/podcast/rss",
+    "final_url": "https://anchor.fm/s/227c3068/podcast/rss",
+    "fetched_at": "2026-10-25T14:42:00.483416+00:00",
+    "status": 200,
+    "sha256": "77a75e405f2cb2aee9eb37f0d50a45211bc4b33c7086ddbc9594718498f6df11"
+  },
+  "status": "ok",
+  "title": {
+    "text": "MOSHI MOSHI BOTY",
+    "truncated": false
+  },
+  "description": {
+    "text": "Talk show. Espacio agradable para conectar con toda la gente que quiera acercarse a contarme sus historias. Vamos a pasarla bien y conocer el mundo a través de las palabras. :)",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "es",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 3,
+  "episodes": [
+    {
+      "id": "5b2cd8d1c525c42704111b1b0c22343d7eff8fbd17f596db865372dadd5b4735",
+      "guid": "5700797e-f0fc-4da3-91f6-f3424b29c060",
+      "title": {
+        "text": "Gente que te inspira",
+        "truncated": false
+      },
+      "description": {
+        "text": "La inspiración viene de todos lados y se manifiesta de todas las maneras",
+        "truncated": false
+      },
+      "published_at": "Sun, 14 Jun 2020 00:49:46 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d5ef828d2763a11568454273b3dfd7ee55ea4f1b9bc72375aa4eaa663138d5a5",
+      "guid": "2c678e17-c40f-4e3d-92af-9324b74212b8",
+      "title": {
+        "text": "Tiempo libre durante la pandemia",
+        "truncated": false
+      },
+      "description": {
+        "text": "¿Rompí mi récord de días sin bañarme o estoy listo para recibir mi premio Nobel?",
+        "truncated": false
+      },
+      "published_at": "Sun, 31 May 2020 00:39:48 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "847f22c7396989d3b77a438afea7f73424799975d2f754e82532b619f71130d2",
+      "guid": "abf23f25-e46e-4cf1-9c8a-91d233b0751a",
+      "title": {
+        "text": "MOSHI MOSHI BOTY (Trailer)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 21 May 2020 01:29:28 GMT",
+      "feed_index": 2
+    }
+  ]
+}

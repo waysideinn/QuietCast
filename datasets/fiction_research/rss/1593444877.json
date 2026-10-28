@@ -1,0 +1,140 @@
+{
+  "show_id": "1593444877",
+  "feed_url": "http://www.ximalaya.com/album/53229252.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/53229252.xml",
+    "final_url": "http://www.ximalaya.com/album/53229252.xml",
+    "fetched_at": "2026-10-25T14:54:27.809319+00:00",
+    "status": 200,
+    "sha256": "bc4c939552f14e93cc6a485c22215378ea476ef8840cc872041fc16234f0e605"
+  },
+  "status": "ok",
+  "title": {
+    "text": "听说：夜半谈丨轻恐怖丨灵异惊悚丨怪谈丨奇闻",
+    "truncated": false
+  },
+  "description": {
+    "text": "【听说：夜半谈】每周四更新。 以古代志怪小说《子不语》《聊斋志异》等引申的故事交流节目。每期有2个故事，一个由相妄主讲的古代故事，一个由杨小墓主讲的现代故事。 欢迎小伙伴们通过弹幕、评论、私信等方式，把自己经历或者听说的故事和我们分享。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 125,
+  "episodes": [
+    {
+      "id": "5b27f5a7ca3e3af50444c259d136e384b8319ff076f34a7522c524f22298bac2",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/768c-audiofreehighqps/86/61/CKwRIRwFHrvsAqGvfQDlC_VC-aacv2-48K.m4a",
+      "title": {
+        "text": "第01期丨老汉为何惨死家中，寡妇为何被迫改嫁丨听说：夜半谈",
+        "truncated": false
+      },
+      "description": {
+        "text": "【听说：夜半谈】每周四更新。 以古代志怪小说《子不语》《聊斋志异》等引申的故事交流节目。每期有2个故事，一个由相妄主讲的古代故事，一个由杨小墓主讲的现代故事。 欢迎小伙伴们通过弹幕、评论、私信等方式，把自己经历或者听说的故事和我们分享。",
+        "truncated": false
+      },
+      "published_at": "Tue, 21 Sep 2021 13:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "27b2430d002710aad55b687dc4f3cb0739cc81abdf37e7e26d230717afab108d",
+      "guid": "xmly_track_516511005",
+      "title": {
+        "text": "第19期丨校园传说，冤魂报案丨听说：夜半谈",
+        "truncated": false
+      },
+      "description": {
+        "text": "【听说：夜半谈】每周四更新。 以古代志怪小说《子不语》《聊斋志异》等引申的故事交流节目。每期有2个故事，一个由相妄主讲的古代故事，一个由杨小墓主讲的现代故事。 欢迎小伙伴们通过弹幕、评论、私信等方式，把自己经历或者听说的故事和我们分享。",
+        "truncated": false
+      },
+      "published_at": "Thu, 31 Mar 2022 03:00:00 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "f126fd636d86b155af64d21b012478680189ec72207299691fb848b503fe7282",
+      "guid": "xmly_track_677457094",
+      "title": {
+        "text": "第36期：梦是心头想，妖怪不是 丨听说：夜半谈",
+        "truncated": false
+      },
+      "description": {
+        "text": "清聊式轻恐怖：古代志怪小说、现代都市传说、听众投稿经历。每周四更新。 主播：相妄/杨小墓 目前志怪小说进度：《子不语》卷二。 PS：投稿可私信 墓色深深听神鬼妖狐，妄月围炉说风月无边",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 Oct 2023 16:00:00 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "dd6be018aa872757c1d5cf7932dd6d8e6a91efcc00ddbf7e50146a16369c1662",
+      "guid": "xmly_track_721593776",
+      "title": {
+        "text": "第54期：常看潘金莲的朋友应该知道丨听说：夜半谈",
+        "truncated": false
+      },
+      "description": {
+        "text": "清聊式轻恐怖：古代志怪小说、现代都市传说、听众投稿经历。每周四更新。 主播：相妄/杨小墓 目前志怪小说进度：《子不语》卷二。 PS：投稿可私信",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Apr 2024 16:00:00 GMT",
+      "feed_index": 53
+    },
+    {
+      "id": "3f38ee707a734af7516984245ad13c541981c781e8f7d842e0b922cfc3a5ccdc",
+      "guid": "xmly_track_757809697",
+      "title": {
+        "text": "第72期：龙虎天师：我推的孩子！丨听说：夜半谈",
+        "truncated": false
+      },
+      "description": {
+        "text": "清聊式轻恐怖：古代志怪小说、现代都市传说、听众投稿经历。每周四更新。 主播：相妄/杨小墓 目前志怪小说进度：《子不语》卷三。 PS：投稿可私信",
+        "truncated": false
+      },
+      "published_at": "Wed, 18 Sep 2024 23:55:00 GMT",
+      "feed_index": 71
+    },
+    {
+      "id": "be8776fe60757354f8a9ce50652c2c5dd0c2363dea174f5ffca407ada3c50e64",
+      "guid": "xmly_track_938999561",
+      "title": {
+        "text": "第93期：苍蝇是鬼变的？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Dec 2025 05:05:13 GMT",
+      "feed_index": 89
+    },
+    {
+      "id": "b0f88c5b0165ff65ef47a19712f4d839a1aec0d3080ccadfed8b465a42d54235",
+      "guid": "xmly_track_939002793",
+      "title": {
+        "text": "第110期：男子酒醉，竟在桌下发现……",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Dec 2025 05:20:12 GMT",
+      "feed_index": 106
+    },
+    {
+      "id": "e7bf23d53d62558deec1425121ce0d356da1770126751f978154aa220f4615c5",
+      "guid": "xmly_track_958937449",
+      "title": {
+        "text": "第128期：青龙偃月刀浮水之谜，跪拜自己挖下的死亡陷阱丨子不语丨听说：夜半谈",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Feb 2026 13:30:00 GMT",
+      "feed_index": 124
+    }
+  ]
+}

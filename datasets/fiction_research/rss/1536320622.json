@@ -1,0 +1,140 @@
+{
+  "show_id": "1536320622",
+  "feed_url": "http://www.ximalaya.com/album/42709787.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/42709787.xml",
+    "final_url": "http://www.ximalaya.com/album/42709787.xml",
+    "fetched_at": "2026-10-25T14:42:14.121562+00:00",
+    "status": 200,
+    "sha256": "9cea4fdb7490caa516940bb74606492fd6a829cdef104699d3e30aa0a57b2952"
+  },
+  "status": "ok",
+  "title": {
+    "text": "葬明丨穿越明末争霸天下",
+    "truncated": false
+  },
+  "description": {
+    "text": "一部客观理性，但节奏慢吞吞的穿越架空小说 故事背景： 崇祯年间，外虏犯边、天灾人祸纷至沓来，命如草芥，遍地饿殍，仿佛末日即将来临一般，无数炎黄子孙的生死福祸似乎已成定局。在这存亡之际，主人公肖天健无意中穿越到了明朝末年的陕西境内，义不容辞，带领着一班弟兄，挥戈解民于倒悬，疆场救汉于危难，扬我天朝国威，振我大汉族魂！ 现代人穿越到明末驰骋疆场：横枪处，谁与争锋！ 第一卷，主人公肖天健带领着自己的兄弟，完成了从零到一的过程，一边猥琐发育，一边锤炼自己的兵马，在经历了几战之后，自己的队伍逐渐成熟了。在接下来，迎接猪脚的将会是什么呢？历史上的哪些牛人们，将会在这一卷成批出现？猪脚又该带领着弟兄们何去何从？哪儿才是猪脚安身立命之所呢？ 第二卷，肖天健基本完成了原始积累，并且初步确立了以根据地为中心，从操练、粮食、装备等全面发展。在此过程中，第一次与李自成等农民军接触，并从战事中受到诸多带兵启发。 第三卷，肖天健在发展根据地建设的同时，灭掉了周边的匪盗势力。与山地大户梁家建立关系，并逐步走向正面战场，开始自己的扩张。在发展到一定时期的时候，终于被官府关注到了，并且引来了一次几乎灭顶的大规模围剿。 第四卷 刑天军逐鹿中原，打下山西根据地后，在河南大肆抢夺地盘。在强大军事实力的基础上，开始逐步发展经济和农业，为后续与建奴大战，打好基础。 第五卷 预计四月中旬上架，在完成了中原大战之后，肖天健的军事",
+    "truncated": true
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 1120,
+  "episodes": [
+    {
+      "id": "7e67f0f051107bbce63f627a6e1ea36a23560e9a2fcbd9b536bf04c846d5eab4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e89a-audiofreehighqps/83/97/CMCoOSIDXeDUAGdKWgBdW2h3-aacv2-48K.m4a",
+      "title": {
+        "text": "葬明 卷一 001 命如草芥（乱世为匪）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 15 Oct 2020 10:00:24 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "582108b58b313c964fd4cd7d164ea3bf7700b5aab72399c40729aa7913ed9f2f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/83c5-audiofreehighqps/35/AC/CMCoOSUDsHHPAG3o6wByHr-C-aacv2-48K.m4a",
+      "title": {
+        "text": "葬明 卷二 02 重编一",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 17 Dec 2020 11:00:42 GMT",
+      "feed_index": 160
+    },
+    {
+      "id": "380c986ab0cb6f4a033af8e2b8429acf0db5a8d4e96e3d031b90401587c78acc",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9b5d-audiofreehighqps/B0/D4/CMCoOR4DsIpBAE4WCgByI5Ah-aacv2-48K.m4a",
+      "title": {
+        "text": "葬明 卷三 063 喜讯连连",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 Jan 2021 11:00:09 GMT",
+      "feed_index": 320
+    },
+    {
+      "id": "d0250b306050383885a1b17a4d2077404320b54a8690c5da25a497c675139e5b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3a2d-audiofreehighqps/07/97/CMCoOSMD5E7KAEOeKAB_kxBi-aacv2-48K.m4a",
+      "title": {
+        "text": "葬明 卷四 006 磨刀霍霍",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Feb 2021 01:00:32 GMT",
+      "feed_index": 480
+    },
+    {
+      "id": "5ca46bc54c210e285330565430d2ed28b15bc364d241dad0c1826ba7e1a397ad",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2086-audiofreehighqps/9E/E0/CKwRIW4ENH21AHPELgCXSjQt-aacv2-48K.m4a",
+      "title": {
+        "text": "葬明 卷四 165 应对",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 30 Mar 2021 09:32:00 GMT",
+      "feed_index": 639
+    },
+    {
+      "id": "ab207560fe7eaeb5923228999d0c34f22e8cc448ef87bc8e27495f416b4b0288",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/979a-audiofreehighqps/FE/41/CKwRIMAEWT5HAGiyGgCiUTir-aacv2-48K.m4a",
+      "title": {
+        "text": "葬明 卷五 126 激将",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 11 May 2021 09:30:02 GMT",
+      "feed_index": 799
+    },
+    {
+      "id": "3989c319467ca749609b982efaad905f05bc4fbdd51cdb926162cb6415df5102",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a5d9-audiofreehighqps/02/9C/CKwRIW4EkLJ0AF8E3QC1W7iw-aacv2-48K.m4a",
+      "title": {
+        "text": "葬明 卷六 041 极其无耻",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Jun 2021 09:30:00 GMT",
+      "feed_index": 959
+    },
+    {
+      "id": "f27426b699685b78deb8bded7cd7890427fc4abc9309cbbe5ae04aca2128758e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1d9a-audiofreehighqps/57/16/CKwRINsEtLvcAJjPVgDB-7LJ-aacv2-48K.m4a",
+      "title": {
+        "text": "葬明 卷六 201 终章（全书完，江湖再见丨特别鸣谢：玄鸟飞飞）",
+        "truncated": false
+      },
+      "description": {
+        "text": "感谢各位小伙伴的支持与包容。本书前部播讲完毕，感谢您的收听，咱们江湖再见。特别鸣谢：玄鸟飞飞。 片尾曲：《大号是中华》 普话版原唱：黑龙 翻唱：北海听云 新小说正在筹备，切勿走开哦。。。。",
+        "truncated": false
+      },
+      "published_at": "Tue, 20 Jul 2021 09:00:00 GMT",
+      "feed_index": 1119
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1479951603",
+  "feed_url": "https://anchor.fm/s/1140c7a14/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/1140c7a14/podcast/rss",
+    "final_url": "https://anchor.fm/s/1140c7a14/podcast/rss",
+    "fetched_at": "2026-10-25T14:49:12.047116+00:00",
+    "status": 200,
+    "sha256": "6f34cc5c280f455d56a029420f2c196140f425e44fdb543cff736c63d1cb8e50"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【半瓶醋夜未眠】電影、動畫、遊戲及那些年",
+    "truncated": false
+  },
+  "description": {
+    "text": "一起來聊聊電影、動畫、遊戲以及那些年吧～ 曾為電影製片，玷汙了影評兩字的自稱影評人，直男，不認真的YouTuber，貓咪飼育者。 深夜實況談話節目【半瓶醋夜未眠】每週五晚上09:30開聊",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 423,
+  "episodes": [
+    {
+      "id": "54fe64bd086e541692e75d9bdb762f4c9ee5aee1fbb2be674c738fb71b4111e2",
+      "guid": "6069da50-cceb-404f-bf7d-1c8cc687a831",
+      "title": {
+        "text": "使用AI創作是錯誤的嗎？用AI做縮圖很醜？【Podcast|鹿客|雞塊哥|米莎|半瓶醋】",
+        "truncated": false
+      },
+      "description": {
+        "text": "# AI縮圖 #ai短片 # chatgpt #Gemini #gork ►加入【半瓶醋與他快樂的夥伴們】Discordhttps://discord.gg/a7MmWBQAMp►加入頻道會員，支持小弟製作影片的辛勞：https://www.youtube.com/channel/UCYQDonquvqNhW35w3BSgqAw/join►其他出沒地區https://lit.link/en/bow1980#半瓶醋 #半瓶醋夜未眠曾為電影製片，影評人，不算很認真的YouTuber，貓咪飼育者。",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Oct 2026 19:18:32 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "9c1c70d306c8f8ccceb0bf260598590ebcdba2157e3d453f6f5eb939b56b70ba",
+      "guid": "tag:soundcloud,2010:tracks/2217581513",
+      "title": {
+        "text": "【大濛】2025年最具代表性的台灣電影，從2025回首看1950年的台灣【Podcast 半瓶醋】",
+        "truncated": false
+      },
+      "description": {
+        "text": "►加入【半瓶醋與他快樂的夥伴們】Discord https://discord.gg/a7MmWBQAMp ►加入頻道會員，支持小弟製作影片的辛勞： https://www.youtube.com/channel/UCYQDonquvqNhW35w3BSgqAw/join ►其他出沒地區 https://lit.link/en/bow1980 #半瓶醋 #半瓶醋夜未眠 曾為電影製片，影評人，不算很認真的YouTuber，貓咪飼育者。",
+        "truncated": false
+      },
+      "published_at": "Sun, 23 Nov 2025 14:45:19 GMT",
+      "feed_index": 60
+    },
+    {
+      "id": "d58f8c339daa0516021454bc162659b6e0e87b433f0be264898d5692d8435d29",
+      "guid": "tag:soundcloud,2010:tracks/2036272376",
+      "title": {
+        "text": "【美國隊長：無畏新世界】漫威宇宙中的政治驚悚！到底好不好看？",
+        "truncated": false
+      },
+      "description": {
+        "text": "加入頻道會員，支持小弟製作影片的辛勞： https://www.youtube.com/channel/UCYQDonquvqNhW35w3BSgqAw/join #半瓶醋 #半瓶醋夜未眠 曾為電影製片，影評人，不算很認真的YouTuber，貓咪飼育者。 ►其他出沒地區 https://lit.link/en/bow1980 ►【半瓶醋與他快樂的夥伴們】Discord https://discord.gg/a7MmWBQAMp",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Feb 2025 00:00:00 GMT",
+      "feed_index": 121
+    },
+    {
+      "id": "3b7414ffc646c452fc0cea94cba107a563904a71fbf46fd20718ceacf13ff20e",
+      "guid": "tag:soundcloud,2010:tracks/1865395755",
+      "title": {
+        "text": "【神偷奶爸4】這一次我們有了超級小小兵！【Podcast|馬可多|布萊恩|半瓶醋】",
+        "truncated": false
+      },
+      "description": {
+        "text": "加入頻道會員，支持小弟製作影片的辛勞： www.youtube.com/channel/UCYQDonqu…hW35w3BSgqAw/join #半瓶醋 #半瓶醋夜未眠 曾為電影製片，影評人，不算很認真的YouTuber，貓咪飼育者。 ►其他出沒地區 lit.link/en/bow1980 ►【半瓶醋與他快樂的夥伴們】Discord discord.gg/a7MmWBQAMp",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 Jul 2024 15:41:04 GMT",
+      "feed_index": 181
+    },
+    {
+      "id": "c684aea844b1d00d0607e76835c802c2b0b2e0631acb96fd132e6edbf4888346",
+      "guid": "tag:soundcloud,2010:tracks/1663219575",
+      "title": {
+        "text": "【驚奇隊長2】到底好不好看？漫威電影宇宙何去何從？【Podcast|布萊恩|吉米|馬可多|視體撞擊|半瓶醋】",
+        "truncated": false
+      },
+      "description": {
+        "text": "►成為【半瓶醋】會員獲得獨家內容： www.youtube.com/channel/UCYQDonqu…hW35w3BSgqAw/join ►小額贊助【半瓶醋夜未眠】 payment.opay.tw/Broadcaster/Donat…D1DC5046E3BB4F074 ►相關合作提案請寄信至： [email removed] ►【半瓶醋與他快樂的夥伴們】Discord discord.gg/a7MmWBQAMp ►DOPE電影周邊商城推廣 dope.tw/?ref=bpf1980 ►其他出沒地區 lit.link/en/bow1980",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 Nov 2023 19:21:22 GMT",
+      "feed_index": 241
+    },
+    {
+      "id": "a21e1dca02c9bc0e31b3cff2defaa75750ee4c4838e51e6d7ad83bc77a833964",
+      "guid": "tag:soundcloud,2010:tracks/1457007694",
+      "title": {
+        "text": "【悲情城市】到底好不好看？兩代影迷的交流對談！【Podcast|陳宥|視體撞擊|馬可多|半瓶醋】",
+        "truncated": false
+      },
+      "description": {
+        "text": "►歡迎成為【半瓶醋】會員獲得獨家內容： www.youtube.com/channel/UCYQDonqu…hW35w3BSgqAw/join ►小額贊助【半瓶醋夜未眠】 payment.opay.tw/Broadcaster/Donat…D1DC5046E3BB4F074 ►相關合作提案請寄信至： [email removed] ►DOPE電影周邊商城推廣 dope.tw/?ref=bpf1980 ►其他出沒地區 lit.link/en/bow1980 ►【半瓶醋與他快樂的夥伴們】Discord discord.gg/a7MmWBQAMp",
+        "truncated": false
+      },
+      "published_at": "Mon, 27 Feb 2023 14:28:05 GMT",
+      "feed_index": 301
+    },
+    {
+      "id": "5272b38644ff1a7317201f4e03d2cbb592346fd4f899fa2fccae878545f65238",
+      "guid": "tag:soundcloud,2010:tracks/1161069151",
+      "title": {
+        "text": "【迷離夜蘇活】艾德格萊特回來了！1960年代風格奇幻視覺驚悚再現",
+        "truncated": false
+      },
+      "description": {
+        "text": "【迷離夜蘇活】艾德格萊特回來了！1960年代風格奇幻視覺驚悚再現",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Nov 2021 15:18:51 GMT",
+      "feed_index": 362
+    },
+    {
+      "id": "d8d05ecb3d04a7b4cbdd2ad5c8ecc61f28ced6e9127ce7b01ce6b2b961051e14",
+      "guid": "tag:soundcloud,2010:tracks/921474421",
+      "title": {
+        "text": "【蝶龍之亂】總評：每集都開打，但是看起來都很可愛？【自己開講|半瓶醋】",
+        "truncated": false
+      },
+      "description": {
+        "text": "【蝶龍之亂】總評：每集都開打，但是看起來都很可愛？【自己開講|半瓶醋】 by 半瓶醋",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Nov 2020 14:25:11 GMT",
+      "feed_index": 422
+    }
+  ]
+}

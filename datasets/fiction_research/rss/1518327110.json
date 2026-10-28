@@ -1,0 +1,140 @@
+{
+  "show_id": "1518327110",
+  "feed_url": "https://anchor.fm/s/261017e4/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/261017e4/podcast/rss",
+    "final_url": "https://anchor.fm/s/261017e4/podcast/rss",
+    "fetched_at": "2026-10-25T14:52:30.860214+00:00",
+    "status": 200,
+    "sha256": "82328cf782ea9900240f2d0e0a825b369b19c718f60280feaacd2d2ccc9a51c5"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Clearing the Air 哲學十分鐘",
+    "truncated": false
+  },
+  "description": {
+    "text": "This is a bilingual philosophical podcast by Miaofen Chen and Brian Bruya. We discuss philosophy, self-cultivation, and many other things. 雙語哲學廣播，在輕鬆的十分鐘時間，二位大學教授Miaofen Chen和Brian Bruya用英文及中文交談，討論各種哲學問題、法蘭克林的人生十二種德性、斯多亞哲學、亞里斯多德、文化哲學、美學、教育等。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "en",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 37,
+  "episodes": [
+    {
+      "id": "b589fb153aeaa1be9802faa5502be7b8e19a87a2d2d5de9b70449b5637479ef9",
+      "guid": "ff7df063-a935-49fa-97fe-cb771631f856",
+      "title": {
+        "text": "S6 E1 未來的人 The Human of the Future: AI and art",
+        "truncated": false
+      },
+      "description": {
+        "text": "今天是世界哲學日，Brian和Miaofen在美國和台灣，嘗試遠距錄製最新一集，就以UNESCO今年設計的主題「未來的人」，談談人工智慧和藝術，以及自然人為何有無可取代的「人格」(personality)和「原創性」(originality)呢？",
+        "truncated": false
+      },
+      "published_at": "Thu, 17 Nov 2022 13:34:04 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "eb276bf52695bec731990403d4877ce6205e6f07a7245866a95490a7a9591a6b",
+      "guid": "9dab370c-04cf-4c5f-a147-3958eaf9489d",
+      "title": {
+        "text": "S5 EP2 [法理學］純粹法學的創新議題：實證法的未決性、法律解釋框架理論",
+        "truncated": false
+      },
+      "description": {
+        "text": "法實證主義，自十九世紀各地歷史法學、分析法實證主義、現實主義法學、利益法學、社會學法學等一連串發展，到二十世紀初形成偏重經驗、而忽略嚴謹科學方法的理論。1934年凱爾森（Hans Kelsen)創立「純粹法學」，提出創新的議題，他所提出的法律解釋框架理論，改變了傳統法學思維，成為迄今最具影響力、並且爭議最多的一支理論。",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Apr 2022 15:50:00 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "7db34f47982063e597bd8900b4fae5b5ed47b019eee5e3f0f807ab207ecca73f",
+      "guid": "c6d55274-47c1-47f0-bf3e-50e8df83157c",
+      "title": {
+        "text": "S3 EP4 法理學 The Minimum Content of Natural Law and the Incorporation Thesis",
+        "truncated": false
+      },
+      "description": {
+        "text": "The Minimum Content of Natural Law and the Incorporation Thesis",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Jun 2021 07:50:35 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "eeb2dd5cd11cbd7e9ebdbf8b723bb66e74f1c2132bcf8c30e168b63174465214",
+      "guid": "fec0b4fe-f47c-4c79-9bfa-f255a8d22e0b",
+      "title": {
+        "text": "S2 E11 Humility 謙虛",
+        "truncated": false
+      },
+      "description": {
+        "text": "上集我們談Benjamin Franklin所說的第十二個德性”chastity”(節欲，純真)，討論它的現代詮釋可能性，Brian補充了一個方法(dogma): “See others not as sexual objects, but as complete persons”. 這集繼續討論Franklin所說的第十三個、也是最後一個德性”humility”(謙虛)，Franklin給的方法信念是：”Imitate Jesus and Socrates.” 大意是學習耶穌的寬容、蘇格拉底的智慧！為何如此？我們介紹一首1944年美國流行的好歌：”Accentuate the Positive” (強調積極正面的)，弦律好聽，歌詞也發人深省，送給所有朋友同學！",
+        "truncated": false
+      },
+      "published_at": "Sun, 17 Jan 2021 08:46:26 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "e3ae5bc295a02494708f1f765c8ac3cf7446fcbcf998b3a2a096762c2affeaec",
+      "guid": "32a419d3-94da-4ec3-b432-1a7a72b0ec17",
+      "title": {
+        "text": "S1 E3 Starting questions 單元：化蝶社",
+        "truncated": false
+      },
+      "description": {
+        "text": "The idea about “self cultivation”. 首先介紹美國思想家Benjamin Franklin談「達到道德完美的計畫」，他所提的十三種品德，以及實踐的方法。按順序，這集聊第一個品德”temperance”（節制）。",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Oct 2020 08:42:00 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "8c8271202f8e30fb81be5aa00d7c4203dce368f2d341467c920ab15009ec1843",
+      "guid": "e7c7ab7d-4d40-496d-871c-fd78cb63bc58",
+      "title": {
+        "text": "S2 E1 Order 秩序或形式",
+        "truncated": false
+      },
+      "description": {
+        "text": "第二季結合哲學概念和生活，這集談”Order”（秩序），英文此字會令人連想到數學、幾何圖形、邏輯等，英文和中文的理解有何差異？為什麼秩序、結構或形式有助於「創造力」？”Order”跟美學的關係也相當有趣！",
+        "truncated": false
+      },
+      "published_at": "Mon, 10 Aug 2020 16:25:08 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "24a648288a3cac2132235f55d646b03818f2f15ddf01cb303913e6c9566c5f7d",
+      "guid": "2fef41c1-1202-47b1-a08e-20cbf66a1fc4",
+      "title": {
+        "text": "S1 E7 Phantasia Fantasy 幻想或想像（續）",
+        "truncated": false
+      },
+      "description": {
+        "text": "上集談一個很重要的哲學概念”Phantasia”，英文叫”Fantasy”，中文譯為「幻想」、「幻覺」或「想像」等，但似乎都不很精確。這集繼續談它在哲學的意涵，斯多亞哲學如何解釋這個詞？以及Phantasia的分析方法。受斯多亞哲學影響的西方文化（不只基督教），人們怎麼看待疫情及生命的變化？什麼是”hierarchy of being”（存有的階梯/階級）？如何運用Phantasia分析於心理學、認知科學、認知行為？以及情感及生活各層面？Seeing things clearly!千萬不要錯過^_^",
+        "truncated": false
+      },
+      "published_at": "Sun, 02 Aug 2020 08:38:01 GMT",
+      "feed_index": 31
+    },
+    {
+      "id": "54c791669b708a25ab7e73f1ff2ea45df012d6b17c9a5270aa0ef245f8f08838",
+      "guid": "35874206-7521-4236-8d25-0be559033d59",
+      "title": {
+        "text": "S1 E1 Stammtisch 餅乾桶 Clearing the Air 哲學十分鐘",
+        "truncated": false
+      },
+      "description": {
+        "text": "Stammtisch, cracker barrel 餅乾桶",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Jun 2020 05:16:00 GMT",
+      "feed_index": 36
+    }
+  ]
+}

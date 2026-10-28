@@ -1,0 +1,2197 @@
+{
+  "group": "fiction",
+  "term": "三体",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E4%B8%89%E4%BD%93&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E4%B8%89%E4%BD%93&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:41:36.069074+00:00",
+    "status": 200,
+    "sha256": "786436ff2e7986e4b16afa9f1936cac6d1601446d08278243b0edc18ee4bcd0a"
+  },
+  "result_count": 98,
+  "records": [
+    {
+      "collectionId": 1665421219,
+      "trackId": 1665421219,
+      "collectionName": "【三体】微缩版丨单播免费丨能识此宝者分文不取",
+      "artistName": "杰子不精",
+      "feedUrl": "https://www.ximalaya.com/album/68480612.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%89%E4%BD%93-%E5%BE%AE%E7%BC%A9%E7%89%88%E4%B8%A8%E5%8D%95%E6%92%AD%E5%85%8D%E8%B4%B9%E4%B8%A8%E8%83%BD%E8%AF%86%E6%AD%A4%E5%AE%9D%E8%80%85%E5%88%86%E6%96%87%E4%B8%8D%E5%8F%96/id1665421219?uo=4",
+      "genres": [
+        "科幻小說",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 35,
+      "releaseDate": "2022-06-12T13:58:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科幻小說"
+    },
+    {
+      "collectionId": 1760987470,
+      "trackId": 1760987470,
+      "collectionName": "穿越到三体世界！激活神话复苏系统开启地球的逆袭之路",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82937833.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%A9%BF%E8%B6%8A%E5%88%B0%E4%B8%89%E4%BD%93%E4%B8%96%E7%95%8C-%E6%BF%80%E6%B4%BB%E7%A5%9E%E8%AF%9D%E5%A4%8D%E8%8B%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%90%AF%E5%9C%B0%E7%90%83%E7%9A%84%E9%80%86%E8%A2%AD%E4%B9%8B%E8%B7%AF/id1760987470?uo=4",
+      "genres": [
+        "科幻小說",
+        "Podcast",
+        "小說",
+        "藝術",
+        "書籍"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 236,
+      "releaseDate": "2024-08-05T09:20:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科幻小說"
+    },
+    {
+      "collectionId": 1671079522,
+      "trackId": 1671079522,
+      "collectionName": "【梦梦邀你追剧】-丨三体丨",
+      "artistName": "汐玥梦梦",
+      "feedUrl": "https://www.ximalaya.com/album/74027586.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%A2%A6%E6%A2%A6%E9%82%80%E4%BD%A0%E8%BF%BD%E5%89%A7-%E4%B8%A8%E4%B8%89%E4%BD%93%E4%B8%A8/id1671079522?uo=4",
+      "genres": [
+        "地球科學",
+        "Podcast",
+        "科學",
+        "小說",
+        "科幻小說"
+      ],
+      "genreIds": [
+        "1540",
+        "26",
+        "1533",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2023-02-15T08:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "地球科學"
+    },
+    {
+      "collectionId": 1683141446,
+      "trackId": 1683141446,
+      "collectionName": "三體溝通站",
+      "artistName": "三體溝通站",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/d4aae0af-74d5-42aa-9649-9ef42a6a8f2d.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%89%E9%AB%94%E6%BA%9D%E9%80%9A%E7%AB%99/id1683141446?uo=4",
+      "genres": [
+        "宗教與精神生活",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1314",
+        "26",
+        "1489"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2023-06-03T01:41:00Z",
+      "country": "TWN",
+      "primaryGenreName": "宗教與精神生活"
+    },
+    {
+      "collectionId": 1759527795,
+      "trackId": 1759527795,
+      "collectionName": "云球|媲美三体的中国式科幻代表作人工智能战脑洞大开",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82777320.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BA%91%E7%90%83-%E5%AA%B2%E7%BE%8E%E4%B8%89%E4%BD%93%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%A7%91%E5%B9%BB%E4%BB%A3%E8%A1%A8%E4%BD%9C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%88%98%E8%84%91%E6%B4%9E%E5%A4%A7%E5%BC%80/id1759527795?uo=4",
+      "genres": [
+        "科幻小說",
+        "Podcast",
+        "小說",
+        "社會與文化",
+        "哲學"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 498,
+      "releaseDate": "2024-07-29T03:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科幻小說"
+    },
+    {
+      "collectionId": 1746008936,
+      "trackId": 1746008936,
+      "collectionName": "造梦还是现实？《三体》科技解密引发热议|科学揭秘",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/80377073.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%80%A0%E6%A2%A6%E8%BF%98%E6%98%AF%E7%8E%B0%E5%AE%9E-%E4%B8%89%E4%BD%93-%E7%A7%91%E6%8A%80%E8%A7%A3%E5%AF%86%E5%BC%95%E5%8F%91%E7%83%AD%E8%AE%AE-%E7%A7%91%E5%AD%A6%E6%8F%AD%E7%A7%98/id1746008936?uo=4",
+      "genres": [
+        "科技",
+        "Podcast",
+        "科學",
+        "自然科學"
+      ],
+      "genreIds": [
+        "1318",
+        "26",
+        "1533",
+        "1534"
+      ],
+      "trackCount": 261,
+      "releaseDate": "2024-02-07T15:19:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1671329509,
+      "trackId": 1671329509,
+      "collectionName": "读三体聊投资/陪您穿越投资的黑暗森林",
+      "artistName": "投资天使加百列",
+      "feedUrl": "https://www.ximalaya.com/album/74141001.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AF%BB%E4%B8%89%E4%BD%93%E8%81%8A%E6%8A%95%E8%B5%84-%E9%99%AA%E6%82%A8%E7%A9%BF%E8%B6%8A%E6%8A%95%E8%B5%84%E7%9A%84%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97/id1671329509?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "小說",
+        "科幻小說"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2023-03-06T10:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 6811256098,
+      "trackId": 6811256098,
+      "collectionName": "关中李某读三体",
+      "artistName": "关中李某",
+      "feedUrl": "https://podcast.natt.cc/feeds/guanzhong-limou.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%B3%E4%B8%AD%E6%9D%8E%E6%9F%90%E8%AF%BB%E4%B8%89%E4%BD%93/id6811256098?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 6,
+      "releaseDate": "2026-10-07T12:28:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1848021886,
+      "trackId": 1848021886,
+      "collectionName": "科幻深读《三体》｜趣读｜另类解读",
+      "artistName": "科幻深读小峰",
+      "feedUrl": "https://www.ximalaya.com/album/108736084.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%A7%91%E5%B9%BB%E6%B7%B1%E8%AF%BB-%E4%B8%89%E4%BD%93-%E8%B6%A3%E8%AF%BB-%E5%8F%A6%E7%B1%BB%E8%A7%A3%E8%AF%BB/id1848021886?uo=4",
+      "genres": [
+        "科幻小說",
+        "Podcast",
+        "小說",
+        "科技"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1318"
+      ],
+      "trackCount": 101,
+      "releaseDate": "2026-01-13T12:17:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科幻小說"
+    },
+    {
+      "collectionId": 1536001759,
+      "trackId": 1536001759,
+      "collectionName": "Santi Hermalia",
+      "artistName": "Santi Hermalia123",
+      "feedUrl": "https://anchor.fm/s/3b99de10/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-hermalia/id1536001759?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2020-10-15T04:27:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1650324450,
+      "trackId": 1650324450,
+      "collectionName": "Japanese man Santi's Radio",
+      "artistName": "Kent Iida aka Santi",
+      "feedUrl": "https://anchor.fm/s/c24f97c4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/japanese-man-santis-radio/id1650324450?uo=4",
+      "genres": [
+        "語言學習",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1498",
+        "26",
+        "1304"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2023-01-07T21:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "語言學習"
+    },
+    {
+      "collectionId": 1528871145,
+      "trackId": 1528871145,
+      "collectionName": "santi's podcast",
+      "artistName": "santi",
+      "feedUrl": "https://www.spreaker.com/show/4540655/episodes/feed",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santis-podcast/id1528871145?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2020-09-03T04:33:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1835726623,
+      "trackId": 1835726623,
+      "collectionName": "El camino de Santi",
+      "artistName": "Santi",
+      "feedUrl": "https://podcast.santiago-mj.com/@PreguntaleASanti/feed.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/el-camino-de-santi/id1835726623?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 123,
+      "releaseDate": "2026-10-24T19:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1545432227,
+      "trackId": 1545432227,
+      "collectionName": "Santi el crack",
+      "artistName": "Santi",
+      "feedUrl": "https://anchor.fm/s/44aa56b0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-el-crack/id1545432227?uo=4",
+      "genres": [
+        "課程",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2020-12-17T15:42:00Z",
+      "country": "TWN",
+      "primaryGenreName": "課程"
+    },
+    {
+      "collectionId": 1544923739,
+      "trackId": 1544923739,
+      "collectionName": "Podcast Music and Film by: santi khairunnisa",
+      "artistName": "Santi",
+      "feedUrl": "https://anchor.fm/s/44209060/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/podcast-music-and-film-by-santi-khairunnisa/id1544923739?uo=4",
+      "genres": [
+        "音樂評論",
+        "Podcast",
+        "音樂"
+      ],
+      "genreIds": [
+        "1523",
+        "26",
+        "1310"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2020-12-13T12:43:00Z",
+      "country": "TWN",
+      "primaryGenreName": "音樂評論"
+    },
+    {
+      "collectionId": 1793923355,
+      "trackId": 1793923355,
+      "collectionName": "三胖工程師  | 軟體工程師的甘苦談",
+      "artistName": "三胖工程師",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/897e614c-858b-433e-8b4d-d55680290a35.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%89%E8%83%96%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%9A%84%E7%94%98%E8%8B%A6%E8%AB%87/id1793923355?uo=4",
+      "genres": [
+        "喜劇",
+        "Podcast",
+        "科技"
+      ],
+      "genreIds": [
+        "1303",
+        "26",
+        "1318"
+      ],
+      "trackCount": 28,
+      "releaseDate": "2025-08-31T15:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇"
+    },
+    {
+      "collectionId": 1568976342,
+      "trackId": 1568976342,
+      "collectionName": "Santi Nur Gusti",
+      "artistName": "Santi Nurgusti",
+      "feedUrl": "https://anchor.fm/s/5c4a976c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-nur-gusti/id1568976342?uo=4",
+      "genres": [
+        "科幻小說",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2021-08-31T05:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科幻小說"
+    },
+    {
+      "collectionId": 1517481302,
+      "trackId": 1517481302,
+      "collectionName": "Putri dan Santi",
+      "artistName": "Putri dan Santi",
+      "feedUrl": "https://anchor.fm/s/2457a598/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/putri-dan-santi/id1517481302?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2021-10-29T15:27:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1586650191,
+      "trackId": 1586650191,
+      "collectionName": "Santi Puspita Sari",
+      "artistName": "Santi Puspita",
+      "feedUrl": "https://anchor.fm/s/6b62cf44/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-puspita-sari/id1586650191?uo=4",
+      "genres": [
+        "課程",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-09-13T16:17:00Z",
+      "country": "TWN",
+      "primaryGenreName": "課程"
+    },
+    {
+      "collectionId": 1803937339,
+      "trackId": 1803937339,
+      "collectionName": "SantiTV - Interview#1 Paul Bazin partner chez Daphni",
+      "artistName": "SantiTV",
+      "feedUrl": "https://feed.ausha.co/nRe6zSLnWrjW",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santitv-interview-1-paul-bazin-partner-chez-daphni/id1803937339?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321"
+      ],
+      "trackCount": 23,
+      "releaseDate": "2026-04-13T22:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1510724446,
+      "trackId": 1510724446,
+      "collectionName": "El gramófono de Santi",
+      "artistName": "El gramófono de Santi",
+      "feedUrl": "https://feeds.ivoox.com/feed_fg_f1904373_filtro_1.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/el-gram%C3%B3fono-de-santi/id1510724446?uo=4",
+      "genres": [
+        "音樂",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1310",
+        "26"
+      ],
+      "trackCount": 17,
+      "releaseDate": "2022-09-07T23:09:00Z",
+      "country": "TWN",
+      "primaryGenreName": "音樂"
+    },
+    {
+      "collectionId": 1515067217,
+      "trackId": 1515067217,
+      "collectionName": "Amandha Santi",
+      "artistName": "Amandha Santi",
+      "feedUrl": "https://anchor.fm/s/20d2a10c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/amandha-santi/id1515067217?uo=4",
+      "genres": [
+        "課程",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2020-05-17T12:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "課程"
+    },
+    {
+      "collectionId": 1588802710,
+      "trackId": 1588802710,
+      "collectionName": "Santi Fernández Podcast",
+      "artistName": "Santi Fernandez",
+      "feedUrl": "https://anchor.fm/s/4f37b190/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-fern%C3%A1ndez-podcast/id1588802710?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-10-04T19:19:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1577979739,
+      "trackId": 1577979739,
+      "collectionName": "Hablando con Santi",
+      "artistName": "Santi Gordillo",
+      "feedUrl": "https://anchor.fm/s/63055038/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/hablando-con-santi/id1577979739?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-07-06T18:52:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1516367748,
+      "trackId": 1516367748,
+      "collectionName": "Santi Villarreal ~",
+      "artistName": "Santi Villarreal",
+      "feedUrl": "https://anchor.fm/s/b952f1c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-villarreal/id1516367748?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304"
+      ],
+      "trackCount": 12,
+      "releaseDate": "2020-12-02T19:43:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1533196984,
+      "trackId": 1533196984,
+      "collectionName": "Yo soy Santi",
+      "artistName": "Santi Podcast",
+      "feedUrl": "https://anchor.fm/s/2b6755f4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/yo-soy-santi/id1533196984?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2020-09-23T19:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1576112081,
+      "trackId": 1576112081,
+      "collectionName": "santi rusdiatmaja",
+      "artistName": "Santi Rusdiatmaja",
+      "feedUrl": "https://anchor.fm/s/62ccad64/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-rusdiatmaja/id1576112081?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2021-07-07T05:44:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1567501161,
+      "trackId": 1567501161,
+      "collectionName": "El Podcast de Santi y Andy",
+      "artistName": "Santi y Andy",
+      "feedUrl": "https://anchor.fm/s/588b14a8/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/el-podcast-de-santi-y-andy/id1567501161?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2021-06-14T05:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1531909829,
+      "trackId": 1531909829,
+      "collectionName": "Matee Di Santi (hablemos un rato)",
+      "artistName": "Mateo Di Santi",
+      "feedUrl": "https://anchor.fm/s/3658d974/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/matee-di-santi-hablemos-un-rato/id1531909829?uo=4",
+      "genres": [
+        "喜劇",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1303",
+        "26"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2020-09-17T20:57:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇"
+    },
+    {
+      "collectionId": 1457725648,
+      "trackId": 1457725648,
+      "collectionName": "Santi Capó",
+      "artistName": "Santi Capó",
+      "feedUrl": "https://anchor.fm/s/a01a1bc/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-cap%C3%B3/id1457725648?uo=4",
+      "genres": [
+        "教育",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2019-03-22T15:19:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1542901425,
+      "trackId": 1542901425,
+      "collectionName": "Santi Sopianti",
+      "artistName": "Santi Sopianti",
+      "feedUrl": "https://anchor.fm/s/3933da90/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-sopianti/id1542901425?uo=4",
+      "genres": [
+        "教育",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2020-12-04T05:41:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1547457071,
+      "trackId": 1547457071,
+      "collectionName": "Afri Ani Santi",
+      "artistName": "Afri ani Santi",
+      "feedUrl": "https://anchor.fm/s/46981458/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/afri-ani-santi/id1547457071?uo=4",
+      "genres": [
+        "語言學習",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1498",
+        "26",
+        "1304"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2021-05-08T04:13:00Z",
+      "country": "TWN",
+      "primaryGenreName": "語言學習"
+    },
+    {
+      "collectionId": 1539553773,
+      "trackId": 1539553773,
+      "collectionName": "santi gamermasterYT",
+      "artistName": "santi gamermasterYT",
+      "feedUrl": "https://anchor.fm/s/3f2d1ec0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-gamermasteryt/id1539553773?uo=4",
+      "genres": [
+        "兒童教育",
+        "Podcast",
+        "兒童與家庭"
+      ],
+      "genreIds": [
+        "1519",
+        "26",
+        "1305"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2020-11-08T18:17:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童教育"
+    },
+    {
+      "collectionId": 1847208785,
+      "trackId": 1847208785,
+      "collectionName": "Compartiendo la palabra de Dios por Becky & Santi.",
+      "artistName": "BECKY y SANTI",
+      "feedUrl": "https://anchor.fm/s/10aaa6d78/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/compartiendo-la-palabra-de-dios-por-becky-santi/id1847208785?uo=4",
+      "genres": [
+        "宗教與精神生活",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1314",
+        "26"
+      ],
+      "trackCount": 22,
+      "releaseDate": "2026-08-25T01:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "宗教與精神生活"
+    },
+    {
+      "collectionId": 1461797501,
+      "trackId": 1461797501,
+      "collectionName": "Santi el Tek",
+      "artistName": "Santi en la tech",
+      "feedUrl": "https://anchor.fm/s/af39468/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-el-tek/id1461797501?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2019-05-24T22:47:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1548256785,
+      "trackId": 1548256785,
+      "collectionName": "OriginalmenteSanti",
+      "artistName": "OriginalmenteSanti",
+      "feedUrl": "https://anchor.fm/s/47413538/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/originalmentesanti/id1548256785?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2021-02-21T02:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1556389773,
+      "trackId": 1556389773,
+      "collectionName": "Santi Fernández Podcast",
+      "artistName": "Santi Fernández",
+      "feedUrl": "https://anchor.fm/s/4f3a7560/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-fern%C3%A1ndez-podcast/id1556389773?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2021-03-01T18:21:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1477864413,
+      "trackId": 1477864413,
+      "collectionName": "This Is Santi",
+      "artistName": "Santi Dheone",
+      "feedUrl": "https://anchor.fm/s/d953e9c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/this-is-santi/id1477864413?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2020-04-19T11:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1553222750,
+      "trackId": 1553222750,
+      "collectionName": "SantiElis",
+      "artistName": "Santi Elis",
+      "feedUrl": "https://anchor.fm/s/485461c0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santielis/id1553222750?uo=4",
+      "genres": [
+        "教學",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1499",
+        "26",
+        "1304"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2021-01-29T06:09:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教學"
+    },
+    {
+      "collectionId": 1530511057,
+      "trackId": 1530511057,
+      "collectionName": "Celoteh Santi",
+      "artistName": "santi kertadinata",
+      "feedUrl": "https://anchor.fm/s/1f71a3d0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/celoteh-santi/id1530511057?uo=4",
+      "genres": [
+        "兒童與家庭",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1305",
+        "26"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2020-09-14T15:34:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童與家庭"
+    },
+    {
+      "collectionId": 1559799349,
+      "trackId": 1559799349,
+      "collectionName": "Santi Rahmawati",
+      "artistName": "Santi Rahmawati",
+      "feedUrl": "https://anchor.fm/s/5183858c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-rahmawati/id1559799349?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-03-22T05:47:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1524267738,
+      "trackId": 1524267738,
+      "collectionName": "Santi Dewi",
+      "artistName": "Santi Dewi",
+      "feedUrl": "https://anchor.fm/s/2c814e54/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-dewi/id1524267738?uo=4",
+      "genres": [
+        "教育",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2020-07-18T08:11:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 507959687,
+      "trackId": 507959687,
+      "collectionName": "Vito D' Santi's Podcast",
+      "artistName": "VITO D' SANTI",
+      "feedUrl": "https://vitodsanti.podomatic.com/rss2.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/vito-d-santis-podcast/id507959687?uo=4",
+      "genres": [
+        "音樂",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1310",
+        "26"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2017-02-28T14:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "音樂"
+    },
+    {
+      "collectionId": 1549577315,
+      "trackId": 1549577315,
+      "collectionName": "Santi Mala BK",
+      "artistName": "Santi Mala",
+      "feedUrl": "https://anchor.fm/s/4853ff50/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-mala-bk/id1549577315?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304"
+      ],
+      "trackCount": 6,
+      "releaseDate": "2021-08-02T00:57:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1230189660,
+      "trackId": 1230189660,
+      "collectionName": "Casados y complicados, con Santi y Laurita",
+      "artistName": "Uforia Podcasts",
+      "feedUrl": "https://feeds.simplecast.com/Mlx_M_CU",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/casados-y-complicados-con-santi-y-laurita/id1230189660?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 183,
+      "releaseDate": "2026-05-05T11:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 6795351293,
+      "trackId": 6795351293,
+      "collectionName": "哔哩话题收藏点赞的三维联动，本自媒体供货商平台提供内容增值方案",
+      "artistName": "哔哩话题收藏点赞的三维联动，本自媒体供货商平台提供内容增值方案",
+      "feedUrl": "https://feed.firstory.me/rss/user/cms3yymkq003q01wc1y7m1dgh",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%94%E5%93%A9%E8%AF%9D%E9%A2%98%E6%94%B6%E8%97%8F%E7%82%B9%E8%B5%9E%E7%9A%84%E4%B8%89%E7%BB%B4%E8%81%94%E5%8A%A8-%E6%9C%AC%E8%87%AA%E5%AA%92%E4%BD%93%E4%BE%9B%E8%B4%A7%E5%95%86%E5%B9%B3%E5%8F%B0%E6%8F%90%E4%BE%9B%E5%86%85%E5%AE%B9%E5%A2%9E%E5%80%BC%E6%96%B9%E6%A1%88/id6795351293?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "小說",
+        "科幻小說"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-07-28T01:22:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 6806505651,
+      "trackId": 6806505651,
+      "collectionName": "引爆Z世代社区的至高荣誉仪式：深度体验B站三连带来的极致创作满足感与算法红利",
+      "artistName": "引爆Z世代社区的至高荣誉仪式：深度体验B站三连带来的极致创作满足感与算法红利",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtdyqc9v0tga01z4e8fa27s7",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%BC%95%E7%88%86z%E4%B8%96%E4%BB%A3%E7%A4%BE%E5%8C%BA%E7%9A%84%E8%87%B3%E9%AB%98%E8%8D%A3%E8%AA%89%E4%BB%AA%E5%BC%8F-%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8Cb%E7%AB%99%E4%B8%89%E8%BF%9E%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%9E%81%E8%87%B4%E5%88%9B%E4%BD%9C%E6%BB%A1%E8%B6%B3%E6%84%9F%E4%B8%8E%E7%AE%97%E6%B3%95%E7%BA%A2%E5%88%A9/id6806505651?uo=4",
+      "genres": [
+        "即興表演",
+        "Podcast",
+        "喜劇",
+        "小說",
+        "科幻小說"
+      ],
+      "genreIds": [
+        "1495",
+        "26",
+        "1303",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-29T05:56:00Z",
+      "country": "TWN",
+      "primaryGenreName": "即興表演"
+    },
+    {
+      "collectionId": 6785367389,
+      "trackId": 6785367389,
+      "collectionName": "哔哩粉增长遇到瓶颈？本自媒体供货商平台提供私域引流方案，让你的粉丝群从0到1万只用三个",
+      "artistName": "哔哩粉增长遇到瓶颈？本自媒体供货商平台提供私域引流方案，让你的粉丝群从0到1万只用三个月！",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmqypwqsc06b601xect1mej1n",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%94%E5%93%A9%E7%B2%89%E5%A2%9E%E9%95%BF%E9%81%87%E5%88%B0%E7%93%B6%E9%A2%88-%E6%9C%AC%E8%87%AA%E5%AA%92%E4%BD%93%E4%BE%9B%E8%B4%A7%E5%95%86%E5%B9%B3%E5%8F%B0%E6%8F%90%E4%BE%9B%E7%A7%81%E5%9F%9F%E5%BC%95%E6%B5%81%E6%96%B9%E6%A1%88-%E8%AE%A9%E4%BD%A0%E7%9A%84%E7%B2%89%E4%B8%9D%E7%BE%A4%E4%BB%8E0%E5%88%B01%E4%B8%87%E5%8F%AA%E7%94%A8%E4%B8%89%E4%B8%AA/id6785367389?uo=4",
+      "genres": [
+        "即興表演",
+        "Podcast",
+        "喜劇",
+        "教育",
+        "語言學習"
+      ],
+      "genreIds": [
+        "1495",
+        "26",
+        "1303",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-06-29T04:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "即興表演"
+    },
+    {
+      "collectionId": 6794839658,
+      "trackId": 6794839658,
+      "collectionName": "流量提升策略结合公众号阅读3小时5W体验优化，让内容传播效果获得更多提升空间",
+      "artistName": "流量提升策略结合公众号阅读3小时5W体验优化，让内容传播效果获得更多提升空间",
+      "feedUrl": "https://feed.firstory.me/rss/user/cms1qovls1z7m01xp1pul6aph",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B5%81%E9%87%8F%E6%8F%90%E5%8D%87%E7%AD%96%E7%95%A5%E7%BB%93%E5%90%88%E5%85%AC%E4%BC%97%E5%8F%B7%E9%98%85%E8%AF%BB3%E5%B0%8F%E6%97%B65w%E4%BD%93%E9%AA%8C%E4%BC%98%E5%8C%96-%E8%AE%A9%E5%86%85%E5%AE%B9%E4%BC%A0%E6%92%AD%E6%95%88%E6%9E%9C%E8%8E%B7%E5%BE%97%E6%9B%B4%E5%A4%9A%E6%8F%90%E5%8D%87%E7%A9%BA%E9%97%B4/id6794839658?uo=4",
+      "genres": [
+        "時尚與美容",
+        "Podcast",
+        "藝術",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1459",
+        "26",
+        "1301",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-07-26T11:56:00Z",
+      "country": "TWN",
+      "primaryGenreName": "時尚與美容"
+    },
+    {
+      "collectionId": 6803440734,
+      "trackId": 6803440734,
+      "collectionName": "想让你的微博博文评论区人气爆棚吗 3zan.cc 体验高权重评论增幅方案轻松打造热门互动",
+      "artistName": "想让你的微博博文评论区人气爆棚吗 3zan.cc 体验高权重评论增幅方案轻松打造热门互动",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmt1by1pf0ucd01uzcthj8whv",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%83%B3%E8%AE%A9%E4%BD%A0%E7%9A%84%E5%BE%AE%E5%8D%9A%E5%8D%9A%E6%96%87%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%BA%BA%E6%B0%94%E7%88%86%E6%A3%9A%E5%90%97-3zan-cc-%E4%BD%93%E9%AA%8C%E9%AB%98%E6%9D%83%E9%87%8D%E8%AF%84%E8%AE%BA%E5%A2%9E%E5%B9%85%E6%96%B9%E6%A1%88%E8%BD%BB%E6%9D%BE%E6%89%93%E9%80%A0%E7%83%AD%E9%97%A8%E4%BA%92%E5%8A%A8/id6803440734?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "教育",
+        "教學"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-20T09:46:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 6803165466,
+      "trackId": 6803165466,
+      "collectionName": "自动化平台赋能公众号流量运营，冲刺公众号阅读 3 小时 5W 目标沉淀优质受众群体",
+      "artistName": "自动化平台赋能公众号流量运营，冲刺公众号阅读 3 小时 5W 目标沉淀优质受众群体",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmt09e28o0bfv01uahch852vz",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B9%B3%E5%8F%B0%E8%B5%8B%E8%83%BD%E5%85%AC%E4%BC%97%E5%8F%B7%E6%B5%81%E9%87%8F%E8%BF%90%E8%90%A5-%E5%86%B2%E5%88%BA%E5%85%AC%E4%BC%97%E5%8F%B7%E9%98%85%E8%AF%BB-3-%E5%B0%8F%E6%97%B6-5w-%E7%9B%AE%E6%A0%87%E6%B2%89%E6%B7%80%E4%BC%98%E8%B4%A8%E5%8F%97%E4%BC%97%E7%BE%A4%E4%BD%93/id6803165466?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "教育",
+        "教學"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-19T15:48:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 1896939246,
+      "trackId": 1896939246,
+      "collectionName": "告别冷启动难题，体验极速在线全自动下单，快速搞定哔哩三连单币版业务",
+      "artistName": "告别冷启动难题，体验极速在线全自动下单，快速搞定哔哩三连单币版业务",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmqj4r0qz05wj01yv4ck5b8ak",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%91%8A%E5%88%AB%E5%86%B7%E5%90%AF%E5%8A%A8%E9%9A%BE%E9%A2%98-%E4%BD%93%E9%AA%8C%E6%9E%81%E9%80%9F%E5%9C%A8%E7%BA%BF%E5%85%A8%E8%87%AA%E5%8A%A8%E4%B8%8B%E5%8D%95-%E5%BF%AB%E9%80%9F%E6%90%9E%E5%AE%9A%E5%93%94%E5%93%A9%E4%B8%89%E8%BF%9E%E5%8D%95%E5%B8%81%E7%89%88%E4%B8%9A%E5%8A%A1/id1896939246?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "教育",
+        "語言學習"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-06-18T06:43:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 6808130085,
+      "trackId": 6808130085,
+      "collectionName": "哔哩三连双币体现用户对作品的多种反馈方式，从观看体验与内容认可认识互动功能，让创作",
+      "artistName": "哔哩三连双币体现用户对作品的多种反馈方式，从观看体验与内容认可认识互动功能，让创作者获得更加丰富的自然反馈",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtl7q0g2027u01um4ovf5uj6",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%94%E5%93%A9%E4%B8%89%E8%BF%9E%E5%8F%8C%E5%B8%81%E4%BD%93%E7%8E%B0%E7%94%A8%E6%88%B7%E5%AF%B9%E4%BD%9C%E5%93%81%E7%9A%84%E5%A4%9A%E7%A7%8D%E5%8F%8D%E9%A6%88%E6%96%B9%E5%BC%8F-%E4%BB%8E%E8%A7%82%E7%9C%8B%E4%BD%93%E9%AA%8C%E4%B8%8E%E5%86%85%E5%AE%B9%E8%AE%A4%E5%8F%AF%E8%AE%A4%E8%AF%86%E4%BA%92%E5%8A%A8%E5%8A%9F%E8%83%BD-%E8%AE%A9%E5%88%9B%E4%BD%9C/id6808130085?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "喜劇",
+        "脫口秀"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1303",
+        "1497"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-09-03T07:40:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 6804536853,
+      "trackId": 6804536853,
+      "collectionName": "央视频观影体验如何全面提升 3zan.cc 带来更顺畅的高清视听享受",
+      "artistName": "央视频观影体验如何全面提升 3zan.cc 带来更顺畅的高清视听享受",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmt6l31j401xe01xf3m4y463k",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%AE%E8%A7%86%E9%A2%91%E8%A7%82%E5%BD%B1%E4%BD%93%E9%AA%8C%E5%A6%82%E4%BD%95%E5%85%A8%E9%9D%A2%E6%8F%90%E5%8D%87-3zan-cc-%E5%B8%A6%E6%9D%A5%E6%9B%B4%E9%A1%BA%E7%95%85%E7%9A%84%E9%AB%98%E6%B8%85%E8%A7%86%E5%90%AC%E4%BA%AB%E5%8F%97/id6804536853?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-24T01:57:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 1541111883,
+      "trackId": 1541111883,
+      "collectionName": "Santi",
+      "artistName": "Catalina Montenegro",
+      "feedUrl": "https://anchor.fm/s/2f85dd54/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi/id1541111883?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2020-11-17T12:33:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1532628819,
+      "trackId": 1532628819,
+      "collectionName": "Santi",
+      "artistName": "Echa Nurmasusanti",
+      "feedUrl": "https://anchor.fm/s/3725e734/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi/id1532628819?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2020-09-17T12:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1621940597,
+      "trackId": 1621940597,
+      "collectionName": "【夏主教理Good Morning】 — 夏志誠主教3分鐘默想",
+      "artistName": "YouthBoilingPoint沸點- 香港天主教青年媒體",
+      "feedUrl": "https://www.spreaker.com/show/5542226/episodes/feed",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%8F%E4%B8%BB%E6%95%99%E7%90%86good-morning-%E5%A4%8F%E5%BF%97%E8%AA%A0%E4%B8%BB%E6%95%993%E5%88%86%E9%90%98%E9%BB%98%E6%83%B3/id1621940597?uo=4",
+      "genres": [
+        "基督教",
+        "Podcast",
+        "宗教與精神生活"
+      ],
+      "genreIds": [
+        "1439",
+        "26",
+        "1314"
+      ],
+      "trackCount": 1000,
+      "releaseDate": "2026-10-23T22:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "基督教"
+    },
+    {
+      "collectionId": 1760510831,
+      "trackId": 1760510831,
+      "collectionName": "我是亞斯妥瑞過動三位一體",
+      "artistName": "文組不意外",
+      "feedUrl": "https://media.rss.com/libartsgrad/feed.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%88%91%E6%98%AF%E4%BA%9E%E6%96%AF%E5%A6%A5%E7%91%9E%E9%81%8E%E5%8B%95%E4%B8%89%E4%BD%8D%E4%B8%80%E9%AB%94/id1760510831?uo=4",
+      "genres": [
+        "心理健康",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2024-08-01T09:56:00Z",
+      "country": "TWN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1556925449,
+      "trackId": 1556925449,
+      "collectionName": "Argonautas",
+      "artistName": "santi",
+      "feedUrl": "https://anchor.fm/s/4ddf4164/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/argonautas/id1556925449?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 64,
+      "releaseDate": "2022-10-31T07:13:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1544051313,
+      "trackId": 1544051313,
+      "collectionName": "Antah Berantah",
+      "artistName": "Santi Santi",
+      "feedUrl": "https://anchor.fm/s/42b22e3c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/antah-berantah/id1544051313?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2020-12-09T09:17:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1525948730,
+      "trackId": 1525948730,
+      "collectionName": "Un Día A La Vez",
+      "artistName": "Santi",
+      "feedUrl": "https://anchor.fm/s/2ecc3020/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/un-d%C3%ADa-a-la-vez/id1525948730?uo=4",
+      "genres": [
+        "基督教",
+        "Podcast",
+        "宗教與精神生活"
+      ],
+      "genreIds": [
+        "1439",
+        "26",
+        "1314"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2021-08-25T04:17:00Z",
+      "country": "TWN",
+      "primaryGenreName": "基督教"
+    },
+    {
+      "collectionId": 1576347699,
+      "trackId": 1576347699,
+      "collectionName": "Breve Historia De Reflexion",
+      "artistName": "Santi",
+      "feedUrl": "https://anchor.fm/s/63b2eeb4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/breve-historia-de-reflexion/id1576347699?uo=4",
+      "genres": [
+        "心理健康",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-07-12T00:41:00Z",
+      "country": "TWN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1523234423,
+      "trackId": 1523234423,
+      "collectionName": "swing",
+      "artistName": "santi",
+      "feedUrl": "https://anchor.fm/s/25e1c358/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/swing/id1523234423?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2022-03-15T16:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1778555452,
+      "trackId": 1778555452,
+      "collectionName": "Les Chroniques Absurdes",
+      "artistName": "SANTI",
+      "feedUrl": "https://feeds.acast.com/public/shows/672d40f5743b21a6140a1d97",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/les-chroniques-absurdes/id1778555452?uo=4",
+      "genres": [
+        "喜劇",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1303",
+        "26"
+      ],
+      "trackCount": 13,
+      "releaseDate": "2024-11-16T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇"
+    },
+    {
+      "collectionId": 1613080034,
+      "trackId": 1613080034,
+      "collectionName": "The Chasing Presence Podcast",
+      "artistName": "Santi",
+      "feedUrl": "https://anchor.fm/s/870684e8/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/the-chasing-presence-podcast/id1613080034?uo=4",
+      "genres": [
+        "靈修",
+        "Podcast",
+        "宗教與精神生活"
+      ],
+      "genreIds": [
+        "1444",
+        "26",
+        "1314"
+      ],
+      "trackCount": 100,
+      "releaseDate": "2025-03-06T01:20:00Z",
+      "country": "TWN",
+      "primaryGenreName": "靈修"
+    },
+    {
+      "collectionId": 1577483879,
+      "trackId": 1577483879,
+      "collectionName": "PODCAST MALAM",
+      "artistName": "Santi",
+      "feedUrl": "https://anchor.fm/s/64ad08e0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/podcast-malam/id1577483879?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-07-19T14:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1529468463,
+      "trackId": 1529468463,
+      "collectionName": "Amenos Podcast",
+      "artistName": "Santi",
+      "feedUrl": "https://anchor.fm/s/3293e554/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/amenos-podcast/id1529468463?uo=4",
+      "genres": [
+        "體育新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1529",
+        "26",
+        "1489"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2020-09-30T15:20:00Z",
+      "country": "TWN",
+      "primaryGenreName": "體育新聞"
+    },
+    {
+      "collectionId": 1549129589,
+      "trackId": 1549129589,
+      "collectionName": "Entrevista",
+      "artistName": "Santi",
+      "feedUrl": "https://anchor.fm/s/477a51ec/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/entrevista/id1549129589?uo=4",
+      "genres": [
+        "非營利",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1494",
+        "26",
+        "1321"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-01-14T19:24:00Z",
+      "country": "TWN",
+      "primaryGenreName": "非營利"
+    },
+    {
+      "collectionId": 1534839815,
+      "trackId": 1534839815,
+      "collectionName": "Creencias",
+      "artistName": "Santi",
+      "feedUrl": "https://anchor.fm/s/3a535388/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/creencias/id1534839815?uo=4",
+      "genres": [
+        "課程",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2020-10-06T16:14:00Z",
+      "country": "TWN",
+      "primaryGenreName": "課程"
+    },
+    {
+      "collectionId": 1558009581,
+      "trackId": 1558009581,
+      "collectionName": "Animales en Extincion",
+      "artistName": "Santi",
+      "feedUrl": "https://anchor.fm/s/4fc25f84/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/animales-en-extincion/id1558009581?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2023-04-01T01:38:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 6798367415,
+      "trackId": 6798367415,
+      "collectionName": "The Cassandra Effect",
+      "artistName": "Santi",
+      "feedUrl": "https://anchor.fm/s/11067742c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/the-cassandra-effect/id6798367415?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 6,
+      "releaseDate": "2026-07-24T22:59:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1769544441,
+      "trackId": 1769544441,
+      "collectionName": "Big back reviews",
+      "artistName": "SANTI",
+      "feedUrl": "https://anchor.fm/s/fae2f0e0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/big-back-reviews/id1769544441?uo=4",
+      "genres": [
+        "食物",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1306",
+        "26",
+        "1301"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2024-11-18T00:48:00Z",
+      "country": "TWN",
+      "primaryGenreName": "食物"
+    },
+    {
+      "collectionId": 6785780556,
+      "trackId": 6785780556,
+      "collectionName": "哔哩视频播放怎么突破初级流量池？本自媒体供货商平台提供\"前3秒高光帧+分区标签精准化\"方",
+      "artistName": "哔哩视频播放怎么突破初级流量池？本自媒体供货商平台提供\"前3秒高光帧+分区标签精准化\"方案——让完播率达标顺利推入万级推荐！",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmr09fkyi042901rj9v2eesb0",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E6%80%8E%E4%B9%88%E7%AA%81%E7%A0%B4%E5%88%9D%E7%BA%A7%E6%B5%81%E9%87%8F%E6%B1%A0-%E6%9C%AC%E8%87%AA%E5%AA%92%E4%BD%93%E4%BE%9B%E8%B4%A7%E5%95%86%E5%B9%B3%E5%8F%B0%E6%8F%90%E4%BE%9B-%E5%89%8D3%E7%A7%92%E9%AB%98%E5%85%89%E5%B8%A7-%E5%88%86%E5%8C%BA%E6%A0%87%E7%AD%BE%E7%B2%BE%E5%87%86%E5%8C%96-%E6%96%B9/id6785780556?uo=4",
+      "genres": [
+        "職業",
+        "Podcast",
+        "商業",
+        "教育",
+        "語言學習"
+      ],
+      "genreIds": [
+        "1410",
+        "26",
+        "1321",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-06-30T06:26:00Z",
+      "country": "TWN",
+      "primaryGenreName": "職業"
+    },
+    {
+      "collectionId": 1787987839,
+      "trackId": 1787987839,
+      "collectionName": "こじらせ男子From三軒茶屋 ～遊ぶ、学ぶ、笑う～",
+      "artistName": "元吉本芸人・体創家 山﨑貴博（三軒茶屋CONDITIONING SALON STRUT 代表 ）",
+      "feedUrl": "https://takahiro.koelab.link/feed/podcast/",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%81%93%E3%81%98%E3%82%89%E3%81%9B%E7%94%B7%E5%AD%90from%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B-%E9%81%8A%E3%81%B6-%E5%AD%A6%E3%81%B6-%E7%AC%91%E3%81%86/id1787987839?uo=4",
+      "genres": [
+        "瘦身",
+        "Podcast",
+        "健康與瘦身",
+        "商業",
+        "行銷"
+      ],
+      "genreIds": [
+        "1514",
+        "26",
+        "1512",
+        "1321",
+        "1492"
+      ],
+      "trackCount": 47,
+      "releaseDate": "2025-12-30T17:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "瘦身"
+    },
+    {
+      "collectionId": 6813383359,
+      "trackId": 6813383359,
+      "collectionName": "核心互动指标综合优化系统 52kol.top 专门针对点赞、投币、收藏三连数据提供一体化权重拉升与",
+      "artistName": "核心互动指标综合优化系统 52kol.top 专门针对点赞、投币、收藏三连数据提供一体化权重拉升与算法破圈方案",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmu6moqnz0gem01z516hd0u0f",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%A0%B8%E5%BF%83%E4%BA%92%E5%8A%A8%E6%8C%87%E6%A0%87%E7%BB%BC%E5%90%88%E4%BC%98%E5%8C%96%E7%B3%BB%E7%BB%9F-52kol-top-%E4%B8%93%E9%97%A8%E9%92%88%E5%AF%B9%E7%82%B9%E8%B5%9E-%E6%8A%95%E5%B8%81-%E6%94%B6%E8%97%8F%E4%B8%89%E8%BF%9E%E6%95%B0%E6%8D%AE%E6%8F%90%E4%BE%9B%E4%B8%80%E4%BD%93%E5%8C%96%E6%9D%83%E9%87%8D%E6%8B%89%E5%8D%87%E4%B8%8E/id6813383359?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "教育",
+        "教學"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-09-18T07:27:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1701978271,
+      "trackId": 1701978271,
+      "collectionName": "關於創世記的佈道(Ⅰ) - 神聖三位一體對人類的旨意",
+      "artistName": "The New Life Mission",
+      "feedUrl": "https://feeds.castos.com/zkzkv",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%97%9C%E6%96%BC%E5%89%B5%E4%B8%96%E8%A8%98%E7%9A%84%E4%BD%88%E9%81%93-%E7%A5%9E%E8%81%96%E4%B8%89%E4%BD%8D%E4%B8%80%E9%AB%94%E5%B0%8D%E4%BA%BA%E9%A1%9E%E7%9A%84%E6%97%A8%E6%84%8F/id1701978271?uo=4",
+      "genres": [
+        "基督教",
+        "Podcast",
+        "宗教與精神生活",
+        "宗教"
+      ],
+      "genreIds": [
+        "1439",
+        "26",
+        "1314",
+        "1532"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2023-08-10T11:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "基督教"
+    },
+    {
+      "collectionId": 1896907401,
+      "trackId": 1896907401,
+      "collectionName": "3とみのゆる日々トーク時々星よみポッドキャスト~心・体・魂で自然体に生きる",
+      "artistName": "3とみ(さんとみ)",
+      "feedUrl": "https://anchor.fm/s/1138a5228/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/3%E3%81%A8%E3%81%BF%E3%81%AE%E3%82%86%E3%82%8B%E6%97%A5%E3%80%85%E3%83%88%E3%83%BC%E3%82%AF%E6%99%82%E3%80%85%E6%98%9F%E3%82%88%E3%81%BF%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88-%E5%BF%83-%E4%BD%93-%E9%AD%82%E3%81%A7%E8%87%AA%E7%84%B6%E4%BD%93%E3%81%AB%E7%94%9F%E3%81%8D%E3%82%8B/id1896907401?uo=4",
+      "genres": [
+        "靈修",
+        "Podcast",
+        "宗教與精神生活"
+      ],
+      "genreIds": [
+        "1444",
+        "26",
+        "1314"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2026-10-18T15:32:00Z",
+      "country": "TWN",
+      "primaryGenreName": "靈修"
+    },
+    {
+      "collectionId": 1492864948,
+      "trackId": 1492864948,
+      "collectionName": "Är det ens sant!",
+      "artistName": "Nick Strömgren",
+      "feedUrl": "https://feed.podbean.com/nickmikaelstromgren/feed.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%C3%A4r-det-ens-sant/id1492864948?uo=4",
+      "genres": [
+        "喜劇",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1303",
+        "26"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2020-09-23T08:11:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇"
+    },
+    {
+      "collectionId": 1567927150,
+      "trackId": 1567927150,
+      "collectionName": "Santi & Lucho",
+      "artistName": "Santiago Gil",
+      "feedUrl": "https://anchor.fm/s/1c52a8c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-lucho/id1567927150?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-05-16T18:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1796514204,
+      "trackId": 1796514204,
+      "collectionName": "Cuento: Santi y el guerrero de las sombras.",
+      "artistName": "12183298408",
+      "feedUrl": "https://anchor.fm/s/1013c2e34/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/cuento-santi-y-el-guerrero-de-las-sombras/id1796514204?uo=4",
+      "genres": [
+        "兒童故事",
+        "Podcast",
+        "兒童與家庭"
+      ],
+      "genreIds": [
+        "1520",
+        "26",
+        "1305"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2025-02-15T03:41:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童故事"
+    },
+    {
+      "collectionId": 1582988788,
+      "trackId": 1582988788,
+      "collectionName": "De Que Hablar Con Santi.",
+      "artistName": "Eduardo Santiago Hernández López",
+      "feedUrl": "https://anchor.fm/s/5db59278/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/de-que-hablar-con-santi/id1582988788?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2021-08-19T17:55:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1866158213,
+      "trackId": 1866158213,
+      "collectionName": "I Diari dell'ispettore Santi Manaria",
+      "artistName": "Ferdinando Dagostino",
+      "feedUrl": "https://www.spreaker.com/show/5443268/episodes/feed",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/i-diari-dellispettore-santi-manaria/id1866158213?uo=4",
+      "genres": [
+        "小說",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1483",
+        "26"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2022-07-09T11:45:00Z",
+      "country": "TWN",
+      "primaryGenreName": "小說"
+    },
+    {
+      "collectionId": 6788535728,
+      "trackId": 6788535728,
+      "collectionName": "Path of Light - The Bodhi-Charyavatara of Santi-Deva",
+      "artistName": "Shantideva",
+      "feedUrl": "https://www.spreaker.com/show/7110730/episodes/feed",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/path-of-light-the-bodhi-charyavatara-of-santi-deva/id6788535728?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術",
+        "宗教與精神生活",
+        "宗教"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1314",
+        "1532"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2026-08-26T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 6781152115,
+      "trackId": 6781152115,
+      "collectionName": "Path of Light - The Bodhi-Charyavatara of Santi-Deva",
+      "artistName": "Shantideva",
+      "feedUrl": "https://www.spreaker.com/show/7110730/episodes/feed",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/path-of-light-the-bodhi-charyavatara-of-santi-deva/id6781152115?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術",
+        "宗教與精神生活",
+        "宗教"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1314",
+        "1532"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2026-08-26T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1535535686,
+      "trackId": 1535535686,
+      "collectionName": "Santi Y Oli",
+      "artistName": "Inconscientes Colonia",
+      "feedUrl": "https://anchor.fm/s/3b1ce450/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-y-oli/id1535535686?uo=4",
+      "genres": [
+        "行銷",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1492",
+        "26",
+        "1321"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2020-10-12T00:49:00Z",
+      "country": "TWN",
+      "primaryGenreName": "行銷"
+    },
+    {
+      "collectionId": 1560427736,
+      "trackId": 1560427736,
+      "collectionName": "Santi Bebe Mis Tareas",
+      "artistName": "Santiago Vargas valle",
+      "feedUrl": "https://anchor.fm/s/5390d0f0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-bebe-mis-tareas/id1560427736?uo=4",
+      "genres": [
+        "科技",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1318",
+        "26"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-03-25T20:20:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1518863175,
+      "trackId": 1518863175,
+      "collectionName": "Santi y los Musicales",
+      "artistName": "Santiago Forrester",
+      "feedUrl": "https://anchor.fm/s/2698c29c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-y-los-musicales/id1518863175?uo=4",
+      "genres": [
+        "表演",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1405",
+        "26",
+        "1301"
+      ],
+      "trackCount": 11,
+      "releaseDate": "2020-11-10T04:24:00Z",
+      "country": "TWN",
+      "primaryGenreName": "表演"
+    },
+    {
+      "collectionId": 1568565862,
+      "trackId": 1568565862,
+      "collectionName": "La Radio Santi FM",
+      "artistName": "Gabriel Shogo de Lima Ayabe",
+      "feedUrl": "https://anchor.fm/s/5913b790/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/la-radio-santi-fm/id1568565862?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-05-20T14:20:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1815504155,
+      "trackId": 1815504155,
+      "collectionName": "Dj Santy -Beat Of The ..",
+      "artistName": "mave",
+      "feedUrl": "https://cloud.mave.digital/63615",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/dj-santy-beat-of-the/id1815504155?uo=4",
+      "genres": [
+        "音樂",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1310",
+        "26"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2025-05-26T12:37:00Z",
+      "country": "TWN",
+      "primaryGenreName": "音樂"
+    },
+    {
+      "collectionId": 1551994481,
+      "trackId": 1551994481,
+      "collectionName": "Salva & Santi seassions",
+      "artistName": "Salvador Maldonado Hernandez",
+      "feedUrl": "https://anchor.fm/s/4accc1a4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/salva-santi-seassions/id1551994481?uo=4",
+      "genres": [
+        "音樂史",
+        "Podcast",
+        "音樂"
+      ],
+      "genreIds": [
+        "1524",
+        "26",
+        "1310"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-02-03T02:49:00Z",
+      "country": "TWN",
+      "primaryGenreName": "音樂史"
+    },
+    {
+      "collectionId": 1532002519,
+      "trackId": 1532002519,
+      "collectionName": "Radio Santi",
+      "artistName": "Santiago Ramirez",
+      "feedUrl": "https://anchor.fm/s/365981d0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/radio-santi/id1532002519?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2020-09-14T01:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1691516930,
+      "trackId": 1691516930,
+      "collectionName": "I quattro grandi Santi",
+      "artistName": "Serafino Tognetti",
+      "feedUrl": "https://www.spreaker.com/show/5840531/episodes/feed",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/i-quattro-grandi-santi/id1691516930?uo=4",
+      "genres": [
+        "宗教與精神生活",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1314",
+        "26"
+      ],
+      "trackCount": 6,
+      "releaseDate": "2023-06-21T15:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "宗教與精神生活"
+    },
+    {
+      "collectionId": 1872769007,
+      "trackId": 1872769007,
+      "collectionName": "Umani troppo umani. Storia senza santi né eroi",
+      "artistName": "Alessandro Liggieri",
+      "feedUrl": "https://anchor.fm/s/10e62a7c8/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/umani-troppo-umani-storia-senza-santi-n%C3%A9-eroi/id1872769007?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2026-01-28T19:40:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1588100445,
+      "trackId": 1588100445,
+      "collectionName": "Santi Time",
+      "artistName": "Santiago Brion",
+      "feedUrl": "https://media.rss.com/santitime/feed.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santi-time/id1588100445?uo=4",
+      "genres": [
+        "表演",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1405",
+        "26",
+        "1301"
+      ],
+      "trackCount": 113,
+      "releaseDate": "2026-10-14T23:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "表演"
+    },
+    {
+      "collectionId": 1535570741,
+      "trackId": 1535570741,
+      "collectionName": "Compartiendo con Santi",
+      "artistName": "Santiago Piedrabuena",
+      "feedUrl": "https://anchor.fm/s/3b2c70c8/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/compartiendo-con-santi/id1535570741?uo=4",
+      "genres": [
+        "嗜好",
+        "Podcast",
+        "休閒"
+      ],
+      "genreIds": [
+        "1505",
+        "26",
+        "1502"
+      ],
+      "trackCount": 44,
+      "releaseDate": "2022-08-21T00:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "嗜好"
+    },
+    {
+      "collectionId": 1500209553,
+      "trackId": 1500209553,
+      "collectionName": "Santi's Sanctuary",
+      "artistName": "Santiago Rojas",
+      "feedUrl": "https://feed.podbean.com/santissanctuary/feed.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/santis-sanctuary/id1500209553?uo=4",
+      "genres": [
+        "社會科學",
+        "Podcast",
+        "科學",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533",
+        "1512"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2021-02-05T00:43:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會科學"
+    },
+    {
+      "collectionId": 1525973813,
+      "trackId": 1525973813,
+      "collectionName": "Generazione Di Santi - Cafe Podcast",
+      "artistName": "Eduardo Barra Cordeiro",
+      "feedUrl": "https://anchor.fm/s/1276da9c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/generazione-di-santi-cafe-podcast/id1525973813?uo=4",
+      "genres": [
+        "靈修",
+        "Podcast",
+        "宗教與精神生活"
+      ],
+      "genreIds": [
+        "1444",
+        "26",
+        "1314"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2020-07-31T23:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "靈修"
+    },
+    {
+      "collectionId": 1803867366,
+      "trackId": 1803867366,
+      "collectionName": "Health Law Unpacked With Maria T. Santi",
+      "artistName": "healthlawunpacked",
+      "feedUrl": "https://feed.podbean.com/healthlawunpacked/feed.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/health-law-unpacked-with-maria-t-santi/id1803867366?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2025-10-15T22:21:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    }
+  ]
+}

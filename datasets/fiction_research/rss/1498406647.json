@@ -1,0 +1,140 @@
+{
+  "show_id": "1498406647",
+  "feed_url": "http://www.ximalaya.com/album/32572232.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/32572232.xml",
+    "final_url": "http://www.ximalaya.com/album/32572232.xml",
+    "fetched_at": "2026-10-25T14:49:33.360560+00:00",
+    "status": 200,
+    "sha256": "55188f67ff1d9cfd797ac45413e13ba3bbdc88f4066ddae2d0b87035b324344e"
+  },
+  "status": "ok",
+  "title": {
+    "text": "超长篇科幻小说 你是谁 使命灵魂",
+    "truncated": false
+  },
+  "description": {
+    "text": "超长篇科幻悬疑小说《你是谁 使命灵魂》（原名《你是谁》），讲述一名出身神秘的商人陈刚，在莫名获得了一个文物——能量球之后，一个叫做“灵狐”的神秘人通过让常人无法理解的手段与他获得联系。使本来身患癌症的他奇迹般的恢复了健康。为了查出此人的身份与目的，陈刚顺着线索追查下去，却发现，自身已经堕入了更大的谜团与危险当中……",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 90,
+  "episodes": [
+    {
+      "id": "a04ae033790d50857b20469e603329a53ac74ad650113d5cf48a3b546f1794ea",
+      "guid": "https://aod.cos.tx.xmcdn.com/group72/M04/E9/1A/wKgO0F4ioKCj-PhIAAsoWdIua60474.m4a",
+      "title": {
+        "text": "你是谁 预告",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 18 Jan 2020 06:09:33 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8dba9d3aa85d20cac5b6c531781e6e024392647d0dd4484d72ddd77686c368dd",
+      "guid": "https://aod.cos.tx.xmcdn.com/group71/M0A/AD/9F/wKgO2V46ghvAbfPLAMthEH2ZExg722-aacv2-48K.m4a",
+      "title": {
+        "text": "你是谁 使命灵魂 第一章 11 拜见姨妈",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 05 Feb 2020 08:51:05 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "891896aae0f6191751f2db68d8c93b93e94a52ef095b05a2ddb79a7758dca1c8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group76/M0B/36/BC/wKgO1F5KAeeBYfalALPLTwutTUM033-aacv2-48K.m4a",
+      "title": {
+        "text": "你是谁 使命灵魂 第二章 1 飞赴俄罗斯",
+        "truncated": false
+      },
+      "description": {
+        "text": "第一章结束，第二章俄罗斯篇正式开始。",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Feb 2020 03:00:02 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "8ba9dfd7ef3529ac958682634214bf3673dbe259e6b767b9f0334218510f221d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group73/M02/DB/29/wKgO2153B7fBozqeAHnyD5UAOa4531-aacv2-48K.m4a",
+      "title": {
+        "text": "你是谁 使命灵魂 第二章 13 获得异能",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 22 Mar 2020 06:37:21 GMT",
+      "feed_index": 38
+    },
+    {
+      "id": "80ae6ca26ae8f658302dca995cb902819efe1d74853710ea82fbaca8fecd4fa3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group76/M0B/35/63/wKgO3l6bQqDQYqCnAGfxILWBvDE198-aacv2-48K.m4a",
+      "title": {
+        "text": "你是谁 使命灵魂 第二章 26 阿尔法风暴 下",
+        "truncated": false
+      },
+      "description": {
+        "text": "超长篇科幻悬疑小说《你是谁 使命灵魂》（原名《你是谁》），讲述一名出身神秘的商人陈刚，在莫名获得了一个文物——能量球之后，一个叫做“灵狐”的神秘人通过让常人无法理解的手段与他获得联系。使本来身患癌症的他奇迹般的恢复了健康。为了查出此人的身份与目的，陈刚顺着线索追查下去，却发现，自身已经堕入了更大的谜团与危险当中……",
+        "truncated": false
+      },
+      "published_at": "Sat, 18 Apr 2020 18:10:21 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "219002a16dc4ce925ee564b60c9fc881b97b7b15bd32a735c29048d075187f78",
+      "guid": "https://aod.cos.tx.xmcdn.com/group80/M05/95/31/wKgPEV66AsOTdO73AMRU17mVmYc906-aacv2-48K.m4a",
+      "title": {
+        "text": "你是谁 使命灵魂 第二章 39 患难男女（第二章完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 May 2020 01:58:00 GMT",
+      "feed_index": 64
+    },
+    {
+      "id": "f9c824cd45d21e9394bd9aa7148cb31ae9c7daeddb80b6283f983f0092a371fd",
+      "guid": "https://aod.cos.tx.xmcdn.com/group81/M0B/EA/55/wKgPEl7RvcrgNKrDAMge_zk7skg234.m4a",
+      "title": {
+        "text": "你是谁 使命灵魂 第三章 11 二次追杀",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 30 May 2020 01:58:00 GMT",
+      "feed_index": 76
+    },
+    {
+      "id": "53712f16dc64edf0282939aa196a3364af225e04ba74d2de537ef196f9a0eb63",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6283-audiofreehighqps/B4/77/CKwRIMAERO_0AKwIDwCcUaF6-aacv2-48K.m4a",
+      "title": {
+        "text": "你是谁 使命灵魂 第三章 24 劫后余波",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 08 Apr 2021 16:18:30 GMT",
+      "feed_index": 89
+    }
+  ]
+}

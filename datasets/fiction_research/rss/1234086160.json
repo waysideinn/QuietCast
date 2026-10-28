@@ -1,0 +1,139 @@
+{
+  "show_id": "1234086160",
+  "feed_url": "http://mu-chan.tokyo/podcast/feed/podcast/",
+  "source": {
+    "url": "http://mu-chan.tokyo/podcast/feed/podcast/",
+    "final_url": "http://mu-chan.tokyo/podcast/feed/podcast/",
+    "fetched_at": "2026-10-25T14:48:19.056928+00:00",
+    "status": 200,
+    "sha256": "0a9bd5c92dd401c9cd703d12f7fa44f4c65b8c9bf64f7c0c3db59c8a5609df7c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "女性の事業家井戸端会議",
+    "truncated": false
+  },
+  "description": {
+    "text": "稼ぐ女性になるための。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "explicit": "clean"
+  },
+  "feed_item_count": 83,
+  "episodes": [
+    {
+      "id": "859eaea6ebd793e03db10b6adff9694c86fcd2b42abbd80b9a897e535888a6c3",
+      "guid": "https://mu-chan.tokyo/podcast/?p=556",
+      "title": {
+        "text": "2月12日（火）サンクチュアリ出版にてトークイベント開催",
+        "truncated": false
+      },
+      "description": {
+        "text": "女性の事業家井戸端会議 本日は、イベント告知をさせていただきますが、 このイベントは先日本を出したご縁でお声掛 […]",
+        "truncated": false
+      },
+      "published_at": "Sun, 16 Dec 2018 00:00:22 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "d53fe1371d1590282e08c69684b65b56ea812253280bb114483b7ef743e45906",
+      "guid": "http://mu-chan.tokyo/podcast/?p=510",
+      "title": {
+        "text": "お席の予約はじまりました！",
+        "truncated": false
+      },
+      "description": {
+        "text": "女性の事業家井戸端会議 今日は、以前からお伝えしていました ここから変わる「わたしがつくる未来のわたしフォーラ […]",
+        "truncated": false
+      },
+      "published_at": "Sun, 09 Sep 2018 10:01:12 +0000",
+      "feed_index": 12
+    },
+    {
+      "id": "cea5704686de7ce4a37234477b04a5eecf60d3ac9eff9eb3196f793d6cf3d6fd",
+      "guid": "http://mu-chan.tokyo/podcast/?p=468",
+      "title": {
+        "text": "【女性を応援する思いを…】",
+        "truncated": false
+      },
+      "description": {
+        "text": "女性の事業家井戸端会議 最近は、少し特別編が続いていますが、 今日は、前回お伝えしたイベントを開催する私の思い […]",
+        "truncated": false
+      },
+      "published_at": "Sun, 24 Jun 2018 01:56:28 +0000",
+      "feed_index": 23
+    },
+    {
+      "id": "d03371a6bde8426390e2d9fa9848dace4a7ba236ea1e78bec2db07751596a4e2",
+      "guid": "http://mu-chan.tokyo/podcast/?p=398",
+      "title": {
+        "text": "＃42 派遣から、たった３年で会社の執行役員にまで！松尾実里さん",
+        "truncated": false
+      },
+      "description": {
+        "text": "女性の事業家井戸端会議。 本日のゲストはインブルーム株式会社の松尾実里さんです。 松尾さんは、社会復帰したい主 […]",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Apr 2018 00:30:32 +0000",
+      "feed_index": 35
+    },
+    {
+      "id": "04c64b8ed2d89f803edef2279eb62cca96f6ee773b128e2351c56096230c3437",
+      "guid": "http://mu-chan.tokyo/podcast/?p=308",
+      "title": {
+        "text": "特別編：30名の女性の事業家にお話をきいてみて",
+        "truncated": false
+      },
+      "description": {
+        "text": "女性の事業家井戸端会議 本日は、特別編ということで、インタビュアー北塔久見子の一人語りです。 こ […]",
+        "truncated": false
+      },
+      "published_at": "Sat, 30 Dec 2017 23:30:25 +0000",
+      "feed_index": 47
+    },
+    {
+      "id": "a57c40597355229f29724239b2f5b2ecb5fdc7de872026042ecbcbb4b1703ca5",
+      "guid": "http://mu-chan.tokyo/podcast/?p=238",
+      "title": {
+        "text": "#19様々な業界のトップ１％の方100名をインタビュー！トップ１％の自分になる方法をお伝えします。三井玲奈さん",
+        "truncated": false
+      },
+      "description": {
+        "text": "女性の事業家井戸端会議 本日のゲストは有限会社ラポールイン代表取締役社長の三井玲奈さんです。 三 […]",
+        "truncated": false
+      },
+      "published_at": "Sat, 07 Oct 2017 23:50:45 +0000",
+      "feed_index": 59
+    },
+    {
+      "id": "93696e092943caf5de71d4e0a7ccb8b136c03a70ce4ec28c96ff5749460f1fe3",
+      "guid": "http://mu-chan.tokyo/podcast/?p=166",
+      "title": {
+        "text": "#12 SNSやリアルコミュニティを通じて事業を拡大してきたフェイスブックの嬢王様！日本一美人なインテリアデザイナ―柳井みうさん",
+        "truncated": false
+      },
+      "description": {
+        "text": "女性の事業家井戸端会議。 本日のゲストは、インテリアデザイナーであり、FBの嬢王様でもあり、会社 […]",
+        "truncated": false
+      },
+      "published_at": "Sat, 22 Jul 2017 22:50:46 +0000",
+      "feed_index": 70
+    },
+    {
+      "id": "9a7a11fdd356c4cf7843f76e551fe9c5c2dfacb174c2f7594a77bba8f4223ed0",
+      "guid": "http://mu-chan.tokyo/podcast/?p=1",
+      "title": {
+        "text": "#1はじめまして(*’▽’)インタビュアーの北塔です",
+        "truncated": false
+      },
+      "description": {
+        "text": "はじめまして！ 女性の事業家井戸端会議インタビュアーの北塔久見子（きたづかくみこ）です！ ここでは、様々な業界 […]",
+        "truncated": false
+      },
+      "published_at": "Sat, 06 May 2017 02:46:56 +0000",
+      "feed_index": 82
+    }
+  ]
+}

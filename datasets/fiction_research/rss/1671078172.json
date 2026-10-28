@@ -1,0 +1,140 @@
+{
+  "show_id": "1671078172",
+  "feed_url": "https://www.ximalaya.com/album/73100768.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/73100768.xml",
+    "final_url": "https://www.ximalaya.com/album/73100768.xml",
+    "fetched_at": "2026-10-25T14:45:06.752588+00:00",
+    "status": 200,
+    "sha256": "ada1f5cf878263acb7eaba3141132d531e8442d148cd559564dc1b2b931d4add"
+  },
+  "status": "ok",
+  "title": {
+    "text": "跑了7年，霸道总裁追上我丨霸总＆甜宠丨玄幻",
+    "truncated": false
+  },
+  "description": {
+    "text": "╱╱┏┳┳┳┳┳┳┳┳┳┳┳┳┳┳┓╲╲ 【书名】 跑了7年，霸道总裁追上我 【作者】 沅小冀 【演播团队】 ——【Xia梦梦•宫团队】 ╲╲┗┻┻┻┻┻┻┻┻┻┻┻┻┻┻┛╱╱ 【内容简介】 一场误会，咫尺天涯折磨7年；一场意外，时空转换真真假假是否能 再续前缘……婚礼当天的弃“我”而去，“我”又该何去何从…… 【契子】 世上是否真的有七色花呢？是否真的有曼德拉草呢？ 白驹过隙，时光深深浅浅、磕磕绊绊…… 秦深，好久不见……",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "serial",
+    "explicit": "true"
+  },
+  "feed_item_count": 58,
+  "episodes": [
+    {
+      "id": "dc3d35709d7510a2c513a7b73ebd2de7aec0bb79920b8a5abf84c93d53c28211",
+      "guid": "xmly_track_595250105",
+      "title": {
+        "text": "01集 迷藏结束，小冀归来",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Dec 2022 07:08:32 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d045734beb70b91fb2f6cfb8ac9a408efe192bf6b4ef6de13360e3e5770780c1",
+      "guid": "xmly_track_595250401",
+      "title": {
+        "text": "09集 既然爱着，凭何错过",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Dec 2022 07:09:55 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "ad53a638a4ae4abbab70be951201d581189ea0a20010ab358507bb4b41fdee58",
+      "guid": "xmly_track_595253929",
+      "title": {
+        "text": "17集 情敌见面，暗斗互掐",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 12 Dec 2022 11:19:00 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "c70808655b43ed86b4b7273aa495f32a12d9a59cfa85e8fb57937ce4eeb7df0b",
+      "guid": "xmly_track_595254134",
+      "title": {
+        "text": "25集 秦浅突现，冀车遭殃",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Dec 2022 11:19:04 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "092b9c490ed3b3eeba8f0ea3653b6d30aafcafef584afc730ccdd5b25fe5516b",
+      "guid": "xmly_track_595254375",
+      "title": {
+        "text": "34集 秦深被劫，痕瑾情深",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Dec 2022 11:19:04 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "f75be1116335304db7df458d84d6564eea42ef116da5cb575dd1da5b5f04a7f9",
+      "guid": "xmly_track_595254575",
+      "title": {
+        "text": "42集 秦深撒娇，以菱骄纵",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 20 Dec 2022 11:19:02 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "167aae4dab0e55d45e0371c00c2e5b820bc4551363fe677cde4ff7ddd4098e74",
+      "guid": "xmly_track_595494587",
+      "title": {
+        "text": "51集 重见阿秋，以菱落水",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Dec 2022 11:19:00 GMT",
+      "feed_index": 49
+    },
+    {
+      "id": "a16e0afa88b9b625cbf2d22f1af6687a11ae499fb86dfb1a48497f4cfb3d4186",
+      "guid": "xmly_track_595494755",
+      "title": {
+        "text": "58集 女叫阿秋，儿名阿雎",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Dec 2022 11:19:02 GMT",
+      "feed_index": 57
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1502529309",
+  "feed_url": "http://www.ximalaya.com/album/29048884.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/29048884.xml",
+    "final_url": "http://www.ximalaya.com/album/29048884.xml",
+    "fetched_at": "2026-10-25T14:51:50.420871+00:00",
+    "status": 200,
+    "sha256": "8ce1ce3f45a5ff7f21dc6d0e99c2953133711be249295df1d1fd0cfb63cfe01b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "精酿／家酿啤酒",
+    "truncated": false
+  },
+  "description": {
+    "text": "介绍精酿知识和最新信息。分享家酿啤酒心得和乐趣。一起干杯吧！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 20,
+  "episodes": [
+    {
+      "id": "6925a2cdc4f03cb538ec188f4d32ce2427c8e7655b45ff91d57eedce8ed8af08",
+      "guid": "https://aod.cos.tx.xmcdn.com/group65/M03/5C/30/wKgMdF12ccfCIxkYAKfAnsXbpKM742-aacv2-48K.m4a",
+      "title": {
+        "text": "你喝过真正的啤酒吗？是时候认识精酿了！",
+        "truncated": false
+      },
+      "description": {
+        "text": "啤酒是平时司空见惯的饮料。但你知道除了一般平时超市、大小商店里买到的工业啤酒之外，还有一种啤酒叫精酿吗？ 在我身边，越来越多的啤酒爱好者开始推崇这种精酿啤酒，因为它口感浓郁，风味丰富，巧妙搭配可幻化千般滋味。这些人甚至称，精酿才是真正的啤酒。那么究竟什么才是精酿啤酒，它有何奥妙呢？下面的文章或许能帮你多了解一些精酿啤酒。此后本公众号还会介绍更多啤酒知识，让我们嗨起来吧。",
+        "truncated": false
+      },
+      "published_at": "Mon, 09 Sep 2019 15:37:09 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "942044dd54b092212792151e1ea3e5aeccce727c324b78098a10ae3e1c50240f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group75/M04/25/2D/wKgO0157NWCAL0cZBiHLRIi1zb4058.mp3",
+      "title": {
+        "text": "酿造日记之自己怎么酿啤酒",
+        "truncated": false
+      },
+      "description": {
+        "text": "在家也能做啤酒，秒杀喜力、嘉士伯。这次酿造日记就简单分享一下自己在家怎么做啤酒。 有问题随时可以留言问我。想尝一下自酿的味道也可以找我哦。 背景音乐 Brew of Swing（泼妇的摇摆精酿） 插曲 我把你灌醉 黄小琥",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 Mar 2020 10:46:09 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "d1a0bfc5fbf5700ead6170989a67010d3bcd2a51fbdfc9d3dce584ea8505c385",
+      "guid": "https://aod.cos.tx.xmcdn.com/group79/M06/92/B1/wKgPEF6nDH_Tas3OAgoFGqfCL-o126.mp3",
+      "title": {
+        "text": "酿酒日记／酿啤酒要哪些原材料？都有些什么要注意的？（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "关于配方包和麦芽、酵母的选购心得。",
+        "truncated": false
+      },
+      "published_at": "Mon, 27 Apr 2020 16:46:56 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "13dedcaa681c5ff638911214d08eb28609fbac9de9df0ca950f32ae6446dde0e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group75/M07/8A/20/wKgO017ZFASz9ViFAudFdHIoBuM987.mp3",
+      "title": {
+        "text": "修道院那些事补充La Trappe啤酒",
+        "truncated": false
+      },
+      "description": {
+        "text": "上两期修道院节目漏了一个Trappist啤酒——La Trappe，现补上。这是一个非常商业化的修道院啤酒品牌，居然和很多啤酒厂合作过，就也很多。 我自己酿的酒丽影IPA两周后熟成，有兴趣可留言预定，听众预订打九折，有兴趣留言给我。",
+        "truncated": false
+      },
+      "published_at": "Thu, 04 Jun 2020 15:32:21 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "0520bae400fce7abea457e9f838e85c4b223f6719cddfc25f88b75c3d892c4d3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group87/M0B/CC/E2/wKg5IV85OLOgEVTrBCWSikvF51s832.mp3",
+      "title": {
+        "text": "酿造日记／这次做了个黑色IPA",
+        "truncated": false
+      },
+      "description": {
+        "text": "黑色IPA，要配方的请转发评论",
+        "truncated": false
+      },
+      "published_at": "Sun, 16 Aug 2020 13:46:28 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "e1ba126a7cae81fe41f404d3cf0cc6c8a758a4ff19afb2c4ad872e638d3af95a",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6fc0-audiofreehighqps/41/EC/CMCoOScDdJmbBC9nOgBiwTcW.mp3",
+      "title": {
+        "text": "浑浊IPA你知道吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "浑浊IPA，英文叫 New England IPA，非常漂亮的好喝的一种IPA，来听听它的介绍吧。",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Nov 2020 15:39:11 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "15a7bdde1e654af227f3cec61779a24d0ae674ab58c8414ccbaa59ff26d2e5f9",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/566a-audiofreehighqps/C5/17/CKwRIW4EI8tIABAAAACSOJo-.mp3",
+      "title": {
+        "text": "器材／一体机初体验",
+        "truncated": false
+      },
+      "description": {
+        "text": "新买一体机，使用体验分享一下。",
+        "truncated": false
+      },
+      "published_at": "Sun, 14 Mar 2021 12:58:58 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "6f9090d2cc544e2e29fdecc888218fa0f0bf1dc179f5b6bde0d6504afedb48f4",
+      "guid": "xmly_track_533157414",
+      "title": {
+        "text": "你要知道的啤酒的异味和味道（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 17 May 2022 08:15:48 GMT",
+      "feed_index": 19
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-26",
+  "url": "https://itunes.apple.com/lookup?id=1573189055&entity=podcastEpisode&limit=20&country=CN",
+  "resultCount": 21,
+  "sample": [
+    {
+      "kind": "podcast",
+      "wrapperType": "track",
+      "artistId": 1500888129,
+      "collectionId": 1573189055,
+      "trackId": 1573189055,
+      "feedUrl": "https://www.ximalaya.com/album/51076156.xml"
+    },
+    {
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode",
+      "collectionId": 1573189055,
+      "trackId": 1000798080242,
+      "episodeGuid": "xmly_track_1027460197",
+      "feedUrl": "https://www.ximalaya.com/album/51076156.xml"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "show_id": "1482731836",
+  "feed_url": "https://s1.proxy.wavpub.com/weknownothing.xml",
+  "fetched_at": "2026-10-25T14:50:47.135283+00:00",
+  "status": "error",
+  "error": "response exceeds bounded metadata limit"
+}

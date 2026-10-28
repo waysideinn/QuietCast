@@ -1,0 +1,140 @@
+{
+  "show_id": "1462849476",
+  "feed_url": "http://www.ximalaya.com/album/9289739.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/9289739.xml",
+    "final_url": "http://www.ximalaya.com/album/9289739.xml",
+    "fetched_at": "2026-10-25T14:48:59.792175+00:00",
+    "status": 200,
+    "sha256": "93fe17c77c0c9fdd44b30997584cbb489768b01b0d781fad3e8dd171aed077bb"
+  },
+  "status": "ok",
+  "title": {
+    "text": "明星蜕变故事（风月杂志）",
+    "truncated": false
+  },
+  "description": {
+    "text": "讲述他们的爱情故事、悲欢离合 针对明星的情感经历、演绎生涯的变幻，以温婉的声音为您娓娓道来明星们不为人知的情感经历、娱乐圈的演艺生意； 在这里你可以听到陪伴你一起长大的她们的平常生活，她们也可以为爱哭、为爱犯傻、为爱痴狂...... 由东方视角&凤凰娱乐 联合出品",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 14,
+  "episodes": [
+    {
+      "id": "e3ce7ce15f16b5281f56edaa6d9f962ec60f6b296d94f356e2fcd8e05b8d3d27",
+      "guid": "https://aod.cos.tx.xmcdn.com/group37/M0B/E8/A6/wKgJoVo5zmPQK1wuAK2EcH_7Bgw542.m4a",
+      "title": {
+        "text": "崔真实：没有王子的灰姑娘",
+        "truncated": false
+      },
+      "description": {
+        "text": "推崇性原动力的弗洛伊德认为，这世上只有一种小说：那就是有着弑父娶母情结的俄狄浦斯的传说，从莎士比亚的《哈姆雷特》到托斯妥耶夫斯基的《卡拉马佐夫兄弟》无一不是这一故事的变异和发展； 而大多数热爱电视连续剧特别是韩剧的的各年龄女性眼里，大概从头至尾也只看到过一种连续剧：那就是灰姑娘找到白马王子，从此幸福生活的故事。无论是在古代现代，无论是职场新人还是草根丫头，无论是怎样的曲折迂回，她们最终都会遇上风度翩翩的潇洒富二代或者是命中注定的白马王子，从此过上向往中的生活……就像很多很多年前年的童话故事所写的那样，就像很多很多年前，我们第一次发现韩剧、遭遇韩剧，从而爱上韩剧的那样。 那最初的韩剧就是简直可以另译为“韩国灰姑娘”的《星梦奇缘》——",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Dec 2017 02:43:14 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "cfb933b4fd5ec1e140602d5b974b9b3ea08098d2c672c2af547990004752a29c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M07/80/CE/wKgJX1mIOWnjwFXSAYNRZaZOT9E502-aacv2-48K.m4a",
+      "title": {
+        "text": "林青霞：穿上女装是最美的女人，穿上男装是最帅的男人",
+        "truncated": false
+      },
+      "description": {
+        "text": "林青霞的英文名是Brigitte，碧姬，火之女神。 女神之美，威名赫赫，毋庸置疑，早已深印在一代人的心中。 金庸说：青霞的美，无人可匹敌。 徐克惊叹：一流的美女，都要有点男子气才成，林青霞这等美人，50年才会出一个。 周润发曾表示：我是一个打工仔时，就默默暗恋着银幕上的青霞。 张国荣生前对媒体证实，圈子里从来没整过容的，他知道有青霞。她是真正的“纯天然”，从头到脚，如假包换。 著名作家亦舒称颂过她的美：林青霞的漂亮不只在五官之间，连鬓脚、耳珠、眉毛、手指甚至脚趾，都无瑕可击。一个女子美成那个样子，而她自己却不知，多么可爱。 对青霞而言，美是负担，也是修行的开始。",
+        "truncated": false
+      },
+      "published_at": "Mon, 07 Aug 2017 09:55:16 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "33ae4ebf882b1070acdaa2a6137da0aea125558a8f8a91ebcd67525a704d041d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group2/M00/13/C9/wKgJRFlsFwWyFDr6AL336bEGG6U217.m4a",
+      "title": {
+        "text": "钟楚红 爱是一辈子在一起",
+        "truncated": false
+      },
+      "description": {
+        "text": "若要盘点五十年内有代表性的港台女演员，钟楚红必定上榜，且名列前茅。 钟楚红这个名字，不但堪称香港美女符号，对繁盛时期的香港电影也意味着四个字：不可替代。 天生尤物，娇憨美艳，她是上世纪八零年代的香港版玛丽莲梦露，是70、80后影迷念念不忘的红豆妹妹，是最适合大波浪的美女，拥有很多宠爱的女人。她有挑选良人的慧眼，有急流勇退的明智，更有坚守底线的定力。",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Jul 2017 01:46:04 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "8362b34aa50e49d6bc98d4a567ab44b1b6a113f6c79fca6e4d2426f947f82fc0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group18/M03/CC/06/wKgJJVlsFrKALwToANl6h4fJ-_A831.m4a",
+      "title": {
+        "text": "邵美琪 大女人的潇洒人生",
+        "truncated": false
+      },
+      "description": {
+        "text": "港剧中有一类女角，称为“知性女子”，颇得观众缘。 所谓知性，专指那种成熟理性，独立自主，率真大气的现代都会气质，角色的职业通常是医生、律师、新闻记者、职业经理人等。 这一类角色中的经典人物，非邵美琪莫属。",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Jul 2017 01:46:04 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "a0dfbf32667603ce4302d3409c64d1d2f514d9f731acb73fcb8ab70e4d0f3b46",
+      "guid": "https://aod.cos.tx.xmcdn.com/group19/M02/CC/C0/wKgJK1lsFuagDssrAM3CgQNQNn8971.m4a",
+      "title": {
+        "text": "李嘉欣 最美港姐的豪门之路",
+        "truncated": false
+      },
+      "description": {
+        "text": "1988年她披上港姐红氅时，港刊用了四个字来形容她的美貌，叫“石破天惊”。演过二十多部电影之后，港刊还是用四个字来形容她在电影中的位置——“木头美人”。 事实上李嘉欣一点也不木，她智商奇高，性格坚决，她演过的哪一部剧都不如她亲手导演的人生精彩——二十年来，她在众目睽睽之下恋爱如换画，对象不是帅哥就是巨富，每一段恋爱都让娱乐版格外兴奋。 38岁那年她出人意料地嫁给城中出名温柔的钻石王老五，为她缤纷的恋爱史画上一个完美的收梢——这时你才明白原来美女下凡，注定就是为了颠倒众生——因为靓的东西人人都喜欢。",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Jul 2017 01:46:04 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "83b1dba4ca4142c4256ad46bf71fce26c227492180d1eb9e3a982dfe4d8980f9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group29/M07/2E/44/wKgJWVlm1cCgxKrdAJl8qiwjimU177.m4a",
+      "title": {
+        "text": "郭富城 老男孩从不缺少爱",
+        "truncated": false
+      },
+      "description": {
+        "text": "一晃，郭富城居然都开了出道20周年纪念演唱会了。 剪郭富城式的头型，学爱不完的手势，花7块8毛钱买郭富城的磁带，铅笔盒上贴满了不干胶贴纸，那是70后、80后充满了快乐的记忆。20年过去，大叔级的他仍在舞台上蹦蹦跳跳，依旧是四大天王里唯一的单身汉，可当年的少女们，早已嫁作他人妇，为人妇为人母。 那个梳着三七分锅盖头的小帅哥，从冷气工人到舞蹈艺员，从广告男模到影视歌舞“天王”，动感舞步，诱惑眉眼，“对你爱爱爱不完，我可以天天月月年年到永远”，秒杀了多少少男少女萌动的心。犹记得骑着摩托机车穿皮夹克的狂野之城，在樱花树下跳parapara舞的城仔和柏芝，水汪汪的青春。 花开花落，岁月如歌。一起欢呼，一起失落。 郭富城出道20年，这一路也挺不容易。",
+        "truncated": false
+      },
+      "published_at": "Thu, 13 Jul 2017 02:07:40 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "a6ea57a834df23252945c137141f59397dc45ee3e45d29e397d7d9b1dd1b2300",
+      "guid": "https://aod.cos.tx.xmcdn.com/group29/M06/1C/32/wKgJXVllk8eiaC26AJt9Jqc-hZI767.m4a",
+      "title": {
+        "text": "张曼玉 这一生唯有爱情不能减退",
+        "truncated": false
+      },
+      "description": {
+        "text": "旧爱是用来出卖的，情人是用来背叛的。 ——题记",
+        "truncated": false
+      },
+      "published_at": "Wed, 12 Jul 2017 03:12:29 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "370fc09b0a8dc37cf92a5e9a829b8c27c655d544546fb7b5467116c7720f9dce",
+      "guid": "https://aod.cos.tx.xmcdn.com/group28/M00/12/0A/wKgJXFlkinLzOGG2ALPvnoqNx3E077-aacv2-48K.m4a",
+      "title": {
+        "text": "陈慧娴 我只想做感情中的弱者",
+        "truncated": false
+      },
+      "description": {
+        "text": "磁带、粤语歌，手抄歌词本，贴贴纸，港台明星照……这些是70年代生人，关于80、90年代娱乐生活的印记之一。 而喜欢听粤语歌曲的人，陈慧娴定是名单上的人物。她的好，并非贴贴纸上古装扮相明星般甜美和靓眼。当你捧一杯清茶，眯缝着双眼，窝在沙发里，漫步边际的遐想，曾经喜也好，忧也好，若有让时光洗去悲怨的心绪涌上，那时，她是无可替代的心路伴侣，宛如《月半小夜曲》。 而如今，已经46岁的陈慧娴依然梳着娃娃头，一身年轻人的打扮，若不是甜笑时的眼角出卖了她，你真的无法看出她的年龄。佛经中常说“相由心生”，或许她的心中有一颗脱离现实的心。 历经三段爱情后的她依然是那个爱情大过天的简单女子，她自觉对爱情要求并不高，“在感情里我只想做个弱者，希望对方能爱我、疼我、宠我，一定要把我放在第一位。”女人渴望依附的性格，从古到今都存在着，但无一例外都是奢求。 特别是在今天这个时代。",
+        "truncated": false
+      },
+      "published_at": "Tue, 11 Jul 2017 08:20:23 GMT",
+      "feed_index": 13
+    }
+  ]
+}

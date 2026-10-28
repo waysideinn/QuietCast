@@ -1,0 +1,140 @@
+{
+  "show_id": "1449153058",
+  "feed_url": "http://www.ximalaya.com/album/19758469.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/19758469.xml",
+    "final_url": "http://www.ximalaya.com/album/19758469.xml",
+    "fetched_at": "2026-10-25T14:49:31.109320+00:00",
+    "status": 200,
+    "sha256": "bc6041ee7f96f0297a7bf6afcbf445e6494d7f68533df44b4c2dff6afbefc090"
+  },
+  "status": "ok",
+  "title": {
+    "text": "维生素E|经济学与哲学知识分享",
+    "truncated": false
+  },
+  "description": {
+    "text": "生命需要维生素e！ 维生素e是一款完全免费的知识分享播客计划，我们分享构成这个世界，解释这个世界，创造这个世界的基础知识，并在基础上试图分析终极问题。 我们相信真理的普遍性，相信人和人之间可以相互理解。相信我们最终，可以通达真理",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 151,
+  "episodes": [
+    {
+      "id": "bbac5f7503c5ad9f13905c7782d5015d3bbb1393d27a3eb4fa645bf661bd781b",
+      "guid": "xmly_track_992838731",
+      "title": {
+        "text": "维生素E2.0 -07：程序",
+        "truncated": false
+      },
+      "description": {
+        "text": "我自认是一个强迫症主体，所以这一期播客，我还是要以我自己，就是一个强迫症主体的视角来讲述，对我而言，如何构建一个秩序，可以承载我的欲望。而ai在其中可以起到什么样的作用。 这一期叫做程序，也是维生素E 2.0的最终章。 Host： VE Contact 联系方式： DY：维生素E 经济学哲学知识分享 VX：vitaminEhelper 漫步小助手 公众号：漫步学派 小程序公测已经开始，有兴趣的朋友在VX”漫步学派“小程序，即可进入体验，专属邀请码：MWVEPOD 即可注册，注册免费获赠1个月高级会员。",
+        "truncated": false
+      },
+      "published_at": "Thu, 25 Jun 2026 14:07:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "bbc8b8474e63e1389d9948c0d56d738917ca46ac8d1b0393b21d7493f3a556c0",
+      "guid": "xmly_track_605712538",
+      "title": {
+        "text": "分析师话语闲谈：《三体》与构成性外部",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期分析师话语闲谈聊聊最近的三体电视剧与小说中的精神分析概念 Host： VE Contact 联系方式： DY：维生素E 经济学哲学知识分享 VX：vitaminEhelper 维生素e小助手 参与精神分析实践暗号：精神分析 telegram频道： https://t.me/vitamineEpodcast 维生素E近期举办各类线下活动，活动在北京，有意参加的私信小助手即可。",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Jan 2023 15:30:57 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "02cf96fb0af6ea5774e72b0e232c07a95c115d8cacc9effecb0e9b5bb697db59",
+      "guid": "xmly_track_524809376",
+      "title": {
+        "text": "精神分析篇导论：我们为什么需要精神分析",
+        "truncated": false
+      },
+      "description": {
+        "text": "我们漫步在本没有路的花园，这些随机的脚步，将给出答案。 维生素E精神分析篇 让我们回到拉康，解构话语中的迷雾，找到斩破符号系统之剑 本期是维生素E最终篇章，精神分析篇的一个导论，我们将在这期说明对精神分析的常见的理解与误解，为什么这个时代需要精神分析话语，维生素E致力于提供什么样的内容。以及我们会如何去提供这些内容。 本期时长大概一小时，希望对你有所帮助。 如果你对精神分析内容感兴趣，希望参与精神分析实践活动，或者希望参与精神分析相关读书分享与社群活动，欢迎关注shownotes里的telegram频道，或者加维生素E小助手好友进行咨询。此外如果您认为本期节目对您有所帮助，欢迎转发到各大互联网平台，感谢您的支持，希望我们成为相同路标指引下的同伴，期待您的加入。 Host： VE Contact 联系方式： DY：维生素E 经济学哲学知识分享 VX：vitaminEhelper 维生素e小助手 加好友暗号：精神分析 telegram频道： https://t.me/vitamineEpodcast 维生素E近期举办各类线下活动，活动在北京，有意参加的私信小助手即可。",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 Apr 2022 11:09:38 GMT",
+      "feed_index": 43
+    },
+    {
+      "id": "0da6d844837828418e4c4ca5eb3069e7bf485c0d4d9ae4f095d1aaefdfd2d70d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/73ec-audiofreehighqps/B7/68/CKwRIMAFKlqcAhsg8gDn_aqk.m4a",
+      "title": {
+        "text": "世界的逻辑图景：早期维特根斯坦（上）20世纪重要思想-vol.22",
+        "truncated": false
+      },
+      "description": {
+        "text": "开头： 欢迎收听20世纪重要思想，本期我们正式进入语言哲学，来讲述语言哲学的奠基人，也是20世纪最伟大的哲学家之一，维特根斯坦的哲学。本期从维特根斯坦的生平开始，详细讲述他的精力，他的问题意识以及他的第一本著作，逻辑哲学论创作的始末，并对逻辑哲学论的命题1-3进行句读式讲解，本期时常约一小时，希望对你有所帮助。 reference： 语言哲学——陈嘉映 逻辑哲学论——维特根斯坦 《逻辑哲学论》导读——罗杰怀特 20世纪分析哲学史——索姆斯 《维特根斯坦传》——蒙克 Host： • VE Contact 联系方式： VX：vitaminEhelper 维生素e小助手 telegram频道：https://t.me/vitamineEpodcast 今天维生素E举办逻辑哲学论线下读书研讨活动，有意参加的私信小助手“报名研讨”即可。",
+        "truncated": false
+      },
+      "published_at": "Wed, 29 Sep 2021 16:41:41 GMT",
+      "feed_index": 64
+    },
+    {
+      "id": "a37e12c18d5955bb823acda24768c2847a601065dc8ab5c695dd8ab4062e3c2a",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0b4b-audiofreehighqps/53/5E/CMCoOSQDs_4AAfmXAgBzAGDm-aacv2-48K.m4a",
+      "title": {
+        "text": "两周年special：1.1 关于人工智能与生活形式的对谈",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期是承接第一期节目的对谈节目，大概半个月前我去杭州出差与两位维生素E的听友约了见面聊天，其中一位朋友是美国留学与工作回来，在国内某互联网公司的法务，另外一位朋友刚刚毕业，去了某顶级技术公司从事人工智能相关开发测试工作。 两位同学在生活中都遇到了当前互联网环境造就的生活形式问题，其中互联网公司的同学受到随时随地工作待命的困扰，而在技术公司工作的同学则饱受技术伦理和公司氛围的困扰。 通过这次对谈，我对维生素E听众的优秀有了真切的实感，两位同学都对自己的生活形式与困境进行了深刻的思考，但因一些敏感信息和篇幅问题，只能放出部分内容，同时，因为对谈场所是在公共空间，所以杂音较多，请各位听众多多包涵。 主理人： VE 联系： telegram频道： https://t.me/vitamineEpodcast 如不知道telegram是什么或者打不开链接，可咨询小助手 VX：vitaminEhelper 维生素e小助手 收听方式： 喜马拉雅，网易云，spotify，苹果podcast等泛用播客泛用客户端",
+        "truncated": false
+      },
+      "published_at": "Sat, 19 Dec 2020 17:38:42 GMT",
+      "feed_index": 86
+    },
+    {
+      "id": "3e399488224a3b3a1840065955e79c55e85da8ac615b0b88cc5692a1b8b84295",
+      "guid": "https://aod.cos.tx.xmcdn.com/group79/M07/6B/10/wKgPEF64KfWBOYQkAh2QCma1RDY475-aacv2-48K.m4a",
+      "title": {
+        "text": "存在主义总结：作为一种生活方式的哲学-20世纪重要思想-vol.13",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期主要内容： 本期是维生素E存在主义系列的总结篇，存在主义系列是20世纪重要思想的第一个大型系列节目，我们在系列中，讲述了海德格尔，萨特，梅洛庞蒂，加缪，陀思妥耶夫斯基等存在主义代表的哲学家和作家的观点与作品，而今天，我们来讲讲存在主义作为一种生活方式，将如何指引每个人的个体生活。我们将思想，言谈和行为等方面切入，描述知名的存在主义者们的生活和立场，来说明作为一种生活方式的存在主义。同时，在系列的最后，我们也会讲述以列维施特劳斯为代表的结构主义者们对存在主义思想不足的提出。从而讲述存在主义思潮的没落。 以上，希望本期内容对你有所帮助。 reference： 《存在主义咖啡馆——自由、存在和杏子鸡尾酒》 莎拉·贝克韦尔 《存在主义 》（法）高宣扬 《存在主义简论》 托马斯·R.弗林 《第二性（合卷本）》 西蒙娜·德·波伏瓦 《非理性的人》 威廉·巴雷特 《存在主义是一种人道主义》 让-保罗·萨特 《《存在与时间》读本》 陈嘉映 《林中路（修订本）》海德格尔 《可见的与不可见的》 梅洛－庞蒂 《哲学赞词》 梅洛－庞蒂 所有书籍TG频道均可下载 Host： • VE Contact： VX：vitaminEhelper 维生素e小助手 VX小程序：小程序搜索 “维生素e播客” telegram频道： https://t.me/vitamineEpodcast",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 May 2020 16:19:41 GMT",
+      "feed_index": 107
+    },
+    {
+      "id": "a170a697cad2e9d0e3548ae52f6d1c728e21337ba69f0dce8f737146d2f8f296",
+      "guid": "https://aod.cos.tx.xmcdn.com/group64/M0B/31/C1/wKgMaV1hcsDy-kLmCFQ9_4G7Iy8707.mp3",
+      "title": {
+        "text": "闲谈7：物化——维生素E X 通言无忌",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期是做客朋友播客节目的谈话录音，也是一期新的尝试，本期的风格与之前的知识分享差异巨大，属于非常燥的一期节目，听之前做好心理准备。也欢迎关注好朋友通爷的节目“通言无忌”，之后应该也会经常一起录节目。 核心内容： 物化 物化现象 起源 发展 现代社会的物化 脱离物化的方案 Host： • VE Contact： 知乎：伟一VE VX：vitaminEhelper VX小程序：小程序搜索 “维生素e播客” telegram频道： https://t.me/vitamineEpodcast （内有reference内容下载）",
+        "truncated": false
+      },
+      "published_at": "Sat, 24 Aug 2019 17:28:42 GMT",
+      "feed_index": 129
+    },
+    {
+      "id": "18b43d71ed662d869fe590b827f1eb7510a2f742f636388cc5de5be4fadb1ea6",
+      "guid": "https://aod.cos.tx.xmcdn.com/group52/M00/95/C9/wKgLcFwRMCyhey15AemJXi-YfH0083-aacv2-48K.m4a",
+      "title": {
+        "text": "第一期 思维方式：休谟问题，罗素悖论与计量经济学",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期是维生素E的第1期， 我们要在这一期探讨一个构成了这个世界，但是却不是被人熟识的词，因果。 本期主要内容： 什么是因果 因果到底存不存在 休谟问题和罗素悖论 归纳逻辑和演绎逻辑 实用主义的出现 计量经济学简介 相关与回归 单因子线性回归 多因子线性回归 格兰杰因果检验 我们为什么一定要掌握这种思维方式 Host： • VE Contact： 知乎：伟一VE VX：vitaminEhelper VX小程序：小程序搜索 “维生素e播客” telegram频道： https://t.me/vitamineEpodcast （内有reference内容下载）",
+        "truncated": false
+      },
+      "published_at": "Wed, 12 Dec 2018 15:57:10 GMT",
+      "feed_index": 150
+    }
+  ]
+}

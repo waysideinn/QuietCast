@@ -1,0 +1,123 @@
+{
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/3d2cba16-9280-4217-acdd-c20ff4d2d1a4.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/3d2cba16-9280-4217-acdd-c20ff4d2d1a4.xml",
+    "fetched_at": "2026-10-26T08:05:48.572972+00:00",
+    "status": 200,
+    "sha256": "171d79475bdc9e05c6502b83ab9d3d2c059f6824498dcafa35ad974535588b7d"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "BL中文廣播劇－聲音無限廣播劇團出品",
+      "truncated": false
+    },
+    "description": {
+      "text": "「聲音無限Voice Infinity」成立於2013 ，製作的「台灣原創廣播劇」藉由聲音賦予漫畫、小說新的生命，帶給大家一場場新鮮的聽覺體驗。 更多內容可至 Facebook、Youtube、Instagram、Plurk 搜尋「聲音無限」 -- Hosting provided by SoundOn",
+      "truncated": false
+    },
+    "language": "zh",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "本作品由「聲音無限廣播劇團」策劃製作，未經授權，嚴禁擅意更改重製、搬運至他站、移作商業用途。本作品音樂與部分音效素材來源於網路，歸著作人所有。"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "聲音無限Voice Infinity"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "聲音無限Voice Infinity"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Arts"
+      ]
+    ],
+    "channel_link": "https://www.facebook.com/voiceinfinity18/",
+    "generator": "SoundOn",
+    "sampled_audio_endpoint_hosts": {
+      "rss.soundon.fm": 6
+    },
+    "feed_item_count": 6,
+    "episodes": [
+      {
+        "title": {
+          "text": "【BL廣播劇】《甜點師的專屬點心》番外篇 BL耽美廣播劇 Desire★Star系列｜冬彌原著｜聲音無限x尖端出版｜音箱x編號1087【聲音無限出品】",
+          "truncated": false
+        },
+        "description": {
+          "text": "台灣聲音無限廣播劇團出品 Youtube連結： https://youtu.be/m4LS512N8UA 聲音無限 x 冬彌 x 尖端出版聯名合作！ 藍月書系《Desire★Star系列》有聲化✨ 《甜點師的專屬點心番外篇》廣播劇由音箱與編號1087攜手獻聲！ 這是一個性感甜點師壞心眼攻X固執戀舊傲嬌大叔受、 滿足味蕾後坦承相對，到放下固執，身心靈皆被填滿的甜辣故事！這次的日常溫馨番外篇，也是甜蜜爆錶喔(*´艸`*) －－ 【STAFF】 原作／編劇：冬彌 https://www.facebook.com/himurotoumi/ https://www.plurk.com/toumi1103 監製：尖端出版 策劃／出品：聲音無限廣播劇團 導播：井西 https://www.facebook.com/voiceinfinityJX/ https://www.plurk.com/voiceinfinitygc 後製：ㄚ恰 https://www.facebook.com/VoiceInfinityAcha/ 繪師：ZawarC https://www.plurk.com/Zawar379 宣傳：尖端出版、聲音無限 特別感謝：淳編 【CAST】 詹柚隬：音箱 https://www.facebook.com/VIYinXian/ https://www.plurk.com/viyinx",
+          "truncated": true
+        },
+        "feed_index": 0,
+        "guid": "5bbb89f9-09c1-40fa-bdcf-bcfa6b298b17"
+      },
+      {
+        "title": {
+          "text": "【BL廣播劇】微H注意！《心動x汗水x蒙布朗》少爺番外全一期 現代原創BL耽美廣播劇【聲音無限出品】",
+          "truncated": false
+        },
+        "description": {
+          "text": "台灣聲音無限廣播劇團出品 Youtube連結： https://youtu.be/ZxYFiJwDAGI ⚠親吻／喘息描寫有，耳機推獎⚠ CAST 葉凌恩 │ 開司 蕭 奕 │ 巧頌 報 幕 │ 音箱 (FB：VIYinXian) (Plurk：viyinxian) STAFF 總策導 │ 井西 (FB、Plurk：voiceinfinitygc) 編 劇 │ 盆栽 後 期 │ ㄚ恰 (FB：VoiceInfinityAcha)、井西 特邀繪師 │ AKA (Plurk：AKA_16) ————————————————————————————— 音樂使用清單 Open Those Bright Eyes Source：Kevin MacLeod (incompetech.com) Marty Gots a Plan Source：Kevin MacLeod (incompetech.com) Sneaky Adventure Source：Kevin MacLeod (incompetech.com) Cool Vibes Source：Kevin MacLeod (incompetech.com) One Step Closer Source：Aakash Gandhi ————————————————————————————— 本作品由「聲音無限廣播劇團」策劃製作， 未經許可，",
+          "truncated": true
+        },
+        "feed_index": 1,
+        "guid": "1c36b6c6-6b1b-4b65-b314-303c854f95f0"
+      },
+      {
+        "title": {
+          "text": "【BL廣播劇】《墜入愛河的前五秒》 全一期 現代原創BL耽美廣播劇【幸福配方系列第四彈】【聲音無限出品】",
+          "truncated": false
+        },
+        "description": {
+          "text": "台灣聲音無限廣播劇團出品 Youtube連結： https://youtu.be/VrYVS7p7oQU 「研究顯示僅需幾秒的對視就能判斷是否與對方墜入愛河，同樣的理論適用於張又璟和賴皓一。 活潑外向的清爽帥哥&冷靜孤僻的惡口美少年，完全相反的兩個人，一個不停前進一個不停倒退， 但其實某個人早就停止退後—— 對望的瞬間就註定無法逃離，計時五秒的戀愛拉鋸戰正式開幕！」 CAST 張又璟 │ Adam(特邀) 賴皓一 │ 開司 方佑宏 │ 阿毛 老 師 │ 音箱(FB：VIYinXian)(Plurk：viyinxian) STAFF 總策導 │ 井西(FB、Plurk：voiceinfinitygc) 編 劇 │ Noki 後 期 │ 小三(FB：VoiceInfinity.Xiaosan)(Plurk：weiwei_lin) 宣 傳 │ 聲音無限幸福使者團（魚眼睛、阿默、音箱、井西） 特邀繪師 │ はねぴ ( www.plurk.com/hane_0928 ) ( https://www.facebook.com/hanekuhako ) ED 『冬之詩』(Short Ver.) 翻 唱 │ Moose ムース 【mylist/29744963】（co1709020）@moose827 原 曲 │《聴こえていますか》by 初音ミク 填 詞 │ 盆栽 特邀混音 │ 褚軒 A.C 聽不",
+          "truncated": true
+        },
+        "feed_index": 2,
+        "guid": "52a54716-d8eb-4324-838e-c4f6edde7944"
+      },
+      {
+        "title": {
+          "text": "【BL廣播劇】《戀愛偏差值32》全一期 現代原創BL耽美廣播劇【幸福配方系列第三彈】【聲音無限出品】",
+          "truncated": false
+        },
+        "description": {
+          "text": "台灣聲音無限廣播劇團出品 Youtube連結： https://youtu.be/dWI3FeMYsns 「李月澄和陳慶總是習慣著彼此相處在身邊的感覺，兩人似乎也從未細想十多年來的感情對自己有什麼樣的意義。原本不喜歡的食物，原本不擅長的事物，都只因為對方的存在而特別不同。直到過於激烈的心跳讓月澄刻意地拉開兩人的距離，但陳慶似乎卻只感到熟悉的人在身邊忽然生疏起來的距離讓自己特別不安而拼命靠近，如此退一步又進一步的愛的你追我跑攻防戰，就在甜蜜酸澀的草莓季絕贊起跑……！」 CAST 陳 慶 │ 音箱 李月澄 │ 老月 店 長 │ 井西 ＡＭＹ │ 阿默 STAFF 總策導 │ 井西 編 劇 │ 二御飴 ( www.plurk.com/starsinheaven ) ( http://weibo.com/starsinheaven ) 後 期 │ 小三 宣 傳 │ 聲音無限幸福使者團（魚眼睛、阿默、井西） 特邀繪師 │ ツバサ ( www.facebook.com/revleugel/ ) ( https://pixiv.me/revleugel ) ED 『冬之詩』 翻 唱 │ Moose ムース 【mylist/29744963】（co1709020）@moose827 原 曲 │《聴こえていますか》by 初音ミク 填 詞 │ 盆栽 特邀混音 │褚軒 A.C 聽不見 四季更迭的聲音 沒",
+          "truncated": true
+        },
+        "feed_index": 3,
+        "guid": "bcff171a-3b9d-45f0-86c8-e3fa983b4535"
+      },
+      {
+        "title": {
+          "text": "【BL廣播劇】《不要不要我不要出門》 全一期 現代原創BL耽美廣播劇【幸福配方系列第二彈】【聲音無限出品】",
+          "truncated": false
+        },
+        "description": {
+          "text": "台灣聲音無限廣播劇團出品 Youtube連結： https://youtu.be/BP0SZ1qH0p4 「李政儒決定要趁今年的聖誕節浪漫無比的跟學弟王晨安告白，於是他計劃好了要帶他到台北最漂亮的耶誕城，找一個最美的地方牽起學弟的手並且告訴他自己的心意，結果當他問王晨安想不想一起去耶誕城吃吃喝喝的時候，卻被兇狠地拒絕了，因為王晨安覺得自己會被閃瞎。 於是在浪漫地點告白的計畫毀於一旦，李政儒學長要怎麼辦呢！？」 CAST 李政儒 │ 音箱 (FB：VIYinXian)(Plurk：viyinxian) 王晨安 │ 巧頌 吳諭婷 │ 井西 (FB、Plurk：voiceinfinitygc) 假殭屍 │ 老月 新生們 │ ㄚ恰、魚眼睛、井西 STAFF 總策導 │ 井西 後 期 │ ㄚ恰 (FB：VoiceInfinityAcha) 宣 傳 │ 聲音無限幸福使者團（魚眼睛、阿默、井西） 特邀作家 │ 冰野 (Plurk：an900274) 特邀繪師 │ 淚星 (Plurk：mestar) (個人網站：https://cicimestar.weebly.com/) ED 『冬之詩』(Short Ver.) 翻 唱 │ Moose ムース 【mylist/29744963】（co1709020）@moose827 原 曲 │《聴こえていますか》by 初音ミク 填 詞 │ 盆栽 特邀混音 │",
+          "truncated": true
+        },
+        "feed_index": 4,
+        "guid": "606cf076-6add-42fa-9073-0e97608b7b40"
+      },
+      {
+        "title": {
+          "text": "【BL廣播劇】《那我就不客氣了，少爺》 全一期 現代原創BL耽美廣播劇【幸福配方系列第一彈】【聲音無限出品】",
+          "truncated": false
+        },
+        "description": {
+          "text": "台灣聲音無限廣播劇團出品 Youtube連結： https://youtu.be/Q18TUJ2VGcc 「成年後才知道自己是石油王私生子的草根富二代葉凌恩，與他的魔鬼家庭教師蕭奕在冬季展開一場愉快的同居生活，每天都在罵與被罵中成長，在成長後一起吃消夜 ──原本應該是這樣啦。 希望他們可以一直這樣平平安安順順利利地 一起吃消夜直到永遠。」 CAST 葉凌恩 │ 開司 蕭 奕 │ 巧頌 友 人 │ 音箱 (FB：VIYinXian) STAFF 總策導 │ 井西 (FB、Plurk：voiceinfinitygc) 編 劇 │ 盆栽 後 期 │ ㄚ恰 (FB：VoiceInfinityAcha) 宣 傳 │ 聲音無限幸福使者團（魚眼睛、阿默、井西） 特邀繪師 │ AKA (Plurk：AKA_16) ED 『冬之詩』 翻 唱 │ Moose ムース 【mylist/29744963】（co1709020）@moose827 原 曲 │《聴こえていますか》by 初音ミク 填 詞 │ 盆栽 特邀混音 │ 褚軒 A.C 聽不見 四季更迭的聲音 沒發現 冬天已經悄悄來臨 是不是 因為我們兩個靠得太近 心跳的頻率 產生了共鳴 因為你 我忘了該怎麼呼吸 憋著氣 彷彿依然雲淡風輕 偷偷地 跟著你雪中留下的腳印 在積雪的 山頂找到你 你是樹梢上最耀眼的星星 就算伸出手卻還是離指尖 那麼遠 我願能化成",
+          "truncated": true
+        },
+        "feed_index": 5,
+        "guid": "9aefb0a0-71d4-4909-9a5c-4ec399d76781"
+      }
+    ]
+  }
+}

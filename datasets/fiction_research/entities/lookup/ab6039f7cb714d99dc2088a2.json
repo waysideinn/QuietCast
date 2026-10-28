@@ -1,0 +1,122 @@
+{
+  "source": {
+    "url": "https://itunes.apple.com/lookup?id=1685131238%2C1701814193%2C1701815244%2C1708029339%2C1714134539%2C1780511535%2C1765082057%2C1765080753%2C1765104464%2C1845815034%2C1829910107%2C1780510588%2C1765082190%2C1765086236%2C1764275498%2C1765086501%2C1765080735%2C1765080346%2C1765080544%2C1784187776&country=cn",
+    "final_url": "https://itunes.apple.com/lookup?id=1685131238%2C1701814193%2C1701815244%2C1708029339%2C1714134539%2C1780511535%2C1765082057%2C1765080753%2C1765104464%2C1845815034%2C1829910107%2C1780510588%2C1765082190%2C1765086236%2C1764275498%2C1765086501%2C1765080735%2C1765080346%2C1765080544%2C1784187776&country=cn",
+    "fetched_at": "2026-10-26T07:52:40.643165+00:00",
+    "status": 200,
+    "sha256": "3e5a59e54abbaf6d7997f876a2a4484b547c6874795f5097aa4ff3469485c151"
+  },
+  "status": "ok",
+  "data": [
+    {
+      "collectionId": 1685131238,
+      "trackId": 1685131238,
+      "artistName": "有声的雪愿",
+      "collectionName": "都市邪尊赘婿（都市修仙小说）",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%83%BD%E5%B8%82%E9%82%AA%E5%B0%8A%E8%B5%98%E5%A9%BF-%E9%83%BD%E5%B8%82%E4%BF%AE%E4%BB%99%E5%B0%8F%E8%AF%B4/id1685131238?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/74644153.xml",
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "剧情",
+      "country": "CHN",
+      "trackCount": 295,
+      "releaseDate": "2023-05-18T05:30:00Z"
+    },
+    {
+      "collectionId": 1701814193,
+      "trackId": 1701814193,
+      "artistName": "有声的雪愿",
+      "collectionName": "天才奶爸（都市生活小说）",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%A9%E6%89%8D%E5%A5%B6%E7%88%B8-%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB%E5%B0%8F%E8%AF%B4/id1701814193?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/77458959.xml",
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "剧情",
+      "country": "CHN",
+      "trackCount": 211,
+      "releaseDate": "2023-09-30T09:00:00Z"
+    },
+    {
+      "collectionId": 1701815244,
+      "trackId": 1701815244,
+      "artistName": "有声的雪愿",
+      "collectionName": "他在等月光来（都市言情小说）",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BB%96%E5%9C%A8%E7%AD%89%E6%9C%88%E5%85%89%E6%9D%A5-%E9%83%BD%E5%B8%82%E8%A8%80%E6%83%85%E5%B0%8F%E8%AF%B4/id1701815244?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/77459053.xml",
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "剧情",
+      "country": "CHN",
+      "trackCount": 203,
+      "releaseDate": "2023-09-28T09:00:00Z"
+    },
+    {
+      "collectionId": 1708029339,
+      "trackId": 1708029339,
+      "artistName": "有声的雪愿",
+      "collectionName": "校花的修真室友（校园玄幻）",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%A0%A1%E8%8A%B1%E7%9A%84%E4%BF%AE%E7%9C%9F%E5%AE%A4%E5%8F%8B-%E6%A0%A1%E5%9B%AD%E7%8E%84%E5%B9%BB/id1708029339?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/78201808.xml",
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "喜剧小说",
+      "country": "CHN",
+      "trackCount": 160,
+      "releaseDate": "2023-10-29T00:00:00Z"
+    },
+    {
+      "collectionId": 1714134539,
+      "trackId": 1714134539,
+      "artistName": "有声的雪愿",
+      "collectionName": "【免费】奈何师父有点撩|古穿言情|师徒甜文|AI多播",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E5%A5%88%E4%BD%95%E5%B8%88%E7%88%B6%E6%9C%89%E7%82%B9%E6%92%A9-%E5%8F%A4%E7%A9%BF%E8%A8%80%E6%83%85-%E5%B8%88%E5%BE%92%E7%94%9C%E6%96%87-ai%E5%A4%9A%E6%92%AD/id1714134539?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/78830505.xml",
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "喜剧小说",
+      "country": "CHN",
+      "trackCount": 300,
+      "releaseDate": "2024-01-20T03:55:00Z"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1623716818",
+  "feed_url": "http://www.ximalaya.com/album/56870081.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/56870081.xml",
+    "final_url": "http://www.ximalaya.com/album/56870081.xml",
+    "fetched_at": "2026-10-25T14:44:18.113271+00:00",
+    "status": 200,
+    "sha256": "3d360460f319a91bda6ee6a4d8facb1684b4fe18755f78bef26be51705e211c6"
+  },
+  "status": "ok",
+  "title": {
+    "text": "新古月大陆之剑行天下【单人播讲新评书】玄幻修真长篇小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "一觉醒来，龙宇出现在了一个修真年代，从未来穿越到古代，带有未来的记忆，通过修炼，吸收日月精华，不断提升，最终称霸于当世，以另一个角度修行方式，获得了前所未有成功。各个门派的纷争，正道与邪道的转换，波折精彩的剧情，让你如同身在异星世界，感受龙宇的酣畅淋漓、热血传奇！ 本书第一集每第一百个评论都会有精美小礼品赠送，希望大家踊跃参与！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 1055,
+  "episodes": [
+    {
+      "id": "293f22f093597fc4b781a2eaa913cf5d1e693f132d43464fbf3a5e5012c45cb2",
+      "guid": "xmly_track_499446547",
+      "title": {
+        "text": "第001集 新古月星【求订阅、关注、月票、分享】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 06 Feb 2022 14:44:39 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "3d0133399e2d4f1e60134d730f7759018ca43ea73cfc179e8d1b0faf52704d67",
+      "guid": "xmly_track_540873482",
+      "title": {
+        "text": "第152集 佛门神通",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 07 Jun 2022 12:00:08 GMT",
+      "feed_index": 151
+    },
+    {
+      "id": "a6eee4963cae35b95cc755f2632d7772b60e7ea6d3382882696271cc3c8a25c2",
+      "guid": "xmly_track_573405013",
+      "title": {
+        "text": "第303集 进入海阁",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 30 Sep 2022 12:05:00 GMT",
+      "feed_index": 301
+    },
+    {
+      "id": "0160ab26d2b45b3d28aed9b621f0a5ea9062e318113adf0b013e952a3f3cad28",
+      "guid": "xmly_track_599201541",
+      "title": {
+        "text": "第454集 最后挣扎",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Dec 2022 12:00:00 GMT",
+      "feed_index": 452
+    },
+    {
+      "id": "4f81389fa917d4d8820b2fccdee073bb098738b1815ab7b0f3213e7d1248fb7b",
+      "guid": "xmly_track_638599789",
+      "title": {
+        "text": "第603集 选战虎妖",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 01 Jun 2023 04:52:56 GMT",
+      "feed_index": 602
+    },
+    {
+      "id": "d177900b19f585688e1429400dc1d77acb677e741768a7d5af05c3e39dde9803",
+      "guid": "xmly_track_677797679",
+      "title": {
+        "text": "第754集 为母报仇",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Oct 2023 08:45:09 GMT",
+      "feed_index": 753
+    },
+    {
+      "id": "1becac5f36175eba069399cbdcd24d6967f46e8a8549260e51f8832c00a9e278",
+      "guid": "xmly_track_716291162",
+      "title": {
+        "text": "第904集 罪不至死",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 21 Mar 2024 06:57:14 GMT",
+      "feed_index": 903
+    },
+    {
+      "id": "5568cbdfeb64857456c9969fa8b845c0c0c99484ba45a02971caab2986a973a6",
+      "guid": "xmly_track_748003608",
+      "title": {
+        "text": "第1055集 大结局",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Aug 2024 00:00:00 GMT",
+      "feed_index": 1054
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1540556984",
+  "feed_url": "https://feeds.soundon.fm/podcasts/c0a33008-3232-4ba3-9f59-b7e7ef09a396.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/c0a33008-3232-4ba3-9f59-b7e7ef09a396.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/c0a33008-3232-4ba3-9f59-b7e7ef09a396.xml",
+    "fetched_at": "2026-10-25T14:55:26.285683+00:00",
+    "status": 200,
+    "sha256": "ea173678b52f990ffe003fe6a53c68f4d67142d2a8560f268c69f675ee9d7f55"
+  },
+  "status": "ok",
+  "title": {
+    "text": "健康報報",
+    "truncated": false
+  },
+  "description": {
+    "text": "有了健康的身體,才能算擁有真正的財富 健康報報 ANGEL邀請各大醫院專業醫師為大家分享各類疾病預防的重要性以及醫療新知的相關議題",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 63,
+  "episodes": [
+    {
+      "id": "88fcdff41517826b17e0f5555e66c757b870f2296c96cc8a35999ce9b106eab1",
+      "guid": "e2d75a1e-54da-4aa7-84e1-6fee6c918ed7",
+      "title": {
+        "text": "健康博士 林博士-毒素",
+        "truncated": false
+      },
+      "description": {
+        "text": "健康博士 林博士-毒素",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 Jun 2022 08:05:13 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d7cbf522f5e18f72cf3b60a1e162ee30c392975748cb43462392f9828f01c8b1",
+      "guid": "1e4163ef-8dbe-4ca4-b3e1-b71c396c3cd5",
+      "title": {
+        "text": "54太平長安醫院 骨科 黃梓榕【關節置換】",
+        "truncated": false
+      },
+      "description": {
+        "text": "54太平長安醫院 骨科 黃梓榕【關節置換】",
+        "truncated": false
+      },
+      "published_at": "Fri, 26 Nov 2021 00:02:25 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "a5401199de703e3e5d8beb9c5a6e8dea6e2e490259fde6a1b4133712af8ac3e3",
+      "guid": "0aa91108-b07a-4c18-8865-0322987d20ff",
+      "title": {
+        "text": "45太平長安醫院 大腸直腸科 王醫師【痔瘡】",
+        "truncated": false
+      },
+      "description": {
+        "text": "45太平長安醫院 大腸直腸科 王醫師【痔瘡】",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Sep 2021 07:27:07 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "268c018b26f36e60599d0dcec0d80b74586a15e4131c8c82340ac3ac0c5a32ba",
+      "guid": "7b1b1855-d819-4845-839f-f5da67dac6bc",
+      "title": {
+        "text": "36彰化基督教醫院-婦產科-陳郁菁醫師-5【巧克力囊腫】",
+        "truncated": false
+      },
+      "description": {
+        "text": "什麼是\"巧克力囊腫\"? 子宮內膜異位症是怎麼產生? 如何治療?什麼情況才需要做手術?",
+        "truncated": false
+      },
+      "published_at": "Fri, 02 Jul 2021 00:00:00 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "69687c86b24f141ff1e3c6fd15536fdf1615187b71ee90526de12909b4a7f50d",
+      "guid": "886a8cf8-1f41-4996-9cce-531fd7c0b366",
+      "title": {
+        "text": "28彰化基督教醫院-胸腔內科-林俊維醫師-2【慢性阻塞性肺炎】",
+        "truncated": false
+      },
+      "description": {
+        "text": "慢性阻塞性肺炎到底是什麼? 罹患人口有多少? 如果家中有這樣的病人 家裡環境該如何調整?",
+        "truncated": false
+      },
+      "published_at": "Fri, 07 May 2021 00:00:00 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "04dd46eae45003c7832564dfd6f1390c9dadc07d23c795462735cb973a75805d",
+      "guid": "bf5e7575-8412-444d-8a0c-fb827636b1fa",
+      "title": {
+        "text": "19太平長安醫院-眼科何宜豪醫師",
+        "truncated": false
+      },
+      "description": {
+        "text": "兒童有哪些控制近視度數方式",
+        "truncated": false
+      },
+      "published_at": "Wed, 17 Feb 2021 01:00:00 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "9214d7245f533687b518718df30e786159db7ae21bed60e7baa9cbed9b94ae32",
+      "guid": "c82ca7f8-e210-4847-9f76-2baccd178a1d",
+      "title": {
+        "text": "10.柏忕健康管理中心 羅鴻源副主任",
+        "truncated": false
+      },
+      "description": {
+        "text": "腸胃道檢查出結節該如何處理",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Dec 2020 01:00:00 GMT",
+      "feed_index": 53
+    },
+    {
+      "id": "4e4cf2f476c7705032551a1682578a8a16d09a4bc19207e19b1668edf3a42d49",
+      "guid": "56d600a0-a164-4584-9a9d-b95c3909d74b",
+      "title": {
+        "text": "01.靖堂中醫診所-游子鑫院長",
+        "truncated": false
+      },
+      "description": {
+        "text": "暢談五臟在身體的表現-肝臟",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Oct 2020 07:22:54 GMT",
+      "feed_index": 62
+    }
+  ]
+}

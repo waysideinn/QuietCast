@@ -1,0 +1,1452 @@
+{
+  "b-14dbb1e87c61": {
+    "terms": [
+      "有声小说"
+    ],
+    "matched_shows": 38,
+    "fields": {
+      "showTitle": 30,
+      "showDescription": 9,
+      "sampledEpisodeTitle": 4,
+      "author": 4
+    },
+    "discovery_groups": {
+      "fiction": 38,
+      "boundary": 3
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 2,
+      "fiction_total": 28,
+      "nonfiction_hits": 1,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1063962111",
+      "1178855557",
+      "1286320610",
+      "1310569265",
+      "1523415060",
+      "1547451157",
+      "1549493045",
+      "1553844283"
+    ]
+  },
+  "b-ff86c640dea0": {
+    "terms": [
+      "小说朗读"
+    ],
+    "matched_shows": 1,
+    "fields": {
+      "showDescription": 1
+    },
+    "discovery_groups": {
+      "fiction": 1
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1178855557"
+    ]
+  },
+  "b-cf666e59d9c1": {
+    "terms": [
+      "有声书"
+    ],
+    "matched_shows": 81,
+    "fields": {
+      "showDescription": 16,
+      "showTitle": 59,
+      "author": 15,
+      "sampledEpisodeTitle": 6
+    },
+    "discovery_groups": {
+      "fiction": 80,
+      "boundary": 4,
+      "normal": 3
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 4,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1194587829",
+      "1338197227",
+      "1496542077",
+      "1505487695",
+      "1505487860",
+      "1505487967",
+      "1520759051",
+      "1525332415"
+    ]
+  },
+  "b-e4b9eaf6ce41": {
+    "terms": [
+      "广播剧"
+    ],
+    "matched_shows": 57,
+    "fields": {
+      "showTitle": 49,
+      "showDescription": 26,
+      "sampledEpisodeTitle": 11,
+      "author": 11
+    },
+    "discovery_groups": {
+      "fiction": 55,
+      "boundary": 2
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 10,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1055974809",
+      "1086633716",
+      "1097107152",
+      "1201782184",
+      "1444714071",
+      "1462573678",
+      "1462848266",
+      "1502221534"
+    ]
+  },
+  "b-bdbe9429a4a6": {
+    "terms": [
+      "多人有声剧"
+    ],
+    "matched_shows": 56,
+    "fields": {
+      "showTitle": 53,
+      "showDescription": 3,
+      "sampledEpisodeTitle": 1
+    },
+    "discovery_groups": {
+      "fiction": 56,
+      "boundary": 2
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1553874656",
+      "1580999116",
+      "1585541937",
+      "1595745927",
+      "1596054358",
+      "1602820469",
+      "1604147515",
+      "1608655882"
+    ]
+  },
+  "b-ee412c6f3f36": {
+    "terms": [
+      "玄幻"
+    ],
+    "matched_shows": 73,
+    "fields": {
+      "showTitle": 68,
+      "showDescription": 6,
+      "sampledEpisodeTitle": 2
+    },
+    "discovery_groups": {
+      "fiction": 71,
+      "normal": 2,
+      "boundary": 1
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 2,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1449429752",
+      "1478691737",
+      "1544048893",
+      "1544191601",
+      "1550033842",
+      "1551763105",
+      "1554648866",
+      "1583566726"
+    ]
+  },
+  "b-a47b747d06fe": {
+    "terms": [
+      "修仙"
+    ],
+    "matched_shows": 31,
+    "fields": {
+      "showDescription": 6,
+      "showTitle": 29,
+      "sampledEpisodeTitle": 1
+    },
+    "discovery_groups": {
+      "fiction": 31,
+      "boundary": 3
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1544191601",
+      "1573265692",
+      "1575085310",
+      "1583566726",
+      "1590963628",
+      "1594806933",
+      "1598143267",
+      "1618467149"
+    ]
+  },
+  "b-adb986efe495": {
+    "terms": [
+      "重生"
+    ],
+    "matched_shows": 64,
+    "fields": {
+      "showTitle": 59,
+      "sampledEpisodeTitle": 4,
+      "showDescription": 6
+    },
+    "discovery_groups": {
+      "fiction": 64,
+      "boundary": 3
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 1,
+      "fiction_total": 28,
+      "nonfiction_hits": 1,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1440580962",
+      "1581106416",
+      "1585795688",
+      "1594201589",
+      "1595747271",
+      "1612231240",
+      "1628862860",
+      "1633015940"
+    ]
+  },
+  "b-966576cfd784": {
+    "terms": [
+      "末世"
+    ],
+    "matched_shows": 13,
+    "fields": {
+      "showTitle": 13,
+      "showDescription": 3,
+      "author": 1
+    },
+    "discovery_groups": {
+      "fiction": 13
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1537355376",
+      "1584950371",
+      "1612174425",
+      "1628862860",
+      "1632724761",
+      "1743910941",
+      "1751207835",
+      "1759526866"
+    ]
+  },
+  "b-3e7456737b87": {
+    "terms": [
+      "无限流"
+    ],
+    "matched_shows": 4,
+    "fields": {
+      "showTitle": 4,
+      "author": 2
+    },
+    "discovery_groups": {
+      "fiction": 4
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1608787047",
+      "1689568737",
+      "1896879079",
+      "1896938765"
+    ]
+  },
+  "b-16a526b91c42": {
+    "terms": [
+      "总裁"
+    ],
+    "matched_shows": 38,
+    "fields": {
+      "showTitle": 26,
+      "showDescription": 11,
+      "sampledEpisodeTitle": 6,
+      "author": 6
+    },
+    "discovery_groups": {
+      "fiction": 36,
+      "boundary": 3
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 2,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1125953267",
+      "1336323610",
+      "1462841121",
+      "1549493045",
+      "1553844283",
+      "1558689086",
+      "1562473789",
+      "1583726629"
+    ]
+  },
+  "b-d83ed8f97289": {
+    "terms": [
+      "甜宠"
+    ],
+    "matched_shows": 35,
+    "fields": {
+      "sampledEpisodeTitle": 1,
+      "showDescription": 3,
+      "showTitle": 31
+    },
+    "discovery_groups": {
+      "boundary": 3,
+      "fiction": 35
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 1,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1146322401",
+      "1549493045",
+      "1581106416",
+      "1585541937",
+      "1594201589",
+      "1608655894",
+      "1610870447",
+      "1623844647"
+    ]
+  },
+  "b-7262884d65ef": {
+    "terms": [
+      "赘婿"
+    ],
+    "matched_shows": 3,
+    "fields": {
+      "showDescription": 1,
+      "showTitle": 2
+    },
+    "discovery_groups": {
+      "fiction": 3,
+      "boundary": 1
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1553844283",
+      "1685131238",
+      "1770235555"
+    ]
+  },
+  "b-8b59828df667": {
+    "terms": [
+      "言情"
+    ],
+    "matched_shows": 70,
+    "fields": {
+      "showDescription": 6,
+      "showTitle": 67,
+      "sampledEpisodeTitle": 1
+    },
+    "discovery_groups": {
+      "fiction": 70
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1537355376",
+      "1574357514",
+      "1580999116",
+      "1583726629",
+      "1589607227",
+      "1593825895",
+      "1600872987",
+      "1604147515"
+    ]
+  },
+  "b-aa1aa8d83665": {
+    "terms": [
+      "完结"
+    ],
+    "matched_shows": 33,
+    "fields": {
+      "sampledEpisodeTitle": 22,
+      "showDescription": 4,
+      "showTitle": 7
+    },
+    "discovery_groups": {
+      "fiction": 31,
+      "boundary": 3
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 3,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1448125751",
+      "1462848266",
+      "1530135897",
+      "1533775577",
+      "1588003050",
+      "1593198342",
+      "1594201589",
+      "1597634833"
+    ]
+  },
+  "b-42121a4fe317": {
+    "terms": [
+      "全集"
+    ],
+    "matched_shows": 7,
+    "fields": {
+      "showTitle": 4,
+      "sampledEpisodeTitle": 2,
+      "showDescription": 2
+    },
+    "discovery_groups": {
+      "boundary": 1,
+      "fiction": 5,
+      "normal": 1
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1448981262",
+      "1520759051",
+      "1523415060",
+      "1529549070",
+      "1617583551",
+      "1728627068",
+      "1804281054"
+    ]
+  },
+  "b-af1fb7118622": {
+    "terms": [
+      "连载"
+    ],
+    "matched_shows": 7,
+    "fields": {
+      "sampledEpisodeTitle": 2,
+      "showDescription": 3,
+      "author": 1,
+      "showTitle": 2
+    },
+    "discovery_groups": {
+      "normal": 1,
+      "fiction": 5,
+      "boundary": 1
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1496893742",
+      "1550033842",
+      "1579670201",
+      "1598574757",
+      "1604568562",
+      "1888656819",
+      "1895589386"
+    ]
+  },
+  "b-8661a9d30c19": {
+    "terms": [
+      "演播"
+    ],
+    "matched_shows": 39,
+    "fields": {
+      "showDescription": 24,
+      "sampledEpisodeTitle": 2,
+      "showTitle": 13,
+      "showCategories": 1
+    },
+    "discovery_groups": {
+      "fiction": 33,
+      "boundary": 7
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 3,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1118206170",
+      "1146322401",
+      "1170845976",
+      "1205474193",
+      "1449429752",
+      "1483565181",
+      "1511302015",
+      "1537355376"
+    ]
+  },
+  "b-fc5f8506a61b": {
+    "terms": [
+      "播讲"
+    ],
+    "matched_shows": 29,
+    "fields": {
+      "showDescription": 11,
+      "showTitle": 17,
+      "sampledEpisodeTitle": 2,
+      "author": 1
+    },
+    "discovery_groups": {
+      "fiction": 27,
+      "normal": 1,
+      "boundary": 1
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 2,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1063962111",
+      "1140071455",
+      "1217885190",
+      "1291684859",
+      "1356520295",
+      "1436456442",
+      "1448125751",
+      "1456605784"
+    ]
+  },
+  "b-62ebe3a9cd41": {
+    "terms": [
+      "小说",
+      "演播"
+    ],
+    "matched_shows": 15,
+    "fields": {
+      "showDescription": 13,
+      "showTitle": 2
+    },
+    "discovery_groups": {
+      "boundary": 2,
+      "fiction": 14
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 2,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1146322401",
+      "1170845976",
+      "1449429752",
+      "1483565181",
+      "1537355376",
+      "1573265692",
+      "1580338360",
+      "1585541937"
+    ]
+  },
+  "b-f2aa15c91ed2": {
+    "terms": [
+      "小说",
+      "全集"
+    ],
+    "matched_shows": 1,
+    "fields": {
+      "showTitle": 1,
+      "showDescription": 1
+    },
+    "discovery_groups": {
+      "fiction": 1
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1523415060"
+    ]
+  },
+  "b-ad69ef7758cf": {
+    "terms": [
+      "小说",
+      "朗读"
+    ],
+    "matched_shows": 7,
+    "fields": {
+      "showDescription": 5,
+      "showTitle": 2
+    },
+    "discovery_groups": {
+      "fiction": 7
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1178855557",
+      "1194587829",
+      "1505487967",
+      "1534681688",
+      "1598574757",
+      "1643009596",
+      "1742116953"
+    ]
+  },
+  "b-c772b8fa96f8": {
+    "terms": [
+      "小说",
+      "连载"
+    ],
+    "matched_shows": 3,
+    "fields": {
+      "showDescription": 3,
+      "author": 1
+    },
+    "discovery_groups": {
+      "fiction": 3
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1550033842",
+      "1598574757",
+      "1604568562"
+    ]
+  },
+  "b-6f8ecaa1b27c": {
+    "terms": [
+      "重生",
+      "都市"
+    ],
+    "matched_shows": 5,
+    "fields": {
+      "showDescription": 1,
+      "showTitle": 4
+    },
+    "discovery_groups": {
+      "fiction": 5
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1594201589",
+      "1691672217",
+      "1727150213",
+      "1768418312",
+      "1872395850"
+    ]
+  },
+  "b-bbff05dc85f6": {
+    "terms": [
+      "总裁",
+      "娇妻"
+    ],
+    "matched_shows": 4,
+    "fields": {
+      "showTitle": 4,
+      "sampledEpisodeTitle": 2
+    },
+    "discovery_groups": {
+      "fiction": 4
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1583726629",
+      "1636898808",
+      "1732015589",
+      "1751407771"
+    ]
+  },
+  "b-0e4444d1a78b": {
+    "terms": [
+      "多人",
+      "有声剧"
+    ],
+    "matched_shows": 59,
+    "fields": {
+      "showTitle": 55,
+      "showDescription": 4,
+      "sampledEpisodeTitle": 1
+    },
+    "discovery_groups": {
+      "fiction": 59,
+      "boundary": 2
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1553874656",
+      "1580999116",
+      "1583726629",
+      "1585541937",
+      "1595745927",
+      "1596054358",
+      "1602820469",
+      "1604147515"
+    ]
+  },
+  "b-452b5b21ed09": {
+    "terms": [
+      "原著",
+      "播讲"
+    ],
+    "matched_shows": 2,
+    "fields": {
+      "showDescription": 1,
+      "showTitle": 1
+    },
+    "discovery_groups": {
+      "fiction": 2
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1650507591",
+      "1775111783"
+    ]
+  },
+  "b-de3bb8769f89": {
+    "terms": [
+      "有声",
+      "小说"
+    ],
+    "matched_shows": 57,
+    "fields": {
+      "showTitle": 38,
+      "sampledEpisodeTitle": 7,
+      "showDescription": 20,
+      "author": 5
+    },
+    "discovery_groups": {
+      "fiction": 56,
+      "boundary": 5
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 6,
+      "fiction_total": 28,
+      "nonfiction_hits": 1,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1063962111",
+      "1118206170",
+      "1118208455",
+      "1146322401",
+      "1178855557",
+      "1194587829",
+      "1286320610",
+      "1310569265"
+    ]
+  },
+  "b-f5bd5ec2a04a": {
+    "terms": [
+      "小说",
+      "播讲"
+    ],
+    "matched_shows": 6,
+    "fields": {
+      "showDescription": 5,
+      "showTitle": 1
+    },
+    "discovery_groups": {
+      "fiction": 5,
+      "normal": 1
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 2,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1063962111",
+      "1217885190",
+      "1448125751",
+      "1560267892",
+      "1623716818",
+      "1650507591"
+    ]
+  },
+  "b-1660d2762fcb": {
+    "terms": [
+      "小说",
+      "听书"
+    ],
+    "matched_shows": 7,
+    "fields": {
+      "showDescription": 6,
+      "showTitle": 2,
+      "sampledEpisodeTitle": 1
+    },
+    "discovery_groups": {
+      "fiction": 6,
+      "boundary": 1
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 2,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1448125751",
+      "1516166301",
+      "1558922238",
+      "1579485294",
+      "1594201589",
+      "1622050411",
+      "1646230512"
+    ]
+  },
+  "b-5f05e13058ad": {
+    "terms": [
+      "悬疑",
+      "小说"
+    ],
+    "matched_shows": 23,
+    "fields": {
+      "showDescription": 8,
+      "showTitle": 17,
+      "sampledEpisodeTitle": 3
+    },
+    "discovery_groups": {
+      "normal": 1,
+      "fiction": 21,
+      "boundary": 3
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 6,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1217885190",
+      "1264641315",
+      "1448125751",
+      "1498406647",
+      "1502030058",
+      "1505487695",
+      "1516166301",
+      "1558922238"
+    ]
+  },
+  "b-e1c9eb3332f3": {
+    "terms": [
+      "科幻",
+      "小说"
+    ],
+    "matched_shows": 92,
+    "fields": {
+      "showTitle": 11,
+      "sampledEpisodeTitle": 3,
+      "showDescription": 5,
+      "showCategories": 86
+    },
+    "discovery_groups": {
+      "fiction": 86,
+      "boundary": 4,
+      "normal": 4
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 4,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1118206170",
+      "1118208455",
+      "1157803271",
+      "1170845976",
+      "1498406647",
+      "1530135897",
+      "1537355376",
+      "1540254339"
+    ]
+  },
+  "b-74046f70cf03": {
+    "terms": [
+      "武侠",
+      "小说"
+    ],
+    "matched_shows": 14,
+    "fields": {
+      "showDescription": 9,
+      "showTitle": 7,
+      "author": 1
+    },
+    "discovery_groups": {
+      "fiction": 14
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 2,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1194587829",
+      "1449429752",
+      "1483565181",
+      "1502030058",
+      "1530876176",
+      "1550033842",
+      "1581268895",
+      "1608628059"
+    ]
+  },
+  "b-f12cde070061": {
+    "terms": [
+      "书评"
+    ],
+    "matched_shows": 1,
+    "fields": {
+      "sampledEpisodeTitle": 1
+    },
+    "discovery_groups": {
+      "boundary": 1
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1542813580"
+    ]
+  },
+  "b-6acf99dbe40f": {
+    "terms": [
+      "评论"
+    ],
+    "matched_shows": 86,
+    "fields": {
+      "sampledEpisodeTitle": 17,
+      "showDescription": 18,
+      "author": 8,
+      "showCategories": 47,
+      "showTitle": 4
+    },
+    "discovery_groups": {
+      "normal": 25,
+      "boundary": 38,
+      "fiction": 28
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 3,
+      "fiction_total": 28,
+      "nonfiction_hits": 1,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1023646883",
+      "1112466861",
+      "1146322401",
+      "1192212072",
+      "1440108889",
+      "1448125751",
+      "1482760145",
+      "1485723113"
+    ]
+  },
+  "b-a7fcd4a94bff": {
+    "terms": [
+      "解读"
+    ],
+    "matched_shows": 18,
+    "fields": {
+      "showDescription": 7,
+      "sampledEpisodeTitle": 2,
+      "showTitle": 9
+    },
+    "discovery_groups": {
+      "fiction": 10,
+      "normal": 4,
+      "boundary": 4
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1123397530",
+      "1267160367",
+      "1336323610",
+      "1480340106",
+      "1501632882",
+      "1504785497",
+      "1515802068",
+      "1545302844"
+    ]
+  },
+  "b-7baa9a69ce3e": {
+    "terms": [
+      "解析"
+    ],
+    "matched_shows": 17,
+    "fields": {
+      "showTitle": 5,
+      "showDescription": 5,
+      "sampledEpisodeTitle": 9,
+      "author": 2
+    },
+    "discovery_groups": {
+      "boundary": 12,
+      "fiction": 2,
+      "normal": 3
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 1,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1151635158",
+      "1291684859",
+      "1304221230",
+      "1449816135",
+      "1504785497",
+      "1519378369",
+      "1527725917",
+      "1538757077"
+    ]
+  },
+  "b-00c2be81b62a": {
+    "terms": [
+      "访谈"
+    ],
+    "matched_shows": 100,
+    "fields": {
+      "showTitle": 65,
+      "sampledEpisodeTitle": 12,
+      "showDescription": 13,
+      "showCategories": 18,
+      "author": 6
+    },
+    "discovery_groups": {
+      "normal": 80,
+      "boundary": 17,
+      "fiction": 5
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 1,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1150960423",
+      "1447860187",
+      "1474396127",
+      "1482760145",
+      "1490362437",
+      "1503523744",
+      "1507723786",
+      "1511129977"
+    ]
+  },
+  "b-c9ca608d7f88": {
+    "terms": [
+      "讨论"
+    ],
+    "matched_shows": 22,
+    "fields": {
+      "sampledEpisodeTitle": 5,
+      "showDescription": 16,
+      "showTitle": 1
+    },
+    "discovery_groups": {
+      "fiction": 5,
+      "normal": 8,
+      "boundary": 9
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1194587829",
+      "1481809208",
+      "1503760672",
+      "1509667588",
+      "1518327110",
+      "1519378369",
+      "1527553610",
+      "1529215629"
+    ]
+  },
+  "b-b8a97976cfb4": {
+    "terms": [
+      "文学史"
+    ],
+    "matched_shows": 5,
+    "fields": {
+      "showDescription": 3,
+      "showTitle": 2,
+      "sampledEpisodeTitle": 2,
+      "author": 1
+    },
+    "discovery_groups": {
+      "normal": 1,
+      "boundary": 2,
+      "fiction": 2
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 1,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1329700195",
+      "1336323610",
+      "1449429752",
+      "1562986998",
+      "1757431169"
+    ]
+  },
+  "b-11c5e5a03edd": {
+    "terms": [
+      "赏析"
+    ],
+    "matched_shows": 6,
+    "fields": {
+      "showDescription": 3,
+      "showTitle": 1,
+      "sampledEpisodeTitle": 1,
+      "showCategories": 1
+    },
+    "discovery_groups": {
+      "boundary": 5,
+      "fiction": 1
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 0,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1336323610",
+      "1377548071",
+      "1532246515",
+      "1532691162",
+      "1586667130",
+      "1652293906"
+    ]
+  },
+  "b-6a629508c1a3": {
+    "terms": [
+      "纪实"
+    ],
+    "matched_shows": 50,
+    "fields": {
+      "showCategories": 47,
+      "showTitle": 5,
+      "showDescription": 1,
+      "sampledEpisodeTitle": 1
+    },
+    "discovery_groups": {
+      "boundary": 15,
+      "fiction": 15,
+      "normal": 21
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 1,
+      "fiction_total": 28,
+      "nonfiction_hits": 1,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1488439861",
+      "1502221534",
+      "1505259070",
+      "1513873733",
+      "1533523869",
+      "1543842699",
+      "1544703886",
+      "1544727675"
+    ]
+  },
+  "b-ab166a761dbd": {
+    "terms": [
+      "科普"
+    ],
+    "matched_shows": 10,
+    "fields": {
+      "showDescription": 3,
+      "showTitle": 8
+    },
+    "discovery_groups": {
+      "boundary": 9,
+      "fiction": 1,
+      "normal": 2
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 1,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1488439861",
+      "1516948648",
+      "1561739834",
+      "1792161958",
+      "1823525261",
+      "1847320016",
+      "1856756621",
+      "1896184775"
+    ]
+  },
+  "b-5f46593ec13a": {
+    "terms": [
+      "课程"
+    ],
+    "matched_shows": 47,
+    "fields": {
+      "showDescription": 12,
+      "showCategories": 28,
+      "sampledEpisodeTitle": 4,
+      "showTitle": 2,
+      "author": 4
+    },
+    "discovery_groups": {
+      "boundary": 8,
+      "normal": 28,
+      "fiction": 11
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 0,
+      "fiction_total": 28,
+      "nonfiction_hits": 3,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1074650165",
+      "1101566191",
+      "1274134689",
+      "1304221230",
+      "1336323610",
+      "1341333217",
+      "1434062971",
+      "1447860187"
+    ]
+  },
+  "b-25720b0084a7": {
+    "terms": [
+      "读书"
+    ],
+    "matched_shows": 46,
+    "fields": {
+      "sampledEpisodeTitle": 5,
+      "showDescription": 15,
+      "showTitle": 23,
+      "author": 8
+    },
+    "discovery_groups": {
+      "boundary": 19,
+      "fiction": 11,
+      "normal": 20
+    },
+    "human_fiction_hit_rate": null,
+    "human_nonfiction_hit_rate": null,
+    "agent_development_only": {
+      "fiction_hits": 1,
+      "fiction_total": 28,
+      "nonfiction_hits": 2,
+      "nonfiction_total": 27
+    },
+    "examples": [
+      "1095188273",
+      "1140071455",
+      "1146322285",
+      "1170351486",
+      "1194587829",
+      "1329700195",
+      "1336323610",
+      "1341333217"
+    ]
+  }
+}

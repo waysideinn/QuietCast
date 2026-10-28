@@ -1,0 +1,158 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/9700440.xml",
+    "final_url": "http://www.ximalaya.com/album/9700440.xml",
+    "fetched_at": "2026-10-26T07:55:20.392200+00:00",
+    "status": 200,
+    "sha256": "6e1981898de0e6ffd10d6d65d15ae4b6f9c1c28a25999d6f3672103990866682"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "《你的心情 我曾听说》—李浩长篇有声小说",
+      "truncated": false
+    },
+    "description": {
+      "text": "故事简介：全文以主人翁兰丕为主线，通过兰丕的口述，讲述了人在十几到二十几岁之间青春期所必须面对的梦想、生活、工作、责任、定位、友情、亲情、爱情以及人和动物的感情等主题故事。 十个故事既相互分开，又相互关联，共同塑造了人在十几到二十几岁之间由青春期走向成熟的励志人物形象。 十个故事也是作者十年间扎根大学生群体教育，所总结的十大必读主题故事，通过层层深入讲述，凝炼出一个“在输得起的年纪，遇到不放弃的自己”的主人翁形象，以期传播青春正能量。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "李浩 @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "大眼李少一"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "大眼李少一"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Education"
+      ],
+      [
+        "Education",
+        "Education Technology"
+      ],
+      [
+        "Arts"
+      ],
+      [
+        "Arts",
+        "Literature"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/9700440",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 70,
+    "episodes": [
+      {
+        "title": {
+          "text": "《你的心情 我曾听说》引言—李浩长篇有声小说",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group30/M08/0D/36/wKgJXll_7J6AVLF8ABO7tBfNuPE220.m4a"
+      },
+      {
+        "title": {
+          "text": "与青春的第一次交手，一定要赢-01",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 10,
+        "guid": "https://aod.cos.tx.xmcdn.com/group31/M0A/20/12/wKgJX1mBfubztqZfAIOJF6svVKo639.m4a"
+      },
+      {
+        "title": {
+          "text": "与青春的第一次交手，一定要赢-11",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 20,
+        "guid": "https://aod.cos.tx.xmcdn.com/group31/M08/2D/8D/wKgJSVmVCMLRvTYkAIeMHFxqbcE302.mp3"
+      },
+      {
+        "title": {
+          "text": "别人只看到我很惨，我却能看到自己的使命感-05",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 30,
+        "guid": "https://aod.cos.tx.xmcdn.com/group32/M05/C0/02/wKgJnFmitrPz3le7AKT3W5L5Duc018.mp3"
+      },
+      {
+        "title": {
+          "text": "学会包容尊重和相信，苹果树上也会结下梨-02",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 39,
+        "guid": "https://aod.cos.tx.xmcdn.com/group31/M05/AC/4E/wKgJX1mumB_QAM6IAJNQnJ8XSrs758.m4a"
+      },
+      {
+        "title": {
+          "text": "它们不是你的一辈子，但你却是它们的一生-01",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 49,
+        "guid": "https://aod.cos.tx.xmcdn.com/group31/M02/29/EC/wKgJX1m7r93Sn4w7ANIWiDto8Fs900.mp3"
+      },
+      {
+        "title": {
+          "text": "素锦年华，要爱请深爱-05",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 59,
+        "guid": "https://aod.cos.tx.xmcdn.com/group30/M03/F0/B2/wKgJXlnKSgngn1ifAK4wls8sLWA420.m4a"
+      },
+      {
+        "title": {
+          "text": "你的坚持，终将美好-06",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 69,
+        "guid": "https://aod.cos.tx.xmcdn.com/group34/M0B/4A/64/wKgJYFnje1fiuwaZAON3WZTICMA992.m4a"
+      }
+    ]
+  }
+}

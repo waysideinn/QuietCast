@@ -1,0 +1,913 @@
+{
+  "group": "normal",
+  "term": "女性",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%A5%B3%E6%80%A7&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%A5%B3%E6%80%A7&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:44:25.644636+00:00",
+    "status": 200,
+    "sha256": "3b4deb6b689d83dd6c4970d340be24fb9b1e184915e06e3e17e93df1338857be"
+  },
+  "result_count": 39,
+  "records": [
+    {
+      "collectionId": 1830533677,
+      "trackId": 1830533677,
+      "collectionName": "她们的选择 | 女性成长访谈播客",
+      "artistName": "afei阿飞",
+      "feedUrl": "https://www.ximalaya.com/album/96318667.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A5%B9%E4%BB%AC%E7%9A%84%E9%80%89%E6%8B%A9-%E5%A5%B3%E6%80%A7%E6%88%90%E9%95%BF%E8%AE%BF%E8%B0%88%E6%92%AD%E5%AE%A2/id1830533677?uo=4",
+      "genres": [
+        "个人日记",
+        "播客",
+        "社会与文化",
+        "情感与人际关系"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2025-09-26T12:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "个人日记"
+    },
+    {
+      "collectionId": 1789453205,
+      "trackId": 1789453205,
+      "collectionName": "看见她·采访100位不同行业的女性",
+      "artistName": "看见她",
+      "feedUrl": "https://feed.xyzfm.space/ph33tln6d64p",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%9C%8B%E8%A7%81%E5%A5%B9-%E9%87%87%E8%AE%BF100%E4%BD%8D%E4%B8%8D%E5%90%8C%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%A5%B3%E6%80%A7/id1789453205?uo=4",
+      "genres": [
+        "休闲",
+        "播客"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 37,
+      "releaseDate": "2026-09-19T16:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "休闲"
+    },
+    {
+      "collectionId": 1546044606,
+      "trackId": 1546044606,
+      "collectionName": "一千个女人的来信 | 女性睡前故事 夜听放松 情感电台",
+      "artistName": "夕拾50",
+      "feedUrl": "http://www.ximalaya.com/album/43887092.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%80%E5%8D%83%E4%B8%AA%E5%A5%B3%E4%BA%BA%E7%9A%84%E6%9D%A5%E4%BF%A1-%E5%A5%B3%E6%80%A7%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B-%E5%A4%9C%E5%90%AC%E6%94%BE%E6%9D%BE-%E6%83%85%E6%84%9F%E7%94%B5%E5%8F%B0/id1546044606?uo=4",
+      "genres": [
+        "情感与人际关系",
+        "播客",
+        "社会与文化",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 339,
+      "releaseDate": "2021-12-09T10:01:00Z",
+      "country": "CHN",
+      "primaryGenreName": "情感与人际关系"
+    },
+    {
+      "collectionId": 1811080740,
+      "trackId": 1811080740,
+      "collectionName": "搞钱中女｜女性成长访谈播客",
+      "artistName": "闪光中女小段姐",
+      "feedUrl": "https://feed.xyzfm.space/y3qcmq6mtugc",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%90%9E%E9%92%B1%E4%B8%AD%E5%A5%B3-%E5%A5%B3%E6%80%A7%E6%88%90%E9%95%BF%E8%AE%BF%E8%B0%88%E6%92%AD%E5%AE%A2/id1811080740?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客",
+        "宗教与心灵"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1314"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2026-08-06T09:26:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1758053105,
+      "trackId": 1758053105,
+      "collectionName": "她的成长说",
+      "artistName": "她的成长说 | 女性成长访谈播客",
+      "feedUrl": "https://www.ximalaya.com/album/82180639.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A5%B9%E7%9A%84%E6%88%90%E9%95%BF%E8%AF%B4/id1758053105?uo=4",
+      "genres": [
+        "个人日记",
+        "播客",
+        "社会与文化",
+        "情感与人际关系"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2024-11-05T13:02:00Z",
+      "country": "CHN",
+      "primaryGenreName": "个人日记"
+    },
+    {
+      "collectionId": 1768515013,
+      "trackId": 1768515013,
+      "collectionName": "女性自我成长",
+      "artistName": "职业规划师王虹",
+      "feedUrl": "https://www.ximalaya.com/album/6160140.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A5%B3%E6%80%A7%E8%87%AA%E6%88%91%E6%88%90%E9%95%BF/id1768515013?uo=4",
+      "genres": [
+        "自我完善",
+        "播客",
+        "教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304"
+      ],
+      "trackCount": 249,
+      "releaseDate": "2020-01-05T12:48:00Z",
+      "country": "CHN",
+      "primaryGenreName": "自我完善"
+    },
+    {
+      "collectionId": 1741293099,
+      "trackId": 1741293099,
+      "collectionName": "她说·女性赋能项目",
+      "artistName": "她说女性赋能项目",
+      "feedUrl": "https://www.ximalaya.com/album/80782053.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A5%B9%E8%AF%B4-%E5%A5%B3%E6%80%A7%E8%B5%8B%E8%83%BD%E9%A1%B9%E7%9B%AE/id1741293099?uo=4",
+      "genres": [
+        "纪实",
+        "播客",
+        "社会与文化",
+        "个人日记"
+      ],
+      "genreIds": [
+        "1543",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2024-05-08T05:48:00Z",
+      "country": "CHN",
+      "primaryGenreName": "纪实"
+    },
+    {
+      "collectionId": 1481809208,
+      "trackId": 1481809208,
+      "collectionName": "BYM 女性系列第一季（全）",
+      "artistName": "BYM",
+      "feedUrl": "http://www.ximalaya.com/album/23497655.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/bym-%E5%A5%B3%E6%80%A7%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E5%AD%A3-%E5%85%A8/id1481809208?uo=4",
+      "genres": [
+        "心理健康",
+        "播客",
+        "健康与健身",
+        "社会与文化",
+        "个人日记"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2019-05-14T14:12:00Z",
+      "country": "CHN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1812877969,
+      "trackId": 1812877969,
+      "collectionName": "搞钱中女｜女性成长访谈播客",
+      "artistName": "闪光中女小段姐",
+      "feedUrl": "https://feed.xyzfm.space/y3qcmq6mtugc",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%90%9E%E9%92%B1%E4%B8%AD%E5%A5%B3-%E5%A5%B3%E6%80%A7%E6%88%90%E9%95%BF%E8%AE%BF%E8%B0%88%E6%92%AD%E5%AE%A2/id1812877969?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客",
+        "宗教与心灵"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1314"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2026-08-04T12:19:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1560371110,
+      "trackId": 1560371110,
+      "collectionName": "女性的声音｜Voice of Female",
+      "artistName": "车厘子的播客",
+      "feedUrl": "http://www.ximalaya.com/album/47993484.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A5%B3%E6%80%A7%E7%9A%84%E5%A3%B0%E9%9F%B3-voice-of-female/id1560371110?uo=4",
+      "genres": [
+        "个人日记",
+        "播客",
+        "社会与文化",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-03-26T11:01:00Z",
+      "country": "CHN",
+      "primaryGenreName": "个人日记"
+    },
+    {
+      "collectionId": 1729987520,
+      "trackId": 1729987520,
+      "collectionName": "所有女性的健康指南",
+      "artistName": "所有女性的健康指南",
+      "feedUrl": "https://www.ximalaya.com/album/80423936.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%89%80%E6%9C%89%E5%A5%B3%E6%80%A7%E7%9A%84%E5%81%A5%E5%BA%B7%E6%8C%87%E5%8D%97/id1729987520?uo=4",
+      "genres": [
+        "医学",
+        "播客",
+        "健康与健身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2024-03-31T12:51:00Z",
+      "country": "CHN",
+      "primaryGenreName": "医学"
+    },
+    {
+      "collectionId": 1863568249,
+      "trackId": 1863568249,
+      "collectionName": "二三Talk：100场跨代女性对谈",
+      "artistName": "二三Talk",
+      "feedUrl": "https://feed.xyzfm.space/73v44w7wrqwc",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BA%8C%E4%B8%89talk-100%E5%9C%BA%E8%B7%A8%E4%BB%A3%E5%A5%B3%E6%80%A7%E5%AF%B9%E8%B0%88/id1863568249?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客",
+        "休闲"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1502"
+      ],
+      "trackCount": 31,
+      "releaseDate": "2026-09-26T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 6787892914,
+      "trackId": 6787892914,
+      "collectionName": "后宫争艳传｜古言｜甄嬛式宫斗｜女性群像",
+      "artistName": "微芒聚声",
+      "feedUrl": "https://www.ximalaya.com/album/124838667.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%90%8E%E5%AE%AB%E4%BA%89%E8%89%B3%E4%BC%A0-%E5%8F%A4%E8%A8%80-%E7%94%84%E5%AC%9B%E5%BC%8F%E5%AE%AB%E6%96%97-%E5%A5%B3%E6%80%A7%E7%BE%A4%E5%83%8F/id6787892914?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "表演艺术"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1405"
+      ],
+      "trackCount": 72,
+      "releaseDate": "2026-07-22T09:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1347068178,
+      "trackId": 1347068178,
+      "collectionName": "女性瘦身减肥必修课",
+      "artistName": "微微",
+      "feedUrl": "http://www.ximalaya.com/album/11245290.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A5%B3%E6%80%A7%E7%98%A6%E8%BA%AB%E5%87%8F%E8%82%A5%E5%BF%85%E4%BF%AE%E8%AF%BE/id1347068178?uo=4",
+      "genres": [
+        "健康与健身",
+        "播客",
+        "体育"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1545"
+      ],
+      "trackCount": 40,
+      "releaseDate": "2021-09-16T05:26:00Z",
+      "country": "CHN",
+      "primaryGenreName": "健康与健身"
+    },
+    {
+      "collectionId": 1810928798,
+      "trackId": 1810928798,
+      "collectionName": "群青女性成长说",
+      "artistName": "群青女性",
+      "feedUrl": "https://feed.xyzfm.space/prfly9u7fylm",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BE%A4%E9%9D%92%E5%A5%B3%E6%80%A7%E6%88%90%E9%95%BF%E8%AF%B4/id1810928798?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2026-09-01T02:16:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1611301465,
+      "trackId": 1611301465,
+      "collectionName": "关注女性创业话题",
+      "artistName": "女性的创业故事",
+      "feedUrl": "http://www.ximalaya.com/album/52875305.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%B3%E6%B3%A8%E5%A5%B3%E6%80%A7%E5%88%9B%E4%B8%9A%E8%AF%9D%E9%A2%98/id1611301465?uo=4",
+      "genres": [
+        "创业",
+        "播客",
+        "商务",
+        "社会与文化",
+        "个人日记"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2023-11-24T13:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "创业"
+    },
+    {
+      "collectionId": 1744787703,
+      "trackId": 1744787703,
+      "collectionName": "哇呀挖·女性播客",
+      "artistName": "哇呀挖",
+      "feedUrl": "https://feed.xyzfm.space/t8ym4lxrmu4a",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%93%87%E5%91%80%E6%8C%96-%E5%A5%B3%E6%80%A7%E6%92%AD%E5%AE%A2/id1744787703?uo=4",
+      "genres": [
+        "休闲",
+        "播客"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 33,
+      "releaseDate": "2026-05-09T06:34:00Z",
+      "country": "CHN",
+      "primaryGenreName": "休闲"
+    },
+    {
+      "collectionId": 1726312421,
+      "trackId": 1726312421,
+      "collectionName": "一页知球 | 全女性播客",
+      "artistName": "限量贩售中",
+      "feedUrl": "https://feed.xyzfm.space/bvgdudlfpx3r",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%80%E9%A1%B5%E7%9F%A5%E7%90%83-%E5%85%A8%E5%A5%B3%E6%80%A7%E6%92%AD%E5%AE%A2/id1726312421?uo=4",
+      "genres": [
+        "体育",
+        "播客"
+      ],
+      "genreIds": [
+        "1545",
+        "26"
+      ],
+      "trackCount": 62,
+      "releaseDate": "2026-10-06T06:58:00Z",
+      "country": "CHN",
+      "primaryGenreName": "体育"
+    },
+    {
+      "collectionId": 1573335764,
+      "trackId": 1573335764,
+      "collectionName": "探索女性的性欲动机",
+      "artistName": "心理咨询凤凰晴",
+      "feedUrl": "http://www.ximalaya.com/album/49541572.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%8E%A2%E7%B4%A2%E5%A5%B3%E6%80%A7%E7%9A%84%E6%80%A7%E6%AC%B2%E5%8A%A8%E6%9C%BA/id1573335764?uo=4",
+      "genres": [
+        "两性",
+        "播客",
+        "健康与健身"
+      ],
+      "genreIds": [
+        "1516",
+        "26",
+        "1512"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2021-11-13T09:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "两性"
+    },
+    {
+      "collectionId": 1634947702,
+      "trackId": 1634947702,
+      "collectionName": "女性自我提升必听书《卡耐基写给女人大全集》",
+      "artistName": "Super旭先生",
+      "feedUrl": "https://www.ximalaya.com/album/46608264.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A5%B3%E6%80%A7%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87%E5%BF%85%E5%90%AC%E4%B9%A6-%E5%8D%A1%E8%80%90%E5%9F%BA%E5%86%99%E7%BB%99%E5%A5%B3%E4%BA%BA%E5%A4%A7%E5%85%A8%E9%9B%86/id1634947702?uo=4",
+      "genres": [
+        "自我完善",
+        "播客",
+        "教育",
+        "社会与文化",
+        "情感与人际关系"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 82,
+      "releaseDate": "2022-07-14T13:48:00Z",
+      "country": "CHN",
+      "primaryGenreName": "自我完善"
+    },
+    {
+      "collectionId": 1732981946,
+      "trackId": 1732981946,
+      "collectionName": "女性在职场",
+      "artistName": "精怪",
+      "feedUrl": "https://feed.xyzfm.space/9lxt6p9q8bcy",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A5%B3%E6%80%A7%E5%9C%A8%E8%81%8C%E5%9C%BA/id1732981946?uo=4",
+      "genres": [
+        "商务",
+        "播客"
+      ],
+      "genreIds": [
+        "1321",
+        "26"
+      ],
+      "trackCount": 31,
+      "releaseDate": "2026-05-23T04:04:00Z",
+      "country": "CHN",
+      "primaryGenreName": "商务"
+    },
+    {
+      "collectionId": 1705894377,
+      "trackId": 1705894377,
+      "collectionName": "女性成功攻略：创造闪耀幸福的你 | 职场宝典 | 自我认知 | 发掘潜能",
+      "artistName": "齐齐亚",
+      "feedUrl": "https://www.ximalaya.com/album/77935710.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A5%B3%E6%80%A7%E6%88%90%E5%8A%9F%E6%94%BB%E7%95%A5-%E5%88%9B%E9%80%A0%E9%97%AA%E8%80%80%E5%B9%B8%E7%A6%8F%E7%9A%84%E4%BD%A0-%E8%81%8C%E5%9C%BA%E5%AE%9D%E5%85%B8-%E8%87%AA%E6%88%91%E8%AE%A4%E7%9F%A5-%E5%8F%91%E6%8E%98%E6%BD%9C%E8%83%BD/id1705894377?uo=4",
+      "genres": [
+        "职业",
+        "播客",
+        "商务",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1410",
+        "26",
+        "1321",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 251,
+      "releaseDate": "2024-01-03T00:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "职业"
+    },
+    {
+      "collectionId": 1449413317,
+      "trackId": 1449413317,
+      "collectionName": "The Lola System™｜女性高端成長與覺醒",
+      "artistName": "Lola Lin - Founder, The Lola System™ Neuro-Somatic Feminine Leadership Expert™",
+      "feedUrl": "https://feeds.transistor.fm/gift-x-super-power-school",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/the-lola-system-%E5%A5%B3%E6%80%A7%E9%AB%98%E7%AB%AF%E6%88%90%E9%95%B7%E8%88%87%E8%A6%BA%E9%86%92/id1449413317?uo=4",
+      "genres": [
+        "自我完善",
+        "播客",
+        "教育",
+        "实用知识"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 144,
+      "releaseDate": "2026-05-03T22:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "自我完善"
+    },
+    {
+      "collectionId": 1815871213,
+      "trackId": 1815871213,
+      "collectionName": "一起爬V8!｜专注攀岩x心理学&女性",
+      "artistName": "柯晗",
+      "feedUrl": "https://feed.xyzfm.space/n7n6xur3xn3q",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%80%E8%B5%B7%E7%88%ACv8-%E4%B8%93%E6%B3%A8%E6%94%80%E5%B2%A9x%E5%BF%83%E7%90%86%E5%AD%A6-%E5%A5%B3%E6%80%A7/id1815871213?uo=4",
+      "genres": [
+        "体育",
+        "播客",
+        "科学"
+      ],
+      "genreIds": [
+        "1545",
+        "26",
+        "1533"
+      ],
+      "trackCount": 31,
+      "releaseDate": "2026-10-22T12:59:00Z",
+      "country": "CHN",
+      "primaryGenreName": "体育"
+    },
+    {
+      "collectionId": 1711005782,
+      "trackId": 1711005782,
+      "collectionName": "老好玩｜中年女性的无聊生活",
+      "artistName": "老邓同志",
+      "feedUrl": "https://feed.xyzfm.space/l9navdh6nbln",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%80%81%E5%A5%BD%E7%8E%A9-%E4%B8%AD%E5%B9%B4%E5%A5%B3%E6%80%A7%E7%9A%84%E6%97%A0%E8%81%8A%E7%94%9F%E6%B4%BB/id1711005782?uo=4",
+      "genres": [
+        "休闲",
+        "播客",
+        "儿童与家庭"
+      ],
+      "genreIds": [
+        "1502",
+        "26",
+        "1305"
+      ],
+      "trackCount": 26,
+      "releaseDate": "2025-11-20T11:52:00Z",
+      "country": "CHN",
+      "primaryGenreName": "休闲"
+    },
+    {
+      "collectionId": 1740277044,
+      "trackId": 1740277044,
+      "collectionName": "明目张胆",
+      "artistName": "美美_女性主义",
+      "feedUrl": "https://www.ximalaya.com/album/79051077.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%98%8E%E7%9B%AE%E5%BC%A0%E8%83%86/id1740277044?uo=4",
+      "genres": [
+        "个人日记",
+        "播客",
+        "社会与文化",
+        "休闲",
+        "爱好"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2024-10-23T07:46:00Z",
+      "country": "CHN",
+      "primaryGenreName": "个人日记"
+    },
+    {
+      "collectionId": 1878877556,
+      "trackId": 1878877556,
+      "collectionName": "闪闪发光的她们：100位女性成长访谈录",
+      "artistName": "链接高我的小薇",
+      "feedUrl": "https://feed.xyzfm.space/7chbmwgc8alm",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89%E7%9A%84%E5%A5%B9%E4%BB%AC-100%E4%BD%8D%E5%A5%B3%E6%80%A7%E6%88%90%E9%95%BF%E8%AE%BF%E8%B0%88%E5%BD%95/id1878877556?uo=4",
+      "genres": [
+        "宗教与心灵",
+        "播客",
+        "儿童与家庭"
+      ],
+      "genreIds": [
+        "1314",
+        "26",
+        "1305"
+      ],
+      "trackCount": 38,
+      "releaseDate": "2026-06-02T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "宗教与心灵"
+    },
+    {
+      "collectionId": 6789132106,
+      "trackId": 6789132106,
+      "collectionName": "女性清醒丨识大佬筛优质・引付出全攻略",
+      "artistName": "千兰说女性清醒",
+      "feedUrl": "https://www.ximalaya.com/album/120423528.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A5%B3%E6%80%A7%E6%B8%85%E9%86%92%E4%B8%A8%E8%AF%86%E5%A4%A7%E4%BD%AC%E7%AD%9B%E4%BC%98%E8%B4%A8-%E5%BC%95%E4%BB%98%E5%87%BA%E5%85%A8%E6%94%BB%E7%95%A5/id6789132106?uo=4",
+      "genres": [
+        "情感与人际关系",
+        "播客",
+        "社会与文化",
+        "个人日记"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 156,
+      "releaseDate": "2026-08-01T15:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "情感与人际关系"
+    },
+    {
+      "collectionId": 1839830791,
+      "trackId": 1839830791,
+      "collectionName": "搞钱中女｜女性成长访谈播客",
+      "artistName": "闪光中女小段姐",
+      "feedUrl": "https://feed.xyzfm.space/y3qcmq6mtugc",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%90%9E%E9%92%B1%E4%B8%AD%E5%A5%B3-%E5%A5%B3%E6%80%A7%E6%88%90%E9%95%BF%E8%AE%BF%E8%B0%88%E6%92%AD%E5%AE%A2/id1839830791?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客",
+        "宗教与心灵"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1314"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2026-08-04T12:19:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1815002026,
+      "trackId": 1815002026,
+      "collectionName": "搞钱中女｜女性成长访谈播客",
+      "artistName": "闪光中女小段姐",
+      "feedUrl": "https://feed.xyzfm.space/y3qcmq6mtugc",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%90%9E%E9%92%B1%E4%B8%AD%E5%A5%B3-%E5%A5%B3%E6%80%A7%E6%88%90%E9%95%BF%E8%AE%BF%E8%B0%88%E6%92%AD%E5%AE%A2/id1815002026?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客",
+        "宗教与心灵"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1314"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2026-08-06T09:26:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1689901442,
+      "trackId": 1689901442,
+      "collectionName": "快嘴唠家常：换个角度看生活丨女性成长赋能丨情感家庭",
+      "artistName": "快嘴三娘子",
+      "feedUrl": "https://www.ximalaya.com/album/75796507.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%BF%AB%E5%98%B4%E5%94%A0%E5%AE%B6%E5%B8%B8-%E6%8D%A2%E4%B8%AA%E8%A7%92%E5%BA%A6%E7%9C%8B%E7%94%9F%E6%B4%BB%E4%B8%A8%E5%A5%B3%E6%80%A7%E6%88%90%E9%95%BF%E8%B5%8B%E8%83%BD%E4%B8%A8%E6%83%85%E6%84%9F%E5%AE%B6%E5%BA%AD/id1689901442?uo=4",
+      "genres": [
+        "情感与人际关系",
+        "播客",
+        "社会与文化",
+        "历史"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 388,
+      "releaseDate": "2024-12-12T22:58:00Z",
+      "country": "CHN",
+      "primaryGenreName": "情感与人际关系"
+    },
+    {
+      "collectionId": 1451397848,
+      "trackId": 1451397848,
+      "collectionName": "遇潭的晚间电台|女性成长赋能站",
+      "artistName": "遇潭姐姐",
+      "feedUrl": "http://www.ximalaya.com/album/20450777.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%81%87%E6%BD%AD%E7%9A%84%E6%99%9A%E9%97%B4%E7%94%B5%E5%8F%B0-%E5%A5%B3%E6%80%A7%E6%88%90%E9%95%BF%E8%B5%8B%E8%83%BD%E7%AB%99/id1451397848?uo=4",
+      "genres": [
+        "音乐",
+        "播客"
+      ],
+      "genreIds": [
+        "1310",
+        "26"
+      ],
+      "trackCount": 93,
+      "releaseDate": "2020-11-18T14:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "音乐"
+    },
+    {
+      "collectionId": 6789109383,
+      "trackId": 6789109383,
+      "collectionName": "女生恋爱攻略丨提升情商 让男人主动付出",
+      "artistName": "千兰女性清醒成长",
+      "feedUrl": "https://www.ximalaya.com/album/122147697.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A5%B3%E7%94%9F%E6%81%8B%E7%88%B1%E6%94%BB%E7%95%A5%E4%B8%A8%E6%8F%90%E5%8D%87%E6%83%85%E5%95%86-%E8%AE%A9%E7%94%B7%E4%BA%BA%E4%B8%BB%E5%8A%A8%E4%BB%98%E5%87%BA/id6789109383?uo=4",
+      "genres": [
+        "情感与人际关系",
+        "播客",
+        "社会与文化",
+        "个人日记"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 96,
+      "releaseDate": "2026-08-03T13:47:00Z",
+      "country": "CHN",
+      "primaryGenreName": "情感与人际关系"
+    },
+    {
+      "collectionId": 1823618059,
+      "trackId": 1823618059,
+      "collectionName": "搞钱中女｜女性成长访谈播客",
+      "artistName": "闪光中女小段姐",
+      "feedUrl": "https://feed.xyzfm.space/y3qcmq6mtugc",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%90%9E%E9%92%B1%E4%B8%AD%E5%A5%B3-%E5%A5%B3%E6%80%A7%E6%88%90%E9%95%BF%E8%AE%BF%E8%B0%88%E6%92%AD%E5%AE%A2/id1823618059?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客",
+        "宗教与心灵"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1314"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2026-08-04T12:19:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1712824347,
+      "trackId": 1712824347,
+      "collectionName": "好好爱自己丨每一位女性都应该了解的妇产科知识丨两性知识",
+      "artistName": "龚晓明医生",
+      "feedUrl": "https://www.ximalaya.com/album/12273570.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A5%BD%E5%A5%BD%E7%88%B1%E8%87%AA%E5%B7%B1%E4%B8%A8%E6%AF%8F%E4%B8%80%E4%BD%8D%E5%A5%B3%E6%80%A7%E9%83%BD%E5%BA%94%E8%AF%A5%E4%BA%86%E8%A7%A3%E7%9A%84%E5%A6%87%E4%BA%A7%E7%A7%91%E7%9F%A5%E8%AF%86%E4%B8%A8%E4%B8%A4%E6%80%A7%E7%9F%A5%E8%AF%86/id1712824347?uo=4",
+      "genres": [
+        "医学",
+        "播客",
+        "健康与健身",
+        "两性"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1516"
+      ],
+      "trackCount": 1066,
+      "releaseDate": "2026-10-22T07:11:00Z",
+      "country": "CHN",
+      "primaryGenreName": "医学"
+    },
+    {
+      "collectionId": 1017218658,
+      "trackId": 1017218658,
+      "collectionName": "中国女性情感指南",
+      "artistName": "许川",
+      "feedUrl": "http://www.ximalaya.com/album/276787.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E6%83%85%E6%84%9F%E6%8C%87%E5%8D%97/id1017218658?uo=4",
+      "genres": [
+        "个人日记",
+        "播客",
+        "社会与文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 1224,
+      "releaseDate": "2024-11-14T11:26:00Z",
+      "country": "CHN",
+      "primaryGenreName": "个人日记"
+    },
+    {
+      "collectionId": 1601072335,
+      "trackId": 1601072335,
+      "collectionName": "婚恋圣经100集｜精英女性必听",
+      "artistName": "我是二哥7",
+      "feedUrl": "http://www.ximalaya.com/album/55558108.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A9%9A%E6%81%8B%E5%9C%A3%E7%BB%8F100%E9%9B%86-%E7%B2%BE%E8%8B%B1%E5%A5%B3%E6%80%A7%E5%BF%85%E5%90%AC/id1601072335?uo=4",
+      "genres": [
+        "情感与人际关系",
+        "播客",
+        "社会与文化"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324"
+      ],
+      "trackCount": 31,
+      "releaseDate": "2022-02-19T11:44:00Z",
+      "country": "CHN",
+      "primaryGenreName": "情感与人际关系"
+    },
+    {
+      "collectionId": 1555718950,
+      "trackId": 1555718950,
+      "collectionName": "30～40代女性の心のお悩み解決！『それ、わかるー！！』",
+      "artistName": "カウンセリングラボ LIB Laboratory",
+      "feedUrl": "https://lib.koelab.net/feed/podcast/",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/30-40%E4%BB%A3%E5%A5%B3%E6%80%A7%E3%81%AE%E5%BF%83%E3%81%AE%E3%81%8A%E6%82%A9%E3%81%BF%E8%A7%A3%E6%B1%BA-%E3%81%9D%E3%82%8C-%E3%82%8F%E3%81%8B%E3%82%8B%E3%83%BC/id1555718950?uo=4",
+      "genres": [
+        "心理健康",
+        "播客",
+        "健康与健身",
+        "儿童与家庭",
+        "育儿"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1305",
+        "1521"
+      ],
+      "trackCount": 246,
+      "releaseDate": "2026-04-17T19:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1449816135,
+      "trackId": 1449816135,
+      "collectionName": "女性养生减肥说",
+      "artistName": "膳美吃营养师奕可",
+      "feedUrl": "http://www.ximalaya.com/album/20386694.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A5%B3%E6%80%A7%E5%85%BB%E7%94%9F%E5%87%8F%E8%82%A5%E8%AF%B4/id1449816135?uo=4",
+      "genres": [
+        "健康与健身",
+        "播客"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 189,
+      "releaseDate": "2021-08-06T16:39:00Z",
+      "country": "CHN",
+      "primaryGenreName": "健康与健身"
+    }
+  ]
+}

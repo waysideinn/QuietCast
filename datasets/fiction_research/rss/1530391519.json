@@ -1,0 +1,140 @@
+{
+  "show_id": "1530391519",
+  "feed_url": "https://anchor.fm/s/34a69bd4/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/34a69bd4/podcast/rss",
+    "final_url": "https://anchor.fm/s/34a69bd4/podcast/rss",
+    "fetched_at": "2026-10-25T14:54:05.813937+00:00",
+    "status": 200,
+    "sha256": "2ab95ebd76652e1658a399323064e1d62b4a32b88a4efca4a75d44dde342610a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Winny 十分鐘中英語說",
+    "truncated": false
+  },
+  "description": {
+    "text": "跟著 Winny & York 用十分鐘中英語談旅遊和生活～ 兩人自小住紐澳，目前定居墨爾本。曾經以八公斤行李環遊世界 325天，與大家分享踏遍世界七大洲、84多國的故事！ Taiwan-born Winny & York grew up in NZ & Aus. They travelled around the world in 8kg carry-on to 84+ countries & 7 continents. 10 min bilingual stories in both Mandarin Chinese & English. Currently in Melb. 目標是每兩個禮拜更新一次～現語音檔曾用於台灣教育電台「教育行動家」Global Village英文單元中。 * Blog: www.travelwithwinny.com * FB: www.facebook.com/travelwithwinny * IG: www.instagram.com/travelwithwinny * YouTube: www.youtube.com/travelwithwinny 【出版作品】 * 2019《跟著Winny勇闖中美洲》→ http://goo.gl/RYPSTp * 2018《地心引力抓不住的冒險家》→ https://bit.ly/2kYdpgt",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 33,
+  "episodes": [
+    {
+      "id": "81d156f7a4de3eefa5acfa8b3617192b71d8d2c59fdd72e9f2f0c7e7b64db3f0",
+      "guid": "658bc09e-f1a3-484f-8c48-a8f2776886c8",
+      "title": {
+        "text": "EP.33 澳洲鬧鬼的世界遺產—亞瑟港 Port Arthur- the haunted UNESCO site",
+        "truncated": false
+      },
+      "description": {
+        "text": "你們知道澳洲有許多地方鬧鬼嗎？ 位於塔斯馬尼亞的亞瑟港 ，是澳洲第二主要鬧鬼的地方！ 在十八世紀時這裡成為英國與愛爾蘭重刑犯的關押所。 1996 年更發生了改變澳洲槍枝管理法律的槍擊案！ 這集將會跟大家介紹這座白天風景優美，但晚上令人毛骨悚然的世界遺產。 想了解更多關於亞瑟港的歷史嗎？ 歡迎連結 → https://www.travelwithwinny.com/zh/澳洲-世界遺產-port-arthur-亞瑟港/ Did you know that there are plenty of haunted places in Australia? Apparently, Port Arthur in Tasmania is the second most haunted place in Australia! Not only this place used held convicts back in the 18th century, a massacre also happened back in 1996 which changed the gun laws in Australia! In this episode, we shall share the story behind this infamous UNESCO site. Want to follow our",
+        "truncated": true
+      },
+      "published_at": "Thu, 18 Nov 2021 01:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "83f289abc60a1f558d4224529884d2ddfc98adc97dfaba5d751a292df89b345d",
+      "guid": "725e791d-8323-43e9-926a-fac701aa07fb",
+      "title": {
+        "text": "EP.28 尼加拉瓜的火山群 Volcanoes in Nicaragua",
+        "truncated": false
+      },
+      "description": {
+        "text": "不知道各位有沒有近距離看過火山呢？ 位於中美洲的尼加拉瓜共擁有十九座火山，每座各有特色，當然也不是每座都適合人攀爬！ 這集將會介紹幾座尼加拉瓜的火山，讓大家遠距離體驗一下中美洲的冒險行程喔！ 想讀更多關於尼加拉瓜的網誌嗎？ 歡迎連結 → https://www.travelwithwinny.com/zh/category/destinations-zh/central-america-zh/nicaragua-zh/ Have you ever been close-up and personal with volcanoes? There is a total of 19 volcanoes in Nicaragua, each with its own uniqueness. In this episode, we will be talking about some of the volcanoes we visited in Nicaragua, hope we can add more off-beaten destinations to your travel list! Want to read up more travel blogs? Link here→ https://www.travelwithwinny.com/ FOLLOW ME 喜歡我的話歡迎跟蹤",
+        "truncated": true
+      },
+      "published_at": "Thu, 09 Sep 2021 02:00:00 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "f905bdb6aca680d80a8e163b42987313294aeee49bff7fcb25bd5967586cca2c",
+      "guid": "49efec3e-cb2c-4452-82d6-6d28ee2442f5",
+      "title": {
+        "text": "EP.24 前往拉脫維亞 2003年才被公開的蘇聯秘密基地 The Secret Soviet Bunker in Latvia",
+        "truncated": false
+      },
+      "description": {
+        "text": "很多人沒有想到在波羅的海三國中間的拉脫維亞裡居然藏著 2003 年才被公布的蘇聯秘密基地！在一個看似在深山小鎮內的康復水療中心，地下居然藏著這麼大的秘密！ 這裡深在地下九公尺，上面有五公尺的鋼筋水泥能夠阻擋原子彈爆炸的威力。 而且面積占地下兩萬平方公尺，能夠讓兩百多人以上住上三個月都不用出去，比希特勒蓋給自己的地堡還大！這集將會簡單介紹這項黑暗景點給你聽！ 想閱讀完整的蘇聯秘密基地的遊記嗎？？ 歡迎連結 → https://www.travelwithwinny.com/zh/蘇聯秘密基地-拉脫維亞-soviet-bunker-ligatne/ Hidden deep beneath the rehabilitation spa centre in Ligatne- a small village in the middle of a national park is a secret soviet bunker built to protect the soviet political elite in case of a nuclear attack during the cold war. The 213,000 square foot hideout, completely self-sustainable and could support 250 people for",
+        "truncated": true
+      },
+      "published_at": "Thu, 15 Jul 2021 02:00:00 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "3f30be1433c377d253d3a7b7331a42f39413afb26abff91e3c3d0b2046673044",
+      "guid": "0fe5a5c0-75cd-42f6-96cf-afa847257b46",
+      "title": {
+        "text": "EP.19 澳洲的大堡礁三天兩夜潛水記 Finding Nemo in Great Barrier Reef- 3D2N Dive Boat",
+        "truncated": false
+      },
+      "description": {
+        "text": "有看過迪士尼動畫《海底總動員》嗎？ 那麼應該對澳洲的大堡礁不陌生吧！ 這裡是全世界最大的珊瑚礁群，全長超過兩千六百公里，面積將近三十五萬平方公里。 這片自然奇景不只在一九八一年被譽為世界遺產，更是世界七大自然奇蹟之一。 我們有幸來的此區，搭上三天兩夜的潛水船，一探這世界的奇景！ 想了解該如何大堡礁潛水嗎？ 歡迎連結 → https://www.travelwithwinny.com/zh/大堡礁潛水-澳洲-pro-dive-凱恩斯/ Have you ever seen the Disney animation \"Finding Nemo\"? If you did, you probably familiar with the Great Barrier Reef in Australia. This is the largest coral reef in the world, over 2600KM in length. It has been rated as one of the nature wonders of the world as well as an UNESCO site! We will be talking about our 3D2N dive boat trip over this magnificent region of the world. Fe",
+        "truncated": true
+      },
+      "published_at": "Thu, 06 May 2021 02:00:00 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "74d6a95ee2e63aa286c447689708a577183afd6ed59ee1315fa7509d3200933d",
+      "guid": "82556534-d0a8-4d78-934c-8f09a58da124",
+      "title": {
+        "text": "EP.15 前往祕魯馬丘比丘的４天３夜印加古道 4D3N Inca Trail to Machu Picchu",
+        "truncated": false
+      },
+      "description": {
+        "text": "我從小時候就對祕魯神秘的印加帝國建造的「天空之城」馬丘比丘抱著一生一世一定要去朝聖的夢想！前往馬丘比丘有兩種方法，一種是搭火車上去；另一種是跟著印加帝國的遺跡，繞著安第斯山脈健行走四十五公里的印加古道。這個步道會經過最高海拔 4200 公尺的山區，最後一天才從太陽門觀看到馬丘比丘的全景！這集將會簡單介紹我們前往夢想之境的路程！ 想讀關於完整的四天三夜的馬丘比丘印加古道的日記嗎？歡迎連結網誌： https://www.travelwithwinny.com/zh/inca-trail-印加古道-馬丘比丘-machu-picchu/ For me, Machu Picchu is a dream destination and a place that I must visit in my lifetime. It is an ancient sacred city completely untouched by the Spaniard's colonialization. There are two paths that reach Machu Picchu. The first way is taking public transportation along the flat route and the second way is to trek the 45 KM along",
+        "truncated": true
+      },
+      "published_at": "Thu, 11 Mar 2021 02:00:00 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "d6e7537f8ea63c6d051c92dd547c7d42b97aefa54f085ac76378aa6bba59f485",
+      "guid": "f218d2c7-ce6b-475f-a891-c209be30c60a",
+      "title": {
+        "text": "EP.10 南極，一起到世界的盡頭吧！ Antaractica! Together to end of the world.",
+        "truncated": false
+      },
+      "description": {
+        "text": "南極到底是個什麼樣子的地方？該不會只有企鵝吧？ 當初我們狠了心花了環遊世界 1/3的旅費在南極船上，卻完全不清楚迎接我們的是什麼樣的世界！聽了這集，你們一定比當初的我們更有頭緒。 想更了解如何去南極或是南極旅遊嗎？歡迎連結網誌：https://www.travelwithwinny.com/zh/category/destinations-zh/antarctica-zh/ What's there in Antarctica? Penguins? To be honest, when we first decided to spend 1/3 of our round the world budget on an Antarctica cruise, we had no idea what to expect! I am sure after listening to this episode, you will definitely have more understanding than we did. Want to know more about how to travel to Antarctica? Follow the link to read it up! → https://www.travelwithwinny.com/category/destination",
+        "truncated": true
+      },
+      "published_at": "Thu, 31 Dec 2020 07:50:06 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "2f1a0e9b81b18fb185bd2074d9a6be98acaec4d190dd47ffe80419e274dd5049",
+      "guid": "93d0ea0c-b223-49da-b505-53588b269d19",
+      "title": {
+        "text": "EP.06 世界七大工程奇蹟？伊泰普水壩 Seven Wonders of the Modern World: Itaipu Dam",
+        "truncated": false
+      },
+      "description": {
+        "text": "記得當我踏入伊泰普水壩的時候，第一句話就是 WOW！沒想到人類可以蓋出如此巨大的物體。 自從看過國家地理頻道的紀錄片《偉大工程巡禮》（Mega-structures）之後，就一直嚮往參觀世界七大工程奇蹟之一的伊泰普水壩 。這座屬於巴西與巴拉圭兩國的伊泰普，是僅次於中國三峽大壩的全球第二大水電發電廠；不只提供了巴拉圭百分之八十五的電力，也提供了巴西百分之十七的人民所需的電量。依賴此發電廠的人民高達五千萬人，相當於澳洲人口的兩倍！ 想知道更多關於我們在伊泰普水壩的參觀嗎？歡迎連結網誌： https://www.travelwithwinny.com/zh/巴拉圭-巴西-世界七大工程奇蹟-伊泰普水壩/ I can still remember clearly the first time we stepped foot into Itaipu Dam, it was a jaw-dropping experience! Ever since we watched the documentary Mega-structures on National Geographic, we've always wanted to visit Itaipu Dam- one of the 7 Wonders of the Modern World. This dam is the second-lar",
+        "truncated": true
+      },
+      "published_at": "Thu, 05 Nov 2020 01:00:00 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "16d0ea94396a73c0b0c66de491767a6387a8ea1aa1f62b437b42df846a477a51",
+      "guid": "131d505f-1475-4b33-9e42-a4a17fab8dc2",
+      "title": {
+        "text": "EP.01 如何八公斤環遊世界？ How to travel the world in 8 kg carry-on?",
+        "truncated": false
+      },
+      "description": {
+        "text": "第一次上節目，跟大家來個自我介紹以及當初是如何用八公斤行李環遊世界？ 詳細網誌： http://goo.gl/8c5s8V 教學影片： https://youtu.be/oZIioGaM52o First time on the show, so got to introduce myself! This episode is about how we ended up quitting our jobs and how did we travel around the world in 8 kg carry-on? Packing list: http://goo.gl/iFGPQw Tutorial video: https://youtu.be/C3CE7hm83wc FOLLOW ME 喜歡我的話歡迎跟蹤 Blog: www.travelwithwinny.com （雙語，bilingual） FB: www.facebook.com/travelwithwinny.com IG: www.instagram.com/travelwithwinny YouTube: www.youtube.com/travelwithwinny 【出版作品】 2018《地心引力抓不住的冒險家》→ https://bit.ly/2kYdpgt 2019《跟著Winny勇闖中美洲》→ http",
+        "truncated": true
+      },
+      "published_at": "Thu, 03 Sep 2020 12:55:06 GMT",
+      "feed_index": 32
+    }
+  ]
+}

@@ -1,0 +1,1272 @@
+{
+  "group": "boundary",
+  "term": "历史故事",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:45:07.540276+00:00",
+    "status": 200,
+    "sha256": "63403b11a886b6686009b82015d7011f121789cf318a76295863d5a9e7fe221c"
+  },
+  "result_count": 56,
+  "records": [
+    {
+      "collectionId": 1533271443,
+      "trackId": 1533271443,
+      "collectionName": "李的歷史故事",
+      "artistName": "李洵",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckfgt8xtgrq5t0836icqqx9it",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9D%8E%E7%9A%84%E6%AD%B7%E5%8F%B2%E6%95%85%E4%BA%8B/id1533271443?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "商業",
+        "職業"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1321",
+        "1410"
+      ],
+      "trackCount": 352,
+      "releaseDate": "2026-10-17T03:52:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1585467941,
+      "trackId": 1585467941,
+      "collectionName": "說給孩子聽的歷史故事",
+      "artistName": "王珮",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/28976fc6-7f5f-4abd-9b58-1471394cebcd.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AA%AA%E7%B5%A6%E5%AD%A9%E5%AD%90%E8%81%BD%E7%9A%84%E6%AD%B7%E5%8F%B2%E6%95%85%E4%BA%8B/id1585467941?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 48,
+      "releaseDate": "2026-10-15T09:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 877607820,
+      "trackId": 877607820,
+      "collectionName": "野史下酒｜有趣的历史故事",
+      "artistName": "恶霸波",
+      "feedUrl": "https://s1.proxy.wavpub.com/yeshixiajiu.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%87%8E%E5%8F%B2%E4%B8%8B%E9%85%92-%E6%9C%89%E8%B6%A3%E7%9A%84%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B/id877607820?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 456,
+      "releaseDate": "2026-10-14T06:47:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1688838394,
+      "trackId": 1688838394,
+      "collectionName": "睡前歷史故事",
+      "artistName": "禾禾",
+      "feedUrl": "https://feed.firstory.me/rss/user/cli1e2p3800nv011d3j1kbn97",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%9D%A1%E5%89%8D%E6%AD%B7%E5%8F%B2%E6%95%85%E4%BA%8B/id1688838394?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2023-05-30T14:48:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1578213878,
+      "trackId": 1578213878,
+      "collectionName": "台灣歷史故事",
+      "artistName": "阿三",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckrd5gb22gild0806s9pthc6f",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8F%B0%E7%81%A3%E6%AD%B7%E5%8F%B2%E6%95%85%E4%BA%8B/id1578213878?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2021-10-31T21:41:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1896551887,
+      "trackId": 1896551887,
+      "collectionName": "藏在成语里的历史故事 人物篇",
+      "artistName": "二十一世纪出版社集团",
+      "feedUrl": "https://www.ximalaya.com/album/79186481.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%97%8F%E5%9C%A8%E6%88%90%E8%AF%AD%E9%87%8C%E7%9A%84%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B-%E4%BA%BA%E7%89%A9%E7%AF%87/id1896551887?uo=4",
+      "genres": [
+        "兒童故事",
+        "Podcast",
+        "兒童與家庭"
+      ],
+      "genreIds": [
+        "1520",
+        "26",
+        "1305"
+      ],
+      "trackCount": 38,
+      "releaseDate": "2023-11-17T08:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童故事"
+    },
+    {
+      "collectionId": 1863856182,
+      "trackId": 1863856182,
+      "collectionName": "中国历史故事130讲",
+      "artistName": "秦宇熙_Yuxi",
+      "feedUrl": "https://feed.xyzfm.space/6ufc83jqq3ad",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B130%E8%AE%B2/id1863856182?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324"
+      ],
+      "trackCount": 155,
+      "releaseDate": "2026-02-22T22:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1585882379,
+      "trackId": 1585882379,
+      "collectionName": "鍵盤考古指南｜歷史。故事",
+      "artistName": "Caviar",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckr1dhzts2xfo0969o6bh0j76",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%8D%B5%E7%9B%A4%E8%80%83%E5%8F%A4%E6%8C%87%E5%8D%97-%E6%AD%B7%E5%8F%B2-%E6%95%85%E4%BA%8B/id1585882379?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "社會與文化",
+        "紀實"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324",
+        "1543"
+      ],
+      "trackCount": 22,
+      "releaseDate": "2023-02-25T09:11:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1206319092,
+      "trackId": 1206319092,
+      "collectionName": "晓蕾姐姐讲历史故事",
+      "artistName": "万象历史",
+      "feedUrl": "http://www.ximalaya.com/album/6089565.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%99%93%E8%95%BE%E5%A7%90%E5%A7%90%E8%AE%B2%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B/id1206319092?uo=4",
+      "genres": [
+        "兒童與家庭",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1305",
+        "26",
+        "1324"
+      ],
+      "trackCount": 224,
+      "releaseDate": "2020-06-04T12:06:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童與家庭"
+    },
+    {
+      "collectionId": 1895890185,
+      "trackId": 1895890185,
+      "collectionName": "藏在成语里的历史故事",
+      "artistName": "二十一世纪出版社集团",
+      "feedUrl": "https://www.ximalaya.com/album/77019663.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%97%8F%E5%9C%A8%E6%88%90%E8%AF%AD%E9%87%8C%E7%9A%84%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B/id1895890185?uo=4",
+      "genres": [
+        "兒童故事",
+        "Podcast",
+        "兒童與家庭"
+      ],
+      "genreIds": [
+        "1520",
+        "26",
+        "1305"
+      ],
+      "trackCount": 38,
+      "releaseDate": "2023-07-14T08:59:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童故事"
+    },
+    {
+      "collectionId": 1697175896,
+      "trackId": 1697175896,
+      "collectionName": "女皇野史|上下五千年|单播|历史故事|武则天",
+      "artistName": "Mr末日黎明",
+      "feedUrl": "https://www.ximalaya.com/album/74411085.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E7%9A%87%E9%87%8E%E5%8F%B2-%E4%B8%8A%E4%B8%8B%E4%BA%94%E5%8D%83%E5%B9%B4-%E5%8D%95%E6%92%AD-%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B-%E6%AD%A6%E5%88%99%E5%A4%A9/id1697175896?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "社會與文化",
+        "紀實"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324",
+        "1543"
+      ],
+      "trackCount": 107,
+      "releaseDate": "2023-06-08T12:19:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1574017487,
+      "trackId": 1574017487,
+      "collectionName": "小樹時光屋：說你不知道的歷史故事",
+      "artistName": "Wenzel 則文",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/e092553d-07d6-40b1-b41c-9d31c3e4029c.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B0%8F%E6%A8%B9%E6%99%82%E5%85%89%E5%B1%8B-%E8%AA%AA%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E6%AD%B7%E5%8F%B2%E6%95%85%E4%BA%8B/id1574017487?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1487"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2021-06-24T06:14:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1544727675,
+      "trackId": 1544727675,
+      "collectionName": "每晚一个历史故事",
+      "artistName": "半碗nsc",
+      "feedUrl": "http://www.ximalaya.com/album/39391561.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AF%8F%E6%99%9A%E4%B8%80%E4%B8%AA%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B/id1544727675?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "社會與文化",
+        "紀實"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324",
+        "1543"
+      ],
+      "trackCount": 207,
+      "releaseDate": "2021-08-11T11:19:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1896786313,
+      "trackId": 1896786313,
+      "collectionName": "藏在成语里的历史故事 励志篇",
+      "artistName": "二十一世纪出版社集团",
+      "feedUrl": "https://www.ximalaya.com/album/79186318.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%97%8F%E5%9C%A8%E6%88%90%E8%AF%AD%E9%87%8C%E7%9A%84%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B-%E5%8A%B1%E5%BF%97%E7%AF%87/id1896786313?uo=4",
+      "genres": [
+        "兒童故事",
+        "Podcast",
+        "兒童與家庭"
+      ],
+      "genreIds": [
+        "1520",
+        "26",
+        "1305"
+      ],
+      "trackCount": 38,
+      "releaseDate": "2023-11-17T07:49:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童故事"
+    },
+    {
+      "collectionId": 1843300355,
+      "trackId": 1843300355,
+      "collectionName": "Historical Travel Stories💕旅行の歷史故事",
+      "artistName": "Lawrence An",
+      "feedUrl": "https://feeds.redcircle.com/cfc0e32d-c1fc-435f-8d4b-b3f5fb352872",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/historical-travel-stories-%E6%97%85%E8%A1%8C%E3%81%AE%E6%AD%B7%E5%8F%B2%E6%95%85%E4%BA%8B/id1843300355?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "歷史"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 1666,
+      "releaseDate": "2026-10-25T13:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1758450062,
+      "trackId": 1758450062,
+      "collectionName": "促膝长谈｜历史故事.古典文学",
+      "artistName": "仕成_",
+      "feedUrl": "https://www.ximalaya.com/album/82208766.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BF%83%E8%86%9D%E9%95%BF%E8%B0%88-%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B-%E5%8F%A4%E5%85%B8%E6%96%87%E5%AD%A6/id1758450062?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 46,
+      "releaseDate": "2026-07-28T03:14:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1643770689,
+      "trackId": 1643770689,
+      "collectionName": "欧洲历史故事---完全免费版（大家放心收听）",
+      "artistName": "勤奋_13",
+      "feedUrl": "https://www.ximalaya.com/album/67552094.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AC%A7%E6%B4%B2%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B-%E5%AE%8C%E5%85%A8%E5%85%8D%E8%B4%B9%E7%89%88-%E5%A4%A7%E5%AE%B6%E6%94%BE%E5%BF%83%E6%94%B6%E5%90%AC/id1643770689?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 25,
+      "releaseDate": "2022-12-08T22:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1455483014,
+      "trackId": 1455483014,
+      "collectionName": "秋野叨历史 | 十分钟的历史故事",
+      "artistName": "秋野山人",
+      "feedUrl": "http://www.ximalaya.com/album/18478585.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%A7%8B%E9%87%8E%E5%8F%A8%E5%8E%86%E5%8F%B2-%E5%8D%81%E5%88%86%E9%92%9F%E7%9A%84%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B/id1455483014?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1487"
+      ],
+      "trackCount": 132,
+      "releaseDate": "2020-05-31T13:23:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1709974730,
+      "trackId": 1709974730,
+      "collectionName": "中国历史故事 | 夜听华夏 伴您入眠",
+      "artistName": "熙熙攘攘世界_",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B-%E5%A4%9C%E5%90%AC%E5%8D%8E%E5%A4%8F-%E4%BC%B4%E6%82%A8%E5%85%A5%E7%9C%A0/id1709974730?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 32,
+      "releaseDate": "2024-08-07T22:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1779465680,
+      "trackId": 1779465680,
+      "collectionName": "【免费】元宫十四朝演义|鸳蝴派小说|历史故事|AI",
+      "artistName": "梅酉金_鹿苑",
+      "feedUrl": "https://www.ximalaya.com/album/83882914.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9-%E5%85%83%E5%AE%AB%E5%8D%81%E5%9B%9B%E6%9C%9D%E6%BC%94%E4%B9%89-%E9%B8%B3%E8%9D%B4%E6%B4%BE%E5%B0%8F%E8%AF%B4-%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B-ai/id1779465680?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "歷史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 275,
+      "releaseDate": "2025-02-20T16:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 6824774410,
+      "trackId": 6824774410,
+      "collectionName": "睡前半小时历史故事会【中国古代王朝篇】",
+      "artistName": "睡前半小时历史故事会",
+      "feedUrl": "https://www.ximalaya.com/album/131286548.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%9D%A1%E5%89%8D%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B%E4%BC%9A-%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E7%8E%8B%E6%9C%9D%E7%AF%87/id6824774410?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "小說",
+        "戲劇"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 12,
+      "releaseDate": "2026-10-23T14:24:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1723123587,
+      "trackId": 1723123587,
+      "collectionName": "小羽倍儿棒 | 行走世界 带你发现不一样的历史故事",
+      "artistName": "小羽倍儿棒",
+      "feedUrl": "https://www.ximalaya.com/album/80878462.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B0%8F%E7%BE%BD%E5%80%8D%E5%84%BF%E6%A3%92-%E8%A1%8C%E8%B5%B0%E4%B8%96%E7%95%8C-%E5%B8%A6%E4%BD%A0%E5%8F%91%E7%8E%B0%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B/id1723123587?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "社會與文化",
+        "名勝與旅遊"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324",
+        "1320"
+      ],
+      "trackCount": 189,
+      "releaseDate": "2026-10-10T12:17:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1466925893,
+      "trackId": 1466925893,
+      "collectionName": "毁三观历史故事集",
+      "artistName": "刘侃山侃书",
+      "feedUrl": "http://www.ximalaya.com/album/13194463.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AF%81%E4%B8%89%E8%A7%82%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B%E9%9B%86/id1466925893?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1487"
+      ],
+      "trackCount": 88,
+      "releaseDate": "2024-02-25T08:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1589964004,
+      "trackId": 1589964004,
+      "collectionName": "轻说历史_一个个历史故事娓娓道来",
+      "artistName": "摩羯秘语",
+      "feedUrl": "http://www.ximalaya.com/album/23810207.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%BD%BB%E8%AF%B4%E5%8E%86%E5%8F%B2-%E4%B8%80%E4%B8%AA%E4%B8%AA%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B%E5%A8%93%E5%A8%93%E9%81%93%E6%9D%A5/id1589964004?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "藝術",
+        "書籍"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2022-01-30T04:39:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1651904552,
+      "trackId": 1651904552,
+      "collectionName": "历史故事加油站",
+      "artistName": "泛亚克西",
+      "feedUrl": "https://feed.xyzfm.space/6c6lgufmwdd3",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B%E5%8A%A0%E6%B2%B9%E7%AB%99/id1651904552?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 17,
+      "releaseDate": "2022-11-29T06:49:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1609826459,
+      "trackId": 1609826459,
+      "collectionName": "華倫老爹說歷史 | 愛故事",
+      "artistName": "Warren 華倫．老爹 ( 我還沒這麼老，可先不加老爹 )",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckr7afj5fnyar08016jqbzmqv",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%8F%AF%E5%80%AB%E8%80%81%E7%88%B9%E8%AA%AA%E6%AD%B7%E5%8F%B2-%E6%84%9B%E6%95%85%E4%BA%8B/id1609826459?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1321"
+      ],
+      "trackCount": 363,
+      "releaseDate": "2026-10-10T03:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1524265897,
+      "trackId": 1524265897,
+      "collectionName": "週報時光機（生活歷史、品牌故事）",
+      "artistName": "派翠克／Patrick",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckcnhs4x0yuqw0918kkui2pjw",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%80%B1%E5%A0%B1%E6%99%82%E5%85%89%E6%A9%9F-%E7%94%9F%E6%B4%BB%E6%AD%B7%E5%8F%B2-%E5%93%81%E7%89%8C%E6%95%85%E4%BA%8B/id1524265897?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1487"
+      ],
+      "trackCount": 407,
+      "releaseDate": "2026-10-19T00:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1577124807,
+      "trackId": 1577124807,
+      "collectionName": "華倫老爹說歷史 | 愛故事",
+      "artistName": "Warren 華倫．老爹 ( 我還沒這麼老，可先不加老爹 )",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckr7afj5fnyar08016jqbzmqv",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%8F%AF%E5%80%AB%E8%80%81%E7%88%B9%E8%AA%AA%E6%AD%B7%E5%8F%B2-%E6%84%9B%E6%95%85%E4%BA%8B/id1577124807?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1321"
+      ],
+      "trackCount": 363,
+      "releaseDate": "2026-10-24T03:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1623040410,
+      "trackId": 1623040410,
+      "collectionName": "杞人說故事：輕鬆說歷史",
+      "artistName": "杞人",
+      "feedUrl": "https://feed.firstory.me/rss/user/cl2ot3s8x0agw01w4exgghh37",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9D%9E%E4%BA%BA%E8%AA%AA%E6%95%85%E4%BA%8B-%E8%BC%95%E9%AC%86%E8%AA%AA%E6%AD%B7%E5%8F%B2/id1623040410?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 159,
+      "releaseDate": "2026-09-07T23:47:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1732371774,
+      "trackId": 1732371774,
+      "collectionName": "上下五千年——畅游5000年中国历史|睡前故事",
+      "artistName": "瘦筷子",
+      "feedUrl": "https://www.ximalaya.com/album/79743055.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%8A%E4%B8%8B%E4%BA%94%E5%8D%83%E5%B9%B4-%E7%95%85%E6%B8%B85000%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2-%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B/id1732371774?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 235,
+      "releaseDate": "2024-06-11T13:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1649704730,
+      "trackId": 1649704730,
+      "collectionName": "歷史本色-歷史與情色的故事",
+      "artistName": "r-Xing阿性",
+      "feedUrl": "https://feed.firstory.me/rss/user/cl95ahtwt0ehv010kcobz024u",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AD%B7%E5%8F%B2%E6%9C%AC%E8%89%B2-%E6%AD%B7%E5%8F%B2%E8%88%87%E6%83%85%E8%89%B2%E7%9A%84%E6%95%85%E4%BA%8B/id1649704730?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "社會與文化",
+        "人際關係"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2023-05-29T03:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 6803382534,
+      "trackId": 6803382534,
+      "collectionName": "故人·軌跡·憶事：民國人物的台灣故事",
+      "artistName": "民國歷史文化學社",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmt16d3bn03ei01uqh4w12kci",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%95%85%E4%BA%BA-%E8%BB%8C%E8%B7%A1-%E6%86%B6%E4%BA%8B-%E6%B0%91%E5%9C%8B%E4%BA%BA%E7%89%A9%E7%9A%84%E5%8F%B0%E7%81%A3%E6%95%85%E4%BA%8B/id6803382534?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 22,
+      "releaseDate": "2026-08-19T05:14:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1798205602,
+      "trackId": 1798205602,
+      "collectionName": "錦繡佳人：歷史人物的風雲故事",
+      "artistName": "白鹿莉娜 (Lina Wd)",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/227cd0e7-0bb0-4d99-9bae-4260b70688bd.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%8C%A6%E7%B9%A1%E4%BD%B3%E4%BA%BA-%E6%AD%B7%E5%8F%B2%E4%BA%BA%E7%89%A9%E7%9A%84%E9%A2%A8%E9%9B%B2%E6%95%85%E4%BA%8B/id1798205602?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1304"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2025-03-02T22:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1644822163,
+      "trackId": 1644822163,
+      "collectionName": "川端橋下聊日本||最有趣的日本旅遊故事||日本歷史||日本文化||日本新聞||",
+      "artistName": "永和胖莎莎",
+      "feedUrl": "https://feed.firstory.me/rss/user/cl7nj0ydg044x01wifzd9gd3t",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B7%9D%E7%AB%AF%E6%A9%8B%E4%B8%8B%E8%81%8A%E6%97%A5%E6%9C%AC-%E6%9C%80%E6%9C%89%E8%B6%A3%E7%9A%84%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A%E6%95%85%E4%BA%8B-%E6%97%A5%E6%9C%AC%E6%AD%B7%E5%8F%B2-%E6%97%A5%E6%9C%AC%E6%96%87%E5%8C%96-%E6%97%A5%E6%9C%AC%E6%96%B0%E8%81%9E/id1644822163?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2023-04-07T13:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1802427762,
+      "trackId": 1802427762,
+      "collectionName": "历史人物故事",
+      "artistName": "吃成大饼脸",
+      "feedUrl": "https://www.ximalaya.com/album/85177119.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%95%85%E4%BA%8B/id1802427762?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 78,
+      "releaseDate": "2025-06-06T05:26:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1830784695,
+      "trackId": 1830784695,
+      "collectionName": "歷史耳邊風",
+      "artistName": "愛說故事的栗子",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmcrc0ert0c4j01xed6hkd1od",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AD%B7%E5%8F%B2%E8%80%B3%E9%82%8A%E9%A2%A8/id1830784695?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 64,
+      "releaseDate": "2026-10-05T17:44:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 6803747158,
+      "trackId": 6803747158,
+      "collectionName": "故人·軌跡·憶事：民國人物的台灣故事",
+      "artistName": "民國歷史文化學社",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/0c94b027-2e83-4177-977a-511f17adb4de.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%95%85%E4%BA%BA-%E8%BB%8C%E8%B7%A1-%E6%86%B6%E4%BA%8B-%E6%B0%91%E5%9C%8B%E4%BA%BA%E7%89%A9%E7%9A%84%E5%8F%B0%E7%81%A3%E6%95%85%E4%BA%8B/id6803747158?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324"
+      ],
+      "trackCount": 22,
+      "releaseDate": "2026-08-19T05:14:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1556551600,
+      "trackId": 1556551600,
+      "collectionName": "秘史故事 | 当历史照进现实",
+      "artistName": "霂荃_爱霂你声音花园",
+      "feedUrl": "http://www.ximalaya.com/album/24103352.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%A7%98%E5%8F%B2%E6%95%85%E4%BA%8B-%E5%BD%93%E5%8E%86%E5%8F%B2%E7%85%A7%E8%BF%9B%E7%8E%B0%E5%AE%9E/id1556551600?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "社會與文化",
+        "紀實"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324",
+        "1543"
+      ],
+      "trackCount": 381,
+      "releaseDate": "2026-09-12T15:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1750445958,
+      "trackId": 1750445958,
+      "collectionName": "东周列国故事新编| 先秦历史很有趣儿【免费】公版书",
+      "artistName": "清风宋朝",
+      "feedUrl": "https://www.ximalaya.com/album/82016388.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%9C%E5%91%A8%E5%88%97%E5%9B%BD%E6%95%85%E4%BA%8B%E6%96%B0%E7%BC%96-%E5%85%88%E7%A7%A6%E5%8E%86%E5%8F%B2%E5%BE%88%E6%9C%89%E8%B6%A3%E5%84%BF-%E5%85%8D%E8%B4%B9-%E5%85%AC%E7%89%88%E4%B9%A6/id1750445958?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 178,
+      "releaseDate": "2024-06-07T14:51:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1757268195,
+      "trackId": 1757268195,
+      "collectionName": "在嘉說故事：歷史就在你身邊",
+      "artistName": "牧晴老師",
+      "feedUrl": "https://feed.firstory.me/rss/user/cm3b31rq8031r01yqbd05glo8",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%9C%A8%E5%98%89%E8%AA%AA%E6%95%85%E4%BA%8B-%E6%AD%B7%E5%8F%B2%E5%B0%B1%E5%9C%A8%E4%BD%A0%E8%BA%AB%E9%82%8A/id1757268195?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2025-07-20T03:20:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1535167846,
+      "trackId": 1535167846,
+      "collectionName": "适合孩子听的晚安历史小故事",
+      "artistName": "甜甜妈妈悦书房",
+      "feedUrl": "http://www.ximalaya.com/album/40946716.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%80%82%E5%90%88%E5%AD%A9%E5%AD%90%E5%90%AC%E7%9A%84%E6%99%9A%E5%AE%89%E5%8E%86%E5%8F%B2%E5%B0%8F%E6%95%85%E4%BA%8B/id1535167846?uo=4",
+      "genres": [
+        "兒童故事",
+        "Podcast",
+        "兒童與家庭"
+      ],
+      "genreIds": [
+        "1520",
+        "26",
+        "1305"
+      ],
+      "trackCount": 55,
+      "releaseDate": "2021-01-15T08:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童故事"
+    },
+    {
+      "collectionId": 1630529526,
+      "trackId": 1630529526,
+      "collectionName": "历史大爆料|故事背后的故事|爆笑解读历史那些事儿",
+      "artistName": "人文新声",
+      "feedUrl": "https://www.ximalaya.com/album/64530350.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8E%86%E5%8F%B2%E5%A4%A7%E7%88%86%E6%96%99-%E6%95%85%E4%BA%8B%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B-%E7%88%86%E7%AC%91%E8%A7%A3%E8%AF%BB%E5%8E%86%E5%8F%B2%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/id1630529526?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "小說",
+        "喜劇小說"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2023-03-11T00:51:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1657266425,
+      "trackId": 1657266425,
+      "collectionName": "历史传奇故事汇 | 靠谱的历史八卦",
+      "artistName": "玲珑兮",
+      "feedUrl": "https://www.ximalaya.com/album/72059214.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8E%86%E5%8F%B2%E4%BC%A0%E5%A5%87%E6%95%85%E4%BA%8B%E6%B1%87-%E9%9D%A0%E8%B0%B1%E7%9A%84%E5%8E%86%E5%8F%B2%E5%85%AB%E5%8D%A6/id1657266425?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 144,
+      "releaseDate": "2023-04-23T06:22:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 6819214275,
+      "trackId": 6819214275,
+      "collectionName": "历史的猫灵| 三国谋略故事",
+      "artistName": "历史的猫灵",
+      "feedUrl": "https://www.ximalaya.com/album/130847161.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8E%86%E5%8F%B2%E7%9A%84%E7%8C%AB%E7%81%B5-%E4%B8%89%E5%9B%BD%E8%B0%8B%E7%95%A5%E6%95%85%E4%BA%8B/id6819214275?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "兒童與家庭",
+        "兒童故事"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1305",
+        "1520"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-10-06T05:11:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1173492226,
+      "trackId": 1173492226,
+      "collectionName": "《历史典故故事》 张轩宁播讲",
+      "artistName": "自观殊院张轩宁",
+      "feedUrl": "http://www.ximalaya.com/album/5255698.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8E%86%E5%8F%B2%E5%85%B8%E6%95%85%E6%95%85%E4%BA%8B-%E5%BC%A0%E8%BD%A9%E5%AE%81%E6%92%AD%E8%AE%B2/id1173492226?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1487"
+      ],
+      "trackCount": 129,
+      "releaseDate": "2021-06-22T06:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1517446672,
+      "trackId": 1517446672,
+      "collectionName": "民俗历史趣闻录 | 民间故事 | 风俗 | 传说故事",
+      "artistName": "又见飞儿",
+      "feedUrl": "http://www.ximalaya.com/album/25147725.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B0%91%E4%BF%97%E5%8E%86%E5%8F%B2%E8%B6%A3%E9%97%BB%E5%BD%95-%E6%B0%91%E9%97%B4%E6%95%85%E4%BA%8B-%E9%A3%8E%E4%BF%97-%E4%BC%A0%E8%AF%B4%E6%95%85%E4%BA%8B/id1517446672?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "休閒"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1502"
+      ],
+      "trackCount": 199,
+      "releaseDate": "2022-02-07T09:45:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1677534632,
+      "trackId": 1677534632,
+      "collectionName": "栗史故事",
+      "artistName": "Jo、Wei",
+      "feedUrl": "https://feed.firstory.me/rss/user/clf4ynq5402s201uafxs7g2vc",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%A0%97%E5%8F%B2%E6%95%85%E4%BA%8B/id1677534632?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "歷史"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2023-12-29T02:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1874774871,
+      "trackId": 1874774871,
+      "collectionName": "八方斋·干活听 | 真实故事·历史点滴",
+      "artistName": "bafangzhaizhu",
+      "feedUrl": "https://www.ximalaya.com/album/58598479.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%AB%E6%96%B9%E6%96%8B-%E5%B9%B2%E6%B4%BB%E5%90%AC-%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B-%E5%8E%86%E5%8F%B2%E7%82%B9%E6%BB%B4/id1874774871?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "歷史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 549,
+      "releaseDate": "2026-08-27T01:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1817778095,
+      "trackId": 1817778095,
+      "collectionName": "历史悬疑故事",
+      "artistName": "时光说书人EmileNJ",
+      "feedUrl": "https://www.ximalaya.com/album/93356094.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8E%86%E5%8F%B2%E6%82%AC%E7%96%91%E6%95%85%E4%BA%8B/id1817778095?uo=4",
+      "genres": [
+        "犯罪紀實",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1488",
+        "26"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2025-05-28T13:14:00Z",
+      "country": "TWN",
+      "primaryGenreName": "犯罪紀實"
+    },
+    {
+      "collectionId": 1491897654,
+      "trackId": 1491897654,
+      "collectionName": "历史的故事",
+      "artistName": "mick",
+      "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:750482917/sounds.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8E%86%E5%8F%B2%E7%9A%84%E6%95%85%E4%BA%8B/id1491897654?uo=4",
+      "genres": [
+        "小說",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1483",
+        "26"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2019-12-26T07:48:00Z",
+      "country": "TWN",
+      "primaryGenreName": "小說"
+    },
+    {
+      "collectionId": 1613424924,
+      "trackId": 1613424924,
+      "collectionName": "京剧聊斋 | 故事.历史.名人.解读",
+      "artistName": "草原大雾",
+      "feedUrl": "http://www.ximalaya.com/album/48299841.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BA%AC%E5%89%A7%E8%81%8A%E6%96%8B-%E6%95%85%E4%BA%8B-%E5%8E%86%E5%8F%B2-%E5%90%8D%E4%BA%BA-%E8%A7%A3%E8%AF%BB/id1613424924?uo=4",
+      "genres": [
+        "表演",
+        "Podcast",
+        "藝術",
+        "歷史"
+      ],
+      "genreIds": [
+        "1405",
+        "26",
+        "1301",
+        "1487"
+      ],
+      "trackCount": 119,
+      "releaseDate": "2022-12-19T17:44:00Z",
+      "country": "TWN",
+      "primaryGenreName": "表演"
+    },
+    {
+      "collectionId": 1773882620,
+      "trackId": 1773882620,
+      "collectionName": "【免费】前后汉故事新编|林汉达|历史|AI多播",
+      "artistName": "梅酉金_鹿苑",
+      "feedUrl": "https://www.ximalaya.com/album/83946667.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9-%E5%89%8D%E5%90%8E%E6%B1%89%E6%95%85%E4%BA%8B%E6%96%B0%E7%BC%96-%E6%9E%97%E6%B1%89%E8%BE%BE-%E5%8E%86%E5%8F%B2-ai%E5%A4%9A%E6%92%AD/id1773882620?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 324,
+      "releaseDate": "2024-12-11T16:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1705660244,
+      "trackId": 1705660244,
+      "collectionName": "浅读历史",
+      "artistName": "倩倩讲故事",
+      "feedUrl": "https://www.ximalaya.com/album/75322137.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B5%85%E8%AF%BB%E5%8E%86%E5%8F%B2/id1705660244?uo=4",
+      "genres": [
+        "子女教養",
+        "Podcast",
+        "兒童與家庭",
+        "兒童故事"
+      ],
+      "genreIds": [
+        "1521",
+        "26",
+        "1305",
+        "1520"
+      ],
+      "trackCount": 73,
+      "releaseDate": "2026-09-11T07:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "子女教養"
+    },
+    {
+      "collectionId": 1539143234,
+      "trackId": 1539143234,
+      "collectionName": "深夜剝故事",
+      "artistName": "剝皮寮歷史街區",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/33555bcb-155d-439b-b844-f9e4340af286.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B7%B1%E5%A4%9C%E5%89%9D%E6%95%85%E4%BA%8B/id1539143234?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "兒童與家庭"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1305"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2022-11-16T09:18:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 6791144964,
+      "trackId": 6791144964,
+      "collectionName": "阿爾比多說歷史",
+      "artistName": "鱷魚把拔",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmrluzsdu06sk01wrac9r4lkl",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%98%BF%E7%88%BE%E6%AF%94%E5%A4%9A%E8%AA%AA%E6%AD%B7%E5%8F%B2/id6791144964?uo=4",
+      "genres": [
+        "課程",
+        "Podcast",
+        "教育",
+        "歷史"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1487"
+      ],
+      "trackCount": 92,
+      "releaseDate": "2026-10-25T13:42:00Z",
+      "country": "TWN",
+      "primaryGenreName": "課程"
+    },
+    {
+      "collectionId": 6791382246,
+      "trackId": 6791382246,
+      "collectionName": "阿爾比多說歷史",
+      "artistName": "鱷魚把拔",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmrluzsdu06sk01wrac9r4lkl",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%98%BF%E7%88%BE%E6%AF%94%E5%A4%9A%E8%AA%AA%E6%AD%B7%E5%8F%B2/id6791382246?uo=4",
+      "genres": [
+        "課程",
+        "Podcast",
+        "教育",
+        "歷史"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1487"
+      ],
+      "trackCount": 92,
+      "releaseDate": "2026-10-25T13:38:00Z",
+      "country": "TWN",
+      "primaryGenreName": "課程"
+    }
+  ]
+}

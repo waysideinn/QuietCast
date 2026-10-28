@@ -1,0 +1,140 @@
+{
+  "show_id": "1569761303",
+  "feed_url": "https://feed.firstory.me/rss/user/ckp9r6bmzcqwy0931soo43izt",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckp9r6bmzcqwy0931soo43izt",
+    "final_url": "https://feed.firstory.me/rss/user/ckp9r6bmzcqwy0931soo43izt",
+    "fetched_at": "2026-10-25T14:53:11.652151+00:00",
+    "status": 200,
+    "sha256": "27c925746e0392f11b9a3e0cdfc69c0bb37a4685ca1bba2dc169717ff0b7a464"
+  },
+  "status": "ok",
+  "title": {
+    "text": "翻開一頁讀給你聽",
+    "truncated": false
+  },
+  "description": {
+    "text": "有時候只是想， 純粹的欣賞一些句子， 沈浸在片段的章節裡， 所以我挑出櫃子裡的一本，翻開其中的一頁，讀給你聽。 謝謝所有作品。神奇的一頁，當下的救贖！ 讀者｜裴振庭 製作｜裴振庭 封面 圖｜裴振庭 字｜林于雯 請給我一個銅板讓我走得更長遠謝謝！贊助連結： https://pay.soundon.fm/podcasts/a5de4923-080a-4c60-9998-e4ed6f4d717a Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "explicit": "no",
+    "keywords": ""
+  },
+  "feed_item_count": 17,
+  "episodes": [
+    {
+      "id": "b37c56fa837676fcb7c8f849eadc454db1288a9bb96e59840856635b1f7ab157",
+      "guid": "ckue7du2h7z2z0962t4eev3hg",
+      "title": {
+        "text": "17翻讀>繪本 >我想有個家",
+        "truncated": false
+      },
+      "description": {
+        "text": "噢麥我終於讀完整本書(繪本)了！甚至讀了後面的導讀，我好開心哈哈哈哈，希望你也聽得開心。值得細細品嚐的溫馨小品。謝謝我的家，祝我們都有個溫暖的家。無論多難，我們一定可以掙脫困境找到屬於自己的安定。（歡迎留言～謝謝收聽～） 讀物｜我想有個家｜作者｜伊芙.邦婷｜圖｜羅奈德.希姆勒｜譯者｜劉清彥｜讀者｜裴振庭 https://open.firstory.me/story/ckue7du2h7z2z0962t4eev3hg?m=comment https://pay.firstory.me/user/reedpei Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Oct 2021 14:54:41 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "63513f7e5dcabbd6fe26a94f023b69afe0825dd0440edbcd4ddda82c24e6ab8c",
+      "guid": "728f6465-ce3f-4a2e-b525-58eca8eac874",
+      "title": {
+        "text": "15翻開一頁>疼痛是一道我穿越了的牆（與宇宙搭上線的能量:自由/無限）",
+        "truncated": false
+      },
+      "description": {
+        "text": "瑪莉娜描寫去兜率天寺佛寺靜修三個月發現的奇妙身心狀態。靜心中她找到了無限得能量，與未來在好的表演中發生的一樣：自由。 p.187 讀物｜瑪莉娜.阿布拉莫維奇 自傳 作者｜瑪莉娜.阿布拉莫維奇 譯者｜蘇文君 讀者｜裴振庭 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 18 Jun 2021 05:30:39 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "ed49200aa8ee280c4e06940136e7cbc3726c1f1ba5cf33b2d65210971194e222",
+      "guid": "87ec1da8-1f13-4985-aa34-46143e0c0128",
+      "title": {
+        "text": "12翻開一頁>女孩我最大 (調戲金句18則 ! )",
+        "truncated": false
+      },
+      "description": {
+        "text": "omg 莉娜的調戲金句真的好 幽 默 哈哈哈哈哈哈哈 p.21。btw莉娜就是美國影集GIRLS的創作者＆編導。我愛她。 讀物｜女孩我最大 我不是你想像中的那種女孩 Not That Kind Of Girl ： A Young Woman Tell You What She’s “Learned” 作者｜莉娜.丹恩 Lena Dunham 譯者｜高霈芬 讀者｜裴振庭 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Jun 2021 04:55:17 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "8a40c061af3d0cd884337890f387c9bd89ad6d90a717ed14901611365cfa7420",
+      "guid": "730ea746-6d10-4002-a554-6c039e69bd9e",
+      "title": {
+        "text": "10翻開一頁>奈良手記2000.05.09 (Punch Me Harder)",
+        "truncated": false
+      },
+      "description": {
+        "text": "“『Punch Me Harder』也不錯啊！這就是現在的心情啊！越來越消沉，然後爬起來，沒有比這種感覺更好的了。“ 讀物｜奈良手記 NARA NOTE 作者｜奈良美智 譯者｜王小玲 讀者｜裴振庭 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Jun 2021 05:36:17 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "2c703a847df57b8d8d7338769ff0f1aa14acd2bdbcd36ac1dd60db7030a365b2",
+      "guid": "40cab7f9-e0ce-4724-bd24-9ee835541187",
+      "title": {
+        "text": "8翻開一頁>奈良手記1999.09.14 (Pave Your Dream)",
+        "truncated": false
+      },
+      "description": {
+        "text": "\"Pave Your Dream……我要 去鋪路….“ / 奈良美智寫的小詩歌總給我很多力量！ 讀物｜奈良手記 NARA NOTE 作者｜奈良美智 譯者｜王小玲 讀者｜裴振庭 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Jun 2021 05:26:16 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "bd894c8ec527782bc32af5a05afc927552aceceab532f321ca257739d272fdf7",
+      "guid": "eecebdf2-64e3-4f27-a6cb-2ea72efeff90",
+      "title": {
+        "text": "6翻開一頁>自己的房間(白熱化的藝術家)p.99",
+        "truncated": false
+      },
+      "description": {
+        "text": "“一位藝術家的心智，為了使他內在所醞釀得渾然完整的脫蛹而出，一定要向莎士比亞一般，達到白熱的程度” / ”『女性若是想要寫作，一定要有錢和自己的房間。』這篇精彩講稿發出了女性的聲音，視為女性主義的重要作品。“ 讀物｜自己的房間 A Room of One’s Own 作者｜維吉妮亞.吳爾芙 Virginia Woolf 譯者｜張秀亞 讀者｜裴振庭 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 May 2021 07:37:26 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "4e9b64339d88b612c412ecf836fb37bbb9882f3a9b1a3b2e5f65381a1f40bb55",
+      "guid": "15eae3e0-60c2-4732-8b0b-67e0dc7d6502",
+      "title": {
+        "text": "3翻開一頁>來自大海的禮物 (女性必須獨立) p.104",
+        "truncated": false
+      },
+      "description": {
+        "text": "“女性必須獨立找出他們真正的重心，並且獨自達到他們生命的完整。” 讀物｜來自大海的禮物 Gift From The Sea 作者｜林白夫人 Anne Morrow Lindbergh 譯者｜唐清蓉、林燕玲 讀者｜裴振庭 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 May 2021 07:24:51 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "cb430b876c8f288dc456fee029c259ef613b7ad4f65083ad4d4d6d7633be6917",
+      "guid": "8d9fe3c2-580f-4477-bbdb-293d3e6a08a5",
+      "title": {
+        "text": "1翻開一頁>女孩我最大 (減肥是詛咒/厭食症好可怕)",
+        "truncated": false
+      },
+      "description": {
+        "text": "”減肥是個詛咒，如何只吃健康食品還是超重4.5kg?…..“ p.81/ 紐約代表性影集-GIRLS的編導兼主角 Lena Dunham，把她學會的事情告訴大家，讀起來自戀感十足，好看死了。/ 讀物： 女孩我最大 我不是你想像中的那種女孩 Not That Kind Of Girl ： A Young Woman Tell You What She’s “Learned” 作者 莉娜.丹恩 Lena Dunham 譯者 高霈芬 讀者 裴振庭 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 May 2021 05:55:51 GMT",
+      "feed_index": 16
+    }
+  ]
+}

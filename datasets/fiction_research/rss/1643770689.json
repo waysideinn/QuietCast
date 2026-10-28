@@ -1,0 +1,140 @@
+{
+  "show_id": "1643770689",
+  "feed_url": "https://www.ximalaya.com/album/67552094.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/67552094.xml",
+    "final_url": "https://www.ximalaya.com/album/67552094.xml",
+    "fetched_at": "2026-10-25T14:56:47.173981+00:00",
+    "status": 200,
+    "sha256": "67b5158c02dc18d464376561f107a72dbce4a05d811696bc5dafe325a9aa90f5"
+  },
+  "status": "ok",
+  "title": {
+    "text": "欧洲历史故事---完全免费版（大家放心收听）",
+    "truncated": false
+  },
+  "description": {
+    "text": "凭借磁性嗓音以及演播的讲述性和贴切性本着 以演绎，渗透 ，贴实为主的演播理念 贯穿演绎风格。 欧洲 的历史辉煌而悠久，故事讲述了欧洲从旧石器时代到公元2000年的发展历程，从欧洲大陆出现人类踪迹、名字起源讲述到欧盟改革、欧元发行。不仅是对欧洲政治风云变幻的全面描述，也充分注意欧洲经济、社会生活和文化成就对世界的影响。 欧洲在整个地球中只占有一片小小的陆地，却能翻江倒海、搅动乾坤，推动整个世界文明的进程，其中细节，我将一一述说。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 25,
+  "episodes": [
+    {
+      "id": "565c9566e1b1212e2e7697596bc848407c7d9b0bd12703f5c15b9642e0938c69",
+      "guid": "xmly_track_595140675",
+      "title": {
+        "text": "欧洲历史.25",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 08 Dec 2022 22:50:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "01127a460c2c8fc6e38759bf35b54470f5739989a284d54676b78320d7530d3f",
+      "guid": "xmly_track_551831243",
+      "title": {
+        "text": "欧洲历史22",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 13 Jul 2022 23:14:00 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "01b1e7df1bb303e8594cefdace1640c05f16fb850ee9ca49f125c7150b0e451b",
+      "guid": "xmly_track_542979237",
+      "title": {
+        "text": "欧洲历史18",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Jun 2022 09:33:00 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "8396e6416774f9ee671821980eb16f4b321d8c41948f43955d842983f9bfa0fa",
+      "guid": "xmly_track_539009866",
+      "title": {
+        "text": "欧洲历史15",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 May 2022 09:32:58 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "4aff4a1303723641afd11682235c946fb6a3386896a6b9bf915cbe9e20780a8e",
+      "guid": "xmly_track_534772272",
+      "title": {
+        "text": "欧洲历史第11集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 20 May 2022 12:25:11 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "a0ec3c61916e576aae9a8d41018d2872e3133f14d65a4ef6ebfc9bd81fe98919",
+      "guid": "xmly_track_533230177",
+      "title": {
+        "text": "欧洲历史8",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 17 May 2022 11:13:17 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "7e4474641f7c2e5610205165894c0dd7e638a3a63772b366a193bdb0227e8fd1",
+      "guid": "xmly_track_531559096",
+      "title": {
+        "text": "欧洲历史4",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 13 May 2022 11:42:13 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "2ec3cb4f7957b737e09217e22b02315d1fad585fc0084e282fa5da40fe2e02e0",
+      "guid": "xmly_track_531174430",
+      "title": {
+        "text": "欧洲历史1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 May 2022 11:38:03 GMT",
+      "feed_index": 24
+    }
+  ]
+}

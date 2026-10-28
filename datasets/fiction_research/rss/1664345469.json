@@ -1,0 +1,140 @@
+{
+  "show_id": "1664345469",
+  "feed_url": "https://www.ximalaya.com/album/65794725.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/65794725.xml",
+    "final_url": "https://www.ximalaya.com/album/65794725.xml",
+    "fetched_at": "2026-10-25T14:45:03.079562+00:00",
+    "status": 200,
+    "sha256": "7eb10d4b77c2614a95c1eba57cdd3607579a3ee80fe3d7342ba2c6d57b1b0547"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【免费双播】我和我的病娇王爷｜轻喜剧古言&穿越",
+    "truncated": false
+  },
+  "description": {
+    "text": "完结撒花！~ 慕容羽一朝穿越差点淹死却成了尚书府大小姐，爹爹不疼，还有后娘陷害。为了能当自己的靠山，慕容羽有一个宏伟的计划，我要在古代开红楼！监制&...",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "serial",
+    "explicit": "false"
+  },
+  "feed_item_count": 100,
+  "episodes": [
+    {
+      "id": "0bf2e9a3336c905c10e62737a2984c7fff0e69ed2d43a11a64d336fba960bb85",
+      "guid": "xmly_track_526303629",
+      "title": {
+        "text": "第1章-还老娘的初吻！（求订阅吖！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 Apr 2022 02:08:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "9b60fc5ec3a847124675f08cf9bf43587eef387005eff13d24ed312337f7eefe",
+      "guid": "xmly_track_534032460",
+      "title": {
+        "text": "第15章-踏雪寻梅",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 May 2022 02:38:05 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "437a0a1a57dc7a1f089be47bd1d9f573f00b731c78ab096ce0d6af3a998f5a85",
+      "guid": "xmly_track_539610862",
+      "title": {
+        "text": "第29章-脱衣舞",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 Jun 2022 10:08:37 GMT",
+      "feed_index": 28
+    },
+    {
+      "id": "828b827ea1912250109229e4747b539fcaa207b9c75aa427126ce0e01accfaef",
+      "guid": "xmly_track_542935776",
+      "title": {
+        "text": "第43章-轩辕离毒发",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Jun 2022 02:00:00 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "4e5d80bc6860ce8c5e642a63cbf25b887eab809a004f437aa29c1471d53f4bca",
+      "guid": "xmly_track_547102900",
+      "title": {
+        "text": "第58章-混江湖的就是不一样",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Jun 2022 04:06:25 GMT",
+      "feed_index": 57
+    },
+    {
+      "id": "dd57648de3dc730941c2b12dd057b18d114969880664d9bd412975866f053996",
+      "guid": "xmly_track_550735761",
+      "title": {
+        "text": "第72章-你就这么想出去？（周末加更）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Jul 2022 09:33:55 GMT",
+      "feed_index": 71
+    },
+    {
+      "id": "496615a1ffeda11ea635f2002ea197a24bced4453f59ca58736a492982207330",
+      "guid": "xmly_track_555080472",
+      "title": {
+        "text": "第86章-告状",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Jul 2022 06:00:00 GMT",
+      "feed_index": 85
+    },
+    {
+      "id": "879c991674eb848c218d25ee9fd1e5fe874d47e50d9a2f5de72ea0a901cc9bb0",
+      "guid": "xmly_track_559232993",
+      "title": {
+        "text": "第100章-陈广和死了",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 Aug 2022 06:00:00 GMT",
+      "feed_index": 99
+    }
+  ]
+}

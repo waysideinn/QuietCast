@@ -1,0 +1,140 @@
+{
+  "show_id": "1552119965",
+  "feed_url": "https://feeds.soundon.fm/podcasts/0c05d618-a68b-4c18-9589-1ac10ee5dd98.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/0c05d618-a68b-4c18-9589-1ac10ee5dd98.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/0c05d618-a68b-4c18-9589-1ac10ee5dd98.xml",
+    "fetched_at": "2026-10-25T14:56:51.017319+00:00",
+    "status": 200,
+    "sha256": "a51941b70bcf063d831ad3123754cdcaab74d12c3cc526ba0128b984342639af"
+  },
+  "status": "ok",
+  "title": {
+    "text": "台北當代藝術館 MoCA on Air",
+    "truncated": false
+  },
+  "description": {
+    "text": "台北當代藝術館 MoCA on Air",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 90,
+  "episodes": [
+    {
+      "id": "369acf1fe4389d693f3dfcfff6a5db9496c5ad3630fef51cf2643566fa84e829",
+      "guid": "32303212-6744-4f90-b2ff-7e1c0b26b0be",
+      "title": {
+        "text": "90. S12EP08｜Making Art in Rural Thailand: When a Whole Community Becomes a Museum (ft. jiandyin & Krittaporn Mahaweerarat)",
+        "truncated": false
+      },
+      "description": {
+        "text": "Introduction | What happens to art when an entire community becomes a museum? In this episode, we meet Thai artist collective Baan Noorg Collaborative Arts and Culture. They take us inside a pop-up museum staged across their community as part of a biennial, and an art experiment that invites people to apply to live in an apartment. These projects grew from their ongoing exploration of Thai–Myanmar relations and their efforts to connect small local communities. Baan Noorg began with a return home. Working amid concrete buildings, everyday labor, and relationships within the community, they cont",
+        "truncated": true
+      },
+      "published_at": "Wed, 30 Sep 2026 10:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ba7cd1b44f0f21739644a15caa40e54ed1fa0298c07d16e897df1039c151d49f",
+      "guid": "812a5137-ae02-4b38-a148-53027d6942ed",
+      "title": {
+        "text": "77. S10EP07｜（下）藝術書的非西方觀點（ft. Limestone Books 陳臻）",
+        "truncated": false
+      },
+      "description": {
+        "text": "【節目簡介】 如何在歐洲經營一家非西方觀點的書店？ 本集邀請Limestone Books的陳臻，回憶她與荷蘭的淵源，從書籍設計到藝術駐村，台灣人在荷蘭，如何以一家在地的書店來發揮他者的視角，讓議題與行動發生在藝術書的空間中？ 本季節目發想自當代館2025年第一檔展覽「No Language」，探討某種先於語言的身體感和物質性。我們將討論延伸到台灣的藝術書與自出版場景，描述一本書從概念發想到製作，以及背後的社群與機制，勾勒出以書為主要創作載體的「感官模型」。 【大綱標記】 上 01:26 為什麼搬到荷蘭？ 02:35 接觸藝術出版的契機 04:47 從Jan van Eyck到Limestone Books 15:57 如何定義「非西方」？ 17:47 Limestone的進書與出書 20:47 Print local, sell local 下 00:11 藝術書店凝聚在地社群 00:29 NightShift—24hr書店 03:46 Artist Takeover—藝術家佔領書店 09:11 Jan van Eyck的書們 12:15 書店裡的藝術活動 22:24 荷蘭藝術出版地景 【主持人】 林君燁 1991年生於宜蘭，為自出版人、編輯與撰稿人，其藝術實踐與書寫關注影像與藝術出版，以及臺灣和東南亞的當代影像創作者如何觀看。現為傻瓜書日Fotobook DUMMIES Day",
+        "truncated": true
+      },
+      "published_at": "Wed, 22 Oct 2025 10:00:00 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "51fcd21c6c9976c6e2f298ac95ad8ee08aaa0d02c5350b4d41c6ee75dbc3d6fb",
+      "guid": "eb5f178b-ca70-4d3d-a74c-8f5a92f23365",
+      "title": {
+        "text": "65. S10EP01｜（下）獨立出版社與藝術家共同製書（ft. dmp editions 小8、nos:books 兒子）",
+        "truncated": false
+      },
+      "description": {
+        "text": "【節目簡介】 藝術出版是什麼？ 藝術出版可以是在一本藝術雜誌策劃一檔展覽，用一本書講一個有趣的概念。 本集邀請小8和兒子，一起討論從自己的書自己印，到與藝術家合作製書的過程，以及他們對印刷品的喜愛與實踐。 本季節目發想自當代館2025年第一檔展覽「No Language」，探討某種先於語言的身體感和物質性。我們將討論延伸到藝術出版，從一本書的概念發想到製作，背後的社群與機制，邀請以書作為藝術實踐的創作者、製書人、書展與空間的組織者，一起爬梳台灣的藝術書與自出版場景，想想書未來的可能形式與路徑。 【大綱標記】 上集 02:23為什麼做書？ 09:33從自己的書自己印，到成立自己的出版社 18:51「我們只是很喜歡印刷品這個東西」 20:35如何把藝術家的作品轉換成書？ 27:39紙本書上的策展 34:30紙本書上的觀念藝術 下集 05:06雞生蛋蛋生雞，ISBN生《ISBN》 10:40展覽專書可以不只是作品與展場的紀錄 14:34同一個藝術家，兩種合作方式 15:00盲猜式編輯 19:20觀眾點菜式編輯 24:01用文字解釋書的困難之處 【主持人】 林君燁 1991年生於宜蘭，為自出版人、編輯與撰稿人，其藝術實踐與書寫關注影像與藝術出版，以及臺灣和東南亞的當代影像創作者如何觀看。現為傻瓜書日 Fotobook DUMMIES Day主持人。 【來賓】 小8（Shauba Chang",
+        "truncated": true
+      },
+      "published_at": "Wed, 07 May 2025 10:00:00 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "609ea91dcadb92165b63c7f91aa91076e9594582af8d064e012e775bf9600b39",
+      "guid": "a3fdf836-cc66-4eca-b8e3-38ff1ee1ac7a",
+      "title": {
+        "text": "52. S7EP05｜【特別企劃】文化平權再／在思考—臺韓藝術空間的障礙與實踐（ft. 李曉雯、徐祥昊）",
+        "truncated": false
+      },
+      "description": {
+        "text": "【節目簡介】 古蹟、老屋、貨櫃屋，既有而有限的藝文場館如何為障礙者提供完整的服務？ 一般藝術家與障礙藝術家的區分，在藝術創作能量的討論中失效，在空間近用的檢視下卻開啟文化平權定義的再思考。 本集由臺灣、韓國兩地藝文機構中長期參與平權推動工作的總監李曉雯和部長徐祥昊，分享各自在弭平障礙差異的路上，遇到障礙與尋找解方的現在進行式。 【大綱標記】 03:39 「聚在一起，成為一棵大樹」 06:49 中央政策：近年韓國推動身心障礙與藝術的政治背景 07:37 地方耕耘：首爾與釜山文化基金會的長期經營 08:00 釜山Ongru空間—都市閒置區域再利用，高架橋下的獨立文化小村落 10:50 臺北國際藝術村現況—空間限制，該針對哪一種障別？ 14:05 二分法的必要（？） 17:02 存在完全正常的人嗎？ 18:31 繃帶的個人經歷、輪椅的視覺高度、樂團的Turning point 27:35 弭平障礙差距的路上遇見的障礙：照顧者對作品的過度干涉 【講者介紹】 李曉雯 現任北投博物館營運部（兼任眷村部中心新村）總監。在2017至2023年期間擔任臺北國際藝術村及寶藏巖國際藝術村總監，以藝術進駐計畫培育文化人才、推動國際交流、開啟與國內外單位的合作。過去曾任竹圍工作室研發總監，長期耕耘在博物館、藝術村領域，持續參與地區性藝術行動、發掘文化潛能、激發想像力。 徐祥昊 以韓國釜山為據點，主要活動領域",
+        "truncated": true
+      },
+      "published_at": "Wed, 01 Nov 2023 10:00:00 GMT",
+      "feed_index": 38
+    },
+    {
+      "id": "f09cb67c771d151b0839049cb51a57cc1462244dc6e9f86f3b45ee7ef043eef1",
+      "guid": "62ae98f6-12d8-4dc8-87a9-a45e835eba83",
+      "title": {
+        "text": "39. Special Edition｜Russian artists fight against unfreedom and censorship (ft. Wu Dar Kuen & Vladimir Nadein)",
+        "truncated": false
+      },
+      "description": {
+        "text": "Fight without the gun - Russian artists fight against unfreedom and censorship 【Introduction】 How is war depicted through art? In this episode, We invite the Russian artist, director and film festival curator Vladimir Nadein to talk about censorship, dissociation and the unfreedom caused by the war. The authoritative government that waged war without legitimacy expects the people to halt their thinking and feeling and to engage in lifeless consumption and entertainment. Under the circumstances, how could we break down the disguised “normal” life to create the domain for the interchange and coe",
+        "truncated": true
+      },
+      "published_at": "Wed, 30 Nov 2022 10:00:00 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "78380813e7de3a493841d1948360d5cfbc4a5947acb7af7fc4902ba0ccde54c8",
+      "guid": "2d2e70ad-fab3-4379-a07c-98bc41c295f3",
+      "title": {
+        "text": "26. S4EP03￨建構未來—無法脫離人性的科幻與科技（ft. 葉彥伯、楊勝博）",
+        "truncated": false
+      },
+      "description": {
+        "text": "【節目簡介】 科幻文學，工業革命後的產物，本為人類用來滿足未知的想像，卻在當代科技發展之下，刻劃形塑人類對於未來世界的認知。本集邀請科幻研究者楊勝博與新媒體藝術家葉彥伯，各自回憶從科幻文學、電影與科技藝術經典案例而來的深刻感受，找尋在革新科技、實現奇觀的無盡追求背後，隱含那一絲不離人類共感的創作核心。 【大綱標記】 01:32 科技藝術與科幻電影的共通點？ 03:30 時間、革新、奇觀、替代物與共感 04:01 時間旅行：多拉A夢的時光機、諾蘭的正反時序，建構我們的時空認知 07:46 革新科技：二維世界的瑪利歐、三維世界的我、《星際效應》的四維黑洞 11:04 奇觀化：科技打造陌生化的世界，異於日常、反思日常 14:44 替代物：《雲端情人》和遊戲世界裡的NPC，如何度過你的線下時光？ 22:15 共感：好的創作營造出人性情感的共振 24:01 硬科幻vs軟科幻 24:36 科技藝術與科幻的本土化：真正的共感其實是身在其中而不自覺 27:30 科學不光是為了追求真理，科學也需要追求人類的情感 【講者介紹】 葉彥伯 何理互動設計WHYIXD有限公司共同創辦人／執行長。 何理互動設計為台灣跨領域的裝置創作團隊，關注生活中的各種驚喜，發掘想像力，透過新媒體跳脫二維視覺界線，企圖給予觀眾更多的身體經驗，在空間中建造真實的幻象，透過科技誘發新的經驗，創作電子地景。 楊勝博 科幻研究者，文章",
+        "truncated": true
+      },
+      "published_at": "Wed, 09 Mar 2022 10:00:00 GMT",
+      "feed_index": 64
+    },
+    {
+      "id": "c6658420161a9b89f4abe1a76796b383afe767379e8fc38ab1589923fac59f90",
+      "guid": "09cfa6f2-2315-467b-ae0b-e27aa095270f",
+      "title": {
+        "text": "14. S2EP02￨ 藝術Ｘ民俗療法 壁畫再現藥籤文化（ft. 張碩尹、謝傑然）",
+        "truncated": false
+      },
+      "description": {
+        "text": "【節目簡介】 藥籤，一種透過無形力量治病的民俗療法，在現代公共衛生制度的標準裡被視為迷信，早期卻比隔離措施更加有效及安定人心。藝術家張碩尹合作新竹鴻安堂，回溯百年店鋪背後的藥籤信仰與歷史。透過壁畫創作，為正經歷現代轉型的中藥行，保存充滿文化的在地故事。 【大綱標記】 01:48 《孿生廟、默娘髮、鴻仙人》合作計畫 02:17 藥籤文化史：廟宇求籤，中藥行領藥 06:00 迷信不迷信：藥籤建議配合現代醫學服用 08:00 超神奇藥方：順其自然、因果業債、煮褲帶？ 11:25 解析鴻安堂壁畫中的家族傳承 17:30 百年藥堂轉型的創新思維 21:44 跨域合作創造共生關係 【講者介紹】 張碩尹 倫敦大學金匠學院藝術碩士畢。參與台北雙年展、廣州三年展、薩奇藝廊、 Compton Verney美術館、惠康基金會之群展與委託案。近期獲獎包括台新藝術獎、臺北美術獎、英國皇家雕塑學會獎助獎、香港Art Central新晉菁英大獎得主。作品受台北市立美術館、藝術銀行、巴西駐英大使館、韓國Noblesse Collection、墨西哥JM SR Collection典藏，與亞洲歐洲私人收藏。 謝傑然 新竹鴻安堂第四代接班人。鴻安堂與鄰近的水仙宮、長和宮形成地方藥籤文化圈，現今開業已超過百年，雖然面臨大型連鎖藥商的競爭，但靠著長期累積的老字號和好信用，仍為地方民眾最信賴的藥行之一，致力在傳統文化的轉型",
+        "truncated": true
+      },
+      "published_at": "Wed, 28 Jul 2021 10:00:00 GMT",
+      "feed_index": 76
+    },
+    {
+      "id": "f9ef69a2b8c51866e679741c4a2fa30c8b6c72e6733151524816dc30e316ca8b",
+      "guid": "34d3bf50-d20e-490e-b91b-71e2fb5179f8",
+      "title": {
+        "text": "1. EP01｜當代藝術是間諜隱身的最好偽裝！？（ft. 李漢威、黃建宏）",
+        "truncated": false
+      },
+      "description": {
+        "text": "【節目簡介】 藝術與間諜的關聯性可能難以想像，事實上在冷戰期間，美蘇除了在太空、國防和外交領域上的衝突，藝術無意間也成為意識形態鬥爭下的間諜。而冷戰結束後，全球進入了資本化的時代，藝術的發展遭逢劇烈的轉變，傳統意義上的「間諜」角色緊扣國際情勢，在現代也擴展出更大的格局。 【大綱標記】 02:00 冷戰期間，藝術作為一種武器 07:00 CIA佈局下的間諜，抽象藝術傳遞自由價值的「訊息」 11:47 新冷戰來臨 13:42 全球化後藝術市場的資本化，藝術家自願成為間諜？ 17:45 美中對抗的張力，藝術家在作品中表達更鮮明的意識形態 19:30 資本競爭的加劇，間諜焦慮下的身不由己 25:14 自媒體時代中無所不在的間諜 【講者介紹】 李漢威 畢業於加州蒙特雷國際研究學院口筆譯所，曾任民視新聞編譯，現任關鍵評論網節目製作人，製作並主持〈國際大風吹〉、〈國際值日生〉等網路影片。以理解世界的異同為樂。 黃建宏 知名策展人，現任國立臺北藝術大學藝術跨域研究所所長、關渡美術館館長。長期從事關於影像與策展的研究，同時也書寫電影、當代藝術與表演藝術的評論，並從事法國當代理論，如德勒茲(Gilles Deleuze)、布希亞(Jean Baudrillard)與洪席耶(Jaques Rancière)等人著作的翻譯。 【參考資料】 1. Modern art was CIA 'weapon' ht",
+        "truncated": true
+      },
+      "published_at": "Wed, 03 Feb 2021 10:00:00 GMT",
+      "feed_index": 89
+    }
+  ]
+}

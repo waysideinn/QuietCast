@@ -1,0 +1,313 @@
+{
+  "group": "fiction",
+  "term": "恐怖小说",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%81%90%E6%80%96%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%81%90%E6%80%96%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:41:16.550160+00:00",
+    "status": 200,
+    "sha256": "bec45672ce41104cc16e69d44b9bec879c68f80ce0c1519381712b7868de87ab"
+  },
+  "result_count": 13,
+  "records": [
+    {
+      "collectionId": 1608665841,
+      "trackId": 1608665841,
+      "collectionName": "《绝命捞尸人》免费精彩双播",
+      "artistName": "刺猬索尼客",
+      "feedUrl": "http://www.ximalaya.com/album/55625117.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BB%9D%E5%91%BD%E6%8D%9E%E5%B0%B8%E4%BA%BA-%E5%85%8D%E8%B4%B9%E7%B2%BE%E5%BD%A9%E5%8F%8C%E6%92%AD/id1608665841?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 180,
+      "releaseDate": "2022-05-30T16:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1615080193,
+      "trackId": 1615080193,
+      "collectionName": "诡异墓书｜悬疑恐怖｜盗墓｜多播精品有声小说",
+      "artistName": "方鸣远播",
+      "feedUrl": "http://www.ximalaya.com/album/57573971.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AF%A1%E5%BC%82%E5%A2%93%E4%B9%A6-%E6%82%AC%E7%96%91%E6%81%90%E6%80%96-%E7%9B%97%E5%A2%93-%E5%A4%9A%E6%92%AD%E7%B2%BE%E5%93%81%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1615080193?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "科幻小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 175,
+      "releaseDate": "2022-06-01T02:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1557424167,
+      "trackId": 1557424167,
+      "collectionName": "短篇悬疑恐怖推理小说|免费更新",
+      "artistName": "冰风夜雨",
+      "feedUrl": "http://www.ximalaya.com/album/45604234.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%9F%AD%E7%AF%87%E6%82%AC%E7%96%91%E6%81%90%E6%80%96%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AF%B4-%E5%85%8D%E8%B4%B9%E6%9B%B4%E6%96%B0/id1557424167?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "科幻小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 104,
+      "releaseDate": "2021-03-18T12:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1649513245,
+      "trackId": 1649513245,
+      "collectionName": "鬼瞳 | 恐怖悬疑 | 灵异 | 免费有声小说",
+      "artistName": "又见飞儿",
+      "feedUrl": "https://www.ximalaya.com/album/32762910.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%AC%BC%E7%9E%B3-%E6%81%90%E6%80%96%E6%82%AC%E7%96%91-%E7%81%B5%E5%BC%82-%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1649513245?uo=4",
+      "genres": [
+        "科幻小說",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 95,
+      "releaseDate": "2020-03-02T16:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科幻小說"
+    },
+    {
+      "collectionId": 1822554994,
+      "trackId": 1822554994,
+      "collectionName": "最强降王|降头术|狮子云云|恐怖悬疑免费小说",
+      "artistName": "靡路",
+      "feedUrl": "https://www.ximalaya.com/album/72827705.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%80%E5%BC%BA%E9%99%8D%E7%8E%8B-%E9%99%8D%E5%A4%B4%E6%9C%AF-%E7%8B%AE%E5%AD%90%E4%BA%91%E4%BA%91-%E6%81%90%E6%80%96%E6%82%AC%E7%96%91%E5%85%8D%E8%B4%B9%E5%B0%8F%E8%AF%B4/id1822554994?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 208,
+      "releaseDate": "2023-03-14T13:36:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1535822479,
+      "trackId": 1535822479,
+      "collectionName": "任任小说录|短篇恐怖鬼故事",
+      "artistName": "任任小说录",
+      "feedUrl": "http://www.ximalaya.com/album/42499240.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BB%BB%E4%BB%BB%E5%B0%8F%E8%AF%B4%E5%BD%95-%E7%9F%AD%E7%AF%87%E6%81%90%E6%80%96%E9%AC%BC%E6%95%85%E4%BA%8B/id1535822479?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "喜劇小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2020-10-21T11:10:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1608628059,
+      "trackId": 1608628059,
+      "collectionName": "蚀境 | 恐怖悬疑小说 | 狮子云云|免费有声小说",
+      "artistName": "靡路",
+      "feedUrl": "http://www.ximalaya.com/album/56018182.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%9A%80%E5%A2%83-%E6%81%90%E6%80%96%E6%82%AC%E7%96%91%E5%B0%8F%E8%AF%B4-%E7%8B%AE%E5%AD%90%E4%BA%91%E4%BA%91-%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1608628059?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 35,
+      "releaseDate": "2022-01-10T12:44:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1787404221,
+      "trackId": 1787404221,
+      "collectionName": "【免费小说】家有诡妻|老蟹演播|悬疑恐怖|惊悚灵异",
+      "artistName": "财阀蟹阿金",
+      "feedUrl": "https://www.ximalaya.com/album/84587496.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9%E5%B0%8F%E8%AF%B4-%E5%AE%B6%E6%9C%89%E8%AF%A1%E5%A6%BB-%E8%80%81%E8%9F%B9%E6%BC%94%E6%92%AD-%E6%82%AC%E7%96%91%E6%81%90%E6%80%96-%E6%83%8A%E6%82%9A%E7%81%B5%E5%BC%82/id1787404221?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 294,
+      "releaseDate": "2026-03-02T07:39:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1678594086,
+      "trackId": 1678594086,
+      "collectionName": "懸疑驚悚愛情小說-血色情人",
+      "artistName": "橘心",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/f0dc3653-4a74-4c0f-8411-ca855a65cbc7.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%87%B8%E7%96%91%E9%A9%9A%E6%82%9A%E6%84%9B%E6%83%85%E5%B0%8F%E8%AA%AA-%E8%A1%80%E8%89%B2%E6%83%85%E4%BA%BA/id1678594086?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 85,
+      "releaseDate": "2025-12-20T23:41:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1599199615,
+      "trackId": 1599199615,
+      "collectionName": "恐怖小故事",
+      "artistName": "巳月说",
+      "feedUrl": "http://www.ximalaya.com/album/54623735.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%81%90%E6%80%96%E5%B0%8F%E6%95%85%E4%BA%8B/id1599199615?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 45,
+      "releaseDate": "2022-01-04T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1583566256,
+      "trackId": 1583566256,
+      "collectionName": "刘昕说诡：万集灵异故事|恐怖&惊悚&悬疑&胆小勿入",
+      "artistName": "刘昕故事",
+      "feedUrl": "http://www.ximalaya.com/album/52300615.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%88%98%E6%98%95%E8%AF%B4%E8%AF%A1-%E4%B8%87%E9%9B%86%E7%81%B5%E5%BC%82%E6%95%85%E4%BA%8B-%E6%81%90%E6%80%96-%E6%83%8A%E6%82%9A-%E6%82%AC%E7%96%91-%E8%83%86%E5%B0%8F%E5%8B%BF%E5%85%A5/id1583566256?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "藝術",
+        "書籍"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 240,
+      "releaseDate": "2024-04-02T13:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1599200265,
+      "trackId": 1599200265,
+      "collectionName": "恐怖小故事",
+      "artistName": "巳月说",
+      "feedUrl": "https://papi.qingting.fm/podcast/channels/11330",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%81%90%E6%80%96%E5%B0%8F%E6%95%85%E4%BA%8B/id1599200265?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 45,
+      "releaseDate": "2022-01-04T05:16:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1593444877,
+      "trackId": 1593444877,
+      "collectionName": "听说：夜半谈丨轻恐怖丨灵异惊悚丨怪谈丨奇闻",
+      "artistName": "杨小墓；相妄",
+      "feedUrl": "http://www.ximalaya.com/album/53229252.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%90%AC%E8%AF%B4-%E5%A4%9C%E5%8D%8A%E8%B0%88%E4%B8%A8%E8%BD%BB%E6%81%90%E6%80%96%E4%B8%A8%E7%81%B5%E5%BC%82%E6%83%8A%E6%82%9A%E4%B8%A8%E6%80%AA%E8%B0%88%E4%B8%A8%E5%A5%87%E9%97%BB/id1593444877?uo=4",
+      "genres": [
+        "嗜好",
+        "Podcast",
+        "休閒",
+        "藝術",
+        "書籍"
+      ],
+      "genreIds": [
+        "1505",
+        "26",
+        "1502",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 125,
+      "releaseDate": "2026-02-26T13:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "嗜好"
+    }
+  ]
+}

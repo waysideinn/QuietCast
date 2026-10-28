@@ -1,0 +1,1243 @@
+{
+  "group": "normal",
+  "term": "健康",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%81%A5%E5%BA%B7&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%81%A5%E5%BA%B7&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:44:32.245135+00:00",
+    "status": 200,
+    "sha256": "34f040e7879ce6fc29e19b07859edf86547f881cb5aec7e3feb1f0b8cc5634b1"
+  },
+  "result_count": 52,
+  "records": [
+    {
+      "collectionId": 1543400506,
+      "trackId": 1543400506,
+      "collectionName": "食聊｜健康饮食、运动和生活方式",
+      "artistName": "食聊",
+      "feedUrl": "http://www.ximalaya.com/album/44421358.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%A3%9F%E8%81%8A-%E5%81%A5%E5%BA%B7%E9%A5%AE%E9%A3%9F-%E8%BF%90%E5%8A%A8%E5%92%8C%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/id1543400506?uo=4",
+      "genres": [
+        "营养",
+        "播客",
+        "健康与健身",
+        "科学",
+        "自然科学"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1533",
+        "1534"
+      ],
+      "trackCount": 36,
+      "releaseDate": "2025-11-07T11:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "营养"
+    },
+    {
+      "collectionId": 1729987520,
+      "trackId": 1729987520,
+      "collectionName": "所有女性的健康指南",
+      "artistName": "所有女性的健康指南",
+      "feedUrl": "https://www.ximalaya.com/album/80423936.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%89%80%E6%9C%89%E5%A5%B3%E6%80%A7%E7%9A%84%E5%81%A5%E5%BA%B7%E6%8C%87%E5%8D%97/id1729987520?uo=4",
+      "genres": [
+        "医学",
+        "播客",
+        "健康与健身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2024-03-31T12:51:00Z",
+      "country": "CHN",
+      "primaryGenreName": "医学"
+    },
+    {
+      "collectionId": 1583531298,
+      "trackId": 1583531298,
+      "collectionName": "健康管理师说健康瘦身|会吃才会瘦|吃饱了减肥",
+      "artistName": "刘昕故事",
+      "feedUrl": "http://www.ximalaya.com/album/52345420.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86%E5%B8%88%E8%AF%B4%E5%81%A5%E5%BA%B7%E7%98%A6%E8%BA%AB-%E4%BC%9A%E5%90%83%E6%89%8D%E4%BC%9A%E7%98%A6-%E5%90%83%E9%A5%B1%E4%BA%86%E5%87%8F%E8%82%A5/id1583531298?uo=4",
+      "genres": [
+        "营养",
+        "播客",
+        "健康与健身",
+        "医学"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1518"
+      ],
+      "trackCount": 23,
+      "releaseDate": "2025-04-06T13:44:00Z",
+      "country": "CHN",
+      "primaryGenreName": "营养"
+    },
+    {
+      "collectionId": 1701795080,
+      "trackId": 1701795080,
+      "collectionName": "饮食的悖论：你以为健康的食物可能并不健康",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/77286569.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%A5%AE%E9%A3%9F%E7%9A%84%E6%82%96%E8%AE%BA-%E4%BD%A0%E4%BB%A5%E4%B8%BA%E5%81%A5%E5%BA%B7%E7%9A%84%E9%A3%9F%E7%89%A9%E5%8F%AF%E8%83%BD%E5%B9%B6%E4%B8%8D%E5%81%A5%E5%BA%B7/id1701795080?uo=4",
+      "genres": [
+        "营养",
+        "播客",
+        "健康与健身",
+        "医学"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1518"
+      ],
+      "trackCount": 201,
+      "releaseDate": "2023-09-03T12:40:00Z",
+      "country": "CHN",
+      "primaryGenreName": "营养"
+    },
+    {
+      "collectionId": 1748099420,
+      "trackId": 1748099420,
+      "collectionName": "两性生活10000讲|性心理|性健康|性能力",
+      "artistName": "伴你听书",
+      "feedUrl": "https://www.ximalaya.com/album/80834988.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%A4%E6%80%A7%E7%94%9F%E6%B4%BB10000%E8%AE%B2-%E6%80%A7%E5%BF%83%E7%90%86-%E6%80%A7%E5%81%A5%E5%BA%B7-%E6%80%A7%E8%83%BD%E5%8A%9B/id1748099420?uo=4",
+      "genres": [
+        "两性",
+        "播客",
+        "健康与健身",
+        "医学"
+      ],
+      "genreIds": [
+        "1516",
+        "26",
+        "1512",
+        "1518"
+      ],
+      "trackCount": 2000,
+      "releaseDate": "2026-01-02T13:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "两性"
+    },
+    {
+      "collectionId": 1692790013,
+      "trackId": 1692790013,
+      "collectionName": "秘密：爱、健康与金钱-带你找到真实本质",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/76526568.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A7%98%E5%AF%86-%E7%88%B1-%E5%81%A5%E5%BA%B7%E4%B8%8E%E9%87%91%E9%92%B1-%E5%B8%A6%E4%BD%A0%E6%89%BE%E5%88%B0%E7%9C%9F%E5%AE%9E%E6%9C%AC%E8%B4%A8/id1692790013?uo=4",
+      "genres": [
+        "情感与人际关系",
+        "播客",
+        "社会与文化",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 131,
+      "releaseDate": "2023-08-15T13:53:00Z",
+      "country": "CHN",
+      "primaryGenreName": "情感与人际关系"
+    },
+    {
+      "collectionId": 981048537,
+      "trackId": 981048537,
+      "collectionName": "中国健康养生堂",
+      "artistName": "中国健康养生堂",
+      "feedUrl": "http://www.ximalaya.com/album/339521.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%AD%E5%9B%BD%E5%81%A5%E5%BA%B7%E5%85%BB%E7%94%9F%E5%A0%82/id981048537?uo=4",
+      "genres": [
+        "健康与健身",
+        "播客",
+        "儿童与家庭"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1305"
+      ],
+      "trackCount": 37,
+      "releaseDate": "2015-04-20T11:45:00Z",
+      "country": "CHN",
+      "primaryGenreName": "健康与健身"
+    },
+    {
+      "collectionId": 1589556628,
+      "trackId": 1589556628,
+      "collectionName": "女性健康百科手册",
+      "artistName": "暮岸姑娘",
+      "feedUrl": "http://www.ximalaya.com/album/52525459.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A5%B3%E6%80%A7%E5%81%A5%E5%BA%B7%E7%99%BE%E7%A7%91%E6%89%8B%E5%86%8C/id1589556628?uo=4",
+      "genres": [
+        "医学",
+        "播客",
+        "健康与健身",
+        "两性"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1516"
+      ],
+      "trackCount": 57,
+      "releaseDate": "2022-01-03T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "医学"
+    },
+    {
+      "collectionId": 1023646883,
+      "trackId": 1023646883,
+      "collectionName": "健康减肥 keep fit",
+      "artistName": "桃子味儿吐司",
+      "feedUrl": "http://cdn.lizhi.fm/rss/178674.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%81%A5%E5%BA%B7%E5%87%8F%E8%82%A5-keep-fit/id1023646883?uo=4",
+      "genres": [
+        "健康与健身",
+        "播客"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 132,
+      "releaseDate": "2016-10-21T03:24:00Z",
+      "country": "CHN",
+      "primaryGenreName": "健康与健身"
+    },
+    {
+      "collectionId": 1615508466,
+      "trackId": 1615508466,
+      "collectionName": "梓约健康",
+      "artistName": "梓约健康",
+      "feedUrl": "https://papi.qingting.fm/podcast/channels/11444",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%A2%93%E7%BA%A6%E5%81%A5%E5%BA%B7/id1615508466?uo=4",
+      "genres": [
+        "医学",
+        "播客",
+        "健康与健身"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512"
+      ],
+      "trackCount": 336,
+      "releaseDate": "2026-10-20T04:28:00Z",
+      "country": "CHN",
+      "primaryGenreName": "医学"
+    },
+    {
+      "collectionId": 950210906,
+      "trackId": 950210906,
+      "collectionName": "健康之家",
+      "artistName": "张翕",
+      "feedUrl": "http://cnrdl.cnr.cn/audio2016/ondemand/podcast/jkzj.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%81%A5%E5%BA%B7%E4%B9%8B%E5%AE%B6/id950210906?uo=4",
+      "genres": [
+        "健康与健身",
+        "播客"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 222,
+      "releaseDate": "2017-03-08T07:01:00Z",
+      "country": "CHN",
+      "primaryGenreName": "健康与健身"
+    },
+    {
+      "collectionId": 981078197,
+      "trackId": 981078197,
+      "collectionName": "健康饮食",
+      "artistName": "健康生活小百科",
+      "feedUrl": "http://www.ximalaya.com/album/343468.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%81%A5%E5%BA%B7%E9%A5%AE%E9%A3%9F/id981078197?uo=4",
+      "genres": [
+        "替代保健",
+        "播客",
+        "健康与健身"
+      ],
+      "genreIds": [
+        "1513",
+        "26",
+        "1512"
+      ],
+      "trackCount": 77,
+      "releaseDate": "2017-01-31T05:26:00Z",
+      "country": "CHN",
+      "primaryGenreName": "替代保健"
+    },
+    {
+      "collectionId": 1778349074,
+      "trackId": 1778349074,
+      "collectionName": "菠萝健康派",
+      "artistName": "菠萝因子",
+      "feedUrl": "https://feed.xyzfm.space/qe8egag9eycv",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%8F%A0%E8%90%9D%E5%81%A5%E5%BA%B7%E6%B4%BE/id1778349074?uo=4",
+      "genres": [
+        "健康与健身",
+        "播客",
+        "科学"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1533"
+      ],
+      "trackCount": 133,
+      "releaseDate": "2026-10-21T23:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "健康与健身"
+    },
+    {
+      "collectionId": 1765969608,
+      "trackId": 1765969608,
+      "collectionName": "Go养|五音疗愈|健康|养生|冥想|安神助眠|中医",
+      "artistName": "GO养琴瑟和韵",
+      "feedUrl": "https://www.ximalaya.com/album/83353557.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/go%E5%85%BB-%E4%BA%94%E9%9F%B3%E7%96%97%E6%84%88-%E5%81%A5%E5%BA%B7-%E5%85%BB%E7%94%9F-%E5%86%A5%E6%83%B3-%E5%AE%89%E7%A5%9E%E5%8A%A9%E7%9C%A0-%E4%B8%AD%E5%8C%BB/id1765969608?uo=4",
+      "genres": [
+        "心理健康",
+        "播客",
+        "健康与健身",
+        "艺术",
+        "表演艺术"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1301",
+        "1405"
+      ],
+      "trackCount": 273,
+      "releaseDate": "2025-02-25T12:34:00Z",
+      "country": "CHN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1823525261,
+      "trackId": 1823525261,
+      "collectionName": "【食疗养生】健康科普，中医保健，疾病预防，营养指南",
+      "artistName": "美丽心晴社",
+      "feedUrl": "https://www.ximalaya.com/album/85343100.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%A3%9F%E7%96%97%E5%85%BB%E7%94%9F-%E5%81%A5%E5%BA%B7%E7%A7%91%E6%99%AE-%E4%B8%AD%E5%8C%BB%E4%BF%9D%E5%81%A5-%E7%96%BE%E7%97%85%E9%A2%84%E9%98%B2-%E8%90%A5%E5%85%BB%E6%8C%87%E5%8D%97/id1823525261?uo=4",
+      "genres": [
+        "替代保健",
+        "播客",
+        "健康与健身",
+        "儿童与家庭",
+        "儿童教育"
+      ],
+      "genreIds": [
+        "1513",
+        "26",
+        "1512",
+        "1305",
+        "1519"
+      ],
+      "trackCount": 367,
+      "releaseDate": "2026-10-21T08:24:00Z",
+      "country": "CHN",
+      "primaryGenreName": "替代保健"
+    },
+    {
+      "collectionId": 1823983682,
+      "trackId": 1823983682,
+      "collectionName": "健康有方FM",
+      "artistName": "健康有方FM",
+      "feedUrl": "https://feed.xyzfm.space/c8ndvyaj6uqp",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%81%A5%E5%BA%B7%E6%9C%89%E6%96%B9fm/id1823983682?uo=4",
+      "genres": [
+        "健康与健身",
+        "播客"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 42,
+      "releaseDate": "2026-09-24T00:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "健康与健身"
+    },
+    {
+      "collectionId": 1595431603,
+      "trackId": 1595431603,
+      "collectionName": "Doctor's Voice医声（丁医生聊健康）",
+      "artistName": "环佩叮当Carrie",
+      "feedUrl": "http://www.ximalaya.com/album/29146248.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/doctors-voice%E5%8C%BB%E5%A3%B0-%E4%B8%81%E5%8C%BB%E7%94%9F%E8%81%8A%E5%81%A5%E5%BA%B7/id1595431603?uo=4",
+      "genres": [
+        "医学",
+        "播客",
+        "健康与健身",
+        "新闻",
+        "科技新闻"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1489",
+        "1528"
+      ],
+      "trackCount": 147,
+      "releaseDate": "2026-08-25T22:24:00Z",
+      "country": "CHN",
+      "primaryGenreName": "医学"
+    },
+    {
+      "collectionId": 1887189428,
+      "trackId": 1887189428,
+      "collectionName": "运动与健康",
+      "artistName": "小肥爹滴",
+      "feedUrl": "https://www.ximalaya.com/album/118669835.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%BF%90%E5%8A%A8%E4%B8%8E%E5%81%A5%E5%BA%B7/id1887189428?uo=4",
+      "genres": [
+        "心理健康",
+        "播客",
+        "健康与健身"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512"
+      ],
+      "trackCount": 101,
+      "releaseDate": "2026-08-26T01:16:00Z",
+      "country": "CHN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1818815361,
+      "trackId": 1818815361,
+      "collectionName": "健康ING",
+      "artistName": "有声音的书虫",
+      "feedUrl": "https://www.ximalaya.com/album/93578793.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%81%A5%E5%BA%B7ing/id1818815361?uo=4",
+      "genres": [
+        "生命科学",
+        "播客",
+        "科学",
+        "健康与健身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1541",
+        "26",
+        "1533",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 20,
+      "releaseDate": "2025-06-25T00:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "生命科学"
+    },
+    {
+      "collectionId": 1478871879,
+      "trackId": 1478871879,
+      "collectionName": "万病之源说脾胃",
+      "artistName": "自当生大健康",
+      "feedUrl": "http://www.ximalaya.com/album/27916653.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%87%E7%97%85%E4%B9%8B%E6%BA%90%E8%AF%B4%E8%84%BE%E8%83%83/id1478871879?uo=4",
+      "genres": [
+        "营养",
+        "播客",
+        "健康与健身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 1026,
+      "releaseDate": "2026-10-17T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "营养"
+    },
+    {
+      "collectionId": 1006558032,
+      "trackId": 1006558032,
+      "collectionName": "健康减肥瘦身法",
+      "artistName": "小博带你悦读",
+      "feedUrl": "http://www.ximalaya.com/album/1072869.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%81%A5%E5%BA%B7%E5%87%8F%E8%82%A5%E7%98%A6%E8%BA%AB%E6%B3%95/id1006558032?uo=4",
+      "genres": [
+        "替代保健",
+        "播客",
+        "健康与健身"
+      ],
+      "genreIds": [
+        "1513",
+        "26",
+        "1512"
+      ],
+      "trackCount": 1000,
+      "releaseDate": "2021-11-29T10:57:00Z",
+      "country": "CHN",
+      "primaryGenreName": "替代保健"
+    },
+    {
+      "collectionId": 1823526137,
+      "trackId": 1823526137,
+      "collectionName": "【享瘦】科学减肥 健康瘦身《减肥指南》",
+      "artistName": "美丽心晴社",
+      "feedUrl": "https://www.ximalaya.com/album/88684801.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BA%AB%E7%98%A6-%E7%A7%91%E5%AD%A6%E5%87%8F%E8%82%A5-%E5%81%A5%E5%BA%B7%E7%98%A6%E8%BA%AB-%E5%87%8F%E8%82%A5%E6%8C%87%E5%8D%97/id1823526137?uo=4",
+      "genres": [
+        "营养",
+        "播客",
+        "健康与健身",
+        "替代保健"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1513"
+      ],
+      "trackCount": 182,
+      "releaseDate": "2026-07-09T08:24:00Z",
+      "country": "CHN",
+      "primaryGenreName": "营养"
+    },
+    {
+      "collectionId": 1721547653,
+      "trackId": 1721547653,
+      "collectionName": "话里话外话健康",
+      "artistName": "话里话外话健康",
+      "feedUrl": "https://www.ximalaya.com/album/79471146.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%AF%9D%E9%87%8C%E8%AF%9D%E5%A4%96%E8%AF%9D%E5%81%A5%E5%BA%B7/id1721547653?uo=4",
+      "genres": [
+        "营养",
+        "播客",
+        "健康与健身",
+        "医学"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1518"
+      ],
+      "trackCount": 483,
+      "releaseDate": "2026-10-25T00:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "营养"
+    },
+    {
+      "collectionId": 1864718354,
+      "trackId": 1864718354,
+      "collectionName": "健康算法：管住嘴 迈开腿",
+      "artistName": "AI博爵AmplifyAI",
+      "feedUrl": "https://www.ximalaya.com/album/104038813.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%81%A5%E5%BA%B7%E7%AE%97%E6%B3%95-%E7%AE%A1%E4%BD%8F%E5%98%B4-%E8%BF%88%E5%BC%80%E8%85%BF/id1864718354?uo=4",
+      "genres": [
+        "生命科学",
+        "播客",
+        "科学",
+        "科技"
+      ],
+      "genreIds": [
+        "1541",
+        "26",
+        "1533",
+        "1318"
+      ],
+      "trackCount": 272,
+      "releaseDate": "2026-10-23T08:39:00Z",
+      "country": "CHN",
+      "primaryGenreName": "生命科学"
+    },
+    {
+      "collectionId": 1217715562,
+      "trackId": 1217715562,
+      "collectionName": "乐普医疗健康调频",
+      "artistName": "乐普医疗健康调频",
+      "feedUrl": "http://www.ximalaya.com/album/3263949.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B9%90%E6%99%AE%E5%8C%BB%E7%96%97%E5%81%A5%E5%BA%B7%E8%B0%83%E9%A2%91/id1217715562?uo=4",
+      "genres": [
+        "科学",
+        "播客",
+        "健康与健身",
+        "医学"
+      ],
+      "genreIds": [
+        "1533",
+        "26",
+        "1512",
+        "1518"
+      ],
+      "trackCount": 386,
+      "releaseDate": "2026-10-15T09:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科学"
+    },
+    {
+      "collectionId": 1700182226,
+      "trackId": 1700182226,
+      "collectionName": "打坐 站桩｜每天十分钟 健健康康",
+      "artistName": "缘益凡6813",
+      "feedUrl": "https://www.ximalaya.com/album/50277113.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%89%93%E5%9D%90-%E7%AB%99%E6%A1%A9-%E6%AF%8F%E5%A4%A9%E5%8D%81%E5%88%86%E9%92%9F-%E5%81%A5%E5%81%A5%E5%BA%B7%E5%BA%B7/id1700182226?uo=4",
+      "genres": [
+        "灵修",
+        "播客",
+        "宗教与心灵",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1444",
+        "26",
+        "1314",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 219,
+      "releaseDate": "2026-10-08T15:52:00Z",
+      "country": "CHN",
+      "primaryGenreName": "灵修"
+    },
+    {
+      "collectionId": 1587189700,
+      "trackId": 1587189700,
+      "collectionName": "万病之源说脾胃",
+      "artistName": "自当生大健康",
+      "feedUrl": "http://www.ximalaya.com/album/27916653.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%87%E7%97%85%E4%B9%8B%E6%BA%90%E8%AF%B4%E8%84%BE%E8%83%83/id1587189700?uo=4",
+      "genres": [
+        "营养",
+        "播客",
+        "健康与健身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 1026,
+      "releaseDate": "2026-10-17T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "营养"
+    },
+    {
+      "collectionId": 1721077873,
+      "trackId": 1721077873,
+      "collectionName": "话里话外话健康",
+      "artistName": "话里话外话健康",
+      "feedUrl": "https://www.ximalaya.com/album/79471146.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%AF%9D%E9%87%8C%E8%AF%9D%E5%A4%96%E8%AF%9D%E5%81%A5%E5%BA%B7/id1721077873?uo=4",
+      "genres": [
+        "营养",
+        "播客",
+        "健康与健身",
+        "医学"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1518"
+      ],
+      "trackCount": 483,
+      "releaseDate": "2026-10-25T00:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "营养"
+    },
+    {
+      "collectionId": 1720133410,
+      "trackId": 1720133410,
+      "collectionName": "饮食健康/健康饮食/营养补充",
+      "artistName": "陆建斌_财务自由之路",
+      "feedUrl": "https://www.ximalaya.com/album/79116225.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%A5%AE%E9%A3%9F%E5%81%A5%E5%BA%B7-%E5%81%A5%E5%BA%B7%E9%A5%AE%E9%A3%9F-%E8%90%A5%E5%85%BB%E8%A1%A5%E5%85%85/id1720133410?uo=4",
+      "genres": [
+        "创业",
+        "播客",
+        "商务",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 337,
+      "releaseDate": "2024-01-27T03:32:00Z",
+      "country": "CHN",
+      "primaryGenreName": "创业"
+    },
+    {
+      "collectionId": 1831440336,
+      "trackId": 1831440336,
+      "collectionName": "健康黑科技",
+      "artistName": "健康黑科技",
+      "feedUrl": "https://feed.xyzfm.space/rcxjr79gttyl",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%81%A5%E5%BA%B7%E9%BB%91%E7%A7%91%E6%8A%80/id1831440336?uo=4",
+      "genres": [
+        "健康与健身",
+        "播客"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 6,
+      "releaseDate": "2026-04-30T11:02:00Z",
+      "country": "CHN",
+      "primaryGenreName": "健康与健身"
+    },
+    {
+      "collectionId": 1824332089,
+      "trackId": 1824332089,
+      "collectionName": "健康中国",
+      "artistName": "华语环球广播普通话",
+      "feedUrl": "https://feed.kroraina.com.cn/api/channel/rss/6864fdcd68380e5779c056a3.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%9B%BD/id1824332089?uo=4",
+      "genres": [
+        "健康与健身",
+        "播客"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 100,
+      "releaseDate": "2026-10-19T09:18:00Z",
+      "country": "CHN",
+      "primaryGenreName": "健康与健身"
+    },
+    {
+      "collectionId": 1740893100,
+      "trackId": 1740893100,
+      "collectionName": "快乐减肥",
+      "artistName": "快瘦健康播客-快乐减肥",
+      "feedUrl": "https://feed.xyzfm.space/l3uawqy6lavb",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%BF%AB%E4%B9%90%E5%87%8F%E8%82%A5/id1740893100?uo=4",
+      "genres": [
+        "健康与健身",
+        "播客"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2024-06-17T14:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "健康与健身"
+    },
+    {
+      "collectionId": 1698728361,
+      "trackId": 1698728361,
+      "collectionName": "每个人的新生：抵御癌症的健康生活方式",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/77051851.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%AF%8F%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%96%B0%E7%94%9F-%E6%8A%B5%E5%BE%A1%E7%99%8C%E7%97%87%E7%9A%84%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB%E6%96%B9%E5%BC%8F/id1698728361?uo=4",
+      "genres": [
+        "医学",
+        "播客",
+        "健康与健身",
+        "科学",
+        "生命科学"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1533",
+        "1541"
+      ],
+      "trackCount": 171,
+      "releaseDate": "2023-09-08T11:58:00Z",
+      "country": "CHN",
+      "primaryGenreName": "医学"
+    },
+    {
+      "collectionId": 6790830594,
+      "trackId": 6790830594,
+      "collectionName": "两性生活100问丨男性健康养生",
+      "artistName": "桂禾堂谈养生",
+      "feedUrl": "https://www.ximalaya.com/album/82856541.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%A4%E6%80%A7%E7%94%9F%E6%B4%BB100%E9%97%AE%E4%B8%A8%E7%94%B7%E6%80%A7%E5%81%A5%E5%BA%B7%E5%85%BB%E7%94%9F/id6790830594?uo=4",
+      "genres": [
+        "两性",
+        "播客",
+        "健康与健身",
+        "替代保健"
+      ],
+      "genreIds": [
+        "1516",
+        "26",
+        "1512",
+        "1513"
+      ],
+      "trackCount": 582,
+      "releaseDate": "2026-07-10T16:14:00Z",
+      "country": "CHN",
+      "primaryGenreName": "两性"
+    },
+    {
+      "collectionId": 1729128422,
+      "trackId": 1729128422,
+      "collectionName": "脉轮全书 I 健康疗愈 I 自我修复",
+      "artistName": "优迈",
+      "feedUrl": "https://www.ximalaya.com/album/80334255.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%84%89%E8%BD%AE%E5%85%A8%E4%B9%A6-i-%E5%81%A5%E5%BA%B7%E7%96%97%E6%84%88-i-%E8%87%AA%E6%88%91%E4%BF%AE%E5%A4%8D/id1729128422?uo=4",
+      "genres": [
+        "心理健康",
+        "播客",
+        "健康与健身",
+        "宗教与心灵",
+        "灵修"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1314",
+        "1444"
+      ],
+      "trackCount": 69,
+      "releaseDate": "2024-04-11T00:08:00Z",
+      "country": "CHN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1489841902,
+      "trackId": 1489841902,
+      "collectionName": "家庭健康管理师：张旭营养基础班",
+      "artistName": "沙迦笔记_Amway安利",
+      "feedUrl": "http://www.ximalaya.com/album/31430550.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%AE%B6%E5%BA%AD%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86%E5%B8%88-%E5%BC%A0%E6%97%AD%E8%90%A5%E5%85%BB%E5%9F%BA%E7%A1%80%E7%8F%AD/id1489841902?uo=4",
+      "genres": [
+        "替代保健",
+        "播客",
+        "健康与健身",
+        "营养"
+      ],
+      "genreIds": [
+        "1513",
+        "26",
+        "1512",
+        "1515"
+      ],
+      "trackCount": 34,
+      "releaseDate": "2019-12-01T07:36:00Z",
+      "country": "CHN",
+      "primaryGenreName": "替代保健"
+    },
+    {
+      "collectionId": 1781851423,
+      "trackId": 1781851423,
+      "collectionName": "丁大帅带你了解人工智能智能家居和养老安全健康管理",
+      "artistName": "主播本丁哥",
+      "feedUrl": "https://www.ximalaya.com/album/84588220.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%81%E5%A4%A7%E5%B8%85%E5%B8%A6%E4%BD%A0%E4%BA%86%E8%A7%A3%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E5%92%8C%E5%85%BB%E8%80%81%E5%AE%89%E5%85%A8%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86/id1781851423?uo=4",
+      "genres": [
+        "科技",
+        "播客",
+        "商务",
+        "创业"
+      ],
+      "genreIds": [
+        "1318",
+        "26",
+        "1321",
+        "1493"
+      ],
+      "trackCount": 1318,
+      "releaseDate": "2026-10-25T08:19:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1565061161,
+      "trackId": 1565061161,
+      "collectionName": "健康新鲜报",
+      "artistName": "健康百课",
+      "feedUrl": "http://www.ximalaya.com/album/45822446.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%81%A5%E5%BA%B7%E6%96%B0%E9%B2%9C%E6%8A%A5/id1565061161?uo=4",
+      "genres": [
+        "医学",
+        "播客",
+        "健康与健身",
+        "营养"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1515"
+      ],
+      "trackCount": 1033,
+      "releaseDate": "2023-08-02T21:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "医学"
+    },
+    {
+      "collectionId": 1821361363,
+      "trackId": 1821361363,
+      "collectionName": "刘老师青少年心理健康和情绪管理公开课精华免费分享",
+      "artistName": "发财好运如意本丁哥帅",
+      "feedUrl": "https://www.ximalaya.com/album/93058520.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%88%98%E8%80%81%E5%B8%88%E9%9D%92%E5%B0%91%E5%B9%B4%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E5%92%8C%E6%83%85%E7%BB%AA%E7%AE%A1%E7%90%86%E5%85%AC%E5%BC%80%E8%AF%BE%E7%B2%BE%E5%8D%8E%E5%85%8D%E8%B4%B9%E5%88%86%E4%BA%AB/id1821361363?uo=4",
+      "genres": [
+        "职业",
+        "播客",
+        "商务",
+        "教育",
+        "语言学习"
+      ],
+      "genreIds": [
+        "1410",
+        "26",
+        "1321",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 656,
+      "releaseDate": "2026-06-07T16:11:00Z",
+      "country": "CHN",
+      "primaryGenreName": "职业"
+    },
+    {
+      "collectionId": 1579989090,
+      "trackId": 1579989090,
+      "collectionName": "MELODY 健康星期四 - Radio Station [CHI]",
+      "artistName": "MELODY",
+      "feedUrl": "https://feeds.megaphone.fm/SOODO8654569414",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/melody-%E5%81%A5%E5%BA%B7%E6%98%9F%E6%9C%9F%E5%9B%9B-radio-station-chi/id1579989090?uo=4",
+      "genres": [
+        "健康与健身",
+        "播客"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 275,
+      "releaseDate": "2026-10-24T10:59:00Z",
+      "country": "CHN",
+      "primaryGenreName": "健康与健身"
+    },
+    {
+      "collectionId": 1831422726,
+      "trackId": 1831422726,
+      "collectionName": "茶道茶艺与健康饮茶",
+      "artistName": "人人茶话",
+      "feedUrl": "https://www.ximalaya.com/album/100960011.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%8C%B6%E9%81%93%E8%8C%B6%E8%89%BA%E4%B8%8E%E5%81%A5%E5%BA%B7%E9%A5%AE%E8%8C%B6/id1831422726?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "艺术",
+        "饮食文化"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1301",
+        "1306"
+      ],
+      "trackCount": 164,
+      "releaseDate": "2025-09-21T11:14:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1875496285,
+      "trackId": 1875496285,
+      "collectionName": "real营养学|让健康变纯粹",
+      "artistName": "real营养学",
+      "feedUrl": "https://www.ximalaya.com/album/116537774.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/real%E8%90%A5%E5%85%BB%E5%AD%A6-%E8%AE%A9%E5%81%A5%E5%BA%B7%E5%8F%98%E7%BA%AF%E7%B2%B9/id1875496285?uo=4",
+      "genres": [
+        "营养",
+        "播客",
+        "健康与健身",
+        "替代保健"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1513"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2026-02-07T07:42:00Z",
+      "country": "CHN",
+      "primaryGenreName": "营养"
+    },
+    {
+      "collectionId": 1447966275,
+      "trackId": 1447966275,
+      "collectionName": "健康减肥 | 减脂瘦身饮食养生",
+      "artistName": "注册营养师-锦虹",
+      "feedUrl": "http://www.ximalaya.com/album/20051786.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%81%A5%E5%BA%B7%E5%87%8F%E8%82%A5-%E5%87%8F%E8%84%82%E7%98%A6%E8%BA%AB%E9%A5%AE%E9%A3%9F%E5%85%BB%E7%94%9F/id1447966275?uo=4",
+      "genres": [
+        "营养",
+        "播客",
+        "健康与健身",
+        "科学"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1533"
+      ],
+      "trackCount": 214,
+      "releaseDate": "2024-05-13T15:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "营养"
+    },
+    {
+      "collectionId": 1725689153,
+      "trackId": 1725689153,
+      "collectionName": "医疗营养健康内行人",
+      "artistName": "私人营养专家哈里斯",
+      "feedUrl": "https://www.ximalaya.com/album/35332182.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8C%BB%E7%96%97%E8%90%A5%E5%85%BB%E5%81%A5%E5%BA%B7%E5%86%85%E8%A1%8C%E4%BA%BA/id1725689153?uo=4",
+      "genres": [
+        "营养",
+        "播客",
+        "健康与健身"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2024-09-10T15:27:00Z",
+      "country": "CHN",
+      "primaryGenreName": "营养"
+    },
+    {
+      "collectionId": 1567801191,
+      "trackId": 1567801191,
+      "collectionName": "高血压的6种发病原因和降压方法",
+      "artistName": "阿龙说健康",
+      "feedUrl": "http://www.ximalaya.com/album/31925870.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%AB%98%E8%A1%80%E5%8E%8B%E7%9A%846%E7%A7%8D%E5%8F%91%E7%97%85%E5%8E%9F%E5%9B%A0%E5%92%8C%E9%99%8D%E5%8E%8B%E6%96%B9%E6%B3%95/id1567801191?uo=4",
+      "genres": [
+        "营养",
+        "播客",
+        "健康与健身",
+        "医学"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1518"
+      ],
+      "trackCount": 207,
+      "releaseDate": "2026-08-04T05:51:00Z",
+      "country": "CHN",
+      "primaryGenreName": "营养"
+    },
+    {
+      "collectionId": 1535290480,
+      "trackId": 1535290480,
+      "collectionName": "糖尿病专业课，告别血糖不稳定",
+      "artistName": "良知健康关爱",
+      "feedUrl": "http://www.ximalaya.com/album/35341874.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%93%E4%B8%9A%E8%AF%BE-%E5%91%8A%E5%88%AB%E8%A1%80%E7%B3%96%E4%B8%8D%E7%A8%B3%E5%AE%9A/id1535290480?uo=4",
+      "genres": [
+        "医学",
+        "播客",
+        "健康与健身",
+        "营养"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1515"
+      ],
+      "trackCount": 20,
+      "releaseDate": "2020-06-08T01:59:00Z",
+      "country": "CHN",
+      "primaryGenreName": "医学"
+    },
+    {
+      "collectionId": 1800283420,
+      "trackId": 1800283420,
+      "collectionName": "男性健康小常识丨怎么补肾",
+      "artistName": "百草堂谈养生",
+      "feedUrl": "https://papi.qingting.fm/podcast/channels/12005",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%94%B7%E6%80%A7%E5%81%A5%E5%BA%B7%E5%B0%8F%E5%B8%B8%E8%AF%86%E4%B8%A8%E6%80%8E%E4%B9%88%E8%A1%A5%E8%82%BE/id1800283420?uo=4",
+      "genres": [
+        "两性",
+        "播客",
+        "健康与健身"
+      ],
+      "genreIds": [
+        "1516",
+        "26",
+        "1512"
+      ],
+      "trackCount": 345,
+      "releaseDate": "2025-05-16T09:47:00Z",
+      "country": "CHN",
+      "primaryGenreName": "两性"
+    },
+    {
+      "collectionId": 1516948648,
+      "trackId": 1516948648,
+      "collectionName": "儿童健康专业科普",
+      "artistName": "元气小医",
+      "feedUrl": "http://www.ximalaya.com/album/33481389.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%84%BF%E7%AB%A5%E5%81%A5%E5%BA%B7%E4%B8%93%E4%B8%9A%E7%A7%91%E6%99%AE/id1516948648?uo=4",
+      "genres": [
+        "替代保健",
+        "播客",
+        "健康与健身",
+        "儿童与家庭",
+        "育儿"
+      ],
+      "genreIds": [
+        "1513",
+        "26",
+        "1512",
+        "1305",
+        "1521"
+      ],
+      "trackCount": 83,
+      "releaseDate": "2020-12-07T09:49:00Z",
+      "country": "CHN",
+      "primaryGenreName": "替代保健"
+    },
+    {
+      "collectionId": 1845135503,
+      "trackId": 1845135503,
+      "collectionName": "兆灵说健康|专家带您探究秋季养生的奥秘",
+      "artistName": "兆灵说",
+      "feedUrl": "https://www.ximalaya.com/album/106916055.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%86%E7%81%B5%E8%AF%B4%E5%81%A5%E5%BA%B7-%E4%B8%93%E5%AE%B6%E5%B8%A6%E6%82%A8%E6%8E%A2%E7%A9%B6%E7%A7%8B%E5%AD%A3%E5%85%BB%E7%94%9F%E7%9A%84%E5%A5%A5%E7%A7%98/id1845135503?uo=4",
+      "genres": [
+        "医学",
+        "播客",
+        "健康与健身"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512"
+      ],
+      "trackCount": 61,
+      "releaseDate": "2025-10-09T04:13:00Z",
+      "country": "CHN",
+      "primaryGenreName": "医学"
+    },
+    {
+      "collectionId": 1834321478,
+      "trackId": 1834321478,
+      "collectionName": "老王茶座·健康 | 大健康实战话术 ⭐",
+      "artistName": "老王茶座",
+      "feedUrl": "https://www.ximalaya.com/album/84597499.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%80%81%E7%8E%8B%E8%8C%B6%E5%BA%A7-%E5%81%A5%E5%BA%B7-%E5%A4%A7%E5%81%A5%E5%BA%B7%E5%AE%9E%E6%88%98%E8%AF%9D%E6%9C%AF/id1834321478?uo=4",
+      "genres": [
+        "课程",
+        "播客",
+        "教育",
+        "商务",
+        "营销"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1321",
+        "1492"
+      ],
+      "trackCount": 81,
+      "releaseDate": "2026-10-20T13:22:00Z",
+      "country": "CHN",
+      "primaryGenreName": "课程"
+    },
+    {
+      "collectionId": 1157960349,
+      "trackId": 1157960349,
+      "collectionName": "健康减肥脱口秀---可瘦可乐的生活",
+      "artistName": "可瘦可乐",
+      "feedUrl": "http://www.ximalaya.com/album/5080808.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%81%A5%E5%BA%B7%E5%87%8F%E8%82%A5%E8%84%B1%E5%8F%A3%E7%A7%80-%E5%8F%AF%E7%98%A6%E5%8F%AF%E4%B9%90%E7%9A%84%E7%94%9F%E6%B4%BB/id1157960349?uo=4",
+      "genres": [
+        "健康与健身",
+        "播客",
+        "科学"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1533"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2016-11-25T11:33:00Z",
+      "country": "CHN",
+      "primaryGenreName": "健康与健身"
+    },
+    {
+      "collectionId": 1845387771,
+      "trackId": 1845387771,
+      "collectionName": "兆灵说健康|中医养生|冬季养生的学问",
+      "artistName": "兆灵说",
+      "feedUrl": "https://www.ximalaya.com/album/107700856.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%86%E7%81%B5%E8%AF%B4%E5%81%A5%E5%BA%B7-%E4%B8%AD%E5%8C%BB%E5%85%BB%E7%94%9F-%E5%86%AC%E5%AD%A3%E5%85%BB%E7%94%9F%E7%9A%84%E5%AD%A6%E9%97%AE/id1845387771?uo=4",
+      "genres": [
+        "医学",
+        "播客",
+        "健康与健身",
+        "教育",
+        "实用知识"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 82,
+      "releaseDate": "2025-10-27T08:06:00Z",
+      "country": "CHN",
+      "primaryGenreName": "医学"
+    }
+  ]
+}

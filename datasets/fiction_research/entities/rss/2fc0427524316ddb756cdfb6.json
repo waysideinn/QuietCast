@@ -1,0 +1,52 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/81513331.xml",
+    "final_url": "https://www.ximalaya.com/album/81513331.xml",
+    "fetched_at": "2026-10-26T07:56:18.087282+00:00",
+    "status": 200,
+    "sha256": "20bca905b3e24f7945b25a6573756d6475f1202c0dd1da61c7e6d7f8ccb14cb0"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "（视频）徒儿你无敌了|沙雕修仙小说|动漫二次元短片",
+      "truncated": false
+    },
+    "description": {
+      "text": "叶北辰,因为能力太逆天，直接被九十九个师傅赶下山，一直都在复仇的路上。。。 准备好你们的小板凳，瓜子，可乐，发车咯！！爽文，越看越爽",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "带给听书"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "带给听书"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Comedy"
+      ],
+      [
+        "Comedy",
+        "Stand-Up"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/81513331",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {},
+    "feed_item_count": 0,
+    "episodes": []
+  }
+}

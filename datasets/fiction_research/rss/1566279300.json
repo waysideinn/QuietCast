@@ -1,0 +1,140 @@
+{
+  "show_id": "1566279300",
+  "feed_url": "https://anchor.fm/s/5932f72c/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/5932f72c/podcast/rss",
+    "final_url": "https://anchor.fm/s/5932f72c/podcast/rss",
+    "fetched_at": "2026-10-25T14:42:52.788616+00:00",
+    "status": 200,
+    "sha256": "9f619505b8736f2077bd21054da04b58665d95587575743403c9939a94606f2a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "世紀末的玖",
+    "truncated": false
+  },
+  "description": {
+    "text": "2個同樣誕生於20世紀末的人類 聊聊過去的經歷，也說說可能的未來 輕鬆地節目，就像你許久不見的朋友 一起拿杯酒坐下，說些不重要的垃圾話吧 ----------(´･ω･`) ---------- 投稿話題來這裡➡️https://pse.is/3kqu 📌聯絡我們： Instagram➡️https://www.instagram.com/9attheendofthecentury/ Facebook➡️https://www.facebook.com/9ATEOTC Twitter➡️https://twitter.com/9ATEOTC 📌Podcast收聽管道： Spotify➡️https://tinyurl.com/89ebk7w Apple Podcast➡️https://podcasts.apple.com/tw/podcast/%E4%B8%96%E7%B4%80%E6%9C%AB%E7%9A%84%E7%8E%96/id1566824451 Google Podcast➡️https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81OTMyZjcyYy9wb2RjYXN0L3Jzcw SoundOn➡️https://player.soundon.fm/p/theendofthecentury",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 158,
+  "episodes": [
+    {
+      "id": "c59af8657225dcc05bda3841f9bb2c81d14c9738229d3e4c4b619030ccac2130",
+      "guid": "77f3c604-d0e0-4039-b131-fa87d313c538",
+      "title": {
+        "text": "小心熱傷害!中暑、熱衰竭、曬傷夏天容易出現的健康問題【Podcast世紀末的玖EP156】",
+        "truncated": false
+      },
+      "description": {
+        "text": "夏天地獄...希望大家都健康的活下去。 by班 #熱 #中暑 #熱傷害 投稿話題來這裡➡️ https://pse.is/3kqugh Plurk➡️ https://www.plurk.com/the_end_of_the_century IG➡️ https://www.instagram.com/9attheendofthecentury/ FB➡️ https://www.facebook.com/9ATEOTC",
+        "truncated": false
+      },
+      "published_at": "Sun, 21 Jul 2024 23:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "9a44c2d8f2eb80a2a11fceb1dab51ba72e5afc24f1ac64998ad7f4db48f42576",
+      "guid": "a7209f18-5960-4977-bd0f-f04d114856ec",
+      "title": {
+        "text": "台北寶可夢中心開幕啦！！！聊聊以前的購物經驗【世紀末的玖EP134】",
+        "truncated": false
+      },
+      "description": {
+        "text": "大家有去購物了嗎~by班 #寶可夢中心 #台北寶可夢中心 #皮卡丘 投稿話題來這裡➡️ https://pse.is/3kqugh Plurk➡️ https://www.plurk.com/the_end_of_the_century IG➡️ https://www.instagram.com/9attheendofthecentury/ FB➡️ https://www.facebook.com/9ATEOTC",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Dec 2023 07:15:19 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "92c06db3cc789a3280a57a18548879467dbdecccaac3b77ec4c7a3c4e7ba0a5c",
+      "guid": "eaea1e34-95ff-4eb4-8b68-a16518b1e1dd",
+      "title": {
+        "text": "【世紀末的玖EP112】如果成為動物飼育員",
+        "truncated": false
+      },
+      "description": {
+        "text": "抱歉基努李維 by班 投稿話題來這裡➡️ https://pse.is/3kqugh 玖的Plurk➡️ https://www.plurk.com/the_end_of_the_century 玖的IG➡️ https://www.instagram.com/9attheendofthecentury/ 玖的FB➡️ https://www.facebook.com/9ATEOTC",
+        "truncated": false
+      },
+      "published_at": "Fri, 20 Jan 2023 11:35:54 GMT",
+      "feed_index": 45
+    },
+    {
+      "id": "52b4350c1750276ca058eb86cfa2d92a3d4095507e1faa8da23a35b3095f5d33",
+      "guid": "9f723c2a-0328-4f4e-83de-937f09208109",
+      "title": {
+        "text": "【世紀末的玖EP90】畢業典禮！學生們的天堂日子結束了，快加入社畜的行列（招手）",
+        "truncated": false
+      },
+      "description": {
+        "text": "不知道大家畢業典禮有沒有什麼特別的回憶呢? 投稿話題來這裡➡️ https://pse.is/3kqugh 玖的Plurk➡️ https://www.plurk.com/the_end_of_the_century 玖的IG➡️ https://www.instagram.com/9attheendofthecentury/ 玖的FB➡️ https://www.facebook.com/9ATEOTC",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Jun 2022 12:47:03 GMT",
+      "feed_index": 67
+    },
+    {
+      "id": "1fb4422f13fe1a75f14517946190fd4b2f0fcb5a5c19318892ee31b1ddcab7fe",
+      "guid": "10af5ca2-e34a-4df1-9695-963c74b37abb",
+      "title": {
+        "text": "【世紀末的玖EP67】新年福袋，便利商店、網購服飾、百貨公司，年初錢包易攻難守啊......",
+        "truncated": false
+      },
+      "description": {
+        "text": "支持鄰國政府出福袋，想買欸 by班 投稿話題來這裡➡️ https://pse.is/3kqugh 玖的Plurk➡️ https://www.plurk.com/the_end_of_the_century 玖的IG➡️ https://www.instagram.com/9attheendofthecentury/ 玖的FB➡️ https://www.facebook.com/9ATEOTC",
+        "truncated": false
+      },
+      "published_at": "Mon, 10 Jan 2022 04:00:00 GMT",
+      "feed_index": 90
+    },
+    {
+      "id": "606a27f16d2d8727cdd1cd972d4ea3f8eec19c56bf36eaabab7f0a28a4aa33ec",
+      "guid": "f27e17a9-8c63-413b-88a0-7e7f11779cdd",
+      "title": {
+        "text": "【世紀末的玖EP45】如果可以自由選擇職業，你想做什麼呢？要不要考慮跟徐磊一起大喊，我要當老師~~~",
+        "truncated": false
+      },
+      "description": {
+        "text": "想當年若選了三類組，我現在說不定就會是法醫了(?)by班 投稿話題來這裡➡️ https://pse.is/3kqugh",
+        "truncated": false
+      },
+      "published_at": "Thu, 07 Oct 2021 04:00:00 GMT",
+      "feed_index": 112
+    },
+    {
+      "id": "a650217fb4b509d5876ac9bc5f4b51b60f07e5dc0d6e5596e0d8aced5acb2c7a",
+      "guid": "ad3cdaf4-2365-405e-8171-b2c51605bb04",
+      "title": {
+        "text": "【世紀末的玖EP22】面對低潮與挫折的解決方法，壓力好大怎麼辦？",
+        "truncated": false
+      },
+      "description": {
+        "text": "潮起潮落人生繼續過，逃避、面對、求救......只要是能讓自己好過就是正確的選擇。by班",
+        "truncated": false
+      },
+      "published_at": "Mon, 19 Jul 2021 04:00:00 GMT",
+      "feed_index": 135
+    },
+    {
+      "id": "76677244a3b153edf43c7088a70bd3d4d289e7ab1e4b58dcd9a261804e9d7c85",
+      "guid": "de164082-84c9-4479-a64b-475e86cf2803",
+      "title": {
+        "text": "【世紀末的玖EP1】初次見面，就來談談沒人能避免的大考吧！",
+        "truncated": false
+      },
+      "description": {
+        "text": "HIHI，我們是班與藝學！謝謝你點進本的節目，這是一個輕鬆閒聊，什麼都說的頻道，最適合上課偷懶、上班很累、尋找樂趣的你！未來我們會(努力)每週更新，希望能為你的生活帶來一小段時間的歡樂;)",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 May 2021 04:00:00 GMT",
+      "feed_index": 157
+    }
+  ]
+}

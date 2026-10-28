@@ -1,0 +1,140 @@
+{
+  "show_id": "1554643880",
+  "feed_url": "http://www.ximalaya.com/album/46354017.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/46354017.xml",
+    "final_url": "http://www.ximalaya.com/album/46354017.xml",
+    "fetched_at": "2026-10-25T14:52:15.251300+00:00",
+    "status": 200,
+    "sha256": "cd06205d5643008f78b19c791fdf00a91217cb0d3881f2953fb1a06946c42506"
+  },
+  "status": "ok",
+  "title": {
+    "text": "命天录|传统武侠悬疑复仇|青莲早期作品真人免费有声",
+    "truncated": false
+  },
+  "description": {
+    "text": "苍茫大地，谁主沉浮？ 庸扰人世，又有几人能看透那高不可测的天意？ 当命运之海向自己奔流而来，又当如何抉择？ 一对少年英杰，相识于危难，相知于峰尖浪涛。身世、门派、兴亡的预言与真相，天意与人心的断面。 “我们做不成敌人，也做不成朋友，只能为知己。” 一个奇人，将四个毁灭预言，分别送给了自己师门，正邪领袖，以及大唐天子。 亲手开启自己灭亡之旅的少年，能否破局？ 演播：青莲 后期：躺平的土狗",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 348,
+  "episodes": [
+    {
+      "id": "e293aa7a5e830e4f31e2b5e8c0aeb0b2c4f223dd57a08748c4c4835b80155437",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/18aa-audiofreehighqps/CA/16/CKwRIJED7w7qAMpYvgCDEAML.m4a",
+      "title": {
+        "text": "第一章 奇画迷局|第一部比较生涩，听感较高的朋友可以从第二部开始听",
+        "truncated": false
+      },
+      "description": {
+        "text": "苍茫大地，谁主沉浮？ 庸扰人世，又有几人能看透那高不可测的天意？ 当命运之海向自己奔流而来，又当如何抉择？ 一对少年英杰，相识于危难，相知于峰尖浪涛。身世、门派、兴亡的预言与真相，天意与人心的断面。 “我们做不成敌人，也做不成朋友，只能为知己。” 一个奇人，将四个毁灭预言，分别送给了自己师门，正邪领袖，以及大唐天子。 亲手开启自己灭亡之旅的少年，能否破局？",
+        "truncated": false
+      },
+      "published_at": "Tue, 02 Feb 2021 15:00:01 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "625b1f638cc338f1f7f867c3f728dcf27515b2e62245ef9cd8d5bdb8efc13e21",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/23ae-audiofreehighqps/2B/1C/CKwRIW4EEMdiABAAAACMpWwg.mp3",
+      "title": {
+        "text": "第五十一章 刺探",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 28 Feb 2021 14:00:16 GMT",
+      "feed_index": 50
+    },
+    {
+      "id": "6d7ffd2626c44e06ddda1ff53ad41ff473dacd5116dbaaae77b31d7779f4e070",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/dd5b-audiofreehighqps/02/97/CKwRIJEENGqXABAAAACXRPNh.mp3",
+      "title": {
+        "text": "第二部 第三十五章 鸿飞冥冥",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 30 Mar 2021 05:34:00 GMT",
+      "feed_index": 99
+    },
+    {
+      "id": "c4329bc9676c9ddbf9ed7bf57b561bbb9fff1221d8de871260f214f0be9aef41",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/53b1-audiofreehighqps/9B/A3/CKwRIRwEWUUBABAAAACiUzSy.mp3",
+      "title": {
+        "text": "第二部 第八十四章 救美",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 29 Apr 2021 14:00:00 GMT",
+      "feed_index": 149
+    },
+    {
+      "id": "f863753b57c120bc3845587eba8cfcb491305d21b6bd21fb2b7d043ef064c5a0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/cf55-audiofreehighqps/25/52/CKwRIaIEhrBNABAAAACx0x7R.mp3",
+      "title": {
+        "text": "第三部 第十一章 掘墓",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Jun 2021 13:17:00 GMT",
+      "feed_index": 198
+    },
+    {
+      "id": "dd03d941129eb92eea50a38fc5dad3bdf5e140777a1abcb131d81e4c6e393dfe",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e128-audiofreehighqps/EC/9B/CKwRIUEEwYtCABAAAADGuUmU.mp3",
+      "title": {
+        "text": "第三部 第六十一章 娼女 君子",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 20 Jul 2021 00:00:00 GMT",
+      "feed_index": 248
+    },
+    {
+      "id": "ff2f4a015ad04f70f0934626da1c67268d1c1e08f3baf71c024217e0bd2156c5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0681-audiofreehighqps/34/5D/CKwRIW4E4akcABAAAADTIv6Q.mp3",
+      "title": {
+        "text": "第四部 第三十九章 真假宝图",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 17 Aug 2021 00:01:00 GMT",
+      "feed_index": 297
+    },
+    {
+      "id": "ceead66690dd7f4344f4217fa871ef706af37530bb1be421e8a59d74584a4f75",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4a3c-audiofreehighqps/11/92/CKwRIUEFF6HjABAAAADjVbZ2.mp3",
+      "title": {
+        "text": "生二胎",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Sep 2021 00:00:00 GMT",
+      "feed_index": 347
+    }
+  ]
+}

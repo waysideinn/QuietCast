@@ -1,0 +1,84 @@
+{
+  "show_id": "1521193160",
+  "feed_url": "https://anchor.fm/s/28fe9994/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/28fe9994/podcast/rss",
+    "final_url": "https://anchor.fm/s/28fe9994/podcast/rss",
+    "fetched_at": "2026-10-25T14:42:09.801074+00:00",
+    "status": 200,
+    "sha256": "e4ba860fe77e7b55d511d076c2e48897b443716d25ab975172237fe2bbf464f4"
+  },
+  "status": "ok",
+  "title": {
+    "text": "《收信快樂》廣播劇",
+    "truncated": false
+  },
+  "description": {
+    "text": "簡介 橫跨四十年的通信，把這兩顆心靈遙遙的連繫著，見證著彼此人生的高低起跌。 鳴謝單承矩先生授權製作 陳子豐 飾 李政國 鄺淑盈 飾 陳淑芬 編劇：單承矩 導演：盧宜敬 友情客串：陳淑儀 主題曲 作曲：King Kong 填詞：黃子 演唱：黃瑤 封面插畫：林浩迪 鳴謝：Bri、兆銘",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 4,
+  "episodes": [
+    {
+      "id": "4712a6ecb05077ed622ef5e9e4a6a15aebdfe047ccf0fdbcce99703145349d33",
+      "guid": "e5baa267-ac40-44e9-b7bf-58d21a65cb11",
+      "title": {
+        "text": "《收信快樂》最終回",
+        "truncated": false
+      },
+      "description": {
+        "text": "《收信快樂》廣播劇 簡介 橫跨四十年的通信，把這兩顆心靈遙遙的連繫著，見證著彼此人生的高低起跌。 鳴謝單承矩先生授權製作 陳子豐 飾 李政國 鄺淑盈 飾 陳淑芬 編劇：單承矩 導演：盧宜敬 友情客串：陳淑儀 主題曲 作曲：King Kong 填詞：黃子 演唱：黃瑤 封面插畫：林浩迪 鳴謝：Bri、兆銘",
+        "truncated": false
+      },
+      "published_at": "Sun, 28 Jun 2020 17:17:04 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "3b05f87edd226c09f790bd00f79d72272d17b349ba6565fad10ec879d2eee921",
+      "guid": "c15077ac-0b59-409e-beab-59c6260d9a0f",
+      "title": {
+        "text": "《收信快樂》第四回",
+        "truncated": false
+      },
+      "description": {
+        "text": "《收信快樂》廣播劇 簡介 橫跨四十年的通信，把這兩顆心靈遙遙的連繫著，見證著彼此人生的高低起跌。 鳴謝單承矩先生授權製作 陳子豐 飾 李政國 鄺淑盈 飾 陳淑芬 編劇：單承矩 導演：盧宜敬 友情客串：陳淑儀 主題曲 作曲：King Kong 填詞：黃子 演唱：黃瑤 封面插畫：林浩迪 鳴謝：Bri、兆銘",
+        "truncated": false
+      },
+      "published_at": "Sun, 28 Jun 2020 17:15:11 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "3a3410638dc654d216fd2cce4ead1c2af245d409d946e513f80735d0b9014d60",
+      "guid": "ba75a7d6-750d-4810-9baa-23442c14b343",
+      "title": {
+        "text": "《收信快樂》第三回",
+        "truncated": false
+      },
+      "description": {
+        "text": "《收信快樂》廣播劇 簡介 橫跨四十年的通信，把這兩顆心靈遙遙的連繫著，見證著彼此人生的高低起跌。 鳴謝單承矩先生授權製作 陳子豐 飾 李政國 鄺淑盈 飾 陳淑芬 編劇：單承矩 導演：盧宜敬 友情客串：陳淑儀 主題曲 作曲：King Kong 填詞：黃子 演唱：黃瑤 封面插畫：林浩迪 鳴謝：Bri、兆銘",
+        "truncated": false
+      },
+      "published_at": "Sun, 28 Jun 2020 17:11:54 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "6efad8dd170db576a561578be2f2ffe26c2ab155fdf87511926401eb103b317a",
+      "guid": "067df780-6423-4ce1-9a86-6151f31e9f1e",
+      "title": {
+        "text": "《收信快樂》第二回",
+        "truncated": false
+      },
+      "description": {
+        "text": "《收信快樂》廣播劇 簡介 橫跨四十年的通信，把這兩顆心靈遙遙的連繫著，見證著彼此人生的高低起跌。 鳴謝單承矩先生授權製作 陳子豐 飾 李政國 鄺淑盈 飾 陳淑芬 編劇：單承矩 導演：盧宜敬 友情客串：陳淑儀 主題曲 作曲：King Kong 填詞：黃子 演唱：黃瑤 封面插畫：林浩迪 鳴謝：Bri、兆銘",
+        "truncated": false
+      },
+      "published_at": "Sun, 28 Jun 2020 17:08:45 GMT",
+      "feed_index": 3
+    }
+  ]
+}

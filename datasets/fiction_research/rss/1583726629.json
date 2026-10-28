@@ -1,0 +1,140 @@
+{
+  "show_id": "1583726629",
+  "feed_url": "http://www.ximalaya.com/album/50743637.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/50743637.xml",
+    "final_url": "http://www.ximalaya.com/album/50743637.xml",
+    "fetched_at": "2026-10-25T14:43:07.290406+00:00",
+    "status": 200,
+    "sha256": "493dd11e298683a4223bde00668574453388d032a642455dc907b80d8323ecc2"
+  },
+  "status": "ok",
+  "title": {
+    "text": "恶魔总裁：复仇娇妻要定你丨免费言情丨多人精品有声剧",
+    "truncated": false
+  },
+  "description": {
+    "text": "【作品说明】 本书为 免费 专辑，更新时间为每天 下午15:00 。 喜欢主播，别忘了点击 订阅 喔！ 【内容简介】 Part 1陷入牢笼 郗小雨在和青梅竹马林宇哲私奔的路上被恶魔栗海龙抓走并囚禁。四年后的一天郗小雨侥幸逃出牢笼，一个身材高大、面容冷峻的欧晟天救了她。殊不知这个男人却是恶魔栗海龙的死对头，在一个雨夜竟然对她....... 郗小雨从一个牢笼陷入了另一个牢笼，她该如何自救呢？ Part 2爱之束缚 在欧晟天囚禁郗小雨的日子里，欧晟天发现他竟然开始慢慢的喜欢上了这个女人。而她也开始喜欢上了欧晟天。而欧晟天身边的红颜官莲娜却妒忌郗小雨，不停地使手段耍阴谋妄图逼她离开欧晟天。 下药、谋杀、暗算，郗小雨被逼的走投无路跳海自杀...... Part 3复仇开始 苏醒之后，郗小雨心里只有一个念头—复仇。她要报复官莲娜，报复欧晟天，报复一切杀害她孩子的人。面对仇恨，郗小雨选择了另一个身份甚至和恶魔栗海龙走到了一起。 可是面对她最爱的内个男人，她又真的下的去手吗？....... Part 4走向幸福 终于解开了种种误会，经历了九九八十一难的郗小雨终于准备和欧晟天喜结连理之时，官莲娜换了身份回国又开始策划一系列的阴谋手段。郗小雨的亲生父亲到底是谁？真的是被欧家害死的吗？郗小雨和欧晟天之间到底有多少信任呢？ 走向幸福的路到底还有多远....... 【作者简介】 天阳：网络小说作家 【主播简",
+    "truncated": true
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 408,
+  "episodes": [
+    {
+      "id": "c93c4117b43b8d33e5ea0535aa94de4bdce7925ec4161677e19cb2a02179f359",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a978-audiofreehighqps/B6/7D/CKwRIaIEsJWrABVrYQDAX5k2-aacv2-48K.m4a",
+      "title": {
+        "text": "恶魔总裁：复仇娇妻要定你-片花（全文免费，求订阅、求关注）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Jun 2021 07:58:24 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "3f2cb06b4a5817529162a7828c2647ee680353c1d206f29674319ee8466a2a17",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/abd7-audiofreehighqps/B2/5C/CKwRIMAEtx-AAD-NBwDCuvjd-aacv2-48K.m4a",
+      "title": {
+        "text": "恶魔总裁 058（又又又是套路）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 04 Jul 2021 07:00:00 GMT",
+      "feed_index": 58
+    },
+    {
+      "id": "983bd4e639810c97d9b85d16186021d5748bfaa005a14de2d13a8c8bcd650e5c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/023a-audiofreehighqps/A3/D7/CKwRIW4EyZR8AEG99wDJt0Nw-aacv2-48K.m4a",
+      "title": {
+        "text": "恶魔总裁 116（求订阅，订阅不迷路）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 18 Jul 2021 07:00:01 GMT",
+      "feed_index": 116
+    },
+    {
+      "id": "69ac5761f8bf48eb99c43f5ba1098e7a28d356063196b1cf32e808023d9ce86c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1864-audiofreehighqps/50/77/CKwRIJIE1CCyAD7CYQDNyDFQ-aacv2-48K.m4a",
+      "title": {
+        "text": "恶魔总裁 174（娜姐就是豪横）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Jul 2021 07:00:05 GMT",
+      "feed_index": 174
+    },
+    {
+      "id": "116d4a5c669b329d83f2d7065312dcee23acfa39758af04bf9e19e212ec6162d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9b18-audiofreehighqps/50/D7/CKwRIJEE4U-BAD6iEwDS8FJG-aacv2-48K.m4a",
+      "title": {
+        "text": "恶魔总裁 233（你们难道是想等着我叫人把她丢出去？）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 Aug 2021 07:00:01 GMT",
+      "feed_index": 233
+    },
+    {
+      "id": "2cb4394c69f6dc05f5c5947b5f2496e7ad769f3400865cfa455ef6d632a84293",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8ca5-audiofreehighqps/95/01/CKwRIMAE8SHPAD8F7wDYtOfA-aacv2-48K.m4a",
+      "title": {
+        "text": "恶魔总裁 291（免费专辑！求打分五星好评！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 17 Aug 2021 07:00:04 GMT",
+      "feed_index": 291
+    },
+    {
+      "id": "58ca1930a7c4f974990c63e2fefa5529892002f73bb4bd43f9e688471d7cf470",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0ca5-audiofreehighqps/04/F6/CKwRIRwE_lCSAD5OXwDc0Xwj-aacv2-48K.m4a",
+      "title": {
+        "text": "恶魔总裁 349（评论、打call走一走喔！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 27 Aug 2021 07:00:01 GMT",
+      "feed_index": 349
+    },
+    {
+      "id": "64dfe434a0cd822c273b9ffbf68036568127773b0de6807468802c3f35fdebf3",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/742a-audiofreehighqps/B4/29/CKwRIJEFDiKEAD-btgDg-971-aacv2-48K.m4a",
+      "title": {
+        "text": "恶魔总裁 407（本书完！丑女妈咪等你来听喔！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 08 Sep 2021 07:00:01 GMT",
+      "feed_index": 407
+    }
+  ]
+}

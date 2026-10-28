@@ -1,0 +1,140 @@
+{
+  "show_id": "1488439861",
+  "feed_url": "http://www.ximalaya.com/album/19206387.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/19206387.xml",
+    "final_url": "http://www.ximalaya.com/album/19206387.xml",
+    "fetched_at": "2026-10-25T14:49:22.907904+00:00",
+    "status": 200,
+    "sha256": "73d1a524c89ef9e3d2fb9c152473d0fe4f539876853ea17f6aeed9cbf59cda26"
+  },
+  "status": "ok",
+  "title": {
+    "text": "TSP怪奇档案",
+    "truncated": false
+  },
+  "description": {
+    "text": "《TSP怪奇档案》（The Strange Profile）是一档集合了科幻 / 野史 / 中外神话 / 都市传说 等题材于一身的强趣味，强科普性质的脱口秀节目。由《凹凸电波》原班人马共同打造，希望在带给你冷门科普的同时，让你获得更多有趣的谈资。 本节目由播客厂牌——凹凸宇宙出品 weibo：凹凸电波 攻种号：凹凸电波 商务联系：[email removed] 版权所有，保留一切权利。禁止未经授权的二次上传、修改及任何商业用途，包括AI学习、采样或训练。基于本作品的二次创作，请在明确标注原始出处的前提下进行，感谢理解。如需举报侵权行为，请通过官方渠道向我们联系。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 346,
+  "episodes": [
+    {
+      "id": "bfb8b9e59106d8aa54ccaa742bc0a898e7235e60f2b16222786354a15d78f7d6",
+      "guid": "xmly_track_1026673307",
+      "title": {
+        "text": "闲话三国：孙策成功白手起家！吕布迎来高光时刻！",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：TAKO / 黄瓜 嘉宾：Siri 闲话三国系列继续～ 这一期我们要聊到江东创业天团！ 孙策的初创团队拿下好成绩 太史慈返场加入战斗 江东小霸王的彻底诞生 孙权的初登场 以及吕布哥哥终于变聪明了 一箭射出名场面！辕门射戟！ 袁术、刘备、吕布的三方博弈 最终又回走向什么方向？ BGM： 江东二乔 - 赵季平",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Oct 2026 12:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "69be1a0fcf58e55ec59328d4c4389a54978148c70d59bac7ffed590a4ed0a9bd",
+      "guid": "xmly_track_923925928",
+      "title": {
+        "text": "末日逃生：原创！丧尸来临，我选择居家开启囤货模式！",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：TAKO / 黄瓜 嘉宾：刘刘子 / siri 丧尸末日逃生系列继续！ 这次换了一位新主角 开启末日囤货避难模式！ 到底是把安全屋建在高层住宅 还是郊区独栋别墅 还是要找个深山的山洞？ 如何在有限的资源下 囤出无限的可能性？ 咱们来精打细算一波！ BGM： Mosaic - 高梨康治",
+        "truncated": false
+      },
+      "published_at": "Thu, 23 Oct 2025 12:00:00 GMT",
+      "feed_index": 49
+    },
+    {
+      "id": "8da93453f04f82548dd41a2a7eaf6a2c323a8789fc37f196dcac46dbeffc24ca",
+      "guid": "xmly_track_750724648",
+      "title": {
+        "text": "规则怪谈：兰街、云朵1号、木偶之家、取快递",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：TAKO / 黄瓜 / 芭比 规则怪谈系列 在中元节附近回归！ 《兰街》- TAKO原创 《云朵1号》- 小红薯 - 喵（怪谈作者） 《木偶之家》 - 小红薯 - 喵（ �BGM：�Mosaic - 高梨康治",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Aug 2024 12:00:00 GMT",
+      "feed_index": 99
+    },
+    {
+      "id": "22844a1492d5fafde05fdd428f912ad96cffb50c6d3d4a55a996824602c8e104",
+      "guid": "xmly_track_657302901",
+      "title": {
+        "text": "志怪故事：罗刹海市与古代坊间传闻",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：TAKO / 黄瓜 / 张老师 志怪故事系列来啦 羊践前缘 / 甲乙丙 / 苏某 / 藏魂坛 / 罗刹海市 BGM：猜灯谜 - 麦振鸿",
+        "truncated": false
+      },
+      "published_at": "Thu, 17 Aug 2023 12:00:00 GMT",
+      "feed_index": 148
+    },
+    {
+      "id": "f9bbf2b848e4a391adaa90ec9067b4ad7faa9c8ca24966a542d1d98a112797b9",
+      "guid": "xmly_track_564053603",
+      "title": {
+        "text": "规则类怪谈：标题是绝对绝对对对对安全全全是是的",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：TAKO / 黄瓜 / 芭比 规则类怪谈的呼声一直很高 今天就一起来分享和分析三篇 来源： 育英中学校园指南 A岛-作者：DH6oPBe 月落电影院 小红薯-作者：喵 银湖山墓园 zhi乎-作者：iexceed-我超 BGM： 人形の館 - 岩崎琢",
+        "truncated": false
+      },
+      "published_at": "Thu, 25 Aug 2022 12:00:00 GMT",
+      "feed_index": 197
+    },
+    {
+      "id": "c1dde61dc94c82a0559b034ba49c63b668222ea5cbb9fb9a04527e5fed8cfefd",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c06f-audiofreehighqps/82/FB/CKwRIaIEzxV0AUM0qQDMDn7i-aacv2-48K.m4a",
+      "title": {
+        "text": "玄学瞬间！事情怎会如此发展？",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：TAKO / 黄瓜 回顾我们的人生经历 会发现有好多玄学瞬间！ BGM： 風ト廃墟ノ散歩道 - 末廣健一郎",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Jul 2021 11:10:31 GMT",
+      "feed_index": 246
+    },
+    {
+      "id": "3c7d457d9a65d80cbffa4dca1f9a239b711a2870b1b1ae745dceeba28af135d6",
+      "guid": "https://aod.cos.tx.xmcdn.com/group80/M04/AA/A3/wKgPDF7PqRPgtgRrAZA8SIG6dk4779-aacv2-48K.m4a",
+      "title": {
+        "text": "平成时代少年犯罪第一惨案",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：飞面 / TAKO 绫濑水泥杀人案 为什么被称为 平成时代少年犯罪第一案 为什么又被日本高中生称为 绝对不能忘记的凶恶犯罪 BGM：Illabye - Tipper",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 May 2020 12:01:08 GMT",
+      "feed_index": 296
+    },
+    {
+      "id": "5265e84000c26956d9de2a8b563d66dd78d413ec7c22d453449995e2663d4b12",
+      "guid": "https://aod.cos.tx.xmcdn.com/group57/M03/E8/19/wKgLgVyA9XDRLIGbARki8ZOl9dA934-aacv2-48K.m4a",
+      "title": {
+        "text": "末日逃生指南 | 丧尸篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：飞面 / TAKO / 黄瓜 / 小刘 在瞎喆八扯的故事设定下 我们理性分析并讨论 假如把你扔进电影中的末世 你是否有勇气活到最后？ 难度指数：四星半 BGM：夕暮れ時の下校 - 横山克",
+        "truncated": false
+      },
+      "published_at": "Thu, 07 Mar 2019 15:59:00 GMT",
+      "feed_index": 345
+    }
+  ]
+}

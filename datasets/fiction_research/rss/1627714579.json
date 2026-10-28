@@ -1,0 +1,140 @@
+{
+  "show_id": "1627714579",
+  "feed_url": "https://www.ximalaya.com/album/68251427.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/68251427.xml",
+    "final_url": "https://www.ximalaya.com/album/68251427.xml",
+    "fetched_at": "2026-10-25T14:44:23.270317+00:00",
+    "status": 200,
+    "sha256": "c8bd012ebd10c1374a90c464c3d19578c5e2a85791d56bc50025e2812a993cd3"
+  },
+  "status": "ok",
+  "title": {
+    "text": "弃妃惊天下|上|免费|穿越架空|古言多人剧|女强",
+    "truncated": false
+  },
+  "description": {
+    "text": "某男 星眸微眯，“姑娘，我们是否在哪里见过？” 某女眼角一抽，“怎么可能，小女子从未踏出这大山半步。” 某男摇头，“不对，你很像我一个故人。” 某女否认，“小女子从未接触过陌生人。”",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 130,
+  "episodes": [
+    {
+      "id": "52645aa3dba823126773db9c780782ccc467a63d045dc3627a9b10718e75cd42",
+      "guid": "xmly_track_538825575",
+      "title": {
+        "text": "片花 弃妃惊天下新专辑《假面王妃》已上架，欢迎订阅收听",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 May 2022 01:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "442a6b337b2a6eb525722b376288b4e12f37c06a277a422548bf75d44edd2ed4",
+      "guid": "xmly_track_539987775",
+      "title": {
+        "text": "弃妃惊天下18未婚妻",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 11 Jun 2022 02:00:02 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "c28f9aab23e0e93de66a1a4cd90724ce3e6c14aa0d73f9258e5788b7ec812b69",
+      "guid": "xmly_track_543907377",
+      "title": {
+        "text": "弃妃惊天下37哪里见过",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 21 Jun 2022 02:00:00 GMT",
+      "feed_index": 37
+    },
+    {
+      "id": "b7159e46cc67ed1405a2c004a88b5bca1b99736020d025da8f743909a1cfb563",
+      "guid": "xmly_track_547598172",
+      "title": {
+        "text": "弃妃惊天下55被包围",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 30 Jun 2022 02:00:00 GMT",
+      "feed_index": 55
+    },
+    {
+      "id": "b5757a3eb9818cbc4908f08b91c86585143232510ff9368ea09012a191b6f1ca",
+      "guid": "xmly_track_550249906",
+      "title": {
+        "text": "弃妃惊天下74意味深长",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 09 Jul 2022 02:00:02 GMT",
+      "feed_index": 74
+    },
+    {
+      "id": "41ffa4288ca567c962597570dced17e7411447bbac0fe02fbe0a177b92da9481",
+      "guid": "xmly_track_553018646",
+      "title": {
+        "text": "弃妃惊天下92亲自出马 新专辑《废后不倾城》已上架，订阅点赞转发，参与抽奖",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 18 Jul 2022 02:00:02 GMT",
+      "feed_index": 92
+    },
+    {
+      "id": "521f46383d3de8fed2496711a2bcb84bb421df5702de3fa1e556bdafc6bdb615",
+      "guid": "xmly_track_556075742",
+      "title": {
+        "text": "弃妃惊天下111事关重大 新专辑《废后不倾城》已上架，订阅点赞转发，参与抽奖",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 Jul 2022 02:00:00 GMT",
+      "feed_index": 111
+    },
+    {
+      "id": "2875f55b055639feefbb5b71dc6d4ad8027aea3f847eb9639c3c32788724b9e0",
+      "guid": "xmly_track_558389246",
+      "title": {
+        "text": "弃妃惊天下129密报（完） 新专辑《复仇千金之血海归来》即将上线！欢迎继续收听！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 05 Aug 2022 02:00:04 GMT",
+      "feed_index": 129
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1527878804",
+  "feed_url": "https://feeds.soundon.fm/podcasts/d0f768b6-12f3-4825-a388-dd15b857775b.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/d0f768b6-12f3-4825-a388-dd15b857775b.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/d0f768b6-12f3-4825-a388-dd15b857775b.xml",
+    "fetched_at": "2026-10-25T14:50:27.221413+00:00",
+    "status": 200,
+    "sha256": "ca3836e5b0f4da5574571b9eff418116cdbaa31b4f7fec0f668f2c4a3650f639"
+  },
+  "status": "ok",
+  "title": {
+    "text": "生活在開悟的智慧中 中文有聲書頻道",
+    "truncated": false
+  },
+  "description": {
+    "text": "本書是聖尊 尼希亞南達·帕冉瑪希瓦上師所闡述的智慧精華第一卷。 在過去的五年裡，他評論了像《薄伽梵歌》這樣的偉大經文，對來自各界不同的團體發表了演講，並在課程中傳達了這些智慧的訊息，這本書是這些教導的精華。 如果你在這裡，這意味著\"存在\"希望你以這種形式存在。你不是個意 外，你是一個有意識的存在奇蹟。不要認為這是積極的想法，這是一個直接了當的真理。如果你相信這個真理，你將開始體驗人生的巔峰。 尼希亞南達華人媒體： Facebook:https://www.facebook.com/ParamahamsaNithyanandaChinese YouTube:https://www.youtube.com/channel/UCewpZIBPFGB8S53fZn-W4mg?view_as=subscriber IG:https://www.instagram.com/nithyananda.tw/?hl=zh-tw Email:[email removed] -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 27,
+  "episodes": [
+    {
+      "id": "e64ae7918ec651814ffa9e6d5c7e6a2f00b7a887d02b4a89d8ad5f8705e5775f",
+      "guid": "cca3d33b-d6a1-4a20-9839-e2f936e5cf6b",
+      "title": {
+        "text": "027 你是你的情緒-你是最好的，為什麼要比較呢?2",
+        "truncated": false
+      },
+      "description": {
+        "text": "但是當你在你生命中的某個時刻，你可能會意識到這是個毫無意義且 永無止境的遊戲。",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 Aug 2020 17:42:02 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "5e6fdd87641ac2a150cea704bf83a55a4ba81f7a1d9718d4810d440856198cc9",
+      "guid": "998388a3-d653-4d09-b2b7-cd27d305f074",
+      "title": {
+        "text": "023 你是你的情緒-罪惡感是原罪2",
+        "truncated": false
+      },
+      "description": {
+        "text": "你原本被設計成像一條河流一樣，自由的流動，但內疚就像水中的巨 石阻礙著你。社會巧妙的將快樂稱為罪過，那就是問題所在。這就是 為什麼當一切順利而愉快的時候，你會有一種潛在的內疚感。社會教 導你快樂和享受生活在某種程度上是不負責任的，所以你感到內疚。",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 Aug 2020 05:59:24 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "bb62bb711cbf6b4571a9c2f66e4de4c1b2a8bf7335258ceaf70edb2650596b58",
+      "guid": "f61f42e6-922e-4290-8764-0fd3d30198fb",
+      "title": {
+        "text": "020 你是你的情緒-慾望是一種動態的能量3",
+        "truncated": false
+      },
+      "description": {
+        "text": "從出生那一刻起，社會將你標記為男性或女性，它也希望你表現出應 有的行為。但內在的人性是圓滿，於是你開始向外尋找，來替代內在失去的一半。男孩開始尋找他女性的存在，女孩開始尋找她男性存 在，這就是性的概念開始的地方。",
+        "truncated": false
+      },
+      "published_at": "Mon, 24 Aug 2020 13:38:43 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "bb85670b4356bf9d2d63d60c8b92a0753393b900eaa343fead956859298f224a",
+      "guid": "0c679941-417f-458d-ba4e-9c4c2c7b3163",
+      "title": {
+        "text": "016 你是你的情緒-痛苦是一位偉大的老師1",
+        "truncated": false
+      },
+      "description": {
+        "text": "痛苦是一封請求信，由身體寫入內心要求“請注意 我!”因為注意力是能量。當你將注意力放在某個地方時，這個注意 力會成為這個地方的能量。當身體傳達疼痛時，它實際上是在尋求注 意力或能量，這會有助於它的痊癒。",
+        "truncated": false
+      },
+      "published_at": "Sat, 22 Aug 2020 12:00:05 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "8d6b7f28ef1bec16e4d97665772787975df1be77b895fb3840eb36806bdb150d",
+      "guid": "98a853ea-de59-495d-a9ad-e921cdf7d689",
+      "title": {
+        "text": "012 你是你的情緒-戰勝壓力1",
+        "truncated": false
+      },
+      "description": {
+        "text": "直到我們真正達到這種合一的狀態，我們會一直處於混亂中。我們真 實的本性與我們假裝並努力成為的人，這之間的混亂與困惑，就是我 們所說的壓力或緊張。",
+        "truncated": false
+      },
+      "published_at": "Thu, 20 Aug 2020 09:45:20 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "cfc129f503b8135bb588e773a2210dc62b46c8abce7e412ab16c16c019b4521c",
+      "guid": "6a54b1a1-2346-433b-94b3-504b6b2a4281",
+      "title": {
+        "text": "009 你是你的情緒-不用煩惱1",
+        "truncated": false
+      },
+      "description": {
+        "text": "阻止我們愛的，是我們在內心不 斷的煩惱及不安。無論事情是對還是錯，我們都擔心。沒有什麼比擔 心更具腐蝕性。",
+        "truncated": false
+      },
+      "published_at": "Tue, 18 Aug 2020 01:55:41 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "3c4ec48acc56aa792630f86f04f41dfbf6efe43a9a1ebd4f3f02bd0a5db757e3",
+      "guid": "a72a1a6a-c4ac-4099-999f-f8616484f378",
+      "title": {
+        "text": "005 你是你的情緒-在愛裡流動3",
+        "truncated": false
+      },
+      "description": {
+        "text": "如果宇宙是廣大的海洋，我們都是它的一部分，而不是海洋裡單一的 水滴，如果我們認為自己是單一的水滴，會受限在我們自己設定的疆 界及感覺中。這就是所謂的自我。我們將會被”我”及”我的”感覺 所驅動。只要這種分離存在，將永遠不可能感受到如海洋般愛的能 量。我們從來沒有感覺到那種沒有動機單純的愛。",
+        "truncated": false
+      },
+      "published_at": "Sun, 16 Aug 2020 13:48:48 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "6754f8e5ba789c4ee33197b8db250ffd0e75b70870cc033fa2b964a1d209cc90",
+      "guid": "e9aa5513-4736-4b2f-a072-31cf784517ce",
+      "title": {
+        "text": "001前言-生活在開悟的智慧中 有聲書男生朗讀版",
+        "truncated": false
+      },
+      "description": {
+        "text": "意識是覺察到我們的生活中，有比我們所追求的物質享樂還更多的東 西。意識是我們內心的強度，它告訴我們有比我們肉眼所看到還要更 高的東西。它是內在意識的燈塔，引導我們進入一種狀態，在這種狀 態下，我們意識到我們比我們想像的要強大。",
+        "truncated": false
+      },
+      "published_at": "Sat, 15 Aug 2020 15:19:44 GMT",
+      "feed_index": 26
+    }
+  ]
+}

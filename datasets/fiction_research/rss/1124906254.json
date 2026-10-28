@@ -1,0 +1,140 @@
+{
+  "show_id": "1124906254",
+  "feed_url": "http://www.ximalaya.com/album/4418514.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/4418514.xml",
+    "final_url": "http://www.ximalaya.com/album/4418514.xml",
+    "fetched_at": "2026-10-25T14:47:31.921250+00:00",
+    "status": 200,
+    "sha256": "d2631b6e4a91c126a67ef5afd6838ed805d36aecdd6aadd5dc774eded84ca49d"
+  },
+  "status": "ok",
+  "title": {
+    "text": "红楼梦诗词曲赋诵读集-陈喆",
+    "truncated": false
+  },
+  "description": {
+    "text": "《红楼梦诗词曲赋诵读集》收录了《红楼梦》中的诗、词、曲、赋、歌谣、古文、书札、谜语、酒令、联额、对句等体裁形式的文字。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 38,
+  "episodes": [
+    {
+      "id": "a133ff1166d4d6f2f1e740e5aff252178167b066af9b97072af7bc8aad29b743",
+      "guid": "https://aod.cos.tx.xmcdn.com/group13/M08/81/6B/wKgDXVdMOuGArucGAAeeXxBboW8733.m4a",
+      "title": {
+        "text": "01石上偈（iccw.cn）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《红楼梦诗词曲赋诵读集》收录了《红楼梦》中的诗、词、曲、赋、歌谣、古文、书札、谜语、酒令、联额、对句等体裁形式的文字。",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 May 2016 01:06:01 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "eb64ff59f71e9636d2253543e875537dd6fe0c8363782f921faca7f2732b6ae9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group13/M08/81/58/wKgDXldMOuLRkLWSAAHjZ_aHmwU627.m4a",
+      "title": {
+        "text": "06咏怀一联（iccw.cn）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《红楼梦诗词曲赋诵读集》收录了《红楼梦》中的诗、词、曲、赋、歌谣、古文、书札、谜语、酒令、联额、对句等体裁形式的文字。",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 May 2016 01:06:01 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "84d30c817863f1b84e99fd7a9b0ad8d9a2ec67b763be5fa3f0738a3f44b55ef8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group13/M08/81/6C/wKgDXVdMOuyznz5BAAHWMLQ4lMo337.m4a",
+      "title": {
+        "text": "12荣禧堂对联（iccw.cn）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《红楼梦诗词曲赋诵读集》收录了《红楼梦》中的诗、词、曲、赋、歌谣、古文、书札、谜语、酒令、联额、对句等体裁形式的文字。",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 May 2016 01:06:01 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "a58a525550a6642423c919ebd4d45a05f7457173cd09c4826bc09342da34f066",
+      "guid": "https://aod.cos.tx.xmcdn.com/group13/M08/81/6D/wKgDXVdMOvDQfxZdAAJC3DfRQss229.m4a",
+      "title": {
+        "text": "17秦氏卧房宋学士秦太虚所书对联（iccw.cn）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《红楼梦诗词曲赋诵读集》收录了《红楼梦》中的诗、词、曲、赋、歌谣、古文、书札、谜语、酒令、联额、对句等体裁形式的文字。",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 May 2016 01:06:01 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "15dfe871b06bb5113359d60b953c4e8b0bff2b65098607e706cde719016ceaa0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group13/M08/81/6E/wKgDXVdMOvzy_IbgAA5wVyo6UOA824-aacv2-48K.m4a",
+      "title": {
+        "text": "22金陵十二钗图册判词（上）（iccw.cn）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《红楼梦诗词曲赋诵读集》收录了《红楼梦》中的诗、词、曲、赋、歌谣、古文、书札、谜语、酒令、联额、对句等体裁形式的文字。",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 May 2016 01:06:01 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "24afef1d363e6d2556e714e5a7434f42c33c14f7ecbe56d2c75b79963b910075",
+      "guid": "https://aod.cos.tx.xmcdn.com/group15/M09/7F/E3/wKgDaFdMOx6jNdH_ACTrJBUfKaM895-aacv2-48K.m4a",
+      "title": {
+        "text": "27红楼梦曲（中）（iccw.cn）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《红楼梦诗词曲赋诵读集》收录了《红楼梦》中的诗、词、曲、赋、歌谣、古文、书札、谜语、酒令、联额、对句等体裁形式的文字。",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 May 2016 01:06:01 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "cf8a47099f1c302ce462f02808aaa1b8d8c38df67373a0e33bfc3f26a5584d20",
+      "guid": "https://aod.cos.tx.xmcdn.com/group15/M00/7F/AC/wKgDZVdMOyHxIl2wAAKg1ad4pK8792.m4a",
+      "title": {
+        "text": "33通灵宝玉吉谶（iccw.cn）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《红楼梦诗词曲赋诵读集》收录了《红楼梦》中的诗、词、曲、赋、歌谣、古文、书札、谜语、酒令、联额、对句等体裁形式的文字。",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 May 2016 01:06:01 GMT",
+      "feed_index": 32
+    },
+    {
+      "id": "8a38707302dc9f9b236d0ced8bf0e8d6b71fd15f912c9fb3266bd53ad848d730",
+      "guid": "https://aod.cos.tx.xmcdn.com/group15/M09/7F/E4/wKgDaFdMOybAISN-AAIhE6_UtHk092.m4a",
+      "title": {
+        "text": "38金紫万千谁治国（iccw.cn）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《红楼梦诗词曲赋诵读集》收录了《红楼梦》中的诗、词、曲、赋、歌谣、古文、书札、谜语、酒令、联额、对句等体裁形式的文字。",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 May 2016 01:06:01 GMT",
+      "feed_index": 37
+    }
+  ]
+}

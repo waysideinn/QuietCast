@@ -1,0 +1,140 @@
+{
+  "show_id": "1608665841",
+  "feed_url": "http://www.ximalaya.com/album/55625117.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/55625117.xml",
+    "final_url": "http://www.ximalaya.com/album/55625117.xml",
+    "fetched_at": "2026-10-25T14:43:48.234247+00:00",
+    "status": 200,
+    "sha256": "8389639551c0faa15989bbd96d96d40b09436e8dc1fa46b3da9158e93a8f0410"
+  },
+  "status": "ok",
+  "title": {
+    "text": "《绝命捞尸人》免费精彩双播",
+    "truncated": false
+  },
+  "description": {
+    "text": "捞尸人，这个听起来很诡异的职业，由于种种原因正在消失； 尽管我不知道为什么要坚持，可能有未完成的使命；也可能有一具等待千年的尸体；甚至是一场我未曾想过的阴谋 …… 总之，该来的终究还是来了；无论为了那份逝去的荣耀，还是别的； 我要坚持下去，一直坚持，直到……",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 180,
+  "episodes": [
+    {
+      "id": "67f1476d749a64ee20288acbdd3ccfb7ee466120c430489a7bb88ce1048650c5",
+      "guid": "xmly_track_483208125",
+      "title": {
+        "text": "《绝命捞尸人 》第一章 江底沉尸",
+        "truncated": false
+      },
+      "description": {
+        "text": "捞尸人，这个听起来很诡异的职业，由于种种原因正在消失； 尽管我不知道为什么要坚持，可能有未完成的使命；也可能有一具等待千年的尸体；甚至是一场我未曾想过的阴谋； …… 总之，该来的终究嗨是来了；无论为了那份逝去的荣耀，害死别的； 我要坚持下去，一直坚持，直到……",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Dec 2021 13:21:55 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "71bbf6c7d9086c017ffdc17110efb2a3f092b58f2e195cfc633e5375c642e461",
+      "guid": "xmly_track_491605388",
+      "title": {
+        "text": "《绝命捞尸人》第二十七章 不靠谱的指路",
+        "truncated": false
+      },
+      "description": {
+        "text": "说给你指条明路，但是真的是吗 ？",
+        "truncated": false
+      },
+      "published_at": "Wed, 12 Jan 2022 00:04:26 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "b7feafedad107b5695897e2c15048cd617971b41f9d463b138ebca29d72fba6c",
+      "guid": "xmly_track_499051734",
+      "title": {
+        "text": "《绝命捞尸人》第五十二章 血葬棺材",
+        "truncated": false
+      },
+      "description": {
+        "text": "钓鱼人带着王青和小鬼头来到鬼婴工厂时却发现了大量的血葬棺材。。。",
+        "truncated": false
+      },
+      "published_at": "Sat, 05 Feb 2022 06:07:42 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "1ccf3a4a2d204141a5a8347ee49e4f451e609f795e8ac3558de5cadd0036d29a",
+      "guid": "xmly_track_507081489",
+      "title": {
+        "text": "《绝命捞尸人》第七十八章 万鬼闹地桥",
+        "truncated": false
+      },
+      "description": {
+        "text": "王青和钓鱼人直闯阴尸海，遭遇地桥。。。",
+        "truncated": false
+      },
+      "published_at": "Wed, 02 Mar 2022 16:42:30 GMT",
+      "feed_index": 77
+    },
+    {
+      "id": "d8bceea7ac74efdd3339c0992b9fad1f1cdf90dd78f556f8b03dbeee632b114a",
+      "guid": "xmly_track_515416525",
+      "title": {
+        "text": "《绝命捞尸人》第一百零三章 开始于终结之后",
+        "truncated": false
+      },
+      "description": {
+        "text": "“恭喜两位有情人终成眷属。哪天开酒席，记得请我哦。” “对了，这个妹子，我得提醒你一句，王青的肾不是很好，别问我怎么知道的，你自己当心点。回头多补补，别把他用虚了哦。” 王青一脸蒙圈，整个故事开始于终结之后。。。",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Mar 2022 16:29:03 GMT",
+      "feed_index": 102
+    },
+    {
+      "id": "456f2eb7603f0bc0df9b24d18318e07c34a9b1bce2f8d77b30bac7dfcded9042",
+      "guid": "xmly_track_524259134",
+      "title": {
+        "text": "《绝命捞尸人》第一百二十九章 鬼舞尸跳",
+        "truncated": false
+      },
+      "description": {
+        "text": "廖明雪冷淡地说出这话，眼神里又一次有了那种杀机。我心里咯噔一下，感觉到她似乎还有很多话没有说。 但随着她的目光看去，却也被那三炷香给惊住。 就见，明明是我亲自点燃，亲自插上的它们，不但没有插上，反而浮空，底端更有轻微的颤动，仿佛跳舞似的。 再看向这口漆黑的棺材时，更有种说不出的诡异之感袭上我心头！",
+        "truncated": false
+      },
+      "published_at": "Thu, 21 Apr 2022 18:52:13 GMT",
+      "feed_index": 128
+    },
+    {
+      "id": "f794c3a14938d9dda2707169a909356bfedbb9a0fdca8d62904558847ab7cbaf",
+      "guid": "xmly_track_531068622",
+      "title": {
+        "text": "《绝命捞尸人》第一百五十四章 忘恩负义的后果",
+        "truncated": false
+      },
+      "description": {
+        "text": "对面的何七妹冲我不断冷笑。 笑得我心里发慌，却也开始隐隐有种直觉，只怕真正的大赢家就是老宋。 但也不愿被她这样讥讽。 于是，一边从密室寻找出路，一边搬来这里的桌椅板凳，将大门死死抵挡。同时，在何七妹的鬼魂之体伤势加剧，身上阴气鬼气不断流失时，也反过来讥笑她。 “怎么样？等死的滋味不好受吧？你求我，或者帮我一次忙，我就想法子带你出去，给你补充阴气鬼气。不然，忘恩负义的下场你应该懂的！”",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 May 2022 05:22:44 GMT",
+      "feed_index": 153
+    },
+    {
+      "id": "85cc3153540f3036d937485212bb99deadbe2f7bda7c10e44565e657fed9f326",
+      "guid": "xmly_track_538836626",
+      "title": {
+        "text": "《绝命捞尸人》第一百八十章 一夜成名",
+        "truncated": false
+      },
+      "description": {
+        "text": "正要侧面打探那个假涂青天是否在时，电话另一头的白莲花仿佛也知道这事，笑着告诉我那人绝对不在，而且，她可以保证我去了绝对没事。 一听这话，我和钓鱼人面面相觑，大感这女高手果然不一般。 随后钓鱼人建议我去试试看。 又说，白莲花和我爸关系很不错，而且她被冒充的可能性太低，又说这话，应该不是虚的！",
+        "truncated": false
+      },
+      "published_at": "Mon, 30 May 2022 16:30:11 GMT",
+      "feed_index": 179
+    }
+  ]
+}

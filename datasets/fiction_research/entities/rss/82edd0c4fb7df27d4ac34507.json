@@ -1,0 +1,158 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/33481389.xml",
+    "final_url": "http://www.ximalaya.com/album/33481389.xml",
+    "fetched_at": "2026-10-26T07:56:02.019061+00:00",
+    "status": 200,
+    "sha256": "8327b5a98e12d5ead55cc13f0a0cbd765e134d6b25f4607ce120a1f36ad557e6"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "儿童健康专业科普",
+      "truncated": false
+    },
+    "description": {
+      "text": "欢迎关注元气小医！ 专业的育儿指导 ，为孩子的健康保驾护航！ 这里有专业全面的儿童健康科普知识，由医生团队出品，科学育儿、轻松育儿，生活依旧可以元气满满！",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "广州风林火山网络科技有限公司 @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "元气小医"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "元气小医"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Health & Fitness"
+      ],
+      [
+        "Health & Fitness",
+        "Alternative Health"
+      ],
+      [
+        "Kids & Family"
+      ],
+      [
+        "Kids & Family",
+        "Parenting"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/33481389",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 83,
+    "episodes": [
+      {
+        "title": {
+          "text": "儿童家庭急救箱里应该有些什么？",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/storages/69f6-audiofreehighqps/92/B2/CMCoOSADo72vABpRbQBuyu0z.m4a"
+      },
+      {
+        "title": {
+          "text": "受伤流血了怎么办 — 指压止血法",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 12,
+        "guid": "https://aod.cos.tx.xmcdn.com/storages/d48e-audiofreehighqps/0E/F4/CMCoOScDiBLnABMzGQBnb5uz.m4a"
+      },
+      {
+        "title": {
+          "text": "儿童家庭急救箱里应该有些什么？",
+          "truncated": false
+        },
+        "description": {
+          "text": "儿童家庭急救药箱里应该有些什么？这是父母们都要掌握的，赶快来跟松果医生学习医学知识吧！",
+          "truncated": false
+        },
+        "feed_index": 23,
+        "guid": "https://aod.cos.tx.xmcdn.com/storages/67a6-audiofreehighqps/13/4D/CMCoOSIDbFW9ABpRbQBgrGWm.m4a"
+      },
+      {
+        "title": {
+          "text": "益生菌对人体有什么好处？",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 35,
+        "guid": "https://aod.cos.tx.xmcdn.com/group84/M0A/55/FC/wKg5JF8Wl2yjw0xJADil9fXolPk561.mp3"
+      },
+      {
+        "title": {
+          "text": "儿童家庭应急处理--眼内异物",
+          "truncated": false
+        },
+        "description": {
+          "text": "更多内容，欢迎关注松果医服微信号，微信搜索“松果医服”一站直达。",
+          "truncated": false
+        },
+        "feed_index": 47,
+        "guid": "https://aod.cos.tx.xmcdn.com/group74/M06/2F/9D/wKgO3F58YNWB11-fACwBrUYuRNk183.m4a"
+      },
+      {
+        "title": {
+          "text": "小朋友如何缓解眼疲劳",
+          "truncated": false
+        },
+        "description": {
+          "text": "更多内容，欢迎关注松果医服微信号，微信搜索“松果医服”一站直达。",
+          "truncated": false
+        },
+        "feed_index": 59,
+        "guid": "https://aod.cos.tx.xmcdn.com/group77/M00/27/D7/wKgO315rOEywI_yUACcEz6HpZvk875.m4a"
+      },
+      {
+        "title": {
+          "text": "孩子在家憋坏了想出去玩怎么办",
+          "truncated": false
+        },
+        "description": {
+          "text": "更多内容，欢迎关注松果医服微信号，微信搜索“松果医服”一站直达。 如果您对我们的节目有什么意见或建议，可以在节目下方留言，或通过微信号联系我们。",
+          "truncated": false
+        },
+        "feed_index": 70,
+        "guid": "https://aod.cos.tx.xmcdn.com/group75/M06/12/0D/wKgO015YvCyDI8heADDeZFMtmFg500.m4a"
+      },
+      {
+        "title": {
+          "text": "儿童防疫小贴士-孩子的口罩怎么选？",
+          "truncated": false
+        },
+        "description": {
+          "text": "松果医服，妈妈们的医生朋友。 了解最新疫情，学习新冠肺炎防护知识，请关注松果医服。",
+          "truncated": false
+        },
+        "feed_index": 82,
+        "guid": "https://aod.cos.tx.xmcdn.com/group70/M03/84/84/wKgOzl5CeI2yyJXTADLNVDlfh7E296.m4a"
+      }
+    ]
+  }
+}

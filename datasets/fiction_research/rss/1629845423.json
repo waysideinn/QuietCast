@@ -1,0 +1,140 @@
+{
+  "show_id": "1629845423",
+  "feed_url": "https://www.ximalaya.com/album/68740364.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/68740364.xml",
+    "final_url": "https://www.ximalaya.com/album/68740364.xml",
+    "fetched_at": "2026-10-25T14:44:27.517158+00:00",
+    "status": 200,
+    "sha256": "15112399a2a50ea085064c97069b9790dd5731f263cff46f5340fb557319da23"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【免费多播】桑恋 | 都市玄幻言情 | 三生三世仙界凡间",
+    "truncated": false
+  },
+  "description": {
+    "text": "仙缘未了凡尘续 下一世你一定要找到我 【每天15点，日更2集，订阅自动追更♀️】 13位CV大大联袂走心演绎，有笑有泪、有温情有悬疑，越到后面越精彩！ 记得订阅~ 每天陪你度过一段生动的时光✨ 欢迎评论~ 主播大大们在线翻牌宠粉哦~ ps 够多催更咱就加更!(偷瞄一眼后期大大) 【求订阅/关注/点赞/好评～么么哒】",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 91,
+  "episodes": [
+    {
+      "id": "53ed33e613bb9685919da9c8f61824ba19c537fed430ed6ae7e6c2671ad31d81",
+      "guid": "xmly_track_543296744",
+      "title": {
+        "text": "桑恋 片花｜三生三世 仙界凡间（主播期待你的评论哦~）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Jun 2022 07:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "7519072b46b33030101a2af08dd18b47775b4a9e552761358707be3219744113",
+      "guid": "xmly_track_543904145",
+      "title": {
+        "text": "桑恋 13集 金丝牢笼1 （你想象中的白露有哪个明星的脸呢？）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 17 Jun 2022 07:00:00 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "2f8bd69b3835a01e7f371835a7e5b59b1dc46ae1728758c523aa615da7612750",
+      "guid": "xmly_track_545604980",
+      "title": {
+        "text": "桑恋 26集 前世今生（高大的摩天轮，高大的桑恋树）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 23 Jun 2022 07:00:00 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "0d61679501c13b8b3dff011e38729cd95f5c7c6ee03a70a7a1b07794975916d9",
+      "guid": "xmly_track_547008677",
+      "title": {
+        "text": "桑恋 39集 寂静歌谣1 （你能体会白露的心情吗？）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Jun 2022 07:00:02 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "1e34cbad6ade27a0dead6fd2c1f98ef93cdfa236a8fc0e7436dd3451e317ba2a",
+      "guid": "xmly_track_548732746",
+      "title": {
+        "text": "桑恋 51集 烟火回忆2（彦皓对恩雅到底是什么感觉呢？）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Jul 2022 07:00:02 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "3357d0ba3654d07b783970eb570cb9d3ebbd381658bd5a06fbbaf618e266845e",
+      "guid": "xmly_track_550860174",
+      "title": {
+        "text": "桑恋 64集 不安的心1（喝了酒的宥天）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 Jul 2022 07:00:00 GMT",
+      "feed_index": 64
+    },
+    {
+      "id": "60e170aa16f2466cf92c01e1782717e0dc71e2f1792c514229575b2e6a1769af",
+      "guid": "xmly_track_552740953",
+      "title": {
+        "text": "桑恋 77集 一秋一红（你有喜欢的树或者花吗？）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 17 Jul 2022 07:00:02 GMT",
+      "feed_index": 77
+    },
+    {
+      "id": "b52e7d7808fc816f2e8db64e6e8c2f961a0735f35f2b8ce08e4a62df730ca05a",
+      "guid": "xmly_track_554279742",
+      "title": {
+        "text": "桑恋 彩蛋 恋之火（来打卡-这桑恋花的世界你曾来过）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 Jul 2022 07:00:04 GMT",
+      "feed_index": 90
+    }
+  ]
+}

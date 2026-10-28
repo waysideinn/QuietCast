@@ -1,0 +1,140 @@
+{
+  "show_id": "1447966275",
+  "feed_url": "http://www.ximalaya.com/album/20051786.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/20051786.xml",
+    "final_url": "http://www.ximalaya.com/album/20051786.xml",
+    "fetched_at": "2026-10-25T14:49:28.106617+00:00",
+    "status": 200,
+    "sha256": "8e2ac874c41c443914f07f274272f0a33e69d24641dfacbabaf96ba4e63210ff"
+  },
+  "status": "ok",
+  "title": {
+    "text": "健康减肥 | 减脂瘦身饮食养生",
+    "truncated": false
+  },
+  "description": {
+    "text": "主播：奕可，药学学士毕业，注册营养技师，公共营养师，健康管理师，中国营养师学会会员，广东省营养师协会荣誉会员。 在这里我会从 医学 、药学、中药学、 营养学 、 运动 学 及 康复学 等专业方向分享讲解养生调理的方法。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 214,
+  "episodes": [
+    {
+      "id": "668c57508f50a19babcbe556eb86892cd09d1e0949cefad2cf30b619ac7c9a1e",
+      "guid": "xmly_track_728606777",
+      "title": {
+        "text": "活该你瘦不下来，心态根本没有摆正！",
+        "truncated": false
+      },
+      "description": {
+        "text": "减肥绝不只是考验理论知识，心理问题可能比实际方法更值得关注! 错误的心理习惯可能比不当的饮食和运动计划还要致命！ 过度焦虑 自我惩罚 贪恋速效性 爱比较 情绪低落 减肥成功可能需要长时间饿耐心和心态，但坚持健康饿生活习惯，并以正确的心态面对各种挑战，最终我们一定可以燃烧脂肪，健康瘦身！",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 May 2024 15:00:18 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "da2a471ab8211f5750c9dfeb57c6da25f582486ae233939ac1d40ceeb70468d7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group86/M02/4A/7A/wKg5Jl77YMbD3eiDAB4yGLRsBKQ626.m4a",
+      "title": {
+        "text": "一天中体重变化很大，正常吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "关注“ 美吃营养 ” 公号 ，可免费获得：1.“ 评估身体 健康状态 ”；2.一次“ 锦虹一对一答疑解惑+制定调理方案 ”，每日15个名额。",
+        "truncated": false
+      },
+      "published_at": "Tue, 30 Jun 2020 15:56:50 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "62dc20ac169083acafe1dcec32b48732820e94301695431495ceb9c95543fe9f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group75/M01/85/21/wKgO3V6B6k7SSODbAC17io3K33U735.m4a",
+      "title": {
+        "text": "为什么减肥后你成了“黄脸婆”？",
+        "truncated": false
+      },
+      "description": {
+        "text": "关注“ 美吃营养 ” 公号 ，可免费获得：1.“ 评估身体 健康状态 ”；2.一次“ 锦虹一对一答疑解惑+制定调理方案 ”，每日15个名额。",
+        "truncated": false
+      },
+      "published_at": "Mon, 30 Mar 2020 12:47:00 GMT",
+      "feed_index": 61
+    },
+    {
+      "id": "4a98ae8aaff71e56660e68ebd7b28b1813465db7f682aab438880bd1a550d567",
+      "guid": "https://aod.cos.tx.xmcdn.com/group69/M08/94/B2/wKgMeV3ekN3wVlT7ACKohNyEqFY800.m4a",
+      "title": {
+        "text": "世上有没有不要运动不用少吃就能瘦的方法？",
+        "truncated": false
+      },
+      "description": {
+        "text": "关注“ 美吃营养 ” 公号 ，可免费获得：1.“ 评估身体 健康状态 ”；2.一次“ 锦虹一对一答疑解惑+制定调理方案 ”，每日15个名额。",
+        "truncated": false
+      },
+      "published_at": "Wed, 27 Nov 2019 15:06:08 GMT",
+      "feed_index": 91
+    },
+    {
+      "id": "c0a3d01bdbfe721ba6dd448fe6b9fa801b802f7749593ee796399ea139e55788",
+      "guid": "https://aod.cos.tx.xmcdn.com/group62/M06/30/78/wKgMcV0aI7bBwZtAADD7NO-SkbM601.m4a",
+      "title": {
+        "text": "重温千与千寻，吃胖会成猪？怎么办？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 01 Jul 2019 15:16:08 GMT",
+      "feed_index": 122
+    },
+    {
+      "id": "61f8843905c74d736f1db92461649511bf9936fd653f56545e0204ed6743a773",
+      "guid": "https://aod.cos.tx.xmcdn.com/group57/M03/E4/CA/wKgLd1yYwlOAr4r0AFFH9Xav1dM450-aacv2-48K.m4a",
+      "title": {
+        "text": "吃辣也能减肥？辣椒减肥法【瘦身干货】",
+        "truncated": false
+      },
+      "description": {
+        "text": "关注“ 美吃营养 ” 公号 ，可免费获得：1.“ 评估身体 健康状态 ”；2.一次“ 锦虹一对一答疑解惑+制定调理方案 ”，每日15个名额。",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Mar 2019 11:57:42 GMT",
+      "feed_index": 152
+    },
+    {
+      "id": "7d6e2a8610ae6c783bc35c877ff4dd4883c785231d63bcab77f7544bc1575d3b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group57/M07/3C/91/wKgLgVxhkjXB8UbLAFlecxH7Gd4394-aacv2-48K.m4a",
+      "title": {
+        "text": "出现不想上班的节后综合征怎么办？我教你几招【健康干货】",
+        "truncated": false
+      },
+      "description": {
+        "text": "关注“ 美吃营养 ” 公号 ，可免费获得：1.“ 评估身体 健康状态 ”；2.一次“ 锦虹一对一答疑解惑+制定调理方案 ”，每日15个名额。",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 Feb 2019 15:23:13 GMT",
+      "feed_index": 183
+    },
+    {
+      "id": "d8f96accd884b29aeadbe7d912db56bb0d91ab3e9621ce6fb72e75226063feea",
+      "guid": "https://aod.cos.tx.xmcdn.com/group52/M09/13/84/wKgLe1wWfuPj6xYUABusPJkv8_0160.m4a",
+      "title": {
+        "text": "自我介绍以及栏目初心",
+        "truncated": false
+      },
+      "description": {
+        "text": "关注“ 美吃营养 ” 公号 ，可免费获得：1.“ 评估身体 健康状态 ”；2.一次“ 锦虹一对一答疑解惑+制定调理方案 ”，每日15个名额。",
+        "truncated": false
+      },
+      "published_at": "Sun, 16 Dec 2018 16:39:03 GMT",
+      "feed_index": 213
+    }
+  ]
+}

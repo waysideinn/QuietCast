@@ -1,0 +1,140 @@
+{
+  "show_id": "1375417096",
+  "feed_url": "http://www.ximalaya.com/album/12260119.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/12260119.xml",
+    "final_url": "http://www.ximalaya.com/album/12260119.xml",
+    "fetched_at": "2026-10-25T14:48:47.989678+00:00",
+    "status": 200,
+    "sha256": "08c286d949d3b7d9c8cd97d43673250d88f4b991b0fd7fdf7d946a727c7ba3dd"
+  },
+  "status": "ok",
+  "title": {
+    "text": "《三国演义》细节解密",
+    "truncated": false
+  },
+  "description": {
+    "text": "揭秘三国，解密历史，还原三国里的人和事~ 吕布从何时爱上貂蝉，关羽何时开始用大刀？ 在桃园结义背后又有怎样的恐怖传说…… 大锤为你讲述的不仅是演义，更是真实的历史！ 《三国演义》细节解密音频栏目，各大音频平台同步更新。 微信公众号：大锤说史，文字版内容同步推出，欢迎关注~ 大锤粉丝群建立啦！ 大锤粉丝交流群已经建立啦！各位听友老爷可以添加群助手 VX：447925803178 进群！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 119,
+  "episodes": [
+    {
+      "id": "afe87d9a46b0d55a9aa2343103c93b21efafd84316cb886c03155827681fe820",
+      "guid": "https://aod.cos.tx.xmcdn.com/group36/M05/0D/2B/wKgJTVpA4YyTaOIDAFKIIdQ2lv8698-aacv2-48K.m4a",
+      "title": {
+        "text": "《三国演义细节解密》之一：吕布从什么时候开始爱貂蝉",
+        "truncated": false
+      },
+      "description": {
+        "text": "貂蝉是“四大美女”中唯一被虚构出来的，还经历了从1.0到2.0版本的过渡，那吕布是什么时候开始爱上她的呢？",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Dec 2017 11:31:04 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "5da192068b0d5b3b2076a565084b7fadd4311611a7012809e5bca5662946b70b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group41/M00/9F/C2/wKgJ8lrd1K2TYh3PAD7JxzoNT8w769-aacv2-48K.m4a",
+      "title": {
+        "text": "《三国演义细节解密》之十八：历史迷雾中的乌桓",
+        "truncated": false
+      },
+      "description": {
+        "text": "乌桓，我国北方的神秘民族，乌桓骑兵骁勇善战，二张叛乱如何能够说服这样一支力量？乌桓骑兵最后又如何被刘备所用？今天大锤说说历史迷雾中的乌桓~",
+        "truncated": false
+      },
+      "published_at": "Mon, 23 Apr 2018 12:42:45 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "7033dbdb2b4bc2361e5695aa9b04c05741d65bf9aa300b84fc2aabd6815272f1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group46/M01/6D/23/wKgKj1t5kXvzoj2QAEmZxX_7HrY800-aacv2-48K.m4a",
+      "title": {
+        "text": "《三国演义细节解密》之三十五：董卓为什么会派刘表主政荆州",
+        "truncated": false
+      },
+      "description": {
+        "text": "真实的刘表是什么样？曾经风光一时的刘表后来为何弃官逃跑？为什么说董卓让刘表迎来了人生的转折？今天大锤为你解密刘表~",
+        "truncated": false
+      },
+      "published_at": "Mon, 20 Aug 2018 12:00:04 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "87cf9ce6ad8efd626efd1b14ea79b2ae03b6c298c9c3367d7ddc8da0b57402d6",
+      "guid": "https://aod.cos.tx.xmcdn.com/group52/M07/2A/E0/wKgLe1wXm_aR11y_AEZa2w3370E858-aacv2-48K.m4a",
+      "title": {
+        "text": "《三国演义细节解密》之五十二：韩馥挖天坑，先坑自己后坑袁绍",
+        "truncated": false
+      },
+      "description": {
+        "text": "上回《三国细节解密》我们说到韩馥的败亡在于坐失良机，而其根本原因在于他给自己挖的一个巨坑，这个巨坑不但毁了自己还坑了袁绍，那么韩馥到底做了什么？大锤今天为您解密~",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Dec 2018 12:52:51 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "41828cc5188fb0d847771ff379586575702b5443630059bcd8a831c6280c70c2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group53/M06/F4/17/wKgLcVyrYJ6BBVHrAD7xJ5QN8GQ714-aacv2-48K.m4a",
+      "title": {
+        "text": "《三国演义细节解密》之六十七：青州的其他势力靠什么生存",
+        "truncated": false
+      },
+      "description": {
+        "text": "为什么说青州属于“得天独厚”的特殊地带？怎样的狠人才能在青州站住脚？大锤今天来说说孔融之外青州的另外两个狠人集团~",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 Apr 2019 14:54:27 GMT",
+      "feed_index": 67
+    },
+    {
+      "id": "b87b18b00135f7ca9a0c18f6e9ba2a407d6a320280cf36952fed239a824fad29",
+      "guid": "https://aod.cos.tx.xmcdn.com/group59/M00/E9/EF/wKgLel1ICPXDzrshAEGcMiEvq0c155-aacv2-48K.m4a",
+      "title": {
+        "text": "《三国演义细节解密》之八十四：吕布之死，罗贯中动了哪些手脚",
+        "truncated": false
+      },
+      "description": {
+        "text": "最后时刻，吕布如何让曹操占得上风？吕布又如何命丧白门楼？这段情节中，罗贯中又做了怎样的细节改动，他的目的又是什么呢？今天大锤为您继续解密三国~",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Aug 2019 12:20:00 GMT",
+      "feed_index": 84
+    },
+    {
+      "id": "53e0eeebf47ce1a98d306633864e54fe79a1817b197a2ccb1b3a0bbcf32e2c06",
+      "guid": "https://aod.cos.tx.xmcdn.com/group69/M0B/01/3E/wKgMeV3k4jeBTb4ZAEjWbHHF76U785-aacv2-48K.m4a",
+      "title": {
+        "text": "《三国演义细节解密》之一百零一：吕布在兖州为何陷入绝境",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期简介 濮阳之战后，曹操与吕布双方陷入僵持，最终因粮草耗尽被迫退兵。曹操军内已经发生人吃人的惨剧，吕布军队的状况又如何呢？吕布又将如何应对？本期节目，大锤和您聊聊吕布在兖州为何陷入绝境~ 大锤全新专辑上线 大锤的新专辑 《大锤说史：历史名人的AB面》（点击跳转） 在喜马拉雅正式上线了。 这部专辑会讲述上百位历史名人的精彩故事，挖掘他们身上不为人知的另一面。专辑计划更新200集，每周3-5集。欢迎您订阅收听。我们用声音，把历史的温度分享给您！ 大锤粉丝群建立啦！ 大锤粉丝交流群已经建立啦！各位听友老爷可以群助手VX：447925803178 进群！",
+        "truncated": false
+      },
+      "published_at": "Mon, 02 Dec 2019 12:00:32 GMT",
+      "feed_index": 101
+    },
+    {
+      "id": "4653ddfa3abd8ffc4ede9b5f8e35108202b03bf727b2134a19444c78594901c1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group79/M09/79/F1/wKgPEF7NDh_C94C6AEcydJvohUk334-aacv2-48K.m4a",
+      "title": {
+        "text": "《三国演义细节解密》之一百一十八：陈宫“反复无常”背后的秘密",
+        "truncated": false
+      },
+      "description": {
+        "text": "抢618红包 618红包大礼等你来拿，从现在起到21号之前，在淘宝app中搜索“锤哥发福利”这五个字，你就能得到大锤的专属购物红包以及抵扣券，每天都有三次机会抽取红包，红包金额最高可达618元！618和大锤一起天天领红包，一起买买买~ 本期简介 陈宫与曹操从之前的关系密切到致对方于死地，这其中剧烈的立场变化背后有怎样的秘密？本期节目，大锤和您说说陈宫立场转化动机的各种猜测~ 特别推荐 《大语文名师团：四大名著精讲》一套专门为中小学生创作的文学素养必修课程。《四大名著精讲》的老师都是来自北大北师大毕业的名师，制作精良，全集310讲，带孩子精读四大名著，培养孩子阅读原著的兴趣，提升理解程度，大家可以关注一下！ ↓↓↓【识别下方图中二维码即可收听】 大锤全新专辑上线 大锤的新专辑 《大锤说史：历史名人的AB面》（点击跳转） 在喜马拉雅正式上线了。 这部专辑会讲述上百位历史名人的精彩故事，挖掘他们身上不为人知的另一面。专辑计划更新200集，每周3-5集。欢迎您订阅收听。我们用声音，把历史的温度分享给您！ 大锤开启《细说中国》系列 《细说隋唐》（点击跳转） 听懂中国历史上的第二帝国 从隋文帝重新统一中国，到唐朝灭亡，隋唐三百多年的历史是中国历史上第二个大一统时期，中国文化在这段时间里进行了重塑，进入了成熟期。听懂隋唐史，才能理解今日中国的形成。 《细说宋朝》（点击跳转） 统摄全局，不仅限于宋",
+        "truncated": true
+      },
+      "published_at": "Tue, 26 May 2020 12:39:45 GMT",
+      "feed_index": 118
+    }
+  ]
+}

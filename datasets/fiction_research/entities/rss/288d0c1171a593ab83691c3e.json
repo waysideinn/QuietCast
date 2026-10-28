@@ -1,0 +1,138 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/5195135.xml",
+    "final_url": "http://www.ximalaya.com/album/5195135.xml",
+    "fetched_at": "2026-10-26T07:54:38.550726+00:00",
+    "status": 200,
+    "sha256": "cc26eca1a7e6b68fe1562c0b85955220464ca9ccabaec5f789b2486e991e3027"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "西方艺术故事",
+      "truncated": false
+    },
+    "description": {
+      "text": "这是一部充满趣味的西方艺术史书，作者独具匠心、精心润笔，以通俗晓畅的优美文字勾勒出了上自古希腊、下迄现代西方艺术的发展脉络，对构建西方艺术史诗的艺术大师、最具代表性的作品，及他们的人生传奇做了生动的描绘。当我们畅游干西方艺术的长河中时，艺术大师们非凡的人生与不朽的作品，都让我们叹为观止，而那些精彩华章，也已成为世界艺术宝库中不朽的瑰宝。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "文聘元 @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "听友58759166"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "听友58759166"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Arts"
+      ],
+      [
+        "Business"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/5195135",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 7
+    },
+    "feed_item_count": 7,
+    "episodes": [
+      {
+        "title": {
+          "text": "西方艺术故事－丢勒（上）",
+          "truncated": false
+        },
+        "description": {
+          "text": "这是一部充满趣味的西方艺术史书，作者独具匠心、精心润笔，以通俗晓畅的优美文字勾勒出了上自古希腊、下迄现代西方艺术的发展脉络，对构建西方艺术史诗的艺术大师、最具代表性的作品，及他们的人生传奇做了生动的描绘。当我们畅游干西方艺术的长河中时，艺术大师们非凡的人生与不朽的作品，都让我们叹为观止，而那些精彩华章，也已成为世界艺术宝库中不朽的瑰宝。",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group18/M0B/E2/56/wKgJKlfOeHbAehJUADigrEMtzpg428.m4a"
+      },
+      {
+        "title": {
+          "text": "西方艺术故事－丢勒（下）",
+          "truncated": false
+        },
+        "description": {
+          "text": "介绍丢勒的两幅版画《忧郁》和《启示录四骑士》",
+          "truncated": false
+        },
+        "feed_index": 1,
+        "guid": "https://aod.cos.tx.xmcdn.com/group20/M09/E3/C9/wKgJLFfO1EWxA4v3AD_d2RURXyI105.m4a"
+      },
+      {
+        "title": {
+          "text": "“农民画家”布鲁盖尔",
+          "truncated": false
+        },
+        "description": {
+          "text": "爱艺术爱生活！欢迎关注微信公众号，新浪微博。",
+          "truncated": false
+        },
+        "feed_index": 2,
+        "guid": "https://aod.cos.tx.xmcdn.com/group20/M05/E8/F7/wKgJJ1fQGBCQriGdAECSdvqZc_E056.m4a"
+      },
+      {
+        "title": {
+          "text": "独特无比的博思",
+          "truncated": false
+        },
+        "description": {
+          "text": "他多数的画作多在描绘罪恶与人类道德的沉沦。波希以恶魔、半人半兽甚至是机械的形象来表现人的邪恶。他的图画复杂，有高度的原创性、想像力，并大量使用各式的象征与符号，其中有些甚至在他的时代中也非常晦涩难解。波希被认为是20世纪的超现实主义的启发者之一",
+          "truncated": false
+        },
+        "feed_index": 3,
+        "guid": "https://aod.cos.tx.xmcdn.com/group19/M07/EF/DE/wKgJK1fSy2jh8nqwAEJsw8qUdAo585.m4a"
+      },
+      {
+        "title": {
+          "text": "油画的发明者－艾克兄弟",
+          "truncated": false
+        },
+        "description": {
+          "text": "请大家下载喜马拉雅APP，App 中聆听的同时可以看到画作的图片。欢迎大家”弹幕“交流。 1385年出生于荷兰 马斯特里赫特 附近的马塞克城，与同时期的胡伯特·凡·艾克（又译胡伯特·凡·爱克）合称为 凡·艾克兄弟 （又译 凡·爱克兄弟 ）。二人同为文艺复兴时期 尼德兰 的伟大画家，是尼德兰文艺复兴的奠基者。",
+          "truncated": false
+        },
+        "feed_index": 4,
+        "guid": "https://aod.cos.tx.xmcdn.com/group20/M08/F5/E3/wKgJLFfVcBGTVJguAELt_PDxUxs740.m4a"
+      },
+      {
+        "title": {
+          "text": "印象派的大师（上）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 5,
+        "guid": "https://aod.cos.tx.xmcdn.com/group18/M08/30/4F/wKgJKlfnmQ7xOhTBAGbq8Io2unc124.m4a"
+      },
+      {
+        "title": {
+          "text": "印象派的大师（下）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 6,
+        "guid": "https://aod.cos.tx.xmcdn.com/group20/M03/45/17/wKgJLFfufPWTTncDAE0PVlypih0348.m4a"
+      }
+    ]
+  }
+}

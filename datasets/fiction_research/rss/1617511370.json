@@ -1,0 +1,140 @@
+{
+  "show_id": "1617511370",
+  "feed_url": "http://www.ximalaya.com/album/60147487.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/60147487.xml",
+    "final_url": "http://www.ximalaya.com/album/60147487.xml",
+    "fetched_at": "2026-10-25T14:44:06.901647+00:00",
+    "status": 200,
+    "sha256": "b0ea0153f82dfc6937b5490ed353db33d262608b57e8c5a78c74b99a97cd76a8"
+  },
+  "status": "ok",
+  "title": {
+    "text": "《第一名媛：总裁逾期不候》—都市言情",
+    "truncated": false
+  },
+  "description": {
+    "text": "身为港城第一名媛，宋歌从未想过自己有生之年还会求人。更没有想到，所求之人会是她的“小竹马”——季子琛。大雪纷飞夜。她刚从母亲葬礼归来，便跪在自己丈夫门前，祈求他放过自己的爷爷。然而她得到的只是季子琛，冰凉到没有一点感情的交换条件——离婚。那一个深夜，大雪覆盖了双腿流出的殷红，却没有办法抹掉宋歌心中的伤痕。她用十年时间，去追逐季子琛的身影，却。。。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 96,
+  "episodes": [
+    {
+      "id": "62a8f6554d539eefc389ed6568c826f8a83ccc91777a81745a4d3dfdb2933af6",
+      "guid": "xmly_track_513308119",
+      "title": {
+        "text": "片花预告（欢迎评论订阅和分享哦~）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Mar 2022 14:00:48 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "a46016c081adc9a36b5cfad719d9ef16ec84e181c083c4e4270099c8078b2738",
+      "guid": "xmly_track_514647924",
+      "title": {
+        "text": "《第一名媛》第0014集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Mar 2022 11:43:31 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "0b967e61b123a7fb68cdb998b52d130eb62ba83a25220604f9903af9982d8a96",
+      "guid": "xmly_track_517731731",
+      "title": {
+        "text": "《第一名媛》第0027集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 09 Apr 2022 10:04:00 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "3024858653e37f4401d9d7d9adab71e48665380abd7db9cba270cc0c262236cb",
+      "guid": "xmly_track_517741316",
+      "title": {
+        "text": "《第一名媛》第0042集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 Apr 2022 10:04:00 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "d717075f9b3db4f6c6a95f37091221a7f00d7b2b80c4433c02a70c3b002d9438",
+      "guid": "xmly_track_517810853",
+      "title": {
+        "text": "《第一名媛》第0055集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 May 2022 14:40:00 GMT",
+      "feed_index": 54
+    },
+    {
+      "id": "51004b3691578251c00f693cf63f98f6e5b8cb288144b83c91ae879744fb5f62",
+      "guid": "xmly_track_530341997",
+      "title": {
+        "text": "《第一名媛》第0069集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 May 2022 05:59:00 GMT",
+      "feed_index": 68
+    },
+    {
+      "id": "992230ff2f78d4db34a03501b9cdcd05b8762dda3d4a3f85d14b301113a4e78a",
+      "guid": "xmly_track_530342533",
+      "title": {
+        "text": "《第一名媛》第0083集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 01 Jun 2022 05:59:00 GMT",
+      "feed_index": 81
+    },
+    {
+      "id": "227b5abc513e265d88159f34f92ab698e4eab3e43bab8d25468dd003b260444d",
+      "guid": "xmly_track_530342943",
+      "title": {
+        "text": "《第一名媛》第0099集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Jun 2022 05:59:00 GMT",
+      "feed_index": 95
+    }
+  ]
+}

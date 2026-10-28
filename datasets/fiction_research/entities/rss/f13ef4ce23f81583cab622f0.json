@@ -1,0 +1,161 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/6089565.xml",
+    "final_url": "http://www.ximalaya.com/album/6089565.xml",
+    "fetched_at": "2026-10-26T07:55:10.822093+00:00",
+    "status": 200,
+    "sha256": "0ed7a213982b3ecf233fd7aa34e46c7da29ef6d9af183e53c96e9d683c88fa74"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "晓蕾姐姐讲历史故事",
+      "truncated": false
+    },
+    "description": {
+      "text": "让孩子读靠谱的历史。全部来自专业正史，绝不戏说。 孩子 学历史的好处： 1、积累历史知识，宝贵的人生借鉴 2、培养独立思考，认识复杂社会 3、培养多元角度，理解他人 4、 培养 擅讲故事，说服他人 做一个胸怀宽广，有见识的中国人，应该要懂一些中国历史！",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "万象历史 @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "万象历史"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "万象历史"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Kids & Family"
+      ],
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "History"
+      ],
+      [
+        "Education"
+      ],
+      [
+        "Education",
+        "K-12"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/6089565",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 224,
+    "episodes": [
+      {
+        "title": {
+          "text": "224、邺城观战",
+          "truncated": false
+        },
+        "description": {
+          "text": "适合中小学生的历史读物！来自专业正史，绝不戏说！ 请关注微信公众号“万象读历史”。",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group79/M0A/6D/58/wKgPC17Y4-Dj8bn0AESjiuZB9Z4702-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "192、金戈铁马",
+          "truncated": false
+        },
+        "description": {
+          "text": "适合中小学生的历史读物！来自专业正史，绝不戏说！ 请关注微信公众号“万象读历史”。",
+          "truncated": false
+        },
+        "feed_index": 32,
+        "guid": "https://aod.cos.tx.xmcdn.com/group81/M0B/AE/8C/wKgPEl6xSwqQkPuvAEZW9owpk8M943.m4a"
+      },
+      {
+        "title": {
+          "text": "160、蓝田生玉",
+          "truncated": false
+        },
+        "description": {
+          "text": "适合中小学生的历史读物！来自专业正史，绝不戏说！ 请关注微信公众号“万象读历史”。",
+          "truncated": false
+        },
+        "feed_index": 64,
+        "guid": "https://aod.cos.tx.xmcdn.com/group41/M02/C6/66/wKgJ8Vqn67GBVsUgAEd4_LEDU5A420.m4a"
+      },
+      {
+        "title": {
+          "text": "128再通西域",
+          "truncated": false
+        },
+        "description": {
+          "text": "适合中小学生的历史读物！来自专业正史，绝不戏说！ 请关注微信公众号“万象读历史”。",
+          "truncated": false
+        },
+        "feed_index": 96,
+        "guid": "https://aod.cos.tx.xmcdn.com/group34/M0A/A3/FB/wKgJYVni50vCYFdmADddnYehzdI621.m4a"
+      },
+      {
+        "title": {
+          "text": "97盐铁专卖",
+          "truncated": false
+        },
+        "description": {
+          "text": "听故事，就要听真的故事！中小学生最爱的历史读物！ 请关注微信公众号“万象说历史”。",
+          "truncated": false
+        },
+        "feed_index": 127,
+        "guid": "https://aod.cos.tx.xmcdn.com/group29/M08/D7/FF/wKgJXVlgqAXCrZuIADxWwckHxic821.m4a"
+      },
+      {
+        "title": {
+          "text": "65鸿鹄之志",
+          "truncated": false
+        },
+        "description": {
+          "text": "听故事，就要听真的故事！中小学生最爱的历史读物！ 请关注微信公众号“万象说历史”。",
+          "truncated": false
+        },
+        "feed_index": 159,
+        "guid": "https://aod.cos.tx.xmcdn.com/group27/M07/24/B5/wKgJW1j7XcOC7CQvADjOMYrmRmk070.m4a"
+      },
+      {
+        "title": {
+          "text": "33张仪戏楚",
+          "truncated": false
+        },
+        "description": {
+          "text": "请关注微信公众号“万象说历史”。 公众号文章，除了有音频外，还有文本、视频、地图、思维导图、小朋友画的画等等，更丰富的内容，欢迎关注。",
+          "truncated": false
+        },
+        "feed_index": 191,
+        "guid": "https://aod.cos.tx.xmcdn.com/group23/M01/65/9C/wKgJL1iYcBrh5otUADPPMMN0AWU348.m4a"
+      },
+      {
+        "title": {
+          "text": "1一笑倾城",
+          "truncated": false
+        },
+        "description": {
+          "text": "适合中小学生的历史读物！来自专业正史，绝不戏说！ 请关注微信公众号“万象读历史”。",
+          "truncated": false
+        },
+        "feed_index": 223,
+        "guid": "https://aod.cos.tx.xmcdn.com/group27/M0B/52/6B/wKgJW1jotVySGr9-ADhHcEIAIpo270.m4a"
+      }
+    ]
+  }
+}

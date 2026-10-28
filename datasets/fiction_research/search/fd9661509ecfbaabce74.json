@@ -1,0 +1,423 @@
+{
+  "group": "boundary",
+  "term": "真实故事",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:46:37.192068+00:00",
+    "status": 200,
+    "sha256": "7c154ca50e42276e4e431761c043d9ed6283fdb44b27c71638eb4dfdfdde7589"
+  },
+  "result_count": 18,
+  "records": [
+    {
+      "collectionId": 1585467547,
+      "trackId": 1585467547,
+      "collectionName": "玄奇感人的真實故事(修煉故事)",
+      "artistName": "Minghui Radio",
+      "feedUrl": "https://feed.firstory.me/rss/user/cktdqh9yrs62j08807hlzl7ps",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%8E%84%E5%A5%87%E6%84%9F%E4%BA%BA%E7%9A%84%E7%9C%9F%E5%AF%A6%E6%95%85%E4%BA%8B-%E4%BF%AE%E7%85%89%E6%95%85%E4%BA%8B/id1585467547?uo=4",
+      "genres": [
+        "紀實",
+        "Podcast",
+        "社會與文化",
+        "科學",
+        "生命科學"
+      ],
+      "genreIds": [
+        "1543",
+        "26",
+        "1324",
+        "1533",
+        "1541"
+      ],
+      "trackCount": 32,
+      "releaseDate": "2026-08-14T13:29:00Z",
+      "country": "TWN",
+      "primaryGenreName": "紀實"
+    },
+    {
+      "collectionId": 1205474193,
+      "trackId": 1205474193,
+      "collectionName": "故事酒吧（陈光陈家恒主役）：真实故事换治愈之酒",
+      "artistName": "程涵729",
+      "feedUrl": "http://www.ximalaya.com/album/6419801.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%95%85%E4%BA%8B%E9%85%92%E5%90%A7-%E9%99%88%E5%85%89%E9%99%88%E5%AE%B6%E6%81%92%E4%B8%BB%E5%BD%B9-%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B%E6%8D%A2%E6%B2%BB%E6%84%88%E4%B9%8B%E9%85%92/id1205474193?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 426,
+      "releaseDate": "2019-04-26T08:45:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1532017519,
+      "trackId": 1532017519,
+      "collectionName": "青春不败|笑谈真实故事背后的现实",
+      "artistName": "学姐小李",
+      "feedUrl": "http://www.ximalaya.com/album/41623140.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9D%92%E6%98%A5%E4%B8%8D%E8%B4%A5-%E7%AC%91%E8%B0%88%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B%E8%83%8C%E5%90%8E%E7%9A%84%E7%8E%B0%E5%AE%9E/id1532017519?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "電視與電影",
+        "節目回顧"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1309",
+        "1562"
+      ],
+      "trackCount": 67,
+      "releaseDate": "2026-10-13T14:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1865332335,
+      "trackId": 1865332335,
+      "collectionName": "留学故事慧丨关于成长的真实故事",
+      "artistName": "西学千万里",
+      "feedUrl": "https://www.ximalaya.com/album/38773980.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%95%99%E5%AD%A6%E6%95%85%E4%BA%8B%E6%85%A7%E4%B8%A8%E5%85%B3%E4%BA%8E%E6%88%90%E9%95%BF%E7%9A%84%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B/id1865332335?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304"
+      ],
+      "trackCount": 129,
+      "releaseDate": "2026-10-10T03:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 6810171503,
+      "trackId": 6810171503,
+      "collectionName": "DeepEvolutions｜企业AI真实故事",
+      "artistName": "Toni｜DeepEvolutions",
+      "feedUrl": "https://www.ximalaya.com/album/130997734.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/deepevolutions-%E4%BC%81%E4%B8%9Aai%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B/id6810171503?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-10-07T15:28:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1874774871,
+      "trackId": 1874774871,
+      "collectionName": "八方斋·干活听 | 真实故事·历史点滴",
+      "artistName": "bafangzhaizhu",
+      "feedUrl": "https://www.ximalaya.com/album/58598479.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%AB%E6%96%B9%E6%96%8B-%E5%B9%B2%E6%B4%BB%E5%90%AC-%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B-%E5%8E%86%E5%8F%B2%E7%82%B9%E6%BB%B4/id1874774871?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "歷史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 549,
+      "releaseDate": "2026-08-27T01:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1883295554,
+      "trackId": 1883295554,
+      "collectionName": "【嚎叫派对】30+女性真实故事与社会热点",
+      "artistName": "我是小狼 和 神奇小七",
+      "feedUrl": "https://feed.xyzfm.space/gthe7lwefjnt",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%9A%8E%E5%8F%AB%E6%B4%BE%E5%AF%B9-30-%E5%A5%B3%E6%80%A7%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B%E4%B8%8E%E7%A4%BE%E4%BC%9A%E7%83%AD%E7%82%B9/id1883295554?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2026-10-07T15:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1546801105,
+      "trackId": 1546801105,
+      "collectionName": "真故编辑部",
+      "artistName": "真实故事计划",
+      "feedUrl": "http://www.ximalaya.com/album/45183550.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%9C%9F%E6%95%85%E7%BC%96%E8%BE%91%E9%83%A8/id1546801105?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 21,
+      "releaseDate": "2025-04-09T03:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1822242840,
+      "trackId": 1822242840,
+      "collectionName": "月半怪谈|真实灵异故事|鬼压床|恐怖悬疑",
+      "artistName": "月半怪谈",
+      "feedUrl": "https://feed.xyzfm.space/yrnnkf9lr789",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%88%E5%8D%8A%E6%80%AA%E8%B0%88-%E7%9C%9F%E5%AE%9E%E7%81%B5%E5%BC%82%E6%95%85%E4%BA%8B-%E9%AC%BC%E5%8E%8B%E5%BA%8A-%E6%81%90%E6%80%96%E6%82%AC%E7%96%91/id1822242840?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 11,
+      "releaseDate": "2025-10-01T05:24:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 6805887628,
+      "trackId": 6805887628,
+      "collectionName": "汽车之家综合业务里的车主故事与日常交流让汽车内容也拥有更多真实生活气息",
+      "artistName": "汽车之家综合业务里的车主故事与日常交流让汽车内容也拥有更多真实生活气息",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtbi1kam06a401u96j2bejdu",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E7%BB%BC%E5%90%88%E4%B8%9A%E5%8A%A1%E9%87%8C%E7%9A%84%E8%BD%A6%E4%B8%BB%E6%95%85%E4%BA%8B%E4%B8%8E%E6%97%A5%E5%B8%B8%E4%BA%A4%E6%B5%81%E8%AE%A9%E6%B1%BD%E8%BD%A6%E5%86%85%E5%AE%B9%E4%B9%9F%E6%8B%A5%E6%9C%89%E6%9B%B4%E5%A4%9A%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%B4%BB%E6%B0%94%E6%81%AF/id6805887628?uo=4",
+      "genres": [
+        "時尚與美容",
+        "Podcast",
+        "藝術",
+        "喜劇",
+        "脫口秀"
+      ],
+      "genreIds": [
+        "1459",
+        "26",
+        "1301",
+        "1303",
+        "1497"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-27T12:32:00Z",
+      "country": "TWN",
+      "primaryGenreName": "時尚與美容"
+    },
+    {
+      "collectionId": 1723638369,
+      "trackId": 1723638369,
+      "collectionName": "【免费】匪夷所思怪谈社｜短故事集｜奇闻｜真实",
+      "artistName": "乔居蓝星的猫儒",
+      "feedUrl": "https://www.ximalaya.com/album/79698731.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9-%E5%8C%AA%E5%A4%B7%E6%89%80%E6%80%9D%E6%80%AA%E8%B0%88%E7%A4%BE-%E7%9F%AD%E6%95%85%E4%BA%8B%E9%9B%86-%E5%A5%87%E9%97%BB-%E7%9C%9F%E5%AE%9E/id1723638369?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 51,
+      "releaseDate": "2024-01-30T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1772528638,
+      "trackId": 1772528638,
+      "collectionName": "犯罪大案纪实丨真实案件",
+      "artistName": "曲艺大剧院",
+      "feedUrl": "https://www.ximalaya.com/album/78299597.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E6%A1%88%E7%BA%AA%E5%AE%9E%E4%B8%A8%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BB%B6/id1772528638?uo=4",
+      "genres": [
+        "犯罪紀實",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1488",
+        "26"
+      ],
+      "trackCount": 315,
+      "releaseDate": "2024-04-01T12:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "犯罪紀實"
+    },
+    {
+      "collectionId": 1845639716,
+      "trackId": 1845639716,
+      "collectionName": "美国代孕故事-------一个中国人在美国经营代孕公司，分享亲身经历的真实的代孕故事",
+      "artistName": "洛杉矶涛哥",
+      "feedUrl": "https://rss.buzzsprout.com/2545792.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BE%8E%E5%9B%BD%E4%BB%A3%E5%AD%95%E6%95%85%E4%BA%8B-%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%BB%8F%E8%90%A5%E4%BB%A3%E5%AD%95%E5%85%AC%E5%8F%B8-%E5%88%86%E4%BA%AB%E4%BA%B2%E8%BA%AB%E7%BB%8F%E5%8E%86%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%BB%A3%E5%AD%95%E6%95%85%E4%BA%8B/id1845639716?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 26,
+      "releaseDate": "2026-09-22T02:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1773890301,
+      "trackId": 1773890301,
+      "collectionName": "灵澜诡卷语|灵异怪谈录故事集|睡前恐怖夜话试胆真实",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/83845731.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%81%B5%E6%BE%9C%E8%AF%A1%E5%8D%B7%E8%AF%AD-%E7%81%B5%E5%BC%82%E6%80%AA%E8%B0%88%E5%BD%95%E6%95%85%E4%BA%8B%E9%9B%86-%E7%9D%A1%E5%89%8D%E6%81%90%E6%80%96%E5%A4%9C%E8%AF%9D%E8%AF%95%E8%83%86%E7%9C%9F%E5%AE%9E/id1773890301?uo=4",
+      "genres": [
+        "喜劇小說",
+        "Podcast",
+        "小說",
+        "健康與瘦身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 347,
+      "releaseDate": "2025-01-24T03:34:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇小說"
+    },
+    {
+      "collectionId": 1748249804,
+      "trackId": 1748249804,
+      "collectionName": "泰國世中仙海外故事會",
+      "artistName": "打破無明見真實",
+      "feedUrl": "https://anchor.fm/s/f691daec/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B3%B0%E5%9C%8B%E4%B8%96%E4%B8%AD%E4%BB%99%E6%B5%B7%E5%A4%96%E6%95%85%E4%BA%8B%E6%9C%83/id1748249804?uo=4",
+      "genres": [
+        "宗教與精神生活",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1314",
+        "26"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2024-08-13T16:03:00Z",
+      "country": "TWN",
+      "primaryGenreName": "宗教與精神生活"
+    },
+    {
+      "collectionId": 1566091263,
+      "trackId": 1566091263,
+      "collectionName": "真实灵异故事",
+      "artistName": "有声大何",
+      "feedUrl": "https://papi.qingting.fm/podcast/channels/11060",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%9C%9F%E5%AE%9E%E7%81%B5%E5%BC%82%E6%95%85%E4%BA%8B/id1566091263?uo=4",
+      "genres": [
+        "犯罪紀實",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1488",
+        "26"
+      ],
+      "trackCount": 19,
+      "releaseDate": "2022-08-04T14:11:00Z",
+      "country": "TWN",
+      "primaryGenreName": "犯罪紀實"
+    },
+    {
+      "collectionId": 1567859804,
+      "trackId": 1567859804,
+      "collectionName": "躁鬱驗光師",
+      "artistName": "CindyLiao",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/7a66fe81-e17c-4ad4-a459-ab2e20a5f08c.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%BA%81%E9%AC%B1%E9%A9%97%E5%85%89%E5%B8%AB/id1567859804?uo=4",
+      "genres": [
+        "藝術",
+        "Podcast",
+        "喜劇"
+      ],
+      "genreIds": [
+        "1301",
+        "26",
+        "1303"
+      ],
+      "trackCount": 79,
+      "releaseDate": "2026-07-17T15:56:00Z",
+      "country": "TWN",
+      "primaryGenreName": "藝術"
+    },
+    {
+      "collectionId": 1763539749,
+      "trackId": 1763539749,
+      "collectionName": "中国刑侦大案纪实|真实案件|案件侦破实录",
+      "artistName": "大庞说故事",
+      "feedUrl": "https://www.ximalaya.com/album/78088550.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%9B%BD%E5%88%91%E4%BE%A6%E5%A4%A7%E6%A1%88%E7%BA%AA%E5%AE%9E-%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BB%B6-%E6%A1%88%E4%BB%B6%E4%BE%A6%E7%A0%B4%E5%AE%9E%E5%BD%95/id1763539749?uo=4",
+      "genres": [
+        "犯罪紀實",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1488",
+        "26"
+      ],
+      "trackCount": 123,
+      "releaseDate": "2024-04-08T08:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "犯罪紀實"
+    }
+  ]
+}

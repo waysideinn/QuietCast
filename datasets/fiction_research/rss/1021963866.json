@@ -1,0 +1,140 @@
+{
+  "show_id": "1021963866",
+  "feed_url": "http://www.ximalaya.com/album/323825.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/323825.xml",
+    "final_url": "http://www.ximalaya.com/album/323825.xml",
+    "fetched_at": "2026-10-25T14:46:55.334927+00:00",
+    "status": 200,
+    "sha256": "a2b627696d1cab185c9ccfc110ffaf39d6dce2f5fe11f55b96ae00f09c64dce8"
+  },
+  "status": "ok",
+  "title": {
+    "text": "文化媒体人",
+    "truncated": false
+  },
+  "description": {
+    "text": "最新节目在“充电时间”订阅号连载。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 125,
+  "episodes": [
+    {
+      "id": "d4395de4e74c572a769c15c1e197da749aacac669efdba18618746280ff8d9c6",
+      "guid": "xmly_track_636383543",
+      "title": {
+        "text": "人工智能赚不赚钱呢？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 24 May 2023 09:00:02 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "173586aad2d071162b109cc0decf0577f23a1d3f6d6a65daef5fa2ee8b8a3a68",
+      "guid": "https://aod.cos.tx.xmcdn.com/group28/M03/1F/63/wKgJSFlBASryPNHJADwajGgTWao201.m4a",
+      "title": {
+        "text": "环球要打造黑暗宇宙搞事情，《新木乃伊》表示压力山大-文化媒体人-第103集",
+        "truncated": false
+      },
+      "description": {
+        "text": "本节目由充电时间团队出品。 本期内容为您分析《木乃伊》系列重出江湖的背后原因； 本期节目关键词：电影宇宙，为您分析香港的电影宇宙。关注微信公众号：充电时间，回复关键词即可收到分析图文。 收听更多更精彩的充电时间会员节目，关注微信公众号：充电时间。",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Jun 2017 09:26:37 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "71e4f0b561042eda599026a0a0cbd98d30a487a7a5664cb07fb8e7151955fa89",
+      "guid": "https://aod.cos.tx.xmcdn.com/group12/M01/88/A2/wKgDW1dVR57hBkbqAJCpkWHWUJE210.mp3",
+      "title": {
+        "text": "魔兽电影未映先火，游戏改编电影真的迎来春天了吗？（上）-文化媒体人-第85集",
+        "truncated": false
+      },
+      "description": {
+        "text": "如果您觉得这节目还不错，欢迎加入 听众会员智识分子社群 ，详情请关注微信订阅号： 充电时间 。",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Jun 2016 09:51:49 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "696cddaaeb44c86fb7e66da24f56239081610674ef9b3df6a4e581e9d6aa7a2a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M09/3C/48/wKgDYlcE4h-Q43zwAHR7YM0nYi0844.mp3",
+      "title": {
+        "text": "为什么社群媒体，是自媒体人应该紧紧抱住的大腿？-文化媒体人-第67集",
+        "truncated": false
+      },
+      "description": {
+        "text": "如果您觉得这节目还不错，欢迎加入 听众会员智识分子社群 ，详情请关注微信订阅号： 充电时间 。",
+        "truncated": false
+      },
+      "published_at": "Wed, 06 Apr 2016 10:17:26 GMT",
+      "feed_index": 53
+    },
+    {
+      "id": "9f0dd3219e260f42fdc60ca142f18a77168088691ebe11d60e224a5598b63995",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M07/DD/A3/wKgDZlaKRwrSpK3EAHrO9y5nhCI222.mp3",
+      "title": {
+        "text": "朋友圈视频广告，谁才玩得转-文化媒体人-第49集",
+        "truncated": false
+      },
+      "description": {
+        "text": "如果您觉得这节目还不错，欢迎加入 听众会员智识分子社群 ，详情请关注微信订阅号： 充电时间 。",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Jan 2016 10:19:09 GMT",
+      "feed_index": 71
+    },
+    {
+      "id": "1d1ed44ec1a3a24b3c558fd10e0dc46e834c4b1fe28a3c0c728247cd39b8b5f8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group10/M02/7A/CC/wKgDaVYL5SuTjjFzAHLuo1fC5uI739.mp3",
+      "title": {
+        "text": "脑白金说：软文这么做才靠谱-文化媒体人-第31期",
+        "truncated": false
+      },
+      "description": {
+        "text": "如果您觉得这节目还不错，欢迎加入 听众会员智识分子社群 ，详情请关注微信订阅号： 充电时间 。",
+        "truncated": false
+      },
+      "published_at": "Thu, 01 Oct 2015 21:32:00 GMT",
+      "feed_index": 89
+    },
+    {
+      "id": "c7bfa887bfb6c317d525a3968b30b1404e82570685d7b97cd743db481076fe7d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group12/M06/53/3A/wKgDXFW4l_jCvYM7AFYS4koqVE0428.mp3",
+      "title": {
+        "text": "第17集-文化媒体人-网络频道：如何既当又立牌坊？",
+        "truncated": false
+      },
+      "description": {
+        "text": "如果您觉得这节目还不错，欢迎加入 听众会员智识分子社群 ，详情请关注微信订阅号： 充电时间 。",
+        "truncated": false
+      },
+      "published_at": "Wed, 29 Jul 2015 09:09:10 GMT",
+      "feed_index": 106
+    },
+    {
+      "id": "b9e5692213dc8a10eb5e426758b4e47fb3f76e31413446f40b71775a1b6a0179",
+      "guid": "https://aod.cos.tx.xmcdn.com/group11/M02/4B/ED/wKgDbVWvk3iDFA71AFuSPwZSojg833.m4a",
+      "title": {
+        "text": "充电时间-文化媒体人DEMO3",
+        "truncated": false
+      },
+      "description": {
+        "text": "如果您觉得这节目还不错，欢迎加入 听众会员智识分子社群 ，详情请关注微信订阅号： 充电时间 。",
+        "truncated": false
+      },
+      "published_at": "Thu, 08 Jan 2015 00:00:00 GMT",
+      "feed_index": 124
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/5141494.xml",
+    "final_url": "http://www.ximalaya.com/album/5141494.xml",
+    "fetched_at": "2026-10-26T07:54:32.255093+00:00",
+    "status": 200,
+    "sha256": "f694f5fdb5c2c8a8f6cf35e1adae2d0321c5fd93daea9fc8fdf21b22fba81d37"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "你值得拥有更好的自己丨青音心理访谈",
+      "truncated": false
+    },
+    "description": {
+      "text": "",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "心联网科技 @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "青音"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "青音"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Business"
+      ],
+      [
+        "Business",
+        "Careers"
+      ],
+      [
+        "Education"
+      ],
+      [
+        "Education",
+        "Education Technology"
+      ],
+      [
+        "Health"
+      ],
+      [
+        "Health",
+        "Self-Help"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/5141494",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 45,
+    "episodes": [
+      {
+        "title": {
+          "text": "我可以骂人（批评）吗？如何批评才会有效？丨青音心理访谈43",
+          "truncated": false
+        },
+        "description": {
+          "text": "如果大家想关注青音姐朋友圈分享的生活的小美好，或者其他大咖导师直播活动预告，收获更多课程福利，如：金句相关、优惠信息等 请添加 青音（只分享，不闲聊） 微信号，可打开微信，在添加好友中搜索青音姐的微信ID ：qingyin_3 也可以保存下图，到微信中识别二维码进行添加",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group32/M03/D8/1B/wKgJS1mlQkvgRwedAE6zNl1hmPU421-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "为什么我的运气总是那么差？丨青音心理访谈",
+          "truncated": false
+        },
+        "description": {
+          "text": "青音系列心理访谈《你值得拥有更好的自己》：“金话筒主播”青音邀请到“壹心理”创始人黄启团，共同聊聊那些困扰大家心灵的职场、情感话题。教你如何从生活的方方面面改变和提升你自己，你值得拥有更好的自己！ 每周三更新，欢迎订阅专辑，分享节目到朋友圈。 欢迎关注微信公众号： 青音约，参加心理自测 【青音约丨更好的自己】训练营成立了，你有以下2种方式，可以加入： ①、添加工作人员微信[contact removed]。备注：音符。 ②、将上图截屏保存（或点击上图 分享到微信“文件传输助手”后再打开微信，进行二维码识别），打开微信，点击右上角的“+”号→“扫一扫”，再点右上角的“相册”，识别这张截图，即可加入。 现已有上万名“音符”加入进群来学习 心理学知识 了，包含自我成长、家庭关系、心理抚慰、职业发展、亲密关系 5大模块，你也快加入吧，一起学习爱，爱自己，爱他人。",
+          "truncated": false
+        },
+        "feed_index": 6,
+        "guid": "https://aod.cos.tx.xmcdn.com/group29/M0A/6E/4A/wKgJWVkf6y-Qg3SUAHTPgMATKqE559-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "美女为什么爱野兽？丨青音心理访谈 30",
+          "truncated": false
+        },
+        "description": {
+          "text": "“金话筒奖”主播青音 对话心理导师黄启团，开启心理访谈节目《你值得拥有更好的自己》，本期话题： 美女为什么爱野兽？ 【青音约丨更好的自己】训练营成立了，现已有上万名“音符”加入进群来学习 心理学知识 了，包含 自我成长、家庭关系、心理抚慰、职业发展、亲密关系 5大模块，你也快加入吧。 你有以下3种方式，可以加入： ①、添加工作人员微信[contact removed] 。备注： 音符 。 ②、关注微信公众号“青音约”，点击公众号左下角的“学心理”，即可加入。 ③、将下图截屏保存（或点击下图 分享到微信“文件传输助手”后再打开微信，进行二维码识别），打开微信，点击右上角的“+”号→“扫一扫”，再点右上角的“相册”，识别这张截图，即可加入。",
+          "truncated": false
+        },
+        "feed_index": 13,
+        "guid": "https://aod.cos.tx.xmcdn.com/group27/M09/6F/E6/wKgJR1jSUevh15-7AFS3mqE0ZMo992-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "男人都是下半身动物吗？丨青音心理访谈 24",
+          "truncated": false
+        },
+        "description": {
+          "text": "“金话筒奖”主播青音 对话心理导师黄启团，开启心理访谈节目《你值得拥有更好的自己》，请听第24集： 男人都是下半身动物吗？ 【青音约丨更好的自己】训练营成立了，现已有数万名“音符”加入进群来学习 心理学知识 了，包含 自我成长、家庭关系、心理抚慰、职业发展、亲密关系 5大模块，你也快加入吧。 你有以下3种方式，可以加入： ①、添加工作人员微信[contact removed] 。备注： 音符 。 ②、关注微信公众号“青音约”，点击公众号左下角的“学心理”，即可加入。 ③、将下图截屏保存（或点击下图 分享到微信“文件传输助手”后再打开微信，进行二维码识别），打开微信，点击右上角的“+”号→“扫一扫”，再点右上角的“相册”，识别这张截图，即可加入。",
+          "truncated": false
+        },
+        "feed_index": 19,
+        "guid": "https://aod.cos.tx.xmcdn.com/group21/M00/6A/95/wKgJLVia22bjWGPgAGkQJKUX-qM298-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "为什么我在恋爱中总是遇到“渣男”？丨青音心理访谈 18",
+          "truncated": false
+        },
+        "description": {
+          "text": "“金话筒奖”主播青音 对话心理导师黄启团，开启心理访谈节目《你值得拥有更好的自己》，请听第18集： 为什么我在恋爱中总是遇到“渣男”？ 【青音约丨更好的自己】训练营成立了，现已有上万名“音符”加入进群来学习 心理学知识 了，包含 自我成长、家庭关系、心理抚慰、职业发展、亲密关系 5大模块，你也快加入吧。 你有以下3种方式，可以加入： ①、添加工作人员微信[contact removed] 。备注： 音符 。 ②、关注微信公众号“青音约”，点击公众号左下角的“训练营”，即可加入。 ③、将下图截屏保存（或点击下图 分享到微信“文件传输助手”后再打开微信，进行二维码识别），打开微信，点击右上角的“+”号→“扫一扫”，再点右上角的“相册”，识别这张截图，即可加入。",
+          "truncated": false
+        },
+        "feed_index": 25,
+        "guid": "https://aod.cos.tx.xmcdn.com/group24/M09/08/90/wKgJMFhjeBXDdjENAEqU3xdtM24731-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "我不会拍领导马屁，有错吗？丨青音心理访谈 12",
+          "truncated": false
+        },
+        "description": {
+          "text": "“金话筒奖”主播青音 对话心理导师黄启团，开启心理访谈节目《你值得拥有更好的自己》，请听第12集：我不会拍领导马屁，有错吗？ 【青音约丨更好的自己】训练营成立了，现已有上万名“音符”加入进群来学习 心理学知识 了，包含 自我成长、家庭关系、心理抚慰、职业发展、亲密关系 5大模块，你也快加入吧。 你有以下3种方式，可以加入： ①、添加工作人员微信[contact removed] 。备注： 音符 。 ②、关注微信公众号“青音约”，点击公众号左下角的“学心理”，即可加入。 ③、将下图截屏保存（或点击下图 分享到微信“文件传输助手”后再打开微信，进行二维码识别），打开微信，点击右上角的“+”号→“扫一扫”，再点右上角的“相册”，识别这张截图，即可加入。",
+          "truncated": false
+        },
+        "feed_index": 31,
+        "guid": "https://aod.cos.tx.xmcdn.com/group21/M0A/47/10/wKgJKFgsMlXiC1b1AFbSheBjEKo958-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "没有颜值 又双商欠费，我还有出路吗？ 丨青音心理访谈 05",
+          "truncated": false
+        },
+        "description": {
+          "text": "黄启团，资深心理学导师、壹心理创始人，青音对话黄启团，教你如何改变和提升自己，让你值得拥有更好的自己！ 请听第5集：没有颜值 又双商欠费，我还有出路吗？ 【青音约丨更好的自己】训练营成立了，现已有上万名“音符”加入进群来学习 心理学知识 了，包含 自我成长、家庭关系、心理抚慰、职业发展、亲密关系 5大模块，你也快加入吧。 你有以下3种方式，可以加入： ①、添加工作人员微信[contact removed] 。备注： 音符 。 ②、关注微信公众号“青音约”，点击公众号左下角的“学心理”，即可加入。 ③、将下图截屏保存（或点击下图 分享到微信“文件传输助手”后再打开微信，进行二维码识别），打开微信，点击右上角的“+”号→“扫一扫”，再点右上角的“相册”，识别这张截图，即可加入。",
+          "truncated": false
+        },
+        "feed_index": 38,
+        "guid": "https://aod.cos.tx.xmcdn.com/group18/M05/3C/93/wKgJJVfrcDrTMOTSAEcGcTZ0Cm8613-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "《你值得拥有更好的自己》预告片花",
+          "truncated": false
+        },
+        "description": {
+          "text": "青音系列心理访谈《你值得拥有更好的自己》：“金话筒主播”青音邀请到“壹心理”创始人黄启团，共同聊聊那些困扰大家心灵的职场、情感话题。教你如何从生活的方方面面改变和提升你自己，你值得拥有更好的自己！ 欢迎订阅专辑，分享节目。 如果大家想关注青音姐朋友圈分享的生活的小美好，或者其他大咖导师直播活动预告，收获更多课程福利，如：金句相关、优惠信息等 请添加 青音（只分享，不闲聊） 微信号，可打开微信，在添加好友中搜索青音姐的微信ID ：qingyin_3 也可以保存下图，到微信中识别二维码进行添加",
+          "truncated": false
+        },
+        "feed_index": 44,
+        "guid": "https://aod.cos.tx.xmcdn.com/group18/M0A/C9/DB/wKgJJVfFLu3DQzv7AATgddTLUxg165.m4a"
+      }
+    ]
+  }
+}

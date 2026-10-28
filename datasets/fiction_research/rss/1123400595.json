@@ -1,0 +1,140 @@
+{
+  "show_id": "1123400595",
+  "feed_url": "http://www.ximalaya.com/album/3481833.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/3481833.xml",
+    "final_url": "http://www.ximalaya.com/album/3481833.xml",
+    "fetched_at": "2026-10-25T14:47:28.080197+00:00",
+    "status": 200,
+    "sha256": "9e5b87ddb8cfba0816c274bcf89ccddfb7cd17315f529d1a7b5293a07392c0e2"
+  },
+  "status": "ok",
+  "title": {
+    "text": "《西游记》原著讲读（上）",
+    "truncated": false
+  },
+  "description": {
+    "text": "西游记的故事家喻户晓。大家都听说过大闹天宫，三打白骨精，可是你听过完整的《西游记》吗？你读过原著吗？你看得懂吗？多爸准备把这本原著带给大家，带给小朋友。你不仅将听到原著，还会听到多爸的解读，你还能听到多多姐姐和爸爸的互动。一定会很有意思。 另外，这本书有一百回。第一回，爸爸讲了两个星期。照这个速度，讲完这本书要用大概四年的时间。想象一下，你的一生有几个四年呢？这四年的时间将陪伴你成长。 还有，我们的讲书的速度一定会越来越快。因为随着我们的讲解，后面很多的内容、故事你一听就懂了，到那时，多爸就不会一句句去解释了。所以，你最好从一开始坚持每天听多爸讲故事。 如果你喜欢这个版本的《西游记》，记得关注多爸，记得点赞和评论。这样多爸会更加努力把这本书讲好的。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 101,
+  "episodes": [
+    {
+      "id": "7ca0fecf091df57442dab4c5bae1c8cc6bb5da4f8bf669f449da93ccdc7495a8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group16/M04/6C/B4/wKgDalc52p3w72jTAFwO-5qjjuc239.m4a",
+      "title": {
+        "text": "第二十五回 镇元仙赶捉取经僧 孙行者大闹五庄观 3",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 16 May 2016 14:34:45 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "56672ae95527898a9fc648de2430d8ddd63d82d01fc43218c2b138604ef51bb7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group14/M00/55/34/wKgDZFcfjPbS0kZ0AJWILYlIrjo106.m4a",
+      "title": {
+        "text": "第二十二回 八戒大战流沙河 木叉奉法收悟净 2",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 26 Apr 2016 15:44:55 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "4b10f11b3484f9b8dfc14ce2dc5d87ebf9196303d94efbed7821d3fdf1489efe",
+      "guid": "https://aod.cos.tx.xmcdn.com/group16/M0A/3E/E2/wKgDalcHshqCXnXtAIutrGog11c052.m4a",
+      "title": {
+        "text": "第十八回 观音院唐僧脱难 高老庄大圣除魔 2",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 08 Apr 2016 13:29:00 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "6bed9439b876c47bec96324d414624933fd455e78ecb2ede263526e6dd70608a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group15/M0B/1D/AF/wKgDaFbkLiTxOW1EAL8XH8TTVxU699.m4a",
+      "title": {
+        "text": "第十五回 蛇盘山诸神暗佑 鹰愁涧意马收缰 1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 12 Mar 2016 14:56:39 GMT",
+      "feed_index": 43
+    },
+    {
+      "id": "687ecf2293d39d92f20a48d52b8b20708026289be3cc67b5bb8a0a3aed101df0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group7/M0A/0C/97/wKgDX1bOWlnhrdjwAM_O5b3FxrY959.m4a",
+      "title": {
+        "text": "第十一回 还受生唐王遵善果 度孤魂萧禹正空门 3",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 25 Feb 2016 01:35:24 GMT",
+      "feed_index": 57
+    },
+    {
+      "id": "f5f7871129b6960606bd1b56b0d32a9253b301629691d4471ac2c13c6f2f64e2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group12/M00/FA/1E/wKgDW1ayB_XgYR5SAPUseI1NO-w259.m4a",
+      "title": {
+        "text": "第八回 我佛造经传极乐 观音奉旨上长安 4",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 03 Feb 2016 14:00:25 GMT",
+      "feed_index": 71
+    },
+    {
+      "id": "f22465d5a1813a4abaa11f4760abb54e41230e3378e3eed0e8e03c682fdc5533",
+      "guid": "https://aod.cos.tx.xmcdn.com/group14/M08/EA/BC/wKgDZFae3q6g2Vt8AXseeeIjB3w508.m4a",
+      "title": {
+        "text": "第四回 官封弼马心何足 名注齐天意未宁 1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Jan 2016 01:11:11 GMT",
+      "feed_index": 86
+    },
+    {
+      "id": "b4eed6c60925799f60f3dd3c0dcc4a565b7982f74d71e911e53b804e977452dc",
+      "guid": "https://aod.cos.tx.xmcdn.com/group7/M08/DA/31/wKgDX1aCmomipwMRAGhDi3OoGxI190.m4a",
+      "title": {
+        "text": "第一回 灵根育孕源流出 心性修持大道生 1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Dec 2015 14:38:02 GMT",
+      "feed_index": 100
+    }
+  ]
+}

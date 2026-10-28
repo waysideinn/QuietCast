@@ -1,0 +1,140 @@
+{
+  "show_id": "1125953267",
+  "feed_url": "http://www.ximalaya.com/album/4180445.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/4180445.xml",
+    "final_url": "http://www.ximalaya.com/album/4180445.xml",
+    "fetched_at": "2026-10-25T14:41:23.138457+00:00",
+    "status": 200,
+    "sha256": "8c1c4f88787e83b250307cc416bb2298f936d9c04d96117b2f45f5763361619b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "价值十亿总裁商战落地课堂",
+    "truncated": false
+  },
+  "description": {
+    "text": "千万不要让你的员工听见，否则他也会做老板了。 总裁商战落地课堂——马云、马化腾、柳传志等业界十位导师共同推荐 总裁商战落地课堂—— 千万家企业两年内实现财富百倍增长的秘籍 总裁商战落地课堂— ——中国走向世界的神奇力量",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 53,
+  "episodes": [
+    {
+      "id": "4dd00159c7b74cc36ec60b612378547bd5a9dda27887a55427909e1e58afc3b6",
+      "guid": "https://aod.cos.tx.xmcdn.com/group17/M0A/03/1C/wKgJKVd65smR65hIABEagCforeU113.m4a",
+      "title": {
+        "text": "让员工为结果负责任",
+        "truncated": false
+      },
+      "description": {
+        "text": "千万不要让你的员工听见，否则他也会做老板了。 总裁商战落地课堂——马云、马化腾、柳传志等业界十位导师共同推荐 总裁商战落地课堂——千万家企业两年内实现财富百倍增长的秘籍 总裁商战落地课堂",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Jul 2016 13:43:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "86d05e288101f17c4a1da55c2b073dc1f80b11d6d88652927c0ab4d307ea11c8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group14/M01/9A/D1/wKgDZFdpwHvwNc-wAA9mpKzLyok995.m4a",
+      "title": {
+        "text": "老板是公司最大的销售员46",
+        "truncated": false
+      },
+      "description": {
+        "text": "千万不要让你的员工听见，否则他也会做老板了。 总裁商战落地课堂——马云、马化腾、柳传志等业界十位导师共同推荐 总裁商战落地课堂——千万家企业两年内实现财富百倍增长的秘籍 总裁商战落地课堂",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Jun 2016 13:31:00 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "dea361ff6e0a2642b2704678778b9aae47cdc40b71f55ec7ab56606676137fb5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group10/M00/8C/D6/wKgDaVdbzLODJbs7AAtQUlkELfI427.m4a",
+      "title": {
+        "text": "找到伤口，就找到顾客的钱袋了37",
+        "truncated": false
+      },
+      "description": {
+        "text": "千万不要让你的员工听见，否则他也会做老板了。 总裁商战落地课堂——马云、马化腾、柳传志等业界十位导师共同推荐 总裁商战落地课堂——千万家企业两年内实现财富百倍增长的秘籍 总裁商战落地课堂",
+        "truncated": false
+      },
+      "published_at": "Sat, 11 Jun 2016 08:33:09 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "e45449cf6d026b5d1714650c7ab11cad7b5f7c66b1ab17325eb965b4ac4438f5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M07/7F/EC/wKgDYldLb7CRhXU5AA9dnK4e5zw995.m4a",
+      "title": {
+        "text": "如何打开慧眼，发现商机30",
+        "truncated": false
+      },
+      "description": {
+        "text": "千万不要让你的员工听见，否则他也会做老板了。 总裁商战落地课堂——马云、马化腾、柳传志等业界十位导师共同推荐 总裁商战落地课堂——千万家企业两年内实现财富百倍增长的秘籍 总裁商战落地课堂",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 May 2016 13:39:00 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "cc452072a89a90badfe9fb4778dbff9e09465b9e80f20c9481491f2ca6a6f824",
+      "guid": "https://aod.cos.tx.xmcdn.com/group8/M07/75/44/wKgDYFdCNKbieJDcAA8hzrD_UM8870.m4a",
+      "title": {
+        "text": "如何叫醒“装睡”人22",
+        "truncated": false
+      },
+      "description": {
+        "text": "千万不要让你的员工听见，否则他也会做老板了。 总裁商战落地课堂——马云、马化腾、柳传志等业界十位导师共同推荐 总裁商战落地课堂——千万家企业两年内实现财富百倍增长的秘籍 总裁商战落地课堂",
+        "truncated": false
+      },
+      "published_at": "Mon, 23 May 2016 13:36:00 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "8c28a67f8d7194ddc8de58d3f137a7b8714611722639c6bcfdac28c943c5f52c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group14/M09/6C/B2/wKgDY1c4-sTDHfW7ABTsKrpcvIU924.m4a",
+      "title": {
+        "text": "有智慧地善待员工16",
+        "truncated": false
+      },
+      "description": {
+        "text": "千万不要让你的员工听见，否则他也会做老板了。 总裁商战落地课堂——马云、马化腾、柳传志等业界十位导师共同推荐",
+        "truncated": false
+      },
+      "published_at": "Mon, 16 May 2016 14:00:03 GMT",
+      "feed_index": 37
+    },
+    {
+      "id": "eefe595043c9810881bb0223ced8cf26a1702a756a5e56311bb580a11b302a68",
+      "guid": "https://aod.cos.tx.xmcdn.com/group15/M08/5D/49/wKgDaFcrSQHzgK1lABoEeL7vkfs866.m4a",
+      "title": {
+        "text": "追求稳定，会越来越不稳定07",
+        "truncated": false
+      },
+      "description": {
+        "text": "千万不要让你的员工听见，否则他也会做老板了。 总裁商战落地课堂——马云、马化腾、柳传志等业界十位导师共同推荐 总裁商战落地课堂—— 千万家企业两年内实现财富百倍增长的秘籍 总裁商战落地课堂— ——中国走向世界的神奇力量",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 May 2016 13:36:52 GMT",
+      "feed_index": 45
+    },
+    {
+      "id": "cfaae37b1d636ffd928d75e0faabf9f0de7f918fef9701153d0e3791bb2efb71",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M02/55/77/wKgDZlcgzaTBDERtABQGnW0K_mc503.m4a",
+      "title": {
+        "text": "总裁商战落地课堂-序言",
+        "truncated": false
+      },
+      "description": {
+        "text": "千万不要让你的员工听见，否则他也会做老板了。 总裁商战落地课堂——马云、马化腾、柳传志等业界十位导师共同推荐 总裁商战落地课堂——千万家企业两年内实现财富百倍增长的秘籍 总裁商战落地课堂———中国走向世界的神奇力量",
+        "truncated": false
+      },
+      "published_at": "Wed, 27 Apr 2016 14:34:32 GMT",
+      "feed_index": 52
+    }
+  ]
+}

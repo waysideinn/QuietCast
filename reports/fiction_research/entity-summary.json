@@ -1,0 +1,881 @@
+{
+  "observationShows": 2072,
+  "excludedOriginalTestShows": 899,
+  "nameClusterCount": 1632,
+  "retainedNameClusters": 195,
+  "appleArtistEntityCount": 6,
+  "freshLookupShows": 164,
+  "showsWithArtistID": 34,
+  "rssEnrichedShows": 118,
+  "rightsNoticeClusters": 57,
+  "channelCount": 16,
+  "categoryDifferencesAcrossSnapshots": 0,
+  "hostCounts": {
+    "www.ximalaya.com": 985,
+    "cdn.lizhi.fm": 3,
+    "rss.lizhi.fm": 26,
+    "nyshalong.typlog.io": 1,
+    "era.emba.academy": 1,
+    "cnrdl.cnr.cn": 4,
+    "yokohiguchi.net": 1,
+    "juriarima.com": 1,
+    "inukaitv.com": 1,
+    "s2.proxy.wavpub.com": 2,
+    "www.omnycontent.com": 8,
+    "feeds.soundcloud.com": 10,
+    "odagiri01.com": 1,
+    "feeds.simplecast.com": 2,
+    "feeds.acast.com": 4,
+    "feeds.storyfm.cn": 3,
+    "meigen.koelab.net": 1,
+    "rss.art19.com": 1,
+    "anchor.fm": 217,
+    "nakatanihitomi.com": 1,
+    "feed.firstory.me": 282,
+    "feeds.transistor.fm": 3,
+    "ayurveda.koelab.net": 1,
+    "radiotalk.jp": 2,
+    "s1.proxy.wavpub.com": 5,
+    "rss.buzzsprout.com": 8,
+    "feed.mirrorvoice.com.tw": 3,
+    "null": 7,
+    "feed.xyzfm.space": 96,
+    "feeds.megaphone.fm": 20,
+    "feeds.soundon.fm": 265,
+    "podcasts.files.bbci.co.uk": 1,
+    "feed.podbean.com": 7,
+    "papi.qingting.fm": 7,
+    "ad.robotstart.jp": 1,
+    "www.mmharajuku.net": 1,
+    "hearthis.at": 1,
+    "www.open-art.co": 1,
+    "api.vistopia.com.cn": 3,
+    "proxy.wavpub.com": 2,
+    "feeds.captivate.fm": 6,
+    "lib.koelab.net": 1,
+    "api.hakkaradio.org.tw": 6,
+    "media.rss.com": 9,
+    "api.robotstart.jp": 2,
+    "www.ic975.com": 2,
+    "www.spreaker.com": 7,
+    "mp3mp4pdf.net": 2,
+    "www.ibo-ad.com": 1,
+    "stand.fm": 8,
+    "feed.sonicbowl.cloud": 2,
+    "laplace.live": 1,
+    "alioss.gcores.com": 2,
+    "feeds.castos.com": 1,
+    "thecreativeprocess.squarespace.com": 1,
+    "takahiro.koelab.link": 1,
+    "cloud.mave.digital": 1,
+    "podcast.santiago-mj.com": 1,
+    "feeds.redcircle.com": 2,
+    "www.patreon.com": 3,
+    "rss.libsyn.com": 1,
+    "podcast.locguy.com": 1,
+    "raw.githubusercontent.com": 1,
+    "oppos1122.github.io": 1,
+    "rss2.flightcast.com": 1,
+    "qingyuan.sakura.ne.jp": 1,
+    "futurewoman.seesaa.space": 1,
+    "news.un.org": 1,
+    "kimo.jp": 1,
+    "vitodsanti.podomatic.com": 1,
+    "legacy-www.abc.net.au": 1,
+    "q44qtpvdd8.coze.site": 1,
+    "podcastnasdaq.lordest.win": 1,
+    "podcasts.adrianhor.men": 1,
+    "paulkuo.tw": 1,
+    "theyaodi.com": 1,
+    "zeroegg.tw": 1,
+    "api.substack.com": 1,
+    "feed.cri.cn": 2,
+    "aezfm.meldingcloud.com": 1,
+    "www.sourcewadio.com": 1,
+    "www.w4j.org": 1,
+    "applehosted.podcasts.apple.com": 1
+  },
+  "topNameClusters": [
+    {
+      "name": "云鹿柔迩",
+      "discovered_show_count": 58,
+      "agent_metadata_review": {
+        "fiction": 5
+      },
+      "human": {},
+      "unlabeled_show_count": 53,
+      "portfolio_state": "observed_fiction_only_unverified",
+      "catalog_complete": false
+    },
+    {
+      "name": "带给听书",
+      "discovered_show_count": 58,
+      "agent_metadata_review": {
+        "fiction": 4,
+        "uncertain": 1
+      },
+      "human": {},
+      "unlabeled_show_count": 53,
+      "portfolio_state": "observed_fiction_only_unverified",
+      "catalog_complete": false
+    },
+    {
+      "name": "冷静之声",
+      "discovered_show_count": 37,
+      "agent_metadata_review": {
+        "fiction": 5
+      },
+      "human": {},
+      "unlabeled_show_count": 32,
+      "portfolio_state": "observed_fiction_only_unverified",
+      "catalog_complete": false
+    },
+    {
+      "name": "多云下的蛋",
+      "discovered_show_count": 23,
+      "agent_metadata_review": {
+        "nonfiction": 4,
+        "fiction": 1
+      },
+      "human": {},
+      "unlabeled_show_count": 18,
+      "portfolio_state": "observed_mixed",
+      "catalog_complete": false
+    },
+    {
+      "name": "文化放送PodcastQR",
+      "discovered_show_count": 17,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 17,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "斗罗斗破苍穹小说合集",
+      "discovered_show_count": 15,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 15,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "Santi",
+      "discovered_show_count": 11,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 11,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "云少讲故事",
+      "discovered_show_count": 7,
+      "agent_metadata_review": {
+        "fiction": 5
+      },
+      "human": {},
+      "unlabeled_show_count": 2,
+      "portfolio_state": "observed_fiction_only_unverified",
+      "catalog_complete": false
+    },
+    {
+      "name": "巨有文化",
+      "discovered_show_count": 7,
+      "agent_metadata_review": {
+        "nonfiction": 5
+      },
+      "human": {},
+      "unlabeled_show_count": 2,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "给小白白的有声书",
+      "discovered_show_count": 7,
+      "agent_metadata_review": {
+        "nonfiction": 5
+      },
+      "human": {},
+      "unlabeled_show_count": 2,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "千兰女性清醒成长",
+      "discovered_show_count": 6,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 6,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "喜游记",
+      "discovered_show_count": 6,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 6,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "有声的雪愿",
+      "discovered_show_count": 6,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 6,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "案夜",
+      "discovered_show_count": 6,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 6,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "炉火焰山",
+      "discovered_show_count": 6,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 6,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "594韵韵",
+      "discovered_show_count": 5,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 5,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "中廣新聞網NewsRadio",
+      "discovered_show_count": 5,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 5,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "千兰说女性清醒",
+      "discovered_show_count": 5,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 5,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "卡西有声",
+      "discovered_show_count": 5,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 5,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "方鸣远播",
+      "discovered_show_count": 5,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 5,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "梦想飞翔mx",
+      "discovered_show_count": 5,
+      "agent_metadata_review": {
+        "fiction": 2
+      },
+      "human": {},
+      "unlabeled_show_count": 3,
+      "portfolio_state": "observed_fiction_only_unverified",
+      "catalog_complete": false
+    },
+    {
+      "name": "锦鸣茶馆",
+      "discovered_show_count": 5,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 5,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "青莲嘚啵嘚",
+      "discovered_show_count": 5,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 5,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "骁尘",
+      "discovered_show_count": 5,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 5,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "Hi唐念念_悦念有声",
+      "discovered_show_count": 4,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 4,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "News98",
+      "discovered_show_count": 4,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 4,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "RULAI333",
+      "discovered_show_count": 4,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 4,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "曲艺大剧院",
+      "discovered_show_count": 4,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 4,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "梅酉金_鹿苑",
+      "discovered_show_count": 4,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 4,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    },
+    {
+      "name": "笔趣阁",
+      "discovered_show_count": 4,
+      "agent_metadata_review": {},
+      "human": {},
+      "unlabeled_show_count": 4,
+      "portfolio_state": "no_fiction_verified_in_labeled_sample",
+      "catalog_complete": false
+    }
+  ],
+  "artistEntities": [
+    {
+      "id": "apple-artist-694593627",
+      "name": "听喜马拉雅",
+      "aliases": [],
+      "namespace": "apple.podcasts.artist",
+      "stableIDs": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": "694593627",
+          "scope": "apple_artist_record_only"
+        }
+      ],
+      "role": "aggregated_provider",
+      "creatorDisplayNames": [
+        "365读书",
+        "DK会谈的D",
+        "剧舞吧配音社",
+        "听友28584122",
+        "听友55028590",
+        "喜游记",
+        "大斌",
+        "媒丽山海",
+        "幻思系",
+        "意公子",
+        "有声地理",
+        "然哥脱口秀",
+        "纪晓寂",
+        "罗问清",
+        "醉皇灵",
+        "雁天儿",
+        "青音",
+        "非星凡文化",
+        "食课堂",
+        "鹿小姐"
+      ],
+      "statistics": {
+        "discovered_show_count": 25,
+        "agent_metadata_review": {
+          "fiction": 8,
+          "nonfiction": 8,
+          "uncertain": 3
+        },
+        "human": {},
+        "unlabeled_show_count": 6,
+        "portfolio_state": "observed_mixed",
+        "catalog_complete": false
+      },
+      "showIDs": [
+        "1055974809",
+        "1063962111",
+        "1070100585",
+        "1074650165",
+        "1076239915",
+        "1084911410",
+        "1084911966",
+        "1084926346",
+        "1089038034",
+        "1089038036",
+        "1095188273",
+        "1101566191",
+        "1101566199",
+        "1115612886",
+        "1118206170",
+        "1118208455",
+        "1136986088",
+        "1146322285",
+        "1146322401",
+        "1150960423",
+        "1157803271",
+        "1170351486",
+        "1180461525",
+        "1191410221",
+        "1241282365"
+      ],
+      "sourceURLs": [
+        "https://podcasts.apple.com/cn/artist/%E5%90%AC%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85/694593627?uo=4"
+      ],
+      "evidence": [
+        {
+          "showID": "1055974809",
+          "artistName": "听友28584122",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1006510674%2C1006558032%2C1023646883%2C1031400642%2C1039668127%2C1055974809%2C1063962111%2C1070100585%2C1074650165%2C1086633716%2C1091928630%2C1095188273%2C1095957604%2C1097107152%2C1101566191%2C1101566199%2C1112466861%2C1115612886%2C1116858703%2C1118206170&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1006510674%2C1006558032%2C1023646883%2C1031400642%2C1039668127%2C1055974809%2C1063962111%2C1070100585%2C1074650165%2C1086633716%2C1091928630%2C1095188273%2C1095957604%2C1097107152%2C1101566191%2C1101566199%2C1112466861%2C1115612886%2C1116858703%2C1118206170&country=cn",
+            "fetched_at": "2026-10-26T07:52:21.761374+00:00",
+            "status": 200,
+            "sha256": "d1e46e13c73eb7c52007b4b7252db3ec0049f77b844beb8960147491ef17db0f"
+          }
+        },
+        {
+          "showID": "1063962111",
+          "artistName": "大斌",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1006510674%2C1006558032%2C1023646883%2C1031400642%2C1039668127%2C1055974809%2C1063962111%2C1070100585%2C1074650165%2C1086633716%2C1091928630%2C1095188273%2C1095957604%2C1097107152%2C1101566191%2C1101566199%2C1112466861%2C1115612886%2C1116858703%2C1118206170&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1006510674%2C1006558032%2C1023646883%2C1031400642%2C1039668127%2C1055974809%2C1063962111%2C1070100585%2C1074650165%2C1086633716%2C1091928630%2C1095188273%2C1095957604%2C1097107152%2C1101566191%2C1101566199%2C1112466861%2C1115612886%2C1116858703%2C1118206170&country=cn",
+            "fetched_at": "2026-10-26T07:52:21.761374+00:00",
+            "status": 200,
+            "sha256": "d1e46e13c73eb7c52007b4b7252db3ec0049f77b844beb8960147491ef17db0f"
+          }
+        },
+        {
+          "showID": "1070100585",
+          "artistName": "雁天儿",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1006510674%2C1006558032%2C1023646883%2C1031400642%2C1039668127%2C1055974809%2C1063962111%2C1070100585%2C1074650165%2C1086633716%2C1091928630%2C1095188273%2C1095957604%2C1097107152%2C1101566191%2C1101566199%2C1112466861%2C1115612886%2C1116858703%2C1118206170&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1006510674%2C1006558032%2C1023646883%2C1031400642%2C1039668127%2C1055974809%2C1063962111%2C1070100585%2C1074650165%2C1086633716%2C1091928630%2C1095188273%2C1095957604%2C1097107152%2C1101566191%2C1101566199%2C1112466861%2C1115612886%2C1116858703%2C1118206170&country=cn",
+            "fetched_at": "2026-10-26T07:52:21.761374+00:00",
+            "status": 200,
+            "sha256": "d1e46e13c73eb7c52007b4b7252db3ec0049f77b844beb8960147491ef17db0f"
+          }
+        },
+        {
+          "showID": "1074650165",
+          "artistName": "然哥脱口秀",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1006510674%2C1006558032%2C1023646883%2C1031400642%2C1039668127%2C1055974809%2C1063962111%2C1070100585%2C1074650165%2C1086633716%2C1091928630%2C1095188273%2C1095957604%2C1097107152%2C1101566191%2C1101566199%2C1112466861%2C1115612886%2C1116858703%2C1118206170&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1006510674%2C1006558032%2C1023646883%2C1031400642%2C1039668127%2C1055974809%2C1063962111%2C1070100585%2C1074650165%2C1086633716%2C1091928630%2C1095188273%2C1095957604%2C1097107152%2C1101566191%2C1101566199%2C1112466861%2C1115612886%2C1116858703%2C1118206170&country=cn",
+            "fetched_at": "2026-10-26T07:52:21.761374+00:00",
+            "status": 200,
+            "sha256": "d1e46e13c73eb7c52007b4b7252db3ec0049f77b844beb8960147491ef17db0f"
+          }
+        },
+        {
+          "showID": "1076239915",
+          "artistName": "365读书",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1820556105%2C1556612475%2C1492494108%2C1872395850%2C1763476180%2C1783470195%2C1763475973%2C1706855646%2C1757124062%2C1766015972%2C1753658083%2C1632724761%2C1763475643%2C1795651737%2C1482731836%2C1623136416%2C1712894972%2C1765520914%2C1765312732%2C1076239915&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1820556105%2C1556612475%2C1492494108%2C1872395850%2C1763476180%2C1783470195%2C1763475973%2C1706855646%2C1757124062%2C1766015972%2C1753658083%2C1632724761%2C1763475643%2C1795651737%2C1482731836%2C1623136416%2C1712894972%2C1765520914%2C1765312732%2C1076239915&country=cn",
+            "fetched_at": "2026-10-26T07:53:06.372330+00:00",
+            "status": 200,
+            "sha256": "176251b715a5c260d679aea582d3eecf73fec806615adbf0a511955ec613f360"
+          }
+        },
+        {
+          "showID": "1084911410",
+          "artistName": "喜游记",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1493254531%2C1508280313%2C1513873733%2C1513886709%2C1533523869%2C1604515992%2C1694270738%2C1694837275%2C1694843468%2C1694843934%2C1896334145%2C1896805545%2C1896848050%2C6788375051%2C6799072048%2C1084911410%2C1084911966%2C1084926346%2C1089038034%2C1089038036&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1493254531%2C1508280313%2C1513873733%2C1513886709%2C1533523869%2C1604515992%2C1694270738%2C1694837275%2C1694843468%2C1694843934%2C1896334145%2C1896805545%2C1896848050%2C6788375051%2C6799072048%2C1084911410%2C1084911966%2C1084926346%2C1089038034%2C1089038036&country=cn",
+            "fetched_at": "2026-10-26T07:52:37.641123+00:00",
+            "status": 200,
+            "sha256": "2c08cf3fa086a1c471a304ebfbb9319f70f93448c1837549f5250d1b354fc6de"
+          }
+        },
+        {
+          "showID": "1084911966",
+          "artistName": "喜游记",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1493254531%2C1508280313%2C1513873733%2C1513886709%2C1533523869%2C1604515992%2C1694270738%2C1694837275%2C1694843468%2C1694843934%2C1896334145%2C1896805545%2C1896848050%2C6788375051%2C6799072048%2C1084911410%2C1084911966%2C1084926346%2C1089038034%2C1089038036&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1493254531%2C1508280313%2C1513873733%2C1513886709%2C1533523869%2C1604515992%2C1694270738%2C1694837275%2C1694843468%2C1694843934%2C1896334145%2C1896805545%2C1896848050%2C6788375051%2C6799072048%2C1084911410%2C1084911966%2C1084926346%2C1089038034%2C1089038036&country=cn",
+            "fetched_at": "2026-10-26T07:52:37.641123+00:00",
+            "status": 200,
+            "sha256": "2c08cf3fa086a1c471a304ebfbb9319f70f93448c1837549f5250d1b354fc6de"
+          }
+        },
+        {
+          "showID": "1084926346",
+          "artistName": "喜游记",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1493254531%2C1508280313%2C1513873733%2C1513886709%2C1533523869%2C1604515992%2C1694270738%2C1694837275%2C1694843468%2C1694843934%2C1896334145%2C1896805545%2C1896848050%2C6788375051%2C6799072048%2C1084911410%2C1084911966%2C1084926346%2C1089038034%2C1089038036&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1493254531%2C1508280313%2C1513873733%2C1513886709%2C1533523869%2C1604515992%2C1694270738%2C1694837275%2C1694843468%2C1694843934%2C1896334145%2C1896805545%2C1896848050%2C6788375051%2C6799072048%2C1084911410%2C1084911966%2C1084926346%2C1089038034%2C1089038036&country=cn",
+            "fetched_at": "2026-10-26T07:52:37.641123+00:00",
+            "status": 200,
+            "sha256": "2c08cf3fa086a1c471a304ebfbb9319f70f93448c1837549f5250d1b354fc6de"
+          }
+        }
+      ],
+      "manualConfirmation": {
+        "status": "pending",
+        "confirmedBy": null,
+        "confirmedAt": null
+      },
+      "recommendedAction": "review",
+      "blockEligible": false,
+      "enabled": false
+    },
+    {
+      "id": "apple-artist-1532987095",
+      "name": "巨有文化",
+      "aliases": [],
+      "namespace": "apple.podcasts.artist",
+      "stableIDs": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": "1532987095",
+          "scope": "apple_artist_record_only"
+        }
+      ],
+      "role": "artist_account_role_unverified",
+      "creatorDisplayNames": [
+        "巨有文化"
+      ],
+      "statistics": {
+        "discovered_show_count": 5,
+        "agent_metadata_review": {
+          "nonfiction": 5
+        },
+        "human": {},
+        "unlabeled_show_count": 0,
+        "portfolio_state": "no_fiction_verified_in_labeled_sample",
+        "catalog_complete": false
+      },
+      "showIDs": [
+        "1493254531",
+        "1508280313",
+        "1513873733",
+        "1513886709",
+        "1533523869"
+      ],
+      "sourceURLs": [
+        "https://podcasts.apple.com/cn/artist/%E6%9C%89%E6%96%87%E5%8C%96%E7%94%B5%E5%8F%B0/1532987095?uo=4"
+      ],
+      "evidence": [
+        {
+          "showID": "1493254531",
+          "artistName": "巨有文化",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1493254531%2C1508280313%2C1513873733%2C1513886709%2C1533523869%2C1604515992%2C1694270738%2C1694837275%2C1694843468%2C1694843934%2C1896334145%2C1896805545%2C1896848050%2C6788375051%2C6799072048%2C1084911410%2C1084911966%2C1084926346%2C1089038034%2C1089038036&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1493254531%2C1508280313%2C1513873733%2C1513886709%2C1533523869%2C1604515992%2C1694270738%2C1694837275%2C1694843468%2C1694843934%2C1896334145%2C1896805545%2C1896848050%2C6788375051%2C6799072048%2C1084911410%2C1084911966%2C1084926346%2C1089038034%2C1089038036&country=cn",
+            "fetched_at": "2026-10-26T07:52:37.641123+00:00",
+            "status": 200,
+            "sha256": "2c08cf3fa086a1c471a304ebfbb9319f70f93448c1837549f5250d1b354fc6de"
+          }
+        },
+        {
+          "showID": "1508280313",
+          "artistName": "巨有文化",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1493254531%2C1508280313%2C1513873733%2C1513886709%2C1533523869%2C1604515992%2C1694270738%2C1694837275%2C1694843468%2C1694843934%2C1896334145%2C1896805545%2C1896848050%2C6788375051%2C6799072048%2C1084911410%2C1084911966%2C1084926346%2C1089038034%2C1089038036&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1493254531%2C1508280313%2C1513873733%2C1513886709%2C1533523869%2C1604515992%2C1694270738%2C1694837275%2C1694843468%2C1694843934%2C1896334145%2C1896805545%2C1896848050%2C6788375051%2C6799072048%2C1084911410%2C1084911966%2C1084926346%2C1089038034%2C1089038036&country=cn",
+            "fetched_at": "2026-10-26T07:52:37.641123+00:00",
+            "status": 200,
+            "sha256": "2c08cf3fa086a1c471a304ebfbb9319f70f93448c1837549f5250d1b354fc6de"
+          }
+        },
+        {
+          "showID": "1513873733",
+          "artistName": "巨有文化",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1493254531%2C1508280313%2C1513873733%2C1513886709%2C1533523869%2C1604515992%2C1694270738%2C1694837275%2C1694843468%2C1694843934%2C1896334145%2C1896805545%2C1896848050%2C6788375051%2C6799072048%2C1084911410%2C1084911966%2C1084926346%2C1089038034%2C1089038036&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1493254531%2C1508280313%2C1513873733%2C1513886709%2C1533523869%2C1604515992%2C1694270738%2C1694837275%2C1694843468%2C1694843934%2C1896334145%2C1896805545%2C1896848050%2C6788375051%2C6799072048%2C1084911410%2C1084911966%2C1084926346%2C1089038034%2C1089038036&country=cn",
+            "fetched_at": "2026-10-26T07:52:37.641123+00:00",
+            "status": 200,
+            "sha256": "2c08cf3fa086a1c471a304ebfbb9319f70f93448c1837549f5250d1b354fc6de"
+          }
+        },
+        {
+          "showID": "1513886709",
+          "artistName": "巨有文化",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1493254531%2C1508280313%2C1513873733%2C1513886709%2C1533523869%2C1604515992%2C1694270738%2C1694837275%2C1694843468%2C1694843934%2C1896334145%2C1896805545%2C1896848050%2C6788375051%2C6799072048%2C1084911410%2C1084911966%2C1084926346%2C1089038034%2C1089038036&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1493254531%2C1508280313%2C1513873733%2C1513886709%2C1533523869%2C1604515992%2C1694270738%2C1694837275%2C1694843468%2C1694843934%2C1896334145%2C1896805545%2C1896848050%2C6788375051%2C6799072048%2C1084911410%2C1084911966%2C1084926346%2C1089038034%2C1089038036&country=cn",
+            "fetched_at": "2026-10-26T07:52:37.641123+00:00",
+            "status": 200,
+            "sha256": "2c08cf3fa086a1c471a304ebfbb9319f70f93448c1837549f5250d1b354fc6de"
+          }
+        },
+        {
+          "showID": "1533523869",
+          "artistName": "巨有文化",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1493254531%2C1508280313%2C1513873733%2C1513886709%2C1533523869%2C1604515992%2C1694270738%2C1694837275%2C1694843468%2C1694843934%2C1896334145%2C1896805545%2C1896848050%2C6788375051%2C6799072048%2C1084911410%2C1084911966%2C1084926346%2C1089038034%2C1089038036&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1493254531%2C1508280313%2C1513873733%2C1513886709%2C1533523869%2C1604515992%2C1694270738%2C1694837275%2C1694843468%2C1694843934%2C1896334145%2C1896805545%2C1896848050%2C6788375051%2C6799072048%2C1084911410%2C1084911966%2C1084926346%2C1089038034%2C1089038036&country=cn",
+            "fetched_at": "2026-10-26T07:52:37.641123+00:00",
+            "status": 200,
+            "sha256": "2c08cf3fa086a1c471a304ebfbb9319f70f93448c1837549f5250d1b354fc6de"
+          }
+        }
+      ],
+      "manualConfirmation": {
+        "status": "pending",
+        "confirmedBy": null,
+        "confirmedAt": null
+      },
+      "recommendedAction": "review",
+      "blockEligible": false,
+      "enabled": false
+    },
+    {
+      "id": "apple-artist-1519998794",
+      "name": "远方中转站|治愈旅行",
+      "aliases": [],
+      "namespace": "apple.podcasts.artist",
+      "stableIDs": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": "1519998794",
+          "scope": "apple_artist_record_only"
+        }
+      ],
+      "role": "artist_account_role_unverified",
+      "creatorDisplayNames": [
+        "远方中转站|治愈旅行"
+      ],
+      "statistics": {
+        "discovered_show_count": 1,
+        "agent_metadata_review": {
+          "nonfiction": 1
+        },
+        "human": {},
+        "unlabeled_show_count": 0,
+        "portfolio_state": "no_fiction_verified_in_labeled_sample",
+        "catalog_complete": false
+      },
+      "showIDs": [
+        "1158667858"
+      ],
+      "sourceURLs": [
+        "https://podcasts.apple.com/cn/artist/%E6%92%AD%E5%AE%A2%E5%85%AC%E7%A4%BE/1519998794?uo=4"
+      ],
+      "evidence": [
+        {
+          "showID": "1158667858",
+          "artistName": "远方中转站|治愈旅行",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1118208455%2C1125953267%2C1130862082%2C1136986088%2C1146322285%2C1146322401%2C1150960423%2C1151635158%2C1156526309%2C1157803271%2C1158667858%2C1170351486%2C1180461525%2C1191409439%2C1191410221%2C1191425381%2C1201782184%2C1205474193%2C1206319092%2C1241282365&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1118208455%2C1125953267%2C1130862082%2C1136986088%2C1146322285%2C1146322401%2C1150960423%2C1151635158%2C1156526309%2C1157803271%2C1158667858%2C1170351486%2C1180461525%2C1191409439%2C1191410221%2C1191425381%2C1201782184%2C1205474193%2C1206319092%2C1241282365&country=cn",
+            "fetched_at": "2026-10-26T07:52:25.057213+00:00",
+            "status": 200,
+            "sha256": "8d1103d9cf48ccb94311bf8dd1a9224a0ca5cefc86baf69e62af3398332864d7"
+          }
+        }
+      ],
+      "manualConfirmation": {
+        "status": "pending",
+        "confirmedBy": null,
+        "confirmedAt": null
+      },
+      "recommendedAction": "review",
+      "blockEligible": false,
+      "enabled": false
+    },
+    {
+      "id": "apple-artist-1493542612",
+      "name": "GZM Shows",
+      "aliases": [],
+      "namespace": "apple.podcasts.artist",
+      "stableIDs": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": "1493542612",
+          "scope": "apple_artist_record_only"
+        }
+      ],
+      "role": "artist_account_role_unverified",
+      "creatorDisplayNames": [
+        "GZM Shows"
+      ],
+      "statistics": {
+        "discovered_show_count": 1,
+        "agent_metadata_review": {},
+        "human": {},
+        "unlabeled_show_count": 1,
+        "portfolio_state": "no_fiction_verified_in_labeled_sample",
+        "catalog_complete": false
+      },
+      "showIDs": [
+        "1348470106"
+      ],
+      "sourceURLs": [
+        "https://podcasts.apple.com/cn/artist/gen-z-media/1493542612?uo=4"
+      ],
+      "evidence": [
+        {
+          "showID": "1348470106",
+          "artistName": "GZM Shows",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1896327902%2C6785381482%2C1829138861%2C1758258377%2C1750133057%2C1826248721%2C1664345469%2C512426799%2C1691672217%2C1348470106%2C1777644913%2C1781425392%2C1764799515%2C1648306891%2C1760987392%2C1789413132%2C1698453574%2C1801532058%2C1801640212%2C1873579254&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1896327902%2C6785381482%2C1829138861%2C1758258377%2C1750133057%2C1826248721%2C1664345469%2C512426799%2C1691672217%2C1348470106%2C1777644913%2C1781425392%2C1764799515%2C1648306891%2C1760987392%2C1789413132%2C1698453574%2C1801532058%2C1801640212%2C1873579254&country=cn",
+            "fetched_at": "2026-10-26T07:53:03.178429+00:00",
+            "status": 200,
+            "sha256": "2119bc84e3e269bc6659dc482d3c23f24e86f7040a89e445676a4c7dc644b2f9"
+          }
+        }
+      ],
+      "manualConfirmation": {
+        "status": "pending",
+        "confirmedBy": null,
+        "confirmedAt": null
+      },
+      "recommendedAction": "review",
+      "blockEligible": false,
+      "enabled": false
+    },
+    {
+      "id": "apple-artist-121676617",
+      "name": "BBC Radio",
+      "aliases": [],
+      "namespace": "apple.podcasts.artist",
+      "stableIDs": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": "121676617",
+          "scope": "apple_artist_record_only"
+        }
+      ],
+      "role": "artist_account_role_unverified",
+      "creatorDisplayNames": [
+        "BBC Radio"
+      ],
+      "statistics": {
+        "discovered_show_count": 1,
+        "agent_metadata_review": {},
+        "human": {},
+        "unlabeled_show_count": 1,
+        "portfolio_state": "no_fiction_verified_in_labeled_sample",
+        "catalog_complete": false
+      },
+      "showIDs": [
+        "1492494108"
+      ],
+      "sourceURLs": [
+        "https://podcasts.apple.com/cn/artist/bbc/121676617?uo=4"
+      ],
+      "evidence": [
+        {
+          "showID": "1492494108",
+          "artistName": "BBC Radio",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1820556105%2C1556612475%2C1492494108%2C1872395850%2C1763476180%2C1783470195%2C1763475973%2C1706855646%2C1757124062%2C1766015972%2C1753658083%2C1632724761%2C1763475643%2C1795651737%2C1482731836%2C1623136416%2C1712894972%2C1765520914%2C1765312732%2C1076239915&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1820556105%2C1556612475%2C1492494108%2C1872395850%2C1763476180%2C1783470195%2C1763475973%2C1706855646%2C1757124062%2C1766015972%2C1753658083%2C1632724761%2C1763475643%2C1795651737%2C1482731836%2C1623136416%2C1712894972%2C1765520914%2C1765312732%2C1076239915&country=cn",
+            "fetched_at": "2026-10-26T07:53:06.372330+00:00",
+            "status": 200,
+            "sha256": "176251b715a5c260d679aea582d3eecf73fec806615adbf0a511955ec613f360"
+          }
+        }
+      ],
+      "manualConfirmation": {
+        "status": "pending",
+        "confirmedBy": null,
+        "confirmedAt": null
+      },
+      "recommendedAction": "review",
+      "blockEligible": false,
+      "enabled": false
+    },
+    {
+      "id": "apple-artist-311022607",
+      "name": "文化放送PodcastQR",
+      "aliases": [],
+      "namespace": "apple.podcasts.artist",
+      "stableIDs": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": "311022607",
+          "scope": "apple_artist_record_only"
+        }
+      ],
+      "role": "artist_account_role_unverified",
+      "creatorDisplayNames": [
+        "文化放送PodcastQR"
+      ],
+      "statistics": {
+        "discovered_show_count": 1,
+        "agent_metadata_review": {},
+        "human": {},
+        "unlabeled_show_count": 1,
+        "portfolio_state": "no_fiction_verified_in_labeled_sample",
+        "catalog_complete": false
+      },
+      "showIDs": [
+        "1507306726"
+      ],
+      "sourceURLs": [
+        "https://podcasts.apple.com/cn/artist/%E6%96%87%E5%8C%96%E6%94%BE%E9%80%81podcastqr/311022607?uo=4"
+      ],
+      "evidence": [
+        {
+          "showID": "1507306726",
+          "artistName": "文化放送PodcastQR",
+          "source": {
+            "url": "https://itunes.apple.com/lookup?id=1652605841%2C1657851921%2C1687955818%2C1692790013%2C1692794402%2C1485707007%2C1494068914%2C1507306726%2C1525845035%2C1542572069%2C1650507591%2C1716822386%2C1716825531%2C1717002782%2C1717003195%2C1525948730%2C1529468463%2C1544923739%2C1545432227%2C1558009581&country=cn",
+            "final_url": "https://itunes.apple.com/lookup?id=1652605841%2C1657851921%2C1687955818%2C1692790013%2C1692794402%2C1485707007%2C1494068914%2C1507306726%2C1525845035%2C1542572069%2C1650507591%2C1716822386%2C1716825531%2C1717002782%2C1717003195%2C1525948730%2C1529468463%2C1544923739%2C1545432227%2C1558009581&country=cn",
+            "fetched_at": "2026-10-26T07:52:34.257159+00:00",
+            "status": 200,
+            "sha256": "8592b23a3eb7f1143353f9eecc6bd4e4f810710bf5ccb262c9e2a6b76c518d80"
+          }
+        }
+      ],
+      "manualConfirmation": {
+        "status": "pending",
+        "confirmedBy": null,
+        "confirmedAt": null
+      },
+      "recommendedAction": "review",
+      "blockEligible": false,
+      "enabled": false
+    }
+  ],
+  "enabledPublisherBlockRules": 0,
+  "humanConfirmedPublisherAccounts": 0,
+  "artistIDMissingCaveat": "Baseline search cache did not retain artistId. Missing in a baseline-only row is not proof that the API omitted it."
+}

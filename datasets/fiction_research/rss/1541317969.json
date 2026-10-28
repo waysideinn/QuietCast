@@ -1,0 +1,140 @@
+{
+  "show_id": "1541317969",
+  "feed_url": "https://feed.firstory.me/rss/user/ckhq14cfz0y3q0811rou8380y",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckhq14cfz0y3q0811rou8380y",
+    "final_url": "https://feed.firstory.me/rss/user/ckhq14cfz0y3q0811rou8380y",
+    "fetched_at": "2026-10-25T14:55:30.778106+00:00",
+    "status": 200,
+    "sha256": "90e80b06c5e391b9da993e4b3b0aca98850607c106d37105863d0e7a6454b78d"
+  },
+  "status": "ok",
+  "title": {
+    "text": "雷蒙英文講台灣新聞Taiwan news",
+    "truncated": false
+  },
+  "description": {
+    "text": "精選每週國內外發生的新聞事件來分享該事件中、英文的說法 分別用中文+英文的解釋來說明適當的說法 本頻道是最適合台灣人的英文學習集新聞討論頻道 Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "episodic",
+    "explicit": "yes"
+  },
+  "feed_item_count": 125,
+  "episodes": [
+    {
+      "id": "9adec2636d53ad9bb0fdd04798d36ba80b787d39c7897bc4bc076b66803707e7",
+      "guid": "clbp5o0uq07g301s057cuau7t",
+      "title": {
+        "text": "雷蒙新聞英文2022.12.15",
+        "truncated": false
+      },
+      "description": {
+        "text": "1.Taiwan opinion poll shows support for immediate Cabinet reshuffle 台灣民意調查顯示支持立即改組內閣 2. Taiwan reports 10,000 passport applications per day 台灣報告每天有10,000份護照申請 3. Taiwan pastry chain ditches China market after being asked to provide recipe 台灣糕點連鎖店在被要求提供配方後退出中國市場 小額贊助支持本節目： https://open.firstory.me/user/ckhq14cfz0y3q0811rou8380y 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckhq14cfz0y3q0811rou8380y/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 15 Dec 2022 14:07:15 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "e24489ca93ee7759cf68538c8879b4ea01b13a062a9f4fad36703f708ca6dee0",
+      "guid": "cl900aggx03rg01x945saezrt",
+      "title": {
+        "text": "雷蒙新聞英文2022.10.06",
+        "truncated": false
+      },
+      "description": {
+        "text": "4. Jupiter to make closest approach to Earth in 59 years : Museum 木星將在 59 年內最接近地球：博物館 小額贊助支持本節目： https://open.firstory.me/user/ckhq14cfz0y3q0811rou8380y 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckhq14cfz0y3q0811rou8380y/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sat, 08 Oct 2022 14:23:03 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "8a80a174c3406485820efaa62c8fa41d81ff9b2ea944e765c8ae32ea8b5173ff",
+      "guid": "ckvqrrs8kk1yg0805kikg272y",
+      "title": {
+        "text": "英語教學新聞直播No.273 Business&Technology(電車免稅案延後&高端行國際試驗)-民國110.11.8",
+        "truncated": false
+      },
+      "description": {
+        "text": "5.Cabinet approves bill to extend EV license tax exemption-- CNN(11/4) 內閣批准延長電動汽車牌照免稅期的法案 6. Taiwan urges China to lift fruit suspension at WTO committee meeting（11/4）台灣敦促中國在世貿組織委員會會議上解除對台水果封鎖 7.Google donates US$1 million to fund media literacy initiatives in Taiwan -- CNN(11/4) 股溝捐贈 100 萬美元資助台灣的媒體素養計劃 8.WHO selects Taiwan's Medigen COVID-19 vaccine for international trial -- CNA （11/5）世衛組織選擇台灣的 Medigen COVID-19 疫苗進行國際試驗--CNA 小額贊助支持本節目： https://pay.firstory.me/user/raymond-yeh 留言告訴我你對這一集的想法： https://open.firstory.me/story/ckvqrrs8kk1yg0805kikg272y?m=comment Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 Nov 2021 14:38:21 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "b70ef5b79a269728e48eb8aab7c34088ee8b04017eabda28d7ac2af8efe1b1c4",
+      "guid": "ckur029s103u00853ty3c50vl",
+      "title": {
+        "text": "民國110.10.14新聞直播Entertainment/Sports",
+        "truncated": false
+      },
+      "description": {
+        "text": "9. Taiwan set to make World Ballet Day debut with Cloud Gate performance --TN(10/2)台灣將以雲門表演首次亮相世界芭蕾舞日 10. Taiwan's Indonesian community celebrates Batik Day in Taipei -- CNA(10/2) “台灣印尼社區在台北慶祝蠟染日 11. Taipei Marathon entrants can run mask-free with COVID-free certification (9/20) –CNN台北馬拉松參賽者可以通過無COVID認證進行無口罩跑步 12. Taiwan out of U-23 Baseball World Cup after defeated against Venezuela --CNN（9/27）台灣在被擊敗委內瑞拉後退出U-23棒球世界盃 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 14 Oct 2021 13:50:45 GMT",
+      "feed_index": 53
+    },
+    {
+      "id": "5b4f4a1f36e524d0c08fadfc882de2d30b39ffd380e389cb7412a805cd47245e",
+      "guid": "cktn0yosf93g60842zuiju1xo",
+      "title": {
+        "text": "110.9.16新聞直播Society",
+        "truncated": false
+      },
+      "description": {
+        "text": "3.Taipei bans barbecue at riverside parks during Mid-Autumn Festival--TPN(9/12) 台北禁止在中秋節期間在河濱公園燒烤 4.China's anger threshold is very low! Hsiao Meiqin gave an American speech \"Amazing Examples \", the audience applauded and laughed– CNN (9/14)中國怒點很低！ 蕭美琴美國演說「神舉例」 全場鼓掌大笑 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Sep 2021 14:25:10 GMT",
+      "feed_index": 71
+    },
+    {
+      "id": "0a9b74f841d08e8e1278129118f2515f130815af71370dc7d052115626412428",
+      "guid": "ckskfz4dljbrg0822bmg8romj",
+      "title": {
+        "text": "10.8.20新聞直播Business",
+        "truncated": false
+      },
+      "description": {
+        "text": "5. Vegetable prices rise to new year high amid Ghost Month demand -- CNN (8/18) 在鬼月期間需求下蔬菜價格升至新年新高 6. Southern Taiwan city’s pomelo harvest expected to increase by 5% --TN（8/18） 台灣南部城市柚子收成有望增長5% Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 20 Aug 2021 14:22:24 GMT",
+      "feed_index": 89
+    },
+    {
+      "id": "ba29eb3a0208a17585e61bc73f79ba02b36c731dfad41014eefeb8d59b1d0685",
+      "guid": "ckjsqcgyqnss30b38gtyw31l3",
+      "title": {
+        "text": "2021.1.11#碧昂絲將捐出 50 萬美元給受到驅逐危機影響的人#必看紀錄片聚焦餐廳業主在疫情期間的窘境#羅傑費德勒退出 2021 年澳洲公開賽#【籃球】對戰邁阿密熱火大爆發 密爾瓦基公鹿創下三分",
+        "truncated": false
+      },
+      "description": {
+        "text": "Entertainment 9.Beyoncé to donate $500,000 to people impacted by the eviction crisis -- CNN (1/2) 碧昂絲將捐出 50 萬美元給受到驅逐危機影響的人 10. Must-watch documentary puts spotlight on restaurant owners' pandemic plights -- CNN(1/3) 必看紀錄片聚焦餐廳業主在疫情期間的窘境 Sports 11.Roger Federer withdraws from 2021 Australian Open -- CNN(1/3) 羅傑費德勒退出 2021 年澳洲公開賽 12.Milwaukee Bucks set 3-point record in blowout against Miami Heat -- CNN(1/5)【籃球】對戰邁阿密熱火大爆發 密爾瓦基公鹿創下三分球紀錄 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 Jan 2021 15:37:31 GMT",
+      "feed_index": 106
+    },
+    {
+      "id": "91977d2c1ca72566699bd25bd1c5093ef6b05236c49a35a3dbaae38a485158d4",
+      "guid": "ckhq69uy21m520898eg4gvo73",
+      "title": {
+        "text": "2020.12.2首播(FB:English/YT:雷蒙/podcast:雷蒙新聞英文)",
+        "truncated": false
+      },
+      "description": {
+        "text": "2019.8月,雷蒙開始在YT直播新聞英文教學, 主要內容是藉由每週國內外發生的大事, 將其編輯成適合國高中甚至大學生的英文, 在YT.FB平台上做直播教學, 由於同學們的通勤要求, 2020.12月雷蒙新聞英文正式進入podcast, 歡迎舊雨新知一起共襄盛舉。 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 20 Nov 2020 11:20:40 GMT",
+      "feed_index": 124
+    }
+  ]
+}

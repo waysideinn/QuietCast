@@ -1,0 +1,157 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/3757071.xml",
+    "final_url": "http://www.ximalaya.com/album/3757071.xml",
+    "fetched_at": "2026-10-26T07:54:51.482430+00:00",
+    "status": 200,
+    "sha256": "7d56cc91071a3ba8552a08f368caf4e58c066a8a71fa28ba9af08f9b780002e8"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "Ellen Show艾伦秀学习笔记(S15)",
+      "truncated": false
+    },
+    "description": {
+      "text": "Ellen Show是目前全美最热门的电视谈话节目， 2003年首播至今已经走过了13季并总共包揽了31座艾美奖 ，作为一个在过去7年时间里没有间断过一期节目的 Ellen DeGeneres 脑残追随粉，我曾在 Warner Bro Studio的录影棚外 和她一墙之隔，每期节目都能学到最新最in的英语表达，也能看到全球最活跃的一线明星和网红，非常推荐给喜欢正能量的朋友们哦！ （2015-2016年录制的节目惨不忍闻又不能加密又舍不得删掉，建议大家倍速收听，感谢容忍）",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "个人 @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "DK会谈的D"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "DK会谈的D"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Comedy"
+      ],
+      [
+        "Music"
+      ],
+      [
+        "Education"
+      ],
+      [
+        "Education",
+        "Language Courses"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/3757071",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 8,
+    "episodes": [
+      {
+        "title": {
+          "text": "E008 学习笔记 6.13/6.16/6.17 摩登家庭cast专辑（略啰嗦 请倍速收听）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group17/M00/06/69/wKgJKVd74vuix0JfAHoyWRLtXKo266.m4a"
+      },
+      {
+        "title": {
+          "text": "E007 学习笔记 第154/155/156/157期 埃里克伯德温/克里斯蒂娜",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 1,
+        "guid": "https://aod.cos.tx.xmcdn.com/group16/M00/A1/F7/wKgDbFdz9rXgVRSOAXfhhRQffa8795.m4a"
+      },
+      {
+        "title": {
+          "text": "E006 学习笔记 第150期 卡梅隆迪亚兹",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 2,
+        "guid": "https://aod.cos.tx.xmcdn.com/group15/M03/62/72/wKgDZVcwuSfy4n9jAGIM0em1Q48090.m4a"
+      },
+      {
+        "title": {
+          "text": "E005 学习笔记 第124期 阿芮尔·温特",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 3,
+        "guid": "https://aod.cos.tx.xmcdn.com/group13/M04/31/1B/wKgDXVb3_c2BHM_8AL8M4uSmesw366.m4a"
+      },
+      {
+        "title": {
+          "text": "E004学习笔记第117期 塞斯梅耶 S13",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 4,
+        "guid": "https://aod.cos.tx.xmcdn.com/group11/M09/2A/37/wKgDbVbkO6_iYYVdAMYZdQf6Fyc554.m4a"
+      },
+      {
+        "title": {
+          "text": "E003学习笔记-第114+115期 艾什顿库彻+凯利克拉克森 S13",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 5,
+        "guid": "https://aod.cos.tx.xmcdn.com/group12/M0B/15/C8/wKgDW1bZo0mgAUPgAH1tsVIblhY849.m4a"
+      },
+      {
+        "title": {
+          "text": "E002学习笔记-第96期 海蒂 克鲁姆 Season13",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 6,
+        "guid": "https://aod.cos.tx.xmcdn.com/group10/M04/0A/CD/wKgDZ1bTGkXANXNWAKPeOUo2wj4229.m4a"
+      },
+      {
+        "title": {
+          "text": "E001学习笔记-第95期 乔治克鲁尼+蕾哈娜",
+          "truncated": false
+        },
+        "description": {
+          "text": "背景音乐非常大 慎入啊哈哈哈哈 不好意思了",
+          "truncated": false
+        },
+        "feed_index": 7,
+        "guid": "https://aod.cos.tx.xmcdn.com/group8/M03/0F/45/wKgDYVbTFiDyLtVPAXTgxQjCXhU690.m4a"
+      }
+    ]
+  }
+}

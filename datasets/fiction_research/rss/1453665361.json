@@ -1,0 +1,42 @@
+{
+  "show_id": "1453665361",
+  "feed_url": "http://www.ximalaya.com/album/21422452.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/21422452.xml",
+    "final_url": "http://www.ximalaya.com/album/21422452.xml",
+    "fetched_at": "2026-10-25T14:49:51.245120+00:00",
+    "status": 200,
+    "sha256": "ca12f163023a79388c1f5345aec62a6c39bf787e23e75b09680fd108c1c31aaf"
+  },
+  "status": "ok",
+  "title": {
+    "text": "一听就懂的中国艺术史",
+    "truncated": false
+  },
+  "description": {
+    "text": "用严肃的态度讲中国艺术史，道尽五千年书画艺术。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 1,
+  "episodes": [
+    {
+      "id": "eea0e52e73c9b065ef4633bc43c8d2106da617c35f987e2e760a053ea35fcbf5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group57/M08/3D/0B/wKgLd1xtFQ7BjBOeAACkfT3OMYI822.m4a",
+      "title": {
+        "text": "感谢收听",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Feb 2019 08:51:31 GMT",
+      "feed_index": 0
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+#!/usr/bin/env python3
+import collections
+import json
+from pathlib import Path
+from collect import DATA,ROOT
+
+R=ROOT/'reports/fiction_research'
+def fraction(m):return '未测量' if m['value'] is None else f"{m['n']}/{m['d']} ({m['value']:.1%})"
+
+def main():
+    e=json.loads((R/'entity-summary.json').read_text())
+    a=json.loads((R/'ablation-results.json').read_text())
+    registry=json.loads((ROOT/'rules/research/publisher-accounts.research.json').read_text())
+    records=json.loads((DATA/'entities/apple-enriched.json').read_text())
+    pages=json.loads((DATA/'entities/page-index.json').read_text())
+    channels=json.loads((DATA/'entities/channel-index.json').read_text())
+    probes=json.loads((DATA/'entities/account-probes.json').read_text())
+    parity=json.loads((R/'swift-multisource-parity.json').read_text()) if (R/'swift-multisource-parity.json').exists() else None
+    lines=['# 分类、发布账号、关键词联合识别：真实采样补充报告','',
+        '2026-10-26。**研究与可加载候选已扩展至任务A的v1.1；没有生产账号黑名单，人工独立测试仍未完成。** 本报告中的测量是AI阅读公开元数据后的开发探索，不能当作正式准确率。旧v1.0候选和首轮数据不覆盖。','',
+        '## 研究规模与可复现性','',
+        f"首轮2,943档搜索候选基础上，新增公开Apple分类/专题页、频道页、Apple lookup及RSS发布信息采样。lookup返回 {len(records)} 档唯一节目记录；开发分析含 {e['observationShows']} 档候选，其中 {e['freshLookupShows']} 档有新lookup，{e['rssEnrichedShows']} 档有重新采集的RSS实体/分类字段。其余是首轮开发候选，并非全部经过本轮RSS复查。",'',
+        f"记录 {e['nameClusterCount']} 个显示名称检索簇，保留多节目/已判读的 {e['retainedNameClusters']} 个簇；观察到 {e['appleArtistEntityCount']} 个不同Apple artist ID、{e['rightsNoticeClusters']} 个版权/出版声明簇。查询缓存首轮未保留artistId，因此不能把其余基线行缺ID解释为Apple不返回ID。",'',
+        f"判读样本：节目 {a['sampleCounts']['show']}、单集 {a['sampleCounts']['episode']}；人工金标准0。原始独立测试尚未封存。原test候选“文化有限”在公开分类反例调研中已曝光，明确隔离为边界挑战（entities/development-overrides.json），不得再充作独立测试。新专题样本为开发扩展。其他 {e['excludedOriginalTestShows']} 个原test候选未加入本轮开发分析。",'',
+        '公开请求使用缓存、≥3.2秒间隔、退避和有界4MB元数据响应；新RSS仅保留短简介、最多8个单集摘要、分类树和发布声明。owner/email不采集，音频只提取enclosure主机字符串，未发起音频请求。URL、采集时间、HTTP状态/失败及响应SHA均保留。CN缺失lookup另查TW，不把跨storefront缺失当删除。', '',
+        '## 一、推荐栏目与标准分类的关系','',
+        '| 中文入口 | 已观察公开路径 | 结论 |','|---|---|---|',
+        '| 有声图书 | /cn/grouping/197714 | 推荐专题/分组，不是标准genre ID |',
+        '| 网络文学 | /cn/grouping/197716 | 推荐专题/分组，不是标准genre ID |',
+        '| 小说 | /cn/genre/1483 | Fiction标准分类页 |',
+        '| 剧情 | /cn/genre/1484 | Fiction → Drama |',
+        '| 科幻小说 | /cn/genre/1485 | Fiction → Science Fiction |',
+        '| 喜剧小说 | /cn/genre/1486 | Fiction → Comedy Fiction |','',
+        '依据：[Apple官方分类说明](https://podcasters.apple.com/support/1691-apple-podcasts-categories)、[有声图书公开页](https://podcasts.apple.com/cn/grouping/197714)、[网络文学公开页](https://podcasts.apple.com/cn/grouping/197716)、[小说公开页](https://podcasts.apple.com/cn/genre/1483)。官方说明主次分类会影响发现展示，也存在编辑精选。这里核实的是公开网页路径和本轮快照，未实测孩子设备的iOS界面与个性化内容完全一致。', '',
+        'Apple Search/lookup 的 genreIds、genres、primaryGenreName可用；RSS的itunes:category及嵌套子节点可用。必须保留namespace、父子路径、主次信息、来源和观察日期。普通RSS category不可冒充iTunes标准分类；本轮未在公开Search/lookup响应中找到节目属于哪个grouping的字段，专题ID不能当genreId导入。', '',
+        'Books（1482）、Stories for Kids、有声图书专题均可能含非虚构知识与文学评论，不自动封禁。标准Fiction本身也有误标/话题节目：`不止读书`（1558684259）在Comedy Fiction，`文化有限`（1482731836）有Fiction/Drama附加分类，但两者RSS和分散单集是文学/影视评论。`野地电波`（1648306891）标Science Fiction，元数据却混合案件、电影、灵异等，保留uncertain。', '',
+        '部分US公开genre请求重定向到New且标题变成“新发现”；这些响应记录为路由不符合请求，不作为英文分类映射或CN专题样本。英文标准名取Apple官方分类文档，数字及中文名称用实际CN页/lookup核对。', '',
+        '## 二、发布主体、账号、创作者、托管与CDN','',
+        'Apple artistName是显示声明，RSS itunes:author、owner/name是作者/所有者自报，copyright或dc:publisher是权益/出版声明。它们不是同一角色；本轮未将自报字段当法律权属认证。RSS endpoint/final redirect host与音频endpoint host仅作为传输观察，从不生成封禁规则。', '',
+        '重要反例：Apple artistId `694593627` 的artistViewUrl指向“听喜马拉雅”，却对应多个不同的artistName（如大斌、罗问清）。这是已观察到的聚合身份，不能把其下创作者合并成别名，也不能整个平台当小说账号。', '',
+        '| 显示名称簇（不是已认证账号） | 已发现节目 | AI判读小说 | AI判读非虚构 | uncertain | 未判读 |','|---|---:|---:|---:|---:|---:|']
+    by_name={x['name']:x for x in registry['nameClusters']}
+    for name in ['云鹿柔迩','带给听书','冷静之声','云少讲故事','多云下的蛋','给小白白的有声书','巨有文化']:
+        x=by_name.get(name)
+        if not x:continue
+        s=x['statistics'];c=s['agent_metadata_review']
+        lines.append(f"| {name} | {s['discovered_show_count']} | {c.get('fiction',0)} | {c.get('nonfiction',0)} | {c.get('uncertain',0)} | {s['unlabeled_show_count']} |")
+    lines+=['',
+        '这些是采样内数量，不是账号全量目录。云鹿柔迩/冷静之声等的已判读样本仅小说，只能列为“观察样本仅小说，纯度未确认”。多云下的蛋同名称下既有《我不是喵神》也有哲学史、经济史；给小白白的有声书有《时间简史》《大设计》和艺术史；巨有文化所采5档是访谈、创投和生活分享。商业品牌/带有“有声书”的名称都不能整体封禁。', '',
+        '名称以Foundation繁简/全半角/大小写及两端空白归一化，保留标点和中间空格；仅格式等价别名归组，仍不证明真实身份。公司名与品牌的同RSS共现单列aliasAssociationCandidates：例如“巨有文化”与版权声明“北京巨有文化传媒有限公司”有关联，但不冒充已核验法人别名。不同作者共享聚合artistId不做别名归并。', '',
+        f"对 {len(probes)} 个高频名称簇的公开喜马拉雅专辑主页进行了profile-link探测，均未获得可核对的zhubo账号链接。没有使用私有接口/登录绕过，也没有把album ID当账号ID。RSS主机可稳定指向平台，但不是账号身份。保留unknown比编造稳定ID更可靠。",'',
+        f"另观察 {len(channels)} 个公开Apple频道入口，成功 {sum(r['status']=='ok' for r in channels.values())} 个：包括国学新知、史话天下、心理解码、玄幻修仙剧场、古言剧场、译文有声等。频道有稳定channel ID，可见成员仅是公开快照，既可能专题分组又可能品牌合集，不证明法律发布者或目录完整。A的v1.1只支持artist ID，channel ID暂留研究档案，绝不填进artist namespace。",'',
+        '**直接黑名单结论：目前没有满足“角色正确＋稳定账号身份＋充分跨作品覆盖＋人工确认”的纯小说账号，启用账号block规则为0。** 聚合平台、混合名称簇、托管商、CDN均不适合全量黑名单。后续可对有稳定ID且已确认的小说账号研究allShows；混合/聚合主体仅能精确selectedShows，并保留单集例外。', '',
+        '## 三、关键词/章节作为补充','',
+        '沿用v0.2关键词、组合、弱章节号与排除逻辑。新采样证明了分类与名称兜底的价值，也暴露“推广赏析/欢迎评论”等文本会抵消真实演播的风险。纯编号课程仍保留，不能把作者名当小说证据。此轮不根据测试集反复调词，不灌入已知节目名单抬高召回。', '',
+        '## 四、同一快照消融结果','',
+        '以下只含AI开发判读，非人工独立测试；每种策略使用相同节目/单集字段。分类单独“复核”和分类单独“直接拦截诊断”分开列出，不能把review计入自动召回。账号候选未确认，只有复核提示，0个有效账号block。', '',
+        '| 节目级策略 | 小说自动block召回 | 非虚构误block | 拦截精确率（已定性） | review比例 |','|---|---:|---:|---:|---:|']
+    names={'keywords_only':'仅关键词','publisher_only':'仅账号候选（pending）','category_only_review':'仅分类（4分，review）','category_only_block_diagnostic':'仅分类直接block【诊断】','joint_v11_score':'v1.1联合score【候选】','joint_all_enabled_sources':'全部来源齐全门槛【对照】','naive_three_source_OR_diagnostic':'三源直接OR【诊断】','unsafe_aggregate_694593627_diagnostic':'整封694593627【不安全反例】'}
+    for name,s in a['strategies'].items():
+        m=s['agentDevelopment']['show'];lines.append('| '+names[name]+' | '+' | '.join(fraction(m[k]) for k in ('fiction_block_recall','nonfiction_false_block_rate','precision','review_rate'))+' |')
+    lines+=['','| 单集级策略 | 小说自动block召回 | 非虚构误block | 拦截精确率（已定性） | review比例 |','|---|---:|---:|---:|---:|']
+    for name in ['keywords_only','publisher_only','category_only_block_diagnostic','joint_v11_score','naive_three_source_OR_diagnostic']:
+        m=a['strategies'][name]['agentDevelopment']['episode'];lines.append('| '+names[name]+' | '+' | '.join(fraction(m[k]) for k in ('fiction_block_recall','nonfiction_false_block_rate','precision','review_rate'))+' |')
+    lines+=['',
+        '精确率分母只含已定性的block，uncertain block另行披露，不能隐藏：候选联合节目级有2个uncertain被block；详见ablation-results.json的混淆矩阵、Wilson95%区间、子类型和所有错误。小样本0误拦并不能证明总体≤3%。', '',
+        '结论：候选联合有改进但离≥95%召回目标明显不足；分类直接封禁和简单OR伤及两档文学评论。没有已确认账号，不能宣称已验证发布商贡献或“真实三源独立互证”；目前第三源只提示review。allEnabledSources要求有效账号信号，pending不满足，因而自动召回归零，未知账号小说可能allow，不适合本阶段作为默认策略。', '',
+        '正常访谈/科学/知识课程/文学评论分组的每策略误伤和review见 protectedNonfictionGroups。当前联合在这些节目样本中无自动误block，但仍有复核负担；单集级仍误拦科幻广播剧节目内的科学答疑/书序，正常单集只有4条，不能推广其50%点估计为总体误拦率。应继续扩大独立标注并研究节目上下文与单集证据冲突。', '',
+        '## 五、与A通用引擎的实际交付','',
+        '- `rules/research/fiction-multisource-candidate.json`：A v1.1可加载完整候选，score模式；Fiction族去重贡献4分；关键词沿用；pending名称仅review，不加分。',
+        '- `rules/research/publisher-accounts.json`：独立、A v1.1可加载的账号候选包，识别配置只开publishers；含names/别名、稳定ID（如可用）、角色、范围、证据、确认、失效。没有真实账号黑名单。',
+        '- `publisher-accounts.research.json`：完整研究注册表，包含未认证名称簇、Apple聚合实体、版权声明、频道、别名关联与逐账号计数；不是App导入格式。',
+        '- `classification-evidence.research.json`：标准分类/推荐专题及来源快照，不把grouping伪装genre。',
+        '- `datasets/fiction_research/entities/`：lookup/RSS/page/channel/profile缓存、观察、追加判读、隔离记录及运行时fixture；脚本为collect_entities/enrich_accounts/analyze_entities/build_multisource/ablate。','',
+        '最初Schema建议保存在research/schema-extension-proposal.md，后续按A提供的schemas/content-filter-v1.1.md转换，最终对齐提交b62212bdf9b36f0f90e2f7f3a8f0990bba6544b9，未修改A工程/Schema。已同步缺新鲜稳定身份时的confirmed账号限制复核，以及showCategories/author同源去重。当前候选无confirmed账号、两个派生字段权重均为0，所以结果不变。v1.1尚不支持channel/platform原生account ID作为稳定匹配，未来若扩展需新namespace与验证器，不借用artist字段。所有candidate仍status=example。', '']
+    if parity:
+        lines += [f"JSON Schema通过；直接临时编译A的PodcastModels/ContentFiltering模块，{len(parity['strategies'])} 种可导出配置合计 {sum(x['fixtures'] for x in parity['strategies'].values())} 次真实Swift对照，状态 {parity['status']}。按规则与源码SHA记录，未改App工程，未运行播放/下载。",'']
+    lines+=['## 六、剩余工作与正式发布门槛','',
+        '人工标注≥300小说、≥300正常、≥150边界目标仍未以人工口径达成；正式人工召回、误拦、精确率、review均未测量。需要账号角色/稳定ID复核、版权/创作者关联确认、全量语言审计、按作品族及账号隔离的新独立测试、未见账号泛化测试和更多正常单集。公共目录/有限查询不代表全部中文播客，网页与API不一致、付费/无RSS、失效或空响应均不补造数据。', '',
+        '不将观察样本仅小说改写成纯小说账号，不把分类或查词结果当人工标签，不把待确认账户/父子分类/RSS与目录重复信息当三条独立证据。达不到探索目标就报告真实分母，不升级production。']
+    (R/'multisource-report.md').write_text('\n'.join(lines)+'\n')
+    print('Multi-source report generated from actual artifacts')
+
+if __name__=='__main__':main()

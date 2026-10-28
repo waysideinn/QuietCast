@@ -1,0 +1,140 @@
+{
+  "show_id": "1270553934",
+  "feed_url": "http://www.ximalaya.com/album/9775841.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/9775841.xml",
+    "final_url": "http://www.ximalaya.com/album/9775841.xml",
+    "fetched_at": "2026-10-25T14:48:30.587161+00:00",
+    "status": 200,
+    "sha256": "f2f2ab7e8d4f1b6d1f40660f2bf120a860ad7f64ecc874572b6cac67461db495"
+  },
+  "status": "ok",
+  "title": {
+    "text": "经济学五分钟",
+    "truncated": false
+  },
+  "description": {
+    "text": "每天清晨，抽出五分钟，听佳飞聊聊经济学吧。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 8,
+  "episodes": [
+    {
+      "id": "d2a361e2ce2f08997176166c9e5e7ee13d73db896ba1e8c3ac8d1c9159d45ba5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M05/BA/84/wKgJSVmSQsbSc1OHACUdD-UV_eM265.m4a",
+      "title": {
+        "text": "8 - 从《战狼2》看中国娱乐业的发展",
+        "truncated": false
+      },
+      "description": {
+        "text": "这几天搬家，节目上传的慢了一点，请大家见谅。今天，佳飞和大家聊聊科技创新，对中国娱乐产业产生了哪些改变。 今日话题： 《战狼2》：创造中国的票房神话 数码创新对娱乐业的影响： 第一阶段：盗版猖獗 第二阶段：种类扩展 第三阶段：分散投资 下期还想让我聊些什么？ 欢迎通过以下方式和我联系： 知乎/微信 ：李佳飞 微博 ：@李佳飞在芝加哥",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Aug 2017 00:42:48 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ec92dbdef4eb760303839c86b918c62676a001164921151b811bccc8b34b4d36",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M02/17/5F/wKgJSVmOKgeDaMPFACUdD4BQwo0033.m4a",
+      "title": {
+        "text": "7 - 性别歧视言论，到底错在哪里",
+        "truncated": false
+      },
+      "description": {
+        "text": "终于到周末啦！今天，佳飞和大家聊聊谷歌工程师的性别歧视言论， 从经济学角度提出一点分析 。 今日话题： 《经济学五分钟》一周总结 谷歌歧视言论的事件始末 从供求角度认识就业 决定职业的不是绝对优势，而是比较优势 下期还想让我聊些什么？ 欢迎通过以下方式和我联系： 知乎/微信 ：李佳飞 微博 ：@李佳飞在芝加哥",
+        "truncated": false
+      },
+      "published_at": "Fri, 11 Aug 2017 23:30:00 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "c675135b5862d3c2a293e1edafe4c58001fba132041c201a5d4e9688e680b5da",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M00/58/4E/wKgJXlmLZdPxk4tjACUdD9VnIDc879.m4a",
+      "title": {
+        "text": "6 - 这场火灾，是谋杀还是意外？",
+        "truncated": false
+      },
+      "description": {
+        "text": "第六期《经济学五分钟》，我们来看看英国商人理查德·坎蒂隆的蹊跷生平，和那场夺走他生命的神秘火灾。当然，还有他在经济学之中的贡献。 今日话题： 商人的发家史 牛顿也在泡沫经济中赔钱 扑朔迷离的夺命火灾 史上第一篇经济学论文 下期还想让我聊些什么？ 欢迎通过以下方式和我联系： 知乎/微信 ：李佳飞 微博 ：@李佳飞在芝加哥",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Aug 2017 23:30:01 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "980dadf935ec9b8d9b80b15f39616deab67318e84d162330041298f8a9a1b2f1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M05/C9/2A/wKgJSVmLZEWCBxq6ACUdD0QHHCs590.m4a",
+      "title": {
+        "text": "5 - 热衷统计学的英国医生",
+        "truncated": false
+      },
+      "description": {
+        "text": "第五期《经济学五分钟》，我们一起看看英国医生威廉·配第是如何为现代经济学研究方法做出贡献的。 今日话题： 配第的身世和成就 简谈经济学研究方法 好书推荐： 丹尼尔·卡尼曼《思考，快与慢》 从葬礼推算城市发展情况 下期还想让我聊些什么？ 欢迎通过以下方式和我联系： 知乎/微信 ：李佳飞 微博 ：@李佳飞在芝加哥",
+        "truncated": false
+      },
+      "published_at": "Wed, 09 Aug 2017 23:30:00 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "4dc4e3b38e1e29b28639259b40c75b1a56509e0ff84deaf32cb9c925bf6d4ee5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M08/3A/CD/wKgJXlmKguzQ7t-jACUdD__eBW8450.m4a",
+      "title": {
+        "text": "4 - 东印度公司CEO和贸易保护主义",
+        "truncated": false
+      },
+      "description": {
+        "text": "第四期《经济学五分钟》，我们讲讲十七世纪的商人托马斯·曼，以及他作为东印度公司 CEO 时做出的经济学贡献。 今日话题： 托马斯·曼所处的时代 对于东印度公司的质疑和回应 川普和“重商主义”经济学理论 如何衡量国家财富？ 下期还想让我聊些什么？ 欢迎通过以下方式和我联系： 知乎/微信 ：李佳飞 微博 ：@李佳飞在芝加哥",
+        "truncated": false
+      },
+      "published_at": "Wed, 09 Aug 2017 03:43:19 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "8acb8f25d9fd48e73bfc43c453ab3016deb48aca95c3d6d58bf2e4f0dfebe762",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M00/13/A1/wKgJXlmJIArzU-oNACUdD9K7sHs445.m4a",
+      "title": {
+        "text": "3 - 神学大师：对高额利息说NO！",
+        "truncated": false
+      },
+      "description": {
+        "text": "第三期《经济学五分钟》，我们从经院哲学家托马斯阿奎那开始，走进欧洲神奇的中世纪，了解一下当时的经济学思想。 今日话题： 阿奎那神父：真正的神学大师 中世纪的西医黑历史 经院哲学和现代大学教育 为什么我们共享单车，而不是午餐 下期还想让我聊些什么？ 欢迎通过以下方式和我联系： 知乎/微信 ：李佳飞 微博 ：@李佳飞在芝加哥",
+        "truncated": false
+      },
+      "published_at": "Tue, 08 Aug 2017 02:21:14 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "5254bdae1ed4fc3911ba8acc703ef30f232bc68030a6aeff9890453938ce5411",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M0A/8C/33/wKgJSVmJH-zinG4bACUdD71uXZU114.m4a",
+      "title": {
+        "text": "2 - 柏拉图也懂经济学？",
+        "truncated": false
+      },
+      "description": {
+        "text": "第二期 《经济学五分钟》，我们从古希腊哲人开始，谈谈经济学思想的起源 。 今日话题： 经济学思想和人类生存的关系 柏拉图《理想国》中的经济思想 弗里德曼：从铅笔看自由市场 色诺芬和匠人精神 亚里士多德对收取利息的反对 下期还想让我聊些什么？ 欢迎通过以下方式和我联系： 知乎/微信 ：李佳飞 微博 ：@李佳飞在芝加哥",
+        "truncated": false
+      },
+      "published_at": "Tue, 08 Aug 2017 02:21:14 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "4942e33567ddbb8079bf5258b2cafa386ad878e7736e47b5c63442c09c9ba879",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M08/80/2D/wKgJXlmD1dWDpN38ACUdD60r1BU546.m4a",
+      "title": {
+        "text": "1 - 节目简介",
+        "truncated": false
+      },
+      "description": {
+        "text": "《经济学五分钟》第一期上线了！ 让我来和各位介绍一下这个节目吧！ 今日话题： 经济学五分钟是什么？ 李佳飞是谁？ 什么是经济学？ 下期还想让我聊些什么？ 欢迎通过以下方式和我联系： 知乎/微信 ：李佳飞 微博 ：@李佳飞在芝加哥",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Aug 2017 02:46:45 GMT",
+      "feed_index": 7
+    }
+  ]
+}

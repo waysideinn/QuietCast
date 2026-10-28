@@ -1,0 +1,785 @@
+{
+  "group": "normal",
+  "term": "经济",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:44:13.007189+00:00",
+    "status": 200,
+    "sha256": "3a822d4c7d680c3089fa9db474f9a9de6297dc8dc87f6843facd1c5538fb6ecc"
+  },
+  "result_count": 33,
+  "records": [
+    {
+      "collectionId": 1751285685,
+      "trackId": 1751285685,
+      "collectionName": "经济财经新闻洞察",
+      "artistName": "Thinkergy",
+      "feedUrl": "https://www.ximalaya.com/album/82288293.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BB%8F%E6%B5%8E%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB%E6%B4%9E%E5%AF%9F/id1751285685?uo=4",
+      "genres": [
+        "商业新闻",
+        "播客",
+        "新闻",
+        "商务",
+        "投资"
+      ],
+      "genreIds": [
+        "1490",
+        "26",
+        "1489",
+        "1321",
+        "1412"
+      ],
+      "trackCount": 129,
+      "releaseDate": "2026-07-29T17:09:00Z",
+      "country": "CHN",
+      "primaryGenreName": "商业新闻"
+    },
+    {
+      "collectionId": 981083738,
+      "trackId": 981083738,
+      "collectionName": "每天学点经济学",
+      "artistName": "每日学点经济学",
+      "feedUrl": "http://www.ximalaya.com/album/342872.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%AF%8F%E5%A4%A9%E5%AD%A6%E7%82%B9%E7%BB%8F%E6%B5%8E%E5%AD%A6/id981083738?uo=4",
+      "genres": [
+        "商务",
+        "播客",
+        "新闻",
+        "商业新闻"
+      ],
+      "genreIds": [
+        "1321",
+        "26",
+        "1489",
+        "1490"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2015-04-15T14:54:00Z",
+      "country": "CHN",
+      "primaryGenreName": "商务"
+    },
+    {
+      "collectionId": 901259592,
+      "trackId": 901259592,
+      "collectionName": "傻瓜经济学|经济学小白必修课",
+      "artistName": "上山之声",
+      "feedUrl": "http://www.ximalaya.com/album/267217.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%82%BB%E7%93%9C%E7%BB%8F%E6%B5%8E%E5%AD%A6-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%B0%8F%E7%99%BD%E5%BF%85%E4%BF%AE%E8%AF%BE/id901259592?uo=4",
+      "genres": [
+        "商务",
+        "播客"
+      ],
+      "genreIds": [
+        "1321",
+        "26"
+      ],
+      "trackCount": 132,
+      "releaseDate": "2024-12-26T14:25:00Z",
+      "country": "CHN",
+      "primaryGenreName": "商务"
+    },
+    {
+      "collectionId": 1697426391,
+      "trackId": 1697426391,
+      "collectionName": "资本的秘密：金融危机与大萧条经济周期的规律",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/76846984.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%B5%84%E6%9C%AC%E7%9A%84%E7%A7%98%E5%AF%86-%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA%E4%B8%8E%E5%A4%A7%E8%90%A7%E6%9D%A1%E7%BB%8F%E6%B5%8E%E5%91%A8%E6%9C%9F%E7%9A%84%E8%A7%84%E5%BE%8B/id1697426391?uo=4",
+      "genres": [
+        "投资",
+        "播客",
+        "商务",
+        "科学",
+        "社会科学"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1533",
+        "1535"
+      ],
+      "trackCount": 63,
+      "releaseDate": "2023-07-31T13:45:00Z",
+      "country": "CHN",
+      "primaryGenreName": "投资"
+    },
+    {
+      "collectionId": 1516053079,
+      "trackId": 1516053079,
+      "collectionName": "每天一点生活经济学",
+      "artistName": "老姚说事",
+      "feedUrl": "https://papi.qingting.fm/podcast/channels/10526x",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%AF%8F%E5%A4%A9%E4%B8%80%E7%82%B9%E7%94%9F%E6%B4%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/id1516053079?uo=4",
+      "genres": [
+        "自我完善",
+        "播客",
+        "教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304"
+      ],
+      "trackCount": 56,
+      "releaseDate": "2020-07-03T01:05:00Z",
+      "country": "CHN",
+      "primaryGenreName": "自我完善"
+    },
+    {
+      "collectionId": 1735176582,
+      "trackId": 1735176582,
+      "collectionName": "全球经济与市场随谈",
+      "artistName": "米抠君",
+      "feedUrl": "https://feed.xyzfm.space/lqqdxfvera6w",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E4%B8%8E%E5%B8%82%E5%9C%BA%E9%9A%8F%E8%B0%88/id1735176582?uo=4",
+      "genres": [
+        "商务",
+        "播客",
+        "新闻"
+      ],
+      "genreIds": [
+        "1321",
+        "26",
+        "1489"
+      ],
+      "trackCount": 20,
+      "releaseDate": "2024-10-07T19:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "商务"
+    },
+    {
+      "collectionId": 1683446696,
+      "trackId": 1683446696,
+      "collectionName": "英语外刊 - 听Rex读经济学人",
+      "artistName": "Rex_Chen",
+      "feedUrl": "https://feed.xyzfm.space/crhphbm8qde6",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%8B%B1%E8%AF%AD%E5%A4%96%E5%88%8A-%E5%90%ACrex%E8%AF%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA/id1683446696?uo=4",
+      "genres": [
+        "新闻",
+        "播客"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 460,
+      "releaseDate": "2026-10-18T22:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "新闻"
+    },
+    {
+      "collectionId": 1896746768,
+      "trackId": 1896746768,
+      "collectionName": "早安经济",
+      "artistName": "早安经济",
+      "feedUrl": "https://feed.xyzfm.space/uvdha7ckerky",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%97%A9%E5%AE%89%E7%BB%8F%E6%B5%8E/id1896746768?uo=4",
+      "genres": [
+        "科技",
+        "播客"
+      ],
+      "genreIds": [
+        "1318",
+        "26"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2026-07-09T08:15:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1605055716,
+      "trackId": 1605055716,
+      "collectionName": "3分钟经济学人精读",
+      "artistName": "Mia萤子",
+      "feedUrl": "http://www.ximalaya.com/album/32187938.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/3%E5%88%86%E9%92%9F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%B2%BE%E8%AF%BB/id1605055716?uo=4",
+      "genres": [
+        "语言学习",
+        "播客",
+        "教育",
+        "新闻",
+        "每日新闻"
+      ],
+      "genreIds": [
+        "1498",
+        "26",
+        "1304",
+        "1489",
+        "1526"
+      ],
+      "trackCount": 80,
+      "releaseDate": "2022-01-16T10:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "语言学习"
+    },
+    {
+      "collectionId": 1697425680,
+      "trackId": 1697425680,
+      "collectionName": "大萧条前夜的繁荣与疯狂：100年不断重演的经济危机",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/76745141.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%A7%E8%90%A7%E6%9D%A1%E5%89%8D%E5%A4%9C%E7%9A%84%E7%B9%81%E8%8D%A3%E4%B8%8E%E7%96%AF%E7%8B%82-100%E5%B9%B4%E4%B8%8D%E6%96%AD%E9%87%8D%E6%BC%94%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA/id1697425680?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "科学",
+        "社会科学"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1533",
+        "1535"
+      ],
+      "trackCount": 95,
+      "releaseDate": "2023-07-28T14:16:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1139142615,
+      "trackId": 1139142615,
+      "collectionName": "经济学",
+      "artistName": "好买研习社",
+      "feedUrl": "http://www.ximalaya.com/album/4735586.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BB%8F%E6%B5%8E%E5%AD%A6/id1139142615?uo=4",
+      "genres": [
+        "商务",
+        "播客",
+        "新闻",
+        "商业新闻"
+      ],
+      "genreIds": [
+        "1321",
+        "26",
+        "1489",
+        "1490"
+      ],
+      "trackCount": 260,
+      "releaseDate": "2018-12-14T09:38:00Z",
+      "country": "CHN",
+      "primaryGenreName": "商务"
+    },
+    {
+      "collectionId": 1601180565,
+      "trackId": 1601180565,
+      "collectionName": "AP economics 经济学/ 每天听一听更容易理解记忆",
+      "artistName": "Casey的新生活",
+      "feedUrl": "http://www.ximalaya.com/album/55609657.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/ap-economics-%E7%BB%8F%E6%B5%8E%E5%AD%A6-%E6%AF%8F%E5%A4%A9%E5%90%AC%E4%B8%80%E5%90%AC%E6%9B%B4%E5%AE%B9%E6%98%93%E7%90%86%E8%A7%A3%E8%AE%B0%E5%BF%86/id1601180565?uo=4",
+      "genres": [
+        "社会科学",
+        "播客",
+        "科学"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533"
+      ],
+      "trackCount": 85,
+      "releaseDate": "2022-02-16T02:25:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会科学"
+    },
+    {
+      "collectionId": 1725447077,
+      "trackId": 1725447077,
+      "collectionName": "《经济学关我什么事》｜德国经济学家的故事书",
+      "artistName": "纽英后花园",
+      "feedUrl": "https://www.ximalaya.com/album/79948853.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%85%B3%E6%88%91%E4%BB%80%E4%B9%88%E4%BA%8B-%E5%BE%B7%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E7%9A%84%E6%95%85%E4%BA%8B%E4%B9%A6/id1725447077?uo=4",
+      "genres": [
+        "创业",
+        "播客",
+        "商务"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2024-01-10T02:38:00Z",
+      "country": "CHN",
+      "primaryGenreName": "创业"
+    },
+    {
+      "collectionId": 1888767426,
+      "trackId": 1888767426,
+      "collectionName": "飞凡26CPA：经济法｜听懂法条背后的商业潜规则",
+      "artistName": "飞凡研习社",
+      "feedUrl": "https://www.ximalaya.com/album/118711714.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%A3%9E%E5%87%A126cpa-%E7%BB%8F%E6%B5%8E%E6%B3%95-%E5%90%AC%E6%87%82%E6%B3%95%E6%9D%A1%E8%83%8C%E5%90%8E%E7%9A%84%E5%95%86%E4%B8%9A%E6%BD%9C%E8%A7%84%E5%88%99/id1888767426?uo=4",
+      "genres": [
+        "课程",
+        "播客",
+        "教育",
+        "商务",
+        "职业"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1321",
+        "1410"
+      ],
+      "trackCount": 354,
+      "releaseDate": "2026-09-04T00:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "课程"
+    },
+    {
+      "collectionId": 1577540691,
+      "trackId": 1577540691,
+      "collectionName": "经济思想史",
+      "artistName": "山姆大叔看书",
+      "feedUrl": "http://www.ximalaya.com/album/47292843.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BB%8F%E6%B5%8E%E6%80%9D%E6%83%B3%E5%8F%B2/id1577540691?uo=4",
+      "genres": [
+        "历史",
+        "播客"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 149,
+      "releaseDate": "2021-11-07T00:56:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1471552226,
+      "trackId": 1471552226,
+      "collectionName": "经济师 工商管理 经济基础 最新",
+      "artistName": "昊天说金融",
+      "feedUrl": "http://www.ximalaya.com/album/24804025.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BB%8F%E6%B5%8E%E5%B8%88-%E5%B7%A5%E5%95%86%E7%AE%A1%E7%90%86-%E7%BB%8F%E6%B5%8E%E5%9F%BA%E7%A1%80-%E6%9C%80%E6%96%B0/id1471552226?uo=4",
+      "genres": [
+        "投资",
+        "播客",
+        "商务"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321"
+      ],
+      "trackCount": 178,
+      "releaseDate": "2021-12-09T15:08:00Z",
+      "country": "CHN",
+      "primaryGenreName": "投资"
+    },
+    {
+      "collectionId": 6819974998,
+      "trackId": 6819974998,
+      "collectionName": "商业全球视野 | 世界经济|宏观经济|商业热点",
+      "artistName": "听悦站站长",
+      "feedUrl": "https://www.ximalaya.com/album/129863020.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%95%86%E4%B8%9A%E5%85%A8%E7%90%83%E8%A7%86%E9%87%8E-%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E-%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E-%E5%95%86%E4%B8%9A%E7%83%AD%E7%82%B9/id6819974998?uo=4",
+      "genres": [
+        "非营利",
+        "播客",
+        "商务",
+        "创业"
+      ],
+      "genreIds": [
+        "1494",
+        "26",
+        "1321",
+        "1493"
+      ],
+      "trackCount": 27,
+      "releaseDate": "2026-10-15T04:49:00Z",
+      "country": "CHN",
+      "primaryGenreName": "非营利"
+    },
+    {
+      "collectionId": 1449153058,
+      "trackId": 1449153058,
+      "collectionName": "维生素E|经济学与哲学知识分享",
+      "artistName": "维生素E知识分享",
+      "feedUrl": "http://www.ximalaya.com/album/19758469.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BB%B4%E7%94%9F%E7%B4%A0e-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%B8%8E%E5%93%B2%E5%AD%A6%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/id1449153058?uo=4",
+      "genres": [
+        "实用知识",
+        "播客",
+        "教育",
+        "社会与文化",
+        "哲学"
+      ],
+      "genreIds": [
+        "1499",
+        "26",
+        "1304",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 151,
+      "releaseDate": "2026-06-25T14:07:00Z",
+      "country": "CHN",
+      "primaryGenreName": "实用知识"
+    },
+    {
+      "collectionId": 1480340106,
+      "trackId": 1480340106,
+      "collectionName": "生活經濟學 | Everyday Economics",
+      "artistName": "生活經濟學",
+      "feedUrl": "https://rss.buzzsprout.com/602122.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%94%9F%E6%B4%BB%E7%B6%93%E6%BF%9F%E5%AD%B8-everyday-economics/id1480340106?uo=4",
+      "genres": [
+        "教育",
+        "播客",
+        "商务",
+        "非营利"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1321",
+        "1494"
+      ],
+      "trackCount": 17,
+      "releaseDate": "2025-12-30T19:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1711145627,
+      "trackId": 1711145627,
+      "collectionName": "社会主义：经济学与社会学的分析-米塞斯1920年代",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/78330111.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%B8%8E%E7%A4%BE%E4%BC%9A%E5%AD%A6%E7%9A%84%E5%88%86%E6%9E%90-%E7%B1%B3%E5%A1%9E%E6%96%AF1920%E5%B9%B4%E4%BB%A3/id1711145627?uo=4",
+      "genres": [
+        "社会科学",
+        "播客",
+        "科学",
+        "商务",
+        "投资"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533",
+        "1321",
+        "1412"
+      ],
+      "trackCount": 175,
+      "releaseDate": "2023-11-23T09:33:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会科学"
+    },
+    {
+      "collectionId": 1786853447,
+      "trackId": 1786853447,
+      "collectionName": "献给孩子的英文知识——新闻、科学、经济学和传统故事",
+      "artistName": "Alex的英语故事王国",
+      "feedUrl": "https://www.ximalaya.com/album/84883116.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%8C%AE%E7%BB%99%E5%AD%A9%E5%AD%90%E7%9A%84%E8%8B%B1%E6%96%87%E7%9F%A5%E8%AF%86-%E6%96%B0%E9%97%BB-%E7%A7%91%E5%AD%A6-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%92%8C%E4%BC%A0%E7%BB%9F%E6%95%85%E4%BA%8B/id1786853447?uo=4",
+      "genres": [
+        "儿童教育",
+        "播客",
+        "儿童与家庭",
+        "教育",
+        "语言学习"
+      ],
+      "genreIds": [
+        "1519",
+        "26",
+        "1305",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2025-05-28T11:32:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童教育"
+    },
+    {
+      "collectionId": 1811409257,
+      "trackId": 1811409257,
+      "collectionName": "纶今·深入浅出经济学",
+      "artistName": "Sepine",
+      "feedUrl": "https://feed.xyzfm.space/n467wfbykqk9",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%B6%E4%BB%8A-%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E7%BB%8F%E6%B5%8E%E5%AD%A6/id1811409257?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客",
+        "教育"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1304"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2026-04-24T01:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1795194333,
+      "trackId": 1795194333,
+      "collectionName": "低空纪元 | 90分钟速通：掌握未来经济新引擎",
+      "artistName": "产教融合与能力提升",
+      "feedUrl": "https://www.ximalaya.com/album/85741130.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BD%8E%E7%A9%BA%E7%BA%AA%E5%85%83-90%E5%88%86%E9%92%9F%E9%80%9F%E9%80%9A-%E6%8E%8C%E6%8F%A1%E6%9C%AA%E6%9D%A5%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%BC%95%E6%93%8E/id1795194333?uo=4",
+      "genres": [
+        "投资",
+        "播客",
+        "商务",
+        "职业"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1410"
+      ],
+      "trackCount": 19,
+      "releaseDate": "2025-02-27T19:10:00Z",
+      "country": "CHN",
+      "primaryGenreName": "投资"
+    },
+    {
+      "collectionId": 1730477449,
+      "trackId": 1730477449,
+      "collectionName": "贸易打造的世界：1400年至今的社会文化与世界经济",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/80374864.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%B4%B8%E6%98%93%E6%89%93%E9%80%A0%E7%9A%84%E4%B8%96%E7%95%8C-1400%E5%B9%B4%E8%87%B3%E4%BB%8A%E7%9A%84%E7%A4%BE%E4%BC%9A%E6%96%87%E5%8C%96%E4%B8%8E%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E/id1730477449?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "科学",
+        "社会科学"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1533",
+        "1535"
+      ],
+      "trackCount": 100,
+      "releaseDate": "2024-03-24T09:05:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 6799430404,
+      "trackId": 6799430404,
+      "collectionName": "中国经济思想的起源：《管子》七讲",
+      "artistName": "小崔讲中国经济史",
+      "feedUrl": "https://www.ximalaya.com/album/48127049.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%80%9D%E6%83%B3%E7%9A%84%E8%B5%B7%E6%BA%90-%E7%AE%A1%E5%AD%90-%E4%B8%83%E8%AE%B2/id6799430404?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "商务",
+        "管理"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1321",
+        "1491"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2021-04-13T11:40:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 867929462,
+      "trackId": 867929462,
+      "collectionName": "【数字化经济】☯听听互联网",
+      "artistName": "练荣斌",
+      "feedUrl": "http://www.ximalaya.com/album/225632.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%95%B0%E5%AD%97%E5%8C%96%E7%BB%8F%E6%B5%8E-%E5%90%AC%E5%90%AC%E4%BA%92%E8%81%94%E7%BD%91/id867929462?uo=4",
+      "genres": [
+        "教育",
+        "播客",
+        "科技"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1318"
+      ],
+      "trackCount": 138,
+      "releaseDate": "2025-11-03T11:43:00Z",
+      "country": "CHN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1682737440,
+      "trackId": 1682737440,
+      "collectionName": "银行招聘专用：金融、经济知识总结（自用合集）",
+      "artistName": "远山文远",
+      "feedUrl": "https://www.ximalaya.com/album/75431314.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%93%B6%E8%A1%8C%E6%8B%9B%E8%81%98%E4%B8%93%E7%94%A8-%E9%87%91%E8%9E%8D-%E7%BB%8F%E6%B5%8E%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93-%E8%87%AA%E7%94%A8%E5%90%88%E9%9B%86/id1682737440?uo=4",
+      "genres": [
+        "课程",
+        "播客",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 12,
+      "releaseDate": "2023-04-16T02:48:00Z",
+      "country": "CHN",
+      "primaryGenreName": "课程"
+    },
+    {
+      "collectionId": 1687955818,
+      "trackId": 1687955818,
+      "collectionName": "去依附：中国化解第一次经济危机的真实经验-温铁军",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/75992036.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8E%BB%E4%BE%9D%E9%99%84-%E4%B8%AD%E5%9B%BD%E5%8C%96%E8%A7%A3%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%BB%8F%E9%AA%8C-%E6%B8%A9%E9%93%81%E5%86%9B/id1687955818?uo=4",
+      "genres": [
+        "社会科学",
+        "播客",
+        "科学",
+        "社会与文化",
+        "纪实"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533",
+        "1324",
+        "1543"
+      ],
+      "trackCount": 49,
+      "releaseDate": "2023-05-19T21:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会科学"
+    },
+    {
+      "collectionId": 1616108870,
+      "trackId": 1616108870,
+      "collectionName": "管理经济学《重点笔记》",
+      "artistName": "白纸工作室",
+      "feedUrl": "http://www.ximalaya.com/album/53501647.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%AE%A1%E7%90%86%E7%BB%8F%E6%B5%8E%E5%AD%A6-%E9%87%8D%E7%82%B9%E7%AC%94%E8%AE%B0/id1616108870?uo=4",
+      "genres": [
+        "课程",
+        "播客",
+        "教育",
+        "商务",
+        "管理"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1321",
+        "1491"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2021-10-02T03:09:00Z",
+      "country": "CHN",
+      "primaryGenreName": "课程"
+    },
+    {
+      "collectionId": 1780774685,
+      "trackId": 1780774685,
+      "collectionName": "梁建章人口经济学15讲",
+      "artistName": "9ting",
+      "feedUrl": "https://www.ximalaya.com/album/84559278.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%A2%81%E5%BB%BA%E7%AB%A0%E4%BA%BA%E5%8F%A3%E7%BB%8F%E6%B5%8E%E5%AD%A615%E8%AE%B2/id1780774685?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "健康与健身",
+        "两性"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1512",
+        "1516"
+      ],
+      "trackCount": 17,
+      "releaseDate": "2024-11-20T08:09:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1889388264,
+      "trackId": 1889388264,
+      "collectionName": "足球文明史：经济、社会与文化的深度解码",
+      "artistName": "足球漫谈",
+      "feedUrl": "https://feed.xyzfm.space/hv9k87ufyful",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%B6%B3%E7%90%83%E6%96%87%E6%98%8E%E5%8F%B2-%E7%BB%8F%E6%B5%8E-%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%96%87%E5%8C%96%E7%9A%84%E6%B7%B1%E5%BA%A6%E8%A7%A3%E7%A0%81/id1889388264?uo=4",
+      "genres": [
+        "体育",
+        "播客"
+      ],
+      "genreIds": [
+        "1545",
+        "26"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2026-04-14T07:38:00Z",
+      "country": "CHN",
+      "primaryGenreName": "体育"
+    },
+    {
+      "collectionId": 1873870640,
+      "trackId": 1873870640,
+      "collectionName": "Matthew Kong的经济笔记",
+      "artistName": "Matthew_Kong",
+      "feedUrl": "https://feed.xyzfm.space/7ghjlk37xwxm",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/matthew-kong%E7%9A%84%E7%BB%8F%E6%B5%8E%E7%AC%94%E8%AE%B0/id1873870640?uo=4",
+      "genres": [
+        "教育",
+        "播客",
+        "商务"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1321"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2026-02-02T05:47:00Z",
+      "country": "CHN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1730475388,
+      "trackId": 1730475388,
+      "collectionName": "工业革命前的欧洲社会与经济，1000—1700",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/79439021.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B7%A5%E4%B8%9A%E9%9D%A9%E5%91%BD%E5%89%8D%E7%9A%84%E6%AC%A7%E6%B4%B2%E7%A4%BE%E4%BC%9A%E4%B8%8E%E7%BB%8F%E6%B5%8E-1000-1700/id1730475388?uo=4",
+      "genres": [
+        "历史",
+        "播客"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 58,
+      "releaseDate": "2023-12-31T14:25:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    }
+  ]
+}

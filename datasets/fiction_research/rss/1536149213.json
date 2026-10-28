@@ -1,0 +1,84 @@
+{
+  "show_id": "1536149213",
+  "feed_url": "http://www.ximalaya.com/album/42749404.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/42749404.xml",
+    "final_url": "http://www.ximalaya.com/album/42749404.xml",
+    "fetched_at": "2026-10-25T14:55:03.319169+00:00",
+    "status": 200,
+    "sha256": "0a4381e8716963b157c545274010fc2875d18e7c22430f840a99b24673ee2531"
+  },
+  "status": "ok",
+  "title": {
+    "text": "路标访谈",
+    "truncated": false
+  },
+  "description": {
+    "text": "从第五期开始请移步“工位访谈” 老板很多余，我们在摸鱼～ 欢迎来到路标工作室全球唯一指定官方 播客 ——路标访谈。在这里，我们给你讲讲音频制作人的工作日常。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 4,
+  "episodes": [
+    {
+      "id": "f0155d4d9eda6b609561b6dbe3c8c88f51074f169650416d52cddd01005442d9",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b934-audiofreehighqps/09/42/CMCoOSMDk403AXgZGwBqfi5j.m4a",
+      "title": {
+        "text": "vol.004 动动手指，在上海有房有特斯拉不是梦",
+        "truncated": false
+      },
+      "description": {
+        "text": "租房不靠谱，买房买不起，当代年轻人也太难了！今天我们请到深耕金融领域数年的大佬、投资专家雷哥，给我们讲讲，如何动动手指，轻松在上海买房买特斯拉！",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 Nov 2020 03:04:51 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "a91db5b9886326ed47d4816f60258bedc76f5901260677539a9b295b86b19408",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9dc4-audiofreehighqps/93/82/CMCoOR8DfuwGBhsYXABlOPkg.mp3",
+      "title": {
+        "text": "vol.003 打工是不可能打工的，当老板又不会，只能辞职这样子",
+        "truncated": false
+      },
+      "description": {
+        "text": "近日，“打工人”一词火遍全网。因此，我们请到了路标工作室的同事秀文和心心，跟我们一起聊聊打工生涯的爱恨情仇。在本期节目中，大家的心情从轻松走向悲痛，期间TIANYI和狮子还险些落泪，最终大家得出一致结论：打工是不可能打工的，当老板又不会，只能辞职这样子（不是），只能买《愿望日历》这样子！欢迎大家购买愿望日历！",
+        "truncated": false
+      },
+      "published_at": "Mon, 09 Nov 2020 11:33:30 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "cbe64875b71f6c03bdce38a6a528486318932876feb07c98fba2dde24d04b3be",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1f95-audiofreehighqps/37/1C/CMCoOSMDaE-QBIKGLQBfzkhR.mp3",
+      "title": {
+        "text": "vol.002 比起谈恋爱，我更想找个虚拟恋人",
+        "truncated": false
+      },
+      "description": {
+        "text": "什么样的声音，女生听不满五秒，男生为之沦陷？什么样的年轻人会选择虚拟恋人，而这又是为什么？一线城市压力越来越大，大家该如何处理亲密关系？在这期节目中，我们请到《 NJ 易安 | 声音女友》项目的负责人真钰，来跟狮子、TIANYI聊聊这些话题。 同时，我们还在节目中穿插了扣人心弦的易安原声，因此我们诚挚地建议您，戴上家里最贵的耳机享受这期节目。 欢迎大家在喜马拉雅以及各种泛用性播客客户端上关注我们的节目～",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Oct 2020 07:56:04 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "ee745e393ceb30c4119db0b0b3f2cc77ee3cea63f4c52ca2169d45d6af970fb3",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6924-audiofreehighqps/99/0A/CMCoOSQDX1JSBNH1-ABduZgp.mp3",
+      "title": {
+        "text": "vol.001 我们找来老板，聊了聊他的西藏生死之旅（但是他跑偏了）",
+        "truncated": false
+      },
+      "description": {
+        "text": "没错，由于原本 邀请的嘉宾真钰同学身体不适（老板发烧梦见她死了？？？莫名其妙）， 我们第一期节目的嘉宾就请到替补队员：路标工作室的老板——旷达。 在这期节目中，旷达老板给两位主播狮子、TIANYI讲了讲他的西藏生死之旅，以及他对人生深邃的思考。 欢迎大家在喜马拉雅以及各种泛用性播客客户端上关注我们的节目～",
+        "truncated": false
+      },
+      "published_at": "Fri, 16 Oct 2020 12:17:26 GMT",
+      "feed_index": 3
+    }
+  ]
+}

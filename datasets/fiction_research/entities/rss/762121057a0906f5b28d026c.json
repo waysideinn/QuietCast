@@ -1,0 +1,161 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/20508299.xml",
+    "final_url": "http://www.ximalaya.com/album/20508299.xml",
+    "fetched_at": "2026-10-26T07:55:33.065433+00:00",
+    "status": 200,
+    "sha256": "615a0c72da55e14da060b44158d60896ea45e098f9ed4b3a1ca17104c7e0a228"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "蜀山剑侠传|玄幻武侠修真之祖/牛",
+      "truncated": false
+    },
+    "description": {
+      "text": "它堪称“武侠百科全书”，一手催生了后来金古梁温时代的新派武侠。 也被金庸好友作家倪匡誉为“天下第一奇书”。 他至今影响今日网络玄幻、修真、武侠、剑仙探险小说。 它上天入地，包罗万象，堪称近现代仙侠之起源；它之于东方仙侠，就像《魔戒》之于架空奇幻。 他是春秋魔笔出入青冥玄天地府，山河日月空绝古今当世的奇幻第一书。 它诞生于战乱之年，结束于建国之前，却留下了诸多未解之谜。 本专辑采用作家出版社，还珠楼主之子李观鼎先生支持下的精修版演播。 作者：还珠楼主 李寿民（1902年——1961年），四川省长寿县（今重庆市长寿区）人，笔名还珠楼主，曾被誉为“现代武侠小说之王”，代表作品《蜀山剑侠传》，一生中的作品多达4000余万字。与“悲剧侠情派”王度庐、“社会反讽派”宫白羽、“帮会技击派”郑证因、“奇情推理派”朱贞木共称“北派五大家“。在解放前的重庆籍作家中，李寿民是唯一在中国现代文学史上占有一席之地的人物。 李寿民“蜀山系列”，正传、外传、别传、前传、后传……达到了30多部，毕生著有武侠小说36部：《蜀山剑侠传》《青城十九侠》等11部出世仙侠（剑侠）系列小说，述正邪两派剑仙间善恶之争，文笔华美，极富诗情，想象瑰丽，气势磅礴，且融冶儒、道、释三教哲理于一炉，寓意深远；《云海争奇记》《兵书峡》等25部入世武侠小说，提倡崇善除恶、孝友义侠，表彰人的价值尊严。还珠武侠诸著，对郑证因、朱贞木、梁羽生、金",
+      "truncated": true
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "船长肆叔"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "船长肆叔"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Arts"
+      ],
+      [
+        "Arts",
+        "Literature"
+      ],
+      [
+        "TV & Film"
+      ],
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "History"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/20508299",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 12,
+    "episodes": [
+      {
+        "title": {
+          "text": "蜀山剑侠传0000权且算作预告",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group54/M04/E5/FE/wKgLclxPRRyQMQIFABo_zVskMEU617.m4a"
+      },
+      {
+        "title": {
+          "text": "蜀山剑侠传002回",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 2,
+        "guid": "https://aod.cos.tx.xmcdn.com/group57/M0A/2A/43/wKgLd1xRmsrBbx5NAP3g56TSKJo088.mp3"
+      },
+      {
+        "title": {
+          "text": "蜀山剑侠传003回",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 3,
+        "guid": "https://aod.cos.tx.xmcdn.com/group56/M0A/64/75/wKgLgFxUUF_T7iXzARnKlwb7aIk405.mp3"
+      },
+      {
+        "title": {
+          "text": "蜀山剑侠传005回",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 5,
+        "guid": "https://aod.cos.tx.xmcdn.com/group57/M09/B4/ED/wKgLd1xZcprjjcFWAN4-NOI4ynQ357.mp3"
+      },
+      {
+        "title": {
+          "text": "蜀山剑侠传006回",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 6,
+        "guid": "https://aod.cos.tx.xmcdn.com/group55/M0A/E0/61/wKgLf1xcl42AA7oqAN-T5MkE4Z0462.mp3"
+      },
+      {
+        "title": {
+          "text": "蜀山剑侠传008回（上）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 8,
+        "guid": "https://aod.cos.tx.xmcdn.com/group57/M00/20/9B/wKgLgVxgN7SjivdgAW_FFOobPuU038.mp3"
+      },
+      {
+        "title": {
+          "text": "蜀山剑侠传008回（下）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 9,
+        "guid": "https://aod.cos.tx.xmcdn.com/group55/M0A/35/FA/wKgLf1xhZ6nQvIhBARIEVNtp3BM874.mp3"
+      },
+      {
+        "title": {
+          "text": "蜀山剑侠传009回（中）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 11,
+        "guid": "https://aod.cos.tx.xmcdn.com/group57/M0A/D3/5F/wKgLd1xoH47S8jbzAW9hJEVVM7c472.mp3"
+      }
+    ]
+  }
+}

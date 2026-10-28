@@ -1,0 +1,126 @@
+{
+  "show_id": "1519594158",
+  "feed_url": "https://anchor.fm/s/57cf268/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/57cf268/podcast/rss",
+    "final_url": "https://anchor.fm/s/57cf268/podcast/rss",
+    "fetched_at": "2026-10-25T14:42:06.772240+00:00",
+    "status": 200,
+    "sha256": "65f376357571120a408aaecec619ff9766fdfa6a257bf60e9d097a5645b79bfc"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Moshi rants",
+    "truncated": false
+  },
+  "description": {
+    "text": "Hey! Im just here to make you laugh! I f you feel any other type of way your on your own! 😂",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "en",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 7,
+  "episodes": [
+    {
+      "id": "52902a8a5decdbb57c56a1a3dd5810018982c33b5d32fc8bc5850700db782aee",
+      "guid": "8c25547d-7b75-4d0d-b74b-23372cc65d96",
+      "title": {
+        "text": "Ep: 5 The life of a North Carolinian",
+        "truncated": false
+      },
+      "description": {
+        "text": "I love north carolina i really really do",
+        "truncated": false
+      },
+      "published_at": "Sat, 05 Sep 2020 01:40:31 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "81498c7faf8310ed72900f50dc9b821c11804fb840bada577f1c64f89ef5d1b1",
+      "guid": "d45dbc0a-224f-42d0-8a01-c06d74f2ec46",
+      "title": {
+        "text": "Ep 4. Thicccc",
+        "truncated": false
+      },
+      "description": {
+        "text": "I got used folks...i got used",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Jul 2020 03:51:25 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "703c3706d3a9d795fa3ffeebd4412e318aa621c2b8ee6b12df157a666bea7009",
+      "guid": "eb98eca6-c421-4004-bb9b-bbbeb64e9d08",
+      "title": {
+        "text": "Ep 3: strategy",
+        "truncated": false
+      },
+      "description": {
+        "text": "I have a fondness for strategy in video games and sports",
+        "truncated": false
+      },
+      "published_at": "Sat, 04 Jul 2020 00:12:11 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "d086dd0237fbfd5c4dbf92098f5d27d968eea72d6bf81ec9b7be4076ebaf6271",
+      "guid": "8708142d-b169-4b4a-8966-4a331d5fb2b1",
+      "title": {
+        "text": "Ep 2: I dont get rappers.",
+        "truncated": false
+      },
+      "description": {
+        "text": "Follow me on social media! Instagram: hippy_ky_yay_ . Youtube: moshi_nc96. Twitter: @jsest1996",
+        "truncated": false
+      },
+      "published_at": "Sat, 27 Jun 2020 00:49:20 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "5fa936d0063612365e1a5df20b7bd78f5d84fa47d432e28aa8b3350decb7acd3",
+      "guid": "9732e277-8fe1-4b76-9fab-3c047b0d0f35",
+      "title": {
+        "text": "ep 1: i hate dating",
+        "truncated": false
+      },
+      "description": {
+        "text": "dating can be complicated. but moral of the story: TAKE YOUR TIME!",
+        "truncated": false
+      },
+      "published_at": "Sun, 21 Jun 2020 19:47:03 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "fe26cf58352e74268084fa25b5e3335f154daefb0f05e378010c999545c74761",
+      "guid": "8d89eaa4-5299-4418-a9a2-ccc4d1f2bb44",
+      "title": {
+        "text": "Moshi rants (Trailer)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 21 Jun 2020 18:15:39 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "9bf4b2ac7096c761765a93a8eb543e0f4f519d782ec6285d434161bf0aa7aa48",
+      "guid": "aee3afeb-e929-438b-b52a-8a783c4e6af3",
+      "title": {
+        "text": "Intro intro",
+        "truncated": false
+      },
+      "description": {
+        "text": "I want to give yall a snippet of who i am and why im here! This is just the beginning!",
+        "truncated": false
+      },
+      "published_at": "Sat, 20 Jun 2020 01:46:11 GMT",
+      "feed_index": 6
+    }
+  ]
+}

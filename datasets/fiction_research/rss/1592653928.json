@@ -1,0 +1,140 @@
+{
+  "show_id": "1592653928",
+  "feed_url": "https://feeds.soundon.fm/podcasts/856370c9-ba57-49be-adf0-ee839dc1a5bd.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/856370c9-ba57-49be-adf0-ee839dc1a5bd.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/856370c9-ba57-49be-adf0-ee839dc1a5bd.xml",
+    "fetched_at": "2026-10-25T14:54:29.136945+00:00",
+    "status": 200,
+    "sha256": "2aa6cae45c158a98fce0c735d092d9899f16cf0b545828debffbdb1c719c4c46"
+  },
+  "status": "ok",
+  "title": {
+    "text": "嘿，親愛的！Hey Dear!",
+    "truncated": false
+  },
+  "description": {
+    "text": "一个偏感性的男生和一个理性与感性并存的女生，一起主持节目，会擦出什么样的火花？ 给你提供男女两种不同的视角，让你知道从火星来的男生和从金星来的女生到底想法上有多大的碰撞？ 职场、两性、感情、时事、跟生活有关的内容和不同角度的观点～ 接近30岁的平凡人底面对什么烦恼？ 这里细数年近30岁的平凡人的日常，陪着你通勤、上班、下班，给你支持，面对生活的力量～ Donate我们1杯咖啡，以支持我们制作更好的节目内容: Buy Me A Coffee Link: https://buymeacoffee.com/heydear0511 Sound On 小额Donate: https://pay.soundon.fm/podcasts/856370c9-ba57-49be-adf0-ee839dc1a5bd -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 97,
+  "episodes": [
+    {
+      "id": "67db535ccbd438b8253f3fdd582c82bf6886af9fcf21d0bcc99ed5bdb8f2ba7b",
+      "guid": "2ba48311-08a2-4562-97e6-b948b0c0a5e2",
+      "title": {
+        "text": "EP96｜别人明明在称赞你，你为什么还是不相信？是真心赞美，还是客套话？",
+        "truncated": false
+      },
+      "description": {
+        "text": "别人对你的赞赏，是真心的吗？ 会不会常常听到别人称赞你，都会有这个疑问？ 对于很常自我怀疑的曼宁来说，如何练习真心接受赞美？对于很常因为要气氛好称赞人的汭哲来说，怎么真心称赞人的同时，让自己也舒服，不会有被掏空的感觉？ 如何让人感受到你是真心赞美对方？ 练习收下别人的赞美，也是一个功课哦～ 听完这一集，有什么感受，都可以到FB或者IG告诉我们哦❤️ Donate我们1杯咖啡，以支持我们制作更好的节目内容 https://forms.gle/mekqNrXnbqxt2P6e6 我们的Instagram: 嘿亲爱的官方ig： https://www.instagram.com/heydear0511/ 曼宁 https://www.instagram.com/manning11062/ 汭哲 https://www.instagram.com/vzoeho/ 我们的面子书FB： 官方FB： https://www.facebook.com/heydearpodcast0511/ 曼宁 https://www.facebook.com/manning0626 汭哲 https://www.facebook.com/Vzoeho -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 13 Oct 2026 12:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "c351790e9d4a62c9446d749af63c0606de732816c888ac434e195fda3a37e2e3",
+      "guid": "dad65d37-e6ed-42c0-bbfc-1e449331d4d4",
+      "title": {
+        "text": "EP82 | 职场太难了：小人很难缠？！细说职场那些事 feat.蕾蕾",
+        "truncated": false
+      },
+      "description": {
+        "text": "hihi我们更新新的一集了！ 这一次邀请到的是曼宁的好姐妹蕾蕾来节目玩耍，而蕾蕾也把她录podcast的第一次献给了我们❤️ 久违的职场题，作为一开始工作就在大公司上班的蕾蕾，跟我们分享了很多在大公司工作的benefit但也遇到职场小人？ 还有在大公司工作很多的SOP要跟随究竟有多烦人？ 面对职场或是生活上的小人该怎么处理？ 黑纸白字，凡事留后路给自己，就是最好的其中一个应对方式 剩下的？ 听这一集就知道咯～ 听完这一集，有什么感受，都可以到FB或者IG告诉我们哦❤️ 我们的Instagram: 嘿亲爱的官方ig： https://www.instagram.com/heydear0511/ 曼宁 https://www.instagram.com/manning11062/ 汭哲 https://www.instagram.com/vzoeho/ 我们的面子书FB： 官方FB： https://www.facebook.com/heydearpodcast0511/ 曼宁 https://www.facebook.com/manning0626 汭哲 https://www.facebook.com/Vzoeho Donate我们两杯咖啡，以支持我们制作更好的节目内容： https://buymeacoffee.com/heydear0511 -- Hosting provide",
+        "truncated": true
+      },
+      "published_at": "Tue, 19 May 2026 12:00:00 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "fc2664c37b13cb44233b27125db268a838cbc011d0f72ade1d9e5858133dc797",
+      "guid": "5fafc326-cb17-46eb-a2bb-002047ad89b3",
+      "title": {
+        "text": "EP69｜ 初体验系列：驻唱真的那么容易吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集重点聚焦在曼宁的驻唱初次体验！ 曼宁将坦诚地分享她的感受，包括那些让她感到激动和不安的瞬间。 听完这一集，有什么感受，都可以到FB或者IG告诉我们哦❤️ 我们的Instagram: 嘿亲爱的官方ig： https://www.instagram.com/heydear0511/ 曼宁 https://www.instagram.com/manning11062/ 子情 https://www.instagram.com/zzcc.jessie/ 我们的面子书FB： 官方FB： https://www.facebook.com/heydearpodcast0511 曼宁 https://www.facebook.com/manning0626 子情 https://www.facebook.com/ziching2020 Donate我们两杯咖啡，以支持我们制作更好的节目内容： https://buymeacoffee.com/heydear0511 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 24 Sep 2023 12:00:00 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "30fbd45fb1376a652a54d252364b73b60e4f0dd15a1d9a8e64d48b01281ec517",
+      "guid": "3c2a56b3-58bb-42ab-a364-2a66d49f4a14",
+      "title": {
+        "text": "EP55｜ 打包2022立2023年flag的时候到了：到底立了多扯的flag，有惩罚？！",
+        "truncated": false
+      },
+      "description": {
+        "text": "录这集的时候，是2022年倒数第二天 每年的岁末年初，每一年我们都不忘会总结今年许愿明年。 但是这次，我们是立Flag！还有惩罚？！ 小明跟曼宁都分别对自己毫不手软（就是要玩死自己的节奏） 这个flag就交给每一位听节目的你们做个见证 一起帮我们做记录 明年的最后我们再来看看自己有没有完成自己立的flag！ 谢谢大家对我们的支持跟喜爱 我们明年继续陪伴大家哟 新年快乐！ 听完这一集，有什么感受，都可以到FB或者IG告诉我们哦❤️ 我们的Instagram: 嘿亲爱的官方ig： https://www.instagram.com/heydear0511/ 曼宁 https://www.instagram.com/manning11062/ 是小明鸭 https://www.instagram.com/movieduck20/ 我们的面子书FB： 官方FB： https://www.facebook.com/heydearpodcast0511/ 曼宁 https://www.facebook.com/manning0626 是小明鸭 https://www.facebook.com/%E6%98%AF%E5%B0%8F%E6%98%8E%E9%B8%AD-100343231747745/ Donate我们两杯咖啡，以支持我们制作更好的节目内容： https://buymeacoffe",
+        "truncated": true
+      },
+      "published_at": "Sun, 01 Jan 2023 12:00:00 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "fcb36c8809a9077a9c08bca2b2ecb5faca4b0375027b44dd04a281b5450d84c8",
+      "guid": "e01ce4c3-7c92-4733-b350-37bb487cea4f",
+      "title": {
+        "text": "EP41 | 假如我裸辞了：小明裸辞了？！",
+        "truncated": false
+      },
+      "description": {
+        "text": "hi各位亲爱的大家，这一集是很特别的一集～ 假如我裸辞了没有「假如」，这集是小明一个人生重大抉择的记录 是的，小明辞职了，而且是很勇敢的：裸 辞 了！ 裸辞到底可不可怕？是到底下了多破釜沉舟心情才会裸辞呢？ 到底是什么原因，会让小明离开她喜欢的同事与工作环境呢？ 这个人生重大决定的时刻，我们让大家，一起跟我们经历与见证🥰 听完这一集，有什么感受，都可以到FB或者IG告诉我们哦❤️ 我们的Instagram: 嘿亲爱的官方ig： https://www.instagram.com/heydear0511/ 曼宁 https://www.instagram.com/manning11062/ 是小明鸭 https://www.instagram.com/movieduck20/ 我们的面子书FB： 官方FB： https://www.facebook.com/heydearpodcast0511/ 曼宁 https://www.facebook.com/manning0626 是小明鸭 https://www.facebook.com/%E6%98%AF%E5%B0%8F%E6%98%8E%E9%B8%AD-100343231747745/ Donate我们两杯咖啡，以支持我们制作更好的节目内容： https://buymeacoffee.com/heydear0511 -- Host",
+        "truncated": true
+      },
+      "published_at": "Sat, 03 Sep 2022 12:00:00 GMT",
+      "feed_index": 55
+    },
+    {
+      "id": "bfe57740b7f13d05de63a5eae457a6de519c0045d03799722c0824e9d90d05a7",
+      "guid": "aebb75d1-b470-48c4-9992-7043893cbe22",
+      "title": {
+        "text": "EP27｜ 父母应不应该打骂孩子：打是疼骂是爱吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "来临的星期日，就是母亲节❤️ 而5月到6月都是双亲节，母亲节落在5月的第二个星期日，父亲节是在6月的第3个星期日❤️ 配合双亲节，我们就来聊聊跟父母有关的主题：「父母应不应该打骂孩子？」 仔细聊起来，曼宁跟小明也是在不同的家庭环境下长大的，小明家里实行的是打骂教育，曼宁家里则两者都有，不过曼宁的长大氛围，是比较偏向有原则性的爱的教育。 不同成长环境，到底又会聊出什么不同的火花？ 藤条真的只是Level 1？到底小明心里的被打骂教育level最高的等级去到什么样的程度？ 想知道更多？记得点击收听完整节目🥰 虽然说父母在我们的成长过程中，或许也有做得不好的地方，但是他们也是第一次做父母，也要照顾跟引导不同性格的孩子们，难免会有没办法照顾周全或是有一碗水都端平的时候。 我们也是第一次当孩子，他们也是第一次当父母，而当父母，真的是你开始当了之后一直不断的学习的。 趁着双亲节，对父母好好表达你的爱，好好的感谢与陪伴父母❤️ 珍惜跟家人还有父母在一起的时光，不要让自己留有遗憾❤️ 无论你是打骂教育长大的也好，还是爱的教育长大的也好，都要记得：「树欲静而风不止，子欲养而亲不待」。 你不会知道是明天先到还是无常先到，珍惜眼前人，真的很重要❤️ 觉得害羞的，可以写小纸条给父母，告诉他们一声：我爱你❤️ 不害羞的，就赶紧趁双亲节，好好对父母说吧🥰 听完这一集，有什么感受，都可以到FB或者IG告诉我们哦",
+        "truncated": true
+      },
+      "published_at": "Fri, 06 May 2022 12:00:00 GMT",
+      "feed_index": 69
+    },
+    {
+      "id": "b996557794e3a85eda8307c65fdecc680cabfb6d790a8b117ff74b1740fa1291",
+      "guid": "a6224698-ab08-4aa4-8c51-ffea903eaab5",
+      "title": {
+        "text": "EP14 | 最好哭的中文爱情电影：你看过哪几部，哭了吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "当当当当！我们今天来尝试第一季一直想做很久的一个主题，就是聊有关电影的主题啦！ 是的，看电影是小明的爱好！也是我们一直很想聊的主题❤️ 经过讨论，我们决定来聊聊到目前为止看过最好哭的中文爱情电影❤️ 不知道我们列举讨论的这四部最好哭的中文爱情电影大家有没有看过？ 以及带大家了解这几部电影的剧情，让我们哭的点在哪里？ 小明跟曼宁哭最惨的电影都不一样，而且触动我们的点，也都跟我们的经历有关 看电影的时候，很容易就把自己的情感也投射进入电影里面 让我们跟着电影的角色一起经历剧情的跌宕起伏，跟着他们走完整个人生❤️ 或许看完电影你会释怀，也可能深深陷进电影剧情的情绪里无法自拔 不过在看完电影后，记得等工作人员的roll card跑完了才离开 这也是对幕前幕后付出的工作人员与电影工作者一个尊重🥰 情人节快到了，也可以听完我们的节目，选出我们推荐的几部电影跟情人一起观赏❤️ 这是我们第一次尝试这一个主题，如果有什么不足，我们会努力改进的❤️ 听完这一集，有什么感受，都可以到FB或者IG告诉我们哦❤️ 我们的Instagram: 嘿亲爱的官方ig： https://www.instagram.com/heydear0511/ 曼宁 https://www.instagram.com/manning11062/ 是小明鸭 https://www.instagram.com/movieduck20/",
+        "truncated": true
+      },
+      "published_at": "Fri, 28 Jan 2022 12:00:00 GMT",
+      "feed_index": 82
+    },
+    {
+      "id": "7e357eeed684f897b004a39f91ec61c0c5edf5f860036aeb02b279294b4fcc0d",
+      "guid": "6984c21a-2b4d-4f23-8d66-dca43152a0d6",
+      "title": {
+        "text": "EP0：嘿，亲爱的！爆笑温馨试播带",
+        "truncated": false
+      },
+      "description": {
+        "text": "这个podcast节目的诞生，真的让我们非常感动～ 这集既爆笑又温馨的试播带就这样被我们「生」出来了！ 试播带里可以听到我们节目的名称由来、想带给大家什么样的感觉与讯息、还有为什么我们要做这个podcast节目。 《嘿，亲爱的》每周五晚上8点会准时上架，各大podcast平台均可收听。 喜欢我们的节目，欢迎订阅与follow我们哦～ 我们的Instagram: 嘿亲爱的官方ig： https://www.instagram.com/heydear0511/ 曼宁 https://www.instagram.com/manning11062/ 是小明鸭 https://www.instagram.com/movieduck20/ 我们的面子书FB： 官方FB： https://www.facebook.com/heydearpodcast0511/ 曼宁 https://www.facebook.com/manning0626 是小明鸭 https://www.facebook.com/%E6%98%AF%E5%B0%8F%E6%98%8E%E9%B8%AD-100343231747745/ Donate我们两杯咖啡，以支持我们制作更好的节目内容： https://buymeacoffee.com/heydear0511 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 29 Oct 2021 12:00:00 GMT",
+      "feed_index": 96
+    }
+  ]
+}

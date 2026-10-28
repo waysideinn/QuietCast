@@ -1,0 +1,140 @@
+{
+  "show_id": "1618466865",
+  "feed_url": "http://www.ximalaya.com/album/61035303.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/61035303.xml",
+    "final_url": "http://www.ximalaya.com/album/61035303.xml",
+    "fetched_at": "2026-10-25T14:44:09.362547+00:00",
+    "status": 200,
+    "sha256": "9cc01c532ad3a06e12e3dcb25d09fe1a9257f28ce896d171943793f29520e461"
+  },
+  "status": "ok",
+  "title": {
+    "text": "阴阳摆渡人｜悬疑｜灵异｜精品有声小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "精品双播有声小说，期待您的支持和评论！ 更多精彩内容欢迎订阅公众号：方鸣远播有声工作室",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 105,
+  "episodes": [
+    {
+      "id": "45424e5785fa5c3418b57191bcae2bd6bf87d7817b89710c7528b2d09a11e47d",
+      "guid": "xmly_track_515207029",
+      "title": {
+        "text": "001阴阳摆渡人第一集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 28 Mar 2022 01:30:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "09aa631afdc31a7555499a649495e7beba732ef8da12956c1ae14ad85d69e1da",
+      "guid": "xmly_track_515207372",
+      "title": {
+        "text": "016阴阳摆渡人第十六集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Apr 2022 01:30:02 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "c064612fc00817a3e594b5ec0e423b893f3113eeb62f0ef32a76fdacf9012604",
+      "guid": "xmly_track_517038513",
+      "title": {
+        "text": "031阴阳摆渡人第三十一集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Apr 2022 01:30:00 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "8ac80c2374c2ac6acb3d7e3c599f2facf2f79902f898b1c2245e7db61b795b0e",
+      "guid": "xmly_track_519666432",
+      "title": {
+        "text": "046阴阳摆渡人第四十六集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 19 Apr 2022 01:30:02 GMT",
+      "feed_index": 45
+    },
+    {
+      "id": "fa92815f122f92c0b04d445d6b7001a80688b68493f5ab529fb8e37fd3bb1ee1",
+      "guid": "xmly_track_524035617",
+      "title": {
+        "text": "060阴阳摆渡人第六十集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 26 Apr 2022 01:30:02 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "591930da125e3992e26372f15e6a47ca3b95f6723d07457c833d2409f14900f5",
+      "guid": "xmly_track_526511342",
+      "title": {
+        "text": "075阴阳摆渡人第七十五集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 04 May 2022 01:30:00 GMT",
+      "feed_index": 74
+    },
+    {
+      "id": "3d2a8759f14a274d4e051cf1b8654a40aa644448177023b0038cb4a42c02291a",
+      "guid": "xmly_track_529349513",
+      "title": {
+        "text": "090阴阳摆渡人第九十集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 11 May 2022 01:30:02 GMT",
+      "feed_index": 89
+    },
+    {
+      "id": "8ea9fb700900c2c95bea4abcc82ae846aff278c21cc2dae862b6104ae000ca7b",
+      "guid": "xmly_track_531483354",
+      "title": {
+        "text": "105阴阳摆渡人第一百零五集（完结）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 May 2022 01:30:00 GMT",
+      "feed_index": 104
+    }
+  ]
+}

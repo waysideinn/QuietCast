@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/77765284.xml",
+    "final_url": "https://www.ximalaya.com/album/77765284.xml",
+    "fetched_at": "2026-10-26T07:56:31.037688+00:00",
+    "status": 200,
+    "sha256": "1bb9abc2407a0c5a8d733a912f3ad711309a60b0c7dbf5ce6df8e853e8134234"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "白蛇传玄幻言情",
+      "truncated": false
+    },
+    "description": {
+      "text": "不一样的故事,带来不一样的感受! 作者:老海 縯播:夜纾",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "带给听书"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "带给听书"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Science Fiction"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/77765284",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 452,
+    "episodes": [
+      {
+        "title": {
+          "text": "0001 白蛇传 001",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_662309235"
+      },
+      {
+        "title": {
+          "text": "0065 白蛇传 065",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 64,
+        "guid": "xmly_track_662428327"
+      },
+      {
+        "title": {
+          "text": "0130 白蛇传 130",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 129,
+        "guid": "xmly_track_662431728"
+      },
+      {
+        "title": {
+          "text": "0194 白蛇传 194",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 193,
+        "guid": "xmly_track_662439129"
+      },
+      {
+        "title": {
+          "text": "0259 白蛇传 259",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 258,
+        "guid": "xmly_track_663156560"
+      },
+      {
+        "title": {
+          "text": "0323 白蛇传 323",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 322,
+        "guid": "xmly_track_663165600"
+      },
+      {
+        "title": {
+          "text": "0388 白蛇传 388",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 387,
+        "guid": "xmly_track_663173390"
+      },
+      {
+        "title": {
+          "text": "0452 白蛇传 452(完结)",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 451,
+        "guid": "xmly_track_663177011"
+      }
+    ]
+  }
+}

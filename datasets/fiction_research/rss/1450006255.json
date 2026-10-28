@@ -1,0 +1,55 @@
+{
+  "show_id": "1450006255",
+  "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:593470944/sounds.rss",
+  "source": {
+    "url": "https://feeds.soundcloud.com/users/soundcloud:users:593470944/sounds.rss",
+    "final_url": "https://feeds.soundcloud.com/users/soundcloud:users:593470944/sounds.rss",
+    "fetched_at": "2026-10-25T14:49:44.394846+00:00",
+    "status": 200,
+    "sha256": "8575c83d6ed0c116fcaf11f7891c0a79d44e913f920c8b3be4f5f62079c3980c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "九八新聞台",
+    "truncated": false
+  },
+  "description": {
+    "text": "Podcast by News98",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "explicit": "no"
+  },
+  "feed_item_count": 2,
+  "episodes": [
+    {
+      "id": "eebe47e5a415c66774441c72294a5e1b04fe398fde464f21967267215d622ab2",
+      "guid": "tag:soundcloud,2010:tracks/2425373496",
+      "title": {
+        "text": "News98 九八新聞台│'26.10.25 重點新聞",
+        "truncated": false
+      },
+      "description": {
+        "text": "2026.10.25 重點新聞 iOS系統呼叫「Siri，我想聽九八新聞台新聞」也聽得到喔。 ----- ▍九八新聞台@大台北地區 FM98.1 ▍官網：http://www.news98.com.tw ▍粉絲團：https://www.facebook.com/News98 ▍線上收聽：https://pse.is/R5W29 ▍APP下載 • APP Store：https://news98.page.link/apps • Google Play：https://news98.page.link/play ▍YouTube頻道：https://www.youtube.com/user/News98radio ▍Podcast：https://news98radio.wixsite.com/news98podcast",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Oct 2026 00:00:00 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "05a21712d3d18e6f4795bfb188ab45410cd8a6b740c68597fa6acc1bd9c5ed84",
+      "guid": "tag:soundcloud,2010:tracks/2425373223",
+      "title": {
+        "text": "News98 九八新聞台│'26.10.25 重點新聞 Il",
+        "truncated": false
+      },
+      "description": {
+        "text": "2026.10.25 重點新聞 Il iOS系統呼叫「Siri，我想聽九八新聞台新聞」也聽得到喔。 ----- ▍九八新聞台@大台北地區 FM98.1 ▍官網：http://www.news98.com.tw ▍粉絲團：https://www.facebook.com/News98 ▍線上收聽：https://pse.is/R5W29 ▍APP下載 • APP Store：https://news98.page.link/apps • Google Play：https://news98.page.link/play ▍YouTube頻道：https://www.youtube.com/user/News98radio ▍Podcast：https://news98radio.wixsite.com/news98podcast",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Oct 2026 00:00:00 +0000",
+      "feed_index": 1
+    }
+  ]
+}

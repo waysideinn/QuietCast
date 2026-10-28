@@ -1,0 +1,98 @@
+{
+  "show_id": "1523229322",
+  "feed_url": "https://anchor.fm/s/2b464fa8/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/2b464fa8/podcast/rss",
+    "final_url": "https://anchor.fm/s/2b464fa8/podcast/rss",
+    "fetched_at": "2026-10-25T14:42:11.406363+00:00",
+    "status": 200,
+    "sha256": "a8602344ace2dadbe25720eaf72bbd31d80af8719b9cedc7d34439bfd03a00a5"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Moshi Moshi",
+    "truncated": false
+  },
+  "description": {
+    "text": "Negeri sakura, negerinya para samurai, negerinya para robot, negeri yang penuh keunikan, ya itulah Jepang.. Podcast ini akan bercerita tentang semua yang berbau Jepang, mulai dari belajara bahasa Jepang, pendidikan di Jepang, beasiswa ke Jepang, anime, dorama, budaya ,makanan dan apapun yang ingin kamu ketahui tentang Jepang.",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 5,
+  "episodes": [
+    {
+      "id": "95d655d879d61b8a6be1c1d7bddd903e645056a36325f4007557c6473b073c63",
+      "guid": "a6f2a8ef-c3c8-4400-b2c1-eaf0dad6f22d",
+      "title": {
+        "text": "Jum'at cerdas #01",
+        "truncated": false
+      },
+      "description": {
+        "text": "Cara memperkenalkan diri alami seperti orang Jepang asli.",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Jul 2020 19:00:27 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "4ce82ffad56248c4d311aa8bd8b0fc32c93a187c06df9410b1df21d6368f5291",
+      "guid": "f8f6494b-f01f-4f42-8780-0b047f2ef324",
+      "title": {
+        "text": "Rabu ceria #01",
+        "truncated": false
+      },
+      "description": {
+        "text": "5 hal unik yang hanya ada di Jepang.",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Jul 2020 18:00:42 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "5139fb958cb1a98119d1ebeb03185f09458c99d422187387c8c9d418310c6d2a",
+      "guid": "d8ca3773-8d16-4ecb-aa22-91b94da246f4",
+      "title": {
+        "text": "Senin inspirasi #01",
+        "truncated": false
+      },
+      "description": {
+        "text": "Quote motivasi dari anime Ruroni Kenshin.",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 Jul 2020 05:28:37 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "895912cf2c86a7a37a2a3db9213e9e0a9689b2467c8538b65797c73f97196e54",
+      "guid": "e3b27e03-bb02-44dd-8196-b03e34405e1f",
+      "title": {
+        "text": "Selamat datang di Moshi Moshi",
+        "truncated": false
+      },
+      "description": {
+        "text": "Podcast ini mengudara 3x seminggu. Senin, Rabu dan Jumat. Senin inspirasi, Rabu ceria, dan Jumat cerdas.",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 Jul 2020 04:57:14 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "9883f6ca9ae76e00a9f0063884552c80c05fffec73e80c3b5b21174e665b5699",
+      "guid": "7dc3ca7b-64eb-4f1c-ba4d-de82970366bd",
+      "title": {
+        "text": "Moshi Moshi (Trailer)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 11 Jul 2020 09:53:25 GMT",
+      "feed_index": 4
+    }
+  ]
+}

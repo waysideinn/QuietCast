@@ -1,0 +1,140 @@
+{
+  "show_id": "1549493045",
+  "feed_url": "http://www.ximalaya.com/album/42622023.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/42622023.xml",
+    "final_url": "http://www.ximalaya.com/album/42622023.xml",
+    "fetched_at": "2026-10-25T14:42:29.240592+00:00",
+    "status": 200,
+    "sha256": "db9e16c36ffd6bc18ef3e321bf1dfcc225846091172c8c3670015c5fbe6f6bd7"
+  },
+  "status": "ok",
+  "title": {
+    "text": "法医丑妃：王爷，晚上见｜穿越破案悬疑（永久免费）",
+    "truncated": false
+  },
+  "description": {
+    "text": "号外号外 ！精品有声书《 总裁追妻太凶猛 》已加急上线，欢迎大家收听，更多优质有声作品制作中，希望大家能够喜欢！ 长篇免费穿越古言甜宠腹黑双播剧，星空文学倾力制作，每日8点准时更新，不定时加更！ 欢迎订阅分享好评！ 作品简介： 21世纪的女法医，一穿越就惹了一个帅男人。 不仅跳入杀人的迷案，还丑得惊天地泣鬼神。 生父不喜，姐妹伪善，太子毁婚！ 那能怎么办？当然是重操旧业，披荆斩棘的活下去！ 气死渣爹，手撕白莲花，踹掉渣男，破尽奇案，从此走上人生巅峰。 喂，那个妖孽的男人是怎么回事？ 嫌她身材！嫌她脸丑！ 却又总会缠上来！ 她对他怒吼，滚滚滚，老娘的世界不需要男人！ 作者简介： 王妃凉凉，星空文学 网女频作者，古言穿越资深写手，代表作品 《法医丑妃：王爷，晚上见》，《法医王妃：我给王爷养包子》 主播简介： 猴十四&乔木",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 283,
+  "episodes": [
+    {
+      "id": "0596cfd4016450a559ebeede4df4c56194f4b8434fbf9970f76f19d160dbe5fc",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0fc8-audiofreehighqps/65/8E/CMCoOSUDsO8HACMoSAByOwBi.m4a",
+      "title": {
+        "text": "《法医丑妃：王爷，晚上见》000（猴十四&乔木免费精品双播）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 16 Nov 2020 03:44:27 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1d7513b802d30a6b5daa0443c46c3a13b6d78ef494e0bd0154e4de5475e3ea71",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/df37-audiofreehighqps/39/AD/CMCoOSADY_nDAHsqeABewT5t-aacv2-48K.m4a",
+      "title": {
+        "text": "法医丑妃-040 入宫，赐下毒茶",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 20 Oct 2020 01:00:12 GMT",
+      "feed_index": 40
+    },
+    {
+      "id": "7c945e6a61a866bf82f7258a20aa9b59af3f2f636a794f7415a39bd72f5627b1",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/384a-audiofreehighqps/0A/7C/CMCoOSYDdmFiAHzRYgBjICZo-aacv2-48K.m4a",
+      "title": {
+        "text": "法医丑妃-081 毒计，逼入绝境",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 03 Nov 2020 00:02:00 GMT",
+      "feed_index": 81
+    },
+    {
+      "id": "c44752b088c369d280f63d3b33b23fc0d1f4494afe341590555824b9beed952f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/289c-audiofreehighqps/E8/FA/CMCoOSIDg5EUAHubiwBmZ8NN.m4a",
+      "title": {
+        "text": "法医丑妃-121 动机，毫无头绪",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 16 Nov 2020 00:03:50 GMT",
+      "feed_index": 121
+    },
+    {
+      "id": "8050f9fd305cb70811790d39fff0de2e4d47c2d7b5f8d4c845e1b25ac4832ee8",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ea58-audiofreehighqps/3B/EC/CMCoOSMDk5DMAHjXwwBqfwLe.m4a",
+      "title": {
+        "text": "法医丑妃-161 源头，跟水有关",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 27 Nov 2020 00:03:01 GMT",
+      "feed_index": 161
+    },
+    {
+      "id": "0c9e0c799f19e87561a854735f2360fefd366ae5a879c20fe71ffc91116009fb",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/bd89-audiofreehighqps/F6/C5/CMCoOSEDnmfCAHwMngBteC-8-aacv2-48K.m4a",
+      "title": {
+        "text": "法医丑妃-201 地窖，非人待遇",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 11 Dec 2020 00:00:49 GMT",
+      "feed_index": 201
+    },
+    {
+      "id": "a3aa7094525ae3d03e5ca5d36d32e4e3b19f2164862740d1caecf821bf375878",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c857-audiofreehighqps/66/08/CMCoOSQDsI1wAHX98gByJEjs.m4a",
+      "title": {
+        "text": "法医丑妃-242 长生，阴女阳男",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 24 Dec 2020 00:03:21 GMT",
+      "feed_index": 242
+    },
+    {
+      "id": "f33bdad41a55cfd967c0535faa79a8ab1b1cb563575c1193dd9e92919f0e13ef",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1541-audiofreehighqps/B8/37/CMCoOSMDu1RgAGz8gQB0yr7D-aacv2-48K.m4a",
+      "title": {
+        "text": "282 大结局（完）（姐妹篇《法医王妃，我给王爷养包子》欢迎收听）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 07 Jan 2021 00:00:27 GMT",
+      "feed_index": 282
+    }
+  ]
+}

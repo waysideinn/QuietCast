@@ -1,0 +1,161 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/76501095.xml",
+    "final_url": "https://www.ximalaya.com/album/76501095.xml",
+    "fetched_at": "2026-10-26T07:57:19.018966+00:00",
+    "status": 200,
+    "sha256": "243d33f46557dc6479d20fa21910cc5c7858cced0befdfd7376f95141dda1b9c"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "人大社·哲学文库·马克思宗教批判思想及其当代启示",
+      "truncated": false
+    },
+    "description": {
+      "text": "宗教批判是马克思主义进行哲学活动和创建社会革命理论的出发点。从宗教批判出发，马克思创建唯物史观，推动社会变革，其目的就是最终实现人的解放。在马克思看来，批判宗教的过程，就是要把被宗教剥夺的内容归还给人，这个过程就是呼唤人性回归的过程。 本书旨从马克思批判宗教的高度来分析当前宗教热的原因，探究其中蕴含的人类精神需求，批判宗教迷信。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "多云下的蛋@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "多云下的蛋"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "多云下的蛋"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Philosophy"
+      ],
+      [
+        "Education"
+      ],
+      [
+        "Education",
+        "Courses"
+      ],
+      [
+        "History"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/76501095",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 73,
+    "episodes": [
+      {
+        "title": {
+          "text": "01：序",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_641566284"
+      },
+      {
+        "title": {
+          "text": "11：《卡尔马克思的中学考试宗教问题作文》的主要内容",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 10,
+        "guid": "xmly_track_641599655"
+      },
+      {
+        "title": {
+          "text": "22：马克思宗教批判思想的理路",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 21,
+        "guid": "xmly_track_641599879"
+      },
+      {
+        "title": {
+          "text": "32：反对所有的神，因为他们不承认人的自我意识有最高神性",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 31,
+        "guid": "xmly_track_641600056"
+      },
+      {
+        "title": {
+          "text": "42：《〈黑格尔法哲学批判〉导言》中马克思关于宗教问题的论断",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 41,
+        "guid": "xmly_track_641600258"
+      },
+      {
+        "title": {
+          "text": "52：改变社会，克服宗教 共产主义与人性复归",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 51,
+        "guid": "xmly_track_641600560"
+      },
+      {
+        "title": {
+          "text": "63：前苏联、东欧人道主义反思与宗教回潮",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 62,
+        "guid": "xmly_track_641601117"
+      },
+      {
+        "title": {
+          "text": "73：结束语",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 72,
+        "guid": "xmly_track_641601234"
+      }
+    ]
+  }
+}

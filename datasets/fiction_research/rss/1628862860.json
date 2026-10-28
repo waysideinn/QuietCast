@@ -1,0 +1,140 @@
+{
+  "show_id": "1628862860",
+  "feed_url": "https://www.ximalaya.com/album/62005954.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/62005954.xml",
+    "final_url": "https://www.ximalaya.com/album/62005954.xml",
+    "fetched_at": "2026-10-25T14:44:24.693119+00:00",
+    "status": 200,
+    "sha256": "1d54e6bc732ee3a0ef7fe362672de3609071bc600c44392a10a79996d95c96e9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "末世重生之浴火凤凰|涅槃|双播爽文|全书免费",
+    "truncated": false
+  },
+  "description": {
+    "text": "末世五年，人性泯灭。林鸾没有死于丧尸之口，却命丧同伴的贪婪之下。再睁眼，她回到了六年前。这一年，末世还未来临，那些真心待她的亲人朋友还未因她丧命……前世的错，今世改过。涅槃重生，她发誓宁为刀俎，不为鱼肉。她要尽她所能，让自己和在乎的人，都好好活着！可是，这不知打哪冒出个师兄，死皮赖脸求投靠，求收留，求包养，她又该如何应对？",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 419,
+  "episodes": [
+    {
+      "id": "3f19a729207ab060ea0674dfc8aa4332978330d0c35ca87be6799debcf6de12f",
+      "guid": "xmly_track_517165540",
+      "title": {
+        "text": "001-报应 | 新书开播，女强爽文，先听个100集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 01 Apr 2022 13:32:25 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "2676fd3f03cbb3d2eaeeb9fe664251281021964f60fa16e3ec55370ad2dbd392",
+      "guid": "xmly_track_525184313",
+      "title": {
+        "text": "061-前往监狱",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 24 Apr 2022 12:52:28 GMT",
+      "feed_index": 60
+    },
+    {
+      "id": "641cf56e7f6ba888b34ae002879237e7a51958c901d883d09d479937693b3617",
+      "guid": "xmly_track_532206434",
+      "title": {
+        "text": "120-开夜车",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 May 2022 16:21:23 GMT",
+      "feed_index": 119
+    },
+    {
+      "id": "463c03e0ea5d8690e691057639c3e98706a678e4d42cd7cf6ff52078818204e8",
+      "guid": "xmly_track_539986501",
+      "title": {
+        "text": "180-放虎归山",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Jun 2022 16:41:59 GMT",
+      "feed_index": 179
+    },
+    {
+      "id": "7c72656627b4f32d9ba0eb481ca2f8bf026b57faed2c910aa5ee32eac4a1e96d",
+      "guid": "xmly_track_545906740",
+      "title": {
+        "text": "240-细思恐极",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 23 Jun 2022 18:02:07 GMT",
+      "feed_index": 239
+    },
+    {
+      "id": "5acda765bf77019e3c038f052d908c876d2edc54f87f9ea4bb65c9401b7efd29",
+      "guid": "xmly_track_551816309",
+      "title": {
+        "text": "300-正当防卫",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 13 Jul 2022 15:57:58 GMT",
+      "feed_index": 299
+    },
+    {
+      "id": "ad6dec610edee0a00f09e59d8f8869adcf6169e79fe418f7cb2e73da8f19a7d0",
+      "guid": "xmly_track_557824257",
+      "title": {
+        "text": "359-测试药效",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 02 Aug 2022 17:34:32 GMT",
+      "feed_index": 358
+    },
+    {
+      "id": "b9ff8a72c2b751610f65d9152588516a694553b4a4e9b2c28a72b9c9a54dc79f",
+      "guid": "xmly_track_563358165",
+      "title": {
+        "text": "419-这次是真的结束啦！(完结)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 Aug 2022 17:33:52 GMT",
+      "feed_index": 418
+    }
+  ]
+}

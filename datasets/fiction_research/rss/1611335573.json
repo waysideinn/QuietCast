@@ -1,0 +1,140 @@
+{
+  "show_id": "1611335573",
+  "feed_url": "http://www.ximalaya.com/album/52664011.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/52664011.xml",
+    "final_url": "http://www.ximalaya.com/album/52664011.xml",
+    "fetched_at": "2026-10-25T14:55:59.115817+00:00",
+    "status": 200,
+    "sha256": "d288e9fc1d826c5eda37df4f5254013390ef32f78420941292035c2e220bce89"
+  },
+  "status": "ok",
+  "title": {
+    "text": "剑啸江湖丨逍遥剑客&江湖争霸丨免费有声书",
+    "truncated": false
+  },
+  "description": {
+    "text": "一份侠骨柔情，换来奇耻大辱，江湖何为？ 一份爱恨纠缠，遭遇天下不齿，何为红颜？ 正道，魔道，何为正？何为魔？何解？ 凭栏望，刹那芳华掩风雨，无谓正，何来魔， 生死决，阴阳相隔伤故人，隐泰山，没江湖。 主题：正道也有小人，魔道亦有好人，正亦邪，邪亦正。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 230,
+  "episodes": [
+    {
+      "id": "25cb824a38174a5f0cf9837231742b0331964c409a008c4491d7f03f54c41865",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e16b-audiofreehighqps/F0/D3/GKwRIaIFvJcnAEd47wEOiJ-Q-aacv2-48K.m4a",
+      "title": {
+        "text": "剑啸江湖丨第一章：燕山平浪（重录）（欢迎订阅、评论）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 01 Sep 2021 13:09:28 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "fc0928b77026044c55ca4c7043c11ed7caf94eb1c558fd786becaf53b5210d8e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/aa40-audiofreehighqps/DB/C6/CKwRIasFLg4QABAAAADowzGF.mp3",
+      "title": {
+        "text": "剑啸江湖丨第三十四章：易经经",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 02 Oct 2021 11:42:42 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "28c3b1f2e9cd85f5b516ec260f3324304d9dbf22edda11f3e78cae5fa0a652a9",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b38d-audiofreehighqps/0D/5F/CKwRIJIFUyWJABAAAADyEA5T.mp3",
+      "title": {
+        "text": "剑啸江湖丨第六十六章：翘楚第一人就是个屁",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 01 Nov 2021 01:00:00 GMT",
+      "feed_index": 65
+    },
+    {
+      "id": "704d0e1faf0bfc0ec5b8a09480cf32eb31d6868d7465a830b2972d290e6d278b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/fb57-audiofreehighqps/A3/BD/GKwRIW4FfUZvABAAAAD9livy.mp3",
+      "title": {
+        "text": "剑啸江湖丨第九十九章：迟来的刀",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Dec 2021 10:00:00 GMT",
+      "feed_index": 98
+    },
+    {
+      "id": "85a15153e93bc2b8a434a3a4f0a0c6f95e04394c563591615cfc257248bb4281",
+      "guid": "xmly_track_488894486",
+      "title": {
+        "text": "剑啸江湖丨第一百三十二章：毒害太子",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 03 Jan 2022 10:11:27 GMT",
+      "feed_index": 131
+    },
+    {
+      "id": "ebd8a2a57daf426e0dcfab0c7b81cad0953d568e6f2a3e6558e5ca1860eca8c9",
+      "guid": "xmly_track_499065734",
+      "title": {
+        "text": "剑啸江湖丨一百六十五章：回临安半路遇刺",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 05 Feb 2022 07:31:21 GMT",
+      "feed_index": 164
+    },
+    {
+      "id": "3d87c6aae457eb6d3cfcc11a13ba294bdde7eb76bd3a2de9af79a587fa4606b9",
+      "guid": "xmly_track_507982866",
+      "title": {
+        "text": "剑啸江湖丨一百九十七章：冲冠一怒为红颜",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 06 Mar 2022 01:00:00 GMT",
+      "feed_index": 196
+    },
+    {
+      "id": "f85e302e71373879a87c94f0b0fcaae57b05f30702deafe950b5ede0a177ed30",
+      "guid": "xmly_track_524424573",
+      "title": {
+        "text": "剑啸江湖丨二百三十章（大结局）：决战泰山生死离别",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Apr 2022 08:26:47 GMT",
+      "feed_index": 229
+    }
+  ]
+}

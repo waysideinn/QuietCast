@@ -1,0 +1,56 @@
+{
+  "show_id": "1627412636",
+  "feed_url": "https://feed.firstory.me/rss/user/cl3wgy4gv012w01u39p7n3vr6",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/cl3wgy4gv012w01u39p7n3vr6",
+    "final_url": "https://feed.firstory.me/rss/user/cl3wgy4gv012w01u39p7n3vr6",
+    "fetched_at": "2026-10-25T14:55:49.225609+00:00",
+    "status": 200,
+    "sha256": "d248ea378bc5af6bdeb5b0c0dceb57d2284e75674cec50628b0490358e184fa5"
+  },
+  "status": "ok",
+  "title": {
+    "text": "疫苗的故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "有史學家指出，回顧人類歷史就會發現，造成最大傷亡的竟然並不是戰爭，而是疾病。譬如，在人類文明的發展史上，天花和黑死病、霍亂等瘟疫，就都留下了驚人的死亡數字。從某個角度來看，人類文明史就是一部對抗病魔的歷史。 疫苗可以說是現代醫學最偉大的發明之一。本書從琴納的種牛痘(天花疫苗的概念)、到巴斯德的狂犬病疫苗，再到沙克的小兒麻痹症疫苗，從十八世紀末到二十世紀中葉，以三個疫苗的故事來讓大家瞭解疫苗發展史上三個重要的里程碑，並兼而講述種牛痘的前身、中國種人痘的故事，還有種牛痘是如何普及，以及好幾位優秀的科學家包括兩位微生物學家科赫和科恩在內的故事，希望讓孩子們增廣見聞之餘，也能從小積極培養科學的精神。 Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 2,
+  "episodes": [
+    {
+      "id": "a822a18bba308aeb876ac0a117e1a9cbcde71df9a0ce9a215b322aaa965cddb2",
+      "guid": "clnk5du3j01d701zbhfmfaqr1",
+      "title": {
+        "text": "琴納的故事(二)",
+        "truncated": false
+      },
+      "description": {
+        "text": "在遙遠的古埃及，就已經有天花發作的紀錄，這是最早的相關紀錄。距今三千年前（西元前一一四五年），埃及法老拉美西斯五世突然死亡，後世考古學家從他的木乃伊頭部所留下的傷痕，也推測他可能是死於天花。 在很長一段時間之內，人類對天花一直感到很頭痛，一直到十八世紀末、西元一七九六年，一位英國的鄉村醫生愛德華・琴納..... 點聽更多集數 https://is.gd/L1jeUK Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 10 Oct 2023 09:56:54 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "0cd8eaa3c423cf86bff211ea90644585eda354be171e6856ee7cb74657f50ce8",
+      "guid": "cl3wl6kqe01lv01u3hkmtep49",
+      "title": {
+        "text": "琴納的故事(一)",
+        "truncated": false
+      },
+      "description": {
+        "text": "在遙遠的古埃及，就已經有天花發作的紀錄，這是最早的相關紀錄。距今三千年前（西元前一一四五年），埃及法老拉美西斯五世突然死亡，後世考古學家從他的木乃伊頭部所留下的傷痕，也推測他可能是死於天花。 在很長一段時間之內，人類對天花一直感到很頭痛，一直到十八世紀末、西元一七九六年，一位英國的鄉村醫生愛德華・琴納..... 聆聽更多關於 疫苗的故事 關於我們： 好好聽FM APP： http://onelink.to/94hhtfm 好好聽FM Web： https://risu.io/DYKs 好好聽FM YouTube： https://risu.io/5lTL ★贊助專用連結(綠界金流/可用信用卡、ATM) 👉 Donate： https://www.provoice.tw/host/donate/ytprovoice/ 好好聽出品 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 Jun 2022 05:38:13 GMT",
+      "feed_index": 1
+    }
+  ]
+}

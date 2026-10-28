@@ -1,0 +1,42 @@
+{
+  "show_id": "1565440246",
+  "feed_url": "https://anchor.fm/s/5766a04c/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/5766a04c/podcast/rss",
+    "final_url": "https://anchor.fm/s/5766a04c/podcast/rss",
+    "fetched_at": "2026-10-25T14:42:48.595217+00:00",
+    "status": 200,
+    "sha256": "6ea709714ca9a867822be97cf90eb0c7bde0ae2f4d33bc250b96988add53e495"
+  },
+  "status": "ok",
+  "title": {
+    "text": "おこのボケたがり",
+    "truncated": false
+  },
+  "description": {
+    "text": "子供のころ、陽気にボケられた私たちが社会に身を置くようなり、上司やお偉いさんの前ではボケることができない。 そんな私たちが一丸となってこのラジオでボケまくろう。というラジオ ラジオのはがきはこちらまで →[email removed]",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 1,
+  "episodes": [
+    {
+      "id": "2b1ed7ed2e6e0afee2684e9c525f116d128765af076dbc662ed3ac73cfbcca28",
+      "guid": "9b8963ae-9cc3-4904-8604-ca6e10a25148",
+      "title": {
+        "text": "#1 おこのボケたがり 生まれたてのボケ",
+        "truncated": false
+      },
+      "description": {
+        "text": "初めましておこです！！ っていうだけの初ラジオ",
+        "truncated": false
+      },
+      "published_at": "Sun, 18 Apr 2021 06:11:03 GMT",
+      "feed_index": 0
+    }
+  ]
+}

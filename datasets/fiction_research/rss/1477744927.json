@@ -1,0 +1,140 @@
+{
+  "show_id": "1477744927",
+  "feed_url": "http://www.ximalaya.com/album/11049586.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/11049586.xml",
+    "final_url": "http://www.ximalaya.com/album/11049586.xml",
+    "fetched_at": "2026-10-25T14:50:33.000234+00:00",
+    "status": 200,
+    "sha256": "bf17d66d087ca37c0eaf117a44169d86710d6adff078182e49e8216acdf44adb"
+  },
+  "status": "ok",
+  "title": {
+    "text": "中传mfa｜艺术学概论考点串讲",
+    "truncated": false
+  },
+  "description": {
+    "text": "本书针对中国传媒大学艺术硕士mfa等院校艺术类硕士考试以艺术学概论、艺术概论任一本作为考试书目的教辅音频资料。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 243,
+  "episodes": [
+    {
+      "id": "a49a1ff7173b3623964035400deaacee6a96b7c02125743748bf905c86b3b8b0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group50/M0B/01/DF/wKgKnVusjkXQlzyiAEIKX49Is6o044.m4a",
+      "title": {
+        "text": "【懵懂说】mfa报考专业方向如何选择",
+        "truncated": false
+      },
+      "description": {
+        "text": "前几天一个师哥发了这段话，我觉得很受用，在这里分享给大家。",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 Sep 2018 08:00:57 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "bd9eb06cb436889bd2946a6613b57098e2a07f346d896fff5d181489bd6ad945",
+      "guid": "https://aod.cos.tx.xmcdn.com/group22/M0A/F7/8F/wKgJM1ok3hiQCKZfACJ1LoxUTWs400.m4a",
+      "title": {
+        "text": "简答论述一级重点：2.简述中国传统艺术精神",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Dec 2017 05:33:04 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "6b92576a6cd4d960503fbc09ce5655aaa168115916170693efe2c279261e3ec1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group35/M03/E8/EA/wKgJnVoXt_-zTGPMABCIUFxZLFc040.m4a",
+      "title": {
+        "text": "2.艺术流派",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Nov 2017 06:11:09 GMT",
+      "feed_index": 69
+    },
+    {
+      "id": "216ec253a0053c057b760859b82baffdd25a02042915d659b3bbc201e2179824",
+      "guid": "https://aod.cos.tx.xmcdn.com/group35/M06/8C/17/wKgJnFoLgAKjfIW0ABY3iCHkkvc293.m4a",
+      "title": {
+        "text": "2.简述艺术意象的特征",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Nov 2017 23:45:02 GMT",
+      "feed_index": 104
+    },
+    {
+      "id": "098163494a18e4a61a9db74be576490dce8a95c16e54eddd6a93ce6eb52f779c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group33/M07/6F/A3/wKgJTFn-a8fwYprlABmV40cYvc4111.m4a",
+      "title": {
+        "text": "3.如何理解中国画的特点？如何理解中西方绘画的区别？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Nov 2017 01:39:15 GMT",
+      "feed_index": 138
+    },
+    {
+      "id": "3a96845ba50c5c243964ea5d4748d96b0147edd50cd1a8351bae519781f9de6d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group32/M00/68/5E/wKgJUFn30-HDzfjYAB7uFa4oi2Q089.m4a",
+      "title": {
+        "text": "简答论述一级重点：1.如何理解艺术与经济的关系？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 Oct 2017 01:37:29 GMT",
+      "feed_index": 173
+    },
+    {
+      "id": "cd67dceaa80d749670d794fd613b997edd0f0938637633be29dd93376890cb07",
+      "guid": "https://aod.cos.tx.xmcdn.com/group34/M04/86/46/wKgJYFnvL3KBfVQoAB2JQhm0G1E742.m4a",
+      "title": {
+        "text": "6.罗丹 在自然中一般人所谓丑，在艺术中能变成非常的美。",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 24 Oct 2017 12:17:48 GMT",
+      "feed_index": 207
+    },
+    {
+      "id": "2ff569a7fc90a1baf655c32b9aedfc487f1a79d0e6382444515a9faa246551f1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group34/M04/E0/5E/wKgJYFngF0CBzGv-ABOIUVO5mJg671.m4a",
+      "title": {
+        "text": "第一章第一节名词解释一级重点1.美的本质",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 13 Oct 2017 01:30:37 GMT",
+      "feed_index": 242
+    }
+  ]
+}

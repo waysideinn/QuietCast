@@ -1,0 +1,140 @@
+{
+  "show_id": "1440580962",
+  "feed_url": "https://anchor.fm/s/77a62d0/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/77a62d0/podcast/rss",
+    "final_url": "https://anchor.fm/s/77a62d0/podcast/rss",
+    "fetched_at": "2026-10-25T14:41:40.144379+00:00",
+    "status": 200,
+    "sha256": "4bd41e5a61200ab046088553dc539f33586a6327368e849b3123b7a05e4b23fb"
+  },
+  "status": "ok",
+  "title": {
+    "text": "牛醫生與狗護士的扑假狗(2024年重生了！)",
+    "truncated": false
+  },
+  "description": {
+    "text": "返來啦~ (中間斷左個啲集數就由佢啦~)",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 737,
+  "episodes": [
+    {
+      "id": "7c111f7c941739b282691343f4f8081d76c944853bcce595024cbbc9fd753782",
+      "guid": "915a71aa-5204-46c6-a764-89d83711d578",
+      "title": {
+        "text": "重生第4集 上天總會開度門(2024年2月27日)",
+        "truncated": false
+      },
+      "description": {
+        "text": "重生第4集 上天總會開度門(2024年2月27日)",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Mar 2024 10:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "39ecfadd6efd66dedb5bc54a92579f90c8d93b749be6bf5c55fddc29dbcb49f2",
+      "guid": "a90e6e99-7726-4957-930e-154d0ad06fd8",
+      "title": {
+        "text": "第 616 集 唔識停 (2021年3月9日)",
+        "truncated": false
+      },
+      "description": {
+        "text": "第 616 集 唔識停 (2021年3月9日)",
+        "truncated": false
+      },
+      "published_at": "Fri, 28 May 2021 09:00:00 GMT",
+      "feed_index": 105
+    },
+    {
+      "id": "985eb5cfd1721c79216b92b148f2a6d4e0dfb4aa0288a40237196d2d18966546",
+      "guid": "1cd81a4e-70ee-43c9-83b5-293c65c70761",
+      "title": {
+        "text": "第 511 集 會見網友計劃 (2018年8月28日)",
+        "truncated": false
+      },
+      "description": {
+        "text": "第 511 集 會見網友計劃 (2018年8月28日)",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Mar 2021 11:03:44 GMT",
+      "feed_index": 210
+    },
+    {
+      "id": "e16fb204cabf2cc6d6c424d82300a625f91e5953a986b8e6e398774c61315434",
+      "guid": "90eb5362-6eaf-b93e-fae5-d40f3280aa42",
+      "title": {
+        "text": "第 406 集 場景決定角色荀哥編 (2016年3月29日)",
+        "truncated": false
+      },
+      "description": {
+        "text": "第 406 集 場景決定角色荀哥編 (2016年3月29日)",
+        "truncated": false
+      },
+      "published_at": "Fri, 28 Jun 2019 05:02:30 GMT",
+      "feed_index": 315
+    },
+    {
+      "id": "6bc4bd48fe047b12cc0be7bb7c54eb2d0d3d588f137ff5e89be738ba5c16036c",
+      "guid": "5d21839b-0735-474b-2a5d-3c8ec908b7f8",
+      "title": {
+        "text": "第 297 集 談壓力 (13年7月23日)",
+        "truncated": false
+      },
+      "description": {
+        "text": "Latest episode of 牛醫生與狗護士的扑假狗(全集!不停更新)",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Jan 2019 06:58:50 GMT",
+      "feed_index": 421
+    },
+    {
+      "id": "895bdedcb184db176dc551f16a7f839a18bd53bbe344663c206b9f834d34f53b",
+      "guid": "d2edf59c-7017-8228-230a-f3ca823a6776",
+      "title": {
+        "text": "第 178 集 核心價值 (10年8月17日)",
+        "truncated": false
+      },
+      "description": {
+        "text": "Latest episode of 牛醫生與狗護士的扑假狗(全集!不停更新)",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Jan 2019 03:29:53 GMT",
+      "feed_index": 526
+    },
+    {
+      "id": "43ded6aabd78b3360dcbb57189a7deb85e2803684d67ea8047820ba3fe1bd79e",
+      "guid": "e501750f-d2aa-c4ad-2ec5-8d1cac02ad58",
+      "title": {
+        "text": "第 72 集 談出路 (08年5月7日)",
+        "truncated": false
+      },
+      "description": {
+        "text": "Latest episode of 牛醫生與狗護士的扑假狗(全集!不停更新)",
+        "truncated": false
+      },
+      "published_at": "Thu, 01 Nov 2018 10:24:41 GMT",
+      "feed_index": 631
+    },
+    {
+      "id": "156e6276e1b87e48394a540164f2e844cf5c0046128c31e126a428fa2930e004",
+      "guid": "c5f60474-5eb0-c5f5-86f7-ce19981ae622",
+      "title": {
+        "text": "第一集 談愛情 (05年8月7日)",
+        "truncated": false
+      },
+      "description": {
+        "text": "The very first episode of this podcast!!",
+        "truncated": false
+      },
+      "published_at": "Sat, 27 Oct 2018 02:58:01 GMT",
+      "feed_index": 736
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1633620855",
+  "feed_url": "https://feeds.soundon.fm/podcasts/35ab7e94-8d5d-4155-a6b6-fc7c81434b4c.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/35ab7e94-8d5d-4155-a6b6-fc7c81434b4c.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/35ab7e94-8d5d-4155-a6b6-fc7c81434b4c.xml",
+    "fetched_at": "2026-10-25T14:44:36.892421+00:00",
+    "status": 200,
+    "sha256": "afa4a77077706d1333218b8a68a631d70a629c66cdb2c093b0dd9d87b43847b7"
+  },
+  "status": "ok",
+  "title": {
+    "text": "世新廣播電臺 / 劇荒ICU",
+    "truncated": false
+  },
+  "description": {
+    "text": "你也是追劇的重度患者嗎？歡迎來到劇荒ICU，在這裡可以盡情分享你的口袋劇單，與主持人一起暢聊好劇吧！ -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 43,
+  "episodes": [
+    {
+      "id": "61e88f929766cbecb5d1db81fd9efefb7477c5a06896d99914db4d3a9aa290a1",
+      "guid": "237307dc-77a6-436f-9ef1-8e339f1df495",
+      "title": {
+        "text": "EP43｜萬眾矚目！！長月燼明終於開播了！！",
+        "truncated": false
+      },
+      "description": {
+        "text": "EP43 從開拍就被我期待到現在的長月燼明終於等到啦！！ 只能說白鹿跟羅雲熙這個組合就是不會錯 澹臺燼完全就是為了羅雲熙打造的啊！服化道也驚呆我了！ 雖然不如預期，但也是推推～",
+        "truncated": false
+      },
+      "published_at": "Thu, 18 May 2023 06:07:14 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "5344579e4652ba67a335134bd077ce47f8aa0e0affae7f535b6b0114456bb2e2",
+      "guid": "fcb8ba5e-e30f-4341-8c1f-d1b79d3f0a57",
+      "title": {
+        "text": "EP37｜特別企劃｜今天來點特別的小說推薦～",
+        "truncated": false
+      },
+      "description": {
+        "text": "EP37 不知道大家有沒有看小說的習慣，我自己看小說算是蠻常一段時間了 一直都很喜歡搜集各式各樣好看的小說！ 這次整理了幾本長度適中劇情超讚的小說推薦給你們 還有一些是即將影視化的作品，超期待啦！",
+        "truncated": false
+      },
+      "published_at": "Thu, 13 Apr 2023 15:21:08 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "5869d061eace583db6f32e2b583267a2b002d5daabaef1bd8096bd085c4b3878",
+      "guid": "688a7075-9f31-46a6-a52e-73c010d3330c",
+      "title": {
+        "text": "EP31｜近期愛劇去有風的地方！想去大理玩了😍",
+        "truncated": false
+      },
+      "description": {
+        "text": "EP31 去有風的地方簡直不要太好看啊！節奏舒服的一部小甜劇 真的把大理拍的好美！音樂也很好聽😍 每次看劉亦菲走在雲苗村的路上就會很想加入！ 大家快去看！看完會舒壓！",
+        "truncated": false
+      },
+      "published_at": "Thu, 23 Feb 2023 12:32:01 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "8f39c74a2fbfdfc6eee6392e8f6b375465b7d52302afa525738651706619210a",
+      "guid": "6f7e9101-2b96-4c1f-9400-4be969d51860",
+      "title": {
+        "text": "EP25｜淺聊延禧攻略！清宮爽劇看起來～～",
+        "truncated": false
+      },
+      "description": {
+        "text": "EP25 上集跟姊姊一起聊了如懿傳，這集直接把延禧攻略也安排上啦！ 相信很多平常不愛古裝的姐妹們第一部可能都是從延禧攻略開始的～ 這部也是我的愛劇之一，在歷史的基礎又有加了很多新穎的橋段 觀眾真的愛不釋手啊！",
+        "truncated": false
+      },
+      "published_at": "Wed, 11 Jan 2023 13:43:29 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "3ffe7ed9ee10a945e2dea362613933deaf1215e8adf037c8fd96d1a73ff17d0d",
+      "guid": "01076774-7c52-4586-a002-cdf528df2d06",
+      "title": {
+        "text": "EP19｜她和她的她來了！走在逐漸愛上懸疑劇的路上～～",
+        "truncated": false
+      },
+      "description": {
+        "text": "EP19 今天分享她和她的她這部新台劇！個人認為表現中上！有各位大咖雲集的加持，算是可以推給大家的一部劇！整體氛圍蠻沈重的，如果不喜歡沈重感的人慎入！老實說最近有點劇荒，大家如果有好看的劇也歡迎分享給我還有大家呦！",
+        "truncated": false
+      },
+      "published_at": "Fri, 18 Nov 2022 15:23:31 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "d198604ab93f2f9c250c3b0175433c50c1e22fd1e7ef2dd4961e7796f03fadb1",
+      "guid": "9f061310-471d-4671-8a03-accc778da2e3",
+      "title": {
+        "text": "EP13｜這集根本得罪人！新坑劇荒避雷針主持人發抖獻上......",
+        "truncated": false
+      },
+      "description": {
+        "text": "EP13 這集完完全全就是在開罪大家，趕快先道歉…..獻上我的膝蓋 總之有好劇也會有些許雷劇存在吧….這集就是在淺說一下我追劇這麼多年覺得看下來沒那麼優秀的劇！ 事先聲明，沒有要引起紛爭！純屬個人感受，如果剛好說到你們的愛劇就請多多包涵啦！ 本集純屬分享，大家不要吵架喔！",
+        "truncated": false
+      },
+      "published_at": "Sun, 02 Oct 2022 15:58:06 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "79f12f818c5d6128f29dc5f65d98cb234b20686fa1a7bf44865531b296be8d0b",
+      "guid": "c446087e-da09-485a-b812-70267ca9b7c8",
+      "title": {
+        "text": "EP07｜冷門都市群像劇推推！年輕人的辛酸誰懂？",
+        "truncated": false
+      },
+      "description": {
+        "text": "EP07 今天要推的是一部小眾冷門的都市群像劇-我在他鄉挺好的，雖然只有短短12集，但麻雀雖小五臟俱全！ 以多方角度切入現代年輕人在外打拼的苦楚酸澀，卻又不會太過悲觀，劇情溫暖而寫實，值得花上一兩天去細品劇情想帶給觀眾的道理！是部營養好劇！推薦給你們！",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Aug 2022 18:08:27 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "6dbc86f580f9ec8ab7e78e0b77f9043bce4da44d108bea21e0c948b985df49f0",
+      "guid": "f74c65a8-0475-4bb1-8b49-7d29c22b1346",
+      "title": {
+        "text": "EP01｜開播首秀｜帶你進入警察的世界？一起聊聊陸劇警察榮譽吧！",
+        "truncated": false
+      },
+      "description": {
+        "text": "EP01 歡迎來到劇荒ICU！你今天劇荒了嗎？ 不知道最近劇迷們有沒有關注到警察榮譽這部電視劇呢！可以說是近期的一大黑馬呢～ 看完之後我也是收穫滿滿，還在觀望的你，不如進來聽聽我的介紹吧 如果是跟我一樣走在追劇最前端的你，也一起來聊聊你的見解吧！",
+        "truncated": false
+      },
+      "published_at": "Fri, 08 Jul 2022 09:00:00 GMT",
+      "feed_index": 42
+    }
+  ]
+}

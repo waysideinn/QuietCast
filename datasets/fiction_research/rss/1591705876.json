@@ -1,0 +1,140 @@
+{
+  "show_id": "1591705876",
+  "feed_url": "http://www.ximalaya.com/album/52976086.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/52976086.xml",
+    "final_url": "http://www.ximalaya.com/album/52976086.xml",
+    "fetched_at": "2026-10-25T14:43:19.944972+00:00",
+    "status": 200,
+    "sha256": "a5c71e92860b0a58085a6500b4450208bbb0f044876b0d60b05f10bce0a98171"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【免费】风雨桐江｜红色经典 | 写实谍战小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "主播新作《风雨桐江》姊妹篇《南洋淘金记》，欢迎订阅收听~ 《风雨桐江》首次出版时间为1964年，至今被收录为中国百部红色经典，本书以独特方式描绘了中国共产党农村包围城市的伟大战略。 以小说的形式，生动描写了当时历史情况下，农民谋生存谋出路的真实写照。因长盛不衰的生命，堪称宝藏文学，被收录在\"了一的宝藏书库\"。 情节跌宕起伏，展现了当时背景下，农村生活如何困难，但他们仍然抱着希望活下去的历史状态。 这部作品是了一与团队的第一部作品，因为团队不完善，所以不能为您展现最优秀的状态。 我们也希望遇到真正有兴趣、愿意一同发展的小伙伴。 参演人员：了一有声 后期：肖洛克福尔摩思",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 148,
+  "episodes": [
+    {
+      "id": "cda53e0dc88a658c3eb492e0f8f15b98772381f85af9be928bb995ebb758c045",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ef39-audiofreehighqps/1E/C1/GKwRIaIFl5qeABaOHgEFNs_U-aacv2-48K.m4a",
+      "title": {
+        "text": "前言(重录版）您的订阅是我更好的动力！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 11 Sep 2021 16:42:28 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "85d77b532f68cec0ffbdde33122e47ca565c1d40918203df2b8a57fd985c2153",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ea41-audiofreehighqps/1F/1E/CKwRIDoFUzRVAEmfmgDyE8ui-aacv2-48K.m4a",
+      "title": {
+        "text": "风雨桐江【020】无辜青年遭斩首，妻子被卖逼做娼",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 01 Nov 2021 00:45:00 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "47bc67c1cfa3effde92fd7f7b78b3d3156e8065fa7547ef91e2737c78edd47f0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/cea9-audiofreehighqps/B3/FF/GKwRIW4FfrpQAD2LEwD9_rjp-aacv2-48K.m4a",
+      "title": {
+        "text": "风雨桐江【041】司令参谋齐上阵，乡团司令有二心",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Dec 2021 02:00:00 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "38234798ebd053d505488face0271a6d14f214d0f8a20778b5e58e1e84f0bfc0",
+      "guid": "xmly_track_484894547",
+      "title": {
+        "text": "风雨桐江【062】初次接头背口令，暗度庆娘离危城",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Dec 2021 02:00:00 GMT",
+      "feed_index": 63
+    },
+    {
+      "id": "ad332111516e0aa3b38fe69eaec0a1b3f50bb0119e28310edbd6f025cab9a366",
+      "guid": "xmly_track_490309308",
+      "title": {
+        "text": "风雨桐江【083】中央军接管为民镇，三方势力锋芒在即",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 14 Jan 2022 02:00:00 GMT",
+      "feed_index": 84
+    },
+    {
+      "id": "a2d1bfcb0ee56a2710fbc4364f0e7d77efe96d7e325d424d37a988176a08f8c6",
+      "guid": "xmly_track_498458826",
+      "title": {
+        "text": "风雨桐江【104】夫妻二人接连被绑，玉华老娘苦求遭拒",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 05 Feb 2022 02:00:00 GMT",
+      "feed_index": 105
+    },
+    {
+      "id": "2db9f8367e85a28a9342769c8d18b04184c0a44ec434f160aa16c7541d08d533",
+      "guid": "xmly_track_505074436",
+      "title": {
+        "text": "风雨桐江【125】吴启超接替林雄模，许德胜暗度上下木",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 26 Feb 2022 02:00:00 GMT",
+      "feed_index": 126
+    },
+    {
+      "id": "bf33b61d57864fa261442fb9ff744f1fdde8db9cf47e893cdf6920731d589117",
+      "guid": "xmly_track_526500959",
+      "title": {
+        "text": "写在风雨桐江后，欢迎订阅《南洋淘金记》",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 Apr 2022 10:05:03 GMT",
+      "feed_index": 147
+    }
+  ]
+}

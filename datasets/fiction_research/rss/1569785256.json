@@ -1,0 +1,140 @@
+{
+  "show_id": "1569785256",
+  "feed_url": "http://www.ximalaya.com/album/31049415.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/31049415.xml",
+    "final_url": "http://www.ximalaya.com/album/31049415.xml",
+    "fetched_at": "2026-10-25T14:42:52.873272+00:00",
+    "status": 200,
+    "sha256": "83ffa0e3e46188b8eea0d3b5a0a297189a33936eea824eeb8f03a923f23c4782"
+  },
+  "status": "ok",
+  "title": {
+    "text": "《猎宝者说》悬疑︱探险︱玄学︱灵异",
+    "truncated": false
+  },
+  "description": {
+    "text": "这是一个普通又不平凡的故事。 故事里面的人和事。 或许刚刚和你擦肩而过，又或许正在你的身边发生着。 吃死人肉的高中生，诡异的土匪墓，王府的地下隐藏着什么样的秘密，日本关东军，在一片荒芜的死山里到底做了什么。 又是什么让尘封了半个世纪的宝藏重见天日，一切的答案，尽在小妞讲故事，《列宝者说》第一卷《东北迷踪》、第二卷《湘西老尸》。笑烟云著，娴静小妞播讲，欢迎大家收听……",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 338,
+  "episodes": [
+    {
+      "id": "3a4b674b685fe45b1eed627fa9e0ce27d3ff7a94db41a2586c555e6f6d893a10",
+      "guid": "https://aod.cos.tx.xmcdn.com/group69/M0B/A4/0B/wKgMeV3Q0Inx_fl7AE4RonaUFvE004-aacv2-48K.m4a",
+      "title": {
+        "text": "第一卷 第1章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 17 Nov 2019 04:45:58 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "65275ba85f00e8b444f56e62167fbfc82f59f11c9c3cd34bd2fb039247410009",
+      "guid": "https://aod.cos.tx.xmcdn.com/group67/M08/A5/FB/wKgMbV3uQGKQlfCVAETJtKV5QrU732.m4a",
+      "title": {
+        "text": "第一卷 第49章",
+        "truncated": false
+      },
+      "description": {
+        "text": "这是一个普通又不平凡的故事。 故事里面的人和事。 或许刚刚和你擦肩而过，又或许正在你的身边发生着。 吃死人肉的高中生，诡异的土匪墓，王府的地下隐藏着什么样的秘密，日本关东军，在一片荒芜的死山里到底做了什么。 又是什么让尘封了半个世纪的宝藏重见天日，一切的答案，尽在小妞讲故事，《列宝者说》第一卷《东北迷踪》。笑烟云著，娴静小妞播讲，欢迎大家收听……",
+        "truncated": false
+      },
+      "published_at": "Wed, 11 Dec 2019 04:10:00 GMT",
+      "feed_index": 48
+    },
+    {
+      "id": "57e84e7a5efac4a935d8ef6f48fc7a15c9deeb5559ab15d6020897c20b9fa09b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group72/M0A/B3/94/wKgO0F4PMxujIPSSAELsePumvpg092.m4a",
+      "title": {
+        "text": "第一卷 第97章",
+        "truncated": false
+      },
+      "description": {
+        "text": "这是一个普通又不平凡的故事。 故事里面的人和事。 或许刚刚和你擦肩而过，又或许正在你的身边发生着。 吃死人肉的高中生，诡异的土匪墓，王府的地下隐藏着什么样的秘密，日本关东军，在一片荒芜的死山里到底做了什么。 又是什么让尘封了半个世纪的宝藏重见天日，一切的答案，尽在小妞讲故事，《列宝者说》第一卷《东北迷踪》。笑烟云著，娴静小妞播讲，欢迎大家收听……",
+        "truncated": false
+      },
+      "published_at": "Sat, 04 Jan 2020 04:10:00 GMT",
+      "feed_index": 96
+    },
+    {
+      "id": "ff28946155436015856a475760dc00c4db9e9e333c8043b37fae65a6e7629009",
+      "guid": "xmly_track_482159815",
+      "title": {
+        "text": "第二卷 第14章 会合",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Dec 2021 13:49:47 GMT",
+      "feed_index": 144
+    },
+    {
+      "id": "1e201fdaf744c6d51fba0f4030157da71079424f0b4694b40b01238e2c7ef543",
+      "guid": "xmly_track_486428514",
+      "title": {
+        "text": "第二卷 第64章 山洪来了",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 03 Jan 2022 04:10:02 GMT",
+      "feed_index": 193
+    },
+    {
+      "id": "b4e0257120579b6812d23946543720d8ff8f0c3359cfb2f6cbb9d96fa236d5ab",
+      "guid": "xmly_track_529854228",
+      "title": {
+        "text": "第三卷 第40章 尸群围攻",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 17 Jun 2022 04:10:00 GMT",
+      "feed_index": 241
+    },
+    {
+      "id": "7ac98f90c1c9bdf775834fcda5389794ea4c332507704c241c5a4ccc8f1a6bba",
+      "guid": "xmly_track_545275370",
+      "title": {
+        "text": "第四卷 第32章 见大哥",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 04 Aug 2022 04:10:00 GMT",
+      "feed_index": 289
+    },
+    {
+      "id": "102068e077f8958c0b11ed065fd8acb57ef3daa0ddf6fce15182222151f7d35b",
+      "guid": "xmly_track_545279901",
+      "title": {
+        "text": "第四卷 第80章 本季完",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 21 Sep 2022 04:10:00 GMT",
+      "feed_index": 337
+    }
+  ]
+}

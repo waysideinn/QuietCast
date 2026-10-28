@@ -1,0 +1,140 @@
+{
+  "show_id": "1554031793",
+  "feed_url": "https://anchor.fm/s/49c77448/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/49c77448/podcast/rss",
+    "final_url": "https://anchor.fm/s/49c77448/podcast/rss",
+    "fetched_at": "2026-10-25T14:52:21.945141+00:00",
+    "status": 200,
+    "sha256": "86e0438ae6bda0f2f59195a6791f6c91725950b186bbfc5fddec51458727d3df"
+  },
+  "status": "ok",
+  "title": {
+    "text": "深度泛桌派",
+    "truncated": false
+  },
+  "description": {
+    "text": "面对现实处境，鲜活问题， 不一样的视角，不一样的解读。 从现象到观念，从文化到文明， 用多方位的视角来探索人生的价值。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 173,
+  "episodes": [
+    {
+      "id": "5d613479e85079c709a6755c49aa747502f5cf377659b89eab08899af0f48de1",
+      "guid": "2293e397-fa3b-4ff3-8bea-09442d893be5",
+      "title": {
+        "text": "191. 爱神爱人与爱国 (2)",
+        "truncated": false
+      },
+      "description": {
+        "text": "爱是上帝赐给人类的礼物，但盲目的爱却会引入歧途。每个人在世上都需要找到“身份认同”，而基督徒属于两个“国度”，如何从圣经的角度看“爱国主义”？如何建立一种合乎圣经的“爱国‘？请听泛桌上的讨论。 1:45 上帝的爱包含着公义与真理 7:46 圣经当中真正的爱国 11:23 不以神为中心而以别的事物为中心就是拜偶像 15:20 什么是在神之下 20:24 爱的对象应该是谁 22:30 基督徒的自信来自神 26:09 朴素的爱国心要在真理里面查验",
+        "truncated": false
+      },
+      "published_at": "Fri, 18 Mar 2022 04:13:58 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "357247aa9fe56e5df63bbce8866d2e4cf44b364cbba96a142b317ea9161a52ed",
+      "guid": "74222c27-ba7e-418a-9008-81ea3faf3630",
+      "title": {
+        "text": "163. 我们与恶的距离——《鱿鱼游戏》赏析 (4)",
+        "truncated": false
+      },
+      "description": {
+        "text": "《鱿鱼游戏》中出现了基督徒的一些人设，而且似乎导演并没有美化他们，那面对在世俗世界中对基督教不友好的声音与批评，我们是怎么看的？从这些设定当中我们有什么反思没有？今天《深度泛桌派》就来聊聊这个话题。 2:07 剧中基督徒的人设 6:25 正视基督徒的“假冒伪善” 8:13 面对功击的反应 12:22 我们信的是圣经启示的神还是自己塑造出来的神 14:27 “人本位“的信仰 17:03 基督徒应常常自省 20:57 基督徒在苦难中的奖赏 23:35 苦难如何能成为祝福 24:20 逼迫基督徒也是政治正确",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Dec 2021 19:08:24 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "b2856bb0dc1050266dd5384120c28ed9aa9d7888c85fd04155ffcc2ae363ae77",
+      "guid": "07ab23ca-b160-450e-b0a7-aa6ee6b14fa9",
+      "title": {
+        "text": "135. 人设（2）",
+        "truncated": false
+      },
+      "description": {
+        "text": "最近“人设崩塌“成为网络关注点，吃瓜群众津津乐道看娱乐明星人设崩塌，那到底人设是什么？每个人是否都有自己的人设？人设与本色之间为什么有差别？我们都在演戏吗？ 今天泛桌上王海伦同两位嘉宾一起来聊聊这个话题。 3:15 认识“本色“要回到创造之初的出厂设置 5:05 人的最初设计 10:05 原初设计的美好 10:50 失落的原初设计 12:08 “人设崩塌”是一定会出现的 14:20 上帝为我们设定的“人设” 16:10 新身份成为标准 20:40 “活”和“演”的区别",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 Sep 2021 17:58:50 GMT",
+      "feed_index": 49
+    },
+    {
+      "id": "b74b7dd8c16aef2616dad29292a7f22811dc5bf4c8fc67265802f5eeac749078",
+      "guid": "c6cfec74-6508-447d-87d2-a4f3480a09da",
+      "title": {
+        "text": "106. 守护生命系列之一---儿童节，十万个为什么不留下孩子 (1)",
+        "truncated": false
+      },
+      "description": {
+        "text": "我们从未像现在这样需要孩子，因为社会学的统计数字显示，我们从未像现在这样不想要孩子。需要，但是不要。这成了一个问题。一群看到生命的价值，看到生命的崇高的基督徒，成立了“儿童节不堕胎”事工，今天请他们来讲讲这里面的故事。 2:03 事工的起头 12:30 需要面对的是事实和真相 16:43 如何看待人的价值 24:50 选择的原因 25:16 事工的艰难与复杂",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 May 2021 21:36:11 GMT",
+      "feed_index": 74
+    },
+    {
+      "id": "410015b97617e50e09dec97811e4beb785cf733872fe2ec5371e032b8fee3b9d",
+      "guid": "cd165147-aeaf-428c-86c4-96f5f18b8744",
+      "title": {
+        "text": "80. 漫谈从宗教改革到美利坚之二──结束与开始（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 18 Mar 2021 18:30:08 GMT",
+      "feed_index": 98
+    },
+    {
+      "id": "b92c1676d9b16ac4b6b1dbcf8240fc376836d98c425927723c9594906ef0c058",
+      "guid": "3a7d19d1-c508-4beb-be7d-ae1c0ed1f061",
+      "title": {
+        "text": "52. 中西方文化中关于“收养”的问题（1)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 25 Feb 2021 00:42:16 GMT",
+      "feed_index": 123
+    },
+    {
+      "id": "ef5ac33f09624b108d67e0cea5ac5c5367db3d8815bde180f18704bb9c9f7726",
+      "guid": "767b3d85-90b8-4402-a31a-cfeb98dfd80b",
+      "title": {
+        "text": "28. 留学圈是怎样的一种存在（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 17 Feb 2021 23:39:49 GMT",
+      "feed_index": 147
+    },
+    {
+      "id": "79f40d883c6d7bae80e45094719db5706dacd66d2370cf0402a008362518e852",
+      "guid": "a59b30f3-0014-44a7-b492-5f89d33b48ee",
+      "title": {
+        "text": "1. 智能无穷尽？AI知多少",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 17 Feb 2021 00:45:36 GMT",
+      "feed_index": 172
+    }
+  ]
+}

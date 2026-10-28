@@ -1,0 +1,140 @@
+{
+  "show_id": "1304221230",
+  "feed_url": "http://www.ximalaya.com/album/6261745.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/6261745.xml",
+    "final_url": "http://www.ximalaya.com/album/6261745.xml",
+    "fetched_at": "2026-10-25T14:48:10.189917+00:00",
+    "status": 200,
+    "sha256": "b773f52077756ba0669c82279e3f86c420c112a4c19f0928f8d0ee114fadfd77"
+  },
+  "status": "ok",
+  "title": {
+    "text": "米兰欧搭配-轻松掌握搭配秘诀",
+    "truncated": false
+  },
+  "description": {
+    "text": "如何利用搭配达到扬长避短 让你从视觉上显得又高又瘦？ 米兰欧服装搭配课程全面解决你的穿衣困惑！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 28,
+  "episodes": [
+    {
+      "id": "e4af4e6cf5fbbeb3477d4a6f621b5bfc06232ed9829df940de0db06cd844b813",
+      "guid": "https://aod.cos.tx.xmcdn.com/group39/M0B/6D/B4/wKgJn1p6oQKw5Lx1ADU29jezNGk892.m4a",
+      "title": {
+        "text": "为什么说《杀尔》是东西文化混搭的体现？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 07 Feb 2018 09:00:01 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "e2fd0b7cefc94ad7740f57e6e63c416558d85226ad5c3fb2e1551d5bae9a571a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group38/M08/E0/4B/wKgJolpqzVCSnAjhAL9RcB2ktmA130.mp3",
+      "title": {
+        "text": "《饥饿游戏》电影造型搭配解析：未来感混搭风格",
+        "truncated": false
+      },
+      "description": {
+        "text": "《饥饿游戏》可谓2012年好莱坞第一部“现象级”电影，甚至有影迷称：“看《饥饿游戏》在北美已经是全民事件。”该片上映之后，随即引发了一场观影热潮，票房持续高涨，至今北美已经突破4亿美元大关，全球票房已超6亿美元。这对于一部投资仅7600万美元的电影来说，实属不易。 《饥饿游戏》故事发生在处于北美大陆的名叫施惠国的国度，由于贫富差距过大导致各区的民众起义，但遭到当局残酷的镇压，第十三区全部覆没。为了震慑众人，统治者发明了“饥饿游戏”，企图彻底打破民众的反抗意愿。 这与日本一部非常相似的系列影片《大逃杀》有所不同，《饥饿游戏》的画面在大部分时间都带着异常浓烈的色彩，夸张得让人很不舒服，特别是片中的Lady Gaga版女秘书，天雷轰轰的造型在喜感之余带着讽刺。把“贡品”塑造成偶像的创意不错，有点类似英国电视剧《黑镜》中的一出剧情，空虚的欢乐背后总看到苦涩的味道。 浅层面上，《饥饿游戏》是因为“杀戮”、“残酷”而引人眼球，但真正看完电影，你会发现它离重口味还差得很远，其实电影里另有一些东西，值得我们玩味。例如，《饥饿游戏》系列电影的服饰就令人印象深刻。 《饥饿游戏》的服装设计Judianna Makovsky（茱迪安娜·马科夫斯基）曾凭借 《奔腾年代》 《哈利波特与魔法石》和《欢乐谷》三次提名奥斯卡最佳服装设计，此电影第三部开篇的设计灵感来自于19世纪高级时装，想要给人上流贵族气质，加上明",
+        "truncated": true
+      },
+      "published_at": "Fri, 26 Jan 2018 09:00:02 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "acd9d6bc69c5f680b87a0861409d3cd922b9e181b32d4fd18804ae8a03593a06",
+      "guid": "https://aod.cos.tx.xmcdn.com/group22/M03/0C/D5/wKgJM1pcWmTyOTq5ADNm7sHQFXg184.m4a",
+      "title": {
+        "text": "自我认知：总觉得穿得不够美？通常是因为自我认知不对！",
+        "truncated": false
+      },
+      "description": {
+        "text": "相信很多听友们都有种疑问，总是不知道自己该穿什么好，不知道自己穿什么好看，同时，穿上身后，也不知道怎么该怎么判断是美还是不美，为什么会出现这些情况呢？ 首先是因为我们不懂美的标准，我们不知道什么是美，什么是不美，同时，我们不了解自己，不了解自己的外形该怎么做？才是美的，才能达到扬长避短的效果，那么本节课专门教大家来认知自己的外形，想要穿的美，首先得对自己有清晰的认知！",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Jan 2018 09:00:00 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "de6e0e95bbdec5826418c1b59bffe447a2f45d9a67b98a0f763130938a93670b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group37/M07/84/E7/wKgJoFpMTiTiTHRKADRBunz4DDU843.m4a",
+      "title": {
+        "text": "运动搭配：加勒比海盗式的自由野性造型是如何颠覆传统绅士造型的？",
+        "truncated": false
+      },
+      "description": {
+        "text": "上两期我们说到了两项极具优雅的绅士运动，这次来说一下一项让人热血的冒险运动——航海。 这就让我们想起了一步好莱坞的经典电影《加勒比海盗》，虽然已经过去多年，但刮起的“海盗”风可是威力犹在啊。 它为世界时装设计界带来了一股引人入胜的冒险精神，比起中规中矩的预科生男孩、高不可攀的贵族绅士，放荡不羁的海盗船长显然更具有摄人心魄的力量。 对于喜新厌旧的时装界来说，无论身处哪一个时代，颠覆传统、冲破桎梏的精神永远是引领潮流的力量，这种迷人的海盗气质对于勇者先行的时尚圈来说是一种多么具有吸引力的诱惑。17世纪是海盗的黄金年代，所以在那个年代的海盗，不免俗的也得穿上当时的宫廷衬衫、马甲等服饰。事隔多年后，宫廷风再度抬头，马甲、衬衫重新回到时尚界， 但海盗与绅士的差别就在于，海盗是不守常规的，所以他们的马甲上缀有流苏，衬衫不会收在裤内，而是放在外面，营造出层次感，搭配的也不是西裤，而是细身牛仔裤，将摇滚精神融入进宫廷装扮，就是复古海盗的绝对原则。 可惜的是，成为海盗毕竟只是个梦想，但是装扮成海盗，却并不难办到。当然，这里并不是要你与Johnny Depp（约翰尼 · 德普）一般，戴上头巾，编上满头的小辫，再画上夸张的烟熏眼，翘着兰花指招摇过市。 你需要做的，只是抓紧“海盗style”的几种元素，然后随意组合混搭，要出乎意料，更要狂放张扬，方显海盗本色！ 海盗元素 1、三角帽，头巾 毫无疑问，一顶传",
+        "truncated": true
+      },
+      "published_at": "Wed, 03 Jan 2018 09:00:01 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "93dcd87930f7ac90d0dfcb461b1545e97a8282515d0c1284a7b5525c458544e3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group36/M01/8E/C8/wKgJUlo5_1iwatiNADgVplA-kII584.m4a",
+      "title": {
+        "text": "（内含福利）：高尔夫运动如何与时尚进行完美结合？",
+        "truncated": false
+      },
+      "description": {
+        "text": "高尔夫作为一项贵族运动，由此而衍生出来的服饰搭配究竟是怎样的？由哪些元素构成？想了解具体信息，请点击音频在线学习吧， 音频内含福利哦 ！",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Dec 2017 09:00:00 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "8606f5bf125c5ac254159f96e16e34ae1c1299ba546fed8f7e608b99ef12f87a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group27/M02/DA/1B/wKgJR1jc1syQOnP_AIspTif-TeY981.mp3",
+      "title": {
+        "text": "横条纹显胖，竖条纹显瘦？",
+        "truncated": false
+      },
+      "description": {
+        "text": "横竖条纹的衣服想必大家都有， 那么怎么搭配条纹才更加好看？ 横条纹竖条纹你又会怎么选呢？ 这期节目为你揭晓条纹的密码。",
+        "truncated": false
+      },
+      "published_at": "Thu, 30 Mar 2017 10:13:44 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "4df7d1da905e234f0794c094764ab0d45edcaac388e87d7c26c8930a49ef0eec",
+      "guid": "https://aod.cos.tx.xmcdn.com/group21/M02/A0/C0/wKgJLVir29bT7KvtALu_rDMj2Ck754.mp3",
+      "title": {
+        "text": "色彩搭配中究竟隐藏着什么秘密",
+        "truncated": false
+      },
+      "description": {
+        "text": "三种颜色你能够怎么搭配！ 你试过三种颜色怎么搭配！ 我们告诉你应该怎么搭配！",
+        "truncated": false
+      },
+      "published_at": "Tue, 21 Feb 2017 06:28:01 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "73ea95b1548047b9c25096ddebf7e2692726d52211998b2c63e459ed93886ab6",
+      "guid": "https://aod.cos.tx.xmcdn.com/group17/M05/E0/0E/wKgJKVpV1MWwGdVoAEp3gQYhv_c324.m4a",
+      "title": {
+        "text": "从你的服饰穿搭看你是属于什么性格？",
+        "truncated": false
+      },
+      "description": {
+        "text": "本节课程分别从不同的角度来阐述，为什么说你的服装能暴露你的性格!",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Jan 2018 09:00:00 GMT",
+      "feed_index": 27
+    }
+  ]
+}

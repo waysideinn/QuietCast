@@ -1,0 +1,140 @@
+{
+  "show_id": "1544048893",
+  "feed_url": "http://www.ximalaya.com/album/44543503.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/44543503.xml",
+    "final_url": "http://www.ximalaya.com/album/44543503.xml",
+    "fetched_at": "2026-10-25T14:42:21.626921+00:00",
+    "status": 200,
+    "sha256": "64cb878aeb4c0286abc6c56175a9b521d0a8b9472fc107561abd2285d6025b9a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "无极真仙/玄幻精品有声剧",
+    "truncated": false
+  },
+  "description": {
+    "text": "罗峰奇异的得到了强化能力。 真气强化！肉身强化！丹药强化！武器强化！世间万物，只要拥有能量，皆可强化！ 于是，某人走上了一条脚踩天骄，拳轰强敌，迈向天下至尊的至强者道路。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 89,
+  "episodes": [
+    {
+      "id": "fc6b3c021d21ae9c10d9bcfabd16c6ff358928f17ff8304fc0e799606ef54e5a",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7ce8-audiofreehighqps/9E/37/CMCoOR4DpKuKAATybwBvE7hc.mp3",
+      "title": {
+        "text": "无极真仙-精品有声剧-简介（《无极真仙》已上架，大家赶快去订阅么么哒）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 08 Dec 2020 02:44:27 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ab4bd241c9b3fcfa5a56c5ba8dc92b14fdddec2cc0fceb1fd52625c3969670a1",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5ee0-audiofreehighqps/C8/B4/CMCoOR8Dp3Y4AGftLQBv1vNI.mp3",
+      "title": {
+        "text": "无极真仙-013-招揽上（大家赶快去订阅+关注）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Dec 2020 05:33:45 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "e4d0f189fb9853d6a3285744e3f6d5929403d7906460bb9281f31329f8847b8f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6c7d-audiofreehighqps/D0/9D/CMCoOR4Dqg5SAGIQEgBwgCIJ.mp3",
+      "title": {
+        "text": "无极真仙-025-收获（已上架，大家赶快去订阅么么哒）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 12 Dec 2020 04:47:16 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "b5ff94e3a0263078d3e40b14536178abf4767de45ea881e99602ec66864cfbe7",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/29fc-audiofreehighqps/E1/B5/CMCoOSMDrK8OAGMMyABxEnRg.mp3",
+      "title": {
+        "text": "无极真仙-038- 惊爆一地眼球（已上架，大家赶快去订阅么么哒）.mp3",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 14 Dec 2020 04:37:36 GMT",
+      "feed_index": 38
+    },
+    {
+      "id": "a814f8f35b9582f47c0445807793cfdd9b4d22f850a3aab4c90801152ea1c82d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/90a1-audiofreehighqps/06/11/CMCoOSYDsNrnAGv7xAByNNpo.mp3",
+      "title": {
+        "text": "无极真仙-050- 八品天灵眼下（已上架，大家赶快去订阅么么哒）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 17 Dec 2020 08:33:45 GMT",
+      "feed_index": 50
+    },
+    {
+      "id": "6fa8069f74dfe7fe69e5b6eadecd3d373ea0d8ab8eb7acee7affacacd0737270",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5461-audiofreehighqps/BD/AB/CKwRIDoDtLFuAGFm2gBzGONu.mp3",
+      "title": {
+        "text": "无极真仙-063-冥冰诀（已上架，大家赶快去订阅么么哒）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 20 Dec 2020 06:25:52 GMT",
+      "feed_index": 63
+    },
+    {
+      "id": "7bae3c7e842f07c513b5bd60d1a8a28b5278ab315fdd26922e0a441a1191301f",
+      "guid": "xmly_track_520095237",
+      "title": {
+        "text": "无极真仙-075- 黑衣少年VS罗峰（感谢关注，感谢一路上有您的鼓励和支持）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 Apr 2022 01:00:04 GMT",
+      "feed_index": 75
+    },
+    {
+      "id": "f873a249a9454ba2925b254364372387c652f28aa0849dd803d3331c6d93a72c",
+      "guid": "xmly_track_521560749",
+      "title": {
+        "text": "无极真仙-088-古天莲",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 14 Apr 2022 03:58:49 GMT",
+      "feed_index": 88
+    }
+  ]
+}

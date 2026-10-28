@@ -1,0 +1,140 @@
+{
+  "show_id": "1639242682",
+  "feed_url": "https://www.ximalaya.com/album/70160723.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/70160723.xml",
+    "final_url": "https://www.ximalaya.com/album/70160723.xml",
+    "fetched_at": "2026-10-25T14:44:40.817868+00:00",
+    "status": 200,
+    "sha256": "c854a97e6d21aaac38ab3fa85c6d70836d50f12edfe850902e978b45ae8d9700"
+  },
+  "status": "ok",
+  "title": {
+    "text": "凌云伏魔记|大话西游战国版篇|奇幻穿越广播剧",
+    "truncated": false
+  },
+  "description": {
+    "text": "网文写手穷困潦倒，一事无成，在一个特别的天象中，返回两千多年前的战国时代。大反派“枭”是一切的始作俑者，只有取得逆天嗜血的凌云箭才能战胜他。凌云箭的制作方法极其残忍，制作者将大量战俘绑在即将发芽的竹笋上，若一只竹笋穿过某人胸膛，便用特殊方法使此人活够三十三天，待竹笋长到九丈九，才取三丈三制凌云箭。男主必须历经艰险才能得到它……",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 49,
+  "episodes": [
+    {
+      "id": "c26be7bc36e645e976128cee8d37e4d7f21484c23d7c0e929252047ecd0deb36",
+      "guid": "xmly_track_559637387",
+      "title": {
+        "text": "凌云伏魔记001可怕噩梦|求订阅，转发，点赞，评论",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 09 Aug 2022 10:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "c1b7eb9a5839a3bd845f1b40b859def6cacd3a2c323e093320c9fa4237a3d656",
+      "guid": "xmly_track_559638134",
+      "title": {
+        "text": "凌云伏魔记008臂上人面|求订阅，转发，点赞，评论",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 09 Aug 2022 10:00:14 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "6b96d5a21531cc56a06474ddab282b04d25dad792f0af16fdf0dd4063ee44c51",
+      "guid": "xmly_track_559952562",
+      "title": {
+        "text": "凌云伏魔记015红毛野人|求订阅，转发，点赞，评论",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Aug 2022 10:00:08 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "c9406b87ec8065f98862fbc386c0e7a6ce535358d8e39637328e27a81b5740eb",
+      "guid": "xmly_track_560278783",
+      "title": {
+        "text": "凌云伏魔记022铁头出击|求订阅，转发，点赞，评论",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 11 Aug 2022 09:36:33 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "b3f778cb13114394503aef127eff1d634c2c995caf79e51fc754389adcf7d781",
+      "guid": "xmly_track_560281426",
+      "title": {
+        "text": "凌云伏魔记028鬻拳往事|求订阅，转发，点赞，评论",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 11 Aug 2022 09:48:29 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "4386485d14b22baa151205cb3e109609ebaa8034dfd73f334e3037ff21e36942",
+      "guid": "xmly_track_560847420",
+      "title": {
+        "text": "凌云伏魔记035生死别离|求订阅，转发，点赞，评论",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 13 Aug 2022 09:58:46 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "98842c9b4fdc535ffae4dc241538a917847a3a57cfe24312413829ac1b4aebd5",
+      "guid": "xmly_track_561967522",
+      "title": {
+        "text": "凌云伏魔记042血战奔云|求订阅，转发，点赞，评论",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 17 Aug 2022 11:21:37 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "4f679f36b318d474b0a096c21cce10acdb52c7f70514fbfd585ecec866d3a6bb",
+      "guid": "xmly_track_565492129",
+      "title": {
+        "text": "凌云伏魔记049回归现代|求订阅，转发，点赞，评论",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 31 Aug 2022 05:00:22 GMT",
+      "feed_index": 48
+    }
+  ]
+}

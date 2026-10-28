@@ -1,0 +1,140 @@
+{
+  "show_id": "1572607826",
+  "feed_url": "https://feeds.soundon.fm/podcasts/ad34ae4e-bf50-421c-86f7-4bb61bff5228.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/ad34ae4e-bf50-421c-86f7-4bb61bff5228.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/ad34ae4e-bf50-421c-86f7-4bb61bff5228.xml",
+    "fetched_at": "2026-10-25T14:42:56.823883+00:00",
+    "status": 200,
+    "sha256": "c4b10c6ea2ee4ac62fb546a961547839abc8bdc2b1e15d85b822af753094f7e8"
+  },
+  "status": "ok",
+  "title": {
+    "text": "世新廣播電臺/浪人劇院",
+    "truncated": false
+  },
+  "description": {
+    "text": "世新電台播出的節目 主持人聊藝術和音樂 也是個社會觀察學家 播出時間：週二11:05～12:00AM/PM 合作邀約：[email removed] 更多資訊 : https://linktr.ee/vagabondtheatre -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 51,
+  "episodes": [
+    {
+      "id": "38369be96ef990fed8f00a1b146a05655d067ab045a64b3466d1dbdbc3575039",
+      "guid": "64fc20b1-004b-414a-be61-36ae49d3f25b",
+      "title": {
+        "text": "EP51 第一季最終集 / 回顧一年來的廣播節目製作歷程&辛酸血淚史",
+        "truncated": false
+      },
+      "description": {
+        "text": "第一季就到這告一個段落了， 休息幾個月後就會復出了! 敬請期待٩(｡・ω・｡)﻿و ｜音樂推薦｜ The radio dept. - Always a Relief / A Window / I Don't Need Love, I've Got My Band 張震嶽 - 破吉他 透明雜誌 - 萬華的宇宙 / 透明雜誌FOREVER ｜更多資訊&歌曲｜ https://linktr.ee/vagabondtheatre",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Jun 2022 03:05:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "e817e071735d0aa035717e14691fdafe1ee9b89b864b1489519dcfe00ee725f4",
+      "guid": "ea5ac93e-9cb8-4f69-8344-8e72be45d233",
+      "title": {
+        "text": "EP44 【訪談系列】首支樂團來訪！用電子聲響和故事驚艷你的感官 feat. COLD DEW 哲安",
+        "truncated": false
+      },
+      "description": {
+        "text": "節目終於迎來第一組樂團來賓（請掌聲鼓勵( ´•̥̥̥ω•̥̥̥` ) 浮現祭認識COLD DEW之後就從EP35埋梗到了EP44， 本集的專訪的深度大概是到B5的程度，非常精彩٩(๑•̀ω•́๑)۶ ｜音樂推薦｜ COLD DEW - 雲 / 山地情歌 / 溫泉 ｜更多資訊&歌曲｜ https://linktr.ee/vagabondtheatre",
+        "truncated": false
+      },
+      "published_at": "Tue, 03 May 2022 03:05:00 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "d80800e0e959c4d59285042171533a9ca07c4af6537402eda02c39c552fdbd35",
+      "guid": "c991db9f-ae10-4089-a8d9-ab8f04ece493",
+      "title": {
+        "text": "EP37 全台灣最大的音樂祭：大港開唱 / 大港聽什麼好呢?",
+        "truncated": false
+      },
+      "description": {
+        "text": "一年一度的大港開唱又到了! 不知道大家有沒有買到票呢? 我…沒有( ´•̥̥̥ω•̥̥̥` ) 這集和大家介紹大港的歷史背景， 當然…還有最重要的… 推薦可以聽的音樂人(つ´ω`)つ ｜音樂推薦｜ 溫蒂漫步 - 我想和你一起 / 讓我住進你心裡 / 艾菲號 吳獻 - 牧羊 / 小林綠 / 懶得進化 The Crane - LIMO / 拉麵公子 ｜更多資訊&歌曲｜ https://linktr.ee/vagabondtheatre",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Mar 2022 03:05:00 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "2df87c1d9f41929ad1f913971948ba69bb24b6fac393675f9895c3132742e003",
+      "guid": "c29db25d-5487-4bbd-bb23-49577c819a50",
+      "title": {
+        "text": "EP30 Dream Pop 夢幻流行來襲/明亮歡樂的Dream Pop歌曲介紹（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "Dream Pop一直都是我很喜歡的曲風， 上集介紹了Dream Pop的歷史以及黯淡憂傷的歌曲 在這集當中，想和各位聽眾們分享明亮歡樂的歌曲， 迎接美好的寒假時光。 ｜音樂推薦｜ Men I Trust - Lauren/Show Me How/Tides/I hope to be around Sports - Never Fall In Love/Night Swim/Baby Baby/Can't Be What You Think/Call Me Anytime ｜更多資訊&歌曲｜ https://linktr.ee/vagabondtheatre",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 Jan 2022 03:05:00 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "a22f8bfd2d8e7f958c44f35e4b76bed1824323f55377ebae74943b4cd2a61f0e",
+      "guid": "b24b53db-fb2c-46ae-93ad-97de32cef789",
+      "title": {
+        "text": "EP22 貴人散步音樂節聽什麼? / 泰國＆台灣歌手推薦",
+        "truncated": false
+      },
+      "description": {
+        "text": "就在上周貴人散步音樂節結束了！ 想必有去玩的朋友還在音樂節後遺症吧٩(｡・ω・｡)﻿و 這集來跟家分享我貴人散步音樂節裡優秀的歌手， 包括台灣的Everydaze、泰國的Phum Viphurit和Numcha。 這三位歌手的音樂都很精緻，是我一直以來都很喜歡的那種， 很開心可以看到貴人散步音樂節邀請他們演出， 不僅只是認可了台灣的獨立音樂還延伸到了國外， 非常值得給予他們掌聲(ﾉ>ω<)ﾉ 音樂無國界，快樂無極限(๑•̀ㅂ•́)و✧ ｜音樂推薦｜ Phum Viphurit - Lover Boy / Hello, Anxiety Numcha - Keep Cold / Butterfly Everydaze - Room247 / Tangerine Dream ｜更多資訊&歌曲｜ https://linktr.ee/vagabondtheatre",
+        "truncated": false
+      },
+      "published_at": "Tue, 30 Nov 2021 03:05:00 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "6378104f866caae4a3c29530b24f6f758d724e2ad82a07bb2a1f4e98a151192d",
+      "guid": "c22070fc-ef95-409e-84af-88c2f4309444",
+      "title": {
+        "text": "EP15 中部的聲音在這裡~台中海線の音樂祭 ─ 浮現祭",
+        "truncated": false
+      },
+      "description": {
+        "text": "哈伊~我終於重回錄音室了，終於不用等飆車仔騎過去才能錄音惹٩(●˙▿˙●)۶…⋆ฺ 剛入聽團圈或是老聽團仔們都口以聽聽這集呦 ༼ •̀ ں •́ ༽ 我的音樂祭初體驗就獻給浮現惹，錄這集開心到我現在打字都很隨興 (•͈⌔•͈⑅) 浮現祭聽了好多團，認識了好多朋朋，才有機會在這裡跟大家分享我的體驗(❛◡❛✿) 想知道我聽浮現祭的感想就聽聽這集吧，打字好累，用講話比較快，大家聽起乃(●’ω`●） ｜音樂推薦｜ I Mean Us - 普通人類/12345 I Hate You 海豚刑警 - 胖到內褲都無情的爆炸/羽球少年睡不醒 持修 - 用破碎的心修好破碎的心/到底你是要不要我啦 甜約翰 - 留給你的我從未/降雨機率 溫蒂漫步 - I Don't Wanna Leave Tonight ｜Vodka信箱｜ 這是一個充滿酒味的信箱。 人在酒醉的時候會吐露出你內心的那一面。 而這個信箱就是你的管道，一個你可以發聲的地方。 歡迎投稿故事，讓你的故事以廣播的方式在歷史中留存! https://reurl.cc/NZArdQ ｜更多資訊&歌曲｜ IG : vagabond__theatre https://www.instagram.com/vagabond__theatre/",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Oct 2021 03:05:00 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "62da03a492d0fe054e6ab95a9194b711c670613851397a942a5aecbe701cd084",
+      "guid": "f4eabce5-f149-47dc-b042-529fdede4670",
+      "title": {
+        "text": "EP8 【兩個月特輯】村上春樹《第一人稱單數》/ 甜約翰&HowZ&I Mean Us音樂分享",
+        "truncated": false
+      },
+      "description": {
+        "text": "宅錄第八集，真假啦…節目滿兩個月了。 感恩大家這兩個月來的收聽，未來一整年也會繼續陪伴大家~ 兩個月特輯想來介紹最近讀的書《第一人稱單數》，這本書是人生愛與死主題的整合。 我用最簡單、易懂的方式，讓大家了解作者想傳達的意涵。 當然這是我解讀的方式，大家可以做個參考，就像音樂一樣，每個人得到的共感都是不一樣的。 介紹書之外也少不了音樂分享! 甜約翰和I Mean Us都是我的愛團，他們音樂也跟這本書有奇妙的共鳴。 選歌的時候都覺得不可思議，就像是這本書的配樂一樣。 而且兩團的女主唱剛好也都是曼達，我的愛啊(๑˘ ₃˘๑) 最後，祝福大家在書和音樂中找到共鳴ʕ◕ ͜ʖ◕ʔ ｜音樂推薦｜ 甜約翰 - 城市的浪漫運作/住進你的行李 HowZ - Butter/街角的薔薇 I Mean Us - Søulмaтe/24 Years Old of You 曼達 - Tatto IG : vagabond__theatre https://www.instagram.com/vagabond__theatre/",
+        "truncated": false
+      },
+      "published_at": "Tue, 24 Aug 2021 03:05:00 GMT",
+      "feed_index": 43
+    },
+    {
+      "id": "4bc5c3df5175a352431f1e38fdd7e07d23e16c75fd8893c5197c0c2b2d63adb8",
+      "guid": "89f32438-3dbf-4221-adbf-1d236f2292e0",
+      "title": {
+        "text": "EP1 鐘樓怪人",
+        "truncated": false
+      },
+      "description": {
+        "text": "宅錄第一集，聊聊因為疫情而延期的鐘樓怪人音樂劇演出，附帶一些酷音樂。 讓「舞台劇劇透」、「舞台好音樂」、「舞台新勢力」這三個單元給你豐富的生活能量。 ｜音樂推薦｜ Ashe - Save Myself Notre-Dame de paris- Belle/Le Temps des Cathédrales/Les sans papiers/ La Cour des miracles Patrick Fiori - On se love Garou - Stand Up Yilith - 丑角 IG : vagabond__theatre https://www.instagram.com/vagabond__theatre/",
+        "truncated": false
+      },
+      "published_at": "Tue, 06 Jul 2021 03:05:00 GMT",
+      "feed_index": 50
+    }
+  ]
+}

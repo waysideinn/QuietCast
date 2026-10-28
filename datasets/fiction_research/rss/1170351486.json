@@ -1,0 +1,140 @@
+{
+  "show_id": "1170351486",
+  "feed_url": "http://www.ximalaya.com/album/4920066.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/4920066.xml",
+    "final_url": "http://www.ximalaya.com/album/4920066.xml",
+    "fetched_at": "2026-10-25T14:47:37.268326+00:00",
+    "status": 200,
+    "sha256": "e8c397f690ed636efd158fe548140fe1e9855f6d653e01ec81becaa680aac53f"
+  },
+  "status": "ok",
+  "title": {
+    "text": "开心聊斋",
+    "truncated": false
+  },
+  "description": {
+    "text": "小纪为您带来的读书节目，每周三、日更新。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 33,
+  "episodes": [
+    {
+      "id": "e4f952e4cdaa67bbacb7ffb310156f36b730ed7f0857358ca6a1493ad1d88bd1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group18/M08/95/AE/wKgJJVexb6Kw4dCtAV2hEA3p3I0872.mp3",
+      "title": {
+        "text": "第一期 《甄嬛传》与《金枝欲孽》",
+        "truncated": false
+      },
+      "description": {
+        "text": "小纪为您带来的读书节目，每周三、日更新。",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Aug 2016 07:30:49 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1a6175b21cc8353b051a2bc609156f0636ded64b6bed544395176bb120d638ef",
+      "guid": "https://aod.cos.tx.xmcdn.com/group17/M09/CC/25/wKgJKVfFiAqybrczAV8zZXeGE2I624.mp3",
+      "title": {
+        "text": "第六期 《甄嬛传》与武则天（四）",
+        "truncated": false
+      },
+      "description": {
+        "text": "小纪为您带来的读书节目，每周三、日更新。",
+        "truncated": false
+      },
+      "published_at": "Tue, 30 Aug 2016 13:20:14 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "a9ac0933f376f07f806d731fbbe6e560263453804c60f24d92c842f60850913a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M0A/01/A8/wKgJJ1fZIPOxR4R5AYgRE3475AI992.mp3",
+      "title": {
+        "text": "第十期 雅典娜·残暴的君王",
+        "truncated": false
+      },
+      "description": {
+        "text": "“雅典娜”系列是《开心聊斋》的第二个系列，预计共六期内容，于9月15日和大家见面，敬请关注！ 大家如果有感兴趣的话题，希望小纪在节目中聊的话，欢迎大家和小纪联系。 小纪的联系方式： 1、搜索微信\"cv1528\"直接给小纪留言。 2、新浪微博，搜索”纪晓寂“。 3、通过喜马拉雅和小纪互动。",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Sep 2016 10:10:11 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "a301fd9472bd5ed299a7b434049ef6f97a7920df71e5407d73c76ae37000f835",
+      "guid": "https://aod.cos.tx.xmcdn.com/group19/M04/4C/EB/wKgJJlfw7QqTwq6iAGlj1ZL7tVc741.m4a",
+      "title": {
+        "text": "第十五期 雅典娜·圣斗士——雅典娜的成长史",
+        "truncated": false
+      },
+      "description": {
+        "text": "“雅典娜”系列是《开心聊斋》的第二个系列，预计共六期内容，于9月15日和大家见面，敬请关注！ 大家如果有感兴趣的话题，希望小纪在节目中聊的话，欢迎大家和小纪联系。 小纪的联系方式： 1、搜索微信\"cv1528\"直接给小纪留言。 2、新浪微博，搜索”纪晓寂“。 3、通过喜马拉雅和小纪互动。",
+        "truncated": false
+      },
+      "published_at": "Sun, 02 Oct 2016 11:22:11 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "0d0be0572c191b6bb9da3636cf07a5ca1d53583fed2ee96be34c27ed3f126eff",
+      "guid": "https://aod.cos.tx.xmcdn.com/group18/M03/82/A9/wKgJJVgDgz3jpBh8AKH-WUYLEXk670.m4a",
+      "title": {
+        "text": "第十九期 闲话琼瑶剧·《还珠格格》无心插柳的琼瑶剧",
+        "truncated": false
+      },
+      "description": {
+        "text": "大家如果有感兴趣的话题，希望小纪在节目中聊的话，欢迎大家和小纪联系。 小纪的联系方式： 1、微信直接给小纪留言微信号[contact removed]。 2、新浪微博，搜索”纪晓寂“。 3、通过喜马拉雅和小纪互动。",
+        "truncated": false
+      },
+      "published_at": "Sun, 16 Oct 2016 13:42:37 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "b3c8cfd20a844f4c8a3665e3af79f2c63f9949987cdeee3590591655eaee30d3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group19/M04/D8/37/wKgJK1fKaAaBx_jXAXLFZy8N92Q141.mp3",
+      "title": {
+        "text": "第七期 《甄嬛传》命运相同的两位皇后（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "小纪为您带来的读书节目，每周三、日更新。",
+        "truncated": false
+      },
+      "published_at": "Sat, 03 Sep 2016 06:05:23 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "89b06833471cea097e74e5204a08ae37e8852bf2658501495f918e92393b7165",
+      "guid": "https://aod.cos.tx.xmcdn.com/group76/M08/6E/FE/wKgO1F5_WdiiW5-WAN5bCBV8uPY626.mp3",
+      "title": {
+        "text": "第二十四期 说新白·经典与创新",
+        "truncated": false
+      },
+      "description": {
+        "text": "《新白娘子传奇》是部经典电视剧，小纪就和大家一起聊聊它！ 大家如果有感兴趣的话题，希望小纪在节目中聊的话，欢迎大家和小纪联系。 小纪的联系方式： 1、微信直接给小纪留言微信号[contact removed]。 2、新浪微博，搜索”纪晓寂“。 3、通过喜马拉雅和小纪互动。",
+        "truncated": false
+      },
+      "published_at": "Sat, 28 Mar 2020 14:07:45 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "0359a156f6b01b21be13aa25eccc6377b092bcc43bee88e951d2b841996897c6",
+      "guid": "https://aod.cos.tx.xmcdn.com/group76/M0A/EC/D2/wKgO1F6HLYyDi-oaAQifisDAfQc200.mp3",
+      "title": {
+        "text": "第二十七期 说新白·心思细腻的方桂兰",
+        "truncated": false
+      },
+      "description": {
+        "text": "《新白娘子传奇》是部经典电视剧，小纪就和大家一起聊聊它！ 大家如果有感兴趣的话题，希望小纪在节目中聊的话，欢迎大家和小纪联系。 小纪的联系方式： 1、微信直接给小纪留言微信号[contact removed]。 2、新浪微博，搜索”纪晓寂“。 3、通过喜马拉雅和小纪互动。",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Apr 2020 12:37:22 GMT",
+      "feed_index": 32
+    }
+  ]
+}

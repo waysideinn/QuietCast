@@ -1,0 +1,101 @@
+{
+  "group": "boundary",
+  "term": "有声杂志",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E6%9D%82%E5%BF%97&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E6%9D%82%E5%BF%97&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:45:26.500263+00:00",
+    "status": 200,
+    "sha256": "bc483c6f320ba2c5191a0ce431127e57ccaf33c683ce8409c86ed2c2c07a4b4f"
+  },
+  "result_count": 4,
+  "records": [
+    {
+      "collectionId": 1769843532,
+      "trackId": 1769843532,
+      "collectionName": "使者有声杂志",
+      "artistName": "使者门徒培育资源中心",
+      "feedUrl": "https://anchor.fm/s/f1abe2e8/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BD%BF%E8%80%85%E6%9C%89%E5%A3%B0%E6%9D%82%E5%BF%97/id1769843532?uo=4",
+      "genres": [
+        "教學",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1499",
+        "26",
+        "1304"
+      ],
+      "trackCount": 157,
+      "releaseDate": "2026-10-20T16:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教學"
+    },
+    {
+      "collectionId": 1856074891,
+      "trackId": 1856074891,
+      "collectionName": "KRC Magazine 神國有聲雜誌",
+      "artistName": "e-krc.org/krc-magazine/",
+      "feedUrl": "https://anchor.fm/s/fbc789f8/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/krc-magazine-%E7%A5%9E%E5%9C%8B%E6%9C%89%E8%81%B2%E9%9B%9C%E8%AA%8C/id1856074891?uo=4",
+      "genres": [
+        "基督教",
+        "Podcast",
+        "宗教與精神生活"
+      ],
+      "genreIds": [
+        "1439",
+        "26",
+        "1314"
+      ],
+      "trackCount": 63,
+      "releaseDate": "2026-09-28T01:48:00Z",
+      "country": "TWN",
+      "primaryGenreName": "基督教"
+    },
+    {
+      "collectionId": 1550735071,
+      "trackId": 1550735071,
+      "collectionName": "宇宙光有聲雜誌",
+      "artistName": "Cosmic Light",
+      "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:927668821/sounds.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%AE%87%E5%AE%99%E5%85%89%E6%9C%89%E8%81%B2%E9%9B%9C%E8%AA%8C/id1550735071?uo=4",
+      "genres": [
+        "宗教與精神生活",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1314",
+        "26"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2025-12-23T03:10:00Z",
+      "country": "TWN",
+      "primaryGenreName": "宗教與精神生活"
+    },
+    {
+      "collectionId": 1462849476,
+      "trackId": 1462849476,
+      "collectionName": "明星蜕变故事（风月杂志）",
+      "artistName": "听米有声",
+      "feedUrl": "http://www.ximalaya.com/album/9289739.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%98%8E%E6%98%9F%E8%9C%95%E5%8F%98%E6%95%85%E4%BA%8B-%E9%A3%8E%E6%9C%88%E6%9D%82%E5%BF%97/id1462849476?uo=4",
+      "genres": [
+        "表演",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1405",
+        "26",
+        "1301"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2017-12-20T02:43:00Z",
+      "country": "TWN",
+      "primaryGenreName": "表演"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1597634833",
+  "feed_url": "http://www.ximalaya.com/album/47608529.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/47608529.xml",
+    "final_url": "http://www.ximalaya.com/album/47608529.xml",
+    "fetched_at": "2026-10-25T14:54:53.419556+00:00",
+    "status": 200,
+    "sha256": "141e0129098f9eb70a8f3bdf7a056f8afe14f6a8ca9c1f0099d6f55deaac6436"
+  },
+  "status": "ok",
+  "title": {
+    "text": "西游记精编版|名著|2023",
+    "truncated": false
+  },
+  "description": {
+    "text": "别说你读过西游，西游的冷知识你知道多少？考考你： 你知道孙悟空的金箍棒重多少斤吗？ 你知道在卖力制造81难的妖怪中，谁家贡献最多？ 你知道南赡部州在哪嘛？ 哈哈，欢迎在评论区留言 特点： 1、精选版本,快速吸收西游记精华 ； 2、每天早上准时更新，约50集以内，已经完结不用担心烂尾；",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 52,
+  "episodes": [
+    {
+      "id": "4c993f28577b13fa5da76b6d043ca5877c48df8efdd01dec7363229540cf4550",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/58a1-audiofreehighqps/E1/B6/GKwRIUEFprXhADTjNAEJNAY5.m4a",
+      "title": {
+        "text": "第01集-美猴王出世",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Mar 2021 00:36:39 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "83e2f52a4fbe2742289313fd700132ad22c37fc432135f1b9cae328ef7dc4276",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b38e-audiofreehighqps/F1/B3/GKwRIJEFpra2ADJSzwEJNDmL.m4a",
+      "title": {
+        "text": "第08集-当上了齐天大圣",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Mar 2021 00:38:24 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "391437624c9b5995a4a14fdd5afdadc4c0c5ad5fdff221293d7c5b7ef5fbe1aa",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3512-audiofreehighqps/88/C8/GKwRIW4FprhIACdbKgEJNIqn.m4a",
+      "title": {
+        "text": "第16集-白龙马",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Mar 2021 00:40:28 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "17195c9b337767aca29ffc6182055fbc08b4d58b092abe0340ee3d85c088585b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f512-audiofreehighqps/2E/F0/GKwRIJIFprluAElQTAEJNMiS.m4a",
+      "title": {
+        "text": "第23集-与镇元大仙结拜",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Mar 2021 00:42:53 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "60c57e56baebf06db7f6cebb2aa31127a0691a03f23d2bd2ba0628ae75aeae66",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8b6a-audiofreehighqps/31/DB/GKwRIW4FtyiaAFVgbQENDgI5.m4a",
+      "title": {
+        "text": "第30集-装天葫芦",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 17 Mar 2021 22:58:02 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "0d4f54064e2450643cc4374839ce8c7b88d0cd18e29609f379ff2cd40c55e6f1",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/79dd-audiofreehighqps/10/14/GKwRIW4FuC6GADZm4QENSREL.m4a",
+      "title": {
+        "text": "第37集-真假孙悟空",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 21 Mar 2021 22:58:00 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "08a3a69b781e4e51371118ddac7af0dc70fc0a233a221072be5dcff4a4b3909d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e48a-audiofreehighqps/74/1A/GKwRIJEFuHPXAEskuwENXz5W.m4a",
+      "title": {
+        "text": "第45集-唐僧中毒",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 27 Mar 2021 07:39:00 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "5a0559b2bd1721d7b2151150aeeb5c6a3cdb74cd435441f3058d605fd623352e",
+      "guid": "xmly_track_630274414",
+      "title": {
+        "text": "旋律回忆",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 30 Apr 2023 08:07:07 GMT",
+      "feed_index": 51
+    }
+  ]
+}

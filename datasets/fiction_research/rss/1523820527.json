@@ -1,0 +1,112 @@
+{
+  "show_id": "1523820527",
+  "feed_url": "http://www.ximalaya.com/album/39197261.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/39197261.xml",
+    "final_url": "http://www.ximalaya.com/album/39197261.xml",
+    "fetched_at": "2026-10-25T14:53:06.551047+00:00",
+    "status": 200,
+    "sha256": "280c068b87967f5af2114c0629951b56b4f43fb63ec72a2cd0b0f843b322609f"
+  },
+  "status": "ok",
+  "title": {
+    "text": "一期一会｜最真实的澳洲华人访谈",
+    "truncated": false
+  },
+  "description": {
+    "text": "生活在多元文化之下的海外华人，一直从自己独特的角度，关注着这个时刻在改变的世界。 不同角度，单刀直入。 没有对错，想说就说。 以轻松幽默的访谈形式，记录澳大利亚海外华人原汁原味的的观点和理念。 大家好，我是笨伯。 欢迎来到，一期一会。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 6,
+  "episodes": [
+    {
+      "id": "4c6bf8f33352aca8b96d897897bd92ae251b1c10ae16c64e8d1c238e191d7d97",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b502-audiofreehighqps/1D/9F/CMCoOSYC_q-qAbXBhwBHqPJW.mp3",
+      "title": {
+        "text": "疫情百态：从全职到全职妈妈",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期嘉宾： 就职于澳洲最大电信公司的美女：羊羊 本周，墨尔本进入了史上最严的第四阶段封城。 笨伯将继续以问答的形式，带大家听一听，疫情期间，来自墨尔本华人最真实的声音。 听一听他们的喜怒哀乐，和人生感悟。 BGM: Then We Start A New Voyage -- α·Pav.",
+        "truncated": false
+      },
+      "published_at": "Tue, 04 Aug 2020 05:05:49 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b6e07f87981a73a8b32bb78195686015f3ab01274a331c69c1d628941f853fa9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group87/M09/BC/73/wKg5J18gI26CWShJBH3Eo0PIZ9E562.mp3",
+      "title": {
+        "text": "疫情百态：能源业暖男与会计准妈妈",
+        "truncated": false
+      },
+      "description": {
+        "text": "大家好，因为墨尔本的疫情二次爆发，不允许两人以上的集会。 本期节目，笨伯将继续以连线问答的形式，对嘉宾进行访谈。 本期嘉宾： 墨尔本能源界暖男，曾经的文科状元：灏哥 快消品公司会计，幸福的准妈妈：萝卜 一起听一听，来自墨尔本真实的声音， 一起看一看，疫情之下，海外华人的人生百态和别样感悟。 BGM: 皇家萌卫 -- 灵空音乐 楽しいねぇ -- 百石元 Sinal Song -- 利纳斯的毛毯",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Jul 2020 13:09:04 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "e56b99973cb8b663387cdfadda903b0c62f4e0cc0d340e3c7de315151be9cca5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/38dd-audiofreehighqps/2D/95/CMCoOScC4yY9A81s0gBBnZaU.mp3",
+      "title": {
+        "text": "疫情百态：一线医护工作者与精致小资会计",
+        "truncated": false
+      },
+      "description": {
+        "text": "大家好，因为墨尔本的疫情二次爆发，六周内不允许两人以上的集会。 那么本期节目，笨伯将继续以连线问答的形式，对嘉宾进行访谈。 本期的嘉宾： 美丽的一线医护工作者： JING 姐 精致的小资会计，做空过澳大利亚的男人：管老师 一起听一听，来自墨尔本真实的声音， 一起看一看，疫情之下，海外华人的人生百态和别样感悟。 BGM: 拥有 Masbfca - 几米 猫的舞步 - Cand_Wind",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Jul 2020 07:48:18 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "fac679fb58c96bbdf2c19ce21f0dce256521f857783693dea7c3748212096ce6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4f88-audiofreehighqps/55/89/CMCoCqMC4iWHA56aQQBBbcjq.mp3",
+      "title": {
+        "text": "疫情百态：国际小卖部老板与资深宝马销售",
+        "truncated": false
+      },
+      "description": {
+        "text": "大家好，因为墨尔本疫情二次爆发，六周内不允许两人以上的集会。 那么从本期节目开始呢，笨伯以连线问答的形式，对嘉宾进行问答访谈。 本期的嘉宾： 我们的老朋友，国际小卖部的高富帅老板：柏老板 还有美丽的宝马资深销售，花椒女士。 那么，就跟笨伯一起， 一起听一听，来自墨尔本真实的声音， 一起看一看，疫情之下，海外华人的人生百态和别样感悟。",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Jul 2020 13:33:00 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "d297c65863f4458871ab9c8c6a87f36dd0a5b1f28018b22ac82ca22e62e21816",
+      "guid": "https://aod.cos.tx.xmcdn.com/group86/M07/8D/4C/wKg5IF8DAAGg6B3PA5o0qw9jbw8208.mp3",
+      "title": {
+        "text": "身在国外聊出国：人生不同的打开方式（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "出国， 从之前的光鲜亮丽，到现在的众说纷纭。 正如一千个人的眼中，有一千个哈姆雷特。 澳大利亚到底安全吗？ 出国生活前需要了解哪些意想不到的知识点？ 为什么了解足够的两性知识很重要？ 国外专业人士如何看待避孕失败？ 坐稳了！ 笨伯和你一起，在澳大利亚的一张茶桌前， 听管老师，柏老板，还有Jing姐，聊聊他们自己的经历和答案！",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Jul 2020 10:42:12 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "af095f2ae5e7c9e69560f64a7c3ce82a63b35d48f0c6626b9ac639e4d26b1fc2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group83/M01/46/0E/wKg5I177MpTiB8cUBMi8PZSPRqU603.mp3",
+      "title": {
+        "text": "身在国外聊出国：人生不同的打开方式（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "出国， 从之前的光鲜亮丽，到现在的众说纷纭。 正如 一千个人的眼中，有一千个哈姆雷特。 当下出国的意义是什么？ 国外生活的最大难点？ 澳大利亚到底有没有种族歧视？ 哪些事是他们出国前怎么也想不到的？ 坐稳了！ 笨伯和你一起，在澳大利亚的一张茶桌前， 听管老师，柏老板，还有Jing姐，聊聊他们自己的经历和回答！",
+        "truncated": false
+      },
+      "published_at": "Tue, 30 Jun 2020 12:39:50 GMT",
+      "feed_index": 5
+    }
+  ]
+}

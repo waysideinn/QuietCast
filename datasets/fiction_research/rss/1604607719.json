@@ -1,0 +1,140 @@
+{
+  "show_id": "1604607719",
+  "feed_url": "http://www.ximalaya.com/album/55359615.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/55359615.xml",
+    "final_url": "http://www.ximalaya.com/album/55359615.xml",
+    "fetched_at": "2026-10-25T14:55:27.610782+00:00",
+    "status": 200,
+    "sha256": "a8d4bb8c50cca272295785d7928612fcb9bbd1b9565626ced7fa37657d00927b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "魔剑冰心|武侠江湖悬疑热血搞笑|青莲真人免费有声",
+    "truncated": false
+  },
+  "description": {
+    "text": "一场比武竟然牵扯出了一系列的奇诡事件，引来了众多英雄好汉，看少年英雄在诡诈，明争暗斗的江湖如何破局！卧刀，神剑，铁拳......处处暗藏杀机，环环扣人心弦，一幕幕惊险场面，一个接一个的悬念...... 演播 青莲 后期 躺平的土狗",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 192,
+  "episodes": [
+    {
+      "id": "f6a25f9c2e10ec1a82fbf9dfebdb401c424dd5aa6f7f2bf0477f406e3f880de0",
+      "guid": "xmly_track_481426083",
+      "title": {
+        "text": "001 事儿找我（喜欢请点赞评论分享哦，兄弟们谢谢）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 Dec 2021 00:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ff440585f308439ddb7c815f31f2c9d5dbb1b7ca19599a63360737af55489ea7",
+      "guid": "xmly_track_484078007",
+      "title": {
+        "text": "028 棋子（兄弟们五星好评来的更猛烈些吧）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 21 Dec 2021 13:00:00 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "29ec8875c9620d66365ae9f8e9412d5b6c216f212b45a475d6b8808ceeb37ddc",
+      "guid": "xmly_track_486383803",
+      "title": {
+        "text": "056 各有发现（喜欢请多评论分享朋友圈，老友们谢谢）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 31 Dec 2021 00:00:00 GMT",
+      "feed_index": 55
+    },
+    {
+      "id": "88d29eccb9645f73bd6fc86451ee8934e48de97cc9681bd5babc497ba0add66f",
+      "guid": "xmly_track_486387382",
+      "title": {
+        "text": "083 关外双虎（喜欢请点赞评论分享哦，兄弟们谢谢）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 09 Jan 2022 00:00:00 GMT",
+      "feed_index": 82
+    },
+    {
+      "id": "82be905ae6f9a6550657c034d18ad6e0f56964cd5289cb9464ea11f380d5871a",
+      "guid": "xmly_track_488560566",
+      "title": {
+        "text": "110 一线生机（点赞戳我别手软兄弟）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Feb 2022 00:00:00 GMT",
+      "feed_index": 109
+    },
+    {
+      "id": "0a0a7ef879e8cbd4663611a50468e3a1eb6ef59285319644f372d6123ff07b42",
+      "guid": "xmly_track_515504399",
+      "title": {
+        "text": "137 杀人抢马（五星好评来一个谢谢兄弟们）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Apr 2022 00:00:00 GMT",
+      "feed_index": 136
+    },
+    {
+      "id": "8f5614745135013a0425ac50110dc80c8835f70b2708616c469d58e0932e6e85",
+      "guid": "xmly_track_517799283",
+      "title": {
+        "text": "165 美人计（新书《柳案明》搞笑古言探案快来订阅）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 19 Apr 2022 00:00:00 GMT",
+      "feed_index": 164
+    },
+    {
+      "id": "2516b7bb423d1bef1d9dce1e1180f8079c576a61d599f69416982a3e39bad493",
+      "guid": "xmly_track_518206111",
+      "title": {
+        "text": "192 放她走（完结撒花 五星好评来一个谢谢兄弟们）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 02 May 2022 00:01:00 GMT",
+      "feed_index": 191
+    }
+  ]
+}

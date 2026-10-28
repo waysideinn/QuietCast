@@ -1,0 +1,111 @@
+{
+  "group": "fiction",
+  "term": "都市爽文",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E9%83%BD%E5%B8%82%E7%88%BD%E6%96%87&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E9%83%BD%E5%B8%82%E7%88%BD%E6%96%87&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:40:02.950023+00:00",
+    "status": 200,
+    "sha256": "ea0e8414b5ee3be10a55b99e1cc952ab5f24ecd1b7ebe5ff3a32457351b1924f"
+  },
+  "result_count": 4,
+  "records": [
+    {
+      "collectionId": 1725596995,
+      "trackId": 1725596995,
+      "collectionName": "【免费】我有一条金融街|现代都市|商战爽文|首富逆袭|感情专一|AI多播",
+      "artistName": "丹丹在发呆",
+      "feedUrl": "https://www.ximalaya.com/album/79874009.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E6%88%91%E6%9C%89%E4%B8%80%E6%9D%A1%E9%87%91%E8%9E%8D%E8%A1%97-%E7%8E%B0%E4%BB%A3%E9%83%BD%E5%B8%82-%E5%95%86%E6%88%98%E7%88%BD%E6%96%87-%E9%A6%96%E5%AF%8C%E9%80%86%E8%A2%AD-%E6%84%9F%E6%83%85%E4%B8%93%E4%B8%80-ai%E5%A4%9A%E6%92%AD/id1725596995?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 670,
+      "releaseDate": "2024-04-07T09:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1768418312,
+      "trackId": 1768418312,
+      "collectionName": "【重生之神瞳在世】复仇｜与鬼帝生娃｜逗比阎帝｜商战｜灵异｜都市爽文｜大女主｜脑洞",
+      "artistName": "十月阳光工作室",
+      "feedUrl": "https://www.ximalaya.com/album/82234080.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%87%8D%E7%94%9F%E4%B9%8B%E7%A5%9E%E7%9E%B3%E5%9C%A8%E4%B8%96-%E5%A4%8D%E4%BB%87-%E4%B8%8E%E9%AC%BC%E5%B8%9D%E7%94%9F%E5%A8%83-%E9%80%97%E6%AF%94%E9%98%8E%E5%B8%9D-%E5%95%86%E6%88%98-%E7%81%B5%E5%BC%82-%E9%83%BD%E5%B8%82%E7%88%BD%E6%96%87-%E5%A4%A7%E5%A5%B3%E4%B8%BB-%E8%84%91%E6%B4%9E/id1768418312?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "休闲",
+        "爱好"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 719,
+      "releaseDate": "2024-09-14T01:47:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1540254339,
+      "trackId": 1540254339,
+      "collectionName": "透视神婿|都市爽文",
+      "artistName": "初心待你",
+      "feedUrl": "http://www.ximalaya.com/album/43701446.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%80%8F%E8%A7%86%E7%A5%9E%E5%A9%BF-%E9%83%BD%E5%B8%82%E7%88%BD%E6%96%87/id1540254339?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 90,
+      "releaseDate": "2022-10-31T12:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1777645182,
+      "trackId": 1777645182,
+      "collectionName": "【免费】【有声书】双播|都市爽文|打脸|杀穿世界",
+      "artistName": "深海鲲鲸",
+      "feedUrl": "https://www.ximalaya.com/album/83906121.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E6%9C%89%E5%A3%B0%E4%B9%A6-%E5%8F%8C%E6%92%AD-%E9%83%BD%E5%B8%82%E7%88%BD%E6%96%87-%E6%89%93%E8%84%B8-%E6%9D%80%E7%A9%BF%E4%B8%96%E7%95%8C/id1777645182?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 662,
+      "releaseDate": "2025-01-18T22:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    }
+  ]
+}

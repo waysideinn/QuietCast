@@ -1,0 +1,140 @@
+{
+  "show_id": "1636898808",
+  "feed_url": "https://www.ximalaya.com/album/69253922.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/69253922.xml",
+    "final_url": "https://www.ximalaya.com/album/69253922.xml",
+    "fetched_at": "2026-10-25T14:44:38.249618+00:00",
+    "status": 200,
+    "sha256": "96086f4feb30aaa71fe5ed94ead9fad6618b1929a26b1b4b47157f5b2ac19050"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【免费多播】明星总裁：独宠学神娇妻",
+    "truncated": false
+  },
+  "description": {
+    "text": "两个孤独的灵魂，互相治愈，甜宠不虐！日更2集，每天18点准时更新，不定期爆更！ 催更讨论剧情，请加入学霸交流QQ群[contact removed] 【内容简介】 她是学神，精通多国语言，兼职网络写手，目标就是挣钱挣钱挣钱，重要的事情说三遍。 他是明星，歌手演员，万年男二，被称为娱乐圈的绯闻绝缘体，不知为何，总是不能跻身一线。 两个孤独的灵魂，展露温柔，只为同一只猫。 一而再再而三的相遇碰撞，渐渐的发现，原来⋯⋯ 李骁是欧星辰进入娱乐圈的推力。 欧星辰是李骁永不放弃的动力。 【作者简介】 我是仙人掌，网络作家 【演播团队】 女CV：变色小龙人、小猫蹲、拉科达的月亮 男CV：长白真人、讲故事的奥利...",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 191,
+  "episodes": [
+    {
+      "id": "f8df784718cea61a5888a6bf1b997a2433cccdaac97768ffabcf8094b8347103",
+      "guid": "xmly_track_549028953",
+      "title": {
+        "text": "明星总裁：独宠学神娇妻 精彩片花介绍（求订阅 + 五星好评哟！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 07 Jul 2022 00:08:08 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f17091e12c242eef525035c5c1522c6a78b7f19fe8ac5fbc34c9770265f86425",
+      "guid": "xmly_track_549243721",
+      "title": {
+        "text": "明星总裁独宠学神娇妻 027集 碰巧和欧星辰同一剧组",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 13 Jul 2022 10:00:00 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "528a4cf5a4e360988f692cca3b1fd099d6854c78edcc358788133352cab47a6b",
+      "guid": "xmly_track_549247188",
+      "title": {
+        "text": "明星总裁独宠学神娇妻 054集 球球的呼救",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 26 Jul 2022 10:00:02 GMT",
+      "feed_index": 54
+    },
+    {
+      "id": "0d5af0220e5cd6dcfdd5fa882ebe23a66f23bef9057c5bb7dfdbc0c885265d59",
+      "guid": "xmly_track_555048690",
+      "title": {
+        "text": "明星总裁独宠学神娇妻 081集 肖勇的生日礼物",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 09 Aug 2022 10:00:00 GMT",
+      "feed_index": 81
+    },
+    {
+      "id": "400a701cfaa32f46006b5bac81f7721765f02e11d3e7b481c0342f01f64dc7bb",
+      "guid": "xmly_track_557124718",
+      "title": {
+        "text": "明星总裁独宠学神娇妻 109集 欧星辰的真心",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 Aug 2022 10:00:00 GMT",
+      "feed_index": 109
+    },
+    {
+      "id": "855ec77a4259298260914d474e2c954f23fc52029e3a7a47e0927d72d227cb24",
+      "guid": "xmly_track_559045059",
+      "title": {
+        "text": "明星总裁独宠学神娇妻 136集 你会娶她吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 04 Sep 2022 10:00:00 GMT",
+      "feed_index": 136
+    },
+    {
+      "id": "f0a34d29ab8319fcecf979145ab43eca916ca9d4fe4e5778b734844fdf534e23",
+      "guid": "xmly_track_560064645",
+      "title": {
+        "text": "明星总裁独宠学神娇妻 163集 永远病下去",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Sep 2022 10:00:09 GMT",
+      "feed_index": 163
+    },
+    {
+      "id": "74a92ce292e8126e440718cc36bf2d7f80d53db49fc9ddd09c5946d3fc676335",
+      "guid": "xmly_track_560863407",
+      "title": {
+        "text": "明星总裁独宠学神娇妻 190集 终成明星总裁（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Sep 2022 10:00:06 GMT",
+      "feed_index": 190
+    }
+  ]
+}

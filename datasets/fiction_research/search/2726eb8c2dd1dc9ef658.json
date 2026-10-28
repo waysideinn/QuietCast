@@ -1,0 +1,739 @@
+{
+  "group": "normal",
+  "term": "心理学",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%BF%83%E7%90%86%E5%AD%A6&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%BF%83%E7%90%86%E5%AD%A6&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:43:28.069088+00:00",
+    "status": 200,
+    "sha256": "4bef55719016b1d385c961ce5204b8dab28e2956c80ee84235d6337c8ccd3385"
+  },
+  "result_count": 29,
+  "records": [
+    {
+      "collectionId": 1636292406,
+      "trackId": 1636292406,
+      "collectionName": "懂点心理学《人性的弱点》",
+      "artistName": "萌的卡罗1",
+      "feedUrl": "https://www.ximalaya.com/album/69512024.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%87%82%E7%82%B9%E5%BF%83%E7%90%86%E5%AD%A6-%E4%BA%BA%E6%80%A7%E7%9A%84%E5%BC%B1%E7%82%B9/id1636292406?uo=4",
+      "genres": [
+        "情感与人际关系",
+        "播客",
+        "社会与文化"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324"
+      ],
+      "trackCount": 40,
+      "releaseDate": "2022-08-01T16:08:00Z",
+      "country": "CHN",
+      "primaryGenreName": "情感与人际关系"
+    },
+    {
+      "collectionId": 1761928979,
+      "trackId": 1761928979,
+      "collectionName": "《普通心理学》第六版磨耳朵（入睡版）",
+      "artistName": "大肚的白",
+      "feedUrl": "https://www.ximalaya.com/album/82351483.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%99%AE%E9%80%9A%E5%BF%83%E7%90%86%E5%AD%A6-%E7%AC%AC%E5%85%AD%E7%89%88%E7%A3%A8%E8%80%B3%E6%9C%B5-%E5%85%A5%E7%9D%A1%E7%89%88/id1761928979?uo=4",
+      "genres": [
+        "课程",
+        "播客",
+        "教育",
+        "健康与健身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 58,
+      "releaseDate": "2024-08-17T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "课程"
+    },
+    {
+      "collectionId": 1660063456,
+      "trackId": 1660063456,
+      "collectionName": "自控力-斯坦福大学最受欢迎心理学课程",
+      "artistName": "拾叁阅",
+      "feedUrl": "https://www.ximalaya.com/album/40112753.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%87%AA%E6%8E%A7%E5%8A%9B-%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E5%BF%83%E7%90%86%E5%AD%A6%E8%AF%BE%E7%A8%8B/id1660063456?uo=4",
+      "genres": [
+        "心理健康",
+        "播客",
+        "健康与健身",
+        "社会与文化",
+        "哲学"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2021-08-18T13:48:00Z",
+      "country": "CHN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1587999461,
+      "trackId": 1587999461,
+      "collectionName": "微表情心理学",
+      "artistName": "奔跑的蜗牛79",
+      "feedUrl": "http://www.ximalaya.com/album/35733593.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%BE%AE%E8%A1%A8%E6%83%85%E5%BF%83%E7%90%86%E5%AD%A6/id1587999461?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2020-03-28T12:53:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1604314875,
+      "trackId": 1604314875,
+      "collectionName": "社会心理学|每天6分钟学点心理学",
+      "artistName": "22点半",
+      "feedUrl": "http://www.ximalaya.com/album/56091375.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86%E5%AD%A6-%E6%AF%8F%E5%A4%A96%E5%88%86%E9%92%9F%E5%AD%A6%E7%82%B9%E5%BF%83%E7%90%86%E5%AD%A6/id1604314875?uo=4",
+      "genres": [
+        "社会科学",
+        "播客",
+        "科学",
+        "健康与健身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 25,
+      "releaseDate": "2022-01-23T22:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会科学"
+    },
+    {
+      "collectionId": 1465222657,
+      "trackId": 1465222657,
+      "collectionName": "周易—中国本土心理学",
+      "artistName": "徐坤教授讲周易",
+      "feedUrl": "http://www.ximalaya.com/album/22967451.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%91%A8%E6%98%93-%E4%B8%AD%E5%9B%BD%E6%9C%AC%E5%9C%9F%E5%BF%83%E7%90%86%E5%AD%A6/id1465222657?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "历史"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 32,
+      "releaseDate": "2020-04-08T07:25:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1301085775,
+      "trackId": 1301085775,
+      "collectionName": "五分钟心理学",
+      "artistName": "柠檬心理",
+      "feedUrl": "http://www.ximalaya.com/album/4627127.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BA%94%E5%88%86%E9%92%9F%E5%BF%83%E7%90%86%E5%AD%A6/id1301085775?uo=4",
+      "genres": [
+        "教育",
+        "播客",
+        "健康与健身"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1512"
+      ],
+      "trackCount": 1602,
+      "releaseDate": "2025-12-28T09:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1545095335,
+      "trackId": 1545095335,
+      "collectionName": "三分钟|情商心理学",
+      "artistName": "字节有趣",
+      "feedUrl": "http://www.ximalaya.com/album/42520298.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%88%86%E9%92%9F-%E6%83%85%E5%95%86%E5%BF%83%E7%90%86%E5%AD%A6/id1545095335?uo=4",
+      "genres": [
+        "课程",
+        "播客",
+        "教育",
+        "社会与文化",
+        "情感与人际关系"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2020-11-12T00:01:00Z",
+      "country": "CHN",
+      "primaryGenreName": "课程"
+    },
+    {
+      "collectionId": 1596865908,
+      "trackId": 1596865908,
+      "collectionName": "勇气心理学 | 每天听一遍，改变你人生",
+      "artistName": "被讨厌的勇气",
+      "feedUrl": "http://www.ximalaya.com/album/54960459.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8B%87%E6%B0%94%E5%BF%83%E7%90%86%E5%AD%A6-%E6%AF%8F%E5%A4%A9%E5%90%AC%E4%B8%80%E9%81%8D-%E6%94%B9%E5%8F%98%E4%BD%A0%E4%BA%BA%E7%94%9F/id1596865908?uo=4",
+      "genres": [
+        "心理健康",
+        "播客",
+        "健康与健身",
+        "社会与文化",
+        "哲学"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2021-11-23T03:06:00Z",
+      "country": "CHN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1716124973,
+      "trackId": 1716124973,
+      "collectionName": "认知心理学：开启认识世界的全新大门",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/79081223.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%AE%A4%E7%9F%A5%E5%BF%83%E7%90%86%E5%AD%A6-%E5%BC%80%E5%90%AF%E8%AE%A4%E8%AF%86%E4%B8%96%E7%95%8C%E7%9A%84%E5%85%A8%E6%96%B0%E5%A4%A7%E9%97%A8/id1716124973?uo=4",
+      "genres": [
+        "心理健康",
+        "播客",
+        "健康与健身",
+        "科学",
+        "自然科学"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1533",
+        "1534"
+      ],
+      "trackCount": 265,
+      "releaseDate": "2024-02-06T15:15:00Z",
+      "country": "CHN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1649934454,
+      "trackId": 1649934454,
+      "collectionName": "心理学小故事助眠丨小追的心思",
+      "artistName": "惜小追",
+      "feedUrl": "https://www.ximalaya.com/album/71678039.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%BF%83%E7%90%86%E5%AD%A6%E5%B0%8F%E6%95%85%E4%BA%8B%E5%8A%A9%E7%9C%A0%E4%B8%A8%E5%B0%8F%E8%BF%BD%E7%9A%84%E5%BF%83%E6%80%9D/id1649934454?uo=4",
+      "genres": [
+        "心理健康",
+        "播客",
+        "健康与健身",
+        "社会与文化",
+        "情感与人际关系"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2022-12-05T12:09:00Z",
+      "country": "CHN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1217700310,
+      "trackId": 1217700310,
+      "collectionName": "魏知超聊心理学",
+      "artistName": "魏知超",
+      "feedUrl": "http://www.ximalaya.com/album/6895040.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%AD%8F%E7%9F%A5%E8%B6%85%E8%81%8A%E5%BF%83%E7%90%86%E5%AD%A6/id1217700310?uo=4",
+      "genres": [
+        "社会科学",
+        "播客",
+        "科学",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 78,
+      "releaseDate": "2024-08-09T07:49:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会科学"
+    },
+    {
+      "collectionId": 1507896500,
+      "trackId": 1507896500,
+      "collectionName": "心理学概论|简单人人听得懂实用",
+      "artistName": "三味学堂",
+      "feedUrl": "http://www.ximalaya.com/album/28402558.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%BF%83%E7%90%86%E5%AD%A6%E6%A6%82%E8%AE%BA-%E7%AE%80%E5%8D%95%E4%BA%BA%E4%BA%BA%E5%90%AC%E5%BE%97%E6%87%82%E5%AE%9E%E7%94%A8/id1507896500?uo=4",
+      "genres": [
+        "自我完善",
+        "播客",
+        "教育",
+        "课程"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1501"
+      ],
+      "trackCount": 57,
+      "releaseDate": "2020-04-09T14:35:00Z",
+      "country": "CHN",
+      "primaryGenreName": "自我完善"
+    },
+    {
+      "collectionId": 1687878883,
+      "trackId": 1687878883,
+      "collectionName": "人性能达到的境界｜马斯洛｜心理学｜哲学（完）",
+      "artistName": "由然而达",
+      "feedUrl": "https://www.ximalaya.com/album/75633951.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E6%80%A7%E8%83%BD%E8%BE%BE%E5%88%B0%E7%9A%84%E5%A2%83%E7%95%8C-%E9%A9%AC%E6%96%AF%E6%B4%9B-%E5%BF%83%E7%90%86%E5%AD%A6-%E5%93%B2%E5%AD%A6-%E5%AE%8C/id1687878883?uo=4",
+      "genres": [
+        "心理健康",
+        "播客",
+        "健康与健身",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 65,
+      "releaseDate": "2023-05-10T07:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1603944365,
+      "trackId": 1603944365,
+      "collectionName": "普通心理学|每天6分钟学点心理学",
+      "artistName": "22点半",
+      "feedUrl": "http://www.ximalaya.com/album/55934992.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%99%AE%E9%80%9A%E5%BF%83%E7%90%86%E5%AD%A6-%E6%AF%8F%E5%A4%A96%E5%88%86%E9%92%9F%E5%AD%A6%E7%82%B9%E5%BF%83%E7%90%86%E5%AD%A6/id1603944365?uo=4",
+      "genres": [
+        "社会科学",
+        "播客",
+        "科学",
+        "社会与文化",
+        "情感与人际关系"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 42,
+      "releaseDate": "2022-01-06T09:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会科学"
+    },
+    {
+      "collectionId": 1698726023,
+      "trackId": 1698726023,
+      "collectionName": "自己拯救自己：人际交往心理学哲学书",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/77148254.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%87%AA%E5%B7%B1%E6%8B%AF%E6%95%91%E8%87%AA%E5%B7%B1-%E4%BA%BA%E9%99%85%E4%BA%A4%E5%BE%80%E5%BF%83%E7%90%86%E5%AD%A6%E5%93%B2%E5%AD%A6%E4%B9%A6/id1698726023?uo=4",
+      "genres": [
+        "心理健康",
+        "播客",
+        "健康与健身",
+        "社会与文化",
+        "哲学"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 45,
+      "releaseDate": "2023-08-07T14:53:00Z",
+      "country": "CHN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1875558570,
+      "trackId": 1875558570,
+      "collectionName": "八方斋·难过听 | 心理学：ADHD·ASD",
+      "artistName": "bafangzhaizhu",
+      "feedUrl": "https://www.ximalaya.com/album/84531725.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%AB%E6%96%B9%E6%96%8B-%E9%9A%BE%E8%BF%87%E5%90%AC-%E5%BF%83%E7%90%86%E5%AD%A6-adhd-asd/id1875558570?uo=4",
+      "genres": [
+        "自我完善",
+        "播客",
+        "教育",
+        "科学",
+        "自然科学"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1533",
+        "1534"
+      ],
+      "trackCount": 633,
+      "releaseDate": "2026-10-25T04:05:00Z",
+      "country": "CHN",
+      "primaryGenreName": "自我完善"
+    },
+    {
+      "collectionId": 1754714654,
+      "trackId": 1754714654,
+      "collectionName": "职场心理学|每天一个活学活用的成功案例|海伦",
+      "artistName": "海伦咨询",
+      "feedUrl": "https://www.ximalaya.com/album/82204044.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%81%8C%E5%9C%BA%E5%BF%83%E7%90%86%E5%AD%A6-%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E6%B4%BB%E5%AD%A6%E6%B4%BB%E7%94%A8%E7%9A%84%E6%88%90%E5%8A%9F%E6%A1%88%E4%BE%8B-%E6%B5%B7%E4%BC%A6/id1754714654?uo=4",
+      "genres": [
+        "情感与人际关系",
+        "播客",
+        "社会与文化",
+        "健康与健身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 60,
+      "releaseDate": "2024-07-23T22:18:00Z",
+      "country": "CHN",
+      "primaryGenreName": "情感与人际关系"
+    },
+    {
+      "collectionId": 1827245551,
+      "trackId": 1827245551,
+      "collectionName": "金刚经的日常|当代解读|结合心理学|化解焦虑抑郁",
+      "artistName": "齐齐亚",
+      "feedUrl": "https://www.ximalaya.com/album/97114182.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%87%91%E5%88%9A%E7%BB%8F%E7%9A%84%E6%97%A5%E5%B8%B8-%E5%BD%93%E4%BB%A3%E8%A7%A3%E8%AF%BB-%E7%BB%93%E5%90%88%E5%BF%83%E7%90%86%E5%AD%A6-%E5%8C%96%E8%A7%A3%E7%84%A6%E8%99%91%E6%8A%91%E9%83%81/id1827245551?uo=4",
+      "genres": [
+        "佛教",
+        "播客",
+        "宗教与心灵",
+        "健康与健身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1438",
+        "26",
+        "1314",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 89,
+      "releaseDate": "2025-08-28T04:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "佛教"
+    },
+    {
+      "collectionId": 1686515140,
+      "trackId": 1686515140,
+      "collectionName": "心理学考研|普心磨耳朵",
+      "artistName": "众学简快",
+      "feedUrl": "https://www.ximalaya.com/album/75849682.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%BF%83%E7%90%86%E5%AD%A6%E8%80%83%E7%A0%94-%E6%99%AE%E5%BF%83%E7%A3%A8%E8%80%B3%E6%9C%B5/id1686515140?uo=4",
+      "genres": [
+        "课程",
+        "播客",
+        "教育",
+        "健康与健身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 66,
+      "releaseDate": "2023-08-18T01:38:00Z",
+      "country": "CHN",
+      "primaryGenreName": "课程"
+    },
+    {
+      "collectionId": 1604532620,
+      "trackId": 1604532620,
+      "collectionName": "墙裂推荐｜生活与心理学｜一份料理生活的心理学指南",
+      "artistName": "22点半",
+      "feedUrl": "http://www.ximalaya.com/album/56168817.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A2%99%E8%A3%82%E6%8E%A8%E8%8D%90-%E7%94%9F%E6%B4%BB%E4%B8%8E%E5%BF%83%E7%90%86%E5%AD%A6-%E4%B8%80%E4%BB%BD%E6%96%99%E7%90%86%E7%94%9F%E6%B4%BB%E7%9A%84%E5%BF%83%E7%90%86%E5%AD%A6%E6%8C%87%E5%8D%97/id1604532620?uo=4",
+      "genres": [
+        "管理",
+        "播客",
+        "商务",
+        "健康与健身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1491",
+        "26",
+        "1321",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 48,
+      "releaseDate": "2024-01-16T09:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "管理"
+    },
+    {
+      "collectionId": 6825599308,
+      "trackId": 6825599308,
+      "collectionName": "听见十言-生活中的心理学",
+      "artistName": "听见十言",
+      "feedUrl": "https://feed.xyzfm.space/44jjbdv8vafq",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%90%AC%E8%A7%81%E5%8D%81%E8%A8%80-%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9A%84%E5%BF%83%E7%90%86%E5%AD%A6/id6825599308?uo=4",
+      "genres": [
+        "宗教与心灵",
+        "播客"
+      ],
+      "genreIds": [
+        "1314",
+        "26"
+      ],
+      "trackCount": 123,
+      "releaseDate": "2026-10-25T13:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "宗教与心灵"
+    },
+    {
+      "collectionId": 1573505632,
+      "trackId": 1573505632,
+      "collectionName": "来点好东西 I 正念&积极心理学",
+      "artistName": "十分钟心书",
+      "feedUrl": "http://www.ximalaya.com/album/49984436.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9D%A5%E7%82%B9%E5%A5%BD%E4%B8%9C%E8%A5%BF-i-%E6%AD%A3%E5%BF%B5-%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E5%AD%A6/id1573505632?uo=4",
+      "genres": [
+        "灵修",
+        "播客",
+        "宗教与心灵",
+        "科学",
+        "生命科学"
+      ],
+      "genreIds": [
+        "1444",
+        "26",
+        "1314",
+        "1533",
+        "1541"
+      ],
+      "trackCount": 370,
+      "releaseDate": "2022-04-16T21:52:00Z",
+      "country": "CHN",
+      "primaryGenreName": "灵修"
+    },
+    {
+      "collectionId": 1482927105,
+      "trackId": 1482927105,
+      "collectionName": "文都比邻丨2020心理学考研背多分领读",
+      "artistName": "文都比邻心理学考研",
+      "feedUrl": "http://www.ximalaya.com/album/29310580.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%87%E9%83%BD%E6%AF%94%E9%82%BB%E4%B8%A82020%E5%BF%83%E7%90%86%E5%AD%A6%E8%80%83%E7%A0%94%E8%83%8C%E5%A4%9A%E5%88%86%E9%A2%86%E8%AF%BB/id1482927105?uo=4",
+      "genres": [
+        "课程",
+        "播客",
+        "教育"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304"
+      ],
+      "trackCount": 52,
+      "releaseDate": "2019-10-19T00:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "课程"
+    },
+    {
+      "collectionId": 1815871213,
+      "trackId": 1815871213,
+      "collectionName": "一起爬V8!｜专注攀岩x心理学&女性",
+      "artistName": "柯晗",
+      "feedUrl": "https://feed.xyzfm.space/n7n6xur3xn3q",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%80%E8%B5%B7%E7%88%ACv8-%E4%B8%93%E6%B3%A8%E6%94%80%E5%B2%A9x%E5%BF%83%E7%90%86%E5%AD%A6-%E5%A5%B3%E6%80%A7/id1815871213?uo=4",
+      "genres": [
+        "体育",
+        "播客",
+        "科学"
+      ],
+      "genreIds": [
+        "1545",
+        "26",
+        "1533"
+      ],
+      "trackCount": 31,
+      "releaseDate": "2026-10-22T12:59:00Z",
+      "country": "CHN",
+      "primaryGenreName": "体育"
+    },
+    {
+      "collectionId": 1851389109,
+      "trackId": 1851389109,
+      "collectionName": "二八酱丨成长说明书",
+      "artistName": "二八酱丨心理学大排档",
+      "feedUrl": "https://www.ximalaya.com/album/110173917.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BA%8C%E5%85%AB%E9%85%B1%E4%B8%A8%E6%88%90%E9%95%BF%E8%AF%B4%E6%98%8E%E4%B9%A6/id1851389109?uo=4",
+      "genres": [
+        "自我完善",
+        "播客",
+        "教育",
+        "科学",
+        "天文"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1533",
+        "1538"
+      ],
+      "trackCount": 55,
+      "releaseDate": "2026-10-15T19:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "自我完善"
+    },
+    {
+      "collectionId": 1592112999,
+      "trackId": 1592112999,
+      "collectionName": "《了不起的我》共读心理学（完结）",
+      "artistName": "微阳心静的成长空间",
+      "feedUrl": "http://www.ximalaya.com/album/43993318.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%88%91-%E5%85%B1%E8%AF%BB%E5%BF%83%E7%90%86%E5%AD%A6-%E5%AE%8C%E7%BB%93/id1592112999?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "健康与健身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 113,
+      "releaseDate": "2024-09-27T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1141759195,
+      "trackId": 1141759195,
+      "collectionName": "鞠强教授：管理心理学",
+      "artistName": "管理心理学教授鞠强",
+      "feedUrl": "http://www.ximalaya.com/album/2725025.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%9E%A0%E5%BC%BA%E6%95%99%E6%8E%88-%E7%AE%A1%E7%90%86%E5%BF%83%E7%90%86%E5%AD%A6/id1141759195?uo=4",
+      "genres": [
+        "商务",
+        "播客",
+        "教育"
+      ],
+      "genreIds": [
+        "1321",
+        "26",
+        "1304"
+      ],
+      "trackCount": 2000,
+      "releaseDate": "2026-10-25T10:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "商务"
+    },
+    {
+      "collectionId": 1561504636,
+      "trackId": 1561504636,
+      "collectionName": "情感挽回咨询｜分手失恋｜情商心理学",
+      "artistName": "成竹说",
+      "feedUrl": "http://www.ximalaya.com/album/47825875.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%83%85%E6%84%9F%E6%8C%BD%E5%9B%9E%E5%92%A8%E8%AF%A2-%E5%88%86%E6%89%8B%E5%A4%B1%E6%81%8B-%E6%83%85%E5%95%86%E5%BF%83%E7%90%86%E5%AD%A6/id1561504636?uo=4",
+      "genres": [
+        "情感与人际关系",
+        "播客",
+        "社会与文化",
+        "健康与健身",
+        "两性"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1512",
+        "1516"
+      ],
+      "trackCount": 44,
+      "releaseDate": "2024-07-16T00:58:00Z",
+      "country": "CHN",
+      "primaryGenreName": "情感与人际关系"
+    }
+  ]
+}

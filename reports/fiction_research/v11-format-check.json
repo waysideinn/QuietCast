@@ -1,0 +1,10 @@
+{
+  "jsonSchema": "pass",
+  "schemaSHA256": "14e51557928f1c8eb1895b69556d4dd84d63577248332e7479749076ef109a1a",
+  "interfaceSHA256": "4668a2a3374494c202e9dfa5344b26f03bd845defd0f8d7c433fbfafff823af7",
+  "publisherRules": 201,
+  "enabledPendingReviewRules": 4,
+  "confirmedPublisherRules": 0,
+  "enabledPublisherBlockRules": 0,
+  "status": "example"
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1623099660",
+  "feed_url": "http://www.ximalaya.com/album/66819380.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/66819380.xml",
+    "final_url": "http://www.ximalaya.com/album/66819380.xml",
+    "fetched_at": "2026-10-25T14:56:54.004179+00:00",
+    "status": 200,
+    "sha256": "4d50d0874b90488a7f93e98399b6410c6a15f06cddda0e7755eb38d5d0dffe4f"
+  },
+  "status": "ok",
+  "title": {
+    "text": "《三国演义》AI 每天8分钟共读一本名著",
+    "truncated": false
+  },
+  "description": {
+    "text": "《三国演义》是中国古典四大名著之一，是中国第一部长篇章回体历史演义小说，全名为《三国志通俗演义》，作者是元末明初的小说家罗贯中。《三国演义》描写了从东汉末年到西晋初年之间近105年的历史风云，以描写战争为主，反映了东汉末年的群雄割据混战和魏、蜀、吴三国之间的政治和军事斗争。反映了三国时代各类社会斗争与矛...",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 41,
+  "episodes": [
+    {
+      "id": "46b8b0d38b021b64a72783d2c690723e84d063b50ccc2f6d7670e97dfa26a0d6",
+      "guid": "xmly_track_529036534",
+      "title": {
+        "text": "《三国演义》·第四十二回 三国归晋m4a",
+        "truncated": false
+      },
+      "description": {
+        "text": "《三国演义》是中国古典四大名著之一，是中国第一部长篇章回体历史演义小说，全名为《三国志通俗演义》，作者是元末明初的小说家罗贯中。《三国演义》描写了从东汉末年到西晋初年之间近105年的历史风云，以描写战争为主，反映了东汉末年的群雄割据混战和魏、蜀、吴三国之间的政治和军事斗争。反映了三国时代各类社会斗争与矛...",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Jun 2022 23:57:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d07205ebc6e718ee8f53020b63480d2f7326b354c192e2c48204a18ca3c3ed6c",
+      "guid": "xmly_track_529036207",
+      "title": {
+        "text": "《三国演义》·第三十六回 八卦阵m4a",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Jun 2022 23:32:00 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "4ae0fd54492a34af0e245cb7d66e4ecd8818e271ceeb9a3fec397f23ce0dabff",
+      "guid": "xmly_track_529035950",
+      "title": {
+        "text": "《三国演义》·第三十回 火烧连营(下)m4a",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 04 Jun 2022 23:33:00 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "aa9f767a122796186073b53b73e9706ab90df48984af907e2a7d9e1a6d424f47",
+      "guid": "xmly_track_529035736",
+      "title": {
+        "text": "《三国演义》·第二十四回 战濡须m4a",
+        "truncated": false
+      },
+      "description": {
+        "text": "《三国演义》是中国古典四大名著之一，是中国第一部长篇章回体历史演义小说，全名为《三国志通俗演义》，作者是元末明初的小说家罗贯中。《三国演义》描写了从东汉末年到西晋初年之间近105年的历史风云，以描写战争为主，反映了东汉末年的群雄割据混战和魏、蜀、吴三国之间的政治和军事斗争。反映了三国时代各类社会斗争与矛...",
+        "truncated": false
+      },
+      "published_at": "Sun, 29 May 2022 23:45:00 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "86ee4231971ef3e55ad8c065bb0d7c0a4fb4814516f33c8863e161971b7367ad",
+      "guid": "xmly_track_529035722",
+      "title": {
+        "text": "《三国演义》·第十八回 甘露寺m4a",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 23 May 2022 23:45:00 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "ef2cb639684e103c8ee42aad273c04b5fba5899808ae949e6d34483b5aafa5c3",
+      "guid": "xmly_track_529035501",
+      "title": {
+        "text": "《三国演义》·第十二回 火烧新野m4a",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 17 May 2022 23:35:00 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "42c2e93630983f7c1f60d48e04731c019e17232ac7e8e6c999310dc2bebb4f4a",
+      "guid": "xmly_track_529035064",
+      "title": {
+        "text": "《三国演义》·第七回 白门楼m4a",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 May 2022 23:33:00 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "8496e3e6c4b8cab1fb3bbe1d8ad7e74edeec43c57be74fb39d504e69e7210764",
+      "guid": "xmly_track_529035050",
+      "title": {
+        "text": "《三国演义》·第一回 桃园结义m4a",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 May 2022 23:33:00 GMT",
+      "feed_index": 40
+    }
+  ]
+}

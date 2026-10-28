@@ -1,0 +1,140 @@
+{
+  "show_id": "1101566191",
+  "feed_url": "http://www.ximalaya.com/album/3013987.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/3013987.xml",
+    "final_url": "http://www.ximalaya.com/album/3013987.xml",
+    "fetched_at": "2026-10-25T14:47:16.790887+00:00",
+    "status": 200,
+    "sha256": "135f334ce1f813232325d0f086492cd125c9046035fe6a4ee7c0dfa152145dea"
+  },
+  "status": "ok",
+  "title": {
+    "text": "艺术很难吗",
+    "truncated": false
+  },
+  "description": {
+    "text": "精品课程《意公子：给孩子的第一堂艺术课》，重磅上线！戳此直达 国内第一档艺术脱口秀《艺术很难吗》持续更新中，还有更多好玩有趣的艺术内容等你发现！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 65,
+  "episodes": [
+    {
+      "id": "51075225e8e6e4e6465b4ea5749d458a597c9ad046031aa42a14226fb2535657",
+      "guid": "https://aod.cos.tx.xmcdn.com/group17/M01/00/07/wKgJKVd5xNzgSk-9AFxSwGHe3tY851-aacv2-48K.m4a",
+      "title": {
+        "text": "原始人究竟在石头上画了什么？",
+        "truncated": false
+      },
+      "description": {
+        "text": "用全新方式感受史前文明，在静止的壁画里，想象自己是几万年前饿着肚子，准备画画的原始人……（更多内容请关注微信：意外艺术）",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Jul 2016 02:34:31 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8d43d36493f748e4d2f81045fac9c8efae436ef0e90a944549d487d8d724a453",
+      "guid": "https://aod.cos.tx.xmcdn.com/group7/M06/50/C6/wKgDWlW0TrXyox4oAIxebQ5tnXk079-aacv2-48K.m4a",
+      "title": {
+        "text": "一幅名画是如何被捧红的？ - 艺术很难吗 -",
+        "truncated": false
+      },
+      "description": {
+        "text": "一幅传世名画是如何被一步一步捧红的？关注微信：意外艺术，用前所未有的方式为你解读富春山居图，解读艺术。",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 Feb 2015 09:04:14 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "57e117c92f4a997520fac33fd4c9a44985b2863d199239d5f1865bba6326f004",
+      "guid": "https://aod.cos.tx.xmcdn.com/group7/M00/C6/0D/wKgDWlZlRoviORPaAEffSYJX6dU212-aacv2-48K.m4a",
+      "title": {
+        "text": "顾长卫告诉你100元人民币的最佳打开方式 - 艺术很难吗Ⅱ-12",
+        "truncated": false
+      },
+      "description": {
+        "text": "自制 想对人民币说，无论你变成什么样，我都照样爱你~更多人民币的秘密，关注微信“意外艺术”就有啦~",
+        "truncated": false
+      },
+      "published_at": "Mon, 07 Dec 2015 08:44:56 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "44562bf36e6418ba09f0a351e702a44b08c617f8b206538fbca26f001ab2627c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group10/M0B/49/5B/wKgDaVcV-YuDrx1nAF01-oFZygY988-aacv2-48K.m4a",
+      "title": {
+        "text": "三代皇帝都宠爱的外国男人是谁！艺术很难吗Ⅲ-06",
+        "truncated": false
+      },
+      "description": {
+        "text": "这个金发碧眼的意大利人先后侍奉了康、雍、乾三朝皇帝，官至三品。他究竟是如何成功玩转清朝宫廷职场，让三朝皇帝都爱不释手？【艺术很难吗】 第三季 06",
+        "truncated": false
+      },
+      "published_at": "Tue, 19 Apr 2016 09:52:37 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "475605f8c17597cd49f9b57bd99e626170f420312c0663066de344f09ef6c6ac",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M00/1D/F7/wKgJJ1fiAAfjZS8OAFAWknBit2o636-aacv2-48K.m4a",
+      "title": {
+        "text": "严重洁癖，在古代竟然生活成这样？-艺术很难吗Ⅲ-16",
+        "truncated": false
+      },
+      "description": {
+        "text": "新品《意公子：给孩子的第一堂艺术课》，现已重磅上线！戳此直达 在我们印象中 艺术家好像都有点“奇葩” 梵高割耳朵，达利吃蝙蝠 海明威一生都站着创作 不过今天要说的 大奇葩 倪瓒 简直瞬间秒杀他们 ▼ 洁癖，毁了倪瓒，却也成就了倪瓒。 他的画面，极简素雅。他的生活，苛求到了极致，不能容忍一丝不洁。 说倪瓒洁癖，不如说是他把文人的那种高洁与孤傲发挥到了极致，犹如利刃般斩断自己与世俗的连接，来保护内心的一份净土。",
+        "truncated": false
+      },
+      "published_at": "Wed, 21 Sep 2016 07:10:49 GMT",
+      "feed_index": 37
+    },
+    {
+      "id": "ca8d20db0a2da4ce690d37bbbcb77c6da37a53240dc0e2f24af1f262445962ed",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M01/F4/64/wKgJSVl-hEmwqpxnAGuL-EQ39RE409-aacv2-48K.m4a",
+      "title": {
+        "text": "没有浮世绘，梵高可能就不再是那个梵高 -艺术很难吗VI-07",
+        "truncated": false
+      },
+      "description": {
+        "text": "你以为浮世绘只有污吗？一口气带你懂浮世绘！ 新品《意公子：给孩子的第一堂艺术课》，现已重磅上线！戳此直达",
+        "truncated": false
+      },
+      "published_at": "Mon, 31 Jul 2017 01:16:16 GMT",
+      "feed_index": 46
+    },
+    {
+      "id": "645ab59ede388bd8af5d45c99b2b0c076896d010b6dddf55b9923457e1c16059",
+      "guid": "https://aod.cos.tx.xmcdn.com/group85/M05/D9/55/wKg5H18inaTAvU5WAEqR5YGORUY737-aacv2-48K.m4a",
+      "title": {
+        "text": "编码创世，盘古其实是位程序员",
+        "truncated": false
+      },
+      "description": {
+        "text": "盘古其实是一个程序员，女娲复制粘贴完成了造人，神话原来就这么简单！今天的艺术很难吗，意公子带你 一口气读懂中国上古神话",
+        "truncated": false
+      },
+      "published_at": "Thu, 30 Jul 2020 10:14:48 GMT",
+      "feed_index": 55
+    },
+    {
+      "id": "6a4efd6b353e991c91f56f460497902640e2dc4264fed306c63c976244299d64",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a1d7-audiofreehighqps/2D/A0/CMCoOScDw2QuABRP-AB20B5s-aacv2-48K.m4a",
+      "title": {
+        "text": "这次意外搞「大」了，你来吗？｜意外人文艺术学院2.0就要来啦",
+        "truncated": false
+      },
+      "description": {
+        "text": "意外人文艺术学院2.0即将上线！ 戳简介了解更多 你好，我是意公子，亲切的朋友喊我潇涵。 其实这几年来，我一直都在焦虑当中度过。 每一天晚上焦虑到说我就只能靠着刷着手机，然后让这些信息在我的头脑里面爆炸，让头脑只有在爆炸的时候，你才能停止思考，才能慢下来，才能睡着，很痛苦很痛苦。 后来我去找了很多的老师，这些老师让我明白一个道理—— 不是你有病，而是生命那么美好，你应该慢下来好好的去享受生命，好好的去懂得如何浪费时间，把时间真正意义上浪费在美好的事物上面。 我发现和我一样的人还有很多，我就去市面上找。 我看到很多的地方都在跟你说你要成功、你要高效、你要省时、你要碎片化的学习；你跟着我，你变瘦、变美、变有钱，这些东西充斥了我的生活，让我变得更加焦虑了。 能不能有那么一个地方能让我真正意义上慢下来，能让我关照我的心灵，能够让我感受到我生命里面的美好？ 于是，意外人文艺术学院成立了。 我觉得他不仅仅只是教我人文艺术的知识，他更是教我这些知识怎么反哺到我的生活里面，帮助我换一种视角重新的再活一遍。 它也不是一个课程的罗列或者堆积，我们希望你享受的是一个完整的过程。 从放下头脑，打开你的身体感知里，到在艺术里真正意义上找到你自己，然后再到带着视角重新的去审视你生活当中最常见的东西，最后完成一场你的艺术创造，完成一次你对这个世界的表达。 每一门课都是前一门课的积淀，而每一位老师他们也不仅仅只是",
+        "truncated": true
+      },
+      "published_at": "Thu, 31 Dec 2020 10:00:09 GMT",
+      "feed_index": 64
+    }
+  ]
+}

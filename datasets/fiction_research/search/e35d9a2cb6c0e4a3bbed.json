@@ -1,0 +1,241 @@
+{
+  "group": "normal",
+  "term": "商业播客",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%95%86%E4%B8%9A%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%95%86%E4%B8%9A%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:43:05.449530+00:00",
+    "status": 200,
+    "sha256": "98fdd79fa2e879158f948180b2c323e90c8592f930a6b6fc013fe1954712a0aa"
+  },
+  "result_count": 10,
+  "records": [
+    {
+      "collectionId": 1607771610,
+      "trackId": 1607771610,
+      "collectionName": "\"柠檬变成柠檬水\"中文商业播客(Chinese Podcast)",
+      "artistName": "Hua & Poy",
+      "feedUrl": "https://rss.buzzsprout.com/1929639.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9F%A0%E6%AA%AC%E5%8F%98%E6%88%90%E6%9F%A0%E6%AA%AC%E6%B0%B4-%E4%B8%AD%E6%96%87%E5%95%86%E4%B8%9A%E6%92%AD%E5%AE%A2-chinese-podcast/id1607771610?uo=4",
+      "genres": [
+        "行銷",
+        "Podcast",
+        "商業",
+        "管理"
+      ],
+      "genreIds": [
+        "1492",
+        "26",
+        "1321",
+        "1491"
+      ],
+      "trackCount": 116,
+      "releaseDate": "2026-09-18T17:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "行銷"
+    },
+    {
+      "collectionId": 1874607839,
+      "trackId": 1874607839,
+      "collectionName": "懂投哥的商业播客",
+      "artistName": "懂投哥的商业播客",
+      "feedUrl": "https://www.ximalaya.com/album/116365496.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%87%82%E6%8A%95%E5%93%A5%E7%9A%84%E5%95%86%E4%B8%9A%E6%92%AD%E5%AE%A2/id1874607839?uo=4",
+      "genres": [
+        "科技",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1318",
+        "26"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2026-02-18T14:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1892712336,
+      "trackId": 1892712336,
+      "collectionName": "小红书账号批发网maixhs官方商业播客",
+      "artistName": "Q",
+      "feedUrl": "https://media.rss.com/maixhscom/feed.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%B4%A6%E5%8F%B7%E6%89%B9%E5%8F%91%E7%BD%91maixhs%E5%AE%98%E6%96%B9%E5%95%86%E4%B8%9A%E6%92%AD%E5%AE%A2/id1892712336?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "管理"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1491"
+      ],
+      "trackCount": 6,
+      "releaseDate": "2026-04-15T18:19:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 6806224804,
+      "trackId": 6806224804,
+      "collectionName": "霸占碎片化听觉经济的隐秘王座：喜马拉雅播放与订阅在重塑播客音频商业版图中的基石作用",
+      "artistName": "霸占碎片化听觉经济的隐秘王座：喜马拉雅播放与订阅在重塑播客音频商业版图中的基石作用",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtcst0nw0j1901zc7zpmfl4q",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9C%B8%E5%8D%A0%E7%A2%8E%E7%89%87%E5%8C%96%E5%90%AC%E8%A7%89%E7%BB%8F%E6%B5%8E%E7%9A%84%E9%9A%90%E7%A7%98%E7%8E%8B%E5%BA%A7-%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%92%AD%E6%94%BE%E4%B8%8E%E8%AE%A2%E9%98%85%E5%9C%A8%E9%87%8D%E5%A1%91%E6%92%AD%E5%AE%A2%E9%9F%B3%E9%A2%91%E5%95%86%E4%B8%9A%E7%89%88%E5%9B%BE%E4%B8%AD%E7%9A%84%E5%9F%BA%E7%9F%B3%E4%BD%9C%E7%94%A8/id6806224804?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-28T10:21:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1643467519,
+      "trackId": 1643467519,
+      "collectionName": "CPA超频对话 | 播客商业观察",
+      "artistName": "播客志PRO",
+      "feedUrl": "https://www.ximalaya.com/album/70527951.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/cpa%E8%B6%85%E9%A2%91%E5%AF%B9%E8%AF%9D-%E6%92%AD%E5%AE%A2%E5%95%86%E4%B8%9A%E8%A7%82%E5%AF%9F/id1643467519?uo=4",
+      "genres": [
+        "行銷",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1492",
+        "26",
+        "1321"
+      ],
+      "trackCount": 79,
+      "releaseDate": "2026-10-12T04:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "行銷"
+    },
+    {
+      "collectionId": 1650905574,
+      "trackId": 1650905574,
+      "collectionName": "CPA超频对话 | 播客商业观察",
+      "artistName": "播客志PRO",
+      "feedUrl": "https://www.ximalaya.com/album/70527951.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/cpa%E8%B6%85%E9%A2%91%E5%AF%B9%E8%AF%9D-%E6%92%AD%E5%AE%A2%E5%95%86%E4%B8%9A%E8%A7%82%E5%AF%9F/id1650905574?uo=4",
+      "genres": [
+        "行銷",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1492",
+        "26",
+        "1321"
+      ],
+      "trackCount": 79,
+      "releaseDate": "2026-10-12T04:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "行銷"
+    },
+    {
+      "collectionId": 1829374504,
+      "trackId": 1829374504,
+      "collectionName": "闻道商业的播客",
+      "artistName": "闻道商业",
+      "feedUrl": "https://feed.xyzfm.space/nqxlcx6bqtmp",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%97%BB%E9%81%93%E5%95%86%E4%B8%9A%E7%9A%84%E6%92%AD%E5%AE%A2/id1829374504?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2026-03-18T12:16:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1826227150,
+      "trackId": 1826227150,
+      "collectionName": "商业要素是如何生效的？（播客访谈版/AI生成）",
+      "artistName": "陈沐EZE",
+      "feedUrl": "https://www.ximalaya.com/album/94837531.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%95%86%E4%B8%9A%E8%A6%81%E7%B4%A0%E6%98%AF%E5%A6%82%E4%BD%95%E7%94%9F%E6%95%88%E7%9A%84-%E6%92%AD%E5%AE%A2%E8%AE%BF%E8%B0%88%E7%89%88-ai%E7%94%9F%E6%88%90/id1826227150?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "行銷"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1492"
+      ],
+      "trackCount": 19,
+      "releaseDate": "2025-12-13T03:36:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 520713436,
+      "trackId": 520713436,
+      "collectionName": "商业英语播客",
+      "artistName": "ABC Radio Australia",
+      "feedUrl": "https://legacy-www.abc.net.au/xmlpublic/radio/radioaustralia/chinese/podcast/feed/englishforbusiness-zh",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%95%86%E4%B8%9A%E8%8B%B1%E8%AF%AD%E6%92%AD%E5%AE%A2/id520713436?uo=4",
+      "genres": [
+        "語言學習",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1498",
+        "26",
+        "1304"
+      ],
+      "trackCount": 26,
+      "releaseDate": "2012-09-25T02:53:00Z",
+      "country": "TWN",
+      "primaryGenreName": "語言學習"
+    },
+    {
+      "collectionId": 1849428966,
+      "trackId": 1849428966,
+      "collectionName": "本分商业——Chari的播客",
+      "artistName": "Icebean",
+      "feedUrl": "https://anchor.fm/s/10b054f18/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E5%88%86%E5%95%86%E4%B8%9A-chari%E7%9A%84%E6%92%AD%E5%AE%A2/id1849428966?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2025-10-29T02:38:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    }
+  ]
+}

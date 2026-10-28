@@ -1,0 +1,312 @@
+{
+  "source": {
+    "url": "https://podcasts.apple.com/cn/grouping/197716",
+    "final_url": "https://podcasts.apple.com/cn/grouping/197716",
+    "fetched_at": "2026-10-26T07:51:12.511047+00:00",
+    "status": 200,
+    "sha256": "506539d182da007145317540e98c7631ca4172325224be3cf526a9e5af18a74e"
+  },
+  "status": "ok",
+  "data": {
+    "heading": "网络文学",
+    "shows": [
+      {
+        "apple_id": "1764275500",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%7C%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1764275500",
+        "title": "绝世暗器现身斗罗大陆 武魂觉醒再铸唐门辉煌"
+      },
+      {
+        "apple_id": "1765054312",
+        "url": "https://podcasts.apple.com/cn/podcast/%E3%80%8A%E6%98%86%E4%BB%91%E3%80%8B%E6%96%B0%E6%AD%A6%E4%BE%A0%E6%89%9B%E9%BC%8E%E4%B9%8B%E4%BD%9C-%7C-%E5%A4%A7%E6%96%8C/id1765054312",
+        "title": "《昆仑》新武侠扛鼎之作 | 大斌"
+      },
+      {
+        "apple_id": "1765262805",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%A4%A9%E5%AD%97%E7%AC%AC%E4%B8%80%E5%BD%93/id1765262805",
+        "title": "天字第一当"
+      },
+      {
+        "apple_id": "1765262622",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%87%8D%E7%94%9F%E4%B9%8B%E8%B6%85%E7%BA%A7%E6%88%98%E8%88%B0/id1765262622",
+        "title": "重生之超级战舰"
+      },
+      {
+        "apple_id": "1765054055",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%BE%99%E6%97%8F%EF%BC%88%E5%90%88%E9%9B%86%EF%BC%89%E4%B8%A81-3%E5%AD%A3%E5%AE%8C%E7%BB%93%EF%BC%8C%E6%96%B0%E7%AF%87%E7%AB%A0%E9%99%86%E7%BB%AD%E6%9B%B4%E6%96%B0%E4%B8%A8%E6%B1%9F%E5%8D%97%E8%91%97%E4%B8%A8%E7%B4%AB%E8%A5%9F%E9%A2%86%E8%A1%94%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1765054055",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765053992",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%81%AE%E5%A4%A9%7C%E8%BE%B0%E4%B8%9C%E4%BD%9C%E5%93%81%EF%BC%8C%E5%A4%B4%E9%99%80%E6%B8%8A%26%E5%B0%8F%E6%A1%83%E7%BA%A2%E7%B2%BE%E5%93%81%E5%8F%8C%E6%92%AD%7C%E7%83%AD%E6%92%AD%E5%8A%A8%E7%94%BB%E5%8E%9F%E8%91%97/id1765053992",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765054037",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E7%82%BC%E6%B0%94%E6%9C%9F/id1765054037",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765259199",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%9A%87%E5%AE%B6%E5%AF%86%E6%8E%A2%E4%B8%A8%E8%BD%BB%E6%9D%BE%E5%8E%86%E5%8F%B2%E5%AF%86%E6%8E%A2%E4%B8%A8%E7%89%9B%E5%A4%A7%E5%AE%9D%E7%88%86%E7%AC%91%E6%BC%94%E6%92%AD/id1765259199",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765256339",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%9C%80%E4%BD%B3%E5%A5%B3%E5%A9%BF/id1765256339",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765262632",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%9C%AB%E6%97%A5%E8%9F%91%E8%9E%82/id1765262632",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765265911",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%8C%97%E5%9F%8E%E6%9C%89%E6%98%9F%E5%85%89/id1765265911",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765253319",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%99%90%E9%87%8F%E7%9A%84%E4%BD%A0/id1765253319",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765263262",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%A5%9E%E7%BA%A7%E9%A3%8E%E6%B0%B4%E5%B8%88/id1765263262",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765263856",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%AE%B6%E6%9C%89%E7%8E%8B%E5%A6%83%E5%88%9D%E9%95%BF%E6%88%90/id1765263856",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765253576",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%81%9A%E4%BD%A0%E5%BF%83%E5%B0%96%E7%9A%84%E9%BB%91%E6%9C%88%E5%85%89/id1765253576",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765253727",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%8D%83%E4%BA%BF%E5%AE%A0%E5%A9%9A/id1765253727",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765263180",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%BA%92%E9%BA%9F%E7%A5%9E%E7%9B%B8/id1765263180",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765054093",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%8B%AC%E6%AD%A5%E9%80%8D%E9%81%A5/id1765054093",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765254474",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%A5%9E%E7%8E%8B%E6%AF%92%E5%AE%A0%EF%BC%9A%E4%BA%8C%E5%AB%81%E7%8E%8B%E5%A6%83/id1765254474",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765265915",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%93%81%E8%A1%80%E6%AF%92%E5%90%8E%7Cvip%E5%BF%AB%E6%9B%B4%E7%89%88%7C%E5%B7%B7%E5%AD%90%E9%A2%86%E8%A1%94%7C%E7%94%B7%E5%BC%BA%E5%A5%B3%E5%BC%BA%7C%E5%A4%A7%E5%9E%8B%E7%B2%BE%E5%93%81%E6%9D%83%E8%B0%8B%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1765265915",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765254640",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%A5%9E%E5%8C%BB%E7%8B%82%E5%A6%83%EF%BC%9A%E6%88%98%E7%A5%9E%E7%8E%8B%E7%88%B7%E4%B9%96%E4%B9%96%E5%8F%97%E5%AE%A0/id1765254640",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765255126",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%9B%9B%E4%B8%96%E7%94%B0%E5%AB%81/id1765255126",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765255180",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%AB%A1%E8%89%B2%E4%B8%A8%E5%8F%A4%E8%A8%80%E9%87%8D%E7%94%9F%7C%E5%8D%8A%E7%BA%B8%E9%B8%BF%E9%B9%8A%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1765255180",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765255242",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E9%9D%A0%E5%85%AB%E5%8D%A6%E7%AB%8B%E8%B6%B3%E5%90%8E%E5%AE%AB-%7C%E5%8F%A4%E8%A8%80%E7%88%86%E7%AC%91%E7%A9%BF%E8%B6%8A-%7C%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7-%7Cvip%E5%85%8D%E8%B4%B9/id1765255242",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765254536",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%AE%B6%E5%85%BB%E5%B0%8F%E7%8E%8B%E5%A6%83/id1765254536",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765256285",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%BE%99%E7%8E%8B%E6%AE%BF/id1765256285",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765256294",
+        "url": "https://podcasts.apple.com/cn/podcast/%E8%B6%85%E7%BA%A7%E7%99%BE%E5%AE%9D%E8%A2%8B/id1765256294",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765256324",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%B7%B1%E7%A9%BA%E5%BD%BC%E5%B2%B8%E4%B8%A8%E5%A4%B4%E9%99%80%E6%B8%8A%E9%A2%86%E8%A1%94%E6%BC%94%E6%92%AD%2C%E8%BE%B0%E4%B8%9C%E5%8F%A3%E7%A2%91%E6%96%B0%E4%BD%9C%2C%E5%BC%82%E6%9C%AF%E8%B6%85%E8%83%BD%E7%88%BD%E6%96%87%E4%B8%A8%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1765256324",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765256483",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E7%9A%84%E5%BE%AE%E4%BF%A1%E8%BF%9E%E4%B8%89%E7%95%8C/id1765256483",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765256726",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%9B%96%E4%B8%96%E7%A5%9E%E5%8C%BB%E4%B8%A8%E5%8F%B6%E7%A7%8B%E4%B8%A8%E9%83%BD%E5%B8%82%E4%BF%AE%E4%BB%99%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7%E4%B8%A8%E4%B8%80%E7%A7%8D%E4%BE%83%E4%BE%83/id1765256726",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765256407",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E8%87%AA%E5%9C%B0%E7%8B%B1%E6%9D%A5/id1765256407",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765257425",
+        "url": "https://podcasts.apple.com/cn/podcast/%E3%80%8A%E5%A4%A7%E7%8E%84%E5%B8%88%E3%80%8B%E7%99%BD%E5%B0%8F%E7%94%9F%E7%B2%BE%E5%93%81%E5%8F%8C%E6%92%AD/id1765257425",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765259534",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%A4%A7%E6%98%8E%EF%BC%9A%E5%AE%B6%E7%88%B6%E6%B0%B8%E4%B9%90%EF%BC%8C%E6%B0%B8%E9%95%87%E5%B1%B1%E6%B2%B3%EF%BD%9C%E7%88%86%E7%AC%91%E5%8E%86%E5%8F%B2-%7C-%E6%9C%89%E5%A3%B0%E7%9A%84%E7%B4%AB%E8%A5%9F%E5%9B%A2%E9%98%9F/id1765259534",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765259852",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%93%81%E8%A1%80%E8%8B%B1%E9%9B%84%7C%E6%8A%97%E6%97%A5%E5%86%9B%E4%BA%8B%7C%E5%91%B5%E5%A3%81%E9%97%AE%E5%A4%A9%E6%BC%94%E6%92%AD%7C%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1765259852",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765260302",
+        "url": "https://podcasts.apple.com/cn/podcast/%E4%BB%A3%E5%8F%B7%E8%80%81%E7%8C%AB/id1765260302",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765260177",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%A4%A7%E5%94%90%E5%92%B8%E9%B1%BC%E7%8E%8B%E7%88%B7%E4%B8%A8%E6%B2%99%E9%9B%95%E6%90%9E%E7%AC%91%E4%B8%A8%E8%BD%BB%E6%9D%BE%E5%8E%86%E5%8F%B2%E4%B8%A8%E6%96%87%E5%A8%B1%E5%A4%A7%E5%94%90%E4%B8%A8%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1765260177",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765259490",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%98%8E%E6%9C%9D%E5%A4%A7%E5%BF%BD%E6%82%A0%7C%E5%8E%86%E5%8F%B2%E6%9D%83%E8%B0%8B%26%E6%90%9E%E7%AC%91%E8%BD%BB%E6%9D%BE%7C%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1765259490",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765260832",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%94%A6%E8%A1%A3%E9%95%BF%E6%AD%8C/id1765260832",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765260804",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E4%B8%8D%E6%98%AF%E9%87%8E%E4%BA%BA%EF%BC%88%E5%AD%91%E4%B8%8E2%E5%88%9B%E4%BD%9C%2F%E9%93%B6%E4%BA%94%E9%9B%85%E8%A8%80%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%B8%BB%E6%92%AD%EF%BC%89/id1765260804",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765263229",
+        "url": "https://podcasts.apple.com/cn/podcast/%E3%80%90%E5%8E%9F%E5%88%9B%E5%A4%9A%E4%BA%BA%E3%80%91%E6%9C%AB%E6%97%A5%E5%A4%A9%E6%B6%AF%E4%B8%A8%E5%87%A1%E4%BA%BA%E6%B5%81%E6%9C%AB%E4%B8%96%E7%BB%8F%E5%85%B8%E4%B9%8B%E4%BD%9C/id1765263229",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765263070",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%9C%AB%E4%B8%96%E6%97%A5%E8%AE%B0%7C%E4%B8%A7%E5%B0%B8%7C%E6%8B%BE%E8%8D%92%7C%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%7C%E4%B8%9C%E4%BA%AC%E6%B2%A6%E9%99%B7%7C%E5%A4%9A%E6%92%AD/id1765263070",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765262790",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%85%A8%E7%90%83%E8%BF%9B%E5%85%A5%E6%80%AA%E5%85%BD%E6%97%B6%E4%BB%A3-%7C-%E6%9C%AB%E4%B8%96%E9%87%8D%E7%94%9F%E6%90%9E%E7%AC%91%E5%B0%8F%E8%AF%B4%E4%B8%A8%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1765262790",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765263370",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%BC%82%E7%95%8C%E7%A7%B0%E9%9C%B8%E9%98%8E%E7%8E%8B%EF%BD%9C%E7%8E%84%E5%B9%BB%E7%B3%BB%E7%BB%9F%E6%B5%81%EF%BD%9C%E7%88%86%E7%AC%91%E6%97%A0%E5%8E%98%E5%A4%B4/id1765263370",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765262877",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%9C%AB%E6%97%A5%E4%BA%86%EF%BC%8C%E8%BA%AB%E8%BE%B9%E5%85%A8%E6%98%AF%E5%A5%B3%E4%B8%A7%E5%B0%B8%EF%BD%9C%E6%9C%AB%E4%B8%96%E5%90%8E%E5%AE%AB%E4%B8%A7%E5%B0%B8%EF%BD%9C%E7%88%86%E7%88%BD%E5%BC%82%E8%83%BD%EF%BD%9C%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1765262877",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765263128",
+        "url": "https://podcasts.apple.com/cn/podcast/%E3%80%8A%E6%B1%82%E7%94%9Fsss%E5%A4%A9%E8%B5%8B-%E3%80%8B%7C%E7%83%AD%E8%A1%80%E7%88%BD%E6%96%87-%7C%E6%9C%AB%E6%97%A5%E6%B1%82%E7%94%9F-%7C%E6%B8%B8%E6%88%8F%E7%B3%BB%E7%BB%9F-%7C%E5%BC%80%E5%B1%80%E9%80%86%E5%A4%A9-%7C%E7%94%B7%E5%BC%BA%E5%A5%B3%E5%BC%BA/id1765263128",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765253026",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%9A%96%E5%BF%83%E5%AE%A0%E5%A9%9A%EF%BC%9A%E9%A1%B6%E7%BA%A7%E8%80%81%E5%85%AC%E5%9D%8F%E9%80%8F%E4%BA%86/id1765253026",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765253063",
+        "url": "https://podcasts.apple.com/cn/podcast/%E4%B8%83%E6%A0%B9%E5%87%B6%E7%AE%80/id1765253063",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765253264",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%99%86%E6%80%BB%E8%A3%81%E7%9A%84%E7%BB%AF%E9%97%BB%E5%BD%B1%E5%90%8E/id1765253264",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765253055",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%88%86%E5%AE%A0%E8%90%8C%E5%A6%BB%EF%BC%9A%E5%B8%9D%E5%B0%91%E7%9A%84%E5%BF%83%E5%B0%96%E5%AE%A0%E5%84%BF/id1765253055",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765253097",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%97%AA%E5%A9%9A%E7%A5%9E%E7%A7%98%E8%80%81%E5%85%AC/id1765253097",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765253100",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%BD%92%E8%B7%AF%E4%B8%A8%E5%A2%A8%E5%AE%9D%E9%9D%9E%E5%AE%9D%E4%B8%A8%E8%B4%BA%E6%96%87%E6%BD%87%26%E6%99%AF%E5%90%91%E8%B0%81%E4%BE%9D%E4%B8%BB%E5%BD%B9%E6%9C%89%E5%A3%B0%E5%89%A7%E4%B8%A8%E8%BE%B9%E6%B1%9F%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%88%B6%E4%BD%9C%E4%B8%A8%E5%BE%90%E5%AE%87%E9%9A%86%E6%BC%94%E6%92%AD/id1765253100",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765253205",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%92%BB%E7%9F%B3%E7%94%9C%E5%A9%9A%EF%BC%9A%E5%9B%BD%E6%B0%91%E7%94%B7%E7%A5%9E%E7%BC%A0%E4%B8%8A%E8%BA%AB/id1765253205",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765054051",
+        "url": "https://podcasts.apple.com/cn/podcast/%E4%BF%AE%E4%BB%99%E5%BD%92%E6%9D%A5%E5%9C%A8%E6%A0%A1%E5%9B%AD/id1765054051",
+        "title": ""
+      }
+    ],
+    "channels": [
+      {
+        "apple_channel_id": "6642689603",
+        "url": "https://podcasts.apple.com/cn/channel/%E7%8E%84%E5%B9%BB%E4%BF%AE%E4%BB%99%E5%89%A7%E5%9C%BA/id6642689603",
+        "name": "修炼本是逆天而行，谁能问鼎世界之巅？ 【玄幻修仙剧场VIP】平凡少年如何崛起，成为举世瞩目的强者？古老秘境与神秘传承，能否把握住改变命运的契机？让我们一同穿越浩瀚玄幻世世界，谱写新的不朽传说！ 点击订阅，一起踏上打怪升级之旅！ 更多精彩内容，上喜马拉雅官网：https://www.ximalaya.com/ 免费单集"
+      },
+      {
+        "apple_channel_id": "6642691355",
+        "url": "https://podcasts.apple.com/cn/channel/%E6%9C%AA%E6%9D%A5%E5%B9%BB%E6%83%B3%E5%89%A7%E5%9C%BA/id6642691355",
+        "name": "穿越浩瀚宇宙，感受科技与力量的完美融合！ 【未来幻想剧场VIP】科技or异能，你会选择哪种力量来对抗威胁？末世降临，普通人如何成为巅峰强者？星际历险，谁才是宇宙最强者？ 点击订阅，一场惊心动魄的探险即将开启！ 更多精彩内容，上喜马拉雅官网：https://www.ximalaya.com/ 免费单集"
+      },
+      {
+        "apple_channel_id": "6642691973",
+        "url": "https://podcasts.apple.com/cn/channel/%E5%8F%A4%E8%A8%80%E5%89%A7%E5%9C%BA/id6642691973",
+        "name": "愿得一人心，白首不相离。 【古言剧场VIP】从朱门紫阁到山村田庄，从将军府邸到江湖客栈，这里有让人心跳加速的绝美爱恋，也有种田经商的治愈故事，更有惊心动魄的朝堂宫斗。 点击订阅，解锁全部古言小说，邀您共赴一场穿越千年的浪漫之旅。 更多精彩内容，上喜马拉雅官网：https://www.ximalaya.com/ 免费单集"
+      },
+      {
+        "apple_channel_id": "6642692156",
+        "url": "https://podcasts.apple.com/cn/channel/%E9%AB%98%E7%94%9C%E5%89%A7%E5%9C%BA/id6642692156",
+        "name": "我嗑的CP天下第一甜！ 【高甜剧场VIP】是一见钟情的心动，还是欲擒故纵的暧昧？校园恋爱、豪门霸总、青梅竹马、先婚后爱……你想听的现代言情小说这里都有。 点击订阅，踏上甜蜜爱情之旅！ 更多精彩内容，上喜马拉雅官网：https://www.ximalaya.com/ 免费单集"
+      },
+      {
+        "apple_channel_id": "6642691178",
+        "url": "https://podcasts.apple.com/cn/channel/%E5%8E%86%E5%8F%B2%E5%86%9B%E4%BA%8B%E5%89%A7%E5%9C%BA/id6642691178",
+        "name": "乱世群雄逐鹿中原，谁能笑傲天下？ 【历史军事剧场VIP】朝堂之上，他妙语连珠，舌战群儒；战场之中，他运筹帷幄，令敌军闻风丧胆。乱世争霸、权谋党争，看主角如何走上人生巅峰 点击订阅，一起穿越时空，书写自己的历史！ 更多精彩内容，上喜马拉雅官网：https://www.ximalaya.com/ 免费单集"
+      },
+      {
+        "apple_channel_id": "6642692365",
+        "url": "https://podcasts.apple.com/cn/channel/%E5%B9%BB%E6%83%B3%E8%A8%80%E6%83%85%E5%89%A7%E5%9C%BA/id6642692365",
+        "name": "踏遍星河，谱写你的不朽传奇。 【幻想言情剧场VIP】玄幻修仙、星际历险、系统快穿……各类幻想言情故事，任君挑选。 点击订阅，开启你的奇幻爱情之旅！！ 更多精彩内容，上喜马拉雅官网：https://www.ximalaya.com/ 免费单集"
+      }
+    ]
+  }
+}

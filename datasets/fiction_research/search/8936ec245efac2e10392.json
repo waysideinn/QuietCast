@@ -1,0 +1,113 @@
+{
+  "group": "fiction",
+  "term": "多人剧",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%A4%9A%E4%BA%BA%E5%89%A7&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%A4%9A%E4%BA%BA%E5%89%A7&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:42:11.127505+00:00",
+    "status": 200,
+    "sha256": "6d0844524ad6a3ee87b7d20457de55638c50410ecda37a1e2470dfb28fac503f"
+  },
+  "result_count": 4,
+  "records": [
+    {
+      "collectionId": 1740094934,
+      "trackId": 1740094934,
+      "collectionName": "团宠小祖宗是大佬 | 免费爆笑多人剧 | 重生修仙",
+      "artistName": "阿壮是个大喜庆",
+      "feedUrl": "https://www.ximalaya.com/album/70658299.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%9B%A2%E5%AE%A0%E5%B0%8F%E7%A5%96%E5%AE%97%E6%98%AF%E5%A4%A7%E4%BD%AC-%E5%85%8D%E8%B4%B9%E7%88%86%E7%AC%91%E5%A4%9A%E4%BA%BA%E5%89%A7-%E9%87%8D%E7%94%9F%E4%BF%AE%E4%BB%99/id1740094934?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 221,
+      "releaseDate": "2022-11-14T23:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1595747271,
+      "trackId": 1595747271,
+      "collectionName": "重生娇妻：章少请接招丨精品多人剧丨免费有声小说",
+      "artistName": "青墨私音",
+      "feedUrl": "http://www.ximalaya.com/album/50567081.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%87%8D%E7%94%9F%E5%A8%87%E5%A6%BB-%E7%AB%A0%E5%B0%91%E8%AF%B7%E6%8E%A5%E6%8B%9B%E4%B8%A8%E7%B2%BE%E5%93%81%E5%A4%9A%E4%BA%BA%E5%89%A7%E4%B8%A8%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1595747271?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "社会与文化",
+        "情感与人际关系"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 243,
+      "releaseDate": "2021-09-05T04:05:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1690046875,
+      "trackId": 1690046875,
+      "collectionName": "【免费版】坏蛋是怎样炼成的四 | 精品多人剧&都市",
+      "artistName": "播者刺心_伍哈剧社",
+      "feedUrl": "https://www.ximalaya.com/album/73346468.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9%E7%89%88-%E5%9D%8F%E8%9B%8B%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84%E5%9B%9B-%E7%B2%BE%E5%93%81%E5%A4%9A%E4%BA%BA%E5%89%A7-%E9%83%BD%E5%B8%82/id1690046875?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "科幻小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 487,
+      "releaseDate": "2023-11-20T21:20:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1523040354,
+      "trackId": 1523040354,
+      "collectionName": "爆笑免费多人剧|叔叔，你命里缺我",
+      "artistName": "余音有声",
+      "feedUrl": "http://www.ximalaya.com/album/29556038.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%88%86%E7%AC%91%E5%85%8D%E8%B4%B9%E5%A4%9A%E4%BA%BA%E5%89%A7-%E5%8F%94%E5%8F%94-%E4%BD%A0%E5%91%BD%E9%87%8C%E7%BC%BA%E6%88%91/id1523040354?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "社会与文化",
+        "情感与人际关系"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 180,
+      "releaseDate": "2020-11-05T02:49:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    }
+  ]
+}

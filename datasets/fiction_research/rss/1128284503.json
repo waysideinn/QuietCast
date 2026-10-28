@@ -1,0 +1,140 @@
+{
+  "show_id": "1128284503",
+  "feed_url": "http://www.ximalaya.com/album/3155646.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/3155646.xml",
+    "final_url": "http://www.ximalaya.com/album/3155646.xml",
+    "fetched_at": "2026-10-25T14:41:25.555716+00:00",
+    "status": 200,
+    "sha256": "8e674403cda1cbf23433ed1231a6f4e13238bcce4c15ff5a10f956c4890d4644"
+  },
+  "status": "ok",
+  "title": {
+    "text": "战争与和平有声小说中文版 主播鸡腿小木屋",
+    "truncated": false
+  },
+  "description": {
+    "text": "战争与和平 主播 鸡腿小木屋 большое спасибо 《战争与和平》俄国作家列夫·尼古拉耶维奇·托尔斯泰的代表作之一。为了完成这部划时代的巨著，托尔斯泰前后耗费十余年的光阴，并本书于1865年到1869年出版，讲述欧洲拿破仑时期的俄国（今俄罗斯）所发生的事。《战争与和平》自从问世以来，一直被认为是世界上最伟大的小说之一。 故事以1812年俄国卫国战争为中心，反映了1805年至1820年的重大事件，包括奥斯特利茨大战、波罗底诺会战、莫斯科大火、拿破仑溃退等。通过对四大家庭以及安德烈、皮埃尔、娜塔莎在战争与和平环境中的思想和行动的描写，展示了当时俄国社会的风貌。在《战争与和平》中，人物就多达559个，每一个都是活生生的血肉之躯，各有其独特的个性，且充满了生命的悸动，人的欢乐、痛苦、各种内心思绪——在这幅画里都应有尽有。而书中史诗般的辉煌节奏与宽阔视界，也只有荷马的作品可以相提并论",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 109,
+  "episodes": [
+    {
+      "id": "68e4876af856e2c8c115ad04ff4a9820cd6abc4cc0b0a5318ca7b22cba55706d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group37/M07/51/64/wKgJoVpJ-I7ThkkQAEJoXMbFEoI879.m4a",
+      "title": {
+        "text": "80战争与和平by鸡腿小木屋（2018新年快乐~）",
+        "truncated": false
+      },
+      "description": {
+        "text": "断更一年的失踪人口小木屋回来了。2017变化而成长的一年，2018也会更加努力！ 感谢一直等待的小伙伴们~",
+        "truncated": false
+      },
+      "published_at": "Mon, 01 Jan 2018 09:00:07 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "6818efbc33bee949967c8fa2698793c333305a20e634a4743b54331009c3d33d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M0B/1A/D4/wKgJJ1fhF1_ivizFAQt2TdZ62NU937.mp3",
+      "title": {
+        "text": "68.战争与和平二卷二章by鸡腿小木屋",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 20 Sep 2016 11:03:37 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "69e762d36a74c82a36e11645824100c1af8728f84e8e2fc523734724560021f8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group17/M00/08/3B/wKgJKVd8u-HR9xlVAMGFUiT5n94984.mp3",
+      "title": {
+        "text": "54B战争与和平三部七下by鸡腿小木屋",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 07 Jul 2016 13:00:01 GMT",
+      "feed_index": 31
+    },
+    {
+      "id": "bfe302d93a07e170a1c85e7f9f3b698ca28ed8b37f64860436ac35ca58d23df0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group7/M0A/71/76/wKgDX1c-AuijC5prAJwsgbGeYXY308.mp3",
+      "title": {
+        "text": "46B战争与和平二部二十章下by鸡腿小木屋",
+        "truncated": false
+      },
+      "description": {
+        "text": "520快乐啊。愿我爱的爱我的都幸福啊",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 May 2016 18:17:21 GMT",
+      "feed_index": 46
+    },
+    {
+      "id": "664489b873c1dc1fce180638d93c080a9e6263696d7d35162596635285756f77",
+      "guid": "https://aod.cos.tx.xmcdn.com/group14/M05/FD/3C/wKgDZFa0MUfgJTW9AHL-d-zZJ-Y859.mp3",
+      "title": {
+        "text": "36战争与和平二部十一章by鸡腿小木屋",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Feb 2016 05:20:00 GMT",
+      "feed_index": 62
+    },
+    {
+      "id": "b62d9184d69a70edf2d07862e36aa9f15bd1228ceb6bc971eee2f104bc275ed3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M06/D5/A7/wKgDYlZ84x3Cr0v_AFL6KTSYm8U124.m4a",
+      "title": {
+        "text": "25B战争与和平二十五章下 感冒ing",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Dec 2015 12:33:00 GMT",
+      "feed_index": 77
+    },
+    {
+      "id": "e65971591e77aea9b63f2da199e68dabbc2b948feb7e92ca04025b217c567f4b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group10/M03/C7/29/wKgDaVZqu1TiwddTAFpJkXL-lfE575.mp3",
+      "title": {
+        "text": "12战争与和平by鸡腿小木屋",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 13 Dec 2015 12:02:00 GMT",
+      "feed_index": 93
+    },
+    {
+      "id": "616c85b7b18ec84943c6aac38196e8c7fa7dcb6c7c97fc1625b6d67b7104d721",
+      "guid": "https://aod.cos.tx.xmcdn.com/group10/M04/C8/FD/wKgDaVZtfwzTCkV7ABGF3drOpMM527.m4a",
+      "title": {
+        "text": "序言",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 13 Dec 2015 14:22:07 GMT",
+      "feed_index": 108
+    }
+  ]
+}

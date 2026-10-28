@@ -1,0 +1,140 @@
+{
+  "show_id": "1532664823",
+  "feed_url": "https://feeds.soundon.fm/podcasts/dc88a1f1-7b4e-4cc7-b527-0bb3c10cdfbb.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/dc88a1f1-7b4e-4cc7-b527-0bb3c10cdfbb.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/dc88a1f1-7b4e-4cc7-b527-0bb3c10cdfbb.xml",
+    "fetched_at": "2026-10-25T14:50:55.525278+00:00",
+    "status": 200,
+    "sha256": "348d2dd9d5e581888a465edba2091b6b3f8751af4316690e4dec3278e4167abd"
+  },
+  "status": "ok",
+  "title": {
+    "text": "早安！呆丸趴開始",
+    "truncated": false
+  },
+  "description": {
+    "text": "嗨！歡迎來到呆丸趴！ 我是呆丸，節目主要是分享我對於看過的電影、影集、漫畫、書籍等作品的感想， 偶爾也會分享一些諸如社會、科技等等社會議題的感想。 更新時間：每周三、六上午七點，這樣才是早安。 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 434,
+  "episodes": [
+    {
+      "id": "0a15e66d291bc476acde139a91955c686967c377cd972f7a0d80398c920ff361",
+      "guid": "8045dd3d-2859-42e3-8351-ebe25e528aec",
+      "title": {
+        "text": "【心情】四十歲",
+        "truncated": false
+      },
+      "description": {
+        "text": "要四十歲了，講一點心裡話， 這些年來感謝大家的支持。 PODCAST 要停更囉～ https://dyonepodcast.soci.vip/ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Oct 2024 02:10:10 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ba74dd80385c52e7a368f3e47807e4d454344c92be199e59c406e5012c9267b6",
+      "guid": "860f12c1-4980-4ae8-b0eb-e0b302b2bbc0",
+      "title": {
+        "text": "【電影】墜惡真相",
+        "truncated": false
+      },
+      "description": {
+        "text": "一開始以為只是個普通的推理作品， 沒想到其實是富有深意的一場哲學思辯， 「真相」到底是個怎樣的概念呢？ https://dyonepodcast.soci.vip/ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Mar 2024 23:00:00 GMT",
+      "feed_index": 62
+    },
+    {
+      "id": "93b1db01431de894a84de0ae38225e53a99461a3967222edb1797406ef881510",
+      "guid": "6a401bb0-6175-489b-8b13-901e5f2eb6ad",
+      "title": {
+        "text": "【電影】奧本海默",
+        "truncated": false
+      },
+      "description": {
+        "text": "這世代最知名的導演， 講述原子彈之父的故事， 交織出一部史詩人物傳記電影。 https://dyonepodcast.soci.vip/ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 01 Aug 2023 23:00:00 GMT",
+      "feed_index": 124
+    },
+    {
+      "id": "9de70d9dbb396cca9978b8de1a25db4bc4bffc86f91c2c40c617b6da8a79ef49",
+      "guid": "8703504d-fdb4-4483-9c95-0e71c1b46733",
+      "title": {
+        "text": "【電影】共感頻率",
+        "truncated": false
+      },
+      "description": {
+        "text": "片名與內容令人聯想到另一部經典電影， 但劇情的走向與男主角的抉擇， 卻讓人莫名的有點火大。 https://dyonepodcast.soci.vip/ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 27 Dec 2022 23:00:00 GMT",
+      "feed_index": 186
+    },
+    {
+      "id": "95ddde872ac2a6ad85ace98df92af6c9381aabc181cbf99eeb7741a89f6cd31c",
+      "guid": "bb9cb2d1-ae9a-4015-bf63-f8f355944130",
+      "title": {
+        "text": "【影集】女傭浮生錄",
+        "truncated": false
+      },
+      "description": {
+        "text": "以獨力帶小孩的媽媽為主角的影集， 穿插受家暴女性角度的觀點， 重新思考家的意義是甚麼。 https://dyonepodcast.soci.vip/ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 27 May 2022 23:00:00 GMT",
+      "feed_index": 247
+    },
+    {
+      "id": "799435f4f862e2a4882cb0b4c9a9c1302383946b60c92049ef68981041d8f525",
+      "guid": "666b7ce1-38b9-4822-88cf-9fa9c90c3bf9",
+      "title": {
+        "text": "【動畫】龍與雀斑公主",
+        "truncated": false
+      },
+      "description": {
+        "text": "剛看完只覺得WTF， 但過兩天腦海中都是片頭與片尾曲的旋律， 讓我重新檢視看完這部片的感想。 https://dyonepodcast.soci.vip/ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Oct 2021 23:00:00 GMT",
+      "feed_index": 309
+    },
+    {
+      "id": "bc84770df2bd5cbdb003cdb90f417d93a5b7ad91cfd088a9df417fbf31bb6c56",
+      "guid": "5a6fd995-05c6-4af0-a987-d1e7b15929d1",
+      "title": {
+        "text": "【影集】愛．當下",
+        "truncated": false
+      },
+      "description": {
+        "text": "HBO在2014年推出的迷你影集 非常的寫實，完全勾勒出老夫老妻的生活樣貌 https://dyonepodcast.soci.vip/ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Mar 2021 23:00:00 GMT",
+      "feed_index": 371
+    },
+    {
+      "id": "ce9623dd3df6a3eff85d43f8113c61bac86fd0e1cc20f98cee24a2112896de35",
+      "guid": "96e7600d-d1d4-4cb2-ac1c-0076542eaf8b",
+      "title": {
+        "text": "ep0 入趴須知",
+        "truncated": false
+      },
+      "description": {
+        "text": "第零集 先交代一些基本節目設定 希望以後加入的觀眾也能先聽這集 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 20 Sep 2020 18:46:10 GMT",
+      "feed_index": 433
+    }
+  ]
+}

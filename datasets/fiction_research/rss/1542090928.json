@@ -1,0 +1,140 @@
+{
+  "show_id": "1542090928",
+  "feed_url": "https://anchor.fm/s/414280d8/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/414280d8/podcast/rss",
+    "final_url": "https://anchor.fm/s/414280d8/podcast/rss",
+    "fetched_at": "2026-10-25T14:42:22.477304+00:00",
+    "status": 200,
+    "sha256": "9e7b065ca36798765099c425d93c26233cbe99cd2f313826afa402eb2aeee267"
+  },
+  "status": "ok",
+  "title": {
+    "text": "From the lower level",
+    "truncated": false
+  },
+  "description": {
+    "text": "A Weekly Real Housewives Recap",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "en",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 219,
+  "episodes": [
+    {
+      "id": "81824bea989f8b356853b5c7a162192800d28b55c560bf0a2d791459cf1e67df",
+      "guid": "e305f81a-5106-4c35-9df3-c37a589e07d6",
+      "title": {
+        "text": "Two things can be true: Is this the end or is it a pause???",
+        "truncated": false
+      },
+      "description": {
+        "text": "She's finally here, there last official podcast ep and it's a long one. So plug in your headphones and laugh along with us through some of our most unhinged housewives takes: FMK Which Housewives Hill would you die on? Our Housewives Mount Rushmore We've also got some take on Potomac & Sal Lake City.. and while we say we won't discuss Beverly Hills...suprise, we do! Thank you so much for the memories dear listeners... maybe we'll be back! Send us some love over @fromthelowerlevelpod",
+        "truncated": false
+      },
+      "published_at": "Wed, 04 Feb 2026 11:01:32 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "945772a4b91852833ae5bf7f4a4f1ee173f64ff4f7b0984605ee86debf42f3bc",
+      "guid": "c6308b07-ddd8-4e44-b95a-4a81cc854b69",
+      "title": {
+        "text": "You know a table hates to see the Real Housewives of Salt Lake City coming",
+        "truncated": false
+      },
+      "description": {
+        "text": "This week we're doing a recap of the latest housewives tea, and a recap of that finale SLC episode.",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Jan 2025 21:17:15 GMT",
+      "feed_index": 31
+    },
+    {
+      "id": "cd549e823a647ddd74c79e94305e8977014b9ecefa1451f07e4ebc03caba5cc0",
+      "guid": "f797c2b0-364f-41b0-a661-249a94a11df3",
+      "title": {
+        "text": "Tales from the housewives drought: Why you should be watching The Real Housewives of Cheshire & maybe it's time to say goodbye to taglines",
+        "truncated": false
+      },
+      "description": {
+        "text": "Slight content warning on this week's pod as we get very risque when discussing the current level of taglines, while also asking the hard-hitting questions: should we say goodbye to taglines?",
+        "truncated": false
+      },
+      "published_at": "Thu, 04 Apr 2024 22:01:43 GMT",
+      "feed_index": 62
+    },
+    {
+      "id": "ea48cf3e8f97911971770bc13d0b16e09ef30246354ec3be550804d56267b0db",
+      "guid": "7560e706-279f-4141-ba4d-abb68713f73b",
+      "title": {
+        "text": "Is it over for Marlo? And, Teresa decoded. Just another week in Housewives history.",
+        "truncated": false
+      },
+      "description": {
+        "text": "So, yeah we talk about the Word on the Street and the Real Housewives of Atlanta, but this episode is all about the Real Housewives of New Jersey. The gloves are finally off, the hair is tied back/short and the talons are out. They probably should have made it pay-per-view, to be honest. Remember to let us know your thoughts over @fromthelowerlevelpod",
+        "truncated": false
+      },
+      "published_at": "Thu, 01 Jun 2023 08:09:52 GMT",
+      "feed_index": 93
+    },
+    {
+      "id": "797de1d80fa550a46b37dade209713a64e0c76e87f9df2b81d0e62ba2733f8e6",
+      "guid": "dcaca1c7-a006-4dcd-adad-5f611df0859c",
+      "title": {
+        "text": "Yallah Habibi: Real Housewives of Dubai Reunion part 1 recap aka The Minion Reunion",
+        "truncated": false
+      },
+      "description": {
+        "text": "Surprise, it's a bonus episode! We are breaking down the Real Housewives of Dubai reunion part one and nudging those who have yet to watch, to give it a go now that you can binge it. Let us know your thoughts over @fromthelowerlevelpod and remember to rate, review and subscribe.",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Sep 2022 09:45:11 GMT",
+      "feed_index": 125
+    },
+    {
+      "id": "8452ff4adc33cc0311b2e813c9272846d46cbbed91126b875bfe2475b4368b40",
+      "guid": "6be0a056-f59a-49d9-a3a4-1845be40c7e8",
+      "title": {
+        "text": "Can you believe we're actually watching the Real Housewives of the OC again?",
+        "truncated": false
+      },
+      "description": {
+        "text": "No Real Housewives of Salt Lake City this week, not to worry because The Real Housewives of the OC the OG franchise is back, and this year we can actually talk about it!!!! Thank Mary M Cosby that she who must not be named has finally been banished!!! Now if only Daddy Andy would banish a certain NYC housewife and all would be right with the world... for 2 seconds. Oh, and while she may not be holding a 🍑 next season, our fave Real Housewives of Atlanta alumn, MIss Porsha Williams is back with her first spin-off, so let's get into that! And not to be outdone, our Real Housewives of Melbourne a",
+        "truncated": true
+      },
+      "published_at": "Thu, 02 Dec 2021 11:06:07 GMT",
+      "feed_index": 156
+    },
+    {
+      "id": "a0ab17f6add31fb15feddbc02854944acdabfa7cc0d94bbcba8edded49cd7cb8",
+      "guid": "03625dab-df41-4e8d-aea0-272bfeae9381",
+      "title": {
+        "text": "The mystery of Sonja Morgan and other tales",
+        "truncated": false
+      },
+      "description": {
+        "text": "Ooops sorry we're a bit late!! WOW what a week, Beverly Hills is back and it wasn't that bad!!! Naturally we're breaking down: RHONY RHOBH RHONJ - Reunion part 1 And of course we've got those news headlines. Remember to rate, review and subscribe oh and hit us up in insta @fromthelowerlevelpod",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 May 2021 22:20:02 GMT",
+      "feed_index": 187
+    },
+    {
+      "id": "02ac7ab85005e3bd3c3d57a8d665c158884047c086313625ad7f8e815837784c",
+      "guid": "24fa87a7-7da4-4005-856c-cb34099c2188",
+      "title": {
+        "text": "Mormon by convenience",
+        "truncated": false
+      },
+      "description": {
+        "text": "Welcome to the first episode of From the Lower Level, a Real Housewives recap and breakdown podcast. On this episode we talk all things Salt Lake City, the latest in the US franchises.",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 Nov 2020 09:59:42 GMT",
+      "feed_index": 218
+    }
+  ]
+}

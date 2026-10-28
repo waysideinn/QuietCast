@@ -1,0 +1,140 @@
+{
+  "show_id": "1629560469",
+  "feed_url": "https://www.ximalaya.com/album/68118517.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/68118517.xml",
+    "final_url": "https://www.ximalaya.com/album/68118517.xml",
+    "fetched_at": "2026-10-25T14:44:26.163288+00:00",
+    "status": 200,
+    "sha256": "f01359b415aa6dae0ea96a417a99cd58db29bb6b78ab5bd376e427b2edb50e4a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "穿到古代当皇后丨精品多播丨古风言情丨青梅竹马",
+    "truncated": false
+  },
+  "description": {
+    "text": "倒霉的现代女孩遇到车祸，穿越成了侯府的四小姐。穿越也就算了，穿成个傻子算怎么回事啊？！更加倒霉的是，还没等她反应过来呢，她已经被自己无良的父母“嫁”进了王府，夫君是淮阳王有名的呆儿子。 傻子配呆子，天设地造的一对儿。新婚第一天，呆儿子发现，媳妇儿不傻啊！而傻小姐则发现，这个小相公，分明机灵得很啊…… 两个半大娃就这样在那个明争暗斗的时代艰难的守拙保平安，最后却双双成为了帝后！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 800,
+  "episodes": [
+    {
+      "id": "6ba5dc220038fbfe657166a7d8e80af9cc2402911db68cffc67aa9b89765df9c",
+      "guid": "xmly_track_536596240",
+      "title": {
+        "text": "穿到古代当皇后 001",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 24 May 2022 12:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b23e13586fd9a01bb9b257dc1f37d94370cd777e9ca7e7f7d8379e5de64279c1",
+      "guid": "xmly_track_550100297",
+      "title": {
+        "text": "穿到古代当皇后 115",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 19 Jul 2022 12:00:00 GMT",
+      "feed_index": 114
+    },
+    {
+      "id": "c536ed881d2ce28eac14938fea3f8df822cb70cda499fe11452cf9832331096b",
+      "guid": "xmly_track_562542300",
+      "title": {
+        "text": "穿到古代当皇后 229",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Sep 2022 12:00:00 GMT",
+      "feed_index": 228
+    },
+    {
+      "id": "2e2500c5a1f850c8a824f66e31f87b4728d597b794ee9716347969cf07d3093b",
+      "guid": "xmly_track_583782313",
+      "title": {
+        "text": "穿到古代当皇后 343",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Nov 2022 12:00:00 GMT",
+      "feed_index": 342
+    },
+    {
+      "id": "f9e204797002e718d2d134a5634dbd326ef1ddb3f787df6ba2d2dcf3e1c00ec0",
+      "guid": "xmly_track_597921926",
+      "title": {
+        "text": "穿到古代当皇后 458",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 Jan 2023 10:00:00 GMT",
+      "feed_index": 457
+    },
+    {
+      "id": "fb90d617714632d7afef78a460cba6cb5a3ae3573376753bcdc922651ef54edf",
+      "guid": "xmly_track_607650840",
+      "title": {
+        "text": "穿到古代当皇后 572",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 04 Mar 2023 12:00:00 GMT",
+      "feed_index": 571
+    },
+    {
+      "id": "5c357b93383eff768226e704eb55658bb6c5f44a114dd698732ed0a6c762cbe8",
+      "guid": "xmly_track_747519976",
+      "title": {
+        "text": "穿到古代当皇后 686 绝后患",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 10 Aug 2024 12:00:00 GMT",
+      "feed_index": 685
+    },
+    {
+      "id": "9854a13bbab3d57c6c695adf5dcd1830056237800228b58654b83e19b5681c57",
+      "guid": "xmly_track_747553166",
+      "title": {
+        "text": "穿到古代当皇后 800 番外二：冷宫（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Sep 2024 12:00:08 GMT",
+      "feed_index": 799
+    }
+  ]
+}

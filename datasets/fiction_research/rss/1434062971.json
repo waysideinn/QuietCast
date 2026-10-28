@@ -1,0 +1,140 @@
+{
+  "show_id": "1434062971",
+  "feed_url": "http://www.ximalaya.com/album/16693405.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/16693405.xml",
+    "final_url": "http://www.ximalaya.com/album/16693405.xml",
+    "fetched_at": "2026-10-25T14:48:52.096889+00:00",
+    "status": 200,
+    "sha256": "c440a11692055526185a92ec1f50fb403d8d99d3f98f7418f2eba1b97de58070"
+  },
+  "status": "ok",
+  "title": {
+    "text": "多多妈讲故事|少儿三国演义",
+    "truncated": false
+  },
+  "description": {
+    "text": "《三国演义》(四大名著儿童版)向儿童讲述古典文学名著《三国演义》，艺术地再现了东汉末年至西晋初年的三国纷争，通过对一个个历史故事和战争场景的生动刻画，让众多叱咤风云的三国英雄拂去历史尘埃，向读者款款走来。“江山如画．一时多少豪杰。”读小说，品三国今天的读者得以与昔日英豪如此相会神交，不仅叹，诸葛亮的儒雅睿智，赞张飞的勇武有谋，敬关羽、赵云的侠肝义胆，还能从一代枭雄曹操的机诈权变，风流少将军周瑜的处变不惊、智谋迭出中有所感悟。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 36,
+  "episodes": [
+    {
+      "id": "1da2aaa0d2d0dcc3a93916dd0a475c447c3f0cdb86216de5e2a9d04ab3533659",
+      "guid": "https://aod.cos.tx.xmcdn.com/group45/M01/2F/99/wKgKjltf-kCioIwtAFYvhypmRZk691.m4a",
+      "title": {
+        "text": "三国演义第一回-刘关张桃园结义",
+        "truncated": false
+      },
+      "description": {
+        "text": "音乐：横山菁儿- 英雄的黎明",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 Jul 2018 05:57:13 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "aa127a499c7462e7da2bbbf3a4eab083e18841c6275d5e603469424eeb0cd0fb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group47/M01/49/0D/wKgKk1tkcUmCohPpADA-B47AKzU939.m4a",
+      "title": {
+        "text": "三国演义第六回-关云长过五关斩六将",
+        "truncated": false
+      },
+      "description": {
+        "text": "音乐：羽肿- 夏に花が散る",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Aug 2018 15:14:13 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "db5be562d9492fbcc2a3ea80d6f7f44e0f453f4b22f1beb1aa2d9a9c54d8b193",
+      "guid": "https://aod.cos.tx.xmcdn.com/group46/M08/02/27/wKgKj1txbnjTZ7wtADShMegcLGY736.m4a",
+      "title": {
+        "text": "三国演义十一回-刘玄德携民渡江",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Aug 2018 11:41:38 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "1b953532d1f4384fa998215de33f1318ec8cb21a020964be4d2654131b675908",
+      "guid": "https://aod.cos.tx.xmcdn.com/group48/M06/E5/EA/wKgKnFtzpDmjpCQEAIdCkTYn0j0257.mp3",
+      "title": {
+        "text": "三国演义第十六回-周公瑾弄巧成拙",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Aug 2018 03:56:18 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "3c22c5809c1916ae48a3f0029f56e896f2187aa46f323c70d9933ebc1e7fbc70",
+      "guid": "https://aod.cos.tx.xmcdn.com/group46/M07/A3/C2/wKgKj1t-DATyqt6MAJi0vDqeoLk739.mp3",
+      "title": {
+        "text": "三国演义第二十一回-张飞黄忠败曹军",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 23 Aug 2018 01:21:12 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "893014c065e01ad26e89e60809bdc1fdb1ef201a99d45aa795325df8d42f4a64",
+      "guid": "https://aod.cos.tx.xmcdn.com/group45/M04/01/33/wKgKjluDqvzg8pAIAJbXvHtHpiY273.mp3",
+      "title": {
+        "text": "三国演义第二十六回-刘玄德西蜀称帝",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 27 Aug 2018 07:40:53 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "71cd7e4ee12cfd8d68bcbfaa170cd778aba296ff2693ab65d181c185d201351e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group47/M01/11/C0/wKgKk1uHQuzCObbnAIs7fEItnVo070.mp3",
+      "title": {
+        "text": "三国演义第三十一回-诸葛亮出师北伐",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 30 Aug 2018 01:05:58 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "706eb926a6e6add3813461ffc3d433ff0f081b98651af0de7c403cb0dc3bdb98",
+      "guid": "https://aod.cos.tx.xmcdn.com/group48/M02/FD/51/wKgKnFuIibvSNuQIAJPWPLOcois342.mp3",
+      "title": {
+        "text": "三国演义第三十六回灭蜀吴三分归晋",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 31 Aug 2018 00:20:19 GMT",
+      "feed_index": 35
+    }
+  ]
+}

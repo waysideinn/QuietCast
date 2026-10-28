@@ -1,0 +1,140 @@
+{
+  "show_id": "1524136171",
+  "feed_url": "https://s1.proxy.wavpub.com/helloguaitanqlgl.xml",
+  "source": {
+    "url": "https://s1.proxy.wavpub.com/helloguaitanqlgl.xml",
+    "final_url": "https://s1.proxy.wavpub.com/helloguaitanqlgl.xml",
+    "fetched_at": "2026-10-25T14:53:09.650210+00:00",
+    "status": 200,
+    "sha256": "2747f66b63585e49d55d3e88aa66e659146e3636bbd29056889dd81e8a39047c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "奇了怪了 | 真·奇幻访谈",
+    "truncated": false
+  },
+  "description": {
+    "text": "哈喽怪谈最受欢迎奇幻访谈栏目 你将收听到： 最真实的奇幻经历 最恐怖的“聆”异体验 这个世界其实有太多的“奇了怪了”",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "explicit": "true",
+    "type": "episodic"
+  },
+  "feed_item_count": 295,
+  "episodes": [
+    {
+      "id": "1fba9e74db030ebe7fd0ccb398da40473a0fa5d3845e63360201d3805dacc9d3",
+      "guid": "6a82627a-a539-45df-986f-0090352c6b07",
+      "title": {
+        "text": "滑雪场，小蓝人与神秘的螺丝刀——奇了怪了",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 21 Oct 2026 21:05:11 +0800",
+      "feed_index": 0
+    },
+    {
+      "id": "8377b89be0c8ce54e5f086d8d322674db12a46b9547577319ff51c4772fa77a7",
+      "guid": "6cb2b163-e434-4245-b4c1-cbd8469d478b",
+      "title": {
+        "text": "叶歆第五次造访 上——奇了怪了",
+        "truncated": false
+      },
+      "description": {
+        "text": "叶歆第五次造访 上——奇了怪了",
+        "truncated": false
+      },
+      "published_at": "Wed, 27 Aug 2025 17:00:00 +0800",
+      "feed_index": 42
+    },
+    {
+      "id": "f9359dc8ffbdbae17376ab9f96c30132a02f06f0948fc2ddb46719b8a7463857",
+      "guid": "95c3a835-48ea-49a9-bf7e-6613e1baa61b",
+      "title": {
+        "text": "粉哥 4——奇了怪了",
+        "truncated": false
+      },
+      "description": {
+        "text": "粉哥 4——奇了怪了",
+        "truncated": false
+      },
+      "published_at": "Wed, 09 Aug 2023 19:31:13 +0800",
+      "feed_index": 84
+    },
+    {
+      "id": "584efe3584697325396c3113c916df8e92ff9c03819be61dda959d56917d8a1b",
+      "guid": "5560111a-77db-4483-87b2-d0a227a6a7bc",
+      "title": {
+        "text": "白夜 1——奇了怪了",
+        "truncated": false
+      },
+      "description": {
+        "text": "白夜 1——奇了怪了",
+        "truncated": false
+      },
+      "published_at": "Wed, 02 Mar 2022 23:59:00 +0800",
+      "feed_index": 126
+    },
+    {
+      "id": "8f39597a1255134fd2570e5812672b93dbe35f53cac0009cc76d11f3a1b88721",
+      "guid": "e99fc2bb-3e64-4d6d-9ba6-51b8465da9e2",
+      "title": {
+        "text": "转世飞天 ——奇了怪了",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Jul 2020 11:18:10 +0800",
+      "feed_index": 168
+    },
+    {
+      "id": "ed11a4aa0f2c16fd46e508c38835b0cd06eac354f4167c4dafb220bb1e8c290c",
+      "guid": "aa5901d7-c85c-4a8b-931d-c4b560696692",
+      "title": {
+        "text": "阿吹的故事 上——奇了怪了",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Jul 2020 11:10:54 +0800",
+      "feed_index": 210
+    },
+    {
+      "id": "81095d728903eda32b1b4d22bb7308b80f61ee1b0e49d43ed2042d1f8fb620a0",
+      "guid": "6eb8bdc8-e62e-4b85-a637-6821e7d80a06",
+      "title": {
+        "text": "景柯灵异事件簿——奇了怪了",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Jul 2020 10:40:20 +0800",
+      "feed_index": 252
+    },
+    {
+      "id": "f14c7f652134dc0acc7f41cc6976547c4d21ddeccd30eceaece133bbb9ef4d03",
+      "guid": "90b292b7-8e3f-41b5-957b-dd486861e13b",
+      "title": {
+        "text": "奇了怪了 Vol.1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Jul 2020 10:19:13 +0800",
+      "feed_index": 294
+    }
+  ]
+}

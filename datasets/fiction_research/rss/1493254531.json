@@ -1,0 +1,140 @@
+{
+  "show_id": "1493254531",
+  "feed_url": "http://www.ximalaya.com/album/31631044.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/31631044.xml",
+    "final_url": "http://www.ximalaya.com/album/31631044.xml",
+    "fetched_at": "2026-10-25T14:51:25.343436+00:00",
+    "status": 200,
+    "sha256": "dd739dbde140c1f6e395cc5cdb2de69e974a0b2646b959dc8dfab95fb5adb2b3"
+  },
+  "status": "ok",
+  "title": {
+    "text": "《你次饭没》电台版",
+    "truncated": false
+  },
+  "description": {
+    "text": "本栏目是《你次饭没》加长版音频电台！《你次饭没》是一档原创吃饭谈话脱口秀节目，每期邀请1-2位具有特定焦虑的年轻人一起吃饭聊天，聊聊初入社会的95后面临的种种焦虑，抱团取暖，让焦虑在插科打诨中烟消云散，正如节目slogan：“知道你也过得不好，我就放心了。” 如果感觉不过瘾，关注微博@你次饭没，关注微信公众号“巨有文化juyo\"，关注@巨有钱的饭,即可观看完整版视频yo～",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 32,
+  "episodes": [
+    {
+      "id": "050896249e0b34f2eb39324d74a78b332018b2e5d7d4456a3c55d210ec58e6bc",
+      "guid": "https://aod.cos.tx.xmcdn.com/group75/M00/6E/AE/wKgO016QBs3Sb2yaAVFlVG8haRY083-aacv2-48K.m4a",
+      "title": {
+        "text": "老大不小了 | 30岁当副厅级干部是什么体验？杨奇函亲身讲述仕途故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "本栏目是《你次饭没》加长版音频电台！《你次饭没》是一档原创吃饭谈话脱口秀节目，每期邀请1-2位具有特定焦虑的年轻人一起吃饭聊天，聊聊初入社会的95后面临的种种焦虑，抱团取暖，让焦虑在插科打诨中烟消云散，正如节目slogan：“知道你也过得不好，我就放心了。” 如果感觉不过瘾，关注微博@你次饭没，关注微信公众号“巨有文化juyo\"，关注@巨有钱的饭,即可观看完整版视频yo～",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Apr 2020 05:39:20 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "6ab4ad788151f8548794640e3ae9cf7ecad9562f350ac9ee7e0b4d3a29923a54",
+      "guid": "https://aod.cos.tx.xmcdn.com/group75/M02/40/7F/wKgO3V59e_zwjPG9AWEu-HwFx30440.m4a",
+      "title": {
+        "text": "分手大师 | 张琳谈恋爱搞智商歧视？清华女生找对象标准也太高了吧！",
+        "truncated": false
+      },
+      "description": {
+        "text": "本栏目是《你次饭没》加长版音频电台！《你次饭没》是一档原创吃饭谈话脱口秀节目，每期邀请1-2位具有特定焦虑的年轻人一起吃饭聊天，聊聊初入社会的95后面临的种种焦虑，抱团取暖，让焦虑在插科打诨中烟消云散，正如节目slogan：“知道你也过得不好，我就放心了。” 如果感觉不过瘾，关注微博@你次饭没，关注微信公众号“巨有文化juyo\"，关注@巨有钱的饭,即可观看完整版视频yo～",
+        "truncated": false
+      },
+      "published_at": "Fri, 27 Mar 2020 04:06:24 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "7d484c30bdc0fd291b6752ac76315024e88e9d7a028ad51987efc0881ee0af3d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group80/M01/AE/68/wKgPEV7EtPPC0jBOAagEZ9DU-Z8409.m4a",
+      "title": {
+        "text": "努力女人最好命 | 清华博士小姐姐怀孕5个月仍保持马甲线？越努力越好命！",
+        "truncated": false
+      },
+      "description": {
+        "text": "本栏目是《你次饭没》加长版音频电台！《你次饭没》是一档原创吃饭谈话脱口秀节目，每期邀请1-2位具有特定焦虑的年轻人一起吃饭聊天，聊聊初入社会的95后面临的种种焦虑，抱团取暖，让焦虑在插科打诨中烟消云散，正如节目slogan：“知道你也过得不好，我就放心了。” 如果感觉不过瘾，关注微博@你次饭没，关注微信公众号“巨有文化juyo\"，关注@巨有钱的饭,即可观看完整版视频yo～",
+        "truncated": false
+      },
+      "published_at": "Tue, 10 Mar 2020 04:00:16 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "78f92f363353bc4ad909b0068751ea4d06bee9febf69aee1fb956f9e2695de68",
+      "guid": "https://aod.cos.tx.xmcdn.com/group75/M09/D1/C0/wKgO015UolmgJeWaAWIGj_OJSIs996-aacv2-48K.m4a",
+      "title": {
+        "text": "扑街的少年 | 大令北大毕业去泰国当和尚",
+        "truncated": false
+      },
+      "description": {
+        "text": "本栏目是《你次饭没》加长版音频电台！《你次饭没》是一档原创吃饭谈话脱口秀节目，每期邀请1-2位具有特定焦虑的年轻人一起吃饭聊天，聊聊初入社会的95后面临的种种焦虑，抱团取暖，让焦虑在插科打诨中烟消云散，正如节目slogan：“知道你也过得不好，我就放心了。” 如果感觉不过瘾，关注微博@你次饭没，关注微信公众号“巨有文化juyo\"，关注@巨有钱的饭,即可观看完整版视频yo～",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 Feb 2020 04:26:59 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "250585a084ff512299fd725e985e320efe48dcd8122bccbc7a4cd7fcd3ed08af",
+      "guid": "https://aod.cos.tx.xmcdn.com/group78/M06/2B/05/wKgO1l5ID4vDpoujAVrlTHxfh9M514.m4a",
+      "title": {
+        "text": "老铁，有“毛”病 | 许吉如神农尝百草竟然治好脱发",
+        "truncated": false
+      },
+      "description": {
+        "text": "本栏目是《你次饭没》加长版音频电台！《你次饭没》是一档原创吃饭谈话脱口秀节目，每期邀请1-2位具有特定焦虑的年轻人一起吃饭聊天，聊聊初入社会的95后面临的种种焦虑，抱团取暖，让焦虑在插科打诨中烟消云散，正如节目slogan：“知道你也过得不好，我就放心了。” 如果感觉不过瘾，关注微博@你次饭没，关注微信公众号“巨有文化juyo\"，关注@巨有钱的饭,即可观看完整版视频yo～",
+        "truncated": false
+      },
+      "published_at": "Fri, 07 Feb 2020 04:00:04 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "3b59db907115fd07ae756c55789569220a53ffb47f02c70f97ea2a8c680d102a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group72/M04/D4/41/wKgO0F4qaAGxw--eAYCjmQ0NLA0682.m4a",
+      "title": {
+        "text": "妹妹你大胆的往前走 | 国民偶像女团BEJ48成员来做客",
+        "truncated": false
+      },
+      "description": {
+        "text": "本栏目是《你次饭没》加长版音频电台！《你次饭没》是一档原创吃饭谈话脱口秀节目，每期邀请1-2位具有特定焦虑的年轻人一起吃饭聊天，聊聊初入社会的95后面临的种种焦虑，抱团取暖，让焦虑在插科打诨中烟消云散，正如节目slogan：“知道你也过得不好，我就放心了。” 如果感觉不过瘾，关注微博@你次饭没，关注微信公众号“巨有文化juyo\"，关注@巨有钱的饭,即可观看完整版视频yo～",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Jan 2020 04:00:13 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "ddd65465556ed8f795cdc274fb37659bc5c5b0e980912f04587ffab79fdbf8b1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M08/21/66/wKgOzl4UDzTCDlZLAUf7Nsa7Om0293-aacv2-48K.m4a",
+      "title": {
+        "text": "总有人黑着眼圈熬着夜 | 花希李雪琴睡衣趴大聊失眠困扰",
+        "truncated": false
+      },
+      "description": {
+        "text": "本栏目每周二周五中午12:00准时上线！",
+        "truncated": false
+      },
+      "published_at": "Tue, 07 Jan 2020 04:54:31 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "37216c72635377051c9ae578c41684c6d52746d10140e7489ae754440a90b483",
+      "guid": "https://aod.cos.tx.xmcdn.com/group71/M08/16/F9/wKgOz14BizXAmXuBAWriNEmRG0E768.m4a",
+      "title": {
+        "text": "废柴学霸李雪琴赵英男在线比惨，杨奇函爆笑模仿高晓松",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 24 Dec 2019 04:00:12 GMT",
+      "feed_index": 31
+    }
+  ]
+}

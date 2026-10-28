@@ -1,0 +1,140 @@
+{
+  "show_id": "1517446672",
+  "feed_url": "http://www.ximalaya.com/album/25147725.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/25147725.xml",
+    "final_url": "http://www.ximalaya.com/album/25147725.xml",
+    "fetched_at": "2026-10-25T14:50:09.794514+00:00",
+    "status": 200,
+    "sha256": "ef7e5fd82cb58692a7f350c6fcde2b925e1beab1f6a67ab76cc6a4c4cac932f3"
+  },
+  "status": "ok",
+  "title": {
+    "text": "民俗历史趣闻录 | 民间故事 | 风俗 | 传说故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "历史，及历史人物等的经典故事汇总。本专辑 专注于搜集整理各朝代人物、战争、野史、文化等方面 历史 知识， 为您提供全面的 历史故事，趣闻和民间风俗，坊间传说故事。 为了鼓励主播多更新，勤更新，请多评论、订阅，转发和打赏，谢谢！^_^",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 199,
+  "episodes": [
+    {
+      "id": "7f5b84602075793e2eb46a3ff7762dea836048dd34fe434ff24768c534948ed3",
+      "guid": "xmly_track_499658960",
+      "title": {
+        "text": "历史趣闻录 二百多年前的一个外国人早就预见了清朝的灭亡",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 07 Feb 2022 09:45:37 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d6bb6ad76fab24d39e48e169a57ce92c100ffd9a5012dd0135c7cc69b76b3f46",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3783-audiofreehighqps/19/20/CKwRIDoFE5haADmbuQDiV8QK-aacv2-48K.m4a",
+      "title": {
+        "text": "历史趣闻录 古人刷牙吗",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 Sep 2021 10:24:12 GMT",
+      "feed_index": 28
+    },
+    {
+      "id": "472101c143af1d6c24307bad7b2165603848389dc94295e412c8c1fe8402b889",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7adf-audiofreehighqps/EE/2F/CKwRIMAD_pMUAC0qswCHcqsl.m4a",
+      "title": {
+        "text": "历史趣闻录 天地会成员流亡海外竟建立一国家",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 14 Feb 2021 07:23:58 GMT",
+      "feed_index": 57
+    },
+    {
+      "id": "8e716289e4d170543ed86f55575c0273011a6a4078805a98ed01cfe94012a337",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1e8e-audiofreehighqps/70/B5/CMCoOSQDWw11AFbioQBcqCRs.m4a",
+      "title": {
+        "text": "历史趣闻录 河南1942：残酷的真相",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 13 Oct 2020 06:34:16 GMT",
+      "feed_index": 85
+    },
+    {
+      "id": "6180415a9f5a238da1293b35b47bdce0cc40f395156973cafee1791028102ac2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group82/M00/BE/8D/wKg5Il7slFqjhMfeAETSh0p3MwU275-aacv2-48K.m4a",
+      "title": {
+        "text": "历史趣闻录 契丹族的起源 契丹族如今属于哪个民族",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Jun 2020 10:32:47 GMT",
+      "feed_index": 113
+    },
+    {
+      "id": "0c20b540bbba2eb07ac9224a4b2a50ec4dcb01cc43624489a254c8dd42382f1b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group78/M02/BB/99/wKgO4F5T6XPyGBppAD5usIAM_9o081.m4a",
+      "title": {
+        "text": "历史趣闻录 “狸猫换太子”真假之谜",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 24 Feb 2020 15:20:50 GMT",
+      "feed_index": 141
+    },
+    {
+      "id": "c8c5f9ac84ca166cbb1fb0bd4bd69dc8384d8238d15f98964c8189372803442b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group63/M0A/A8/9C/wKgMaF2hdeGyuIQ5AEImOeQUxrA748.m4a",
+      "title": {
+        "text": "历史趣闻录 康熙是谁的儿子？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 12 Oct 2019 06:41:04 GMT",
+      "feed_index": 170
+    },
+    {
+      "id": "b75d0c23faa6e5ba013e154fff8761cad0f3b02d9885ebf82a612597f4f6968b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e224-audiofreehighqps/89/0B/GKwRIJEF-6PVAGSQ1AEkxJrq.m4a",
+      "title": {
+        "text": "历史趣闻录 古代十大吝啬官员（早期作品，播的不好，请多包涵）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Jul 2019 11:10:06 GMT",
+      "feed_index": 198
+    }
+  ]
+}

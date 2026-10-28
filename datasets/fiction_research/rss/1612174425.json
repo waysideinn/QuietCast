@@ -1,0 +1,140 @@
+{
+  "show_id": "1612174425",
+  "feed_url": "http://www.ximalaya.com/album/57205118.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/57205118.xml",
+    "final_url": "http://www.ximalaya.com/album/57205118.xml",
+    "fetched_at": "2026-10-25T14:43:55.934490+00:00",
+    "status": 200,
+    "sha256": "7332654d1b876dd8e12794ab1ae6236c2dbc1f8317a0cbad892965c3b3e597d4"
+  },
+  "status": "ok",
+  "title": {
+    "text": "大佬也娇软丨沙雕搞笑爽文丨末世大佬穿成虐文娇软美人",
+    "truncated": false
+  },
+  "description": {
+    "text": "虐恋文里的娇软美人，杏眼桃腮，细腰小脚，哭声嘤嘤，浑身散发着一股奶糖的甜香，不是在被欺负，就是在被欺负的路上。 从末世穿来的大佬，飒爽英姿，气场两米八， 手持一把西瓜刀，在丧尸堆里能杀个七进七出。 当大佬穿书成为娇软美人后，会发生什么样的奇葩搞笑故事，来跟着主播一起爆笑吧！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 291,
+  "episodes": [
+    {
+      "id": "02c117adb417db5d0e22fbeb89fe071545f60cd762e29baac091410183e10b5a",
+      "guid": "xmly_track_503612587",
+      "title": {
+        "text": "大佬也娇软 001",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Feb 2022 22:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "afeda7fef057df672632d7723c8dc80a727530a06751c2ee348eeac9f9142fa1",
+      "guid": "xmly_track_510924011",
+      "title": {
+        "text": "大佬也娇软 042",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 22 Mar 2022 22:00:02 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "059312f9e73a33f305b68ba6c2ec601adc06df4d2ce82d858770f5be96fc45e5",
+      "guid": "xmly_track_519471500",
+      "title": {
+        "text": "大佬也娇软 084",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Apr 2022 22:00:02 GMT",
+      "feed_index": 83
+    },
+    {
+      "id": "85213b34eca7e0888958040e8867d1e2685ddb15d429f63a6af0a79af39bad51",
+      "guid": "xmly_track_527712875",
+      "title": {
+        "text": "大佬也娇软 125",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 04 May 2022 22:00:00 GMT",
+      "feed_index": 124
+    },
+    {
+      "id": "861c984b457a60224abb6757ba644a8bef7559416b93a382a5cd48e5ec08b554",
+      "guid": "xmly_track_539219474",
+      "title": {
+        "text": "大佬也娇软 167",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Jun 2022 22:00:00 GMT",
+      "feed_index": 166
+    },
+    {
+      "id": "e1bd6d00380bdec07bee7424f26ba9f0ea6e3de59a82deb25f7c898791e611fb",
+      "guid": "xmly_track_553090585",
+      "title": {
+        "text": "大佬也娇软 208",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 21 Jul 2022 22:00:00 GMT",
+      "feed_index": 207
+    },
+    {
+      "id": "f57c55fbfaeb73acfe24c951ca76e5331ee5eefd3a48ed1f73f005af873c6e55",
+      "guid": "xmly_track_563812578",
+      "title": {
+        "text": "大佬也娇软 250",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 01 Sep 2022 22:00:00 GMT",
+      "feed_index": 249
+    },
+    {
+      "id": "c5664f7b7c65ec53cb1f76221c787e570435f760c00a28202750ec4bf07216b9",
+      "guid": "xmly_track_574804130",
+      "title": {
+        "text": "大佬也娇软 291 番外十四（全书完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 12 Oct 2022 22:00:00 GMT",
+      "feed_index": 290
+    }
+  ]
+}

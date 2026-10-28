@@ -1,0 +1,7 @@
+{
+  "show_id": "1552315529",
+  "feed_url": "http://www.ximalaya.com/album/35248600.xml",
+  "fetched_at": "2026-10-25T14:52:04.786030+00:00",
+  "status": "error",
+  "error": "response exceeds bounded metadata limit"
+}

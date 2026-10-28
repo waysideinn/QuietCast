@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/77459053.xml",
+    "final_url": "https://www.ximalaya.com/album/77459053.xml",
+    "fetched_at": "2026-10-26T07:58:55.605645+00:00",
+    "status": 200,
+    "sha256": "62955ffd1f5ea5027a6186e767ebf4c058d027b7aa45d0b2f2447d6b3d5480dc"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "他在等月光来（都市言情小说）",
+      "truncated": false
+    },
+    "description": {
+      "text": "收听福利：全本免费，不定期爆更",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "有声的雪愿"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "有声的雪愿"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Drama"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/77459053",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 203,
+    "episodes": [
+      {
+        "title": {
+          "text": "【他在等月光来】第1章，所有人都在等着看她的笑话（求关注、订阅、月票、打赏）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_654946548"
+      },
+      {
+        "title": {
+          "text": "【他在等月光来】第30章，婚礼取消吧（求关注、订阅、月票、打赏）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 29,
+        "guid": "xmly_track_654978035"
+      },
+      {
+        "title": {
+          "text": "【他在等月光来】第59章，他的放弃换来的是什么（求关注、订阅、月票、打赏）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 58,
+        "guid": "xmly_track_655928941"
+      },
+      {
+        "title": {
+          "text": "【他在等月光来】第88章，以后，她就要习惯（求关注、订阅、月票、打赏）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 87,
+        "guid": "xmly_track_658833510"
+      },
+      {
+        "title": {
+          "text": "【月光进度过半】第116章，你是不是一早就知道（求订阅、月票、打赏，比心！）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 115,
+        "guid": "xmly_track_661245964"
+      },
+      {
+        "title": {
+          "text": "【月光进度过半】第145章，沫儿不见了（求订阅、月票、打赏，比心！）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 144,
+        "guid": "xmly_track_664562207"
+      },
+      {
+        "title": {
+          "text": "【月光进度剩2成】第174章，登堂入室（求订阅、月票、打赏，比心！）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 173,
+        "guid": "xmly_track_666981531"
+      },
+      {
+        "title": {
+          "text": "【月光大结局】第203章，我们的萌萌月光（完）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 202,
+        "guid": "xmly_track_669670097"
+      }
+    ]
+  }
+}

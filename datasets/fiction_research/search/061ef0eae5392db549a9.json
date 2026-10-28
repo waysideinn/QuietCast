@@ -1,0 +1,123 @@
+{
+  "group": "normal",
+  "term": "商业播客",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%95%86%E4%B8%9A%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%95%86%E4%B8%9A%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:43:02.231871+00:00",
+    "status": 200,
+    "sha256": "3b6641f2d43f8cee6762a3aead62be587a3aeb90ef9062072315ae26afe4b27b"
+  },
+  "result_count": 5,
+  "records": [
+    {
+      "collectionId": 1874607839,
+      "trackId": 1874607839,
+      "collectionName": "懂投哥的商业播客",
+      "artistName": "懂投哥的商业播客",
+      "feedUrl": "https://www.ximalaya.com/album/116365496.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%87%82%E6%8A%95%E5%93%A5%E7%9A%84%E5%95%86%E4%B8%9A%E6%92%AD%E5%AE%A2/id1874607839?uo=4",
+      "genres": [
+        "科技",
+        "播客"
+      ],
+      "genreIds": [
+        "1318",
+        "26"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2026-02-18T14:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1650905574,
+      "trackId": 1650905574,
+      "collectionName": "CPA超频对话 | 播客商业观察",
+      "artistName": "播客志PRO",
+      "feedUrl": "https://www.ximalaya.com/album/70527951.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/cpa%E8%B6%85%E9%A2%91%E5%AF%B9%E8%AF%9D-%E6%92%AD%E5%AE%A2%E5%95%86%E4%B8%9A%E8%A7%82%E5%AF%9F/id1650905574?uo=4",
+      "genres": [
+        "营销",
+        "播客",
+        "商务"
+      ],
+      "genreIds": [
+        "1492",
+        "26",
+        "1321"
+      ],
+      "trackCount": 79,
+      "releaseDate": "2026-10-12T04:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "营销"
+    },
+    {
+      "collectionId": 1826227150,
+      "trackId": 1826227150,
+      "collectionName": "商业要素是如何生效的？（播客访谈版/AI生成）",
+      "artistName": "陈沐EZE",
+      "feedUrl": "https://www.ximalaya.com/album/94837531.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%95%86%E4%B8%9A%E8%A6%81%E7%B4%A0%E6%98%AF%E5%A6%82%E4%BD%95%E7%94%9F%E6%95%88%E7%9A%84-%E6%92%AD%E5%AE%A2%E8%AE%BF%E8%B0%88%E7%89%88-ai%E7%94%9F%E6%88%90/id1826227150?uo=4",
+      "genres": [
+        "创业",
+        "播客",
+        "商务",
+        "营销"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1492"
+      ],
+      "trackCount": 19,
+      "releaseDate": "2025-12-13T03:36:00Z",
+      "country": "CHN",
+      "primaryGenreName": "创业"
+    },
+    {
+      "collectionId": 1643467519,
+      "trackId": 1643467519,
+      "collectionName": "CPA超频对话 | 播客商业观察",
+      "artistName": "播客志PRO",
+      "feedUrl": "https://www.ximalaya.com/album/70527951.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/cpa%E8%B6%85%E9%A2%91%E5%AF%B9%E8%AF%9D-%E6%92%AD%E5%AE%A2%E5%95%86%E4%B8%9A%E8%A7%82%E5%AF%9F/id1643467519?uo=4",
+      "genres": [
+        "营销",
+        "播客",
+        "商务"
+      ],
+      "genreIds": [
+        "1492",
+        "26",
+        "1321"
+      ],
+      "trackCount": 79,
+      "releaseDate": "2026-10-12T04:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "营销"
+    },
+    {
+      "collectionId": 1829374504,
+      "trackId": 1829374504,
+      "collectionName": "闻道商业的播客",
+      "artistName": "闻道商业",
+      "feedUrl": "https://feed.xyzfm.space/nqxlcx6bqtmp",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%97%BB%E9%81%93%E5%95%86%E4%B8%9A%E7%9A%84%E6%92%AD%E5%AE%A2/id1829374504?uo=4",
+      "genres": [
+        "新闻",
+        "播客"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2026-03-18T12:16:00Z",
+      "country": "CHN",
+      "primaryGenreName": "新闻"
+    }
+  ]
+}

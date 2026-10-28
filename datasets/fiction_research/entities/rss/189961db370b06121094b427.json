@@ -1,0 +1,157 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/3684321.xml",
+    "final_url": "http://www.ximalaya.com/album/3684321.xml",
+    "fetched_at": "2026-10-26T07:53:37.635491+00:00",
+    "status": 200,
+    "sha256": "6c3f05108d85067395d1860e741ff40b0001a19985a685bcb674e005b9c4adf2"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "【裔美声社】全一期广播剧集合",
+      "truncated": false
+    },
+    "description": {
+      "text": "微信平台：yimeishengshe 或 搜索“裔美声社” 本专辑收录了2005年至今裔美声社大部分全一期广播剧。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "归原作者或者发行者 @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "裔美声社"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "裔美声社"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "TV & Film"
+      ],
+      [
+        "Arts"
+      ],
+      [
+        "Arts",
+        "Performing Arts"
+      ],
+      [
+        "Comedy"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/3684321",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 10,
+    "episodes": [
+      {
+        "title": {
+          "text": "【裔美声社】现代BG 新人模仿秀之《我的青春谁做主》",
+          "truncated": false
+        },
+        "description": {
+          "text": "发布时间：2011.07.26 微信平台：yimeishengshe 或 搜索“裔美声社” 我的青春谁做主： 钱小样：菔光流影 方宇：小d 后期：旋转的透明菌",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group11/M08/13/54/wKgDbVbJKAqDWdSIAAyIC2ObK-Y857.m4a"
+      },
+      {
+        "title": {
+          "text": "【裔美声社】古风全年龄广播剧《化男》全一期",
+          "truncated": false
+        },
+        "description": {
+          "text": "发布时间：2010.10.06 微信平台：yimeishengshe 或 搜索“裔美声社” 裔美新人剧《化男》——改编自方漪丽漫画 【裔美声社】新人剧《化男》 Staff 策划：雅然 导演：止乐 小@凡 编剧：天道留痕 后期：潜水的小墨 美工：田田 宣传：蓝波小孩 Cast 玉兰：天瓜君 聆兮：申小暧 楚西林：吃吃 华公子：苏榭 秀娥：紫绡文羽 老鸨：酷爱裸奔的熊猫 秦一和：乔木 媒婆：凤舞霜河 牡丹：哆啦 家丁1.2：饼干，孩子堕落吧 围观1.2.3：雾影天河，小8，骆驼 漫画原著在线 在线试听 下载收藏1 下载收藏2 策划 这个剧几经波折，终于发出来了，感谢原著作者方漪丽，感谢所有参与的09年及10年进入的新人，可能剧里面没有听到很多人的的声音，但是里面也有他们的付出和努力，老人也在给予了很大的帮助，编剧大人几番改动才有了这个漫画改编版的剧，然后要感谢小墨和止乐，他们两个已经被我折磨好久，小凡的意见也比较中肯， 田田的画挺漂亮，当然也要感谢宣传波波的帖子，所有参与到这个剧的人都被我各种返工折磨，我在这里感谢大家的体贴。 声明： 该作品严禁用于任何商业用途，仅供个人爱好交流欣赏之用。 该作品所采用的音乐和音效均来自网络。转载请附上所有STAFF和CAST。",
+          "truncated": false
+        },
+        "feed_index": 1,
+        "guid": "https://aod.cos.tx.xmcdn.com/group11/M06/FA/3C/wKgDa1bJJg7xfOGKANnguwsr5Nk640.m4a"
+      },
+      {
+        "title": {
+          "text": "【裔美声社】现代BG广播剧《邂逅》全一期",
+          "truncated": false
+        },
+        "description": {
+          "text": "发布时间：2009.01.20 （微信平台：裔美声社） 经过那么多年，我才知道当年的我是那么的幼稚，那么的冲动。现在我要弥补我的过错。我曾经放弃了你去追寻一切，现在放弃一切只为你。 婚礼上的誓言不过是我们给自己一个继续追寻幸福的借口，一个给自己的承诺而已。这并不代表我放得下那些回忆，相反地，我正是要珍藏这些回忆。 音乐剧----邂逅 编剧：川 后期制作:布布 浩然——小鹏 敏君——可尤 薇薇 ——炸酱面小妞 佳怡——丁丁里格蛋蛋 神父——雾影天河 路人甲——紫色妖姬（迷音声林） 路人乙——雾影天河 新郎——狒狒 报幕——小本 海报——青龙堂堂主 在线收听： 我友：http://m.woyo.com/play_music.php?u=yimeiss&id=877932 派派：http://www.piekee.com/audio/R2PBRgKUTi0=.html 土豆：http://www.tudou.com/programs/view/kuLJeTll0OY/ 下载请见论坛^^： http://www.52ym.cc/viewthread.php?tid=1812&extra=page%3D1",
+          "truncated": false
+        },
+        "feed_index": 3,
+        "guid": "https://aod.cos.tx.xmcdn.com/group14/M08/00/8B/wKgDZFa790ixx-ZHALqF-km1n7Q718.m4a"
+      },
+      {
+        "title": {
+          "text": "【裔美声社】全年龄广播剧《妖目之梦》全一期",
+          "truncated": false
+        },
+        "description": {
+          "text": "发布时间：2008.08.26 （微信平台：裔美声社） 真的是一个很MINI的剧，>_, 小说原著：孔雀高飞???? 剧本改编：魔改王 导演/策划：魔改王/四方の语/卡哇伊鬼魅 海报：魔改王???? 后期：素素 配音： 杜鹃/妖目：素素 萧夜/村妇：魔改王?? 母亲：凤舞霜河 村民：狒狒????酒保：小鹏 ?? 黑夜之中的小小酒吧，看透了世间悲欢离合。在黑夜中，一切虚幻变的真实，一切面具随着阳光而消失。在这里，人心的颜色一望可知。 ??《青蝠酒吧》相信很多人不会陌生，因为非常喜欢这个插曲，所以节选出来做了个mini剧！希望大家能支持！嘿嘿！ 土豆： http://www.tudou.com/programs/view/IpsKMfFVE4Y/ 注明：由于孔雀大人神出鬼没……不明行踪， 所以此剧没有大人的授权，因此只是做了其中一个喜欢的小片段，希望孔雀大人谅解！ 申明：本广播剧所用音效、音乐、海报原图均来自网络！请勿将本作品用于商业运作！ 欢迎大家转载【裔美声社】的作品，本社的所有作品除了特别申明的，均为开放转载，转载时，请到此贴回复！http://www.52ym.cc/viewthread.php?tid=559&extra=page%3D1 请在转载的过程中，保留作品发布的格式，并且注明我们的论坛地址!本社有该作品的发布、撤消等权利！",
+          "truncated": false
+        },
+        "feed_index": 4,
+        "guid": "https://aod.cos.tx.xmcdn.com/group11/M03/7E/3A/wKgDa1YqEiziNnEiAFyaGKnSFmw098.mp3"
+      },
+      {
+        "title": {
+          "text": "【裔美声社】现代BG广播剧《你听啊天使在唱歌》全一期",
+          "truncated": false
+        },
+        "description": {
+          "text": "发布时间：2008.03.07 （微信平台：裔美声社） 一个暗恋和爱恋的童话 静谧的夜，忧伤的歌 为了谁？又感动了谁？ 默默追问 一只左脚的袜子 可不可以想念 一只左脚的鞋？ 轻轻叹息 地久天长 是不是只是一场荒芜的童话 会不会有一天 我们都成为被遗忘的陈年旧事 小说原著：生还 编剧/导演/后期：九月的海 海报：魔改王 配音： 左左：九月的海 阿宝：苏大大 小（右）：小茂 骨朵：进化中九尾狐 丁丁：小幽灵 片尾曲：萍萍 报幕：子辰",
+          "truncated": false
+        },
+        "feed_index": 5,
+        "guid": "https://aod.cos.tx.xmcdn.com/group13/M03/8B/64/wKgDXVYqB2iyhsgMAQVOrf4w0uE407.mp3"
+      },
+      {
+        "title": {
+          "text": "【裔美声社】全年龄广播剧《憎恨之王》全一期",
+          "truncated": false
+        },
+        "description": {
+          "text": "发布时间：2007.08.25 （微信平台：裔美声社） 原著：于冒泡??剧本：魔改王(裔美声社) 旁白：子辰（裔美声社）（在欧罗巴大陆上……） 灵魂：风从哪里来（决意同人）（当年我们用……） 德鲁伊：执祺（清音社）（像您这么高贵……） 女巫：卡哇伊鬼魅（裔美声社）（那怎样才能杀死……） 托克：宫宝鸡丁（优声由色）（墨菲斯托大人……） 墨菲斯托：魔改王（裔美声社）（未婚妻？我怎么不知道……） 伊斯梅尔：夜紫 （你-到-底-说-不-说-呀……） 吉列布：晓YI（裔美声社）（不就是三围么……） 圣骑士：错综复杂（裔美声社）（与七勇士为敌……） 凯恩：宏宇（少废话！！出征前必要的辅导你也敢偷懒！） 亚马逊：素素（裔美声社）（哇……这就是憎恨之王……） 山羊：晓YI（裔美声社）（咩…咩…我他妈今天咋这么倒霉呢……） 刺客：进化中的九尾狐（裔美声社）（这几天，全员把伤养好……） 维恩：虫子（墨…墨菲斯托大人……他们玩阴的……） 野蛮人：海妖（靡靡之音）（就是啊，晃来晃去的……我头都晕了！） 后期：素素（裔美声社）?? 海报：帅帅（裔美声社） ?? 首先，“刷”抽出一把刀戳在旁边，在此向各位参与暗黑剧制作的友人，表示跪谢，以及赎罪阿！！ 由于种种主观的客观的各种各样的理由，这剧拖到今天才出现……我无比惭愧啊……所以谁都别拦我！！ 挥刀……给诸位切块西瓜去去火吧！嘿嘿嘿！！ ?? 此剧献给曾经热爱",
+          "truncated": true
+        },
+        "feed_index": 6,
+        "guid": "https://aod.cos.tx.xmcdn.com/group10/M07/8A/95/wKgDZ1YqA-7yLQPVAX_tssL59vE125.mp3"
+      },
+      {
+        "title": {
+          "text": "【裔美声社】现代BG广播剧《梦非离》全一期",
+          "truncated": false
+        },
+        "description": {
+          "text": "发布时间：2006年 微信平台：yimeishengshe 或 搜索“裔美声社”",
+          "truncated": false
+        },
+        "feed_index": 8,
+        "guid": "https://aod.cos.tx.xmcdn.com/group11/M06/7B/BE/wKgDa1Yl4H-hEukWAKbx8INno80664.mp3"
+      },
+      {
+        "title": {
+          "text": "【裔美声社】现代BG广播剧《电车情缘》全一期",
+          "truncated": false
+        },
+        "description": {
+          "text": "发布时间：2006年 （微信平台：裔美声社） 电车情缘 编剧/导演：爱如幽香配音： 修治：错综复杂 梦萍：卡哇伊鬼魅 柏健：安然寻语 惠如：伽伽丸后期制作：我爱猫猫和泪",
+          "truncated": false
+        },
+        "feed_index": 9,
+        "guid": "https://aod.cos.tx.xmcdn.com/group11/M0A/94/A6/wKgDbVYl2uTS2GW3ADnGpuGOIWU994.m4a"
+      }
+    ]
+  }
+}

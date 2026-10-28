@@ -1,0 +1,140 @@
+{
+  "show_id": "1550542389",
+  "feed_url": "http://www.ximalaya.com/album/46007564.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/46007564.xml",
+    "final_url": "http://www.ximalaya.com/album/46007564.xml",
+    "fetched_at": "2026-10-25T14:42:31.364572+00:00",
+    "status": 200,
+    "sha256": "2ead82284c1bf7da6c9e606b84c549b4ee45e5f7698a6a4c48ece082c259f813"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【双播精品玄幻】我能开挂吞万物|强者回归流|免费",
+    "truncated": false
+  },
+  "description": {
+    "text": "【内容 简介】 身为大帝之皇的万物之主，拥有着世间独一无二的武魂能力 真龙、仙凤、鲲鹏、麒麟、神猿、金乌、祖蛇等，都曾被他吞噬，一旦进行战斗，他可以直接创造众多神兽，让它们来灭杀敌手。 万物都会走到生命尽头，万物之主肉身虽然可以依靠不断吞噬，以此来让自己不灭，但灵魂却会死亡，当灵魂的寿命到了尽头，万物之主选择转世重生，于是一场暂新的冒险开始了...... 【作者简介】 用心做事 【主播介绍】 正直的小白犬：沉迷于玄幻的全声线主播，主要作品有《化神》、《特种兵 - 开局争夺卫星》、《我能开挂吞万物》等，参与作品《我的技能全靠捡》、《超能事务所》、《全能偶像》、《爱意恒生》、《村庄》等 宝禧之：新生代知性女主播，主要作品《老公，搓衣板已经准备好》，参与作品《九爷，夫人又虐渣了》、《我能开挂吞万物》等 。 【后期团队介绍】 画本：吃奶糖的蜗牛 对轨： c 家小宠三两只 后期：欢喜 片花文本：卷毛的小竹子 片花后期：颜汐",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 634,
+  "episodes": [
+    {
+      "id": "465e1221493dbf885b2317dce0efabf8bf10fc37a384efb1894c23fa333fcd1d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/996e-audiofreehighqps/3B/26/CMCoOSYD4yc6ACUoxAB_RmWS-aacv2-48K.m4a",
+      "title": {
+        "text": "片花新书《厘米学院》周周送福利，求订阅关注",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 24 Jan 2021 12:12:35 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "545f6df8a0e1a9f314ea1554bd6321261fc218bb99b5e300bba751cd65e3b092",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/dced-audiofreehighqps/83/5F/CKwRIMAETEiOAD6HpACebm9K.m4a",
+      "title": {
+        "text": "我能开挂吞万物-090-幻影袍",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Apr 2021 06:02:37 GMT",
+      "feed_index": 90
+    },
+    {
+      "id": "121b61879eb78c8573af99d4834be88c9812ff96c9c3cce4870111ad0f93692e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/be20-audiofreehighqps/CE/9B/CKwRIJIEvtCLAEK2IgDF2wak.m4a",
+      "title": {
+        "text": "我能开挂吞万物-181-对战三大灵兽王",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 10 Jul 2021 03:00:03 GMT",
+      "feed_index": 181
+    },
+    {
+      "id": "eb9621b7f99cef5855ad75152960c4acb7fb170dce34bb27754ce6f41de6a506",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/34d5-audiofreehighqps/9E/D8/CKwRINsFDeqeAD-ENQDg7dz-.m4a",
+      "title": {
+        "text": "我能开挂吞万物-272-改头换脸面具",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 08 Sep 2021 03:00:05 GMT",
+      "feed_index": 271
+    },
+    {
+      "id": "4b1780c1e3ac2d1eef2c71623329ca24cb644324492e1c94682426ade4c04873",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/eafd-audiofreehighqps/0C/1B/CKwRIRwFNXdWADt6cADqeBuL.m4a",
+      "title": {
+        "text": "我能开挂吞万物-363- 为战斗而生的武魂",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 08 Oct 2021 03:00:02 GMT",
+      "feed_index": 362
+    },
+    {
+      "id": "6b4bf87378700cb420cc9fc614d6e3f69daeb2d6ed18fd20a4539c542a42297b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2cd5-audiofreehighqps/CE/DD/CKwRINsFVqu8AEAJ2gDy63SF.m4a",
+      "title": {
+        "text": "我能开挂吞万物-454-神魂绝杀枪",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 02 Nov 2021 07:28:46 GMT",
+      "feed_index": 452
+    },
+    {
+      "id": "4c736cde5d0515830c875683ed9cfc3c1e19d93e2cc62164c1b010cd8b3851b9",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/27e3-audiofreehighqps/37/8A/GKwRIUEFegVUADyNCgD8g1bu.m4a",
+      "title": {
+        "text": "我能开挂吞万物-545- 空间碾压掌",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 29 Nov 2021 03:00:04 GMT",
+      "feed_index": 543
+    },
+    {
+      "id": "4d3251b7f1b8aa3dbe9703f73ccd783774be950ce5b5a61c3e7fe35374966313",
+      "guid": "xmly_track_480930008",
+      "title": {
+        "text": "欢迎订阅新书玄幻爽文我从斩妖司开始无敌，福利多多",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Dec 2021 01:29:15 GMT",
+      "feed_index": 633
+    }
+  ]
+}

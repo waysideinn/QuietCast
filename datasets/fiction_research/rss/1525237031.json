@@ -1,0 +1,140 @@
+{
+  "show_id": "1525237031",
+  "feed_url": "https://anchor.fm/s/2dc4c688/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/2dc4c688/podcast/rss",
+    "final_url": "https://anchor.fm/s/2dc4c688/podcast/rss",
+    "fetched_at": "2026-10-25T14:53:11.715973+00:00",
+    "status": 200,
+    "sha256": "0cbc5e03bc4f9b1b585626b1976f0dce546f30695ec8c31976544e5bfdd4ce7d"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Alpha經濟學",
+    "truncated": false
+  },
+  "description": {
+    "text": "用經濟學來分析日常生活的大小事，對常見的社會議題產生科學的見解。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 10,
+  "episodes": [
+    {
+      "id": "8e558ca3bccd02a20f87fece264f4a5006b84ca6f6849fe8fe9f880682c9f3ba",
+      "guid": "438a1d43-a2f9-4cb2-928c-f4b095404a72",
+      "title": {
+        "text": "EP3-奢侈稅打房有用嗎? 房價到底有沒有下跌?",
+        "truncated": false
+      },
+      "description": {
+        "text": "長期以來，台灣房價持續攀升已成為全民議題。尤其去年上半的新冠疫情爆發，全球量化寬鬆，造成疫情尚未緩解卻熱錢滿天飛的怪異現象，除了股市持續高漲外，房市也變成避免通貨膨脹下消化資金的去處，讓原本稍微和緩的房價議題再度浮上了檯面。政府也在今年陸續推出打炒房的政策。其實，這已經不是政府第一次推出抑制房價的政策了，這些政策的效果究竟如何呢? 今天，就讓我們一起來回顧，2011年奢侈稅的效果吧! Blog:https://pyecontech.com/2021/04/14/tax_on_luxuries/ YouTube:https://youtu.be/5ukp6612JZQ",
+        "truncated": false
+      },
+      "published_at": "Sat, 29 May 2021 10:19:26 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "0ccfe822992c1a1c7c6ee7a60fb4a442b11cdc8d377602b43cd7ef95eccc35dc",
+      "guid": "2a24450d-51be-46e1-8633-4874ccde0520",
+      "title": {
+        "text": "EP2-印度為什麼這麼多兒童新娘? 一個經濟學解釋!",
+        "truncated": false
+      },
+      "description": {
+        "text": "兒童婚姻，也就是在18歲以前的婚姻是一個嚴肅且重要的全球議題，據統計，全球每年約有1200萬件兒童婚姻，其中有200萬件是15歲前就被迫結婚，其中，女孩在所有的兒童婚姻佔了絕對多數，多項研究指出，兒童新娘比起未婚者更容易感染HIV，教育程度也較低，因為她們通常跟丈夫年齡差距也較大，權力不對等的關係使得他們容易淪為家暴的受害者，同時，過早懷孕也大幅提高死亡風險。 兒童新娘不僅僅是人權議題，教育在經濟成長中往往扮演特殊的地位，被迫中斷學業的兒童新娘很有可能對經濟成長以及整體的社會發展有負面的影響，那為什麼有些國家有普遍的兒童婚姻問題，有些國家卻沒有? 本集的影片會以印度這個世界上兒童新娘問題最嚴重的國家之一，來介紹經濟學怎麼解釋兒童婚姻現象。 Blog: https://reurl.cc/GdAnoW YouTube: https://youtu.be/QPs5Ars64gs 論文參考連結: https://www.peterleeson.com/Child_Brides.pdf 世界展望會: https://is.gd/tfOkYE",
+        "truncated": false
+      },
+      "published_at": "Sat, 27 Feb 2021 04:41:36 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "5057b6a85412ff426cc4477e2b31959be31bbe54a9cfd6f0fca0a2d5b8ee15dd",
+      "guid": "e7f93b2d-e8a8-4adf-ab2c-fb6810e2659a",
+      "title": {
+        "text": "EP7-為什麼100年前在醫院生產比在家生產更危險?",
+        "truncated": false
+      },
+      "description": {
+        "text": "現代工業化國家中，母親在分娩過程中，平均10萬次分娩只有九位母親死亡。然而，在100多年前，母親分娩的死亡率比現在高出了整整50倍之多。更令人不可思議的是，到醫院給醫生接生的孕婦，其死亡率竟然遠遠高於在家給產婆接生的60倍之多。專業的醫院，到底發生了什麼事情呢？",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Oct 2020 08:14:17 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "609a12c7223bd377144913bf896afd4f2fb1930a58301cb1682dfd38eb6c1ac4",
+      "guid": "726ab154-5285-41bd-951c-a8e8542e2cdb",
+      "title": {
+        "text": "EP6-童工限制是否能提高生活福祉?",
+        "truncated": false
+      },
+      "description": {
+        "text": "當我們想到第三世界國家的童工問題時，我們會覺得這是侵犯人權的社會問題，有些人會質疑第三世界的父母到底關不關心他們子女的最佳利益。 在第三世界，如非洲瀕臨飢餓的國家中，有許多的孩童是沒有選擇權的。他們不但無法擁有快樂的童年，反而被迫長時間的外出工作，為家裡掙錢，以求溫飽。在西方國家，許多社會人士與學生，發起了各項運動，聲援這些可憐的孩童，呼籲貿易協定應該要限制兒童的工作時數以及工作環境等內容。然而，這樣真的能夠提高這些孩童的生活福祉嗎?",
+        "truncated": false
+      },
+      "published_at": "Sat, 12 Sep 2020 16:01:55 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "cb3f30e18399858341ac25803fd92edf9f67654895b0e800fed3ed435945ef16",
+      "guid": "a689f49a-a521-49f3-a1bd-cbb48d64724e",
+      "title": {
+        "text": "EP5-為什麼1997年發生亞洲金融風暴?",
+        "truncated": false
+      },
+      "description": {
+        "text": "1997年的亞洲曾經發生過嚴重的金融危機。 在當時，除了港幣之外，所有東南亞主要貨幣都在短期內急劇貶值，大量的資本從亞洲撤出，促使了亞洲各國股市的崩跌，數以萬計仰賴外資資本的企業接連倒閉。其中，影響最為嚴重的泰國、韓國以及印尼甚至瀕臨破產。 究竟是甚麼導致了亞洲金融風暴? 就讓我們一步步的梳理這場金融危機的發生始末吧!",
+        "truncated": false
+      },
+      "published_at": "Wed, 02 Sep 2020 12:33:55 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "5e41cb5731ca5c90761188604d9f03332de66495edfbc0f4100867b339001abd",
+      "guid": "44d720f0-9c2b-4baf-a80b-900bdd7eb209",
+      "title": {
+        "text": "EP4-小學老師也作弊? 看經濟學大師李維特抓出作弊老師!",
+        "truncated": false
+      },
+      "description": {
+        "text": "芝加哥公立學校系統在1996年引入學校評級系統，讓校內學童分別在3年級、6年級以及8年級時接受測驗，並以學童成績來決定學校的評級。成績表現不佳的學校很有可能被迫關門大吉，同時，表現良好的學校則會得到補助以及獎金。 這給了小學老師作弊來獲取升遷的誘因！問題是，我們該如何抓出這些作弊老師呢? 更多精彩內容，歡迎參考: https://www.youtube.com/c/Pyinvest",
+        "truncated": false
+      },
+      "published_at": "Sat, 15 Aug 2020 13:51:23 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "434b47985b3d7a9a73e0bce89639c24f964feb4df51cca1699d2b53c84ef83ba",
+      "guid": "b573422a-4cf3-4d3c-a8aa-9781b0bde338",
+      "title": {
+        "text": "EP2-為何中古世紀的歐洲流行殘忍的女巫審判?",
+        "truncated": false
+      },
+      "description": {
+        "text": "女巫罪是歐洲中古世紀後期常見的罪名，但是為什麼女巫審判的數量有時間以及地域分配不均的現象? 彼得李森與雅各布拉斯的經濟學理論竟然可以解釋一切! 更多精彩內容，歡迎參考: https://www.youtube.com/c/Pyinvest",
+        "truncated": false
+      },
+      "published_at": "Sun, 02 Aug 2020 14:01:44 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "db6d0bd99741a6a6c7e98048748744786202fcdb008557e1d278881f2934ef4b",
+      "guid": "1908d9cd-22c1-412e-9b36-98d4b7ba59d7",
+      "title": {
+        "text": "EP1-為何工業革命時期的英國流行拍賣妻子?",
+        "truncated": false
+      },
+      "description": {
+        "text": "第一次工業革命時期的英國，有個不尋常的習俗---婚姻不美滿的夫妻可能會在公開市場拍賣妻子。 為什麼是拍賣妻子而非丈夫？這件不尋常的習俗引起了經濟學家彼得李森等人的興趣 ，他們思考著，究竟是什麼樣的經濟誘因促使人們到公開市場拍賣妻子？拍賣妻子這項習俗到底對夫妻雙方有沒有好處？本期的Alpha經濟學，帶你一起來解密! 更多精彩內容，歡迎參考: https://www.youtube.com/c/Pyinvest",
+        "truncated": false
+      },
+      "published_at": "Sun, 26 Jul 2020 10:36:35 GMT",
+      "feed_index": 9
+    }
+  ]
+}

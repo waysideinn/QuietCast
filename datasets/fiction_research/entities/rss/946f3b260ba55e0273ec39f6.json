@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/77458959.xml",
+    "final_url": "https://www.ximalaya.com/album/77458959.xml",
+    "fetched_at": "2026-10-26T07:58:52.379230+00:00",
+    "status": 200,
+    "sha256": "9e2126029a0921d6f161228b28df8846aeae4b0dac5a4714f27b904a17cd338c"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "天才奶爸（都市生活小说）",
+      "truncated": false
+    },
+    "description": {
+      "text": "收听福利：全本免费，不定期爆更 内容简介：所谓天才，就是看什么样的孩子都能看成萌宝宝!多熊的孩子都能教做人!多富的孩子都能让他叫爸爸!",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "有声的雪愿"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "有声的雪愿"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Drama"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/77458959",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 211,
+    "episodes": [
+      {
+        "title": {
+          "text": "【天才奶爸】第1章，你妈是谁（上）(求关注、订阅、月票、打赏，比心！)",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_654945784"
+      },
+      {
+        "title": {
+          "text": "【天才奶爸】第31章，幼儿园冲突（中）（求关注、订阅、月票、打赏，比心！）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 30,
+        "guid": "xmly_track_654977396"
+      },
+      {
+        "title": {
+          "text": "【天才奶爸】第61章，毒刺（下）（求关注、订阅、月票、打赏，比心！）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 60,
+        "guid": "xmly_track_655928930"
+      },
+      {
+        "title": {
+          "text": "【天才奶爸】第91章，三个女人一台戏（下）（求关注、订阅、月票、打赏，比心！）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 90,
+        "guid": "xmly_track_658833502"
+      },
+      {
+        "title": {
+          "text": "【奶爸进度过半】第121章，环球公司（上）（求订阅、月票、打赏，比心！）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 120,
+        "guid": "xmly_track_661562035"
+      },
+      {
+        "title": {
+          "text": "【奶爸进度剩3成】第151章，陈玥的麻烦（上）（求订阅、月票、打赏，比心！）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 150,
+        "guid": "xmly_track_664749649"
+      },
+      {
+        "title": {
+          "text": "【奶爸进度剩2成】第181章，致命舞蹈（下）（求订阅、月票、打赏，比心！）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 180,
+        "guid": "xmly_track_667234795"
+      },
+      {
+        "title": {
+          "text": "【奶爸大结局】第211章，新生活的开始（完）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 210,
+        "guid": "xmly_track_670103783"
+      }
+    ]
+  }
+}

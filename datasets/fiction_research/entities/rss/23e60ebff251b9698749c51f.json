@@ -1,0 +1,158 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/4736247.xml",
+    "final_url": "http://www.ximalaya.com/album/4736247.xml",
+    "fetched_at": "2026-10-26T07:55:01.316654+00:00",
+    "status": 200,
+    "sha256": "1834b59f3d7c59bb3eed45ccfeacd69974cd65fef3d452b1e12df6582a83d6e9"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "人物传记之曾国藩",
+      "truncated": false
+    },
+    "description": {
+      "text": "人物传记之曾国藩",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "青年网络"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "青年网络"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "History"
+      ],
+      [
+        "Education"
+      ],
+      [
+        "Education",
+        "Education Technology"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/4736247",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 10,
+    "episodes": [
+      {
+        "title": {
+          "text": "中国最早留学生",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group20/M03/25/6C/wKgJLFeHT_mjSj1hAOWCr_pzzNI055-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "英雄末路时",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 1,
+        "guid": "https://aod.cos.tx.xmcdn.com/group19/M0A/25/98/wKgJJleHT07Qt7zKAN9chntav6Y338.m4a"
+      },
+      {
+        "title": {
+          "text": "信仰的意义",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 3,
+        "guid": "https://aod.cos.tx.xmcdn.com/group19/M0B/25/95/wKgJJleHTkqju8IyAOARLy7ZRAU614.m4a"
+      },
+      {
+        "title": {
+          "text": "湘军落幕淮军崛起",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 4,
+        "guid": "https://aod.cos.tx.xmcdn.com/group20/M01/25/75/wKgJJ1eHTbfAgOKBANyXT8NkvEU141.m4a"
+      },
+      {
+        "title": {
+          "text": "吾本有情人",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 5,
+        "guid": "https://aod.cos.tx.xmcdn.com/group20/M00/25/71/wKgJJ1eHTQjBFulzAOGR3TmLRiU251.m4a"
+      },
+      {
+        "title": {
+          "text": "李秀成被杀之谜",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 6,
+        "guid": "https://aod.cos.tx.xmcdn.com/group18/M02/25/56/wKgJKleHTJbg1KTFAN_KpqNHXwA883.m4a"
+      },
+      {
+        "title": {
+          "text": "剿灭太平天国",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 8,
+        "guid": "https://aod.cos.tx.xmcdn.com/group19/M09/25/89/wKgJJleHS2iAmYWCANmxwZQLT4s461-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "古今官场哲学",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 9,
+        "guid": "https://aod.cos.tx.xmcdn.com/group19/M07/25/77/wKgJK1eHSsvTiQcIAOCDtkFA8EM995-aacv2-48K.m4a"
+      }
+    ]
+  }
+}

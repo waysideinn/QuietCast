@@ -1,0 +1,69 @@
+{
+  "show_id": "1213440816",
+  "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:293788656/sounds.rss",
+  "source": {
+    "url": "https://feeds.soundcloud.com/users/soundcloud:users:293788656/sounds.rss",
+    "final_url": "https://feeds.soundcloud.com/users/soundcloud:users:293788656/sounds.rss",
+    "fetched_at": "2026-10-25T14:48:00.554730+00:00",
+    "status": 200,
+    "sha256": "67f5e04ea6032412ac216de459c8307c9fb79c23074ee5a001a7bed28c5de5eb"
+  },
+  "status": "ok",
+  "title": {
+    "text": "一般女性が悩みに答えるラジオ",
+    "truncated": false
+  },
+  "description": {
+    "text": "一般女性2人が皆様の悩みにお答えします。悩みが寄せられなかった場合は、一般書籍やインターネットから知らない人の悩みを拾って勝手に答える自家発電的ラジオとなります。 お悩みはこちらまで → [email removed]",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "explicit": "no"
+  },
+  "feed_item_count": 3,
+  "episodes": [
+    {
+      "id": "989a9ba77c8bdb660c87a75585a9518ab788d5f9aff8c95d1bca2887f52c5a5f",
+      "guid": "tag:soundcloud,2010:tracks/314897033",
+      "title": {
+        "text": "３回目",
+        "truncated": false
+      },
+      "description": {
+        "text": "もうすぐ4月ですね。悩みの季節です。中村の最近の悩みは、買ったじゃがいもを使い切れないことです。 今回も気持ち良くお悩みに答えています。 引き続き皆様のお悩みお待ちしております。いつまでもお待ちしております。 休肝日を作るには/最近眠れない/友達に嘘をついてしまった/憂鬱な月曜日の対処法",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Mar 2017 16:42:15 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "6ce665b245a0cdaaba3c4fa8a52ee9eb35971e8b14dfd6feebae6d49710b6b05",
+      "guid": "tag:soundcloud,2010:tracks/313072118",
+      "title": {
+        "text": "2回目：お悩みが来ません",
+        "truncated": false
+      },
+      "description": {
+        "text": "お悩みが来ないので今回も一般書籍・インターネットから引用です。 人の目を見て喋れない/青春したがる父/学校に行く意味/嫌味な奥様の撃退法",
+        "truncated": false
+      },
+      "published_at": "Sat, 18 Mar 2017 07:24:49 +0000",
+      "feed_index": 1
+    },
+    {
+      "id": "ad7ef9bc47ef973f024db44f16c0ea0d80bc7c7a27ed161ae76c17a68595b2f7",
+      "guid": "tag:soundcloud,2010:tracks/311371211",
+      "title": {
+        "text": "1回目",
+        "truncated": false
+      },
+      "description": {
+        "text": "マッサージ店の担当を変えたい / 彼女の話が覚えられない / 汗をかかないで髪を乾かしたい",
+        "truncated": false
+      },
+      "published_at": "Wed, 08 Mar 2017 16:27:35 +0000",
+      "feed_index": 2
+    }
+  ]
+}

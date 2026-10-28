@@ -1,0 +1,140 @@
+{
+  "show_id": "1565906036",
+  "feed_url": "http://www.ximalaya.com/album/48822164.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/48822164.xml",
+    "final_url": "http://www.ximalaya.com/album/48822164.xml",
+    "fetched_at": "2026-10-25T14:42:49.399214+00:00",
+    "status": 200,
+    "sha256": "26380ccaee05aa91d5d6639a08a96448879ec1874982cb565bc8b7edffe97645"
+  },
+  "status": "ok",
+  "title": {
+    "text": "大神甩不掉|爆笑|穿越|修仙",
+    "truncated": false
+  },
+  "description": {
+    "text": "爆笑网文《大神甩不掉》感谢大家的点赞、订阅、关注~谢谢！ 沈月雪英勇救人，穿越了！ 坑娘的，居然来到一个修仙的世界。更可恨，废材资质，只能当个小透明路人甲。 谁能想到，一手好厨艺也能钓到极品大神，果真吃货就是有福。 站住！仙丹、法宝、秘籍全都交出来！ 什么，不给？ 关门，放大神！ …… 这是一个呆萌吃货如何拐骗腹黑大神的故事。只是，她没想到，喂着喂着，这大神就赖着不走了……",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 62,
+  "episodes": [
+    {
+      "id": "bad7ab12eaed8d3351502e571fa8bf2199707c6e99514c9be2efeb795577a940",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3d64-audiofreehighqps/7D/36/CKwRIRwEpSMcACnhRwC8aW6D.m4a",
+      "title": {
+        "text": "第三十四章-及时的救援（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "有备无患，多多益善！",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Jun 2021 21:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "29ec898cac13afec3939b7fe092a0f09d518e89f1f0f919791e7661cde0acb53",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/43c8-audiofreehighqps/CC/D0/CKwRIJEEopQiABAAAAC7piZg.mp3",
+      "title": {
+        "text": "第三十章-破碎丹（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "我去……自己要吃破碎丹？这是玩的啥？",
+        "truncated": false
+      },
+      "published_at": "Fri, 18 Jun 2021 21:01:00 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "5df6b1c645f0947706545c1489abbfba027227bb50327a7466c06d7effadb7bb",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2f74-audiofreehighqps/00/01/CKwRIasElpoDABAAAAC3jSsa.mp3",
+      "title": {
+        "text": "第二十六章 材料沈家出（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "一个月内让你进入筑基中期",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Jun 2021 21:00:00 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "5357f2197e2205b19fae26c714d4676d59d9f0c0cbc4da65718cef58955b7558",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e612-audiofreehighqps/12/37/CKwRIW4EisguABAAAACzRsH4.mp3",
+      "title": {
+        "text": "第二十一章-幸运的人（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "这操作，简直是伤敌一千自损八百……",
+        "truncated": false
+      },
+      "published_at": "Tue, 01 Jun 2021 21:00:00 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "1753b362943c87fc873670cf677841954f751afdc2de8e05e9551596e62e7044",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d676-audiofreehighqps/3D/BB/CKwRINsEgRniABAAAACvgT0u.mp3",
+      "title": {
+        "text": "第十七章-八品丹药（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "我就不信，我学不会了。",
+        "truncated": false
+      },
+      "published_at": "Mon, 24 May 2021 07:34:01 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "9c777ba11d841d106f41e40bcfce187d8c8cbc089baa5cc685576c62f0b8964c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b8d6-audiofreehighqps/87/E6/CKwRIaIEdGP6ABAAAACrTYGr.mp3",
+      "title": {
+        "text": "第十二章-不可能的任务（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "小剧场剧透——你今天吃了没？",
+        "truncated": false
+      },
+      "published_at": "Fri, 14 May 2021 21:00:00 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "dffde5cb875ce3c062d9bee341064768384204ba1b34e59792ca65ff8fcc7975",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3d13-audiofreehighqps/E2/33/CKwRIMAEbRL6ADIQJACohn7V.m4a",
+      "title": {
+        "text": "第八章-垫桌脚的秘籍（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "九阳真经、六脉神术什么，不存在的。你根本就想象不到这本秘籍的名字……",
+        "truncated": false
+      },
+      "published_at": "Sun, 09 May 2021 02:58:55 GMT",
+      "feed_index": 52
+    },
+    {
+      "id": "ae73a2f88297ab7b728bf2f5a206ccc538e5a222a8ce96f6cc5c31308c2366ed",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/63e5-audiofreehighqps/F1/B5/CKwRIDoEYea0AGSuMwClOmxb.m4a",
+      "title": {
+        "text": "楔子 他大爷的",
+        "truncated": false
+      },
+      "description": {
+        "text": "沈月雪英勇救人，穿越了！ 坑娘的，居然来到一个修仙的世界。更可恨，废材资质，只能当个小透明路人甲。 谁能想到，一手好厨艺也能钓到极品大神，果真吃货就是有福。 站住！仙丹、法宝、秘籍全都交出来！ 什么，不给？ 关门，放大神！ …… 这是一个呆萌吃货如何拐骗腹黑大神的故事。只是，她没想到，喂着喂着，这大神就赖着不走了…… 沈月雪英勇救人，穿越了！坑娘的，居然来到一个修仙的世界。更可恨，废材资质，只...",
+        "truncated": false
+      },
+      "published_at": "Fri, 30 Apr 2021 15:34:56 GMT",
+      "feed_index": 61
+    }
+  ]
+}

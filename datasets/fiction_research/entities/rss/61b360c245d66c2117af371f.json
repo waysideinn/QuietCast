@@ -1,0 +1,165 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/3517813.xml",
+    "final_url": "http://www.ximalaya.com/album/3517813.xml",
+    "fetched_at": "2026-10-26T07:54:25.890755+00:00",
+    "status": 200,
+    "sha256": "3316c28dc5413d339c065c7b3a26bf67b1ee816da280f99f36d727882c3fac12"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "晓鹿读书好文分享",
+      "truncated": false
+    },
+    "description": {
+      "text": "关注我们，跟 我们一起成为有力量的人",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "鹿小姐本人 @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "鹿小姐"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "鹿小姐"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Health"
+      ],
+      [
+        "Health",
+        "Self-Help"
+      ],
+      [
+        "Health"
+      ],
+      [
+        "Health",
+        "Sexuality"
+      ],
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Personal Journals"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/3517813",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 117,
+    "episodes": [
+      {
+        "title": {
+          "text": "我们为什么会讨厌一个优秀的人1",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group18/M06/F8/EA/wKgJJVfWY2nQhne1AGHtZzegOE4478.m4a"
+      },
+      {
+        "title": {
+          "text": "你走吧，我不送！",
+          "truncated": false
+        },
+        "description": {
+          "text": "微信公号：鹿鸣悠悠 主播：鹿小姐",
+          "truncated": false
+        },
+        "feed_index": 17,
+        "guid": "https://aod.cos.tx.xmcdn.com/group22/M07/5B/D1/wKgJM1gz2i3gMy_9AEfol5V-Omw917.m4a"
+      },
+      {
+        "title": {
+          "text": "风度，一种不动声色的力量",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 33,
+        "guid": "https://aod.cos.tx.xmcdn.com/group17/M04/DE/CC/wKgJKVfM6OShaf5aAMRAmTRrn5M203.mp3"
+      },
+      {
+        "title": {
+          "text": "婚姻不能给的，梦想能！",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 50,
+        "guid": "https://aod.cos.tx.xmcdn.com/group8/M00/A2/E4/wKgDYVd2J3zCPj_LAG0tYcSsoDk213.mp3"
+      },
+      {
+        "title": {
+          "text": "你愿意做一个挣钱的人还是一个之前的人",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 66,
+        "guid": "https://aod.cos.tx.xmcdn.com/group9/M0A/82/48/wKgDZldNa13SFtA5APV5akNwypY617.mp3"
+      },
+      {
+        "title": {
+          "text": "不离不弃",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 83,
+        "guid": "https://aod.cos.tx.xmcdn.com/group14/M00/45/A0/wKgDZFcOF7eCykJRAPr8B1yw1U8981.mp3"
+      },
+      {
+        "title": {
+          "text": "不要做那个主动切断联系的人",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 99,
+        "guid": "https://aod.cos.tx.xmcdn.com/group7/M09/24/12/wKgDWlbpJjCzL6tpAQNzwxpwRRg386.mp3"
+      },
+      {
+        "title": {
+          "text": "终于等到你",
+          "truncated": false
+        },
+        "description": {
+          "text": "温暖治愈",
+          "truncated": false
+        },
+        "feed_index": 116,
+        "guid": "https://aod.cos.tx.xmcdn.com/group13/M07/DF/93/wKgDXlaNLGjiXtgxACd63twnY24895.m4a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1515777124",
+  "feed_url": "https://feeds.soundon.fm/podcasts/44e15353-7489-4719-bba5-d4aa57dc0f86.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/44e15353-7489-4719-bba5-d4aa57dc0f86.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/44e15353-7489-4719-bba5-d4aa57dc0f86.xml",
+    "fetched_at": "2026-10-25T14:50:04.821828+00:00",
+    "status": 200,
+    "sha256": "87374ad8845c0e1c2401f6d4c5a77f44c6fff8dc6ae151aefeb0feb2220c3452"
+  },
+  "status": "ok",
+  "title": {
+    "text": "大發發牢騷",
+    "truncated": false
+  },
+  "description": {
+    "text": "大家好，我是大發！歡迎來到大發發牢騷！ 目前頻道分成三個系列： 聊一夏：summer和大發聊生活瑣事、育兒經，據說適合放在各種背景聽 噴發互推：噴跟大發討論動漫和電影，和它們的背景、理論、巴拉巴拉各種情況，適合想認識作品／深入討論的朋友 發牢騷：就…就只是發牢騷而已。 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 206,
+  "episodes": [
+    {
+      "id": "94b0e6c67cb609f07c678e30edac70335f41330fd74aaa1ced547889c458302b",
+      "guid": "1759219f-00a7-444b-8d93-7f0baa97ea3a",
+      "title": {
+        "text": "噴發互推–ep.98：【再見機器人】feat. Summer 此時無語，卻留下無限餘韻的作品，看見成長與妥協的夏日回憶。",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集更多白日夢！就在大發發牢騷 https://link.chtbl.com/linrichbg 歡迎大家追蹤大發發牢騷的 IG https://www.instagram.com/linrichbg 或是FB喔！ https://www.facebook.com/linrichbg -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 Sep 2024 09:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "877ba2e6875a4cbfbf37115bcdc703cb59550e5366674fcebae15e57d09f66a5",
+      "guid": "0d876a89-314e-4407-8472-bdbec274c7f3",
+      "title": {
+        "text": "聊一夏–第八十三集：【暑假的尾巴】南北山上海邊走透透！要開學了，收不了心啊！",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集更多在外過夜就在大發發牢騷 https://link.chtbl.com/linrichbg 歡迎大家追蹤大發發牢騷的 IG https://www.instagram.com/linrichbg 或是FB喔！ https://www.facebook.com/linrichbg -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 24 Aug 2023 16:00:00 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "2c3b21b0473bc56b6131cb421de34986ec7bf60b2ac3c92545aef994bdf1da94",
+      "guid": "b620ddae-d7e7-43ab-82c0-e4b26faee4bc",
+      "title": {
+        "text": "噴發互推–ep.69：【媽的多重宇宙】#海報太讚了請讓我直接用 #電影太讚了媽的實在太讚",
+        "truncated": false
+      },
+      "description": {
+        "text": "你曾否想過，如果在人生階段走了岔， 現在的人生是否不同？ 小到早上吃了饅頭還是包子，大到結婚的對象是誰， 而多重宇宙，就能滿足你的此刻想法！ 立刻穿梭宇宙，去探尋自己的可能性吧！ 但當你看透一切之後， 你還能確定：「你，還是你嗎？」 本集更多下腰畫面就在大發發牢騷 https://link.chtbl.com/linrichbg 歡迎大家追蹤大發發牢騷的 IG https://www.instagram.com/linrichbg 或是FB喔！ https://www.facebook.com/linrichbg -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Jan 2023 16:00:00 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "f35404968b4227e7cd7571c8f3f47c7e1fe561cea3b1947760668778e876b735",
+      "guid": "277d453e-4a3c-4049-b0cd-1e7755a4be3f",
+      "title": {
+        "text": "聊一夏–第五十五集：【小暑時著迷】炎熱的小暑與最近著迷的事物",
+        "truncated": false
+      },
+      "description": {
+        "text": "小暑好熱！一點都不小！ 還有時不時降下的滂沱大雨， 讓人不禁讚嘆：「這就是台灣的夏天阿…」 ––但與本期內容毫無相關–– 這次summer和大發， 要藉由這個迷人的夏日狀態， 一起來聊聊最近著迷的東西， 東扯西聊，沒有固定主題， 這．就是聊一夏！ 本集更多馬男（又來！）就在大發發牢騷 https://link.chtbl.com/linrichbg 歡迎大家追蹤大發發牢騷的 IG https://www.instagram.com/linrichbg 或是FB喔！ https://www.facebook.com/linrichbg -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 07 Jul 2022 16:00:00 GMT",
+      "feed_index": 88
+    },
+    {
+      "id": "c6a0b1f2b566fb16d44586a623029dd0da452a59b536d76705349efe8720cfc4",
+      "guid": "b2c1ec9a-6129-488b-b435-3e401cd0437a",
+      "title": {
+        "text": "噴發互推–ep.40：【路卡的夏天】皮克斯不講大道理，說個單純美好的小故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "皮克斯推出各樣的傑出作品， 叫我們屏氣凝神， 情緒隨之起伏上下， 有時大笑，有時落淚。 而這一部–路卡的夏天， 或許單純的難以令人置信。 簡單的故事內容， 沒有太多矯揉造作的道理， 有的只有小孩子們之間的情誼， 冒險、悲傷與快樂， 就像一個炙熱的暑假！ 到底路卡的夏天， 是什麼樣的一個作品？ 一起來聽噴和大發怎麼聊吧！ 本集有更多的偉士牌就在大發發牢騷 https://link.chtbl.com/linrichbg 歡迎大家追蹤大發發牢騷的 IG https://www.instagram.com/linrichbg 或是FB喔！ https://www.facebook.com/linrichbg -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Dec 2021 16:00:00 GMT",
+      "feed_index": 117
+    },
+    {
+      "id": "5a1030b4adc1b3ea928dbcb40825b53b65ac89a0127493f93228bae69d894195",
+      "guid": "a00f95ec-600a-4c45-b62d-24d1b9753276",
+      "title": {
+        "text": "噴發互推–ep.26：【獵人嵌合蟻篇】人類的惡意和嵌合蟻的人性，冨樫老賊還不復刊？",
+        "truncated": false
+      },
+      "description": {
+        "text": "讓我們從外太空回來地面吧！ 但你以為地面上就沒有異形的存在了？ 不！歡迎來到獵人最暴力、最血腥、也是集數最長的篇章！ 「獵人–嵌合蟻篇」！ 在這個章節中， 我們能看到主角群面臨新的巨大挑戰， 到底他們會有什麼成長， 又會有什麼經歷呢？ 當然被稱為老賊的冨奸， 在本章節裡面探索的深度， 也是前所未及，超乎想像的！ （幾乎都把主角群玩壞一輪了……） 本集超級不像少年漫畫的內容就在大發發牢騷 https://link.chtbl.com/linrichbg 歡迎大家追蹤大發發牢騷的 IG https://www.instagram.com/linrichbg 或是FB喔！ https://www.facebook.com/linrichbg -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Jun 2021 16:00:00 GMT",
+      "feed_index": 146
+    },
+    {
+      "id": "ccbd41559c6305d5096574eb9b1c6fa058aa140cadef1024c138c6a2f19e5fa7",
+      "guid": "506b05c0-650d-44dd-9eb1-4a9ee5934af3",
+      "title": {
+        "text": "聊一夏–第十二集：【剪頭髮】三千煩惱絲的困擾",
+        "truncated": false
+      },
+      "description": {
+        "text": "今天的聊一夏 要繼續閒聊生活中的小事情～ 剪頭髮！ 到底這三千煩惱絲， 造成summer和大發什麼困擾呢？ 這次離題又會離到哪裡去呢 一起來聽聽這集的聊一夏吧！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 Nov 2020 15:59:59 GMT",
+      "feed_index": 176
+    },
+    {
+      "id": "9b72799234bd880fdf6fef7d7e513d374f6c75021ff0b247ca4a9b131d058bae",
+      "guid": "c71b9717-b770-4f96-8681-75a7ba4e1161",
+      "title": {
+        "text": "大發發牢騷–試播集：最不會有人想聽的自我介紹part1",
+        "truncated": false
+      },
+      "description": {
+        "text": "大家好，我是大發， 在開始發表一些有內容點的東西前， 先讓我用自我介紹暖暖身吧？ 不過話說這樣，在錄音的時候還是很緊張啊…… 歡迎大家收聽囉！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 May 2020 16:45:25 GMT",
+      "feed_index": 205
+    }
+  ]
+}

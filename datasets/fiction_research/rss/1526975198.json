@@ -1,0 +1,140 @@
+{
+  "show_id": "1526975198",
+  "feed_url": "http://www.ximalaya.com/album/35822231.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/35822231.xml",
+    "final_url": "http://www.ximalaya.com/album/35822231.xml",
+    "fetched_at": "2026-10-25T14:53:33.320751+00:00",
+    "status": 200,
+    "sha256": "76a0b4e6c2277139a29bcecc5793b298d6ab862c258faf609213eedcc39c87cb"
+  },
+  "status": "ok",
+  "title": {
+    "text": "散养艺术｜艺术设计类漫谈节目",
+    "truncated": false
+  },
+  "description": {
+    "text": "散养电台是一档为分享年轻一代艺术家和设计师对当下生活的看法的非严肃类谈话电台。我们尝试着将身边那些日常的，不日常的事物和所见所闻通过艺术的思维模式呈现出来。带各位听众体验一下不一样的脑洞。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 122,
+  "episodes": [
+    {
+      "id": "c91187ab65c7d53964405232ccc91a2f059838e6501a14638b372d4db5def0d8",
+      "guid": "xmly_track_769640212",
+      "title": {
+        "text": "vol. 47 Mbti：e人永不为奴，i人内耗何苦",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播： 困困：视觉艺术家，摄影师 ｜@困困老师傅 小白：视觉设计师，品牌策划 ｜@小白凝不二 文涛：摄影艺术家，图像收集者｜@tower_wei 缪子衿：策展人 希望各位朋友可以留言支持我们或提出意见",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Oct 2024 08:35:02 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "069ae86515dd4519a16699f75177e37d2e0c27d6b647dd1d1a3637970a463c7b",
+      "guid": "xmly_track_599777483",
+      "title": {
+        "text": "散养好看 Vol.14：阿凡达2，悲情三角",
+        "truncated": false
+      },
+      "description": {
+        "text": "@散养FM 主播： 困困：视觉艺术家，摄影师 ｜@困困老师傅｜小红书 ：困困老师 小白：视觉设计师，品牌策划 ｜@小白凝不二 ｜小红书：小白凝不二 文涛：摄影艺术家，图像收集者｜@tower_wei 唐映枫：作词人，导演｜@唐映枫 今日推荐 “阿凡达2” 电影 “悲情三角” 电影 希望各位朋友可以留言支持我们或提出意见",
+        "truncated": false
+      },
+      "published_at": "Tue, 27 Dec 2022 03:58:44 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "34e2b8594e06e2d62e643ff987d534a4c2fb5be06b771d82439f7fe676688158",
+      "guid": "xmly_track_499183413",
+      "title": {
+        "text": "散养出行 Vol.29:徐冰:艺术卡门线/红砖美术馆",
+        "truncated": false
+      },
+      "description": {
+        "text": "@散养FM 进群添加 散养小助理：sanyang2022 主播： 困困：视觉艺术家，摄影师 ｜@困困老师傅｜小红书 ：困困老师 小白：视觉设计师，品牌策划 ｜@小白凝不二 ｜小红书：小白凝不二 文涛：摄影艺术家，图像收集者｜@tower_wei 红砖美术馆 - 徐冰：艺术卡门线 展期：2021年11月6日 – 2022年4月12日 推荐指数：4星 片头曲：爱缪 - 今夜このまま 片尾曲：小野恵令奈 - えれぴょん 希望各位朋友可以留言支持我们或提出意见",
+        "truncated": false
+      },
+      "published_at": "Sun, 06 Feb 2022 22:05:00 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "9689101f12279afba700fd9fd0c446f4625544383edbd05b8a87f6fdf7ae5c0f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9f1c-audiofreehighqps/14/FA/CKwRIaIE2xzmABAAAADQmrqQ.mp3",
+      "title": {
+        "text": "散养好看 Vol.1: 两本书一部电影一部日剧",
+        "truncated": false
+      },
+      "description": {
+        "text": "@散养FM 进群添加 散养小助理：sanyang2022 主播： 困困：视觉艺术家，摄影师 ｜@困困老师傅｜小红书 ：困困老师 小白：视觉设计师，品牌策划 ｜@小白凝不二 ｜小红书：小白凝不二 文涛：摄影艺术家，图像收集者｜@tower_wei 大家好，欢迎大家收听我们散养电台的一个全新版块--散养好看。在这个板块里三位主播将跟大家分享一些他们喜欢的书或者剧等等。希望大家喜欢收听。 今日推荐 《摄影去了大街上》 吴克成 《失焦》 Robert Capa 《沉默的病人》Alex Michaelides “婚姻故事” Noah Baumbach “火花” 日剧 片头曲：爱缪 - 今夜このまま 片尾曲：小野恵令奈 - えれぴょん 希望各位朋友可以留言支持我们或提出意见",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Aug 2021 22:11:00 GMT",
+      "feed_index": 52
+    },
+    {
+      "id": "a2d32eb29c98daa32a0094a48edc9160d2ac4e414732874c54477958c8be9b0e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b55e-audiofreehighqps/CA/60/CKwRIJEENaWoABAAAACXjqFM.mp3",
+      "title": {
+        "text": "vol. 37 独立电影：每个导演都有隐性的师傅",
+        "truncated": false
+      },
+      "description": {
+        "text": "官方微博 @散养FM 主播： 困困：视觉艺术家，摄影师 ｜@困困老师傅｜小红书 ：困困老师 小白：视觉设计师，品牌策划 ｜@小白凝不二 ｜小红书：小白凝不二 文涛：摄影艺术家，图像收集者｜@tower_wei 客座嘉宾： 翔然：导演，电影学者 欢迎大家来收听我们这一期的散养电台，这一期我们请到了独立电影导演翔然跟我们深入电影行业内部来聊聊天，干货满满。应该算是散养电台久违了的充满硬知识的一期。 本期提及的 艺术家 Stan Brakhage 影像艺术家 贾樟柯 导演 侯孝贤 导演 张艺谋导演 杨德昌导演 蔡明亮导演 Abbas Kiarostami 导演 毕赣导演 Andrei Tarkovsky 导演 Andy Warhol 当代艺术家 Hans Richter 影像艺术家 阿彼察邦导演 Louise Bourgeois 当代艺术家 Maya Deren 影像艺术家 洪常秀导演 朴赞郁导演 是枝裕和导演 金基德导演 王家卫导演 Roberto Bolaño 作家 小津安二郎导演 Robert Bresson 导演 李沧东导演 Michelangelo Antonioni 导演 杜可风导演 Michael Moore 导演 影视 “ 小伟 ” 黄梓 “ 九叔 ” 吴建新 “ 刺客聂隐娘 ” 侯孝贤 “ 牯岭街少年杀人事件 ” 杨德昌 “ 绝美之城 ” Paolo Sorrentin",
+        "truncated": true
+      },
+      "published_at": "Sun, 28 Mar 2021 22:30:00 GMT",
+      "feed_index": 69
+    },
+    {
+      "id": "1dc6a0e36d2e9c5df4ea6dcfc831656d4e814c7a7f29fb3e301d81ae6938c7a9",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6fb1-audiofreehighqps/22/50/CMCoOSMDj5MBCkbOMwBpbP09.mp3",
+      "title": {
+        "text": "vol. 29 逆风翻盘：幸福感其实是个商",
+        "truncated": false
+      },
+      "description": {
+        "text": "官方微博 @散养FM 主播： 困困：视觉艺术家，摄影师 ｜@困困老师傅｜小红书 ：困困老师 小白：视觉设计师，品牌策划 ｜@小白凝不二 ｜小红书：小白凝不二 文涛：摄影艺术家，图像收集者｜@tower_wei 客座主播 大旗：摄影艺术家，典型双鱼座 欢迎大家来收听我们散养电台的第二十九期节目，终于又来了一期正片了，这期我们请来了困困主播的好基友摄影师大旗来跟我们分享他逆风翻盘的经历。其中感受颇深的是大旗对于幸福感的定义，或许可以给大家一些启发。 本期提到了： 艺术家 Frida Kahlo 油画艺术家 Marina Abramović 行为艺术家 齐白石 国画家 村上隆 当代艺术家 川久保玲服装设计师 山本耀司服装设计师 杉本博司当代摄影师 李商隐诗人 Sophie Calle 当代艺术家 Alberto Giacometti 雕塑家 美术馆 Harvard Art Museums ，剑桥，美国 哲学家 Georges Bataille 法国哲学家 片头曲：大黒摩季 - あなただけ見つめてる（只注视着你） 片尾曲：秦基博 - Rain 希望各位朋友可以留言支持我们或提出意见",
+        "truncated": false
+      },
+      "published_at": "Sun, 22 Nov 2020 22:04:00 GMT",
+      "feed_index": 86
+    },
+    {
+      "id": "a75d731f42271ff5b02891d616b29372df83342f2f212c798c4c43a274d11b87",
+      "guid": "https://aod.cos.tx.xmcdn.com/group83/M07/37/A5/wKg5I18T5nSx88s8B7a-oPHNvt4693.mp3",
+      "title": {
+        "text": "vol. 18 医美：我该动动脸上哪一块呐（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "@散养FM 主播： 困困：视觉艺术家，摄影师 ｜@困困老师傅 ｜小红书 ：困困老师傅 小白：平面设计师，品牌策划 ｜@小白凝不二 文涛：摄影艺术家，图像收集者｜@tower_wei 客座主播 崔宇璇：插画师 ｜小红书：爱丽小丝 为什么整容在某种程度上是反标签化？ 为什么Allan Kaprow的作品让我们感受深刻？ 整容和整形的区别是什么？ 散养电台第十八期，这一期我们请到了大美女插画师崔老师来跟大家一起聊一聊医美整容这件事情，对于我们三个主播来说，这个方面是完全陌生的，但有总觉得这件事情跟艺术息息相关。 本期提到的艺术家和电影 Marina Abramović 行为艺术家 Magda Sayeg 手工艺术家 Jordan Wolfson 装置艺术家 奚梦瑶 模特 John Cage 音乐艺术家 Gregory Crewdson 摄影艺术家 Gucci 奢侈品品牌 宋冬 装置艺术家 D’ strict 新媒体艺术组合 Allan Kaprow 行为艺术家 TeamLab 新媒体艺术组合 段英梅 行为艺术家 Trevor Andrew 街头艺术家 Jim Bond 装置艺术家 马秋莎 新媒体艺术家 Lucas Blalock 摄影艺术家 片头曲：大黒摩季 - あなただけ見つめてる（只注视着你） 片尾曲：秦基博 - Rain 希望各位朋友可以留言支持我们或提出意见",
+        "truncated": false
+      },
+      "published_at": "Sun, 19 Jul 2020 22:20:01 GMT",
+      "feed_index": 104
+    },
+    {
+      "id": "1e52451cd2ee39779885e500e1cc45397e1c7b928c7b25beeead457c2e9f5a8c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group73/M07/1B/0A/wKgO2157GZKTvQlJAeynR34VNWc195-aacv2-48K.m4a",
+      "title": {
+        "text": "vol. 1 网络算命：手抓病毒算不算行为艺术？",
+        "truncated": false
+      },
+      "description": {
+        "text": "@散养FM 主播： 困困：视觉艺术家，摄影师 ｜@困困老师傅 小白：平面设计师，品牌策划 ｜@小白凝不二 客座主播： 文涛：摄影艺术家，图像收集者｜@tower_wei 算命大师们的背后是不是有一本统一的教材？ Taryn Simon为什么要记录一具腐烂的尸体？ 算命和风水到底是不是一回事？ 散养电台的第一期，三位主播通过分享各自的算命经历来漫谈一下我们该如何看待算命这件事情，以及作为艺术从业者的我们该如何分析和看待这样一个跨越了时间和空间的人类神秘活动。 片头曲：大黒摩季 - あなただけ見つめてる（只注视着你） 片尾曲：秦基博 - Rain 希望各位朋友可以留言支持我们或提出意见",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 Mar 2020 08:41:46 GMT",
+      "feed_index": 121
+    }
+  ]
+}

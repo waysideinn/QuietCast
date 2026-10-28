@@ -1,0 +1,140 @@
+{
+  "show_id": "1095222589",
+  "feed_url": "https://feed.xyzfm.space/gn3duvbrbnm7",
+  "source": {
+    "url": "https://feed.xyzfm.space/gn3duvbrbnm7",
+    "final_url": "https://feed.xyzfm.space/gn3duvbrbnm7",
+    "fetched_at": "2026-10-25T14:47:11.165313+00:00",
+    "status": 200,
+    "sha256": "bcc4b05dce238af80be955632a6289821d24198d9c7655a32de616a0012e204f"
+  },
+  "status": "ok",
+  "title": {
+    "text": "追科技撩艺术",
+    "truncated": false
+  },
+  "description": {
+    "text": "2019 Apple 最佳播客 海内外华人科学家、开发者、艺术家等创造创新人士带来的有趣视角、观点和趋势。听听激发你思考的诙谐对话。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "explicit": "false",
+    "type": "episodic"
+  },
+  "feed_item_count": 51,
+  "episodes": [
+    {
+      "id": "395a76d076d870c49c79166d0d6a888177b586bbf60c3c832eff2d499b7688d8",
+      "guid": "631830d47728d76c0e147117",
+      "title": {
+        "text": "046 - 网络流行热词究竟降级了智商还是丰富了语言？",
+        "truncated": false
+      },
+      "description": {
+        "text": "嘉宾：语言学博士 高思畅 “这些网络新词或者是网络流行语它们有自己的生命力，检验它们生命力的就是我们这些使用它的人，所以那些真正特别好的词其实它一直留着。” 你有没有被 yyds、破防、躺平这些词搞晕过头？我有时候挺讨厌这些词的，但聊天聊到不知道说什么时，又只能用它们来救救场，缓解下气氛。 这集嘉宾语言学博士高思畅将从比较专业的角度来解读这些网络流行热词到底对我们的语言能力有什么影响？顺便说一声语言学可不是学外语。 加入播客听众群 预知访谈嘉宾，提议你想问的问题。 https://www.doko.com/podcasts/046/sichang-gao-how-the-internet-is-changing-language.php 打赏或撩合作，也在上方页面中。 获得这集中提到的知识点链接和高思畅的联系方式， 立即点单集网页。 在小宇宙查看该单集文稿",
+        "truncated": false
+      },
+      "published_at": "Tue, 06 Sep 2022 23:10:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "9d357ad4e834675e7b37a5f8f35a10258b13433af66ab7242910325af893cafb",
+      "guid": "5e7d36d0418a84a0464a074e",
+      "title": {
+        "text": "040 - 国产机器人如何佛系追赶四大家族机器人？",
+        "truncated": false
+      },
+      "description": {
+        "text": "“（德国）库卡的机器人在宝马的生产线上用了 5 年之后，他再卖到国内，用个十来年都没有问题。而国产机器人用个半年，就可能出现各种问题。”桂凯说国产和四大家族机器人在硬件拼装、软件应用上都还存在很大差距。这样的差距能靠资本、政策扶持来加速度拉近吗？还是只能佛系慢慢积累抵消呢？ 立即听桂凯分享什么是机器人的动力学、外骨骼和人机交互控制，以及国产机器人如何才能赶上四大家族机器人。 加入播客听众群 和听友们一起追科技撩艺术。 预知访谈嘉宾，提议你想问的问题。 https://www.doko.com/podcasts/040/kai-gui-the-robotics-industry-in-china.php 联系主播切磋素食饮食、环保技巧，或者撩合作，也在上方页面中。 获得这集中提到的知识点链接和桂凯的联系方式， 立即点单集网页。 在小宇宙查看该单集文稿",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Mar 2020 23:10:00 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "743fe7ba28a1a6e090f7bcd04d799f7ab261e11b146861befacb4b85b18dfb23",
+      "guid": "5e2ab295418a84a04654fc14",
+      "title": {
+        "text": "短集 - “学习表演，学会相信”，重庆姑娘把纽约一流表演课搬回国，打造成带治愈效果的网红课",
+        "truncated": false
+      },
+      "description": {
+        "text": "“学会相信自己的感受，相信身体的反应，相信关系，建立信任”，周羽，艺名周阿奋，把纽约顶级表演课、乌塔哈根表演体系搬回她的家乡重庆，帮助更多人探索自我、发现自我，因为她相信表演不仅仅属于演员，她属于每一个人。 立即到“ 小预算造大品牌 ”播客收听 50 分钟完整访谈： https://itunes.apple.com/cn/podcast/%E5%B0%8F%E9%A2%84%E7%AE%97%E9%80%A0%E5%A4%A7%E5%93%81%E7%89%8C/id1351643281?mt=2 播客听众群 和听友们聊科技艺术，聊你的创业点子，聊垃圾分类技巧，分享你最近发现的环保好东西。 立即到单集网页申请入群。 获得这集中的所有知识点和阿奋的联系方式， 立即点单集网页。 在小宇宙查看该单集文稿",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Jul 2019 23:10:00 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "d8014314f38b269178daa6ea3098da8244c9e7f7235fb39a6fe18663d962518c",
+      "guid": "5e2ab295418a84a04654fc09",
+      "title": {
+        "text": "030 - 超现实主义纹身师的多元世界",
+        "truncated": false
+      },
+      "description": {
+        "text": "“对你不了解的东西，不要因为和你不一样而去诋毁他， 因为毕竟世界是多元的 。”来自广州的 超现实主义纹身师 赵焜宇讲述了他从休学一年到成立独立纹身工作室的故事。想知道如何选择一个不会后悔的纹身图案，立即听赵焜宇的访谈。 主播 Yvonne 柬埔寨感言： 远程工作时代 ，你的技能准备好了吗？ https://www.doko.com/podcasts/030/surrealism-tattoos-artist-kunyu-zhao.php 获得这集中的所有知识点链接和赵焜宇的联系方式， 立即点单集网页。 在小宇宙查看该单集文稿",
+        "truncated": false
+      },
+      "published_at": "Thu, 31 Jan 2019 23:10:00 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "8406220ee7409ad57e68a750a61526b77fae5f6dbacba3d4d8b7987d35609547",
+      "guid": "5e2ab295418a84a04654fbfd",
+      "title": {
+        "text": "022 - 无人车之父在硅谷创立的独角兽公司，用机器学习、深度学习帮有志青年进化成有为青年",
+        "truncated": false
+      },
+      "description": {
+        "text": "Udacity 优达学城 AI 人工智能课程负责人曾辰和杨诗宇给你科普两个今年最热的科技词： 机器学习 、 深度学习 。 赛博朋克电影中的人工智能世界和无人驾驶出行究竟离我们有多远？ 优达的 Nanodegree 纳米学位如何把有志青年进化成有为青年？ 特别推荐： 国宝再现 - 中国历代书画精品展 上海暑假打卡热点：8月2日-12日，大雅堂在上海刘海粟美术馆展出 500 多件绝版极品书画复制品，让你一次饱览北京、台北故宫博物馆藏品。 详情或预约参观 ，立即戳单集网页： https://www.doko.com/podcasts/022/udacity-machine-learning-deep-learning-nanodegree.php 获得这集中的所有知识点和优达学城联系方式， 立即点单集网页。 在小宇宙查看该单集文稿",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 Jul 2018 23:10:00 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "700342383fc1ee63fa4ba9b30238c1eb79076909bd2b4afd9f3d918d2a2012b0",
+      "guid": "5e2ab295418a84a04654fbf4",
+      "title": {
+        "text": "015 - 大数据啪啪啪人工智能，《副本》式赛博朋克可能就在明天，你还确定你是人吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "如果你的记忆和感受都可以被科技和网络控制的话，那你还是你吗？大财团用 大数据和人工智能操控着我们的选择、思想和行为 ，就像《银翼杀手》中的义体人一样，只是我们的数字大脑不在头上而在兜里。北京艺术专栏作者王介南（南妹妹）再次回到我们的播客，剖析为什么身处赛博时代的我们，却朋克不起来？ Get 技巧： 如何摆脱大数据和人工智能的控制，重新开始思考？ 价值几十万的一套创意书推荐 你有被 大数据杀熟 过吗？到单集网页通过信息告诉我你的故事。 获得这集中的所有知识点、链接、王介南联系方式， 立即点单集网页 在小宇宙查看该单集文稿",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Apr 2018 23:10:00 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "f90c6df7bcd6eb1148e24991bac7dd7e063d576e4a99e88eda47f7799b11e482",
+      "guid": "5e2ab295418a84a04654fbe9",
+      "title": {
+        "text": "008 - 世俗情色的日本浮世绘如何拯救了欧洲印象派大师 - 东京艺术旅行",
+        "truncated": false
+      },
+      "description": {
+        "text": "北京策展人及艺术专栏作者王介南分享东京之行感想：从梵高画展到浮世绘对印象派的影响；从泡沫经济到日本民众艺术修养的提高。下次你去日本，除了吃吃吃买买买之外，也可以从艺术文化的角度欣赏一下岛国。 Get 技巧： 如何策划艺术文化游攻略；一个帮你系统性提高艺术素养的 App 。 特别推荐： Animation Desk 动画桌专业版 动画小白、视频爱好者或专业动画人都能迅速上手制作表情包或动画短片。 获得这集中提到的所有知识点、链接、动画桌下载地址和王介南的专栏， 立即点击单集网页 在小宇宙查看该单集文稿",
+        "truncated": false
+      },
+      "published_at": "Wed, 07 Feb 2018 23:10:00 GMT",
+      "feed_index": 43
+    },
+    {
+      "id": "8e8ed00e08a4d6f15389653b2a8da517cace6d1dbee9d589a3557dcb00331c7e",
+      "guid": "5e2ab295418a84a04654fbd1",
+      "title": {
+        "text": "001 - iOS 11 中 3 个被忽略的颠覆性功能",
+        "truncated": false
+      },
+      "description": {
+        "text": "iOS 11 中相机、 Apple Pay 和 Siri 的颠覆性功能，听听看，不升级你会错过几个亿。 获取这集播客详情和所有提到的链接， 立即点击单集网页 . 在小宇宙查看该单集文稿",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 Oct 2017 23:10:00 GMT",
+      "feed_index": 50
+    }
+  ]
+}

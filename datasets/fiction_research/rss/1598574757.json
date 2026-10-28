@@ -1,0 +1,140 @@
+{
+  "show_id": "1598574757",
+  "feed_url": "http://www.ximalaya.com/album/18622568.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/18622568.xml",
+    "final_url": "http://www.ximalaya.com/album/18622568.xml",
+    "fetched_at": "2026-10-25T14:54:59.428413+00:00",
+    "status": 200,
+    "sha256": "fd2e03db97ff84e5d20578894f03b6b5ee83923f94541e94f5c48c09af3356f9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "有声书｜骆驼祥子 (老舍)",
+    "truncated": false
+  },
+  "description": {
+    "text": "《骆驼祥子》 ，中国现代长篇小说，作者老舍，1936至1937年在杂志上连载，1939年首次出版单行本。故事讲述1920年代北京一个年轻人力车夫的挣扎和不幸，命途坎坷的祥子一心希望拥有自己的洋车，却一再得而复失，最后抵不过社会环境的重重打击，自甘堕落。 朗读： 梦想飞翔",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 24,
+  "episodes": [
+    {
+      "id": "ac5f5a7169d8053adcf270f747441f384e5face424ae31a27aacbc055414c6ef",
+      "guid": "https://aod.cos.tx.xmcdn.com/group60/M07/90/C9/wKgLb1zNkd-SiI2iAOMXkf7jOSA582-aacv2-48K.m4a",
+      "title": {
+        "text": "骆驼祥子 - 第一章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Oct 2018 13:18:05 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "97cf02c8bb09675bfdcb49c28b54ad2424c02069f3424b5fc5095b10ed3eed06",
+      "guid": "https://aod.cos.tx.xmcdn.com/group50/M05/CB/19/wKgKnVvRO6Xi9KM-A_p3IeuFUaQ896-aacv2-48K.m4a",
+      "title": {
+        "text": "骆驼祥子 - 第四章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 24 Oct 2018 05:10:27 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "4f5b896a8a5f205658793c2b6bdc3c4cdf024c428b99f5acbf092779672f3f79",
+      "guid": "https://aod.cos.tx.xmcdn.com/group54/M04/D9/77/wKgLclw3F--QHsnqApupzRs-cNc950.mp3",
+      "title": {
+        "text": "骆驼祥子 - 第八章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Jan 2019 09:12:08 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "281ee4fec57b1e3898098a9a92e89c7753ee2baf79656d06b2590c5dfc976c7c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group57/M06/32/6B/wKgLd1xhT3uDnnxcAlfa32Diou0576.mp3",
+      "title": {
+        "text": "骆驼祥子 - 第十一章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Feb 2019 12:29:45 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "743ce1c8b400f617e1cda165be26a3df2d581a6586d478e0576340bf886e6aa4",
+      "guid": "https://aod.cos.tx.xmcdn.com/group57/M08/D1/72/wKgLgVxoFIrhCZEwAlSpo9ibIJ8971.mp3",
+      "title": {
+        "text": "骆驼祥子 - 第十四章",
+        "truncated": false
+      },
+      "description": {
+        "text": "《骆驼祥子》 ，中国现代长篇小说，作者老舍，1936至1937年在杂志上连载，1939年首次出版单行本。故事讲述1920年代北京一个年轻人力车夫的挣扎和不幸，命途坎坷的祥子一心希望拥有自己的洋车，却一再得而复失，最后抵不过社会环境的重重打击，自甘堕落。 朗读： 梦想飞翔",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Feb 2019 13:47:59 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "1c8e2326450fbaa5a3e381d568b10bb31b39e8aaca950b16d20c9acc2ca4d573",
+      "guid": "https://aod.cos.tx.xmcdn.com/group56/M0B/88/2A/wKgLdlxwjgHQY97wAsn0-a03xPY743.mp3",
+      "title": {
+        "text": "骆驼祥子 - 第十七章",
+        "truncated": false
+      },
+      "description": {
+        "text": "《骆驼祥子》 ，中国现代长篇小说，作者老舍，1936至1937年在杂志上连载，1939年首次出版单行本。故事讲述1920年代北京一个年轻人力车夫的挣扎和不幸，命途坎坷的祥子一心希望拥有自己的洋车，却一再得而复失，最后抵不过社会环境的重重打击，自甘堕落。 朗读： 梦想飞翔",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Feb 2019 09:29:57 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "988d031c62d5c5185de344443593f91b9c81788b5559d3092a3bd0543f9624a4",
+      "guid": "https://aod.cos.tx.xmcdn.com/group56/M03/AD/DA/wKgLgFx-OujAufsSAoY3JoTu_Qo605.mp3",
+      "title": {
+        "text": "骆驼祥子 - 第二十一章",
+        "truncated": false
+      },
+      "description": {
+        "text": "《骆驼祥子》 ，中国现代长篇小说，作者老舍，1936至1937年在杂志上连载，1939年首次出版单行本。故事讲述1920年代北京一个年轻人力车夫的挣扎和不幸，命途坎坷的祥子一心希望拥有自己的洋车，却一再得而复失，最后抵不过社会环境的重重打击，自甘堕落。 朗读： 梦想飞翔",
+        "truncated": false
+      },
+      "published_at": "Wed, 27 Feb 2019 09:02:59 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "a63f51cfe686bbf017033eda5573155e4248b2c69b7423c688ccbb69d310cfa3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group57/M02/10/F2/wKgLd1yDAbmzEhsLAO0J1xpIYKc129.m4a",
+      "title": {
+        "text": "骆驼祥子 - 第二十四章",
+        "truncated": false
+      },
+      "description": {
+        "text": "《骆驼祥子》 ，中国现代长篇小说，作者老舍，1936至1937年在杂志上连载，1939年首次出版单行本。故事讲述1920年代北京一个年轻人力车夫的挣扎和不幸，命途坎坷的祥子一心希望拥有自己的洋车，却一再得而复失，最后抵不过社会环境的重重打击，自甘堕落。 朗读： 梦想飞翔",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 Feb 2019 03:29:30 GMT",
+      "feed_index": 23
+    }
+  ]
+}

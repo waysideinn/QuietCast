@@ -1,0 +1,140 @@
+{
+  "show_id": "1574357514",
+  "feed_url": "https://anchor.fm/s/61cb78dc/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/61cb78dc/podcast/rss",
+    "final_url": "https://anchor.fm/s/61cb78dc/podcast/rss",
+    "fetched_at": "2026-10-25T14:42:57.091477+00:00",
+    "status": 200,
+    "sha256": "ae43b4925cf65ed3f2b98cada3525e2c3ec1dc30e0dce063ac57a7d9b9000688"
+  },
+  "status": "ok",
+  "title": {
+    "text": "言情有声小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "娓娓道来的情爱故事是您最好的陪伴！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 67,
+  "episodes": [
+    {
+      "id": "646075bf12c4efe7f900e3ce652396bceee01e5be2bc2593d9cfb7e8ddfefb4e",
+      "guid": "2f709f0b-81e1-472a-8099-9bdc65e54f6d",
+      "title": {
+        "text": "坐台女的迷醉生活 16",
+        "truncated": false
+      },
+      "description": {
+        "text": "那一刻我真想冲进对面的那个小屋里，拉着少华去找红菱，去那个只曾闻名未曾亲临的洗浴城脱光了衣服躺在床上，恭候我的第一次、恭候我的客人、恭候我的生活！有时候真想撕开了自己的涅槃彻底看一看，究竟是何等糟糕的轮回竟让我今生如此无助！",
+        "truncated": false
+      },
+      "published_at": "Sat, 08 Oct 2022 04:21:34 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "114f9329a6c474cf8cb9a041d9e23646b39a58ed369800ffc4d3a4318bc4a6e3",
+      "guid": "58d059f8-ac6f-4ecc-bc33-e29eca7bd9f7",
+      "title": {
+        "text": "坐台女的迷醉生活 07",
+        "truncated": false
+      },
+      "description": {
+        "text": "夜幕降临，雪花一片片一片片飘落在我们身上，身边的人脸上洋溢着 节日 的笑容。一家三口，温暖地笑着。那种幸福，离我好远…… 偶尔路过的轿车上，坐着西服革履的老板、载着衣着华丽的姑娘，绝尘而去。这是他们的节日…… 开着香车，载着 美女 的富人、一包速冻汤圆就能过节的珠儿、红菱和我们、依偎在墙根晒太阳的父亲……大家都过着属于自己的节日——元宵节！ 这个城市，此刻万家灯火，可是哪一盏才属于我？",
+        "truncated": false
+      },
+      "published_at": "Mon, 12 Sep 2022 04:05:18 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "66749c726134880afc42cada6b4ad3f7d943c21cb018fec998ae2067c6a37dd0",
+      "guid": "4225cd3b-c4ea-47f1-a24a-956ee6b3bad7",
+      "title": {
+        "text": "不负相思不负卿 第三章 吃饭吃饭",
+        "truncated": false
+      },
+      "description": {
+        "text": "景姝跟顾北川没什么话题好说的，一转头碰巧看到庭院里的木质秋千，立刻欢快的蹦了过去。她坐在秋千上，轻轻的晃着，抬头沐浴着温暖的阳光。 顾北川看着手中的资料，不经意的抬头，看见这幅岁月静好的画面，竟觉得心底有一股暖流流过。",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Dec 2021 04:15:11 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "a2eb5d2798bba5f7ba09c0ae70b896e899e193e9203750fbfcb823235e4e8f7f",
+      "guid": "d0a1df95-ecb6-401b-a664-bd5ce4f9f17c",
+      "title": {
+        "text": "好色女子的自述 39",
+        "truncated": false
+      },
+      "description": {
+        "text": "好色女子的自述 39",
+        "truncated": false
+      },
+      "published_at": "Wed, 28 Jul 2021 22:17:01 GMT",
+      "feed_index": 28
+    },
+    {
+      "id": "5d923e6e93dd6daa0096d75580ef7a474a31e7fae3a678841c4c3a9f5dcd0134",
+      "guid": "40a43330-47af-4678-a062-9c77bede12d9",
+      "title": {
+        "text": "好色女子的自述 29",
+        "truncated": false
+      },
+      "description": {
+        "text": "好色女子的自述 29",
+        "truncated": false
+      },
+      "published_at": "Sun, 18 Jul 2021 19:20:23 GMT",
+      "feed_index": 38
+    },
+    {
+      "id": "3fcfbed2e19d4d0362d0690aaceff4a7e7846e5c069270a81769f97c4567b0b3",
+      "guid": "65b996b0-bff4-411d-9cda-586832bb263d",
+      "title": {
+        "text": "好色女子的自述 20",
+        "truncated": false
+      },
+      "description": {
+        "text": "好色女子的自述 20",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Jul 2021 19:54:14 GMT",
+      "feed_index": 47
+    },
+    {
+      "id": "84e98d5d813cfe31e67095a1467cb6625aa97889a8880acd6bde8836d2ee2a31",
+      "guid": "630c5623-4bbc-4cbc-8a74-d7d1b58ae9e4",
+      "title": {
+        "text": "好色女子的自述 10",
+        "truncated": false
+      },
+      "description": {
+        "text": "好色女子的自述 10",
+        "truncated": false
+      },
+      "published_at": "Wed, 30 Jun 2021 00:23:50 GMT",
+      "feed_index": 57
+    },
+    {
+      "id": "f066f523d8f241ae97953ecc35e7574ad6026dec936e41d37d4fdae3094d3dfa",
+      "guid": "3db59604-5670-431d-b81d-e81b8e6abfa1",
+      "title": {
+        "text": "好色女子的自述 01",
+        "truncated": false
+      },
+      "description": {
+        "text": "今天我要带给大家的一个故事比较长，需要很多天才能讲完。不过，这个故事很有意思，选自精品故事网，作者是涂胭脂的猫。这个故事比较雷人，题目是《好色女子的自述》，通常我们知道，男人比较好色，现在社会比较开放，女子好色也能堂而皇之地讲出来了。故事是从色女小时候发生的各种雷人事迹讲起。接下来，我会以第一人称来给大家讲述这个故事。 我是色女。",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Jun 2021 17:48:41 GMT",
+      "feed_index": 66
+    }
+  ]
+}

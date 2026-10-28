@@ -1,0 +1,85 @@
+{
+  "group": "fiction",
+  "term": "赘婿",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E8%B5%98%E5%A9%BF&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E8%B5%98%E5%A9%BF&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:41:03.743621+00:00",
+    "status": 200,
+    "sha256": "6b5d440c4f9c1af15dcfe8d3b5395ef6486cb0356e3f96034dc395f4aeaf9047"
+  },
+  "result_count": 3,
+  "records": [
+    {
+      "collectionId": 1751148863,
+      "trackId": 1751148863,
+      "collectionName": "药神赘婿穿越超能",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/78731748.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%8D%AF%E7%A5%9E%E8%B5%98%E5%A9%BF%E7%A9%BF%E8%B6%8A%E8%B6%85%E8%83%BD/id1751148863?uo=4",
+      "genres": [
+        "科幻小說",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 947,
+      "releaseDate": "2023-11-23T08:33:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科幻小說"
+    },
+    {
+      "collectionId": 1685131238,
+      "trackId": 1685131238,
+      "collectionName": "都市邪尊赘婿（都市修仙小说）",
+      "artistName": "有声的雪愿",
+      "feedUrl": "https://www.ximalaya.com/album/74644153.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%83%BD%E5%B8%82%E9%82%AA%E5%B0%8A%E8%B5%98%E5%A9%BF-%E9%83%BD%E5%B8%82%E4%BF%AE%E4%BB%99%E5%B0%8F%E8%AF%B4/id1685131238?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 295,
+      "releaseDate": "2023-05-18T05:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1770235555,
+      "trackId": 1770235555,
+      "collectionName": "[免费]无敌赘婿|超强魔婿|最佳医婿|最强女婿|都市豪婿|称心龙婿|多播",
+      "artistName": "丹丹在发呆",
+      "feedUrl": "https://www.ximalaya.com/album/83444089.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9-%E6%97%A0%E6%95%8C%E8%B5%98%E5%A9%BF-%E8%B6%85%E5%BC%BA%E9%AD%94%E5%A9%BF-%E6%9C%80%E4%BD%B3%E5%8C%BB%E5%A9%BF-%E6%9C%80%E5%BC%BA%E5%A5%B3%E5%A9%BF-%E9%83%BD%E5%B8%82%E8%B1%AA%E5%A9%BF-%E7%A7%B0%E5%BF%83%E9%BE%99%E5%A9%BF-%E5%A4%9A%E6%92%AD/id1770235555?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "社會與文化",
+        "人際關係"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 55,
+      "releaseDate": "2024-10-20T16:55:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    }
+  ]
+}

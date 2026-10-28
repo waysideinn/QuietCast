@@ -1,0 +1,8 @@
+{
+  "source": {
+    "url": "https://podcasts.apple.com/cn/channel/%E5%BD%B1%E8%A7%86%E7%83%AD%E5%89%A7%E5%9C%BA/id6642687854",
+    "fetched_at": "2026-10-26T08:01:50.432611+00:00"
+  },
+  "status": "error",
+  "error": "response exceeds bounded metadata limit"
+}

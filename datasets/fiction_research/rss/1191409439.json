@@ -1,0 +1,140 @@
+{
+  "show_id": "1191409439",
+  "feed_url": "http://www.ximalaya.com/album/5867192.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/5867192.xml",
+    "final_url": "http://www.ximalaya.com/album/5867192.xml",
+    "fetched_at": "2026-10-25T14:47:50.922072+00:00",
+    "status": 200,
+    "sha256": "ab328aa6abbb43f75e9945160d3d190ec1dcdce19d021ed87d55ea0f980c9e3e"
+  },
+  "status": "ok",
+  "title": {
+    "text": "我的故事，你的心情",
+    "truncated": false
+  },
+  "description": {
+    "text": "用我的故事，讲述你的心情，用我的心情，温暖你的心灵！公众平台：一声FM，V博：程大牛牛",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 54,
+  "episodes": [
+    {
+      "id": "998ee8297f318b53c0368860fce9522d0f1ecc382b7e2c8f8eaaeaf92916db7e",
+      "guid": "xmly_track_675471128",
+      "title": {
+        "text": "你拿什么去过你想要的生活",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 20 Oct 2023 06:48:11 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "671726df173ae4e739e6268421d89761cdf565e23bafd8777422d286a1b88574",
+      "guid": "https://aod.cos.tx.xmcdn.com/group21/M02/BF/13/wKgJLVi0PtrSXa1lAMNqH2NvhfI756.mp3",
+      "title": {
+        "text": "这个世界没有容易，只有坚强",
+        "truncated": false
+      },
+      "description": {
+        "text": "用我的故事，讲述你的心情，用我的心情，温暖你的心灵！公众平台：一声FM，V博：程大牛牛",
+        "truncated": false
+      },
+      "published_at": "Mon, 27 Feb 2017 15:00:52 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "09c48fb01af4c8447a622e22c9c7f514114630182abc662993da1ec0aec1edcc",
+      "guid": "https://aod.cos.tx.xmcdn.com/group25/M07/77/20/wKgJMVid0QrgFjO4ALNX1sMAQ-g164.mp3",
+      "title": {
+        "text": "余生很长，何必惊慌",
+        "truncated": false
+      },
+      "description": {
+        "text": "用我的故事，讲述你的心情，用我的心情，温暖你的心灵！公众平台：一声FM，V博：程大牛牛",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Feb 2017 14:47:03 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "61c10bd74c4f1d0dfc898c44d5292e3da79fbcee7ef8fd1331b3e9bf1265bccc",
+      "guid": "https://aod.cos.tx.xmcdn.com/group22/M0B/5B/ED/wKgJLlhzDOjghwP_AJ7R9tVZpqg627.mp3",
+      "title": {
+        "text": "致所有正在奋斗的艺考生",
+        "truncated": false
+      },
+      "description": {
+        "text": "用我的故事，讲述你的心情，用我的心情，温暖你的心灵！公众平台：一声FM，V博：程大牛牛",
+        "truncated": false
+      },
+      "published_at": "Mon, 09 Jan 2017 04:12:00 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "3d940270fcc5460d7412d6b06ee37eac893fe739baea2fecca916af73b6a7fd2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group22/M02/F1/85/wKgJLlhdOBSAgOLQAF0k5g-DJ1M458.mp3",
+      "title": {
+        "text": "要么爱，要么走",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Dec 2016 14:43:49 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "8e1711366e7df47aa515a9bd6c4e881ba8e8833702f66c916593aa9aa475e992",
+      "guid": "https://aod.cos.tx.xmcdn.com/group21/M06/A1/A1/wKgJKFhJctmwSa_RAE_SSYXZQMs880.mp3",
+      "title": {
+        "text": "你为什么不相信自己？",
+        "truncated": false
+      },
+      "description": {
+        "text": "一声FM为您带来最真诚的声音，最诚挚的故事，希望能够陪伴你，温暖你。",
+        "truncated": false
+      },
+      "published_at": "Thu, 08 Dec 2016 14:49:15 GMT",
+      "feed_index": 38
+    },
+    {
+      "id": "80153215d9e995d647dc02545fb1b1d3a75866dd36f3d06151261dd022f6c45c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group22/M05/5A/7D/wKgJLlgzC-mxQ6SXAFfgVGOhWXM326.mp3",
+      "title": {
+        "text": "童年时……",
+        "truncated": false
+      },
+      "description": {
+        "text": "一声FM为您带来最真诚的声音，最诚挚的故事，希望能够陪伴你，温暖你。",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Nov 2016 15:00:14 GMT",
+      "feed_index": 45
+    },
+    {
+      "id": "a875f6d157635de446ec2455bd70f62dbcb0ad0b986b8a91087bc2b2c97ca8d8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group23/M05/48/B7/wKgJL1gsdQPDQBtrAJFjmPAoWyM551.mp3",
+      "title": {
+        "text": "爱情需要勇敢",
+        "truncated": false
+      },
+      "description": {
+        "text": "一声FM为您带来最真诚的声音，最诚挚的故事，希望能够陪伴你，温暖你。",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Nov 2016 15:06:16 GMT",
+      "feed_index": 53
+    }
+  ]
+}

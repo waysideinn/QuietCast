@@ -1,0 +1,140 @@
+{
+  "show_id": "1262978649",
+  "feed_url": "http://www.ximalaya.com/album/9495213.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/9495213.xml",
+    "final_url": "http://www.ximalaya.com/album/9495213.xml",
+    "fetched_at": "2026-10-25T14:41:31.576574+00:00",
+    "status": 200,
+    "sha256": "dc11fc8f94c467b826f5eb7c6179210df8c2be6140abb5411b57cac88ea571b7"
+  },
+  "status": "ok",
+  "title": {
+    "text": "每日英语有声小说-在我入睡前",
+    "truncated": false
+  },
+  "description": {
+    "text": "英文原著小说， 每日听一听， 锻炼听力，加强语感。更多英文有声读物中英对照同步视频请关注公众号[contact removed]",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 60,
+  "episodes": [
+    {
+      "id": "db6556b635b41a9c1253611e353c7b4f5fa24bd0c89db86bcac92f63ca5470f5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M03/2E/25/wKgJX1lwiOLgQ37LABNU6bH4fCc067.m4a",
+      "title": {
+        "text": "before I go to sleep1",
+        "truncated": false
+      },
+      "description": {
+        "text": "本书及更多英文有声读物中英对照同步视频请至www.smuxzlk.com Part One Today The bedroom is strange. Unfamiliar. I don’t know where I am, how I came to be here. I don’t know how I’m going to get home. I have spent the night here. I was woken by a woman’s voice- at first I thought she was in bed with me, but then realized she was reading the news and I was hearing a radio alarm- and when I opened my eyes I found myself here. In this room I don’t recognize. My eyes adjust and I look around in the near dark. A dressing gown hangs off the back of the wardrobe door- suitable for a woman, but someone much older than I am- a",
+        "truncated": true
+      },
+      "published_at": "Thu, 20 Jul 2017 10:42:23 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "5ca906f2f32797ecd421816f55652b63a6564ac6e3d1bf14cd73e4648f64cfd5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M01/F3/08/wKgJXll-74LjsVi5AA2PrT3Ryv4428.m4a",
+      "title": {
+        "text": "before I go to sleep09(文稿)",
+        "truncated": false
+      },
+      "description": {
+        "text": "更多英文有声读物中英对照同步视频请至www.smuxzlk.com ‘You studied English,’ he says. ‘Then you had a few jobs, once you’d graduated. Just odd things. Secretarial work. Sales. I’m not sure you really knew what you wanted to do. ‘I left with a BSc and did teacher training. It was a struggle for a few years, but then I was promoted and, well, we ended up here.’ I look around the living room. It is smart, comfortable. Blandly middle class. A framed picture of a woodland scene hangs on the wall above the fireplace, china figurines sit next to the clock on the mantelpiece. I wonder if I helped to choose the decor. Ben",
+        "truncated": true
+      },
+      "published_at": "Mon, 31 Jul 2017 08:52:22 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "bbe91728415e1ccb72a1ee28a25e8911c5bbb5081e359a215c36e35c44836ff8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M0B/D6/AB/wKgJSVmSrJyD5YdPAAx0Qnq40KA595.m4a",
+      "title": {
+        "text": "before I go to sleep18(文稿)",
+        "truncated": false
+      },
+      "description": {
+        "text": "本书更多英文有声读物中英对照同步视频请至www.smuxzlk.com A car rounds the bend further up the road and heads towards us. ‘The literature?’ ‘Yes. There have been a couple of case studies written about you. I got in touch with the place where you were being treated before you came to live at home.’ ‘Why? Why did you want to find me?’He smiles. ‘Because I thought I could help you. ‘I’ve been working with patients with these sorts of problems for a little while. I believe they can be helped; however, they require more intensive input than the usual one hour per week. ‘I had a few ideas about how real improvements coul",
+        "truncated": true
+      },
+      "published_at": "Tue, 15 Aug 2017 08:12:43 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "3d7bd91f42081362696f83a8e7f4c6cfa79b4dac25c20d68b516fc0c1df248b8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M08/1C/C9/wKgJXlmlF3qTih2kAA5_B_PYLyc321.m4a",
+      "title": {
+        "text": "before I go to sleep26(文稿)",
+        "truncated": false
+      },
+      "description": {
+        "text": "本书更多英文有声读物中英对照同步视频请至www.smuxzlk.com I look at the book. I am excited. A journal. A link back to a lost past, albeit only recent. ‘Have you read it all?’ ‘Yes,’ he says. ‘Most of it. I think I’ve read everything important, anyway.’ He pauses and looks away from me, scratching the back of his neck. Embarrassed, I think. I wonder if he is telling me the truth, what the book contains. He drains the last of his mug of coffee, and says, ‘I didn’t force you to let me see it. I want you to know that.’ I nod, and finish the rest of my drink in silence, flicking through the pages of the book as I do so.",
+        "truncated": true
+      },
+      "published_at": "Tue, 29 Aug 2017 07:29:08 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "fd068564b30507b4d03c79bad6175ede3dbe9d643bd2b4e3a06ba6b8d2753c13",
+      "guid": "https://aod.cos.tx.xmcdn.com/group32/M05/9A/13/wKgJnFm5142zAurDANhARmM9dHI784-aacv2-48K.m4a",
+      "title": {
+        "text": "before I go to sleep35(文稿)",
+        "truncated": false
+      },
+      "description": {
+        "text": "更多英文有声读物中英对照同步视频请加公众号[contact removed] 或至www.smuxzlk.com查看~ Wednesday, 14 November This morning I asked Ben if he’d ever grown a moustache. I was still feeling confused, unsure of what was true and what not. I had woken early and, unlike previous days, had not thought I was still a child. I had felt adult. Sexual. The question in my mind was not Why am I in bed with a man? but instead, Who is he? and What did we do? In the bathroom I looked at my reflection with horror, but the pictures around it seemed to resonate with truth. I saw the man’s name- Ben- and it was familiar, somehow. My age, my marriage",
+        "truncated": true
+      },
+      "published_at": "Thu, 14 Sep 2017 01:18:58 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "981bba8ddff493706c921f5122b847fd3b4c222bf0ab16ffd4058c5d4981b088",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M06/CF/A3/wKgJXlnIvFjSKPDzAIfcKzaajTs771.m4a",
+      "title": {
+        "text": "before I go to sleep43(文稿)",
+        "truncated": false
+      },
+      "description": {
+        "text": "更多英文有声读物中英对照同步视频请加公众号[contact removed] 或至www.smuxzlk.com查看~ Monday, 19 November The café was busy. One of a chain. Everything was green, or brown, and disposable, though- according to the posters that dotted the carpeted walls- in an environmentally friendly way. I drank my coffee out of a paper cup, dauntingly huge, as Dr Nash settled himself into the armchair opposite the one into which I had sunk. It was the first time I’d had the chance to look at him properly; or the first time today at least, which amounts to the same thing. He had called- on the phone that flips open- not long after I had cleare",
+        "truncated": true
+      },
+      "published_at": "Wed, 27 Sep 2017 08:17:00 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "44044081779fa4d3386918e30c1b4ad973d8bfb1e82018e8e2a8e3ff77391db5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group34/M00/BF/E4/wKgJYVnbLyuiLhDgAtGySYsGPhk388-aacv2-48K.m4a",
+      "title": {
+        "text": "before I go to sleep52(文稿)",
+        "truncated": false
+      },
+      "description": {
+        "text": "更多英文有声读物中英对照同步视频请至www.smuxzlk.com或加V信公众号[contact removed] The cafeteria doubled as a bar. The chairs were steel, the tables plain. Palm trees were dotted around, an attempt at atmosphere ruined by the cold air that blasted in whenever someone opened the door. We sat opposite each other across a table that swam with spilled coffee, warming our hands on our drinks. ‘What happened?’ I said again. ‘I need to know.’ ‘It’s not easy to say,’ said Claire. She spoke slowly as if picking her way through difficult terrain. ‘I suppose it started not long after you had Adam. Once the initial excitement had worn off",
+        "truncated": true
+      },
+      "published_at": "Thu, 12 Oct 2017 08:07:00 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "be27ca2b960286ad600473543105de4377256391d3d420cb54ac1691f0656e14",
+      "guid": "https://aod.cos.tx.xmcdn.com/group34/M07/58/FB/wKgJYFntnpXxafJjAIRB_XjdhZ8032.m4a",
+      "title": {
+        "text": "before I go to sleep60(文稿)【大结局】",
+        "truncated": false
+      },
+      "description": {
+        "text": "更多英文有声读物中英对照同步视频请至www.smuxzlk.com或加V信公众号[contact removed] I am lying down. I have been asleep, but not for long. I can remember who I am, where I have been. I can hear noise, the roar of traffic, a siren that is neither rising nor falling in pitch but remaining constant. Something is over my mouth- I think of a balled sock- yet I find I can breathe. I am too frightened to open my eyes. I do not know what I will see. But I must. I have no choice but to face whatever my reality has become. The light is bright. I can see a fluorescent tube on the low ceiling, and two metal bars running parallel to it. The",
+        "truncated": true
+      },
+      "published_at": "Tue, 24 Oct 2017 07:46:00 GMT",
+      "feed_index": 59
+    }
+  ]
+}

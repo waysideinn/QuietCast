@@ -1,0 +1,165 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/81069630.xml",
+    "final_url": "https://www.ximalaya.com/album/81069630.xml",
+    "fetched_at": "2026-10-26T07:56:46.972430+00:00",
+    "status": 200,
+    "sha256": "02064c9257ca7d1ccb95d86c07c2f1fe55a5165be15446eda61466ddf8102254"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "重生了！回到中考前夕女配她妈是豪门大佬的白月光初恋",
+      "truncated": false
+    },
+    "description": {
+      "text": "郑晚是独自带着女儿生活的单亲妈妈，虽然生活算不上富裕，但她跟女儿相依为命，日子倒也有滋有味。 直到这一天，她接到了学校班主任的电话，一向乖巧懂事的女儿竟然在学校惹是生非。 匆忙赶过去，却在办公室里碰到了阔别二十年的初恋。 此时的他西装革履，事业有成，成熟稳重，早已不见当年青涩，浑身都散发着威严的气场。 他的视线不经意地掠过她，带着几分漫不经心。 郑晚当他飞黄腾达，早已经忘记了她这么个人，还未来得及松一口气，当晚，一辆加长林肯停在楼下。 - 郑思韵重生了，回到了中考前夕。 再次见到活着的妈妈，她喜极而泣，痛定思痛，这一辈子一定要好好地活，好好学习，出人头地，要让妈妈享清福过好日子。 只是 谁能告诉她，上辈子那个令人畏惧胆寒、深不可测的大佬竟妄想成为她继父？ 还有，她还没迎来高考，她妈就成为人人艳羡的豪门太太。 这到底是怎么回事！ 【【禁止在评论区代入任何三次元的明星以及影视作品中的角色，互相尊重，不胜感激】】 阅读指南： 1. 豪门中年爱情故事，很俗很狗血，毕竟是土狗作者写的 [哭] 2. 开篇男主 39 岁，女主 38 岁 3. 不是带球跑文学！！文案中女儿跟男主没有血缘关系 4. 女主跟女儿是亲母女关系，女主结过婚 5. 非二胎文学，请不要对跟人设不符的情节抱有过多期待 [抱拳] 作者：林绵绵 本专辑做推荐赏析 请支持作者主页",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "云鹿柔迩@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "云鹿柔迩"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "云鹿柔迩"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Arts"
+      ],
+      [
+        "Arts",
+        "Books"
+      ],
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Comedy Fiction"
+      ],
+      [
+        "Health & Fitness"
+      ],
+      [
+        "Health & Fitness",
+        "Sexuality"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/81069630",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 101,
+    "episodes": [
+      {
+        "title": {
+          "text": "第1章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_717209459"
+      },
+      {
+        "title": {
+          "text": "第15章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 14,
+        "guid": "xmly_track_717373772"
+      },
+      {
+        "title": {
+          "text": "第30章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 29,
+        "guid": "xmly_track_717374083"
+      },
+      {
+        "title": {
+          "text": "第44章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 43,
+        "guid": "xmly_track_717377279"
+      },
+      {
+        "title": {
+          "text": "第58章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 57,
+        "guid": "xmly_track_717385335"
+      },
+      {
+        "title": {
+          "text": "第72章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 71,
+        "guid": "xmly_track_717398661"
+      },
+      {
+        "title": {
+          "text": "第87章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 86,
+        "guid": "xmly_track_717398872"
+      },
+      {
+        "title": {
+          "text": "大结局",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 100,
+        "guid": "xmly_track_717399146"
+      }
+    ]
+  }
+}

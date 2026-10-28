@@ -1,0 +1,177 @@
+{
+  "group": "boundary",
+  "term": "儿童科普",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%84%BF%E7%AB%A5%E7%A7%91%E6%99%AE&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%84%BF%E7%AB%A5%E7%A7%91%E6%99%AE&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:45:52.125241+00:00",
+    "status": 200,
+    "sha256": "da514f79481b366a59c7d84b7c6aa253fc084e48af4334de2ad7a7ae9cdb49a0"
+  },
+  "result_count": 7,
+  "records": [
+    {
+      "collectionId": 1895015862,
+      "trackId": 1895015862,
+      "collectionName": "地球怪奇偵探社 | 兒童科普 | 兒童科學",
+      "artistName": "齒輪博士與安安",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/de51bc7a-1eae-4935-a414-f9a550003187.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%9C%B0%E7%90%83%E6%80%AA%E5%A5%87%E5%81%B5%E6%8E%A2%E7%A4%BE-%E5%85%92%E7%AB%A5%E7%A7%91%E6%99%AE-%E5%85%92%E7%AB%A5%E7%A7%91%E5%AD%B8/id1895015862?uo=4",
+      "genres": [
+        "兒童與家庭",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1305",
+        "26",
+        "1304"
+      ],
+      "trackCount": 483,
+      "releaseDate": "2026-10-25T00:21:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童與家庭"
+    },
+    {
+      "collectionId": 1896184775,
+      "trackId": 1896184775,
+      "collectionName": "地球怪奇偵探社 | 兒童科普 | 兒童科學",
+      "artistName": "齒輪博士與安安",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmopvi0wd0f4a01yefynz2cc1",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%9C%B0%E7%90%83%E6%80%AA%E5%A5%87%E5%81%B5%E6%8E%A2%E7%A4%BE-%E5%85%92%E7%AB%A5%E7%A7%91%E6%99%AE-%E5%85%92%E7%AB%A5%E7%A7%91%E5%AD%B8/id1896184775?uo=4",
+      "genres": [
+        "兒童與家庭",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1305",
+        "26"
+      ],
+      "trackCount": 486,
+      "releaseDate": "2026-10-24T02:36:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童與家庭"
+    },
+    {
+      "collectionId": 1896338160,
+      "trackId": 1896338160,
+      "collectionName": "大树博士的科学大冒险｜儿童科普故事",
+      "artistName": "章旦",
+      "feedUrl": "https://feed.xyzfm.space/gna8kbnrtplx",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%A7%E6%A0%91%E5%8D%9A%E5%A3%AB%E7%9A%84%E7%A7%91%E5%AD%A6%E5%A4%A7%E5%86%92%E9%99%A9-%E5%84%BF%E7%AB%A5%E7%A7%91%E6%99%AE%E6%95%85%E4%BA%8B/id1896338160?uo=4",
+      "genres": [
+        "兒童與家庭",
+        "Podcast",
+        "科學"
+      ],
+      "genreIds": [
+        "1305",
+        "26",
+        "1533"
+      ],
+      "trackCount": 137,
+      "releaseDate": "2026-10-23T10:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童與家庭"
+    },
+    {
+      "collectionId": 927325973,
+      "trackId": 927325973,
+      "collectionName": "lipstar的儿童科普智慧故事",
+      "artistName": "lipstar",
+      "feedUrl": "http://www.ximalaya.com/album/280759.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/lipstar%E7%9A%84%E5%84%BF%E7%AB%A5%E7%A7%91%E6%99%AE%E6%99%BA%E6%85%A7%E6%95%85%E4%BA%8B/id927325973?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "藝術",
+        "表演"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1301",
+        "1405"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2014-09-28T16:21:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1847320016,
+      "trackId": 1847320016,
+      "collectionName": "《蓝蓝的安全超能力》丨儿童科普",
+      "artistName": "松鼠娱乐",
+      "feedUrl": "https://www.ximalaya.com/album/108647406.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%93%9D%E8%93%9D%E7%9A%84%E5%AE%89%E5%85%A8%E8%B6%85%E8%83%BD%E5%8A%9B-%E4%B8%A8%E5%84%BF%E7%AB%A5%E7%A7%91%E6%99%AE/id1847320016?uo=4",
+      "genres": [
+        "兒童教育",
+        "Podcast",
+        "兒童與家庭",
+        "子女教養"
+      ],
+      "genreIds": [
+        "1519",
+        "26",
+        "1305",
+        "1521"
+      ],
+      "trackCount": 37,
+      "releaseDate": "2026-02-20T11:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童教育"
+    },
+    {
+      "collectionId": 1616386196,
+      "trackId": 1616386196,
+      "collectionName": "3-6岁儿童科学百科故事|睡前科普故事",
+      "artistName": "小艾姐姐FM",
+      "feedUrl": "http://www.ximalaya.com/album/60789081.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/3-6%E5%B2%81%E5%84%BF%E7%AB%A5%E7%A7%91%E5%AD%A6%E7%99%BE%E7%A7%91%E6%95%85%E4%BA%8B-%E7%9D%A1%E5%89%8D%E7%A7%91%E6%99%AE%E6%95%85%E4%BA%8B/id1616386196?uo=4",
+      "genres": [
+        "兒童教育",
+        "Podcast",
+        "兒童與家庭",
+        "兒童故事"
+      ],
+      "genreIds": [
+        "1519",
+        "26",
+        "1305",
+        "1520"
+      ],
+      "trackCount": 134,
+      "releaseDate": "2023-04-08T11:59:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童教育"
+    },
+    {
+      "collectionId": 1516948648,
+      "trackId": 1516948648,
+      "collectionName": "儿童健康专业科普",
+      "artistName": "元气小医",
+      "feedUrl": "http://www.ximalaya.com/album/33481389.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%84%BF%E7%AB%A5%E5%81%A5%E5%BA%B7%E4%B8%93%E4%B8%9A%E7%A7%91%E6%99%AE/id1516948648?uo=4",
+      "genres": [
+        "另類醫學",
+        "Podcast",
+        "健康與瘦身",
+        "兒童與家庭",
+        "子女教養"
+      ],
+      "genreIds": [
+        "1513",
+        "26",
+        "1512",
+        "1305",
+        "1521"
+      ],
+      "trackCount": 83,
+      "releaseDate": "2020-12-07T09:49:00Z",
+      "country": "TWN",
+      "primaryGenreName": "另類醫學"
+    }
+  ]
+}

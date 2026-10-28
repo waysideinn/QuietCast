@@ -1,0 +1,623 @@
+{
+  "group": "fiction",
+  "term": "广播剧",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%B9%BF%E6%92%AD%E5%89%A7&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%B9%BF%E6%92%AD%E5%89%A7&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:39:43.676883+00:00",
+    "status": 200,
+    "sha256": "6075450b0276021c5eb24b794f23da2352c77c53ef7150fb8f7e85a656541a83"
+  },
+  "result_count": 26,
+  "records": [
+    {
+      "collectionId": 1594549803,
+      "trackId": 1594549803,
+      "collectionName": "超级广播剧",
+      "artistName": "超级柔顺_cc",
+      "feedUrl": "http://www.ximalaya.com/album/54556680.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%B6%85%E7%BA%A7%E5%B9%BF%E6%92%AD%E5%89%A7/id1594549803?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "喜剧小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2021-11-08T20:15:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1358251055,
+      "trackId": 1358251055,
+      "collectionName": "古风广播剧《今生亦何欢》",
+      "artistName": "艾亦文",
+      "feedUrl": "http://www.ximalaya.com/album/6447495.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8F%A4%E9%A3%8E%E5%B9%BF%E6%92%AD%E5%89%A7-%E4%BB%8A%E7%94%9F%E4%BA%A6%E4%BD%95%E6%AC%A2/id1358251055?uo=4",
+      "genres": [
+        "电视与电影",
+        "播客",
+        "喜剧"
+      ],
+      "genreIds": [
+        "1309",
+        "26",
+        "1303"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2018-02-22T11:56:00Z",
+      "country": "CHN",
+      "primaryGenreName": "电视与电影"
+    },
+    {
+      "collectionId": 1581083287,
+      "trackId": 1581083287,
+      "collectionName": "广播剧—亲笔丨虐恋情深",
+      "artistName": "枫言_风语",
+      "feedUrl": "http://www.ximalaya.com/album/52000787.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B9%BF%E6%92%AD%E5%89%A7-%E4%BA%B2%E7%AC%94%E4%B8%A8%E8%99%90%E6%81%8B%E6%83%85%E6%B7%B1/id1581083287?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "表演艺术"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1405"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2021-08-12T17:40:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1755899443,
+      "trackId": 1755899443,
+      "collectionName": "恋卿|R17九铃多男主宠女频高干虐心豪门免费广播剧",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82471662.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%81%8B%E5%8D%BF-r17%E4%B9%9D%E9%93%83%E5%A4%9A%E7%94%B7%E4%B8%BB%E5%AE%A0%E5%A5%B3%E9%A2%91%E9%AB%98%E5%B9%B2%E8%99%90%E5%BF%83%E8%B1%AA%E9%97%A8%E5%85%8D%E8%B4%B9%E5%B9%BF%E6%92%AD%E5%89%A7/id1755899443?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "健康与健身",
+        "两性"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1512",
+        "1516"
+      ],
+      "trackCount": 310,
+      "releaseDate": "2024-07-28T09:58:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1541341159,
+      "trackId": 1541341159,
+      "collectionName": "未见山多有有声广播剧《从前有座山 山里有个妖》",
+      "artistName": "未见山有声",
+      "feedUrl": "http://www.ximalaya.com/album/43918838.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9C%AA%E8%A7%81%E5%B1%B1%E5%A4%9A%E6%9C%89%E6%9C%89%E5%A3%B0%E5%B9%BF%E6%92%AD%E5%89%A7-%E4%BB%8E%E5%89%8D%E6%9C%89%E5%BA%A7%E5%B1%B1-%E5%B1%B1%E9%87%8C%E6%9C%89%E4%B8%AA%E5%A6%96/id1541341159?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2021-01-31T10:35:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1462843777,
+      "trackId": 1462843777,
+      "collectionName": "《第十八个盛夏》都市奇幻广播剧",
+      "artistName": "冬菱扇",
+      "feedUrl": "http://www.ximalaya.com/album/5222744.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%AC%AC%E5%8D%81%E5%85%AB%E4%B8%AA%E7%9B%9B%E5%A4%8F-%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB%E5%B9%BF%E6%92%AD%E5%89%A7/id1462843777?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2018-06-19T09:19:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1735269021,
+      "trackId": 1735269021,
+      "collectionName": "爆笑《仲夏夜之梦》|经典公版书|免费|多人广播剧",
+      "artistName": "魔女蓝",
+      "feedUrl": "https://www.ximalaya.com/album/80821946.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%88%86%E7%AC%91-%E4%BB%B2%E5%A4%8F%E5%A4%9C%E4%B9%8B%E6%A2%A6-%E7%BB%8F%E5%85%B8%E5%85%AC%E7%89%88%E4%B9%A6-%E5%85%8D%E8%B4%B9-%E5%A4%9A%E4%BA%BA%E5%B9%BF%E6%92%AD%E5%89%A7/id1735269021?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "喜剧",
+        "即兴表演"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 33,
+      "releaseDate": "2024-06-26T14:05:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1097107152,
+      "trackId": 1097107152,
+      "collectionName": "纯爱广播剧【晓满】与你相遇的那个夏天",
+      "artistName": "黑小雨剧场",
+      "feedUrl": "http://www.ximalaya.com/album/3865985.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%AF%E7%88%B1%E5%B9%BF%E6%92%AD%E5%89%A7-%E6%99%93%E6%BB%A1-%E4%B8%8E%E4%BD%A0%E7%9B%B8%E9%81%87%E7%9A%84%E9%82%A3%E4%B8%AA%E5%A4%8F%E5%A4%A9/id1097107152?uo=4",
+      "genres": [
+        "电视与电影",
+        "播客",
+        "儿童与家庭"
+      ],
+      "genreIds": [
+        "1309",
+        "26",
+        "1305"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2016-03-14T07:16:00Z",
+      "country": "CHN",
+      "primaryGenreName": "电视与电影"
+    },
+    {
+      "collectionId": 1754827532,
+      "trackId": 1754827532,
+      "collectionName": "昧途广播剧|强取豪夺|想起他就发抖！到底遭遇了什么",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/80967767.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%98%A7%E9%80%94%E5%B9%BF%E6%92%AD%E5%89%A7-%E5%BC%BA%E5%8F%96%E8%B1%AA%E5%A4%BA-%E6%83%B3%E8%B5%B7%E4%BB%96%E5%B0%B1%E5%8F%91%E6%8A%96-%E5%88%B0%E5%BA%95%E9%81%AD%E9%81%87%E4%BA%86%E4%BB%80%E4%B9%88/id1754827532?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "健康与健身",
+        "两性"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1512",
+        "1516"
+      ],
+      "trackCount": 53,
+      "releaseDate": "2024-03-19T07:17:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1546360337,
+      "trackId": 1546360337,
+      "collectionName": "绝望主妇PK出轨丈夫【免费精品广播剧】我很好｜双播",
+      "artistName": "篔_云宝儿",
+      "feedUrl": "http://www.ximalaya.com/album/40756938.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BB%9D%E6%9C%9B%E4%B8%BB%E5%A6%87pk%E5%87%BA%E8%BD%A8%E4%B8%88%E5%A4%AB-%E5%85%8D%E8%B4%B9%E7%B2%BE%E5%93%81%E5%B9%BF%E6%92%AD%E5%89%A7-%E6%88%91%E5%BE%88%E5%A5%BD-%E5%8F%8C%E6%92%AD/id1546360337?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 138,
+      "releaseDate": "2020-10-14T09:18:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1462573678,
+      "trackId": 1462573678,
+      "collectionName": "汪诘：科幻广播剧",
+      "artistName": "科学有故事",
+      "feedUrl": "http://www.ximalaya.com/album/19787065.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%B1%AA%E8%AF%98-%E7%A7%91%E5%B9%BB%E5%B9%BF%E6%92%AD%E5%89%A7/id1462573678?uo=4",
+      "genres": [
+        "科技",
+        "播客",
+        "新闻",
+        "科技新闻"
+      ],
+      "genreIds": [
+        "1318",
+        "26",
+        "1489",
+        "1528"
+      ],
+      "trackCount": 19,
+      "releaseDate": "2025-05-31T02:29:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1715415052,
+      "trackId": 1715415052,
+      "collectionName": "广播剧《我的房分你一半》第一季",
+      "artistName": "_杏仁君",
+      "feedUrl": "https://www.ximalaya.com/album/77464237.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B9%BF%E6%92%AD%E5%89%A7-%E6%88%91%E7%9A%84%E6%88%BF%E5%88%86%E4%BD%A0%E4%B8%80%E5%8D%8A-%E7%AC%AC%E4%B8%80%E5%AD%A3/id1715415052?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 17,
+      "releaseDate": "2023-08-08T10:35:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1587561762,
+      "trackId": 1587561762,
+      "collectionName": "投资新手广播剧：佳明与思语",
+      "artistName": "有知有行",
+      "feedUrl": "http://www.ximalaya.com/album/53261302.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%8A%95%E8%B5%84%E6%96%B0%E6%89%8B%E5%B9%BF%E6%92%AD%E5%89%A7-%E4%BD%B3%E6%98%8E%E4%B8%8E%E6%80%9D%E8%AF%AD/id1587561762?uo=4",
+      "genres": [
+        "投资",
+        "播客",
+        "商务",
+        "教育",
+        "课程"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1304",
+        "1501"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2021-10-08T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "投资"
+    },
+    {
+      "collectionId": 1086633716,
+      "trackId": 1086633716,
+      "collectionName": "【裔美声社】全一期广播剧集合",
+      "artistName": "裔美声社",
+      "feedUrl": "http://www.ximalaya.com/album/3684321.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A3%94%E7%BE%8E%E5%A3%B0%E7%A4%BE-%E5%85%A8%E4%B8%80%E6%9C%9F%E5%B9%BF%E6%92%AD%E5%89%A7%E9%9B%86%E5%90%88/id1086633716?uo=4",
+      "genres": [
+        "电视与电影",
+        "播客",
+        "艺术",
+        "表演艺术"
+      ],
+      "genreIds": [
+        "1309",
+        "26",
+        "1301",
+        "1405"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2016-02-21T03:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "电视与电影"
+    },
+    {
+      "collectionId": 1731315855,
+      "trackId": 1731315855,
+      "collectionName": "（免費）狐仙/灵异悬疑/民间传说/多人广播剧",
+      "artistName": "声漫漫剧社",
+      "feedUrl": "https://www.ximalaya.com/album/78086508.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B2%BB-%E7%8B%90%E4%BB%99-%E7%81%B5%E5%BC%82%E6%82%AC%E7%96%91-%E6%B0%91%E9%97%B4%E4%BC%A0%E8%AF%B4-%E5%A4%9A%E4%BA%BA%E5%B9%BF%E6%92%AD%E5%89%A7/id1731315855?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 12,
+      "releaseDate": "2023-09-12T19:16:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1599007115,
+      "trackId": 1599007115,
+      "collectionName": "大案特案100宗|话剧演员孙乔演播|一个人的广播剧",
+      "artistName": "孙乔讲故事",
+      "feedUrl": "http://www.ximalaya.com/album/53406649.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%A7%E6%A1%88%E7%89%B9%E6%A1%88100%E5%AE%97-%E8%AF%9D%E5%89%A7%E6%BC%94%E5%91%98%E5%AD%99%E4%B9%94%E6%BC%94%E6%92%AD-%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%B9%BF%E6%92%AD%E5%89%A7/id1599007115?uo=4",
+      "genres": [
+        "犯罪纪实",
+        "播客"
+      ],
+      "genreIds": [
+        "1488",
+        "26"
+      ],
+      "trackCount": 1504,
+      "releaseDate": "2026-10-23T23:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "犯罪纪实"
+    },
+    {
+      "collectionId": 1772528473,
+      "trackId": 1772528473,
+      "collectionName": "我和男朋友一起玩转鬼怪世界",
+      "artistName": "曲艺大剧院",
+      "feedUrl": "https://www.ximalaya.com/album/80256015.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E5%92%8C%E7%94%B7%E6%9C%8B%E5%8F%8B%E4%B8%80%E8%B5%B7%E7%8E%A9%E8%BD%AC%E9%AC%BC%E6%80%AA%E4%B8%96%E7%95%8C/id1772528473?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 469,
+      "releaseDate": "2024-01-28T07:29:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1896802331,
+      "trackId": 1896802331,
+      "collectionName": "喜洋洋讲西游记丨儿童广播剧丨多角色配音｜给孩子听",
+      "artistName": "喜洋洋与村长讲故事",
+      "feedUrl": "https://www.ximalaya.com/album/121611239.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%96%9C%E6%B4%8B%E6%B4%8B%E8%AE%B2%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%A8%E5%84%BF%E7%AB%A5%E5%B9%BF%E6%92%AD%E5%89%A7%E4%B8%A8%E5%A4%9A%E8%A7%92%E8%89%B2%E9%85%8D%E9%9F%B3-%E7%BB%99%E5%AD%A9%E5%AD%90%E5%90%AC/id1896802331?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 51,
+      "releaseDate": "2026-06-27T11:13:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1639242682,
+      "trackId": 1639242682,
+      "collectionName": "凌云伏魔记|大话西游战国版篇|奇幻穿越广播剧",
+      "artistName": "陆油油吖",
+      "feedUrl": "https://www.ximalaya.com/album/70160723.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%87%8C%E4%BA%91%E4%BC%8F%E9%AD%94%E8%AE%B0-%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8%E6%88%98%E5%9B%BD%E7%89%88%E7%AF%87-%E5%A5%87%E5%B9%BB%E7%A9%BF%E8%B6%8A%E5%B9%BF%E6%92%AD%E5%89%A7/id1639242682?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 49,
+      "releaseDate": "2022-08-31T05:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1592446622,
+      "trackId": 1592446622,
+      "collectionName": "误打误撞|即兴广播剧",
+      "artistName": "误打误撞Podcast",
+      "feedUrl": "http://www.ximalaya.com/album/54241681.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%AF%AF%E6%89%93%E8%AF%AF%E6%92%9E-%E5%8D%B3%E5%85%B4%E5%B9%BF%E6%92%AD%E5%89%A7/id1592446622?uo=4",
+      "genres": [
+        "即兴表演",
+        "播客",
+        "喜剧",
+        "幽默对谈"
+      ],
+      "genreIds": [
+        "1495",
+        "26",
+        "1303",
+        "1496"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2023-11-07T02:55:00Z",
+      "country": "CHN",
+      "primaryGenreName": "即兴表演"
+    },
+    {
+      "collectionId": 1462848266,
+      "trackId": 1462848266,
+      "collectionName": "重返阿尔特里亚（冒险广播剧）",
+      "artistName": "NJ早安酱",
+      "feedUrl": "http://www.ximalaya.com/album/7134236.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%87%8D%E8%BF%94%E9%98%BF%E5%B0%94%E7%89%B9%E9%87%8C%E4%BA%9A-%E5%86%92%E9%99%A9%E5%B9%BF%E6%92%AD%E5%89%A7/id1462848266?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2017-06-29T13:37:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1509667588,
+      "trackId": 1509667588,
+      "collectionName": "微广播剧 | 古人故人•很凡人",
+      "artistName": "生命萌动",
+      "feedUrl": "http://www.ximalaya.com/album/36901831.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%BE%AE%E5%B9%BF%E6%92%AD%E5%89%A7-%E5%8F%A4%E4%BA%BA%E6%95%85%E4%BA%BA-%E5%BE%88%E5%87%A1%E4%BA%BA/id1509667588?uo=4",
+      "genres": [
+        "旅行与地方文化",
+        "播客",
+        "社会与文化",
+        "历史"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 31,
+      "releaseDate": "2020-09-17T05:13:00Z",
+      "country": "CHN",
+      "primaryGenreName": "旅行与地方文化"
+    },
+    {
+      "collectionId": 1570197352,
+      "trackId": 1570197352,
+      "collectionName": "广播剧【蜕变】",
+      "artistName": "96.3好FM",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/d9486183-3dd4-4ad6-aebe-a4c1008455d5/fb94f32c-befd-41b9-95d6-ad2d00429bcb/d77c1a0a-31c3-4ff6-8a42-ad2d004750a9/podcast.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B9%BF%E6%92%AD%E5%89%A7-%E8%9C%95%E5%8F%98/id1570197352?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 80,
+      "releaseDate": "2021-07-23T13:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1055974809,
+      "trackId": 1055974809,
+      "collectionName": "鲁鲁兔儿童广播剧（中文）",
+      "artistName": "听友28584122",
+      "feedUrl": "http://www.ximalaya.com/album/2716954.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%B2%81%E9%B2%81%E5%85%94%E5%84%BF%E7%AB%A5%E5%B9%BF%E6%92%AD%E5%89%A7-%E4%B8%AD%E6%96%87/id1055974809?uo=4",
+      "genres": [
+        "儿童与家庭",
+        "播客",
+        "教育",
+        "语言学习"
+      ],
+      "genreIds": [
+        "1305",
+        "26",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 55,
+      "releaseDate": "2016-05-22T14:58:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童与家庭"
+    },
+    {
+      "collectionId": 889557529,
+      "trackId": 889557529,
+      "collectionName": "御声嘲风广播剧社团",
+      "artistName": "御声嘲风广播剧社团",
+      "feedUrl": "http://rss.lizhi.fm/rss/302435.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%BE%A1%E5%A3%B0%E5%98%B2%E9%A3%8E%E5%B9%BF%E6%92%AD%E5%89%A7%E7%A4%BE%E5%9B%A2/id889557529?uo=4",
+      "genres": [
+        "艺术",
+        "播客"
+      ],
+      "genreIds": [
+        "1301",
+        "26"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2016-07-15T01:24:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 1444714071,
+      "trackId": 1444714071,
+      "collectionName": "【广播剧】布丁山",
+      "artistName": "小苗大树",
+      "feedUrl": "http://www.ximalaya.com/album/7521608.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B9%BF%E6%92%AD%E5%89%A7-%E5%B8%83%E4%B8%81%E5%B1%B1/id1444714071?uo=4",
+      "genres": [
+        "儿童与家庭",
+        "播客",
+        "政府"
+      ],
+      "genreIds": [
+        "1305",
+        "26",
+        "1511"
+      ],
+      "trackCount": 39,
+      "releaseDate": "2019-04-22T12:06:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童与家庭"
+    }
+  ]
+}

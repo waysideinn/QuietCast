@@ -1,0 +1,84 @@
+{
+  "show_id": "1551507736",
+  "feed_url": "https://anchor.fm/s/471b2af0/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/471b2af0/podcast/rss",
+    "final_url": "https://anchor.fm/s/471b2af0/podcast/rss",
+    "fetched_at": "2026-10-25T14:42:33.474514+00:00",
+    "status": 200,
+    "sha256": "dd579ceebdd0b282234aa9702cf6050dcc7ee9b50d50059c325f24cd586124d4"
+  },
+  "status": "ok",
+  "title": {
+    "text": "世も末ラジオ",
+    "truncated": false
+  },
+  "description": {
+    "text": "禅、仏教、歴史、人の営み。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 4,
+  "episodes": [
+    {
+      "id": "e0f48494abc91520a8755d29a5ae533b47054b12600e47d7acff0455912c84f5",
+      "guid": "c62b8101-640a-44f5-bb85-6437b0a42726",
+      "title": {
+        "text": "千利休と豊臣秀吉の「一輪の朝顔」の話",
+        "truncated": false
+      },
+      "description": {
+        "text": "千利休、好きすわ",
+        "truncated": false
+      },
+      "published_at": "Sat, 06 Feb 2021 22:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "367fb6291543036f1414905911a23f91dc4fa523da04359b7bd8fe3a65a85764",
+      "guid": "5a06c73c-0e7e-439b-9120-3a3d83746d4c",
+      "title": {
+        "text": "「知行合一」について",
+        "truncated": false
+      },
+      "description": {
+        "text": "言志四録から",
+        "truncated": false
+      },
+      "published_at": "Fri, 05 Feb 2021 22:30:54 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "6fe840e7165384959f4451fc48f21aaf39f51c540ddabcad5b81191c49dc2d0b",
+      "guid": "f53e4119-e6dc-4261-930a-10ad24d748e5",
+      "title": {
+        "text": "ただそしられるだけの人、ただほめられる人だけの人はいないという話",
+        "truncated": false
+      },
+      "description": {
+        "text": "岩波文庫 中村元先生翻訳 「ブッダの真理のことば・感興のことば」より",
+        "truncated": false
+      },
+      "published_at": "Sun, 31 Jan 2021 00:22:25 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "9adb36c83da71daf66e8eedff59cf11d26d990972b9bcc58a524c553cd8e44d8",
+      "guid": "e86e7be2-27d9-4b53-a9ce-efeb3b55c72c",
+      "title": {
+        "text": "「他人の過失を探し求め、つねに怒りたける人歯」",
+        "truncated": false
+      },
+      "description": {
+        "text": "岩波文庫 中村元先生翻訳 「ブッダの真理のことば・感興のことば」より",
+        "truncated": false
+      },
+      "published_at": "Sat, 30 Jan 2021 23:31:36 GMT",
+      "feed_index": 3
+    }
+  ]
+}

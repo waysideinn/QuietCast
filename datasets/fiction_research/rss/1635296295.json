@@ -1,0 +1,140 @@
+{
+  "show_id": "1635296295",
+  "feed_url": "https://feeds.soundon.fm/podcasts/ad143dd9-6f77-48cd-978a-26c3e7db261f.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/ad143dd9-6f77-48cd-978a-26c3e7db261f.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/ad143dd9-6f77-48cd-978a-26c3e7db261f.xml",
+    "fetched_at": "2026-10-25T14:44:38.174083+00:00",
+    "status": 200,
+    "sha256": "f7bba1e896c45874dd6ca5e2800a25600dc6686c6639a9e6b6e2d3f87e034ef2"
+  },
+  "status": "ok",
+  "title": {
+    "text": "穿越時空巴士 (第一季完結)",
+    "truncated": false
+  },
+  "description": {
+    "text": "第一季已完結，阿睿於英雄說書YT頻道更新內容，阿前持續於「史前文話」臉書粉專發表文章。 史前文話FB粉專 https://www.facebook.com/schainword 歡迎搭乘穿越時空巴士，由說書人阿睿與阿前為您服務。沿途可以欣賞由歷史、生活交織而成的風景，祝各位旅程愉快。 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 31,
+  "episodes": [
+    {
+      "id": "8a21b3f69a321af76ff3ef069d4e6a39c5ef97e1b497729465e687d9789730d6",
+      "guid": "37373826-4b16-4c7f-90eb-7c9b427f801f",
+      "title": {
+        "text": "巴士休息站到了，第一季完結老司機告白｜【穿越時空巴士】EP27",
+        "truncated": false
+      },
+      "description": {
+        "text": "感謝各位乘客搭乘第一季穿越時空巴士，我們未來會準備好全新內容再出發！ 🚌Podcast連結 Apple Podcast: https://reurl.cc/ERrVk1 SoundOn: https://sndn.link/MidnightBus Spotify: https://reurl.cc/MN0kdX Google Podcast: https://reurl.cc/dWW79z #穿越時空巴士 #第一季完結篇 #休息站 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Feb 2023 04:43:58 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "3517a21f80b31b4d9dc4ad1fb4d290b92aabcfa9a141fc6875c9e173893b10d3",
+      "guid": "22261611-cc81-41f2-aab4-3a6a3efd52f9",
+      "title": {
+        "text": "塞車免驚！故事提來作伴，老司機暢陪你話新年｜【穿越時空巴士】SP03",
+        "truncated": false
+      },
+      "description": {
+        "text": "穿越時空巴士發車啦，乘客下車前別忘了訂閱起來！ 🚌Youtube連結 https://www.youtube.com/@MidnightBusTW #史前文話 #旺兔順利 #英雄說書 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 24 Jan 2023 02:00:00 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "19cee307f057e93dd5c50e0c5901588a5203bbc57c04a3c049744d88b42be196",
+      "guid": "c789e364-97c3-4df8-92b8-ecbe8c5f7e48",
+      "title": {
+        "text": "人生沒有「不可能的任務」！天命之年阿湯哥打算再戰多久？未來會有AI幫忙跳傘嗎？｜【穿越時空巴士】EP19",
+        "truncated": false
+      },
+      "description": {
+        "text": "穿越時空巴士發車啦，乘客下車前別忘了訂閱起來！ ｜本日主題｜ P1. 終極不可能任務 P2. 陪我成長的動作片 P3. AI算圖的風波 🚌Podcast連結 Apple Podcast: https://reurl.cc/ERrVk1 SoundOn: https://sndn.link/MidnightBus Spotify: https://reurl.cc/MN0kdX Google Podcast: https://reurl.cc/dWW79z #湯姆克魯斯 #不可能的任務 #TomCruise -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Dec 2022 02:47:43 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "60464a9aed6db1d20ed57028a38a4c9aab730e521258aa50b8dde62ee366a830",
+      "guid": "991cfcfd-c987-4808-ab3f-249cd04f8675",
+      "title": {
+        "text": "世界盃開踢！來顆穿越時空的射門！被資本大槌敲打的推特用戶，會變成什麼形狀？｜【穿越時空巴士】EP15",
+        "truncated": false
+      },
+      "description": {
+        "text": "穿越時空巴士發車啦，乘客下車前別忘了訂閱起來！ ｜本日主題｜ P1. 一日球迷的小筆記 P2. 古代踢球改變人生 P3. 馬斯克會改變推特嗎 🚌Podcast連結 Apple Podcast: https://reurl.cc/ERrVk1 SoundOn: https://sndn.link/MidnightBus Spotify: https://reurl.cc/MN0kdX Google Podcast: https://reurl.cc/dWW79z #卡達世界盃 #fifa2022 #世足賽 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Nov 2022 02:11:10 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "396c7c129f1c17b184b11f0ea5f1e1d3841c91116e38ba7b7f1f7e62ba43e0ce",
+      "guid": "86c94d2b-0143-4d78-b690-030c0d09695b",
+      "title": {
+        "text": "中共二十大名場面！現任老大洗臉前任，扶胡錦濤出門在歷史上排第幾？｜【穿越時空巴士】EP11",
+        "truncated": false
+      },
+      "description": {
+        "text": "「盛世壁藏～唐代壁畫文化特展‧二部曲」巡迴第二站 10/26（三）～11/18（五）中國醫藥大學人文藝術中心，期待與您相見！ 活動官網： https://tdbh.hanwei-hanya.com 主辦單位臉書： https://www.facebook.com/hanyaculture 穿越時空巴士發車啦，乘客下車前別忘了訂閱起來！ ｜本日主題｜ P1. 攙胡事件 P2. 恩將仇報的羞辱 P3. 五筒真的會出現嗎 🚌Podcast連結 Apple Podcast: https://reurl.cc/ERrVk1 SoundOn: https://sndn.link/MidnightBus Spotify: https://reurl.cc/MN0kdX Google Podcast: https://reurl.cc/dWW79z #中共二十大 #習近平 #胡錦濤 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 28 Oct 2022 02:31:52 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "06555eac9c578ebf3b420e294868cceb2666142b05250ac95e61e63a6625f2f9",
+      "guid": "c1909ecc-d9c8-4748-9e1f-62e4454a9527",
+      "title": {
+        "text": "台日美破紀錄全壘打滿天飛！三國英雄接棒敲出夢想｜【穿越時空巴士】EP08",
+        "truncated": false
+      },
+      "description": {
+        "text": "穿越時空巴士發車啦，乘客下車前別忘了訂閱起來！ ｜本日主題｜ P1. 棒球員的一生充滿紀錄 P2. 三國也有開路先鋒三冠王 P3. 迷人的其實不是紀錄 🚌Podcast連結 Apple Podcast: https://reurl.cc/ERrVk1 SoundOn: https://sndn.link/MidnightBus Spotify: https://reurl.cc/MN0kdX Google Podcast: https://reurl.cc/dWW79z #村上宗隆 #aaronjudge #林智勝 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 07 Oct 2022 04:28:30 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "de77fba72163276d083c95883197981fb73a4d895e75d9a1f27c496e2eb1f630",
+      "guid": "ab5994a5-74ad-4182-932c-6d069812d9df",
+      "title": {
+        "text": "今年中秋約會提案，不烤肉了，去吃海鮮吧｜【穿越時空巴士】EP04",
+        "truncated": false
+      },
+      "description": {
+        "text": "穿越時空巴士發車啦，乘客下車前別忘了訂閱起來！ ｜本日主題｜ P1. 約會提案很重要嗎 P2. 台灣人的海鮮文化 P3. 海洋國家與大陸國家 🚌Podcast連結 Apple Podcast: https://reurl.cc/ERrVk1 SoundOn: https://sndn.link/MidnightBus Spotify: https://reurl.cc/MN0kdX Google Podcast: https://reurl.cc/dWW79z #直男 #楊丞琳 #中秋節 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Sep 2022 04:01:36 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "7bdbf54cf2d0e19196f3214e1cd02242d20da3a6c27cb398f8ecf9550a3ccb47",
+      "guid": "99c8c7ed-19c2-4a44-89aa-808f06c88009",
+      "title": {
+        "text": "【試播集完結篇】七月半一堆禁忌，穿越時空鬼話連篇！",
+        "truncated": false
+      },
+      "description": {
+        "text": "【穿越時空巴士】節目頻道即將發車，趕快訂閱起來 🚌 https://pse.is/4cjwcp ｜本日主題｜ P1. 鬼門開與七夕 P2. 中元與普渡 P3. 鬼話連篇 #說書人阿睿 #史前文話 #七月半 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 05 Aug 2022 09:09:14 GMT",
+      "feed_index": 30
+    }
+  ]
+}

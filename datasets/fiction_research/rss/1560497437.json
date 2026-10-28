@@ -1,0 +1,140 @@
+{
+  "show_id": "1560497437",
+  "feed_url": "https://feeds.soundon.fm/podcasts/25c79400-cbd2-46d9-bba7-08985f42c7af.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/25c79400-cbd2-46d9-bba7-08985f42c7af.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/25c79400-cbd2-46d9-bba7-08985f42c7af.xml",
+    "fetched_at": "2026-10-25T14:52:35.891105+00:00",
+    "status": 200,
+    "sha256": "b4adc9076a85b609b14a130497ebaa28efa90b322bd6a45a0e68612f1725fc76"
+  },
+  "status": "ok",
+  "title": {
+    "text": "影視蟲",
+    "truncated": false
+  },
+  "description": {
+    "text": "電影｜影集｜電視節目 我們是阿籃和和尚和ㄈㄩ，影視蟲這個頻道是我們分享影視作品心得的平台。 ——「每個人都有屬於自己獨到的見解，所以不要害怕分享自己的想法。」 就是在找同樣熱愛影視作品的你／妳。 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 226,
+  "episodes": [
+    {
+      "id": "90143797cf48038c0299b2990952b4def6294c736aa9fb0dbfac420685eb0f57",
+      "guid": "ac1794c7-60f2-42f0-b2c5-1fb577447b65",
+      "title": {
+        "text": "EP.212 盤點那些慘遭真人化的動漫",
+        "truncated": false
+      },
+      "description": {
+        "text": "👇👇歡迎贊助我們給我們鼓勵！我們會繼續努力製作更好的內容！ https://pay.soundon.fm/podcasts/25c79400-cbd2-46d9-bba7-08985f42c7af - 本集想跟大家聊聊： 重看《火影忍者》 《聰明鎮》少了些什麼 《航海王》真人版第二季成功要素 《幽游白書》真人版刪減內容恰當嗎？ 《進擊的巨人》真人版城牆直接給人蓋 《鋼之鍊金術師》動畫自創結局也很看 真人化Casting選角指導最重要 《驀然回首》真人版 奔跑畫面少了什麼？ 作品媒介的選擇 紙上的留白之美 歡迎搜尋IG：movieandtv_bug／FB：影視蟲 . 《影視蟲》是一個分享電影、影集還有電視節目心得的頻道，主持人就是我——阿籃，是個喜愛影視作品的人。也找了我的好朋友和尚和ㄈㄩ一起聊，希望能透過不一樣的生活經驗來聊聊影視作品。 未來將固定每週三更新，謝謝您的收聽！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 21 Oct 2026 00:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "98a29aad96f6e0787c3ca1ef3cbcdcb19191550fe20fc1b234d5a43e5adcb059",
+      "guid": "88ef47fd-dfab-488b-87a2-c6c56e897bfc",
+      "title": {
+        "text": "EP.180《怪奇物語》和霍金斯鎮共度的十年",
+        "truncated": false
+      },
+      "description": {
+        "text": "👇👇歡迎贊助我們給我們鼓勵！我們會繼續努力製作更好的內容！ https://pay.soundon.fm/podcasts/25c79400-cbd2-46d9-bba7-08985f42c7af - 本集想跟大家聊聊： 十年神劇的終章 結局滿意嗎？ Nancy真的超帥！ AI 眼中的角色戰力排行 Steve 與 Dustin 的動人情誼 Will情感壓抑以及成長曲線 親子關係的和解與信任 反派 Vecna 的動機？也許可以出外傳？ 我們更相信哪一個結局呢？ 時代的差異 《怪奇物語》創造了文化現象，具有時代意義 歡迎搜尋IG：movie_and_tv_bug／FB：影視蟲 《影視蟲》是一個分享電影、影集還有電視節目心得的頻道，主持人就是我——阿籃，是個喜愛影視作品的人。也找了我的好朋友和尚和ㄈㄩ一起聊，希望能透過不一樣的生活經驗來聊聊影視作品。 未來將固定每週三更新，謝謝您的收聽！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Jan 2026 00:00:00 GMT",
+      "feed_index": 32
+    },
+    {
+      "id": "2cbea8108cf336910a1417af597a2d483761807d161e27f2c73036bbad4d0cbf",
+      "guid": "acf16671-cc31-4da7-913e-194b6b098c8c",
+      "title": {
+        "text": "EP.155《母胎單身戀愛大作戰》愛情三十六計就像一場遊戲",
+        "truncated": false
+      },
+      "description": {
+        "text": "👇👇歡迎贊助我們給我們鼓勵！我們會繼續努力製作更好的內容！ https://pay.soundon.fm/podcasts/25c79400-cbd2-46d9-bba7-08985f42c7af 本集想跟大家聊聊： 和尚要盛裝打扮去約會了！ 身邊的母胎單身朋友 0跟1理論 你會追朋友嗎？ 為什麼廷穆變心變得這麼快 朋友愛上前任能真心祝福嗎？ 對阿籃跟和尚來說珉鴻會變成哥兒們 阿籃很暈汝明？ 躲到草叢的名場面 四個反應組的主持人很可愛 ㄈㄩ曾經一直被給早餐！？ 劇本感很低！其實我們很喜歡！ 迎搜尋IG：movie_and_tv_bug／FB：影視蟲 《影視蟲》是一個分享電影、影集還有電視節目心得的頻道，主持人就是我——阿籃，是個喜愛影視作品的人。也找了我的好朋友和尚和ㄈㄩ一起聊，希望能透過不一樣的生活經驗來聊聊影視作品。 未來將固定每週三更新，謝謝您的收聽！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 06 Aug 2025 00:00:00 GMT",
+      "feed_index": 64
+    },
+    {
+      "id": "723bb6af7cad1f8780099cd452da66e2fa13a61c457f467c4cce7725c4a49250",
+      "guid": "1015730e-660c-4b89-a949-2f27877c3fe0",
+      "title": {
+        "text": "EP.131 我們是影視蟲業人員",
+        "truncated": false
+      },
+      "description": {
+        "text": "👇👇歡迎贊助我們給我們鼓勵！我們會繼續努力製作更好的內容！ https://pay.soundon.fm/podcasts/25c79400-cbd2-46d9-bba7-08985f42c7af 本集想跟大家聊聊： 新年新希望！ 年度回顧！ 我們以及聽眾最喜歡的作品！ 聽眾們最愛集數！ 我們的感謝！ 歡迎搜尋IG：movie_and_tv_bug／FB：影視蟲 《影視蟲》是一個分享電影、影集還有電視節目心得的頻道，主持人就是我——阿籃，是個喜愛影視作品的社會新鮮人。也找了我的好朋友和尚一起聊，希望能透過不一樣的生活經驗來聊聊影視作品。 未來將固定每週三更新，謝謝您的收聽！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 01 Jan 2025 00:00:00 GMT",
+      "feed_index": 96
+    },
+    {
+      "id": "4c018139f1a5780d5de7940af6288c9a69a593973c05d3c8bc9c934639c16139",
+      "guid": "26881cb8-5777-42a9-9b25-15cecb9461cc",
+      "title": {
+        "text": "EP.97 《愛愛內含光》本集一定聊色...已經聊色...",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集想跟大家聊聊： 好久不見我們過年都在幹嘛 性愛題材的影視作品：性愛自修室、金魚妻、高校十八禁、正常人 為什麼很少看性愛題材的作品 我們對於性愛的這件事的理解 劇情簡介 最喜歡哪一段關係的故事 可惜之處在於想講的事太多 苗可麗的演出很精彩 性啟蒙？ 我們好像都是傾向沒辦法性跟愛分離的人 歡迎搜尋IG：movie_and_tv_bug／FB：影視蟲 《影視蟲》是一個分享電影、影集還有電視節目心得的頻道，主持人就是我——阿籃，是個喜愛影視作品的社會新鮮人。也找了我的好朋友和尚一起聊，希望能透過不一樣的生活經驗來聊聊影視作品。 未來將固定每週三更新，謝謝您的收聽！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 28 Feb 2024 00:00:00 GMT",
+      "feed_index": 129
+    },
+    {
+      "id": "43047ada1f4a8ac335b95a8c4269506d0b1ba471bf524e4c080be87ab14a3ba0",
+      "guid": "9ed5c210-0789-4c2d-bbe5-fe4a8b30b972",
+      "title": {
+        "text": "EP.65 《寄生上流》是一部沒有壞人的悲劇！「經典蟲現系列vol.1」",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集想跟大家聊聊： 1.我們曾經感受過「窮」嗎？ 2.經典三幕劇結構 3.淺顯易懂的社會分級 -逾越界線 -朴家->金家->前管家 -鏡頭語言 4.石頭的意象 -敏赫將石頭帶來金家勾起了基宇的慾望 -石頭其實是人造的？ -基宇如果死了，是被自己的慾望殺死，還是被貧窮殺死? 5.味道 -味道歧視 -基澤的殺機從何而來覺得臭就要殺掉嗎? 6.說謊 -謊言的脆弱，說一個謊言需要更多謊言 -延遲解決問題的時間 7.人生不要有計劃就不會失敗嗎?人生需要計畫嗎？ 8.錢不是萬能但沒錢是萬萬不能? 9.朴家是真的壞人嗎? 10.金家想要取巧的方式致富不行嗎? 11.金家名字用韓語唸：基有三個忠有一個——基三忠=寄生蟲 12.結尾的呈現方式真的太狠了 歡迎搜尋IG：movie_and_tv_bug／FB：影視蟲 《影視蟲》是一個分享電影、影集還有電視節目心得的頻道，主持人就是我——阿籃，是個喜愛影視作品的社會新鮮人。也找了我的好朋友和尚一起聊，希望能透過不一樣的生活經驗來聊聊影視作品。 未來將固定每週三更新，謝謝您的收聽！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 07 Jun 2023 00:00:00 GMT",
+      "feed_index": 161
+    },
+    {
+      "id": "cd1c3a2d352f7046d08bc54d4d77d93322d88c16086a4c1d59310858f20ba47a",
+      "guid": "a5e54d32-bae1-40d8-a943-c3df2ac455b0",
+      "title": {
+        "text": "EP.33 天氣熱就是要來點熱血的動畫！你做過什麼熱血的事情？=戲劇之於生活系列",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集想跟大家聊聊： 1.無知如我，不知道原來動漫=動畫+漫畫XD 2.你是動畫派還是漫畫派？這些漫畫的作者其實是分鏡大師！ 3.你也有不知道怎麼看漫畫的困擾嗎？到底要先上到下還是先左到右？XD 4.熱血動畫你看過那些？灌籃高手、火影忍者、飆速宅男…… 5.熱血動畫主角的特色：一開始不被看好、比別人更努力、大多都會有口號…… 6.和尚騎腳踏車環島/我認真讀書想考好成績，分別是我們做過最熱血的事！ 歡迎搜尋IG：movie_and_tv_bug 《影視蟲》是一個分享電影、影集還有電視節目心得的頻道，主持人就是我——阿籃，是個喜愛影視作品的社會新鮮人。也找了我的好朋友和尚一起聊，希望能帶給聽眾更不一樣的生活經驗和觀點。 未來將固定每週三更新，謝謝您的收聽！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 07 Sep 2022 12:00:00 GMT",
+      "feed_index": 193
+    },
+    {
+      "id": "ebfaf1b830b529f6bc798c851e47d2861787d8795696cdee01d329cb8f7d9e57",
+      "guid": "d9ecece6-0a66-44a4-937f-bc624297ecfb",
+      "title": {
+        "text": "EP1. 不看到最後，結局你猜得到嗎？《三人要守密，兩人得死去》長時間位居Netflix臺灣排行榜前十名的原因！",
+        "truncated": false
+      },
+      "description": {
+        "text": "《三人要守密，兩人得死去》有雷的心得分享 1.為什麼造成這麼大的迴響？ 2.推理類型劇或電影的敘事手法。 3.影集中的精彩反轉。 想問問你們： a.你能夠接受「三人要守密，兩人得死去」的鋪陳手法嗎？ 為什麼呢？ b.你有控制自己的夢境過嗎？ 可以教教我嗎？ 《影視蟲》是一個分享電影、影集還有電視節目心得的頻道，主持人就是我——阿籃，是個喜愛影視作品的社會新鮮人。 未來將不定期更新，謝謝您的收聽！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 27 Mar 2021 16:14:32 GMT",
+      "feed_index": 225
+    }
+  ]
+}

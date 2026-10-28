@@ -1,0 +1,70 @@
+{
+  "show_id": "1489176388",
+  "feed_url": "https://anchor.fm/s/108e208c/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/108e208c/podcast/rss",
+    "final_url": "https://anchor.fm/s/108e208c/podcast/rss",
+    "fetched_at": "2026-10-25T14:49:27.092273+00:00",
+    "status": 200,
+    "sha256": "e6f1787b33ad72cf26650a364358ee1e080d594e1128866c65d02fa69835ccbd"
+  },
+  "status": "ok",
+  "title": {
+    "text": "經典101 說給孩子聽的有聲書",
+    "truncated": false
+  },
+  "description": {
+    "text": "聲音是真實、有溫度的，耳朵與聲音正是我們學習了解世界的第一步。 而孩子總是先透過聽、學習說話，再慢慢學認字， 我們相信，將沈重的經典化為輕巧的故事，說給孩子聽， 將是引導孩子學會享受閱讀樂趣的開始。 「在孩子踏入小學第一天，送給他一份值得一生回味的經典」 以世界經典名著為讀本，透過耳讀，引導孩子進入閱讀世界 透過貼近生活的語言， 提升孩子的人文性、思想性，學會思考，學會分析 最終提升孩童的語文聆聽與表達能力 因為，透過閱讀經典，可以讓孩子站在巨人的肩膀看世界。 因為，以耳讀引導閱讀，將拉近孩子與經典的距離。 所以，請陪孩子一起聽讀， 用聲音與陪伴，為孩子架起一座通往人類智慧結晶的橋樑。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 3,
+  "episodes": [
+    {
+      "id": "0e18cfff12287a3f79f0d46aebece17a2482c7c9a0f50a68145bb5c9ab33bdd7",
+      "guid": "55400d66-3f5f-9328-81ee-cd79a8b162ac",
+      "title": {
+        "text": "經典101 - 童話中的真實與勇氣 -皇帝與夜鶯",
+        "truncated": false
+      },
+      "description": {
+        "text": "這是一個發生在古老的故事........當時的皇帝住在一座用最精緻的瓷磚蓋成的宮殿裏，宮殿的御花園裏種了許多珍奇的花朵，每一朵上面都掛著一個銀鈴，只要稍微有風吹過，銀鈴就會發出叮叮的聲響，從花朵前經過的人，都忍不住停下來欣賞",
+        "truncated": false
+      },
+      "published_at": "Mon, 18 Nov 2019 06:21:17 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "a773e37c8f2c83988bdf1d337fbe847afe06d2ce03614f79d2201c582472b934",
+      "guid": "351385cc-9b48-bf06-772c-777569b87a4f",
+      "title": {
+        "text": "經典101-童話中的真實與勇氣-小錫兵",
+        "truncated": false
+      },
+      "description": {
+        "text": "描述原本一心想上戰場當英雄的獨腳小錫兵，因愛上美麗的芭蕾舞女孩，遭到發條機器人的報復，從窗臺上跌落至人行道，被小男孩放上紙船，在黑暗的下水道裡遇到張牙舞爪的老鼠，但小錫兵不害怕，也不放棄希望，繼續向前航行，直到小船慢慢往下沉，小錫兵成了魚兒的大餐……",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Nov 2019 22:43:37 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "2e1fd1135090462a843c7bda01be91f968757fce19dbe33212b98790ff1bdb6f",
+      "guid": "32e32ec2-60ff-a331-b62c-1fbabc1748c7",
+      "title": {
+        "text": "經典101-童話中的真實與勇氣",
+        "truncated": false
+      },
+      "description": {
+        "text": "說給孩子聽的世界文學名著 系列一：童話故事中的真實與勇氣 八個經典童話故事，讓孩子在故事中聽出勇氣與智慧",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Nov 2019 16:36:00 GMT",
+      "feed_index": 2
+    }
+  ]
+}

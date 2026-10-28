@@ -1,0 +1,140 @@
+{
+  "show_id": "1548408231",
+  "feed_url": "https://feeds.soundon.fm/podcasts/b124149b-99ed-4963-9e6b-bd3bd31d3d2f.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/b124149b-99ed-4963-9e6b-bd3bd31d3d2f.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/b124149b-99ed-4963-9e6b-bd3bd31d3d2f.xml",
+    "fetched_at": "2026-10-25T14:42:29.928915+00:00",
+    "status": 200,
+    "sha256": "ef36ec6a043042e424e4fd716aceca11cde1c37df5bda3944607de38e9ef87cf"
+  },
+  "status": "ok",
+  "title": {
+    "text": "943人聲小劇場",
+    "truncated": false
+  },
+  "description": {
+    "text": "高雄廣播電臺設有AM1089、 FM94.3兩個頻道，AM1089kHz成立於民國71年6月28日，FM94.3MHz於民國80年開播，發射範圍涵蓋恆春半島至嘉南平原，包括高雄市、臺南市及屏東縣，是南臺灣公共服務資訊專業電臺。 節目名稱:943人聲小劇場 主持人:漢軒 《人聲小劇場》將帶著大家走進表演藝術獨特的表演場域，或許是一段旋律、一部演出、一段來自人生的縮影，這座劇場中，將透過「人聲」，詮釋劇本、繪出繽紛、揚出樂音、舞出亮麗。來吧，一起領略其中的雅緻與獨特吧！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 104,
+  "episodes": [
+    {
+      "id": "0bbd3f95f0d99cebc1393a78d06cd30e085b27fcbf82a53463c8456592a61506",
+      "guid": "a4e6d87c-2ab5-4e7b-809a-2d2c8fa54877",
+      "title": {
+        "text": "943人聲小劇場1111225",
+        "truncated": false
+      },
+      "description": {
+        "text": "主題：生活與劇場的現實與荒謬 今日來賓：丹尼老師 誰說劇場一定都要是固定的形式呢？如果在生活中處處充滿驚喜的出現表演，從童話般上生活的趣味，從寓言翻轉故事到你我身邊，會不會變得格外有意思？讓我們一起來聽聽丹尼老師怎麼變化出生活中的現實與荒謬吧！",
+        "truncated": false
+      },
+      "published_at": "Fri, 30 Dec 2022 08:36:04 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "42b601d1f7074daf7b470385d6e0e35027a081ca54edd7b0614efda2500e448f",
+      "guid": "1fda07e7-30ea-419f-b3f6-370fdb680b76",
+      "title": {
+        "text": "943人聲小劇場1110911",
+        "truncated": false
+      },
+      "description": {
+        "text": "主題：「好說、好說、好好說」30分鐘好聲音速成教室（第三回） 好玩有趣的說話練習，要來到第三回合囉！更多實際的練習與運用，再加上廣播劇的精采呈現，會不會讓大家更能用聲音營造出不同的氛圍，還能感受更多說故事的美好，好說、好說、好好說第三回合，來囉！",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Sep 2022 01:12:20 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "680eb541f205392a7e0e8b68d3b968f57370193079bdd1c7a9ad59c508575a48",
+      "guid": "f7c193c4-83cd-4b8e-b133-b514df881dc5",
+      "title": {
+        "text": "943人聲小劇場1110605",
+        "truncated": false
+      },
+      "description": {
+        "text": "從媽媽肚子裡就開始接觸表演，是什麼樣的期待呢？ 媽媽可以在職場陪著孩子長大，是什麼樣的感覺呢？ 為大家邀請到康琳和天天，兩位是母子也是夥伴的表演工作者，一起在這集節目中分享生活即是舞台的相處之道。",
+        "truncated": false
+      },
+      "published_at": "Tue, 07 Jun 2022 08:03:21 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "06d86c5ef8517e67558c450d7e4b239321a703df82da3ca10f39a0602f41770a",
+      "guid": "37277ef3-70a1-43f0-b9f3-a228c6a2db8c",
+      "title": {
+        "text": "943人聲小劇場1110220",
+        "truncated": false
+      },
+      "description": {
+        "text": "主題：創造東方舞蹈的極致之美！ 來賓：創舞極致 郭盈伶 老師 對於東方舞蹈的美，總是有一層神秘的面紗，如何讓歷史悠久、美麗動人的舞蹈在台灣地區推廣，甚至走出國際屢屢奪冠為台爭光，實在是相當不容易的一段路程，請讓我們一起聆聽郭盈伶老師為我們說出東方舞蹈的極致之美。",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Feb 2022 01:55:30 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "981c5ea90fcfd1f312acdbb4baf1fa458cc75dc2542e78fa01a4eff862aa5f1e",
+      "guid": "1602e398-a358-4687-b0b3-fc8c51cf2ae3",
+      "title": {
+        "text": "943人聲小劇場1101106",
+        "truncated": false
+      },
+      "description": {
+        "text": "主題：跨蝦米藝術節要跨蝦米？！ 來賓：策展人 林喚玲、張翠芸 已經舉辦3年的跨蝦米藝術節，從鳳山的鄰居出發，串連起社區與城市間的藝文連結，每次都帶給參與的觀眾滿滿的跨領域藝術饗宴，今年更累積豐沛的能量，將再次以藝術將生活與美好相遇。",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 Nov 2021 00:19:15 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "2d9002476911139bb3e69124f10adc834ff9b5906f0b07c9298f8d8b5dc4a6b9",
+      "guid": "8cf28251-ca9b-49e1-8859-5afd5000f961",
+      "title": {
+        "text": "943人聲小劇場1100724",
+        "truncated": false
+      },
+      "description": {
+        "text": "來賓：響座劇場 黃琦勝團長 從想做劇場到響座劇場。 從事劇場工作不容易，要堅持下去更不簡單，是什麼樣的故事，讓響座劇場的黃琦勝團長在心裡埋下一顆種子，讓想做成為了響座？又如何在這樣的環境中生存，不單只是想做呢？一起來聽聽。 本集沒有使用歌曲",
+        "truncated": false
+      },
+      "published_at": "Mon, 02 Aug 2021 00:43:54 GMT",
+      "feed_index": 74
+    },
+    {
+      "id": "22a410dc6d25ac5af1598f735f314c6c82f05b1359b696ab74f7fcc8be25070a",
+      "guid": "e91abe1b-f7b5-4002-ad95-74e0d6616027",
+      "title": {
+        "text": "943人聲小劇場1100417",
+        "truncated": false
+      },
+      "description": {
+        "text": "來賓：表演工作者 林首綻、周洪于婷、比爾 當身份的認同與找尋，包裝在一段看似預言傳說的故事中，沒有嚴肅的話語，褪去世俗的眼光，透過夥伴們的努力，才能成就一齣完整的製作。這一集的節目中，夥伴們用表演凝聚在一起，用火炬般的熱情讓一切發光發亮，更在節目中一起讀出新作，期盼能讓更多人感受到作品與生活的美好。",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Apr 2021 05:30:09 GMT",
+      "feed_index": 88
+    },
+    {
+      "id": "4ac0d297677a1da4aeebbffeda57f3f789650b376a0d79dd9e5d326eb785131a",
+      "guid": "4217e30a-cae8-4438-ae2d-66dc4ad38ab6",
+      "title": {
+        "text": "943人聲小劇場1100102",
+        "truncated": false
+      },
+      "description": {
+        "text": "人聲小劇場第一次的粉墨登場，將透過劇場導演漢軒的生活故事，用笑淚交織的真實模樣與聽眾一同分享，讓每個聽眾夥伴都發現，世界就是座劇場，你的人生一定比戲更臻精采。",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Jan 2021 02:34:39 GMT",
+      "feed_index": 103
+    }
+  ]
+}

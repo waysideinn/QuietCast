@@ -1,0 +1,1299 @@
+{
+  "group": "normal",
+  "term": "艺术",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:44:45.131611+00:00",
+    "status": 200,
+    "sha256": "00bef12bf671b7aa98ade25ad6882aa4416fdcb400e69911c16847780068ae29"
+  },
+  "result_count": 55,
+  "records": [
+    {
+      "collectionId": 1504245190,
+      "trackId": 1504245190,
+      "collectionName": "艺术叨叨",
+      "artistName": "Monie & Lanyi",
+      "feedUrl": "https://feed.xyzfm.space/uh4c8lad9j3l",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%89%BA%E6%9C%AF%E5%8F%A8%E5%8F%A8/id1504245190?uo=4",
+      "genres": [
+        "艺术",
+        "播客"
+      ],
+      "genreIds": [
+        "1301",
+        "26"
+      ],
+      "trackCount": 73,
+      "releaseDate": "2026-03-24T13:41:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 1453665361,
+      "trackId": 1453665361,
+      "collectionName": "一听就懂的中国艺术史",
+      "artistName": "祝唯庸",
+      "feedUrl": "http://www.ximalaya.com/album/21422452.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%80%E5%90%AC%E5%B0%B1%E6%87%82%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%89%BA%E6%9C%AF%E5%8F%B2/id1453665361?uo=4",
+      "genres": [
+        "视觉艺术",
+        "播客",
+        "艺术",
+        "宗教与心灵",
+        "灵修"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301",
+        "1314",
+        "1444"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2019-02-20T08:51:00Z",
+      "country": "CHN",
+      "primaryGenreName": "视觉艺术"
+    },
+    {
+      "collectionId": 1615189442,
+      "trackId": 1615189442,
+      "collectionName": "不谈艺术",
+      "artistName": "不谈艺术",
+      "feedUrl": "https://feed.xyzfm.space/p4kkb7c4h9gk",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%8D%E8%B0%88%E8%89%BA%E6%9C%AF/id1615189442?uo=4",
+      "genres": [
+        "艺术",
+        "播客"
+      ],
+      "genreIds": [
+        "1301",
+        "26"
+      ],
+      "trackCount": 11,
+      "releaseDate": "2025-04-03T07:39:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 1567911919,
+      "trackId": 1567911919,
+      "collectionName": "陈丹青私人艺术讲稿|高分纪录片《局部》内容全收录",
+      "artistName": "棠溪美学",
+      "feedUrl": "http://www.ximalaya.com/album/46569794.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%99%88%E4%B8%B9%E9%9D%92%E7%A7%81%E4%BA%BA%E8%89%BA%E6%9C%AF%E8%AE%B2%E7%A8%BF-%E9%AB%98%E5%88%86%E7%BA%AA%E5%BD%95%E7%89%87-%E5%B1%80%E9%83%A8-%E5%86%85%E5%AE%B9%E5%85%A8%E6%94%B6%E5%BD%95/id1567911919?uo=4",
+      "genres": [
+        "个人日记",
+        "播客",
+        "社会与文化",
+        "艺术",
+        "时尚美容"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1301",
+        "1459"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2025-11-25T08:04:00Z",
+      "country": "CHN",
+      "primaryGenreName": "个人日记"
+    },
+    {
+      "collectionId": 1342040716,
+      "trackId": 1342040716,
+      "collectionName": "艺术有读",
+      "artistName": "artispoison",
+      "feedUrl": "https://feeds.acast.com/public/shows/618ae0957929510012e11e6a",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%89%BA%E6%9C%AF%E6%9C%89%E8%AF%BB/id1342040716?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "视觉艺术"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1406"
+      ],
+      "trackCount": 119,
+      "releaseDate": "2026-05-27T20:25:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1684665443,
+      "trackId": 1684665443,
+      "collectionName": "Artisle艺术岛屿",
+      "artistName": "artisle",
+      "feedUrl": "https://feed.xyzfm.space/ynvxu4atl6ka",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/artisle%E8%89%BA%E6%9C%AF%E5%B2%9B%E5%B1%BF/id1684665443?uo=4",
+      "genres": [
+        "艺术",
+        "播客"
+      ],
+      "genreIds": [
+        "1301",
+        "26"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2024-09-25T04:03:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 1824163642,
+      "trackId": 1824163642,
+      "collectionName": "艺术史 不枯燥",
+      "artistName": "潘薿Panni",
+      "feedUrl": "https://www.ximalaya.com/album/95662438.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%89%BA%E6%9C%AF%E5%8F%B2-%E4%B8%8D%E6%9E%AF%E7%87%A5/id1824163642?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "历史"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1487"
+      ],
+      "trackCount": 54,
+      "releaseDate": "2026-10-19T08:53:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1101566191,
+      "trackId": 1101566191,
+      "collectionName": "艺术很难吗",
+      "artistName": "意公子",
+      "feedUrl": "http://www.ximalaya.com/album/3013987.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%89%BA%E6%9C%AF%E5%BE%88%E9%9A%BE%E5%90%97/id1101566191?uo=4",
+      "genres": [
+        "视觉艺术",
+        "播客",
+        "艺术",
+        "社会与文化"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301",
+        "1324"
+      ],
+      "trackCount": 65,
+      "releaseDate": "2020-12-31T10:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "视觉艺术"
+    },
+    {
+      "collectionId": 1440710576,
+      "trackId": 1440710576,
+      "collectionName": "八卦艺术圈",
+      "artistName": "典藏ARTCO",
+      "feedUrl": "http://www.ximalaya.com/album/18317884.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%AB%E5%8D%A6%E8%89%BA%E6%9C%AF%E5%9C%88/id1440710576?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客",
+        "历史"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1487"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2019-06-26T13:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1450399086,
+      "trackId": 1450399086,
+      "collectionName": "不正经的艺术",
+      "artistName": "郭晓川_4f",
+      "feedUrl": "http://www.ximalaya.com/album/18566744.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%8D%E6%AD%A3%E7%BB%8F%E7%9A%84%E8%89%BA%E6%9C%AF/id1450399086?uo=4",
+      "genres": [
+        "视觉艺术",
+        "播客",
+        "艺术",
+        "社会与文化",
+        "个人日记"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 41,
+      "releaseDate": "2026-02-01T17:54:00Z",
+      "country": "CHN",
+      "primaryGenreName": "视觉艺术"
+    },
+    {
+      "collectionId": 1754069044,
+      "trackId": 1754069044,
+      "collectionName": "一期艺聊",
+      "artistName": "艺术学考研站台",
+      "feedUrl": "https://feed.xyzfm.space/rbucvurwtbwf",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%80%E6%9C%9F%E8%89%BA%E8%81%8A/id1754069044?uo=4",
+      "genres": [
+        "教育",
+        "播客",
+        "艺术"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1301"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2025-03-07T12:43:00Z",
+      "country": "CHN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1600014549,
+      "trackId": 1600014549,
+      "collectionName": "艺术家讨论 Artist Talk",
+      "artistName": "工作室画廊",
+      "feedUrl": "http://www.ximalaya.com/album/38722683.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%89%BA%E6%9C%AF%E5%AE%B6%E8%AE%A8%E8%AE%BA-artist-talk/id1600014549?uo=4",
+      "genres": [
+        "视觉艺术",
+        "播客",
+        "艺术"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2021-12-11T04:53:00Z",
+      "country": "CHN",
+      "primaryGenreName": "视觉艺术"
+    },
+    {
+      "collectionId": 1694270738,
+      "trackId": 1694270738,
+      "collectionName": "对立之美|聊着聊着就听完了500年西方艺术史",
+      "artistName": "给小白白的有声书",
+      "feedUrl": "https://www.ximalaya.com/album/75613596.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%AF%B9%E7%AB%8B%E4%B9%8B%E7%BE%8E-%E8%81%8A%E7%9D%80%E8%81%8A%E7%9D%80%E5%B0%B1%E5%90%AC%E5%AE%8C%E4%BA%86500%E5%B9%B4%E8%A5%BF%E6%96%B9%E8%89%BA%E6%9C%AF%E5%8F%B2/id1694270738?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "艺术",
+        "视觉艺术"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1301",
+        "1406"
+      ],
+      "trackCount": 70,
+      "releaseDate": "2023-07-02T03:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1438867843,
+      "trackId": 1438867843,
+      "collectionName": "手机美术馆",
+      "artistName": "老吴艺术笔记",
+      "feedUrl": "http://www.ximalaya.com/album/4695760.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%89%8B%E6%9C%BA%E7%BE%8E%E6%9C%AF%E9%A6%86/id1438867843?uo=4",
+      "genres": [
+        "视觉艺术",
+        "播客",
+        "艺术",
+        "社会与文化",
+        "旅行与地方文化"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301",
+        "1324",
+        "1320"
+      ],
+      "trackCount": 97,
+      "releaseDate": "2026-02-05T12:35:00Z",
+      "country": "CHN",
+      "primaryGenreName": "视觉艺术"
+    },
+    {
+      "collectionId": 1578628179,
+      "trackId": 1578628179,
+      "collectionName": "11个艺术策展人的硬核故事",
+      "artistName": "哥哥有魔力",
+      "feedUrl": "http://www.ximalaya.com/album/34767808.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/11%E4%B8%AA%E8%89%BA%E6%9C%AF%E7%AD%96%E5%B1%95%E4%BA%BA%E7%9A%84%E7%A1%AC%E6%A0%B8%E6%95%85%E4%BA%8B/id1578628179?uo=4",
+      "genres": [
+        "视觉艺术",
+        "播客",
+        "艺术",
+        "商务",
+        "创业"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301",
+        "1321",
+        "1493"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2020-07-08T07:33:00Z",
+      "country": "CHN",
+      "primaryGenreName": "视觉艺术"
+    },
+    {
+      "collectionId": 1534813376,
+      "trackId": 1534813376,
+      "collectionName": "画中有话",
+      "artistName": "ARTsOUT艺术出圈",
+      "feedUrl": "http://www.ximalaya.com/album/42446390.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%94%BB%E4%B8%AD%E6%9C%89%E8%AF%9D/id1534813376?uo=4",
+      "genres": [
+        "视觉艺术",
+        "播客",
+        "艺术",
+        "教育",
+        "实用知识"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2021-11-15T03:11:00Z",
+      "country": "CHN",
+      "primaryGenreName": "视觉艺术"
+    },
+    {
+      "collectionId": 1757791278,
+      "trackId": 1757791278,
+      "collectionName": "跟着艺术去旅行",
+      "artistName": "三联中读",
+      "feedUrl": "https://feed.xyzfm.space/j3c6cwaamcd8",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%B7%9F%E7%9D%80%E8%89%BA%E6%9C%AF%E5%8E%BB%E6%97%85%E8%A1%8C/id1757791278?uo=4",
+      "genres": [
+        "休闲",
+        "播客"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 44,
+      "releaseDate": "2026-07-24T23:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "休闲"
+    },
+    {
+      "collectionId": 1753469688,
+      "trackId": 1753469688,
+      "collectionName": "艺术那些事儿：100个故事里的艺术史",
+      "artistName": "张晴壹_张君",
+      "feedUrl": "https://www.ximalaya.com/album/12420554.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%89%BA%E6%9C%AF%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF-100%E4%B8%AA%E6%95%85%E4%BA%8B%E9%87%8C%E7%9A%84%E8%89%BA%E6%9C%AF%E5%8F%B2/id1753469688?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "教育",
+        "课程"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1304",
+        "1501"
+      ],
+      "trackCount": 120,
+      "releaseDate": "2026-08-22T13:13:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1518688349,
+      "trackId": 1518688349,
+      "collectionName": "ARTsOUT | 艺术出圈",
+      "artistName": "ARTsOUT艺术出圈",
+      "feedUrl": "http://www.ximalaya.com/album/38955006.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/artsout-%E8%89%BA%E6%9C%AF%E5%87%BA%E5%9C%88/id1518688349?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "教育",
+        "课程"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1304",
+        "1501"
+      ],
+      "trackCount": 75,
+      "releaseDate": "2025-06-02T23:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1629215788,
+      "trackId": 1629215788,
+      "collectionName": "艺术七妖妖",
+      "artistName": "艺术七妖妖",
+      "feedUrl": "https://feed.xyzfm.space/cna7uq4rreun",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%89%BA%E6%9C%AF%E4%B8%83%E5%A6%96%E5%A6%96/id1629215788?uo=4",
+      "genres": [
+        "艺术",
+        "播客",
+        "休闲"
+      ],
+      "genreIds": [
+        "1301",
+        "26",
+        "1502"
+      ],
+      "trackCount": 50,
+      "releaseDate": "2026-02-18T14:06:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 1645813355,
+      "trackId": 1645813355,
+      "collectionName": "艺术折叠",
+      "artistName": "祝羽捷",
+      "feedUrl": "https://api.vistopia.com.cn/rss/program/292.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%89%BA%E6%9C%AF%E6%8A%98%E5%8F%A0/id1645813355?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2024-06-17T07:59:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1560926063,
+      "trackId": 1560926063,
+      "collectionName": "ArtConnect艺术之间",
+      "artistName": "ArtConnect艺术之间",
+      "feedUrl": "http://www.ximalaya.com/album/46987813.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/artconnect%E8%89%BA%E6%9C%AF%E4%B9%8B%E9%97%B4/id1560926063?uo=4",
+      "genres": [
+        "视觉艺术",
+        "播客",
+        "艺术"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2022-12-30T03:41:00Z",
+      "country": "CHN",
+      "primaryGenreName": "视觉艺术"
+    },
+    {
+      "collectionId": 1755133172,
+      "trackId": 1755133172,
+      "collectionName": "弗朗的艺术概论话题",
+      "artistName": "艺术学考研站台",
+      "feedUrl": "https://feed.xyzfm.space/ayj939c99g6q",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%BC%97%E6%9C%97%E7%9A%84%E8%89%BA%E6%9C%AF%E6%A6%82%E8%AE%BA%E8%AF%9D%E9%A2%98/id1755133172?uo=4",
+      "genres": [
+        "艺术",
+        "播客",
+        "教育"
+      ],
+      "genreIds": [
+        "1301",
+        "26",
+        "1304"
+      ],
+      "trackCount": 26,
+      "releaseDate": "2026-04-12T12:02:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 958028053,
+      "trackId": 958028053,
+      "collectionName": "上海话剧艺术中心",
+      "artistName": "上海话剧艺术中心",
+      "feedUrl": "http://rss.lizhi.fm/rss/614339.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%8A%E6%B5%B7%E8%AF%9D%E5%89%A7%E8%89%BA%E6%9C%AF%E4%B8%AD%E5%BF%83/id958028053?uo=4",
+      "genres": [
+        "艺术",
+        "播客"
+      ],
+      "genreIds": [
+        "1301",
+        "26"
+      ],
+      "trackCount": 139,
+      "releaseDate": "2020-11-07T11:42:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 1580240316,
+      "trackId": 1580240316,
+      "collectionName": "深度睡眠|解压|冥想|疗愈养生|艺术疗愈|白噪音|助眠音乐|轻音乐|苏阳阳频道",
+      "artistName": "yangyangSu",
+      "feedUrl": "http://www.ximalaya.com/album/4689663.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%B7%B1%E5%BA%A6%E7%9D%A1%E7%9C%A0-%E8%A7%A3%E5%8E%8B-%E5%86%A5%E6%83%B3-%E7%96%97%E6%84%88%E5%85%BB%E7%94%9F-%E8%89%BA%E6%9C%AF%E7%96%97%E6%84%88-%E7%99%BD%E5%99%AA%E9%9F%B3-%E5%8A%A9%E7%9C%A0%E9%9F%B3%E4%B9%90-%E8%BD%BB%E9%9F%B3%E4%B9%90-%E8%8B%8F%E9%98%B3%E9%98%B3%E9%A2%91%E9%81%93/id1580240316?uo=4",
+      "genres": [
+        "音乐赏析",
+        "播客",
+        "音乐",
+        "宗教与心灵",
+        "灵修"
+      ],
+      "genreIds": [
+        "1523",
+        "26",
+        "1310",
+        "1314",
+        "1444"
+      ],
+      "trackCount": 985,
+      "releaseDate": "2026-10-19T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "音乐赏析"
+    },
+    {
+      "collectionId": 1156526309,
+      "trackId": 1156526309,
+      "collectionName": "西方艺术故事",
+      "artistName": "听友58759166",
+      "feedUrl": "http://www.ximalaya.com/album/5195135.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%96%B9%E8%89%BA%E6%9C%AF%E6%95%85%E4%BA%8B/id1156526309?uo=4",
+      "genres": [
+        "艺术",
+        "播客",
+        "商务"
+      ],
+      "genreIds": [
+        "1301",
+        "26",
+        "1321"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2016-09-30T14:57:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 1711938490,
+      "trackId": 1711938490,
+      "collectionName": "艺术设计概论 李砚祖",
+      "artistName": "洗衣机里的卷纸_",
+      "feedUrl": "https://www.ximalaya.com/album/78633433.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1%E6%A6%82%E8%AE%BA-%E6%9D%8E%E7%A0%9A%E7%A5%96/id1711938490?uo=4",
+      "genres": [
+        "课程",
+        "播客",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 31,
+      "releaseDate": "2024-03-22T12:45:00Z",
+      "country": "CHN",
+      "primaryGenreName": "课程"
+    },
+    {
+      "collectionId": 1608291721,
+      "trackId": 1608291721,
+      "collectionName": "吕氏春秋|左传|2天学完|古代管理的艺术、说服艺术",
+      "artistName": "不够言笑",
+      "feedUrl": "http://www.ximalaya.com/album/56646396.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%90%95%E6%B0%8F%E6%98%A5%E7%A7%8B-%E5%B7%A6%E4%BC%A0-2%E5%A4%A9%E5%AD%A6%E5%AE%8C-%E5%8F%A4%E4%BB%A3%E7%AE%A1%E7%90%86%E7%9A%84%E8%89%BA%E6%9C%AF-%E8%AF%B4%E6%9C%8D%E8%89%BA%E6%9C%AF/id1608291721?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "宗教与心灵",
+        "灵修"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1314",
+        "1444"
+      ],
+      "trackCount": 43,
+      "releaseDate": "2022-03-13T13:53:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1687459598,
+      "trackId": 1687459598,
+      "collectionName": "艺术范儿",
+      "artistName": "艺术范儿",
+      "feedUrl": "https://feed.xyzfm.space/chhucdtfnnpj",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%89%BA%E6%9C%AF%E8%8C%83%E5%84%BF/id1687459598?uo=4",
+      "genres": [
+        "艺术",
+        "播客"
+      ],
+      "genreIds": [
+        "1301",
+        "26"
+      ],
+      "trackCount": 36,
+      "releaseDate": "2025-01-17T08:41:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 1571852415,
+      "trackId": 1571852415,
+      "collectionName": "闲弹时光 艺术播客",
+      "artistName": "闲弹时光艺术播客",
+      "feedUrl": "http://www.ximalaya.com/album/50169978.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%97%B2%E5%BC%B9%E6%97%B6%E5%85%89-%E8%89%BA%E6%9C%AF%E6%92%AD%E5%AE%A2/id1571852415?uo=4",
+      "genres": [
+        "视觉艺术",
+        "播客",
+        "艺术",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 252,
+      "releaseDate": "2026-08-30T08:16:00Z",
+      "country": "CHN",
+      "primaryGenreName": "视觉艺术"
+    },
+    {
+      "collectionId": 1267160367,
+      "trackId": 1267160367,
+      "collectionName": "艺术留学那些事",
+      "artistName": "MoreART艺诺艺术留学",
+      "feedUrl": "http://www.ximalaya.com/album/9583639.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%89%BA%E6%9C%AF%E7%95%99%E5%AD%A6%E9%82%A3%E4%BA%9B%E4%BA%8B/id1267160367?uo=4",
+      "genres": [
+        "教育",
+        "播客",
+        "艺术",
+        "设计"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1301",
+        "1402"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2017-11-22T02:32:00Z",
+      "country": "CHN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1477744927,
+      "trackId": 1477744927,
+      "collectionName": "中传mfa｜艺术学概论考点串讲",
+      "artistName": "一战三跨的小懵懂",
+      "feedUrl": "http://www.ximalaya.com/album/11049586.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%AD%E4%BC%A0mfa-%E8%89%BA%E6%9C%AF%E5%AD%A6%E6%A6%82%E8%AE%BA%E8%80%83%E7%82%B9%E4%B8%B2%E8%AE%B2/id1477744927?uo=4",
+      "genres": [
+        "课程",
+        "播客",
+        "教育",
+        "艺术",
+        "视觉艺术"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1301",
+        "1406"
+      ],
+      "trackCount": 243,
+      "releaseDate": "2018-09-27T08:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "课程"
+    },
+    {
+      "collectionId": 1872001920,
+      "trackId": 1872001920,
+      "collectionName": "艺术活着｜从艺术生说起（免费版）稻博｜美术音乐戏剧",
+      "artistName": "稻博",
+      "feedUrl": "https://www.ximalaya.com/album/114776035.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%89%BA%E6%9C%AF%E6%B4%BB%E7%9D%80-%E4%BB%8E%E8%89%BA%E6%9C%AF%E7%94%9F%E8%AF%B4%E8%B5%B7-%E5%85%8D%E8%B4%B9%E7%89%88-%E7%A8%BB%E5%8D%9A-%E7%BE%8E%E6%9C%AF%E9%9F%B3%E4%B9%90%E6%88%8F%E5%89%A7/id1872001920?uo=4",
+      "genres": [
+        "视觉艺术",
+        "播客",
+        "艺术",
+        "教育",
+        "实用知识"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2026-03-04T08:20:00Z",
+      "country": "CHN",
+      "primaryGenreName": "视觉艺术"
+    },
+    {
+      "collectionId": 1600640535,
+      "trackId": 1600640535,
+      "collectionName": "由色入眠｜艺术疗愈冥想助眠，温柔女声高效催眠减压",
+      "artistName": "Easyminds绝对轻松",
+      "feedUrl": "http://www.ximalaya.com/album/55418846.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%94%B1%E8%89%B2%E5%85%A5%E7%9C%A0-%E8%89%BA%E6%9C%AF%E7%96%97%E6%84%88%E5%86%A5%E6%83%B3%E5%8A%A9%E7%9C%A0-%E6%B8%A9%E6%9F%94%E5%A5%B3%E5%A3%B0%E9%AB%98%E6%95%88%E5%82%AC%E7%9C%A0%E5%87%8F%E5%8E%8B/id1600640535?uo=4",
+      "genres": [
+        "视觉艺术",
+        "播客",
+        "艺术",
+        "健康与健身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2022-04-28T12:07:00Z",
+      "country": "CHN",
+      "primaryGenreName": "视觉艺术"
+    },
+    {
+      "collectionId": 1526975198,
+      "trackId": 1526975198,
+      "collectionName": "散养艺术｜艺术设计类漫谈节目",
+      "artistName": "困困老师",
+      "feedUrl": "http://www.ximalaya.com/album/35822231.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%95%A3%E5%85%BB%E8%89%BA%E6%9C%AF-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1%E7%B1%BB%E6%BC%AB%E8%B0%88%E8%8A%82%E7%9B%AE/id1526975198?uo=4",
+      "genres": [
+        "视觉艺术",
+        "播客",
+        "艺术",
+        "设计"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301",
+        "1402"
+      ],
+      "trackCount": 122,
+      "releaseDate": "2024-10-29T08:35:00Z",
+      "country": "CHN",
+      "primaryGenreName": "视觉艺术"
+    },
+    {
+      "collectionId": 1763012843,
+      "trackId": 1763012843,
+      "collectionName": "MSAI营销科学∞艺术",
+      "artistName": "钱钱品牌局",
+      "feedUrl": "https://www.ximalaya.com/album/83149212.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/msai%E8%90%A5%E9%94%80%E7%A7%91%E5%AD%A6-%E8%89%BA%E6%9C%AF/id1763012843?uo=4",
+      "genres": [
+        "营销",
+        "播客",
+        "商务"
+      ],
+      "genreIds": [
+        "1492",
+        "26",
+        "1321"
+      ],
+      "trackCount": 101,
+      "releaseDate": "2026-10-14T02:33:00Z",
+      "country": "CHN",
+      "primaryGenreName": "营销"
+    },
+    {
+      "collectionId": 1810631087,
+      "trackId": 1810631087,
+      "collectionName": "石榴艺术乱谈",
+      "artistName": "大刘-17 石头-14",
+      "feedUrl": "https://www.ximalaya.com/album/91386965.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%9F%B3%E6%A6%B4%E8%89%BA%E6%9C%AF%E4%B9%B1%E8%B0%88/id1810631087?uo=4",
+      "genres": [
+        "视觉艺术",
+        "播客",
+        "艺术",
+        "电视与电影",
+        "影评"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301",
+        "1309",
+        "1563"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2026-05-31T08:52:00Z",
+      "country": "CHN",
+      "primaryGenreName": "视觉艺术"
+    },
+    {
+      "collectionId": 1608825063,
+      "trackId": 1608825063,
+      "collectionName": "艺术东西",
+      "artistName": "艺海藏家",
+      "feedUrl": "https://www.ximalaya.com/album/39747429.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%89%BA%E6%9C%AF%E4%B8%9C%E8%A5%BF/id1608825063?uo=4",
+      "genres": [
+        "艺术",
+        "播客",
+        "新闻",
+        "娱乐新闻"
+      ],
+      "genreIds": [
+        "1301",
+        "26",
+        "1489",
+        "1531"
+      ],
+      "trackCount": 285,
+      "releaseDate": "2024-10-09T12:41:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 1533962251,
+      "trackId": 1533962251,
+      "collectionName": "感觉香水：香奈儿和她的艺术家朋友圈",
+      "artistName": "庄卉家 Della Chuang",
+      "feedUrl": "https://api.vistopia.com.cn/rss/program/154.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%84%9F%E8%A7%89%E9%A6%99%E6%B0%B4-%E9%A6%99%E5%A5%88%E5%84%BF%E5%92%8C%E5%A5%B9%E7%9A%84%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%9C%8B%E5%8F%8B%E5%9C%88/id1533962251?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2021-12-24T03:59:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1704775606,
+      "trackId": 1704775606,
+      "collectionName": "领导的艺术：战略领导与变革管理",
+      "artistName": "晨阳熹微",
+      "feedUrl": "https://www.ximalaya.com/album/77361457.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%A2%86%E5%AF%BC%E7%9A%84%E8%89%BA%E6%9C%AF-%E6%88%98%E7%95%A5%E9%A2%86%E5%AF%BC%E4%B8%8E%E5%8F%98%E9%9D%A9%E7%AE%A1%E7%90%86/id1704775606?uo=4",
+      "genres": [
+        "管理",
+        "播客",
+        "商务",
+        "创业"
+      ],
+      "genreIds": [
+        "1491",
+        "26",
+        "1321",
+        "1493"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2023-08-21T03:16:00Z",
+      "country": "CHN",
+      "primaryGenreName": "管理"
+    },
+    {
+      "collectionId": 1718432593,
+      "trackId": 1718432593,
+      "collectionName": "现代设计史+艺术设计概论核心考点",
+      "artistName": "洗衣机里的卷纸_",
+      "feedUrl": "https://www.ximalaya.com/album/79325467.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%8E%B0%E4%BB%A3%E8%AE%BE%E8%AE%A1%E5%8F%B2-%E8%89%BA%E6%9C%AF%E8%AE%BE%E8%AE%A1%E6%A6%82%E8%AE%BA%E6%A0%B8%E5%BF%83%E8%80%83%E7%82%B9/id1718432593?uo=4",
+      "genres": [
+        "课程",
+        "播客",
+        "教育"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304"
+      ],
+      "trackCount": 34,
+      "releaseDate": "2023-12-14T03:40:00Z",
+      "country": "CHN",
+      "primaryGenreName": "课程"
+    },
+    {
+      "collectionId": 1784415048,
+      "trackId": 1784415048,
+      "collectionName": "百年光影｜穿越电影史璀璨光芒 感悟艺术与生命的共鸣",
+      "artistName": "摩卡声声",
+      "feedUrl": "https://www.ximalaya.com/album/84477259.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%99%BE%E5%B9%B4%E5%85%89%E5%BD%B1-%E7%A9%BF%E8%B6%8A%E7%94%B5%E5%BD%B1%E5%8F%B2%E7%92%80%E7%92%A8%E5%85%89%E8%8A%92-%E6%84%9F%E6%82%9F%E8%89%BA%E6%9C%AF%E4%B8%8E%E7%94%9F%E5%91%BD%E7%9A%84%E5%85%B1%E9%B8%A3/id1784415048?uo=4",
+      "genres": [
+        "视觉艺术",
+        "播客",
+        "艺术",
+        "电视与电影",
+        "电影史"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301",
+        "1309",
+        "1564"
+      ],
+      "trackCount": 42,
+      "releaseDate": "2025-01-08T11:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "视觉艺术"
+    },
+    {
+      "collectionId": 1562970508,
+      "trackId": 1562970508,
+      "collectionName": "我和我的故事：文学、艺术与天性",
+      "artistName": "Della Chuang",
+      "feedUrl": "https://api.vistopia.com.cn/rss/program/205.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B-%E6%96%87%E5%AD%A6-%E8%89%BA%E6%9C%AF%E4%B8%8E%E5%A4%A9%E6%80%A7/id1562970508?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2021-04-02T03:59:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1872941889,
+      "trackId": 1872941889,
+      "collectionName": "一听就懂的中国艺术史",
+      "artistName": "祝唯慵",
+      "feedUrl": "https://feed.xyzfm.space/c3rhacq7t3fb",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%80%E5%90%AC%E5%B0%B1%E6%87%82%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%89%BA%E6%9C%AF%E5%8F%B2/id1872941889?uo=4",
+      "genres": [
+        "艺术",
+        "播客"
+      ],
+      "genreIds": [
+        "1301",
+        "26"
+      ],
+      "trackCount": 225,
+      "releaseDate": "2026-10-15T07:03:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 1095222589,
+      "trackId": 1095222589,
+      "collectionName": "追科技撩艺术",
+      "artistName": "doko.com",
+      "feedUrl": "https://feed.xyzfm.space/gn3duvbrbnm7",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%BF%BD%E7%A7%91%E6%8A%80%E6%92%A9%E8%89%BA%E6%9C%AF/id1095222589?uo=4",
+      "genres": [
+        "科技",
+        "播客",
+        "艺术"
+      ],
+      "genreIds": [
+        "1318",
+        "26",
+        "1301"
+      ],
+      "trackCount": 51,
+      "releaseDate": "2022-09-06T23:10:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1501632882,
+      "trackId": 1501632882,
+      "collectionName": "艺术漫谈第一季｜现代艺术",
+      "artistName": "初萌的艺术国",
+      "feedUrl": "http://www.ximalaya.com/album/33185699.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%89%BA%E6%9C%AF%E6%BC%AB%E8%B0%88%E7%AC%AC%E4%B8%80%E5%AD%A3-%E7%8E%B0%E4%BB%A3%E8%89%BA%E6%9C%AF/id1501632882?uo=4",
+      "genres": [
+        "视觉艺术",
+        "播客",
+        "艺术",
+        "社会与文化",
+        "个人日记"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 11,
+      "releaseDate": "2020-04-16T01:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "视觉艺术"
+    },
+    {
+      "collectionId": 1819148190,
+      "trackId": 1819148190,
+      "collectionName": "小强哥的思考｜混在职场的艺术",
+      "artistName": "HR小强哥",
+      "feedUrl": "https://www.ximalaya.com/album/93503519.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B0%8F%E5%BC%BA%E5%93%A5%E7%9A%84%E6%80%9D%E8%80%83-%E6%B7%B7%E5%9C%A8%E8%81%8C%E5%9C%BA%E7%9A%84%E8%89%BA%E6%9C%AF/id1819148190?uo=4",
+      "genres": [
+        "职业",
+        "播客",
+        "商务"
+      ],
+      "genreIds": [
+        "1410",
+        "26",
+        "1321"
+      ],
+      "trackCount": 20,
+      "releaseDate": "2025-06-21T02:43:00Z",
+      "country": "CHN",
+      "primaryGenreName": "职业"
+    },
+    {
+      "collectionId": 1184981897,
+      "trackId": 1184981897,
+      "collectionName": "语桐听艺术",
+      "artistName": "语桐听艺术",
+      "feedUrl": "http://rss.lizhi.fm/rss/1516830.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%AF%AD%E6%A1%90%E5%90%AC%E8%89%BA%E6%9C%AF/id1184981897?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "宗教与心灵",
+        "佛教",
+        "艺术",
+        "视觉艺术"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1314",
+        "1438",
+        "1301",
+        "1406"
+      ],
+      "trackCount": 1334,
+      "releaseDate": "2018-03-31T01:44:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1722948569,
+      "trackId": 1722948569,
+      "collectionName": "艺术慢炖",
+      "artistName": "喵酱-艺术版",
+      "feedUrl": "https://feed.xyzfm.space/u7whq7b8jljk",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%89%BA%E6%9C%AF%E6%85%A2%E7%82%96/id1722948569?uo=4",
+      "genres": [
+        "艺术",
+        "播客",
+        "休闲"
+      ],
+      "genreIds": [
+        "1301",
+        "26",
+        "1502"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2026-03-14T06:04:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 1788263307,
+      "trackId": 1788263307,
+      "collectionName": "王府井一号｜和你一起探索艺术的世界",
+      "artistName": "王府井一号",
+      "feedUrl": "https://feed.xyzfm.space/phv6g7qe4pq7",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%8E%8B%E5%BA%9C%E4%BA%95%E4%B8%80%E5%8F%B7-%E5%92%8C%E4%BD%A0%E4%B8%80%E8%B5%B7%E6%8E%A2%E7%B4%A2%E8%89%BA%E6%9C%AF%E7%9A%84%E4%B8%96%E7%95%8C/id1788263307?uo=4",
+      "genres": [
+        "艺术",
+        "播客",
+        "社会与文化"
+      ],
+      "genreIds": [
+        "1301",
+        "26",
+        "1324"
+      ],
+      "trackCount": 26,
+      "releaseDate": "2026-09-17T10:24:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 1591614623,
+      "trackId": 1591614623,
+      "collectionName": "欧洲攻略｜城市旅行艺术文化播客",
+      "artistName": "爱笑的可可鱼",
+      "feedUrl": "http://www.ximalaya.com/album/45372248.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%AC%A7%E6%B4%B2%E6%94%BB%E7%95%A5-%E5%9F%8E%E5%B8%82%E6%97%85%E8%A1%8C%E8%89%BA%E6%9C%AF%E6%96%87%E5%8C%96%E6%92%AD%E5%AE%A2/id1591614623?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "历史"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1487"
+      ],
+      "trackCount": 26,
+      "releaseDate": "2022-12-13T10:15:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1688314818,
+      "trackId": 1688314818,
+      "collectionName": "勘画 | 艺术史卧游",
+      "artistName": "沈心识艺",
+      "feedUrl": "https://feed.xyzfm.space/9ymh6myyty38",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8B%98%E7%94%BB-%E8%89%BA%E6%9C%AF%E5%8F%B2%E5%8D%A7%E6%B8%B8/id1688314818?uo=4",
+      "genres": [
+        "艺术",
+        "播客",
+        "历史"
+      ],
+      "genreIds": [
+        "1301",
+        "26",
+        "1487"
+      ],
+      "trackCount": 36,
+      "releaseDate": "2025-07-12T04:46:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 1692298576,
+      "trackId": 1692298576,
+      "collectionName": "搞艺术的就是话多",
+      "artistName": "释开达",
+      "feedUrl": "https://www.ximalaya.com/album/76489344.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%90%9E%E8%89%BA%E6%9C%AF%E7%9A%84%E5%B0%B1%E6%98%AF%E8%AF%9D%E5%A4%9A/id1692298576?uo=4",
+      "genres": [
+        "视觉艺术",
+        "播客",
+        "艺术"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301"
+      ],
+      "trackCount": 46,
+      "releaseDate": "2026-05-26T04:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "视觉艺术"
+    },
+    {
+      "collectionId": 1886023602,
+      "trackId": 1886023602,
+      "collectionName": "艺术大师：伊涅斯塔自传",
+      "artistName": "足球漫谈",
+      "feedUrl": "https://feed.xyzfm.space/m9k66dv9ja6e",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%89%BA%E6%9C%AF%E5%A4%A7%E5%B8%88-%E4%BC%8A%E6%B6%85%E6%96%AF%E5%A1%94%E8%87%AA%E4%BC%A0/id1886023602?uo=4",
+      "genres": [
+        "小说",
+        "播客"
+      ],
+      "genreIds": [
+        "1483",
+        "26"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2026-05-17T22:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "小说"
+    },
+    {
+      "collectionId": 1815940191,
+      "trackId": 1815940191,
+      "collectionName": "浅谈艺术",
+      "artistName": "任瀚",
+      "feedUrl": "https://feed.xyzfm.space/vfe7fau486dp",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%B5%85%E8%B0%88%E8%89%BA%E6%9C%AF/id1815940191?uo=4",
+      "genres": [
+        "艺术",
+        "播客",
+        "社会与文化"
+      ],
+      "genreIds": [
+        "1301",
+        "26",
+        "1324"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2025-06-19T10:14:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1659274310",
+  "feed_url": "https://feeds.soundon.fm/podcasts/838cbcf9-999f-4580-85aa-6a6ac0c43d52.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/838cbcf9-999f-4580-85aa-6a6ac0c43d52.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/838cbcf9-999f-4580-85aa-6a6ac0c43d52.xml",
+    "fetched_at": "2026-10-25T14:45:02.531563+00:00",
+    "status": 200,
+    "sha256": "714ba386aa19686dd26f503f4ef9d2bd02ebc0eac7ed9505efe6980502bc3b5b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "瞎胖廣播劇",
+    "truncated": false
+  },
+  "description": {
+    "text": "瞎胖廣播劇團成立於2019年，致力於將不同的形式、議題與廣播劇結合。 相信台灣廣播劇仍是藍海，努力朝大海走去。 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 19,
+  "episodes": [
+    {
+      "id": "fd15dc94fe8800e2d4a7ba6215f07c9fadde5da7e97dfed0160283e0bbf6c768",
+      "guid": "043d5ede-2a4e-4c94-b853-126b96d3c39a",
+      "title": {
+        "text": "【瞎胖廣播劇團】《過氣英雄傳》二創R18 BL廣播劇《驚喜》",
+        "truncated": false
+      },
+      "description": {
+        "text": "【瞎胖廣播劇團】《過氣英雄傳》二創R18 BL廣播劇《驚喜》 ❗1/14（二）19：45將會於瞎胖YT頻道開啟「同步觀看&映後座談」直播。 ❗因車速過快，本作品僅會上架於Podcast平台，並預計於1/14（二）19：00釋出收聽連結。 － 生日當天，身為布袋戲企業接班人的麥問天（楊宣哲飾），獨自在公司加班。他拖著身軀，按下離開辦公室的電梯按鈕準備回家看芙莉蓮。此時，有著大俠般笑聲的經理白吾昌（柯辰穎飾）突然出現，為麥問天帶來生日驚喜… 毒舌攻X傲嬌受 鮮奶油四處流淌，長達二十分鐘的肉體碰撞！ － [Staff] 原作編劇：王健任 二創改編編劇、製作人：夜凰月 導演：吳俊德（泰迪）【瞎胖廣播劇團】 顧問：井西【聲音無限廣播劇團】 後製：井西【聲音無限廣播劇團】 封面：速水 錄音：擎天信使音樂製作公司 [Cast] 麥問天：楊宣哲 飾演 白吾昌：柯辰穎 飾演 服務生：夜凰月 飾演 藍霸星：楊宣哲 飾演 尹點紅：井西【聲音無限廣播劇團】 飾演 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Jan 2025 10:55:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "c914af9294527cc96a1e97dfaa0896a77a23be0a7bbf1f406ae343e62dc39ac5",
+      "guid": "4a2d5f58-5a96-4e66-8845-d4df3a3c51c2",
+      "title": {
+        "text": "【瞎胖廣播劇團】x【僻室House Peace】廣播劇《女生宿舍1990》第一集",
+        "truncated": false
+      },
+      "description": {
+        "text": "用事件的角度來看政治運動會變得陌生抽離， 但對於經歷事件的人來說，那是生活。 《女生宿舍1990》呈現了生活。 野百合學運背景下， 四位大學生在愛情中做出屬於自己的選擇。 當年的選擇，殘響至今日。 但我們總要回望，才知道當時的自己身處轉捩點。 於是我們好好去愛，好好生活，好好選擇。 一起承擔。 History has its eyes on you. - 劇作家：吳子敬［僻室House Peace］ 僻室方行政窗口：蔡傳仁［僻室House Peace］、魏聆琄［僻室House Peace］ ［Staff］ 導演：吳俊德（泰迪） 錄音：蔡嘉哲（大白） 後製：蔡嘉哲（大白）、林芝嫺（Salty）、吳俊德（泰迪）、An豪 封面：m_m Illustration｜薰晏 行政：瞎胖全體人員 ［Cast］ 吳芯語：珊迪 陳小田：盆栽［聲音無限廣播劇團］ 李靜文：庫洛依［聲音無限廣播劇團］ 張安萍：Kia -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 29 Dec 2024 19:25:26 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "a9763b1b4be2eb2f458df44dde9b6e5e69176c73516492723555aae2ae0a79a5",
+      "guid": "a2bbdbdc-5594-4b39-bee1-263c3546e742",
+      "title": {
+        "text": "［瞎胖廣播劇團］x［莊庭瑜］台語獨角廣播劇《我的爸爸》",
+        "truncated": false
+      },
+      "description": {
+        "text": "爸，我只是希望咱會當毋是生份的爸爸佮查某囝。 就算以後咱兩人之間猶原霧霧， 我嘛希望彼會當是泡麵的煙， 莫閣是你食的薰啊。 － 劇作家 ：莊庭瑜 劇本改編：莊庭瑜、吳俊德（泰迪） 導演：吳俊德（泰迪） 演員：莊庭瑜 錄音：蔡嘉哲（大白） 後製：吳俊德（泰迪） 封面：m_m Illustration｜薰晏 https://www.instagram.com/m_m_hsunyen/?hl=zh-tw 宣傳：吳欣芸（Sandy） 台文字幕校正：Ôo-Û-suan － 瞎胖Email：[email removed] 瞎胖Facebook： https://www.facebook.com/BlindFatty 瞎胖Instagram： https://www.instagram.com/blindfatty/?hl=zh-tw 瞎胖Plurk： https://www.plurk.com/blindfatty -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 08 Sep 2023 08:56:12 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "3f2099762dd8801b8cc0855f173be89df90917cabe0e287af2bb3a9f3e3f1561",
+      "guid": "2c935da0-13f5-4709-a0ce-516976699665",
+      "title": {
+        "text": "【瞎胖廣播劇團】廣播劇《槍與玫瑰》第二集",
+        "truncated": false
+      },
+      "description": {
+        "text": "「不要糟蹋愛你的人，會付出代價的。」 － 🌹劇作家｜吳宜謙 🌹［Staff］ 導演｜吳俊德（泰迪） 後製｜吳俊德（泰迪） 音樂｜An豪 美術｜瑞讀 行銷｜吳欣芸（Sandy） 🌹［Cast］ 文生｜鍾崴（威廉） 家瑋｜趙睿祺（Ricky） 曉瑩｜吳欣芸（Sandy） 毓婷｜Kia － 瞎胖Email：[email removed] 瞎胖Facebook： https://www.facebook.com/BlindFatty 瞎胖Instagram： https://www.instagram.com/blindfatty/ 瞎胖Plurk： https://www.plurk.com/blindfatty -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 29 Apr 2023 15:21:12 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "a14114c765458a9e7486dac54e4ff077a120334db5a89c778a89e7a1cae8344c",
+      "guid": "e93579ab-35dd-4a1d-a36a-a80bda5236d3",
+      "title": {
+        "text": "【瞎胖廣播劇團】廣播劇《槍與玫瑰》第零集",
+        "truncated": false
+      },
+      "description": {
+        "text": "文生有很多話想說 文生有很多事想做 他說了很多 但什麼也沒做。 － 🌹劇作家｜吳宜謙 🌹［Staff］ 導演｜吳俊德（泰迪） 後製｜吳俊德（泰迪） 音樂｜An豪 美術｜瑞讀 https://www.facebook.com/mizuyomi 行銷｜吳欣芸（Sandy） 🌹［Cast］ 文生｜鍾崴（威廉） 家瑋｜趙睿祺（Ricky） 曉瑩｜吳欣芸（Sandy） 毓婷｜Kia － 瞎胖Email：[email removed] 瞎胖Facebook： https://www.facebook.com/BlindFatty 瞎胖Instagram： https://www.instagram.com/blindfatty/ 瞎胖Plurk： https://www.plurk.com/blindfatty -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 29 Apr 2023 15:15:33 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "4a0db54b0a0686017939bb4965d6ccbacabe7ead0a5e4228bc39e4bfa190cf9c",
+      "guid": "7369b578-97ba-4df6-b618-3584a74edbc8",
+      "title": {
+        "text": "【瞎胖廣播劇團】x【品劇場】廣播劇《戀愛OX》－預告",
+        "truncated": false
+      },
+      "description": {
+        "text": "26歲臭宅直男、油到需要peko茶的廖丁男 在自稱好哥們的人工智慧AI戀愛嚮導的幫助下 嘗試學習著如何與女生互動相處 但事情的進展似乎不太順利…? － 原創 | 品劇場 改編 | 瞎胖廣播劇團 編劇 | 賴定均 導演 | 吳俊德（泰迪） 後製 | 吳俊德（泰迪） 封面 | 吳欣芸（Sandy） － 瞎胖Email：[email removed] 瞎胖Facebook：https://www.facebook.com/BlindFatty 瞎胖Instagram：https://www.instagram.com/blindfatty/?hl=zh-tw 瞎胖Plurk：https://www.plurk.com/blindfatty -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Dec 2022 12:18:57 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "6e700ca0bb2466a82e257ead012785b3472eee32af8c61c69c198c8533c0e0ed",
+      "guid": "acec4a22-0099-47ab-b155-42874275f796",
+      "title": {
+        "text": "瞎胖獨角戲-Sandy《倒數》",
+        "truncated": false
+      },
+      "description": {
+        "text": "獨角戲所需要的魔幻，是能與廣播劇的寫實達成平衡的嗎? 這是我們給出的答案。 - 導演：泰迪 編劇：Sandy 演員：Sandy 後製：Sandy - 瞎胖Email：[email removed] 瞎胖Facebook：https://www.facebook.com/BlindFatty 瞎胖Instagram：https://www.instagram.com/blindfatty/?hl=zh-tw 瞎胖Plurk：https://www.plurk.com/blindfatty -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Dec 2022 12:16:45 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "4e8e8070af0a1b237d858cae6e0e50ea05f5e34d90ba1e76f562e2f1d0f9e6c8",
+      "guid": "467bcecc-d814-42bd-a7ed-85501f342d6e",
+      "title": {
+        "text": "瞎胖獨角戲-預告",
+        "truncated": false
+      },
+      "description": {
+        "text": "獨角戲所需要的魔幻，是能與廣播劇的寫實達成平衡的嗎? 這是我們給出的答案。 瞎胖Email：[email removed] 瞎胖Facebook：https://www.facebook.com/BlindFatty 瞎胖Instagram：https://www.instagram.com/blindfatty/?hl=zh-tw 瞎胖Plurk：https://www.plurk.com/blindfatty -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Dec 2022 00:06:00 GMT",
+      "feed_index": 18
+    }
+  ]
+}

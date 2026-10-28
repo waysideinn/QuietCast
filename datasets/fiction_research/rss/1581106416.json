@@ -1,0 +1,140 @@
+{
+  "show_id": "1581106416",
+  "feed_url": "http://www.ximalaya.com/album/51993492.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/51993492.xml",
+    "final_url": "http://www.ximalaya.com/album/51993492.xml",
+    "fetched_at": "2026-10-25T14:43:02.418545+00:00",
+    "status": 200,
+    "sha256": "2967a3dd9dbf8f1cadb937f74c0b14609885def4b4d6632d0b00b6c27e5dfdd0"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【免费双播】放开那个美男丨爆笑甜宠校园丨同名漫画",
+    "truncated": false
+  },
+  "description": {
+    "text": "【内容简介】 上学的第一天就叶栀的悲催生活已经被注定了！先是遇到殿堂级路痴成为他的导盲工具，再后来，被坑入男子网球社成为唯一的女经理。 至于这经理一职……美人部长，造孽美男，呆萌小受，强势小攻，叶栀开始一步一步走向被她称之为自虐行为的漫漫不归路…… 冷血杀手重生耿直千金，啼笑皆非爆笑青春剧，一起放肆一起笑 【作者简介】 凉亦 【主播简介】 云开有声",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 137,
+  "episodes": [
+    {
+      "id": "6685c42c317963dcabdb64da85a29c7ef5bfb20c418f2b123c40e6872b150ae9",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5b35-audiofreehighqps/9B/9A/CKwRIJEE5oJtABqGSgDU274-.m4a",
+      "title": {
+        "text": "放开那个美男 片花（新品上架，先订阅再点赞评论，爱你么么哒）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 09 Aug 2021 05:38:44 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "578d2836207f6464c456a37144aa498fefce42c48d3f20713d793218223be77d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4a0d-audiofreehighqps/08/D5/CKwRIaIE5pA3ADyzjQDU4sma.m4a",
+      "title": {
+        "text": "放开那个美男 019 多年后的重逢",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 09 Aug 2021 06:37:29 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "29d5f96658e56585c411aba6b8ec95bcb913a61907949b1eeb00d44213c04f4d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7280-audiofreehighqps/C4/B1/CKwRIUEE8p3eAD9IuQDZPPC8.m4a",
+      "title": {
+        "text": "放开那个美男 039 这世界真是小啊",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 18 Aug 2021 10:00:22 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "fada9ffd787e63146fca8c1203cf1e51a1bae4876d8233c116422efe09a1095f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1b81-audiofreehighqps/29/74/CKwRIDoE_nsAADyprQDc43LM.m4a",
+      "title": {
+        "text": "放开那个美男 058 舞会开始",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 27 Aug 2021 10:00:05 GMT",
+      "feed_index": 58
+    },
+    {
+      "id": "f070cf56aa7792bacd9a86e60a5a7fabb535cb60fe569c6af6684de0d8592710",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a8aa-audiofreehighqps/71/FE/CKwRIDoFC6oaAEFiMQDgVlRV.m4a",
+      "title": {
+        "text": "放开那个美男 078 又是三角恋吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Sep 2021 10:00:06 GMT",
+      "feed_index": 78
+    },
+    {
+      "id": "fc34b7a6debb541cfbe5b46f7d17d80522097e31f29c51a03c83260811685880",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e72a-audiofreehighqps/42/62/CKwRIaIFGNkxAECqpQDjn7Um.m4a",
+      "title": {
+        "text": "放开那个美男 097 照张相吧",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Sep 2021 10:00:09 GMT",
+      "feed_index": 97
+    },
+    {
+      "id": "9c0e063adda66218066138bc711f6f31e38b98a9cd513c0d90e60e168c74b7b6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d53d-audiofreehighqps/FA/D1/CKwRIW4FJghbAD6tGADm0_k9.m4a",
+      "title": {
+        "text": "放开那个美男 117 愿望：在一起！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 26 Sep 2021 10:00:18 GMT",
+      "feed_index": 117
+    },
+    {
+      "id": "7c916e6b2ef3348d128d0d1cb43b0a757a71f20e217f2c80b959ad1efdd9b430",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8873-audiofreehighqps/91/91/CKwRIDoFMO9QAD-7TADpcHxl.m4a",
+      "title": {
+        "text": "放开那个美男 136 番外： 男人不能太漂亮（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Oct 2021 16:30:45 GMT",
+      "feed_index": 136
+    }
+  ]
+}

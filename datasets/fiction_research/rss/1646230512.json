@@ -1,0 +1,140 @@
+{
+  "show_id": "1646230512",
+  "feed_url": "https://www.ximalaya.com/album/71142080.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/71142080.xml",
+    "final_url": "https://www.ximalaya.com/album/71142080.xml",
+    "fetched_at": "2026-10-25T14:44:47.301489+00:00",
+    "status": 200,
+    "sha256": "1abd1830394877b06796991c803ce58312e7bbd77d8895a6b645a2afa4b13da2"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【精品双播】彼岸花 I 都市言情",
+    "truncated": false
+  },
+  "description": {
+    "text": "都市言情小说《彼岸花》，每天更新2集，欢迎收听！ 书名：《彼岸花》 分类：都市言情 作者：卡斯 演播人：琢光夜色，仰笑长天 作品简介：这是一个发生在现代都市保险行业里的爱情故事，这是一部文笔流畅而又洗练优美，让人忍不住一口气读完的爱情小说。神秘的男主钟岚仁对美丽的女主欧阳云韵一见钟情，花了整整3年时间，勇往直前，想法设法的去接近，去尝试。同事嘴里挂着的调侃名言是：全世界都知道，钟岚仁存在的目的是为了追求欧阳云韵。无奈家境贫寒，内向清冷的欧阳云韵因为家庭原因，又曾在大学有过忧伤不可触碰的过往，自此关闭了爱情通道，只要触碰到爱情，就会自动竖起屏障。欧阳云韵既乖巧又倔强，既体贴又有主见；追求完美却又深知凡事皆有缺陷；渴望一个温暖的家，却又逃避爱情的靠近；将孤独的灵魂锁进了无止尽的寂寞当中。执着又自信的男主是否可以打动内敛又温柔的女主呢？",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "serial",
+    "explicit": "false"
+  },
+  "feed_item_count": 46,
+  "episodes": [
+    {
+      "id": "7d7ea2d112a0d5e44b5bf4df644a372f99d63b543fd931c93aad4cc624eb329b",
+      "guid": "xmly_track_570708955",
+      "title": {
+        "text": "彼岸花 片花",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 20 Sep 2022 06:02:43 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b2d6a053d18951434c7517165edb6bad5bf9d4892d707db5d92d2e2525aa6b4b",
+      "guid": "xmly_track_571032036",
+      "title": {
+        "text": "彼岸花 06 新人",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 21 Sep 2022 10:00:11 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "16b3f8e87fbd89ff14056d22e2892cc80d17c0b9257860ef33811e7532d57a7c",
+      "guid": "xmly_track_572072211",
+      "title": {
+        "text": "彼岸花 13 勋章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Sep 2022 10:00:10 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "71b99ee9d7c711790fb94879bad9a4129e6fc868658311c6408c73334296334e",
+      "guid": "xmly_track_572872730",
+      "title": {
+        "text": "彼岸花 19 技术不错",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 28 Sep 2022 10:00:10 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "64dc122671e4fc0161c7d2deffb5d802e8feb18fa7279a26d343a11257f61f24",
+      "guid": "xmly_track_573631982",
+      "title": {
+        "text": "彼岸花 26 没人情味",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 01 Oct 2022 10:00:13 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "cfbf506f9e85a86980b66cd68f87270df10aac2b06ed5db8cfd46b810d41c134",
+      "guid": "xmly_track_574317065",
+      "title": {
+        "text": "彼岸花 32 听不懂",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 04 Oct 2022 10:00:13 GMT",
+      "feed_index": 32
+    },
+    {
+      "id": "24e01c4a69aa1d42963c1cd3d48f3e3ffe61db3cf1d62d88850bd6755e3386db",
+      "guid": "xmly_track_575300226",
+      "title": {
+        "text": "彼岸花 39 太直接",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 08 Oct 2022 10:00:09 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "c0ff04c7947b9ada75f037d2efa792ad5f7b5c61c7adbcc9992076249eed90df",
+      "guid": "xmly_track_576140192",
+      "title": {
+        "text": "彼岸花 45 合或分 分或和（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 11 Oct 2022 10:00:14 GMT",
+      "feed_index": 45
+    }
+  ]
+}

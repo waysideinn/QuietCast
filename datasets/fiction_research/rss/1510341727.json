@@ -1,0 +1,140 @@
+{
+  "show_id": "1510341727",
+  "feed_url": "http://www.ximalaya.com/album/36964722.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/36964722.xml",
+    "final_url": "http://www.ximalaya.com/album/36964722.xml",
+    "fetched_at": "2026-10-25T14:49:59.450502+00:00",
+    "status": 200,
+    "sha256": "f6d307f5c5ac72d0ca2e04557020b9d5f4a288d6d212b1fed49886227452658f"
+  },
+  "status": "ok",
+  "title": {
+    "text": "宇宙飞猫",
+    "truncated": false
+  },
+  "description": {
+    "text": "两位在魔都打拼的异乡单身女孩的深夜BB，我们对世界有巨大的疑惑，也有细小的快乐；在这里聊生活有关的一切。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 34,
+  "episodes": [
+    {
+      "id": "a748de0e29f4710b854c3d4cd2d6e226b2c51c11c896766edb7cdaeab1fdd7e4",
+      "guid": "xmly_track_683234231",
+      "title": {
+        "text": "vol.039 推荐所有女生都去试试攀岩",
+        "truncated": false
+      },
+      "description": {
+        "text": "这一期，鲁衲主要介绍了一下自己是如何迷上攀岩，以及攀岩给自己带来的人生性改变的，本期主要内容如下： 00:52 我的攀岩之路源于我的精致利己主义 05:35 攀岩帮助30岁的我完成了社会化 09:48 你的社交圈扩大了，也缩小了 11:51 攀岩要和自己心中向上的欲望做对抗 16:34 为什么你总是在岩馆约会 21:00 人的终极目标是高质量的生活，而不是模板化的生活",
+        "truncated": false
+      },
+      "published_at": "Sat, 11 Nov 2023 02:44:55 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1045be5f16d4698e493d67d055d8395aa894c03d71225812089ede7bd443a0fd",
+      "guid": "xmly_track_593851274",
+      "title": {
+        "text": "vol. 034 b 站商业化到底行不行?",
+        "truncated": false
+      },
+      "description": {
+        "text": "引子：做宇宙飞猫的第5期我们聊过b站-《后浪》那只短片，不知道大家对《后浪》有没有印象，总之那只短片可能b站自己不认为，但是我们+大部分看过那只短片的人都认为b站正式向大众宣布要开始商业化。虽然那只短片都很多地方可圈可点，大家可以去听听看我们那期节目，但是从商业角度上来说，他确实吸引了一波广告主的注意。那么，距离这只短片过去了差不多2年半左右的时间，b站的商业化现在做的怎么样了呢？ 以下是本期主要内容： 1. 金投赏说了什么让芳芳决定来录节目? 2. b站商业化遇见的问题有哪些? 3. up主商业化对于平台的意义是什么？ 4. b站还能做商业化吗？ 5. 我们一些不成熟的小建议",
+        "truncated": false
+      },
+      "published_at": "Sun, 04 Dec 2022 07:00:25 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "8d6f5969f0f7af2e6dcb09b4e16bc329cfc5ea38f65cd98668ac8cda76ab54fa",
+      "guid": "xmly_track_527555518",
+      "title": {
+        "text": "vol.30 我们在tinder上遇到的那些男人",
+        "truncated": false
+      },
+      "description": {
+        "text": "想在社交软件上找对象，会经历些什么",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 May 2022 14:17:14 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "1e922e10d21b2862790b7c9ccf908ea656c0c8291c3817b0a7c286eaffeeb18e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f68d-audiofreehighqps/BA/4D/CKwRIasEv1NrABAAAADGDKZk.mp3",
+      "title": {
+        "text": "vol.024 鲁衲老师她买了房了！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 10 Jul 2021 12:22:29 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "58a9c90055b842a932ca72532aa02ffea1725ce408d008a05200461e8b72961b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f315-audiofreehighqps/C3/09/CMCoOSMDmWdwAmpBogBsKsPq.mp3",
+      "title": {
+        "text": "vol.019 自说自话-我的焦虑症如何伤害到了身边的人",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 29 Nov 2020 13:38:58 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "64dbefe1abf4af445580ffa732499261f19a9c6a4859eabcda00cda9b0259007",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6afd-audiofreehighqps/74/96/CMCoOSYC11bmBQEP5gA_QnlG.mp3",
+      "title": {
+        "text": "vol.011 三人谈-我们高中都爱过鸭子",
+        "truncated": false
+      },
+      "description": {
+        "text": "鲁纳、芳芳、kk回忆起那些年自己喜欢过的男人",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Jul 2020 08:48:42 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "344d5e0026f076ad2dcb9dffda30c31199af765c3efe63d73dd38dc0ff436cd4",
+      "guid": "https://aod.cos.tx.xmcdn.com/group81/M02/9A/A8/wKgPDV6w2sShXzg7ASiX6Jw4sd4483.mp3",
+      "title": {
+        "text": "vol.006 三人谈-那些年我在日本遇见的奇葩4-4",
+        "truncated": false
+      },
+      "description": {
+        "text": "那些年在日本遇见的奇葩大结局！",
+        "truncated": false
+      },
+      "published_at": "Thu, 07 May 2020 11:00:06 GMT",
+      "feed_index": 28
+    },
+    {
+      "id": "1d8f5b420b51d9cf58b4190b47c3bc981442f61d7f83b51d9f0addf396455a6f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group78/M05/71/71/wKgO1l6fs0GD0uhdAvzZKyODDvs506.aac",
+      "title": {
+        "text": "vol.001 两人谈-海归女孩十年焦虑斗争史",
+        "truncated": false
+      },
+      "description": {
+        "text": "一个人人都觉得不应该焦虑的人为什么会焦虑？",
+        "truncated": false
+      },
+      "published_at": "Sat, 18 Apr 2020 13:13:13 GMT",
+      "feed_index": 33
+    }
+  ]
+}

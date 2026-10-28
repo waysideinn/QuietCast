@@ -1,0 +1,141 @@
+{
+  "show_id": "1555407379",
+  "feed_url": "https://feeds.captivate.fm/sooottb/",
+  "source": {
+    "url": "https://feeds.captivate.fm/sooottb/",
+    "final_url": "https://feeds.captivate.fm/sooottb/",
+    "fetched_at": "2026-10-25T14:52:24.361954+00:00",
+    "status": 200,
+    "sha256": "2a67d6fb191714c11f9d1132056231358671ae3f1a6be82ba2482164cf171e01"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Sooo 穿越聖經 奇妙故事的聲音",
+    "truncated": false
+  },
+  "description": {
+    "text": "《穿越聖經》是一個為期五年的讀經計劃。透過麥基牧師對聖經內容的講解，分章節地進行聖經內容的查考。 節目橫跨整本聖經66卷書，透視基督教真理要義，體驗上帝救世計劃，更鼓勵聽眾實踐信仰。 聖經內容以一卷一卷的方式進行分享和探討，不以聖經書卷的順序去看，因為新約和舊約聖經其實可以互相參照。 聖經像一幅大地圖，可以鳥瞰去觀看。研讀順序先從創世記開始，接著是馬太福音，然後是出埃及記，再到馬可福音，以此類推。研讀每卷聖經之前，亦會有導讀指引。 一星期五天 在Podcast播出的另一種穿越故事 Facebook專頁︰ 𝙝𝙩𝙩𝙥𝙨://𝙬𝙬𝙬.𝙛𝙖𝙘𝙚𝙗𝙤𝙤𝙠.𝙘𝙤𝙢/𝙎𝙤𝙤𝙤𝙥𝙤𝙙𝙘𝙖𝙨𝙩𝙛𝙗 Instagram︰@𝙨𝙤𝙤𝙤𝙥𝙤𝙙𝙘𝙖𝙨𝙩_𝙣𝙚𝙩 Sooopodcast乃遠東廣播，除了電台和網台以外， 於2021年開始的另一個播音平台。 你聼見的每一把聲音，背後都有一個故事， 每一個故事，都有一把聲音為你講出來。 有故事的聲音 Sooopodcast",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "explicit": "false",
+    "type": "episodic",
+    "medium": "podcast"
+  },
+  "feed_item_count": 200,
+  "episodes": [
+    {
+      "id": "7d1522fb72feb183baea5454759aa312fdd60159d72710e2d40dd910384aa070",
+      "guid": "fce1ae91-4832-48bf-86b7-53555e364851",
+      "title": {
+        "text": "〈創世記〉EP17 挪亞出方舟",
+        "truncated": false
+      },
+      "description": {
+        "text": "EP17 挪亞出方舟 〈創世記〉8章1-22節 星期一至五，透過「穿越聖經」，一起走進聖經，得著各樣福份和好處。 --------------------------------------- 歡迎訂閱，與朋友分享 也請到Apple Podcast | Spotify | Google Podcast 等各大Podcast 平台 訂閱我們Sooopodcast各頻道: https://linktr.ee/sooopodcast_net Facebook: facebook.com/Sooopodcastfb Instagram: instagram.com/sooopodcast_net Youtube: http://bit.ly/sooopodcastyt",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Jan 2026 00:00:00 +0800",
+      "feed_index": 0
+    },
+    {
+      "id": "f2ad295a35e0efa24cf4f9b0b191792f7f4eba009d38695e99098dbfac7c4cd8",
+      "guid": "a587484e-73d8-4ca5-86d3-1381bb42d644",
+      "title": {
+        "text": "〈啟示錄〉EP59 以世界體系為人生歸宿的人，將會失去一切；可以帶去新天新地的，只有我們的信心、品格和肢體的關係，這些比任何的金錢、權力或享受都重要得多",
+        "truncated": false
+      },
+      "description": {
+        "text": "EP59 以世界體系為人生歸宿的人，將會失去一切；可以帶去新天新地的，只有我們的信心、品格和肢體的關係，這些比任何的金錢、權力或享受都重要得多 〈啟示錄〉18章8-17節 星期一至五，透過「穿越聖經」，一起走進聖經，得著各樣福份和好處。 --------------------------------------- 歡迎訂閱，與朋友分享 也請到Apple Podcast | Spotify | Google Podcast 等各大Podcast 平台 訂閱我們Sooopodcast各頻道: https://linktr.ee/sooopodcast_net Facebook: facebook.com/Sooopodcastfb Instagram: instagram.com/sooopodcast_net Youtube: http://bit.ly/sooopodcastyt",
+        "truncated": false
+      },
+      "published_at": "Tue, 11 Nov 2025 00:00:00 +0800",
+      "feed_index": 28
+    },
+    {
+      "id": "676587b78146a06ece2977f25531cd46d691974609cd5911ed99d6dd4a6465a3",
+      "guid": "9638f2ee-3dce-4fe0-b5a4-a7378021266e",
+      "title": {
+        "text": "〈啟示錄〉EP30 神揭開第七印的時候，便出現了七號的審判。同樣地，第七號吹響時，神宣告了七碗的審判。七號的審判和七印的審判一樣，都只是局部的審判。神最後和全面的審判仍未來到",
+        "truncated": false
+      },
+      "description": {
+        "text": "EP30 神揭開第七印的時候，便出現了七號的審判。同樣地，第七號吹響時，神宣告了七碗的審判。七號的審判和七印的審判一樣，都只是局部的審判。神最後和全面的審判仍未來到 〈啟示錄〉8章1節 星期一至五，透過「穿越聖經」，一起走進聖經，得著各樣福份和好處。 --------------------------------------- 歡迎訂閱，與朋友分享 也請到Apple Podcast | Spotify | Google Podcast 等各大Podcast 平台 訂閱我們Sooopodcast各頻道: https://linktr.ee/sooopodcast_net Facebook: facebook.com/Sooopodcastfb Instagram: instagram.com/sooopodcast_net Youtube: http://bit.ly/sooopodcastyt",
+        "truncated": false
+      },
+      "published_at": "Wed, 01 Oct 2025 00:00:00 +0800",
+      "feed_index": 57
+    },
+    {
+      "id": "77c88c62fe736261e8015295da56d874dc6e94236af90c24e80a6f7cbf5e27e3",
+      "guid": "a516ee77-5366-411c-9fd5-94df5f0f4cd2",
+      "title": {
+        "text": "〈啟示錄〉EP02 啟示錄的後三項特色、耶穌基督是整卷啟示錄的主題",
+        "truncated": false
+      },
+      "description": {
+        "text": "〈啟示錄〉EP02 啟示錄的後三項特色、耶穌基督是整卷啟示錄的主題 星期一至五，透過「穿越聖經」，一起走進聖經，得著各樣福份和好處。 --------------------------------------- 歡迎訂閱，與朋友分享 也請到Apple Podcast | Spotify | Google Podcast 等各大Podcast 平台 訂閱我們Sooopodcast各頻道: https://linktr.ee/sooopodcast_net Facebook: facebook.com/Sooopodcastfb Instagram: instagram.com/sooopodcast_net Youtube: http://bit.ly/sooopodcastyt",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Aug 2025 00:00:00 +0800",
+      "feed_index": 85
+    },
+    {
+      "id": "22221b988db1c6dfcb52db18711c268b7a339a6f68d2ad30c3f5841427cee247",
+      "guid": "b50fb2ac-e6f6-4fb1-88f5-0db40da0ad70",
+      "title": {
+        "text": "〈撒迦利亞書〉EP21 神對將來的應許現在就應成為我們的鼓勵。神知道我們辛勞的結果，因此會給我們一個將來的展望，幫助我們繼續為祂效力",
+        "truncated": false
+      },
+      "description": {
+        "text": "EP21 神對將來的應許現在就應成為我們的鼓勵。神知道我們辛勞的結果，因此會給我們一個將來的展望，幫助我們繼續為祂效力 〈撒迦利亞書〉8章13-19節 星期一至五，透過「穿越聖經」，一起走進聖經，得著各樣福份和好處。 --------------------------------------- 歡迎訂閱，與朋友分享 也請到Apple Podcast | Spotify | Google Podcast 等各大Podcast 平台 訂閱我們Sooopodcast各頻道: https://linktr.ee/sooopodcast_net Facebook: facebook.com/Sooopodcastfb Instagram: instagram.com/sooopodcast_net Youtube: http://bit.ly/sooopodcastyt",
+        "truncated": false
+      },
+      "published_at": "Mon, 14 Jul 2025 00:00:00 +0800",
+      "feed_index": 114
+    },
+    {
+      "id": "6945ec81262b3e57e3f815834dc7e52ad065dd5c43281c8753139603c221b370",
+      "guid": "82097f9c-4743-487c-bd16-6455e5505e4c",
+      "title": {
+        "text": "〈哈該書〉EP02 哈該的鼓勵令百姓回心轉意，重拿工具，繼續完成停頓已久的工程",
+        "truncated": false
+      },
+      "description": {
+        "text": "EP02 哈該的鼓勵令百姓回心轉意，重拿工具，繼續完成停頓已久的工程 〈哈該書〉1章2-4節 星期一至五，透過「穿越聖經」，一起走進聖經，得著各樣福份和好處。 --------------------------------------- 歡迎訂閱，與朋友分享 也請到Apple Podcast | Spotify | Google Podcast 等各大Podcast 平台 訂閱我們Sooopodcast各頻道: https://linktr.ee/sooopodcast_net Facebook: facebook.com/Sooopodcastfb Instagram: instagram.com/sooopodcast_net Youtube: http://bit.ly/sooopodcastyt",
+        "truncated": false
+      },
+      "published_at": "Wed, 04 Jun 2025 00:00:00 +0800",
+      "feed_index": 142
+    },
+    {
+      "id": "bb4b3389c1be90beab6e03f059e2015003d87be65bb5ea9724a4139d2a2622ee",
+      "guid": "eb77628e-a1b5-49e4-a089-a314ce945ffd",
+      "title": {
+        "text": "〈哈巴谷書〉EP02 看見周圍的罪行，哈巴谷十分難過，並向神傾吐心中的感受",
+        "truncated": false
+      },
+      "description": {
+        "text": "EP02 看見周圍的罪行，哈巴谷十分難過，並向神傾吐心中的感受 〈哈巴谷書〉1章2-5節 星期一至五，透過「穿越聖經」，一起走進聖經，得著各樣福份和好處。 --------------------------------------- 歡迎訂閱，與朋友分享 也請到Apple Podcast | Spotify | Google Podcast 等各大Podcast 平台 訂閱我們Sooopodcast各頻道: https://linktr.ee/sooopodcast_net Facebook: facebook.com/Sooopodcastfb Instagram: instagram.com/sooopodcast_net Youtube: http://bit.ly/sooopodcastyt",
+        "truncated": false
+      },
+      "published_at": "Thu, 24 Apr 2025 00:00:00 +0800",
+      "feed_index": 171
+    },
+    {
+      "id": "9d65980d839461babc0e706e060d1dc25a745da3abb34e1119bd21e84a71bb25",
+      "guid": "8190d483-b6b9-45ed-99be-c45290b71dbb",
+      "title": {
+        "text": "〈彌迦書〉EP07 只有愛神並為神生活的人，才是真正的天國子民",
+        "truncated": false
+      },
+      "description": {
+        "text": "EP07 只有愛神並為神生活的人，才是真正的天國子民 〈彌迦書〉3章12節-4章5節 星期一至五，透過「穿越聖經」，一起走進聖經，得著各樣福份和好處。 --------------------------------------- 歡迎訂閱，與朋友分享 也請到Apple Podcast | Spotify | Google Podcast 等各大Podcast 平台 訂閱我們Sooopodcast各頻道: https://linktr.ee/sooopodcast_net Facebook: facebook.com/Sooopodcastfb Instagram: instagram.com/sooopodcast_net Youtube: http://bit.ly/sooopodcastyt",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Mar 2025 00:00:00 +0800",
+      "feed_index": 199
+    }
+  ]
+}

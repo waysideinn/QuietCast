@@ -1,0 +1,7 @@
+{
+  "show_id": "1243945491",
+  "feed_url": "https://feeds.acast.com/public/shows/5e0b6ece81be870a61107c66",
+  "fetched_at": "2026-10-25T14:48:23.458730+00:00",
+  "status": "error",
+  "error": "response exceeds bounded metadata limit"
+}

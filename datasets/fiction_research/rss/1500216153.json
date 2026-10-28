@@ -1,0 +1,140 @@
+{
+  "show_id": "1500216153",
+  "feed_url": "http://www.ximalaya.com/album/32604929.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/32604929.xml",
+    "final_url": "http://www.ximalaya.com/album/32604929.xml",
+    "fetched_at": "2026-10-25T14:49:36.850089+00:00",
+    "status": 200,
+    "sha256": "b6cb343a732eff0077628c5e504d032ecafce22964497133e549620630d8806a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "锁龙诀（免费）｜盗墓笔记｜惊悚悬疑！",
+    "truncated": false
+  },
+  "description": {
+    "text": "二十年前龙的出现，本与我毫无瓜葛，却因一场事件被卷入其中，与传说中的龙结下了不解之缘，在种种线索的指引下，我不断探索事情的真相，可万万没想到，事情的真相竟然是这...... 精良制作，天影海倾心播讲~每日上午十点准时更新！ 欢迎关注！女播 蕪幽声声！ 日更一集！您每给一个五星好评专辑加更两集！！！不定期爆更！希望多多支持！ 专辑下方评论交流均会回复！欢迎评论！ 我现在是天影海！！！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 625,
+  "episodes": [
+    {
+      "id": "94bf511d46fe05e099b9201fef957c41b369f4fee2661612734401db29164539",
+      "guid": "xmly_track_498801639",
+      "title": {
+        "text": "终章 第21章-大结局 完本",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 22 Mar 2022 02:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ba7a3ef46a5b56c887cff6a77d73e19d086daff3f9315d9309c500a96e386b5d",
+      "guid": "xmly_track_448494308",
+      "title": {
+        "text": "雪峰熊岭 第32章-熊杀人",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 17 Dec 2021 02:00:00 GMT",
+      "feed_index": 89
+    },
+    {
+      "id": "61825bd0bb984e83fbd45552504d06acc2397b4ac8df515b7804028d3e9450fd",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ca35-audiofreehighqps/63/F8/CKwRIRwE6ZpqADOF-ADWTdYj-aacv2-48K.m4a",
+      "title": {
+        "text": "川地鳄潭 第63章-再来一只",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 16 Aug 2021 02:00:00 GMT",
+      "feed_index": 178
+    },
+    {
+      "id": "0fc335babfeebcecdd7c2ef6eaa6a32200bad6fc4daaf5947e7acba1ae1e16ef",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/daa1-audiofreehighqps/B1/98/CKwRIW4EDXZAAD2OAgCL4I2R-aacv2-48K.m4a",
+      "title": {
+        "text": "第84章-蜀王妃墓",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 09 Mar 2021 02:00:05 GMT",
+      "feed_index": 267
+    },
+    {
+      "id": "d51ccfa1eb92add040f8b7ef81b0628617405255228a80544493f407bb23d840",
+      "guid": "https://aod.cos.tx.xmcdn.com/group88/M0B/ED/EB/wKg5CV9r_bPyH3JUAErRCFCf1Ug405-aacv2-48K.m4a",
+      "title": {
+        "text": "第五十七章-亭亭如盖",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 24 Sep 2020 02:00:01 GMT",
+      "feed_index": 357
+    },
+    {
+      "id": "34aed1c306768715be12ee58d40904f52cb9fb004998c03e97bebb50af0ff50d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group86/M03/4D/3E/wKg5Jl77_N3gQgCCAGr8BDzNMq4919-aacv2-48K.m4a",
+      "title": {
+        "text": "第十七章-幻境丛生",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 01 Jul 2020 03:02:39 GMT",
+      "feed_index": 446
+    },
+    {
+      "id": "f3b36c9abd0f89eb8a739f8780d343cad3335ca5911b8809c7fa008666b5b048",
+      "guid": "https://aod.cos.tx.xmcdn.com/group77/M08/F6/0B/wKgO316JO9SAJldSAGouZXOVTrY949-aacv2-48K.m4a",
+      "title": {
+        "text": "第四十五章-人手棺材",
+        "truncated": false
+      },
+      "description": {
+        "text": "二十年前龙的出现，本与我毫无瓜葛，却因一场事件被卷入其中，与传说中的龙结下了不解之缘，在种种线索的指引下，我不断探索事情的真相，可万万没想到，事情的真相竟然是这...... 精良制作，清风倾心播讲~每晚24点准时更新！ 欢迎关注！女播 蕪幽声声！ 日更三集！不定期爆更！希望多多支持！ 专辑下方评论交流均会回复！欢迎评论！",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Apr 2020 02:00:26 GMT",
+      "feed_index": 535
+    },
+    {
+      "id": "3f3f69c926e566cfa7aa7d1d49dafbcbb58a92ea878db12814edcb5fa23cf69e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group76/M00/92/F1/wKgO1F5xvRqgg9ZGAGuw8Tcngi8056-aacv2-48K.m4a",
+      "title": {
+        "text": "第一卷-滇边蛇窟 第一章-听书",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 19 Jan 2020 08:51:55 GMT",
+      "feed_index": 624
+    }
+  ]
+}

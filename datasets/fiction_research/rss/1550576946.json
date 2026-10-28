@@ -1,0 +1,42 @@
+{
+  "show_id": "1550576946",
+  "feed_url": "https://anchor.fm/s/494f3a8c/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/494f3a8c/podcast/rss",
+    "final_url": "https://anchor.fm/s/494f3a8c/podcast/rss",
+    "fetched_at": "2026-10-25T14:52:00.768003+00:00",
+    "status": 200,
+    "sha256": "85c9f07d91d9af4cfa4c3cf172bd9e61ee0c8047188c4e7a1c55543d48149048"
+  },
+  "status": "ok",
+  "title": {
+    "text": "蒋勋细说红楼梦",
+    "truncated": false
+  },
+  "description": {
+    "text": "蒋勋细说红楼梦",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 1,
+  "episodes": [
+    {
+      "id": "3c7aa44aa7f8176375d125591b2b41b402add4cbfa0cd33bc21b69da6be6e40d",
+      "guid": "1c608802-8d2a-4a0a-8328-d082860fae79",
+      "title": {
+        "text": "蒋勋 - 细说红楼梦 - 第01回上",
+        "truncated": false
+      },
+      "description": {
+        "text": "蒋勋 - 细说红楼梦 - 第01回上",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 Dec 2019 18:00:00 GMT",
+      "feed_index": 0
+    }
+  ]
+}

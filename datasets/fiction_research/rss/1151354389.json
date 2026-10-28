@@ -1,0 +1,140 @@
+{
+  "show_id": "1151354389",
+  "feed_url": "https://inukaitv.com/feed/podcast/",
+  "source": {
+    "url": "https://inukaitv.com/feed/podcast/",
+    "final_url": "https://inukaitv.com/feed/podcast/",
+    "fetched_at": "2026-10-25T14:47:42.048775+00:00",
+    "status": 200,
+    "sha256": "6683edd39b829f02bfb42295f339bea2f92ded23b069293ac5c00a6a6da072cf"
+  },
+  "status": "ok",
+  "title": {
+    "text": "先のばしする人が行動してしまう心理学",
+    "truncated": false
+  },
+  "description": {
+    "text": "自然あふれる八ヶ岳。ここでは、つい『先延ばししてしまう』大人たちを、『行動してしまう』人に変身させる『人間心理学』の授業が行われていました。（癒しボイス注意） 犬飼ターボのハピサク道：https://inukai.tv/",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "explicit": "false",
+    "medium": "podcast"
+  },
+  "feed_item_count": 522,
+  "episodes": [
+    {
+      "id": "cde4e4d2b671aebbdd919980fecf214b4a6ed34451715bac17d9606af7a6e6fe",
+      "guid": "https://inukaitv.com/?p=2143",
+      "title": {
+        "text": "第524回 裏切る人は約束を破る人ではない、信頼の持ち逃げをする人",
+        "truncated": false
+      },
+      "description": {
+        "text": "誰かに裏切られたとき、信じた自分がダメだったと自分を責めてしまうことってありますよね。実は、裏切りの本質は約束違反ではありません。裏切った側が、なぜ、平気な顔ができるのか、知りたい方は、ぜひ、最後まで聞いてくださいね。見抜けなかった自分を責めなくなる視点が分かります。 犬飼ターボのブログ",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Oct 2026 12:44:03 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "89b51755e61cf84e04132eecb8efaa1f98c92132bd800537fcd08677a7329d34",
+      "guid": "https://inukaitv.com/?p=1854",
+      "title": {
+        "text": "第448回 失敗を責めても良くはならない理由とは",
+        "truncated": false
+      },
+      "description": {
+        "text": "失敗した時、つい、イライラして自分や他人を責めてしまうことってありますよね。その怒りを相手にぶつけてしまうと、さらに状況を悪化させてしまうことを知っていますか？もし、あなたが、より良い状態に改善したいのなら、是非、最後まで聞いてくださいね。魔法の質問を一つ、プレゼントしています。 犬飼ターボのブログ",
+        "truncated": false
+      },
+      "published_at": "Fri, 02 May 2025 12:45:22 +0000",
+      "feed_index": 74
+    },
+    {
+      "id": "90fb3334b619b382ea567af82b39b949bfe927ea9b97a43ff177220398baa726",
+      "guid": "https://inukaitv.com/?p=1556",
+      "title": {
+        "text": "第373回 今から未来を素敵にするための｢3つ｣の心理法則",
+        "truncated": false
+      },
+      "description": {
+        "text": "「未来」を素敵にしたいけど、どうすればいいのか分からない、と言うあなたに、犬飼ターボから素敵なプレゼントです。もし、過去の自分が『ダメダメ』であったとしても、実は、意外と簡単に「未来」は変えることができます。もし、あなたが「未来」を素敵にしたいのなら、是非、この「３つ」の心理法則を身につけてくださいね。「未来」を良くするためのきっかけが掴めるかもしれません。 犬飼ターボのブログ",
+        "truncated": false
+      },
+      "published_at": "Fri, 17 Nov 2023 13:10:45 +0000",
+      "feed_index": 149
+    },
+    {
+      "id": "409a3ab251ef5ab2bc3f3d7940e1fb99926fa8d4005703c1f4ed0f73edab75be",
+      "guid": "https://inukaitv.com/?p=1231",
+      "title": {
+        "text": "第299回 ビジネスで成功する人、成功しない人の違い",
+        "truncated": false
+      },
+      "description": {
+        "text": "ビジネスで成功する人になるためには、何をすればいいのか？という質問に対して、犬飼ターボが『成功への３つの秘訣』について語ります。なぜ、センターピースは「行動のための心理学」を伝えているのか？長期的に成功し続けるためには、どんなことに気をつければいいのか？ビジネスでも、人生でも成功したい方は、是非、最後まで聴いてくださいね。 犬飼ターボのブログ",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Jun 2022 02:44:34 +0000",
+      "feed_index": 223
+    },
+    {
+      "id": "0e63cc13854a169d88860223a0885237a66d7e9a4743988389bced0cfe4f25db",
+      "guid": "https://inukaitv.com/?p=929",
+      "title": {
+        "text": "第224回 一生懸命したアドバイスに感謝されない時の対処法",
+        "truncated": false
+      },
+      "description": {
+        "text": "相談ごとに一生懸命にアドバイスをしているのに、ちっとも感謝されないことを寂しく感じてしまうと悩む”アイカ”に、犬飼ターボが、その原因を掘り起こしていきます。他人のことを分かっている、と認められたいと感じている方は、是非、最後まで聞いてください。自己肯定感を高めるためのヒントが得られるかもしれません。 犬飼ターボのブログ",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Dec 2020 07:00:51 +0000",
+      "feed_index": 298
+    },
+    {
+      "id": "9d99e5b280d7970c0d184c34d3f0cb016f628f13910ba3936d3d7a636a4e644b",
+      "guid": "https://inukaitv.com/?p=608",
+      "title": {
+        "text": "第150回 恋人の顔色をうかがってしまう人へ",
+        "truncated": false
+      },
+      "description": {
+        "text": "LINEで返事がないなど、つい、不安になるような人を好きになってしまうというコシケンに、犬飼ターボが「恋愛のメカニズム」について、わかりやすく解説をしていきます。一緒にいても、相手の顔色を気にしてしまう、という恋愛傾向のある方は、是非、最後まで聞いてください。どうすれば、その不安を克服できるのか、その対処法もお伝えしています。 犬飼ターボのハピサク道",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Jul 2019 17:00:34 +0000",
+      "feed_index": 372
+    },
+    {
+      "id": "471977ed647d942e6b5c8caa5eb20bd01f77e4fc58d1c552acf5197a22f4fa50",
+      "guid": "https://inukaitv.com/?p=313",
+      "title": {
+        "text": "第75回 「安心」を感じる方法",
+        "truncated": false
+      },
+      "description": {
+        "text": "誰もが『失敗』したくない、ですよね。でも、「失敗した」と思っても現実世界では失敗していないことをご存知ですか？ 受講生の”シェフ”が、料理に対して抱いている”失敗すること”への不安を題材に、本当の失敗は起きない理由について人間心理学の視点から解説しています。 もっと詳しく知りたくなった方は、一年に１回だけ開催される「センターピース１日集中セミナー」が2018年2月、3月に東京と大阪で開催されますので参加してみてください。詳しくは「犬飼ターボ センターピース」で検索してくださいね。 犬飼ターボ センターピース→ http://inukai.tv/center_piece/center_taiken.htm 犬飼ターボのハピサク道",
+        "truncated": false
+      },
+      "published_at": "Tue, 06 Feb 2018 17:00:11 +0000",
+      "feed_index": 447
+    },
+    {
+      "id": "f36e741a15d73c5427fad5f3093719f1949373406f7b7c6e44fcdd208599ab02",
+      "guid": "https://inukaitv.com/?p=52",
+      "title": {
+        "text": "第1回 人が行動できない理由とは？",
+        "truncated": false
+      },
+      "description": {
+        "text": "モチベーションに頼らず、行動したくなる人になるために、どういう”手順”で”何を”すればいいのか。 人間心理学をベースに、行動できない人が行動できるようになる成長の仕組みをわかりやすくお伝えしています。 犬飼ターボのハピサク道",
+        "truncated": false
+      },
+      "published_at": "Tue, 06 Sep 2016 17:00:18 +0000",
+      "feed_index": 521
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/30855436.xml",
+    "final_url": "http://www.ximalaya.com/album/30855436.xml",
+    "fetched_at": "2026-10-26T07:56:05.370174+00:00",
+    "status": 200,
+    "sha256": "b183a29115cc34b9e29a41fcf255319bec625d48bc5e90d8eedbff890f8c3591"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "情感犯罪 |大案纪实 |真实案件恐怖 |尚文说大案",
+      "truncated": false
+    },
+    "description": {
+      "text": "听尚文跟你说！真实的故事，虐心的情节，匪夷所思的案情，尽在尚文说大案《大案纪实...",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "喜马拉雅@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "大舌头尚文"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "大舌头尚文"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "True Crime"
+      ],
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Documentary"
+      ],
+      [
+        "History"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/30855436",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 596,
+    "episodes": [
+      {
+        "title": {
+          "text": "千万老总导演毒杀案：真实情感大案",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_640634854"
+      },
+      {
+        "title": {
+          "text": "搞笑的绑架：真实情感大案",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 85,
+        "guid": "https://aod.cos.tx.xmcdn.com/storages/543a-audiofreehighqps/E9/31/CKwRIaIFQfhyADugnwDtoeO0.m4a"
+      },
+      {
+        "title": {
+          "text": "毒妻争房产：纪实情感大案",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 170,
+        "guid": "https://aod.cos.tx.xmcdn.com/storages/6c53-audiofreehighqps/8A/80/GKwRINsGY684AE3CWAFcSaxb.m4a"
+      },
+      {
+        "title": {
+          "text": "钱色交易下的血案：纪实情感大案",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 255,
+        "guid": "https://aod.cos.tx.xmcdn.com/storages/4943-audiofreehighqps/67/05/GKwRIJIGqLwJAE7ZWAGAevpG.m4a"
+      },
+      {
+        "title": {
+          "text": "千万富翁与小三：真实情感大案",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 340,
+        "guid": "https://aod.cos.tx.xmcdn.com/storages/c23c-audiofreehighqps/69/83/CKwRIMAFQ2NZAFQNNADt_AwB-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "跳楼自杀的少年：真实情感大案",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 425,
+        "guid": "xmly_track_527295508"
+      },
+      {
+        "title": {
+          "text": "岳父砍死副总婿：纪实情感大案",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 510,
+        "guid": "xmly_track_610291679"
+      },
+      {
+        "title": {
+          "text": "案件纪实｜养老骗局真相，消失的养老金",
+          "truncated": false
+        },
+        "description": {
+          "text": "江西南昌一养老诈骗案，揭露现实痛点。老两口为儿女倾尽所有，晚年却遭诈骗，家庭矛盾凸显。老人孤独寻安慰，误入网上理财陷阱，积蓄几乎被骗光。一次偶然，老人踏入“理想”养老院，看似美满的背后隐藏惊人真相。养老梦碎，家人觉醒，但为时已晚。此案警示人间冷暖，养老需谨慎，亲情与金钱的纠葛引人深思。警惕骗局，珍惜身边人，共筑温馨晚年不是梦。",
+          "truncated": false
+        },
+        "feed_index": 595,
+        "guid": "xmly_track_743400789"
+      }
+    ]
+  }
+}

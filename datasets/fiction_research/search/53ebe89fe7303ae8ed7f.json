@@ -1,0 +1,63 @@
+{
+  "group": "fiction",
+  "term": "赘婿",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E8%B5%98%E5%A9%BF&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E8%B5%98%E5%A9%BF&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:41:00.596799+00:00",
+    "status": 200,
+    "sha256": "e3e0095b231223b063cb2eacd0be201ddcfd4140e4263300fe7ebb36a1c19d84"
+  },
+  "result_count": 2,
+  "records": [
+    {
+      "collectionId": 1770235555,
+      "trackId": 1770235555,
+      "collectionName": "[免费]无敌赘婿|超强魔婿|最佳医婿|最强女婿|都市豪婿|称心龙婿|多播",
+      "artistName": "丹丹在发呆",
+      "feedUrl": "https://www.ximalaya.com/album/83444089.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E6%97%A0%E6%95%8C%E8%B5%98%E5%A9%BF-%E8%B6%85%E5%BC%BA%E9%AD%94%E5%A9%BF-%E6%9C%80%E4%BD%B3%E5%8C%BB%E5%A9%BF-%E6%9C%80%E5%BC%BA%E5%A5%B3%E5%A9%BF-%E9%83%BD%E5%B8%82%E8%B1%AA%E5%A9%BF-%E7%A7%B0%E5%BF%83%E9%BE%99%E5%A9%BF-%E5%A4%9A%E6%92%AD/id1770235555?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "社会与文化",
+        "情感与人际关系"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 55,
+      "releaseDate": "2024-10-20T16:55:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1685131238,
+      "trackId": 1685131238,
+      "collectionName": "都市邪尊赘婿（都市修仙小说）",
+      "artistName": "有声的雪愿",
+      "feedUrl": "https://www.ximalaya.com/album/74644153.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%83%BD%E5%B8%82%E9%82%AA%E5%B0%8A%E8%B5%98%E5%A9%BF-%E9%83%BD%E5%B8%82%E4%BF%AE%E4%BB%99%E5%B0%8F%E8%AF%B4/id1685131238?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 295,
+      "releaseDate": "2023-05-18T05:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    }
+  ]
+}

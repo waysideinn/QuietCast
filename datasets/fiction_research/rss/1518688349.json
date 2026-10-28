@@ -1,0 +1,140 @@
+{
+  "show_id": "1518688349",
+  "feed_url": "http://www.ximalaya.com/album/38955006.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/38955006.xml",
+    "final_url": "http://www.ximalaya.com/album/38955006.xml",
+    "fetched_at": "2026-10-25T14:52:34.377638+00:00",
+    "status": 200,
+    "sha256": "03797ac56f111c6b8832dc877248bc24b010a98ea0b7e7571528f8615e67d0ca"
+  },
+  "status": "ok",
+  "title": {
+    "text": "ARTsOUT | 艺术出圈",
+    "truncated": false
+  },
+  "description": {
+    "text": "一档坐标美国的艺术跨界科普/生活方式播客 2020年获得喜马拉雅全国“播客大赛”泛知识三等奖 「联系我们」 微博「ARTsOUT艺术出圈」 公众号「ARTsOUT艺术出圈」 即刻「ARTsOUT-Lingzi」 欢迎加入我们的听友群，添加微信号[contact removed] 即可入群 商业合作：[email removed] 欢迎支持我们的创作，爱发电： https://afdian.net/@artsout",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 75,
+  "episodes": [
+    {
+      "id": "d9501a55769f6c9d78ce2dc2defde1651e2680aba3440424dcc9535faffb0ef9",
+      "guid": "xmly_track_862952639",
+      "title": {
+        "text": "S3E1 戛纳生存指南：当中国电影人闯入\"顶流名利场\"",
+        "truncated": false
+      },
+      "description": {
+        "text": "「本期内容」 戛纳电影节的幕后故事你知道多少？这期我邀请了刚从戛纳回来的好友Alex，他作为中国馆外联负责人亲历现场，将为我们揭秘电影节的真实面貌。想知道中国电影人如何在国际舞台上发光发热吗？Alex还分享了与明星近距离接触的经历，以及一些意想不到的小插曲。让我们一起探索这个充满魅力的世界吧！ 「嘉宾介绍」 支严屹伦 alex，UCLA本科，USC 电影商业硕士，迪士尼漫威全球品牌策略+环球影业国际营销，前华为广告制片。作为主演监制 参与20+影片。戛纳中国馆外联负责人， 小红书「好莱坞男闺蜜Alex」主理人 「时间线」 02:03 戛纳电影节外联负责人的心路历程：自律与成就的追求 04:36 戛纳电影节志愿者申请之路：一个外联负责人的故事 09:12 负责与中国电影行业相关的论坛和活动，解决挑战和问题 13:50 穿错衣服的尴尬经历：入场券作废、皮鞋高跟鞋的抉择与求生之道 18:26 中国电影新趋势：创新力与影响力并存的青年导演作品 23:07 挑战你的就是心脏：探索首映现场的气氛与拥挤现象 27:46 中国馆论坛：与高圆圆、舒淇和周冬雨等明星的亲密接触和对话 32:23 中国电影在戛纳电影节的出色表现 37:01 中国电影在国际舞台上的影响力：戛纳电影节的观察与思考 41:39 戛纳电影节：电影探索与故事叙事的平衡之道 46:16 戛纳电影节：电影人的艺术探索与创新的摇篮 50",
+        "truncated": true
+      },
+      "published_at": "Mon, 02 Jun 2025 23:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "be620a6963d5232e2712555f0c1e6727a33db551d5e737460f86802b7adc9c42",
+      "guid": "xmly_track_670424373",
+      "title": {
+        "text": "S2E31 「行十万里」vol.3 | 阿拉伯掠影：千年文明的回响与未来的探索",
+        "truncated": false
+      },
+      "description": {
+        "text": "「本期内容」 本期我们将深入探索阿拉伯国家的魅力与多样性。我们将从约旦的佩特拉古城和死海出发，揭开其自然与人文的神秘面纱，再到埃及，感受千年文明与现代不文明的强烈对比。在摩洛哥，我们会体验手工艺之都的纯粹与热情，同时观察语言对于一个国家地位的影响。此外，我们还将讨论阿拉伯世界如何在历史的漩涡中寻找独立发展之路，以及其女性地位的现状和未来。本期节目，我们不仅将通过旅行的眼镜看世界，更会反思历史、文化与现实的交融，共同探讨阿拉伯国家未来的可能性。 「时间线」 00:01:08 本期介绍 00:01:40 摩洛哥，约旦，埃及的共同点 00:03:25 用一个文艺作品形容这三个地方 00:07:16 在约旦的旅行经历 00:24:05在埃及的旅行经历 00:46:15 在摩洛哥的旅行经历 01:18:20 给三个国家排序 01:32:12 总结 「联系我们」 微博「ARTsOUT艺术出圈」 公众号「ARTsOUT艺术出圈」 即刻「ARTsOUT-Lingzi」 欢迎加入我们的听友群，添加微信号[contact removed] 即可入群 商业合作：[email removed] 欢迎支持我们的创作，爱发电：https://afdian.net/@artsout",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Oct 2023 19:56:32 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "79842ed9d4ef8f91eb8ce0121309c25edfddcdc05d9136f89cbac063fe1e28cc",
+      "guid": "xmly_track_608078933",
+      "title": {
+        "text": "S2E21「先干为敬」vol.5 | 西班牙葡萄酒巡游之经典产区篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "「关于主播」 冯昕，坐标纽约，资深酒类爱好者，美国某互联网大厂码农。拥有多个专业级别的酒类证书，其中包括： - WSET Diploma 4级 - WSET 3级: 葡萄酒, 清酒, 烈酒 - Court of Master Sommelier, Certified: 侍酒师大师公会 认证侍酒师, 高级在读 - Japan Sommelier Association, Sake Diploma: 日本侍酒师协会 清酒文凭 - Certified Spanish Wine Specialist, ICEX Spain Trade and Investment & Foods and Wines from Spain 认证西班牙葡萄酒专家 – 西班牙投资促进局 及 西班牙食品葡萄酒协会 「时间线」 00:33【本期节目介绍】 01:17【里奥哈 Rioja 介绍】 01:51【里奥哈地理位置】 02:05 * 里奥哈 阿拉维萨 Rioja Alavesa 02:38 * 上里奥哈 Rioja Alta 03:04 * 洛格罗尼奥 Logroño 现为拉里奥哈 (La Rioja) 单省自治区首府 03:11 * 东里奥哈 Rioja Oriential (Baja) 03:50【里奥哈的历史】 05:41 * 里奥哈在1932年成为第一批法定产区 DO (Denominación de",
+        "truncated": true
+      },
+      "published_at": "Wed, 01 Feb 2023 01:17:01 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "e9140a05f5b43f99184c951b1b3d00475c4387e9a67da4b852a904c26caa485a",
+      "guid": "xmly_track_516615229",
+      "title": {
+        "text": "S2E10 “我辞掉咨询工作卖掉了纽约的房子开启了环游世界的背包客生活”",
+        "truncated": false
+      },
+      "description": {
+        "text": "「嘉宾介绍」 Hannah， 前美国四大会计师事务所信息技术咨询顾问，也是一个旅行热爱者。自从2021年十月辞职离开美国，和老公一起做起了全职背包客。 「时间线」 00:01:36 嘉宾介绍 00:02:27 如何放下之前体面的工作稳定的生活去开始一段充满未知的旅行？ 00:07:38 疫情期间境外旅行是怎样一种体验？ 00:18:42 最合适“躺平”的国家——伊朗 00:28:08 不仅是肯尼亚同样也适合看动物大迁移的国家——坦桑尼亚 00:35:47 旅行到当下的心境是什么样的？跟之前稳定生活的心态比较 00:38:57 旅行的终点站是祖国 00:42:20 “希望疫情早点过去，大家可以奔去想去的地方” 「Reference」 机票： Skyscanner 各个平台机票价格比较网站， 有比较多廉价航空机票可以搜到。 Kayak 好处是会预测未来票价格的涨跌，给你买或者等等的建议。另外就是设定航线提醒，设定的航 线如果降价可以发邮件提醒你。 Expedia：美国版携程，没时间比价的话，这个比较综合方便。 酒店： Booking客服比较给力，大部分酒店一定时间内可免费取消预订，适合办理一些签证需要提前出局住 宿预订证明。 Agoda 在东南亚影响力比较大， 经常有促销。 Hotels.com十晚送一晚免费，适合代订酒店或者住酒店频次较高的人 其他住宿： Airbnb在一百多个国家都",
+        "truncated": true
+      },
+      "published_at": "Thu, 31 Mar 2022 04:24:23 GMT",
+      "feed_index": 32
+    },
+    {
+      "id": "1b7622e6b788df808c86353615a7e76583adac2fc1bef81519fa917fd402b924",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0502-audiofreehighqps/C0/1C/CKwRIW4Ee0vWABAAAACtqyRj.mp3",
+      "title": {
+        "text": "S2E1 不敢言说的爱，艺术帮你喊出来 feat.斜杠青年研究所",
+        "truncated": false
+      },
+      "description": {
+        "text": "艺术出圈x斜杠青年研究所 520特别节目 适合表白的不只有谐音梗！还有什么能成为我们的“情书”？希望本期七则关于「艺术」与「爱」的故事，能给你带来启发和勇气。 世界上本没有520，表白的人多了，也便成了520。——歆歆&凌子 「斜杠青年」（排序按节目顺序） 尚尚：咨询师/斯坦福中文清唱团Sing++成员 阿诗：舞蹈爱好者/教育行业从业者/公众号“生春走青”主理人 方老师：数据科学家/摄影师。Instagram: @fanghongsheng 李诗宇Cap：猫奴/前商科生/电影摄影师。拍摄作品：与陆川导演合作拍摄张译出演的Volvo广告短片/九连真人《夜游神》MV 凯文：「暮酒朝谈」主播 Maverick：猫奴/机器学习工程师/业余投资人 菩提：「暮酒朝谈」主播 「时间线」 [01:11] 梦幻联动——爱艺术的斜杠青年 [04:29 ] 尚尚：隔离期间的“云”合唱 [10:31] 阿诗：芭蕾女如何转爱街舞 [18:51] 方老师：我镜头下的那些陌生人 [28:48] Cap：我和李安一样幸运，有个支持我电影梦的老婆 [38:42] 凯文：音乐是把万能钥匙 [45:50] Maverick：你相信“博物馆邂逅理论”吗？ [56:43] 菩提：以诗传情，见字如晤 [65:09] 520快乐！也说说出你与艺术的情缘 「音乐」 MONGOL800 - 小さな恋のうた 斯坦福中文清唱团-星加加",
+        "truncated": true
+      },
+      "published_at": "Wed, 19 May 2021 20:00:58 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "e5aa610616b170fb5f8a7f892a54754e819a4843e1c45ba30bec3314a0c5b127",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a259-audiofreehighqps/C4/B3/CMCoOSQDimTGAr-vBQBoFut0.mp3",
+      "title": {
+        "text": "S1E22 唯尔的一些建议｜新手摄影指南",
+        "truncated": false
+      },
+      "description": {
+        "text": "这一期摄影师陈唯尔来聊聊新手如何入门摄影。 「关于嘉宾」 陈唯尔，现居纽约，就职于某私募基金的数据科学家同时也是一名摄影师。他生于上海，留学德国和美国，现在作为一名活跃在纽约的摄影师拍摄与众多明星艺人合作过.这一期跟摄影师陈唯尔聊了聊新手如何入门摄影以及素人如何做好模特。 「联系我们」 微博「ARTsOUT艺术出圈」 公众号「ARTsOUT艺术出圈」 即刻「ARTsOUT-Lingzi」 欢迎加入我们的听友群，添加微信号[contact removed] 即可入群 商业合作：[email removed] 欢迎支持我们的创作，爱发电： https://afdian.net/@artsout 「时间线」 00:00:32 如今趋势从图像表达向视频表达的转变，在摄影师这里有明显的体现 00:01:05 图像摄影师和视频摄影师的界限变得模糊 00:02:01 短视频摄影的兴起 00:04:11 摄影新手如何成为摄影师 00:06:29 摄影小白如何入门摄影 00:08:49 手机软件修图指南 00:10:33 素人如何不僵硬的摆pose 00:13:08 一张好看的照片成果是归功于模特还是摄影师？ 「节目中提到的信息」 -B站：陈漫ChenMan，林海音Haiyin，-LKs-10分钟拍大片挑战 -iPhone摄影大赛获得者：Eric Zhang -镜头：35mm 50mm定焦比较容易上手",
+        "truncated": true
+      },
+      "published_at": "Wed, 18 Nov 2020 04:23:39 GMT",
+      "feed_index": 53
+    },
+    {
+      "id": "86bb61d286da07b0ab9a8e1a519ac1a43570a75a33d5e4612a2deff2daa66bcc",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/478b-audiofreehighqps/D6/CC/CMCoCqkC4nQqAthp_ABBfHos.mp3",
+      "title": {
+        "text": "S1E12 从校友李安出发，聊聊东亚的导演和其作品（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "这一期请来了雁冰跟我们聊一聊东亚电影导演相关的话题。 「关于嘉宾」 雁冰，BFA Film，毕业于纽约大学 Tisch School of the Arts 「联系我们」 微博「ARTsOUT艺术出圈」 公众号「ARTsOUT艺术出圈」 即刻「ARTsOUT-Lingzi」 欢迎加入我们的听友群，添加微信号[contact removed] 即可入群 商业合作：[email removed] 欢迎支持我们的创作，爱发电： https://afdian.net/@artsout 「节目章节」 00:00:37 日本代表导演小津安二郎以及其作品东京物语 00:03:25 韩国代表导演奉俊昊以及韩国类型片的发展 00:09:47 日本韩国电影对中国电影发展的借鉴意义 00:11:10 剧本的重要性 00:15:57 呼吁大家在疫情结束后继续回归影院支持优秀作品 「音乐版权侵删」",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Jul 2020 19:08:30 GMT",
+      "feed_index": 63
+    },
+    {
+      "id": "9b9631cbcabc531e3f2898f713162aad9fbac953070efd82f0be630032054ff3",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/01a5-audiofreehighqps/6F/6A/CMCoOSIC4QY4BZy4KgBBMzbx.mp3",
+      "title": {
+        "text": "S1E01 让艺术出圈 纽约金融人x日本设计博士",
+        "truncated": false
+      },
+      "description": {
+        "text": "这期ARTsOUT我请到了我的高中小伙伴秋子来跟我一起探讨了艺术与设计。以及我作为一个在美国生活的“半圈内人”，秋子作为在日本生活的“圈内人”，我们在两种不同的生活环境和文化熏陶下对艺术的感受，和对现代生活中如何让“艺术出圈”的看法。同时秋子也分享了她在日本读设计学博士的经历，也分享了一些关于学习平面设计的小常识。也欢迎大家关注我们的公众号“ARTsOUT”。 「关于嘉宾」 余秋子，平面设计师。现居日本大阪。大阪艺术大学设计学科博士毕业，专攻字体设计。 「联系我们」 微博「ARTsOUT艺术出圈」 公众号「ARTsOUT艺术出圈」 即刻「ARTsOUT-Lingzi」 欢迎加入我们的听友群，添加微信号[contact removed] 即可入群 商业合作：[email removed] 欢迎支持我们的创作，爱发电：https://afdian.net/@artsout 「关于节目里的BGM」 我专门在网易云音乐里建立了节目的歌单，大家可以搜索“ARTsOUT”歌单就可以了。",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Jun 2020 02:48:39 GMT",
+      "feed_index": 74
+    }
+  ]
+}

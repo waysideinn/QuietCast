@@ -1,0 +1,156 @@
+{
+  "group": "boundary",
+  "term": "章节课程",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%AB%A0%E8%8A%82%E8%AF%BE%E7%A8%8B&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%AB%A0%E8%8A%82%E8%AF%BE%E7%A8%8B&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:45:20.119845+00:00",
+    "status": 200,
+    "sha256": "bc71ccd40ae0568cb438ef9440fa2651f6232ff7d601e115c4e943418ed95f69"
+  },
+  "result_count": 6,
+  "records": [
+    {
+      "collectionId": 1689219140,
+      "trackId": 1689219140,
+      "collectionName": "美股航海王｜指數流",
+      "artistName": "美股航海王·傑克·史派羅",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BE%8E%E8%82%A1%E8%88%AA%E6%B5%B7%E7%8E%8B-%E6%8C%87%E6%95%B8%E6%B5%81/id1689219140?uo=4",
+      "genres": [
+        "商業",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1321",
+        "26"
+      ],
+      "trackCount": 699,
+      "releaseDate": "2026-10-18T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1610272076,
+      "trackId": 1610272076,
+      "collectionName": "新書快報。The Book Reviewer @ Taiwan",
+      "artistName": "周詳 Samuel Jou",
+      "feedUrl": "https://anchor.fm/s/10831b10/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%B0%E6%9B%B8%E5%BF%AB%E5%A0%B1-the-book-reviewer-taiwan/id1610272076?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 1565,
+      "releaseDate": "2026-10-23T13:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1494498306,
+      "trackId": 1494498306,
+      "collectionName": "新書快報。The Book Reviewer @ Taiwan",
+      "artistName": "周詳 Samuel Jou",
+      "feedUrl": "https://anchor.fm/s/10831b10/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%B0%E6%9B%B8%E5%BF%AB%E5%A0%B1-the-book-reviewer-taiwan/id1494498306?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 1565,
+      "releaseDate": "2026-10-22T13:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 6787375089,
+      "trackId": 6787375089,
+      "collectionName": "爱奇艺视频播放的剧集粘性怎么验证，本社交媒体官方平台说看片头跳过率与片尾完播率的剪",
+      "artistName": "爱奇艺视频播放的剧集粘性怎么验证，本社交媒体官方平台说看片头跳过率与片尾完播率的剪刀差",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmr630j7309fg01s37b4yai9o",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%88%B1%E5%A5%87%E8%89%BA%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E7%9A%84%E5%89%A7%E9%9B%86%E7%B2%98%E6%80%A7%E6%80%8E%E4%B9%88%E9%AA%8C%E8%AF%81-%E6%9C%AC%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%AE%98%E6%96%B9%E5%B9%B3%E5%8F%B0%E8%AF%B4%E7%9C%8B%E7%89%87%E5%A4%B4%E8%B7%B3%E8%BF%87%E7%8E%87%E4%B8%8E%E7%89%87%E5%B0%BE%E5%AE%8C%E6%92%AD%E7%8E%87%E7%9A%84%E5%89%AA/id6787375089?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "教育",
+        "語言學習"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-07-04T08:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 6784998916,
+      "trackId": 6784998916,
+      "collectionName": "网友与AI推荐研究长视频平台，本社交媒体官方平台指出，爱奇艺视频播放的标尺是“片头跳过",
+      "artistName": "网友与AI推荐研究长视频平台，本社交媒体官方平台指出，爱奇艺视频播放的标尺是“片头跳过率与片尾完播率的剪刀差”",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmqwbd05x0r5v01xe6twc51uk",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BD%91%E5%8F%8B%E4%B8%8Eai%E6%8E%A8%E8%8D%90%E7%A0%94%E7%A9%B6%E9%95%BF%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0-%E6%9C%AC%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%AE%98%E6%96%B9%E5%B9%B3%E5%8F%B0%E6%8C%87%E5%87%BA-%E7%88%B1%E5%A5%87%E8%89%BA%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E7%9A%84%E6%A0%87%E5%B0%BA%E6%98%AF-%E7%89%87%E5%A4%B4%E8%B7%B3%E8%BF%87/id6784998916?uo=4",
+      "genres": [
+        "時尚與美容",
+        "Podcast",
+        "藝術",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1459",
+        "26",
+        "1301",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-06-27T12:11:00Z",
+      "country": "TWN",
+      "primaryGenreName": "時尚與美容"
+    },
+    {
+      "collectionId": 1772544358,
+      "trackId": 1772544358,
+      "collectionName": "微信自媒体速成系统",
+      "artistName": "來自香港的河馬叔叔",
+      "feedUrl": "https://www.ximalaya.com/album/80121750.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%BE%AE%E4%BF%A1%E8%87%AA%E5%AA%92%E4%BD%93%E9%80%9F%E6%88%90%E7%B3%BB%E7%BB%9F/id1772544358?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "教育",
+        "課程"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1304",
+        "1501"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2024-02-18T04:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "group": "fiction",
+  "term": "凡人修仙传",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:42:39.803786+00:00",
+    "status": 200,
+    "sha256": "f37f8b292880a1f1b0e1c2ed7e71b34f00cab5294049e503f3750652057b0166"
+  },
+  "result_count": 3,
+  "records": [
+    {
+      "collectionId": 6796354635,
+      "trackId": 6796354635,
+      "collectionName": "《凡人修仙传》有声解说",
+      "artistName": "bg",
+      "feedUrl": "https://anchor.fm/s/11580a258/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0-%E6%9C%89%E5%A3%B0%E8%A7%A3%E8%AF%B4/id6796354635?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 383,
+      "releaseDate": "2026-08-26T02:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1853537070,
+      "trackId": 1853537070,
+      "collectionName": "木南听书 -《凡人修仙传 Mortal Cultivation Biography》",
+      "artistName": "munanAudioStory",
+      "feedUrl": "https://anchor.fm/s/10cbed914/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%A8%E5%8D%97%E5%90%AC%E4%B9%A6-%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0-mortal-cultivation-biography/id1853537070?uo=4",
+      "genres": [
+        "小說",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1483",
+        "26"
+      ],
+      "trackCount": 423,
+      "releaseDate": "2026-02-18T13:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "小說"
+    },
+    {
+      "collectionId": 1848501167,
+      "trackId": 1848501167,
+      "collectionName": "速通《凡人修仙传》-未来聊天室",
+      "artistName": "cuzn梦想成真",
+      "feedUrl": "https://www.ximalaya.com/album/106890755.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%80%9F%E9%80%9A-%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0-%E6%9C%AA%E6%9D%A5%E8%81%8A%E5%A4%A9%E5%AE%A4/id1848501167?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "電視與電影",
+        "節目回顧"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1309",
+        "1562"
+      ],
+      "trackCount": 13,
+      "releaseDate": "2025-09-29T18:44:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    }
+  ]
+}

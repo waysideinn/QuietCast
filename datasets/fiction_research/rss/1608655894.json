@@ -1,0 +1,140 @@
+{
+  "show_id": "1608655894",
+  "feed_url": "http://www.ximalaya.com/album/52021076.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/52021076.xml",
+    "final_url": "http://www.ximalaya.com/album/52021076.xml",
+    "fetched_at": "2026-10-25T14:43:46.966022+00:00",
+    "status": 200,
+    "sha256": "049ff7a718a4a19c494816a1fc0ec48344dcbbf9fd3d75a78d2f9ab56b802c58"
+  },
+  "status": "ok",
+  "title": {
+    "text": "付少缠情：霸爱失忆妻｜精品免费多人有声剧｜甜宠虐恋",
+    "truncated": false
+  },
+  "description": {
+    "text": "看冷面总裁的情深似海/看心中的她柔情无限 【内容简介】 一场阴谋，她以死救赎。记忆缺失后的从新相见，带着另一个阴谋的开端徐徐展开。你不会认错，我不会辜负，即使从新来过，我爱你如旧。但是背后盘综错节的情感一次次离间两颗不曾怀疑的心脏，利益纠葛让你我他陷入痛苦的囹圄，最终一切风平浪静，被撕裂的伤口就像摔碎的破镜再难重圆。我是念小北，我也是时小年，回不去的过往，终究成了往昔。但是不曾改变的是，我爱你，无论我是谁。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 86,
+  "episodes": [
+    {
+      "id": "dc911ca8441ec34c3b2a1e8f9b200cd3cf711b6645345ebbfa27e2edc1288e00",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5317-audiofreehighqps/82/F1/CKwRIDoE56sMABOD2QDVXdiC.m4a",
+      "title": {
+        "text": "付少缠情：霸爱失忆妻｜片花（糖刀糖刀糖刀刀）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 10 Aug 2021 02:44:21 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "a8b895518f45edb8d9f4c57700b7e04a39fcb45533e74ba2ec39968220e6cabc",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8242-audiofreehighqps/3C/15/CKwRIRwE6_6sAEqDjADXGcS7.m4a",
+      "title": {
+        "text": "付少缠情：霸爱失忆妻 012 ——被绑架",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 13 Aug 2021 09:30:01 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "c03a012a339468698cd8f0553e83c1bbd75ad45d7b7efb31d41c17c60bbad8fa",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0263-audiofreehighqps/40/8E/CKwRIW4E8-esAEqmyADZpaSt.m4a",
+      "title": {
+        "text": "付少缠情：霸爱失忆妻 024 ——把桌上的酒喝完",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Aug 2021 09:30:03 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "89991291863c064770c5eaae22a70fbb89a4c22761cb903574d04d1f90ba2cdc",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c0a4-audiofreehighqps/00/2E/CKwRIUEE-9C-AEcRBQDcDsBS.m4a",
+      "title": {
+        "text": "付少缠情：霸爱失忆妻 036 ——失明了",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 Aug 2021 09:30:04 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "011b06b680a972dd9005f8c3739013fd3cdaa8658e1d30daa36456e0d4771c55",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/90bb-audiofreehighqps/53/60/CKwRIRwFBQt5AEdKSgDeoN0g.m4a",
+      "title": {
+        "text": "付少缠情：霸爱失忆妻 049 ——我该去死",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 01 Sep 2021 09:30:05 GMT",
+      "feed_index": 49
+    },
+    {
+      "id": "e39d69076f6ea945feeadf7b1e74a7334e63e114c264c9d1f7d7ca93b78c675a",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/def9-audiofreehighqps/94/27/CKwRIMAFDPSpAEVtCgDgrqbC.m4a",
+      "title": {
+        "text": "付少缠情：霸爱失忆妻 061 ——不眠之夜",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 07 Sep 2021 09:30:06 GMT",
+      "feed_index": 61
+    },
+    {
+      "id": "3a552cab080a9950caa3ce4c1367bfaa41d5fde5e2a06f700a382c5d75cccdd6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3944-audiofreehighqps/87/84/CKwRIJIFFN2hAEvVMQDiohtj.m4a",
+      "title": {
+        "text": "付少缠情：霸爱失忆妻 073 ——时间转角",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Sep 2021 09:30:06 GMT",
+      "feed_index": 73
+    },
+    {
+      "id": "acc156871fca5a9fdf0daa1eff32b209e4dbf2a245942dc76ea81ea6c11fd4e6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7858-audiofreehighqps/5F/51/CKwRINsFHMa1AHT4jgDkkeJ7.m4a",
+      "title": {
+        "text": "付少缠情：霸爱失忆妻 085 大结局（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 19 Sep 2021 09:30:07 GMT",
+      "feed_index": 85
+    }
+  ]
+}

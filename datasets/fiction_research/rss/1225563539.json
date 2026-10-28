@@ -1,0 +1,139 @@
+{
+  "show_id": "1225563539",
+  "feed_url": "http://odagiri01.com/podcast/feed/podcast/",
+  "source": {
+    "url": "http://odagiri01.com/podcast/feed/podcast/",
+    "final_url": "http://odagiri01.com/podcast/feed/podcast/",
+    "fetched_at": "2026-10-25T14:48:14.184621+00:00",
+    "status": 200,
+    "sha256": "e1e017112f7885e138216ca343d4ff175f5edc70fbe897d9d291efde32f1fddd"
+  },
+  "status": "ok",
+  "title": {
+    "text": "恋愛コンサルタント小田切ユウの『女性をトリコにする恋愛法則』",
+    "truncated": false
+  },
+  "description": {
+    "text": "Just another WordPress site",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "explicit": "clean"
+  },
+  "feed_item_count": 21,
+  "episodes": [
+    {
+      "id": "206ec5a1e81fcfe4ea3f0ea5fe5b3d64f2feca8a64a5259a57cd6aa459843b9b",
+      "guid": "http://odagiri01.com/podcast/?p=84",
+      "title": {
+        "text": "第20回目 LINE返信はあるのにデートに誘ってもはぐらかされる時の3つの原因",
+        "truncated": false
+      },
+      "description": {
+        "text": "【恋愛相談】「LINEの返信はあるのですが、、デートに誘うとはぐらかされてしまいます。何が原因なんでしょうか？ … \"第20回目 LINE返信はあるのにデートに誘ってもはぐらかされる時の3つの原因\" の 続きを読む",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Aug 2017 12:20:11 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "9383e5a386fb619a2ca4448516f0d68a683cf007a987286bd85d985190a61b04",
+      "guid": "http://odagiri01.com/podcast/?p=74",
+      "title": {
+        "text": "第17回目 恋愛対象外のいい人を脱却する方法！",
+        "truncated": false
+      },
+      "description": {
+        "text": "典型的なモテない人である『いい人』にありがちな特徴と、そこから脱却するための具体的な方法を解説しています。どう … \"第17回目 恋愛対象外のいい人を脱却する方法！\" の 続きを読む",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Aug 2017 07:22:24 +0000",
+      "feed_index": 3
+    },
+    {
+      "id": "76bfbde1cebb63ab88253fd088e485e60f4b7c40d1d3837473956b063d8adc0c",
+      "guid": "http://odagiri01.com/podcast/?p=65",
+      "title": {
+        "text": "第14回目 女性がしてくるボディタッチって何なの！？意識すべきポイントも紹介！",
+        "truncated": false
+      },
+      "description": {
+        "text": "女性から腕や手をタッチされたら「ワオ！」とテンションが上がると思いますが、一体どんなつもりで触っているんでしょ … \"第14回目 女性がしてくるボディタッチって何なの！？意識すべきポイントも紹介！\" の 続きを読む",
+        "truncated": false
+      },
+      "published_at": "Tue, 11 Jul 2017 17:29:02 +0000",
+      "feed_index": 6
+    },
+    {
+      "id": "9caaa082a93768c3e020ecc47f7f1e46a2c22f30b88cb395b7ef4271679bbe29",
+      "guid": "http://odagiri01.com/podcast/?p=53",
+      "title": {
+        "text": "第11回目 友達止まり男に必須な会話ノウハウ",
+        "truncated": false
+      },
+      "description": {
+        "text": "友達止まりの男性に多いのが、「無難な会話ばかりしてしまう」ということ。友達にはなれるけど、男としては見てもらえ … \"第11回目 友達止まり男に必須な会話ノウハウ\" の 続きを読む",
+        "truncated": false
+      },
+      "published_at": "Sat, 24 Jun 2017 06:01:17 +0000",
+      "feed_index": 9
+    },
+    {
+      "id": "d40f6c0e92eef621f599c7120c2a5f9abf6820a6c62cea10d53371ccf8e42be6",
+      "guid": "http://odagiri01.com/podcast/?p=46",
+      "title": {
+        "text": "第9回目 短所⇒長所になるマル秘ノウハウ",
+        "truncated": false
+      },
+      "description": {
+        "text": "一般的に言われている短所と言えば「トークが上手くない」「イケメンじゃない」などがありますが、それも長所に変えれ … \"第9回目 短所⇒長所になるマル秘ノウハウ\" の 続きを読む",
+        "truncated": false
+      },
+      "published_at": "Tue, 06 Jun 2017 04:40:39 +0000",
+      "feed_index": 11
+    },
+    {
+      "id": "52a8bb55037f22bd22b358dbd3c0ddab004a2580833e9dbd040d58bfd2c20ab1",
+      "guid": "http://odagiri01.com/podcast/?p=37",
+      "title": {
+        "text": "【限定プレゼント】好きな子の反応を上げ口説き落とせるようになる2大特典音声",
+        "truncated": false
+      },
+      "description": {
+        "text": "Podcastリスナーのあなたに、感謝の気持ちとして、好きな子の反応を上げ、口説き落とせるようになる『2大特別 … \"【限定プレゼント】好きな子の反応を上げ口説き落とせるようになる2大特典音声\" の 続きを読む",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 May 2017 13:49:26 +0000",
+      "feed_index": 14
+    },
+    {
+      "id": "10473c2db83c0fcad0a61ec0fa9343b9044419ccd82e8fe275615111e5379fc3",
+      "guid": "http://odagiri01.com/podcast/?p=20",
+      "title": {
+        "text": "第4回目 巨乳な子&真面目そうな子の攻略ポイントとは？",
+        "truncated": false
+      },
+      "description": {
+        "text": "リスナーさんからの恋愛相談『真面目で固い子と仲良くなる時に気を付けるべきポイントはあるのでしょうか？』小田切の経験を元に注意点を解説しています！途中からみんな大好き巨乳の子の気を付けるべきポイントもあわせて紹介しています。男ならついやってしまいがちな事がありますが、完全に逆効果になっているので要注意！",
+        "truncated": false
+      },
+      "published_at": "Tue, 02 May 2017 14:44:14 +0000",
+      "feed_index": 17
+    },
+    {
+      "id": "0b2257f0475bf6e38f52e18e4730255184ff0741c8758b10092a3d3459b0ad09",
+      "guid": "http://odagiri01.com/podcast?p=1",
+      "title": {
+        "text": "第1回 恋愛下手に多い男性のタイプとは？",
+        "truncated": false
+      },
+      "description": {
+        "text": "第1回目の今回は『恋愛下手に多いタイプとは？』についてお話ししています。実際に恋愛を指導していて感じるのが、○○人という方が目立つという事実。一般的には良いとされているタイプですが、恋愛の世界においては有利どころか不利になりえる点がポイントです。 第一回目ということで軽く自己紹介もしているのですが、完全に脱線している点も見逃せません！",
+        "truncated": false
+      },
+      "published_at": "Sun, 09 Apr 2017 03:33:45 +0000",
+      "feed_index": 20
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1559034169",
+  "feed_url": "http://www.ximalaya.com/album/46372694.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/46372694.xml",
+    "final_url": "http://www.ximalaya.com/album/46372694.xml",
+    "fetched_at": "2026-10-25T14:42:44.593459+00:00",
+    "status": 200,
+    "sha256": "0b63df1be98bd56d68df808b627edca9b73bc7436bdcdf725f51f9971107e901"
+  },
+  "status": "ok",
+  "title": {
+    "text": "《九鼎记》｜经典免费有声小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "自禹皇五斧劈山，统一天下，划分九州，立九鼎后，这片大地便被称为九州。 禹皇离世后，天下便纷争不断。 千年后，一代天骄秦岭天帝横空出世，曾一掌令百丈宽的雁江江水断流，凭绝世武力，最终得以一统天下，可当秦岭天帝离世后，天下同样大乱，数千年来，没有再度统一过。 而现代世界的一代形意宗师‘滕青山’却来到了这样的世界……",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 64,
+  "episodes": [
+    {
+      "id": "32cd68d35f2fa7c2ba3bd96e77eab43009f85fa590f7753870bf7eca8018fc29",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/59ae-audiofreehighqps/42/6D/CKwRIMAEKd33AFzT6QCUIajO-aacv2-48K.m4a",
+      "title": {
+        "text": "第六十四章 土皇帝",
+        "truncated": false
+      },
+      "description": {
+        "text": "感谢收听，希望点赞+关注！ 每天12:00更新两集",
+        "truncated": false
+      },
+      "published_at": "Thu, 25 Mar 2021 04:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d063ac41a5de04c196374bab78d3e3e11f24f797f13cf250b71dbb143186f764",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6867-audiofreehighqps/57/A5/CKwRIMAEJ1dgAGX6EgCTWHU0-aacv2-48K.m4a",
+      "title": {
+        "text": "第五十五章 虎形通神！",
+        "truncated": false
+      },
+      "description": {
+        "text": "感谢点赞+关注，谢谢您的支持！ 每天中午12:00更新两集",
+        "truncated": false
+      },
+      "published_at": "Sun, 21 Mar 2021 04:00:00 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "d6cfe205a888e56da5ab09052a33e6fa5f5c202d485506c9a2c964a1ed7be2cd",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d99c-audiofreehighqps/34/B5/CKwRIRwEI77OAHAGxACSMZx3-aacv2-48K.m4a",
+      "title": {
+        "text": "第四十六章 最强计划开始！",
+        "truncated": false
+      },
+      "description": {
+        "text": "希望能获得关注和点赞，谢谢！ 每天中午12:00更新两集",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Mar 2021 04:00:01 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "334f559f298eb8e8125390b646fad4d8c3d8f81478f4ffe1dbc604a59a551cbe",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3b66-audiofreehighqps/D4/33/CKwRIUEEHTL9AGL1qwCQbIYR-aacv2-48K.m4a",
+      "title": {
+        "text": "第三十七章 最强计划",
+        "truncated": false
+      },
+      "description": {
+        "text": "青山需要您的支持，欢迎点赞加关注！",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Mar 2021 11:36:58 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "dd12ad0478ed94ea475909c767470a027cfece2ce8e5169087ea78a82001fb6b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b0b3-audiofreehighqps/99/3E/CKwRIUEEGWp1AGrxvgCPWPOX-aacv2-48K.m4a",
+      "title": {
+        "text": "第二十八章 选择",
+        "truncated": false
+      },
+      "description": {
+        "text": "滕青山有着两世的记忆，他最终选择了。。。",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 Mar 2021 16:00:43 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "33b0b318adbfeff21f129678284079762f78f6dc82e2a1cc394e26bccc1b4a93",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5c21-audiofreehighqps/A4/AC/CKwRINsEFA-dAG8_EQCNzqbx-aacv2-48K.m4a",
+      "title": {
+        "text": "第十九章 腾家庄",
+        "truncated": false
+      },
+      "description": {
+        "text": "这是九鼎记第二篇 滕家有儿名青山 的开篇第一章 滕青山在血拼神国两大超级高手，又舍身为弟弟挡下了致命的子弹后，心满意足的身亡了。但不知道怎么回事，他的神识保留了下来，回到了古代，投胎到了扬州宜城附近的腾家庄。 在这里，有疼爱他的父亲母亲和外公，有朴实热情的宗族村民和好友，滕青山又将开始怎样的一段故事呢。。。",
+        "truncated": false
+      },
+      "published_at": "Tue, 02 Mar 2021 16:33:00 GMT",
+      "feed_index": 45
+    },
+    {
+      "id": "fbdede0b1da29d5ea678453ea8e3c6b5ce401cf755a85e494f05147577c8fb6d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d2e5-audiofreehighqps/C1/DD/CMCoOSUD9cCJAFi4hwCFSKqG-aacv2-48K.m4a",
+      "title": {
+        "text": "第十章 对我笑了",
+        "truncated": false
+      },
+      "description": {
+        "text": "终于见到了弟弟“青山”",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 Feb 2021 14:47:22 GMT",
+      "feed_index": 54
+    },
+    {
+      "id": "f53f42b6d4f3ca33e33addcac9fd71bfb7198d97acba76040a3134080b9cbce6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1e4f-audiofreehighqps/D5/AF/CKwRINsEIIsVAMxNegCRY7VE-aacv2-48K.m4a",
+      "title": {
+        "text": "第一章 滕青山",
+        "truncated": false
+      },
+      "description": {
+        "text": "滕青山——一个神秘的青年。他救了大美女林青却不为动心，他在福利院里见到故人却不相认，他实力高超却行踪隐秘，他到底是谁？他到底要作什么。。。 仙侠世界《九鼎记》，正式开启大门。。。",
+        "truncated": false
+      },
+      "published_at": "Fri, 12 Mar 2021 01:46:19 GMT",
+      "feed_index": 63
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1456973400",
+  "feed_url": "https://anchor.fm/s/9cc6efc/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/9cc6efc/podcast/rss",
+    "final_url": "https://anchor.fm/s/9cc6efc/podcast/rss",
+    "fetched_at": "2026-10-25T14:49:53.530105+00:00",
+    "status": 200,
+    "sha256": "89981d80b1f179762747ca5c3f08cf5d61c0399a5a2043cf0790575bda5cc0c9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "世界史・心理学談笑中(SSD)",
+    "truncated": false
+  },
+  "description": {
+    "text": "※旧名:社会人から始めるラジオ このコンテンツはタイガとミナミサワが勉強したものを雑談を交えながら話していくものになります。 具体的には歴史と心理学がテーマになりますので、興味のある方も、もちろんない方も一度お聞きください！ 毎週どこかで更新★ #ssdラジオ #ポッドキャスト お便りはメールアドレスもしくはDMより募集しています。 メールアドレス:[email removed] Twitter:@ssdradio1992 フリートークラジオ『ノンフィクション』も配信中！ https://podcasts.apple.com/au/podcast/%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/id1651260991",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 354,
+  "episodes": [
+    {
+      "id": "9de49a4425255888e5d26b78e488c0afbcf57607883505ad0bf3a45653e2ea62",
+      "guid": "7ccfecf2-ee69-44e9-bde1-242739b4d813",
+      "title": {
+        "text": "317.世界史『中国の歴史 -明王朝の成立- 』",
+        "truncated": false
+      },
+      "description": {
+        "text": "このコンテンツはタイガとミナミサワが勉強したものを雑談を交えながら話していくものになります。具体的には世界史と心理学がテーマになりますので、興味のある方も、もちろんない方も一度お聞きください！毎週どこかで更新★ #ssdラジオ #ポッドキャスト お便りはメールアドレスもしくはDMより募集しています。 メールアドレス:[email removed] Twitter:@ssdradio1992 フリートークラジオ『ノンフィクション』も配信中！ https://podcasts.apple.com/au/podcast/%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/id1651260991 明,元,科挙,朱元璋,郭子興,フビライハン,白蓮教,金陵,応天府,徐州,韓山童,韓林児,洪武帝,空印の乱,胡惟庸,陳寧,中書省,郭桓,徐達,李善長の獄,胡惟庸の獄,藍玉の獄,胡藍の獄",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Nov 2024 15:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "5b61c628fc10f7478482d01feac783283eb35be1a84912e8a17ef7b3904fbd26",
+      "guid": "41190344-f9dd-471f-a5ce-b19b6f72639f",
+      "title": {
+        "text": "261.世界史『ルネサンス -概要と要因- 』",
+        "truncated": false
+      },
+      "description": {
+        "text": "このコンテンツはタイガとミナミサワが勉強したものを雑談を交えながら話していくものになります。具体的には世界史と心理学がテーマになりますので、興味のある方も、もちろんない方も一度お聞きください！毎週どこかで更新★ #ssdラジオ #ポッドキャスト お便りはメールアドレスもしくはDMより募集しています。 メールアドレス:[email removed] Twitter:@ssdradio1992 フリートークラジオ『ノンフィクション』も配信中！ https://podcasts.apple.com/au/podcast/%E3%83%8E%E3%83%B3%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/id1651260991 ルネサンス,イタリア,ギリシャローマ,リナシメント,ゲルマン民族,十字軍,キリスト教,ソクラテス,プラトン,アリストテレス,イタリア戦争",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Oct 2023 15:26:44 GMT",
+      "feed_index": 50
+    },
+    {
+      "id": "768c2fd0206772fe1fc4dd45770db8d5eb4907b80e0e34aea03fe55428c6c660",
+      "guid": "2b68a517-4f9e-49d9-87c6-02df5e529c62",
+      "title": {
+        "text": "210.心理学 『犯罪心理学-カルト集団のマインドコントロール手法-』",
+        "truncated": false
+      },
+      "description": {
+        "text": "このコンテンツはタイガとミナミサワが勉強したものを雑談を交えながら話していくものになります。 具体的には歴史と心理学がテーマになりますので、興味のある方も、もちろんない方も一度お聞きください！ 毎週月曜更新★ #しゃからじ #ポッドキャスト ▼本編 心理学『宗教心理学』 心理学、犯罪心理学、宗教心理学、回心 感想・[email removed]までお願いします！ ツイッターからでもコメントをお願いします。 ツイッター：@syakaradi1992 エンディングは『黄色い電車』を流しています。 気になった方は以下を諸々見てみてください。 温泉芸術集団Flying Llama @mypanty_is_good 「創作」 と「温泉」をキーワードに音楽や映像を作る同人サークル SoundCloud: https://bit.ly/2QRqkj6 podcast:http://podcast.flying-llama.net YouTube: https://bit.ly/2EPLwQh",
+        "truncated": false
+      },
+      "published_at": "Mon, 31 Oct 2022 17:43:48 GMT",
+      "feed_index": 101
+    },
+    {
+      "id": "89a305660aa08157b555048122ab190bd0e18b6edfd32c53c44e1411b98cd94b",
+      "guid": "60eb9d91-9c9f-4593-a3ab-3a0ddd98738e",
+      "title": {
+        "text": "170.心理学 『人格心理学-対人関係にの類は友を呼ぶに対する個人差-』",
+        "truncated": false
+      },
+      "description": {
+        "text": "このコンテンツはタイガとミナミサワが勉強したものを雑談を交えながら話していくものになります。 具体的には歴史と心理学がテーマになりますので、興味のある方も、もちろんない方も一度お聞きください！ 毎週月曜更新★ #しゃからじ #ポッドキャスト ▼オープニング 財布亡くしたけど、見つかった時の爽快感すごいっていう話 ▼本編 心理学『人格心理学-類は友を呼ぶの個人差』 ▼エンディング 本編の振り返り その他雑談 心理学、人格心理学、性格、診断、類似論、特性論、投影法、質問紙法、PFスタディ、ロールシャッハ検査、ロールシャッハテスト、 感想・[email removed]までお願いします！ ツイッターからでもコメントをお願いします。 ツイッター：@syakaradi1992 エンディングは『黄色い電車』を流しています。 気になった方は以下を諸々見てみてください。 温泉芸術集団Flying Llama @mypanty_is_good 「創作」 と「温泉」をキーワードに音楽や映像を作る同人サークル SoundCloud: https://bit.ly/2QRqkj6 podcast:http://podcast.flying-llama.net YouTube: https://bit.ly/2EPLwQh",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Dec 2021 14:56:46 GMT",
+      "feed_index": 151
+    },
+    {
+      "id": "24cc9f8ebfa79fc980ed86b9daeb48c829cc99c694f24f8b95279114885c1835",
+      "guid": "3be14bd4-1af8-4b77-8f6a-f8e654e5b626",
+      "title": {
+        "text": "126.心理学 『行動心理学-人間の行動に意志は介在しない？人の行動を考える-』",
+        "truncated": false
+      },
+      "description": {
+        "text": "このコンテンツはタイガとミナミサワが勉強したものを雑談を交えながら話していくものになります。 具体的には歴史と心理学がテーマになりますので、興味のある方も、別途ない方も一度お聞きください！ 毎週月曜更新★ ＃しゃからじ＃ポッドキャスト ▼オープニング UFOキャッチャーの規制について ▼本編 心理学 『行動心理学。人間の行動から見る人の心理、意志について』について ▼エンディング 本編の振り返り メール紹介 心理学、行動心理学、教育、自由意志、行動主義 感想・[email removed]までお願いします！ ツイッターからでもコメントをお願いします。 ツイッター：@ syakaradi1992 エンディングは 『黄色い電車』を流しています。 気になった方は以下を諸々見てみてください。 温泉芸術集団Flying Llama 「創作」と「温泉」をキーワードに音楽や映像を作る同人サークル SoundCloud：https：//bit.ly/2QRqkj6 ポッドキャスト：http：//podcast.flying-llama.net YouTube：https：//bit.ly/2EPLwQh",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 Jan 2021 13:17:47 GMT",
+      "feed_index": 202
+    },
+    {
+      "id": "96f5f03d4a02f6c8aa5a954ddfa25db2690b7a5c80dce49d3b41b75f59f8a192",
+      "guid": "08047866-3446-4952-9c7b-5273c05e2e3d",
+      "title": {
+        "text": "特別号.90回記念 『恋愛心理学 ~シャッフル企画 / タイガpart~ 』",
+        "truncated": false
+      },
+      "description": {
+        "text": "このコンテンツはタイガとミナミサワが勉強したものを雑談を交えながら話していくものになります。 具体的には歴史と心理学がテーマになりますので、興味のある方も、もちろんない方も一度お聞きください！ 毎週月曜更新★（今のところ） #しゃからじ #ポッドキャスト 【内容】 今回はシャッフル企画！ 通常はタイガが歴史、ミナミサワが心理学を話してますが、今回はタイガが心理学を話しています。 感想・[email removed]までお願いします！ ブログ・ツイッターからでもコメントをお願いします。 ブログURL：http://syakaradi1992.seesaa.net/ ツイッター：@syakaradi1992",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Apr 2020 15:58:37 GMT",
+      "feed_index": 252
+    },
+    {
+      "id": "15a168b14f52f2314717e5bd98f4f74d169c238868e478c3ca6d8815867acfb8",
+      "guid": "671ecb05-531a-699f-67c0-595ba63681ed",
+      "title": {
+        "text": "46.心理学『流行は陰謀論？ part1』",
+        "truncated": false
+      },
+      "description": {
+        "text": "このコンテンツはタイガとミナミサワが勉強したものを雑談を交えながら話していくものになります。 具体的には歴史と心理学がテーマになりますので、興味のある方も、もちろんない方も一度お聞きください！ 毎週月曜更新★ #しゃからじ #ポッドキャスト ▼オープニング ボードゲームの話 ▼本編 心理学『社会心理学の流行について』 ▼エンディング 本編の振り返り 株の話 感想・[email removed]までお願いします！ ブログ・ツイッターからでもコメントをお願いします。 ブログURL：http://syakaradi1992.seesaa.net/ ツイッター：@syakaradi1992 エンディングは『黄色い電車』を流しています。 気になった方は以下を諸々見てみてください。 温泉芸術集団Flying Llama @mypanty_is_good 「創作」 と「温泉」をキーワードに音楽や映像を作る同人サークル SoundCloud: https://bit.ly/2QRqkj6 podcast:http://podcast.flying-llama.net YouTube: https://bit.ly/2EPLwQh",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 May 2019 14:19:17 GMT",
+      "feed_index": 303
+    },
+    {
+      "id": "f5a97f8658a38fd319392d816c040bf2cca8926549c1fe18b16f776a73bc0754",
+      "guid": "c9d40e73-890b-0464-9814-2b4865ac370b",
+      "title": {
+        "text": "1.世界史『社会人から始めるラジオ』",
+        "truncated": false
+      },
+      "description": {
+        "text": "社会人から始めるラジオ、略してシャカラジの第一回が始まりました！ このコンテンツはくたびれたサラリーマンのタイガとミナミサワが勉強したものを雑談を交えながら話していくものになります。 具体的には世界史と心理学がテーマになりますので、興味のある方も、もちろんない方も一度お聞きください！ 毎週月曜更新★（今のところ） 【内容】 ▼オープニング 自己紹介 ▼本編 世界史『人類の誕生』 ▼エンディング お便りについて アウストラロピテクス/北京原人/ネアンデルタール人/世界史/カップ麺/ギャンブル/タバコ 感想・[email removed]までお願いします！ ブログ・ツイッターからでもコメントをお願いします。 ブログURL：http://syakaradi1992.seesaa.net/ ツイッター：@syakaradi1992",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Mar 2019 15:31:33 GMT",
+      "feed_index": 353
+    }
+  ]
+}

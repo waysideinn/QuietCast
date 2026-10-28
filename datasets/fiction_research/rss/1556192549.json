@@ -1,0 +1,140 @@
+{
+  "show_id": "1556192549",
+  "feed_url": "https://feeds.soundon.fm/podcasts/f8e3d8c6-ea10-41c0-9076-9dfeb588c329.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/f8e3d8c6-ea10-41c0-9076-9dfeb588c329.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/f8e3d8c6-ea10-41c0-9076-9dfeb588c329.xml",
+    "fetched_at": "2026-10-25T14:57:22.931075+00:00",
+    "status": 200,
+    "sha256": "e0742e264dddd3f6564611fbd79ce07dbe60748ca492bcff0a58ae285840887d"
+  },
+  "status": "ok",
+  "title": {
+    "text": "日本旅行",
+    "truncated": false
+  },
+  "description": {
+    "text": "請持續關注並訂閱《太平洋旅行報》 Spotify：https://reurl.cc/veRYnA Apple：https://reurl.cc/g0XV8z SoundOn：https://reurl.cc/yQq0Mq -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 14,
+  "episodes": [
+    {
+      "id": "72cb13e22680fea2616e7cd7ed7d22ff7be4371c1da00f1c85bc1196feccf913",
+      "guid": "ef443dd7-e037-4b50-980f-96fc64f3d73b",
+      "title": {
+        "text": "遛日本01:櫻花二三事",
+        "truncated": false
+      },
+      "description": {
+        "text": "由 Ryou 帶您一次一主題，漫談日本各種活動、景點、文化！ 第一期為櫻花二三事，身為台灣、韓國、日本近年春天必做的賞櫻，究竟日本是何時開始賞櫻，又有哪些小故事呢？",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Mar 2022 12:05:10 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b4ab23cc6f77d7dc2445251f9ea678d3b14d44e5d6abc0787eff45adf85dc9d4",
+      "guid": "12c31d98-c90e-447d-880b-a10ee2a2cee5",
+      "title": {
+        "text": "台日春節大不同Part3：日本人新年必吃的美食 feat.婉汝Candy",
+        "truncated": false
+      },
+      "description": {
+        "text": "日本春節最終章，本期將與婉汝一同討論關於日本新年的食物，以及對各種美味小吃的推薦!",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Feb 2022 03:03:56 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "f4dde46dc9b7c234f1ab3188752e2b9919de32ae829cb7d51aad5cd8e6b25fcd",
+      "guid": "258d35b9-af6e-499e-8569-2d2d1d6fd5f3",
+      "title": {
+        "text": "台日春節大不同Part1：日本人新年要敲鐘108下？ feat.婉汝Candy",
+        "truncated": false
+      },
+      "description": {
+        "text": "歡迎各位來到我們的導遊會客室第一期，我是Ryou， 本期將與我們的資深導遊--婉汝， 一同向各位分享日本新年的: 日本怎麼迎新年?",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 Jan 2022 03:37:02 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "e8cda58b7fb1349cc52f4be3ff1c6084830a21a8089df1fa295f2b1215d5b2e4",
+      "guid": "1d6006bd-5bff-469a-bb86-ed4a00700022",
+      "title": {
+        "text": "日本最大企鵝村！與企鵝、海豚的近距離接觸",
+        "truncated": false
+      },
+      "description": {
+        "text": "下關「海響館」是日本最大企鵝村，超過100隻企鵝，分成亞南極區和溫帶區。除了企鵝表演外，還可以觸摸、餵食和拍照（需提前預約）。 精湛水上劇場，以關門海峽為背景，欣賞海豚、海獅靈活表演，感受水花濺起的生動與感動。還有日本唯一完整藍鯨標本，讓小朋友與海洋生物來場親密體驗。",
+        "truncated": false
+      },
+      "published_at": "Wed, 28 Apr 2021 02:32:00 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "46e479b38c267ab293b8a4319640b97b464d69be24c4140ea43eb22337fa832b",
+      "guid": "42c80c3e-5165-4422-a709-b57215d6a145",
+      "title": {
+        "text": "嚴選名宿北關東最奢華旅宿竟然在田裡一探悠湯里庵的四季魅力",
+        "truncated": false
+      },
+      "description": {
+        "text": "【太平洋嚴選─悠湯里庵 五大美學堅持】 鴻鵠之美─ 腹地廣大，乘纜車直上景觀平台 原粹之美─ 坐落群馬川場溫泉，在溫泉水療中忘卻塵囂 隱逸之美─ 全館僅18間房，隱逸山林古木縈香 凝脂之美─ PH9.2美肌泉質，任選武尊乃湯、弘法乃湯、里乃湯等三大露天浴場 珍鮮之美─ 地產地銷當地食材，食藝拾趣",
+        "truncated": false
+      },
+      "published_at": "Wed, 21 Apr 2021 02:05:43 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "31889776f73e48a16e8f12da206496933168c110a2031d7e52c4b497618408cb",
+      "guid": "94dbc8e6-e5a1-49e3-b5dc-3a51535df31f",
+      "title": {
+        "text": "獻給AMAN的第一次！東京X伊勢阿曼的實住經驗分享 ft.馬醬",
+        "truncated": false
+      },
+      "description": {
+        "text": "你是阿曼癡嗎？想體驗全球旅宿之王的魅力？全球精品酒店集團阿曼(AMAN，又稱安縵)坐落日本，兩大奢宿分處都市與海畔：一是位於繁華熱鬧的東京都，開窗即見流金都會華麗夜色；另一則是坐落英虞灣側、日本本州東南的三重縣，面朝大海，湛藍海水相伴入夢。還能順遊伊勢神宮，大啖肥美龍蝦喔！ 本集「職人會客室」邀請太平洋資深導遊馬醬現身說法：☑阿曼的品牌精神在日本如何發揮？☑這兩家阿曼的特色、風格與各自擅長部分？",
+        "truncated": false
+      },
+      "published_at": "Tue, 06 Apr 2021 01:31:30 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "04e3300a6186138dd6e30d7825a70fd15d660ebc844ed869ba35ac93a3db0b0e",
+      "guid": "63061ad7-3207-465e-85da-c4120d42a182",
+      "title": {
+        "text": "一生一定要住一次的旅館？！帶你入住AMANEMU溫泉極上宿",
+        "truncated": false
+      },
+      "description": {
+        "text": "堅持品質，只為了超越期待。一路上披荊斬棘，讓太平洋再次獲得三重阿曼旅行代理店，日本阿曼頂級酒店代理權全入手！未來，我們將繼續秉持初心，帶給貴賓們凌駕五感的優質體驗。 在英虞灣這片旖旎海灣，斜陽風光無限，精品度假飯店安縵集團旗下首間溫泉飯店 安縵伊沐 在志摩半島上，僅用24間房成就伊勢志摩山海詩。 相關行程介紹： http://bit.ly/2Folbd5​ 融合靜謐與優雅，安缦伊沐一如其它阿曼，奢侈中藏著當地的影子，但不同的，它是阿曼首座溫泉度假村。落地窗邊的私人湯泉，把國立公園絕景當成4D電影，對，它也是少數座落國立公園的阿曼；獨特，讓人心甘情願成為Amanjunkie。",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Mar 2021 02:16:56 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "1b462c41afbe053540eaa31be8ffce544444fa8e4a0a59f9e3b7e9edeb3af2b3",
+      "guid": "34d3e1c4-e253-4480-9a9f-c31828645def",
+      "title": {
+        "text": "佳松園-日本天皇也愛來！遠離塵囂的花卷溫泉極上宿",
+        "truncated": false
+      },
+      "description": {
+        "text": "今天帶大家來到，東北岩手奢華湯宿──佳松園 隸屬花卷溫泉，溫泉水滑洗凝脂，天皇也醉心 ▍距離機場僅15分鐘車程，交通超便捷 ▍座落自然公園內，鬧中取靜，自然療癒 ▍花卷溫泉，滋潤如化妝水，連年蟬連日本溫泉百選 ▍饗食東北，花捲旬食海幸 ▍飯店即景點，園區含東北最大玫瑰園、國指定景點釜淵瀑布 ▍超人氣伴手禮，花卷溫泉紅豆麵包、南部鐵器",
+        "truncated": false
+      },
+      "published_at": "Tue, 02 Mar 2021 05:13:56 GMT",
+      "feed_index": 13
+    }
+  ]
+}

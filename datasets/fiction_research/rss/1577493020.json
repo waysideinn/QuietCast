@@ -1,0 +1,140 @@
+{
+  "show_id": "1577493020",
+  "feed_url": "http://www.ximalaya.com/album/50566541.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/50566541.xml",
+    "final_url": "http://www.ximalaya.com/album/50566541.xml",
+    "fetched_at": "2026-10-25T14:53:30.685184+00:00",
+    "status": 200,
+    "sha256": "7bf88eee132447d0aaa0b1279d18bc0253bf00725929a48b1d08833055264dae"
+  },
+  "status": "ok",
+  "title": {
+    "text": "第一种青年说",
+    "truncated": false
+  },
+  "description": {
+    "text": "走在路上，看手机太危险，我喜欢用听的 有时候自己走，有时候结伴行 可能就十分钟的路，能聊出许多的话题 因为我对路上陌生人一天所经历的事情很感兴趣 所以，我是说给有着同样兴趣的你听的 周更4-5期，或许更多，或许更少 ...... 对了，如果你在路上见到一个一边走路一边假装打电话的胖子 那有可能就是我在录这个节目呢",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 92,
+  "episodes": [
+    {
+      "id": "17d79404654d484b12fc6d58816f76c393ffcaebbf02936f37b5a7a6ab255a66",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1755-audiofreehighqps/2F/29/CMCoOSIFGzTJAFH83ADkL5FH.m4a",
+      "title": {
+        "text": "089石家庄为啥盛产安徽牛肉板面",
+        "truncated": false
+      },
+      "description": {
+        "text": "安徽同事说：我们那都没这么多板面",
+        "truncated": false
+      },
+      "published_at": "Sat, 18 Sep 2021 04:57:46 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8c42588d8be4ccc16ce6df8e651257c30cb7195e6fae7ee4f120e07456e1aeee",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/df21-audiofreehighqps/6A/19/CMCoOSAFBn81AHEuSgDfAnBR.m4a",
+      "title": {
+        "text": "076坐个地铁，好怕怕哦",
+        "truncated": false
+      },
+      "description": {
+        "text": "说实话，地铁工作人员的专业素质该提高了",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 Sep 2021 11:57:42 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "bd09a19454bc0a2d3aa83e4d380e04fe18b6edcd2b8851de42448be02a886ad0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c9c7-audiofreehighqps/01/76/CMCoOScE9ZBjAHr5bADaO9Ct.m4a",
+      "title": {
+        "text": "063宝宝四岁啦",
+        "truncated": false
+      },
+      "description": {
+        "text": "有了孩子以后，看着他成长，就感觉时间飞快",
+        "truncated": false
+      },
+      "published_at": "Fri, 20 Aug 2021 15:42:29 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "3514704c13786b5ef20e9576b928b580f051f435c9c836ee779449894fc4393d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/747a-audiofreehighqps/C4/FB/CMCoOSEE4q_lAHFsZQDTfST2.m4a",
+      "title": {
+        "text": "051我真的完整看了东奥会开幕式",
+        "truncated": false
+      },
+      "description": {
+        "text": "网络不可信，营销号不可信",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 Aug 2021 08:03:50 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "e861245a567591a4d13243cea67e7955e221b4947b4a73034709941a38fb01f8",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/41b2-audiofreehighqps/90/FB/CMCoOR4E1AIXAEs30ADNuZC4.m4a",
+      "title": {
+        "text": "038东奥会“爽爆”的三件事1",
+        "truncated": false
+      },
+      "description": {
+        "text": "不知道过几天能不能凑出来这个系列的第二期",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Jul 2021 04:50:32 GMT",
+      "feed_index": 52
+    },
+    {
+      "id": "77bc10dc8b8d5b44bcf83bca66d5012a405a41d895b6818400a15c33ff3f1d4e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/48fe-audiofreehighqps/69/A8/CKwRIJEEwzKxAIN5mgDHeft8.m4a",
+      "title": {
+        "text": "025这就叫炫富2.0",
+        "truncated": false
+      },
+      "description": {
+        "text": "网上说“我爱中国”是财富密码，说真的，挺悲哀的",
+        "truncated": false
+      },
+      "published_at": "Tue, 13 Jul 2021 10:49:25 GMT",
+      "feed_index": 65
+    },
+    {
+      "id": "cad5d2419587fe4d809d7555d8d647f98a5f6ff435e0879f1179753603957c1c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/80b5-audiofreehighqps/E4/92/CMCoOR8Esb00AJyD_ADA0kpt.m4a",
+      "title": {
+        "text": "013假期办的大事儿之被骗",
+        "truncated": false
+      },
+      "description": {
+        "text": "大二花钱买了一次吃亏买了一次上当。无论是兼职还是实习，先花钱的事儿咱别干",
+        "truncated": false
+      },
+      "published_at": "Wed, 30 Jun 2021 04:59:34 GMT",
+      "feed_index": 78
+    },
+    {
+      "id": "4ef4c0e8bf86bff4fc476e778a91636531c9f0dc18b7924bb0297b86f281270f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ee64-audiofreehighqps/EE/EA/CMCoOSUEqHhyAG_KEQC9mMy_.m4a",
+      "title": {
+        "text": "001第一期说个大的：东京奥运会",
+        "truncated": false
+      },
+      "description": {
+        "text": "听说，日本奥运会要开幕了，害怕吗？",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Jun 2021 04:15:47 GMT",
+      "feed_index": 91
+    }
+  ]
+}

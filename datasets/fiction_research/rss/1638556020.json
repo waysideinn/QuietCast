@@ -1,0 +1,140 @@
+{
+  "show_id": "1638556020",
+  "feed_url": "https://anchor.fm/s/ae6aefd8/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/ae6aefd8/podcast/rss",
+    "final_url": "https://anchor.fm/s/ae6aefd8/podcast/rss",
+    "fetched_at": "2026-10-25T14:56:40.798831+00:00",
+    "status": 200,
+    "sha256": "96efb5811309a8e5c6f5c964e2497152299961ed7620500ab0ab8fcf2baefa8d"
+  },
+  "status": "ok",
+  "title": {
+    "text": "属于你我之间",
+    "truncated": false
+  },
+  "description": {
+    "text": "属于你我之间",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 841,
+  "episodes": [
+    {
+      "id": "32cdff2d04495788805f1e0af649c5c759fcfb770213f89e05242dad94488165",
+      "guid": "3a85d4ab-ec9c-4069-bd42-8bde1252712a",
+      "title": {
+        "text": "193.大城市放开落户限制，对房价的影响有多大？.mp3",
+        "truncated": false
+      },
+      "description": {
+        "text": "193.大城市放开落户限制，对房价的影响有多大？.mp3",
+        "truncated": false
+      },
+      "published_at": "Fri, 16 Jun 2023 10:43:07 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "e5ecdf3765b43e5a10999a77411c2c5dbdc29972a22b8504d8665a2b5c50c021",
+      "guid": "1b9d61d5-2995-4b22-a52f-468dd906b21d",
+      "title": {
+        "text": "012.宋孝宗赵眘：孱弱南宋的一缕曙光",
+        "truncated": false
+      },
+      "description": {
+        "text": "012.宋孝宗赵眘：孱弱南宋的一缕曙光",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 May 2023 13:34:32 GMT",
+      "feed_index": 120
+    },
+    {
+      "id": "ca8bc2f8bf385687ac5deb0dd7ea09ecd3345c45d9af52901ed97e54dfb7ea4c",
+      "guid": "98034f33-5e20-4fa7-8f86-07978ebb2a52",
+      "title": {
+        "text": "011.鄂尔多斯名点土豆炸饺精准要领SHHWLYMSDR",
+        "truncated": false
+      },
+      "description": {
+        "text": "011.鄂尔多斯名点土豆炸饺精准要领SHHWLYMSDR",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 May 2023 09:48:40 GMT",
+      "feed_index": 240
+    },
+    {
+      "id": "882a77d0fc497a1c9df972144bf48cc410ba44475033dbe1d82c068aec9039b1",
+      "guid": "04e2bc54-2b50-4fa4-a829-96cf329de73c",
+      "title": {
+        "text": "023.这几个“台阶”递给男人，他打心里再也离不开你！",
+        "truncated": false
+      },
+      "description": {
+        "text": "023.这几个“台阶”递给男人，他打心里再也离不开你！",
+        "truncated": false
+      },
+      "published_at": "Sun, 16 Apr 2023 19:24:39 GMT",
+      "feed_index": 360
+    },
+    {
+      "id": "4c838d134218bedde7335a525c7d1240b5b8cc631d0966f94f27d8c1558d67dc",
+      "guid": "3c15b00e-39d4-4ff9-ab4c-856b819bd9e1",
+      "title": {
+        "text": "008.《游戏前夜》第291期：Miku生日亮新作 幻痛剧透你咋躲？",
+        "truncated": false
+      },
+      "description": {
+        "text": "008.《游戏前夜》第291期：Miku生日亮新作 幻痛剧透你咋躲？",
+        "truncated": false
+      },
+      "published_at": "Mon, 03 Apr 2023 20:24:14 GMT",
+      "feed_index": 480
+    },
+    {
+      "id": "e156e642f44d3038b500235c6c1ad108ab243b0307b44449bda26274a251c582",
+      "guid": "a1c9eddd-a52c-4908-9f1f-a7bc470827a6",
+      "title": {
+        "text": "012.EDG夺冠或让中国成为全球电竞产业最大市场？",
+        "truncated": false
+      },
+      "description": {
+        "text": "012.EDG夺冠或让中国成为全球电竞产业最大市场？",
+        "truncated": false
+      },
+      "published_at": "Mon, 20 Mar 2023 08:05:01 GMT",
+      "feed_index": 600
+    },
+    {
+      "id": "d5f6987194b51d3821855e2e75162b36d446a23ebbf5c9e05078d5603d0fb640",
+      "guid": "0f3b8d7e-421a-472f-9b65-b1fb28e977c0",
+      "title": {
+        "text": "053.【聚焦竞技场】20170616 主播-路拐拐+",
+        "truncated": false
+      },
+      "description": {
+        "text": "053.【聚焦竞技场】20170616 主播-路拐拐+",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 Mar 2023 22:46:37 GMT",
+      "feed_index": 720
+    },
+    {
+      "id": "4459f598f19518005a4e2b319158fade369384c0fe30ce20729c49aea94ed08f",
+      "guid": "2ca0da2c-d25b-47ca-a7c5-8f0c9a3ef089",
+      "title": {
+        "text": "善终",
+        "truncated": false
+      },
+      "description": {
+        "text": "善终",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 Aug 2022 02:04:13 GMT",
+      "feed_index": 840
+    }
+  ]
+}

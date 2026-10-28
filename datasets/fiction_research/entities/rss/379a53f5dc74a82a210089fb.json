@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/80971151.xml",
+    "final_url": "https://www.ximalaya.com/album/80971151.xml",
+    "fetched_at": "2026-10-26T07:56:24.562457+00:00",
+    "status": 200,
+    "sha256": "1f644ada1652b6eb914b6f6c30e40986a4a332be37118867b85688b7f4bb42d2"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "绝世宠妃：暴君，碗里来|古风言情|欢喜冤家|爆笑",
+      "truncated": false
+    },
+    "description": {
+      "text": "“你当真要娶她？”沈慕烟一身白衣端坐在明月楼上，头顶是一抹柔和的月光，清秀的脸庞上却凝着失望。“聘礼已下，吉日已择。”一道冷清的男声响起，狠狠的撕斯裂了她的心！呵，她最爱的人啊，终究还是娶了旁人。“好，阿祺，我祝你们白头偕老。”她僵硬的站直了身体，强自压抑着眼中的泪，“但是，你怎么可以不信我呢？”他的眸光淡淡扫过她的容颜，俊逸的脸庞上没有一丝表情，“信与不信又当如何？你与我，还能怎样呢？”半月后，一边是喜气腾腾的龙凤花烛，一边却是寒冷彻骨的北遇风雪一锣鼓喧天，战马嘶鸣，红烛灯火新嫁娘，白马白袍战鼓擂。”南宫祺，你为什么不信我”这是敌人的利刃刺破胸口的一刹那，她脑海中唯一闪现的念头，苦涩的泪水隐没在满是血污的战衣上！若有来世一我，再也不要爱上任何人。 作者：一览众山小 演潘：小邪岛主、风竹",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "带给听书"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "带给听书"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Comedy Fiction"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/80971151",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 213,
+    "episodes": [
+      {
+        "title": {
+          "text": "0001 001 重生，扭转故事的剧情",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_715379911"
+      },
+      {
+        "title": {
+          "text": "0031 031 夫妻谈心",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 30,
+        "guid": "xmly_track_715384119"
+      },
+      {
+        "title": {
+          "text": "0062 062 宴会风波",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 61,
+        "guid": "xmly_track_715387581"
+      },
+      {
+        "title": {
+          "text": "0092 092 两眼放光",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 91,
+        "guid": "xmly_track_715389125"
+      },
+      {
+        "title": {
+          "text": "0122 122 雪中美人",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 121,
+        "guid": "xmly_track_715391329"
+      },
+      {
+        "title": {
+          "text": "0152 152 蓦然回首",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 151,
+        "guid": "xmly_track_715392215"
+      },
+      {
+        "title": {
+          "text": "0183 183 坚定",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 182,
+        "guid": "xmly_track_715396755"
+      },
+      {
+        "title": {
+          "text": "0213 213 新帝登基（完结）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 212,
+        "guid": "xmly_track_715400042"
+      }
+    ]
+  }
+}

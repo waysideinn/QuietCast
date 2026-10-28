@@ -1,0 +1,140 @@
+{
+  "show_id": "1462844138",
+  "feed_url": "http://www.ximalaya.com/album/10844344.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/10844344.xml",
+    "final_url": "http://www.ximalaya.com/album/10844344.xml",
+    "fetched_at": "2026-10-25T14:50:06.044113+00:00",
+    "status": 200,
+    "sha256": "4f01267cc55e91174dec6a8c05d95caba2c433fc02fa9c6249c91ea617d6a18c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "哲学治愈音乐·第1季",
+    "truncated": false
+  },
+  "description": {
+    "text": "《哲学100问》第1季 背景音乐 收听： 《哲学100问》请戳",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 107,
+  "episodes": [
+    {
+      "id": "9ab1302826a866dbbb79957a2bef98a6aa5872f84252688720558e4f6d383204",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M09/9E/35/wKgJWlnPP-LDP-beACdob9erOiI292.m4a",
+      "title": {
+        "text": "Era - Come into My World",
+        "truncated": false
+      },
+      "description": {
+        "text": "古典音乐100问，请戳： 《古典音乐100问》 哲学100问，请戳： 第1季：从古希腊到黑格尔 第2季：人，诗意地栖居 第3季：后现代的刺",
+        "truncated": false
+      },
+      "published_at": "Sat, 30 Sep 2017 06:59:13 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "dc4253799901ec8d73530dba097db4d3f5c39300096e7bf06c25c33bcbe1f055",
+      "guid": "https://aod.cos.tx.xmcdn.com/group32/M00/4A/19/wKgJUFn2u3yDPRy2ACOjq2hRkwE360.m4a",
+      "title": {
+        "text": "CMA - In Motion",
+        "truncated": false
+      },
+      "description": {
+        "text": "《哲学100问》第1季 背景音乐，持续更新ing，每日1更！ 收听： 《哲学100问》请戳",
+        "truncated": false
+      },
+      "published_at": "Mon, 30 Oct 2017 06:39:26 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "598dde306dc9b731c95771da1e7e8798cd21d6b7cd92ff3abd8e3b4863e945fe",
+      "guid": "https://aod.cos.tx.xmcdn.com/group32/M0A/93/17/wKgJS1n2yAvCeM31AChO-3Iyjo0491.m4a",
+      "title": {
+        "text": "Ólafur Arnalds - 3055",
+        "truncated": false
+      },
+      "description": {
+        "text": "《哲学100问》第1季 背景音乐，持续更新ing，每日1更！ 收听： 《哲学100问》请戳",
+        "truncated": false
+      },
+      "published_at": "Mon, 30 Oct 2017 06:39:26 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "112f323be0e22d9b5cf8e9cabf6cd79005f4be5c08cc7e6f3366a524298b7443",
+      "guid": "https://aod.cos.tx.xmcdn.com/group32/M07/94/17/wKgJS1n20sKDcLRxABBAXIXyYlM852.m4a",
+      "title": {
+        "text": "Aron Bergen - K",
+        "truncated": false
+      },
+      "description": {
+        "text": "《哲学100问》第1季 背景音乐 收听： 《哲学100问》请戳",
+        "truncated": false
+      },
+      "published_at": "Mon, 30 Oct 2017 08:20:57 GMT",
+      "feed_index": 45
+    },
+    {
+      "id": "62387837006b48971138b76ef50ca82f845ab2825a8270244e63be827883b291",
+      "guid": "https://aod.cos.tx.xmcdn.com/group33/M00/30/EB/wKgJUVn-vAOQBaWsAC_iyJBpxNc351.m4a",
+      "title": {
+        "text": "Edelis - Heavenly river",
+        "truncated": false
+      },
+      "description": {
+        "text": "《哲学100问》第1季 背景音乐 收听： 《哲学100问》请戳",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Nov 2017 08:30:22 GMT",
+      "feed_index": 61
+    },
+    {
+      "id": "c25bad9fd16a4407772c429de4bb74e9a4287c8dc2e0488f9fe9766949e7ed40",
+      "guid": "https://aod.cos.tx.xmcdn.com/group33/M02/7B/8C/wKgJTFn-w9_CKK50ABjNzxrGg7s897.m4a",
+      "title": {
+        "text": "Electus - Nero",
+        "truncated": false
+      },
+      "description": {
+        "text": "《哲学100问》第1季 背景音乐 收听： 《哲学100问》请戳",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Nov 2017 08:30:22 GMT",
+      "feed_index": 76
+    },
+    {
+      "id": "176969087ecd105fde159cd3d069392cdf3b21925865a6cb23a07a94fc56029b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group33/M09/33/09/wKgJUVn-yxTzR3kmABz34laCiwE690.m4a",
+      "title": {
+        "text": "Xeuphoria - I know you're not, but I hope you're thinking of the time we had tog",
+        "truncated": false
+      },
+      "description": {
+        "text": "《哲学100问》第1季 背景音乐 收听： 《哲学100问》请戳",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Nov 2017 08:30:22 GMT",
+      "feed_index": 91
+    },
+    {
+      "id": "cca62b2cecef8552d10f974a49f4e384b895e6b384ed61c1dddda6ac6ca6cd4f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group33/M03/3A/E8/wKgJUVn-_P2AR0MIAB5ScHFTimA041.m4a",
+      "title": {
+        "text": "坂本龍一 - Solitude Theme",
+        "truncated": false
+      },
+      "description": {
+        "text": "《哲学100问》第1季 背景音乐 收听： 《哲学100问》请戳",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Nov 2017 11:59:11 GMT",
+      "feed_index": 106
+    }
+  ]
+}

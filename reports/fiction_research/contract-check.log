@@ -1,0 +1,13 @@
+{
+  "schema_commit": "9e908672b5ac6afe94a0f6ea4e5d0f31f66b7360",
+  "handoff_files": {
+    "schemas/content-filter.v1.0.schema.json": "62480d94c7828797d715b29f4ae7452f359849f7cdd0aa85e9f918ddd4fa0f43",
+    "schemas/content-filter-interface.md": "17d8a5b2bb6850fed63db5ab8e4fd51244e396f1b5cbb380c890d3cd3d9f6186",
+    "rules/example-fiction.json": "c43b769fb5e8ea586baf04c8098b5846b996fe3602e6db7f32f8a2fd631d707b"
+  },
+  "json_schema": "pass",
+  "semantic_subset": "pass",
+  "status": "example",
+  "production_ready": false,
+  "notes": "Semantic checks supplement JSON Schema. Actual Swift loading/scoring parity is separately reported in swift-parity.json; production additionally requires human gold and independent test."
+}

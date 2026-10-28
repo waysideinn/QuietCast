@@ -1,0 +1,75 @@
+{
+  "group": "fiction",
+  "term": "童话连载",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%AB%A5%E8%AF%9D%E8%BF%9E%E8%BD%BD&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%AB%A5%E8%AF%9D%E8%BF%9E%E8%BD%BD&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:42:01.413656+00:00",
+    "status": 200,
+    "sha256": "328bcc838c6304acc0b8302bc64aa75cace0b2620523cb5e575d511af571ca03"
+  },
+  "result_count": 3,
+  "records": [
+    {
+      "collectionId": 707996626,
+      "trackId": 707996626,
+      "collectionName": "混童话广播",
+      "artistName": "混童话广播",
+      "feedUrl": "http://rss.lizhi.fm/rss/13696.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B7%B7%E7%AB%A5%E8%AF%9D%E5%B9%BF%E6%92%AD/id707996626?uo=4",
+      "genres": [
+        "兒童與家庭",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1305",
+        "26"
+      ],
+      "trackCount": 829,
+      "releaseDate": "2021-01-18T03:19:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童與家庭"
+    },
+    {
+      "collectionId": 1496568751,
+      "trackId": 1496568751,
+      "collectionName": "サンテレビ",
+      "artistName": "株式会社サンテレビジョン",
+      "feedUrl": "https://ad.robotstart.jp/api/v1/feeds/37470498/get-feeds/podcast",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%82%B5%E3%83%B3%E3%83%86%E3%83%AC%E3%83%93/id1496568751?uo=4",
+      "genres": [
+        "電視與電影",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1309",
+        "26"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2024-04-30T03:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "電視與電影"
+    },
+    {
+      "collectionId": 1638599391,
+      "trackId": 1638599391,
+      "collectionName": "只讲生活，不谈理想",
+      "artistName": "zhensiling",
+      "feedUrl": "https://anchor.fm/s/ae8433d0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8F%AA%E8%AE%B2%E7%94%9F%E6%B4%BB-%E4%B8%8D%E8%B0%88%E7%90%86%E6%83%B3/id1638599391?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 809,
+      "releaseDate": "2023-06-16T10:45:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    }
+  ]
+}

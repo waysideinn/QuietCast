@@ -1,0 +1,42 @@
+{
+  "show_id": "1432356276",
+  "feed_url": "http://nakatanihitomi.com/feed/podcast/?redirect=no",
+  "source": {
+    "url": "http://nakatanihitomi.com/feed/podcast/?redirect=no",
+    "final_url": "http://nakatanihitomi.com/feed/podcast/?redirect=no",
+    "fetched_at": "2026-10-25T14:49:14.164347+00:00",
+    "status": 200,
+    "sha256": "46b59cd82892a38cf010cc402a5fc27af4bcd9baf412e02223b5c20ab76bf621"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【女性起業家専門】集客パーソナルトレーナー",
+    "truncated": false
+  },
+  "description": {
+    "text": "ビジネス、集客、マーケティング",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "explicit": "yes",
+    "type": "episodic"
+  },
+  "feed_item_count": 1,
+  "episodes": [
+    {
+      "id": "9efa761862c1981d500122920dc21db8cf64fce59c32f23a10704d57af3a529d",
+      "guid": "http://nakatanihitomi.com/?p=7",
+      "title": {
+        "text": "貧乏暇なし女性起業家からの脱却",
+        "truncated": false
+      },
+      "description": {
+        "text": "なぜ、女性起業家は忙しくなればなるほど、お金が残らないのか？ そこから脱却する3つのコツについて徹底解説！ &...",
+        "truncated": false
+      },
+      "published_at": "Tue, 21 Aug 2018 04:33:48 +0000",
+      "feed_index": 0
+    }
+  ]
+}

@@ -1,0 +1,1393 @@
+{
+  "group": "fiction",
+  "term": "穿越",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%A9%BF%E8%B6%8A&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%A9%BF%E8%B6%8A&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:40:15.764042+00:00",
+    "status": 200,
+    "sha256": "73af724eeac5c7877252482f5c9ad6a1d0cc84a5a768011f2d5e33bc4c246141"
+  },
+  "result_count": 59,
+  "records": [
+    {
+      "collectionId": 1781585246,
+      "trackId": 1781585246,
+      "collectionName": "穿越之异界重生|系统|重生|穿越|多人有声剧|多播",
+      "artistName": "冷静之声",
+      "feedUrl": "https://www.ximalaya.com/album/84617339.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A9%BF%E8%B6%8A%E4%B9%8B%E5%BC%82%E7%95%8C%E9%87%8D%E7%94%9F-%E7%B3%BB%E7%BB%9F-%E9%87%8D%E7%94%9F-%E7%A9%BF%E8%B6%8A-%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7-%E5%A4%9A%E6%92%AD/id1781585246?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 902,
+      "releaseDate": "2024-11-26T03:45:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1743910941,
+      "trackId": 1743910941,
+      "collectionName": "爽文！全家一起提前囤货穿越末世重生空间种田养崽天灾",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/81586794.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%88%BD%E6%96%87-%E5%85%A8%E5%AE%B6%E4%B8%80%E8%B5%B7%E6%8F%90%E5%89%8D%E5%9B%A4%E8%B4%A7%E7%A9%BF%E8%B6%8A%E6%9C%AB%E4%B8%96%E9%87%8D%E7%94%9F%E7%A9%BA%E9%97%B4%E7%A7%8D%E7%94%B0%E5%85%BB%E5%B4%BD%E5%A4%A9%E7%81%BE/id1743910941?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 252,
+      "releaseDate": "2024-04-29T12:39:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1752037348,
+      "trackId": 1752037348,
+      "collectionName": "惊！美食博主穿越到古代绝妙神级厨艺让小饭店生意逆袭",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/81397021.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%83%8A-%E7%BE%8E%E9%A3%9F%E5%8D%9A%E4%B8%BB%E7%A9%BF%E8%B6%8A%E5%88%B0%E5%8F%A4%E4%BB%A3%E7%BB%9D%E5%A6%99%E7%A5%9E%E7%BA%A7%E5%8E%A8%E8%89%BA%E8%AE%A9%E5%B0%8F%E9%A5%AD%E5%BA%97%E7%94%9F%E6%84%8F%E9%80%86%E8%A2%AD/id1752037348?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "休闲",
+        "家居与园艺"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1502",
+        "1508"
+      ],
+      "trackCount": 93,
+      "releaseDate": "2024-04-16T06:42:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1799558752,
+      "trackId": 1799558752,
+      "collectionName": "【免费】恐怖世界生存指南|多播|穿越恐怖故事|爆款爽文|悬疑",
+      "artistName": "青衫逍遥声",
+      "feedUrl": "https://www.ximalaya.com/album/86251706.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E6%81%90%E6%80%96%E4%B8%96%E7%95%8C%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97-%E5%A4%9A%E6%92%AD-%E7%A9%BF%E8%B6%8A%E6%81%90%E6%80%96%E6%95%85%E4%BA%8B-%E7%88%86%E6%AC%BE%E7%88%BD%E6%96%87-%E6%82%AC%E7%96%91/id1799558752?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "trackCount": 296,
+      "releaseDate": "2026-10-21T16:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1785128836,
+      "trackId": 1785128836,
+      "collectionName": "屠戮神仙|穿越|修仙|玄幻|多人有声剧",
+      "artistName": "冷静之声",
+      "feedUrl": "https://www.ximalaya.com/album/84827012.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B1%A0%E6%88%AE%E7%A5%9E%E4%BB%99-%E7%A9%BF%E8%B6%8A-%E4%BF%AE%E4%BB%99-%E7%8E%84%E5%B9%BB-%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1785128836?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 746,
+      "releaseDate": "2024-12-10T02:57:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1699985828,
+      "trackId": 1699985828,
+      "collectionName": "【在逃皇后迷情记】穿越|情爱|权谋|乱臣|免费",
+      "artistName": "Hi唐念念_悦念有声",
+      "feedUrl": "https://www.ximalaya.com/album/77276148.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%9C%A8%E9%80%83%E7%9A%87%E5%90%8E%E8%BF%B7%E6%83%85%E8%AE%B0-%E7%A9%BF%E8%B6%8A-%E6%83%85%E7%88%B1-%E6%9D%83%E8%B0%8B-%E4%B9%B1%E8%87%A3-%E5%85%8D%E8%B4%B9/id1699985828?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 244,
+      "releaseDate": "2023-08-27T10:50:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1580999116,
+      "trackId": 1580999116,
+      "collectionName": "【免费多播】穿越架空|腹黑王爷骄纵妃",
+      "artistName": "KK四姑娘",
+      "feedUrl": "http://www.ximalaya.com/album/51993638.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9%E5%A4%9A%E6%92%AD-%E7%A9%BF%E8%B6%8A%E6%9E%B6%E7%A9%BA-%E8%85%B9%E9%BB%91%E7%8E%8B%E7%88%B7%E9%AA%84%E7%BA%B5%E5%A6%83/id1580999116?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 140,
+      "releaseDate": "2021-10-15T10:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1717004208,
+      "trackId": 1717004208,
+      "collectionName": "斗罗之武魂觉醒|精彩播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/72089419.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E4%B9%8B%E6%AD%A6%E9%AD%82%E8%A7%89%E9%86%92-%E7%B2%BE%E5%BD%A9%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717004208?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 267,
+      "releaseDate": "2022-10-30T13:11:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1664345469,
+      "trackId": 1664345469,
+      "collectionName": "【免费双播】我和我的病娇王爷｜轻喜剧古言&穿越",
+      "artistName": "蕾蕾蕾小姐_",
+      "feedUrl": "https://www.ximalaya.com/album/65794725.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9%E5%8F%8C%E6%92%AD-%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%97%85%E5%A8%87%E7%8E%8B%E7%88%B7-%E8%BD%BB%E5%96%9C%E5%89%A7%E5%8F%A4%E8%A8%80-%E7%A9%BF%E8%B6%8A/id1664345469?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "trackCount": 100,
+      "releaseDate": "2022-08-08T06:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1801640212,
+      "trackId": 1801640212,
+      "collectionName": "重生末日囤货|穿越重生|精品|免费有声小说|爽文",
+      "artistName": "爱吃小馄炖",
+      "feedUrl": "https://www.ximalaya.com/album/87407195.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%87%8D%E7%94%9F%E6%9C%AB%E6%97%A5%E5%9B%A4%E8%B4%A7-%E7%A9%BF%E8%B6%8A%E9%87%8D%E7%94%9F-%E7%B2%BE%E5%93%81-%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4-%E7%88%BD%E6%96%87/id1801640212?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "科幻小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 341,
+      "releaseDate": "2025-04-05T09:51:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1750710923,
+      "trackId": 1750710923,
+      "collectionName": "【七零军婚】穿越重生惊被帅军官丈夫和婆家宠溺到怀孕",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82024417.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%83%E9%9B%B6%E5%86%9B%E5%A9%9A-%E7%A9%BF%E8%B6%8A%E9%87%8D%E7%94%9F%E6%83%8A%E8%A2%AB%E5%B8%85%E5%86%9B%E5%AE%98%E4%B8%88%E5%A4%AB%E5%92%8C%E5%A9%86%E5%AE%B6%E5%AE%A0%E6%BA%BA%E5%88%B0%E6%80%80%E5%AD%95/id1750710923?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 549,
+      "releaseDate": "2024-06-02T23:42:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1701947608,
+      "trackId": 1701947608,
+      "collectionName": "美人谋 | 9.9高分 | 重生穿越古言短剧 | 睡前故事",
+      "artistName": "喜马拉雅搜：沐婉_",
+      "feedUrl": "https://www.ximalaya.com/album/77445090.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BE%8E%E4%BA%BA%E8%B0%8B-9-9%E9%AB%98%E5%88%86-%E9%87%8D%E7%94%9F%E7%A9%BF%E8%B6%8A%E5%8F%A4%E8%A8%80%E7%9F%AD%E5%89%A7-%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B/id1701947608?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "电视与电影",
+        "影评"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1309",
+        "1563"
+      ],
+      "trackCount": 599,
+      "releaseDate": "2024-03-28T23:10:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1760987470,
+      "trackId": 1760987470,
+      "collectionName": "穿越到三体世界！激活神话复苏系统开启地球的逆袭之路",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82937833.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A9%BF%E8%B6%8A%E5%88%B0%E4%B8%89%E4%BD%93%E4%B8%96%E7%95%8C-%E6%BF%80%E6%B4%BB%E7%A5%9E%E8%AF%9D%E5%A4%8D%E8%8B%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%90%AF%E5%9C%B0%E7%90%83%E7%9A%84%E9%80%86%E8%A2%AD%E4%B9%8B%E8%B7%AF/id1760987470?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 236,
+      "releaseDate": "2024-08-05T09:20:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1536320622,
+      "trackId": 1536320622,
+      "collectionName": "葬明丨穿越明末争霸天下",
+      "artistName": "北海听云",
+      "feedUrl": "http://www.ximalaya.com/album/42709787.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%91%AC%E6%98%8E%E4%B8%A8%E7%A9%BF%E8%B6%8A%E6%98%8E%E6%9C%AB%E4%BA%89%E9%9C%B8%E5%A4%A9%E4%B8%8B/id1536320622?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 1120,
+      "releaseDate": "2022-08-03T11:36:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1782816242,
+      "trackId": 1782816242,
+      "collectionName": "重生之龙之九子|穿越|玄幻|爽文|多播|多人有声剧",
+      "artistName": "冷静之声",
+      "feedUrl": "https://www.ximalaya.com/album/84713463.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%87%8D%E7%94%9F%E4%B9%8B%E9%BE%99%E4%B9%8B%E4%B9%9D%E5%AD%90-%E7%A9%BF%E8%B6%8A-%E7%8E%84%E5%B9%BB-%E7%88%BD%E6%96%87-%E5%A4%9A%E6%92%AD-%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1782816242?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 179,
+      "releaseDate": "2024-12-01T06:42:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1751423394,
+      "trackId": 1751423394,
+      "collectionName": "农女有灵药: 将军来一颗|穿越|带领全家发家致富她",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/77476627.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%86%9C%E5%A5%B3%E6%9C%89%E7%81%B5%E8%8D%AF-%E5%B0%86%E5%86%9B%E6%9D%A5%E4%B8%80%E9%A2%97-%E7%A9%BF%E8%B6%8A-%E5%B8%A6%E9%A2%86%E5%85%A8%E5%AE%B6%E5%8F%91%E5%AE%B6%E8%87%B4%E5%AF%8C%E5%A5%B9/id1751423394?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 344,
+      "releaseDate": "2023-08-10T10:48:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1657851921,
+      "trackId": 1657851921,
+      "collectionName": "我不是喵神|穿越搞笑|精品双播|免费",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/72547089.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E4%B8%8D%E6%98%AF%E5%96%B5%E7%A5%9E-%E7%A9%BF%E8%B6%8A%E6%90%9E%E7%AC%91-%E7%B2%BE%E5%93%81%E5%8F%8C%E6%92%AD-%E5%85%8D%E8%B4%B9/id1657851921?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 357,
+      "releaseDate": "2022-12-28T23:31:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1634966407,
+      "trackId": 1634966407,
+      "collectionName": "美人皇后不好命|穿越重生|免费多播小说",
+      "artistName": "南谷尧",
+      "feedUrl": "https://www.ximalaya.com/album/69540852.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BE%8E%E4%BA%BA%E7%9A%87%E5%90%8E%E4%B8%8D%E5%A5%BD%E5%91%BD-%E7%A9%BF%E8%B6%8A%E9%87%8D%E7%94%9F-%E5%85%8D%E8%B4%B9%E5%A4%9A%E6%92%AD%E5%B0%8F%E8%AF%B4/id1634966407?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 75,
+      "releaseDate": "2022-09-27T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1751145662,
+      "trackId": 1751145662,
+      "collectionName": "天才杀手|玄幻|爽文|王朝|穿越|过目不忘",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/79964170.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%A9%E6%89%8D%E6%9D%80%E6%89%8B-%E7%8E%84%E5%B9%BB-%E7%88%BD%E6%96%87-%E7%8E%8B%E6%9C%9D-%E7%A9%BF%E8%B6%8A-%E8%BF%87%E7%9B%AE%E4%B8%8D%E5%BF%98/id1751145662?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 265,
+      "releaseDate": "2024-01-10T04:50:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1694412696,
+      "trackId": 1694412696,
+      "collectionName": "【免费】超级僵尸|古墓|灭门|恐怖|穿越|风水秘术|灵异|AI多播",
+      "artistName": "庐行知",
+      "feedUrl": "https://www.ximalaya.com/album/76687619.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E8%B6%85%E7%BA%A7%E5%83%B5%E5%B0%B8-%E5%8F%A4%E5%A2%93-%E7%81%AD%E9%97%A8-%E6%81%90%E6%80%96-%E7%A9%BF%E8%B6%8A-%E9%A3%8E%E6%B0%B4%E7%A7%98%E6%9C%AF-%E7%81%B5%E5%BC%82-ai%E5%A4%9A%E6%92%AD/id1694412696?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 116,
+      "releaseDate": "2023-07-21T21:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1612231240,
+      "trackId": 1612231240,
+      "collectionName": "重生之异能娇妻｜免费｜多人｜穿越小说",
+      "artistName": "方鸣远播",
+      "feedUrl": "http://www.ximalaya.com/album/57407238.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%87%8D%E7%94%9F%E4%B9%8B%E5%BC%82%E8%83%BD%E5%A8%87%E5%A6%BB-%E5%85%8D%E8%B4%B9-%E5%A4%9A%E4%BA%BA-%E7%A9%BF%E8%B6%8A%E5%B0%8F%E8%AF%B4/id1612231240?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 144,
+      "releaseDate": "2022-05-05T01:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1754830460,
+      "trackId": 1754830460,
+      "collectionName": "穿越之我全家都是反派！古言逆袭燃炸全场一秒开挂逆天",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/80633484.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A9%BF%E8%B6%8A%E4%B9%8B%E6%88%91%E5%85%A8%E5%AE%B6%E9%83%BD%E6%98%AF%E5%8F%8D%E6%B4%BE-%E5%8F%A4%E8%A8%80%E9%80%86%E8%A2%AD%E7%87%83%E7%82%B8%E5%85%A8%E5%9C%BA%E4%B8%80%E7%A7%92%E5%BC%80%E6%8C%82%E9%80%86%E5%A4%A9/id1754830460?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "trackCount": 369,
+      "releaseDate": "2024-03-06T06:31:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1777644913,
+      "trackId": 1777644913,
+      "collectionName": "【免费】【有声书】精品多播｜穿越修仙|系统爽文",
+      "artistName": "深海鲲鲸",
+      "feedUrl": "https://www.ximalaya.com/album/83145318.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E6%9C%89%E5%A3%B0%E4%B9%A6-%E7%B2%BE%E5%93%81%E5%A4%9A%E6%92%AD-%E7%A9%BF%E8%B6%8A%E4%BF%AE%E4%BB%99-%E7%B3%BB%E7%BB%9F%E7%88%BD%E6%96%87/id1777644913?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 1125,
+      "releaseDate": "2025-08-14T22:31:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1750671001,
+      "trackId": 1750671001,
+      "collectionName": "重启大明丨多人有声小说丨穿越",
+      "artistName": "锦鸣茶馆",
+      "feedUrl": "https://www.ximalaya.com/album/81815022.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%87%8D%E5%90%AF%E5%A4%A7%E6%98%8E%E4%B8%A8%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E4%B8%A8%E7%A9%BF%E8%B6%8A/id1750671001?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 150,
+      "releaseDate": "2024-06-07T10:05:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1717004918,
+      "trackId": 1717004918,
+      "collectionName": "斗罗之超神武魂|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/72036293.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E4%B9%8B%E8%B6%85%E7%A5%9E%E6%AD%A6%E9%AD%82-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717004918?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 817,
+      "releaseDate": "2022-10-29T03:17:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1773890185,
+      "trackId": 1773890185,
+      "collectionName": "穿越古代体验鸡飞狗跳极品生活从农村到朝堂发家奋斗史",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/83591335.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A9%BF%E8%B6%8A%E5%8F%A4%E4%BB%A3%E4%BD%93%E9%AA%8C%E9%B8%A1%E9%A3%9E%E7%8B%97%E8%B7%B3%E6%9E%81%E5%93%81%E7%94%9F%E6%B4%BB%E4%BB%8E%E5%86%9C%E6%9D%91%E5%88%B0%E6%9C%9D%E5%A0%82%E5%8F%91%E5%AE%B6%E5%A5%8B%E6%96%97%E5%8F%B2/id1773890185?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 493,
+      "releaseDate": "2025-02-13T07:23:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1760009608,
+      "trackId": 1760009608,
+      "collectionName": "精品免费女频|蝴蝶效应病娇疯狂霸总展赢为爱穿越时空",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/81779013.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%B2%BE%E5%93%81%E5%85%8D%E8%B4%B9%E5%A5%B3%E9%A2%91-%E8%9D%B4%E8%9D%B6%E6%95%88%E5%BA%94%E7%97%85%E5%A8%87%E7%96%AF%E7%8B%82%E9%9C%B8%E6%80%BB%E5%B1%95%E8%B5%A2%E4%B8%BA%E7%88%B1%E7%A9%BF%E8%B6%8A%E6%97%B6%E7%A9%BA/id1760009608?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "犯罪纪实"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1488"
+      ],
+      "trackCount": 435,
+      "releaseDate": "2025-03-02T07:47:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1757402081,
+      "trackId": 1757402081,
+      "collectionName": "毛骨悚然！穿越成人气主播带你体验灵异直播恐怖大事件",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82654196.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%AF%9B%E9%AA%A8%E6%82%9A%E7%84%B6-%E7%A9%BF%E8%B6%8A%E6%88%90%E4%BA%BA%E6%B0%94%E4%B8%BB%E6%92%AD%E5%B8%A6%E4%BD%A0%E4%BD%93%E9%AA%8C%E7%81%B5%E5%BC%82%E7%9B%B4%E6%92%AD%E6%81%90%E6%80%96%E5%A4%A7%E4%BA%8B%E4%BB%B6/id1757402081?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "trackCount": 423,
+      "releaseDate": "2024-07-22T10:08:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1633015940,
+      "trackId": 1633015940,
+      "collectionName": "【免费双播精品】绝世医妃之双凤手镯|古言穿越|王爷",
+      "artistName": "有间工作室",
+      "feedUrl": "https://www.ximalaya.com/album/56402108.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9%E5%8F%8C%E6%92%AD%E7%B2%BE%E5%93%81-%E7%BB%9D%E4%B8%96%E5%8C%BB%E5%A6%83%E4%B9%8B%E5%8F%8C%E5%87%A4%E6%89%8B%E9%95%AF-%E5%8F%A4%E8%A8%80%E7%A9%BF%E8%B6%8A-%E7%8E%8B%E7%88%B7/id1633015940?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 842,
+      "releaseDate": "2022-06-15T10:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1587476233,
+      "trackId": 1587476233,
+      "collectionName": "多播/香蜜之携手同舟/穿越架空&逆袭女配",
+      "artistName": "竹同兰极_唬头Bng",
+      "feedUrl": "http://www.ximalaya.com/album/52634075.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%9A%E6%92%AD-%E9%A6%99%E8%9C%9C%E4%B9%8B%E6%90%BA%E6%89%8B%E5%90%8C%E8%88%9F-%E7%A9%BF%E8%B6%8A%E6%9E%B6%E7%A9%BA-%E9%80%86%E8%A2%AD%E5%A5%B3%E9%85%8D/id1587476233?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2021-09-18T16:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1717005156,
+      "trackId": 1717005156,
+      "collectionName": "斗罗大陆之至高武魂|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71952916.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E8%87%B3%E9%AB%98%E6%AD%A6%E9%AD%82-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717005156?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 344,
+      "releaseDate": "2022-10-25T13:11:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1752431127,
+      "trackId": 1752431127,
+      "collectionName": "震惊重生大明朝穿越到了大明宣宗长子、大明战神朱祁镇",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82228638.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%9C%87%E6%83%8A%E9%87%8D%E7%94%9F%E5%A4%A7%E6%98%8E%E6%9C%9D%E7%A9%BF%E8%B6%8A%E5%88%B0%E4%BA%86%E5%A4%A7%E6%98%8E%E5%AE%A3%E5%AE%97%E9%95%BF%E5%AD%90-%E5%A4%A7%E6%98%8E%E6%88%98%E7%A5%9E%E6%9C%B1%E7%A5%81%E9%95%87/id1752431127?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 956,
+      "releaseDate": "2024-06-26T02:08:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1554648866,
+      "trackId": 1554648866,
+      "collectionName": "寻秦记/黄易/2021年国语/玄幻穿越有声书",
+      "artistName": "黄易作品（大山播讲）",
+      "feedUrl": "http://www.ximalaya.com/album/30743908.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%AF%BB%E7%A7%A6%E8%AE%B0-%E9%BB%84%E6%98%93-2021%E5%B9%B4%E5%9B%BD%E8%AF%AD-%E7%8E%84%E5%B9%BB%E7%A9%BF%E8%B6%8A%E6%9C%89%E5%A3%B0%E4%B9%A6/id1554648866?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 296,
+      "releaseDate": "2022-03-07T06:57:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1632849082,
+      "trackId": 1632849082,
+      "collectionName": "（全本免费）穿越之我不为妾",
+      "artistName": "白鹤2799",
+      "feedUrl": "https://www.ximalaya.com/album/55757735.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%A8%E6%9C%AC%E5%85%8D%E8%B4%B9-%E7%A9%BF%E8%B6%8A%E4%B9%8B%E6%88%91%E4%B8%8D%E4%B8%BA%E5%A6%BE/id1632849082?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 120,
+      "releaseDate": "2022-07-28T13:06:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1716825743,
+      "trackId": 1716825743,
+      "collectionName": "遮天之斗破武魂|精彩播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/72130534.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%81%AE%E5%A4%A9%E4%B9%8B%E6%96%97%E7%A0%B4%E6%AD%A6%E9%AD%82-%E7%B2%BE%E5%BD%A9%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1716825743?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 1090,
+      "releaseDate": "2022-11-08T12:24:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1753658083,
+      "trackId": 1753658083,
+      "collectionName": "穿越邪医王妃逆袭权谋甜恋并存病弱王爷被治愈停止摆烂",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82320494.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A9%BF%E8%B6%8A%E9%82%AA%E5%8C%BB%E7%8E%8B%E5%A6%83%E9%80%86%E8%A2%AD%E6%9D%83%E8%B0%8B%E7%94%9C%E6%81%8B%E5%B9%B6%E5%AD%98%E7%97%85%E5%BC%B1%E7%8E%8B%E7%88%B7%E8%A2%AB%E6%B2%BB%E6%84%88%E5%81%9C%E6%AD%A2%E6%91%86%E7%83%82/id1753658083?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 1747,
+      "releaseDate": "2024-07-09T03:49:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1750709975,
+      "trackId": 1750709975,
+      "collectionName": "【穿越校园恶毒前女友】我不甘心！如何摆脱小说命运？",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82102564.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A9%BF%E8%B6%8A%E6%A0%A1%E5%9B%AD%E6%81%B6%E6%AF%92%E5%89%8D%E5%A5%B3%E5%8F%8B-%E6%88%91%E4%B8%8D%E7%94%98%E5%BF%83-%E5%A6%82%E4%BD%95%E6%91%86%E8%84%B1%E5%B0%8F%E8%AF%B4%E5%91%BD%E8%BF%90/id1750709975?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "社会与文化",
+        "情感与人际关系"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 220,
+      "releaseDate": "2024-06-07T01:03:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1593825895,
+      "trackId": 1593825895,
+      "collectionName": "【爆笑多播】搞笑穿越古风言情丨妃常作乱之情债",
+      "artistName": "卡西有声",
+      "feedUrl": "http://www.ximalaya.com/album/51823624.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%88%86%E7%AC%91%E5%A4%9A%E6%92%AD-%E6%90%9E%E7%AC%91%E7%A9%BF%E8%B6%8A%E5%8F%A4%E9%A3%8E%E8%A8%80%E6%83%85%E4%B8%A8%E5%A6%83%E5%B8%B8%E4%BD%9C%E4%B9%B1%E4%B9%8B%E6%83%85%E5%80%BA/id1593825895?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "社会与文化",
+        "情感与人际关系"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 87,
+      "releaseDate": "2021-09-12T10:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1716822386,
+      "trackId": 1716822386,
+      "collectionName": "斗罗大陆之神之觉醒|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71915352.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E7%A5%9E%E4%B9%8B%E8%A7%89%E9%86%92-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1716822386?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 262,
+      "releaseDate": "2022-10-24T04:39:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1692064853,
+      "trackId": 1692064853,
+      "collectionName": "【重生之嫡女妖娆】穿越|架空|言情|古代|免费",
+      "artistName": "Hi唐念念_悦念有声",
+      "feedUrl": "https://www.ximalaya.com/album/76039134.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%87%8D%E7%94%9F%E4%B9%8B%E5%AB%A1%E5%A5%B3%E5%A6%96%E5%A8%86-%E7%A9%BF%E8%B6%8A-%E6%9E%B6%E7%A9%BA-%E8%A8%80%E6%83%85-%E5%8F%A4%E4%BB%A3-%E5%85%8D%E8%B4%B9/id1692064853?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 167,
+      "releaseDate": "2023-07-09T13:17:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1758258377,
+      "trackId": 1758258377,
+      "collectionName": "厨神系统！穿越成废材王后做美食称霸后宫美男萌宝上钩",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82707590.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8E%A8%E7%A5%9E%E7%B3%BB%E7%BB%9F-%E7%A9%BF%E8%B6%8A%E6%88%90%E5%BA%9F%E6%9D%90%E7%8E%8B%E5%90%8E%E5%81%9A%E7%BE%8E%E9%A3%9F%E7%A7%B0%E9%9C%B8%E5%90%8E%E5%AE%AB%E7%BE%8E%E7%94%B7%E8%90%8C%E5%AE%9D%E4%B8%8A%E9%92%A9/id1758258377?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "trackCount": 1798,
+      "releaseDate": "2024-07-26T04:06:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1717004394,
+      "trackId": 1717004394,
+      "collectionName": "斗罗之君临·|精彩播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/72082301.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E4%B9%8B%E5%90%9B%E4%B8%B4-%E7%B2%BE%E5%BD%A9%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717004394?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 299,
+      "releaseDate": "2022-10-30T10:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1549493045,
+      "trackId": 1549493045,
+      "collectionName": "法医丑妃：王爷，晚上见｜穿越破案悬疑（永久免费）",
+      "artistName": "星空有声小说",
+      "feedUrl": "http://www.ximalaya.com/album/42622023.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%B3%95%E5%8C%BB%E4%B8%91%E5%A6%83-%E7%8E%8B%E7%88%B7-%E6%99%9A%E4%B8%8A%E8%A7%81-%E7%A9%BF%E8%B6%8A%E7%A0%B4%E6%A1%88%E6%82%AC%E7%96%91-%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9/id1549493045?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 283,
+      "releaseDate": "2021-01-07T00:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1717003408,
+      "trackId": 1717003408,
+      "collectionName": "斗罗大陆之龙之觉醒|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71931185.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E9%BE%99%E4%B9%8B%E8%A7%89%E9%86%92-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717003408?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 160,
+      "releaseDate": "2022-10-24T05:02:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1717002782,
+      "trackId": 1717002782,
+      "collectionName": "斗罗大陆之超能武魂|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71933684.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E8%B6%85%E8%83%BD%E6%AD%A6%E9%AD%82-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717002782?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 333,
+      "releaseDate": "2022-10-24T10:40:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1241282365,
+      "trackId": 1241282365,
+      "collectionName": "穿越火线：第一次世界大战",
+      "artistName": "非星凡文化",
+      "feedUrl": "http://www.ximalaya.com/album/8292144.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF-%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%96%E7%95%8C%E5%A4%A7%E6%88%98/id1241282365?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "社会与文化"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1324"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2018-03-22T09:12:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1751406632,
+      "trackId": 1751406632,
+      "collectionName": "弃妃当嫁：拐个萌宝闯天下|古代言情|穿越|小三",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/78281959.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%BC%83%E5%A6%83%E5%BD%93%E5%AB%81-%E6%8B%90%E4%B8%AA%E8%90%8C%E5%AE%9D%E9%97%AF%E5%A4%A9%E4%B8%8B-%E5%8F%A4%E4%BB%A3%E8%A8%80%E6%83%85-%E7%A9%BF%E8%B6%8A-%E5%B0%8F%E4%B8%89/id1751406632?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 298,
+      "releaseDate": "2023-09-24T01:12:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1813570326,
+      "trackId": 1813570326,
+      "collectionName": "铁剑仙途|玄幻|穿越|修仙|多人演播|免费小说",
+      "artistName": "案夜",
+      "feedUrl": "https://www.ximalaya.com/album/92071466.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%93%81%E5%89%91%E4%BB%99%E9%80%94-%E7%8E%84%E5%B9%BB-%E7%A9%BF%E8%B6%8A-%E4%BF%AE%E4%BB%99-%E5%A4%9A%E4%BA%BA%E6%BC%94%E6%92%AD-%E5%85%8D%E8%B4%B9%E5%B0%8F%E8%AF%B4/id1813570326?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 1230,
+      "releaseDate": "2025-07-05T06:11:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1588299412,
+      "trackId": 1588299412,
+      "collectionName": "我穿越了综漫和电影世界【后宫】【系统】【穿越】",
+      "artistName": "西汉豆腐君",
+      "feedUrl": "http://www.ximalaya.com/album/51937531.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E7%A9%BF%E8%B6%8A%E4%BA%86%E7%BB%BC%E6%BC%AB%E5%92%8C%E7%94%B5%E5%BD%B1%E4%B8%96%E7%95%8C-%E5%90%8E%E5%AE%AB-%E7%B3%BB%E7%BB%9F-%E7%A9%BF%E8%B6%8A/id1588299412?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 1439,
+      "releaseDate": "2023-02-01T00:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1593846257,
+      "trackId": 1593846257,
+      "collectionName": "【爆笑穿越】后宫女配她太难",
+      "artistName": "卡西有声",
+      "feedUrl": "http://www.ximalaya.com/album/53536301.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%88%86%E7%AC%91%E7%A9%BF%E8%B6%8A-%E5%90%8E%E5%AE%AB%E5%A5%B3%E9%85%8D%E5%A5%B9%E5%A4%AA%E9%9A%BE/id1593846257?uo=4",
+      "genres": [
+        "脱口秀",
+        "播客",
+        "喜剧",
+        "小说",
+        "喜剧小说"
+      ],
+      "genreIds": [
+        "1497",
+        "26",
+        "1303",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 78,
+      "releaseDate": "2021-11-16T04:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "脱口秀"
+    },
+    {
+      "collectionId": 1785130001,
+      "trackId": 1785130001,
+      "collectionName": "开局给汉武帝直播世界地图|系统爽文|穿越|多人有声",
+      "artistName": "冷静之声",
+      "feedUrl": "https://www.ximalaya.com/album/84881918.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%BC%80%E5%B1%80%E7%BB%99%E6%B1%89%E6%AD%A6%E5%B8%9D%E7%9B%B4%E6%92%AD%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE-%E7%B3%BB%E7%BB%9F%E7%88%BD%E6%96%87-%E7%A9%BF%E8%B6%8A-%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0/id1785130001?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 122,
+      "releaseDate": "2024-12-13T05:35:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 6785941934,
+      "trackId": 6785941934,
+      "collectionName": "穿越牛熊：美股生存指南",
+      "artistName": "lorder",
+      "feedUrl": "https://podcastnasdaq.lordest.win/zh-CN/feed.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A9%BF%E8%B6%8A%E7%89%9B%E7%86%8A-%E7%BE%8E%E8%82%A1%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97/id6785941934?uo=4",
+      "genres": [
+        "投资",
+        "播客",
+        "商务"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321"
+      ],
+      "trackCount": 74,
+      "releaseDate": "2026-10-23T08:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "投资"
+    },
+    {
+      "collectionId": 1872394612,
+      "trackId": 1872394612,
+      "collectionName": "免费｜穿成农门炮灰女，我靠空间逆天改命｜穿越｜虐渣",
+      "artistName": "骁尘",
+      "feedUrl": "https://www.ximalaya.com/album/108275085.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E7%A9%BF%E6%88%90%E5%86%9C%E9%97%A8%E7%82%AE%E7%81%B0%E5%A5%B3-%E6%88%91%E9%9D%A0%E7%A9%BA%E9%97%B4%E9%80%86%E5%A4%A9%E6%94%B9%E5%91%BD-%E7%A9%BF%E8%B6%8A-%E8%99%90%E6%B8%A3/id1872394612?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "科幻小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 2000,
+      "releaseDate": "2025-11-17T12:18:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1717005465,
+      "trackId": 1717005465,
+      "collectionName": "斗罗之超级觉醒|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71511092.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E4%B9%8B%E8%B6%85%E7%BA%A7%E8%A7%89%E9%86%92-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717005465?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 431,
+      "releaseDate": "2022-10-14T06:36:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1717005049,
+      "trackId": 1717005049,
+      "collectionName": "斗罗大陆之神圣武魂|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71977840.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E7%A5%9E%E5%9C%A3%E6%AD%A6%E9%AD%82-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717005049?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 302,
+      "releaseDate": "2022-10-28T06:43:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1717005088,
+      "trackId": 1717005088,
+      "collectionName": "斗罗大陆之王之觉醒|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71907973.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E7%8E%8B%E4%B9%8B%E8%A7%89%E9%86%92-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717005088?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 168,
+      "releaseDate": "2022-10-23T12:04:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1727697458,
+      "trackId": 1727697458,
+      "collectionName": "穿越回南宋的N个理由 第一季",
+      "artistName": "华语之声",
+      "feedUrl": "https://www.ximalaya.com/album/80097050.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A9%BF%E8%B6%8A%E5%9B%9E%E5%8D%97%E5%AE%8B%E7%9A%84n%E4%B8%AA%E7%90%86%E7%94%B1-%E7%AC%AC%E4%B8%80%E5%AD%A3/id1727697458?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 11,
+      "releaseDate": "2024-01-17T08:42:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1671329509,
+      "trackId": 1671329509,
+      "collectionName": "读三体聊投资/陪您穿越投资的黑暗森林",
+      "artistName": "投资天使加百列",
+      "feedUrl": "https://www.ximalaya.com/album/74141001.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%AF%BB%E4%B8%89%E4%BD%93%E8%81%8A%E6%8A%95%E8%B5%84-%E9%99%AA%E6%82%A8%E7%A9%BF%E8%B6%8A%E6%8A%95%E8%B5%84%E7%9A%84%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97/id1671329509?uo=4",
+      "genres": [
+        "投资",
+        "播客",
+        "商务",
+        "小说",
+        "科幻小说"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2023-03-06T10:04:00Z",
+      "country": "CHN",
+      "primaryGenreName": "投资"
+    },
+    {
+      "collectionId": 1751145799,
+      "trackId": 1751145799,
+      "collectionName": "农门长姐会种田|古风言情|腹黑|古代|种田文|穿越",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/80329876.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%86%9C%E9%97%A8%E9%95%BF%E5%A7%90%E4%BC%9A%E7%A7%8D%E7%94%B0-%E5%8F%A4%E9%A3%8E%E8%A8%80%E6%83%85-%E8%85%B9%E9%BB%91-%E5%8F%A4%E4%BB%A3-%E7%A7%8D%E7%94%B0%E6%96%87-%E7%A9%BF%E8%B6%8A/id1751145799?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "trackCount": 139,
+      "releaseDate": "2024-02-02T04:59:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    }
+  ]
+}

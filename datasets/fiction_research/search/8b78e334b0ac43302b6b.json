@@ -1,0 +1,85 @@
+{
+  "group": "fiction",
+  "term": "无限流",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%97%A0%E9%99%90%E6%B5%81&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%97%A0%E9%99%90%E6%B5%81&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:40:47.788924+00:00",
+    "status": 200,
+    "sha256": "716f512e956c2a41da65b6243bef0c473d5da8001d348053745bad8b1c45e843"
+  },
+  "result_count": 3,
+  "records": [
+    {
+      "collectionId": 1785129325,
+      "trackId": 1785129325,
+      "collectionName": "白夜降临|灵异神怪|无限流|女强|爽文|多人有声剧",
+      "artistName": "冷静之声",
+      "feedUrl": "https://www.ximalaya.com/album/84770416.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%99%BD%E5%A4%9C%E9%99%8D%E4%B8%B4-%E7%81%B5%E5%BC%82%E7%A5%9E%E6%80%AA-%E6%97%A0%E9%99%90%E6%B5%81-%E5%A5%B3%E5%BC%BA-%E7%88%BD%E6%96%87-%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1785129325?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 596,
+      "releaseDate": "2024-12-05T05:28:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1689568737,
+      "trackId": 1689568737,
+      "collectionName": "【免费】无限武装|无限流|悬疑探险|AI多播",
+      "artistName": "八先生说书",
+      "feedUrl": "https://www.ximalaya.com/album/75916110.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E6%97%A0%E9%99%90%E6%AD%A6%E8%A3%85-%E6%97%A0%E9%99%90%E6%B5%81-%E6%82%AC%E7%96%91%E6%8E%A2%E9%99%A9-ai%E5%A4%9A%E6%92%AD/id1689568737?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "科技"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1318"
+      ],
+      "trackCount": 265,
+      "releaseDate": "2023-07-15T01:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1608787047,
+      "trackId": 1608787047,
+      "collectionName": "圆梦师‖爆笑万界无限流",
+      "artistName": "旗寒",
+      "feedUrl": "http://www.ximalaya.com/album/51785668.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%9C%86%E6%A2%A6%E5%B8%88-%E7%88%86%E7%AC%91%E4%B8%87%E7%95%8C%E6%97%A0%E9%99%90%E6%B5%81/id1608787047?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 633,
+      "releaseDate": "2022-05-14T08:44:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    }
+  ]
+}

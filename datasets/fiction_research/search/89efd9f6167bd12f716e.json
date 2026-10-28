@@ -1,0 +1,199 @@
+{
+  "group": "boundary",
+  "term": "文学史",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%96%87%E5%AD%A6%E5%8F%B2&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%96%87%E5%AD%A6%E5%8F%B2&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:46:30.771573+00:00",
+    "status": 200,
+    "sha256": "89d1d7e471966c9a7fc3b94f99d8362e562f8fcd62bc240a1c943cee7d4fdca1"
+  },
+  "result_count": 8,
+  "records": [
+    {
+      "collectionId": 1757431169,
+      "trackId": 1757431169,
+      "collectionName": "好聊好料文學史",
+      "artistName": "中山大學中文系「中國文學史」課程師生",
+      "feedUrl": "https://feed.firstory.me/rss/user/clya49dki06g301xq9p8fht3h",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%BD%E8%81%8A%E5%A5%BD%E6%96%99%E6%96%87%E5%AD%B8%E5%8F%B2/id1757431169?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2026-10-14T11:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1541273122,
+      "trackId": 1541273122,
+      "collectionName": "书房文学史｜书房连着厨房",
+      "artistName": "书房连着厨房_声音",
+      "feedUrl": "http://www.ximalaya.com/album/43889824.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B9%A6%E6%88%BF%E6%96%87%E5%AD%A6%E5%8F%B2-%E4%B9%A6%E6%88%BF%E8%BF%9E%E7%9D%80%E5%8E%A8%E6%88%BF/id1541273122?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術",
+        "小說",
+        "戲劇"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 34,
+      "releaseDate": "2026-10-23T10:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1336323610,
+      "trackId": 1336323610,
+      "collectionName": "乐死人的文学史｜宋代篇",
+      "artistName": "诸葛学堂",
+      "feedUrl": "http://www.ximalaya.com/album/12164932.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B9%90%E6%AD%BB%E4%BA%BA%E7%9A%84%E6%96%87%E5%AD%A6%E5%8F%B2-%E5%AE%8B%E4%BB%A3%E7%AF%87/id1336323610?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1487"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2017-12-19T01:21:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1183233450,
+      "trackId": 1183233450,
+      "collectionName": "闲话文学史",
+      "artistName": "jack强",
+      "feedUrl": "http://www.ximalaya.com/album/5853933.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%97%B2%E8%AF%9D%E6%96%87%E5%AD%A6%E5%8F%B2/id1183233450?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術",
+        "教育"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1304"
+      ],
+      "trackCount": 36,
+      "releaseDate": "2017-04-17T02:42:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1656701202,
+      "trackId": 1656701202,
+      "collectionName": "本読むネズミ ― 文学を読み、語り、音にする読書Podcast。",
+      "artistName": "高橋宏治（作曲家）と田口仁（文化史研究者）",
+      "feedUrl": "https://anchor.fm/s/cf7888fc/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%AC%E8%AA%AD%E3%82%80%E3%83%8D%E3%82%BA%E3%83%9F-%E6%96%87%E5%AD%A6%E3%82%92%E8%AA%AD%E3%81%BF-%E8%AA%9E%E3%82%8A-%E9%9F%B3%E3%81%AB%E3%81%99%E3%82%8B%E8%AA%AD%E6%9B%B8podcast/id1656701202?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 57,
+      "releaseDate": "2026-10-08T20:55:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1573387031,
+      "trackId": 1573387031,
+      "collectionName": "用文學看歷史",
+      "artistName": "落楓",
+      "feedUrl": "https://anchor.fm/s/60908138/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%94%A8%E6%96%87%E5%AD%B8%E7%9C%8B%E6%AD%B7%E5%8F%B2/id1573387031?uo=4",
+      "genres": [
+        "小說",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1483",
+        "26"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-06-19T04:51:00Z",
+      "country": "TWN",
+      "primaryGenreName": "小說"
+    },
+    {
+      "collectionId": 1833773970,
+      "trackId": 1833773970,
+      "collectionName": "史铁生文学深度剖析",
+      "artistName": "文化很有限",
+      "feedUrl": "https://www.ximalaya.com/album/101032264.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8F%B2%E9%93%81%E7%94%9F%E6%96%87%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90/id1833773970?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化",
+        "人際關係"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2025-08-17T01:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1759319679,
+      "trackId": 1759319679,
+      "collectionName": "叛逆者觉醒/史诗级大作/诗歌/诺贝尔文学奖提名作品",
+      "artistName": "低调的会长大人",
+      "feedUrl": "https://www.ximalaya.com/album/82093320.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8F%9B%E9%80%86%E8%80%85%E8%A7%89%E9%86%92-%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%A4%A7%E4%BD%9C-%E8%AF%97%E6%AD%8C-%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E6%8F%90%E5%90%8D%E4%BD%9C%E5%93%81/id1759319679?uo=4",
+      "genres": [
+        "電視節目評論",
+        "Podcast",
+        "電視與電影",
+        "宗教與精神生活",
+        "靈修"
+      ],
+      "genreIds": [
+        "1561",
+        "26",
+        "1309",
+        "1314",
+        "1444"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2024-09-03T12:37:00Z",
+      "country": "TWN",
+      "primaryGenreName": "電視節目評論"
+    }
+  ]
+}

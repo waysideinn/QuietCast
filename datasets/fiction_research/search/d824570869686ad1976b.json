@@ -1,0 +1,35 @@
+{
+  "group": "fiction",
+  "term": "童话连载",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%AB%A5%E8%AF%9D%E8%BF%9E%E8%BD%BD&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%AB%A5%E8%AF%9D%E8%BF%9E%E8%BD%BD&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:41:58.103720+00:00",
+    "status": 200,
+    "sha256": "9615033fda94a97c7e6b0c93b82a99a5f62fc7435c697009a0a156e2a66eb3a6"
+  },
+  "result_count": 1,
+  "records": [
+    {
+      "collectionId": 707996626,
+      "trackId": 707996626,
+      "collectionName": "混童话广播",
+      "artistName": "混童话广播",
+      "feedUrl": "http://rss.lizhi.fm/rss/13696.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%B7%B7%E7%AB%A5%E8%AF%9D%E5%B9%BF%E6%92%AD/id707996626?uo=4",
+      "genres": [
+        "儿童与家庭",
+        "播客"
+      ],
+      "genreIds": [
+        "1305",
+        "26"
+      ],
+      "trackCount": 829,
+      "releaseDate": "2021-01-18T03:19:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童与家庭"
+    }
+  ]
+}

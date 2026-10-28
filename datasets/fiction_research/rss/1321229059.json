@@ -1,0 +1,140 @@
+{
+  "show_id": "1321229059",
+  "feed_url": "http://www.ximalaya.com/album/9896701.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/9896701.xml",
+    "final_url": "http://www.ximalaya.com/album/9896701.xml",
+    "fetched_at": "2026-10-25T14:41:38.964074+00:00",
+    "status": 200,
+    "sha256": "98d673bac5683d2d3de4e0805042e17223a2d7ebef86f37a0a583550f4e5546c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "长篇有声小说 战争风云",
+    "truncated": false
+  },
+  "description": {
+    "text": "《战争风云》（The Winds of War） 是一部描写第二次世界大战的长篇小说，作者赫尔曼沃克。本书通过对美国海军军官亨利一家五口人在太平洋战争爆发前生活经历的描写，折射出战争爆发前美，德，苏，英，意等大国之间的政治及军事博弈。书中关于亨利一家人的人物和故事纯属虚构，但小说中有关战争的史实是准确的，其统计数字也是可靠的。罗斯福，丘吉尔，斯大林等大人物的言行或是根据历史事实，或是根据可靠的记载。作者尽最大努力给这样一次人类历史上最大规模的全球性战争描绘出一幅真实宏伟的巨幅全景图。潮哥在录制前对照英文原著对有关译本做了尽可能的修改，以适合于作为小说口语化播出。工作繁杂，时间紧张，谬误在所难免，敬请各位听友指出，以便于今后重播时更正。潮哥原则，自然本色，忠实原著，改良翻译，不断提高。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 156,
+  "episodes": [
+    {
+      "id": "9b6a16a1984c49b78cf7fd380482b2b85320079618ec3c7a856790f0164b555d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M05/82/F1/wKgJXlmM_VzTYS7WAHDiAuivLvQ166-aacv2-48K.m4a",
+      "title": {
+        "text": "001 维克多仕途突变 费踌躇问计罗达",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 11 Aug 2017 00:41:43 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "4ee9786767773245aabc98603113f5581a5117e38f69fe4759fab59f2688034b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group33/M05/6B/06/wKgJTFmc6OmhnZ95AH9F6zK36PY348-aacv2-48K.m4a",
+      "title": {
+        "text": "023 娜塔丽情迷华沙 莽姑娘勇闯克城",
+        "truncated": false
+      },
+      "description": {
+        "text": "我用心读，您随便听。听战争风云，惜和平岁月，来喜马拉雅，听潮哥读名著。《战争风云》（The Winds of War） 是一部描写二战的长篇小说，作者赫尔曼沃克。本书通过对美国海军军官亨利一家五口人在太平洋战争爆发前生活经历的刻画，折射出战争爆发前美，德，苏，英，意等大国之间的政治，军事角力。",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Aug 2017 02:30:44 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "6656b49079cf09a4e2f04cbe4ab6be82442e0419b47c8eb97c8d6e04842d53d8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group33/M07/81/5C/wKgJTFm3JCCBJWG2AJPH5-fsVXI338-aacv2-48K.m4a",
+      "title": {
+        "text": "045 讽纳粹拜伦直言 饰平安德军盛宴",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Sep 2017 00:02:18 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "016fbdb04273b5ea81f92c25c79ce37791e90d5ab8d3e8a2a10a79f7b9eb53a3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group33/M03/3C/14/wKgJnVnUTwyDsjnXAMaolOgJ9Ck321-aacv2-48K.m4a",
+      "title": {
+        "text": "067 美武官夫妇返美 欢迎宴谈核言欢",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 04 Oct 2017 03:03:36 GMT",
+      "feed_index": 66
+    },
+    {
+      "id": "45971f0722d6049bab9aac87f0034d7bb67164163160473a703b0e8b72df3b91",
+      "guid": "https://aod.cos.tx.xmcdn.com/group32/M03/48/A1/wKgJS1nz34TxeDFdAJqj7JqRXU8700-aacv2-48K.m4a",
+      "title": {
+        "text": "090 德将军机场设宴 费心机传达信息",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 28 Oct 2017 01:38:33 GMT",
+      "feed_index": 89
+    },
+    {
+      "id": "449b645457f7107431b371cc0c3bcb6368f1380913954694b529317bf89c39e0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group35/M00/4F/FB/wKgJnFoSNx6TRXuUANjb763H9Bs959-aacv2-48K.m4a",
+      "title": {
+        "text": "112 《帝国：世人惑巴巴罗莎 德将析元首意图》",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 20 Nov 2017 01:59:49 GMT",
+      "feed_index": 111
+    },
+    {
+      "id": "f7431c10f8d83d49edf4248dbdd8c76250583b5bfb7d8727069f11b7e486f3f0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group37/M0A/51/48/wKgJoVozK2jzX6OMAKf_ztgreW8431-aacv2-48K.m4a",
+      "title": {
+        "text": "134 迎炮声顺访托翁 美英俄三军联欢",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Dec 2017 01:56:25 GMT",
+      "feed_index": 133
+    },
+    {
+      "id": "4c6bde68828f6a2fec777a844a6a3a927bdd76597373fc4aa0833fea36d3e1fa",
+      "guid": "https://aod.cos.tx.xmcdn.com/group29/M01/84/66/wKgJWVpa1WOi8P6wAOWPC3kP3VY857-aacv2-48K.m4a",
+      "title": {
+        "text": "156 思往事欲续前缘 老水手终获新舰（全集完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 14 Jan 2018 04:02:05 GMT",
+      "feed_index": 155
+    }
+  ]
+}

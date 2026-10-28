@@ -1,0 +1,140 @@
+{
+  "show_id": "1224548575",
+  "feed_url": "http://www.ximalaya.com/album/6256948.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/6256948.xml",
+    "final_url": "http://www.ximalaya.com/album/6256948.xml",
+    "fetched_at": "2026-10-25T14:48:11.430676+00:00",
+    "status": 200,
+    "sha256": "c5a6d0b9deca190c40caec58cc925afe299115af66c303860c415bfdb05462ed"
+  },
+  "status": "ok",
+  "title": {
+    "text": "马克思丨唯物辩证法",
+    "truncated": false
+  },
+  "description": {
+    "text": "一合学社，从马哲中寻找智慧！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 83,
+  "episodes": [
+    {
+      "id": "f6cb0b15773dbf966aaa9c09cb4f4f9fdade2fe8ccafcb72580675b86080c812",
+      "guid": "xmly_track_562310781",
+      "title": {
+        "text": "纪念卡尔·马克思诞辰204周年-从《博士论文》论“从必然到自由”（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 18 Aug 2022 15:26:19 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "edcd2ea89809477fa1e2e542d5bdca28b99962f0945f3e2642eff3ec535341e1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group52/M04/44/5C/wKgLcFwDgpnwc0GMAEbmWgmukZQ317-aacv2-48K.m4a",
+      "title": {
+        "text": "哲学研究什么？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 02 Dec 2018 06:58:19 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "62c1824770a941e743fa3dadb5b76d30dc3b2199a785a1646681a7996e639b86",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M0A/AE/40/wKgJSVpU5W7SEjBRAHHodxnajTw441-aacv2-48K.m4a",
+      "title": {
+        "text": "第一章 哲学的基本问题第一节（唯物论）",
+        "truncated": false
+      },
+      "description": {
+        "text": "五一劳动节假期的最后一天 大家休息好了吗？ 五月 一合学社成立两个月了 我们将推出 劳动节创刊号-- 光明击破黑暗 预计将在五月十日发布 5万余字的知识分享 获取方式 加入一合学社的微信群 或 届时的下载链接的二维码 内容预告: 发刊词--以黑暗击破光明 沿着中世纪的结束 到马克思的诞生 看看人类的历次思想变革 也是在马克思诞辰200周年之际 纪念这位伟大的思想家 我想告诉大家的是，今天在我们生活中看似平常的、不变的东西都是经过斗争才取得的。如果不是无产者自己的斗争，我们很难相信八小时工作制被视为一种“理所当然”；如果没有马丁.路德金和奥兰普.德古热们，我们很难设想所有的人可以不分财富、种族与性别可以拥有一样的投票权是一种“权利”；如果没有《共产党宣言》，我们无法看见全世界不分性别、不分种族、不分信仰的劳动人民可以作为阶级团结在一起；如果没有《科学社会主义学说》，我们无法想象劳动者真地曾经以惊人的勇气、无私、依靠自己去努力开创一个没有剥削与压迫的社会，改天换地，创造新纪元。 论哲学: 由霍金的那句哲学已死 到哲学的九个问题 再沿着人类思想史 去探寻哲学的意义 唯物派哲学的三个终极问题-- 1. 如何更好的认识宇宙世界、并解决关于宇宙的问题？ 2. 如何更好的认识人类社会、并解决关于人类的问题？ 3. 如何更好的认识自我人生、并解决关于人生的问题？ 一合学社简介 一合是什么意思 我们",
+        "truncated": true
+      },
+      "published_at": "Tue, 09 Jan 2018 15:55:36 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "67759d3018091c596ae1c13190320271e26b2b8ee76b1daf4273ff1f6aa20d7c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group39/M03/59/82/wKgJnlplV-WDPF4kAE2fhhxLe8A378.m4a",
+      "title": {
+        "text": "工匠精神，由庖丁解牛悟",
+        "truncated": false
+      },
+      "description": {
+        "text": "原文请识别下方的二维码，关注一合学社的公众号，更多原创文章的着您！ 五一劳动节假期的最后一天 大家休息好了吗？ 五月 一合学社成立两个月了 我们将推出 劳动节创刊号-- 光明击破黑暗 预计将在五月十日发布 5万余字的知识分享 获取方式 加入一合学社的微信群 或 届时的下载链接的二维码 内容预告: 发刊词--以黑暗击破光明 沿着中世纪的结束 到马克思的诞生 看看人类的历次思想变革 也是在马克思诞辰200周年之际 纪念这位伟大的思想家 我想告诉大家的是，今天在我们生活中看似平常的、不变的东西都是经过斗争才取得的。如果不是无产者自己的斗争，我们很难相信八小时工作制被视为一种“理所当然”；如果没有马丁.路德金和奥兰普.德古热们，我们很难设想所有的人可以不分财富、种族与性别可以拥有一样的投票权是一种“权利”；如果没有《共产党宣言》，我们无法看见全世界不分性别、不分种族、不分信仰的劳动人民可以作为阶级团结在一起；如果没有《科学社会主义学说》，我们无法想象劳动者真地曾经以惊人的勇气、无私、依靠自己去努力开创一个没有剥削与压迫的社会，改天换地，创造新纪元。 论哲学: 由霍金的那句哲学已死 到哲学的九个问题 再沿着人类思想史 去探寻哲学的意义 唯物派哲学的三个终极问题-- 1. 如何更好的认识宇宙世界、并解决关于宇宙的问题？ 2. 如何更好的认识人类社会、并解决关于人类的问题？ 3. 如何更好的认识",
+        "truncated": true
+      },
+      "published_at": "Mon, 22 Jan 2018 03:19:05 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "e64596d5d5eae6ebf6b474fa962726e6853211c3ed6c75424b0dd124cfcb7892",
+      "guid": "https://aod.cos.tx.xmcdn.com/group42/M0B/93/48/wKgJ81qlDoaCPHpZANhosqxvOsg370.mp3",
+      "title": {
+        "text": "不二聊史|人类共同体的根源2（前1000—500）",
+        "truncated": false
+      },
+      "description": {
+        "text": "此声音文案可在一合学社的公众号中阅读",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Mar 2018 11:10:46 GMT",
+      "feed_index": 47
+    },
+    {
+      "id": "e22608cbe89f9d9638a7a3559a506c73656779cc5f235614425c5169a6a4181d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group44/M09/D1/D6/wKgKjFsA-0zS_IUgAPg1-GxU5WI035.m4a",
+      "title": {
+        "text": "第三章.第一节.3物质运动和时间空间",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 20 May 2018 04:36:29 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "fd23e201d318338503f52f2dc47f9ea4f911034eea36e9c06eb2e8182fca4fa1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group25/M05/71/C3/wKgJNlicWWHztCrKAI6bUnY8zEo103.m4a",
+      "title": {
+        "text": "唯物辩证法.（四）规律.（三）否定之否定规律",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Feb 2017 11:58:28 GMT",
+      "feed_index": 70
+    },
+    {
+      "id": "91d3a384ebb4f6b69566cafff72b7dcd999bd8ab695d4f736badde814a7181f5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group46/M09/E3/06/wKgKlltb7l_RJe3gAGhkVYMaW-c765.m4a",
+      "title": {
+        "text": "第四章.第一节.1两个观点（2）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 28 Jul 2018 04:17:15 GMT",
+      "feed_index": 82
+    }
+  ]
+}

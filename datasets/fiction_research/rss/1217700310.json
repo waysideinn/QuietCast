@@ -1,0 +1,140 @@
+{
+  "show_id": "1217700310",
+  "feed_url": "http://www.ximalaya.com/album/6895040.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/6895040.xml",
+    "final_url": "http://www.ximalaya.com/album/6895040.xml",
+    "fetched_at": "2026-10-25T14:48:02.431888+00:00",
+    "status": 200,
+    "sha256": "9e57371501fb93376bee2ecfc5baba2c00507bd02ad6853441318ef56c093faf"
+  },
+  "status": "ok",
+  "title": {
+    "text": "魏知超聊心理学",
+    "truncated": false
+  },
+  "description": {
+    "text": "心理学掺和一切！用心理学看懂世界。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 78,
+  "episodes": [
+    {
+      "id": "ab2cab66b05f920b9aac026cb34f12d7700c90235615abd79b988260f42297d0",
+      "guid": "xmly_track_747333478",
+      "title": {
+        "text": "从《解密》看IMAX的革命：不只是更大更清晰",
+        "truncated": false
+      },
+      "description": {
+        "text": "最近看了电影《解密》的IMAX版，观感非常意外，很有些颠覆以前对IMAX观影体验的认知。我觉得，IMAX从观众这里拿走了两样东西：电影画面的写实感、观众的“自我意识”。这种视觉体验如何完美契合电影的梦境主题？IMAX带来的感官超载又是如何关闭我们的\"内心弹幕\"，让观众更沉浸于故事之中的？一些心理学视角的分析。",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Aug 2024 07:49:22 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f3a80b2aa077f89e07bf0aeb960c94fbeb713045863ad54713a7251e5c7265bb",
+      "guid": "xmly_track_681330597",
+      "title": {
+        "text": "为什么每个人都该认真思考死亡？人生只有900个月！“向死而生”的意义",
+        "truncated": false
+      },
+      "description": {
+        "text": "上周六，美剧《老友记》里钱德勒Chandler的扮演者马修·派瑞心脏骤停、在家中浴缸溺水，不幸去世，享年仅54岁。马修·派瑞离世的消息出来后，我这几天不由自主地联想到很多跟死亡有关的事，所以想借着这期节目跟大家探讨一下：为什么每个人都应该认真地思考一下死亡，为什么虽然大多数人很避讳谈死亡，但其实我们有时候应该直面它？直面死亡会给我们带来什么？",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Nov 2023 09:23:29 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "918707c4ba9c53cd2abc6ba0baedf84da6d970694e15d32a288cfe3ae35bd0b1",
+      "guid": "xmly_track_537092278",
+      "title": {
+        "text": "《瞬息全宇宙》：迷幻感+温情=梦境模拟器【电影丨影评】",
+        "truncated": false
+      },
+      "description": {
+        "text": "《瞬息全宇宙》，它有迷幻的外表，也有温柔的内核。迷幻感与温情合一，就像是在银幕上复刻出了栩栩如生的梦境，带着观众跟随角色一起醒着做梦。这期视频分析了《瞬息全宇宙》的这种”梦境模拟器“特质。 以及顺便推荐了九部“梦境模拟器”类型的影片：《双峰》第三季、《空房间》、《美丽心灵的永恒阳光》、《太阳浩劫》、《新世纪福音战士剧场版：终》、《如影随行》、《杀妻总动员》、《路边野餐》、《太阳照常升起》。",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 May 2022 12:32:19 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "3da1b74cf6c5f57f18c44c228e256519e7b90f5bfa9743dea2f6561238794c97",
+      "guid": "xmly_track_480658934",
+      "title": {
+        "text": "《怕死：人类行为的驱动力》05：无暇赴死，拼命作死",
+        "truncated": false
+      },
+      "description": {
+        "text": "当死亡恐惧处于意识中时，我们会启动“近端防御机制”——尽力把死亡念头从意识中排除，而当死亡恐惧退入无意识层面时，我们会启动“远端防御机制”——通过捍卫自尊与价值观来排解焦虑。“远端防御机制”解释了为什么有些人面对死亡威胁时反而会“拼命作死”。丨《怕死：人类行为的驱动力》第5讲 参考文献： 《怕死：人类行为的驱动力》.谢尔登·所罗门、杰夫·格林伯格、汤姆·匹茨辛斯基著.机械工业出版社.2016.",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Dec 2021 09:30:00 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "78b10735c96134a33dbcc9e6618af43a9ade0a3550b543942b2abf2b14216848",
+      "guid": "xmly_track_717114065",
+      "title": {
+        "text": "孤独为何那么美｜心理朋克 No.040（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 24 Mar 2024 06:50:32 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "af06af1bca27cd54ab8089632a81bc87bcb879ddea858b0868bc8081eb15ee9c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M06/37/F1/wKgJXllvYU3CEttCAGTNlHUjXs0209.m4a",
+      "title": {
+        "text": "心理学教会我的思维方法（2）：好不好、有没有效，都是比出来的｜ 心理朋克No.024",
+        "truncated": false
+      },
+      "description": {
+        "text": "最小变化平行宇宙对照法。",
+        "truncated": false
+      },
+      "published_at": "Thu, 20 Jul 2017 00:00:01 GMT",
+      "feed_index": 55
+    },
+    {
+      "id": "9fdc35fb9647aa2f4e0fafc931a728f05a6b4def4ca4495f0ddbda3a483c389f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group27/M02/C7/CC/wKgJR1j0qW6xq0U5AF7u6KARa6w046-aacv2-48K.m4a",
+      "title": {
+        "text": "女优改写人类进程！｜心理朋克 No.012",
+        "truncated": false
+      },
+      "description": {
+        "text": "不就是看个片儿吗？这能改写人类发展的进程？",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Apr 2017 22:30:01 GMT",
+      "feed_index": 66
+    },
+    {
+      "id": "3d458f0782b3ccfbeaa6eb5e21f01ffbd771a12ea7d5848dea23fc234beda018",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M05/BF/86/wKgJJ1jBMxLwiNGmAHIXzdepqw0330-aacv2-48K.m4a",
+      "title": {
+        "text": "张无忌的S&M爱情故事｜心理朋克 No.001",
+        "truncated": false
+      },
+      "description": {
+        "text": "张无忌为何最爱赵敏？史上最一本道的解释。 我们的节目每周二、周五更新，欢迎大家订阅收听，同时关注我们的公众号「心理朋克」，查看节目图文与花絮哦。",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Mar 2017 10:51:19 GMT",
+      "feed_index": 77
+    }
+  ]
+}

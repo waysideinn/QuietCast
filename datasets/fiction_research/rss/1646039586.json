@@ -1,0 +1,140 @@
+{
+  "show_id": "1646039586",
+  "feed_url": "https://anchor.fm/s/b1f2103c/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/b1f2103c/podcast/rss",
+    "final_url": "https://anchor.fm/s/b1f2103c/podcast/rss",
+    "fetched_at": "2026-10-25T14:56:58.880675+00:00",
+    "status": 200,
+    "sha256": "df527e66ec642d548a2b164550906adbb4cdfc49fb737f5409535f77d909049f"
+  },
+  "status": "ok",
+  "title": {
+    "text": "发现同一个宿命",
+    "truncated": false
+  },
+  "description": {
+    "text": "发现同一个宿命",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 832,
+  "episodes": [
+    {
+      "id": "ea6601ff8fa503c5108cd81fc8ebd86f87e4663e677faa2685c86366397e0c7f",
+      "guid": "e2e13eb6-b4ca-47ce-9564-cb9a7927c90b",
+      "title": {
+        "text": "185.非西方世界拒绝制裁俄罗斯，正在成为改变世界格局的中坚力量.mp3",
+        "truncated": false
+      },
+      "description": {
+        "text": "185.非西方世界拒绝制裁俄罗斯，正在成为改变世界格局的中坚力量.mp3",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Jun 2023 10:33:46 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "69b78b5e18ea5b89be8b5dd644b1c66f5034fd6a463cd55628d8a30e30d29e51",
+      "guid": "cb334e3e-8feb-4b29-b499-8a02e60d6b9f",
+      "title": {
+        "text": "189.【楚策四】有献不死之药与荆王者",
+        "truncated": false
+      },
+      "description": {
+        "text": "189.【楚策四】有献不死之药与荆王者",
+        "truncated": false
+      },
+      "published_at": "Fri, 26 May 2023 20:25:57 GMT",
+      "feed_index": 119
+    },
+    {
+      "id": "9345a04893d52ac8e5b9e7dee21a4716cd09e4a11da60f6f76856b265a1d246f",
+      "guid": "8bc9d8fd-9943-4e79-8e9a-15a05904f66c",
+      "title": {
+        "text": "2311.渐进式肌肉放松法",
+        "truncated": false
+      },
+      "description": {
+        "text": "2311.渐进式肌肉放松法",
+        "truncated": false
+      },
+      "published_at": "Tue, 09 May 2023 09:19:42 GMT",
+      "feed_index": 237
+    },
+    {
+      "id": "d48b1d6a4419fa50138bc3cc0a090b36beaa2b19be511909dd91cd54b962f62b",
+      "guid": "398de3f8-8ee0-4458-a5bf-c4fd8304e0c1",
+      "title": {
+        "text": "190.对生活失望透顶的你，为什么不愿改变？",
+        "truncated": false
+      },
+      "description": {
+        "text": "190.对生活失望透顶的你，为什么不愿改变？",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Apr 2023 22:49:36 GMT",
+      "feed_index": 356
+    },
+    {
+      "id": "6ec0a7e65cc8abf95d4cab20d4a9ff2e9d51326d7598aab71d8e0c095a7e3999",
+      "guid": "b75adec0-86e4-4e07-88f6-0e8d2bc23d38",
+      "title": {
+        "text": "205.秦腔 戒烟",
+        "truncated": false
+      },
+      "description": {
+        "text": "205.秦腔 戒烟",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Apr 2023 02:42:46 GMT",
+      "feed_index": 475
+    },
+    {
+      "id": "efdc858e978e1c1adf33345176eadc3a817f80252d27f4d15e364ef1bfa1d767",
+      "guid": "c30cce73-746b-4322-b48f-0c5cf8b0da35",
+      "title": {
+        "text": "4456.【2020.08.13】智能高铁——2035年前智能高铁？时速350公里复兴号自动驾驶",
+        "truncated": false
+      },
+      "description": {
+        "text": "4456.【2020.08.13】智能高铁——2035年前智能高铁？时速350公里复兴号自动驾驶",
+        "truncated": false
+      },
+      "published_at": "Thu, 23 Mar 2023 15:07:55 GMT",
+      "feed_index": 594
+    },
+    {
+      "id": "586804117e996d341f496d5eaabea9bdac901a1e747488c22186ab1bba22ee3e",
+      "guid": "c1db42dc-ebc9-4b22-84ae-074bdd547766",
+      "title": {
+        "text": "245.于情于理",
+        "truncated": false
+      },
+      "description": {
+        "text": "245.于情于理",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Mar 2023 14:39:59 GMT",
+      "feed_index": 712
+    },
+    {
+      "id": "47aec86e76e8c29a71f3bfea12fad4885e4f37173c0c6a09d8f9dedc1d07b4c8",
+      "guid": "cabd6379-208a-470e-8a4d-901f0bfb77a2",
+      "title": {
+        "text": "发现同一个宿命",
+        "truncated": false
+      },
+      "description": {
+        "text": "发现同一个宿命",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 Aug 2022 10:26:55 GMT",
+      "feed_index": 831
+    }
+  ]
+}

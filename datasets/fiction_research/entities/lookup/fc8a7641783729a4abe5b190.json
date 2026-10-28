@@ -1,0 +1,140 @@
+{
+  "source": {
+    "url": "https://itunes.apple.com/lookup?id=1765255455%2C1865133017%2C1809085342%2C1780512829%2C1896911288%2C1896893830%2C1896868852%2C6783665121%2C6791919978&country=cn",
+    "final_url": "https://itunes.apple.com/lookup?id=1765255455%2C1865133017%2C1809085342%2C1780512829%2C1896911288%2C1896893830%2C1896868852%2C6783665121%2C6791919978&country=cn",
+    "fetched_at": "2026-10-26T07:53:09.425115+00:00",
+    "status": 200,
+    "sha256": "b3f1484cb787da2c2df65b8c225e3efac1047d9794dcd7df0cfa035e98159d21"
+  },
+  "status": "ok",
+  "data": [
+    {
+      "collectionId": 1896911288,
+      "trackId": 1896911288,
+      "artistName": "轩辕十四Rex",
+      "collectionName": "《山海经》的神奇宇宙",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B1%B1%E6%B5%B7%E7%BB%8F-%E7%9A%84%E7%A5%9E%E5%A5%87%E5%AE%87%E5%AE%99/id1896911288?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/124485665.xml",
+      "genreIds": [
+        "1487",
+        "26",
+        "1301",
+        "1482"
+      ],
+      "genres": [
+        "历史",
+        "播客",
+        "艺术",
+        "图书"
+      ],
+      "primaryGenreName": "历史",
+      "country": "CHN",
+      "trackCount": 99,
+      "releaseDate": "2026-09-12T09:00:00Z"
+    },
+    {
+      "collectionId": 1896893830,
+      "trackId": 1896893830,
+      "artistName": "Into the Words",
+      "collectionName": "Wodcast",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/wodcast/id1896893830?uo=4",
+      "feedUrl": "https://rss2.flightcast.com/lay1j7w3000gbthruexbjiyn.xml",
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1304",
+        "1498"
+      ],
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "教育",
+        "语言学习"
+      ],
+      "primaryGenreName": "图书",
+      "country": "CHN",
+      "trackCount": 12,
+      "releaseDate": "2026-10-21T04:30:00Z"
+    },
+    {
+      "collectionId": 1896868852,
+      "trackId": 1896868852,
+      "artistName": "金羽留声",
+      "collectionName": "【免费】月亮与六便士|百年名著，治愈迷茫人生",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E6%9C%88%E4%BA%AE%E4%B8%8E%E5%85%AD%E4%BE%BF%E5%A3%AB-%E7%99%BE%E5%B9%B4%E5%90%8D%E8%91%97-%E6%B2%BB%E6%84%88%E8%BF%B7%E8%8C%AB%E4%BA%BA%E7%94%9F/id1896868852?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/122333184.xml",
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "primaryGenreName": "剧情",
+      "country": "CHN",
+      "trackCount": 111,
+      "releaseDate": "2026-06-24T02:05:00Z"
+    },
+    {
+      "collectionId": 6783665121,
+      "trackId": 6783665121,
+      "artistName": "主持人李思思",
+      "collectionName": "兰亭思叙｜李思思个人播客",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%B0%E4%BA%AD%E6%80%9D%E5%8F%99-%E6%9D%8E%E6%80%9D%E6%80%9D%E4%B8%AA%E4%BA%BA%E6%92%AD%E5%AE%A2/id6783665121?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/124678165.xml",
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1301",
+        "1482"
+      ],
+      "genres": [
+        "情感与人际关系",
+        "播客",
+        "社会与文化",
+        "艺术",
+        "图书"
+      ],
+      "primaryGenreName": "情感与人际关系",
+      "country": "CHN",
+      "trackCount": 7,
+      "releaseDate": "2026-10-23T00:00:00Z"
+    },
+    {
+      "collectionId": 6791919978,
+      "trackId": 6791919978,
+      "artistName": "LANCYFROM25",
+      "collectionName": "第25小时｜25 TALKS",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%AC%AC25%E5%B0%8F%E6%97%B6-25-talks/id6791919978?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/126261648.xml",
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1301",
+        "1482"
+      ],
+      "genres": [
+        "个人日记",
+        "播客",
+        "社会与文化",
+        "艺术",
+        "图书"
+      ],
+      "primaryGenreName": "个人日记",
+      "country": "CHN",
+      "trackCount": 2,
+      "releaseDate": "2026-07-06T08:34:00Z"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1556381234",
+  "feed_url": "https://feeds.soundon.fm/podcasts/fa165b91-30af-4162-aadc-d30f85e061f1.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/fa165b91-30af-4162-aadc-d30f85e061f1.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/fa165b91-30af-4162-aadc-d30f85e061f1.xml",
+    "fetched_at": "2026-10-25T14:57:27.922470+00:00",
+    "status": 200,
+    "sha256": "7857f058dcc02e224cb41624eb314ac42ecbefc103e21e289c43e661fbc47926"
+  },
+  "status": "ok",
+  "title": {
+    "text": "太平洋旅行報",
+    "truncated": false
+  },
+  "description": {
+    "text": "太平洋旅行社創立於2000年，職人原創、極致美學，採擷日歐美台原粹雅韻，品醍醐食藝，宿匠心名所，頂尖行程榮膺旅遊金質獎多次桂冠。花鳥風月水木明瑟，讓您每一趟旅行，都是至臻享受；每一次相遇，都是完美邂逅，每一段聲音，都能感動萬分。 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 86,
+  "episodes": [
+    {
+      "id": "d06993519e2f7d54ddfaec47b6dc8903922e8db7f0371c34aac858d457c8801e",
+      "guid": "87f5e729-2379-42ff-bab1-51c360079bbc",
+      "title": {
+        "text": "【品味歐洲】遊歐最潮新玩法(下)：穿梭４國度與９大世界文化與遺產，享受奢華的度假時光",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集導遊聖皓將帶您搭乘寰宇精品河輪公爵夫人號，途經奧地利、德國、匈牙利、荷蘭四國九大世界文化遺產，16日夜星辰，重新定義奢．遊。",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Nov 2022 11:14:27 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1879df862ddd4bd4778e5115463c18a01d6b904438940c26eef9c8f47f34f6c6",
+      "guid": "b0589c48-17c8-4f6e-b2ad-44219ddc0518",
+      "title": {
+        "text": "【品味歐洲】最懷念的歐洲國家，隨手一拍都是明信片景色！各種好吃的起司料理，伴著美景前行的冰河列車，此生必住的奢華帳篷",
+        "truncated": false
+      },
+      "description": {
+        "text": "太平洋導遊又楨今天要跟大家推薦去過，就會懷念一輩子的歐洲國家，無與倫比的美麗--瑞士。",
+        "truncated": false
+      },
+      "published_at": "Fri, 14 Oct 2022 11:09:46 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "285dd06bdb617476abc51b2757a345712965299452638c0d1f132c73a18005a8",
+      "guid": "37e81489-2a3b-4d75-8b12-a1d8a18dd153",
+      "title": {
+        "text": "【回味日本】中部北陸必去！飽覽日本護國神山黑部立山絕景，漫步在被白馬連峰包圍的濕地高原",
+        "truncated": false
+      },
+      "description": {
+        "text": "太平洋企劃JIE推薦想要遠離水泥叢林的紛擾，體驗芬多精洗禮的旅客，就來中部北陸立山黑部阿爾卑斯山脈路線吧！穿越日本屋脊路線的小故事，一起來聽聽。",
+        "truncated": false
+      },
+      "published_at": "Wed, 24 Aug 2022 12:02:28 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "b07ec27a1bc9abc3fa7e832d89bafd0a9fbcbabc21b52f08c4750f5f71738d53",
+      "guid": "abd34c4c-2d0b-4aa2-9ed1-31825495ae3b",
+      "title": {
+        "text": "【回味日本】心心念念的日本東北楓情，最懷念的三大紅葉景點！",
+        "truncated": false
+      },
+      "description": {
+        "text": "炎熱的夏天，總是會讓人想念秋高氣爽的日子。台灣位處亞熱帶地區，濕度又高，體感溫度特別高，而日本東北地處溫帶，緯度高，入秋後的微微涼意，是旅行者最嚮往的賞楓地點，本集要跟大家聊聊東北著名的賞楓景點。",
+        "truncated": false
+      },
+      "published_at": "Wed, 06 Jul 2022 12:00:54 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "dca6ffdff1f5619cfd95a1a223dc70db61f75b0f91d308be090a88d5fda6025d",
+      "guid": "181ad0ed-565b-44ea-91f6-33be205a69b4",
+      "title": {
+        "text": "【品味歐洲】遊訪德國必吃的小吃--紐結麵包，背後竟然有那麼多的含意？！",
+        "truncated": false
+      },
+      "description": {
+        "text": "紐結麵包在德國是隨處可見的國民美食，日常生活及各種宗教節慶，都可以看到紐結麵包的身影。一起來了解紐結麵包的起源吧！",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 May 2022 01:49:09 GMT",
+      "feed_index": 49
+    },
+    {
+      "id": "0c1f0228dffed8e1a270d4b50d2e38d879f9e7be0dd417260455117e42993ced",
+      "guid": "efcf09af-ed23-4887-8418-a8cb853a0476",
+      "title": {
+        "text": "【聲入台灣】時速20公里的風景，連外國人也推薦的3條自行車路線！",
+        "truncated": false
+      },
+      "description": {
+        "text": "身為馬來西亞人的凱年，在台灣已經待了10年，工作之餘，旅行就是他最喜歡的事情，特別是騎車，因為台灣有非常友善的自行車環境。時速20公里的風景，不要錯過連外國人也推薦的3條自行車路線！",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Mar 2022 08:13:47 GMT",
+      "feed_index": 61
+    },
+    {
+      "id": "0b8b09033fa826f6553ab78e92c24af4572e9a86ab830c41602e3f3aa0e22f54",
+      "guid": "5f21cf81-8327-4fcb-84a0-f69184bf47eb",
+      "title": {
+        "text": "台版兼六園在這裡！雲林文青小旅行，來去山裡當隱士",
+        "truncated": false
+      },
+      "description": {
+        "text": "咖啡控請注意！來古坑喝咖啡，如今又多了一個好去處！華山觀止由一群咖啡愛好者經營，山嵐飄渺間的清水模建築，萬籟俱寂，只剩內心寧靜的聲音，風月無邊，故名「虫二」行館。 此次我們帶各位深入咖啡產地，當一日烘豆師，並前往「台版兼六園」成美文化園，老街、80年洋房和日治木造建築，顛覆你印象中的雲林彰化，挖掘老地方新韻味。",
+        "truncated": false
+      },
+      "published_at": "Mon, 07 Jun 2021 07:20:49 GMT",
+      "feed_index": 73
+    },
+    {
+      "id": "c7f2ec93bd61a1d4edc69e90672ca6ad81cf3b53b0ab37cfd6ff0b1681992b52",
+      "guid": "6912fa04-1807-436a-a8b3-755fee106f73",
+      "title": {
+        "text": "獨家！太平洋首度合作人間國寶廖瓊枝，VIP席位欣賞磅礡大戲！《望鄉之夜》《昭君丹青怨》",
+        "truncated": false
+      },
+      "description": {
+        "text": "《望鄉之夜》由人間國寶廖瓊枝獻聲、傳藝金曲獎得主張孟逸文武生旦跨行演出。以「從傳統出發；淬鍊經典」的製作理念，結合當代劇場元素與傳統歌仔戲身段，細膩刻畫人物個性與譜寫故事曲折，將主角韓麗美起伏人生重現戲迷面前。《昭君丹青怨》由人間國寶廖瓊枝口述、傳統戲曲學者蔡欣欣編劇，傳藝金曲獎得主張孟逸演出，締造內台經典歌仔戲新詮再現。捨棄機關變警，透過3幅丹青圖，傾訴漢朝美人王昭君與漢王、番王間一生情愛傳奇。",
+        "truncated": false
+      },
+      "published_at": "Wed, 03 Mar 2021 03:56:06 GMT",
+      "feed_index": 85
+    }
+  ]
+}

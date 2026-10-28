@@ -1,0 +1,140 @@
+{
+  "show_id": "1573377451",
+  "feed_url": "http://www.ximalaya.com/album/39853745.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/39853745.xml",
+    "final_url": "http://www.ximalaya.com/album/39853745.xml",
+    "fetched_at": "2026-10-25T14:53:19.087172+00:00",
+    "status": 200,
+    "sha256": "c13282cac25f1811556e5f6791b8736811760e0d4fab539639230c00b5b928d2"
+  },
+  "status": "ok",
+  "title": {
+    "text": "灵异话茬儿 | 恐怖的灵异故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "真实恐怖的灵异故事",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 87,
+  "episodes": [
+    {
+      "id": "0eb3cd90d36273d2b581c4efed7d9e3731cea0a8758b1d256783d3df44c64dfd",
+      "guid": "xmly_track_1020190885",
+      "title": {
+        "text": "灵异节目：见鬼（二十）",
+        "truncated": false
+      },
+      "description": {
+        "text": "恐怖灵异故事，胆小慎听！！！ 收听完整节目方式，关注微信服务号：话茬儿vip 收听完整节目方式，关注微信服务号：话茬儿vip 收听完整节目方式，关注微信服务号：话茬儿vip 关注之后在服务号的左下角“精选节目”中收听 主播：老何/晓月",
+        "truncated": false
+      },
+      "published_at": "Wed, 30 Sep 2026 06:08:02 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "e16e42a043f9f89f59ce21c00d04522feedb0f753a806204c6087f1dc5a7944f",
+      "guid": "xmly_track_683968607",
+      "title": {
+        "text": "灵异节目：见鬼",
+        "truncated": false
+      },
+      "description": {
+        "text": "恐怖灵异故事，胆小慎听！！！ 主播：晓月/老何 声音剪辑：大老李/老何",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Nov 2023 07:38:51 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "7462c9db50f3093b669bd1a00770982cb0be8285d5e17eb8272f066939d99cd3",
+      "guid": "xmly_track_567972027",
+      "title": {
+        "text": "灵异节目：陪葬",
+        "truncated": false
+      },
+      "description": {
+        "text": "精选灵异故事，胆小慎听！ 主播：老何/晓月 声音剪辑：老何/大老李",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Sep 2022 12:41:48 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "8e84ec47ab7a2d1a2e0c6210df33617e4f2a581119e99037749aa5119a3d15d1",
+      "guid": "xmly_track_512154027",
+      "title": {
+        "text": "节目预告：纸人",
+        "truncated": false
+      },
+      "description": {
+        "text": "付费灵异节目预告",
+        "truncated": false
+      },
+      "published_at": "Fri, 18 Mar 2022 08:44:11 GMT",
+      "feed_index": 37
+    },
+    {
+      "id": "c7f9205ad24e75c07a39694221530937d80d65dc6833ef63fa8a32408ef91e6d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9e75-audiofreehighqps/86/1A/GKwRIRwFeoPJABBztgD8t7Xd.m4a",
+      "title": {
+        "text": "节目预告：买寿衣的死人",
+        "truncated": false
+      },
+      "description": {
+        "text": "付费灵异故事预告 主播：晓月/老何 声音剪辑：大老李/老何",
+        "truncated": false
+      },
+      "published_at": "Mon, 29 Nov 2021 12:00:03 GMT",
+      "feed_index": 49
+    },
+    {
+      "id": "597fa4d4a2f8d7d54ed7f0ab4d19e58072f7b7ca9ea14ef5545f58021e2b08a0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/59a8-audiofreehighqps/4E/37/CKwRINsE00xcAWcSyADNhqP4-aacv2-48K.m4a",
+      "title": {
+        "text": "VOL.116 吊死在你面前",
+        "truncated": false
+      },
+      "description": {
+        "text": "真实恐怖的灵异故事，胆小慎听！！！ 主播：老郑/晓月老何 声音剪辑：大老李/老何",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Jul 2021 15:53:58 GMT",
+      "feed_index": 61
+    },
+    {
+      "id": "722a884e61ba9d8bbf1ddcd70f9ae55472fd7de75cb7616c408f44ebc938fa0c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6f8f-audiofreehighqps/DB/AB/CMCoOR8D6TgWAZLPnACBIGRY-aacv2-48K.m4a",
+      "title": {
+        "text": "VOL.68 鬼外卖",
+        "truncated": false
+      },
+      "description": {
+        "text": "真实恐怖的灵异故事系列 主播：晓月/老何/大老李 声音剪辑：大老李",
+        "truncated": false
+      },
+      "published_at": "Fri, 29 Jan 2021 02:36:42 GMT",
+      "feed_index": 74
+    },
+    {
+      "id": "9c782e52116a4705602dfdf205546860b3b0c7d8c7ea39b4337d4d0e678519ea",
+      "guid": "https://aod.cos.tx.xmcdn.com/group85/M0A/F3/98/wKg5H18NeMujIs2jAWIGkfWztqk571-aacv2-48K.m4a",
+      "title": {
+        "text": "VOL.2 慎点！揭秘你不了解到“地下世界”",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期我们请到了一位资深地下工作者，由她来给大家讲述离奇的地下工作经历，胆小者慎入！ 主播 / 老何 大老李 嘉宾 / 格格 晓月 声音编辑 / 大老李",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Jul 2020 09:19:23 GMT",
+      "feed_index": 86
+    }
+  ]
+}

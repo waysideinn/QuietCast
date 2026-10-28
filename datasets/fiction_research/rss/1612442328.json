@@ -1,0 +1,140 @@
+{
+  "show_id": "1612442328",
+  "feed_url": "http://www.ximalaya.com/album/57120126.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/57120126.xml",
+    "final_url": "http://www.ximalaya.com/album/57120126.xml",
+    "fetched_at": "2026-10-25T14:55:15.651805+00:00",
+    "status": 200,
+    "sha256": "47c0637b869f5b3df151757920a9e606d303342c00e06f95e8f6943cb5d31e3a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "生死博弈|官场小说|权力争锋",
+    "truncated": false
+  },
+  "description": {
+    "text": "一个从基层转业的司机，不甘为凡人，一次“机遇“与“机会“开启了政治生涯的攀爬之路，经过近二十年的努力升为市长之位，在即将换届之际，机会撕开了一个口子，也开启了他如野兽嗅得猎物的贪念！为上位，不惜运用一切手段，权权交易、权色交易。犹如“权妖”、“官癫”附身！在这场权利斗争中，暴露了官场微妙心理和人际玄机的层层怪相。 透析中国地方政权组织运作 新生代权力层对权力和利益的阐释",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 97,
+  "episodes": [
+    {
+      "id": "fb3754be7635bb2a7dc0bb230f6ef7f3db92dcdbb141d3a43e794cb0324c3017",
+      "guid": "xmly_track_502612149",
+      "title": {
+        "text": "生死博弈 01 柳市长的云坊县走访",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Feb 2022 12:35:53 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "2fd4f5136b91a6ac0d87ec8b39396b5523be5995058590ae261bd514d10df967",
+      "guid": "xmly_track_503967413",
+      "title": {
+        "text": "生死博弈 15 媒体报道的“偏向”",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Feb 2022 02:33:35 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "49d2e719047476bea9222e18a0f3714804b940c780545131169005b29479fb8e",
+      "guid": "xmly_track_506516936",
+      "title": {
+        "text": "生死博弈 28 新闻发布会的“妙问妙答”（欢迎订阅、分享、评论）！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 01 Mar 2022 03:21:25 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "66129f2ddd765aa10c7e50edde7ee6b578316ba4d3717e472f8f12d1f06949da",
+      "guid": "xmly_track_508694992",
+      "title": {
+        "text": "生死博弈 42 无利不往的交友原则-（欢迎订阅、分享、评论）！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 08 Mar 2022 01:10:44 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "e065f3346fc7192ed2ddbaea638e158136126d61334859af02e4d4082b30eac0",
+      "guid": "xmly_track_511042727",
+      "title": {
+        "text": "生死博弈 56广场动态（欢迎订阅、分享、评论）！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Mar 2022 03:08:06 GMT",
+      "feed_index": 55
+    },
+    {
+      "id": "274beca96a6917bde6940d8ed40ba6b84d231a157083b6229c1829af211fd537",
+      "guid": "xmly_track_512695931",
+      "title": {
+        "text": "生死博弈 70 曝光公墓（欢迎订阅、分享、评论）！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 20 Mar 2022 01:01:37 GMT",
+      "feed_index": 69
+    },
+    {
+      "id": "c2cc8f76346cb8a6a945dd3936c21c41c7a60c0feb00baea4e0300805b3ce41f",
+      "guid": "xmly_track_514189090",
+      "title": {
+        "text": "生死博弈 83 解决问题（欢迎订阅、分享、评论）！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 24 Mar 2022 06:20:28 GMT",
+      "feed_index": 82
+    },
+    {
+      "id": "6d022f815101ebee79444caae5b5edf4749157db8bfbddde1c3eb073d77e1762",
+      "guid": "xmly_track_515850363",
+      "title": {
+        "text": "生死博弈 97 事已至此【完结】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Mar 2022 02:02:39 GMT",
+      "feed_index": 96
+    }
+  ]
+}

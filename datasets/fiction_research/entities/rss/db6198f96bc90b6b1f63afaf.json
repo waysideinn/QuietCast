@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/62043528.xml",
+    "final_url": "http://www.ximalaya.com/album/62043528.xml",
+    "fetched_at": "2026-10-26T07:56:14.866870+00:00",
+    "status": 200,
+    "sha256": "00f1672e3890294538a9171a450913b9985e631ac0c417625b63b55f5ddd4ad0"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "三十九级台阶|经典悬疑推理间谍小说",
+      "truncated": false
+    },
+    "description": {
+      "text": "经典悬疑推理间谍小说 - 三十九级台阶。谋杀，追捕，逃亡，改装，易容，警察与间谍兵分两路，结下遮天大网。汉内火眼金晴，一次次识破陷阱，巧妙逃脱魔手。刺杀之日迫在眉睫，而唯一的线索 —— 三十九级台阶究竟在哪儿？三十九级台阶又通向何处？最后的真相又是什么？整个故事情节跌宕起伏，种种突如其来、意想不到的阴谋和犯罪，悬念丛生，惊险瞬间让人目不暇接，不愧为英国作家约翰 · 巴肯的传世之作，曾被四次拍成电影或电视。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "一念蕙心@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "一念蕙心"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "一念蕙心"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Drama"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/62043528",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 33,
+    "episodes": [
+      {
+        "title": {
+          "text": "第一章 一个死了的人（1）|新专辑求关注，评论，转发",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_517217715"
+      },
+      {
+        "title": {
+          "text": "第三章 爱好文学的小旅店主（1）|感谢收听，评论，转发",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 5,
+        "guid": "xmly_track_517221959"
+      },
+      {
+        "title": {
+          "text": "第四章 激进派的候选人（1） |感谢收听，评论，转发",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 9,
+        "guid": "xmly_track_519313775"
+      },
+      {
+        "title": {
+          "text": "第五章 戴眼镜的养路工（3）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 14,
+        "guid": "xmly_track_521092724"
+      },
+      {
+        "title": {
+          "text": "第六章 秃顶的收藏家（4）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 18,
+        "guid": "xmly_track_522497214"
+      },
+      {
+        "title": {
+          "text": "第八章 “黑石头”来了（2）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 23,
+        "guid": "xmly_track_524263253"
+      },
+      {
+        "title": {
+          "text": "第九章 三十九级台阶（3）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 27,
+        "guid": "xmly_track_525523242"
+      },
+      {
+        "title": {
+          "text": "第十章 滨海擒敌大结局（5）|大结局",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 32,
+        "guid": "xmly_track_527295540"
+      }
+    ]
+  }
+}

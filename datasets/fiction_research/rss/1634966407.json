@@ -1,0 +1,140 @@
+{
+  "show_id": "1634966407",
+  "feed_url": "https://www.ximalaya.com/album/69540852.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/69540852.xml",
+    "final_url": "https://www.ximalaya.com/album/69540852.xml",
+    "fetched_at": "2026-10-25T14:44:36.950841+00:00",
+    "status": 200,
+    "sha256": "aefa409067f5b085d56bb78937a5388ac17ce5e87dd612ffa8df8136f19b6650"
+  },
+  "status": "ok",
+  "title": {
+    "text": "美人皇后不好命|穿越重生|免费多播小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "此专辑为免费专辑，每天更新一章，订阅后可以看到最新更新哦！ 本应无忧无虑，被奉为掌上明珠！却因她人嫉妒而引来杀身之祸！ 还处于临死前的绝望，只因一枚古玉而重新来过！ 一次次触目惊心，一次次堤防谨慎，却难逃命运的捉弄！ 儿时的一句承诺，注定今生的不凡…… 且看夏家二小姐夏妙菱如何摆脱重重陷害，找到命中注定的爱人，走出自己的人生。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 75,
+  "episodes": [
+    {
+      "id": "25535019282b294909e47e5194e5f9ddcec28f54904c3d733bc7e52a726be6d0",
+      "guid": "xmly_track_552249214",
+      "title": {
+        "text": "美人皇后不好命 000 片花",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Jul 2022 12:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "be818d4cfc7d520092db2446dbb1b1f3e981841691564ae5e0e558b69d34ff3c",
+      "guid": "xmly_track_555183833",
+      "title": {
+        "text": "美人皇后不好命 011 露出端倪",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 26 Jul 2022 12:00:00 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "e384533a158bd9b41545fa65ca2ffa11ba55808af9c211d414371cf590f59f11",
+      "guid": "xmly_track_557716973",
+      "title": {
+        "text": "美人皇后不好命 021 变通才能活下去",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 05 Aug 2022 12:00:00 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "2c183a27833543476e09a24bea87585c6f857f2ab1c49674f4f5df3107c13e26",
+      "guid": "xmly_track_561236625",
+      "title": {
+        "text": "美人皇后不好命 032 看你怎么夺",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Aug 2022 12:00:00 GMT",
+      "feed_index": 32
+    },
+    {
+      "id": "61bd78aa53d60dc110054936c181dcf91b0b00887218cd4c04369b485b764aef",
+      "guid": "xmly_track_563338854",
+      "title": {
+        "text": "美人皇后不好命 042 宠幸",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 26 Aug 2022 12:00:00 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "b5dfb06e26891e1f0cd12c4f317ebbb52bcbae330e2905fca85a67fd4c25fcc7",
+      "guid": "xmly_track_566952621",
+      "title": {
+        "text": "美人皇后不好命 053 逃生",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 06 Sep 2022 12:00:00 GMT",
+      "feed_index": 53
+    },
+    {
+      "id": "b5701c884865224835340115198b2708732002db62efb752645c08eb86150fab",
+      "guid": "xmly_track_569357433",
+      "title": {
+        "text": "美人皇后不好命 063 逼婚",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 16 Sep 2022 12:00:00 GMT",
+      "feed_index": 63
+    },
+    {
+      "id": "f126ea19252fb7f0575d416805cdb197445cc9fd9670e0fd19d553a29acb16ba",
+      "guid": "xmly_track_572277852",
+      "title": {
+        "text": "美人皇后不好命 074 古玉再现",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 27 Sep 2022 12:00:00 GMT",
+      "feed_index": 74
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1579485294",
+  "feed_url": "https://feed.firstory.me/rss/user/ckrvt1w6lzj4b08093scn267y",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckrvt1w6lzj4b08093scn267y",
+    "final_url": "https://feed.firstory.me/rss/user/ckrvt1w6lzj4b08093scn267y",
+    "fetched_at": "2026-10-25T14:53:44.996746+00:00",
+    "status": 200,
+    "sha256": "cf5d52800ae03db28428b694fcfcba609aec94080f962605a6df005b96152205"
+  },
+  "status": "ok",
+  "title": {
+    "text": "我爱信仰",
+    "truncated": false
+  },
+  "description": {
+    "text": "这款节目做了陆续八九年，一个人采编播，通过录制节目，自己也感受到了信仰的美丽，因为信仰认识了很多同道中人，非常高兴大家能在这里相遇。因为大陆的网络环境，只能将节目放到podcast上，让更多人理解并了解我们的美丽信仰，感赞真主！ 还记得那年斋月，我爱信仰小广播一经推出，就受到了很多朋友的好评。有不少朋友委托我们出散了几百台小广播，也有很多代理在斋月期间给很多亲朋好友分享了很多小广播。 这个斋月必定不平凡，反思重大的疫情灾难给我们带来的各种冲击，从思想上重新认识自己、认识生命的价值和最终的归宿。聆听小广播里的内容，可以让我们的静心思考，让敬畏与安定的心灵使我们获得两世的吉庆。 这批小广播内容除了原有的内容又新添加了有声长篇小说《回族人家》、《听新月》新月文学奖作品选读和听书《不要忧伤》选读等内容。 【我爱信仰小广播】内容： 第一部分 电台节目 1.我爱信仰； 2.我爱信仰微访谈 3.童声童音 4.2014直播朝觐特别节目 5.天籁之音 第二部分 有声读物 6.古兰经故事 7.四十则圣训——献给孩子们的书 8.安萨里《致孩子》 9. 《天方三字经》&《五更月》 10.著名圣门弟子故事系列 11.普通话版《古兰经》 12.仁慈的先知穆罕默德 13. 四大正统哈里发的生活原则 第三部分 生活常用杜瓦及殡礼详解 14.生活常用杜瓦及殡礼详解 第四部分 礼拜详解及拜后赞词 15.礼拜详解及拜后",
+    "truncated": true
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 430,
+  "episodes": [
+    {
+      "id": "30a7422823de872d0093e53aea0db11d85c98eac8eaea8396ddf360ff0d2b68d",
+      "guid": "ckvop8q2dd4cg09994ben2mz1",
+      "title": {
+        "text": "八极祖师尾声",
+        "truncated": false
+      },
+      "description": {
+        "text": "小額贊助支持本節目： https://pay.firstory.me/user/iloveiman 留言告訴我你對這一集的想法： https://open.firstory.me/story/ckvop8q2dd4cg09994ben2mz1?m=comment Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 Nov 2021 03:52:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b3c733ec6e6f7c0b26f61fc38f0b6e11937cbd410c50579fc48635ef4df25689",
+      "guid": "ckv37nlu1dld50873z6nuszdy",
+      "title": {
+        "text": "【静观察】9星光大道上多才多艺的回族青年20160908",
+        "truncated": false
+      },
+      "description": {
+        "text": "留言告訴我你對這一集的想法： https://open.firstory.me/story/ckv37nlu1dld50873z6nuszdy?m=comment Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 Oct 2021 02:56:32 GMT",
+      "feed_index": 61
+    },
+    {
+      "id": "f327a0575f6607a1b82b8ccf0599b1a4d7d087b4bf9d8124322c2d316f05dd79",
+      "guid": "cktkvijq80kk20994pukigwbx",
+      "title": {
+        "text": "回族人家26",
+        "truncated": false
+      },
+      "description": {
+        "text": "长篇小说 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Sep 2021 02:17:07 GMT",
+      "feed_index": 123
+    },
+    {
+      "id": "6c6fd09a1434eb23f07b51b797bcbab7446310e8f44915beeab7058cb9ed7567",
+      "guid": "cks5znzq82tkp0905xf7rwt2u",
+      "title": {
+        "text": "442-【听新月】28童年的斋月（马月旭）",
+        "truncated": false
+      },
+      "description": {
+        "text": "听新月 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 10 Aug 2021 11:37:04 GMT",
+      "feed_index": 184
+    },
+    {
+      "id": "734957197920dd553dd73fb8084c4cba70d5b9e46f96704ab1cb171195702161",
+      "guid": "cks006i95jylk0985u9le3t28",
+      "title": {
+        "text": "178-流血的锉刀（40则圣训——献给孩子们的书）",
+        "truncated": false
+      },
+      "description": {
+        "text": "故事 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 Aug 2021 07:04:52 GMT",
+      "feed_index": 245
+    },
+    {
+      "id": "d81a8e8ac80cf4d313bbc64d212d43901a204a5787425e64195634ef648ddddd",
+      "guid": "ckrysbkirdr8u08070kdhggcb",
+      "title": {
+        "text": "118-同安拉交谈的穆萨(一代富豪的泯灭)",
+        "truncated": false
+      },
+      "description": {
+        "text": "故事 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 Aug 2021 10:37:04 GMT",
+      "feed_index": 306
+    },
+    {
+      "id": "349605d00c8f721d67e89923bd0d5918e0bcd397d956fa8db0b719cdd82269c3",
+      "guid": "ckrxavbt55hfd0962tiwkpmv4",
+      "title": {
+        "text": "046-【我爱信仰】2014朝觐直播（正朝）预告片",
+        "truncated": false
+      },
+      "description": {
+        "text": "朝觐 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Wed, 04 Aug 2021 09:40:47 GMT",
+      "feed_index": 368
+    },
+    {
+      "id": "6cc62ce57b9c1e4632cac99ff6c7e8fb039958ee579d4c34506177eaf4bbdd11",
+      "guid": "ckrvt7tuiiz110806514iprst",
+      "title": {
+        "text": "童声童音第一期",
+        "truncated": false
+      },
+      "description": {
+        "text": "这是第一期试水的节目，针对华语听众的儿童穆斯林学习节目，法蒂玛女士为此专辑进行了编辑，艾米娜女士录制了此专辑，希望大家能够喜欢。 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 03 Aug 2021 08:38:51 GMT",
+      "feed_index": 429
+    }
+  ]
+}

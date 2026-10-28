@@ -1,0 +1,103 @@
+{
+  "group": "fiction",
+  "term": "小说演播",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%B0%8F%E8%AF%B4%E6%BC%94%E6%92%AD&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%B0%8F%E8%AF%B4%E6%BC%94%E6%92%AD&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:39:40.429797+00:00",
+    "status": 200,
+    "sha256": "bace8bad07c839e9437ef3664f0fca4e45ecec8832e050b7adcac2955ef3dd7a"
+  },
+  "result_count": 4,
+  "records": [
+    {
+      "collectionId": 1813570326,
+      "trackId": 1813570326,
+      "collectionName": "铁剑仙途|玄幻|穿越|修仙|多人演播|免费小说",
+      "artistName": "案夜",
+      "feedUrl": "https://www.ximalaya.com/album/92071466.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%93%81%E5%89%91%E4%BB%99%E9%80%94-%E7%8E%84%E5%B9%BB-%E7%A9%BF%E8%B6%8A-%E4%BF%AE%E4%BB%99-%E5%A4%9A%E4%BA%BA%E6%BC%94%E6%92%AD-%E5%85%8D%E8%B4%B9%E5%B0%8F%E8%AF%B4/id1813570326?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 1230,
+      "releaseDate": "2025-07-05T06:11:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1787404221,
+      "trackId": 1787404221,
+      "collectionName": "【免费小说】家有诡妻|老蟹演播|悬疑恐怖|惊悚灵异",
+      "artistName": "财阀蟹阿金",
+      "feedUrl": "https://www.ximalaya.com/album/84587496.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9%E5%B0%8F%E8%AF%B4-%E5%AE%B6%E6%9C%89%E8%AF%A1%E5%A6%BB-%E8%80%81%E8%9F%B9%E6%BC%94%E6%92%AD-%E6%82%AC%E7%96%91%E6%81%90%E6%80%96-%E6%83%8A%E6%82%9A%E7%81%B5%E5%BC%82/id1787404221?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 294,
+      "releaseDate": "2026-03-02T07:39:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1462850845,
+      "trackId": 1462850845,
+      "collectionName": "如何演播官场商战小说",
+      "artistName": "喜播教育",
+      "feedUrl": "http://www.ximalaya.com/album/18577120.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A6%82%E4%BD%95%E6%BC%94%E6%92%AD%E5%AE%98%E5%9C%BA%E5%95%86%E6%88%98%E5%B0%8F%E8%AF%B4/id1462850845?uo=4",
+      "genres": [
+        "教育",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2018-09-29T02:51:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1896673328,
+      "trackId": 1896673328,
+      "collectionName": "港城鹰影|大连抗战历史小说|作者演播",
+      "artistName": "夕瑶见雪",
+      "feedUrl": "https://www.ximalaya.com/album/121541449.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B8%AF%E5%9F%8E%E9%B9%B0%E5%BD%B1-%E5%A4%A7%E8%BF%9E%E6%8A%97%E6%88%98%E5%8E%86%E5%8F%B2%E5%B0%8F%E8%AF%B4-%E4%BD%9C%E8%80%85%E6%BC%94%E6%92%AD/id1896673328?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "歷史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 64,
+      "releaseDate": "2026-08-07T01:38:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    }
+  ]
+}

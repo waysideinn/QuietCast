@@ -1,0 +1,168 @@
+{
+  "source": {
+    "url": "https://itunes.apple.com/lookup?id=1039668127%2C1440580962%2C1509923186%2C1511414111%2C1516166301%2C1533775577%2C1577716689%2C1764275498%2C1764275500%2C1764275501%2C1764275566%2C1764275604%2C1764275689%2C1765053992%2C1765054037%2C1765054051%2C1765054055%2C1765054093%2C1765054312%2C1765077874&country=tw",
+    "final_url": "https://itunes.apple.com/lookup?id=1039668127%2C1440580962%2C1509923186%2C1511414111%2C1516166301%2C1533775577%2C1577716689%2C1764275498%2C1764275500%2C1764275501%2C1764275566%2C1764275604%2C1764275689%2C1765053992%2C1765054037%2C1765054051%2C1765054055%2C1765054093%2C1765054312%2C1765077874&country=tw",
+    "fetched_at": "2026-10-26T08:05:13.171115+00:00",
+    "status": 200,
+    "sha256": "31be2f459d2ed9a349831314d955c3f051cf5a9d6edc4f3f654076d5f2cc4d09"
+  },
+  "status": "ok",
+  "data": [
+    {
+      "collectionId": 1039668127,
+      "trackId": 1039668127,
+      "artistName": "纽约文化沙龙",
+      "collectionName": "纽约文化沙龙",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BA%BD%E7%BA%A6%E6%96%87%E5%8C%96%E6%B2%99%E9%BE%99/id1039668127?uo=4",
+      "feedUrl": "https://nyshalong.typlog.io/feed/audio.xml",
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "genres": [
+        "教育",
+        "Podcast"
+      ],
+      "primaryGenreName": "教育",
+      "country": "TWN",
+      "trackCount": 191,
+      "releaseDate": "2026-08-02T00:35:00Z"
+    },
+    {
+      "collectionId": 1440580962,
+      "trackId": 1440580962,
+      "artistName": "牛醫生與狗護士與荀哥",
+      "collectionName": "牛醫生與狗護士的扑假狗(2024年重生了！)",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%89%9B%E9%86%AB%E7%94%9F%E8%88%87%E7%8B%97%E8%AD%B7%E5%A3%AB%E7%9A%84%E6%89%91%E5%81%87%E7%8B%97-2024%E5%B9%B4%E9%87%8D%E7%94%9F%E4%BA%86/id1440580962?uo=4",
+      "feedUrl": "https://anchor.fm/s/77a62d0/podcast/rss",
+      "genreIds": [
+        "1301",
+        "26"
+      ],
+      "genres": [
+        "藝術",
+        "Podcast"
+      ],
+      "primaryGenreName": "藝術",
+      "country": "TWN",
+      "trackCount": 737,
+      "releaseDate": "2024-03-04T10:00:00Z"
+    },
+    {
+      "collectionId": 1509923186,
+      "trackId": 1509923186,
+      "artistName": "聲音無限Voice Infinity",
+      "collectionName": "BL中文廣播劇－聲音無限廣播劇團出品",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/bl%E4%B8%AD%E6%96%87%E5%BB%A3%E6%92%AD%E5%8A%87-%E8%81%B2%E9%9F%B3%E7%84%A1%E9%99%90%E5%BB%A3%E6%92%AD%E5%8A%87%E5%9C%98%E5%87%BA%E5%93%81/id1509923186?uo=4",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/3d2cba16-9280-4217-acdd-c20ff4d2d1a4.xml",
+      "genreIds": [
+        "1301",
+        "26",
+        "1303"
+      ],
+      "genres": [
+        "藝術",
+        "Podcast",
+        "喜劇"
+      ],
+      "primaryGenreName": "藝術",
+      "country": "TWN",
+      "trackCount": 6,
+      "releaseDate": "2020-04-24T08:10:00Z"
+    },
+    {
+      "collectionId": 1511414111,
+      "trackId": 1511414111,
+      "artistName": "OMEGA 小歐",
+      "collectionName": "歐美加滔客 Omega Talk　留學遊學一網打盡！",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AD%90%E7%BE%8E%E5%8A%A0%E6%BB%94%E5%AE%A2-omega-talk-%E7%95%99%E5%AD%B8%E9%81%8A%E5%AD%B8%E4%B8%80%E7%B6%B2%E6%89%93%E7%9B%A1/id1511414111?uo=4",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckifjdarj3bt20992vdx8455b",
+      "genreIds": [
+        "1498",
+        "26",
+        "1304",
+        "1500"
+      ],
+      "genres": [
+        "語言學習",
+        "Podcast",
+        "教育",
+        "自我成長"
+      ],
+      "primaryGenreName": "語言學習",
+      "country": "TWN",
+      "trackCount": 125,
+      "releaseDate": "2026-10-23T11:02:00Z"
+    },
+    {
+      "collectionId": 1516166301,
+      "trackId": 1516166301,
+      "artistName": "Daily Books",
+      "collectionName": "阴阳师 2020年榜首 悬疑小说 听书",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%98%B4%E9%98%B3%E5%B8%88-2020%E5%B9%B4%E6%A6%9C%E9%A6%96-%E6%82%AC%E7%96%91%E5%B0%8F%E8%AF%B4-%E5%90%AC%E4%B9%A6/id1516166301?uo=4",
+      "feedUrl": "https://anchor.fm/s/22e3570c/podcast/rss",
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "primaryGenreName": "書籍",
+      "country": "TWN",
+      "trackCount": 10,
+      "releaseDate": "2020-06-01T08:34:00Z"
+    },
+    {
+      "collectionId": 1533775577,
+      "trackId": 1533775577,
+      "artistName": "聲活數位科技",
+      "collectionName": "經典101-說給孩子聽的世界文學名著(兒童故事有聲書)",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%B6%93%E5%85%B8101-%E8%AA%AA%E7%B5%A6%E5%AD%A9%E5%AD%90%E8%81%BD%E7%9A%84%E4%B8%96%E7%95%8C%E6%96%87%E5%AD%B8%E5%90%8D%E8%91%97-%E5%85%92%E7%AB%A5%E6%95%85%E4%BA%8B%E6%9C%89%E8%81%B2%E6%9B%B8/id1533775577?uo=4",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckfnkfpfsayin0836odlr12n1",
+      "genreIds": [
+        "1520",
+        "26",
+        "1305",
+        "1304",
+        "1498"
+      ],
+      "genres": [
+        "兒童故事",
+        "Podcast",
+        "兒童與家庭",
+        "教育",
+        "語言學習"
+      ],
+      "primaryGenreName": "兒童故事",
+      "country": "TWN",
+      "trackCount": 125,
+      "releaseDate": "2021-03-29T10:00:00Z"
+    },
+    {
+      "collectionId": 1577716689,
+      "trackId": 1577716689,
+      "artistName": "福智文教基金會",
+      "collectionName": "二四六劇場【兒童廣播劇】",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BA%8C%E5%9B%9B%E5%85%AD%E5%8A%87%E5%A0%B4-%E5%85%92%E7%AB%A5%E5%BB%A3%E6%92%AD%E5%8A%87/id1577716689?uo=4",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/1b4e429e-672d-4efb-91e2-7a314d538f7e.xml",
+      "genreIds": [
+        "1304",
+        "26",
+        "1305"
+      ],
+      "genres": [
+        "教育",
+        "Podcast",
+        "兒童與家庭"
+      ],
+      "primaryGenreName": "教育",
+      "country": "TWN",
+      "trackCount": 20,
+      "releaseDate": "2021-08-18T06:58:00Z"
+    }
+  ]
+}

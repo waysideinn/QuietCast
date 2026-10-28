@@ -1,0 +1,140 @@
+{
+  "show_id": "1651050401",
+  "feed_url": "https://anchor.fm/s/b09f5e60/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/b09f5e60/podcast/rss",
+    "final_url": "https://anchor.fm/s/b09f5e60/podcast/rss",
+    "fetched_at": "2026-10-25T14:57:26.538570+00:00",
+    "status": 200,
+    "sha256": "5f1d54a5f0650a3a34698a860ce8034d2a8386a07b3b426251a1cc131b244fdc"
+  },
+  "status": "ok",
+  "title": {
+    "text": "和过去勇敢告别",
+    "truncated": false
+  },
+  "description": {
+    "text": "和过去勇敢告别",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 819,
+  "episodes": [
+    {
+      "id": "f553e7b014c57c03c5f75fa89122817f1c13622de14bb109779e04589a7fc23e",
+      "guid": "e12a8010-ed54-45e0-af45-12a02e99c793",
+      "title": {
+        "text": "1581.牛转钱坤！三大股指创5年新高",
+        "truncated": false
+      },
+      "description": {
+        "text": "1581.牛转钱坤！三大股指创5年新高",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Jun 2023 07:07:31 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "7b07cf4baf82fb5c6f3c7da76d860495e62396c140630d95390855e30ca91874",
+      "guid": "14d76e2e-b2a1-4e52-882b-54079b939aff",
+      "title": {
+        "text": "1277.442为什么说，那些不善良的人，往往很难真正达到高情商",
+        "truncated": false
+      },
+      "description": {
+        "text": "1277.442为什么说，那些不善良的人，往往很难真正达到高情商",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 May 2023 16:36:00 GMT",
+      "feed_index": 117
+    },
+    {
+      "id": "3e8190a14c01caf9cd25f257e617c576b0feda911c90ffced0170c40647e6c5b",
+      "guid": "94457ee2-1169-4416-90fc-04715fe5cbae",
+      "title": {
+        "text": "125.rest in peace",
+        "truncated": false
+      },
+      "description": {
+        "text": "125.rest in peace",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 May 2023 13:05:02 GMT",
+      "feed_index": 234
+    },
+    {
+      "id": "493a628143e59644dbae1c19310eb6eed5ce7adf5403e23593e686108efbaf3d",
+      "guid": "411295f0-1970-490d-a425-6b3fc344073b",
+      "title": {
+        "text": "1509.金山夜话--孩子才是重点",
+        "truncated": false
+      },
+      "description": {
+        "text": "1509.金山夜话--孩子才是重点",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Apr 2023 19:46:47 GMT",
+      "feed_index": 351
+    },
+    {
+      "id": "fa995f6c5c12ce23f3880f9aa62fc6ade34d5f2656b0895f7a626a49d58dabdf",
+      "guid": "d984d662-bbd2-4bb2-8ddc-9c40a1cb33f5",
+      "title": {
+        "text": "2777.共和党赢得中期选举将收紧对乌援助？乌官员震惊",
+        "truncated": false
+      },
+      "description": {
+        "text": "2777.共和党赢得中期选举将收紧对乌援助？乌官员震惊",
+        "truncated": false
+      },
+      "published_at": "Wed, 05 Apr 2023 08:16:44 GMT",
+      "feed_index": 467
+    },
+    {
+      "id": "f56314c8fa990e45b1eca194b2d3ada3a58a3399b5f4b47a243a75b723414069",
+      "guid": "f85d406c-0284-4888-b2b7-66e15699c7b1",
+      "title": {
+        "text": "3194.【军情观察】英国在中东建立新的军事基地，为未来航母部署到中东做准备。",
+        "truncated": false
+      },
+      "description": {
+        "text": "3194.【军情观察】英国在中东建立新的军事基地，为未来航母部署到中东做准备。",
+        "truncated": false
+      },
+      "published_at": "Thu, 23 Mar 2023 12:28:24 GMT",
+      "feed_index": 584
+    },
+    {
+      "id": "7b55eb44e42f04abe4e996a517884638c8a3db58d2e7d5873132ae139db83527",
+      "guid": "89aa2022-214a-4c5f-b1b0-fb88caaf78b9",
+      "title": {
+        "text": "128.再忙也务必要照顾好自己",
+        "truncated": false
+      },
+      "description": {
+        "text": "128.再忙也务必要照顾好自己",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Mar 2023 10:04:13 GMT",
+      "feed_index": 701
+    },
+    {
+      "id": "8a68aa55f081edb1b2bfe74675ff9d5ae2edbc59bbec74d90bc77a62cd31d71b",
+      "guid": "cefe1082-9b75-444f-899c-279c3e685518",
+      "title": {
+        "text": "和过去勇敢告别",
+        "truncated": false
+      },
+      "description": {
+        "text": "和过去勇敢告别",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Aug 2022 04:03:06 GMT",
+      "feed_index": 818
+    }
+  ]
+}

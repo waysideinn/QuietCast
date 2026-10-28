@@ -1,0 +1,140 @@
+{
+  "show_id": "1545095335",
+  "feed_url": "http://www.ximalaya.com/album/42520298.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/42520298.xml",
+    "final_url": "http://www.ximalaya.com/album/42520298.xml",
+    "fetched_at": "2026-10-25T14:56:00.379308+00:00",
+    "status": 200,
+    "sha256": "faf9c21793ba311bb417ceba9fbc179df41778bb7b81fb0b0ed7ed81726937b8"
+  },
+  "status": "ok",
+  "title": {
+    "text": "三分钟|情商心理学",
+    "truncated": false
+  },
+  "description": {
+    "text": "和谐的两性关系、美满的生活状态、稳步的职场发展，一直是人类永恒不变的追求。可是在现实生活中，矛盾和问题，从来没有真正得到过真解决。究其原因，是生活智慧的不足？还是情感理性的压抑，亦或者职称经历的欠缺？如何选择合适的伴侣、如何与职场同事相处、如何智慧面对生活的鸡毛蒜皮？《三分钟|情商心理学》作为教科书式的爱情婚姻职场生活指南，旨在成为你科学生活方式的向导，帮助你从此走向自我实现的道路。还在等什么呢？一起踏上人生进阶之旅吧——",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 29,
+  "episodes": [
+    {
+      "id": "cc4911b3dec05e70641e92127c5faae2799e76fff882d456f64015f5629ae75c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/cc3d-audiofreehighqps/BC/35/CMCoOSMDVcUBAB6OmgBbgmYR-aacv2-48K.m4a",
+      "title": {
+        "text": "【三分钟|情商心理学】 陈铭·面对键盘侠究竟该如何回击？",
+        "truncated": false
+      },
+      "description": {
+        "text": "生活取舍职场沉浮情感去留 每天为你解答一个生活困惑 世上男女千千万，你永远搞不懂另一半 帮你看清 生活 与 职场 的真面目 审视自己审视 生活 审视 职场 审视人生 爱情需要反复讨论，职场需要智慧加持，人生需要自我实现",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Oct 2020 06:23:56 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "18f4bca2bf75baf6294ea45ba6dfee2acc5df40e9deecc520c7da79de1f1b18c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0cab-audiofreehighqps/65/8F/CMCoOScDVccZABvSJwBbgqx3-aacv2-48K.m4a",
+      "title": {
+        "text": "【三分钟|情商心理学】宋茜·男人送的礼物越贵就越爱你吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "生活取舍职场沉浮情感去留 每天为你解答一个生活困惑 世上男女千千万，你永远搞不懂另一半 帮你看清 生活 与 职场 的真面目 审视自己审视 生活 审视 职场 审视人生 爱情需要反复讨论，职场需要智慧加持，人生需要自我实现",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Oct 2020 06:32:50 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "a584f65fdf4b28100e4f2833be07f75698d44c95b4e9a2a6cdbdd8ba6141c21f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ee75-audiofreehighqps/00/8B/CMCoOSIDVcnFABqyWQBbgxiU-aacv2-48K.m4a",
+      "title": {
+        "text": "【三分钟|情商心理学】女人需要倾听：如何与一个陈屿式的钢铁直男相处？",
+        "truncated": false
+      },
+      "description": {
+        "text": "生活取舍职场沉浮情感去留 每天为你解答一个生活困惑 世上男女千千万，你永远搞不懂另一半 帮你看清 生活 与 职场 的真面目 审视自己审视 生活 审视 职场 审视人生 爱情需要反复讨论，职场需要智慧加持，人生需要自我实现",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Oct 2020 06:44:16 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "3b62b06a8d6dee704e184777d24e8f59c35b7db28c9a879b6c14970e40a20b02",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f577-audiofreehighqps/F0/1E/CMCoOSADW_uAAB3XCgBc7Ev4-aacv2-48K.m4a",
+      "title": {
+        "text": "【三分钟|情商心理学】马天宇·如何克服职场社交恐惧症？",
+        "truncated": false
+      },
+      "description": {
+        "text": "生活取舍职场沉浮情感去留 每天为你解答一个生活困惑 世上男女千千万，你永远搞不懂另一半 帮你看清 生活 与 职场 的真面目 审视自己审视 生活 审视 职场 审视人生 爱情需要反复讨论，职场需要智慧加持，人生需要自我实现",
+        "truncated": false
+      },
+      "published_at": "Tue, 13 Oct 2020 23:30:02 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "9a22d1db1b0ebe9eff80a86ae5407f4bf484e19b3ad207a0c7315fa10152eadd",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7e31-audiofreehighqps/76/8A/CMCoOScDY-SAABknVgBevfI0.m4a",
+      "title": {
+        "text": "【三分钟|情商心理学】女人喜欢被直接表白：看宋威龙如何赢得女神芳心！",
+        "truncated": false
+      },
+      "description": {
+        "text": "生活取舍职场沉浮情感去留 每天为你解答一个生活困惑 世上男女千千万，你永远搞不懂另一半 帮你看清 生活 与 职场 的真面目 审视自己审视 生活 审视 职场 审视人生 爱情需要反复讨论，职场需要智慧加持，人生需要自我实现",
+        "truncated": false
+      },
+      "published_at": "Mon, 19 Oct 2020 23:30:01 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "de9d9abe9d1620e31e034a91fd7af13b4315b3cab5eccb70ebdae3098f106454",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4c8f-audiofreehighqps/46/5F/CMCoOSMDa81_ABl2oQBgkt7v.m4a",
+      "title": {
+        "text": "【三分钟|情商心理学】女人为什么变脸比翻书快：如何避免《伦敦生活》里的爱情结局？",
+        "truncated": false
+      },
+      "description": {
+        "text": "生活取舍职场沉浮情感去留 每天为你解答一个生活困惑 世上男女千千万，你永远搞不懂另一半 帮你看清 生活 与 职场 的真面目 审视自己审视 生活 审视 职场 审视人生 爱情需要反复讨论，职场需要智慧加持，人生需要自我实现",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Oct 2020 23:30:01 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "0d6dd060e60859d91cab06405eda0863b6b9ee76b41ff63f4b0538620117f475",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0003-audiofreehighqps/E9/01/CMCoOSMDdmDLAB0ZnABjH_lT-aacv2-48K.m4a",
+      "title": {
+        "text": "【三分钟|情商心理学】为什么帅哥找丑女，美女找丑男？",
+        "truncated": false
+      },
+      "description": {
+        "text": "生活取舍职场沉浮情感去留 每天为你解答一个生活困惑 世上男女千千万，你永远搞不懂另一半 帮你看清生活与职场的真面目 审视自己审视生活 审视职场 审视人生 爱情需要反复讨论，职场需要智慧加持，人生需要自我实现",
+        "truncated": false
+      },
+      "published_at": "Tue, 03 Nov 2020 00:00:55 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "ca2d759885f9661599b39262fa46b28ae8a8d7bea1b3bb212f5d2560408bb789",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4c74-audiofreehighqps/4F/15/CMCoOSMDf6pfABsn0wBlatDg.m4a",
+      "title": {
+        "text": "【三分钟|情商心理学】王漫妮VS梁正贤·爱情中的归属感和占有欲",
+        "truncated": false
+      },
+      "description": {
+        "text": "生活取舍职场沉浮情感去留 每天为你解答一个生活困惑 世上男女千千万，你永远搞不懂另一半 帮你看清生活与职场的真面目 审视自己审视生活 审视职场 审视人生 爱情需要反复讨论，职场需要智慧加持，人生需要自我实现",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 Nov 2020 00:01:01 GMT",
+      "feed_index": 28
+    }
+  ]
+}

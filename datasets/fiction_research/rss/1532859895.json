@@ -1,0 +1,140 @@
+{
+  "show_id": "1532859895",
+  "feed_url": "https://feed.firstory.me/rss/user/ckeju0eic4zo60839oxk0wakd",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckeju0eic4zo60839oxk0wakd",
+    "final_url": "https://feed.firstory.me/rss/user/ckeju0eic4zo60839oxk0wakd",
+    "fetched_at": "2026-10-25T14:50:37.722887+00:00",
+    "status": 200,
+    "sha256": "4d1b8aaabcc3a24258d9d9a5ba7c0158da6e861b70bd600acfa368f608f0c30c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "馬跡iStudy-三科有聲書",
+    "truncated": false
+  },
+  "description": {
+    "text": "領隊導遊都考些什麼？老是唸不到重點怎麼辦？沒時間自己讀，馬跡老師說給你聽！考領隊、導遊證照要做的7件事，十個考生常問的Q&A，最新領隊導遊考試資訊都在 👉 https://www.magee.tw 絕對考上導遊+領隊 有聲書系列 👉 https://www.magee.tw/docs/exam_notes/80 ◎ 用聽的也能考上：實務一、實務二、觀光資源篇 ◎ 跟著馬跡老師一起背單字：英語領隊、英語導遊篇 ⭐ 字幕版 👉 https://www.magee.tw/istudy 領隊導遊考試提醒 小幫手 ⭐ 免費取得 👉 https://forms.gle/NBFdthRAiP8qPoTy5 Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 48,
+  "episodes": [
+    {
+      "id": "017b53e46139f714fd98ce135ec2eddef9ce9568bd644e7fe83a43a428ae489c",
+      "guid": "ckgot3a1v32800812llyof7lq",
+      "title": {
+        "text": "講師的話│跟著馬跡老師一起讀",
+        "truncated": false
+      },
+      "description": {
+        "text": "【絕對考上導遊+領隊】有聲書 - Podcast 導讀嘉賓：馬跡中心〈Magee〉講師 MAC MA 領隊導遊都考些什麼？老是唸不到重點怎麼辦？沒時間自己讀，馬跡老師說給你聽！考領隊、導遊證照要做的7件事，十個考生常問的Q&A，最新領隊導遊考試資訊都在 https://www.magee.tw ••• 《絕對考上導遊+領隊》有聲書介紹 → https://www.magee.tw/docs/exam_notes/80 15位全國榜首使用！好評推薦 《熱門文章》 ‧ 只花8小時超有用！大二生2招考上領隊榜首 ‧ 「從零開始！」 搖身變成領隊導遊考試達人 ‧ 三個月考上導遊領隊！韓籍考生成功挑戰榜首 ‧ 【領隊導遊錄取率90%】馬跡學員拿下八年全國榜首 → 更多考生上榜分享 https://www.magee.tw/docs/share Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Oct 2020 07:44:09 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1c1acc884f86a18f7df1add032272f082a1c5ac0f9dce4215c0ec46d519afff8",
+      "guid": "ckgost7fd1q2y08037inyy1ah",
+      "title": {
+        "text": "EP1-3-2│跟著馬跡老師一起讀：觀光心理與行為",
+        "truncated": false
+      },
+      "description": {
+        "text": "【絕對考上導遊+領隊】有聲書 [第1冊/第3章] - Podcast 導讀嘉賓：馬跡中心〈Magee〉講師 MAC MA 領隊導遊都考些什麼？老是唸不到重點怎麼辦？沒時間自己讀，馬跡老師說給你聽！考領隊、導遊證照要做的7件事，十個考生常問的Q&A，最新領隊導遊考試資訊都在 https://www.magee.tw ••• 《絕對考上導遊+領隊》有聲書介紹 → https://www.magee.tw/docs/exam_notes/80 15位全國榜首使用！好評推薦 《熱門文章》 ‧ 只花8小時超有用！大二生2招考上領隊榜首 ‧ 「從零開始！」 搖身變成領隊導遊考試達人 ‧ 三個月考上導遊領隊！韓籍考生成功挑戰榜首 ‧ 【領隊導遊錄取率90%】馬跡學員拿下八年全國榜首 → 更多考生上榜分享 https://www.magee.tw/docs/share Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Oct 2020 07:36:19 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "833ad743a32d52a33738e490321185520772db60cfe7ccbb3a77ab8aad85cf81",
+      "guid": "ckgosin001non08038hg5hnt6",
+      "title": {
+        "text": "EP1-6-1│跟著馬跡老師一起讀：臺灣史地",
+        "truncated": false
+      },
+      "description": {
+        "text": "【絕對考上導遊+領隊】有聲書 [第1冊/第6章] - Podcast 導讀嘉賓：馬跡中心〈Magee〉講師 SIMON 領隊導遊都考些什麼？老是唸不到重點怎麼辦？沒時間自己讀，馬跡老師說給你聽！考領隊、導遊證照要做的7件事，十個考生常問的Q&A，最新領隊導遊考試資訊都在 https://www.magee.tw ••• 《絕對考上導遊+領隊》有聲書介紹 → https://www.magee.tw/docs/exam_notes/80 15位全國榜首使用！好評推薦 《熱門文章》 ‧ 只花8小時超有用！大二生2招考上領隊榜首 ‧ 「從零開始！」 搖身變成領隊導遊考試達人 ‧ 三個月考上導遊領隊！韓籍考生成功挑戰榜首 ‧ 【領隊導遊錄取率90%】馬跡學員拿下八年全國榜首 → 更多考生上榜分享 https://www.magee.tw/docs/share Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Oct 2020 07:28:06 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "e7956894cb3c375dda647a358c0ee1148e370098afcf23fc5669d2913b1f5736",
+      "guid": "ckgos9yhd2uuy0812b3oj732c",
+      "title": {
+        "text": "EP2-1-2│跟著馬跡老師一起讀：觀光行政",
+        "truncated": false
+      },
+      "description": {
+        "text": "【絕對考上導遊+領隊】有聲書 [第二冊/第1章] - Podcast 導讀嘉賓：馬跡中心〈Magee〉講師 ANGEL CHEN 領隊導遊都考些什麼？老是唸不到重點怎麼辦？沒時間自己讀，馬跡老師說給你聽！考領隊、導遊證照要做的7件事，十個考生常問的Q&A，最新領隊導遊考試資訊都在 https://www.magee.tw ••• 《絕對考上導遊+領隊》有聲書介紹 → https://www.magee.tw/docs/exam_notes/80 15位全國榜首使用！好評推薦 《熱門文章》 ‧ 只花8小時超有用！大二生2招考上領隊榜首 ‧ 「從零開始！」 搖身變成領隊導遊考試達人 ‧ 三個月考上導遊領隊！韓籍考生成功挑戰榜首 ‧ 【領隊導遊錄取率90%】馬跡學員拿下八年全國榜首 → 更多考生上榜分享 https://www.magee.tw/docs/share Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Oct 2020 07:21:21 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "66f6d1c5519e4781eba1f377593015303b8bd64285c906165abced3a1eba9665",
+      "guid": "ckgordjrf1bxw0803yenm1ghk",
+      "title": {
+        "text": "EP2-3-3│跟著馬跡老師一起讀：入出境法規",
+        "truncated": false
+      },
+      "description": {
+        "text": "【絕對考上導遊+領隊】有聲書 [第二冊/第3章] - Podcast 導讀嘉賓：馬跡中心〈Magee〉講師 ANGEL CHEN 領隊導遊都考些什麼？老是唸不到重點怎麼辦？沒時間自己讀，馬跡老師說給你聽！考領隊、導遊證照要做的7件事，十個考生常問的Q&A，最新領隊導遊考試資訊都在 https://www.magee.tw ••• 《絕對考上導遊+領隊》有聲書介紹 → https://www.magee.tw/docs/exam_notes/80 15位全國榜首使用！好評推薦 《熱門文章》 ‧ 只花8小時超有用！大二生2招考上領隊榜首 ‧ 「從零開始！」 搖身變成領隊導遊考試達人 ‧ 三個月考上導遊領隊！韓籍考生成功挑戰榜首 ‧ 【領隊導遊錄取率90%】馬跡學員拿下八年全國榜首 → 更多考生上榜分享 https://www.magee.tw/docs/share Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Oct 2020 06:56:09 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "4fac936a0ca6b3c72f8254d3fc22174c1e5c1435b748785caeada2c7eafc1ef6",
+      "guid": "ckgoqyko719v70803ori7le6z",
+      "title": {
+        "text": "EP3-1-1│跟著馬跡老師一起讀：領隊技巧",
+        "truncated": false
+      },
+      "description": {
+        "text": "【絕對考上導遊+領隊】有聲書 [第三冊/第1章] - Podcast 導讀嘉賓：馬跡中心〈Magee〉講師 MAC MA 領隊導遊都考些什麼？老是唸不到重點怎麼辦？沒時間自己讀，馬跡老師說給你聽！考領隊、導遊證照要做的7件事，十個考生常問的Q&A，最新領隊導遊考試資訊都在 https://www.magee.tw ••• 《絕對考上導遊+領隊》有聲書介紹 → https://www.magee.tw/docs/exam_notes/80 15位全國榜首使用！好評推薦 《熱門文章》 ‧ 只花8小時超有用！大二生2招考上領隊榜首 ‧ 「從零開始！」 搖身變成領隊導遊考試達人 ‧ 三個月考上導遊領隊！韓籍考生成功挑戰榜首 ‧ 【領隊導遊錄取率90%】馬跡學員拿下八年全國榜首 → 更多考生上榜分享 https://www.magee.tw/docs/share Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Oct 2020 06:44:31 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "77a0f4c64ded178eefd4905b6a8c060c66385780ae1840aa6e6e2f7f11e922b4",
+      "guid": "ckgoqqnxd18bw0803dms0a3e6",
+      "title": {
+        "text": "EP3-2-4│跟著馬跡老師一起讀：旅遊契約",
+        "truncated": false
+      },
+      "description": {
+        "text": "【絕對考上導遊+領隊】有聲書 [第三冊/第2章] - Podcast 導讀嘉賓：馬跡中心〈Magee〉講師 MAC MA 領隊導遊都考些什麼？老是唸不到重點怎麼辦？沒時間自己讀，馬跡老師說給你聽！考領隊、導遊證照要做的7件事，十個考生常問的Q&A，最新領隊導遊考試資訊都在 https://www.magee.tw ••• 《絕對考上導遊+領隊》有聲書介紹 → https://www.magee.tw/docs/exam_notes/80 15位全國榜首使用！好評推薦 《熱門文章》 ‧ 只花8小時超有用！大二生2招考上領隊榜首 ‧ 「從零開始！」 搖身變成領隊導遊考試達人 ‧ 三個月考上導遊領隊！韓籍考生成功挑戰榜首 ‧ 【領隊導遊錄取率90%】馬跡學員拿下八年全國榜首 → 更多考生上榜分享 https://www.magee.tw/docs/share Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Oct 2020 06:38:22 GMT",
+      "feed_index": 40
+    },
+    {
+      "id": "f568eb7a16e62099b5f6048ba888c69e4917b6ef75ff095a0d7613952b24b61a",
+      "guid": "ckgks2s459a1y088553f2zyvr",
+      "title": {
+        "text": "EP3-3-7│跟著馬跡老師一起讀：世界史地",
+        "truncated": false
+      },
+      "description": {
+        "text": "【絕對考上導遊+領隊】有聲書 [第三冊/第3章] - Podcast 導讀嘉賓：馬跡中心〈Magee〉講師 SIMON 領隊導遊都考些什麼？老是唸不到重點怎麼辦？沒時間自己讀，馬跡老師說給你聽！考領隊、導遊證照要做的7件事，十個考生常問的Q&A，最新領隊導遊考試資訊都在 https://www.magee.tw ••• 《絕對考上導遊+領隊》有聲書介紹 → https://www.magee.tw/docs/exam_notes/80 15位全國榜首使用！好評推薦 《熱門文章》 ‧ 只花8小時超有用！大二生2招考上領隊榜首 ‧ 「從零開始！」 搖身變成領隊導遊考試達人 ‧ 三個月考上導遊領隊！韓籍考生成功挑戰榜首 ‧ 【領隊導遊錄取率90%】馬跡學員拿下八年全國榜首 → 更多考生上榜分享 https://www.magee.tw/docs/share Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Oct 2020 12:04:42 GMT",
+      "feed_index": 47
+    }
+  ]
+}

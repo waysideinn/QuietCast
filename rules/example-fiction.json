@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "1.0",
+  "ruleVersion": "example-2026-10-25",
+  "updatedAt": "2026-10-25T00:00:00Z",
+  "status": "example",
+  "sources": [
+    "人工构造的接口演示，非研究结论"
+  ],
+  "categories": [
+    {
+      "id": "fiction-audiobooks",
+      "name": "网络小说及有声书",
+      "description": "演示规则接口；未经过任务 B 研究、语料评估或覆盖率验证。",
+      "enabled": true,
+      "thresholds": {
+        "review": 4,
+        "block": 8
+      },
+      "fieldWeights": {
+        "showTitle": 1.5,
+        "showDescription": 1,
+        "showCategories": 1,
+        "author": 1,
+        "episodeTitle": 1.5,
+        "episodeDescription": 1,
+        "rssMetadata": 0.5
+      },
+      "strongKeywords": [
+        {
+          "id": "sample-audiobook",
+          "term": "小说朗读",
+          "score": 8,
+          "fields": [
+            "showTitle",
+            "episodeTitle",
+            "showDescription",
+            "episodeDescription"
+          ],
+          "note": "仅为接口样例，不代表完整词库。"
+        }
+      ],
+      "keywords": [
+        {
+          "id": "sample-serial",
+          "term": "连载",
+          "score": 1.5,
+          "fields": [
+            "showTitle",
+            "episodeTitle",
+            "showDescription",
+            "episodeDescription"
+          ],
+          "note": "单独命中不能拦截。"
+        }
+      ],
+      "combinationKeywords": [
+        {
+          "id": "sample-fiction-serial",
+          "terms": [
+            "小说",
+            "连载"
+          ],
+          "scope": "sameField",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "episodeTitle",
+            "showDescription",
+            "episodeDescription"
+          ],
+          "note": "多个词必须在同一个字段出现。"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "sample-fiction-research",
+          "term": "小说研究",
+          "score": 3,
+          "fields": [
+            "showTitle",
+            "episodeTitle",
+            "showDescription",
+            "episodeDescription"
+          ],
+          "note": "只抵扣非强特征分数，不能覆盖明确黑名单。"
+        }
+      ],
+      "regexRules": [
+        {
+          "id": "sample-chapter",
+          "pattern": "第[0-9一二三四五六七八九十百千万零〇两]{1,8}[集章回]",
+          "score": 1.5,
+          "fields": [
+            "episodeTitle"
+          ],
+          "note": "章节编号单独不能拦截。"
+        }
+      ],
+      "showBlocklist": [],
+      "episodeBlocklist": [],
+      "showAllowlist": [],
+      "episodeAllowlist": [],
+      "notes": "任务 B 应产出 status=production 的文件并报告误拦截与漏拦截样例。"
+    }
+  ]
+}

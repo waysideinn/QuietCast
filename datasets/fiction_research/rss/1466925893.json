@@ -1,0 +1,140 @@
+{
+  "show_id": "1466925893",
+  "feed_url": "http://www.ximalaya.com/album/13194463.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/13194463.xml",
+    "final_url": "http://www.ximalaya.com/album/13194463.xml",
+    "fetched_at": "2026-10-25T14:49:01.193144+00:00",
+    "status": 200,
+    "sha256": "38c5b38289d23838ab9812a45258d3de2b39681edce81d9efe7b167827309d9e"
+  },
+  "status": "ok",
+  "title": {
+    "text": "毁三观历史故事集",
+    "truncated": false
+  },
+  "description": {
+    "text": "历史长河中，谁最能装，谁最能忍，谁最残暴，谁最风流，谁最疯狂，谁最荒唐？本故事集毁灭你教科书式三观，重新认识那年那人那些事。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 88,
+  "episodes": [
+    {
+      "id": "036f6db4559228b21a32b65f2fc9c4f426c2f3c26b1769f8a5d458dbb93fd3cc",
+      "guid": "https://aod.cos.tx.xmcdn.com/group63/M05/C8/21/wKgMcl0WLKnB2czUADbPFanxVpY233-aacv2-48K.m4a",
+      "title": {
+        "text": "1.食人魔传——李逵",
+        "truncated": false
+      },
+      "description": {
+        "text": "精彩讲解，三观尽毁。出名要趁早，毁三观更要迟早，这样伤害才最小。",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Mar 2018 11:14:56 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "75c1107b2596652ecd209f2fc4f32211558369dc7fe9087fe589ca3a5f828138",
+      "guid": "https://aod.cos.tx.xmcdn.com/group63/M06/CC/B1/wKgMaF0CO3zTspFvAEELk_bg-tI803-aacv2-48K.m4a",
+      "title": {
+        "text": "14.装灯传——祢衡",
+        "truncated": false
+      },
+      "description": {
+        "text": "历史长河中，谁最能装，谁最能忍，谁最残暴，谁最风流，谁最疯狂，谁最荒唐？本故事集包你颠覆历史课本中的印象，重新认识那年那人那些事。 毁三观要趁早，这样伤害才比较小。",
+        "truncated": false
+      },
+      "published_at": "Thu, 13 Jun 2019 12:03:35 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "f82a7e62398f505ec74463a2e7f51a1936fb29354b171b05b3d2ffe3579aa727",
+      "guid": "https://aod.cos.tx.xmcdn.com/group63/M06/FD/A5/wKgMaF0guAXQsCutAHtR70afgZ8605-aacv2-48K.m4a",
+      "title": {
+        "text": "27.荡女传——秦宣太后芈月",
+        "truncated": false
+      },
+      "description": {
+        "text": "历史长河中，谁最能装，谁最能忍，谁最残暴，谁最风流，谁最疯狂，谁最荒唐？本故事集毁灭你教科书式三观，重新认识那年那人那些事。",
+        "truncated": false
+      },
+      "published_at": "Sat, 06 Jul 2019 15:02:10 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "9b25530ce696aab085830a720d038c610cf1b59a3535e023a1f615e9a16bf4b8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group63/M0A/CD/BD/wKgMaF0CQEPArktcAHOATPe_Gi4132-aacv2-48K.m4a",
+      "title": {
+        "text": "39.帅哥传——周瑜",
+        "truncated": false
+      },
+      "description": {
+        "text": "谁是历史上最有名的装B犯？ 谁是历史上最残忍的食人魔？ 谁是历史上最能忍的人？ 谁被祖先的因果雷给炸惨了？ 谁是历史上最能吹牛的人？ 谁是治理天下有方的知名荡妇？ 谁是古今闻名的同性恋？ 史书上的故事更精彩！主播自说自话，搜肠刮肚，尽量选取了正史中明确记载的真人真事，跨越朝代按相似度整理为您播讲。编辑、作者、播音均由本大叔一人担任。不用怀疑，我的专辑意义非凡，因为：“毁三观要趁早，这样伤害才比较小。”",
+        "truncated": false
+      },
+      "published_at": "Fri, 27 Apr 2018 10:28:23 GMT",
+      "feed_index": 37
+    },
+    {
+      "id": "bc0f14e63c1fe2849513cd68e7ebd3f889d8e05f6d9438d324dcca4b36319e8b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group62/M08/CC/67/wKgMcV0COQmSSoPGAH8vuu2yg9s621-aacv2-48K.m4a",
+      "title": {
+        "text": "60.正经故事——孔子和子路（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "今天的故事要给大家涨姿势喽，讲一讲孔子和子路的故事。子路性格刚强、正义、率真可爱，子路和孔子的对话是《论语》中最有趣的部分。今天我们就来简单聊一聊孔子和子路的相识、相伴和最终的永别。",
+        "truncated": false
+      },
+      "published_at": "Fri, 02 Mar 2018 11:28:57 GMT",
+      "feed_index": 50
+    },
+    {
+      "id": "c1937c2f785d4fa12b61f9045c221683d3a792cd8d354fb8e1193620db2b8693",
+      "guid": "https://aod.cos.tx.xmcdn.com/group72/M06/39/32/wKgO0F4dL2yw7oJ6ADTaoQk2-lk606-aacv2-48K.m4a",
+      "title": {
+        "text": "72.《春秋》——红颜祸水还是自取灭亡",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Jan 2020 03:02:57 GMT",
+      "feed_index": 62
+    },
+    {
+      "id": "d5a60cbe377137a4e58f288f7fdc410c1206b61f1c17cac0173dd3f791df7ffc",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1705-audiofreehighqps/3D/47/CKwRIW4E-S9CACZHGQDbOhui-aacv2-48K.m4a",
+      "title": {
+        "text": "85.《春秋》——宁落一圈，不落一人",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 23 Aug 2021 09:36:56 GMT",
+      "feed_index": 75
+    },
+    {
+      "id": "9bfd2bbb59fafe5ab5da74b1c4f9020ecccf7407014eda61a26d5a05e0d4f5a5",
+      "guid": "xmly_track_708745516",
+      "title": {
+        "text": "《史记》010——周朝诸侯生死档案",
+        "truncated": false
+      },
+      "description": {
+        "text": "十五分钟时间把周朝主要邦国的出生和死亡都讲一遍。您会发现在没什么用的知识里面，这个知识非常有用。",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Feb 2024 08:30:06 GMT",
+      "feed_index": 87
+    }
+  ]
+}

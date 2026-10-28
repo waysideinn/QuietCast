@@ -1,0 +1,140 @@
+{
+  "show_id": "1462842609",
+  "feed_url": "http://www.ximalaya.com/album/7437114.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/7437114.xml",
+    "final_url": "http://www.ximalaya.com/album/7437114.xml",
+    "fetched_at": "2026-10-25T14:50:03.371340+00:00",
+    "status": 200,
+    "sha256": "b9d2c3b662ef23700e5d4df8fa0839e98655a06cd9623c944a28571bee58090c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "哲学的慰藉",
+    "truncated": false
+  },
+  "description": {
+    "text": "此专辑非干货，书杰的直播录音集合、美文集锦。 纯干货请前往 《哲学100问》 VIP用户畅听： 第1季：从古希腊到黑格尔 第2季：人，诗意地栖居 第3季：走向后现代 250张逻辑图： 添加小助手微信[contact removed]领取（限VIP一年以上用户）",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 66,
+  "episodes": [
+    {
+      "id": "8ecaee3c585dcdc1a2e3dfc4ba9107b6c360fbad710388d4fa5a92499ec41f49",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6405-audiofreehighqps/DC/C8/CKwRIMAEbB8zAAKDagCoOFYV.m4a",
+      "title": {
+        "text": "【好消息】哲学100问，VIP用户畅听啦！",
+        "truncated": false
+      },
+      "description": {
+        "text": "《哲学100问》VIP用户畅听，点击订阅： 第1季：从古希腊到黑格尔 第2季：人，诗意地栖居 第3季：走向后现代 【课程资料：250张逻辑图资料】 添加小助手微信[contact removed] （ 限VIP一年以上用户） 【微信公众号】@听哲学",
+        "truncated": false
+      },
+      "published_at": "Sat, 08 May 2021 09:38:59 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d82147f0b2e765f5d83e7023e4a106fcea7ac7173a0f39908b0ff63b6dce8d32",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/da09-audiofreehighqps/AB/C4/CMCoOSAD7_4qACY-TQCDWbF2-aacv2-48K.m4a",
+      "title": {
+        "text": "短分享丨哲学要学进去，也要走出来",
+        "truncated": false
+      },
+      "description": {
+        "text": "《哲学100问》三季课 点击获得完整版： 第1季：从古希腊到黑格尔 第2季：人，诗意地栖居 第3季：后现代的刺 【特别福利：添加助手微信[contact removed]】 购课领取250张逻辑图 +入500人哲学群（需配齐三季课）",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Dec 2020 13:50:12 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "4756566d97e66a4abf7da01313cf0cfd7e9d76164bce1e0cb243a46237549b4e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M02/34/16/wKgJX1mC0k3g08DTAEBBsMDIdUQ602-aacv2-48K.m4a",
+      "title": {
+        "text": "16 哲学100问· 第2季即将启程：最美的哲学之旅",
+        "truncated": false
+      },
+      "description": {
+        "text": "《哲学100问》三季课， 点击获得： 第1季：从古希腊到黑格尔 第2季：人，诗意地栖居 第3季：后现代的刺 【特别福利：添加助手微信[contact removed]】 购课领取250张逻辑图 +入500人哲学群（需配齐三季课） 本期精华： 1、第二季和第一季的不同是什么？ 第一季：从古希腊到黑格尔 第二季：黑格尔之后的现代哲学部分 2、第二季准备怎么讲，有些什么改进？ （1）10大核心模块（具体上线当天揭晓） 涉及哲学家（部分）：叔本华、尼采、弗洛伊德，还有边沁、罗素、维特根斯坦、胡塞尔、海德格尔、萨特、加缪、马克思、福柯、德里达、德勒兹…… （2）增加答疑课程 每个模块结束后，会录制听众答疑节目。 （3）总分总讲解模式 每个模块：预告+具体哲学家+阶段小结。 （4）主题更加关乎人性 比如：人的生命本能、人的欲望，人的身体，人的存在，人的语言，人类的文明和政治等等。 （5）200首全新背景音乐 精选200首不同于第一季的背景音乐，带来更加震撼的听觉享受。 —————————————— 8月18日 我们第二季见！",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Aug 2017 07:42:11 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "9e3eb610faaa72baae7ff328a6515f61a8db43eaf911ed769cd2905a0e7db040",
+      "guid": "https://aod.cos.tx.xmcdn.com/group27/M08/F0/E5/wKgJW1jemQWBYqxyABclbgFT-6g095.m4a",
+      "title": {
+        "text": "07 哲学对普通人有什么意义？",
+        "truncated": false
+      },
+      "description": {
+        "text": "微信平台：@听哲学 收听方式：在喜马拉雅搜索『哲学100问』即可。 【哲学群】请加小助手微信[contact removed]",
+        "truncated": false
+      },
+      "published_at": "Fri, 31 Mar 2017 17:59:50 GMT",
+      "feed_index": 28
+    },
+    {
+      "id": "db718d7d79b3c5d17c90e074d3a14e96f6eebe1589e7489e5a9ca6882749bc9d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M05/D2/EC/wKgJLFoj5SeR97yXACqnk3sMbqw410-aacv2-48K.m4a",
+      "title": {
+        "text": "【听友互动07】灵与肉的关系是什么？",
+        "truncated": false
+      },
+      "description": {
+        "text": "123知识狂欢节 5折福利，最后一天： 哲学100问·第一季 哲学100为·第二季",
+        "truncated": false
+      },
+      "published_at": "Sun, 03 Dec 2017 11:51:45 GMT",
+      "feed_index": 37
+    },
+    {
+      "id": "303923a668e6ae137e050f5c2d6aa1441d666160bd4e81c088afb81606a7bbae",
+      "guid": "https://aod.cos.tx.xmcdn.com/group48/M03/77/7A/wKgKnFuSLL6QuFXKAHVg3A_TCzI355-aacv2-48K.m4a",
+      "title": {
+        "text": "【第3季 ·发刊】走向后现代，提升思考力",
+        "truncated": false
+      },
+      "description": {
+        "text": "哲学100问 · 第三季 正式发刊 《哲学100问》三季完整课程 第1季：从古希腊到黑格尔 第2季：西方现代哲学 第3季：走向后现代 第三季 · 发刊词 ：走向后现代，提升思考力 20世纪以来，世界的发展进入到了一个全新的阶段。 科技革命的爆发，如催化剂一般加快了人类 “ 现代性 ” 的步伐。西方资本主义由自由阶段进入到了垄断时期，生产力的飞速发展，人类的欲求也无限膨胀起来。人们越来越沉浸于技术掌控世界的美好感觉中，而一旦偏离这个看似理性的轨道，人们就有一种急切的焦虑感。 文化工业产品开始泛滥，传媒信息喷涌而来，文学、电影、音乐、绘画、建筑作品以多样的形式展现于普通大众，人类的文化呈现出一个表面极其繁荣的现代图景。 人们不自觉地陷入到被这股现代性制造的漩涡里，任其摆置并深深享受其中。 这一切看上去都很美！ 那么，这美好的表象背后，到底隐藏的是什么呢？这一时期的哲学家们，在思考些什么？又对此提出了怎样全新的洞见？ 带着这些问题，我们正式开启《哲学100问》第三季的课程，西方哲学终结课—— 走向后现代！ 我是书杰，欢迎收听！ 终于，第三季和大家如约而至了。从刚刚的那段开场词我们已经感受到，第三季有了更多的现代气息，和我们当下的生活也有了更多的关联。这一季我们将继续沿着第二季的内容，去探寻现代哲学的思想并走向后现代主义。同时，第三季也是西方哲学最后一季课程，书杰感谢大家的守候和聆听！ 一",
+        "truncated": true
+      },
+      "published_at": "Fri, 07 Sep 2018 07:46:41 GMT",
+      "feed_index": 46
+    },
+    {
+      "id": "f83ad69d7978c2ac37f17aac39ebc8b27fd64552dcd4fa2299d071b7071c3dc3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group51/M02/4A/17/wKgKnlv64lrgfhkhAATk24GcQkQ265.m4a",
+      "title": {
+        "text": "【哲学狂欢夜】10 小孩子越早接触哲学越好吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "喜马拉雅2018知识狂欢节 5折券： 12月1日可用券购买：（点击领取） 第1季：西方哲学启蒙课（从古希腊到黑格尔） 第2季：西方哲学提升课（现代西方哲学） 第3季：西方哲学终极课（走向后现代）",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Nov 2018 17:57:04 GMT",
+      "feed_index": 56
+    },
+    {
+      "id": "670e940fece523d9780851470d02d131988f958018a69d4c3cc74b54068c7f63",
+      "guid": "https://aod.cos.tx.xmcdn.com/group49/M0B/4B/C7/wKgKl1v63SfQbmFeACr6AoGOFpA591-aacv2-48K.m4a",
+      "title": {
+        "text": "【哲学狂欢夜】01 致新听友：推开哲学之门",
+        "truncated": false
+      },
+      "description": {
+        "text": "哲学100问·点击获得： 第1季：西方哲学启蒙课（从古希腊到黑格尔） 第2季：西方哲学提升课（现代西方哲学） 第3季：西方哲学终极课（走向后现代）",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Nov 2018 17:43:43 GMT",
+      "feed_index": 65
+    }
+  ]
+}

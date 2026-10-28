@@ -1,0 +1,140 @@
+{
+  "show_id": "1462849901",
+  "feed_url": "http://www.ximalaya.com/album/10844417.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/10844417.xml",
+    "final_url": "http://www.ximalaya.com/album/10844417.xml",
+    "fetched_at": "2026-10-25T14:50:11.107689+00:00",
+    "status": 200,
+    "sha256": "e7d64d46d93b97096808105ddf0ab17419651748fdf120d585ab9ad1063ebe4c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "哲学治愈音乐·第2季",
+    "truncated": false
+  },
+  "description": {
+    "text": "哲学100问·第2季 （点击收听）",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 87,
+  "episodes": [
+    {
+      "id": "e77d579276a9cb142deb7dc3b826d38a50170b1d81c0d6399d74160ea25b7ab3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M03/52/E6/wKgJXlnNvUCQVwiYACvXh1M-3Ko936.m4a",
+      "title": {
+        "text": "01 Christophe Lebled - Alpha",
+        "truncated": false
+      },
+      "description": {
+        "text": "歌曲 Christophe Lebled - Alpha 涉及节目 《哲学100问》第二季 书杰的声音+哲学+音乐=最美的《哲学100问》",
+        "truncated": false
+      },
+      "published_at": "Fri, 29 Sep 2017 03:27:31 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8835c1f432389558281d72f59efbf261fa41818d4d876bc37a5c4c8ee0c0dff2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M0A/BD/E4/wKgJWlnQiteCkuu3ABhMlYqmZ3s008.m4a",
+      "title": {
+        "text": "20 Teen Daze - Late",
+        "truncated": false
+      },
+      "description": {
+        "text": "哲学100问·第2季 （点击收听） 背景音乐 持续更新ing",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Oct 2017 06:48:46 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "7929e3bf8ca31a74bcf53cb605844332c91a9cc23a96b0149daaea4db4fc077e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M07/99/78/wKgJXlnQjkeyNze5ABMXPjEyTwM370.m4a",
+      "title": {
+        "text": "坂本龍一 - Solitude short",
+        "truncated": false
+      },
+      "description": {
+        "text": "哲学100问·第2季 （点击收听） 背景音乐 持续更新ing",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Oct 2017 06:48:46 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "9c277d71e1de01da5aff25cc683bb195d8b06213093e5da07cdae8584c2d59f4",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M06/BE/F7/wKgJWlnQk9GgSrhHACCfSMsL3fk651.m4a",
+      "title": {
+        "text": "Jelonek - Romantic Revenge",
+        "truncated": false
+      },
+      "description": {
+        "text": "哲学100问·第2季 （点击收听） 背景音乐 持续更新ing",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Oct 2017 08:04:50 GMT",
+      "feed_index": 37
+    },
+    {
+      "id": "3eef350a39a96e9f37b761a9b3871bc43cacf7e10ff12aaf067a339758ea5be1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M05/9A/63/wKgJXlnQlh_DtrjXAAzSP6UY2Xg309.m4a",
+      "title": {
+        "text": "Shire Music - Choral hymn to lite A (Choir)",
+        "truncated": false
+      },
+      "description": {
+        "text": "哲学100问·第2季 （点击收听） 背景音乐 持续更新ing",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Oct 2017 08:04:51 GMT",
+      "feed_index": 49
+    },
+    {
+      "id": "8589ed6e77b94ef133e6ec77f031b3e7c3b5ca7e1e040f975a7a87c218df2add",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M0B/9A/9B/wKgJXlnQmDTyeNaPAA1q9cFW890786.m4a",
+      "title": {
+        "text": "Sylvain Chauveau - Le Tunnel",
+        "truncated": false
+      },
+      "description": {
+        "text": "哲学100问·第2季 （点击收听） 背景音乐 持续更新ing",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Oct 2017 08:04:51 GMT",
+      "feed_index": 61
+    },
+    {
+      "id": "48a32655fb55a569aca4bba996ef5d7bfb07b34dfbf2a7e67db1850f5d5859c6",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M04/9B/B8/wKgJXlnQouCyg678ABMVxhUgg9I152.m4a",
+      "title": {
+        "text": "Robert Haigh - And Then They Go",
+        "truncated": false
+      },
+      "description": {
+        "text": "哲学100问·第2季 （点击收听） 背景音乐 持续更新ing",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Oct 2017 08:29:14 GMT",
+      "feed_index": 74
+    },
+    {
+      "id": "ebc3ffa8943118fb17e37e16ee5cef26204d5b4de5507385be1364aae83e4cb0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M03/C0/DA/wKgJWlnQpevAQhXpAB22xw9r3rU437.m4a",
+      "title": {
+        "text": "The Tumbled Sea - summer iii",
+        "truncated": false
+      },
+      "description": {
+        "text": "哲学100问·第2季 （点击收听） 背景音乐 持续更新ing",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Oct 2017 08:29:14 GMT",
+      "feed_index": 86
+    }
+  ]
+}

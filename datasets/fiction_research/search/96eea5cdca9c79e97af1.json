@@ -1,0 +1,37 @@
+{
+  "group": "normal",
+  "term": "科技播客",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%A7%91%E6%8A%80%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%A7%91%E6%8A%80%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:42:43.008698+00:00",
+    "status": 200,
+    "sha256": "fa3a2aec2f36c1e7d0467a1dfb0336abc3aa9c2220d9a2e5756d34c097722ed2"
+  },
+  "result_count": 1,
+  "records": [
+    {
+      "collectionId": 1755866458,
+      "trackId": 1755866458,
+      "collectionName": "牛言牛语｜跑步科技播客",
+      "artistName": "李二牛li2niu",
+      "feedUrl": "https://feed.xyzfm.space/eq6l7v3hwnmx",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%89%9B%E8%A8%80%E7%89%9B%E8%AF%AD-%E8%B7%91%E6%AD%A5%E7%A7%91%E6%8A%80%E6%92%AD%E5%AE%A2/id1755866458?uo=4",
+      "genres": [
+        "科技",
+        "播客",
+        "体育"
+      ],
+      "genreIds": [
+        "1318",
+        "26",
+        "1545"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2025-05-13T04:02:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科技"
+    }
+  ]
+}

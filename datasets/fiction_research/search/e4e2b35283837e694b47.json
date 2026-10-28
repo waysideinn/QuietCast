@@ -1,0 +1,261 @@
+{
+  "group": "fiction",
+  "term": "三体",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E4%B8%89%E4%BD%93&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E4%B8%89%E4%BD%93&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:41:32.611914+00:00",
+    "status": 200,
+    "sha256": "62bf9b79d415c6920f0409920310e35343d4c54ac3c400f6ede703d15b2be9a3"
+  },
+  "result_count": 10,
+  "records": [
+    {
+      "collectionId": 1848021886,
+      "trackId": 1848021886,
+      "collectionName": "科幻深读《三体》｜趣读｜另类解读",
+      "artistName": "科幻深读小峰",
+      "feedUrl": "https://www.ximalaya.com/album/108736084.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A7%91%E5%B9%BB%E6%B7%B1%E8%AF%BB-%E4%B8%89%E4%BD%93-%E8%B6%A3%E8%AF%BB-%E5%8F%A6%E7%B1%BB%E8%A7%A3%E8%AF%BB/id1848021886?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "科技"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1318"
+      ],
+      "trackCount": 101,
+      "releaseDate": "2026-01-13T12:17:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1665421219,
+      "trackId": 1665421219,
+      "collectionName": "【三体】微缩版丨单播免费丨能识此宝者分文不取",
+      "artistName": "杰子不精",
+      "feedUrl": "https://www.ximalaya.com/album/68480612.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E4%BD%93-%E5%BE%AE%E7%BC%A9%E7%89%88%E4%B8%A8%E5%8D%95%E6%92%AD%E5%85%8D%E8%B4%B9%E4%B8%A8%E8%83%BD%E8%AF%86%E6%AD%A4%E5%AE%9D%E8%80%85%E5%88%86%E6%96%87%E4%B8%8D%E5%8F%96/id1665421219?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 35,
+      "releaseDate": "2022-06-12T13:58:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1760987470,
+      "trackId": 1760987470,
+      "collectionName": "穿越到三体世界！激活神话复苏系统开启地球的逆袭之路",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82937833.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A9%BF%E8%B6%8A%E5%88%B0%E4%B8%89%E4%BD%93%E4%B8%96%E7%95%8C-%E6%BF%80%E6%B4%BB%E7%A5%9E%E8%AF%9D%E5%A4%8D%E8%8B%8F%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%90%AF%E5%9C%B0%E7%90%83%E7%9A%84%E9%80%86%E8%A2%AD%E4%B9%8B%E8%B7%AF/id1760987470?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 236,
+      "releaseDate": "2024-08-05T09:20:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1671079522,
+      "trackId": 1671079522,
+      "collectionName": "【梦梦邀你追剧】-丨三体丨",
+      "artistName": "汐玥梦梦",
+      "feedUrl": "https://www.ximalaya.com/album/74027586.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%A2%A6%E6%A2%A6%E9%82%80%E4%BD%A0%E8%BF%BD%E5%89%A7-%E4%B8%A8%E4%B8%89%E4%BD%93%E4%B8%A8/id1671079522?uo=4",
+      "genres": [
+        "地球科学",
+        "播客",
+        "科学",
+        "小说",
+        "科幻小说"
+      ],
+      "genreIds": [
+        "1540",
+        "26",
+        "1533",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2023-02-15T08:15:00Z",
+      "country": "CHN",
+      "primaryGenreName": "地球科学"
+    },
+    {
+      "collectionId": 1746008936,
+      "trackId": 1746008936,
+      "collectionName": "造梦还是现实？《三体》科技解密引发热议|科学揭秘",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/80377073.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%80%A0%E6%A2%A6%E8%BF%98%E6%98%AF%E7%8E%B0%E5%AE%9E-%E4%B8%89%E4%BD%93-%E7%A7%91%E6%8A%80%E8%A7%A3%E5%AF%86%E5%BC%95%E5%8F%91%E7%83%AD%E8%AE%AE-%E7%A7%91%E5%AD%A6%E6%8F%AD%E7%A7%98/id1746008936?uo=4",
+      "genres": [
+        "科技",
+        "播客",
+        "科学",
+        "自然科学"
+      ],
+      "genreIds": [
+        "1318",
+        "26",
+        "1533",
+        "1534"
+      ],
+      "trackCount": 261,
+      "releaseDate": "2024-02-07T15:19:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1671329509,
+      "trackId": 1671329509,
+      "collectionName": "读三体聊投资/陪您穿越投资的黑暗森林",
+      "artistName": "投资天使加百列",
+      "feedUrl": "https://www.ximalaya.com/album/74141001.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%AF%BB%E4%B8%89%E4%BD%93%E8%81%8A%E6%8A%95%E8%B5%84-%E9%99%AA%E6%82%A8%E7%A9%BF%E8%B6%8A%E6%8A%95%E8%B5%84%E7%9A%84%E9%BB%91%E6%9A%97%E6%A3%AE%E6%9E%97/id1671329509?uo=4",
+      "genres": [
+        "投资",
+        "播客",
+        "商务",
+        "小说",
+        "科幻小说"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2023-03-06T10:04:00Z",
+      "country": "CHN",
+      "primaryGenreName": "投资"
+    },
+    {
+      "collectionId": 1759527795,
+      "trackId": 1759527795,
+      "collectionName": "云球|媲美三体的中国式科幻代表作人工智能战脑洞大开",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82777320.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BA%91%E7%90%83-%E5%AA%B2%E7%BE%8E%E4%B8%89%E4%BD%93%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%A7%91%E5%B9%BB%E4%BB%A3%E8%A1%A8%E4%BD%9C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%88%98%E8%84%91%E6%B4%9E%E5%A4%A7%E5%BC%80/id1759527795?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "社会与文化",
+        "哲学"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 498,
+      "releaseDate": "2024-07-29T03:25:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1544889676,
+      "trackId": 1544889676,
+      "collectionName": "时光叛徒丨8090集体记忆",
+      "artistName": "三段阳光",
+      "feedUrl": "http://www.ximalaya.com/album/31773463.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%97%B6%E5%85%89%E5%8F%9B%E5%BE%92%E4%B8%A88090%E9%9B%86%E4%BD%93%E8%AE%B0%E5%BF%86/id1544889676?uo=4",
+      "genres": [
+        "游戏",
+        "播客",
+        "休闲",
+        "喜剧",
+        "即兴表演"
+      ],
+      "genreIds": [
+        "1507",
+        "26",
+        "1502",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 76,
+      "releaseDate": "2021-09-29T10:24:00Z",
+      "country": "CHN",
+      "primaryGenreName": "游戏"
+    },
+    {
+      "collectionId": 1449199947,
+      "trackId": 1449199947,
+      "collectionName": "Llamada a Pista",
+      "artistName": "Maribel Matey, Santi Godoy y Willy Cornet",
+      "feedUrl": "https://llamadaapista.com/feed/podcast/",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/llamada-a-pista/id1449199947?uo=4",
+      "genres": [
+        "体育",
+        "播客",
+        "健康与健身",
+        "健身"
+      ],
+      "genreIds": [
+        "1545",
+        "26",
+        "1512",
+        "1514"
+      ],
+      "trackCount": 199,
+      "releaseDate": "2024-05-31T04:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "体育"
+    },
+    {
+      "collectionId": 1488439861,
+      "trackId": 1488439861,
+      "collectionName": "TSP怪奇档案",
+      "artistName": "TSP怪奇档案",
+      "feedUrl": "http://www.ximalaya.com/album/19206387.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/tsp%E6%80%AA%E5%A5%87%E6%A1%A3%E6%A1%88/id1488439861?uo=4",
+      "genres": [
+        "犯罪纪实",
+        "播客",
+        "历史"
+      ],
+      "genreIds": [
+        "1488",
+        "26",
+        "1487"
+      ],
+      "trackCount": 346,
+      "releaseDate": "2026-10-22T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "犯罪纪实"
+    }
+  ]
+}

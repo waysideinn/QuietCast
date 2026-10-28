@@ -1,0 +1,140 @@
+{
+  "show_id": "1611335858",
+  "feed_url": "http://www.ximalaya.com/album/52676277.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/52676277.xml",
+    "final_url": "http://www.ximalaya.com/album/52676277.xml",
+    "fetched_at": "2026-10-25T14:43:53.368243+00:00",
+    "status": 200,
+    "sha256": "a2c1585718fee231703145a1d0c09f822b7025ed46179553ed7e21711c5ef8fa"
+  },
+  "status": "ok",
+  "title": {
+    "text": "阴阳帛书丨盗墓悬疑&强者回归丨免费有声小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "一瓶打翻的陈年老窖， 半份带着骷髅的帛书， 一封来自地下的信件， 一段不为人知的话语， 我不怕鬼，最怕人心， 人心若诡，比鬼还毒！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 337,
+  "episodes": [
+    {
+      "id": "3aa6469d43fbb3402e7a50f6783d6d8a46bf55836700b21aab952c7bc2c430c4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4fc4-audiofreehighqps/F0/AB/GKwRIJIGPEU4AD958QFDwK6M.m4a",
+      "title": {
+        "text": "阴阳帛书丨01 楔子（重录）（欢迎订阅、评论）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 01 Sep 2021 16:47:12 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "0315536ffeb667922b1a394e3c8c9007ac1d5ff4ad34827bd77c533876eaf8a4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5545-audiofreehighqps/04/EB/CKwRINsFPz8DABAAAADs71Rb.mp3",
+      "title": {
+        "text": "阴阳帛书丨51 潜逃（5）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Oct 2021 01:00:00 GMT",
+      "feed_index": 48
+    },
+    {
+      "id": "8a109675141f40e17cae52cc16bfe5b812ebf9cceba074f53c991afa5dded462",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8563-audiofreehighqps/4D/B0/GKwRIJIFe_XiABAAAAD9PLYM.mp3",
+      "title": {
+        "text": "阴阳帛书丨99 窑窟万祥白玉盏（3）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 30 Nov 2021 14:19:22 GMT",
+      "feed_index": 96
+    },
+    {
+      "id": "3b53745af9a6ca31fc6856612bcdc9459d0cc3b0306601f60a325a1289b72ed6",
+      "guid": "xmly_track_496974680",
+      "title": {
+        "text": "阴阳帛书丨147 双人一面（3）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 Jan 2022 14:47:43 GMT",
+      "feed_index": 144
+    },
+    {
+      "id": "7c838c4c5e674b0bc2b884259f7f2e97557e0c6e80a4ebad258e9b6f0e299fe6",
+      "guid": "xmly_track_509163305",
+      "title": {
+        "text": "阴阳帛书丨195 黔海之行(2)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Mar 2022 01:00:00 GMT",
+      "feed_index": 192
+    },
+    {
+      "id": "e58b1dab3329fd43b553d203cf9afb31ae5ed668ca05033fcc35e2e3cd6e0fd3",
+      "guid": "xmly_track_527069081",
+      "title": {
+        "text": "阴阳帛书丨243 洛河鹤宁谷 加入探险队（4）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 30 Apr 2022 03:37:19 GMT",
+      "feed_index": 240
+    },
+    {
+      "id": "62eb3f8f8eaf9050a63e1ec8be3296ea81c3447de42905099e2caa6d0fe4467a",
+      "guid": "xmly_track_535193145",
+      "title": {
+        "text": "阴阳帛书丨291 墓门之后（6）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 24 May 2022 01:00:00 GMT",
+      "feed_index": 288
+    },
+    {
+      "id": "75550e716cbc3dea43620242e6b45ee0456522b83443c3573f85f772ba815365",
+      "guid": "xmly_track_549608769",
+      "title": {
+        "text": "番外篇之鬼谷妖云（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 08 Jul 2022 01:00:00 GMT",
+      "feed_index": 336
+    }
+  ]
+}

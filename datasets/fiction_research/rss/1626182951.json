@@ -1,0 +1,140 @@
+{
+  "show_id": "1626182951",
+  "feed_url": "https://www.ximalaya.com/album/56805977.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/56805977.xml",
+    "final_url": "https://www.ximalaya.com/album/56805977.xml",
+    "fetched_at": "2026-10-25T14:57:05.083524+00:00",
+    "status": 200,
+    "sha256": "3b5e4ac56ed9db1f52a4ac4d8c7472237a3e51dcc5a243e4a54922227e84c43f"
+  },
+  "status": "ok",
+  "title": {
+    "text": "喜马拉雅有声书主播攀登计划：作业 | 优秀作业示范",
+    "truncated": false
+  },
+  "description": {
+    "text": "每一篇都是亲自制作。用心作业，用心去走这条路，用心去感受。欲速则不达，愿你我，都能沉下心去，一路上遇到更美的风景，遇到更好的自己。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 19,
+  "episodes": [
+    {
+      "id": "d979cbec9a433a024b52c557170cef8e29149590a7d73e467ab24eb7bb254bbf",
+      "guid": "xmly_track_981070260",
+      "title": {
+        "text": "奥本海默片段-第十九周-金尚熙",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 04 Jun 2026 01:14:49 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b2fcbd54e963892c4ed3fb8c8ffc13d2cfb22687e63dd20e525f7dad7d528575",
+      "guid": "xmly_track_981063131",
+      "title": {
+        "text": "将夜旁白片段-第十八周-金尚熙",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 04 Jun 2026 00:32:32 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "364561c9cc3465262bbce928bf1c962fa1ed1364be8772dad0767e24cdaa8be0",
+      "guid": "xmly_track_518690420",
+      "title": {
+        "text": "商9-毕业联欢",
+        "truncated": false
+      },
+      "description": {
+        "text": "吐槽脱口秀，我只是提供了CV。 是云云姐出的本子，我们的甜美御姐，小说创作才女——云殊意。 男生部分虽很短 的一段音频，但是出自3位优秀的公子音持有者。 分别是——是花猫啊，无忧二中，岚琉璃。 我们还有一个精分大戏的，还没展示出来。 敬请期待！ 感谢小伙伴们的一路相伴，相互依偎，成就你我。 这段美好的回忆，留给留声机。 毕业留声机",
+        "truncated": false
+      },
+      "published_at": "Wed, 06 Apr 2022 04:49:57 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "d3db8330905c8fc4ab2db7ac4ff3ac067fe5fddd8e99133cfb182574c0ae5501",
+      "guid": "xmly_track_512944243",
+      "title": {
+        "text": "第六周：练习作业二（金尚熙）",
+        "truncated": false
+      },
+      "description": {
+        "text": "惊喜在最后后。",
+        "truncated": false
+      },
+      "published_at": "Sun, 20 Mar 2022 13:35:37 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "7b979cf77feb20f11602d8bd029c9c595596f0af5da78c9e1f5ec860f35efeb6",
+      "guid": "xmly_track_508278392",
+      "title": {
+        "text": "第四周：文本二现代都市（金尚熙）",
+        "truncated": false
+      },
+      "description": {
+        "text": "旁白旁白旁白。",
+        "truncated": false
+      },
+      "published_at": "Sun, 06 Mar 2022 16:05:00 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "98e06af876c114dc695ae9dd0b7c15bdd877826b72116c6106b78cf53395dd40",
+      "guid": "xmly_track_503514417",
+      "title": {
+        "text": "第二周：文本二—现代都市（金尚熙）",
+        "truncated": false
+      },
+      "description": {
+        "text": "（本子进行了场景扩建）原因： 1.基于林萧的性格，没有理由去陆妍的办公室，他俩相见的地点的合理化。 2.道门陆妍没有入过，不懂其中之道理。前文有所体现才更合理。 3.基于第一周，突兀的一句“嫣儿”，这个突如其来的道具角色，特别突兀，同样需要合理优化，当然也是这么做的。 场景搭建 转场音效。 故事发生在现代都市职场 ， 节奏应稍快 ，但是，基于男主的性格，以及道门之事，大概有点玄幻色彩。即便不是，但至少是讲儒释道家那些事儿，那些因因果果，各种纠缠未了。旁白主旋律应带有一些职场上 尔虞我诈、相互试探、针锋相对的气息。 本周改了毛病，不知你能不能听出来。 （雷，雨，天晴，鸡叫后，鸟叫，蝉鸣，渐入。早晨，街道乱哄哄的声音。）铺垫早晨 老板，两根儿油条一碗豆浆。来喽……老板，两个肉包子！四个素包子！单声道渐远。 （电话铃响起）。 林萧：谁啊，（打哈欠）周末不工作！以后周末不要烦我！（接电话、挂电话） 陆妍：我。 哎哎哎，别挂电话呀！（盲音） （电话铃又响了） 陆妍：林萧，我是陆妍，我是有急事儿找你！ 林萧：哦，什么事儿？你说。 陆妍：啊，电话里说不清楚，我还想听你讲讲道门的事情呢。要不--你来我办公室一趟吧。嗯，那就今天下午，我在办公室等你啊，不见不散哦！ （挂电话音效）还没等林萧回应，那边陆妍大小姐已经挂了电话。陆妍曾经阴差阳错帮过他一次，他为了不欠下因果，向陆妍允诺帮助她一件事。只是在这",
+        "truncated": true
+      },
+      "published_at": "Sat, 19 Feb 2022 10:43:53 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "320f086c165c8747bc35403dda21a5571771413035a250905db8d02dca627c5f",
+      "guid": "xmly_track_507180630",
+      "title": {
+        "text": "第一周：文本三—古代玄幻悲情调整后（金尚熙）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Mar 2022 04:12:39 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "87a3e23827c9c9f380ab5563208d90289e718ae624302f59af1e423e5548ea83",
+      "guid": "xmly_track_501248399",
+      "title": {
+        "text": "第一周：文本一—现代都市职场（金尚熙）",
+        "truncated": false
+      },
+      "description": {
+        "text": "做了简单的后期，把人物的动作场景丰富了一下。自己做的后期还是很满意的，但是对这个手机的录音效果不满意。 【练习文本一：现代都市职场】 提醒：注意陆曼曼和许巍在人前人后说话分寸感的变化。 陆曼曼被许巍安排与赵诚共同负责济城土地招标一事，但公司看中的 这块地 却最终被 另一家 房地产公司拿走，许巍对此 很 生气，把相关的负责人都叫到了他的办公室训话。（翻阅资料的声音） 许巍：赵诚，（仍文件夹）这/已经是这个月你第二次把事情办砸啦。 赵诚：对不起，许总。我们 本来 已经稳操胜券，谁知道 突然 冒出一个同济房地产，他们明明已经看好了 西边 那块地，谁知道他们会过来东边和我们 死磕 呢？ 许巍：难道前期的 估价环节 /你 没有 参与吗？都到了 竞价环节 ，居然没有 充分 考虑竞争对手的 规划 ，这难道不是 你 的 疏忽 吗？！你居然也好意思拿出来说，有意思？ 赵诚：这……",
+        "truncated": false
+      },
+      "published_at": "Sat, 12 Feb 2022 06:24:07 GMT",
+      "feed_index": 18
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "show_id": "1637112725",
+  "feed_url": "https://feeds.soundon.fm/podcasts/1827f12e-96e2-411f-83e1-d8b4401e509b.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/1827f12e-96e2-411f-83e1-d8b4401e509b.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/1827f12e-96e2-411f-83e1-d8b4401e509b.xml",
+    "fetched_at": "2026-10-25T14:56:04.064919+00:00",
+    "status": 200,
+    "sha256": "e8bd9e6bfb8c82175ccbbf4728262170ee6a5091f1ec2e5055663a0ca211b0ed"
+  },
+  "status": "ok",
+  "title": {
+    "text": "關禾小怪",
+    "truncated": false
+  },
+  "description": {
+    "text": "台灣素人訪談第一品牌！ - 每週一、四晚上9:00 Podcast準時上線🎧 每週三晚上9:00YouTube 直播❤️ 任何合作、分享都歡迎私訊討論🤑 http://linktr.ee/guanhe_littlemonster -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no",
+    "keywords": "3283e540-1c42-11f1-9e23-0d8aa640c3b2"
+  },
+  "feed_item_count": 312,
+  "episodes": [
+    {
+      "id": "7e7d52656c9b2bd9091844fcdf3823a80bc40fa962874b507052b90229dc5b22",
+      "guid": "466f0645-0d09-4ba2-b6cf-4bed7534f5da",
+      "title": {
+        "text": "人生關鍵字EP95｜台灣純情男｜投入多少真心才能獲得真愛的親睞！癡心守候終究只能當備胎嗎？feat.小凱",
+        "truncated": false
+      },
+      "description": {
+        "text": "世界上怎麼會有這麼適合當備胎的人？ 水瓶座的思路真的奇特到難以理解…… －－－－以下為 SoundOn 動態廣告－－－－ 投資理財要找合法金融機構！ 保證獲利不要信、陌生群組不要加、退休理財要穩健、契約文件要看清，守護財務安全你也做得到。 以上資訊，由財團法人金融消費評議中心提供。 -- #高雄 正義站&黃線捷運計劃，平面車位3房全新完工 實品屋預約鑑賞中。正義站通勤南科，未來捷運串連衛武營、Lalaport。正義公園，風景入門廳 。陽明國中自由學區07-7801988 洽澄清路227號 https://sofm.pse.is/9s9xbf -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Oct 2026 13:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "16352e0d9d89e3116867346fc31105fa8bd812bb9a3b8ae43e8d9493690c44dc",
+      "guid": "b71d6c8d-b5ec-45b1-aa08-a0b2a6418cd8",
+      "title": {
+        "text": "人生關鍵字EP74｜房屋仲介｜要當房仲沒有這麼簡單，拜訪管理員、手畫商圈圖還是小case！客戶用AI看風水真的一秒理智斷線！feat.珊綺",
+        "truncated": false
+      },
+      "description": {
+        "text": "拜訪管理員頻頻被打槍回家大哭一場！ 客戶簽約後反悔在交屋現場對峙超精彩！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 27 Apr 2026 13:00:00 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "18fb753d75f3067559ae419d402558b72908b50e04186a8abcfb3d1eaca0c1e0",
+      "guid": "406cf22b-ac12-4686-8933-1365e58c0298",
+      "title": {
+        "text": "查布直播精華｜EP8｜潛入女生宿舍後把內衣當作降落傘逃走，朋友的荒謬小說竟然被當成猥褻鐵證？！feat.蟲閔aka C同學",
+        "truncated": false
+      },
+      "description": {
+        "text": "你小時候有哪些荒唐的綽號？ 編一本小說為了用綽號罵人會不會太高級？ 快來收聽精彩的直播精華吧！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 27 Sep 2025 13:00:00 GMT",
+      "feed_index": 89
+    },
+    {
+      "id": "0a36b89ce65f90b6ee61effc51579c9d0cae31cc09a5aa6b8efc3b6c73ca29ad",
+      "guid": "a0e33568-8c58-4b50-9ab5-46c864a7db67",
+      "title": {
+        "text": "星期日班會｜EP8｜把p友帶回工作室是不是玩得太開；南投查布的美麗華出差之旅好興奮！#取精急轉彎",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集班會，讓受邀北上的電影特派員查布與小怪分享最新電影 取精急轉彎！ 南投鄉下孩子的大台北旅遊心得揭曉！ 小怪趁大家不注意偷帶女生回家！？ 就讓星期日班會帶大家度過愉快的周末吧！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 26 Apr 2025 16:13:51 GMT",
+      "feed_index": 133
+    },
+    {
+      "id": "3850747e5cd354ce7736fb4b46a0ac521894b689304b12312ffc8928138deaf9",
+      "guid": "970dbf7f-95f9-41f5-b146-14d7b01c3c52",
+      "title": {
+        "text": "兩個人的房間｜EP4｜我是不是不應該被生出來？！爸爸的價值觀整個與現實脫節怎麼辦？！ 關禾with久翔",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集兩個人的房間，收到來自“不孝順的人”的投稿 你跟父母間有過代溝嗎？ 一直認為長輩不了解自己的你，又是怎麼看這些長輩的呢？ 就讓我們一起聽聽這位“不孝順的人”的煩惱吧～ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Nov 2024 13:00:00 GMT",
+      "feed_index": 178
+    },
+    {
+      "id": "9689cf55d5103fc923dc43b2f026f153581fdae2f7c1f56d39bf448adc259b65",
+      "guid": "110f9c43-b94c-4ea9-bafa-0d9b51620816",
+      "title": {
+        "text": "人生關鍵字EP18｜體育｜游泳課被下面一大包的教練從後面⋯⋯；打球還是打人？查布的野孩子黑歷史曝光！",
+        "truncated": false
+      },
+      "description": {
+        "text": "今天的人生關鍵字，要來談談大家兒時的體育黑歷史 還記得曾經在游泳課時發生過什麼趣事嗎？ 還記得從前球場上那個球品級差的同學嗎？ 就讓我們來聽聽三人的體育人生吧～ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Feb 2024 13:00:00 GMT",
+      "feed_index": 222
+    },
+    {
+      "id": "de13143c0193e6f56bb91e7dbf352fd079c509b62b0598e25a31bf4dfcba74b7",
+      "guid": "2018d811-cafc-4b21-a523-1ebb3499ee18",
+      "title": {
+        "text": "Ep2 十二星座前女友｜金牛｜金牛的誠實與白目其實都是為了愛",
+        "truncated": false
+      },
+      "description": {
+        "text": "十二星座前女友，今天點名的是老實、溫暖的金牛座 你曾感覺身邊的金牛座講話很白目？ 抑或受不了他們緩慢的步調？ 來聽聽關老師對金牛座的精彩見解吧！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Apr 2023 16:00:00 GMT",
+      "feed_index": 267
+    },
+    {
+      "id": "49c5fa76b09a6fa10058007d7fe51808f314ffff3be620d0afc9b7cfbc41da24",
+      "guid": "6759684d-e14e-47bb-a8fb-3f49199e6cb8",
+      "title": {
+        "text": "Ep0 道歉要露出胸部？！這麼簡單就好了！這些糗事讓我只想消失",
+        "truncated": false
+      },
+      "description": {
+        "text": "這裡是關禾小怪試播集 節目每週五更新在Apple Podcast、Spotify、KKbox 開啟平台小鈴鐺，第一時間收到新節目的通知 也記得追蹤我們的IG:guanhe_littlemonster -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 29 Jul 2022 15:37:39 GMT",
+      "feed_index": 311
+    }
+  ]
+}

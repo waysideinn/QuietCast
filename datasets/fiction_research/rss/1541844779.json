@@ -1,0 +1,140 @@
+{
+  "show_id": "1541844779",
+  "feed_url": "https://feeds.soundon.fm/podcasts/457d2a98-92d9-493a-a143-10e092e6540f.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/457d2a98-92d9-493a-a143-10e092e6540f.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/457d2a98-92d9-493a-a143-10e092e6540f.xml",
+    "fetched_at": "2026-10-25T14:51:21.283062+00:00",
+    "status": 200,
+    "sha256": "2ff748a5202904df9d30d6149023659f428bb4802f325be73b790618412bb718"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【作者親講】墨者為王｜原創武俠小說｜經典武俠",
+    "truncated": false
+  },
+  "description": {
+    "text": "這是發生在影響中國往後5000年，思想碰撞最激烈、最輝煌的時代 這是發生在遍地都是王的時代，春秋戰國。 一探中國最傳奇的流派，墨家，如何平衡江湖與政治。 看少年俠士在亂世中成長與掙扎。 面對武林正邪難辨，戰爭的殘酷、人心的詭詐，是要堅守墨家信念，還是以血洗滌江湖恩怨？ 金歌原創經典武俠小說有聲書，帶你走進一段熱血與掙扎交織的江湖傳奇。 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Serial",
+    "explicit": "no"
+  },
+  "feed_item_count": 266,
+  "episodes": [
+    {
+      "id": "73db5e8de09ba02c627e93891a1332f067eeeb825b56877f4049a44fa65aecde",
+      "guid": "db01876b-77f7-4541-8248-8361bc4c1f43",
+      "title": {
+        "text": "墨者為王｜非攻血路｜留言回覆",
+        "truncated": false
+      },
+      "description": {
+        "text": "🎙️ 收聽金歌原創小說《墨者為王》有聲書 本集內容：墨家機關 × 武林爭霸，帶你深入經典武俠世界，探索江湖恩怨與熱血成長。 📚 搜尋「金歌 Linktree」進入全平台入口！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 31 Aug 2024 00:12:09 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "3771bc81a1caf4bc61df068186d6185642b8c67a4c6a13318fb79d443c30b267",
+      "guid": "0ef46ccf-8352-41e9-96e4-56a0ad91ecd6",
+      "title": {
+        "text": "墨者為王｜非攻血路｜第227章｜童飛",
+        "truncated": false
+      },
+      "description": {
+        "text": "🎙️ 收聽金歌原創小說《墨者為王》有聲書 本集內容：墨家機關 × 武林爭霸，帶你深入經典武俠世界，探索江湖恩怨與熱血成長。 📚 搜尋「金歌 Linktree」進入全平台入口！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Jun 2021 12:30:14 GMT",
+      "feed_index": 38
+    },
+    {
+      "id": "a420143e1be2bde24eae339cd71cc11c89c35d51394c75ef0feff9bc0c58afcd",
+      "guid": "d2c7ef57-14da-45bf-91d3-7f63140cc6ca",
+      "title": {
+        "text": "墨者為王｜非攻血路｜第189章｜奪寶大戰",
+        "truncated": false
+      },
+      "description": {
+        "text": "🎙️ 收聽金歌原創小說《墨者為王》有聲書 本集內容：墨家機關 × 武林爭霸，帶你深入經典武俠世界，探索江湖恩怨與熱血成長。 📚 搜尋「金歌 Linktree」進入全平台入口！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 20 May 2021 12:25:44 GMT",
+      "feed_index": 76
+    },
+    {
+      "id": "f905f51aa023076dc93af7c284fb714d46de0978175de041f1a555d446c150cc",
+      "guid": "cbc6b7c0-306d-435a-8105-c3eaf1706778",
+      "title": {
+        "text": "墨者為王｜非攻血路｜第152章｜穿風破雲",
+        "truncated": false
+      },
+      "description": {
+        "text": "🎙️ 收聽金歌原創小說《墨者為王》有聲書 本集內容：墨家機關 × 武林爭霸，帶你深入經典武俠世界，探索江湖恩怨與熱血成長。 📚 搜尋「金歌 Linktree」進入全平台入口！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 13 Apr 2021 12:17:12 GMT",
+      "feed_index": 114
+    },
+    {
+      "id": "55732dc81a95489ac236a8b65fd95ddeaba85c9b54652df34f3073c85019b0d1",
+      "guid": "35f7978a-cbc5-4360-a80c-a427988819ff",
+      "title": {
+        "text": "墨者為王｜非攻血路｜第115章｜前夕",
+        "truncated": false
+      },
+      "description": {
+        "text": "🎙️ 收聽金歌原創小說《墨者為王》有聲書 本集內容：墨家機關 × 武林爭霸，帶你深入經典武俠世界，探索江湖恩怨與熱血成長。 📚 搜尋「金歌 Linktree」進入全平台入口！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 Mar 2021 12:09:05 GMT",
+      "feed_index": 151
+    },
+    {
+      "id": "e16abd2e7bc36c15ed5e3349bd993c1a25cb632a9030cb32ab8c372cfbca9992",
+      "guid": "fc42a59a-290a-4bae-ab4e-a7f13adc6bee",
+      "title": {
+        "text": "墨者為王｜非攻血路｜第77章｜赤焰獸",
+        "truncated": false
+      },
+      "description": {
+        "text": "🎙️ 收聽金歌原創小說《墨者為王》有聲書 本集內容：墨家機關 × 武林爭霸，帶你深入經典武俠世界，探索江湖恩怨與熱血成長。 📚 搜尋「金歌 Linktree」進入全平台入口！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 Jan 2021 12:29:49 GMT",
+      "feed_index": 189
+    },
+    {
+      "id": "2f6f35b377534eade380dc7c69d43aaf7d16fd28db0916f4ea00d19646cd8f3e",
+      "guid": "6922fcba-52e3-46df-afb4-bdfaeb3f55d7",
+      "title": {
+        "text": "墨者為王｜非攻血路｜第39章｜霹靂拳",
+        "truncated": false
+      },
+      "description": {
+        "text": "🎙️ 收聽金歌原創小說《墨者為王》有聲書 本集內容：墨家機關 × 武林爭霸，帶你深入經典武俠世界，探索江湖恩怨與熱血成長。 📚 搜尋「金歌 Linktree」進入全平台入口！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Dec 2020 12:36:03 GMT",
+      "feed_index": 227
+    },
+    {
+      "id": "76e5a649305bfd428b25dbaf692d1bbd78e2f11ae15cdb0eb65d151d44ead0be",
+      "guid": "922c7aad-c903-4f73-ac6c-838d76592495",
+      "title": {
+        "text": "墨者為王｜非攻血路｜第1章 ｜神秘高手",
+        "truncated": false
+      },
+      "description": {
+        "text": "🎙️ 收聽金歌原創小說《墨者為王》有聲書 本集內容：墨家機關 × 武林爭霸，帶你深入經典武俠世界，探索江湖恩怨與熱血成長。 📚 搜尋「金歌 Linktree」進入全平台入口！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 24 Nov 2020 13:25:47 GMT",
+      "feed_index": 265
+    }
+  ]
+}

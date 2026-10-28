@@ -1,0 +1,139 @@
+{
+  "show_id": "1495148036",
+  "feed_url": "https://papi.qingting.fm/podcast/channels/10202",
+  "source": {
+    "url": "https://papi.qingting.fm/podcast/channels/10202",
+    "final_url": "https://papi.qingting.fm/podcast/channels/10202",
+    "fetched_at": "2026-10-25T14:49:28.985282+00:00",
+    "status": 200,
+    "sha256": "97b091eaa0c617acef184868c8fd33cd08a64caa1dc7c2fa6cae3dcdc6a641c0"
+  },
+  "status": "ok",
+  "title": {
+    "text": "趣解西游记",
+    "truncated": false
+  },
+  "description": {
+    "text": "公 号 大蜜小糖 名著也可以嗨起来，麻辣说西游，轻松脱口秀，揭秘《西游记》里那些你不知道的秘密！悄悄告诉你：偶尔也聊聊金瓶梅。 找到我们很简单： 欢迎勾搭~",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "explicit": "false"
+  },
+  "feed_item_count": 286,
+  "episodes": [
+    {
+      "id": "ed477738c9abf09587a783886e61f474eba416f3a2bf46ef6f2cbde3c544d3e8",
+      "guid": "17080122",
+      "title": {
+        "text": "第九十九回 九九数完魔灭尽 三三行满道归根",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 18 Jan 2021 09:43:26 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "7c2a1bf9c36afcd21594a2d54d881a9c5bdb70ea138e165ba550a510fff8a864",
+      "guid": "12950370",
+      "title": {
+        "text": "第七十九回 寻洞擒妖逢老寿 当朝正主救婴儿 （上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 30 Aug 2019 02:55:22 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "0c105a5090c99f12491412928d6eabe7596cc50b5f8761a0d2db4aafd4b72480",
+      "guid": "9712988",
+      "title": {
+        "text": "第五十八回 二心搅乱大乾坤 一体难修真寂灭",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 02 Sep 2018 14:38:43 GMT",
+      "feed_index": 81
+    },
+    {
+      "id": "73b85acfd58145c1abcb2f966e913cc4022b03e0aac15cbe5a07eb4ddc6c0c62",
+      "guid": "7559375",
+      "title": {
+        "text": "第三十八回 婴儿问母知邪正 金木参玄见假真",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Aug 2017 02:19:00 GMT",
+      "feed_index": 122
+    },
+    {
+      "id": "296fadc667c036e9bcabbc24990a088007a9d9ad5c991006ffc22f3325c8445b",
+      "guid": "6257178",
+      "title": {
+        "text": "第二十一回 护法设庄留大圣 须弥灵吉定风魔",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 30 Dec 2016 01:28:14 GMT",
+      "feed_index": 163
+    },
+    {
+      "id": "39defd35a51f8b0465b3e688d03454790d8f5db03a771cb11b19e1f5ba385f3d",
+      "guid": "4900918",
+      "title": {
+        "text": "把山神土地当奴隶使唤的只有红孩儿吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "这样对比，孙悟空对土地山神真是好啊！",
+        "truncated": false
+      },
+      "published_at": "Wed, 27 Jul 2016 04:47:18 GMT",
+      "feed_index": 204
+    },
+    {
+      "id": "55bbf05ce67eab70c0b03702e7f57c716a690205d7352e5c4d41d3069ae6b9bf",
+      "guid": "4122849",
+      "title": {
+        "text": "“水帘洞”原来的主人是如来佛祖吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "孙悟空在发现水帘洞之后，里面一副有人生活的气息，火迹残渣貌似刚刚离开，这一切都是巧合吗？还是有人专门设计并留下了这个山洞给猴子呢？听节目吧。",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Mar 2016 09:42:11 GMT",
+      "feed_index": 244
+    },
+    {
+      "id": "09734a56652e6dec51c1c6dc1373aad244a4930863924b83228b4ffc2374f799",
+      "guid": "3732783",
+      "title": {
+        "text": "唐僧肉为什么要蒸着吃？",
+        "truncated": false
+      },
+      "description": {
+        "text": "我天朝饮食文化博大精深，煎炒烹炸、焖溜熬炖....可是西游记里的妖怪们都很没创意，抓住了唐僧都是要蒸着吃。是妖怪们久居深山孤陋寡闻？还是最珍贵的食材蒸着吃才不浪费？你要是抓住了唐僧，打算怎么吃呢...",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Dec 2015 05:25:19 GMT",
+      "feed_index": 285
+    }
+  ]
+}

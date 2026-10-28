@@ -1,0 +1,140 @@
+{
+  "show_id": "1626401345",
+  "feed_url": "https://www.ximalaya.com/album/62329042.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/62329042.xml",
+    "final_url": "https://www.ximalaya.com/album/62329042.xml",
+    "fetched_at": "2026-10-25T14:55:43.983013+00:00",
+    "status": 200,
+    "sha256": "5215be11c0e8bf161f240c9b1cc0b1861bcc43c5ff0feaf78f71b441fccf59b0"
+  },
+  "status": "ok",
+  "title": {
+    "text": "诡案寻踪|免费有声书|悬疑推理|探案|刑侦",
+    "truncated": false
+  },
+  "description": {
+    "text": "一个警校高材生，在毕业前夕，却因为同校一名女子自杀的案件而与校方纠缠，以至于被开除学籍。多年以后，再次被类似案件牵扯其中，并加入一个奇怪的部门：特殊案件侦办局。 正所谓：天有阴阳，地有两面，我们的社会同样如此。加入特侦局，就意味着与这个世界的阴暗面为伴。 诅咒杀人、午夜凶铃、孟婆汤…… 这一件件触目惊心的案件背后，究竟是怪力乱神，还是有幕后黑手？让我们一起跟随这位警校高材生，搅动这股阴暗世界的乱流，找出那夜空下探出的黑手！ ...",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 964,
+  "episodes": [
+    {
+      "id": "a48b3a50b092bbd1a7e2fe8f93b9fe1be7b4cb078355240d7e0ef49548c18f33",
+      "guid": "xmly_track_517854532",
+      "title": {
+        "text": "第1集 再遇凶案（求点赞，求评论，求订阅）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 03 Apr 2022 14:15:53 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1a346ea10f698b70cf15b8bcdfbe77acce6cc7e08238ddb6d8317d5b2c1284f6",
+      "guid": "xmly_track_522649206",
+      "title": {
+        "text": "第139集 调查佟宁的家",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 19 Apr 2022 06:00:06 GMT",
+      "feed_index": 138
+    },
+    {
+      "id": "2a22b130686b621cfb55ac3ea2d93385c13fd23298e8c838442aa76742502c88",
+      "guid": "xmly_track_525144201",
+      "title": {
+        "text": "第276集 一个橡胶垫片",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 17 May 2022 06:00:00 GMT",
+      "feed_index": 275
+    },
+    {
+      "id": "d915dd9872af3d92128acb0a45bbc2520c135dcb81ffc6c1a70acc13020f4ba9",
+      "guid": "xmly_track_544354958",
+      "title": {
+        "text": "第414集 格格不入",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 18 Jun 2022 10:24:33 GMT",
+      "feed_index": 413
+    },
+    {
+      "id": "bfaa29367a3c925eb42efc01d408e9887885cf1fe981b6086c17bac77bd4f05e",
+      "guid": "xmly_track_557514944",
+      "title": {
+        "text": "第551集 装13",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 03 Aug 2022 03:00:02 GMT",
+      "feed_index": 550
+    },
+    {
+      "id": "4eadca5cfb463f017d43a36112b56ea8b6b8f709f874b09a88d8cc3104f356b2",
+      "guid": "xmly_track_570192125",
+      "title": {
+        "text": "第689集 奇怪的病菌",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 18 Sep 2022 06:55:45 GMT",
+      "feed_index": 688
+    },
+    {
+      "id": "27e409d5500d6f651b7f595ebc64b8f2dc05429525d6a17c11f09d148fac058c",
+      "guid": "xmly_track_581227268",
+      "title": {
+        "text": "第826集 黑狼还挺上道",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Nov 2022 00:00:00 GMT",
+      "feed_index": 825
+    },
+    {
+      "id": "71e9d3118fd57e4dffdbe97a03288b3098781ddd7902c047c345f44acf2879e9",
+      "guid": "xmly_track_597149049",
+      "title": {
+        "text": "第964集 去哪儿？民政局（大结局）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 18 Dec 2022 00:00:06 GMT",
+      "feed_index": 963
+    }
+  ]
+}

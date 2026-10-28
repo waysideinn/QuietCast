@@ -1,0 +1,140 @@
+{
+  "show_id": "1615366896",
+  "feed_url": "http://www.ximalaya.com/album/59504607.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/59504607.xml",
+    "final_url": "http://www.ximalaya.com/album/59504607.xml",
+    "fetched_at": "2026-10-25T14:43:59.653532+00:00",
+    "status": 200,
+    "sha256": "5d841fb98a502b68b9ac99f251c2a87c8e5a94fbbe75b4d8a6209cf2f56a6457"
+  },
+  "status": "ok",
+  "title": {
+    "text": "风雨散飘然何处 | 民国言情大剧",
+    "truncated": false
+  },
+  "description": {
+    "text": "回首向来萧瑟处，也无风雨也无晴！梆子声响，琴弦渐起，一个个粉墨登场的伶人在这方舞台上演出了多少王侯将相，才子佳人。我是无意间在戏曲资料库里翻到了一个老演员的人生介绍，合上书，我的心情久久不能平静，“孙雪梅”的名字深深地印在我的心中。她当年最出名的一折戏是《红鬃烈马》，而戏里戏外，她也把自己活成了一个王宝钏。跌宕起伏的生命历程，曲折感人的生死爱恋，从军阀混战，日寇侵夺，国内混战，再到进入新中国的风雨历程，我难以相信她的一生竟如此的曲折与传奇。岁月绽放的的光华和人生磨砺的醇香，她凭借着天纵之才和顽强的毅力演绎出了一幕幕无与伦比的人生大戏。 这个故事发生在九十多年前，是一段风雨飘摇的民国往事。让我们一起来掸落历史长卷的灰尘，重温那个动荡的岁月。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 90,
+  "episodes": [
+    {
+      "id": "e573e2d6e2ce51e75a3e73ad4ab6178630a6b4af8592cf13a09e951d28728cc9",
+      "guid": "xmly_track_512064595",
+      "title": {
+        "text": "第1章 沦落异乡（求订阅，求好评，求点赞！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 18 Mar 2022 13:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "a98f66abd4d86e5764fbbfc9cad2e844e07399c675c1abab8c1691fde24fdc82",
+      "guid": "xmly_track_512068495",
+      "title": {
+        "text": "第12章 夺命惊魂",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 18 Mar 2022 13:03:02 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "b408bf19ed54b4bbdf464e1932104fdf6a79926bf257c338348e1c03794e8feb",
+      "guid": "xmly_track_513169706",
+      "title": {
+        "text": "第24章 恋情遭阻",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Mar 2022 13:00:02 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "84742dc2e883e80978081bcf02f5a43865f39b71dad673b62db8d082f58deb2f",
+      "guid": "xmly_track_515518446",
+      "title": {
+        "text": "第35章 痛怀往事",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 28 Mar 2022 13:00:00 GMT",
+      "feed_index": 38
+    },
+    {
+      "id": "19efb396c77bc4496756c826cc341dcae92defcb490f418fe3cd4b6369a024de",
+      "guid": "xmly_track_517310021",
+      "title": {
+        "text": "第48章 厄运降临",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 03 Apr 2022 13:00:02 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "56a57c5883b4662d4bd3543359017256c8466edc1f096b06d4bd6aadba26c61f",
+      "guid": "xmly_track_519999428",
+      "title": {
+        "text": "第59章 古庙恩仇 | 超精彩的枪战环节",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Apr 2022 13:00:00 GMT",
+      "feed_index": 64
+    },
+    {
+      "id": "a5b576bd7b39b0ac6b59a528f7ed63bc6c72f9146986868d8ec6507ba0f55182",
+      "guid": "xmly_track_521427524",
+      "title": {
+        "text": "第70章 狱中陈情",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Apr 2022 13:00:00 GMT",
+      "feed_index": 76
+    },
+    {
+      "id": "a8edf6a534c9f75173e9754e83ae8775d048d06be5c079a6935c2c25bd4dc7f4",
+      "guid": "xmly_track_521430001",
+      "title": {
+        "text": "大结局 等候 | 感谢听众朋友们的收听",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Apr 2022 13:00:02 GMT",
+      "feed_index": 89
+    }
+  ]
+}

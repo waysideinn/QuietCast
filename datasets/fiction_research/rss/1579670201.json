@@ -1,0 +1,140 @@
+{
+  "show_id": "1579670201",
+  "feed_url": "https://feeds.soundon.fm/podcasts/cb7985ee-3c61-4834-8adf-8b826ca435c3.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/cb7985ee-3c61-4834-8adf-8b826ca435c3.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/cb7985ee-3c61-4834-8adf-8b826ca435c3.xml",
+    "fetched_at": "2026-10-25T14:53:44.572301+00:00",
+    "status": 200,
+    "sha256": "065e4bb1029ffcb7fffdd69d8bb6d53c688d667d6258fd64498971fa30eaca89"
+  },
+  "status": "ok",
+  "title": {
+    "text": "說說故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "一個分享創作心得、方法、說書、以及分享閱讀心得的節目 歡迎收藏、評論、分享。 原名：【這裡有坑】 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 63,
+  "episodes": [
+    {
+      "id": "919cd2f9183865d231d47be37e25159d8eaf76895851b0d5e1feaa63198b500e",
+      "guid": "91eeada0-7dfe-424b-a1a5-96a28c3f4605",
+      "title": {
+        "text": "Ep63_【AI】炮灰反派們",
+        "truncated": false
+      },
+      "description": {
+        "text": "1.穿成萬人嫌替身O後 by 謝滄浪 （4/5） 清冷淡漠高嶺之花X聰明冷靜釣系小漂亮 真白月光 (A) X 替身白月光 (O) 2.穿成虐文O攻略了隱藏Alpha by 蘇季欽 （4.3/5） 潤物細無聲隱忍Ax硬弓上霸王暴躁O 反覆重生隱藏大佬 X 穿越冷靜果決受 3.論救錯反派的下場 by 鳳羽涅（4.2/5） 絕世美貌偏執瘋子攻X純潔學霸小天使治癒受",
+        "truncated": false
+      },
+      "published_at": "Mon, 27 Nov 2023 03:11:44 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8928c87869ba4b178cddf633ad48960eb0115c279b7f6e5412eb169026a67192",
+      "guid": "816b2722-620a-4325-b8ac-43ab25b0b196",
+      "title": {
+        "text": "Ep54_【AI】所以爽文流的夫夫就愛扮豬吃老虎",
+        "truncated": false
+      },
+      "description": {
+        "text": "替嫁给退婚流男主 (8.2/10) 作者：苏怀荒",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 Nov 2023 11:49:26 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "ad03097c95f2932939dcbc9f1860fcf2ba41613d2b9da8dcf5ca12a51edc1397",
+      "guid": "3fc5fa63-f654-4248-ae73-e7f5c2392a84",
+      "title": {
+        "text": "EP45_【遺珠】傻白/《良人入夢》 你拿你的江山，我要我的良人",
+        "truncated": false
+      },
+      "description": {
+        "text": "線上看文 https://www.popo.tw/books/773175 篡位到一半穿越變成演技超差的古裝劇演員怎麼辦？！著急著急！！！ 某個朝代被養在宮裡意圖篡位的私生皇子孫良人，在被御前侍衛拿刀架住脖子的下一刻，一回過神就發現自己在某個場景裡，身著龍袍。 難道真當上皇帝了？！還是死了！？ 突然有人「卡」的一聲，孫良人立即回過頭，只見奇裝異服的男人對他頤指氣使，「不對啊，良人，台詞呢？演技真的有夠差！」 啊？！演技！？篡位到底成功了沒！？穿越就算了還變成演技拙劣的戲子怎麼辦啊？！ 沒想一步踏錯步步錯，不但意外走成了影帝，還接片接不完？！影帝？！那不也是皇帝嗎？！ 哼，正好他孫良人最不缺野心，演戲還能無壓力當皇帝，哈哈哈哈看他征服這個地方！拿下所有金色獎盃！ 不過原來這個蹩腳演員是怎麼回事？怎麼演技不好還巴了個擅長威脅別人的無良金主啊？快走開走開！別干擾人家稱霸大好江山啊！ 不要一直送禮物給我！ 不要一直送資源給我！ 我要靠自己啊！！！！ 什麼？不抱大腿就要撤援助？ 威脅算人嗎你(இωஇ ) 這大腿我抱還不行嗎？ 什麼？戀愛？跟你！？ 不管江山還是美人都得專情你知道嗎？ 等等？！我還沒答應不要摸我！！！ 嗯……咳，好像……有點舒服？啊❤ －－－－－－－－－－－－－－－－ 花花金主曹熲霧 × 野心皇子孫良人",
+        "truncated": false
+      },
+      "published_at": "Sat, 04 Mar 2023 08:13:53 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "f820b5918b27386218f78eeca66574416a6d6a6750c62f7992e5e6a9af040063",
+      "guid": "707cfe44-6ad2-451d-a7b1-8414d393584c",
+      "title": {
+        "text": "Ep36_【Al】《走到你身邊》石橋阿難",
+        "truncated": false
+      },
+      "description": {
+        "text": "找到一個挺棒的文字轉語音工具 感覺比上一個有感情 文本：《走到你身邊》https://www.popo.tw/books/684279 擷取內文中石橋阿難段落 app:《文字转语音》 https://apps.apple.com/tw/app/%E6%96%87%E5%AD%97%E8%BD%89%E8%AA%9E%E9%9F%B3-%E9%85%8D%E9%9F%B3%E7%A5%9E%E5%99%A8/id6443495637",
+        "truncated": false
+      },
+      "published_at": "Fri, 14 Oct 2022 03:02:22 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "0220e318860466c4ca105b35387cda1438d6366d8de9d0835f7309eefc907818",
+      "guid": "1d939720-5150-443f-a009-7615a160578f",
+      "title": {
+        "text": "EP28_【其他】閒聊《如懿傳》跟寫作的靈感",
+        "truncated": false
+      },
+      "description": {
+        "text": "今天就是閒聊 前半聊觀後感 後半聊寫文的靈感、素材取得",
+        "truncated": false
+      },
+      "published_at": "Sun, 24 Apr 2022 08:44:45 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "6d2436147716e685e8b656b4b4badfaa39a645b7da3f5e5199921f2571bd7e72",
+      "guid": "d80e88d4-2d7a-4424-9d05-f6a678496cb8",
+      "title": {
+        "text": "EP19_【寫作】一個關於修文的重點II",
+        "truncated": false
+      },
+      "description": {
+        "text": "終於修完稿了，修稿重點也結束拉~(灑花) 這次的重點 1.不需要的描述 2.副詞、形容詞位置 3.比喻的名詞 4.對話的定語位置 5.主語的定位 6.一邊一邊 7.主動被動 #結果還是錄到爆炸、剪到快吐 #喜歡舊的片尾方式還是新的？ 修文的第一集：EP14",
+        "truncated": false
+      },
+      "published_at": "Thu, 04 Nov 2021 22:00:00 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "478030cee850c15578e3877d051171d1597504b7974c87a6d24840a8b98b5ce7",
+      "guid": "a552a9fa-29fa-46ac-863c-2dfabe79e722",
+      "title": {
+        "text": "EP10_【說書】一個講古的說書更新 《暗戀》",
+        "truncated": false
+      },
+      "description": {
+        "text": "《暗戀》 https://www.popo.tw/books/599946 花了這麼多年的時間，我把男女主變不見了XD [文案] 姚樂遇見了前生， 覺得， 整個人都不大好了 ​◢▆▅▄▃崩╰(〒皿〒)╯潰▃▄▅▇◣",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Sep 2021 14:08:04 GMT",
+      "feed_index": 53
+    },
+    {
+      "id": "eccc2c1e822e1ca5b86ae8b97d8d62c0204b438258f9d3ad7fd4fbb8236296ce",
+      "guid": "48af30ec-6d6e-4bb1-826a-e69300cfe2c1",
+      "title": {
+        "text": "EP01_【其他】網站連載的選題",
+        "truncated": false
+      },
+      "description": {
+        "text": "選題是件頭大的事 #8/21置換剪輯後音訊",
+        "truncated": false
+      },
+      "published_at": "Tue, 03 Aug 2021 23:31:15 GMT",
+      "feed_index": 62
+    }
+  ]
+}

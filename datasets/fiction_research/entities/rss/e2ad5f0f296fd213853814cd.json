@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/84405485.xml",
+    "final_url": "https://www.ximalaya.com/album/84405485.xml",
+    "fetched_at": "2026-10-26T07:56:59.867529+00:00",
+    "status": 200,
+    "sha256": "e2695af54d58148a35ad9c025120e8f927552a9eb99278d0fc5f54d74f14cb97"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "简爱|世界名著|多播|多人有声书",
+      "truncated": false
+    },
+    "description": {
+      "text": "《简·爱》中简·爱的人生追求有两个基本旋律：富有激情、幻想、反抗和坚持不懈的精神；对人间自由幸福的渴望和对更高精神境界的追求。这本小说的主题是通过孤女坎坷不平的人生经历，成功地塑造了一个不安于现状、不甘受辱、敢于抗争的女性形象，反映一个平凡心灵的坦诚倾诉的呼号和责难，一个小写的人成为一个大写的人的渴望。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "冷静之声@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "冷静之声"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "冷静之声"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Drama"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/84405485",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 206,
+    "episodes": [
+      {
+        "title": {
+          "text": "第一章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_773284971"
+      },
+      {
+        "title": {
+          "text": "第三十章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 29,
+        "guid": "xmly_track_773285205"
+      },
+      {
+        "title": {
+          "text": "第六十章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 59,
+        "guid": "xmly_track_773285411"
+      },
+      {
+        "title": {
+          "text": "第八十九章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 88,
+        "guid": "xmly_track_773285674"
+      },
+      {
+        "title": {
+          "text": "第一百一十八章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 117,
+        "guid": "xmly_track_773285960"
+      },
+      {
+        "title": {
+          "text": "第一百四十七章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 146,
+        "guid": "xmly_track_773286545"
+      },
+      {
+        "title": {
+          "text": "第一百七十七章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 176,
+        "guid": "xmly_track_773286809"
+      },
+      {
+        "title": {
+          "text": "第二百零六章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 205,
+        "guid": "xmly_track_773286996"
+      }
+    ]
+  }
+}

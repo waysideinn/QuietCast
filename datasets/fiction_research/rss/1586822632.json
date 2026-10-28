@@ -1,0 +1,140 @@
+{
+  "show_id": "1586822632",
+  "feed_url": "https://anchor.fm/s/6640dfb0/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/6640dfb0/podcast/rss",
+    "final_url": "https://anchor.fm/s/6640dfb0/podcast/rss",
+    "fetched_at": "2026-10-25T14:54:13.280700+00:00",
+    "status": 200,
+    "sha256": "f6d17b9303d91b2fbe3328ae20f7668e60b8e506f4c32981915291d9794263a9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "小説家・小狐裕介の作家ラジオ",
+    "truncated": false
+  },
+  "description": {
+    "text": "質問やメッセージなどはこちらにお願いします：https://peing.net/ja/kogitsuneradio プロの小説家としてショートショートやショートストーリーを書いています！ こちらのポッドキャストでは小説家はいつもどんなことをしているのか、小説家が日々考えていることなどを発信していこうと思います。 ブログにて毎日ショートストーリーを一作公開中です。 http://foxconcon.com/ Twitter https://twitter.com/foxtalk_tweet ■作品集 3分で\"心が温まる\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/gp/product/4777824179/ 3分で楽しい! \"動物\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/dp/4777826783 YouTubeチャンネル https://www.youtube.com/channel/UC86ZZ2gKNICqbOQ7flwUT0Q 小説家・小狐裕介の小説朗読チャンネル https://www.youtube.com/channel/UCSHWK08S49p6hldUFDMNP9g",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 200,
+  "episodes": [
+    {
+      "id": "18fea839bdb4b01cda7c27556beb73861d9eafae9212618a6efe8a754a85803a",
+      "guid": "7c6f8a80-dc69-4b3e-a4d7-546f83a38bb7",
+      "title": {
+        "text": "純文学とプロットの関係性について",
+        "truncated": false
+      },
+      "description": {
+        "text": "質問やメッセージなどはこちらにお願いします： https://peing.net/ja/kogitsuneradio プロの小説家としてショートショートやショートストーリーを書いています！ こちらのポッドキャストでは小説家はいつもどんなことをしているのか、小説家が日々考えていることなどを発信していこうと思います。 ブログにて毎日ショートストーリーを一作公開中です。 http://foxconcon.com/ Twitter https://twitter.com/foxtalk_tweet ■作品集 3分で\"心が温まる\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/gp/product/4777824179/ 3分で楽しい! \"動物\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/dp/4777826783 YouTubeチャンネル https://www.youtube.com/channel/UC86ZZ2gKNICqbOQ7flwUT0Q 小説家・小狐裕介の小説朗読チャンネル https://www.youtube.com/channel/UCSHWK08S49p6hldUFDMNP9g",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Feb 2022 21:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "9d405d2ecab6aaaca8566485aee41293564a0de037fae6f1940f44cd048f929c",
+      "guid": "a8ba6bb0-d67c-481e-b732-2bcbef2eb6f7",
+      "title": {
+        "text": "海外の小説で唯一面白かった小説の話",
+        "truncated": false
+      },
+      "description": {
+        "text": "質問やメッセージなどはこちらにお願いします： https://peing.net/ja/kogitsuneradio プロの小説家としてショートショートやショートストーリーを書いています！ こちらのポッドキャストでは小説家はいつもどんなことをしているのか、小説家が日々考えていることなどを発信していこうと思います。 ブログにて毎日ショートストーリーを一作公開中です。 http://foxconcon.com/ Twitter https://twitter.com/foxtalk_tweet ■作品集 3分で\"心が温まる\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/gp/product/4777824179/ 3分で楽しい! \"動物\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/dp/4777826783 YouTubeチャンネル https://www.youtube.com/channel/UC86ZZ2gKNICqbOQ7flwUT0Q 小説家・小狐裕介の小説朗読チャンネル https://www.youtube.com/channel/UCSHWK08S49p6hldUFDMNP9g",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Jan 2022 21:00:00 GMT",
+      "feed_index": 28
+    },
+    {
+      "id": "c53f3ca489a5ff174aa802390734ce72b971ae9fb1828f083b382dd35e80c3c1",
+      "guid": "fcceaae2-90bf-4e1d-9f27-735bc047ed60",
+      "title": {
+        "text": "【質問回答】あらすじを上手く書くには？ 読者を惹き込むあらすじの書き方",
+        "truncated": false
+      },
+      "description": {
+        "text": "質問やメッセージなどはこちらにお願いします： https://peing.net/ja/kogitsuneradio プロの小説家としてショートショートやショートストーリーを書いています！ こちらのポッドキャストでは小説家はいつもどんなことをしているのか、小説家が日々考えていることなどを発信していこうと思います。 ブログにて毎日ショートストーリーを一作公開中です。 http://foxconcon.com/ Twitter https://twitter.com/foxtalk_tweet ■作品集 3分で\"心が温まる\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/gp/product/4777824179/ 3分で楽しい! \"動物\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/dp/4777826783 YouTubeチャンネル https://www.youtube.com/channel/UC86ZZ2gKNICqbOQ7flwUT0Q 小説家・小狐裕介の小説朗読チャンネル https://www.youtube.com/channel/UCSHWK08S49p6hldUFDMNP9g",
+        "truncated": false
+      },
+      "published_at": "Tue, 21 Dec 2021 21:01:36 GMT",
+      "feed_index": 57
+    },
+    {
+      "id": "0097310fd2dec846a80cf1eac1c9574cc25f0769c863232674a70661b0e6e61d",
+      "guid": "0c0bff66-b87f-4d98-83b0-6511b43da3e1",
+      "title": {
+        "text": "みんな文庫本一冊ってどれくらいのスピードで読み終わるの！？",
+        "truncated": false
+      },
+      "description": {
+        "text": "質問やメッセージなどはこちらにお願いします： https://peing.net/ja/kogitsuneradio プロの小説家としてショートショートやショートストーリーを書いています！ こちらのポッドキャストでは小説家はいつもどんなことをしているのか、小説家が日々考えていることなどを発信していこうと思います。 ブログにて毎日ショートストーリーを一作公開中です。 http://foxconcon.com/ Twitter https://twitter.com/foxtalk_tweet ■作品集 3分で\"心が温まる\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/gp/product/4777824179/ 3分で楽しい! \"動物\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/dp/4777826783 YouTubeチャンネル https://www.youtube.com/channel/UC86ZZ2gKNICqbOQ7flwUT0Q 小説家・小狐裕介の小説朗読チャンネル https://www.youtube.com/channel/UCSHWK08S49p6hldUFDMNP9g",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 Nov 2021 21:00:00 GMT",
+      "feed_index": 85
+    },
+    {
+      "id": "7d9c4e8e4abd0052fc960481634f8e827457edc59ebfe9534863456c191a93fc",
+      "guid": "a8f6274e-5323-47e5-939f-deec091cb0af",
+      "title": {
+        "text": "自分の作品を読み返すススメ",
+        "truncated": false
+      },
+      "description": {
+        "text": "質問やメッセージなどはこちらにお願いします： https://peing.net/ja/kogitsuneradio プロの小説家としてショートショートやショートストーリーを書いています！ こちらのポッドキャストでは小説家はいつもどんなことをしているのか、小説家が日々考えていることなどを発信していこうと思います。 ブログにて毎日ショートストーリーを一作公開中です。 http://foxconcon.com/ Twitter https://twitter.com/foxtalk_tweet ■作品集 3分で\"心が温まる\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/gp/product/4777824179/ 3分で楽しい! \"動物\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/dp/4777826783 YouTubeチャンネル https://www.youtube.com/channel/UC86ZZ2gKNICqbOQ7flwUT0Q 小説家・小狐裕介の小説朗読チャンネル https://www.youtube.com/channel/UCSHWK08S49p6hldUFDMNP9g",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Oct 2021 21:00:00 GMT",
+      "feed_index": 114
+    },
+    {
+      "id": "38348c4ec6949fb552b6aa99ea9be4751a187c3b2952e82631eda034e43984f1",
+      "guid": "2890a18a-ae8f-4b64-99a4-fac75fdefc63",
+      "title": {
+        "text": "小説を書きたいわけじゃない",
+        "truncated": false
+      },
+      "description": {
+        "text": "質問やメッセージなどはこちらにお願いします： https://peing.net/ja/kogitsuneradio プロの小説家としてショートショートやショートストーリーを書いています！ こちらのポッドキャストでは小説家はいつもどんなことをしているのか、小説家が日々考えていることなどを発信していこうと思います。 ブログにて毎日ショートストーリーを一作公開中です。 http://foxconcon.com/ Twitter https://twitter.com/foxtalk_tweet ■作品集 3分で\"心が温まる\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/gp/product/4777824179/ 3分で楽しい! \"動物\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/dp/4777826783 YouTubeチャンネル https://www.youtube.com/channel/UC86ZZ2gKNICqbOQ7flwUT0Q 小説家・小狐裕介の小説朗読チャンネル https://www.youtube.com/channel/UCSHWK08S49p6hldUFDMNP9g",
+        "truncated": false
+      },
+      "published_at": "Mon, 27 Sep 2021 21:00:00 GMT",
+      "feed_index": 142
+    },
+    {
+      "id": "527e5e4bc688f70eda21237c744f59130caa9e9b6c514b25c3ca0d6083915595",
+      "guid": "79edfdb8-35a7-4daa-a86e-4e75c637bddb",
+      "title": {
+        "text": "繰り返し読む必要がある小説の是非について（映画「テネット TENET」の感想）",
+        "truncated": false
+      },
+      "description": {
+        "text": "質問やメッセージなどはこちらにお願いします： https://peing.net/ja/kogitsuneradio プロの小説家としてショートショートやショートストーリーを書いています！ こちらのポッドキャストでは小説家はいつもどんなことをしているのか、小説家が日々考えていることなどを発信していこうと思います。 ブログにて毎日ショートストーリーを一作公開中です。 http://foxconcon.com/ Twitter https://twitter.com/foxtalk_tweet ■作品集 3分で\"心が温まる\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/gp/product/4777824179/ 3分で楽しい! \"動物\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/dp/4777826783 YouTubeチャンネル https://www.youtube.com/channel/UC86ZZ2gKNICqbOQ7flwUT0Q 小説家・小狐裕介の小説朗読チャンネル https://www.youtube.com/channel/UCSHWK08S49p6hldUFDMNP9g",
+        "truncated": false
+      },
+      "published_at": "Sun, 29 Aug 2021 21:00:00 GMT",
+      "feed_index": 171
+    },
+    {
+      "id": "84a78b5581d06feb1b5856598407aa64bf34f84ec45200909b6056633291af10",
+      "guid": "eec3e387-74ea-40e9-beeb-97d525aa7db0",
+      "title": {
+        "text": "ラジオ配信はじめました。自己紹介など",
+        "truncated": false
+      },
+      "description": {
+        "text": "質問やメッセージなどはこちらにお願いします： https://peing.net/ja/kogitsuneradio プロの小説家としてショートショートやショートストーリーを書いています！ こちらのポッドキャストでは小説家はいつもどんなことをしているのか、小説家が日々考えていることなどを発信していこうと思います。 ブログにて毎日ショートストーリーを一作公開中です。 http://foxconcon.com/ Twitter https://twitter.com/foxtalk_tweet ■作品集 3分で\"心が温まる\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/gp/product/4777824179/ 3分で楽しい! \"動物\"ショートストーリー（辰巳出版） https://www.amazon.co.jp/dp/4777826783 YouTubeチャンネル https://www.youtube.com/channel/UC86ZZ2gKNICqbOQ7flwUT0Q 小説家・小狐裕介の小説朗読チャンネル https://www.youtube.com/channel/UCSHWK08S49p6hldUFDMNP9g",
+        "truncated": false
+      },
+      "published_at": "Mon, 02 Aug 2021 00:48:35 GMT",
+      "feed_index": 199
+    }
+  ]
+}

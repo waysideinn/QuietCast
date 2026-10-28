@@ -1,0 +1,56 @@
+{
+  "show_id": "1540415842",
+  "feed_url": "https://anchor.fm/s/402370f4/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/402370f4/podcast/rss",
+    "final_url": "https://anchor.fm/s/402370f4/podcast/rss",
+    "fetched_at": "2026-10-25T14:55:21.454829+00:00",
+    "status": 200,
+    "sha256": "65af89c13e6b8ce12f72d792d0b26271b47dfe37a823351f2d07ab582c843b30"
+  },
+  "status": "ok",
+  "title": {
+    "text": "ilogo99成交心理學-每天偷學一點點",
+    "truncated": false
+  },
+  "description": {
+    "text": "偷學的本事，你總是記得最清楚。 每天偷學一點點!每天精進一點點! 對於這世界~未來~你需要偷學更多更多的本事! ~歡迎出版業&各界口播合作~ 聯絡方式LINE ID:idesign520 微信 ID:idesign99",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 2,
+  "episodes": [
+    {
+      "id": "d8a5365f3edbe55952ddd702dc010b2fc657f9079b21a334dd84283dfe3606bf",
+      "guid": "63c3ef4e-605b-4d37-9235-61369d19d2e7",
+      "title": {
+        "text": "ilogo99推薦-有錢人與你的差距，不只是錢",
+        "truncated": false
+      },
+      "description": {
+        "text": "有錢人與你的差距，不只是錢 還有哪些需要具備的思想?行動?格局? 利用ilogo99成交心理學-每天偷學一點點! 【開業需要品牌設計請記得ilogo99】 官網:ilogo99.com 文源:https://www.books.com.tw/products/0010869808",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 Nov 2020 10:22:54 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b22e57f15dabe44b0abe774bc03b535e309daf5797866f341c7e2c753b67c235",
+      "guid": "1a388e72-e17c-462c-b924-b409c7cbaa60",
+      "title": {
+        "text": "ilogo99-快使用6大說服科學並在競爭之前贏得更多客戶，否則您可能會失去生意！",
+        "truncated": false
+      },
+      "description": {
+        "text": "利用6大說服科學 說服猶豫不決的客戶! 是哪六大 快進來聽聽! ilogo99成交心理學-每天偷學一點點! 【開業需要品牌設計請記得ilogo99】 官網:ilogo99.com",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 Nov 2020 10:16:34 GMT",
+      "feed_index": 1
+    }
+  ]
+}

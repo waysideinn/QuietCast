@@ -1,0 +1,140 @@
+{
+  "show_id": "1622050411",
+  "feed_url": "http://www.ximalaya.com/album/49801070.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/49801070.xml",
+    "final_url": "http://www.ximalaya.com/album/49801070.xml",
+    "fetched_at": "2026-10-25T14:56:51.635033+00:00",
+    "status": 200,
+    "sha256": "b606ed88a57a0917fb3028a05511f2a5e39ebdedf299c1feebb89ca72cf92d08"
+  },
+  "status": "ok",
+  "title": {
+    "text": "三国演义-原文演播/三石读名著",
+    "truncated": false
+  },
+  "description": {
+    "text": "《三国演义》的主人公、男一号是谁？很多人认为是诸葛亮，由此可以把小说分为三部分，即：诸葛亮出山前、出山后以及去世后。 《三国演义》里描写的重要的三场战争：官渡之战、赤壁之战、夷陵之战。 官渡之战在诸葛亮出山前，标志着董卓之乱以来的军阀混战基本结束。 赤壁之战在诸葛亮出山后，为三足鼎立奠定基础。 夷陵之战亦在诸葛亮出山后，由是揭开诸葛亮鞠躬尽瘁死而后已故事的序幕。 五丈原诸葛归天，后面便是三分归一统的过程了。 《三国演义》的故事梗概，大抵如上。 我在演播时，既进人物又不全进，一些对白加入笑声、语气助词等试图使演播更生动有趣，同时，又借鉴评书手段，在个别地方用了我自以为的所谓评书技巧演绎。至于最终效果如何，大家见仁见智。 有一点是肯定的，我想尽全力把这部书录好，但同时，缺陷不足乃至败笔处亦不可避免，还望大家海涵，有意见或建议欢迎提出指正。 当然，如果您喜欢，也欢迎转发和分享，让更多的朋友听到我的节目，当不胜感激！ 最后我想说的是，听书效果究竟有限，仍然建议朋友们在听书的同时去翻阅原著，必有更深体会。 如果您听了我的节目，然后有了翻阅原著的冲动，那将是我的另一种幸运，另一种骄傲！ 我是三石有声，感谢您的支持！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 121,
+  "episodes": [
+    {
+      "id": "c4c24fe801805652128f225536e9d37a8eb82e2828319db053f68427c8726787",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c600-audiofreehighqps/2A/BA/CKwRIaIFPq5IALRjkwDsxZAu-aacv2-48K.m4a",
+      "title": {
+        "text": "第1回 宴桃园豪杰三结义 斩黄巾英雄首立功",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Oct 2021 02:44:57 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ece2a6d12afe8ee2fda8623447b4a58311972ae36262fbd4bf082611381e1601",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4658-audiofreehighqps/66/D0/CKwRIDoFXzWoAJEvyQD1RMFM-aacv2-48K.m4a",
+      "title": {
+        "text": "第18回 贾文和料敌决胜 夏侯惇拔矢啖睛",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 Nov 2021 18:55:17 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "2d15519110c504843736fffa1ac6f8fdb119f51b2118e198f86f35fe97181d47",
+      "guid": "xmly_track_480862334",
+      "title": {
+        "text": "第35回 玄德南漳逢隐沦 单福新野遇英主",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Dec 2021 15:56:43 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "0c0a5e942a460668a51f6cec41456ed02ebd9526c02de896ce8e793be0085210",
+      "guid": "xmly_track_489351287",
+      "title": {
+        "text": "第52回 诸葛亮智辞鲁肃 赵子龙计取桂阳",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 04 Jan 2022 16:29:26 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "f6547c2f9312396b2cd32399acbb8950784d16705cc25c0aaa5936ff0467214b",
+      "guid": "xmly_track_497319967",
+      "title": {
+        "text": "第70回 猛张飞智取瓦口隘 老黄忠计夺天荡山",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 28 Jan 2022 17:23:53 GMT",
+      "feed_index": 69
+    },
+    {
+      "id": "76452d2f8ec88dbfa26a8f9b4a5ae64ae30175df2aeb9a6104d72df88f1e55c6",
+      "guid": "xmly_track_502068161",
+      "title": {
+        "text": "第87回 征南寇丞相大兴师 抗天兵蛮王初受执",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 14 Feb 2022 16:15:28 GMT",
+      "feed_index": 86
+    },
+    {
+      "id": "231dcef4e58ee1c2a2ff3fa490c8df0e451b9e23a985f909e9c11853633c2dc1",
+      "guid": "xmly_track_507406287",
+      "title": {
+        "text": "第104回 陨大星汉丞相归天 见木像魏都督丧胆",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Mar 2022 16:31:51 GMT",
+      "feed_index": 103
+    },
+    {
+      "id": "d8edc26ddf7925247274fd5ba340c1c4342287ec0fd99eb9eed0507450612bce",
+      "guid": "xmly_track_512992890",
+      "title": {
+        "text": "后记",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 20 Mar 2022 16:13:13 GMT",
+      "feed_index": 120
+    }
+  ]
+}

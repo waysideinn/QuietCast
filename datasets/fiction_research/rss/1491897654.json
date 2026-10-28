@@ -1,0 +1,69 @@
+{
+  "show_id": "1491897654",
+  "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:750482917/sounds.rss",
+  "source": {
+    "url": "https://feeds.soundcloud.com/users/soundcloud:users:750482917/sounds.rss",
+    "final_url": "https://feeds.soundcloud.com/users/soundcloud:users:750482917/sounds.rss",
+    "fetched_at": "2026-10-25T14:49:28.632317+00:00",
+    "status": 200,
+    "sha256": "7d9f18827b0279ca63438f9aec6869c13b3f49793595c97bf45251a797f9aea4"
+  },
+  "status": "ok",
+  "title": {
+    "text": "历史的故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "Podcast by mick",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "explicit": "no"
+  },
+  "feed_item_count": 3,
+  "episodes": [
+    {
+      "id": "17c48a2275fa682fe57c8955ce3b298230b8abc1ac5b36f99751f70b43e9cd43",
+      "guid": "tag:soundcloud,2010:tracks/734086429",
+      "title": {
+        "text": "03.科尔特斯征服阿兹特克 - 钢铁与病毒的征服",
+        "truncated": false
+      },
+      "description": {
+        "text": "自从哥伦布发现美洲大陆、并在那里建立了数个殖民据点之后，在西班牙王室的授权下，殖民者以殖民据点为根据地，四处派出远征队，发现、征服并且殖民新领地。1519年2月，西班牙殖民者在埃尔南·科尔特斯的率领下从墨西哥湾登陆，向阿兹特克前进，在此之前，科尔特斯没有任何军事经验。阿兹特克人却将他们请进了首都特诺奇蒂特兰。但西班牙人却软禁了皇帝蒙特祖马二世，向阿兹特克人勒索黄金。科尔特斯随后被愤怒的阿兹特克人击败，被迫逃亡到与阿兹特克敌对的国家特拉斯卡拉寻求庇护。一年之后，在特拉斯卡拉、森波阿拉等与阿兹特克敌对国家的帮助下，科尔特斯再次攻打阿兹特克，在1521年8月13日以沉重地代价攻陷了特诺奇提特兰，将其夷为平地，改建为墨西哥城。",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Dec 2019 07:48:19 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "70bc4cd1b3898872d16bcb3fa687fa04a5327a63322aca560416d7898283c31d",
+      "guid": "tag:soundcloud,2010:tracks/731794021",
+      "title": {
+        "text": "02.格拉纳达战役",
+        "truncated": false
+      },
+      "description": {
+        "text": "02.格拉纳达战役 by mick",
+        "truncated": false
+      },
+      "published_at": "Sat, 21 Dec 2019 07:43:14 +0000",
+      "feed_index": 1
+    },
+    {
+      "id": "30f130300b4c7c523d409b9285fe97adb45265b79a10aa2282ffdc01e4ae278b",
+      "guid": "tag:soundcloud,2010:tracks/729083770",
+      "title": {
+        "text": "01.英西大海战 - 无敌舰队的覆灭",
+        "truncated": false
+      },
+      "description": {
+        "text": "01.英西大海战 - 无敌舰队的覆灭 by mick",
+        "truncated": false
+      },
+      "published_at": "Tue, 17 Dec 2019 08:42:24 +0000",
+      "feed_index": 2
+    }
+  ]
+}

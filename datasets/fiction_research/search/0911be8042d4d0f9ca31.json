@@ -1,0 +1,327 @@
+{
+  "group": "normal",
+  "term": "历史播客",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%8E%86%E5%8F%B2%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%8E%86%E5%8F%B2%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:42:53.068126+00:00",
+    "status": 200,
+    "sha256": "f86bb218442d5a75f3af0617ab4a9aa8d5062fe618166e4c22829c06803997fe"
+  },
+  "result_count": 15,
+  "records": [
+    {
+      "collectionId": 1654442694,
+      "trackId": 1654442694,
+      "collectionName": "陽明歷史播客",
+      "artistName": "張瓊文",
+      "feedUrl": "https://feed.firstory.me/rss/user/cla52qs8i02ir01u9gpwf3hpc",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%99%BD%E6%98%8E%E6%AD%B7%E5%8F%B2%E6%92%AD%E5%AE%A2/id1654442694?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1304"
+      ],
+      "trackCount": 36,
+      "releaseDate": "2025-06-17T03:43:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 6806468996,
+      "trackId": 6806468996,
+      "collectionName": "中华史⑤：西晋短暂统一篇｜盛世昙现（43‑47）",
+      "artistName": "史海秘闻录o历史播客",
+      "feedUrl": "https://www.ximalaya.com/album/129185691.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%8D%8E%E5%8F%B2-%E8%A5%BF%E6%99%8B%E7%9F%AD%E6%9A%82%E7%BB%9F%E4%B8%80%E7%AF%87-%E7%9B%9B%E4%B8%96%E6%98%99%E7%8E%B0-43-47/id6806468996?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-28T11:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 6805323438,
+      "trackId": 6805323438,
+      "collectionName": "中华史①：大秦王朝正传｜帝国开篇（ 1‑10 期）",
+      "artistName": "史海秘闻录o历史播客",
+      "feedUrl": "https://www.ximalaya.com/album/128981888.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%8D%8E%E5%8F%B2-%E5%A4%A7%E7%A7%A6%E7%8E%8B%E6%9C%9D%E6%AD%A3%E4%BC%A0-%E5%B8%9D%E5%9B%BD%E5%BC%80%E7%AF%87-1-10-%E6%9C%9F/id6805323438?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2026-08-24T09:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 6805332446,
+      "trackId": 6805332446,
+      "collectionName": "中华史②：秦末楚汉争霸篇｜楚汉逐鹿（ 11‑23）",
+      "artistName": "史海秘闻录o历史播客",
+      "feedUrl": "https://www.ximalaya.com/album/129025933.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%8D%8E%E5%8F%B2-%E7%A7%A6%E6%9C%AB%E6%A5%9A%E6%B1%89%E4%BA%89%E9%9C%B8%E7%AF%87-%E6%A5%9A%E6%B1%89%E9%80%90%E9%B9%BF-11-23/id6805332446?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 13,
+      "releaseDate": "2026-08-25T04:42:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 6806157264,
+      "trackId": 6806157264,
+      "collectionName": "中华史④：三国乱世争霸篇｜群雄争霸（34‑42）",
+      "artistName": "史海秘闻录o历史播客",
+      "feedUrl": "https://www.ximalaya.com/album/129127912.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%8D%8E%E5%8F%B2-%E4%B8%89%E5%9B%BD%E4%B9%B1%E4%B8%96%E4%BA%89%E9%9C%B8%E7%AF%87-%E7%BE%A4%E9%9B%84%E4%BA%89%E9%9C%B8-34-42/id6806157264?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2026-08-27T11:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 6805332791,
+      "trackId": 6805332791,
+      "collectionName": "中华史③：新朝至东汉王朝｜大汉中兴（24‑33）",
+      "artistName": "史海秘闻录o历史播客",
+      "feedUrl": "https://www.ximalaya.com/album/129037452.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%8D%8E%E5%8F%B2-%E6%96%B0%E6%9C%9D%E8%87%B3%E4%B8%9C%E6%B1%89%E7%8E%8B%E6%9C%9D-%E5%A4%A7%E6%B1%89%E4%B8%AD%E5%85%B4-24-33/id6805332791?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2026-08-25T10:17:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 6808490195,
+      "trackId": 6808490195,
+      "collectionName": "全新三国·第一卷：汉末崩塌·乱世序幕（1-26集）",
+      "artistName": "史海秘闻录o历史播客",
+      "feedUrl": "https://www.ximalaya.com/album/129421715.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%A8%E6%96%B0%E4%B8%89%E5%9B%BD-%E7%AC%AC%E4%B8%80%E5%8D%B7-%E6%B1%89%E6%9C%AB%E5%B4%A9%E5%A1%8C-%E4%B9%B1%E4%B8%96%E5%BA%8F%E5%B9%95-1-26%E9%9B%86/id6808490195?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 26,
+      "releaseDate": "2026-09-14T13:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 6806468896,
+      "trackId": 6806468896,
+      "collectionName": "中华史⑥：东晋十六国篇｜乱世纷争（48‑53）",
+      "artistName": "史海秘闻录o历史播客",
+      "feedUrl": "https://www.ximalaya.com/album/129185757.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%8D%8E%E5%8F%B2-%E4%B8%9C%E6%99%8B%E5%8D%81%E5%85%AD%E5%9B%BD%E7%AF%87-%E4%B9%B1%E4%B8%96%E7%BA%B7%E4%BA%89-48-53/id6806468896?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 6,
+      "releaseDate": "2026-08-29T02:32:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1592073605,
+      "trackId": 1592073605,
+      "collectionName": "历史剥壳｜张志浩播客",
+      "artistName": "张志浩老师",
+      "feedUrl": "http://www.ximalaya.com/album/24355721.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8E%86%E5%8F%B2%E5%89%A5%E5%A3%B3-%E5%BC%A0%E5%BF%97%E6%B5%A9%E6%92%AD%E5%AE%A2/id1592073605?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "社會與文化",
+        "哲學"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 679,
+      "releaseDate": "2026-10-05T04:37:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1577491659,
+      "trackId": 1577491659,
+      "collectionName": "史播客",
+      "artistName": "教育部歷史學科中心｜國立嘉義女中",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/e9ce0c40-9b4a-41e2-a19e-db9e5aeca3f7.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8F%B2%E6%92%AD%E5%AE%A2/id1577491659?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1487"
+      ],
+      "trackCount": 113,
+      "releaseDate": "2025-01-09T12:41:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1728627068,
+      "trackId": 1728627068,
+      "collectionName": "罕见历史资料库大全集【旧金山文华传媒】音频播客",
+      "artistName": "加州旧金山文华国际传媒有限公司",
+      "feedUrl": "https://anchor.fm/s/f174a7d8/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BD%95%E8%A7%81%E5%8E%86%E5%8F%B2%E8%B5%84%E6%96%99%E5%BA%93%E5%A4%A7%E5%85%A8%E9%9B%86-%E6%97%A7%E9%87%91%E5%B1%B1%E6%96%87%E5%8D%8E%E4%BC%A0%E5%AA%92-%E9%9F%B3%E9%A2%91%E6%92%AD%E5%AE%A2/id1728627068?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 231,
+      "releaseDate": "2026-10-23T05:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1772528545,
+      "trackId": 1772528545,
+      "collectionName": "世界名人演讲",
+      "artistName": "曲艺大剧院",
+      "feedUrl": "https://www.ximalaya.com/album/79465852.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%96%E7%95%8C%E5%90%8D%E4%BA%BA%E6%BC%94%E8%AE%B2/id1772528545?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321"
+      ],
+      "trackCount": 838,
+      "releaseDate": "2023-12-05T08:51:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1772528751,
+      "trackId": 1772528751,
+      "collectionName": "辉 煌 历 史",
+      "artistName": "曲艺大剧院",
+      "feedUrl": "https://www.ximalaya.com/album/77991281.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%BE%89-%E7%85%8C-%E5%8E%86-%E5%8F%B2/id1772528751?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 319,
+      "releaseDate": "2024-04-27T11:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1772528791,
+      "trackId": 1772528791,
+      "collectionName": "世界古今奇闻",
+      "artistName": "曲艺大剧院",
+      "feedUrl": "https://www.ximalaya.com/album/77991662.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%96%E7%95%8C%E5%8F%A4%E4%BB%8A%E5%A5%87%E9%97%BB/id1772528791?uo=4",
+      "genres": [
+        "科幻小說",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 355,
+      "releaseDate": "2025-07-14T07:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科幻小說"
+    },
+    {
+      "collectionId": 1772528553,
+      "trackId": 1772528553,
+      "collectionName": "伟大领袖毛泽东 | 东方巨人伟岸的思想",
+      "artistName": "曲艺大剧院",
+      "feedUrl": "https://www.ximalaya.com/album/79365474.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BC%9F%E5%A4%A7%E9%A2%86%E8%A2%96%E6%AF%9B%E6%B3%BD%E4%B8%9C-%E4%B8%9C%E6%96%B9%E5%B7%A8%E4%BA%BA%E4%BC%9F%E5%B2%B8%E7%9A%84%E6%80%9D%E6%83%B3/id1772528553?uo=4",
+      "genres": [
+        "政府",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1511",
+        "26"
+      ],
+      "trackCount": 694,
+      "releaseDate": "2024-04-17T04:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "政府"
+    }
+  ]
+}

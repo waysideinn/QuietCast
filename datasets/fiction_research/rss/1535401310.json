@@ -1,0 +1,141 @@
+{
+  "show_id": "1535401310",
+  "feed_url": "https://feeds.soundon.fm/podcasts/8ccb6270-6fbd-4e0c-a41e-92e3f94e0180.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/8ccb6270-6fbd-4e0c-a41e-92e3f94e0180.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/8ccb6270-6fbd-4e0c-a41e-92e3f94e0180.xml",
+    "fetched_at": "2026-10-25T14:55:02.171580+00:00",
+    "status": 200,
+    "sha256": "879c9b2058c0f0f26012ce279c1610df315ee80f5e700106d62006a7578688fb"
+  },
+  "status": "ok",
+  "title": {
+    "text": "呵呵茶",
+    "truncated": false
+  },
+  "description": {
+    "text": "旅居歐美 #二子平 X 矽谷工程師 #一棒(@yvonne_1bon ) 用最真誠、輕鬆的方式暢聊人生大小事 開啟最真實的海外生活與職場觀察 👉 #海外生活烏拉拉 體驗不同看板人物的故事 👉 #人生遊戲RPG 分享最真實＆中肯的人生觀點 👉 #別鬧了小姐先生 - 可以從這裡找到我 呵呵茶ggt @ Facebook | Apple Podcast | Spotify | Instagram| Soundon | Google Podcast 商業合作情洽詢：[email removed] -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no",
+    "keywords": "https://api.soundon.fm/v2/podcasts/8ccb6270-6fbd-4e0c-a41e-92e3f94e0180/feed.xml"
+  },
+  "feed_item_count": 140,
+  "episodes": [
+    {
+      "id": "b30ae5bb1df942c1bf19087b86f278a8c80596a5815e2a97115b9262e4e9f373",
+      "guid": "8a25fd6d-41c3-4708-8f2c-f98d26b917fe",
+      "title": {
+        "text": "EP.38 挑戰威士忌執照！蘇格蘭威士忌怎麼可以這麼讚～",
+        "truncated": false
+      },
+      "description": {
+        "text": "上半年最後一張執照，輪到了私心最愛的威士忌！ 從製程、歷史、還有品評詳細的學了一輪，功力大補包我就集結在這集了！ #podcast #呵呵茶 Host/ Ian Ｘ 一棒 Apple Podcast / https://tinyurl.com/yxruwh9l Spotify / https://open.spotify.com/show/5OHs90aLm9lBeh17LXnsVx?si=3Pvmj6XOS_6ln32jFyLwQw Soundon / https://sndn.link/ggt Instagram: https://www.instagram.com/ggt.podcaster/ 抖內 / https://pay.soundon.fm/podcasts/8ccb6270-6fbd-4e0c-a41e-92e3f94e0180 Apple Podcast / Spotify/ KKBOX 請搜尋：呵呵茶 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Sep 2026 23:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f2da743c64f3ff2f1781aefc5dd40eecedb9aa0e4862e0b5074cfd87ccda0be8",
+      "guid": "32dbff23-d07f-455c-ba79-636a852dd009",
+      "title": {
+        "text": "EP.18 在外租房與室友間的各種鬼故事～",
+        "truncated": false
+      },
+      "description": {
+        "text": "在外跟室友住久了總是會遇到許多驚奇的事情， 從過往在台灣、美國、荷蘭等等各個地方的經驗也教會我一個超級好用的方法來避免與室友之間有嫌隙， 不過還是要先祈禱不要抽到千古下下籤先啦！ #呵呵茶 旅居歐美 #二子平 X 矽谷工程師 #一棒 用最真誠、輕鬆的方式暢聊人生大小事 開啟最真實的海外生活與職場觀察 👉 #海外生活烏拉拉 體驗不同看板人物的故事 👉 #人生遊戲RPG 分享最真實＆中肯的人生觀點 👉 #別鬧了小姐先生 - 歐美台生活｜人物訪談｜觀點分享 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 11 Mar 2026 22:30:00 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "6dff66c8f4157bf72028a47a4cdf0129a2aa13d53379e54b579a53800f68d060",
+      "guid": "4574bdb4-2ac5-45da-814e-cb2fd7b898af",
+      "title": {
+        "text": "Ep. 99 兩岸官窯主人，茶器收藏天花板 - 曉芳窯 蔡曉芳大師",
+        "truncated": false
+      },
+      "description": {
+        "text": "曾經受台北故宮之邀仿製古瓷國寶，因而聲名大噪的蔡曉芳大師，被譽為兩岸官窯主人、台灣茶器收藏的天花板，不論是初接觸茶界或是打滾茶界許久的老茶人，肯定都會聽過曉芳窯，這個如雷貫耳的名字，在87年的 生涯之中，劃出了藝術界燦爛的一頁，而關於蔡大師的崛起與過往，讓我們一起透過這集來了解吧！ #呵呵茶 ** #podcast** Composer／ 林呱 Graphic Designer / IG＠uglykiki Host/ 周中平 FB / 呵呵茶ggt https://www.facebook.com/ggt.podcaster/ IG / 呵呵茶ggt https://www.instagram.com/ggt.podcaster/ Vocus / 呵呵茶ggt https://vocus.cc/user/61315772fd89780001d1f56d 抖內 / https://pay.soundon.fm/podcasts/8ccb6270-6fbd-4e0c-a41e-92e3f94e0180 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 18 Apr 2024 22:30:00 GMT",
+      "feed_index": 40
+    },
+    {
+      "id": "8e3e37918b66efa92870aa5d308e102b53977184abc1b90dbd35befe11102b88",
+      "guid": "9839a68f-7768-4c35-83fc-399b1c17baac",
+      "title": {
+        "text": "EP.79 公道杯 | 從物理轉機械再成為IBM 軟體工程師，現在又在芝加哥斜槓釀紅酒?! ft. 林志謙",
+        "truncated": false
+      },
+      "description": {
+        "text": "從中山物理學士到BU機械碩士，現在又在IBM擔任軟體工程師，如今又斜槓在釀紅酒。 對於我們來說踏入一個新領域常常需要左思右想有關於機會成本、期望值等等的考量，最後可能都又拖了兩三年還是沒做任何決定，而志謙竟是因為“不得已”而必須選擇跳入新的產業圈，是因為什麼樣的不得已？又是什麼樣的動機讓他做了如此不同的斜槓？期間的轉換真的讓他有更好的選擇嗎？這樣轉換之間的心法是如何養成的呢？ 02:44 怎麼專業跳這麼多？是因為什麼原因？跟紅酒的連結又是什麼？ 05:11 怎麼樣的機會讓完全沒接觸過紅酒的你可以在酒廠釀酒？你在裡面做了什麼？ 09:47 原來芝加哥有在釀酒，是什麼樣的概念？它的特色是什麼？ 21:26 因為“不得已”所以才不斷涉獵新的領域？還是因為興趣使然？ 30:00 選擇人生的焦慮感沒有在你人生之中發生過嗎？ 34:01 這這麼多選擇與變化中，難道都沒有後悔過嗎？ 38:10 所以要如何得到志謙的芝加哥紅酒？ Composer／ 林呱 Graphic Designer / IG＠uglykiki Host/ 周中平 FB / 呵呵茶ggt https://www.facebook.com/ggt.podcaster/ IG / 呵呵茶ggt https://www.instagram.com/ggt.podcaster/ Vocus / 呵呵茶ggt https://vocus",
+        "truncated": true
+      },
+      "published_at": "Wed, 28 Jun 2023 22:30:00 GMT",
+      "feed_index": 60
+    },
+    {
+      "id": "32c189ce5391aa06bd099e253b879d646b288963d003ba84938f459cf67e65c3",
+      "guid": "0f8857d6-1f11-4c33-944b-486640846081",
+      "title": {
+        "text": "Ep.60 SPECIAL 深入聊聊呵呵茶之品牌想法ft. 就愛茶茶",
+        "truncated": false
+      },
+      "description": {
+        "text": "第60集，透過與就愛茶茶的Amy 合作聊聊當初設立呵呵茶的初衷、還有轉型之中的考量、價值想法的的取捨討論，當中不乏互虧、自嘲與期許，透過第60集SPECIAL 的討論方式，跟大家聊聊我們的想法。 就愛茶茶： https://instagram.com/just_love_tea_tea9ichacha?igshid=YmMyMTA2M2Y= Composer／ 林呱 Graphic Designer / IG＠uglykiki Host/ 周中平 FB / 呵呵茶ggt https://www.facebook.com/ggt.podcaster/ IG / 呵呵茶ggt https://www.instagram.com/ggt.podcaster/ Vocus / 呵呵茶ggt https://vocus.cc/user/61315772fd89780001d1f56d 抖內 / https://pay.soundon.fm/podcasts/8ccb6270-6fbd-4e0c-a41e-92e3f94e0180 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 08 Dec 2022 07:30:00 GMT",
+      "feed_index": 79
+    },
+    {
+      "id": "ba2017f7da587dd9e4a45195ffce1f99d49ebefdf1765155c91a62d914e42e02",
+      "guid": "cba0b84b-4d88-4b9f-a383-046b2a48b6dc",
+      "title": {
+        "text": "Ep.40 >靈性成長不是怪力亂神，反而是每個人都應該正視的技能 ft. Kiki Wu",
+        "truncated": false
+      },
+      "description": {
+        "text": "你各位，如我這樣的靈性初心者其實對於那些大家口中的致幻藥充滿了太多的誤解，很少用正確的觀點去看他們。然而像是這些啟靈藥的事物其實有可以更正確看待的方式。在喝茶之餘，也一起來認識那些冷門卻又常常被我們無腦歸類為“壞東西”的事情吧！ Kiki Wu IG/ https://instagram.com/uglykiki?utm_medium=copy_link (其實這 40集以來我都放著J格link) Composer／ 林呱 Graphic Designer / IG＠uglykiki Host/ 周中平 FB / 呵呵茶ggt https://www.facebook.com/ggt.podcaster/ IG / 呵呵茶ggt https://www.instagram.com/ggt.podcaster/ Vocus / 呵呵茶ggt https://vocus.cc/user/61315772fd89780001d1f56d 抖內 / https://pay.soundon.fm/podcasts/8ccb6270-6fbd-4e0c-a41e-92e3f94e0180 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 21 Oct 2021 22:00:00 GMT",
+      "feed_index": 99
+    },
+    {
+      "id": "c50432e75d20268b089d4ab6921eb52156c3d99eaaebc54c216dec052f36b467",
+      "guid": "af4b1710-3481-487a-b1d5-97ece48dc371",
+      "title": {
+        "text": "Ep. 21 該如何來試茶？你們最好都喝得出來啦！",
+        "truncated": false
+      },
+      "description": {
+        "text": "我鼓起勇氣買了茶，別人也送我一堆茶，但有沒有什麼標準的方法來試茶，感覺泡茶很不穩定誒，我要用什麼壺？要用什麼杯？水溫要多少？茶又要放多少？484有要很專業的試茶器具？ Composer／ 林宜臻 Graphic Designer / IG＠uglykiki Host/ 周中平 FB / 呵呵茶ggt https://www.facebook.com/ggt.podcaster/ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 04 Mar 2021 22:00:00 GMT",
+      "feed_index": 119
+    },
+    {
+      "id": "07642dac93b714544d4bf55b226f062b6d98fea7d4ffdf8f7a2a3c0ede808c3c",
+      "guid": "fae45d03-5d56-4e3b-896c-0471a84c8b9e",
+      "title": {
+        "text": "Ep. 1 所以我說那個六大茶系到底是什麼 ？",
+        "truncated": false
+      },
+      "description": {
+        "text": "六大茶系好像聽過，但到底是哪六大勒？只要是綠色的都是綠茶嗎？東方美人又算什麼茶？白茶又是什麼？我該怎麼去認識呢？！ 作曲／ 林宜臻 Logo / Kiki Wu ＠uglykiki 主持人/ 周中平 Ping -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Oct 2020 19:00:00 GMT",
+      "feed_index": 139
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "show_id": "1650338181",
+  "feed_url": "https://feed.xyzfm.space/fjbmerwdy9vu",
+  "source": {
+    "url": "https://feed.xyzfm.space/fjbmerwdy9vu",
+    "final_url": "https://feed.xyzfm.space/fjbmerwdy9vu",
+    "fetched_at": "2026-10-25T14:44:51.280802+00:00",
+    "status": 200,
+    "sha256": "d2dced4af7624afbad4c1f9b3fe0c7947ff1ece992749f4a4490f4aa1114ed12"
+  },
+  "status": "ok",
+  "title": {
+    "text": "末世快车",
+    "truncated": false
+  },
+  "description": {
+    "text": "这是一档由00后大学生创建的播客节目",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "explicit": "false",
+    "type": "episodic"
+  },
+  "feed_item_count": 3,
+  "episodes": [
+    {
+      "id": "73a6dbeec9ba08f47fa1f0ad8c248f30ab3731d7c820203923313dd515810ae3",
+      "guid": "63c25cf94f6f768fbd8bc054",
+      "title": {
+        "text": "年年都过年，要过年了啥感受？",
+        "truncated": false
+      },
+      "description": {
+        "text": "新年即将到来，随着我们年龄的增长，过年的意义是否还会与童年时一样？ 感谢各位收听！有任何意见或者建议都欢迎在评论区告诉我们，订阅和评论是对新人主播的最大的支持，祝大家新年快乐！ 【本期嘉宾】 昊霖 【主播】 JOE 【BGM】 Disney - Lavender Blue (Dilly Dilly) [From So Dear to My Heart] 洪尘 - 过年 在小宇宙查看该单集文稿",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 Jan 2023 07:42:47 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "23001d86f32f3f14ec013e42022c2727a411f30f384ab1dc20fd7c63f732c2b2",
+      "guid": "634a9174e67030aadb38f71e",
+      "title": {
+        "text": "两个大学生的求职之路与极简生活",
+        "truncated": false
+      },
+      "description": {
+        "text": "特别感谢本期节目的剪辑师 瓜瓜老师 的辛勤付出！ 【本期嘉宾】 家邦 【主播】 JOE 两个即将毕业的艺术专业大学生聊一聊各自的职场经历，以及进入职场后对生活认知的改变 感谢各位收听！有任何意见或者建议都欢迎在评论区告诉我们，订阅和评论是对新人主播的最大的支持~ 在小宇宙查看该单集文稿",
+        "truncated": false
+      },
+      "published_at": "Sat, 15 Oct 2022 10:54:42 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "5456e3587e52f68680d7efbc5592e00fa54ae0576d09cfce879346ae09bd5283",
+      "guid": "632f5485e67030aadb38e404",
+      "title": {
+        "text": "社恐人是这样社交的！| 两个社恐人的内心OS",
+        "truncated": false
+      },
+      "description": {
+        "text": "这是末世快车的第一期节目，两位老社恐人聊一聊自己对于社交的看法 节目可以说是非常粗制滥造，有任何建议或者意见都可以在评论区跟我们聊一聊，下次一定改！ 主播：JOE | 小P BGM：《Goodbye sadness》 不行太困了，发了就睡吧😵‍💫 在小宇宙查看该单集文稿",
+        "truncated": false
+      },
+      "published_at": "Sat, 24 Sep 2022 19:03:33 GMT",
+      "feed_index": 2
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1462848906",
+  "feed_url": "http://www.ximalaya.com/album/15215.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/15215.xml",
+    "final_url": "http://www.ximalaya.com/album/15215.xml",
+    "fetched_at": "2026-10-25T14:48:57.424048+00:00",
+    "status": 200,
+    "sha256": "30b150dce3e75e9575bd10400c98adaeeec94ef3c6f5c6eeb56b330473a14ec2"
+  },
+  "status": "ok",
+  "title": {
+    "text": "安娜妈咪FM之【小故事大道理】7岁+",
+    "truncated": false
+  },
+  "description": {
+    "text": "安娜妈咪：安娜妈咪教育电台创始人、安娜妈咪少儿口才创始人、中国好家长亲子导师、电影《蓝基因小孩》亲子顾问、微信[contact removed] 【 公众号：Anna妈咪】",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 30,
+  "episodes": [
+    {
+      "id": "24efe2d936c2857c61caffb2f3a2ae32ff7f0e9a565ec80c72b494e458a95b4f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M07/1E/4A/wKgDZlV5RDbDuqzSABCyoF7a_qw805.m4a",
+      "title": {
+        "text": "小故事大道理-做一件不经意的小善事（安娜妈咪）",
+        "truncated": false
+      },
+      "description": {
+        "text": "从为人、诚信、职责、仁爱、报恩、心灵、欢乐、爱情、亲情、友情、成长等各方面选取优秀故事播读；",
+        "truncated": false
+      },
+      "published_at": "Fri, 28 Jun 2013 10:52:56 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "05d07f7c22a05e83108b52f03efe6ead1e91b184faf60e5ab9bf0290e44f0b1a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group10/M0A/4A/C2/wKgDZ1WupIXj86UiABRwY5gmfLg050.m4a",
+      "title": {
+        "text": "小故事大道理-明星与女工（安娜妈咪）",
+        "truncated": false
+      },
+      "description": {
+        "text": "从为人、诚信、职责、仁爱、报恩、心灵、欢乐、爱情、亲情、友情、成长等各方面选取优秀故事播读；",
+        "truncated": false
+      },
+      "published_at": "Fri, 02 Aug 2013 10:33:52 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "2ceabad586e249872d92de5237a25f427aa64334e98f6a9cc1549f10f8dbfe2a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group16/M0B/3A/4F/wKgDalWbPqmgZGiHACJz1NSy51k981.m4a",
+      "title": {
+        "text": "小故事大道理-斯坦福大学的故事（安娜妈咪）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 01 Jun 2013 13:29:06 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "0face48409ccc18aad3c98e1b8d5aa5998dd0164abc8508e00cb85b2a9093b0c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group7/M08/24/BF/wKgDX1WABtnTcrlwAB2lpmCimH0322.m4a",
+      "title": {
+        "text": "小故事大道理-神奇的试验（安娜妈咪）",
+        "truncated": false
+      },
+      "description": {
+        "text": "从为人、诚信、职责、仁爱、报恩、心灵、欢乐、爱情、亲情、友情、成长等各方面选取优秀故事播读；",
+        "truncated": false
+      },
+      "published_at": "Fri, 26 Jul 2013 10:38:40 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "848b4be948b874254b4a266ecaa892c3d53a05cb3a1bf894f17e9e5a3f3163d1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group3/M03/A0/30/wKgDsVK1izHgDuhhACl0P0xaFDY219.mp3",
+      "title": {
+        "text": "小故事大道理--沉睡的美德（安娜妈咪）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Dec 2013 09:00:00 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "2181c23a8a8d5500709b517da640f7c56dc325a94deed903e7c43db5b94665f2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group3/M05/D7/78/wKgDsVLiUsmQmAx3AECrGl1TNVM930.mp3",
+      "title": {
+        "text": "小故事大道理--人类之爱（安娜妈咪）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 30 Jan 2014 09:00:00 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "8af51b73136db4f615280ff1304f06faa3d04465120f99c5c90a40bbe5f4f147",
+      "guid": "https://aod.cos.tx.xmcdn.com/group3/M05/1E/AB/wKgDsVMJY22TIhnKADRCD_Z4Jk8454.mp3",
+      "title": {
+        "text": "小故事大道理-我愿意承担（安娜妈咪）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 28 Feb 2014 09:00:00 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "1aea9da77bfdef81d5de2de163922fa91dba908c866535cae364f4c1dd98663f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group4/M02/0E/32/wKgDtFMlvlSjMph3ACTjXYiq9nk076.mp3",
+      "title": {
+        "text": "小故事大道理-泡影（安娜妈咪）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 20 Mar 2014 09:00:00 GMT",
+      "feed_index": 29
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1587907611",
+  "feed_url": "http://www.ximalaya.com/album/53437607.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/53437607.xml",
+    "final_url": "http://www.ximalaya.com/album/53437607.xml",
+    "fetched_at": "2026-10-25T14:54:14.188902+00:00",
+    "status": 200,
+    "sha256": "32ef06ecbf0d21ce77ce7564abd4908efe325d5a637bd1bcda95c3a31c480dc0"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Sherry的读书分享",
+    "truncated": false
+  },
+  "description": {
+    "text": "这是一档读书类节目，有朗读，有分享，时长在20分钟内，欢迎收听。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 103,
+  "episodes": [
+    {
+      "id": "db7149711583a237fd2db325ad1292e0178835818aeb619beb364cc29274fd7e",
+      "guid": "xmly_track_533791825",
+      "title": {
+        "text": "感知理知自我认知第三章统觉及其他",
+        "truncated": false
+      },
+      "description": {
+        "text": "第三章统觉及其他",
+        "truncated": false
+      },
+      "published_at": "Wed, 18 May 2022 13:30:18 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "4fc7400e498d7ec90a6d0a63930027db8557b5f6ac539f1767842290b896f4b5",
+      "guid": "xmly_track_489000329",
+      "title": {
+        "text": "人的成长 2.1.7-2.1.9孩子或因处在绝望环境里才会导致淘气",
+        "truncated": false
+      },
+      "description": {
+        "text": "Part2 科学和教育中的偏见 1. 儿童内在自然秩序的展现及其障碍 00:19 健康与偏态 05:04 成长的基础 09:19 开阔心胸的教育",
+        "truncated": false
+      },
+      "published_at": "Mon, 03 Jan 2022 14:53:26 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "3bcce38baa2f446e5babe4567ed0eb206aa1c1dc1862f094dac1c81e91d0e3cb",
+      "guid": "xmly_track_481182140",
+      "title": {
+        "text": "童年的秘密 2.23 岐变（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "第二部分 18. 儿童的教育 19. 观察与发现 20. 方法 21. 娇生惯养的儿童 22.教师的精神准备 23.岐变 03:21 神游 09:17 障碍 14:46 治愈 未完待续 依附 占有欲 权力欲 自卑感 恐惧 说谎",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Dec 2021 15:21:09 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "a4ad55bd442808e4bc2d77eb52ca35e6bfb67fa8e1a92472946b38f8b0fa69c3",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8e93-audiofreehighqps/64/B0/GKwRIDoFeTMOABAAAAD8Rb46.mp3",
+      "title": {
+        "text": "童年的秘密 1.8 秩序",
+        "truncated": false
+      },
+      "description": {
+        "text": "第一部分 1. 儿童时期 2. 被告 3. 生物学的插曲 4. 新生儿 5. 天赋本能 6. 精神的胚胎 7. 心理的发展 8. 秩序 17:38 内部秩序",
+        "truncated": false
+      },
+      "published_at": "Sun, 28 Nov 2021 12:04:09 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "02bd6bfaf97abd997dbb04581893062d82774bfba660cb06a93f4d38d0681481",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/258e-audiofreehighqps/F4/20/GKwRIasFa-JaABAAAAD4oLct.mp3",
+      "title": {
+        "text": "文明的冲突与世界秩序的重建4.11.1第四部分第十一章第一节 认同：文明意识的增强",
+        "truncated": false
+      },
+      "description": {
+        "text": "第四部分 文明的冲突 第十一章 断层线战争的顺利 认同：文明意识的增强 文明的集结：亲缘国家和在散居住者 终止断层线战争",
+        "truncated": false
+      },
+      "published_at": "Thu, 18 Nov 2021 09:40:10 GMT",
+      "feed_index": 58
+    },
+    {
+      "id": "c09d839d8f10b73b772185ba62d10f99fa6c660a95cc5bb52b9d636162ed8478",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7ab1-audiofreehighqps/B6/72/CKwRIasFYnPwABAAAAD2EPzl.mp3",
+      "title": {
+        "text": "文明的冲突与世界秩序的重建3.7.1第三部分第七章第一节 文明和秩序",
+        "truncated": false
+      },
+      "description": {
+        "text": "第七章 核心国家、同心圈和文明秩序 文明和秩序 西方边界的形成 俄罗斯及其近邻 大中华及其共荣圈 伊斯兰：没有凝聚力的意识",
+        "truncated": false
+      },
+      "published_at": "Thu, 11 Nov 2021 05:58:17 GMT",
+      "feed_index": 73
+    },
+    {
+      "id": "f545dc99f26ef0fa8a0f8a12b99494bd6b47c71801001a6869e7a8b87033e1b4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4aaf-audiofreehighqps/07/09/CKwRIUEFUTWJABAAAADxggFa.mp3",
+      "title": {
+        "text": "文明的冲突与世界秩序的重建1.3.1 第一部分第三章 普世文明含义",
+        "truncated": false
+      },
+      "description": {
+        "text": "第三章 普世文明？现代化与西方化 普世文明：含义 普世文明：来源 西方与现代化 对西方和现代化的回应 其中07分38秒处可能需要文字参考： 西方文明的本质是大宪章（Magna Carta）而不是“大麦克”（“巨无霸” Magna Mac）。",
+        "truncated": false
+      },
+      "published_at": "Fri, 29 Oct 2021 04:04:06 GMT",
+      "feed_index": 87
+    },
+    {
+      "id": "facb83dfe59562e42be4258209fed817bb00edd3b233fd98a59772f7c6a8ddea",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/12dc-audiofreehighqps/86/E2/CKwRIW4FKKDCABAAAADnfvl9.mp3",
+      "title": {
+        "text": "读书分享第0期",
+        "truncated": false
+      },
+      "description": {
+        "text": "节目简介 微信[contact removed]",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Sep 2021 09:17:58 GMT",
+      "feed_index": 102
+    }
+  ]
+}

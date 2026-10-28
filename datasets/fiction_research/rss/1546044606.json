@@ -1,0 +1,140 @@
+{
+  "show_id": "1546044606",
+  "feed_url": "http://www.ximalaya.com/album/43887092.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/43887092.xml",
+    "final_url": "http://www.ximalaya.com/album/43887092.xml",
+    "fetched_at": "2026-10-25T14:56:10.851700+00:00",
+    "status": 200,
+    "sha256": "6aaadba192b531223fe6f60639bd215495907da5466312c17bc8ec296290da98"
+  },
+  "status": "ok",
+  "title": {
+    "text": "一千个女人的来信 | 女性睡前故事 夜听放松 情感电台",
+    "truncated": false
+  },
+  "description": {
+    "text": "每周一、三、五更新故事，二、四、六专家观察评述，周日轻音乐放送，不定期听众惊喜来信。 幸福女人圈生活中的辛苦、坎坷似乎总是倒向女性。被身份标签捆绑、忙于家长里短、不停歇的日子中逐渐迷失自己……我们真的只能如此生活吗？不！作为女性，你有你的精彩！有自己的向上人生！有自己的成长奋斗！ 在生活的每一个角落，都有无数精彩女性故事发生。 喜马拉雅为你开通了一档女性真实故事记录+评述电台。不管你是忙于带娃的妈妈，乖巧持家的女儿，职场打拼的工作者，众人眼中的女汉子……在这里，能看到属于女性的温暖精彩，听见人生的不同可能，找到你自己。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 339,
+  "episodes": [
+    {
+      "id": "64823d24beae05bbd5e0106b783a7fe20f2b41c33adb99dc24a44772d1c109ca",
+      "guid": "xmly_track_480612547",
+      "title": {
+        "text": "【结束语 | 沈奕斐】我们该如何做新时代的女性-个人成长篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "完结篇 作为我们女性来讲，我特别鼓励大家向前一步，需要把这些问题拿出来放在台面上跟家人去讨论，我也需要职业的发展，我们家里能够怎么更好的分工。 男性参与到家庭的劳动和养育孩子过程中，才是最终解决这个问题的核心的要素，而不是我一个人死命的扛，或者我去抱怨和放弃。 我们需要一步步地去影响我们的男性，告诉他你怎么做，当他做的时候，你要让他觉得做这件事情不仅很有意义，也是很快乐的，而不是他做的跟我们不一样，我们就直接去批评他。 我自己有过生两个孩子的经历，我发现怀孕期间有一段时间其实经历很充沛的，那时候你可以更多的学习，等到你后期很累的时候，你就放过自己，让自己也能休息一段时间。 我们不管是在职业发展，还是在家庭的发展中间，都请记得这世界上是有其他的人可以帮助我们的。 我们需要维护我们发展的人脉，我们需要盘活各种我们可以用的资源，让这种资源一起来帮助我们。这样我们的成长的更好。",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Dec 2021 03:29:34 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d60211b73f06fe0df8a395dee2945c9b00735c6b0fae190ea86268e2290380c5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0301-audiofreehighqps/9C/F2/CKwRIJEFFMiRACihJwDim-qG-aacv2-48K.m4a",
+      "title": {
+        "text": "【她评 | Alexwood 】20天的支教，能改变什么？",
+        "truncated": false
+      },
+      "description": {
+        "text": "立即订阅 点击右上角订阅，不要错过女人的精彩时刻。 每周一、三、五更新故事，二、四、六专家观察评述，周日不定期听众惊喜来信。 故事投稿 诚意邀请你，讲出你的故事 。欢迎直接私信或添加微信联系我们，我们会为投稿听众送出精美的喜马拉雅周边礼物。【喜马拉雅微信号[contact removed]】",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Sep 2021 11:00:00 GMT",
+      "feed_index": 48
+    },
+    {
+      "id": "c04bfe6c81bbbaba6d3be37226055be90c3de9f300e2dbab1687c0aba0688d81",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/04fe-audiofreehighqps/52/8A/CKwRIJEEvCyoAIR1VADE0_Yq-aacv2-48K.m4a",
+      "title": {
+        "text": "【听众来信】年少被霸凌的经历一度让我抑郁，但我最终战胜了自己（真实故事情感夜听）",
+        "truncated": false
+      },
+      "description": {
+        "text": "立即订阅 点击右上角订阅，不要错过女人的精彩时刻。 每周一、三、五更新故事，二、四、六专家观察评述，周日不定期听众惊喜来信。 故事投稿 诚意邀请你，讲出你的故事 。欢迎直接私信或添加微信联系我们，我们会为投稿听众送出精美的喜马拉雅周边礼物。【喜马拉雅微信号[contact removed]】",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Jul 2021 11:00:00 GMT",
+      "feed_index": 97
+    },
+    {
+      "id": "f2dbeeae3bf6ea6cb3cb1f5a5601c5e6db30525c361ed7fb0708f89bb16c8d12",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/43aa-audiofreehighqps/E1/88/CKwRIaIEg32FAHhE6QCwijWe-aacv2-48K.m4a",
+      "title": {
+        "text": "【她说 | 第85期】活成了樊胜美，她觉得自己很幸运（真实故事情感夜听）",
+        "truncated": false
+      },
+      "description": {
+        "text": "立即订阅 点击右上角订阅，不要错过女人的精彩时刻。 每周一、三、五更新故事，二、四、六专家观察评述，周日轻音乐放送，不定期听众惊喜来信。 故事投稿 诚意邀请你，讲出你的故事， 不管用声音还是文字 。欢迎直接私信或添加微信联系我们。【喜马拉雅微信号[contact removed]】",
+        "truncated": false
+      },
+      "published_at": "Wed, 02 Jun 2021 11:00:02 GMT",
+      "feed_index": 145
+    },
+    {
+      "id": "2a50ef8b96a04be924d82c0a46b3e33e1f85230570b9b743992bc9914700bfaa",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ad5a-audiofreehighqps/A8/01/CKwRIUEEUZZGAIG6XACf5-uO-aacv2-48K.m4a",
+      "title": {
+        "text": "【她说 | 第64期】这年头，蛇精脸多不值钱呐（真实故事情感夜听电台）",
+        "truncated": false
+      },
+      "description": {
+        "text": "免费抽奖 【喜马女人】账号全新升级，更名【回声女性】 回馈听众，订阅有礼，戳这里→ 免费抽奖 ，百分百中奖 故事投稿 诚意邀请你，讲出你的故事。欢迎直接私信或添加微信联系我们，我们会为投稿听众送出精美的喜马拉雅周边礼物。【喜马拉雅微信号[contact removed]】 立即订阅 点击右上角订阅，不要错过女人的精彩时刻。",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Apr 2021 11:00:00 GMT",
+      "feed_index": 193
+    },
+    {
+      "id": "dbc0cdd2a2b003e48ba0fd69253386c84f5bf9b80af890df6783d5da8153929e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8ac4-audiofreehighqps/43/0A/CMCoOSAEA_-9AIVXfACI8P1z-aacv2-48K.m4a",
+      "title": {
+        "text": "【她说 | 第43期】跟着男领导，她赌输了自己（真实故事夜听情感电台）",
+        "truncated": false
+      },
+      "description": {
+        "text": "立即订阅 点击右上角订阅，不要错过女人的精彩时刻。 每周一、三、五更新故事，二、四、六专家观察评述，周日轻音乐放送，不定期听众惊喜来信。 故事投稿 诚意邀请你，讲出你的故事， 不管用声音还是文字 。欢迎直接私信或添加微信联系我们。【喜马拉雅微信号[contact removed]】 故事来源：网易人间工作室 作者： 米来福 改编：宋川",
+        "truncated": false
+      },
+      "published_at": "Wed, 24 Feb 2021 11:00:13 GMT",
+      "feed_index": 241
+    },
+    {
+      "id": "d0e6a41100123ecbaf3547d0e569a9c377ad183dc388a053ddc4a9afbf70eb09",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/dde9-audiofreehighqps/41/3B/CMCoOSADyeuwADmV3AB4Y_Ix-aacv2-48K.m4a",
+      "title": {
+        "text": "【她评 | 陈祉妍】相爱一场，你愿意为对方改变多少？（真实故事夜听情感电台）",
+        "truncated": false
+      },
+      "description": {
+        "text": "立即订阅 点击右上角订阅，不要错过女人的精彩时刻。 每周一、三、五更新故事，二、四、六专家观察评述，周日轻音乐放送，不定期听众惊喜来信。 女性成长社群 如果你有什么想要说的，欢迎来幸福女人圈与我互动。让我们在讨论中收获成长的智慧。",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Jan 2021 11:00:01 GMT",
+      "feed_index": 290
+    },
+    {
+      "id": "f3690eda56e1b0115b07d4fd39a0e77a5e19e30fc23ce1a5b785c6140ffa12f4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1be9-audiofreehighqps/A9/2F/CMCoOR8DjRuUAKpeOABo0I1h-aacv2-48K.m4a",
+      "title": {
+        "text": "【她说 | 第01期】在我145斤的时候，只有我妈还爱我 （真实故事夜听情感电台）",
+        "truncated": false
+      },
+      "description": {
+        "text": "评论有奖 【你的妈妈做过什么令你感动的事吗？】 欢迎留言讨论，我会在评论区中抽取3位听友送出喜马拉雅周边哦~ 立即订阅 点击右上角订阅，不要错过女人的精彩时刻。 每周一、三、五更新故事，二、四、六专家观察评述，周日轻音乐放送，不定期听众惊喜来信。 故事投稿 诚意邀请你，讲出你的故事， 不管用声音还是文字 。欢迎直接私信或添加微信联系我们。【喜马拉雅微信号[contact removed]】 女性成长社群 如果你有什么想要说的，欢迎来幸福女人圈与我互动。让我们在讨论中收获成长的智慧。 点击进入免费女性成长社群—幸福女人圈 故事来源：网易人间工作室 作者：张小冉 改编：宋川",
+        "truncated": false
+      },
+      "published_at": "Fri, 20 Nov 2020 11:00:32 GMT",
+      "feed_index": 338
+    }
+  ]
+}

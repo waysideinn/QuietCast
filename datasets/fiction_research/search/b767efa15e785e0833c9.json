@@ -1,0 +1,191 @@
+{
+  "group": "fiction",
+  "term": "斗罗大陆",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:42:30.355447+00:00",
+    "status": 200,
+    "sha256": "55f93427b0e1629d5c098509238c9e8f7481be0c650b6feace352f689a4dbf72"
+  },
+  "result_count": 8,
+  "records": [
+    {
+      "collectionId": 1717005088,
+      "trackId": 1717005088,
+      "collectionName": "斗罗大陆之王之觉醒|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71907973.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E7%8E%8B%E4%B9%8B%E8%A7%89%E9%86%92-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717005088?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 168,
+      "releaseDate": "2022-10-23T12:04:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1717005156,
+      "trackId": 1717005156,
+      "collectionName": "斗罗大陆之至高武魂|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71952916.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E8%87%B3%E9%AB%98%E6%AD%A6%E9%AD%82-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717005156?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 344,
+      "releaseDate": "2022-10-25T13:11:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1717002782,
+      "trackId": 1717002782,
+      "collectionName": "斗罗大陆之超能武魂|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71933684.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E8%B6%85%E8%83%BD%E6%AD%A6%E9%AD%82-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717002782?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 333,
+      "releaseDate": "2022-10-24T10:40:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1717003408,
+      "trackId": 1717003408,
+      "collectionName": "斗罗大陆之龙之觉醒|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71931185.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E9%BE%99%E4%B9%8B%E8%A7%89%E9%86%92-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717003408?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 160,
+      "releaseDate": "2022-10-24T05:02:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1717005049,
+      "trackId": 1717005049,
+      "collectionName": "斗罗大陆之神圣武魂|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71977840.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E7%A5%9E%E5%9C%A3%E6%AD%A6%E9%AD%82-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717005049?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 302,
+      "releaseDate": "2022-10-28T06:43:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1717003414,
+      "trackId": 1717003414,
+      "collectionName": "斗罗大陆之觉醒",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71519152.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E8%A7%89%E9%86%92/id1717003414?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 600,
+      "releaseDate": "2022-10-07T08:17:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1717005130,
+      "trackId": 1717005130,
+      "collectionName": "斗罗大陆之魂兽觉醒|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71907415.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E9%AD%82%E5%85%BD%E8%A7%89%E9%86%92-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717005130?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 153,
+      "releaseDate": "2022-10-23T06:03:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1716822386,
+      "trackId": 1716822386,
+      "collectionName": "斗罗大陆之神之觉醒|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71915352.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E7%A5%9E%E4%B9%8B%E8%A7%89%E9%86%92-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1716822386?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 262,
+      "releaseDate": "2022-10-24T04:39:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    }
+  ]
+}

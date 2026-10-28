@@ -1,0 +1,140 @@
+{
+  "show_id": "1504181629",
+  "feed_url": "http://www.ximalaya.com/album/34875808.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/34875808.xml",
+    "final_url": "http://www.ximalaya.com/album/34875808.xml",
+    "fetched_at": "2026-10-25T14:49:42.603235+00:00",
+    "status": 200,
+    "sha256": "d2bee12b25b3c70d6a177165fa9770fcf9bc78077a52aae2127427718ee3c59e"
+  },
+  "status": "ok",
+  "title": {
+    "text": "少儿西游记",
+    "truncated": false
+  },
+  "description": {
+    "text": "欢迎收听可喵讲故事 《少儿西游记》",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 105,
+  "episodes": [
+    {
+      "id": "bd9cf08895a8bd1c75d6fd6f318fcc007210b13f6148bfd3d83e7fc11f7c6b24",
+      "guid": "https://aod.cos.tx.xmcdn.com/group76/M07/1D/AA/wKgO3l5Z0rSjcFZSAE2r4NX0x_U634-aacv2-48K.m4a",
+      "title": {
+        "text": "1.从前有座花果山",
+        "truncated": false
+      },
+      "description": {
+        "text": "播出时间：每天18：00 您的支持是我的动力，感谢订阅分享。",
+        "truncated": false
+      },
+      "published_at": "Sat, 29 Feb 2020 02:55:35 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "362fb04f6bb8a349c13ad76790cacae84aa20aa46e2e569e8defdc6b255e7063",
+      "guid": "https://aod.cos.tx.xmcdn.com/group74/M03/34/97/wKgO0l5rWbfxBfJkADtJ8DxrtEA361-aacv2-48K.m4a",
+      "title": {
+        "text": "16.偷袈裟的贼呀",
+        "truncated": false
+      },
+      "description": {
+        "text": "每天18：00，不见不散。 如果喜欢我们的故事，别忘了订阅和关注我们。",
+        "truncated": false
+      },
+      "published_at": "Fri, 13 Mar 2020 10:00:12 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "55971d85222463b838657368b069d481928dc3510bcf1cf8bd934edf0f93060e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group75/M07/5A/7C/wKgO3V5_IDSD9qHIAEch4xr9TJ4938-aacv2-48K.m4a",
+      "title": {
+        "text": "31.四海寻良方",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 28 Mar 2020 10:00:08 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "bc213ae9db388b7a653363f368618fde18ceca0cdf3ffe9da950c9cfb2d06cb3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group78/M0B/7D/A5/wKgO4F6RlVPSz5EWAE_TbNYOukk233-aacv2-48K.m4a",
+      "title": {
+        "text": "45.井里有座水晶宫",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎收听可喵讲故事 《少儿西游记》",
+        "truncated": false
+      },
+      "published_at": "Sat, 11 Apr 2020 10:00:07 GMT",
+      "feed_index": 45
+    },
+    {
+      "id": "172b1e9247e7c0ee72d93f36fe4a6684f23dc78c39892672450b4f46c579cfe2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group80/M0B/34/59/wKgPEV6kCj_j4AC2AFn2IbaEMew186.m4a",
+      "title": {
+        "text": "59.都是圈圈惹的祸",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎收听可喵讲故事 《少儿西游记》",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Apr 2020 10:00:11 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "63fa71c431b5d15de09edb834bf81ac955979fb45a364fe887b94b40886026f5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group79/M01/5D/B5/wKgPEF630MuCnCk-AGSyg7ilSpA882.m4a",
+      "title": {
+        "text": "74.什么妖精打灯笼",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 May 2020 10:00:14 GMT",
+      "feed_index": 74
+    },
+    {
+      "id": "af0cb6c77fbe4a6c4694c047442ef9df5f8abc39d3d276803e50a609b573cee3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group81/M02/5C/5A/wKgPEl7Ll0Wif_VVAEqsVJ1C00Q006.m4a",
+      "title": {
+        "text": "89.无底洞里闹翻天",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 May 2020 10:00:19 GMT",
+      "feed_index": 89
+    },
+    {
+      "id": "21e8a3330ec11fca77bc121ffaaa3ff0255870f3902b37966f5d39389edf463a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group87/M05/39/7E/wKg5IV7fXbShbIBZAEKOfdpdMdg320.m4a",
+      "title": {
+        "text": "104.取回真经回长安",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 09 Jun 2020 10:00:07 GMT",
+      "feed_index": 104
+    }
+  ]
+}

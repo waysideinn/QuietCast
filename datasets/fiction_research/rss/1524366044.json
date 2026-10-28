@@ -1,0 +1,56 @@
+{
+  "show_id": "1524366044",
+  "feed_url": "https://anchor.fm/s/2c09055c/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/2c09055c/podcast/rss",
+    "final_url": "https://anchor.fm/s/2c09055c/podcast/rss",
+    "fetched_at": "2026-10-25T14:42:14.700575+00:00",
+    "status": 200,
+    "sha256": "65a1892de13f22752328a4075ead8cbe5adf6e420051670f783c873e923a594c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "The MCRP w/ James, Tea, Lily, & Ocean",
+    "truncated": false
+  },
+  "description": {
+    "text": "Hello! And welcome to The MCRP, which stands for \"The Minecraft Roleplay Podcast\". I am the host James, and am joined with my child Tea, with friends Lily, and Ocean. We will talk about Minecraft Roleplay Series made by TheFamousFilms, JonJon, TheInvisibleDavis, and more. We will have theories, headcanons, and discussions about their series and appreciate the work put into them. Hope you enjoy your stay!",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "en",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 2,
+  "episodes": [
+    {
+      "id": "4e066d9c37b2f97f089d0421e53dbc6fef66bc7097147f0eb1784eae04deea5f",
+      "guid": "a52ab31d-53d2-45f5-b7d0-14cd9d753133",
+      "title": {
+        "text": "The (Main) Problem W/ Gacha Reaction Videos",
+        "truncated": false
+      },
+      "description": {
+        "text": "Basically a episode in which James talked about Gacha Life reaction videos, mainly for the Fanbase 'FNAF Adventures in Space', what's wrong with them, how people should distribute the videos better, and how some aren't totally sucky. Please take into consideration that this podcast episode was made when I, James, was barely at the fringes of the series and didn't know too much about the characters, so my analysis may be incorrect when it comes to the characters featured in this episode of the podcast. If any of the music is weird or choppy, please let me know and I will fix it as soon as I pos",
+        "truncated": true
+      },
+      "published_at": "Thu, 27 Aug 2020 19:33:38 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "441b98ff0fc0fe3570ccdac6aad94d40591e64170f9653ad41c333fa0cdfc841",
+      "guid": "045387e3-3b0f-4077-958d-505ad7246d45",
+      "title": {
+        "text": "Our Introductions!!",
+        "truncated": false
+      },
+      "description": {
+        "text": "Welcome to the first official Minecraft Roleplay Podcast featuring the Host James, with friends Ocean and Lily! Tea couldn't make it to the first episode, but that's ok! Hope you all enjoy our first introduction to the podcast!",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Jul 2020 19:03:40 GMT",
+      "feed_index": 1
+    }
+  ]
+}

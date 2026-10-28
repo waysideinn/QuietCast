@@ -1,0 +1,158 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/72547089.xml",
+    "final_url": "https://www.ximalaya.com/album/72547089.xml",
+    "fetched_at": "2026-10-26T07:57:09.580006+00:00",
+    "status": 200,
+    "sha256": "2e3b545371489b3a0dbaddbca2debf537dac3fe62fe0a8f64b2b9b207b4ec20b"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "我不是喵神|穿越搞笑|精品双播|免费",
+      "truncated": false
+    },
+    "description": {
+      "text": "男主意外穿越成为一只猫，利用现代科技在修仙异世界里混的风声水起，登上喵生巅峰！从此贪财好色，人猫同乐……",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "多云下的蛋@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "多云下的蛋"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "多云下的蛋"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Comedy Fiction"
+      ],
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Drama"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/72547089",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 357,
+    "episodes": [
+      {
+        "title": {
+          "text": "《我不是喵神》第001集",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_588387784"
+      },
+      {
+        "title": {
+          "text": "《我不是喵神》第052章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 51,
+        "guid": "xmly_track_588427499"
+      },
+      {
+        "title": {
+          "text": "《我不是喵神》第104章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 102,
+        "guid": "xmly_track_588429590"
+      },
+      {
+        "title": {
+          "text": "《我不是喵神》第154章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 153,
+        "guid": "xmly_track_595947297"
+      },
+      {
+        "title": {
+          "text": "《我不是喵神》第198章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 203,
+        "guid": "xmly_track_599590759"
+      },
+      {
+        "title": {
+          "text": "《我不是喵神》第247章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 254,
+        "guid": "xmly_track_599593158"
+      },
+      {
+        "title": {
+          "text": "《我不是喵神》第298章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 305,
+        "guid": "xmly_track_599595119"
+      },
+      {
+        "title": {
+          "text": "《我不是喵神》第350章（完结）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 356,
+        "guid": "xmly_track_599606030"
+      }
+    ]
+  }
+}

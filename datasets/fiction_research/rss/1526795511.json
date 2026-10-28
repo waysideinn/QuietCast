@@ -1,0 +1,140 @@
+{
+  "show_id": "1526795511",
+  "feed_url": "https://feeds.soundon.fm/podcasts/ec01e1c6-736a-4a64-9dcf-7ab0e8b82fec.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/ec01e1c6-736a-4a64-9dcf-7ab0e8b82fec.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/ec01e1c6-736a-4a64-9dcf-7ab0e8b82fec.xml",
+    "fetched_at": "2026-10-25T14:53:33.411786+00:00",
+    "status": 200,
+    "sha256": "829227d0d2153421ae76c832763260659092239462383b63ae4030c0a1ec32e7"
+  },
+  "status": "ok",
+  "title": {
+    "text": "健康醫療網",
+    "truncated": false
+  },
+  "description": {
+    "text": "健康醫療網是以健康新聞、治療新知為主的全方位健康媒體平台，致力於提供最專業的多元衛教化資訊。 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 127,
+  "episodes": [
+    {
+      "id": "24c842cc5d39d13fb61e5a8ecabce6d6631d3fad1ca3ef1c6915eba27f542957",
+      "guid": "680b7a63-a0bb-4179-8c60-3e0f2be804bd",
+      "title": {
+        "text": "失智症不再只是長輩的事？醫師談年輕化趨勢與警訊｜台灣失智症協會 徐文俊理事長",
+        "truncated": false
+      },
+      "description": {
+        "text": "想到失智症，可能會聯想到年紀大了才會發生？但近年來，65歲以前就出現失智的案例越來越多，我們稱這些類型為「年輕型失智症」，它的成因很多，有些跟遺傳有關，有些跟生活方式、壓力相關，對患者和家庭來說都是很大的挑戰，除了帶大家認識這個浮上檯面的議題，也一起看看該如何預防與面對。 原文閱讀： ➤【健康Live直播】莫名喘、疲倦可能是心衰竭警訊？專家談目前治療新趨勢 https://www.healthnews.com.tw/article/67172 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Jan 2026 03:00:48 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f63237b3fe70b428841ab5bc8efd8a634ed3fa006dd66e58b3e510971659721b",
+      "guid": "e0deab49-8ea3-4b07-ae9d-ae1fab1addda",
+      "title": {
+        "text": "李應湘醫師｜「心痛」不可輕忽！ 小心成為心肌梗塞前兆",
+        "truncated": false
+      },
+      "description": {
+        "text": "【受訪者】馬偕醫院心臟內科 李應湘 醫師 【健康醫療網／記者賴欣平、蔡誠報導】相信許多人都曾聽過一個典故，即春秋時代著名美女西施，因患上心痛病而時常捧胸皺眉，雖為病所苦，卻反增一股我見猶憐之感，稱為「西施捧心」。然而，在現實生活中若是出現「心絞痛」，先別管唯不唯美，那代表你的心臟可能出現大問題了，應儘速就醫檢查！ 原文閱讀： 「心痛」不可輕忽！ 小心成為心肌梗塞前兆 https://www.healthnews.com.tw/article/54493 《健康醫療網》擔任醫療與民眾之間的橋樑，將艱難的醫學名詞轉換為日常生活知識，提供最專業、用心、貼近你的健康新聞。希望大家多傾聽身體的訊息，治療疾病之外，也一起享受健康！ 您可以在這裡找到我們： FB： http://bit.ly/2GQiu2V IG： http://bit.ly/2HqCDvI YT： http://bit.ly/31WyoRT Line： https://lin.ee/xV3Toie -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 25 Aug 2022 02:00:34 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "4c47a5d41ae3eb59ee5b0893be7b6af942ce8130456be7328049f84cfb8a69ed",
+      "guid": "e832eeea-da53-4917-811b-bee5922175a3",
+      "title": {
+        "text": "李秉穎、黃玉成教授｜變種病毒來襲，疫苗擋得住嗎？",
+        "truncated": false
+      },
+      "description": {
+        "text": "【受訪者】台灣疫苗推動協會 李秉穎、黃玉成 榮譽理事長、理事長 【健康醫療網／記者田柏升報導】台灣疫情逐漸受控，疫苗也陸續到位。隨著施打族群擴大，坊間充斥許多施打疫苗引發負面影響的疑慮。然而疫苗是對抗新冠肺炎的重要保護傘，隨著變種病毒在全球掀起新一波流行，民眾對於疫苗保護力的看法有所保留，本次邀請台灣疫苗推動發展協會榮譽理事長李秉穎教授及理事長黃玉成教授，為民眾帶來專家看法。 原文閱讀：變種病毒來襲，疫苗擋得住嗎？ ➤ https://www.healthnews.com.tw/news/article/50729/?p=0&act=pv 《健康醫療網》擔任醫療與民眾之間的橋樑，將艱難的醫學名詞轉換為日常生活知識，提供最專業、用心、貼近你的健康新聞。希望大家多傾聽身體的訊息，治療疾病之外，也一起享受健康！ 您可以在這裡找到我們： FB： http://bit.ly/2GQiu2V IG： http://bit.ly/2HqCDvI YT： http://bit.ly/31WyoRT Line： https://lin.ee/xV3Toie -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Sep 2021 02:00:00 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "88b38543ed7b9a491310fdffb7500c64e079cb9edf67052c1e770c735f0ce0ca",
+      "guid": "d4f4cf3e-4b28-4ecf-809d-0af209830962",
+      "title": {
+        "text": "林亮宇醫師｜心房顫動治療新趨勢 台大冷凍消融球囊與導管邁入500例",
+        "truncated": false
+      },
+      "description": {
+        "text": "【受訪者】台大醫院內科部心臟血管科 林亮宇 主治醫師 【健康醫療網／記者田柏升報導】台大醫院心房顫動治療邁向新里程碑！2015年在志玲姊姊慈善基金會捐贈下，台大兒童醫院率先引進心臟冷凍消融儀，後來陸續擴及成人病患，讓電燒治療風險高的心律不整患者都能接受冷凍消融導管治療。 原文閱讀：心房顫動治療新趨勢 台大冷凍消融球囊與導管邁入500例 ➤ https://www.healthnews.com.tw/news/article/49732 《健康醫療網》擔任醫療與民眾之間的橋樑，將艱難的醫學名詞轉換為日常生活知識，提供最專業、用心、貼近你的健康新聞。希望大家多傾聽身體的訊息，治療疾病之外，也一起享受健康！ 您可以在這裡找到我們： FB： http://bit.ly/2GQiu2V IG： http://bit.ly/2HqCDvI YT： http://bit.ly/31WyoRT Line： https://lin.ee/xV3Toie -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Jul 2021 02:00:00 GMT",
+      "feed_index": 54
+    },
+    {
+      "id": "33bb44a8cf84242fe8b64c1849ee8ba180b82e9bd4fbd2cb12ad40e3e5b91e85",
+      "guid": "bfae5d98-4343-4d26-81d2-7c980365d234",
+      "title": {
+        "text": "【健康開講】減肥不用餓肚子 陳峙嘉中醫師教你瘦",
+        "truncated": false
+      },
+      "description": {
+        "text": "來賓：陳峙嘉 醫師 許多人瘦不下來，往往是因為被許多減肥迷思所困住。究竟減肥可不可以吃消夜？嘴饞該怎麼辦？可以局部瘦身嗎？應該怎麼運動，怎麼飲食，又該如何守成？種種減肥秘技，健康醫療網邀請人氣中醫師陳峙嘉，為各界朋友解答減肥迷思，以及健康減肥觀念。 《健康醫療網》擔任醫療與民眾之間的橋樑，將艱難的醫學名詞轉換為日常生活知識，提供最專業、用心、貼近你的健康新聞。希望大家多傾聽身體的訊息，治療疾病之外，也一起享受健康！ 您可以在這裡找到我們： FB： http://bit.ly/2GQiu2V IG： http://bit.ly/2HqCDvI YT： http://bit.ly/31WyoRT Line： https://lin.ee/xV3Toie -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 08 May 2021 02:10:23 GMT",
+      "feed_index": 72
+    },
+    {
+      "id": "9acf979428b480a40ffe2d69e91b6b6dde1a70642f4db49ebbfc106fc67bd24b",
+      "guid": "a4a535ad-e119-4962-878d-50759c9d2077",
+      "title": {
+        "text": "邱瑩明醫師｜自體免疫病難察覺 儘早治療抗病有望",
+        "truncated": false
+      },
+      "description": {
+        "text": "【受訪專家】中國醫藥大學附設醫院風濕免疫科 邱瑩明 【健康醫療網／記者田柏升報導】自體免疫疾病，是因為免疫系統過度活躍，侵犯自體組織器官所造成的疾病，好發於20-40歲女性，比男性高出8倍罹病率。常見像是紅斑性狼瘡、類風濕性關節炎、僵直性脊椎炎、乾燥症；較少見的例如先天免疫不全症、抗磷脂質症候群、乾癬、硬皮症、圓形禿等等。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 07 Aug 2020 09:12:48 GMT",
+      "feed_index": 90
+    },
+    {
+      "id": "b81e83a05e329726495ecac3386af4229ee6c9bc06c1a246d1b0e45135ddeb6f",
+      "guid": "351a7adc-f0e2-4c1a-8c03-001a669660bf",
+      "title": {
+        "text": "鄭名地醫師｜擔心「植體周圍炎」！ 植體選擇有學問",
+        "truncated": false
+      },
+      "description": {
+        "text": "【受訪專家】牙科診所 鄭名地醫師 【健康醫療網／記者田柏升報導】對缺牙患者來說，不只影響外觀，更對發音、咀嚼，甚至健康大有影響。牙科診所鄭名地醫師說，研究指出，5顆以內的缺牙，就足以造成冠狀動脈硬化或心肌梗塞風險的增加。現階段建議以植牙來治療，但因價格較貴，所以也會建議患者考慮製作牙橋或使用活動假牙來矯正。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 07 Aug 2020 09:12:48 GMT",
+      "feed_index": 108
+    },
+    {
+      "id": "090f987baa118cf1cbe95e3049d2b6ce8465ad1078de0011b6a4c5133dd7f824",
+      "guid": "733d51fa-322a-4173-b4e5-e6e45c113802",
+      "title": {
+        "text": "柯明中醫師｜睡睡醒醒跑廁所擾人清夢 夜尿問題其實分2種",
+        "truncated": false
+      },
+      "description": {
+        "text": "【受訪專家】台北市立聯合醫院中興院區泌尿科 柯明中主任 【健康醫療網/記者田柏升報導】想要一覺到天亮，夜裡卻頻頻尿急醒來上廁所，許多人都為此所苦，特別是中年男女，睡不好，隔天生活品質也大受影響。醫師說，要先區別問題出在膀胱，還是腎臟，才能有效率地對症下藥。 【原文】https://www.healthnews.com.tw/news/article/43738/ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 07 Aug 2020 03:08:06 GMT",
+      "feed_index": 126
+    }
+  ]
+}

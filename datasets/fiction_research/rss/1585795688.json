@@ -1,0 +1,140 @@
+{
+  "show_id": "1585795688",
+  "feed_url": "http://www.ximalaya.com/album/53046919.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/53046919.xml",
+    "final_url": "http://www.ximalaya.com/album/53046919.xml",
+    "fetched_at": "2026-10-25T14:43:11.159609+00:00",
+    "status": 200,
+    "sha256": "ad8c61f2ff856faf8801190f2f819400cb8669e5c3b5cf8acffafc1d60914094"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【免费精品东方玄幻小说】文圣武王 | 命运之城",
+    "truncated": false
+  },
+  "description": {
+    "text": "故事简介：在玄天大陆流传着古老的传说，修文着能成圣人，修武者能成一代王者。可是自古以来圣人也没有几个，王者就更少了。虽然希望渺茫，可是人们还是前仆后继，悍不畏死。相传五千年以前天帝启打破“公天下”的制度将帝位传给了自己的儿子，开始了五千年的“家天下”制度。从此就诞生了许多的豪门世家，甚至神仙家族。从此一人得道，鸡犬升天。 随着豪门世家的曾多，资源逐渐枯竭。而各豪门世家之间也开始了相互吞并，大战不断，尤其在一些小国之间战争已持续了几百年，亡国灭族更是常见。就在这乱世之时有一个叫“命运之城“的势力迅速崛起，到处宣扬命运的力量，传言，人的一生都要受命运的束缚，”命里有时终需有，命里无时莫强求”。更是命运之城的至理名言。 但是有一天“亡神劫煞”命格者出现了，命运之城预言一个新的时代要降临了。。。。 每日两更，欢迎订阅 主播简介：主播超人，喜马拉雅官方签约主播；国粤语有声书播音演员、国粤语广播剧配音演员；曾于广东人民广播电台粤语调频担任主持人； 喜马拉雅id： 超人_心派 ；直播间FM3784371",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 57,
+  "episodes": [
+    {
+      "id": "66e9ede1d822d5ed3c000e64a5519568cdce0f5d1f4041046977b5076b8e7083",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1888-audiofreehighqps/2A/65/CKwRIDoFFgEQAJMSJwDi60dA.m4a",
+      "title": {
+        "text": "文圣武王 01 黄村镇",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Sep 2021 06:15:17 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "dd0bdb1bf1d917127a237cf6180c6c71c9394e8b1c00e807c06b1a2dd5d735d0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c79b-audiofreehighqps/80/2E/CKwRIW4FF4A3AFFmEwDjSToB.m4a",
+      "title": {
+        "text": "文圣武王 09 我怀孕了",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Sep 2021 09:30:01 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "905e29226d7d898046f9a18b11356ba4ee14705ad8c4349cac53b11f228848ed",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/bef6-audiofreehighqps/37/BD/CKwRIJIFHMZIAILjrwDkkcKX.m4a",
+      "title": {
+        "text": "文圣武王 17 做我的传人吧",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 19 Sep 2021 09:30:02 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "5a99e22cf62f8abc6f32fae90b5a22ad87d0ae620955a816a3cbd6c87d466911",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2c90-audiofreehighqps/1D/E7/CKwRIMAFIgxEAHDa5wDl0Y_J.m4a",
+      "title": {
+        "text": "文圣武王 25 仙人余粮",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 23 Sep 2021 09:30:03 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "6a85bc77e2d500b6ba138e277bf857a471a1535c1ac4339621fcbb549ff65b6d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8e07-audiofreehighqps/2A/F3/CKwRIasFJ1JjAGalHgDnJ0jE.m4a",
+      "title": {
+        "text": "文圣武王 33 堉函石固",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 27 Sep 2021 09:30:03 GMT",
+      "feed_index": 32
+    },
+    {
+      "id": "4d356be2c08392e8d133f325150a53bc22c32f18c88b42fcb4fd4edb2746f7ea",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9e2e-audiofreehighqps/E8/8C/CKwRIasFLJhqAGsJ8gDocTlf.m4a",
+      "title": {
+        "text": "文圣武王 41 敲骨灼身",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 01 Oct 2021 09:30:04 GMT",
+      "feed_index": 40
+    },
+    {
+      "id": "cca3e026925137878d24ff512a36f68ee3ea370791bb8e0e5505869e733f99f6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/123e-audiofreehighqps/3D/F6/CKwRIW4FMd5yAGeUeADpnwz1.m4a",
+      "title": {
+        "text": "文圣武王 49 益帝重生",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Oct 2021 09:30:04 GMT",
+      "feed_index": 48
+    },
+    {
+      "id": "d7b658fc2f7010942bcbaa4fd78b7c83c96a6a0b4b8c90a52fcabc4269e60b2d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a3c9-audiofreehighqps/33/6D/CKwRIJEFNySMAG-RSgDq4d2n.m4a",
+      "title": {
+        "text": "文圣武王 57 前人遗物（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 09 Oct 2021 09:30:05 GMT",
+      "feed_index": 56
+    }
+  ]
+}

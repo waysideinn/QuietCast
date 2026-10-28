@@ -1,0 +1,140 @@
+{
+  "show_id": "1449933222",
+  "feed_url": "https://anchor.fm/s/a23bdc4/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/a23bdc4/podcast/rss",
+    "final_url": "https://anchor.fm/s/a23bdc4/podcast/rss",
+    "fetched_at": "2026-10-25T14:48:53.668887+00:00",
+    "status": 200,
+    "sha256": "b4632dab1f9114575ce1e3a0e80fd5e0ba9ca58833ca033c33922e99975f5bc6"
+  },
+  "status": "ok",
+  "title": {
+    "text": "雨木觀後感",
+    "truncated": false
+  },
+  "description": {
+    "text": "電影看人生，你的另一種選擇，歡迎逛逛我的網站 https://ofyumu.wordpress.com/",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 530,
+  "episodes": [
+    {
+      "id": "083544b5967bc462be9ab4c77be2b67bd3387c03a04d3f58e0978a3a85ffffbe",
+      "guid": "c6301558-803c-4c92-8cab-c67cd5994360",
+      "title": {
+        "text": "遠方有一艘白色遊艇｜《惡意》追劇心得",
+        "truncated": false
+      },
+      "description": {
+        "text": "《敗戰之都》追劇心得 網站「雨木洞」 https://ofyumu.wordpress.com/",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Oct 2026 02:36:07 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "2e6565ef4e048198c225be25b5eceacfeb0476248f35e6316819d2418c88fa56",
+      "guid": "bcca64d9-c590-403e-a3aa-cd3a042ca17e",
+      "title": {
+        "text": "後來才明白苦笑是憋不住的 - 我夢見滯留生 (vol.453, s10ep3)",
+        "truncated": false
+      },
+      "description": {
+        "text": "這是一部喜劇，時間背景是七零年代，一家寄宿學校準備迎接聖誕假期，師生們大都選擇回家，有三個人不得不留在學校過節，廚房媽媽瑪莉，相依為命的兒子參加越戰，為國捐軀，瑪莉很傷心，不知道該回什麼家過什麼節。高年級生安格斯，原本他要回家過聖誕，媽媽和繼父臨時改變計畫，希望他聖誕節留在學校，之後春假再一起出去玩，安格斯不得不接受這個決定。另一位是古典學教授保羅，上課認真，評量與分數相當嚴格，因此得罪了校方，半義務半懲罰的留下來值班。雪一直下，三個有故事的人一起度過聖誕節與新年。 🎧 本站收聽 https://wp.me/perVBU-3EF ❤️ 斗內雨木 https://wp.me/PerVBU-cU 散文、心得、podcasts，歡迎上網搜尋「 雨木觀後感 」。",
+        "truncated": false
+      },
+      "published_at": "Wed, 17 Jan 2024 23:18:31 GMT",
+      "feed_index": 76
+    },
+    {
+      "id": "57990b0e0d0ee69c1feb9b17036aa0c475971ed24860f9137cad9f4f25a4e2ad",
+      "guid": "82baf673-fb31-4b82-900a-8714538fbb8b",
+      "title": {
+        "text": "繼續長出新的東西割給他們看 - 我夢見未來犯罪 (vol.378 s8ep46)",
+        "truncated": false
+      },
+      "description": {
+        "text": "這是一部「恐怖片」，描述人類進化發生轉變，人類與機器可以交互控制身體上的各種功能，所謂的人機合一，人類也因此經歷很多不明的生理變化，病毒傳染不再，病痛消失了，卻也出現某些個體極端轉變，小朋友吃塑膠，成年人自體合成新器官。支持者覺得這是演化開掛，新奇有趣精神爽，不支持者則認為一切需要法律約束，嚴密監控。一位有天分的、人文的表演工作者，他很會自體合成，與工作夥伴公開展示開膛剖肚割器官，長出來就挖給大家看，深受粉絲喜愛。表演出名了，黑特跟著來了，主管機關也盯上了，他開始計畫下一場真炎上的手術秀… 🎧 本站收聽 https://wp.me/perVBU-bn ❤️ 斗內雨木 https://wp.me/PerVBU-cU 散文、心得、中文播客，歡迎上網搜尋「 雨木觀後感 」。",
+        "truncated": false
+      },
+      "published_at": "Thu, 01 Sep 2022 22:09:45 GMT",
+      "feed_index": 151
+    },
+    {
+      "id": "fe61778b7fbc34e9f5cef4ceedde5352db70270fd7b58f527a4bb810f17e362b",
+      "guid": "03705f08-2cd3-4473-bc93-d66c03204dc4",
+      "title": {
+        "text": "搭便車的路人要去外星人博物館安葬奶奶的骨灰 - 我夢見甜蜜人生 (vol.302 s7ep51)",
+        "truncated": false
+      },
+      "description": {
+        "text": "這是一部喜劇，描述一個女生和一個男生彼此不認識，某天晚上在橋上巧遇，本來想往下跳的心情被打斷了，於是他們彼此約定，從芝加哥跑去舊金山，要跳就跳最壯麗的金門大橋。一路上想起未了的心願，到某處，見某人，說想說的話，當然也發生很多意外，像極了旅行，只不過旅行都會有終點，金門大橋就在眼前，有人上前一步，依約定站在橋邊。有人慢一步，不代表反悔，只是覺得生活來到這裡，似乎出現值得珍惜的東西… 🎧 本站收聽 https://wp.me/perVBU-tl ❤️ 斗內雨木 https://wp.me/PerVBU-cU 散文、心得、中文播客，歡迎上網搜尋「 雨木觀後感 」。",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 Aug 2021 22:00:00 GMT",
+      "feed_index": 227
+    },
+    {
+      "id": "486e6f71698d09537ca939511b781cccc76d84df452163e0a5aa1d291145b429",
+      "guid": "977fc6a6-51bd-4101-9a6c-993317984e46",
+      "title": {
+        "text": "諾貝爾寂寞物理學獎得主如是說 - 我夢見我想結束這一切 (vol.227 s6ep56)",
+        "truncated": false
+      },
+      "description": {
+        "text": "這是一部劇情片，描述某個冬天，女生和新男友開車回家見父母，也是交往以來第一次這麼做。開了很久很久的車，聊了很多很多的天，總算抵達目的地，是一鄉村老農家，在寒冷的季節裡顯得蕭瑟淒涼。第一次難免緊張，拘謹乾笑吃不多，但是這些感覺很快就被疑惑淹沒，女生明明是第一次來，屋內格局、照片、寵物、長輩的幽默感，覺得自己好像來過這個地方，不是很有勇氣釐清究竟怎麼回事，只想離開，但… 🎧 本站收聽 https://wp.me/perVBU-zE ❤️ 斗內雨木 https://wp.me/PerVBU-cU 散文、心得、中文播客，歡迎上網搜尋「 雨木觀後感 」。",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Sep 2020 04:00:00 GMT",
+      "feed_index": 302
+    },
+    {
+      "id": "0990712a582f96f5468693d813039b6aff3bf5f1ca61cb1cbc89408ccb69bc92",
+      "guid": "1a601d46-e005-48ef-9074-dc33e277b0de",
+      "title": {
+        "text": "揭發醜聞並不是喝兩杯威士忌就能六親不顧 - 我夢見腥聞教父 (vol.152 s5ep26)",
+        "truncated": false
+      },
+      "description": {
+        "text": "這是一套傳記類影集，美國電視新聞界重量級人物Roger Ailes，故事聚焦他的人生的最後廿年，由九零年代中期國家廣播公司改組開始，Ailes巧妙規避競業條款，獲得國際媒體大亨梅鐸注資，創立福斯新聞台。這位新聞大亨在位期間，美國發生過911事件、波斯灣戰爭，以及兩次白宮變天，他非常瞭解電視魔彈，替這些大事加裝右派濾鏡，把福斯小小新聞台擴張為轟天傳媒，同時他也有犯罪的一面，權力欺壓，進行職場性霸凌，直到一位主播站出來揭弊，沉默的受害者，數量之多，時間之長，Ailes的事業幾乎就要一刀斃命，在此之前，他不惜一切代價壓制醜聞。 🎧 本站收聽 https://wp.me/perVBU-Jg ❤️ 斗內雨木 https://wp.me/PerVBU-cU 散文、心得、中文播客，歡迎上網搜尋「 雨木觀後感 」。",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Oct 2019 11:00:00 GMT",
+      "feed_index": 378
+    },
+    {
+      "id": "14b1771a12cf6de90c06bd6a66f1e2bf7b9b037d03aab7422d97d57e355cb758",
+      "guid": "tag:blogger.com,1999:blog-4419309678797515130.post-6841596372655376207",
+      "title": {
+        "text": "人如果只會理智就不會有故事 - 我的女兒卡琳卡 (vol.76, s3ep18)",
+        "truncated": false
+      },
+      "description": {
+        "text": "這是一部法國劇情片，描述會計師和他的妻子育有一女一子，因為妻子外遇，他結束婚姻關係，帶著兩個孩子留在法國，前妻則搬去德國與其情夫Krombach另闢生活。1982年暑假，會計師的兩個孩子搭機前往德國度假，並且與他們的生母和繼父團聚，未料女兒於德國家中猝死，相驗報告雖然指出死因，但疑點重重，會計師懷疑繼父Krombach涉有重嫌，他提告，但被告傳喚不到，他決定跨國控訴，卻因證據薄弱，德方不願配合審理，更不可能同意引渡。於是，會計師展開長期訴訟，甚至不惜鋌而走險，只為替愛女昭雪。 🎧 本站收聽 https://wp.me/perVBU-P7 ❤️ 斗內雨木 https://wp.me/PerVBU-cU 散文、心得、中文播客，歡迎上網搜尋「 雨木觀後感 」。",
+        "truncated": false
+      },
+      "published_at": "Sun, 30 Apr 2017 08:00:00 GMT",
+      "feed_index": 453
+    },
+    {
+      "id": "6d763ff3a8cd3b45b2c2b451a973c3b96754a7a2596867d172cdcb1817cee225",
+      "guid": "tag:blogger.com,1999:blog-4419309678797515130.post-2319328332345835312",
+      "title": {
+        "text": "站著的和躺著的到底誰該被治療 - 我夢見地獄醫院 (vol. 1 s1ep1)",
+        "truncated": false
+      },
+      "description": {
+        "text": "這是一部懸疑電影，十九世紀末，牛津醫學院的新科醫師前往深山裡的精神病院服務。院方以新型醫療技術有效控制患者病情，院長尤其引以為傲，但醫師透過一位女病人發現那些新療法都是威權統治，醫病關係不健康，只不過他處在精神病院裡，他不知道該相信誰。 🎧 本站收聽 https://wp.me/perVBU-XU ❤️ 斗內雨木 https://wp.me/PerVBU-cU 散文、心得、中文播客，歡迎上網搜尋「 雨木觀後感 」。",
+        "truncated": false
+      },
+      "published_at": "Sun, 08 Mar 2015 07:00:00 GMT",
+      "feed_index": 529
+    }
+  ]
+}

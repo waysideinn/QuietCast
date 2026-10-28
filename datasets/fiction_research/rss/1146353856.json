@@ -1,0 +1,140 @@
+{
+  "show_id": "1146353856",
+  "feed_url": "http://www.ximalaya.com/album/5016872.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/5016872.xml",
+    "final_url": "http://www.ximalaya.com/album/5016872.xml",
+    "fetched_at": "2026-10-25T14:47:43.964421+00:00",
+    "status": 200,
+    "sha256": "122553e1be5aaf23fc938734597ba84803bcaa3f6531b62e852f02ca60afc829"
+  },
+  "status": "ok",
+  "title": {
+    "text": "西游记（少儿版）",
+    "truncated": false
+  },
+  "description": {
+    "text": "一只由仙石生出的猴子拜倒菩提门下，命名孙悟空，苦练成一身法术，却因醉酒闯下大祸，被压于五行山下。五百年后，观音向孙悟空道出自救的方法：他须随唐三藏到西方取经，作其徒弟，修成正果之日便得救。孙悟空遂紧随唐三藏上路，途中屡遇妖魔鬼怪，二人与猪八戒、沙僧等合力对付，展开一段艰辛的取西经之旅。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 28,
+  "episodes": [
+    {
+      "id": "da0f688cd17be43cb948bb7f76e78824df69c14e92b69b642b02e00244520e21",
+      "guid": "https://aod.cos.tx.xmcdn.com/group17/M05/A5/04/wKgJJFe21xXA8onkAFB9XJK6XvM136-aacv2-48K.m4a",
+      "title": {
+        "text": "第一回 美猴王出世",
+        "truncated": false
+      },
+      "description": {
+        "text": "一只由仙石生出的猴子拜倒菩提门下，命名孙悟空，苦练成一身法术，却因醉酒闯下大祸，被压于五行山下。五百年后，观音向孙悟空道出自救的方法：他须随唐三藏到西方取经，作其徒弟，修成正果之日便得救。孙悟空遂紧随唐三藏上路，途中屡遇妖魔鬼怪，二人与猪八戒、沙僧等合力对付，展开一段艰辛的取西经之旅。",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Aug 2016 09:53:14 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "0270d3d14d85cc3b77a42f52bcbff42db98eceafb007dbeeed4b718b21edea6a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M07/B0/1B/wKgJLFe74SXxhn9eAC731ZtNiM0560-aacv2-48K.m4a",
+      "title": {
+        "text": "第五回 收服猪八戒",
+        "truncated": false
+      },
+      "description": {
+        "text": "一只由仙石生出的猴子拜倒菩提门下，命名孙悟空，苦练成一身法术，却因醉酒闯下大祸，被压于五行山下。五百年后，观音向孙悟空道出自救的方法：他须随唐三藏到西方取经，作其徒弟，修成正果之日便得救。孙悟空遂紧随唐三藏上路，途中屡遇妖魔鬼怪，二人与猪八戒、沙僧等合力对付，展开一段艰辛的取西经之旅。",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 Aug 2016 05:37:35 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "36840e9c673b53f2d8f76628fbffcdf061f3f1cdd4f07f4244be6a89c8403c29",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M02/B9/28/wKgJJ1e-h-PTAKzeAHXX0emtW1M020-aacv2-48K.m4a",
+      "title": {
+        "text": "第九回 偷吃人参果",
+        "truncated": false
+      },
+      "description": {
+        "text": "一只由仙石生出的猴子拜倒菩提门下，命名孙悟空，苦练成一身法术，却因醉酒闯下大祸，被压于五行山下。五百年后，观音向孙悟空道出自救的方法：他须随唐三藏到西方取经，作其徒弟，修成正果之日便得救。孙悟空遂紧随唐三藏上路，途中屡遇妖魔鬼怪，二人与猪八戒、沙僧等合力对付，展开一段艰辛的取西经之旅。",
+        "truncated": false
+      },
+      "published_at": "Thu, 25 Aug 2016 05:53:18 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "7fe4b52bc6ecd133370d27e4f42781afbe31c74207a7d667f78047fac444f0c3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M02/CA/C2/wKgJJ1fFJXziaNf6AEO3KhU0uWc239-aacv2-48K.m4a",
+      "title": {
+        "text": "第十三回 斗法除三妖",
+        "truncated": false
+      },
+      "description": {
+        "text": "一只由仙石生出的猴子拜倒菩提门下，命名孙悟空，苦练成一身法术，却因醉酒闯下大祸，被压于五行山下。五百年后，观音向孙悟空道出自救的方法：他须随唐三藏到西方取经，作其徒弟，修成正果之日便得救。孙悟空遂紧随唐三藏上路，途中屡遇妖魔鬼怪，二人与猪八戒、沙僧等合力对付，展开一段艰辛的取西经之旅。",
+        "truncated": false
+      },
+      "published_at": "Tue, 30 Aug 2016 06:29:59 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "d5f9793662b04bef3e95e85147d86685af38307aad06ddb5b4be442d3c5d9170",
+      "guid": "https://aod.cos.tx.xmcdn.com/group18/M01/DA/80/wKgJKlfLz7HhxTvNAEolSKG8IVs476-aacv2-48K.m4a",
+      "title": {
+        "text": "第十六回 真假美猴王",
+        "truncated": false
+      },
+      "description": {
+        "text": "一只由仙石生出的猴子拜倒菩提门下，命名孙悟空，苦练成一身法术，却因醉酒闯下大祸，被压于五行山下。五百年后，观音向孙悟空道出自救的方法：他须随唐三藏到西方取经，作其徒弟，修成正果之日便得救。孙悟空遂紧随唐三藏上路，途中屡遇妖魔鬼怪，二人与猪八戒、沙僧等合力对付，展开一段艰辛的取西经之旅。",
+        "truncated": false
+      },
+      "published_at": "Sun, 04 Sep 2016 07:40:18 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "38108368ac96cdb163fcde5523f2f9367c1308e94d1324f105a203c6be199f2a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M02/EB/06/wKgJJ1fQ_-SAveP-ADRdoYC6OZs122-aacv2-48K.m4a",
+      "title": {
+        "text": "第二十回 激战盘丝洞",
+        "truncated": false
+      },
+      "description": {
+        "text": "一只由仙石生出的猴子拜倒菩提门下，命名孙悟空，苦练成一身法术，却因醉酒闯下大祸，被压于五行山下。五百年后，观音向孙悟空道出自救的方法：他须随唐三藏到西方取经，作其徒弟，修成正果之日便得救。孙悟空遂紧随唐三藏上路，途中屡遇妖魔鬼怪，二人与猪八戒、沙僧等合力对付，展开一段艰辛的取西经之旅。",
+        "truncated": false
+      },
+      "published_at": "Thu, 08 Sep 2016 06:06:20 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "96d0850b6e11ffdc5572150090d9edb1045553c233ea6845a04d9c0985d22f9d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group19/M08/02/CE/wKgJJlfZa1rzPih_AI0wWZUjlB0303-aacv2-48K.m4a",
+      "title": {
+        "text": "第二十四回 赴宴豹头山",
+        "truncated": false
+      },
+      "description": {
+        "text": "一只由仙石生出的猴子拜倒菩提门下，命名孙悟空，苦练成一身法术，却因醉酒闯下大祸，被压于五行山下。五百年后，观音向孙悟空道出自救的方法：他须随唐三藏到西方取经，作其徒弟，修成正果之日便得救。孙悟空遂紧随唐三藏上路，途中屡遇妖魔鬼怪，二人与猪八戒、沙僧等合力对付，展开一段艰辛的取西经之旅。",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Sep 2016 15:23:23 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "aac51dd90a1d8af6318eafdcb50162adf079bc9165542865d8807d6ea507ed65",
+      "guid": "https://aod.cos.tx.xmcdn.com/group18/M04/0F/7A/wKgJKlfeLSeA_B_5ADVl8iogpRI687-aacv2-48K.m4a",
+      "title": {
+        "text": "第二十八回 九九正果成",
+        "truncated": false
+      },
+      "description": {
+        "text": "一只由仙石生出的猴子拜倒菩提门下，命名孙悟空，苦练成一身法术，却因醉酒闯下大祸，被压于五行山下。五百年后，观音向孙悟空道出自救的方法：他须随唐三藏到西方取经，作其徒弟，修成正果之日便得救。孙悟空遂紧随唐三藏上路，途中屡遇妖魔鬼怪，二人与猪八戒、沙僧等合力对付，展开一段艰辛的取西经之旅。",
+        "truncated": false
+      },
+      "published_at": "Sun, 18 Sep 2016 05:59:40 GMT",
+      "feed_index": 27
+    }
+  ]
+}

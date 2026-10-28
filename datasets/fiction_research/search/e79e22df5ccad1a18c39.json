@@ -1,0 +1,662 @@
+{
+  "group": "boundary",
+  "term": "故事FM",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%95%85%E4%BA%8BFM&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%95%85%E4%BA%8BFM&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:46:21.143780+00:00",
+    "status": 200,
+    "sha256": "d23cf6f8707d97d795d481a52367084b44eb80a4aa6b3d73f7ce0eaeabc05295"
+  },
+  "result_count": 28,
+  "records": [
+    {
+      "collectionId": 1256399960,
+      "trackId": 1256399960,
+      "collectionName": "故事FM",
+      "artistName": "寇爱哲",
+      "feedUrl": "https://feeds.storyfm.cn/storyfm.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%95%85%E4%BA%8Bfm/id1256399960?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 998,
+      "releaseDate": "2026-10-22T06:12:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1597425214,
+      "trackId": 1597425214,
+      "collectionName": "声度游",
+      "artistName": "故事FM",
+      "feedUrl": "https://feeds.storyfm.cn/shengduyou.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A3%B0%E5%BA%A6%E6%B8%B8/id1597425214?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2021-12-27T09:14:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1630268236,
+      "trackId": 1630268236,
+      "collectionName": "垂直入戏",
+      "artistName": "故事FM",
+      "feedUrl": "https://feeds.storyfm.cn/dive-in.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%9E%82%E7%9B%B4%E5%85%A5%E6%88%8F/id1630268236?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2025-09-29T12:28:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1021959002,
+      "trackId": 1021959002,
+      "collectionName": "蜜桃姐姐讲故事",
+      "artistName": "蜜桃姐姐FM",
+      "feedUrl": "http://www.ximalaya.com/album/468823.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%9C%9C%E6%A1%83%E5%A7%90%E5%A7%90%E8%AE%B2%E6%95%85%E4%BA%8B/id1021959002?uo=4",
+      "genres": [
+        "儿童与家庭",
+        "播客",
+        "教育"
+      ],
+      "genreIds": [
+        "1305",
+        "26",
+        "1304"
+      ],
+      "trackCount": 2014,
+      "releaseDate": "2024-02-17T12:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童与家庭"
+    },
+    {
+      "collectionId": 1601807508,
+      "trackId": 1601807508,
+      "collectionName": "夜听哄睡故事｜艺秋电台 情感放松FM",
+      "artistName": "艺秋",
+      "feedUrl": "http://www.ximalaya.com/album/45207875.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%9C%E5%90%AC%E5%93%84%E7%9D%A1%E6%95%85%E4%BA%8B-%E8%89%BA%E7%A7%8B%E7%94%B5%E5%8F%B0-%E6%83%85%E6%84%9F%E6%94%BE%E6%9D%BEfm/id1601807508?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "表演艺术"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1405"
+      ],
+      "trackCount": 81,
+      "releaseDate": "2022-10-02T14:33:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1652293906,
+      "trackId": 1652293906,
+      "collectionName": "音乐记事本|一首歌一个故事",
+      "artistName": "柠檬香香FM",
+      "feedUrl": "https://www.ximalaya.com/album/47210030.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%9F%B3%E4%B9%90%E8%AE%B0%E4%BA%8B%E6%9C%AC-%E4%B8%80%E9%A6%96%E6%AD%8C%E4%B8%80%E4%B8%AA%E6%95%85%E4%BA%8B/id1652293906?uo=4",
+      "genres": [
+        "音乐赏析",
+        "播客",
+        "音乐"
+      ],
+      "genreIds": [
+        "1523",
+        "26",
+        "1310"
+      ],
+      "trackCount": 1312,
+      "releaseDate": "2025-04-08T02:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "音乐赏析"
+    },
+    {
+      "collectionId": 1800637761,
+      "trackId": 1800637761,
+      "collectionName": "云朵姐姐讲故事：儿童奇幻故事大冒险 | 晚安故事 | 亲子互动 | 成长启发",
+      "artistName": "云朵姐姐_FM",
+      "feedUrl": "https://www.ximalaya.com/album/85844782.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BA%91%E6%9C%B5%E5%A7%90%E5%A7%90%E8%AE%B2%E6%95%85%E4%BA%8B-%E5%84%BF%E7%AB%A5%E5%A5%87%E5%B9%BB%E6%95%85%E4%BA%8B%E5%A4%A7%E5%86%92%E9%99%A9-%E6%99%9A%E5%AE%89%E6%95%85%E4%BA%8B-%E4%BA%B2%E5%AD%90%E4%BA%92%E5%8A%A8-%E6%88%90%E9%95%BF%E5%90%AF%E5%8F%91/id1800637761?uo=4",
+      "genres": [
+        "儿童故事",
+        "播客",
+        "儿童与家庭"
+      ],
+      "genreIds": [
+        "1520",
+        "26",
+        "1305"
+      ],
+      "trackCount": 47,
+      "releaseDate": "2025-03-27T16:01:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童故事"
+    },
+    {
+      "collectionId": 1031400642,
+      "trackId": 1031400642,
+      "collectionName": "异能FM X 全球设计故事",
+      "artistName": "异能FM X 全球设计故事",
+      "feedUrl": "http://rss.lizhi.fm/rss/1310979.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%BC%82%E8%83%BDfm-x-%E5%85%A8%E7%90%83%E8%AE%BE%E8%AE%A1%E6%95%85%E4%BA%8B/id1031400642?uo=4",
+      "genres": [
+        "设计",
+        "播客",
+        "艺术",
+        "教育"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1304"
+      ],
+      "trackCount": 288,
+      "releaseDate": "2021-10-04T04:57:00Z",
+      "country": "CHN",
+      "primaryGenreName": "设计"
+    },
+    {
+      "collectionId": 1568632411,
+      "trackId": 1568632411,
+      "collectionName": "小茱姐姐的故事遊樂園",
+      "artistName": "小茱姐姐 x 好好聽FM",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckoxql6zox9bs0873nwn0qp38",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B0%8F%E8%8C%B1%E5%A7%90%E5%A7%90%E7%9A%84%E6%95%85%E4%BA%8B%E9%81%8A%E6%A8%82%E5%9C%92/id1568632411?uo=4",
+      "genres": [
+        "儿童故事",
+        "播客",
+        "儿童与家庭"
+      ],
+      "genreIds": [
+        "1520",
+        "26",
+        "1305"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2021-05-21T03:06:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童故事"
+    },
+    {
+      "collectionId": 1503858543,
+      "trackId": 1503858543,
+      "collectionName": "天才捕手FM-最带劲的职业故事",
+      "artistName": "大魔宙",
+      "feedUrl": "https://s1.proxy.wavpub.com/storyhunting.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%A9%E6%89%8D%E6%8D%95%E6%89%8Bfm-%E6%9C%80%E5%B8%A6%E5%8A%B2%E7%9A%84%E8%81%8C%E4%B8%9A%E6%95%85%E4%BA%8B/id1503858543?uo=4",
+      "genres": [
+        "幽默对谈",
+        "播客",
+        "喜剧",
+        "即兴表演"
+      ],
+      "genreIds": [
+        "1496",
+        "26",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 354,
+      "releaseDate": "2026-10-10T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "幽默对谈"
+    },
+    {
+      "collectionId": 1616386196,
+      "trackId": 1616386196,
+      "collectionName": "3-6岁儿童科学百科故事|睡前科普故事",
+      "artistName": "小艾姐姐FM",
+      "feedUrl": "http://www.ximalaya.com/album/60789081.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/3-6%E5%B2%81%E5%84%BF%E7%AB%A5%E7%A7%91%E5%AD%A6%E7%99%BE%E7%A7%91%E6%95%85%E4%BA%8B-%E7%9D%A1%E5%89%8D%E7%A7%91%E6%99%AE%E6%95%85%E4%BA%8B/id1616386196?uo=4",
+      "genres": [
+        "儿童教育",
+        "播客",
+        "儿童与家庭",
+        "儿童故事"
+      ],
+      "genreIds": [
+        "1519",
+        "26",
+        "1305",
+        "1520"
+      ],
+      "trackCount": 134,
+      "releaseDate": "2023-04-08T11:59:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童教育"
+    },
+    {
+      "collectionId": 1356520295,
+      "trackId": 1356520295,
+      "collectionName": "小月姐姐睡前故事电台",
+      "artistName": "小月姐姐FM",
+      "feedUrl": "http://www.ximalaya.com/album/4842217.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B0%8F%E6%9C%88%E5%A7%90%E5%A7%90%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B%E7%94%B5%E5%8F%B0/id1356520295?uo=4",
+      "genres": [
+        "儿童与家庭",
+        "播客",
+        "社会与文化",
+        "个人日记"
+      ],
+      "genreIds": [
+        "1305",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 1110,
+      "releaseDate": "2023-03-28T12:01:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童与家庭"
+    },
+    {
+      "collectionId": 1562443216,
+      "trackId": 1562443216,
+      "collectionName": "民间诡事 | 恐怖故事合集丨胆小勿进",
+      "artistName": "与介FM",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%B0%91%E9%97%B4%E8%AF%A1%E4%BA%8B-%E6%81%90%E6%80%96%E6%95%85%E4%BA%8B%E5%90%88%E9%9B%86%E4%B8%A8%E8%83%86%E5%B0%8F%E5%8B%BF%E8%BF%9B/id1562443216?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 255,
+      "releaseDate": "2023-12-01T19:24:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1573377451,
+      "trackId": 1573377451,
+      "collectionName": "灵异话茬儿 | 恐怖的灵异故事",
+      "artistName": "话茬儿FM",
+      "feedUrl": "http://www.ximalaya.com/album/39853745.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%81%B5%E5%BC%82%E8%AF%9D%E8%8C%AC%E5%84%BF-%E6%81%90%E6%80%96%E7%9A%84%E7%81%B5%E5%BC%82%E6%95%85%E4%BA%8B/id1573377451?uo=4",
+      "genres": [
+        "即兴表演",
+        "播客",
+        "喜剧",
+        "幽默对谈"
+      ],
+      "genreIds": [
+        "1495",
+        "26",
+        "1303",
+        "1496"
+      ],
+      "trackCount": 87,
+      "releaseDate": "2026-09-30T06:08:00Z",
+      "country": "CHN",
+      "primaryGenreName": "即兴表演"
+    },
+    {
+      "collectionId": 1895207219,
+      "trackId": 1895207219,
+      "collectionName": "听完故事去旅行",
+      "artistName": "余白FM",
+      "feedUrl": "https://feed.xyzfm.space/6yqcwekhlrgw",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%90%AC%E5%AE%8C%E6%95%85%E4%BA%8B%E5%8E%BB%E6%97%85%E8%A1%8C/id1895207219?uo=4",
+      "genres": [
+        "休闲",
+        "播客"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 23,
+      "releaseDate": "2026-05-19T11:55:00Z",
+      "country": "CHN",
+      "primaryGenreName": "休闲"
+    },
+    {
+      "collectionId": 1480979517,
+      "trackId": 1480979517,
+      "collectionName": "人文故事",
+      "artistName": "随新FM",
+      "feedUrl": "http://www.ximalaya.com/album/24306957.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E6%96%87%E6%95%85%E4%BA%8B/id1480979517?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客",
+        "历史"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1487"
+      ],
+      "trackCount": 21,
+      "releaseDate": "2023-09-04T15:07:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1591860301,
+      "trackId": 1591860301,
+      "collectionName": "佐治亚小帅｜北美华人故事访谈",
+      "artistName": "XiaoshuaiFM",
+      "feedUrl": "https://proxy.wavpub.com/xiaoshuaifm.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BD%90%E6%B2%BB%E4%BA%9A%E5%B0%8F%E5%B8%85-%E5%8C%97%E7%BE%8E%E5%8D%8E%E4%BA%BA%E6%95%85%E4%BA%8B%E8%AE%BF%E8%B0%88/id1591860301?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 105,
+      "releaseDate": "2026-06-25T22:49:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1699471144,
+      "trackId": 1699471144,
+      "collectionName": "嘘！睡着了丨成人睡前故事 3D立体声",
+      "artistName": "仙仙儿FM",
+      "feedUrl": "https://www.ximalaya.com/album/47434759.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%98%98-%E7%9D%A1%E7%9D%80%E4%BA%86%E4%B8%A8%E6%88%90%E4%BA%BA%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B-3d%E7%AB%8B%E4%BD%93%E5%A3%B0/id1699471144?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "休闲",
+        "爱好"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 256,
+      "releaseDate": "2026-08-21T17:11:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1462848906,
+      "trackId": 1462848906,
+      "collectionName": "安娜妈咪FM之【小故事大道理】7岁+",
+      "artistName": "安娜妈咪教育频道",
+      "feedUrl": "http://www.ximalaya.com/album/15215.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%AE%89%E5%A8%9C%E5%A6%88%E5%92%AAfm%E4%B9%8B-%E5%B0%8F%E6%95%85%E4%BA%8B%E5%A4%A7%E9%81%93%E7%90%86-7%E5%B2%81/id1462848906?uo=4",
+      "genres": [
+        "儿童与家庭",
+        "播客"
+      ],
+      "genreIds": [
+        "1305",
+        "26"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2014-03-20T09:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童与家庭"
+    },
+    {
+      "collectionId": 1589363004,
+      "trackId": 1589363004,
+      "collectionName": "猫猫兔阅读｜每天一个好故事",
+      "artistName": "猫猫兔FM",
+      "feedUrl": "http://www.ximalaya.com/album/53317418.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%8C%AB%E7%8C%AB%E5%85%94%E9%98%85%E8%AF%BB-%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%BD%E6%95%85%E4%BA%8B/id1589363004?uo=4",
+      "genres": [
+        "儿童故事",
+        "播客",
+        "儿童与家庭",
+        "喜剧",
+        "即兴表演"
+      ],
+      "genreIds": [
+        "1520",
+        "26",
+        "1305",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 73,
+      "releaseDate": "2021-12-15T03:20:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童故事"
+    },
+    {
+      "collectionId": 1116858703,
+      "trackId": 1116858703,
+      "collectionName": "猫爸电台 | 晚安故事",
+      "artistName": "猫爸fm",
+      "feedUrl": "http://www.ximalaya.com/album/368828.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%8C%AB%E7%88%B8%E7%94%B5%E5%8F%B0-%E6%99%9A%E5%AE%89%E6%95%85%E4%BA%8B/id1116858703?uo=4",
+      "genres": [
+        "音乐",
+        "播客",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1310",
+        "26",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 65,
+      "releaseDate": "2024-08-26T15:18:00Z",
+      "country": "CHN",
+      "primaryGenreName": "音乐"
+    },
+    {
+      "collectionId": 1358675824,
+      "trackId": 1358675824,
+      "collectionName": "仲青阅读|中国成语故事",
+      "artistName": "仲青FM",
+      "feedUrl": "http://www.ximalaya.com/album/12803011.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BB%B2%E9%9D%92%E9%98%85%E8%AF%BB-%E4%B8%AD%E5%9B%BD%E6%88%90%E8%AF%AD%E6%95%85%E4%BA%8B/id1358675824?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客",
+        "历史"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1487"
+      ],
+      "trackCount": 125,
+      "releaseDate": "2018-06-14T12:28:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1568929087,
+      "trackId": 1568929087,
+      "collectionName": "紫林FM|老北京的传说故事",
+      "artistName": "紫林说",
+      "feedUrl": "http://www.ximalaya.com/album/49598749.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%B4%AB%E6%9E%97fm-%E8%80%81%E5%8C%97%E4%BA%AC%E7%9A%84%E4%BC%A0%E8%AF%B4%E6%95%85%E4%BA%8B/id1568929087?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2021-05-25T10:04:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1619761072,
+      "trackId": 1619761072,
+      "collectionName": "夜听解忧｜艺秋电台 情感FM",
+      "artistName": "艺秋讲故事",
+      "feedUrl": "http://www.ximalaya.com/album/64107657.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%9C%E5%90%AC%E8%A7%A3%E5%BF%A7-%E8%89%BA%E7%A7%8B%E7%94%B5%E5%8F%B0-%E6%83%85%E6%84%9Ffm/id1619761072?uo=4",
+      "genres": [
+        "情感与人际关系",
+        "播客",
+        "社会与文化",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 77,
+      "releaseDate": "2022-05-16T13:52:00Z",
+      "country": "CHN",
+      "primaryGenreName": "情感与人际关系"
+    },
+    {
+      "collectionId": 1191409439,
+      "trackId": 1191409439,
+      "collectionName": "我的故事，你的心情",
+      "artistName": "一声FM-程风",
+      "feedUrl": "http://www.ximalaya.com/album/5867192.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E7%9A%84%E6%95%85%E4%BA%8B-%E4%BD%A0%E7%9A%84%E5%BF%83%E6%83%85/id1191409439?uo=4",
+      "genres": [
+        "健康与健身",
+        "播客",
+        "社会与文化",
+        "个人日记"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 54,
+      "releaseDate": "2023-10-20T06:48:00Z",
+      "country": "CHN",
+      "primaryGenreName": "健康与健身"
+    },
+    {
+      "collectionId": 1741185213,
+      "trackId": 1741185213,
+      "collectionName": "FM95.2青岛故事广播《大家来收藏》杨泽东课本",
+      "artistName": "蝉鸣书院",
+      "feedUrl": "https://www.ximalaya.com/album/55140726.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/fm95-2%E9%9D%92%E5%B2%9B%E6%95%85%E4%BA%8B%E5%B9%BF%E6%92%AD-%E5%A4%A7%E5%AE%B6%E6%9D%A5%E6%94%B6%E8%97%8F-%E6%9D%A8%E6%B3%BD%E4%B8%9C%E8%AF%BE%E6%9C%AC/id1741185213?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "教育",
+        "语言学习"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2024-04-01T14:12:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1129666229,
+      "trackId": 1129666229,
+      "collectionName": "北京传说故事",
+      "artistName": "聚听FM",
+      "feedUrl": "http://www.ximalaya.com/album/3319365.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8C%97%E4%BA%AC%E4%BC%A0%E8%AF%B4%E6%95%85%E4%BA%8B/id1129666229?uo=4",
+      "genres": [
+        "旅行与地方文化",
+        "播客",
+        "社会与文化",
+        "历史"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 19,
+      "releaseDate": "2016-05-20T04:21:00Z",
+      "country": "CHN",
+      "primaryGenreName": "旅行与地方文化"
+    },
+    {
+      "collectionId": 1627412636,
+      "trackId": 1627412636,
+      "collectionName": "疫苗的故事",
+      "artistName": "田麗雲  x 好好聽FM",
+      "feedUrl": "https://feed.firstory.me/rss/user/cl3wgy4gv012w01u39p7n3vr6",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%96%AB%E8%8B%97%E7%9A%84%E6%95%85%E4%BA%8B/id1627412636?uo=4",
+      "genres": [
+        "儿童教育",
+        "播客",
+        "儿童与家庭",
+        "健康与健身",
+        "医学"
+      ],
+      "genreIds": [
+        "1519",
+        "26",
+        "1305",
+        "1512",
+        "1518"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2023-10-10T09:56:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童教育"
+    }
+  ]
+}

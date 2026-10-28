@@ -1,0 +1,140 @@
+{
+  "show_id": "1450399086",
+  "feed_url": "http://www.ximalaya.com/album/18566744.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/18566744.xml",
+    "final_url": "http://www.ximalaya.com/album/18566744.xml",
+    "fetched_at": "2026-10-25T14:49:46.459227+00:00",
+    "status": 200,
+    "sha256": "3329d154c8e5418a8cf35e827b62a8c49ec29b361989c3864b928ff340f4c744"
+  },
+  "status": "ok",
+  "title": {
+    "text": "不正经的艺术",
+    "truncated": false
+  },
+  "description": {
+    "text": "扒一扒艺术的黑历史， 品一品时尚的毒鸡汤， 在八卦趣闻中， 深度解读艺术品， 学习艺术史，提高审美力",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 41,
+  "episodes": [
+    {
+      "id": "362b3aff15d774f01bb4b572feac5c72386a9acfa600554a0285e07f948bb4a6",
+      "guid": "xmly_track_953975948",
+      "title": {
+        "text": "名画中的斩杀线-生存策略与纳什均衡",
+        "truncated": false
+      },
+      "description": {
+        "text": "可听可看。 扎心的一期，慎听",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Feb 2026 17:54:24 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f6f4384b93e76641408e4ca4939c7be90c1f510a562134b73681077dc557d158",
+      "guid": "xmly_track_932096468",
+      "title": {
+        "text": "（老郭聊聊）1块钱一首歌，难怪音乐大厂坐不住了！补上给上集动画写的歌《未满》。",
+        "truncated": false
+      },
+      "description": {
+        "text": "这集老郭聊聊。 写了首歌，原本是想给上集《呐喊》配的，奈何前天没憋出来。今天突然灵感爆发，补上。 AIGC，歌是AI生成的，词是老郭写的，声音是克隆老郭的唱的。 可以看下现在的AI能做到什么程度。 歌词： 《未满》 by 那个老郭 词：那个老郭 曲：suno 唱：那个老郭（声音克隆） `[Verse 1]` 西装的钮扣 又勒紧肚腩 像命运勒住 喉咙的轻叹 泡不开的茶 已半凉未完 这杯叫“责任”的 账单 关上了新闻 关不上羁绊 孩子的学费 父母的医院 曾嘲笑平庸 却活得平凡 镜子里 是谁的 陌生容颜 `[Verse 2]` 酒桌的笑话 已练得熟烂 敬酒的弧度 多么的自然 当年的“不忿” 变“自然而然” 反正那 奖杯已蒙尘积满 谁没有梦想 曾高过云端 才显得此刻 格外的难堪 怕的不是输 是“习惯”了难 关灯后 看着那 裂开的墙 `[Chorus]` 我们都困在 半山的难关 上不去 叫“圆满” 下不去 叫“平凡” 以为是路障 挡住了期盼 原来是路牌 写着“欢迎”你我 入中年 我们都爱过 半生的浮华 放不下的执念 变成了伤疤 以为是终点 原来是关卡 嘲笑这 攀登的 傻瓜 `[Bridge]` 那罐没喝完的啤酒在看 看你把愤怒 吞回了肚腩 人到中年 像一场流感 无人幸免 靠“死撑”驱散 何必去“看透” 看透了更难 不如就 陪着它 一起腐烂 想要去“放下” 你先得“拿过” 谁又能 辩得清 因果",
+        "truncated": true
+      },
+      "published_at": "Mon, 17 Nov 2025 08:26:00 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "90f3ee939b1ff273a02a892c41b31d84b4876b8befec13d2aa7f1d16d7857728",
+      "guid": "https://aod.cos.tx.xmcdn.com/group61/M0A/57/1F/wKgMcF1DvRXjyRLtANziueTHKZM345-aacv2-48K.m4a",
+      "title": {
+        "text": "35.吃不起的水果--朱塞佩·阿尔钦博托",
+        "truncated": false
+      },
+      "description": {
+        "text": "视频节目可以在油管中搜索不正经的艺术的频道即可观看，欢迎小伙伴尝鲜 《鲁道夫二世》 《四季》 《园丁》 杨·布鲁盖尔 博思 老彼得·布鲁盖尔",
+        "truncated": false
+      },
+      "published_at": "Fri, 02 Aug 2019 04:39:57 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "b1c61f93c3df5b62419e83805e9b81d41429f8a9eec0020cb3e4681468b7fbe1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group61/M00/E8/4E/wKgMcF0N_TnzMherAqE0IcF3JKA844-aacv2-48K.m4a",
+      "title": {
+        "text": "29.大千世界寻真佛（3）：藏史漫聊，《步辇图》，前弘期",
+        "truncated": false
+      },
+      "description": {
+        "text": "开头曲：《Song of the Lonely Mountain 》by Ameritz Countdown Karaoke 夏天了，送上清凉的结尾曲《Summer Wine》 by Lana Del Rey 《步辇图》 阎立本 唐卡中的莲花生大师 唐卡中的布达拉宫 唐卡中的大昭寺 唐卡中的桑耶寺 这幅唐卡主要描绘了松赞干布派遣大相禄东赞前往唐都长安（今西安）向唐请婚、迎娶文成公主进藏的故事，并描绘了修建大昭寺的情形。 松赞干布画像 朗达玛灭佛后被僧人刺杀的故事唐卡 尸陀林主唐卡 赤松德赞画传唐卡 赤松德赞是吐蕃王朝第三十七代赞普，他年幼继位，成年后不仅以文才武略稳定了吐蕃局势，促进吐蕃经济、文化等发展，更大力扶植佛教，对藏传佛教的传播产生了重要推动作用。关于赤松德赞的传记唐卡有很多，图中的唐卡是其中的一幅，主要描绘了赤松德赞派遣使者迎请寂护的情形。 胜乐金刚唐卡 动物药图 清代 西藏的动物药物资源也很丰富，很多动物的皮、毛、肉、内脏和骨头都可入药，甚至有些动物的粪便也能用于某些配方。总的来说，用于藏药的动物药材大概有100种，这幅唐卡即画出了一些药用动物及它们身上的药用部位。",
+        "truncated": false
+      },
+      "published_at": "Sat, 22 Jun 2019 10:24:53 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "9e2629242da6247adfb2cf08288fb77d9dad843f2d986fc74834fbd96409d2ef",
+      "guid": "https://aod.cos.tx.xmcdn.com/group57/M01/2B/02/wKgLd1yD65uz2wihAo8z_M196tk298-aacv2-48K.m4a",
+      "title": {
+        "text": "21.浪漫主义（5）：人药与戈雅的黑暗世界",
+        "truncated": false
+      },
+      "description": {
+        "text": "坐标 ： 喜欢老郭节目的朋友别忘了点赞，评论，分享，转发哟。 本期节目为有声ppt形式，在手机app中节目封面的下方，点击蓝色ppt小图标即可边听边看作品了。",
+        "truncated": false
+      },
+      "published_at": "Sat, 09 Mar 2019 16:37:00 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "0cbd4350bb281ba0173479b8f9eb1851a87dfba488ec9f0c36797ab64a9d883e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group52/M00/B8/32/wKgLe1w1gOrwUKy_Aj_UQT_eT2Q940-aacv2-48K.m4a",
+      "title": {
+        "text": "12.风流世纪：波旁王朝（4）--洛可可",
+        "truncated": false
+      },
+      "description": {
+        "text": "号 ： *特别提示：本节目是有声ppt格式，点击封面下面的ppt小图标，就可以一边欣赏高清作品原图，一边听老郭聊艺术了。 音乐： Suite for Jazz Orchestra No. 2 for Violin",
+        "truncated": false
+      },
+      "published_at": "Wed, 09 Jan 2019 05:12:01 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "2146fb6d0c15f20a0213fa95e30233e123bf05ffd7ccabce5cb4b2e1cf80a5c5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group51/M00/09/91/wKgKmlvsUfKRFQcuATkz97_utNM580-aacv2-48K.m4a",
+      "title": {
+        "text": "8.风流世纪：波旁王朝（1）--太阳王崛起",
+        "truncated": false
+      },
+      "description": {
+        "text": "号 ： *特别提示：本节目是有声ppt格式，点击封面下面的ppt小图标，就可以一边欣赏高清作品原图，一边听老郭聊艺术了。 开场音乐： Turning Heads (Main Track_Full Length) 结尾音乐： Concerto No. 4 in F Minor, Op. 8 这一期开始讲波旁王朝，路易十四到路易十六期间的艺术和风流韵事 让·莱恩·热罗姆 黎塞留 马扎然 奥地利的安妮 后皇，路易十四他妈 卡诺莎觐见 教皇博尼法斯八世 马基雅维利肖像",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Nov 2018 16:50:00 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "ad1f3330705a36c52fcb751e2652d8850c5c561b3a06343b845def2cb9ed7b16",
+      "guid": "https://aod.cos.tx.xmcdn.com/group50/M02/09/E9/wKgKnVus0UThmaAIAJ1sBLFZPLg358-aacv2-48K.m4a",
+      "title": {
+        "text": "1.不正经的艺术开讲",
+        "truncated": false
+      },
+      "description": {
+        "text": "号 ： 咱们一起小火慢炖一锅关于艺术和时尚的毒鸡汤，不严肃，不正经的扒一扒艺术和时尚的黑历史。 弗拉戈纳尔 《秋千》 1766-1768 昆丁·马西斯 1513 《丑公爵夫人》",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 Sep 2018 12:54:54 GMT",
+      "feed_index": 40
+    }
+  ]
+}

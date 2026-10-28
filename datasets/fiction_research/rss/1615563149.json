@@ -1,0 +1,140 @@
+{
+  "show_id": "1615563149",
+  "feed_url": "http://www.ximalaya.com/album/58616512.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/58616512.xml",
+    "final_url": "http://www.ximalaya.com/album/58616512.xml",
+    "fetched_at": "2026-10-25T14:44:00.949000+00:00",
+    "status": 200,
+    "sha256": "4cbfa36742195409ef0b04f05a7681e563878e40fdfd757cde8f498824f0439b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "别逼我出手（免费）｜搞笑武侠玄幻小说&轻松、愉快",
+    "truncated": false
+  },
+  "description": {
+    "text": "新书上架 《生活系合成系统》 多人演播，精品制作！ 逼我出手可不是闹着玩的,切记切记。。。 作者：懈步亭 演播：南子_a 薇心：YY591333 希望合作品质作品、优质版权，有意者欢迎联系。 如果您喜欢本专辑，希望您给主播点点关注、订阅以及转发 如果有希望主播改进的地方，请在专辑下评论打分，主播会根据大家的意见进行改进。 让我们一起来创造一个你想象中的武侠世界吧！ 一个以明朝为背景的武侠世界将展现在各位的眼前…… 希望喜欢的朋友们给南子点点订阅以及转发 通过南子生动的演绎，以及精良的制作，来带大家进入这个有趣的世界。 【特别说明】 本节目仅用于我练习提高演播水平，对演播小说的技术进行交流，免费播讲，不用于任何商业用途。版权归版权方所有，如有异议即刻下架，谢谢！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 74,
+  "episodes": [
+    {
+      "id": "03597c8bdc524ee353701b54430f9627921fbf7056ef6f53c269ac9fb6c15775",
+      "guid": "xmly_track_510523209",
+      "title": {
+        "text": "第一卷 第一章 江湖风云（重做）【新书上架啦！】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 13 Mar 2022 12:32:51 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "2aa40dff0feaa20f87af600baa56c28e590fafac004a0e11b5dc0fd5fb042b7e",
+      "guid": "xmly_track_513609214",
+      "title": {
+        "text": "第一卷 第十章 冤家路窄",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 22 Mar 2022 12:25:13 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "8f4b5733dc9a3fdd7558463cef18739cadad89468d0a8d0a4c300186b5a18644",
+      "guid": "xmly_track_516853100",
+      "title": {
+        "text": "第一卷 第十九章 比武 二",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 31 Mar 2022 15:29:35 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "807f57731ecbfba532a9a31e168f96731cf25a842ba536f2512c1c196fb574af",
+      "guid": "xmly_track_521075795",
+      "title": {
+        "text": "第一卷 第二十六章 八强劲敌",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Apr 2022 15:32:45 GMT",
+      "feed_index": 31
+    },
+    {
+      "id": "1d3adf50833cb4e001c1d08053515255143d560f311741cfdd3e2e6ceae39276",
+      "guid": "xmly_track_524799959",
+      "title": {
+        "text": "第二卷 第三章 逼婚风波 中",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 Apr 2022 10:37:18 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "6cffcded05a8af7a0e1a8940fddf4100bb27d8d5e371120d832676b8e438182c",
+      "guid": "xmly_track_528083306",
+      "title": {
+        "text": "第二卷 第六章 传授武功",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 03 May 2022 10:13:16 GMT",
+      "feed_index": 52
+    },
+    {
+      "id": "d3449733d59591b4d4b3b359197928751de702820567dc59d3b41f78e3ad17d1",
+      "guid": "xmly_track_534633080",
+      "title": {
+        "text": "第二卷 第十章 创建山庄 五（今天两更，第二更！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 20 May 2022 06:17:41 GMT",
+      "feed_index": 63
+    },
+    {
+      "id": "3a900e8a864691c708d60b5fa4207fe18af380b3b60e2438bcdec27b8a184828",
+      "guid": "xmly_track_535554830",
+      "title": {
+        "text": "第二卷 第十三章 选婿大典 二（今日两更，第二更！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 24 May 2022 00:30:02 GMT",
+      "feed_index": 73
+    }
+  ]
+}

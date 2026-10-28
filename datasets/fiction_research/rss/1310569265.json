@@ -1,0 +1,140 @@
+{
+  "show_id": "1310569265",
+  "feed_url": "http://www.ximalaya.com/album/11317378.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/11317378.xml",
+    "final_url": "http://www.ximalaya.com/album/11317378.xml",
+    "fetched_at": "2026-10-25T14:41:37.717021+00:00",
+    "status": 200,
+    "sha256": "512ba24c314a338c9a86f15976e8c368af986cede9222fcca15434b2276d5efa"
+  },
+  "status": "ok",
+  "title": {
+    "text": "这就是真相（梅花六带你涨姿势）",
+    "truncated": false
+  },
+  "description": {
+    "text": "喜马拉雅独家出品——《这就是真相》 抖抖生活撩撩世界， 让文化有梗 让嘴巴有趣， 让你的聊天都有料！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 232,
+  "episodes": [
+    {
+      "id": "94db9261e767613e00936f7e35e3f1396139738664bcad90d2d9905171940370",
+      "guid": "https://aod.cos.tx.xmcdn.com/group81/M04/8E/96/wKgPDV7N6MDBjOCgAEOOAS3DSf8980-aacv2-48K.m4a",
+      "title": {
+        "text": "天猫618特约播出：做个守规矩的古人不容易",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 27 May 2020 04:12:39 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f9d4f58b18bbe999bb34d92a4b1aae06ae0ad1a6cb809865354e927979d08256",
+      "guid": "https://aod.cos.tx.xmcdn.com/group65/M0A/4C/A0/wKgMal1jr3PTyI3qAD9-V1Wq_70125.m4a",
+      "title": {
+        "text": "石头剪刀布必胜大法！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Aug 2019 10:08:05 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "8245e060b3cc5f954aca51c717e6830c8e8d34b35feddcd46ba4c766524e689a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group55/M0B/CA/05/wKgLf1yLXi2ApkhYACOlGem6sZg860.m4a",
+      "title": {
+        "text": "被歪果仁误解的中华美食",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Mar 2019 08:11:56 GMT",
+      "feed_index": 66
+    },
+    {
+      "id": "c401ae649872696bcfa4f03bec0eb0768c5cdccc1c3c182c8e24bda7e4e4ee7a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group51/M05/23/8D/wKgKnlvJbBjA49GrACpYRWHFYjc574.m4a",
+      "title": {
+        "text": "城里磕头，回家盖楼——躺着赚钱的高薪职业！",
+        "truncated": false
+      },
+      "description": {
+        "text": "背景音乐： 井筒昭雄 - Madarame Law Firm",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Oct 2018 06:30:00 GMT",
+      "feed_index": 99
+    },
+    {
+      "id": "891c554691a429423cf6b79bd9156acc9f834751e2ff408183e9921b102fea37",
+      "guid": "https://aod.cos.tx.xmcdn.com/group43/M0A/1C/0E/wKgKklspw_bhGR6QAA9FQrEbueQ230.m4a",
+      "title": {
+        "text": "“偷偷暗恋他一年，我却只和他讲过三句话”",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Jun 2018 03:12:38 GMT",
+      "feed_index": 132
+    },
+    {
+      "id": "df1f0b6b46caa1dbccaaac3c4661acd2a6a57cc60940378f4c9bfefe93e481fc",
+      "guid": "https://aod.cos.tx.xmcdn.com/group40/M09/40/D8/wKgJVFqjoyGAgjffAFrQWJpGdEA930.mp3",
+      "title": {
+        "text": "有点点的套套是这样炼成的！",
+        "truncated": false
+      },
+      "description": {
+        "text": "本着“普及健康知识，默默有责”的理念 今天就羞羞的给你们说说套套是怎样炼成的 重点还有圈圈套、点点套等等它们是怎样造出来的？ 严肃点儿，这是科学好吗？ 套套在日常生活中有多重要就不用说了吧 在有效避孕的同时 还能防止疾病的传播 可以说是造福人类的一项发明了 让我们爱惜自己的同时，也更爱TA 答应我，好么？",
+        "truncated": false
+      },
+      "published_at": "Sat, 10 Mar 2018 09:21:49 GMT",
+      "feed_index": 165
+    },
+    {
+      "id": "d377a34ea687ba504513ee365f5c6e49b6cf067bacadc37a38ff3b54133b6c61",
+      "guid": "https://aod.cos.tx.xmcdn.com/group36/M00/12/71/wKgJUlpEp6bBKlH_AA4ldAUef1U752.m4a",
+      "title": {
+        "text": "凡尔赛宫里没有厕所？（171231）",
+        "truncated": false
+      },
+      "description": {
+        "text": "世界著名建筑凡尔赛宫真的没有厕所吗？ 那曾经的主人怎么上厕所？ 来宫里的客人怎么上厕所？ 欢迎收听↓",
+        "truncated": false
+      },
+      "published_at": "Sun, 31 Dec 2017 07:13:00 GMT",
+      "feed_index": 198
+    },
+    {
+      "id": "f8358458f765b3c773ffdd3919d7fe64f9e58e1136f74b8c4039a9677eb5a678",
+      "guid": "https://aod.cos.tx.xmcdn.com/group33/M09/E1/6A/wKgJTFoCeZ_htuIIACXdbH_Ysdw110.m4a",
+      "title": {
+        "text": "男人可以生孩子啦？（171107）",
+        "truncated": false
+      },
+      "description": {
+        "text": "事儿大了事儿大了！ 以后婚姻大事，除了要讨论谁买车谁买房，还要讨论谁负责怀孕生孩子的问题了！",
+        "truncated": false
+      },
+      "published_at": "Wed, 08 Nov 2017 03:38:37 GMT",
+      "feed_index": 231
+    }
+  ]
+}

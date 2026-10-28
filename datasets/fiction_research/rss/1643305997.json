@@ -1,0 +1,140 @@
+{
+  "show_id": "1643305997",
+  "feed_url": "https://www.ximalaya.com/album/70695241.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/70695241.xml",
+    "final_url": "https://www.ximalaya.com/album/70695241.xml",
+    "fetched_at": "2026-10-25T14:44:44.715607+00:00",
+    "status": 200,
+    "sha256": "6b84d33a16634ac2c9273cb260e1773992698861c4401241b798fc26adcf3a86"
+  },
+  "status": "ok",
+  "title": {
+    "text": "谢少宠上瘾｜免费多播｜余生请多指教 | 甜宠日常",
+    "truncated": false
+  },
+  "description": {
+    "text": "———— 【月票换月卡活动】 ———— 没有喜马VIP的粉丝朋友，可以在【沐婉任意一张专辑】下赠送月票获得。 首次投10张月票，送 喜马 【VIP周卡】一张； 之后每投70张月票，送喜马【VIP月卡】一张！ 截图私信沐婉即可领取，玩的就是真实！ 最终解释权由沐婉所有 2023年11月1日 【月月好礼送不停】：———————— 互动榜月榜TOP3，送喜马VIP月卡；（互动值增长的秘诀：多评论多点赞） 收听榜月榜 TOP3 ，送喜马VIP月卡；（需收听VIP专辑，且大于300小时，秘诀：临睡前可以关闭声音开循环播放） ———————————————————————————— 【内容简介】：畅销书小作家孟婉婉，有一个心魇。她畏惧‘火’。后来，她被一个浴火而来的男人，抱出了困境绝地。浴火重生的孟婉婉扔掉小马甲，立志扑倒她的救世主。然后…这男人未免太好扑了吧？再然后，这男人不止好扑，这未免也太会撩了吧！ 谢景庭母胎单身二十九年。头一次被个小姑娘撩动心弦，这一动，就再也无法克制。以此，踏上了回撩，挣钱，逼婚，逼生崽崽的美好时光……",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 206,
+  "episodes": [
+    {
+      "id": "ff8f6871181731a2ab99f1b882b256bfc9d6e80ca9aebaabd7381ff5aed8c35a",
+      "guid": "xmly_track_576070708",
+      "title": {
+        "text": "片花+新书推荐【❤️新书400万字《重生七零娇气白富美》点主页进去收听】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 11 Oct 2022 04:35:52 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "408fcf7c065da5f42a3d4c2a1a5642c9654f69f9066fe9e59ef20decba0254fb",
+      "guid": "xmly_track_565898008",
+      "title": {
+        "text": "谢先生029集 你能收回刚才的话吗？（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 01 Sep 2022 15:18:30 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "c20b462945c5bca372b33d0f1c7ec29c1d8708f006a7e88cd61c910585da8ca6",
+      "guid": "xmly_track_567282109",
+      "title": {
+        "text": "谢先生059集 能不能别提那只狗（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 07 Sep 2022 01:53:56 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "de7d786d3b70d85fabc61a927e49b6b70eda9b4ae35f10f5b0f02c525d18cc0b",
+      "guid": "xmly_track_568643536",
+      "title": {
+        "text": "谢先生088集 攻克他们，谢医生，我看好你（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 12 Sep 2022 10:07:08 GMT",
+      "feed_index": 88
+    },
+    {
+      "id": "115762c3718230faa7cd01ec55ffac5a1817e2ca4a96575bba3469ac5c376105",
+      "guid": "xmly_track_570719572",
+      "title": {
+        "text": "谢先生117集 让夜少见笑了（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 20 Sep 2022 07:12:22 GMT",
+      "feed_index": 117
+    },
+    {
+      "id": "f8458915f73945b8e8c9294f9a486b5fc312ca4823327824562552c9f0a15afe",
+      "guid": "xmly_track_572224565",
+      "title": {
+        "text": "谢先生146集 我们私奔吧（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Sep 2022 01:49:32 GMT",
+      "feed_index": 146
+    },
+    {
+      "id": "93e78312eb7349c4e3e087d4c52a0cb261a4e65cad12bbf85a32df958f14a620",
+      "guid": "xmly_track_573449712",
+      "title": {
+        "text": "谢先生176集 不讲武德（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 02 Oct 2022 23:30:00 GMT",
+      "feed_index": 176
+    },
+    {
+      "id": "e7624be0f6877135bba2eaded422e3e7fe9295ff5e627448c3d398858f4b0e36",
+      "guid": "xmly_track_575194358",
+      "title": {
+        "text": "谢先生205集 现在，我只在乎…（上）【⚠️还可以给主播留言哦❤️】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 08 Oct 2022 01:28:01 GMT",
+      "feed_index": 205
+    }
+  ]
+}

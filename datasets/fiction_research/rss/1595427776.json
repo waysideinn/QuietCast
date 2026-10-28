@@ -1,0 +1,140 @@
+{
+  "show_id": "1595427776",
+  "feed_url": "http://www.ximalaya.com/album/51728873.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/51728873.xml",
+    "final_url": "http://www.ximalaya.com/album/51728873.xml",
+    "fetched_at": "2026-10-25T14:54:42.978829+00:00",
+    "status": 200,
+    "sha256": "eaa186e4bebf8fbfac2c3efff96ba5887483a271054a558b26b2cd0516f0cc72"
+  },
+  "status": "ok",
+  "title": {
+    "text": "有声书《古韵》（作者 凌叔华 朗读 环佩叮当）",
+    "truncated": false
+  },
+  "description": {
+    "text": "《古韵》Ancient Melodies是民国才女凌叔华在跨文化语境下创作的自传体小说，1953年由英国荷盖斯出版社出版，风靡了欧洲半个世纪。 描述小十的童年经历，展示老北京深宅大院的生活日常。 \" 高昂的调子消失以后，古韵犹存，不绝于耳。”",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 31,
+  "episodes": [
+    {
+      "id": "5e60777e2bdec941435b7703b7b8f7011fdbf5dde29b208a017bf0f357ae20cb",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/74a3-audiofreehighqps/E5/AF/CKwRIUEE2kxqABtcqwDQRNrX-aacv2-48K.m4a",
+      "title": {
+        "text": "1 《古韵》简介",
+        "truncated": false
+      },
+      "description": {
+        "text": "《古韵》Ancient Melodies是民国才女凌叔华在跨文化语境下创作的自传体小说，1953年由英国荷盖斯出版社出版，风靡了欧洲半个世纪。 \"高昂的调子消失以后，古韵犹存，不绝于耳。”",
+        "truncated": false
+      },
+      "published_at": "Fri, 30 Jul 2021 23:21:10 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "081d3e1eea9c5b60858b8f90d655ebfab120cbad736d0635f7dd06a89bcb38a0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d0d9-audiofreehighqps/4E/9C/CKwRIasE33z1AFzkFADSMLp5-aacv2-48K.m4a",
+      "title": {
+        "text": "5 《古韵》第三章 搬家（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《古韵》Ancient Melodies是民国才女凌叔华在跨文化语境下创作的自传体小说，1953年由英国荷盖斯出版社出版，风靡了欧洲半个世纪。 \"高昂的调子消失以后，古韵犹存，不绝于耳。”",
+        "truncated": false
+      },
+      "published_at": "Wed, 04 Aug 2021 00:48:00 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "ec84114146e3c6cc839a2aa28bf3b8dc60f3dd2a8e1c4b1bced47014178e2359",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2c14-audiofreehighqps/BD/83/CKwRIW4E7lviAEtiZwDXyFQb-aacv2-48K.m4a",
+      "title": {
+        "text": "10《古韵》 第五章 中秋节（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《古韵》Ancient Melodies是民国才女凌叔华在跨文化语境下创作的自传体小说，1953年由英国荷盖斯出版社出版，风靡了欧洲半个世纪。 \"高昂的调子消失以后，古韵犹存，不绝于耳。” 10 第五章 中秋节（下）",
+        "truncated": false
+      },
+      "published_at": "Sun, 15 Aug 2021 04:32:20 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "f772c902347958cb43848a3ca2d21499f72e76ea28364575ead8845f65f2bd7e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ebc2-audiofreehighqps/3E/C7/CKwRIMAE9dlbAD9pygDaQ3Wg.m4a",
+      "title": {
+        "text": "14 《古韵》第八章 阴谋（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《古韵》Ancient Melodies是民国才女凌叔华在跨文化语境下创作的自传体小说，1953年由英国荷盖斯出版社出版，风靡了欧洲半个世纪。\"高昂的调子消失以后，古韵犹存，不绝于耳。” 14 《古韵》第八章 阴谋（下）",
+        "truncated": false
+      },
+      "published_at": "Fri, 20 Aug 2021 20:53:36 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "837f2fd42148104e809d7efd5e93f443dfe280f2ec5794ecb2bdb3e265e0e6f3",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c06b-audiofreehighqps/7B/A1/CKwRIasE_Oj_AFiIEQDcYaDK-aacv2-48K.m4a",
+      "title": {
+        "text": "18 《古韵》第十一章 鬼的故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "《古韵》Ancient Melodies是民国才女凌叔华在跨文化语境下创作的自传体小说，1953年由英国荷盖斯出版社出版，风靡了欧洲半个世纪。\"高昂的调子消失以后，古韵犹存，不绝于耳。” 18 《古韵》第十一章 鬼的故事",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Aug 2021 05:26:01 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "863bd6739022503bb6205651492658eb854d57711442a75197578aa317d08470",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0bc3-audiofreehighqps/4F/4A/CKwRINsFBu9qAFD3MwDfIyEu-aacv2-48K.m4a",
+      "title": {
+        "text": "22 《古韵》第十三章 两个婚礼（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《古韵》Ancient Melodies是民国才女凌叔华在跨文化语境下创作的自传体小说，1953年由英国荷盖斯出版社出版，风靡了欧洲半个世纪。 描述小十的童年经历，展示老北京深宅大院的生活日常。 \" 高昂的调子消失以后，古韵犹存，不绝于耳。”",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 Sep 2021 19:56:14 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "0a1d7e3c596843a885fd421aae10c64168bf810640431205f7b54fe52658a4dd",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a706-audiofreehighqps/BA/E0/CKwRIMAFDx-ZADjrggDhOeJX.m4a",
+      "title": {
+        "text": "27 《古韵》第十六章 秋日天津（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《古韵》Ancient Melodies是民国才女凌叔华在跨文化语境下创作的自传体小说，1953年由英国荷盖斯出版社出版，风靡了欧洲半个世纪。 描述小十的童年经历，展示老北京深宅大院的生活日常。 \" 高昂的调子消失以后，古韵犹存，不绝于耳。”",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Sep 2021 00:59:58 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "f4c96a130994b6ae786a29042d2ee261ae01cf41bd68b0121baf49238ad60195",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/df44-audiofreehighqps/B0/FB/CKwRIasFFr5EAGDztwDjJA9q-aacv2-48K.m4a",
+      "title": {
+        "text": "31 《古韵》 第十八章 两位表哥（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《古韵》Ancient Melodies是民国才女凌叔华在跨文化语境下创作的自传体小说，1953年由英国荷盖斯出版社出版，风靡了欧洲半个世纪。 描述小十的童年经历，展示老北京深宅大院的生活日常。 \" 高昂的调子消失以后，古韵犹存，不绝于耳。”",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Sep 2021 19:42:46 GMT",
+      "feed_index": 30
+    }
+  ]
+}

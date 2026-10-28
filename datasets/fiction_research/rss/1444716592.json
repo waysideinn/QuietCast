@@ -1,0 +1,140 @@
+{
+  "show_id": "1444716592",
+  "feed_url": "http://www.ximalaya.com/album/19597607.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/19597607.xml",
+    "final_url": "http://www.ximalaya.com/album/19597607.xml",
+    "fetched_at": "2026-10-25T14:49:25.539705+00:00",
+    "status": 200,
+    "sha256": "7bdd4fe0e0e36630ceb349af8d12110ba6ed0bbeba084635752d85dc6b3e9d9e"
+  },
+  "status": "ok",
+  "title": {
+    "text": "24小时新闻直播间",
+    "truncated": false
+  },
+  "description": {
+    "text": "24小时新闻直播间",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 274,
+  "episodes": [
+    {
+      "id": "ca5119982fc1d69f09dbc6658765d7f956837bc89dea7e911f2903b505a9e3f5",
+      "guid": "xmly_track_621842055",
+      "title": {
+        "text": "岩讲录｜177.孔乙己难道有罪吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "一个经典的文学形象，为什么又被挖出来热议？这背后触碰了谁的哪根神经？",
+        "truncated": false
+      },
+      "published_at": "Thu, 13 Apr 2023 03:26:03 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "72d82978d1946be75582451a5159b3b6c4afa223290dff8dec29cc1b39c4b0d9",
+      "guid": "xmly_track_554448909",
+      "title": {
+        "text": "收评：两市高开低走创指跌超0.5% 环保板块逆势走强",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Jul 2022 14:09:11 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "549a417b93f390f6839b31f710318033d405ff50aa1d9c747209ee43b9bb0ff1",
+      "guid": "xmly_track_529054658",
+      "title": {
+        "text": "日首相在英国称“明天的东亚可能成为乌克兰”，外交部驳斥！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 May 2022 12:51:38 GMT",
+      "feed_index": 78
+    },
+    {
+      "id": "c89f2e0f35918fd689f195a8c19fb04cea6c37b324ee9b54c3aa8892185c5e30",
+      "guid": "xmly_track_513558527",
+      "title": {
+        "text": "秦刚做客美电视节目9分钟被打断23次，该主持是何意图",
+        "truncated": false
+      },
+      "description": {
+        "text": "秦刚做客美电视节目9分钟被打断23次，该主持是何意图",
+        "truncated": false
+      },
+      "published_at": "Tue, 22 Mar 2022 11:23:19 GMT",
+      "feed_index": 117
+    },
+    {
+      "id": "c37b2c3fe1610e49edaf2f797d0e9a6feca67d402407871e3414516d36d9a080",
+      "guid": "xmly_track_512613540",
+      "title": {
+        "text": "国家电影局：中高风险地区电影院一律暂不开放",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 20 Mar 2022 04:05:43 GMT",
+      "feed_index": 156
+    },
+    {
+      "id": "dedba965b6295ea403961c2896d1b750f20ed68a01d3ac5cf1a36f1ec23e8b93",
+      "guid": "xmly_track_490001325",
+      "title": {
+        "text": "【早报】微信：支付业务从未在小商户收款业务实现盈利；耐克起诉Lululemon",
+        "truncated": false
+      },
+      "description": {
+        "text": "据新浪科技报道，2022微信公开课Pro昨天上午在广州举行。微信公开课讲师张颖在演讲中透露，过去几年微信支付从未在小微商户收款业务中实现盈利，一直都处于亏损状态。张颖还透露，微信支付还会继续补贴超过100亿帮助小微商户进行数字化升级。官方数据显示，微信支付累计发放了超过5000万个收款码，超过1100万台收款音响，小账本月活超过4800万。 36氪获悉，据中国政府网消息，国务院办公厅印发《要素市场化配置综合改革试点总体方案》。其中提到，推广“信易贷”模式，用好供应链票据平台、动产融资统一登记公示系统、应收账款融资服务平台，鼓励金融机构开发与中小微企业需求相匹配的信用产品。探索建立中小企业坏账快速核销制度。探索银行机构与外部股权投资机构深化合作，开发多样化的科技金融产品。支持在零售交易、生活缴费、政务服务等场景试点使用数字人民币。 据深圳证监局消息，深圳证监局发布关于对深圳中青宝互动网络股份有限公司采取责令改正措施的决定：检查发现，中青宝在三会运作、内幕信息知情人管理、关联方管理等方面存在不规范情形，决定对中青宝采取责令改正的监管措施。其中，内幕信息管理不规范方面，中青宝存在内幕信息知情人档案未经法定代表人签字、非公开发行股票事项未制作重大事项进程备忘录、内幕信息知情人登记不完整等情形。 据界面报道，泡泡玛特与北京朝阳公园达成合作，合作双方为北京泡泡玛特乐园管理有限公司、北京朝阳公园",
+        "truncated": true
+      },
+      "published_at": "Wed, 19 Jan 2022 10:05:59 GMT",
+      "feed_index": 195
+    },
+    {
+      "id": "49b8190b59804aec538f9edd615d2dfbb423bd4579128f3fb1a03e26963adbbf",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ded4-audiofreehighqps/0D/87/CKwRIW4EO5i3AezrOgCZkfkj.m4a",
+      "title": {
+        "text": "【直播回听】咱也聊聊三星堆",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 06 Apr 2021 12:32:37 GMT",
+      "feed_index": 234
+    },
+    {
+      "id": "7ad6ebeff5d6c569ac5e745376d68a673e865e51e20566f1df9a0f46fb70f2cb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group54/M04/1F/1B/wKgLfVv82DWDUA4GAAAWRqB-1rs147.m4a",
+      "title": {
+        "text": "声音",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 27 Nov 2018 05:38:01 GMT",
+      "feed_index": 273
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://s2.proxy.wavpub.com/voyagefm.xml",
+    "final_url": "https://s2.proxy.wavpub.com/voyagefm.xml",
+    "fetched_at": "2026-10-26T07:54:45.262938+00:00",
+    "status": 200,
+    "sha256": "ed4c905a49d9db5774bec38ed53cde07be6be5e150dc777469b63f542f50e084"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "远方中转站|治愈旅行",
+      "truncated": false
+    },
+    "description": {
+      "text": "每周一准时更新（为保障质量，一月三更）节目关于旅行的趣事，城市的巡礼，生活的感悟",
+      "truncated": false
+    },
+    "language": "zh-CN",
+    "credits": [
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "远方中转站|治愈旅行"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "远方中转站|治愈旅行"
+      },
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "Copyright @荔枝FM www.lizhi.fm"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Places & Travel"
+      ]
+    ],
+    "channel_link": "http://www.lizhi.fm",
+    "generator": "WavPub 3.0",
+    "sampled_audio_endpoint_hosts": {
+      "tk.wavpub.com": 8
+    },
+    "feed_item_count": 130,
+    "episodes": [
+      {
+        "title": {
+          "text": "《海盗电台》与最后一期远方fm",
+          "truncated": false
+        },
+        "description": {
+          "text": "《海盗电台》相信是不少播客人的心声，那么我也借此，对远方fm道个别吧。 主播：TC 本期节目： - 关于远方fm的最后一期 - 《海盗电台》你最喜欢哪个角色 - 梦想没有酷与不酷之分 - 蛋玩儿游戏广播的得与失 - 远方fm意外的达到的三个目标 - 远方周末计划还在持续，欢迎继续收听 播出时间：每周五早7：00更新 微博 : @远方fm 公众号[contact removed]（远方fm补完计划）",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "0672a506-73fe-422d-8314-046d0fd646e4"
+      },
+      {
+        "title": {
+          "text": "约个会：北京汉堡拔草指南（上） Vol.106",
+          "truncated": false
+        },
+        "description": {
+          "text": "久违的美食话题，眼看着Shake Shack排起长队 难道北京好吃的汉堡只此一家么 本期节目，带您领略我们心目中，好吃而无需排队的汉堡店 上期五家：Let's Burger Plus、悠航、三小猪、特富客、Angels Burger 主播：TC、艾尔文",
+          "truncated": false
+        },
+        "feed_index": 18,
+        "guid": "eed51927-761f-4bb5-9633-4380aaa24134"
+      },
+      {
+        "title": {
+          "text": "【城记】新世界话北平-绒线胡同和东交民巷 Vol.88",
+          "truncated": false
+        },
+        "description": {
+          "text": "新世界话北平最后一期——反派们的根据地。听完这期节目，您不难理解小红袄是真凶的原因；您可能想不到，中学时代的铁林可能和小红袄有过一面之缘；而柳如丝和东交民巷着实气质相符；主播自己也和东交民巷有着不解之缘。主播：TC、清水",
+          "truncated": false
+        },
+        "feed_index": 37,
+        "guid": "88019210-c1f0-4bfe-ae6b-b6fb847c7c8a"
+      },
+      {
+        "title": {
+          "text": "远方的乐队夏天（独唱版）",
+          "truncated": false
+        },
+        "description": {
+          "text": "依然是远方的胡闹团建，慎听本次比起合唱和崩溃版，算差强人意我们以后，应该不会再发这么狂躁的节目了。",
+          "truncated": false
+        },
+        "feed_index": 55,
+        "guid": "f9c5cac9-b8c2-4fc0-b0fe-aac475fcb39f"
+      },
+      {
+        "title": {
+          "text": "【城记】侬好，上海 Vol.56",
+          "truncated": false
+        },
+        "description": {
+          "text": "魔都，到底是魔幻之都还是魔力之都呢，或许二者都是吧。有古今建筑交相辉映的奇景，有繁华和静谧共存的街巷，是复古和弄潮儿共同的爱，也是中外冒险家们的乐园。本期就来听听我们眼中的上海滩吧。",
+          "truncated": false
+        },
+        "feed_index": 74,
+        "guid": "a1014f1f-89ee-4727-bd35-22c136ac2174"
+      },
+      {
+        "title": {
+          "text": "【杂谈】逛动物园的正确姿势 Vol.39",
+          "truncated": false
+        },
+        "description": {
+          "text": "最近社会上，和动物园相关的事儿真不少，特别热闹，野生动物园又一次伤人事件，到广州动物园马戏团关停。加上《黑象》《猩球崛起3》给我们带来的冲击，让我们联想到很多关于人和动物的故事。所以这次我们聊一聊旅行中去过的一个比较特殊的景点……动物园。PS. 后半段有留言彩蛋哦欢迎和我们一起分享生活旅途中的故事！ 欢迎关注远方fm的新浪微博，微博中搜索：远方fm",
+          "truncated": false
+        },
+        "feed_index": 92,
+        "guid": "9beb96f3-5f59-4667-85d7-64a108c96004"
+      },
+      {
+        "title": {
+          "text": "【异邦】美国黑人文化漫谈 Vol.20",
+          "truncated": false
+        },
+        "description": {
+          "text": "借着白人至上的川普上台以及邓肯退役的一系列热点，我们和71体育调频共同录制了有关美国黑人的节目。通过体育、电影、音乐、游戏以及我们的亲身经历，漫谈我们眼中的黑人文化。",
+          "truncated": false
+        },
+        "feed_index": 111,
+        "guid": "3b5783d5-28e4-4653-8eb3-a2ca45255286"
+      },
+      {
+        "title": {
+          "text": "【学途】敢问路在远方·留学岁月始末谈 Vol.1",
+          "truncated": false
+        },
+        "description": {
+          "text": "第一期节目我们没有鲜明的定位，而是浅谈了留学的始末。但一不留神，我们也走了心，差点老泪纵横。节目的最后算是留给大家的彩蛋，一首非常好听的说唱歌曲，希望你们能够喜欢。",
+          "truncated": false
+        },
+        "feed_index": 129,
+        "guid": "a5f2c426-00d1-4889-bf40-6bb6ee46b37f"
+      }
+    ]
+  }
+}

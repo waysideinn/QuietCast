@@ -1,0 +1,140 @@
+{
+  "show_id": "1650507591",
+  "feed_url": "https://www.ximalaya.com/album/71718997.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/71718997.xml",
+    "final_url": "https://www.ximalaya.com/album/71718997.xml",
+    "fetched_at": "2026-10-25T14:44:55.277528+00:00",
+    "status": 200,
+    "sha256": "ad216068da2b4ec6eb4cfb3954797b73e34f7f6397168aa3cf4bf260ca1fd2a1"
+  },
+  "status": "ok",
+  "title": {
+    "text": "斗罗之最强武魂|多人播讲|穿越|系统流|玄幻爽文",
+    "truncated": false
+  },
+  "description": {
+    "text": "日更5集，不定期爆更！订阅可以收到更新提醒哦~ 【内容简介】 斗罗之最强武魂 【主播介绍】 本作为斗罗的衍生改编作品，改编了很多原著中的故事情节，主角也属于穿越者而且自带系统，所以本文也属于穿越系统流爽文，文中有很多区别于原著与同类小说的设定，比如呼吸升级。。。。等等，更多的内容等待着您的探索。更新超级稳定，为您播讲优质小说~欢迎关注留言",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 883,
+  "episodes": [
+    {
+      "id": "1642c24f78f393c0563670d225216c5719feb32aa89761d2362ae565136ad44d",
+      "guid": "xmly_track_577235086",
+      "title": {
+        "text": "第1章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 15 Oct 2022 13:09:19 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "744043c8eb90a22ca133ab227926659cbdb3fcee2b4b59d62396308476d859af",
+      "guid": "xmly_track_577248878",
+      "title": {
+        "text": "第127章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 15 Oct 2022 13:49:26 GMT",
+      "feed_index": 126
+    },
+    {
+      "id": "146ae8126d7d5769367b1ade139121224cd3670862dcce99fd61271785b8e348",
+      "guid": "xmly_track_577320136",
+      "title": {
+        "text": "第253章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 16 Oct 2022 00:38:12 GMT",
+      "feed_index": 252
+    },
+    {
+      "id": "03a9078e0fb13d79508b340becf533ae9bcd514fa8314874d3c6415373f26de0",
+      "guid": "xmly_track_577388862",
+      "title": {
+        "text": "第383章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 16 Oct 2022 06:40:39 GMT",
+      "feed_index": 378
+    },
+    {
+      "id": "1f1ca1df04472bfde6035f201009bd024f889b0816fa171aebaf317ce1e17b3f",
+      "guid": "xmly_track_578132354",
+      "title": {
+        "text": "第509章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Oct 2022 02:10:48 GMT",
+      "feed_index": 504
+    },
+    {
+      "id": "875cb8763b3a0ff84ac949038a138bc865e844685ec39cb8e6172860997f3bea",
+      "guid": "xmly_track_578138172",
+      "title": {
+        "text": "第635章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Oct 2022 02:35:35 GMT",
+      "feed_index": 630
+    },
+    {
+      "id": "b2804952aa25ebef624f668d8b6bb98e1eea323375ad5cfd62169b9cfc803e1c",
+      "guid": "xmly_track_578146353",
+      "title": {
+        "text": "第757章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Oct 2022 03:05:32 GMT",
+      "feed_index": 756
+    },
+    {
+      "id": "dbaf54784e4b26200ee7ded9fdf3952e4325c8ffbfd53ebe83805ccc097c7e23",
+      "guid": "xmly_track_578148234",
+      "title": {
+        "text": "第884章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Oct 2022 03:13:17 GMT",
+      "feed_index": 882
+    }
+  ]
+}

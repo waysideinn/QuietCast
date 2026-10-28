@@ -1,0 +1,140 @@
+{
+  "show_id": "1564620897",
+  "feed_url": "https://feeds.soundon.fm/podcasts/a669d3ac-a0f5-434f-8b49-107a1eb65537.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/a669d3ac-a0f5-434f-8b49-107a1eb65537.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/a669d3ac-a0f5-434f-8b49-107a1eb65537.xml",
+    "fetched_at": "2026-10-25T14:52:46.632752+00:00",
+    "status": 200,
+    "sha256": "6a9ea2c23a5c3fcf038d92412419e3dda9f997897bdde6328abef9200be17efe"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Annie 愛情急診室",
+    "truncated": false
+  },
+  "description": {
+    "text": "哈囉大家好👩‍⚕️我是 Annie，在這裡會聊聊感情中的自我成長💓 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 190,
+  "episodes": [
+    {
+      "id": "b6cd545e43569cfa0373c20c43ad41b968f475494d4a805707cbf8159b5a15de",
+      "guid": "328d1893-7ac4-4bbb-a7de-f0272d0d1145",
+      "title": {
+        "text": "偷偷更新一集，有沒有人會發現呢 ><",
+        "truncated": false
+      },
+      "description": {
+        "text": "真的好久沒有和大家見面了！😭😭 轉眼間就來到 2025 年底 不知道大家今年過得如何呢？ ​ 很謝謝一直都還惦記著我的你們 歡迎在這集留言或是到 IG 和我聊聊 希望大家 2026 一切都好 💖 我們一定會再相見的！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 21 Dec 2025 12:30:47 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "545ec092415dd16ee18e5938b64d6390bfdcaf93d89f4c22bd88edc79e3b5295",
+      "guid": "eac423d2-f02b-4f54-9cec-4f1001d98cd1",
+      "title": {
+        "text": "EP.162｜《別對每件事都有反應》！尋愛中保有自己的 5 個心態",
+        "truncated": false
+      },
+      "description": {
+        "text": "【幫你拍交友用的照片⬇️ 10 張頭貼只要 $1350】 📸預約拍攝： https://www.accupass.com/event/2406010522156155058000 ​ 💝方案 A：優惠價 $1350 - 拍攝 30 分鐘，提供 10 張精修照片 - 九折優惠碼：ANNIE ​ 💝方案 B：優惠價 $2700 - 拍攝 60 分鐘，提供 20 張精修照片 - 九折優惠碼：ANNIE2 ​ ♡⋯⋯⋯♡⋯⋯⋯♡⋯⋯⋯♡⋯⋯⋯♡ ​ ✅配合你的時間地點來約拍 ✅攝影師會引導拍攝，不擔心尷尬 ✅事前與你討論穿搭、配件 ✅無須額外花錢治裝，客製化拍出生活感！ ​ 這個服務真的 CP 值超高✨ 體驗過的客戶都非常喜歡且推薦 深深感受到 Before & After 的威力🌀 ​ 📸預約拍攝： https://www.accupass.com/event/2406010522156155058000 ♡⋯⋯⋯♡⋯⋯⋯♡⋯⋯⋯♡⋯⋯⋯♡ ​ #停止後悔，而是進行檢驗 失敗的最佳善用法 ​ #嘗試其他的看法 角度不同，看到的風景也不同 ​ #活的絕對自主 不受「大家」影響的生存方式 ​ #不要輕易動搖原則 傾聽他人意見時的不變原則 ​ #不偽裝自己 小心機反而引人嘲笑 ​ 在尋愛的過程中 經常容易受到他人眼光的影響 逐漸失去自我的真實與特色 ​ 我從《別對每件事都有反應》這本書中 挑出",
+        "truncated": true
+      },
+      "published_at": "Thu, 06 Jun 2024 12:45:19 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "72f89e3bc767eca0aa65ddf7340e90c12a0fe9e49280a14da472da8492c9e1bc",
+      "guid": "8a1463e8-3471-4dbf-8178-2fc67f6b310e",
+      "title": {
+        "text": "EP.135｜男友不愛講心事？維持熱戀期的方法！尊重與包容的環境。",
+        "truncated": false
+      },
+      "description": {
+        "text": "#商業合作洽詢：[email removed] 前陣子收到了一位聽眾的來信 她說男友不習慣講心事 總需要自己一直問才會說 她知道這樣會給男友造成壓力 但如果都不說，就很難知道問題出在哪裡 ​ 因為擔心給男友造成壓力 她開始降低與男友聯繫的頻率 過了一段時間後，發現感情有點淡了 女生擔心是熱戀期過了，不知該如何是好 ​ 今天的 Podcast 想從這個故事切入 與大家分享伴侶之間傾訴心事 以及維持戀愛溫度的方法 詳細的內容歡迎收聽 Podcast🎧 ​ ♡⋯⋯⋯♡⋯⋯⋯♡⋯⋯⋯♡⋯⋯⋯♡ ​ Annie 愛情急診室 ​ 每週四 21:00 各大 Podcast 平台更新 收聽連結： https://joy.link/ainimal ​ 官方 IG 📸 https://ainimal.io/ig 匿名社群 💌 https://ainimal.io/匿名社群 贊助安妮 🥺 https://ainimal.io/donate 日常 YT 🎞️ https://ainimal.io/yt -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 30 Nov 2023 12:45:53 GMT",
+      "feed_index": 54
+    },
+    {
+      "id": "4375d8879c1af8ecaaec92b6709156dabb5d3d77568809f19332f5416b313144",
+      "guid": "396b7409-f0df-44b9-8fb9-76666ef53e65",
+      "title": {
+        "text": "EP.108｜羨慕他人的生活？成功能夠複製嗎？內化為自己的特色！",
+        "truncated": false
+      },
+      "description": {
+        "text": "抽獎🔥私密潔淨露｜ https://www.instagram.com/p/CsdtPe3pFCL/ 「好羨慕XXX，有很多人在追她」 「把自己營造成很高冷的樣子，就會有人喜歡我？」 「明明我跟 XXX 條件差不多，為什麼我就沒人追？」 ​ 你內心也曾有過這些聲音嗎？ ​ 有崇拜的對象，甚至想要成為他 or 她 這都是很正常的事情，我也有崇拜的對象 ​ 我們在網路上看到他人的光鮮亮麗 其實都只是看到他的精選片段 更多的是你沒看到的幕後花絮 ​ 每個人都是獨立的個體 比起一味地模仿他的外在 更重要的是你內在的獨特氣質 ​ 深入剖析你喜歡他的哪些特質 將它內化為你自己的個人風格 才能真正地靠自己吸引到喜歡的人喔！ ______________________________ Annie 愛情急診室 官方 IG 📸 ainimal.io/ig 匿名社群 💌 ainimal.io/匿名社群 贊助安妮 🥺 ainimal.io/donate 日常 YT 🎞️ ainimal.io/yt -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 25 May 2023 12:45:07 GMT",
+      "feed_index": 81
+    },
+    {
+      "id": "259e42d1b9d0da2655217664fae94ef472f845cc9b4b50897ec8857e72e0b3cf",
+      "guid": "f6fad01c-8e44-4521-9403-ac150809b06d",
+      "title": {
+        "text": "EP.81｜很痛苦卻放不下？覺察彼此的需要！找到自己的信念。",
+        "truncated": false
+      },
+      "description": {
+        "text": "「我知道他已經不愛我了，但我就是離不開…」 「或許我再多努力一點，他就會注意到我…」 「他對我態度很差，但他應該是愛我的吧？」 明明知道自己身處於一段不健康的關係 我們卻還是常常選擇忍耐 雖然痛苦，卻不願意離開他 身邊親友都說別再自虐了 知道自己不應該再繼續這段感情 卻依舊懷抱著那一絲絲的希望 為什麼明明想改變現狀 我們卻選擇持續待在痛苦當中呢？ 「改變是未知的，痛苦是習慣的」 如同物理學中 #靜者恆靜 的概念 畢竟痛苦的狀態是我們能預期的 覺得再差不過也就這樣 但改變會不會更糟，我們無法預期 所以自然不會想克服改變的摩擦力 跳脫以往習慣痛苦的狀態 選擇不改變現狀，持續待在痛苦當中 那到底要如何判斷值不值得改變呢？ 要先「覺察自己的需要」 了解自己在這段感情中到底求的是什麼？ 是什麼讓自己這麼痛苦還離不開？ 了解自己的心理狀態、兩人的需求 才有辦法更進一步探討這段感情存在的必要 📍詳細內容歡迎前往 Podcast 收聽！ ____________________________________ ​Annie 愛情急診室 官方 IG 📸 ainimal.io/ig 匿名社群 💌 ainimal.io/匿名社群 贊助安妮 🥺 ainimal.io/donate 主持人🙋‍♀️ ainimal.io/Alice 日常 YT 🎞️ ainimal.io/yt 軟體下載📲 ainimal.i",
+        "truncated": true
+      },
+      "published_at": "Thu, 17 Nov 2022 13:30:20 GMT",
+      "feed_index": 108
+    },
+    {
+      "id": "bf0a455041b54951141fd1797e9334ce515c4658c07eac96b54070e78d5f0137",
+      "guid": "da68c6ba-6cdf-480e-97ff-c11ea00ed79f",
+      "title": {
+        "text": "EP.54｜聊天話題怎麼開？聊天頻率如何抓？網聊多久該見面？​",
+        "truncated": false
+      },
+      "description": {
+        "text": "📍 Hahow 文章投票：https://ainimal.io/hahow Annie 每每分享聊天相關的技巧​ 都會獲得廣大的回響👏👏​ 聊天看似是一件稀鬆平常的事​ 其實暗藏著一門很深的學問 👀！​ ​ 找不到合適的聊天話題、​ 不知道怎麼抓回覆的頻率、​ 聊了好久都沒有進展…​ ​ 你也有這些煩惱嗎？​ 快收聽本集 Podcast🏃‍♂️🏃‍♀️🏃‍♂️​ 讓 Annie 為你解答！ 也別忘了到 Hahow 幫我們按讚唷 🙋‍♀️​ 📍 Hahow 文章投票：https://ainimal.io/hahow _________________________________​ Annie 愛情急診室 主持人🙋‍♀️ ainimal.io/Alice 官方 IG 📸 ainimal.io/ig 匿名社群 💌 ainimal.io/匿名社群 軟體下載📲 ainimal.io/APP 贊助安妮 🥺 ainimal.io/donate -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 May 2022 13:31:01 GMT",
+      "feed_index": 135
+    },
+    {
+      "id": "ef750b850c11dafe1fdf23666f618e4d4a2d106c7035e055e5aa978740ab3d96",
+      "guid": "103595ef-6ce2-4ebf-aeb7-e14d13c5de95",
+      "title": {
+        "text": "EP.27｜與人聊天總是找不到話題？4大關鍵讓你遠離尬聊！如何從朋友提升到曖昧？交往後如何保有異性朋友？",
+        "truncated": false
+      },
+      "description": {
+        "text": "你也是句點王、尬聊王嗎？ 聊天其實也是需要做點功課的！ 但不用擔心，Annie 都幫你準備好了！ 快來聽聽如何成為聊天高手吧～ 近期收到的匿名提問， 關於如何從朋友提升到曖昧關係， 以及交往後如何繼續和異性當朋友， 也都收錄在這集裡面唷～ 快來聽聽 Annie 怎麼說！ _________________________________​ Annie 愛情急診室 主持人🙋‍♀️ ainimal.io/Alice 官方 IG 📸 ainimal.io/ig 匿名社群 💌 ainimal.io/匿名社群 軟體下載📲 ainimal.io/APP 贊助安妮 🥺 ainimal.io/donate -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 Oct 2021 13:30:00 GMT",
+      "feed_index": 162
+    },
+    {
+      "id": "c126bf8bb877971a0a54bb3d02401998310e71b71545e94975d3fd48276a0c7f",
+      "guid": "e040f8ca-20b0-4c3b-9f4f-f43ca98a5313",
+      "title": {
+        "text": "EP.00｜感情上的疑難雜症，讓我來治癒！",
+        "truncated": false
+      },
+      "description": {
+        "text": "感情問題不知向誰傾訴？害怕心裡的小聲音不被理解？快來 Annie 急診室掛號，讓我治癒你的心💕 _________________________________​ Annie 愛情急診室 主持人🙋‍♀️ ainimal.io/Alice 官方 IG 📸 ainimal.io/ig 匿名社群 💌 ainimal.io/匿名社群 軟體下載📲 ainimal.io/APP 贊助安妮 🥺 ainimal.io/donate -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Apr 2021 13:30:44 GMT",
+      "feed_index": 189
+    }
+  ]
+}

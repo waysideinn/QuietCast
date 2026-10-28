@@ -1,0 +1,77 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/8292144.xml",
+    "final_url": "http://www.ximalaya.com/album/8292144.xml",
+    "fetched_at": "2026-10-26T07:55:13.798848+00:00",
+    "status": 200,
+    "sha256": "589632157df1ce90c1a31bf6381be012aefcf159ea417ba343c821eb70b169f7"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "穿越火线：第一次世界大战",
+      "truncated": false
+    },
+    "description": {
+      "text": "《穿越火线：第一次世界大战》，以世界畅销历史小说《世纪三部曲》第一部《巨人的陨落》为原著蓝本，将一般人的历史经历，和历史学家的历史叙述结合。加以其它信息，为你讲述一战的方方面面。加上两位老师的风趣幽默的讲解，一谈一笑间，让你像追美剧一样追历史。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "非星凡文化 @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "非星凡文化"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "非星凡文化"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Arts"
+      ],
+      [
+        "Arts",
+        "Literature"
+      ],
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "History"
+      ],
+      [
+        "News & Politics"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/8292144",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 1
+    },
+    "feed_item_count": 1,
+    "episodes": [
+      {
+        "title": {
+          "text": "【第一次世界大战】序.贵族荣耀，工农去死。",
+          "truncated": false
+        },
+        "description": {
+          "text": "【新节目上线】 惠天&言亮最新节目 《世界史三部曲：从法国大革命到一战》 （点击专辑文字即可跳转到新节目）已上线！为你讲述从1789到1914惊心动魄的百年世界史！ 【往期优秀节目回顾】 《 世界的凛冬：二战的权力游戏 》&《 永恒的边缘：冷战的权力游戏 》 （点击专辑文字即可跳转新节目）",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group39/M04/65/22/wKgJnlplzDDzhgJ2AFlHA2Pj86M597.m4a"
+      }
+    ]
+  }
+}

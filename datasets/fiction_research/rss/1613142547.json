@@ -1,0 +1,70 @@
+{
+  "show_id": "1613142547",
+  "feed_url": "https://feed.firstory.me/rss/user/cl0gj9eak3uyz0961m0k6xzqv",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/cl0gj9eak3uyz0961m0k6xzqv",
+    "final_url": "https://feed.firstory.me/rss/user/cl0gj9eak3uyz0961m0k6xzqv",
+    "fetched_at": "2026-10-25T14:43:56.389518+00:00",
+    "status": 200,
+    "sha256": "130abc7d725f402cd9b5bd96aadf16030df7db40f98c3fcff96eb8e012bb2f45"
+  },
+  "status": "ok",
+  "title": {
+    "text": "2022粵語廣播劇丨無依之男",
+    "truncated": false
+  },
+  "description": {
+    "text": "Tin 原著丨一條鹹魚製作 粵語廣播劇《無依之男》 . 十年之約將至 那個刻在心底的名字 該脫下婚戒去見她嗎? . 聲音演出: Tin = 男主角 華Dee = 兄弟 ELLA =糟糠之妻 GIGI = 舊情人 Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 3,
+  "episodes": [
+    {
+      "id": "cc75f682f45816848e3f0fd189950b1154f11623656db07e650e63ce0b08cf09",
+      "guid": "cl91mi7kz077001x93qtr5lrb",
+      "title": {
+        "text": "2022 粵語廣播劇丨無依之男 (EP3)",
+        "truncated": false
+      },
+      "description": {
+        "text": "Tin 原著丨一條鹹魚製作 粵語廣播劇《無依之男》 . 共赴十年之約 是重溫舊夢 抑或破鏡難圓？ . 最終回 聲音演出: Tin = 男主角 GIGI = 初戀情人 ELLA = 糟糠之妻 . ※ 插曲《某種老朋友》林家謙 ※ BGM源自Youtube無版權音樂 －－－－－－－－－－－－－－－－－－ 在棄坑邊緣徘徊大半年 總算在年底前完結啦～ 前兩集views破3000也是意料之外！！ 其實這是我們戲劇班結業演出的劇本 圍讀時心血來潮想錄成廣播劇 於是我第一個作品誕生了 歡迎找我一起玩配音！ Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 09 Oct 2022 18:13:41 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "a55d194273ea9e8ff5163794d2db681c8a49095dbe4f5f3c30036db3beccdae8",
+      "guid": "cl118d87a010k0h1j7g4efjtd",
+      "title": {
+        "text": "2022粵語廣播劇丨無依之男 (EP2)",
+        "truncated": false
+      },
+      "description": {
+        "text": "Tin 原著丨一條鹹魚製作 粵語廣播劇《無依之男》 . 又回到枯燥乏味的家 面對賣力討好的她 為何只有煩厭？ . 第二回 聲音演出: Tin = 男主角 ELLA = 糟糠之妻 GIGI = 初戀情人 . ※ 片中韓劇《那年夏天的我們》 ※ 片尾曲《我也難過的》謝芊彤, 吳林峰 留言告訴我你對這一集的想法： https://open.firstory.me/user/cl0gj9eak3uyz0961m0k6xzqv/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Mar 2022 22:01:05 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "9d50d5a2f6c5c0422bf6038fa723a506df962ab70a99c94ea38023bc03fb63b0",
+      "guid": "cl0gjiflv2b8p09448ho3ihlg",
+      "title": {
+        "text": "2022 粵語廣播劇丨無依之男 (EP1)",
+        "truncated": false
+      },
+      "description": {
+        "text": "Tin 原著丨一條鹹魚 (我) 製作 粵語廣播劇《無依之男》 . 十年之約將至 那個刻在心底的名字 該脫下婚戒去見她嗎? . 第一回 聲音演出: Tin = 男主角 華Dee = 兄弟 迷之音 = 舊情人 . ※ BGM源自網絡 ※ 片尾曲《刻在我心底的名字》cover by 魏如萱 ----------------------------------------------------------------- 人生第一齣自製廣播劇！！！ 遇到好劇本 好組員 雖然錄音條件很馬虎 後製我可是用足心機的 (希望感受到 Q-Q 虛心接受一切批評 下一回輪到糟糠之妻 (我) 上場了 期待一下～ 留言告訴我你對這一集的想法： https://open.firstory.me/story/cl0gjiflv2b8p09448ho3ihlg?m=comment Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Mon, 07 Mar 2022 10:07:58 GMT",
+      "feed_index": 2
+    }
+  ]
+}

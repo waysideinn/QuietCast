@@ -1,0 +1,140 @@
+{
+  "show_id": "1474474297",
+  "feed_url": "https://anchor.fm/s/afc5b48/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/afc5b48/podcast/rss",
+    "final_url": "https://anchor.fm/s/afc5b48/podcast/rss",
+    "fetched_at": "2026-10-25T14:41:49.013399+00:00",
+    "status": 200,
+    "sha256": "91573a0a670b274a698906581ac5f96f5340334b4e9e3e7cc01ad10dcacdd32d"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Nippon MoshiMoshi",
+    "truncated": false
+  },
+  "description": {
+    "text": "Nippon Moshimoshi is een podcast waarin ik mijn interesse voor Japan met iedereen deel. In iedere aflevering bespreek ik één of twee topics in verband met de taal, dagdagelijkse cultuur, de geschiedenis en het leven in Japan. Dat bekijk ik door de ogen van een Europeaan en ik probeer toe te lichten, of de aandacht te trekken op verschillen en overeenkomsten die het land zo interessant maken. Hebt u een vraag of een opmerking, laat het dan gerust weten. Indien mogelijk gaan ik er dan ook op in.",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "nl-be",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 16,
+  "episodes": [
+    {
+      "id": "9bc0d1ce7c728978be6c06999f984ab03b18305d3e345658fee01fa8016a9c21",
+      "guid": "cb82829d-8834-4142-b05f-39a4553f13e5",
+      "title": {
+        "text": "コンビニ of konbini!",
+        "truncated": false
+      },
+      "description": {
+        "text": "Nippon MoshiMoshi : コンビニ of konbini! NipponMoshiMoshi is bereikbaar via : E-mail: [email removed] Facebook: https://www.facebook.com/moshimoshipodcast Abonneren kan via Anchor, Google Podcasts, Spotify, Breaker, RadioPublique, Pocket Casts en Apple Podcasts",
+        "truncated": false
+      },
+      "published_at": "Wed, 03 Jun 2020 13:16:53 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f0478d965c82e5b3c54b873e44608629ff5633bb46132b1ee71e30f510adb66f",
+      "guid": "4c9877a5-4238-4b53-a5f8-ccbe1d54c9fa",
+      "title": {
+        "text": "Uguisubari (鶯張り)、sumimasen (すみません) en dogeza (土下座)",
+        "truncated": false
+      },
+      "description": {
+        "text": "Nippon MoshiMoshi : -Uguisubari (鶯張り)、sumimasen (すみません) en dogeza (土下座) • Uguisubari (鶯張り) - https://somejapan.com/where-to-see-nightingale-floors-in-japan/ • sumimasen (すみません) en dogeza (土下座) - https://www.youtube.com/watch?v=UFj7VlyEKyg - https://www.youtube.com/watch?v=HMwCiotgCpI - https://jn1et.com/sumimasenn/ - https://www.sankei.com/west/news/170417/wst1704170001-n1.html NipponMoshiMoshi is bereikbaar via E-mail: [email removed] Facebook: https://www.facebook.com/moshimoshipodcast Abonneren kan via Anchor, Google Podcasts, Spotify, Breaker, RadioPublique, Pocket Casts en Apple Podcasts",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Apr 2020 08:41:35 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "957ec784ebb9b0d6f00578941bb7673494e705d5c35a9b084de09abdf1bb30b2",
+      "guid": "abff8938-fd30-4fc2-807e-482d7514350f",
+      "title": {
+        "text": "Nippon MoshiMoshi : Goede manieren in Japan, Japan en gender problematiek, Rakugo en Rurôni Kenshin",
+        "truncated": false
+      },
+      "description": {
+        "text": "Nippon MoshiMoshi : Goede manieren in Japan, Japan en gender problematiek, Rakugo en Rurôni Kenshin Rakugo: http://cyco-o.com/ https://www.be.emb-japan.go.jp/itpr_en/culture_event_jicc.html#feb2020 Rurôni Kenshin filmscreening: https://www.be.emb-japan.go.jp/itpr_en/culture_event_jicc.html NipponMoshiMoshi is bereikbaar via E-mail: [email removed] Facebook: https://www.facebook.com/moshimoshipodcast Abonneren kan via Anchor, Overcast, Google Podcasts, Spotify, Breaker, RadioPublique, Pocket Casts en Apple Podcasts",
+        "truncated": false
+      },
+      "published_at": "Fri, 31 Jan 2020 09:10:15 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "722cc5d2c0d0e1d1c15ed0173e7f9670955fa7a1546b1ede85e8fbe13116af8e",
+      "guid": "bcd02a38-bab5-4dc2-0068-52cd7558f7a8",
+      "title": {
+        "text": "NipponMoshiMoshi : De geschiedenis van Japan (deel4)",
+        "truncated": false
+      },
+      "description": {
+        "text": "Nippon MoshiMoshi : De geschiedenis van Japan, deel 4: De Asuka periode NipponMoshiMoshi is bereikbaar via E-mail: [email removed] Facebook: https://www.facebook.com/moshimoshipodcast (voor links in verband met het behandelde onderwerp) Abonneren kan via Anchor, Google Podcasts, Spotify, Breaker, RadioPublique, Pocket Casts en Apple Podcasts",
+        "truncated": false
+      },
+      "published_at": "Fri, 29 Nov 2019 15:11:26 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "ef696a67eb80d593631715bc450d14296c3887314e7202c273cb647747f5fa5b",
+      "guid": "03804bb1-96a0-9a10-a8ca-4a3851eb68ac",
+      "title": {
+        "text": "Ozu Yasujirô, Rakugo en de geschiedenis van Japan (deel 2)",
+        "truncated": false
+      },
+      "description": {
+        "text": "Nippon MoshiMoshi : Ozu Yasujirô, Rakugo en de geschiedenis van Japan (deel 2) INHOUD Evenementen: Ozu Yasujirô: http://cinematek.be/?node=17&event_id=100247202 Entertainment: Rakugo: https://en.wikipedia.org/wiki/Uji_Sh%C5%ABi_Monogatari https://en.wikipedia.org/wiki/Rakugo https://www.youtube.com/watch?v=vhkYNpwTKIQ http://mediawiki.arts.kuleuven.be/geschiedenisjapan/index.php/Rakugo NipponMoshiMoshi is bereikbaar via E-mail: [email removed] Facebook: https://www.facebook.com/moshimoshipodcast Abonneren kan via Anchor, Google Podcasts, Spotify, Breaker, RadioPublique, Pocket Casts en Apple P",
+        "truncated": true
+      },
+      "published_at": "Thu, 19 Sep 2019 15:06:37 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "7b6cca024eccde2257a938ea3a7f6cb13be33406552de7cb0334aeb1180d6224",
+      "guid": "89be4f19-ae1d-3ab0-e15b-272f68316e7c",
+      "title": {
+        "text": "Nippon MoshiMoshi : Het Takenaka Museum voor Schrijnwerkersgerief & Buigen (ojigi お辞儀)",
+        "truncated": false
+      },
+      "description": {
+        "text": "Nippon MoshiMoshi : Het Takenaka Museum voor Schrijnwerkersgerief – Buigen (ojigi お辞儀) Inhoud - Cultuur: “Het Takenaka Museum voor Schrijnwerkersgerief” - Taal en communicatie : Buigen (ojigi お辞儀) NipponMoshiMoshi is bereikbaar via E-mail: [email removed] Anchor: https://anchor.fm/jan-moens Facebook: https://www.facebook.com/moshimoshipodcast Abonneren kan via Anchor, Google Podcasts, Spotify, Breaker, RadioPublique, Pocket Casts en Apple Podcasts",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Aug 2019 04:48:21 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "0629d4c8d15c352055b6bfa7d8d184d8e183627de4f211b92ebafa2aba1ccbfa",
+      "guid": "76a159fd-b979-73d8-c456-5364db4e605c",
+      "title": {
+        "text": "Nippon MoshiMoshi - Kawaii en aizuchi - かわいい と 相槌",
+        "truncated": false
+      },
+      "description": {
+        "text": "Nippon MoshiMoshi : Inhoud - Cultuur: “kawaii” かわいい - Taal en communicatie : aizuchi 相槌 NipponMoshiMoshi is bereikbaar via E-mail: [email removed] Anchor: https://anchor.fm/jan-moens Facebook: https://www.facebook.com/moshimoshipodcast Abonneren kan via Anchor, Google Podcasts, Spotify, Breaker, RadioPublique, Apple Podcasts en Pocket Casts. Moshimoshi is een podcast waarin ik mijn interesse voor Japan met iedereen deel. In iedere aflevering bespreek ik één of twee topics in verband met de dagdagelijkse cultuur, de geschiedenis en het leven in Japan. Dat bekijk ik door de ogen van een Europeaa",
+        "truncated": true
+      },
+      "published_at": "Fri, 02 Aug 2019 11:37:38 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "262f6a733e042acbb0bbf81c6fbad81534a8fc3c55cea1e47f048e98d29d81cf",
+      "guid": "28fc768d-c1fc-2a44-d176-0a6dcb9144e8",
+      "title": {
+        "text": "Wagashi - 和菓子",
+        "truncated": false
+      },
+      "description": {
+        "text": "NipponMoshiMoshi ⁃ over traditioneel snoep - Speelgoed tentoonstelling ambassade Japan te Brussel Nippon MoshiMoshi is bereikbaar via Anchor: https://anchor.fm/jan-moens E-mail: [email removed] Facebook: https://www.facebook.com/moshimoshipodcast Soundcloud: https://soundcloud.com/user-212580144 Nippon Moshimoshi is een podcast waarin we onze liefde voor Japan met iedereen delen. In iedere aflevering bespreken we één of twee topics in verband met de dagdagelijkse cultuur, de geschiedenis en het leven in Japan. Dit bekijken we door de ogen van een westerling en we proberen toe te lichten, of de",
+        "truncated": true
+      },
+      "published_at": "Fri, 26 Jul 2019 01:33:47 GMT",
+      "feed_index": 15
+    }
+  ]
+}

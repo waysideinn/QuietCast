@@ -1,0 +1,13 @@
+{
+  "fixtures": 6460,
+  "swift_results": 6460,
+  "mismatch_count": 0,
+  "mismatches": [],
+  "source_hashes": {
+    "Sources/PodcastCore/Models.swift": "d0265ba8db607c8330488e1f7d5003562e97b307e52393381b28edd23f09d035",
+    "Sources/PodcastCore/ContentFiltering.swift": "527358a8c3c664a94faca76a433077046671f9d7a90b587bd42fd0a7582d27b6",
+    "research/scripts/SwiftProbe.swift": "4a85a9de4f3481819082f0c493243e43a4715198ebc152116d6defb8aed57386"
+  },
+  "rule_sha256": "204f07a4b671485b6324e5f3f438ca302fc4aed48713f5078bc2859805d1a195",
+  "notes": "Development-only scoring/normalization parity. No private parent policy or playback operation exercised."
+}

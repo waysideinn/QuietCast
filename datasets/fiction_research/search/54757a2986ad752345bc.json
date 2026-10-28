@@ -1,0 +1,65 @@
+{
+  "group": "fiction",
+  "term": "网游",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%BD%91%E6%B8%B8&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%BD%91%E6%B8%B8&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:40:54.600428+00:00",
+    "status": 200,
+    "sha256": "56bf92116d9931348f8554a8aa4e42716e652807e5bb48eaac148f8d0c1190fc"
+  },
+  "result_count": 2,
+  "records": [
+    {
+      "collectionId": 1627437945,
+      "trackId": 1627437945,
+      "collectionName": "寰宇时代-科幻网游巨著【EVE】同人小说|永久免费专辑",
+      "artistName": "海音词",
+      "feedUrl": "https://www.ximalaya.com/album/43470805.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%AF%B0%E5%AE%87%E6%97%B6%E4%BB%A3-%E7%A7%91%E5%B9%BB%E7%BD%91%E6%B8%B8%E5%B7%A8%E8%91%97-eve-%E5%90%8C%E4%BA%BA%E5%B0%8F%E8%AF%B4-%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9%E4%B8%93%E8%BE%91/id1627437945?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "休闲",
+        "游戏"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1502",
+        "1507"
+      ],
+      "trackCount": 131,
+      "releaseDate": "2022-08-07T11:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1676761825,
+      "trackId": 1676761825,
+      "collectionName": "【多播】网游之我在异世界里超神的",
+      "artistName": "12可可_魔麦有声",
+      "feedUrl": "https://www.ximalaya.com/album/74783272.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%9A%E6%92%AD-%E7%BD%91%E6%B8%B8%E4%B9%8B%E6%88%91%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E9%87%8C%E8%B6%85%E7%A5%9E%E7%9A%84/id1676761825?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "喜剧小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 257,
+      "releaseDate": "2023-07-12T02:04:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    }
+  ]
+}

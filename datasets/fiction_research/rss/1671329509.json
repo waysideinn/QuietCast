@@ -1,0 +1,98 @@
+{
+  "show_id": "1671329509",
+  "feed_url": "https://www.ximalaya.com/album/74141001.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/74141001.xml",
+    "final_url": "https://www.ximalaya.com/album/74141001.xml",
+    "fetched_at": "2026-10-25T14:45:07.941540+00:00",
+    "status": 200,
+    "sha256": "833ba361cb0acb0f743b578cc32a46834d046b24ea86b10948bbda056dd7ff8c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "读三体聊投资/陪您穿越投资的黑暗森林",
+    "truncated": false
+  },
+  "description": {
+    "text": "大刘真是神人，《三体》真是神作！我从《三体》中悟出了穿越投资黑暗森林的理性之光。希望和您一起分享！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 5,
+  "episodes": [
+    {
+      "id": "311163bc3246845342bdbee1b4bdc4a4c77083c991b1943f69e967bee1a7308f",
+      "guid": "xmly_track_616028510",
+      "title": {
+        "text": "危机纪年205年的北京房地产市场分析",
+        "truncated": false
+      },
+      "description": {
+        "text": "大刘眼里的未来北京房地产市场是什么样的？“知道现在这里最不值钱的是什么？就是爸你一辈子供的房子，都空着，随便住了！”",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Mar 2023 10:04:50 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "0d2bae3ea2a0ff1d25b23905ca1734635235cb8b0b15c5df3e715378e66dde8e",
+      "guid": "xmly_track_612488163",
+      "title": {
+        "text": "从艾AA看投资交易模式的未来",
+        "truncated": false
+      },
+      "description": {
+        "text": "先做题，后听书。量化投资和主观选股谁能笑到最后？",
+        "truncated": false
+      },
+      "published_at": "Mon, 20 Feb 2023 09:37:16 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "e9b679776b4a470f2e3755f8450c445b57cb95f4d7dd83d6f7a23c93e760f9bc",
+      "guid": "xmly_track_610298432",
+      "title": {
+        "text": "投资也有“思想钢印”吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "读三体，聊投资，谈谈如何获得投资的“思想钢印”。",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Feb 2023 13:46:27 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "630e2dafe1375df64a0ba15353830cd8e884c555b228fabb88caa9d3acf7826f",
+      "guid": "xmly_track_609775189",
+      "title": {
+        "text": "如果投资圈是ETO，那散户们一定是“降临派”",
+        "truncated": false
+      },
+      "description": {
+        "text": "用《三体》故事剖析投资误区，把握资本市场脉络！",
+        "truncated": false
+      },
+      "published_at": "Wed, 08 Feb 2023 10:26:36 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "0c66e92f925bda52b52b41b292f2fafb821da3be2b0b30901878bc0efd9e22b3",
+      "guid": "xmly_track_608657586",
+      "title": {
+        "text": "开篇之前的一些心里话",
+        "truncated": false
+      },
+      "description": {
+        "text": "作为学习有声作品制作的试水，很多地方存在问题，敬请原谅！配套文字发表在我的微信公众号“加百列投资之路”上，欢迎关注！",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Feb 2023 08:16:49 GMT",
+      "feed_index": 4
+    }
+  ]
+}

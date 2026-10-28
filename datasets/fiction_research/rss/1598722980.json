@@ -1,0 +1,140 @@
+{
+  "show_id": "1598722980",
+  "feed_url": "http://www.ximalaya.com/album/55078615.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/55078615.xml",
+    "final_url": "http://www.ximalaya.com/album/55078615.xml",
+    "fetched_at": "2026-10-25T14:43:34.208979+00:00",
+    "status": 200,
+    "sha256": "40c76458c79c09c217ded7ffad212c63e7ec8ea7f0bf85f52a4ece47741f7b70"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【免费精品多播】江湖甚无趣 | 武侠言情｜轻松欢乐",
+    "truncated": false
+  },
+  "description": {
+    "text": "江湖门派 &人物关系图 《江湖甚无趣》这本小说是闺蜜的处女作，虽然字数不多，读起来甚是有趣。其实去年12月学习有声演播之初就有了想要把它有声化的念头。终于到毕业半载，才开始统筹规划。 第一次从画本、主播分配到对轨、后期制作，全程亲自操作控制进度，耗时6个月之久才终于上架，哈哈哈～ 个中心酸和痛苦就不细说啦，看到成品，唯有满满的成就感。 感谢师父、感谢揽月兄、萌小萌、零七先生、十九师兄、月亮、君君、格格和老六 无条件的支持，尤其是萌小萌，怀着宝宝还坚持把女主的戏份录完，娃都生了还在帮我补音，感动到无以复加。 这部作品承载着我们满满的诚挚和爱意， 希望有越来越多的人喜欢它～！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 85,
+  "episodes": [
+    {
+      "id": "9e13e132c6080221ce3847a69b49f5c887788243f43e0c3aebc47cb5198ea7fd",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7a16-audiofreehighqps/88/54/GKwRIJEFdqXlABAAAAD7puYP.mp3",
+      "title": {
+        "text": "江湖甚无趣 00 精彩片花介绍",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 27 Nov 2021 00:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8732b7fd9504211a0ee56f3623cc86714bd26f982198c5af6361fb8b1ea2a968",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a5f8-audiofreehighqps/02/66/GKwRIJEFdqfHABAAAAD7p_Eb.mp3",
+      "title": {
+        "text": "江湖甚无趣 12 谁来匿名信",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 29 Nov 2021 00:00:00 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "9777525f9530f82b3e973d30be6fafd124d77aa5bcc7b0daaa4385133fd7b7d3",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a8a7-audiofreehighqps/34/8B/GKwRIRwFdqhCABAAAAD7qDI7.mp3",
+      "title": {
+        "text": "江湖甚无趣 24集 新线索",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 Dec 2021 10:00:02 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "81044a743aa268a5d1f831708b7c7d79aea24f5e23848e07890c58a156f90a79",
+      "guid": "xmly_track_476406919",
+      "title": {
+        "text": "江湖甚无趣 36 真实身份",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 07 Dec 2021 10:00:02 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "39d8886753925fb08be1d0f504af6a35f4f5724584f3d5857a95b694531e0a52",
+      "guid": "xmly_track_476407866",
+      "title": {
+        "text": "江湖甚无趣 48 藏宝图之谜",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Dec 2021 09:00:02 GMT",
+      "feed_index": 48
+    },
+    {
+      "id": "e923e759099dc6df86a5b457c2cdc642d9ca5640217ff3af999c69eba76564e6",
+      "guid": "xmly_track_476414549",
+      "title": {
+        "text": "江湖甚无趣 60 扁鹊医书",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Dec 2021 09:00:02 GMT",
+      "feed_index": 60
+    },
+    {
+      "id": "a88d37f3b79c08bb1d615e03187969424b65ae49bf70a680951a310a499726f9",
+      "guid": "xmly_track_479192420",
+      "title": {
+        "text": "江湖甚无趣 72 尘归尘，土归土",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Dec 2021 09:00:02 GMT",
+      "feed_index": 72
+    },
+    {
+      "id": "779e0e8baeb8a9e1e2fe9d21229fac75e0c8593bd0307d391f580bb9ca2e3fa4",
+      "guid": "xmly_track_479192922",
+      "title": {
+        "text": "江湖甚无趣 84 真巧啊，你也在 (完)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 19 Dec 2021 04:19:02 GMT",
+      "feed_index": 84
+    }
+  ]
+}

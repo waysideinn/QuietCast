@@ -1,0 +1,158 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/76526568.xml",
+    "final_url": "https://www.ximalaya.com/album/76526568.xml",
+    "fetched_at": "2026-10-26T07:57:15.841817+00:00",
+    "status": 200,
+    "sha256": "c980db79e6679a7d1806edb8122b91c2c20ff68a19b0e42f887b57a3493de308"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "秘密：爱、健康与金钱-带你找到真实本质",
+      "truncated": false
+    },
+    "description": {
+      "text": "《秘密》是为数百万人带来喜悦和转变的奇迹之书，《秘密：爱、健康与金钱》则深入探究如何将吸引力法则应用于人生的三大领域，堪称《秘密》的入世实操指南！ 你可以获得个人的幸福、满意的关系、健康、金钱与成功，但你需要知道如何吸引这一切进入你的人生。当我们舍弃局限性的想法，以心念创造强大的力量，对宇宙发出讯号，加速愿望的达成，我们将在每个创造领域，体验到生命的真正精彩。善用吸引力法则，让它成为一种习惯性的生活方式，引导你过上梦想中的生活： 第一部分教你用思想的力量，吸引并维持新的、更好的关系。关系对人生的影响比我们以为的要大得多，拥有快乐的、充满爱的关系对我们每个人来说都至关重要。美好关系带来的巨大转变也会发生在你生活中的其他方面——财务、健康、个人目标和梦想，你会变得快乐、幸福。 第二部分教你用吸引力法则获得健康，很多人因此摆脱了慢性病、抑郁等疾病的困扰。通过你自己的思想和吸引力法则，你创造了自己的全部生活，包括健康的身心。 第三部分教你用自身的力量创造财富，用富人的思维获得金钱以及事业上的成功。带来财富的秘密将帮助你过上自己想要的人生，过上你自己值得拥有的人生。吸引富足，而不是匮乏！ 通过这些行之有效的方法，你可以在生活的方方面面获得巨大的转变——向着更美好的未来。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "多云下的蛋@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "多云下的蛋"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "多云下的蛋"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Relationships"
+      ],
+      [
+        "Education"
+      ],
+      [
+        "Education",
+        "Self-Improvement"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/76526568",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 131,
+    "episodes": [
+      {
+        "title": {
+          "text": "001：献给你们",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_641856761"
+      },
+      {
+        "title": {
+          "text": "020：可视化的力量",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 19,
+        "guid": "xmly_track_641987198"
+      },
+      {
+        "title": {
+          "text": "038：总结：获得爱的秘密",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 37,
+        "guid": "xmly_track_641987369"
+      },
+      {
+        "title": {
+          "text": "057：第三步：接收",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 56,
+        "guid": "xmly_track_641987578"
+      },
+      {
+        "title": {
+          "text": "075：有力的自我暗示",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 74,
+        "guid": "xmly_track_641988017"
+      },
+      {
+        "title": {
+          "text": "094：畏惧和吸引力法则",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 93,
+        "guid": "xmly_track_641988171"
+      },
+      {
+        "title": {
+          "text": "112：为未来而感恩",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 111,
+        "guid": "xmly_track_641988365"
+      },
+      {
+        "title": {
+          "text": "131：总结：获得金钱的秘密",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 130,
+        "guid": "xmly_track_641988766"
+      }
+    ]
+  }
+}

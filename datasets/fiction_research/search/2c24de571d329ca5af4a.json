@@ -1,0 +1,63 @@
+{
+  "group": "normal",
+  "term": "人文播客",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E4%BA%BA%E6%96%87%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E4%BA%BA%E6%96%87%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:42:59.086919+00:00",
+    "status": 200,
+    "sha256": "621c04bc9a191cc2adca03a32c4dc53f9f7bc13ecd1c6d7bb428f2e8a171188e"
+  },
+  "result_count": 2,
+  "records": [
+    {
+      "collectionId": 1712419886,
+      "trackId": 1712419886,
+      "collectionName": "人文清华播客：对话清华学者",
+      "artistName": "人文清华",
+      "feedUrl": "https://www.ximalaya.com/album/54649472.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BA%BA%E6%96%87%E6%B8%85%E5%8D%8E%E6%92%AD%E5%AE%A2-%E5%AF%B9%E8%AF%9D%E6%B8%85%E5%8D%8E%E5%AD%A6%E8%80%85/id1712419886?uo=4",
+      "genres": [
+        "課程",
+        "Podcast",
+        "教育",
+        "社會與文化",
+        "紀實"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1324",
+        "1543"
+      ],
+      "trackCount": 143,
+      "releaseDate": "2026-10-08T12:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "課程"
+    },
+    {
+      "collectionId": 1823232975,
+      "trackId": 1823232975,
+      "collectionName": "诗翼阅读工作室播客·观点",
+      "artistName": "诗翼人文坊",
+      "feedUrl": "https://www.ximalaya.com/album/95061211.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AF%97%E7%BF%BC%E9%98%85%E8%AF%BB%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%92%AD%E5%AE%A2-%E8%A7%82%E7%82%B9/id1823232975?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2026-01-19T06:14:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    }
+  ]
+}

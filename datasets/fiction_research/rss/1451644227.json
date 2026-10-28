@@ -1,0 +1,140 @@
+{
+  "show_id": "1451644227",
+  "feed_url": "https://anchor.fm/s/9015668/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/9015668/podcast/rss",
+    "final_url": "https://anchor.fm/s/9015668/podcast/rss",
+    "fetched_at": "2026-10-25T14:49:50.381439+00:00",
+    "status": 200,
+    "sha256": "daf1c49c3474a1e950b2b49726260fcef380c3796d80df695c1f006fee320802"
+  },
+  "status": "ok",
+  "title": {
+    "text": "阿玩旅遊 玩‧素旅行",
+    "truncated": false
+  },
+  "description": {
+    "text": "從事旅遊業將近10年的歲月時光，看盡了素食朋友出國旅遊時的不便及委屈，阿玩心裏真的非常不捨，因此在阿玩的心裡有顆種子超級想發芽，這顆種子裡有著素食朋友的心聲及期盼：同樣是出國旅遊，素食朋友的需求也必須被尊重及照顧。 憑藉著在旅遊產業多年的專業經驗，阿玩立志要為我們素食朋友們服務及努力，因為本身吃素所以更懂素食朋友的需求，不論是出發前的準備或是旅途中的餐飲，我們都非常重視，只為了讓每一位素食朋友能夠在旅途中玩的盡興，吃得開心。 全團隊都是素食人，也最懂素食咩角。歡迎你的到訪，我們是富有人情味的台灣本土品牌：阿玩旅遊【玩‧素旅行】 查看行程：https://wannavegtour.com/shop 所有行程：https://lihi2.com/mwOAB 認識阿玩：https://lihi2.com/wAXCX 阿玩社群：https://lihi2.com/zhyvu",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 29,
+  "episodes": [
+    {
+      "id": "6da177ed5a261db2fe3966c06bf854862a0117a5050cb2381bfba6becabf5639",
+      "guid": "422e6fc3-09b1-42d9-8f9b-ebc5b7c8fcfc",
+      "title": {
+        "text": "阿玩旅遊說行程：多日期可選．中越峴港會安．巴拿山．升等兩晚五星海景房｜無購物站",
+        "truncated": false
+      },
+      "description": {
+        "text": "阿玩帶你走進越南峴港・會安六日輕旅 有時候，我們不是需要一趟「很厲害」的旅行而是，需要一段剛剛好的時間可以睡得好、吃得安心、慢慢走，不趕、不累就這樣，讓自己重新呼吸一次 沒有購物站，全程素食，有五星住宿一切都安排得剛剛好，就等你出發 去坐竹籃船、走古城、點水燈沙灘吹海風、爬五行山、到山茶半島看看海還有很夢幻的「天空金橋」，就在巴拿山上最後，會在美溪沙灘吃椰子冰沙、拍拍粉紅教堂然後，帶著飽飽的回憶，回家 10/23出發 行程資訊： https://wannavegtour.com/product/1023dad/",
+        "truncated": false
+      },
+      "published_at": "Mon, 12 May 2025 06:24:57 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "5da29237fd4552de449941f4eb02fcdfeb75f07b8058b5f70b810c4598c2a8e9",
+      "guid": "a2ab91ee-7cc2-4b5b-a194-67117e652550",
+      "title": {
+        "text": "阿玩旅遊說行程：7/22富國島．星宇航空．台中直飛．機場免費接駁",
+        "truncated": false
+      },
+      "description": {
+        "text": "阿玩說：今年夏天，我們一起飛去南島尋光～ 還記得上一次，讓你放下手機、真正放空的假期是什麼時候嗎？ 住進五星海島飯店，走出門就是海灘與晚霞 帶你走訪只有當地人才知道的秘境海星沙灘 還有森林裡的 Safari 野生動物園，搭乘獵遊車與動物共呼吸 傍晚在夕陽下散步，晚上在異國夜市吃飽再買點小東西 每一餐都安排用心素食，吃得豐盛、也吃得開心 這不是那種一日跑三個景點、上車睡覺下車拍照的行程 是讓你真正「慢下來」、給自己一段真正喘口氣的時間 阿玩說：我們一直在找一個剛剛好的旅程 不貴、不趕、不走馬看花 📅 出發日期：2025年7月22日（二） ✈️ 台中出發直飛富國島，星宇航空、超優航班 行程連結： https://reurl.cc/Z4Emb6",
+        "truncated": false
+      },
+      "published_at": "Mon, 12 May 2025 04:13:41 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "58e94d9aae47f2d8a84a1baf09eb68bc938d820a411d8096f0a28b361b95dbff",
+      "guid": "64db80b0-9f04-443f-83ce-37028f6ea60e",
+      "title": {
+        "text": "阿玩旅遊說行程：6/17馬來西亞雙世界．檳城與馬六甲的魅力探索．大啖榴槤｜無購物站",
+        "truncated": false
+      },
+      "description": {
+        "text": "6/17出發【阿玩嚴選】馬來西亞 我們準備出發，帶你從吉隆坡一路往南走進柔佛的濕地、農園、傳統村拜訪穆斯林、佛教、印度教的信仰現場 沒有購物站，也沒有趕行程有的，是一頓又一頓真誠的素食料理、一場又一場與人相遇的交流。 大家可以聽看看語音介紹，今年阿玩在日本的行程非常努力，希望大家可以多多支持(感謝) 行程資訊：https://wannavegtour.com/product/0617kul/",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 May 2025 06:30:57 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "8e2cb4fa7bd9afc7bc3587a9c1b8323b083bf34ec19eaaf83160692b062ff275",
+      "guid": "76bf5062-19b9-405c-9933-5d5da9d7e121",
+      "title": {
+        "text": "阿玩旅遊說行程：7/15暑假 親子夢幻之旅：日本東京迪士尼",
+        "truncated": false
+      },
+      "description": {
+        "text": "7/15暑假【阿玩嚴選】不進免稅藥店 親子夢幻之旅：東京迪士尼，探索富士山美景與音樂森林！ 大家可以聽看看語音介紹，今年阿玩在日本的行程非常努力，希望大家可以多多支持(感謝) 行程介紹： https://wannavegtour.com/product/20250715/",
+        "truncated": false
+      },
+      "published_at": "Sat, 03 May 2025 05:52:22 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "2e739985003a72d4d14cb6861c35f8a22449f39ae83674e602622c91a447c8ae",
+      "guid": "7bd46431-2cfe-48e1-82fe-2f9b35cd8564",
+      "title": {
+        "text": "EP7 婚宴全素沒通知！賓客反擊20盒披薩現場送達！太誇張～～",
+        "truncated": false
+      },
+      "description": {
+        "text": "賓客爆氣訂披薩！素食婚宴的『翻車現場』 這則新聞看到的時候阿玩深有感觸 也曾經參加過婚禮，被直接開一桌獨自在旁邊吃飯的感覺 素食者有太多故事能分享了，曾經遭遇的不公平 所以阿玩旅遊的初衷才是希望素食者能夠被尊重！ 所有行程： https://lihi2.com/mwOAB 認識阿玩： https://lihi2.com/wAXCX 加入阿玩Line社群： https://lihi2.com/zhyvu 合作邀約：[email removed] ( 歡迎業配）",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 Dec 2024 09:43:45 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "2e3a4e7c3f457a2c968df3eac848085d6e04d47150d7969703f92b92464061c1",
+      "guid": "846d8743-dc7e-4342-b6a5-a26e12e7aa3c",
+      "title": {
+        "text": "EP3 帶團出國去看爛火車和臭水溝？沒想到全世界都來朝聖，台灣愛河該不該學習？",
+        "truncated": false
+      },
+      "description": {
+        "text": "泰國的爛火車臭水溝為什麼可以風靡全球？ 讓阿玩陪你聊聊天。 所有行程：https://lihi2.com/mwOAB 認識阿玩：https://lihi2.com/wAXCX 加入阿玩Line社群：https://lihi2.com/zhyvu 合作邀約：[email removed] ( 歡迎業配）",
+        "truncated": false
+      },
+      "published_at": "Tue, 22 Oct 2024 03:02:28 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "9a65b1f9f838e9512051da5f64661b5ddc6a54ba2944bad69ac8d38c0b61aad5",
+      "guid": "54880644-7899-dc3a-4207-5d1d1e03e66b",
+      "title": {
+        "text": "在地導遊分享 - 你所不知道的魅力馬來西亞東海岸及飲食",
+        "truncated": false
+      },
+      "description": {
+        "text": "說到馬來西亞，大家可能都知道南洋料理，雙子星塔。可是實際上馬來西亞跟台灣一樣，擁有非常多的特色景點跟活動，阿玩今天特別整理了一段我們在馬來西亞當地的合作夥伴的採訪節目，透過他的精彩內容來跟你分享關於馬來西亞的特色生態旅遊以及魅力飲食文化，聽完相信絕對會讓你愛上馬來西亞！",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Jun 2019 05:36:36 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "4f9e0b30fb316c291809c1265874dcf6747b4135e833beb8d37fe2aee6d2947b",
+      "guid": "6f7c89ac-2437-f81c-2872-b8a75115164f",
+      "title": {
+        "text": "到日本吃素怎麼辦？ 阿玩旅遊 玩‧素旅行 Podcast-01",
+        "truncated": false
+      },
+      "description": {
+        "text": "台灣與日本吃素食的文化是有差異的，日本素食的定義稱為精進料理，而有機蔬菜在日本當地稱為天然野菜，對日本人來說，野菜是可以使用蛋、蔥、蒜、辣、柴魚及味噌高湯等食材來做料理，所以對於吃全素的人來說，到日本旅遊想吃到全素是比較困難的，而對於吃鍋邊素或蛋奶素的朋友來說，或許有彈性的方法可以來調整飲食。 如果你也是素食的朋友，讓阿玩來陪你聊聊，跟你分享有趣的日本素食小知識。 日本素食餐廳攻略：https://www.facebook.com/JapanVegeReataurant/ 日本素食小常識：https://veganplayer.com/about-japan/what-to-eat-in-japan/ 阿玩旅遊的IG：https://instagram.com/awanveganplayer/ 詢問優惠資訊： https://line.me/ti/p/%40play40 日本行程推薦：https://veganplayer.com/about-japan/what-to-eat-in-japan/",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Feb 2019 12:11:09 GMT",
+      "feed_index": 28
+    }
+  ]
+}

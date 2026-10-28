@@ -1,0 +1,140 @@
+{
+  "show_id": "1451397848",
+  "feed_url": "http://www.ximalaya.com/album/20450777.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/20450777.xml",
+    "final_url": "http://www.ximalaya.com/album/20450777.xml",
+    "fetched_at": "2026-10-25T14:49:48.921879+00:00",
+    "status": 200,
+    "sha256": "395b22a799060c236234d21918a24e7c13f91c7040d55dadc1929fd1e1b2aff5"
+  },
+  "status": "ok",
+  "title": {
+    "text": "遇潭的晚间电台|女性成长赋能站",
+    "truncated": false
+  },
+  "description": {
+    "text": "这个世界其实对女性更为残酷 请别停止进化成长的脚步 读书/工作/思考/自强 我们一起变美，变强大 每周三/周六晚十点半，睡前十分钟陪伴时光 分享女性职业/情感/进化/升值的点点滴滴 终身学习成长的道路上 带给你温暖，赋予你力量 微博：遇潭",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 93,
+  "episodes": [
+    {
+      "id": "3907fd59710963b55bedc55e8162e4644849650a6f54a35efd96c85174b63487",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e0bb-audiofreehighqps/0A/41/CMCoOSEDik5mACJyNABoEZTh.m4a",
+      "title": {
+        "text": "112.职场|选择北漂还是做个家乡宝",
+        "truncated": false
+      },
+      "description": {
+        "text": "只有懂得自己的人，才能把自己活成最想要的样子",
+        "truncated": false
+      },
+      "published_at": "Wed, 18 Nov 2020 14:30:03 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "521fa86a46e7a42873274ef7ac03f8c7936dbddbde7039d8f66fcfa8b4de0fd8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group82/M01/12/3B/wKg5HF9XJoqTK-y_AMjgomfxfWs025.mp3",
+      "title": {
+        "text": "98.情感|成功的决心胜于其他任何一切",
+        "truncated": false
+      },
+      "description": {
+        "text": "分享在月光如水的夜晚，成功的决心胜于其他任何一切",
+        "truncated": false
+      },
+      "published_at": "Sat, 12 Sep 2020 14:30:01 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "bfdebd409c3cac6baa26e4144df3cb48f66b8735541f67423ff5743f4c65be1c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group85/M02/CD/9D/wKg5H18hdpWwzKGUALu2QCPNiaU920.mp3",
+      "title": {
+        "text": "85.情感|余生，只求相处不累",
+        "truncated": false
+      },
+      "description": {
+        "text": "余生，只求相处不累。 我常常听人说，要把人生分成两半，前半生，人生是一直在做加法，学习各种技能，参加各种考试，追求一些爱而不得的人，争取一些强人所难的事。。。 而人的后半生，做的是减法，开始接受这个不完美的自己，不开心的事情，就不去想了；还没发生的困难，就不去杞人忧天了，得不到的爱人就放手让他离开吧。。。 你的余生追求的是什么？不论你追求的是什么，都祝福你-发自内心的感到满足，安心和快乐！",
+        "truncated": false
+      },
+      "published_at": "Wed, 29 Jul 2020 14:30:01 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "80b75885e0d4c29fe52762cbfaa396e1869d181f65c77752821459b179aa6564",
+      "guid": "https://aod.cos.tx.xmcdn.com/group79/M01/26/17/wKgPEF6jpTaBbPdTALnfNC4oKoc142.mp3",
+      "title": {
+        "text": "71.进化|控制自己的情绪，学会做自己情绪的主人",
+        "truncated": false
+      },
+      "description": {
+        "text": "发脾气是本能，控制脾气是本领，能控制情绪的人，比拿下一座城池还要强大。",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Apr 2020 14:30:06 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "a9aeaf340bf2a50d1b7456c2a072af88fa80020ca7b17a5d87ec01457beec0b0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group75/M03/87/58/wKgO015PULCDK45iATlD6giT6Ck762.mp3",
+      "title": {
+        "text": "53. 长的好看，就是生产力",
+        "truncated": false
+      },
+      "description": {
+        "text": "一个人的好看，不只是生理上的美与丑，它其实更像一面镜子一样，照出一个人的内心世界；浅薄或充盈，萎靡或积极，负面还是正向其实也都多多少少会写在脸上，会体现在你的言行举止上。 看脸似乎真的很肤浅，但是能够管理好一张脸，管理好自己的个人形象，也是一种实力，反映在生活上，工作上，那就是你的生活态度和工作态度最直接的体现。 所以，真正的生产力，应该是一种积极向上的精神能量；这种精神能量会让你从内到外的要求自己，改变自己，变成更好，更强的自己。 希望每个收听到节目的朋友都能获取这样的精神能量，尽管我们未曾相见，但我都相信你很好看，你每天会变得越来越好看！",
+        "truncated": false
+      },
+      "published_at": "Sat, 22 Feb 2020 14:30:04 GMT",
+      "feed_index": 53
+    },
+    {
+      "id": "31b9d9d5841245d4481be064f85c1424dd57cf80956d9a8bd29b9afe4345d516",
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M0A/64/F8/wKgOzl4GouHxnLvNAPGg5ADJtZQ282.mp3",
+      "title": {
+        "text": "36. 做一个【温暖的人】",
+        "truncated": false
+      },
+      "description": {
+        "text": "也许，喜欢蔡康永的人，不仅仅是喜欢他的温暖，更喜欢他温情脉脉地帮我们揭掉生活的面具，露出纯粹和天真的那一面——原来这样也可以？ 是的，人生无对错，能够真正的接纳自己，真实的面对生活，怎样都可以。 我喜欢这样的蔡康永，你呢？ 希望你我都可以做一个温暖的人，但是首先，温暖的对象是我们自己。",
+        "truncated": false
+      },
+      "published_at": "Sat, 28 Dec 2019 14:30:05 GMT",
+      "feed_index": 66
+    },
+    {
+      "id": "4eeb3fd3130cd9b3f31a316d11d18ab35e8cf25214c73649bd8738520e743b9b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group56/M07/AD/A8/wKgLgFyV_1WjXpFVASdAEwHjDOo851.mp3",
+      "title": {
+        "text": "22. 我拉黑了一个【朋友】",
+        "truncated": false
+      },
+      "description": {
+        "text": "希望收听节目的你 拥有真正的朋友，也希望我们每个人也能成为他人真正的朋友。 歌曲 朋友-谭咏麟 有你在身边-刘惜君 感谢你的真诚关注和聆听！ 愿今天的节目赋予你我一点点温暖，一点点力量。",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 Mar 2019 14:30:00 GMT",
+      "feed_index": 79
+    },
+    {
+      "id": "3820042a6210ed8afefc23a5b6c4917f0ce59079cf45bbdff288ef05f104b4cf",
+      "guid": "https://aod.cos.tx.xmcdn.com/group78/M08/47/41/wKgO4F5dEg_RSWNbAOQHetdT9mU478.mp3",
+      "title": {
+        "text": "05.【在他乡】感怀无尽【乡愁】（修整版）",
+        "truncated": false
+      },
+      "description": {
+        "text": "就像余秋雨在文化苦旅这本书中写道：，其实，所有的故乡原本不都是异乡吗?所谓故乡不过是我们祖先漂泊旅程中落脚的最后一站。所以不论在故乡还是他乡，一路奋斗打拼为所有爱我们和我们所爱的人能够实现更好的生活才是我们内心深处想要去到的地方。",
+        "truncated": false
+      },
+      "published_at": "Mon, 02 Mar 2020 14:05:15 GMT",
+      "feed_index": 92
+    }
+  ]
+}

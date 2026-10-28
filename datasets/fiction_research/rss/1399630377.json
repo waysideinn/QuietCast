@@ -1,0 +1,140 @@
+{
+  "show_id": "1399630377",
+  "feed_url": "http://www.ximalaya.com/album/14666929.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/14666929.xml",
+    "final_url": "http://www.ximalaya.com/album/14666929.xml",
+    "fetched_at": "2026-10-25T14:49:11.960817+00:00",
+    "status": 200,
+    "sha256": "f7c954ae601237f1d73bc567105ab789a583b4c83147a181d36a1096ad09bdba"
+  },
+  "status": "ok",
+  "title": {
+    "text": "跟着晓晨去旅行",
+    "truncated": false
+  },
+  "description": {
+    "text": "晓晨，两性电台主播，旅行达人。是一位爱旅行、爱研究各国文化、经济、社会、历史的大男孩，善于用声音来诠释对生活的热爱，对两性关系也颇有研究心得。乐于分享，向往自由，愿与你一起感受世界、探索未知。 【公众号／微博：主播晓晨】",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 14,
+  "episodes": [
+    {
+      "id": "a934e92ad9c8a6e9cef5f92d5d45179abeff45d14d7dadcf219ce23316591cb6",
+      "guid": "https://aod.cos.tx.xmcdn.com/group44/M0B/BE/6B/wKgKkVsxrCHCgbXdAO1IE6Lwmfw508.mp3",
+      "title": {
+        "text": "泰国行 甲米皮皮岛攻略",
+        "truncated": false
+      },
+      "description": {
+        "text": "【微博／公众号：主播晓晨】本期节目，晓晨带大家走进泰国甲米府的皮皮岛和甲米镇，其中皮皮岛,因为拥有 柔软洁白的沙滩，宁静碧蓝的海水，自然天成的岩石洞穴，未受污染的自然风貌，使得她从普吉岛周围的30余个离岛中脱颖而出，成为近年来炙手可热的度假胜地之一。其小皮皮岛的是玛雅湾 ，是电影《 海滩 》中拍摄外景的地方，由于海域比较深并且有许多珊瑚，也是潜水的胜地。",
+        "truncated": false
+      },
+      "published_at": "Tue, 26 Jun 2018 03:00:29 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "4249151ebedc6e19602d6a3588917754e10255b1f73f62ee30f41532db7f880d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group43/M02/EF/20/wKgKjVsc39SCt4qRAUzRx1eY5R0929.mp3",
+      "title": {
+        "text": "泰国行 坐着火车去清迈",
+        "truncated": false
+      },
+      "description": {
+        "text": "【跟着晓晨去旅行】本期节目继续晓晨泰国行的第二集，今天晓晨要从曼谷搭火车去清迈，一路上遇到了很多惊喜，也有意外，清迈到底是一座什么样的城市？路上会发生一些什么奇妙趣事？点击收听本期节目. 微博／公众号搜索：主播晓晨",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Jun 2018 08:24:09 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "e6bfd25d395eb3556548ffaa5f08cc8d745490e47e968adb68fdc4fc5ca22ad5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group41/M0B/B3/5E/wKgJ8lrEo1Cx5F26Aag82vRS49o378.mp3",
+      "title": {
+        "text": "日本 攀登富士山经历攻略",
+        "truncated": false
+      },
+      "description": {
+        "text": "旅游达人晓晨分享一个人的日本之旅，成功登顶富士山的游记和攻略！在没有计划的情况下，成功登上富士山的游记和攻略。 富士山是日本最高峰，海拔3776米，日本国家象征之一。在全球都很有名，是世界上最大的活火山之一。",
+        "truncated": false
+      },
+      "published_at": "Wed, 04 Apr 2018 10:10:46 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "98e9d6a3f8eebf4c905772c9ea322e2775309deb0bb454de3d09920566615787",
+      "guid": "https://aod.cos.tx.xmcdn.com/group43/M06/F3/80/wKgKklsXOyWA1IKWAoNSyHSB1C0256.mp3",
+      "title": {
+        "text": "台湾 和台湾妹子游台湾",
+        "truncated": false
+      },
+      "description": {
+        "text": "晓晨爱旅游，跟着晓晨去旅行，本期节目特邀嘉宾，来自台湾的美女带你走进宝岛台湾。",
+        "truncated": false
+      },
+      "published_at": "Wed, 06 Jun 2018 01:49:09 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "40a0d4215c86af06eadc1f005000f9d7b18097a7146f8490ea961b38507b417d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group44/M03/81/96/wKgKkVr9lRHhaVRJAJZxjxS38xQ658.mp3",
+      "title": {
+        "text": "韩国 为什么韩国人特别爱整容?",
+        "truncated": false
+      },
+      "description": {
+        "text": "跟着晓晨去旅行，走进韩国本期和你探讨，为什么韩国人特别爱整容?",
+        "truncated": false
+      },
+      "published_at": "Thu, 17 May 2018 14:43:42 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "e4617c15b42b25130f9c48987b078ff05608c25509d9877db08ea8d4ccd63809",
+      "guid": "https://aod.cos.tx.xmcdn.com/group41/M0B/E5/C0/wKgJ8lrUah3ik_xVAX3Ygh2scQM298.mp3",
+      "title": {
+        "text": "日本 东京游记攻略",
+        "truncated": false
+      },
+      "description": {
+        "text": "跟着晓晨去旅行，教你花最少的钱，玩遍全世界。说到东京，不知道你的印象是什么？银座秋叶原新宿还是涉谷？无数的动漫和影视作品都有关于东京的故事。东京是世界性的城市，GDP总量世界第一，大都会区聚集了日本近三分之一的人口。或许是东京太大， 并不知道该从哪方面去深入了解。",
+        "truncated": false
+      },
+      "published_at": "Mon, 16 Apr 2018 09:18:15 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "d7ef51d2d5850a7d2167d541aa1dfbf89c63393ec87706a5fd2201d24650a211",
+      "guid": "https://aod.cos.tx.xmcdn.com/group40/M08/3C/62/wKgJVFrO5R2go1CYANMWqArckHY027.mp3",
+      "title": {
+        "text": "日本 骑行游大阪",
+        "truncated": false
+      },
+      "description": {
+        "text": "跟着晓晨去旅行 教你花最少的钱 玩遍全世界！",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 Apr 2018 04:49:49 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "ba0cf8f5d5068f491674abc8edcb2a6536d95d0dc227758ad12a6badef1f11ba",
+      "guid": "https://aod.cos.tx.xmcdn.com/group42/M08/76/D7/wKgJ9FrO4H2R6rc4AbBIptT0xT8318.mp3",
+      "title": {
+        "text": "马来西亚 浪在海岛兰卡威",
+        "truncated": false
+      },
+      "description": {
+        "text": "跟着晓晨去旅行，教你花最少的钱，玩遍全世界！本期带你走进马来西亚海岛兰卡威。主播VX公众号[contact removed]",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 Apr 2018 04:30:01 GMT",
+      "feed_index": 13
+    }
+  ]
+}

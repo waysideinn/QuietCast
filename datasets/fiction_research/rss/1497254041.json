@@ -1,0 +1,140 @@
+{
+  "show_id": "1497254041",
+  "feed_url": "http://rss.lizhi.fm/rss/985292.xml",
+  "source": {
+    "url": "http://rss.lizhi.fm/rss/985292.xml",
+    "final_url": "http://rss.lizhi.fm/rss/985292.xml",
+    "fetched_at": "2026-10-25T14:51:34.625410+00:00",
+    "status": 200,
+    "sha256": "092ac5b4ffb693469c7c4b80801bee9ed60856522225aa5301ede04873f58c67"
+  },
+  "status": "ok",
+  "title": {
+    "text": "想旅行的拖鞋",
+    "truncated": false
+  },
+  "description": {
+    "text": "我们看着窗外川流不息， 将走向他们，成为他们中的一员， 用七分努力去存活于世上，随着车流麻木前行； 而我们也将走出他们，放弃现代的速度，三分慵懒地步行，抬头望见星空与生活，一步步穿过荒野，在这里找到自己。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-CN",
+    "keywords": "",
+    "explicit": "no"
+  },
+  "feed_item_count": 716,
+  "episodes": [
+    {
+      "id": "ef08e4ebe901118491f6a9c4e38ecc0ba9af32369c5c2b0d7667a6e1bf43b4da",
+      "guid": "http://cdn.lizhi.fm/audio/2026/08/05/3227044388507773958_hd.mp3",
+      "title": {
+        "text": "逃亡木偶乐队 - 废人回收 (demo)",
+        "truncated": false
+      },
+      "description": {
+        "text": "“废人回收“ 面无表情心事重重 铁皮箱子包裹运往 每个城市劳作的角落 夕阳西下落荒而逃 加班喝酒午夜放荡 日复一日狼狈如常 而我 只是假装活着 而我 早已衰老 废品收购 废品收购 黑暗中，奄奄一息的呐喊 废品收购 废品收购 还给我，孩子的眼眸 你是废品 我是废品 全是废品 一起收购 回忆是废品 希望是废品 永恒是废品 通通收购”",
+        "truncated": false
+      },
+      "published_at": "Wed, 5 Aug 2026 21:45:31 +0800",
+      "feed_index": 0
+    },
+    {
+      "id": "d7d63ea5d9a6eb786fc01955301fe762e5376f98b176cc88516d1124a5a83fbe",
+      "guid": "http://cdn.lizhi.fm/audio/2019/05/11/5042404939458110470_hd.mp3",
+      "title": {
+        "text": "心情单曲（简迷离 - 盒中困兽）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 17 May 2019 08:38:29 +0800",
+      "feed_index": 102
+    },
+    {
+      "id": "3bee2f8de5e74a7797677cb0dcf2b67684c36116f6f0f6609c5239815eceeea2",
+      "guid": "http://cdn.lizhi.fm/audio/2018/08/01/2684049340802676230_hd.mp3",
+      "title": {
+        "text": "心情单曲（Red House Painters - Katy Song）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 31 Aug 2018 08:05:35 +0800",
+      "feed_index": 204
+    },
+    {
+      "id": "c28e6e56359ae2f2339cc6b6c26eae9ebeb13074258c734a7690f12ca525ca44",
+      "guid": "http://cdn.lizhi.fm/audio/2017/11/25/2637868866636147206_hd.mp3",
+      "title": {
+        "text": "V.155 曾经的少年 - 鲍家街43号",
+        "truncated": false
+      },
+      "description": {
+        "text": "那是1997年，我还没到能思考生活的年龄，仍然每天都很愉快的生活。 那一年，遥远的北京有几个对于摇滚乐怀有梦想的年轻人出了一张专辑，专辑的名字叫做《鲍家街43号》。他们的乐队也叫这个名字，这个名字看起来抽象，其实是具体的，就是他们的母校中央音乐学院的地址。 两张专辑后，乐队解散，这些曾经的少年，散落到了天涯，当创造力离散，少年已经老去，汪峰也不断重复，抄袭着自己，不听也罢",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Dec 2017 08:34:27 +0800",
+      "feed_index": 306
+    },
+    {
+      "id": "07fb12f2f538bfc989ec90c93a9c7d215f86ebc3bf64c4f8831d5a24ce0baf8d",
+      "guid": "http://cdn.lizhi.fm/audio/2017/01/24/2581338429574428678_hd.mp3",
+      "title": {
+        "text": "V.116 微醺的小酒馆里，老男人的浪漫",
+        "truncated": false
+      },
+      "description": {
+        "text": "外面的雪已经快要淹没道路，我可以感觉到雪掉落在屋顶的呻吟，该是回家的时候了，UDO”的几个老男人醉醺醺地爬上舞台说起了笑话：如果有一天小丑哭了，你会不会觉得他也在搞笑？周围的人轰然笑。 他们说着另一个故事，有个人去找医生问着“医生，我很不快乐，你能不能治好我的抑郁呢？” “你为什么不去看小丑的表演呢，我保证你一定会被逗得哈哈大笑，开心起来的。” “可是，我就是那个小丑啊。” 于是，屋子里加起来有几千岁的人群又前俯后仰，但我却看到了他们肆意咧开大嘴后一丝落寞的表情， 被被欢乐围绕着的小丑，只是人群中一个孤独的灵魂。 面具戴久了，就拿不下来了 大家一起唱起来这首“小丑之眼泪“”” 走出酒馆，木门吱呀地缓缓关上，也把温暖与感动关在了身后，重新踏上前方艰难与冰凉的旅程，但是这条路是不能回头的，因为留恋的浪漫老男人，他们歌唱的是自己的人生，而你的人生，需要自己一步步走下去的吧。 曲目：Joey DeLuxe - Undercover Allan Taylor - Some Dreams B.B. King - Funny How Time Slips Away David Munyon – Miles Don Williams - Crying in the Rain Iggy Pop - La vie en rose Kenny Rogers - Lady Leonard Cohen -",
+        "truncated": true
+      },
+      "published_at": "Sun, 19 Feb 2017 08:38:06 +0800",
+      "feed_index": 409
+    },
+    {
+      "id": "641cb828864af6a77e14b0920bab941172d055670146a12537a1a09f8c657720",
+      "guid": "http://cdn.lizhi.fm/audio/2016/05/07/2532747585730216966_hd.mp3",
+      "title": {
+        "text": "心情单曲（System Of A Down - Chop Suey）",
+        "truncated": false
+      },
+      "description": {
+        "text": "system of a down，不拐弯抹角，我最喜欢的金属乐队，这几个经常张牙舞爪能量爆炸的大叔对我而言更多的是一种亲切和欢愉，虽然刚开始也会把我吓的不轻。4人搭配很有意思，有2个中东人，自然而言在音乐的理念风格上与其他另类金属乐队存在着很大的不同，黑暗晦涩的中东元素，切割机般吉他riff来的一点也不温柔含糊，尖声怪叫和小清新唱腔灵活转换， 麻利如手起刀落之犀利，摧枯拉朽之酣畅。 这与他们音乐一贯的不走寻常路有着很大关系，独特元素让听者在音乐入耳刹那即被带入未知的异次空间，当你在疯狂跟着节奏释放青春的同时，大张大弛的音律走向有着无穷的回味感，从头至尾压迫式鼓点暴击， 排山倒海吉他扭曲音墙，完全癫狂状态贝司，最后再加上主唱声线似快刀斩乱麻直接了当，被秒杀的快感一览无遗，这简直是一副让人欲罢不能的群魔乱舞景象! 不知不觉，时间到了21世纪的第一个十年末，自2006年宣布暂时解散的SOAD，近期传出即将开始筹备第6张专辑的消息，不知是真是假，但有一点是可以肯定的，死忠的歌迷们会一直等下去，并期待在台上继续看到那4个张牙舞爪的大叔释放出目空一切的能量，还有那双能瞬间秒杀小清新们的眼神，真让人期待。",
+        "truncated": false
+      },
+      "published_at": "Fri, 27 May 2016 09:07:51 +0800",
+      "feed_index": 511
+    },
+    {
+      "id": "967d48792cae31bd3f6d64b407535b6df741c516a75c73d502f4f109a33c4bd9",
+      "guid": "http://cdn.lizhi.fm/audio/2015/04/23/19539396503137926_hd.mp3",
+      "title": {
+        "text": "心情单曲（丝绒公路 - 夜幕下的通州 ）",
+        "truncated": false
+      },
+      "description": {
+        "text": "因为来自东北的青年金晖，带着他对摇滚乐和“枪炮与玫瑰”的喜爱，来到了北京，并组建了一支叫作“丝绒公路”的乐队—— “丝绒公路”四个字按照乐队的定义，“丝绒”代表着性感与华丽，“公路”象征了粗犷与自由，它们无不表明这是一支师从美式硬摇滚尤其是“枪炮与玫瑰”的乐队， 从音乐风格、演唱、舞台表演、外在形象乃至日常生活状态，都在向彼岸的那支世界级乐队致敬、学习和模仿。这一切在乐队自主发行的EP《On the Road》里几乎是百分 百地得到了实践。但在六年后，乐队经历了所有其他乐队都会遇到的人员更替、风格尝试、各种机会的得到与丧失乃至各种赞美和嘲笑后，又变成了什么样？ 在这张专辑里，“丝绒公路”依然坚持了他们的美式硬摇风格，并且鲜明地在专辑封面上标注了师承，毫不忌讳可能招致的“模仿”或“翻版”的诟病——学习就是学习， 这不需要去隐晦或者不好意思——但并不止于此。所以专辑里既有承上的作品，比如“Such A B!tch”、“Rock N’ Roller”、“Give U All”、“Blood for Blood”等， 完全就是当初“中国的‘枪炮与玫瑰’”号召现实版；而启下的作品如“青春是把上了膛的枪”、“Butterfly”、“夜幕下的通州”才是乐队真正从过去几年里凝练出的自 己的风格。这三首作品不仅用中文创作，更是兼具情感化体验以及现实写照的作品，将乐队多年的北漂生活，以及在北京这座都市",
+        "truncated": true
+      },
+      "published_at": "Fri, 21 Aug 2015 09:10:52 +0800",
+      "feed_index": 613
+    },
+    {
+      "id": "1f9f56732d403fc7ade1101e8b7cb7aa287f6970d698d3981e4f7fe6c42ead8c",
+      "guid": "http://cdn.lizhi.fm/audio/2015/01/17/17322983461796230_hd.mp3",
+      "title": {
+        "text": "心情单曲-（张玮玮-米店）",
+        "truncated": false
+      },
+      "description": {
+        "text": "爱人，你可感到明天已经来临 码头上停着我们的船 我会洗干净头发爬上桅杆 撑起我们葡萄枝嫩叶般的家",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Jan 2015 22:00:25 +0800",
+      "feed_index": 715
+    }
+  ]
+}

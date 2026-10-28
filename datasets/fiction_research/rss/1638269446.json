@@ -1,0 +1,140 @@
+{
+  "show_id": "1638269446",
+  "feed_url": "https://anchor.fm/s/adf7a49c/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/adf7a49c/podcast/rss",
+    "final_url": "https://anchor.fm/s/adf7a49c/podcast/rss",
+    "fetched_at": "2026-10-25T14:56:26.183740+00:00",
+    "status": 200,
+    "sha256": "81aa6d1b7d163efb1679d5b82cba1fd89e59b02a8384c78f5bd9b929b40d6cb9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "铸造最美的墙",
+    "truncated": false
+  },
+  "description": {
+    "text": "铸造最美的墙",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 891,
+  "episodes": [
+    {
+      "id": "d11274d5f89c05739c7e52e75a2d3a8f4558d65c80cb2b71e068d2b461036e5d",
+      "guid": "76ef91c2-aeed-43e9-86ed-8c74c30a3048",
+      "title": {
+        "text": "123.《新闻联播》 20200422.mp3",
+        "truncated": false
+      },
+      "description": {
+        "text": "123.《新闻联播》 20200422.mp3",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Jun 2023 09:06:22 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d451e3748768872f779c904056d8afb4c8ed6da54c87e95d9755fc168a9771ab",
+      "guid": "0f7c288e-31ee-4d3f-914e-159ee4df4754",
+      "title": {
+        "text": "003.【科普小知识】航天员在太空要如何洗漱？【宝宝巴士故事】",
+        "truncated": false
+      },
+      "description": {
+        "text": "003.【科普小知识】航天员在太空要如何洗漱？【宝宝巴士故事】",
+        "truncated": false
+      },
+      "published_at": "Sat, 03 Jun 2023 09:33:49 GMT",
+      "feed_index": 127
+    },
+    {
+      "id": "b7e4d9964bfb376950266158acb788412b0ea47aa856ee17a988cd98118b0a06",
+      "guid": "f48d7f75-eb29-47e0-81ee-5dfd6793153a",
+      "title": {
+        "text": "002.小学生申请换座位抓住爱情：爱情可以帮助学习",
+        "truncated": false
+      },
+      "description": {
+        "text": "002.小学生申请换座位抓住爱情：爱情可以帮助学习",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 May 2023 06:14:36 GMT",
+      "feed_index": 254
+    },
+    {
+      "id": "02fd80a7d78732f02a5dbbe4be6a418632063b7636e749faaf1ebe31a8315192",
+      "guid": "7c82075c-4646-4f51-a71e-59b4d2e1ffad",
+      "title": {
+        "text": "002.夜听：如果一个男人给了你这样的感觉，请果断离开他",
+        "truncated": false
+      },
+      "description": {
+        "text": "002.夜听：如果一个男人给了你这样的感觉，请果断离开他",
+        "truncated": false
+      },
+      "published_at": "Sat, 22 Apr 2023 22:46:05 GMT",
+      "feed_index": 381
+    },
+    {
+      "id": "28cb314b20fb730dcf02ee0056128416ecb872e338a60b8858608d6abef846bd",
+      "guid": "84b2d3a1-28e3-4fac-a25f-7bcb6d5c47c6",
+      "title": {
+        "text": "006.说戏系列002-1-武昭关",
+        "truncated": false
+      },
+      "description": {
+        "text": "006.说戏系列002-1-武昭关",
+        "truncated": false
+      },
+      "published_at": "Fri, 07 Apr 2023 16:30:15 GMT",
+      "feed_index": 509
+    },
+    {
+      "id": "4fd0f2bd86902341ab8a1360f987c7d2d772be98ea5bf9b4da2a2d70ca785d6d",
+      "guid": "32f06ccf-2430-4692-80d4-ea787ebbd49b",
+      "title": {
+        "text": "006.女毒贩和小18岁男友生了女儿 母女分离时哭诉这是我造的孽",
+        "truncated": false
+      },
+      "description": {
+        "text": "006.女毒贩和小18岁男友生了女儿 母女分离时哭诉这是我造的孽",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Mar 2023 08:18:41 GMT",
+      "feed_index": 636
+    },
+    {
+      "id": "471d8012c1dc8cbd17b3b594374b87c0367079e9424ee12f4b5a9b1e1286cfe5",
+      "guid": "7ef7d3bd-befb-473e-adc8-03dae484795b",
+      "title": {
+        "text": "002.【一席】蔡皋：生活是一万个值得",
+        "truncated": false
+      },
+      "description": {
+        "text": "002.【一席】蔡皋：生活是一万个值得",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Mar 2023 02:50:46 GMT",
+      "feed_index": 763
+    },
+    {
+      "id": "f6b4638ba41502588261445fd57db5305aea480e7f962250a82d1d93782b2009",
+      "guid": "b2609086-6c3d-4c32-adea-0861118d8bf0",
+      "title": {
+        "text": "养心最难",
+        "truncated": false
+      },
+      "description": {
+        "text": "养心最难",
+        "truncated": false
+      },
+      "published_at": "Fri, 05 Aug 2022 04:56:45 GMT",
+      "feed_index": 890
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1562473789",
+  "feed_url": "http://www.ximalaya.com/album/47545699.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/47545699.xml",
+    "final_url": "http://www.ximalaya.com/album/47545699.xml",
+    "fetched_at": "2026-10-25T14:42:48.165036+00:00",
+    "status": 200,
+    "sha256": "55f3a6c965feffa3d5c627a2c714e98e9b6e3102d66ba482e00f54558111b1f2"
+  },
+  "status": "ok",
+  "title": {
+    "text": "教育电台-教出面对未来的孩子",
+    "truncated": false
+  },
+  "description": {
+    "text": "订阅我们才不会错过最新专辑喔～ 三人行必有我师焉，在教育电台中三位站在教育前端的老师跟大家一起来深聊 从养成孩子的干货、到老师们自己学习过程中的感悟 每一次的聊天都让听众从不同角度开眼界 让我们一起用教育改变自己、改变孩子吧",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 17,
+  "episodes": [
+    {
+      "id": "9045995fc8709621c16089e77c5572db2d1279cec806a972cd636f1c50f3bac6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f742-audiofreehighqps/7E/ED/CKwRIDoEcZRIABY90wCqST-J.m4a",
+      "title": {
+        "text": "【精华】创意不是灵光一现，而是有方法的累积",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 12 May 2021 12:59:48 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "e619d3377a2151dbed3834abb143aad69aa5aa32fa81484fc07041ad674a79b6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/94c5-audiofreehighqps/13/1F/CKwRIaIEbFUiABAAAACoV8Mg.mp3",
+      "title": {
+        "text": "【精华】否定扼杀了孩子的创意",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 09 May 2021 13:00:00 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "6581fba2fc301665196b1e80e84f3c3d63e13fe3177b0f9995360432f693a98f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9840-audiofreehighqps/C3/26/CKwRIJEEQkYRABAAAACbdMR8.mp3",
+      "title": {
+        "text": "【精华】一种思维方式，点亮孩子一生",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 07 Apr 2021 12:00:00 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "6d99938c664a956ee5eac63fa2f869ddb876df99a442df7cbe8c755483116bc0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9c82-audiofreehighqps/59/3B/CKwRIaIEN2oDABAAAACYAERC.mp3",
+      "title": {
+        "text": "【精华】培养阅读习惯三个重点",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 29 Mar 2021 12:30:00 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "8441488071ee40e478fb183d7ec6da1ef59fc1f6aadfbebfac832f69c35c5178",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3012-audiofreehighqps/7C/EB/CKwRINsEM1iEABAAAACW9OJV.mp3",
+      "title": {
+        "text": "【精华】培养孩子阅读习惯的地雷",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 26 Mar 2021 12:00:00 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "e3c34ec717476112226ee50f84b97690889f0a71957f4d0892f750190ef78449",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7aa0-audiofreehighqps/AA/D6/CKwRIUEES4QYABAAAACeUUeB.m4a",
+      "title": {
+        "text": "【直播回听】教孩子永不言败的创业家精神",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Apr 2021 12:00:00 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "1b694f14d92511103b0d56e7640cc26635a57dc47ed2a10085ffaab6a3f97da8",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b508-audiofreehighqps/E3/C8/CKwRIRwEWaVEABAAAACibpej.m4a",
+      "title": {
+        "text": "【直播回听】你的赞美，让孩子更自信",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 24 Apr 2021 13:00:00 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "534e764e1d49fc51d5616c9e834294dc0cffcd53a5f31b3d552d6a4395f8841c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e30d-audiofreehighqps/41/38/CKwRIW4EJMohABAAAACSavRk.m4a",
+      "title": {
+        "text": "【直播回听】如何培养孩子“好习惯”",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Mar 2021 07:05:41 GMT",
+      "feed_index": 16
+    }
+  ]
+}

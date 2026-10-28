@@ -1,0 +1,5372 @@
+{
+  "schemaVersion": "1.1",
+  "ruleVersion": "research-multisource-2026-10-26-v0.1",
+  "updatedAt": "2026-10-26T08:11:54.903498+00:00",
+  "status": "example",
+  "sources": [
+    "https://performance-partners.apple.com/search-api",
+    "datasets/fiction_research/shows.json",
+    "datasets/fiction_research/rss/",
+    "schema commit 9e908672b5ac6afe94a0f6ea4e5d0f31f66b7360",
+    "schemas/content-filter-v1.1.md",
+    "rules/research/publisher-accounts.research.json",
+    "reports/fiction_research/multisource-report.md"
+  ],
+  "categories": [
+    {
+      "id": "fiction-audiobooks",
+      "name": "小说与虚构故事音频",
+      "description": "分类、发布账号、关键词三类元数据证据探索；未完成人工独立测试。",
+      "enabled": true,
+      "thresholds": {
+        "review": 4,
+        "block": 10
+      },
+      "fieldWeights": {
+        "showTitle": 1.5,
+        "showDescription": 0.7,
+        "showCategories": 0,
+        "author": 0,
+        "episodeTitle": 1.5,
+        "episodeDescription": 0.7,
+        "rssMetadata": 0
+      },
+      "strongKeywords": [],
+      "keywords": [
+        {
+          "id": "b-14dbb1e87c61",
+          "score": 7,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中38档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "有声小说"
+        },
+        {
+          "id": "b-ff86c640dea0",
+          "score": 7,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中1档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "小说朗读"
+        },
+        {
+          "id": "b-cf666e59d9c1",
+          "score": 7,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中81档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "有声书"
+        },
+        {
+          "id": "b-e4b9eaf6ce41",
+          "score": 7,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中57档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "广播剧"
+        },
+        {
+          "id": "b-bdbe9429a4a6",
+          "score": 7,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中56档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "多人有声剧"
+        },
+        {
+          "id": "b-ee412c6f3f36",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中73档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "玄幻"
+        },
+        {
+          "id": "b-a47b747d06fe",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中31档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "修仙"
+        },
+        {
+          "id": "b-adb986efe495",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中64档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "重生"
+        },
+        {
+          "id": "b-966576cfd784",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中13档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "末世"
+        },
+        {
+          "id": "b-3e7456737b87",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中4档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "无限流"
+        },
+        {
+          "id": "b-16a526b91c42",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中38档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "总裁"
+        },
+        {
+          "id": "b-d83ed8f97289",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中35档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "甜宠"
+        },
+        {
+          "id": "b-7262884d65ef",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中3档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "赘婿"
+        },
+        {
+          "id": "b-8b59828df667",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中70档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "言情"
+        },
+        {
+          "id": "b-aa1aa8d83665",
+          "score": 1,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中33档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "完结"
+        },
+        {
+          "id": "b-42121a4fe317",
+          "score": 1,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中7档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "全集"
+        },
+        {
+          "id": "b-af1fb7118622",
+          "score": 1,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中7档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "连载"
+        },
+        {
+          "id": "b-8661a9d30c19",
+          "score": 1,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中39档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "演播"
+        },
+        {
+          "id": "b-fc5f8506a61b",
+          "score": 1,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中29档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "播讲"
+        }
+      ],
+      "combinationKeywords": [
+        {
+          "id": "b-62ebe3a9cd41",
+          "score": 5,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中15档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "小说",
+            "演播"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-f2aa15c91ed2",
+          "score": 5,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中1档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "小说",
+            "全集"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-ad69ef7758cf",
+          "score": 5,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中7档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "小说",
+            "朗读"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-c772b8fa96f8",
+          "score": 5,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中3档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "小说",
+            "连载"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-6f8ecaa1b27c",
+          "score": 5,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中5档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "重生",
+            "都市"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-bbff05dc85f6",
+          "score": 5,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中4档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "总裁",
+            "娇妻"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-0e4444d1a78b",
+          "score": 5,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中59档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "多人",
+            "有声剧"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-452b5b21ed09",
+          "score": 5,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中2档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "原著",
+            "播讲"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-de3bb8769f89",
+          "score": 7,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中57档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "有声",
+            "小说"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-f5bd5ec2a04a",
+          "score": 7,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中6档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "小说",
+            "播讲"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-1660d2762fcb",
+          "score": 7,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中7档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "小说",
+            "听书"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-5f05e13058ad",
+          "score": 7,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中23档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "悬疑",
+            "小说"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-e1c9eb3332f3",
+          "score": 7,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中92档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "科幻",
+            "小说"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-74046f70cf03",
+          "score": 7,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中14档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "武侠",
+            "小说"
+          ],
+          "scope": "sameField"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "b-f12cde070061",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中1档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "书评"
+        },
+        {
+          "id": "b-6acf99dbe40f",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中86档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "评论"
+        },
+        {
+          "id": "b-a7fcd4a94bff",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中18档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "解读"
+        },
+        {
+          "id": "b-7baa9a69ce3e",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中17档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "解析"
+        },
+        {
+          "id": "b-00c2be81b62a",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中100档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "访谈"
+        },
+        {
+          "id": "b-c9ca608d7f88",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中22档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "讨论"
+        },
+        {
+          "id": "b-b8a97976cfb4",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中5档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "文学史"
+        },
+        {
+          "id": "b-11c5e5a03edd",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中6档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "赏析"
+        },
+        {
+          "id": "b-6a629508c1a3",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中50档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "纪实"
+        },
+        {
+          "id": "b-ab166a761dbd",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中10档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "科普"
+        },
+        {
+          "id": "b-5f46593ec13a",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中47档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "课程"
+        },
+        {
+          "id": "b-25720b0084a7",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中46档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "读书"
+        }
+      ],
+      "regexRules": [
+        {
+          "id": "b-chapter-marker",
+          "pattern": "第[0-9一二三四五六七八九十百千万零〇两]{1,8}[章回集]",
+          "score": 1,
+          "fields": [
+            "episodeTitle"
+          ],
+          "note": "仅弱特征，不会单独触发 review/block；不把第X期视为小说。"
+        }
+      ],
+      "showBlocklist": [],
+      "episodeBlocklist": [],
+      "showAllowlist": [],
+      "episodeAllowlist": [],
+      "notes": "v1.1探索包；分类最高贡献4，pending名称账号仅review不加分。没有人工确认账号封禁；父子分类不重复加分。独立测试未完成，不用于生产承诺。",
+      "recognition": {
+        "appleCategories": true,
+        "publishers": true,
+        "keywords": true,
+        "combination": "score",
+        "metadataMaxAgeDays": 30
+      },
+      "classificationRules": [
+        {
+          "id": "b-category-fiction-family",
+          "enabled": true,
+          "match": {
+            "ids": [
+              "1483",
+              "1484",
+              "1485",
+              "1486"
+            ],
+            "names": [
+              "Fiction",
+              "Drama",
+              "Science Fiction",
+              "Comedy Fiction",
+              "小说",
+              "小說",
+              "剧情",
+              "劇情",
+              "科幻小说",
+              "科幻小說",
+              "喜剧小说",
+              "喜劇小說"
+            ],
+            "paths": [
+              [
+                "Fiction"
+              ],
+              [
+                "Fiction",
+                "Drama"
+              ],
+              [
+                "Fiction",
+                "Science Fiction"
+              ],
+              [
+                "Fiction",
+                "Comedy Fiction"
+              ]
+            ],
+            "primaryOnly": false
+          },
+          "action": "score",
+          "score": 4,
+          "note": "标准分类族仅贡献4分，单独到review，不单独封禁。父子/目录RSS去重；Books和推荐grouping不匹配。",
+          "sources": [
+            "https://podcasters.apple.com/support/1691-apple-podcasts-categories",
+            "https://podcasts.apple.com/cn/genre/1483",
+            "datasets/fiction_research/entities/observations.json"
+          ]
+        }
+      ],
+      "publisherRules": [
+        {
+          "id": "b-pub-name-9a647c92845be3d1",
+          "enabled": true,
+          "identities": [],
+          "names": [
+            "云鹿柔迩"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-9a647c92845be3d1"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说5、非虚构0，未标注53。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-8ed7b040b18ac7ee",
+          "enabled": true,
+          "identities": [],
+          "names": [
+            "带给听书"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-8ed7b040b18ac7ee"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说4、非虚构0，未标注53。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-0004b9b35a70322a",
+          "enabled": true,
+          "identities": [],
+          "names": [
+            "冷静之声"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-0004b9b35a70322a"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说5、非虚构0，未标注32。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-3e8eacf71c237ddd",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "多云下的蛋"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-3e8eacf71c237ddd"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构4，未标注18。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-acd9de7ddb346e66",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "文化放送PodcastQR"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-acd9de7ddb346e66"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注17。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-2375b75d69d22a18",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "斗罗斗破苍穹小说合集"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-2375b75d69d22a18"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注15。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-324ca5355e9d7d5f",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "Santi",
+            "santi"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-324ca5355e9d7d5f"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注11。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-4c26efeb08138dbe",
+          "enabled": true,
+          "identities": [],
+          "names": [
+            "云少讲故事"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-4c26efeb08138dbe"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说5、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-f59ef7d9f9a8ae70",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "巨有文化"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-f59ef7d9f9a8ae70"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构5，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-8fcefa8862f012a6",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "给小白白的有声书"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-8fcefa8862f012a6"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构5，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-4d03d1629642fb99",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "千兰女性清醒成长"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-4d03d1629642fb99"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注6。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-cdf2ca7c0bbd5ab0",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "喜游记"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-cdf2ca7c0bbd5ab0"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注6。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-71f93d2f2965c54c",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "有声的雪愿"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-71f93d2f2965c54c"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注6。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-080f660c79ab40f8",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "案夜"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-080f660c79ab40f8"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注6。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-3a4d844057e439db",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "炉火焰山"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-3a4d844057e439db"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注6。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-d9e454c206e4d712",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "594韵韵"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-d9e454c206e4d712"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注5。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-9bfca87c88a387cb",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "中廣新聞網NewsRadio"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-9bfca87c88a387cb"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注5。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-4b37cb7cdc52d97b",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "千兰说女性清醒"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-4b37cb7cdc52d97b"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注5。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-5306e7c2b688b3cc",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "卡西有声"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-5306e7c2b688b3cc"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注5。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-d1385ce0adaba958",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "方鸣远播"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-d1385ce0adaba958"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注5。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-4c33ae0c6d4d902c",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "梦想飞翔mx"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-4c33ae0c6d4d902c"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说2、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-276409d1dc6589f4",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "锦鸣茶馆"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-276409d1dc6589f4"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注5。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-d564c11b2d5268f4",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "青莲嘚啵嘚"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-d564c11b2d5268f4"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注5。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-550a2a6fd21836a0",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "骁尘"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-550a2a6fd21836a0"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注5。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-0a3356a0468c62d5",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "Hi唐念念_悦念有声"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-0a3356a0468c62d5"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注4。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-ffbc04665c9923d2",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "News98"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-ffbc04665c9923d2"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注4。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-738a0f1dd7783758",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "RULAI333"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-738a0f1dd7783758"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注4。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-2325c2756ad6f748",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "曲艺大剧院"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-2325c2756ad6f748"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注4。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-d260fddd9d63839b",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "梅酉金_鹿苑"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-d260fddd9d63839b"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注4。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-4960a81976f42fbe",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "笔趣阁"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-4960a81976f42fbe"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注4。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-881f8d975fb85c57",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "聆聽小說之旅"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-881f8d975fb85c57"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注4。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-f7118be2a2e8c244",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "靡路"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-f7118be2a2e8c244"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注4。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-bcf79688e66e6b14",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "Lovaholic廣播劇場"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-bcf79688e66e6b14"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-e783f05530af4877",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "munanAudioStory"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-e783f05530af4877"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-82134496a67f7075",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "三采文化X楊奕成"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-82134496a67f7075"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-018419d4ed0cb303",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "上山之声"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-018419d4ed0cb303"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-f524563f7a8a5531",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "东北贼大王"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-f524563f7a8a5531"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-f5c0bf50782d686e",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "丹丹在发呆"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-f5c0bf50782d686e"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-42a713067d4228ab",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "又见飞儿"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-42a713067d4228ab"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-d33f24bf4597a7b1",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "史海秘闻录o历史播客"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-d33f24bf4597a7b1"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-8da3076047967780",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "听见旅行"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-8da3076047967780"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-d75d8d532cb8ef7d",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "聲鮮時采科技"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-d75d8d532cb8ef7d"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-ac62b38618e0d9af",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "夜半鲁智深"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-ac62b38618e0d9af"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-55667780411f3208",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "女性清醒导师千兰"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-55667780411f3208"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-5e5f3d82089caa5f",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "微芒聚声"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-5e5f3d82089caa5f"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-f21d66ffe977f308",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "暮岸姑娘"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-f21d66ffe977f308"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-6d9dad6b49d14555",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "民視新聞 Formosa News"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-6d9dad6b49d14555"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-9a496026b9c6c768",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "沐婉_"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-9a496026b9c6c768"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-2c214b6ba387fc57",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "海量有声书"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-2c214b6ba387fc57"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-7e1a58ba4a2eb4a0",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "深海鲲鲸"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-7e1a58ba4a2eb4a0"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-eab1784f58cc5060",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "貓與白松露工作室"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-eab1784f58cc5060"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-ea6a1b983bb58b3a",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "科幻深读小峰"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-ea6a1b983bb58b3a"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-2af9e0c3b859247d",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "自然音乐风"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-2af9e0c3b859247d"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-0cf7f67f669a47ff",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "蝉鸣书院"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-0cf7f67f669a47ff"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-85ae946ce6f904d8",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "金歌"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-85ae946ce6f904d8"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-1e8bfd7ad4ed14e7",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "齐齐亚"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-1e8bfd7ad4ed14e7"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注3。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-11866d0b114a327a",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "12可可_魔麦有声"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-11866d0b114a327a"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-eb8b9125b0c673b8",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "A+Talents"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-eb8b9125b0c673b8"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-8edd05fcdfbf1aa0",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "Alex的英语故事王国"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-8edd05fcdfbf1aa0"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-97276e4a5bd7a727",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "AsLife1314"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-97276e4a5bd7a727"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-ec3ca34b88fe334f",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "ClutchCut Studio"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-ec3ca34b88fe334f"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-bdc18684a5de8316",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "Crazymrchan"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-bdc18684a5de8316"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-1a0ebe1c636c7edb",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "DJkiven"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-1a0ebe1c636c7edb"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-27e72dc8670af8da",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "Eileen Gu Collection"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-27e72dc8670af8da"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-7485e5d6d30127b7",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "Sooopodcast"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-7485e5d6d30127b7"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-3d91a1f94e48b4c6",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "The News Lens 關鍵評論網"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-3d91a1f94e48b4c6"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-030f234e47884550",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "The Voices Room"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-030f234e47884550"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-54fdd168d9bbb306",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "TVBS"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-54fdd168d9bbb306"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-2766988874824ff6",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "XiaoshuaiFM"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-2766988874824ff6"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-b74a17d4a0ed46b6",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "YSD"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-b74a17d4a0ed46b6"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-991b0446249c685f",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "一锅红烧肉啊"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-991b0446249c685f"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-c7b7c6e4c1a77021",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "一阳冷小说"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-c7b7c6e4c1a77021"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-dfb3ceae0a264ff7",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "七十迈旅行"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-dfb3ceae0a264ff7"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-96219ae3e9b4ccf7",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "不够言笑"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-96219ae3e9b4ccf7"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-da221e3cd07195bb",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "中国广播Radio.cn"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-da221e3cd07195bb"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-708671fd4ea2d028",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "书匠子非"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-708671fd4ea2d028"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-35d53f85c2bb86b5",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "书杰"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-35d53f85c2bb86b5"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-8a2404ff3a05d6dd",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "二十一世纪出版社集团"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-8a2404ff3a05d6dd"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-339a0c4785276310",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "亦安楠"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-339a0c4785276310"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-7933b21b3361d359",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "刘昕故事"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-7933b21b3361d359"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-bbf7c7584fb6cbbd",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "華視新聞"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-bbf7c7584fb6cbbd"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-ba98cad5db9c4b7f",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "台視新聞 TTV NEWS"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-ba98cad5db9c4b7f"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-63f08cceede1140e",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "哇賽心理學"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-63f08cceede1140e"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-92e786e917929ac8",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "喜乐思密达"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-92e786e917929ac8"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-3affcb60dfac34e7",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "喜洋洋与村长讲故事"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-3affcb60dfac34e7"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-6fc5be198cb71ba5",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "声漫漫剧社"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-6fc5be198cb71ba5"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-dbb3956076cf6b00",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "声色年华工作室"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-dbb3956076cf6b00"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-81551a82e7d6399c",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "壹辆松鼠"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-81551a82e7d6399c"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-33879b7a1eae52a2",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "夏木嘉微"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-33879b7a1eae52a2"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-173969e0618dafab",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "多爸讲书"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-173969e0618dafab"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-79f4c9ea6d4ddac4",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "大麦书屋"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-79f4c9ea6d4ddac4"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-2e0ceaa46d1f128e",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "寧靜軒有聲書"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-2e0ceaa46d1f128e"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-b5efe58c8825e221",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "宇宙乘客"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-b5efe58c8825e221"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-072fbaffdec6e1b8",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "安娜妈咪教育频道"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-072fbaffdec6e1b8"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-b17e2f45f23a1bfa",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "小总裁教育"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-b17e2f45f23a1bfa"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-14759816c4e0edb6",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "幻思系"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-14759816c4e0edb6"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说2、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-ee18d9470237d6ba",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "悬疑推理_吕子齐"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-ee18d9470237d6ba"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注1。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-42f333b3e766c7d9",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "慕娴儿"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-42f333b3e766c7d9"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-d713b8a9a90123b4",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "播客公社"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-d713b8a9a90123b4"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-9335e6c4aea27508",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "故事FM"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-9335e6c4aea27508"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-79ebc1fe4cdd82c8",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "曾文溪電台-戀戀曾文溪"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-79ebc1fe4cdd82c8"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-bae7e9c1d351c161",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "朝日新聞ポッドキャスト"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-bae7e9c1d351c161"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-b36644631afb326d",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "机核网 www.gcores.com"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-b36644631afb326d"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-3e2f201f7cb4f814",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "汐玥梦梦"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-3e2f201f7cb4f814"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-f602b43832729a18",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "沧海夜明_优一剧社"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-f602b43832729a18"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-991094fd8e79edbd",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "洗衣机里的卷纸_"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-991094fd8e79edbd"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-d71a0beb26c07fb3",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "海音词"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-d71a0beb26c07fb3"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-ecee7217bd69ef6c",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "清风宋朝"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-ecee7217bd69ef6c"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-8d7800e2053dfab8",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "愛健康"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-8d7800e2053dfab8"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-d663b5ff60d2c25d",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "爱听音乐的雪儿i"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-d663b5ff60d2c25d"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-5f083da5448e1ad9",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "猫哥爱科学"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-5f083da5448e1ad9"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-0b94ceb7f624daaa",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "环佩叮当Carrie"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-0b94ceb7f624daaa"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-0e5bfe0d5f8f27d9",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "琉璃/姬雪"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-0e5bfe0d5f8f27d9"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-4a9393abc51e9918",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "琢光夜色"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-4a9393abc51e9918"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-0c750fb50f6d58c7",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "瞎胖廣播劇團"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-0c750fb50f6d58c7"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-26c7015f49af9c45",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "祝羽捷"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-26c7015f49af9c45"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-c791ce1917ac081e",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "罗小刚"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-c791ce1917ac081e"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-ef7774a438b25a41",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "美丽心晴社"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-ef7774a438b25a41"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-e05b1b7e87b8b3cd",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "翁昭雯&吳秋娜"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-e05b1b7e87b8b3cd"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-d64e16f113ca3a59",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "老王故事慧"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-d64e16f113ca3a59"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-03427f22fad21c2a",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "萌的卡罗1"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-03427f22fad21c2a"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-8521041988de112a",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "言同學,洗洗,Lulu,滋滋"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-8521041988de112a"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-1b39dc63982cddbb",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "诸葛学堂"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-1b39dc63982cddbb"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-3f94efebe26d916a",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "足球漫谈"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-3f94efebe26d916a"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-3170605ab3bbe389",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "迅然"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-3170605ab3bbe389"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-30592ebde9e64026",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "那个寒冰"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-30592ebde9e64026"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-3c2b902bd9ebdf48",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "金尚熙_时祺"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-3c2b902bd9ebdf48"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-ed64bf5938e70719",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "鏡好聽"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-ed64bf5938e70719"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-4f010f52f6d7a300",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "阅听小筑"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-4f010f52f6d7a300"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-aa3d9c7be043fc23",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "青墨私音"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-aa3d9c7be043fc23"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-b1913cf211873a0d",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "高雄廣播電臺"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-b1913cf211873a0d"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-30347aba9133df69",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "魔女蓝"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-30347aba9133df69"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-2166b6359f81cc82",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "黃揚名"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-2166b6359f81cc82"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注2。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-9c71929050e4986b",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "_超人_唬头Bng"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-9c71929050e4986b"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-c64127bf8e98fc12",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "Daily Books"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-c64127bf8e98fc12"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-c43d06cfd0d4f45c",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "DDTea"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-c43d06cfd0d4f45c"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-2dd4782764ae5254",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "DK会谈的D"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-2dd4782764ae5254"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-8c009b01ab5ca219",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "Newbeetion"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-8c009b01ab5ca219"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-386d402d507e056e",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "NJ早安酱"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-386d402d507e056e"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-226aa4356fa25f93",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "OMEGA 小歐"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-226aa4356fa25f93"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-e976b2d3c871f08d",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "You爱的世界"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-e976b2d3c871f08d"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-9eb6d03f4803bd2b",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "一声FM-程风"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-9eb6d03f4803bd2b"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-6df2a8d19be79e53",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "一念蕙心"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-6df2a8d19be79e53"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-16cd61ea782380f9",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "万物声学声音实验室"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-16cd61ea782380f9"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-9aebf5a0853c43b4",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "万象历史"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-9aebf5a0853c43b4"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-88d058a5e9b248b9",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "东方骄子教育"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-88d058a5e9b248b9"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-83de1248598034fb",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "两小无才播客"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-83de1248598034fb"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-b63244d364535d3a",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "元气小医"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-b63244d364535d3a"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-7117b3569dca1a7d",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "剧舞吧配音社"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-7117b3569dca1a7d"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-70a8db527514081e",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "听友28584122"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-70a8db527514081e"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-dd793f19fa3a0815",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "听友55028590"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-dd793f19fa3a0815"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-b704589eb10a9f48",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "听友58759166"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-b704589eb10a9f48"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-5b8e0407ee9b626f",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "聲活數位科技"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-5b8e0407ee9b626f"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-aed112e290bedae9",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "聲音無限Voice Infinity"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-aed112e290bedae9"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-909a4b93dde77a9a",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "大斌"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-909a4b93dde77a9a"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-bdd1bb59051fff1b",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "大眼李少一"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-bdd1bb59051fff1b"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-20d5a65c81e92558",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "大舌头尚文"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-20d5a65c81e92558"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-3eac8ff074f659d6",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "媒丽山海"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-3eac8ff074f659d6"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-2d5da8b1b4ef0bdb",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "小博带你悦读"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-2d5da8b1b4ef0bdb"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-aa6d11c986342623",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "小苗大树"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-aa6d11c986342623"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-3d2324c6efe916eb",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "异能FM X 全球设计故事"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-3d2324c6efe916eb"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-d5bea8811fa40492",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "意公子"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-d5bea8811fa40492"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-cb3c8d23d73aa0be",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "文化有限"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-cb3c8d23d73aa0be"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-ef47e271d3b41d95",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "春天花开片片"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-ef47e271d3b41d95"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-96588fc8bc887393",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "暖心总裁聊成长"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-96588fc8bc887393"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-684b445fcbda829b",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "有声地理"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-684b445fcbda829b"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-234482a37e35bd2d",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "桃子味儿吐司"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-234482a37e35bd2d"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-c3c7e99f6127c4a7",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "梅花六有声小说"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-c3c7e99f6127c4a7"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-8690b711a518f6e6",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "然哥脱口秀"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-8690b711a518f6e6"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-a2a6225828488dbb",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "牛醫生與狗護士與荀哥"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-a2a6225828488dbb"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-369544c79170885b",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "猫爸fm"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-369544c79170885b"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-f041f2bc3e2a35eb",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "生命萌动"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-f041f2bc3e2a35eb"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-4fcd290eb84af44d",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "福智文教基金會"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-4fcd290eb84af44d"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-df31d1364e343233",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "科学史评话"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-df31d1364e343233"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-0a4c89ebb83a64c6",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "科学有故事"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-0a4c89ebb83a64c6"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-f2b29bd8ce80eb42",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "程涵729"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-f2b29bd8ce80eb42"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-9679f583bee8f6ee",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "纪晓寂"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-9679f583bee8f6ee"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-47ba75ac51b7c35b",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "纽约文化沙龙"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-47ba75ac51b7c35b"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-1077ecef08cb1967",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "罗问清"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-1077ecef08cb1967"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-f8228ce6d0093a10",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "船长肆叔"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-f8228ce6d0093a10"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-5fd36d08878dfbde",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "裔美声社"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-5fd36d08878dfbde"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-72a8ea38f6314d8c",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "轻之声广播剧社"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-72a8ea38f6314d8c"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-33c159bddbb9640f",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "远方中转站|治愈旅行"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-33c159bddbb9640f"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-0a25a6b860bf0578",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "配音狂"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-0a25a6b860bf0578"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-435b7ca60b584b05",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "醉皇灵"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-435b7ca60b584b05"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-be8c31cd330e5ddc",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "雁天儿"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-be8c31cd330e5ddc"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-fb45583a40845688",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "青年网络"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-fb45583a40845688"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-a855bc311973d143",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "青音"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-a855bc311973d143"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-9079a08834bd2ff8",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "非星凡文化"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-9079a08834bd2ff8"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-3401f83db93e73d3",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "飞奔的林子"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-3401f83db93e73d3"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-4ac0efcfc179515f",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "食课堂"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-4ac0efcfc179515f"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-da2a96e1793b45c1",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "魏小河"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-da2a96e1793b45c1"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-e9f2ec6763811e86",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "鹿小姐"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-e9f2ec6763811e86"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-46b4f4bef98d96b6",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "麦开心啷个哩个浪"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-46b4f4bef98d96b6"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说0、非虚构1，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-name-44d2cf7f7b9a190d",
+          "enabled": false,
+          "identities": [],
+          "names": [
+            "黑小雨剧场"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#name-44d2cf7f7b9a190d"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "显示名检索簇，非认证账号；AI已判读小说1、非虚构0，未标注0。仅复核，0贡献；不能据此确认纯小说账号。"
+        },
+        {
+          "id": "b-pub-artist-694593627",
+          "enabled": false,
+          "identities": [
+            {
+              "namespace": "apple.podcasts.artist",
+              "id": "694593627"
+            }
+          ],
+          "names": [
+            "听喜马拉雅"
+          ],
+          "role": "aggregator",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#apple-artist-694593627"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "稳定artist记录不等于纯小说账号，聚合平台整体规则保持disabled；没有真实账号黑名单。"
+        },
+        {
+          "id": "b-pub-artist-1532987095",
+          "enabled": false,
+          "identities": [
+            {
+              "namespace": "apple.podcasts.artist",
+              "id": "1532987095"
+            }
+          ],
+          "names": [
+            "巨有文化"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#apple-artist-1532987095"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "稳定artist记录不等于纯小说账号，聚合平台整体规则保持disabled；没有真实账号黑名单。"
+        },
+        {
+          "id": "b-pub-artist-1519998794",
+          "enabled": false,
+          "identities": [
+            {
+              "namespace": "apple.podcasts.artist",
+              "id": "1519998794"
+            }
+          ],
+          "names": [
+            "远方中转站|治愈旅行"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#apple-artist-1519998794"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "稳定artist记录不等于纯小说账号，聚合平台整体规则保持disabled；没有真实账号黑名单。"
+        },
+        {
+          "id": "b-pub-artist-1493542612",
+          "enabled": false,
+          "identities": [
+            {
+              "namespace": "apple.podcasts.artist",
+              "id": "1493542612"
+            }
+          ],
+          "names": [
+            "GZM Shows"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#apple-artist-1493542612"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "稳定artist记录不等于纯小说账号，聚合平台整体规则保持disabled；没有真实账号黑名单。"
+        },
+        {
+          "id": "b-pub-artist-121676617",
+          "enabled": false,
+          "identities": [
+            {
+              "namespace": "apple.podcasts.artist",
+              "id": "121676617"
+            }
+          ],
+          "names": [
+            "BBC Radio"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#apple-artist-121676617"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "稳定artist记录不等于纯小说账号，聚合平台整体规则保持disabled；没有真实账号黑名单。"
+        },
+        {
+          "id": "b-pub-artist-311022607",
+          "enabled": false,
+          "identities": [
+            {
+              "namespace": "apple.podcasts.artist",
+              "id": "311022607"
+            }
+          ],
+          "names": [
+            "文化放送PodcastQR"
+          ],
+          "role": "unknown",
+          "scope": "allShows",
+          "showIDs": [],
+          "action": "review",
+          "score": 1,
+          "confirmation": {
+            "status": "pending",
+            "by": "Codex metadata research; no human confirmation",
+            "at": "2026-10-26T08:11:54.903498+00:00",
+            "evidence": [
+              "rules/research/publisher-accounts.research.json#apple-artist-311022607"
+            ]
+          },
+          "expiresAt": "2026-11-25T08:11:54.903498+00:00",
+          "note": "稳定artist记录不等于纯小说账号，聚合平台整体规则保持disabled；没有真实账号黑名单。"
+        }
+      ]
+    }
+  ]
+}

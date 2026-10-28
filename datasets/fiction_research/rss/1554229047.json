@@ -1,0 +1,140 @@
+{
+  "show_id": "1554229047",
+  "feed_url": "http://www.ximalaya.com/album/46780305.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/46780305.xml",
+    "final_url": "http://www.ximalaya.com/album/46780305.xml",
+    "fetched_at": "2026-10-25T14:57:12.559899+00:00",
+    "status": 200,
+    "sha256": "e452428a4ed390dfdcd0ebcf83f28465251ec524f953c00ca83c098098bbfe11"
+  },
+  "status": "ok",
+  "title": {
+    "text": "《十年》访谈",
+    "truncated": false
+  },
+  "description": {
+    "text": "人生路漫，风雨常在，曾有得意时，亦有落魄相。十年，十分钟，十个问题，定格当下的你，回首曾经的你，展望未来的你，讲讲你平凡且不平凡的故事，用镜头记录每一个在生活路上努力前行的人。送给十年后自己一份成长的礼物，让现在感动未来。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 79,
+  "episodes": [
+    {
+      "id": "5ea54bff97a2ab9aa09ec485c2c89119ccebefc1c824b174b8a9ecc1f1be64a1",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0aec-audiofreehighqps/EE/32/CMCoOScEA6jsABfxgACI0l0H.m4a",
+      "title": {
+        "text": "《十年》访谈第一期 人物 刘世斌（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "人生路漫，风雨常在，曾有得意时，亦有落魄相。十年，十分钟，十个问题，定格当下的你，回首曾经的你，展望未来的你，讲讲你平凡且不平凡的故事，用镜头记录每一个在生活路上努力前行的人。送给十年后自己一份成长的礼物，让现在感动未来。",
+        "truncated": false
+      },
+      "published_at": "Thu, 18 Feb 2021 03:58:31 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "35f63f3d6426f4f0820afa49c9702628caf0b174a357285927ce75baaa92350a",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8a4d-audiofreehighqps/23/20/CKwRIW4EA7FJABAAAACI1X3h.mp3",
+      "title": {
+        "text": "《十年》访谈第五期 人物 胡曦洋- 外卖员（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "人生路漫，风雨常在，曾有得意时，亦有落魄相。十年，十分钟，十个问题，定格当下的你，回首曾经的你，展望未来的你，讲讲你平凡且不平凡的故事，用镜头记录每一个在生活路上努力前行的人。送给十年后自己一份成长的礼物，让现在感动未来。",
+        "truncated": false
+      },
+      "published_at": "Thu, 18 Feb 2021 04:34:23 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "d7b47003a4f673c2016020cf2bc2ed6ae0157a5e86de1c08089e3e7eff8f3ce6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/717b-audiofreehighqps/5D/D2/CKwRIUEEErKHABAAAACNSpA3.mp3",
+      "title": {
+        "text": "《十年》访谈第七期 人物 李玖项- 保安（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 01 Mar 2021 13:43:40 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "2787bbe9ad3c8393a548c71c262d6912c7c680021a243917b2cb8ca18b8ec48e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c248-audiofreehighqps/AA/32/CKwRIaIEM6LXABAAAACXGgd2.mp3",
+      "title": {
+        "text": "《十年》访谈第九期 人物 兰红- 房地产经纪人（2）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 26 Mar 2021 13:21:36 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "d0671b2c43ed29f3d481d192cf92abba1b80f61261cfdcb6b19cba631f38571f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/acea-audiofreehighqps/EB/C0/CKwRIDoESq76ABAAAACd5ASQ.mp3",
+      "title": {
+        "text": "《十年》访谈第十一期 人物 王雷-制片人 编剧（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 13 Apr 2021 00:55:26 GMT",
+      "feed_index": 45
+    },
+    {
+      "id": "7d55529acc701d8a2499cbfbf43370920a1053234d0e034cc3e5e3f60d0dff86",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4bf0-audiofreehighqps/9C/0C/CKwRIDoEW9aEABAAAACi-Wgz.mp3",
+      "title": {
+        "text": "《十年》访谈第十二期 人物 邓蓓-国际物流（5）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Apr 2021 01:13:11 GMT",
+      "feed_index": 56
+    },
+    {
+      "id": "f3024abe620cd070c3774be2e89c3c2484b638cdd32631dd6e90a643a63d76c6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8201-audiofreehighqps/DD/9C/CKwRIW4EiLX_ABAAAACyazwh.mp3",
+      "title": {
+        "text": "《十年》访谈第十三期 人物 房子-医美（8）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 30 May 2021 02:05:57 GMT",
+      "feed_index": 67
+    },
+    {
+      "id": "3649219187486d080301a56d3a2ee2d77b9325222cc1ed27720284bca6a2393d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a1db-audiofreehighqps/87/37/CKwRIRwEighuABAAAACy0a6f.mp3",
+      "title": {
+        "text": "《十年》访谈第十四期 人物 东尼-美发（10）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 31 May 2021 02:09:56 GMT",
+      "feed_index": 78
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1556351278",
+  "feed_url": "https://feeds.soundon.fm/podcasts/2daf5dcc-ca20-4b69-ac37-e98778a94e9e.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/2daf5dcc-ca20-4b69-ac37-e98778a94e9e.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/2daf5dcc-ca20-4b69-ac37-e98778a94e9e.xml",
+    "fetched_at": "2026-10-25T14:57:26.567836+00:00",
+    "status": 200,
+    "sha256": "07a320f1dab20fe77793a46a4b65b09e2dbd513f461dc9cc1e20df527b0e9d4c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "世界電力新聞週報",
+    "truncated": false
+  },
+  "description": {
+    "text": "這是一個分享國際能源、電力、環境、產業最新趨勢的Podcast節目，透過新聞報導、 雜誌期刊、智庫角度廣泛蒐集資訊與分析，從能源轉型、政策方向到市場競爭議題的精 闢整理，讓閱聽者在短時間內獲得豐富充實的知識饗宴。 RSS: https://feeds.soundon.fm/podcasts/2daf5dcc-ca20-4b69-ac37-e98778a94e9e.xml -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 223,
+  "episodes": [
+    {
+      "id": "33c8bb24a6879a6523ff403fa2bb623ecc99b8c6bdc908e7aa0f6debd206f8ff",
+      "guid": "1d292365-8ddd-4dcd-8879-9b29adde6053",
+      "title": {
+        "text": "世界電力新聞週報第223集-智慧電網再升級！電力公司引進 光傳輸網路OTN",
+        "truncated": false
+      },
+      "description": {
+        "text": "為推動數位轉型與智慧電網，電力公司建置雲端資料中心以進行大數據分析。為滿足龐大數據傳輸需求，特別引進光傳輸網路（OTN）技術，將骨幹頻寬升級至400G，具備超高速、高穩定、長距離及遠端智慧管理四大優勢，打造現代化智慧電力基礎建設，以因大頻寬數據網路需求的持續成長以及未來資料中心的建設規劃。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 20 Oct 2026 06:07:49 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "dbba4d7dfb877a385d2c93853dd08a43425d2a1419d3c7aee73cb2b31a76aca1",
+      "guid": "ad1bf289-6618-4a65-9b3f-f8d61bb620b4",
+      "title": {
+        "text": "世界電力新聞週報第191集- 斷路器線上動作時間監測系統",
+        "truncated": false
+      },
+      "description": {
+        "text": "電力系統發生事故係由保護電驛偵測後發送訊號觸發斷路器啟斷來隔離事故，故斷路器肩負快速啟斷隔離事故的重要任務，當斷路器有潛在風險時致啟斷時間延長將造成越區跳脫，擴大事故影響範圍並造成更大範圍的電壓驟降。傳統上斷路器的動作時間量測需要停電方能進行，然而在停電的過程中斷路器已經歷第一次跳脫(First Trip)，後續再經由儀器進行量測斷路器已是第二次以後的跳脫，無法取得第一次跳脫的動作時間，難以判別斷路器的機構狀態，本系統運用變電所既有斷路器(Circuit Breaker, CB)動作完成回傳之時間訊息，取代需另外購置之儀器而得斷路器第一次啟斷的動作時間(First Trip)，以達到即時量測記錄各個斷路器的動作時間之目的。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Jul 2025 08:22:13 GMT",
+      "feed_index": 32
+    },
+    {
+      "id": "0bb09d1cf405e2afc6736bf09037dd5a0818ce3f58fa02307375a1738e3e0231",
+      "guid": "056903d6-0d73-4c3f-b594-9ef12843ebb9",
+      "title": {
+        "text": "世界電力新聞週報第160集-七大工業國集團部長級會議的能源轉型共識",
+        "truncated": false
+      },
+      "description": {
+        "text": "七大工業國集團(G7)在義大利杜林召開了氣候、能源、環境政策部長級會議，會議共識將進一步在6月舉辦的第50屆G7領袖峰會予以確認，因此這次會議被外界視為重要風向球，其關鍵內容分別有： 一、2035年前淘汰「未減排」煤電，並配合各國淨零規劃，期能朝2050年將升溫控制在1.5度內的時程進行 二、2030年前將儲能容量提高六倍 三、G7認同核能在實現氣候目標方面的作用 四、減少甲烷排放 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 May 2024 06:40:10 GMT",
+      "feed_index": 63
+    },
+    {
+      "id": "eec45c9b3303aa8b34c1859e994b152125d1fb052404522a9e1ea3dc8e0dbae3",
+      "guid": "f8618665-86fc-4853-a7fc-49fb9897c6ad",
+      "title": {
+        "text": "世界電力新聞週報第128集-淺談電動車發展與電力需求",
+        "truncated": false
+      },
+      "description": {
+        "text": "隨著人們對淨零排放議題的重視，交通電氣化推動電動車發展的趨勢與未來電力產業的能源部署息息相關。各研究機構皆十分關注電動車的充電基礎設施部署、電池需求以及電力需求的發展情況，當然也值得電力公司投注心力及早布局。IEA 概略分為以政府政策規劃為基礎的「既定政策情境」(Stated Policies Scenario, STEPS)、以聯合國氣候變遷大會(COP26)締約 2030 目標規劃為基礎 的「宣布承諾情境」(Announced Pledges Scenario, APS)及以 2050限制全球升溫 1.5 度 C 的「淨零排放情境」(Net Zero Emissions, NZE)，在這三種情境下對電動車的前景預測，可供電力產業對未來電動車用電需求推估做為調整參考依據。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 24 Jul 2023 08:32:46 GMT",
+      "feed_index": 95
+    },
+    {
+      "id": "111a6f9301d4bae74fafb33494c08cbc19ba14b15b9091182375a2d4ec95b6ce",
+      "guid": "0351227f-84f7-4b53-baba-91aa3fda7e04",
+      "title": {
+        "text": "世界電力新聞週報第96集－EEIST的「制定能源轉型政策的10項原則」(三)",
+        "truncated": false
+      },
+      "description": {
+        "text": "英國「能源創新經濟與制度變遷計畫EEIST」提出能源轉型的「政策設計」及「政策評估」各5項原則，前兩期已介紹政策設計的五項原則，接下來將介紹「政策評估」原則，因能源轉型涉及的面向與範圍極為廣泛，要具備全面的視野、多元的觀點及完備的工具進行動態評估，因此需要考慮更多的層面、機會和風險，以及政策評估本身的過程，以確保政府政策盡可能考慮周全。本期節目先與大家分享「政策評估」的前兩項原則，包含一、政策沒有最佳解，要在明確目標下，隨著環境變化，提出具適應性的應對；二、能源轉型涉及龐大利益，如何妥善處理分配問題至關重要。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Dec 2022 07:52:29 GMT",
+      "feed_index": 127
+    },
+    {
+      "id": "f6fded63787badc5b9f43de4cd230636e578f5286a09fa8bc8744f3124bb991f",
+      "guid": "9e46a506-a2b5-4591-8473-2e67258e570b",
+      "title": {
+        "text": "世界電力新聞週報第64集－英國最新頒布的能源安全戰略",
+        "truncated": false
+      },
+      "description": {
+        "text": "這期節目與大家分享英國為了因應疫情後的景氣復甦，加上俄烏戰事使得全球能源價格上漲、造成國際市場動蕩，希望可以加速自產清潔且低廉的能源，以提高能源自主性及安全性，並降低民生帳單費用， 所頒布的「英國能源安全戰略」重點內容。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Apr 2022 06:47:34 GMT",
+      "feed_index": 159
+    },
+    {
+      "id": "50dff29dc69b831e908d6ac266467fbab882dfdf2a845a606c19d5f75e10aafc",
+      "guid": "aefe266a-72fb-41c9-a0d0-5c5fe83fa564",
+      "title": {
+        "text": "世界電力新聞週報第33集－氫氣在全球碳中和趨勢下的應用層面及發展現況",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期我們以氫氣為主題，與大家分享一下在全球碳中和趨勢下，世界各國對於氫氣的應用與跨國、跨域合作層面，以及做為燃料用途的氫能現況。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Sep 2021 06:37:19 GMT",
+      "feed_index": 190
+    },
+    {
+      "id": "ba233008db8303751806d813348516fd56f7575ea234c03809ecd088d649bc9d",
+      "guid": "5b8059a9-a926-4a56-9454-a24626e5fdb1",
+      "title": {
+        "text": "世界電力新聞週報第1集-日本之淨零碳排目標與計畫",
+        "truncated": false
+      },
+      "description": {
+        "text": "近期在面對全球關注的淨零排碳議題，各國多已提出戰略目標與行動計畫。其中日本為達成碳中和的目標，在再生能源開發、氫能、儲能電池、碳捕捉與封存、需求面管理等領域投資皆為重點。未來各部門亦將電氣化，讓用電需求再次大幅增加，如何做好電源結構的管理及突破是重要的關鍵。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Jan 2021 09:56:05 GMT",
+      "feed_index": 222
+    }
+  ]
+}

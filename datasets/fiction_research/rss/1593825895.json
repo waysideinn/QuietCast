@@ -1,0 +1,140 @@
+{
+  "show_id": "1593825895",
+  "feed_url": "http://www.ximalaya.com/album/51823624.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/51823624.xml",
+    "final_url": "http://www.ximalaya.com/album/51823624.xml",
+    "fetched_at": "2026-10-25T14:43:22.325340+00:00",
+    "status": 200,
+    "sha256": "75358f4215aea35634e766896ec59109b4d185dcc78613d63b669db0c9e8023a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【爆笑多播】搞笑穿越古风言情丨妃常作乱之情债",
+    "truncated": false
+  },
+  "description": {
+    "text": "【内容简介】 爆笑穿越古风言情，穿成傻子胖王妃还有救吗？ 生活在21世纪的女孩颜灵惜，由于欠了一个男人一世情缘，转生时又被小鬼打的魂魄分离，命格不全，从出生起就接连失去亲人，被月老打回千年前和自己的七魄魂魄合一，不料穿成一个胳膊和大象腿一样粗的女人，一个别人眼里的傻子。他家王爷好像还对女人不感兴趣？她到底能不能顺利完成任务，那就请您往下听吧。 【作者简介】 非言 【主播简介】 卡西有声",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 87,
+  "episodes": [
+    {
+      "id": "121849cb478433f9766382a86aaced6d231a9c6640443647a247ed8e085d5eac",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/34ef-audiofreehighqps/3A/3C/CKwRIMAE89e4AGw2-ADZnumM.m4a",
+      "title": {
+        "text": "妃常作乱之情债 01 第一集 无奈的魂魄合一",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 03 Aug 2021 08:50:04 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "324cc3d2ba601128f701958b67907df48b649ef9ec1cc1a8c1baefb2ce6e3bbe",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3d33-audiofreehighqps/D0/37/CKwRIRwE9QubAE1AYwDaAgQ7.m4a",
+      "title": {
+        "text": "妃常作乱之情债 13 第十三集 进宫",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 Aug 2021 10:00:03 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "06e9329236ad5e3166ed2573b416a539ca01b47283e578bbe63359800d646a77",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/73b2-audiofreehighqps/51/FA/CKwRIJIE7AXDAEuuCgDXHMuh.m4a",
+      "title": {
+        "text": "妃常作乱之情债 26 第二十六集 王爷释梦",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 13 Aug 2021 10:00:05 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "c2ed3bfd7ab2d62ad3f0302e112e3e9a95bc7a026b2e65bf49ba531f5bcb9e71",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1348-audiofreehighqps/7A/24/CKwRINsE8-8xAEZcxADZqPCy.m4a",
+      "title": {
+        "text": "妃常作乱之情债 38 第三十八集 反驳不了就耍赖",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Aug 2021 10:00:23 GMT",
+      "feed_index": 37
+    },
+    {
+      "id": "2cdebc9fc21944ac832e7da5ca1addcfc004e1c1b9a27f5b53021fa05cebf65c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/de4e-audiofreehighqps/F0/DB/CKwRIRwE-9gqAEhFxADcEaks.m4a",
+      "title": {
+        "text": "妃常作乱之情债 50 第五十集 学武不易",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 Aug 2021 10:00:10 GMT",
+      "feed_index": 49
+    },
+    {
+      "id": "1878d1ff7bc76fd5afd9af48c93e9d1417a8808b0d4180e1277b7848798ba9c1",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3cec-audiofreehighqps/4B/69/CKwRIJIFA8F3AEGkQADeUZF7.m4a",
+      "title": {
+        "text": "妃常作乱之情债 62 第六十二集 救人",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 Aug 2021 10:00:22 GMT",
+      "feed_index": 61
+    },
+    {
+      "id": "c457e75bafe0cc5f65f490cdb89f0af4f002c1a5b6d931c9822fad8496d95a65",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c52c-audiofreehighqps/1C/AD/CKwRIDoFC6ovAEVUcgDgVlvt.m4a",
+      "title": {
+        "text": "妃常作乱之情债 75 第七十五集 小七还钱",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Sep 2021 10:00:07 GMT",
+      "feed_index": 74
+    },
+    {
+      "id": "13db58040ad8e8bec7b3ca66251ded6ee5e45e239ca3b0ba15dc0109df2a5485",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/401b-audiofreehighqps/36/15/CKwRIUEFE5MRADWR8wDiVgEZ.m4a",
+      "title": {
+        "text": "妃常作乱之情债 87 第八十七集 千年情债（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 Sep 2021 10:00:07 GMT",
+      "feed_index": 86
+    }
+  ]
+}

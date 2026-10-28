@@ -1,0 +1,140 @@
+{
+  "show_id": "1536985876",
+  "feed_url": "http://www.ximalaya.com/album/42390794.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/42390794.xml",
+    "final_url": "http://www.ximalaya.com/album/42390794.xml",
+    "fetched_at": "2026-10-25T14:55:07.505113+00:00",
+    "status": 200,
+    "sha256": "2f1b141f22fb34857ee6dcfaeb32af5270ba0fc8db85e87f91b5d9b18ca75162"
+  },
+  "status": "ok",
+  "title": {
+    "text": "西方哲学史-伯特兰·罗素(英)",
+    "truncated": false
+  },
+  "description": {
+    "text": "Bertrand Russell A HISTORY OF WESTERN PHILOSOPHY and its Connection with Political and Social Circumstances from the Earliest Times to the Present Day. 哲学乃是社会生活与政治生活的一个组成部分：它并不是卓越的个人所做出的孤立的思考，而是曾经有各种体系盛行过的各种社会性格的产物与成因。------伯特兰.罗素",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 333,
+  "episodes": [
+    {
+      "id": "6266fca3452155159c7d9e025fa7b424bdad691e140c15566fc2310598aa7093",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2251-audiofreehighqps/57/D1/CMCoOSQDUVwgAEwOOQBald8n-aacv2-48K.m4a",
+      "title": {
+        "text": "西方哲学史/罗素-绪论1",
+        "truncated": false
+      },
+      "description": {
+        "text": "西方哲学史 绪论部分 1",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Oct 2020 22:07:19 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "bbf56dd6c49232b56938e5ed2012f8cecdc76a16e95e37eb48f19f2cca3e82ad",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9f60-audiofreehighqps/DD/39/CMCoOR4Db6RxAE2mJQBhk5oA.mp3",
+      "title": {
+        "text": "亚里士多德伦理学 4",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 28 Oct 2020 21:24:03 GMT",
+      "feed_index": 47
+    },
+    {
+      "id": "7a71dfd5194b4656734c3ff5d86c3f7e68089e6ace29b4affe80e3dd27a12dee",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6f87-audiofreehighqps/B1/1F/CMCoOSEDe5tTADYUHwBkcS11.mp3",
+      "title": {
+        "text": "犹太人的宗教发展 2",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 Nov 2020 23:12:21 GMT",
+      "feed_index": 95
+    },
+    {
+      "id": "262da54c182750637470036dea041f2f3fee9d36070c1df61059a1bf7972d5c2",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c09b-audiofreehighqps/47/AE/CMCoOSADiMDyAFGbxgBnqBkv.mp3",
+      "title": {
+        "text": "公元十二世纪3",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 16 Nov 2020 22:32:20 GMT",
+      "feed_index": 142
+    },
+    {
+      "id": "880a0075d475e609b6b9da11d95941ee40df610b57a7bf43a6fcaab0baf3e1b0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4d77-audiofreehighqps/2E/8E/CMCoOSADnyYhAClP6ABtti3t.m4a",
+      "title": {
+        "text": "霍布斯和利维坦2",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Dec 2020 22:13:47 GMT",
+      "feed_index": 190
+    },
+    {
+      "id": "0ab105b015ea84dde04ef1024f86e79846bd3a848c1e671f7488999a1fd98926",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8d2e-audiofreehighqps/70/B1/CMCoOSYDsEh1ABUZJgByGQFL.m4a",
+      "title": {
+        "text": "洛克的影响4",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Dec 2020 22:08:50 GMT",
+      "feed_index": 237
+    },
+    {
+      "id": "b209d00a0193985d469ca39d24ba8265c63f9a81a77601497f19138978e7399e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/683c-audiofreehighqps/14/4A/CMCoOSMDxWMpAC2LngB3SMqD-aacv2-48K.m4a",
+      "title": {
+        "text": "黑格尔7",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 01 Jan 2021 22:20:18 GMT",
+      "feed_index": 285
+    },
+    {
+      "id": "1dea93bb97e1126f6650973c765283f92ce9294f0303404d5986f4902a44c6e1",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c708-audiofreehighqps/92/91/CKwRIaID6jcyABAAAACBd_TL.mp3",
+      "title": {
+        "text": "逻辑分析哲学4",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 29 Jan 2021 20:47:06 GMT",
+      "feed_index": 332
+    }
+  ]
+}

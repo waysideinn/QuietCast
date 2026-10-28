@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/74644153.xml",
+    "final_url": "https://www.ximalaya.com/album/74644153.xml",
+    "fetched_at": "2026-10-26T07:58:49.232370+00:00",
+    "status": 200,
+    "sha256": "85e78e6587b09291d1191d89735f898b0463c0ce15d2290818aa8de8676e61db"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "都市邪尊赘婿（都市修仙小说）",
+      "truncated": false
+    },
+    "description": {
+      "text": "仙界无上邪尊重生在废物赘婿身上，竟发现妻子与前世的恋人一模一样，但恋人的三魂七魄早已七零八落，为寻回前世恋人，也为重登尊位，废物邪尊开启自己的人间渡劫之旅~",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "有声的雪愿"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "有声的雪愿"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Drama"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/74644153",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 295,
+    "episodes": [
+      {
+        "title": {
+          "text": "【都市邪尊赘婿】第1章、邪尊重生（上）",
+          "truncated": false
+        },
+        "description": {
+          "text": "精彩剧透： 仙界邪尊的劫后余生，便是重生在别人的人生低谷",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_614379743"
+      },
+      {
+        "title": {
+          "text": "【都市邪尊赘婿】第43章、水性杨花（上）（求月票求订阅求打赏求关注）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 42,
+        "guid": "xmly_track_614632043"
+      },
+      {
+        "title": {
+          "text": "【都市邪尊赘婿】第85章、收为义子（下）（求月票求订阅求打赏求关注）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 84,
+        "guid": "xmly_track_618400495"
+      },
+      {
+        "title": {
+          "text": "【都市邪尊赘婿】第127章、佛爷降临（下）（求关注·求订阅·求月票·求打赏）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 126,
+        "guid": "xmly_track_622077402"
+      },
+      {
+        "title": {
+          "text": "【赘婿进度过半】第169章、狼群夜袭（下）(7魄剩2：怒乔,哀舒,恶苏,爱婵,喜许)",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 168,
+        "guid": "xmly_track_625748825"
+      },
+      {
+        "title": {
+          "text": "【福利加更2集~】第211章、李家往事（中）（七魄聚齐，只欠三魂）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 210,
+        "guid": "xmly_track_628970226"
+      },
+      {
+        "title": {
+          "text": "【赘婿进度剩2成】第253章、剑气四溢（求关注订阅，破千来评论区抽奖）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 252,
+        "guid": "xmly_track_630984929"
+      },
+      {
+        "title": {
+          "text": "【赘婿大结局】第295章、渡劫飞升（完）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 294,
+        "guid": "xmly_track_634469434"
+      }
+    ]
+  }
+}

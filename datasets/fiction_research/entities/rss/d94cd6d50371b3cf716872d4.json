@@ -1,0 +1,154 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/3367596.xml",
+    "final_url": "http://www.ximalaya.com/album/3367596.xml",
+    "fetched_at": "2026-10-26T07:53:31.481861+00:00",
+    "status": 200,
+    "sha256": "81e3543cdc9f8109cafd807a1138b9ffe6b32239432b87a222bb73c4a8588b70"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "晚安日语",
+      "truncated": false
+    },
+    "description": {
+      "text": "学一言日语，道一声晚安。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "雁天儿"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "雁天儿"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Music"
+      ],
+      [
+        "Education"
+      ],
+      [
+        "Education",
+        "Language Courses"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/3367596",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 651,
+    "episodes": [
+      {
+        "title": {
+          "text": "送礼物啦 | 开锅，它开的到底是什么？！",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_918538932"
+      },
+      {
+        "title": {
+          "text": "【晚安｜No.581】三月纷飞，送你一首如樱花般美好的和歌。",
+          "truncated": false
+        },
+        "description": {
+          "text": "【音乐】 森山直太郎 ーー さくら 【文稿】 请查阅微信公号：xialiaoriyu 道一声晚安。",
+          "truncated": false
+        },
+        "feed_index": 93,
+        "guid": "https://aod.cos.tx.xmcdn.com/group40/M07/DB/58/wKgJVFq7oBLzXDOBAEK6lb_Tlak821.m4a"
+      },
+      {
+        "title": {
+          "text": "【晚安｜No.488】生命，不以长喜不以短悲。极致生长，即为荣光。",
+          "truncated": false
+        },
+        "description": {
+          "text": "【音乐】 巫娜 ーー 飞升 【文稿信息】 请查阅微信公号：xialiaoriyu",
+          "truncated": false
+        },
+        "feed_index": 186,
+        "guid": "https://aod.cos.tx.xmcdn.com/group32/M04/76/F5/wKgJnFmdifTQJS_GADoVqlvU3gs915.m4a"
+      },
+      {
+        "title": {
+          "text": "Tina道晚安（394）— 招牌菜！",
+          "truncated": false
+        },
+        "description": {
+          "text": "【音乐】 钟志刚 ーー 月亮粑粑 【文稿信息】 请查阅微信公号：xialiaoriyu",
+          "truncated": false
+        },
+        "feed_index": 279,
+        "guid": "https://aod.cos.tx.xmcdn.com/group26/M03/85/91/wKgJRljTy5ugyhepAEcNy3-b9vs067.m4a"
+      },
+      {
+        "title": {
+          "text": "Tina道晚安（299）— 泡澡和萝卜？什么鬼！",
+          "truncated": false
+        },
+        "description": {
+          "text": "SOUNDORBISーーDream of Sheep 谢春花ーー无终",
+          "truncated": false
+        },
+        "feed_index": 371,
+        "guid": "https://aod.cos.tx.xmcdn.com/group24/M02/34/C0/wKgJMFgkiSbiQE2bAEXQvZ8XOJU865.m4a"
+      },
+      {
+        "title": {
+          "text": "Tina道晚安（197）—牢骚发不停！",
+          "truncated": false
+        },
+        "description": {
+          "text": "SOUNDORBISーーDream of Sheep ハンバート ハンバート ーー 妙なる調べ",
+          "truncated": false
+        },
+        "feed_index": 464,
+        "guid": "https://aod.cos.tx.xmcdn.com/group7/M06/A0/8C/wKgDX1dyW9njRrfkASgQAqIHZJA607.mp3"
+      },
+      {
+        "title": {
+          "text": "Tina道晚安（103）",
+          "truncated": false
+        },
+        "description": {
+          "text": "【音乐】 SOUNDORBISーーDream of Sheep 森山直太朗 ーー夏の终わり",
+          "truncated": false
+        },
+        "feed_index": 557,
+        "guid": "https://aod.cos.tx.xmcdn.com/group14/M08/2E/B6/wKgDZFbz-WiSsMADASUAVcj4jxM037.mp3"
+      },
+      {
+        "title": {
+          "text": "Tina道晚安（001）",
+          "truncated": false
+        },
+        "description": {
+          "text": "【音乐】 桑田佳祐ーー明日晴れるか",
+          "truncated": false
+        },
+        "feed_index": 650,
+        "guid": "https://aod.cos.tx.xmcdn.com/group11/M02/BE/B0/wKgDa1ZwEXPSZ1NyADoFuyabed0034-aacv2-48K.m4a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1541325905",
+  "feed_url": "https://anchor.fm/s/40dea400/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/40dea400/podcast/rss",
+    "final_url": "https://anchor.fm/s/40dea400/podcast/rss",
+    "fetched_at": "2026-10-25T14:51:15.728697+00:00",
+    "status": 200,
+    "sha256": "65c7832b03fd5a5cce29168ef5de40c6ebc981f0a9c43e527f58bc2c3f86db47"
+  },
+  "status": "ok",
+  "title": {
+    "text": "楊奕成的好了集之紅樓夢",
+    "truncated": false
+  },
+  "description": {
+    "text": "以小樹苗出版社的紅樓夢為底本，為您導讀《紅樓夢》。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 41,
+  "episodes": [
+    {
+      "id": "c9c1e0216ddcf3459ec6ed778cb2dc11e2d393b4d5928c51314f5f20621722a6",
+      "guid": "7e277539-a219-4b24-96bf-31467ac8f95a",
+      "title": {
+        "text": "楊奕成的好了集之紅樓夢後記",
+        "truncated": false
+      },
+      "description": {
+        "text": "後記",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Nov 2020 14:13:22 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "78eb9432f9b079fe2ba68e2c239fc2afaa79d97f825bfefd7921883033b589f5",
+      "guid": "65dec795-bbd4-40f3-b9eb-290ad1b3ba1a",
+      "title": {
+        "text": "楊奕成的好了集之紅樓夢35賈府禍連連",
+        "truncated": false
+      },
+      "description": {
+        "text": "賈府禍連連",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Nov 2020 14:06:23 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "d2c9ba3bec3e85966df40c81dddd8477c56b02b62d25b4152671c1fe5d5aa13f",
+      "guid": "537605ce-7995-47e0-aa71-46f41c88e31e",
+      "title": {
+        "text": "楊奕成的好了集之紅樓夢31丟失通靈玉",
+        "truncated": false
+      },
+      "description": {
+        "text": "丟失通靈玉",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Nov 2020 13:57:49 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "369a528999da623b9530c5ff58b3ccbd02eb1665727db1304803d436214c9bd4",
+      "guid": "8d33d46c-1227-4dc2-b055-6a6af5824770",
+      "title": {
+        "text": "楊奕成的好了集之紅樓夢24查檢大觀園",
+        "truncated": false
+      },
+      "description": {
+        "text": "查檢大觀園",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Nov 2020 13:52:41 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "0c8bf3955aac32f2c22e32a6b613a092d80f7352d90e3f2db0b1d6afde840013",
+      "guid": "c661f959-fe18-4ce7-9665-b7130f21f5dd",
+      "title": {
+        "text": "楊奕成的好了集之紅樓夢18海棠社壯大",
+        "truncated": false
+      },
+      "description": {
+        "text": "海棠社壯大",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Nov 2020 13:48:44 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "b98c57330fc60d98c4d219b4c8f9a920cd013559c7a9b9889428669573694c69",
+      "guid": "004f9f7b-3fdf-4868-b8c8-3c81b39b7e6f",
+      "title": {
+        "text": "楊奕成的好了集之紅樓夢12兩發小鬥氣",
+        "truncated": false
+      },
+      "description": {
+        "text": "兩發小鬥氣",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Nov 2020 13:29:29 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "3104d126419153d6f1d3cbf188f33cbbe9217d13521c28a3491ee11c76a3952f",
+      "guid": "81e18c66-bcf1-4ed4-81ae-9f6900628597",
+      "title": {
+        "text": "楊奕成的好了集之紅樓夢07 襲人勸寶玉",
+        "truncated": false
+      },
+      "description": {
+        "text": "襲人勸寶玉",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Nov 2020 13:25:50 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "d2b814592d8c7f086cf1ec6506810a7331deba04d706df4d8e95085fcd9989c5",
+      "guid": "eccf622d-fa13-444e-8104-b3ce74b5dc4d",
+      "title": {
+        "text": "楊奕成的好了集之紅樓夢01寶黛初相會",
+        "truncated": false
+      },
+      "description": {
+        "text": "寶黛初相會",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Nov 2020 13:18:18 GMT",
+      "feed_index": 40
+    }
+  ]
+}

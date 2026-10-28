@@ -1,0 +1,140 @@
+{
+  "show_id": "1248691568",
+  "feed_url": "http://www.ximalaya.com/album/7573285.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/7573285.xml",
+    "final_url": "http://www.ximalaya.com/album/7573285.xml",
+    "fetched_at": "2026-10-25T14:48:21.526872+00:00",
+    "status": 200,
+    "sha256": "e8cd902becda6cfe0ee3f7b6943357b9dacfd578b52ecd1ea5eae201fde9c7fd"
+  },
+  "status": "ok",
+  "title": {
+    "text": "关键洞察力：成功沟通的要诀（公关必读）完结",
+    "truncated": false
+  },
+  "description": {
+    "text": "博雅公关公司全球总裁，在他从业的50年间，博雅从一个只有六个业务员的小公司成长为全球最大公关公司。本书是他对往事和公关业的回忆。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 75,
+  "episodes": [
+    {
+      "id": "b1c85cec51239eff65e8b13a4fdd85a346e48bed75e8cfd50072a842a1e0b051",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M08/5A/A4/wKgJSVmQc_mSowDjABrXGHqy7ak144.m4a",
+      "title": {
+        "text": "4萨姆沃纳梅克：此生酷爱莎士比亚",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 13 Aug 2017 15:44:47 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "752c47055a6406ec12235facebf742defab52d77d484496124a899c8ff359730",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M00/3E/58/wKgJSVmDSWWRMz79AKlgu35iyO4759.m4a",
+      "title": {
+        "text": "1观念管理的代名词（满满干货一篇）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Aug 2017 16:03:50 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "c69b44dac12d62188aaa2d8ac207a324c2844fe9401e8a64f4a30f2c1f6c7445",
+      "guid": "https://aod.cos.tx.xmcdn.com/group28/M00/CE/53/wKgJXFlfj3XC9kIUAAkEqlDGiTg349.m4a",
+      "title": {
+        "text": "第十章 危机管理的黄金标准",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 07 Jul 2017 13:41:06 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "7baa1077a15b9edabee571b714eb1fe0ab3254e59319bfb9ac9e61cdffb47e22",
+      "guid": "https://aod.cos.tx.xmcdn.com/group28/M0A/3E/E7/wKgJSFlVLMLhL50MAAXdBmK-ZUE955.m4a",
+      "title": {
+        "text": "第七章 携手中国：品牌信誉是关键",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 29 Jun 2017 16:37:21 GMT",
+      "feed_index": 32
+    },
+    {
+      "id": "9027561c491011612c9851364604a72e8c5bac273d834d3e12f49be474ed2eb2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group28/M08/D1/66/wKgJXFlNIfXylzudAB8gBdCbACE429.m4a",
+      "title": {
+        "text": "2中国香港：宁可信其有，不可信其无（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Jun 2017 14:13:04 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "e1f91beb2121b1dd194f6be12d7851cefdcab2b355fde86578402a9617602e4a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group28/M08/62/91/wKgJXFk0Hm-RImEYAFR_hXn9quA099.m4a",
+      "title": {
+        "text": "7比比皆是的机会",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 04 Jun 2017 14:51:29 GMT",
+      "feed_index": 53
+    },
+    {
+      "id": "de032d664b20084414e6d8f728376cbf00a13c8c08c92dd6ba4fc359cd22f373",
+      "guid": "https://aod.cos.tx.xmcdn.com/group27/M03/BA/13/wKgJR1kYhWizTpjGAGrB1K9oEww892.m4a",
+      "title": {
+        "text": "5优秀的演说家（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 14 May 2017 16:27:20 GMT",
+      "feed_index": 63
+    },
+    {
+      "id": "419339a01c60c2fc2dccc6eb3836e02a1f0a44eb3d0aab28f5f690d23d73f043",
+      "guid": "https://aod.cos.tx.xmcdn.com/group26/M08/62/7C/wKgJWFjp2zOirt5MABXz_tO0Rnw302.m4a",
+      "title": {
+        "text": "关键洞察力：成功沟通的要诀",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 09 Apr 2017 06:56:47 GMT",
+      "feed_index": 74
+    }
+  ]
+}

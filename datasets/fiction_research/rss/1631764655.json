@@ -1,0 +1,140 @@
+{
+  "show_id": "1631764655",
+  "feed_url": "https://www.ximalaya.com/album/69033261.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/69033261.xml",
+    "final_url": "https://www.ximalaya.com/album/69033261.xml",
+    "fetched_at": "2026-10-25T14:44:30.036937+00:00",
+    "status": 200,
+    "sha256": "4216534f79890f29ac7332d4e1de52c0990dde8446f98127cd5132ed97c334bc"
+  },
+  "status": "ok",
+  "title": {
+    "text": "我靠废柴之身逆天改命|玄幻 武侠 穿越|狮子云云",
+    "truncated": false
+  },
+  "description": {
+    "text": "“众生是否生来平等？” “世间万物，众生皆平等！” “那为何天庭独掌世间，无尽大陆皆尽蝼蚁？” “世间法则天庭执掌，方保五行安稳，六界无忧，十方太平！” “既然如此，为何独你凌驾一切之上，跳出六界之外，不在五行之中！” “我且问你，宿命究竟何为？” “人人生来注定一切，天命定永世轮回！” “既然命由天定，你的命谁来定？” “朱门酒肉臭路有冻死骨，有的人天生凌驾在他人头上的，而有的人生来注定受凌一生！” “宿命给予众生的待遇是一样的，最终都得迈向死亡回归自然！” “别跟我扯...",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "serial",
+    "explicit": "false"
+  },
+  "feed_item_count": 141,
+  "episodes": [
+    {
+      "id": "336c16233f4426d1abed6964a2fd72918d6f1e3c95b7f7cf44e2e994e14a9e1c",
+      "guid": "xmly_track_546626427",
+      "title": {
+        "text": "第1章 月回千年 上",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 26 Jun 2022 10:46:28 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "285621a6af13f4bb935f8ff773ccdc02fcd71929916f60861c30b9864484bca5",
+      "guid": "xmly_track_547841298",
+      "title": {
+        "text": "第21章 竞拍开始",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 30 Jun 2022 14:01:30 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "57136863072264ce7497ed8c4310efaf63e0e88abc0b675160e27491dc0acb01",
+      "guid": "xmly_track_550712860",
+      "title": {
+        "text": "第41章 不战而胜",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Jul 2022 10:16:00 GMT",
+      "feed_index": 40
+    },
+    {
+      "id": "27eff8df69af74634f7b4803fe0d2121e2d68def59027d8af0815d798e6cda60",
+      "guid": "xmly_track_553010749",
+      "title": {
+        "text": "第61章 夕阳西下",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Jul 2022 17:58:00 GMT",
+      "feed_index": 60
+    },
+    {
+      "id": "f7fb8af5a903f8ed95e0223f83f32eb97bf69a726f5ee16c58578a5a93cbb3bc",
+      "guid": "xmly_track_556394061",
+      "title": {
+        "text": "第81章 觉醒 上",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 29 Jul 2022 19:28:02 GMT",
+      "feed_index": 80
+    },
+    {
+      "id": "d131ff386de7c9087b6637108f481cbcfa410b9f5082bc26a7e79d8cdab98010",
+      "guid": "xmly_track_556394168",
+      "title": {
+        "text": "第101章 还有谁！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 Aug 2022 19:28:02 GMT",
+      "feed_index": 100
+    },
+    {
+      "id": "43f76db60042d2aa44d6f3e5f16c059395b72adaf7cf9c86c5dea1ebaf812c27",
+      "guid": "xmly_track_560614093",
+      "title": {
+        "text": "第121章 众口铄金",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Aug 2022 13:35:00 GMT",
+      "feed_index": 120
+    },
+    {
+      "id": "fc60da058e43b95cd7afb70764c495a9341ecedea316320faaf5bdc8f9886a74",
+      "guid": "xmly_track_560614831",
+      "title": {
+        "text": "第141章 大结局 下",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 Aug 2022 13:35:04 GMT",
+      "feed_index": 140
+    }
+  ]
+}

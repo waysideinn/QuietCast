@@ -1,0 +1,112 @@
+{
+  "show_id": "1536359333",
+  "feed_url": "https://feeds.soundon.fm/podcasts/5aa6cc22-a38c-4f14-bba4-ff460d0fe638.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/5aa6cc22-a38c-4f14-bba4-ff460d0fe638.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/5aa6cc22-a38c-4f14-bba4-ff460d0fe638.xml",
+    "fetched_at": "2026-10-25T14:42:14.286108+00:00",
+    "status": 200,
+    "sha256": "71d0ddd083b158e824621671aa6ccd23d56d4e7c8725776120c86db8548eef8a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "燒夜詩吉",
+    "truncated": false
+  },
+  "description": {
+    "text": "合作邀約請洽FB：燒吉•美食無限肚子聚團 純粹的，讀一首好詩 寧靜的，聽一首好詩 蔣勳：「詩是在我們最哀傷、最絕望的時刻，讓人安靜下來的東西。 如果能想起這些詩句，或許會有面對生命的平靜。」 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 6,
+  "episodes": [
+    {
+      "id": "389cd1efd71221940e7f7dc8c2cb32153c6992cdca00287c0b688f85af3030c0",
+      "guid": "592d58c0-0fb4-4e21-aa2c-5df24a07ee5a",
+      "title": {
+        "text": "燒夜詩吉06 | 郭霖〈如果我想念你〉",
+        "truncated": false
+      },
+      "description": {
+        "text": "〈如果我想念你〉 ／ 郭霖《隱生宙》 如果我想念你 我會去你去過的地方 聞一聞空氣裡 你的花香 如果我想念你 我會抬頭 用每一道來自你的光 在天地沐浴 如果我想念你 我哼歌會有笑意 滿滿地 能滋養窗台邊的小枝芽 如果我想念你 我的文字會開始綿延 自由去向他的目的地 如果我想念你 我就計算雨落在頂棚的聲響 夜裡的百萬顆小水珠 如何長途跋涉 回到海洋 如果我想念你 我不停留 不追蹤 我要一切如常運轉 生生不息 我活著 你也活著 原著：郭 霖 https://www.facebook.com/kuorin0109 詩集：隱生宙 https://www.books.com.tw/products/0010881860?loc=M_0009_003 延伸閱讀：他媽的人生：詩人郭霖談《隱生宙》與母親的故事 https://reurl.cc/ze1kra 真誠推薦：〈詩人說夢〉Podcast節目 https://open.spotify.com/show/2lxI81i5AbgcWNGlgi8t2V －－－－－－－－－－－－－－－－－－－－ 感謝您的收聽，如果您想知道更多我的動態，可以追蹤我的社群軟體 FB：https://reurl.cc/OqR9E7 IG：https://reurl.cc/Md9b0L －－－－－－－－－－－－－－－－－－－－ 音樂來源： \"Juan Sánchez - F",
+        "truncated": true
+      },
+      "published_at": "Fri, 25 Jun 2021 12:31:11 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "0f6da328b4e365cc324eec66fd271e13505c5b2c323257793fd5ac7174a8c562",
+      "guid": "c1ae8ba2-f87d-400b-8399-3c93a3309135",
+      "title": {
+        "text": "燒夜詩吉05 | 不能隔斷的聲浪，不聲不響－沈尹默〈三弦〉",
+        "truncated": false
+      },
+      "description": {
+        "text": "沈尹默〈三弦〉 中午時候，火一樣的太陽，沒法去遮攔，讓他直曬著長街上。靜悄悄少人行路；只有悠悠風來，吹動路旁楊樹。 誰家破大門裡，半院子綠茸茸細草，都浮著閃閃的金光。旁邊有一段低低土牆，擋住了個彈三弦的人，卻不能隔斷那三弦鼓盪的聲浪。 門外坐著一個穿破衣裳的老年人，雙手抱著頭，他不聲不響。 / 如果你聽完這一集，有什麼想法， 歡迎至這集的專屬留言區給我鼓勵 https://open.firstory.me/story/ckikoxyabihud0810jklwzhfp?m=comment 如果您喜歡我的聲音，也可以請我喝一杯珍奶，我會繼續創作 https://pay.firstory.me/user/saoji-voice 如果你想要知道我更多的動態，可以追蹤我的社群軟體 FB：https://reurl.cc/OqR9E7 IG：https://reurl.cc/Md9b0L / 我是燒吉，對美食著迷的廣播劇演員 喜歡聲音，喜歡表演 喜歡運動，喜歡追劇 常常放聲大笑，有時也歇斯底里 交了幾個知心的朋友 演了幾齣喜歡的作品 做了幾件隨心所欲的事情 誠摯跟你推薦 Youtube：【聲音無限廣播劇團】 這是台灣原創的廣播劇團 有很多香噴噴耽美BL，百合GL、BG的廣播劇 台灣聲音原創，需要您的支持 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 11 Dec 2020 19:56:22 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "003dd483dee2acab454194bd2d57f64859bd9099232f11da778cb78b3e30d598",
+      "guid": "f7cf4355-cce3-47fe-9d51-6cafb0c7138c",
+      "title": {
+        "text": "燒夜詩吉04 | 如果你聽到我的聲音－L〈海螺〉",
+        "truncated": false
+      },
+      "description": {
+        "text": "L 〈海螺〉 潮汐一如拉長的變焦鏡頭 太遠，也容易起霧 我願放棄旅人的身份 在夢囈的船隻上，成為妳的收藏 我是一枚沉默的海螺 如果潮聲漸大 會有一場在洪荒中蔓生的暴雨 輪軸沒入歷史的海域 妳溫吞地自寒夜中醒來 有如懶散的情人亮著一盞夜燈 擦亮街燈 在層層疊疊的浪聲中 我聽見妳的聲音、影子 在遠方的道路，遠方的海 或許接近海，就能繼續等候 或許 砂石吹入時間的角落 妳將漫不經心地揉著眼睛 摸著海螺上的刻紋 然而，我會成為更好的一枚海螺 在妳的掌心 度過長長的一生 ——————————— 我是燒吉 一個對美食著迷的廣播劇演員 喜歡聲音，喜歡表演 喜歡運動，喜歡追劇 常常放聲大笑，有時也歇斯底里 交了幾個知心的朋友 演了幾齣喜歡的作品 做了幾件隨心所欲的事情 （還認識一群貼心的V粉） 如果你聽完這一集，有什麼想法， 歡迎至這集的專屬留言區給我鼓勵 https://open.firstory.me/story/ckhqicnse0mz10873rlrvo4s8?m=comment 如果您喜歡我的聲音，也可以請我喝一杯珍奶，我會繼續創作 https://pay.firstory.me/user/saoji-voice 如果你想要知道我更多的動態，可以追蹤我的社群軟體 FB：https://reurl.cc/OqR9E7 IG：https://reurl.cc/Md9b0L 最後，想要誠摯跟你",
+        "truncated": true
+      },
+      "published_at": "Fri, 20 Nov 2020 16:58:46 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "9cc01351f53b54ff42d03f834f6c0f6813d55164a7c9d732dfa0f3f5d0d3836f",
+      "guid": "fc9ec94e-565b-4c30-a6df-1d9670789878",
+      "title": {
+        "text": "燒夜詩吉03｜窒息－鄭愁予〈情婦〉",
+        "truncated": false
+      },
+      "description": {
+        "text": "一首令我窒息的詩 〈情婦〉 鄭愁予 在一青石的小城，住著我的情婦 而我甚麼也不留給她 祇有一畦金線菊，和一個高高的窗口 或許，透一點長空的寂寥進來 或許……而金線菊是善等待的 我想，寂寥與等待，對婦人是好的 所以，我去，總穿一襲藍衫子 我要她感覺，那是季候，或 候鳥的來臨 因我不是常常回家的那種人 ——————————— 我是燒吉 一個對美食著迷的廣播劇演員 喜歡聲音，喜歡表演 喜歡運動，喜歡追劇 常常放聲大笑，有時也歇斯底里 交了幾個知心的朋友 演了幾齣喜歡的作品 做了幾件隨心所欲的事情 （還認識一群貼心的V粉） 如果你聽完這一集，有什麼想法， 歡迎至這集的專屬留言區給我鼓勵 https://reurl.cc/q8oOnR 如果您喜歡我的聲音，也可以請我喝一杯珍奶，我會繼續創作 https://pay.firstory.me/user/saoji-voice 如果你想要知道我更多的動態，可以追蹤我的社群軟體 FB：https://reurl.cc/OqR9E7 IG：https://reurl.cc/Md9b0L 最後，想要誠摯跟你推薦 Youtube搜尋：【聲音無限廣播劇團】 這是台灣原創的廣播劇團 有很多香噴噴耽美BL，百合GL、BG的廣播劇 台灣聲音原創，需要您的支持 謝謝 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Oct 2020 11:51:58 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "3077d3aabbd3d3b59bca4dd6e4d59fdc3e20f4b879aa5019319da20321114ecd",
+      "guid": "60c2e057-11d3-4856-a870-2f8ecedd13f3",
+      "title": {
+        "text": "燒夜詩吉02 | 純粹的喜歡，沒有你－席慕蓉〈我〉",
+        "truncated": false
+      },
+      "description": {
+        "text": "我喜歡 就這樣 靜靜的讀一首詩。 〈我〉 席慕蓉 我喜歡出發 喜歡離開 喜歡一生中都能有新的夢想 千山萬水隨意行去 不管星辰指引的是什麼方向 我喜歡停留 喜歡長久 喜歡在園裡種下千棵果樹 靜待冬雷夏雨春華秋實 喜歡生命裡只有單純的盼望 只有一種安定和緩慢的成長 我喜歡歲月漂洗過的顏色 喜歡那沒有唱出來的歌 我喜歡在夜裡寫一首長詩 然後再來這清涼的早上 逐行逐段地檢視 慢慢刪去 每一個與你有著關聯的字 ——————————— 我是燒吉 一個對美食著迷的廣播劇演員 喜歡聲音，喜歡表演 喜歡運動，喜歡追劇 常常放聲大笑，有時也歇斯底里 交了幾個知心的朋友 演了幾齣喜歡的作品 做了幾件隨心所欲的事情 （還認識一群貼心的V粉） 如果你聽完這一集，有什麼想法， 歡迎至這集的專屬留言區給我鼓勵 https://reurl.cc/Md9b3n 如果您喜歡我的聲音，也可以請我喝一杯珍奶，我會繼續創作 https://pay.firstory.me/user/saoji-voice 如果你想要知道我更多的動態，可以追蹤我的社群軟體 FB：https://reurl.cc/OqR9E7 IG：https://reurl.cc/Md9b0L 最後，想要誠摯跟你推薦 Youtube搜尋：【聲音無限廣播劇團】 這是台灣原創的廣播劇團 有很多香噴噴耽美BL，百合GL、BG的廣播劇 台灣聲音原創，需要您的支持 謝",
+        "truncated": true
+      },
+      "published_at": "Mon, 19 Oct 2020 19:16:25 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "5b6e73636aec2899c298ace62e9488fdec30c4941bee1be9f4e5354876321481",
+      "guid": "c39e9185-105e-4a59-bc8f-fe53c8d6b9e7",
+      "title": {
+        "text": "燒夜詩吉01 | 告別世界的遺作－海子〈面朝大海 春暖花開〉",
+        "truncated": false
+      },
+      "description": {
+        "text": "在離世前，你想留下甚麼給這個世界？ . 這首詩，是詩人「海子」 1989年1月13日的作品 那年她二十五歲 同年3月，她輕生結束生命 這首詩，成了她留給這個世界最後的祝福 . 〈面朝大海 春暖花開〉 海子 從明天起，做一個幸福的人 餵馬、劈柴、週遊世界 從明天起，關心糧食和蔬菜 我有一所房子，面朝大海，春暖花開 從明天起，和每一個親人通信 告訴他們我的幸福 那幸福的閃電告訴我的 我將告訴每一個人 給每一條河每一座山取一個溫暖的名字 陌生人，我也為你祝福 願你有一個燦爛的前程 願你有情人終成眷屬 願你在塵世獲得幸福 我只願面朝大海，春暖花開 ——————————— 我是燒吉 一個對美食著迷的廣播劇演員 喜歡聲音，喜歡表演 喜歡運動，喜歡追劇 常常放聲大笑，有時也歇斯底里 交了幾個知心的朋友 演了幾齣喜歡的作品 做了幾件隨心所欲的事情 （還認識一群貼心的V粉） 如果你聽完這一集，有什麼想法， 歡迎至這集的專屬留言區給我鼓勵 https://reurl.cc/Md9b3n 如果您喜歡我的聲音，也可以請我喝一杯珍奶，我會繼續創作 https://pay.firstory.me/user/saoji-voice 如果你想要知道我更多的動態，可以追蹤我的社群軟體 FB：https://reurl.cc/OqR9E7 IG：https://reurl.cc/Md9b0L 最後，想要誠摯跟你推薦",
+        "truncated": true
+      },
+      "published_at": "Sun, 18 Oct 2020 15:08:58 GMT",
+      "feed_index": 5
+    }
+  ]
+}

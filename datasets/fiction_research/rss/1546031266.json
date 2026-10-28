@@ -1,0 +1,140 @@
+{
+  "show_id": "1546031266",
+  "feed_url": "https://feed.firstory.me/rss/user/ckiobtbtwcoqv08505mkge1kg",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckiobtbtwcoqv08505mkge1kg",
+    "final_url": "https://feed.firstory.me/rss/user/ckiobtbtwcoqv08505mkge1kg",
+    "fetched_at": "2026-10-25T14:51:54.641059+00:00",
+    "status": 200,
+    "sha256": "8dd3e39e8dee396dd8ddeca960a6f4a03a604b6f79fabe18ec1bdf95270f900a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "蘑菇食堂 - 韓劇、韓綜 Fan心聊",
+    "truncated": false
+  },
+  "description": {
+    "text": "蘑菇 x 王喵 兩個愛看戲的女子對談 官方IG @mogu.miao Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 309,
+  "episodes": [
+    {
+      "id": "2910ede94075aec0c5dce087c279a45b805ae380d1804630e617097de7d86e9c",
+      "guid": "cmvdhjy5o098g01vm9c6z9bdt",
+      "title": {
+        "text": "Ep309：(韓綜) 奇案84的奇趣民宿S2",
+        "truncated": false
+      },
+      "description": {
+        "text": "林志玲愛用滴雞精，年度最強檔!田原香滴雞精周年慶10/19開跑!早鳥直降75折起，先儲值再提領，回饋加碼一次領，購物金大放送!原味滴雞精榮獲小綠人認證，有效對抗疲勞，每盒現折160立即搶購： https://fstry.pse.is/9rmy66 —— 以上為 FMTaiwan 與 Firstory Podcast 廣告 —— 來聊一下最近看得很開心的韓綜 留言告訴我你對這一集的想法： https://open.firstory.fm/user/ckiobtbtwcoqv08505mkge1kg/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 18 Oct 2026 12:02:26 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1c94fc85a49015813e8a86be57d90b489f025d48c487fde48f1d4c1976fd1878",
+      "guid": "cmf9e38tu04p001t6636i981e",
+      "title": {
+        "text": "Ep265：(韓劇) 代替旅行",
+        "truncated": false
+      },
+      "description": {
+        "text": "最近剛完結的療癒小品劇 適合在對於日常生活感到疲憊的你收看！ 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckiobtbtwcoqv08505mkge1kg/comments 【蘑菇飯友招募中】 每年800元(🍚大碗公飯友)或是每月79元(🍙小碗公飯友)就可以加入！ 📝 每月一篇專屬飯友的電子報，直接送達信箱！ 🥢飯友專屬線下聚會 🎁不定期抽獎寵飯福利 🍳大碗公飯友隱藏福利 官網由此去 ➡︎ rice.mogu.tw Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 21 Sep 2025 12:02:11 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "ae63990f1947ae4e2f411eac2dfc559af396c5c9b33747b1c529cdffbe311207",
+      "guid": "cm1svsvaq016u01svbfbdcoko",
+      "title": {
+        "text": "Ep222：(職人) 逗點文創 總編輯 陳夏民 | 做書的人 - 韓國獨立出版社採訪、值得一逛的首爾書展、追星很快樂～",
+        "truncated": false
+      },
+      "description": {
+        "text": "這集職人專訪我們邀來逗點文創的總編輯 陳夏民 夏民日前出了一本專訪韓國獨立出版社的企劃書籍《做書的人》 我們太好奇這個企劃的開始與未來，就自薦找夏民來跟大家聊聊 另外也跟夏民聊了他為出版從業者對於首爾書展的觀察與見解 最後夏民分享自己現在剛進入韓流粉絲圈的心得 歡迎大家一起來收聽哦～也多多支持這本有趣的《做書的人》 《做書的人》購買頁 https://www.commabooks.com.tw/book/1815 【蘑菇飯友招募中】 📝 每月一篇專屬飯友的電子報，直接送達信箱！ 🥢飯友專屬線下聚會 🎁不定期抽獎寵飯福利 🍳大碗公飯友隱藏福利 訂閱由此去 ➡︎ rice.mogu.tw 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckiobtbtwcoqv08505mkge1kg/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 06 Oct 2024 12:01:00 GMT",
+      "feed_index": 88
+    },
+    {
+      "id": "72af77091e5d548c58f72a2206984957adbf0bb8c4c6592ce2712ae39a5e7f4a",
+      "guid": "clqrmsgqo07ou01tnhp5af9pu",
+      "title": {
+        "text": "Ep177：(韓劇、韓綜) 2023 金菇獎 | 謝謝大家2023年陪伴～2024也多拜託了～",
+        "truncated": false
+      },
+      "description": {
+        "text": "在2023最後一天來揭曉金菇獎最終票選結果 好奇嗎？趕快收聽吧～～～ 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckiobtbtwcoqv08505mkge1kg/comments 歡迎請我們喝杯咖啡 https://p.ecpay.com.tw/BCC5B3B Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 31 Dec 2023 12:03:16 GMT",
+      "feed_index": 132
+    },
+    {
+      "id": "30802ac9b539af9844646bae06c168890c279d4bcfc096f7fc3736cd9826a07d",
+      "guid": "clel2g8lt02xc01v375zkc4kp",
+      "title": {
+        "text": "Ep133：(韓綜) 知道也沒什麼用的神祕人類雜學辭典｜看一集節目勝讀10年書！",
+        "truncated": false
+      },
+      "description": {
+        "text": "一直都很喜歡這個懂也沒用系列的綜藝節目 這季來到專門探討「人類」的主題 從人類的偉大到渺小，善良到可惡，博士們都有精闢的介紹與見解 聽著這些博士之間的聊天，都會覺得自己今天也成長一點點了！ 看一集節目就有勝過讀10年書的感覺啊！ 非常難得台灣有正版OTT FriDay 勇敢地引進這節目，拜託大家也多多給予點擊率啦～ 覺得我們聊雜學也聊得很累嗎？歡迎請我們喝杯咖啡： https://open.firstory.me/user/ckiobtbtwcoqv08505mkge1kg 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckiobtbtwcoqv08505mkge1kg/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 26 Feb 2023 12:01:01 GMT",
+      "feed_index": 176
+    },
+    {
+      "id": "e6d134a282307cf2694c14d037bac3fdec33cf73f20ceb690f1218f24313686b",
+      "guid": "cl3gxdl1z00rw01zi7kvna331",
+      "title": {
+        "text": "Ep89：職人專訪(4) - 新經典出版社 葉美瑤總編輯(的河正宇特輯) ｜本集關鍵字：我們想去的地方、我的出走日記、韓文書出版過程大解密",
+        "truncated": false
+      },
+      "description": {
+        "text": "身為書蟲的王喵總好奇書市上的韓文書是怎麼來的？ 向宇宙許願成功！✨邀請到新經典文化愛說書的總編─美瑤✨ 喜歡河正宇於是在臺灣出版「走路的人」，這款熱情是不是似曾相識（笑） 好奇熱情驅動下總編美瑤與行銷若榆看見的出版世界，做韓文書有什麼眉眉角角，為什麼會推出張琉珍作家的《我們想去的地方》？ 我們邊聊韓劇邊聊書，發現彼此間有共同的地方也有想去的地方─在聊天大笑中解放與出走～ 跟著我們一起與美瑤、若榆到《我們想去的地方》！ 《我們想去的地方》書本介紹 https://bit.ly/3MG7tQQ 喜歡這節目嗎？歡迎請我們喝杯咖啡，小額贊助支持本節目： https://open.firstory.me/join/ckiobtbtwcoqv08505mkge1kg 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckiobtbtwcoqv08505mkge1kg/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 22 May 2022 12:01:14 GMT",
+      "feed_index": 220
+    },
+    {
+      "id": "a3d3dfa18a7444b4afe8dcb32d36fb3c1ec9f550a5133b453888d4f548b3c02f",
+      "guid": "ckuawkwne142a0952i8j5g7cg",
+      "title": {
+        "text": "Ep45：我迷妹 我驕傲 ｜聊聊這些年的機智迷妹生活",
+        "truncated": false
+      },
+      "description": {
+        "text": "這集是個閒聊特輯，分享這輩子身為迷妹的心情 迷妹對於偶像的愛和奉獻是全宇宙最讓人感動的！ 不論這輩子是否能被歐巴看見，我們都要抬頭挺胸的說「我迷妹我驕傲」！ Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Wed, 06 Oct 2021 11:30:00 GMT",
+      "feed_index": 264
+    },
+    {
+      "id": "fb771c57646798ac11831c6628b2449140dc0a237c7f4d462cf00af7b0fbdb3b",
+      "guid": "ckivvkpwsjcwx0870lym40sj5",
+      "title": {
+        "text": "Ep0 (裝嗨試錄特輯)：陷入魔法師魅力的我們",
+        "truncated": false
+      },
+      "description": {
+        "text": "我們來挑戰PodCast啦！ 試錄特輯Ep0.... 就來聊「如果30歲還是處男，似乎就能成為魔法師」 因為這世界上只有兩種人 第一種人是還沒看這部戲的人 第二種人是看了就直奔到底，且全程帶著姨母笑看這部的人 快來聽 蘑菇 X 王喵 兩位姨母如何進入這魔法的世界～ 【補充說明】首次錄音，麥克風跟空間迴音都沒有進行調教，請大家多見諒，Ep2開始應該會好很多 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sat, 19 Dec 2020 15:47:30 GMT",
+      "feed_index": 308
+    }
+  ]
+}

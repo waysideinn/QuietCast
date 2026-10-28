@@ -1,0 +1,140 @@
+{
+  "show_id": "1352951413",
+  "feed_url": "http://www.ximalaya.com/album/11434523.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/11434523.xml",
+    "final_url": "http://www.ximalaya.com/album/11434523.xml",
+    "fetched_at": "2026-10-25T14:49:03.987628+00:00",
+    "status": 200,
+    "sha256": "2afbac4cc457b0ca54d335340c39efc68683155995438a27c06855ed0d179acb"
+  },
+  "status": "ok",
+  "title": {
+    "text": "佛教哲学（新佛学金刚经）",
+    "truncated": false
+  },
+  "description": {
+    "text": "【佛学必读】最全面的佛教哲学笔记 佛言：“吾有正法眼付嘱摩诃迦叶” 玄沙师备言：“但识取金刚眼睛，定世界，盖乾坤，不漏丝发” “但识自身.....不逐五蕴境界，自得超脱” 为什么要继续加字。非得加满100个字才算完善了标签。 程序员的脑子是怎么想的，非要写这么多介绍吗？ 踏莎行 · 山居 朝锁烟霏，暮凝空翠 千峰迥立层霄外。 阴晴变化百千般，丹青难写天然态。 人住山中，年华频改。 山花落尽山长在。 浮生一梦几多时，有谁得似青山耐。 山居诗八首 柴门虽设未尝关， 闲看幽禽自往还。 白璧易埋千载憾， 万金难买一生闲。 雪消晓嶂闻寒瀑， 叶落秋林见远山。 古柏烟销清昼永， 是非不到白云间 。 山厨寂寂断炊烟， 冻锁泉声欲雪天。 面壁老僧无定力， 又思乞食到人间。 天湖水湛琉璃碧， 霞雾山围锦障红。 触目本来成现事， 何须叉手问禅翁。 赠无敌 眼空湖海气凌云， 杰出丛林思不群。 古往今来谁是我？ 得饶人处且饶人。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 208,
+  "episodes": [
+    {
+      "id": "84a6469f311bbd46e14682695c6ae4490a3833a0d42756acc84de0fff32248b8",
+      "guid": "xmly_track_945294931",
+      "title": {
+        "text": "2026年，旅卦，九离火运",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 31 Dec 2025 15:42:43 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1a1279ce46a44ec56cf13306db6805a5eb14b2fddd3c783d4116674c1ea6410d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group35/M04/86/14/wKgJnFoZgDfQfGiiAEdzHnspXZE771-aacv2-48K.m4a",
+      "title": {
+        "text": "30.空就是色-五蕴之色",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Nov 2017 14:37:32 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "584e3516b41cb9571685455d33ae2e5be70e86536ce0b810d9bb89a72dd46e81",
+      "guid": "https://aod.cos.tx.xmcdn.com/group36/M02/1D/5F/wKgJUlotbavxCKX8AF08PItcIpY351-aacv2-48K.m4a",
+      "title": {
+        "text": "59.两世还是三世的轮回",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Dec 2017 17:25:15 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "77d792d1f4008526a902f8bcebbc54b16f80ff51d9d0e110fdd39b28b9d0a0cb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group33/M00/37/40/wKgJUVpaJL6DZ_k6AF96ZEBhLUI910-aacv2-48K.m4a",
+      "title": {
+        "text": "89.改天换地-唯用主义佛陀",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 13 Jan 2018 15:24:56 GMT",
+      "feed_index": 89
+    },
+    {
+      "id": "70a4c623877d58d6d9f4714c6a5e0ce71310716b868adbb6979807b3d4cf0784",
+      "guid": "https://aod.cos.tx.xmcdn.com/group54/M0B/8A/43/wKgLfVxLO17jCet4AE_0ivHNlrU905-aacv2-48K.m4a",
+      "title": {
+        "text": "121.二甘露门-万禅之母安般禅",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Jan 2019 16:40:05 GMT",
+      "feed_index": 118
+    },
+    {
+      "id": "693044c801fe84b02010e24f5fefc7a72190e9b4ed42523069b07cfb33fa9fbb",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d90a-audiofreehighqps/27/35/CKwRIDoE1R9kAEPb0QDOMKxk-aacv2-48K.m4a",
+      "title": {
+        "text": "【高尔吉亚】2.万法皆空-无物存在三命题",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 27 Jul 2021 01:07:38 GMT",
+      "feed_index": 148
+    },
+    {
+      "id": "e3e328d6a8ad632efda8b39a585e793d90946cc02d7078a2d7dfdb7187782943",
+      "guid": "xmly_track_671410813",
+      "title": {
+        "text": "【叔本华】23.天才的诞生-科学与艺术之路",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 Oct 2023 12:35:32 GMT",
+      "feed_index": 177
+    },
+    {
+      "id": "047e4e161a6fd7104b0c03a1ef38c58e4e5cd3a7f27a2358dd7cef2109d2064e",
+      "guid": "xmly_track_789231858",
+      "title": {
+        "text": "2025，知天命，风地观",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 Dec 2024 15:56:25 GMT",
+      "feed_index": 207
+    }
+  ]
+}

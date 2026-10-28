@@ -1,0 +1,56 @@
+{
+  "show_id": "1568632411",
+  "feed_url": "https://feed.firstory.me/rss/user/ckoxql6zox9bs0873nwn0qp38",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckoxql6zox9bs0873nwn0qp38",
+    "final_url": "https://feed.firstory.me/rss/user/ckoxql6zox9bs0873nwn0qp38",
+    "fetched_at": "2026-10-25T14:53:07.141068+00:00",
+    "status": 200,
+    "sha256": "fe71d4268c92e88561a319ce531245c94a18523f25e52bd9e18a3210287fe24f"
+  },
+  "status": "ok",
+  "title": {
+    "text": "小茱姐姐的故事遊樂園",
+    "truncated": false
+  },
+  "description": {
+    "text": "「故事」，讓學習更有趣。 「故事」，讓想像力飛翔。 「故事」，讓心被安撫和感動。 喜歡寫故事和說故事的小茱姐姐，用聲音、音樂和音效，帶著大小朋友沉浸在「好好聽」的故事裡，用故事為生活帶來學習和活力。 Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 2,
+  "episodes": [
+    {
+      "id": "fa7f4ffd014006f45b54e82338743a0f8a526a5048588aa10b9bb7410e3e51ab",
+      "guid": "ckoxqrys2xgff0818ygkqndhf",
+      "title": {
+        "text": "EP.02 海洋大魔王",
+        "truncated": false
+      },
+      "description": {
+        "text": "海洋學校來了新同學，本來大夥都很期待，但沒想到海馬小豆和小丑魚妙妙，卻要河豚球球跟牠保持安全距離，新同學章魚小巴真的這麼難相處嗎？ 關於我們： 好好聽FM APP：http://onelink.to/94hhtfm 好好聽FM Web：https://risu.io/DYKs 好好聽FM YouTube： https://risu.io/5lTL Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 May 2021 03:06:57 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "49a6c123d4cbe2c66eea5d700a373db448b7caea0b44b3d9ea3ad03da2d73f5d",
+      "guid": "ckoxqnuzmxcda0831g1x9hb7q",
+      "title": {
+        "text": "EP.01 小偷的地圖",
+        "truncated": false
+      },
+      "description": {
+        "text": "烏龜阿布、麻雀喳喳和松鼠小乖在河邊玩耍時，居然發現了一張路線圖，那是誰遺留下的？該不會是想來偷東西的小偷不小心掉的吧… 關於我們： 好好聽FM APP：http://onelink.to/94hhtfm 好好聽FM Web：https://risu.io/DYKs 好好聽FM YouTube： https://risu.io/5lTL Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 May 2021 03:03:45 GMT",
+      "feed_index": 1
+    }
+  ]
+}

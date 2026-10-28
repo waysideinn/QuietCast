@@ -1,0 +1,140 @@
+{
+  "show_id": "1219876819",
+  "feed_url": "http://www.ximalaya.com/album/5462821.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/5462821.xml",
+    "final_url": "http://www.ximalaya.com/album/5462821.xml",
+    "fetched_at": "2026-10-25T14:48:08.938592+00:00",
+    "status": 200,
+    "sha256": "0cbc34693ba7f6c3a0bcb804c77e8c2d4cda13ca57cf89158b41de37506dced9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "《西班牙旅行笔记》—林达",
+    "truncated": false
+  },
+  "description": {
+    "text": "《西班牙旅行笔记》记述了作者在西班牙旅行的经历。面对西班牙既充满异域风情而又绚丽多彩的历史、艺术、人物和宫殿、教堂、城堡等文化精华，作者在描述其无与伦比的人文及艺术价值外，更把上千年来发生在这块土地上的故事，糅进漫游的行程，使帝王将相、战火烽烟、山川景物，尤其是它走向现代国家的进程贯穿于全书，不但能让读者领略西班牙迷人的风貌，更能深入西班牙幽深的历史，洞悉它深刻而富于启示的社会演化过程。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 64,
+  "episodes": [
+    {
+      "id": "bd3a1e79c9563b8088b95fad9dde3dd714e81c49d50251c4e2708b8e6a8d24e3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group21/M04/B4/BB/wKgJLVhOGEqhlEfNAcgbRKuex2E556.mp3",
+      "title": {
+        "text": "第二十三章 殉难谷的十字架 3",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Dec 2016 07:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "0f2599d663f76a5ca43f82949bc5668e30d1a219b9405c786964fe468608689e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M06/85/9E/wKgJJ1gEc2_BozklAEAbhQKAGmY689.m4a",
+      "title": {
+        "text": "第四章 小城托雷多的故事 1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Oct 2016 07:00:00 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "2cf64d53e52460f76584a31281f8eb0a9ba580abfbc62e6cf80ed8f714d1f857",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M08/A7/83/wKgJLFgPDm7wU7mZAHswwTQIUu0154-aacv2-48K.m4a",
+      "title": {
+        "text": "第八章 塞维利亚的故事 1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 26 Oct 2016 07:00:00 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "423d5dec17af367413fe22bfc3353a88cde9b414f64e722b61a555aad92b7434",
+      "guid": "https://aod.cos.tx.xmcdn.com/group21/M06/28/6A/wKgJLVgf4wnwQULoAJEFQBSH6dA709-aacv2-48K.m4a",
+      "title": {
+        "text": "第十二章 戈雅画笔下的战争 1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 08 Nov 2016 07:00:00 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "2e8c3570cd548f4081f12a06c49c745404fc7dced832feb2cf82fee49cdc6f5b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group25/M02/49/46/wKgJNlgtB0zAitLAAHecFaBgOow468-aacv2-48K.m4a",
+      "title": {
+        "text": "第十六章 深歌在枪声中沉寂 3",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Nov 2016 07:00:00 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "9acada9be0e3446d606e3e312272c12b70110817e6113b3779bc2232f1010d1c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group25/M06/70/25/wKgJMVg722PxDmVGAed4AvXQPZk391.mp3",
+      "title": {
+        "text": "第二十章 战后西班牙，置之死地而后生 2",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 02 Dec 2016 07:00:07 GMT",
+      "feed_index": 45
+    },
+    {
+      "id": "b2bac1e715818193f18c7ea9a83c78ef5d9bc2357b9a33ceb5fe806aab28b42c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group21/M02/B4/A6/wKgJKFhOGgyxNOcgAVCYKujrOow061.mp3",
+      "title": {
+        "text": "第二十五章 到巴斯克去 2",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 20 Dec 2016 07:00:00 GMT",
+      "feed_index": 54
+    },
+    {
+      "id": "7bca4c5dcc92e408f4bbb157127715b1102062187d756bdaa619ce38c59b0fa2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group21/M09/93/34/wKgJLVhEwlPxLmWLAqf1Y42jh5M804.mp3",
+      "title": {
+        "text": "第二十三章 殉难谷的十字架 1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 12 Dec 2016 07:00:01 GMT",
+      "feed_index": 63
+    }
+  ]
+}

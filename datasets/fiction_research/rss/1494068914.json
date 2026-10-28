@@ -1,0 +1,140 @@
+{
+  "show_id": "1494068914",
+  "feed_url": "https://feeds.megaphone.fm/NCB1927504369",
+  "source": {
+    "url": "https://feeds.megaphone.fm/NCB1927504369",
+    "final_url": "https://feeds.megaphone.fm/NCB1927504369",
+    "fetched_at": "2026-10-25T14:51:35.670842+00:00",
+    "status": 200,
+    "sha256": "c950df40ea323c1dd44bce87e78198b5e05e3de7a3bb2b7f5ce26e46bf84c7b9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "宮下草薙の３０分",
+    "truncated": false
+  },
+  "description": {
+    "text": "タイトルの通り、宮下草薙の2人がお送りする30分番組です。 メール：[email removed]",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "explicit": "no",
+    "type": "episodic"
+  },
+  "feed_item_count": 355,
+  "episodes": [
+    {
+      "id": "86a30d130ac57404603b04ebaf1232a411dc72d0be0207c05ffb10744ec925bc",
+      "guid": "20eecd10-cf37-11f1-8262-e32f0402f44b",
+      "title": {
+        "text": "#355「お前はショート動画見るな」",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 24 Oct 2026 04:00:00 -0000",
+      "feed_index": 0
+    },
+    {
+      "id": "d69347824286ca578bce1f25cddcb8579f62102dabd84f8dd20a0775e96fa0e6",
+      "guid": "1366ccc9-8599-4151-bac8-b38800314b3d",
+      "title": {
+        "text": "#304「戻さないで（ゲスト：青色１号）」",
+        "truncated": false
+      },
+      "description": {
+        "text": "See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Sat, 01 Nov 2025 04:00:00 -0000",
+      "feed_index": 51
+    },
+    {
+      "id": "7cb72a67fe1e0316c2133be95648afe8fb9a7a9320c1bd1d29079bbd28b27c1f",
+      "guid": "1e43438f-14ae-4822-9d1e-b22901685fdc",
+      "title": {
+        "text": "#254「キムチチゲ」",
+        "truncated": false
+      },
+      "description": {
+        "text": "企業努力とのせめぎあいです。 [更新11月16日] [毎週土曜日更新][TIME 28:32] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Nov 2024 04:00:00 -0000",
+      "feed_index": 101
+    },
+    {
+      "id": "05fd6eba96f07cc2a72202385874aca51b6a6c10a28abe8ad9eaafeac75a09b5",
+      "guid": "1336a2a7-2187-43fb-b649-b0c500a506f6",
+      "title": {
+        "text": "#203「番組グッズ作る？」",
+        "truncated": false
+      },
+      "description": {
+        "text": "ここまで無いのも珍しいです。 [更新 11月25日] [毎週土曜日更新][TIME 13:31] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Nov 2023 10:02:37 -0000",
+      "feed_index": 152
+    },
+    {
+      "id": "9a2fdcbc28592d76172ecbad8ab5df8ab53011eac49aec536456de97f3eb79b7",
+      "guid": "5a7ddb7d-8ef8-4e65-b35d-af6700790a52",
+      "title": {
+        "text": "#153「チョリソー」",
+        "truncated": false
+      },
+      "description": {
+        "text": "金の称号が欲しい。 [更新 12月10日] [毎週土曜日更新][TIME 13:37] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Sat, 10 Dec 2022 07:26:46 -0000",
+      "feed_index": 202
+    },
+    {
+      "id": "af7326e938888805f739f6c19e450611268f101c31a507b41fd13a05fc99a3c6",
+      "guid": "1c7537de-4f16-4c44-8458-ae02004ebaec",
+      "title": {
+        "text": "#102「指輪」",
+        "truncated": false
+      },
+      "description": {
+        "text": "人生の節目です。 [更新 12月18日] [毎週土曜日更新][TIME 13:30] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Sat, 18 Dec 2021 04:48:00 -0000",
+      "feed_index": 253
+    },
+    {
+      "id": "3da7c2ce872e3c8ac00930f16fb1c230c3c46ab91b7b84cdd9de76a5f95a8b86",
+      "guid": "https://www.joqr.co.jp/mk_pod/#077046",
+      "title": {
+        "text": "#52 「ヤクルト」",
+        "truncated": false
+      },
+      "description": {
+        "text": "タイトルの通り、宮下草薙の2人がお送りする15分番組です。 [更新 1月2日] [毎週土曜日更新] [TIME 13:13] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Sat, 02 Jan 2021 04:00:00 -0000",
+      "feed_index": 303
+    },
+    {
+      "id": "2bf4a7e730ae6c704b2ad465e60dc8387d18fbcd1688945210237184f6af0f9f",
+      "guid": "https://www.joqr.co.jp/mk_pod/#058237",
+      "title": {
+        "text": "#1 「ラジオ」",
+        "truncated": false
+      },
+      "description": {
+        "text": "タイトルの通り、宮下草薙の2人がお送りする15分番組です。 [更新 1月7日] [毎週火曜日更新] [TIME 12:18] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Tue, 07 Jan 2020 08:00:00 -0000",
+      "feed_index": 354
+    }
+  ]
+}

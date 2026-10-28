@@ -1,0 +1,140 @@
+{
+  "show_id": "1536681393",
+  "feed_url": "http://www.ximalaya.com/album/42321645.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/42321645.xml",
+    "final_url": "http://www.ximalaya.com/album/42321645.xml",
+    "fetched_at": "2026-10-25T14:50:56.273146+00:00",
+    "status": 200,
+    "sha256": "eaa9cb8b025195a256ff38660ff180d79fc5419fda3bc7ef07d8c4199ec79cb5"
+  },
+  "status": "ok",
+  "title": {
+    "text": "西游记 | 白话",
+    "truncated": false
+  },
+  "description": {
+    "text": "《西游记》是中国四大名著之一，由吴承恩编著。书中讲述了唐僧在神通广大、会七十二变武艺的孙悟空以及好吃懒做但力气满身的猪八戒和诚厚老实、忠心耿耿的沙悟净的保护下，师徒四人一路降妖伏魔，历经九九八十一难取经的故事。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 39,
+  "episodes": [
+    {
+      "id": "fda4baf85eedf0f077192762170a3a49856421e1acf966e122a7ac2c8f6427ed",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/11d0-audiofreehighqps/99/F3/CMCoOScDVDw6AGRUogBbMYdQ.m4a",
+      "title": {
+        "text": "西游记 第39回 雷音寺如来赐真经",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 08 Oct 2020 02:27:57 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "27c820efb8f4ae0697010fe7f686613cd6e7fb05e3e2987b84c570ef2bbca72f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6ad5-audiofreehighqps/FF/CD/CMCoOR8DVCRKAEeIqABbKi21.m4a",
+      "title": {
+        "text": "西游记 第34回 凤仙郡城祈雨救民",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 07 Oct 2020 11:28:45 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "d1fe515feafd313692b6f25797c4f0b88b07d70fd06d5ae5f126e83feafbd68c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2aa7-audiofreehighqps/7F/AC/CMCoOSMDUvLFAHyJJABa7DNp.m4a",
+      "title": {
+        "text": "西游记 第28回 盘丝洞棒打蜘蛛精",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 07 Oct 2020 03:02:30 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "89ecb968842f02753b2e055980418bd520824e3618252ba3a7a7271302836d11",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0c88-audiofreehighqps/71/5E/CMCoOR4DT3qlAK3REwBaPJwK.m4a",
+      "title": {
+        "text": "西游记 第23回 孙悟空三借芭蕉扇",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 04 Oct 2020 11:53:10 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "5fb9cbc12d60e59fe4aa5459cf03374ca28e5f8a82bcec9369cb4b8cd703d875",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5ea1-audiofreehighqps/81/04/CMCoOSYDT0afAGJAGgBaMNa7.m4a",
+      "title": {
+        "text": "西游记 第17回 龙太子黑河战鼍妖",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 04 Oct 2020 08:11:12 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "ddee67ee5930fe2583698676f24bdbcc157536fec0e536f9f8365897c29a7652",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/03fe-audiofreehighqps/85/22/CMCoOSADTiBjAEuDRQBZ-l3K.m4a",
+      "title": {
+        "text": "西游记 第12回 孙悟空三打白骨精",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 03 Oct 2020 11:15:48 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "e35118ffc3d336f882704f08e04e00b16fd9e708ed5d0d003b66746c8c6d021f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6fde-audiofreehighqps/B2/89/CMCoOR8DTfvQAKA3IQBZ8ROt.m4a",
+      "title": {
+        "text": "西游记 第6回 观音院斗宝失袈裟",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 03 Oct 2020 08:39:46 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "72ca0628cdb2e48f255c399b9e1837e72feebe67ceb59773854698e9d285e3a4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/11b9-audiofreehighqps/F2/6A/CMCoOSYDTOR_AI9KDABZviEU-aacv2-48K.m4a",
+      "title": {
+        "text": "西游记 第1回 惊天地美猴王出世",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 02 Oct 2020 12:48:01 GMT",
+      "feed_index": 38
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "show_id": "1621940597",
+  "feed_url": "https://www.spreaker.com/show/5542226/episodes/feed",
+  "fetched_at": "2026-10-25T14:56:50.434309+00:00",
+  "status": "error",
+  "error": "response exceeds bounded metadata limit"
+}

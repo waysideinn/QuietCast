@@ -1,0 +1,131 @@
+{
+  "group": "boundary",
+  "term": "推理评论",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%8E%A8%E7%90%86%E8%AF%84%E8%AE%BA&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%8E%A8%E7%90%86%E8%AF%84%E8%AE%BA&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:46:14.680506+00:00",
+    "status": 200,
+    "sha256": "fce73a321f2651143d22e976fc169dcec0c759c7521f1767aa9e0a03b18ccc4d"
+  },
+  "result_count": 5,
+  "records": [
+    {
+      "collectionId": 1621039521,
+      "trackId": 1621039521,
+      "collectionName": "三十九级台阶|经典悬疑推理间谍小说",
+      "artistName": "一念蕙心",
+      "feedUrl": "http://www.ximalaya.com/album/62043528.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%8D%81%E4%B9%9D%E7%BA%A7%E5%8F%B0%E9%98%B6-%E7%BB%8F%E5%85%B8%E6%82%AC%E7%96%91%E6%8E%A8%E7%90%86%E9%97%B4%E8%B0%8D%E5%B0%8F%E8%AF%B4/id1621039521?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 33,
+      "releaseDate": "2022-05-01T06:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1720617274,
+      "trackId": 1720617274,
+      "collectionName": "彩色的罪证| 都市悬疑推理探案| 青莲演播VIP免费",
+      "artistName": "青莲嘚啵嘚",
+      "feedUrl": "https://www.ximalaya.com/album/65047068.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%BD%A9%E8%89%B2%E7%9A%84%E7%BD%AA%E8%AF%81-%E9%83%BD%E5%B8%82%E6%82%AC%E7%96%91%E6%8E%A8%E7%90%86%E6%8E%A2%E6%A1%88-%E9%9D%92%E8%8E%B2%E6%BC%94%E6%92%ADvip%E5%85%8D%E8%B4%B9/id1720617274?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 316,
+      "releaseDate": "2022-07-08T23:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1720617316,
+      "trackId": 1720617316,
+      "collectionName": "圆谎1酒心神探|青莲|都市搞笑悬疑推理VIP免费",
+      "artistName": "青莲嘚啵嘚",
+      "feedUrl": "https://www.ximalaya.com/album/68561776.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%9C%86%E8%B0%8E1%E9%85%92%E5%BF%83%E7%A5%9E%E6%8E%A2-%E9%9D%92%E8%8E%B2-%E9%83%BD%E5%B8%82%E6%90%9E%E7%AC%91%E6%82%AC%E7%96%91%E6%8E%A8%E7%90%86vip%E5%85%8D%E8%B4%B9/id1720617316?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "犯罪纪实"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1488"
+      ],
+      "trackCount": 298,
+      "releaseDate": "2022-08-20T10:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1588003050,
+      "trackId": 1588003050,
+      "collectionName": "杀人指南|都市悬疑恐怖推理犯罪|青莲真人免费有声",
+      "artistName": "青莲嘚啵嘚",
+      "feedUrl": "http://www.ximalaya.com/album/53294207.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9D%80%E4%BA%BA%E6%8C%87%E5%8D%97-%E9%83%BD%E5%B8%82%E6%82%AC%E7%96%91%E6%81%90%E6%80%96%E6%8E%A8%E7%90%86%E7%8A%AF%E7%BD%AA-%E9%9D%92%E8%8E%B2%E7%9C%9F%E4%BA%BA%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0/id1588003050?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "表演艺术"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1405"
+      ],
+      "trackCount": 268,
+      "releaseDate": "2021-12-11T00:01:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1869550922,
+      "trackId": 1869550922,
+      "collectionName": "免费有声小说丨长安秘典：十二时辰迷局丨悬疑推理探案",
+      "artistName": "星海寻声",
+      "feedUrl": "https://www.ximalaya.com/album/106963600.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E4%B8%A8%E9%95%BF%E5%AE%89%E7%A7%98%E5%85%B8-%E5%8D%81%E4%BA%8C%E6%97%B6%E8%BE%B0%E8%BF%B7%E5%B1%80%E4%B8%A8%E6%82%AC%E7%96%91%E6%8E%A8%E7%90%86%E6%8E%A2%E6%A1%88/id1869550922?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 266,
+      "releaseDate": "2026-10-23T21:12:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    }
+  ]
+}

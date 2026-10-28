@@ -1,0 +1,140 @@
+{
+  "show_id": "1091928630",
+  "feed_url": "http://rss.lizhi.fm/rss/1964225.xml",
+  "source": {
+    "url": "http://rss.lizhi.fm/rss/1964225.xml",
+    "final_url": "http://rss.lizhi.fm/rss/1964225.xml",
+    "fetched_at": "2026-10-25T14:47:05.609251+00:00",
+    "status": 200,
+    "sha256": "5087b636ffda8bef45a4dca145518145fb3d64493df37d19c88be362f5263c39"
+  },
+  "status": "ok",
+  "title": {
+    "text": "两小无才播客",
+    "truncated": false
+  },
+  "description": {
+    "text": "俩逗比小妹来吐槽",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-CN",
+    "keywords": "",
+    "explicit": "yes"
+  },
+  "feed_item_count": 34,
+  "episodes": [
+    {
+      "id": "2e99242c2eeae5feb30ae15bc9780a594b483135e8f98c1245b45aceb7cd813d",
+      "guid": "http://cdn.lizhi.fm/audio/2017/09/16/2624952093944535558_hd.mp3",
+      "title": {
+        "text": "第027期 谁看得多谁厉害咯（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "yo homie，好久不见，请举起你的双手，跟我一起唱： “哟，哟，欢迎涵子回来，小楠连接失败，那就听听小航瞎掰！ 拖了很久的下期，仍然没有OP， 还是谈谈电影小说怎么嗨，说说韩剧里的情情爱爱， 大众经典我都侃，小众高分不放开 精彩评论别跳过，人生之路不重来 愿你独处有趣味，听听两才乐开怀！” （yo yo， 尬唱之后光速逃跑 , 哦耶！(๑╹◡╹)ﾉ\"\"\"）",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Sep 2017 21:05:50 +0800",
+      "feed_index": 0
+    },
+    {
+      "id": "8c15651d9582097f093fc979d691051867509bc3fa9acc5b2dae4580a7d2a864",
+      "guid": "http://cdn.lizhi.fm/audio/2016/10/01/2560010652999929862_hd.mp3",
+      "title": {
+        "text": "实力混更2.0",
+        "truncated": false
+      },
+      "description": {
+        "text": "小楠充数2.0的一期。 长假之前很忙or话题枯竭貌似成习惯了。 大家以后要做好放假的时候都没节目听的心理准备哈哈哈～(￣▽￣～)(～￣▽￣)～",
+        "truncated": false
+      },
+      "published_at": "Sat, 1 Oct 2016 20:41:10 +0800",
+      "feed_index": 5
+    },
+    {
+      "id": "e03b08a34e308614dd2698e0130506363cc37cc32698a40a04c70863ab785912",
+      "guid": "http://cdn.lizhi.fm/audio/2016/09/03/2554749176330778118_hd.mp3",
+      "title": {
+        "text": "第20期 祝你好梦",
+        "truncated": false
+      },
+      "description": {
+        "text": "做了很可怕的梦怎么办？怎么自己控制梦境呢？┑(￣Д ￣)┍ 听了这一期......你也不会知道哈哈哈哈哈哈！！╰(￣▽￣)╭ 但是分享梦还是一件开心又减压的事情，希望你们听了有所安慰。如果听了更害怕的话，请务必听我们的彩蛋！！ヾ(≧O≦)〃 因为彩蛋实在是太太太精彩了，所以ED很短！ 仅以标题献上我们最真诚的祝福，阿门。(ˇˍˇ)",
+        "truncated": false
+      },
+      "published_at": "Sat, 3 Sep 2016 12:12:57 +0800",
+      "feed_index": 9
+    },
+    {
+      "id": "9e01ec633d6a2ef268968a05a04c1859f87c8c6aef73bdb073ff73206c7efc4d",
+      "guid": "http://cdn.lizhi.fm/audio/2016/07/23/2546973720007594502_hd.mp3",
+      "title": {
+        "text": "第015期 爱也好恨也好都献给你们（中）",
+        "truncated": false
+      },
+      "description": {
+        "text": "咱们播客首次出现的中期！看来与老师的故事真的说不完。 总有让你印象深刻的老师，无论你觉得好还是坏，他们终归是我们成长的一部分。 依旧期待你的留言，你的故事。 完了好怕这样一说又没人留言【手动笑哭脸】。 那...千万别留言！！谁留谁是奥特曼要不就是青蛙！...这样？？",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 Jul 2016 14:30:56 +0800",
+      "feed_index": 14
+    },
+    {
+      "id": "14552c01e2015c26cdc197cd05fd1efda0f9c5db4343818c0346274409fef56a",
+      "guid": "http://cdn.lizhi.fm/audio/2016/06/04/2537884939998385158_hd.mp3",
+      "title": {
+        "text": "SP03 都闪开小航要装逼了",
+        "truncated": false
+      },
+      "description": {
+        "text": "官方君要在这里嘲笑小航！！！ cheek读成check，奥德赛说成奥赛德！！哈哈哈哈哈哈哈玩脱了吧！！！_(:зゝ∠)_ 在此望其他主播引以为戒——谨慎装逼，世界美好。",
+        "truncated": false
+      },
+      "published_at": "Sat, 4 Jun 2016 14:44:36 +0800",
+      "feed_index": 19
+    },
+    {
+      "id": "8619bf2ca4596c126af1d5d9aa2154070c231e3a6fc50c7828f71fb909830600",
+      "guid": "http://cdn.lizhi.fm/audio/2016/04/23/2530068632092342278_hd.mp3",
+      "title": {
+        "text": "第008期 嘿就不喜欢你怎么着吧",
+        "truncated": false
+      },
+      "description": {
+        "text": "生活中偏见多多又多多呀╭∩╮(︶︿︶)╭∩╮ 有时总是不喜欢某些人，又或是有某些人总是不喜欢自己(╥╯^╰╥) 这个时候咱们应该怎么去面对自己受到的或是对别人的偏见呢？ 一起来听一听小航和涵子的故事和见解吧～(￣▽￣～)(～￣▽￣)～ 【PS：这期彩蛋超萌超萌哟也就听了个一百来遍吧ヾ(≧∇≦*)ゝ】",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 Apr 2016 11:49:36 +0800",
+      "feed_index": 24
+    },
+    {
+      "id": "84ecd7efd1bd3fdb79a00c581d80f7a461cb0bf9430b2043ca14564126652665",
+      "guid": "http://cdn.lizhi.fm/audio/2016/03/25/2524767233699312134_hd.mp3",
+      "title": {
+        "text": "SP01 主题是大学生兼职其实是小楠孤独的叨逼叨",
+        "truncated": false
+      },
+      "description": {
+        "text": "本打算的标题是【第006期 挣点小钱用】。结果！ 话都不多说了你们都听小楠解释去吧哈哈哈。 就在这样傻逼的错误之下咱们的可爱的SP特辑诞生了哦吼吼，效果意外的好呢ㄟ(≧◇≦)ㄏ&``&(≧▽≦)/ SP里面会放一些奇奇怪怪的东西，不定期更新哟。 大宛因为在群视频里又卡又吵，被小航小楠在一开始无情地踢了出去，彩蛋里的默默吐槽好凄凉哈哈哈哈。 整期的BGM在后期君的神剪辑下走上了悲壮凄凉的风格、真配合主题。 好啦，希望大家喜欢。建议和意见快多多来吧～(￣▽￣～)(～￣▽￣)～",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Mar 2016 22:06:45 +0800",
+      "feed_index": 28
+    },
+    {
+      "id": "1588cb0215df868e3b8a1f3b87e0684d8db8929c2195e2a428858a484380d048",
+      "guid": "http://cdn.lizhi.fm/audio/2016/02/19/2518262269505228294_hd.mp3",
+      "title": {
+        "text": "第001期 过年那些糟心事儿",
+        "truncated": false
+      },
+      "description": {
+        "text": "过年了，亲戚、送礼、春晚、红包......糟心事儿好像特别多，怎能不吐槽？ 这次我们请来了常驻一号女嘉宾涵子【←说得好像有很多人可以请一样】 第一次录节目，好像【←什么叫好像】 有逻辑不合，尴尬没声等情况...后期剪辑和封面准备也花了些时间，不足之处，多多海涵。",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Feb 2016 20:42:53 +0800",
+      "feed_index": 33
+    }
+  ]
+}

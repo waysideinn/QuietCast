@@ -1,0 +1,139 @@
+{
+  "show_id": "1571016991",
+  "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:993687001/sounds.rss",
+  "source": {
+    "url": "https://feeds.soundcloud.com/users/soundcloud:users:993687001/sounds.rss",
+    "final_url": "https://feeds.soundcloud.com/users/soundcloud:users:993687001/sounds.rss",
+    "fetched_at": "2026-10-25T14:42:54.891527+00:00",
+    "status": 200,
+    "sha256": "c63e7f0ae57b9feda6706f44ffe5a55c5edcf8413dfbc17c6c8d574ad8e10084"
+  },
+  "status": "ok",
+  "title": {
+    "text": "PP配音社",
+    "truncated": false
+  },
+  "description": {
+    "text": "Podcast by PP配音社",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "explicit": "no"
+  },
+  "feed_item_count": 13,
+  "episodes": [
+    {
+      "id": "07fecb12fbc31f3f39531f70cc9256064e22c1c7efc89d682c6fa308dca868c2",
+      "guid": "tag:soundcloud,2010:tracks/1629058590",
+      "title": {
+        "text": "《末日之后》第13集",
+        "truncated": false
+      },
+      "description": {
+        "text": ".制作团队Credit. 作者Author：羽夜猫Zicky 监制Producer：何书卫 Ho Shu Wei 编剧Playwright：羽夜猫Zicky, Lisa 剪辑Editor：羽夜猫Zicky .主要出演 Main Characters. 阿泽Ze：子荣Wayne Gan 阿曜 Yao：羽夜猫Zicky 沈敏 Shen Min：秀雯 Xiu Wen 旁白Narrator：慧怡Huiyi 《末日之后》是一部原创剧本，故事讲述复原丧尸阿泽在人类与丧尸之间的伦理和情感困境。阿泽决定奋力地活着，但又如何在世间生存呢？ “After the End” is an original audiobook. The story recounts the ethical and emotional dilemmas between humans and zombies. Ze decided to strive to live. How will survive in the world? 奋力地“活着”——阿泽 Fight to “live”. –Ze",
+        "truncated": false
+      },
+      "published_at": "Sat, 30 Sep 2023 06:36:42 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "25721363cb4f184352294bd97fe2ba528fc7e68d16e8468d30c4f942a6f64198",
+      "guid": "tag:soundcloud,2010:tracks/1236723550",
+      "title": {
+        "text": "《末日之后》第11集",
+        "truncated": false
+      },
+      "description": {
+        "text": ".制作团队Credit. 作者Author：羽夜猫Zicky 监制Producer：何书卫 Ho Shu Wei 编剧Playwright：羽夜猫Zicky, Lisa 剪辑Editor：秦受Wayne .主要出演 Main Characters. 阿泽Ze：秦受Wayne 阿曜Yao：羽夜猫Zicky 旁白Narrator：慧怡Huiyi 沈敏Shen Min：秀雯 Sew Mun 华哥Wah Gor：Akiko Emi美莹 龙克Long Ke：泰泰Ty 陈猛Chen Meng：泰泰Ty .背景音乐 Background Music. 【魔王魂公式】フリーBGM素材 アコースティック52『Last daily sound』 Night Music Kevin MacLeod PP配音社成立于2021年1月，以交流为目的，召集马来西亚配音及有声书爱好者，并提供讨论与分享配音作品的平台。 PP Dubbing Club founded in January 2021. We aim to bring together Malaysian dubbing and audiobook lovers for the purpose of communication, and to provide a platform for discussion and sharing of dubbin",
+        "truncated": true
+      },
+      "published_at": "Tue, 22 Mar 2022 13:40:45 +0000",
+      "feed_index": 2
+    },
+    {
+      "id": "df1430b977f4815d4293be69680403fd8c1637e16cd74737c331dbeb726d33a6",
+      "guid": "tag:soundcloud,2010:tracks/1199326618",
+      "title": {
+        "text": "《末日之后》第10集",
+        "truncated": false
+      },
+      "description": {
+        "text": ".制作团队Credit. 作者Author：羽夜猫Zicky 监制Producer：何书卫 Ho Shu Wei 编剧Playwright：羽夜猫Zicky, Lisa 剪辑Editor：秦受Wayne .主要出演 Main Characters. 阿泽Ze：秦受Wayne 阿曜Yao：羽夜猫Zicky 旁白Narrator：慧怡Huiyi 陈猛Chen Meng：泰泰Ty 军政官Military officer：Sharon 秦秘书Secretary Qin：BT Foxy狐仙 门卫Guard：泰泰Ty PP配音社成立于2021年1月，以交流为目的，召集马来西亚配音及有声书爱好者，并提供讨论与分享配音作品的平台。 PP Dubbing Club founded in January 2021. We aim to bring together Malaysian dubbing and audiobook lovers for the purpose of communication, and to provide a platform for discussion and sharing of dubbing works. 《末日之后》是一部原创剧本，也是PP配音社的第一部有声小说。故事讲述复原丧尸阿泽在人类与丧尸之间的伦理和情感困境。阿泽决定奋力地活着，但又如何在世间生存呢？",
+        "truncated": true
+      },
+      "published_at": "Wed, 19 Jan 2022 12:05:29 +0000",
+      "feed_index": 3
+    },
+    {
+      "id": "a7088046f2f602977c3bb21d274f35ef38540518cc3954541ad367841e7df632",
+      "guid": "tag:soundcloud,2010:tracks/1131264724",
+      "title": {
+        "text": "《末日之后》第8集",
+        "truncated": false
+      },
+      "description": {
+        "text": "剧情简介Synopsis 阿泽即将被带回安全区当成实验体，他和阿曜还能回到以前那样吗？ Ze & Yao felt awkward for each other. Meantime, Ze is going to be the laboratory sample… .制作团队Credit. 作者Author：羽夜猫Zicky 监制Producer：何书卫 Ho Shu Wei 编剧Playwright：羽夜猫Zicky, Lisa 剪辑Editor：秦受Wayne .主要出演 Main Characters. 阿泽Ze：秦受Wayne 旁白Narrator：慧怡Huiyi 龙克Ronk：泰泰Ty 麦子Mai Zi：BT Foxy狐仙 华哥：Akiko Emi美莹 陈猛Chen Meng：泰泰Ty 阿曜Yao：羽夜猫Zicky .背景音乐 Background Music. FF VII Remake Ost太空戰士7重製版原聲帶 Flowers Blooming in the Chruch(教堂盛開的花朵) FF VII Remake Ost太空戰士7重製版原聲帶Just Another Job(額外兼差) PP配音社成立于2021年1月，以交流为目的，召集马来西亚配音及有声书爱好者，并提供讨论与分享配音作品的平台。 PP Dubbing Club founded in Janua",
+        "truncated": true
+      },
+      "published_at": "Sun, 26 Sep 2021 08:02:51 +0000",
+      "feed_index": 5
+    },
+    {
+      "id": "4484cae10d2ee49e6f227593a9c49b197d05ccd40e40a80697977c5610ace416",
+      "guid": "tag:soundcloud,2010:tracks/1105302739",
+      "title": {
+        "text": "《末日之后》第6集",
+        "truncated": false
+      },
+      "description": {
+        "text": ".制作团队Credit. 作者Author：羽夜猫Zicky 监制Producer：何书卫 Ho Shu Wei 编剧Playwright：羽夜猫Zicky, Lisa 剪辑Editor：秦受Wayne Gan，慧怡 Huiyi .主要出演 Main Characters. 阿泽Ze：秦受Wayne Gan 旁白Narrator：慧怡Huiyi 龙克Ronk：泰泰Ty 麦子Mai Zi：BT Foxy狐仙 华哥：Akiko Emi美莹 陈猛Chen Meng：泰泰Ty 阿曜Yao：羽夜猫Zicky PP配音社成立于2021年1月，以交流为目的，召集马来西亚配音及有声书爱好者，并提供讨论与分享配音作品的平台。 PP Dubbing Club founded in January 2021. We aim to bring together Malaysian dubbing and audiobook lovers for the purpose of communication, and to provide a platform for discussion and sharing of dubbing works. 《末日之后》是一部原创剧本，也是PP配音社的第一部有声小说。故事讲述复原丧尸阿泽在人类与丧尸之间的伦理和情感困境。阿泽决定奋力地活着，但又如何在世间生存呢？ “Af",
+        "truncated": true
+      },
+      "published_at": "Fri, 13 Aug 2021 11:58:08 +0000",
+      "feed_index": 7
+    },
+    {
+      "id": "0921953d6ecabbdcaac6921335f2a97f134cb76f37865d0fba1de23b7012074f",
+      "guid": "tag:soundcloud,2010:tracks/1086464821",
+      "title": {
+        "text": "《末日之后》第四集",
+        "truncated": false
+      },
+      "description": {
+        "text": ".制作团队Credit. 作者Author：羽夜猫Zicky 监制Producer：何书卫 Ho Shu Wei 编剧Playwright：羽夜猫Zicky, Lisa 剪辑Editor：慧怡 Huiyi，子荣Wayne Gan .主要出演 Main Characters. 阿泽Ze：子荣Wayne Gan 领头Leader：Lisa 旁白Narrator：慧怡Huiyi 军师Strategist：Lisa 丧尸Zombie：BT Foxy狐仙 娅丽Yarely：Akiko Emi美莹 PP配音社成立于2021年1月，以交流为目的，召集马来西亚配音及有声书爱好者，并提供讨论与分享配音作品的平台。 PP Dubbing Club founded in January 2021. We aim to bring together Malaysian dubbing and audiobook lovers for the purpose of communication, and to provide a platform for discussion and sharing of dubbing works. 《末日之后》是一部原创剧本，也是PP配音社的第一部有声小说。故事讲述复原丧尸阿泽在人类与丧尸之间的伦理和情感困境。阿泽决定奋力地活着，但又如何在世间生存呢？ “After th",
+        "truncated": true
+      },
+      "published_at": "Tue, 13 Jul 2021 03:22:30 +0000",
+      "feed_index": 9
+    },
+    {
+      "id": "e2962c7354e19d89d5e0cbee30390a4379d0ae52954a71333ad69f0511b87482",
+      "guid": "tag:soundcloud,2010:tracks/1078737370",
+      "title": {
+        "text": "《末日之后》第三集",
+        "truncated": false
+      },
+      "description": {
+        "text": ".制作团队Credit. 作者Author：羽夜猫Zicky 监制Producer：何书卫 Ho Shu Wei 编剧Playwright：羽夜猫Zicky, Lisa 剪辑Editor：子荣Wayne Gan .主要出演 Main Characters. 阿泽Ze：子荣Wayne Gan 领头Leader：Lisa 旁白Narrator：慧怡Huiyi 军师Strategist：Lisa 丧尸Zombie：BT Foxy狐仙 娅丽Yarely：Akiko Emi美莹 PP配音社成立于2021年1月，以交流为目的，召集马来西亚配音及有声书爱好者，并提供讨论与分享配音作品的平台。 PP Dubbing Club founded in January 2021. We aim to bring together Malaysian dubbing and audiobook lovers for the purpose of communication, and to provide a platform for discussion and sharing of dubbing works. 《末日之后》是一部原创剧本，也是PP配音社的第一部有声小说。故事讲述复原丧尸阿泽在人类与丧尸之间的伦理和情感困境。阿泽决定奋力地活着，但又如何在世间生存呢？ “After the End” is",
+        "truncated": true
+      },
+      "published_at": "Wed, 30 Jun 2021 11:17:45 +0000",
+      "feed_index": 10
+    },
+    {
+      "id": "b03f362d8926326ae85a64abefec54809a7bbbb3bffe257e5f48c925a5008a0c",
+      "guid": "tag:soundcloud,2010:tracks/1062881044",
+      "title": {
+        "text": "《末日之后》第一集",
+        "truncated": false
+      },
+      "description": {
+        "text": "《末日之后》是一部原创剧本，也是PP配音社的第一部有声小说。故事讲述复原丧尸阿泽在人类与丧尸之间的伦理和情感困境。阿泽决定奋力地活着，但又如何在世间生存呢？ After the End is an original screenplay and PP's first radio drama. The story recounts the ethical and emotional dilemmas between humans and zombies. Ze decided to strive to live, but how to survive in the world? 剧情简介Synopsis 二一一零年五月二十三日，那是人类历史上最难以磨灭的一天。一架载满僵尸的飞机坠落在了海上，机上的丧尸则随着海流飘向了远方，丧尸病毒就此在全球散播。阿泽是一名复原丧尸，在河边被两位同是复原丧尸给捉走了。他们把他带到一个阴暗潮湿的地方…… 23th May 2110, was one of the most indelible days in human history. A plane full of zombies crashes into the sea. The zombies on board drift away with the current, spreading the",
+        "truncated": true
+      },
+      "published_at": "Sun, 06 Jun 2021 06:14:06 +0000",
+      "feed_index": 12
+    }
+  ]
+}

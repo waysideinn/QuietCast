@@ -1,0 +1,140 @@
+{
+  "show_id": "1634801963",
+  "feed_url": "https://www.ximalaya.com/album/69552050.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/69552050.xml",
+    "final_url": "https://www.ximalaya.com/album/69552050.xml",
+    "fetched_at": "2026-10-25T14:56:02.713964+00:00",
+    "status": 200,
+    "sha256": "6e201c15cbdae826da708d0399a14b19b22e7addb8ea3c51f6607439f078a44e"
+  },
+  "status": "ok",
+  "title": {
+    "text": "电影剥壳｜过度解读又何妨",
+    "truncated": false
+  },
+  "description": {
+    "text": "一个影迷同时也是一个历史作者。就爱过度解读，越“过度”越开心！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 103,
+  "episodes": [
+    {
+      "id": "619a5a34479d69988d7930041d8dd2959ffcaedfd087192b126909abc0adcaab",
+      "guid": "xmly_track_934037104",
+      "title": {
+        "text": "《狂野时代》佛法科幻，解梦指南",
+        "truncated": false
+      },
+      "description": {
+        "text": "04:03 《狂野时代》：揭示现实痛苦，让历史混乱的电影之旅 08:05 电影艺术中的自我发现与独立思考 16:16 默片时代之美：空间与表演的奇妙结合 20:20 男性扮演的蛇蝎美女：解读易烊千玺在电影中的角色形象 24:22 有声电影的奇妙之旅：从默片到立体声的时代转变 28:26 电影拍摄中的故事与传说：六十年代在八十年代的导演视角 32:29 咬文嚼字与梦境现实：一段充满迷惑的故事 36:32 八十年代的骗局与意义：一个商界与政界的结合 40:41 错乱的时间：一九九九年的晚上与地球最后的夜晚 44:41 一个被时代摧残的歌厅女孩儿的复仇之路",
+        "truncated": false
+      },
+      "published_at": "Sun, 23 Nov 2025 13:53:26 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "78df997ef419c55ac5f0dd07ed7a183b77021bf8731a89391f9c2022cb70faa5",
+      "guid": "xmly_track_705801881",
+      "title": {
+        "text": "《第二十条》张艺谋在拍一种很旧的电影吗？又哭又笑又鼓掌！",
+        "truncated": false
+      },
+      "description": {
+        "text": "沉浸在老片新味的春节电影体验中，欢笑与泪水，讨论法律、家庭与真实人性。 02:05 正义与选择：一位基层检察官的成长之路 04:06 ：一个曾经拥有正义感的法律学生找回初心的故事 06:06 中年危机与公平正义：韩明在法律条款下的抗争 08:06 父母的忙碌与孩子的成长：笑中带泪的家庭喜剧！ 10:06 张艺谋导演的现实主义力作，贺岁档里的反思与期待 12:10 正义的追寻：普通检察官的故事",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Feb 2024 03:06:44 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "580d15134a02ebabcf953f139c3de30c0a165f871e85af5670da6b1c34be564e",
+      "guid": "xmly_track_661296036",
+      "title": {
+        "text": "名侦探柯南最好的剧场版？《贝克街的亡灵》",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 30 Aug 2023 12:24:25 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "43b5a1d2995cec928f0f4d6e25514e30f98be21e4cfaef9bcc56c3ad29a1288a",
+      "guid": "xmly_track_608427855",
+      "title": {
+        "text": "《满江红》争议背后的原因比电影更有意思",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 Feb 2023 09:39:23 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "e0999c378674d86c7e731500b1020e83b0df0fd94f4f6df388bbbd89d4c7d5ac",
+      "guid": "xmly_track_574895251",
+      "title": {
+        "text": "《穆赫兰道》没有男性视角的黑色电影，梦比记忆与现实更可靠",
+        "truncated": false
+      },
+      "description": {
+        "text": "如果可以，你愿意回放自己的梦么？会遇到几个自己呢？遇到了认得出来么？",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Oct 2022 16:53:47 GMT",
+      "feed_index": 58
+    },
+    {
+      "id": "d5f2281d1a7fbbc8381eba3cf7527c5b054261e6e426f747d6fa5c0cba6a4421",
+      "guid": "xmly_track_554983015",
+      "title": {
+        "text": "《82年生的金智英》温柔而有力量的作品，这期节目献给妈妈吧",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 24 Jul 2022 06:15:08 GMT",
+      "feed_index": 73
+    },
+    {
+      "id": "e3f233273c34f195bd605e6b8fcd321231c72a23e556cd9dc928df42a987bd96",
+      "guid": "xmly_track_552398837",
+      "title": {
+        "text": "我们心中的10大历史题材电影（国外篇）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Jul 2022 13:15:03 GMT",
+      "feed_index": 87
+    },
+    {
+      "id": "525dfe93a1dbb73c90ac8b7df63b9b4936c87e0a50b16098565e10813e4c8a8f",
+      "guid": "xmly_track_552396844",
+      "title": {
+        "text": "《钢的琴》献给父辈，献给东北",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Jul 2022 13:09:38 GMT",
+      "feed_index": 102
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1494068599",
+  "feed_url": "https://ad.robotstart.jp/api/v1/feeds/36400496/get-feeds/podcast",
+  "source": {
+    "url": "https://ad.robotstart.jp/api/v1/feeds/36400496/get-feeds/podcast",
+    "final_url": "https://ad.robotstart.jp/api/v1/feeds/36400496/get-feeds/podcast",
+    "fetched_at": "2026-10-25T14:51:27.759576+00:00",
+    "status": 200,
+    "sha256": "ee561211fa6d2ae323941cd57a4f1dd06bccc3c99f01bfb091979d8b36f6dc00"
+  },
+  "status": "ok",
+  "title": {
+    "text": "明大スポーツ新聞部",
+    "truncated": false
+  },
+  "description": {
+    "text": "明大スポーツ新聞部は、現在明治大学において唯一の学生新聞部です。明治大学体育会46部の競技成績や、学内外の話題を発信しています。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja-JP",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 30,
+  "episodes": [
+    {
+      "id": "90ccbb30aad05ddf0917480bba527a5f2ed950f09b17f9756a1db276bdb55fa4",
+      "guid": "dddd651132d40a11ea8156d5487b6611",
+      "title": {
+        "text": "【ラグビー】対抗戦初戦 青学大に快勝／関東大学対抗戦Ａグループ",
+        "truncated": false
+      },
+      "description": {
+        "text": "「【ラグビー】対抗戦初戦 青学大に快勝／関東大学対抗戦Ａグループ」 曇天の中、多くの観客が駆けつけた関東大学対抗戦（対抗戦）初戦の相手は青学大。前半から明大が果敢に攻め続け７トライを奪う。後半は無失点に抑え、70－５と大差で勝利した。 ◆９・12 関東大学対抗戦Ａグループ（秩父宮ラグビ [ ]",
+        "truncated": false
+      },
+      "published_at": "Sun, 13 Sep 2026 14:50:53 +0900",
+      "feed_index": 0
+    },
+    {
+      "id": "09ccc46c11d1a70021307c3c09e550ed058b6c49ebcf857e73bd53187e240cf6",
+      "guid": "e4eb223b4b19a0748d28ee3454f43d0f",
+      "title": {
+        "text": "公演前インタビュー 堀見華那／明治×法政 on ICE 2025",
+        "truncated": false
+      },
+      "description": {
+        "text": "「公演前インタビュー 堀見華那／明治×法学部政 on ICE 2025」 明治×法学部政 on ICE 2025（明法学部オンアイス）開演前に４年生にインタビューを行いました。開演前の心境、明大で過ごした４年間について、さまざまなお話を伺い、思いに迫りました。 本記事は堀見華那（商学部４年＝愛知 [ ]",
+        "truncated": false
+      },
+      "published_at": "Tue, 04 Feb 2025 00:45:03 +0900",
+      "feed_index": 4
+    },
+    {
+      "id": "952f8241b65a5a59c85aafca77309a99b77bf5134369e162a14528d67393d678",
+      "guid": "139b102c116949fb0d461aba719643a3",
+      "title": {
+        "text": "test",
+        "truncated": false
+      },
+      "description": {
+        "text": "「test」",
+        "truncated": false
+      },
+      "published_at": "Tue, 06 Feb 2024 17:29:19 +0900",
+      "feed_index": 8
+    },
+    {
+      "id": "23648f2b297d2cb66562b625f3f905bfb430e70440545bcf5160e7da83348394",
+      "guid": "77329808f83c462192aefb798de3189d",
+      "title": {
+        "text": "明大スポーツ第535号ご購入フォーム",
+        "truncated": false
+      },
+      "description": {
+        "text": "「明大スポーツ第535号ご購入フォーム」 明大スポーツ第535号ご購入フォーム",
+        "truncated": false
+      },
+      "published_at": "Wed, 24 Jan 2024 00:00:00 +0900",
+      "feed_index": 12
+    },
+    {
+      "id": "dcffeb9831448f531999a254577052dd7e1067998d7b034f84b1edccdebcc96e",
+      "guid": "9c09900fbd0d249820211e8f3b847c09",
+      "title": {
+        "text": "明大スポーツ第535号 八幡山対談企画 アメリカンフットボール部×ラグビー部",
+        "truncated": false
+      },
+      "description": {
+        "text": "「明大スポーツ第535号 八幡山対談企画 アメリカンフットボール部×ラグビー部」 明大スポーツ第535号２面では、明大八幡山グラウンドにフォーカスした特集を掲載。第二合宿所で生活するラグビー部の平岩照英（法学部２年＝明大中野）と、第一合宿所に拠点を置くアメリカンフットボール部（以下、アメフト部）所属で自宅から八幡山に通う舘虎之介（政治経済学部２年＝明大中野）に対談取材を行った。",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 Jan 2024 00:00:00 +0900",
+      "feed_index": 17
+    },
+    {
+      "id": "2c45d357ae42b39b4aefb85a4acf78126d5ed3a7b29acfb0b8e4301e07be8a81",
+      "guid": "d68c73988570031e62db88a91139631d",
+      "title": {
+        "text": "阿部がJ３・ＦＣ今治へ来季加入内定！",
+        "truncated": false
+      },
+      "description": {
+        "text": "「阿部がJ３・ＦＣ今治へ来季加入内定！」 １月９日、ＤＦ阿部稜汰（政治経済学部４年＝日章学園）のＦＣ今治への来季加入内定が発表された。今季のＪリーグ内定選手は６人目となる",
+        "truncated": false
+      },
+      "published_at": "Sat, 13 Jan 2024 00:00:00 +0900",
+      "feed_index": 21
+    },
+    {
+      "id": "1b4affed3d2c17d9f98ffdb820ec02c87e233dea8bec0fe95f570734bedd17ee",
+      "guid": "6b8d54de2c848a33b41d8e6656bdf6ca",
+      "title": {
+        "text": "声援飛び交うチーム明大 優勝目指し好演技披露／日本学生氷上競技選手権",
+        "truncated": false
+      },
+      "description": {
+        "text": "「声援飛び交うチーム明大 優勝目指し好演技披露／日本学生氷上競技選手権」 日本学生氷上競技選手権（以下、インカレ）が開幕した。６日は男子７、８級から大島光翔（政治経済学部３年＝立教新座）、菊地竜生（政治経済学部１年＝目黒日大）、松井努夢（政治経済学部４年＝関西）が出場。女子７、８級からは住吉りをん（商学部２年＝駒場学園）、江川マリア（政治経済学部２年＝香椎）、元榮愛子（商学部１年＝目黒日大）が出場し、目標のインカレ優勝に向け、応援にも力を入れ氷上を彩った。",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 Jan 2024 00:00:00 +0900",
+      "feed_index": 25
+    },
+    {
+      "id": "1217a8aac1318285219348f5256786758867b687c1caca8b1af241622412b744",
+      "guid": "4a04ec0472995153dc96238e29e7b876",
+      "title": {
+        "text": "京産大を破り２大会ぶりの決勝進出 日本一まであと一つ！／全国大学選手権",
+        "truncated": false
+      },
+      "description": {
+        "text": "「京産大を破り２大会ぶりの決勝進出 日本一まであと一つ！／全国大学選手権」 「PRIDE」をテーマに掲げた今試合、両者の意地の戦いが繰り広げられた。前半は明大が先制するも、なかなか主導権を握ることができず、24ー18で試合を折り返す。後半は明大が勢いのあるアタックと意地のディフェンスで逃げ切り、52―30で",
+        "truncated": false
+      },
+      "published_at": "Wed, 03 Jan 2024 00:00:00 +0900",
+      "feed_index": 29
+    }
+  ]
+}

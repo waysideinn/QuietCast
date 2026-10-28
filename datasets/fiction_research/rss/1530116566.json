@@ -1,0 +1,140 @@
+{
+  "show_id": "1530116566",
+  "feed_url": "https://feeds.soundon.fm/podcasts/586bbd59-af62-48bd-87d3-bce10afadb1f.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/586bbd59-af62-48bd-87d3-bce10afadb1f.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/586bbd59-af62-48bd-87d3-bce10afadb1f.xml",
+    "fetched_at": "2026-10-25T14:53:57.824264+00:00",
+    "status": 200,
+    "sha256": "daa3cd738553fa301bf4d2307deb68a68d2b74c9f5db9954e39b5e3322a00f03"
+  },
+  "status": "ok",
+  "title": {
+    "text": "《門諾健康會客室》",
+    "truncated": false
+  },
+  "description": {
+    "text": "花蓮海邊(門諾)醫院的Podcast節目，推廣各類公益倡議活動與健康知識，歡迎聽起來。 官網：https://blog.mch.org.tw/ 臉書：https://www.facebook.com/mch1948 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 48,
+  "episodes": [
+    {
+      "id": "d7f38647338d9436ec6adc412bd30ffb121afc3e7987d9458327b7cffa8a0f56",
+      "guid": "3e42c97a-84dd-4967-97ca-3c3bdbe0c424",
+      "title": {
+        "text": "｛門諾健康會客室 X Kapah Taywan!臺灣好好｝門諾超「韌」特攻隊EP4－與談人：門諾醫院急診室鄧學儒主任/主持人：林清盛",
+        "truncated": false
+      },
+      "description": {
+        "text": "『門諾醫院超「韌」特攻隊』節目中，我們邀請金鐘主持人林清盛與門諾醫院歷經災難現場的夥伴們對談。 花蓮，這座面向太平洋的島嶼城市，位處環太平洋地震帶上，颱風與地震讓這片土地的居民有著深刻的體會。從災難中直面生存的議題，已是台灣民眾的日常，也是門諾醫院醫療救助時必須面對的嚴肅功課，從2020年的新冠病毒、0206、0403、台鐵太魯閣事件、0923風災的一路陪伴，門諾醫院皆參與其中，留下許多熱血交織的經驗與故事。 門諾醫院透過深耕計畫，將災難中的看見，轉化成醫療韌性的實踐，今年與｛Kapah Taywan!臺灣好好｝Podcast廣播節目合作一系列節目，邀請廣播金鐘獎主持人林清盛，共同在節目裡深掘如何從軟弱中探見堅強的心流，邀訪過去曾經於這些災難現場奔走付出的「超人」們，分享他們的經歷，一起深耕、共同守護大家心中的那份勇敢與韌性，歡迎您按時收聽，一起讓台灣好好！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 07 Sep 2026 07:40:45 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "7f73eb9110809fd86dd48cb4fd9ec54bb1b1e6a6f1a70c71e384255b9784067e",
+      "guid": "5c8cff3c-376b-4e8f-b16b-0a744c570772",
+      "title": {
+        "text": "海編公益導讀：門諾公益基金的秘密",
+        "truncated": false
+      },
+      "description": {
+        "text": "你聽過門諾醫院嗎？要撐起花東的公益倡議，似乎不是一件那麼容易的事情呢！ 這次跟大家聊聊這群默默的人與服務。 臉書搜尋：門諾公益 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 May 2025 14:05:08 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "4b0a40f7f96e621a645ca7eb22b548734d637397b55311b000210cb1323b160c",
+      "guid": "c99e3d08-f30c-4be3-bebd-f75b9817d0b1",
+      "title": {
+        "text": "Kari健康談／S1EP6 / 身體這樣說｜癌症治療掉頭髮怎麼辦?",
+        "truncated": false
+      },
+      "description": {
+        "text": "📌本集重點 01:15 一說到癌症治療，你會想到什麼呢? 03:37 什麼是「身體心像」呢? 04:45 如何租借假髮呢? 05:53 如何捐髮呢? 07:00 總結 🔍這裡有更多的我們 【學習平台】 http://i.mch.org.tw/vocus-podcast 【認識門諾的100種方法】 https://linktr.ee/mch1948 【更多收聽平台】[ https://linktr.ee/podcastchannel]() >) \"> https://linktr.ee/podcastchannel 【節目的回饋表】 http://i.mch.org.tw/podcast-feedback ✨本集連結 【報導】門諾醫院癌症資源單一窗口 https://www.mch.org.tw/Docs/524/Default.aspx ⭐喜歡這集節目的話，記得按讚&訂閱&分享。 ✍️留言告訴我你對這一集的想法 ©臺灣基督教門諾會醫療財團法人門諾醫院發展部 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 24 Apr 2025 03:46:06 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "229b51e9232cc375235ad64d244b0d2e633e5442cf6d7e71c17d04efe86e4f62",
+      "guid": "ef378038-feb8-41b0-9778-08c1fd904119",
+      "title": {
+        "text": "健康來我家／S2E2／愛注意！那些生活中容易被忽略的心臟衰竭訊號／心臟血管外科：黃振銘醫師",
+        "truncated": false
+      },
+      "description": {
+        "text": "心臟衰竭的疾病表徵常常出現非常多的臨床症狀，不僅讓病人遊走各科確又不得其解，門諾心臟血管外科黃振銘醫師，細心的與您探討各式生活上常見，但卻容易被忽略的心臟衰竭訊號。 【Podcast 收聽回饋】： 聆聽問卷 官網： http://i.mch.org.tw/pub3w 臉書： http://i.mch.org.tw/mchorg-fb -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Apr 2022 08:11:29 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "5837648ca2522165e74cacd37631ec9b6596299ec83702ca6f742563a8d19223",
+      "guid": "dd8cd4d4-be1f-4381-9fb6-c263b5984b6e",
+      "title": {
+        "text": "長照大現場／S1E4／重度失智病人的末期關懷／緩和療護中心：楊格政心理師",
+        "truncated": false
+      },
+      "description": {
+        "text": "太陽儘管每天日升日落，我們仍舊無法直視它 就像「死亡」必定存在每個人的生命裡 大家唯恐避之不及 但每當有病人願意凝視生命的終點 那其實就是一件美好的事情 或者說是一個好的開始 這次特別邀請到楊格政心理師 跟大家聊聊凝視死亡這件事 放心 這一點都不凝重 楊格政心理師 曾是咖啡廳老闆 他說凡是走過一遭 就非常值得 就像生命這件事一樣 【Podcast 收聽回饋】： 聆聽問卷 官網： http://i.mch.org.tw/pub3w 臉書： http://i.mch.org.tw/mchorg-fb -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Feb 2022 09:42:30 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "dce64c9997f09fc8041eefd63d28cc3a1257244467f1d143bacbb15d5e351d29",
+      "guid": "716078df-b46a-4346-8820-38307424aa4e",
+      "title": {
+        "text": "健康來我家／S1E14／得到C型肝炎怎麼辦？有DAA就莫驚慌／肝膽腸胃內科鄭穆良醫師",
+        "truncated": false
+      },
+      "description": {
+        "text": "得到C型肝炎怎麼辦呢？門諾肝膽腸胃內科醫師告訴您，有DAA就莫驚慌。 《給Podcast編輯台》： 聆聽問卷 《關於門諾公益》： 官網： https://public.mch.org.tw/ 臉書： https://www.facebook.com/mch1948 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 13 Nov 2020 04:01:38 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "984d63bf5bf609fa2758daa5532aa556331a143a13916c9c598125d7a19721a5",
+      "guid": "95e34a28-3033-44ef-bea7-b2220dcd8168",
+      "title": {
+        "text": "健康來我家／S1E8／罕見案例，婦人突頭暈跌倒送醫，竟是心臟黏液瘤作祟／心臟外科黃振銘醫師",
+        "truncated": false
+      },
+      "description": {
+        "text": "罕見案例，婦人突頭暈跌倒送醫，竟是心臟黏液瘤作祟！ 《給Podcast編輯台》： 聆聽問卷 《關於門諾公益》： 官網： https://public.mch.org.tw/ 臉書： https://www.facebook.com/mch1948 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Sep 2020 08:47:05 GMT",
+      "feed_index": 40
+    },
+    {
+      "id": "910c5624af976d6570a8e1d02216253f86a77711a30e02a9c39cbfd34e94d5ef",
+      "guid": "1bfb93d6-a22a-48c4-8dd7-3b76bf86af7e",
+      "title": {
+        "text": "健康來我家／S1E1／骨軟骨瘤自發消減個案記者會專訪／骨科蔡傳恩醫師",
+        "truncated": false
+      },
+      "description": {
+        "text": "16歲青少年2年前因膝蓋疼痛就醫，診斷為骨軟骨瘤作祟，由於未影響生活，醫師建議先觀察再決定後續是否開刀切除，近日青少年因打籃球引起雙側腳踝疼痛回診就醫，經醫師安排X光檢查後，意外發現原本如乒乓球大小的骨軟骨瘤竟然消失不見。門諾醫院骨科醫師蔡傳恩表示，骨軟骨瘤是一種常見的腫瘤，大多好發在年輕人身上，大部分的骨軟骨瘤會與患者和平共處，但自動消失不見確實罕見。 《給Podcast編輯台》： 聆聽問卷 《關於門諾公益》： 官網： https://public.mch.org.tw/ 臉書： https://www.facebook.com/mch1948 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 31 Aug 2020 03:15:02 GMT",
+      "feed_index": 47
+    }
+  ]
+}

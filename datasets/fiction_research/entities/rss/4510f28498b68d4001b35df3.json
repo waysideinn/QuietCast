@@ -1,0 +1,165 @@
+{
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckifjdarj3bt20992vdx8455b",
+    "final_url": "https://feed.firstory.me/rss/user/ckifjdarj3bt20992vdx8455b",
+    "fetched_at": "2026-10-26T08:05:52.498460+00:00",
+    "status": 200,
+    "sha256": "eebc7d7c5af9cb8940ff590305bc2fd44ab13dfd95a29296de5eca9dd84f19d9"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "歐美加滔客 Omega Talk 留學遊學一網打盡！",
+      "truncated": false
+    },
+    "description": {
+      "text": "歐美加滔客Omega Talk是一個知識型的podcast！ 提供最新鮮的國外遊學、留學知識給大家喔！ Powered by Firstory Hosting",
+      "truncated": false
+    },
+    "language": "zh-Hant",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "OMEGA 小歐"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "OMEGA 小歐"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "OMEGA 小歐"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Education"
+      ],
+      [
+        "Education",
+        "Language Learning"
+      ],
+      [
+        "Education"
+      ],
+      [
+        "Education",
+        "Self-Improvement"
+      ],
+      [
+        "Education"
+      ],
+      [
+        "Education",
+        "Courses"
+      ]
+    ],
+    "channel_link": "https://omegatalk.firstory.cc",
+    "generator": "Firstory v2",
+    "sampled_audio_endpoint_hosts": {
+      "m.cdn.firstory.me": 8
+    },
+    "feed_item_count": 125,
+    "episodes": [
+      {
+        "title": {
+          "text": "【法國打工度假日記】求職技巧 x 開銷心法",
+          "truncated": false
+        },
+        "description": {
+          "text": "去法國打工度假，真的能做到「邊工作邊享受生活」嗎？ 學姊Sophie毫不保留地分享了她從抵達巴黎到順利上工的完整心路歷程與生活細節！🎧 如果你也正準備出發，這集絕對是你的前哨站： 💡 本集四大深度亮點： ▸ 【求職實戰心法】 不只靠求職網！如何善用 FB/Threads 社團，甚至「主動寄 Email 加打電話」搶出擊？ ▸ 【工作生活平衡】 就算法文不流利，如何爭取到「固定晚班＋週休二日」？排班與時間管理一次看 ▸ 【巴黎生存算盤】 房租佔比、超市自煮與「員工餐」省錢法，手把手算給你聽！ ▸ 【法式社交禮儀】 法國人真的很高傲？其實只要主動說一句「Bonjour」，服務態度大不同！ 想了解法國打工度假與求職規劃？歡迎私訊歐美加小編！ 台北 02-23888900｜台中 04-23283020 🔥LINE： omega.taipei 🔥Skype： omega.taipei 🔥歐美加遊留學教育中心 https://www.osac.com.tw/zh-tw/ 留言告訴我你對這一集的想法： https://open.firstory.fm/user/ckifjdarj3bt20992vdx8455b/comments Powered by Firstory Hosting",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "cmvjahcbj008l01utfr9fbaou"
+      },
+      {
+        "title": {
+          "text": "EP107 語言學習打造更好的自己！海外工作經驗如何改變一個人的眼界與選擇。",
+          "truncated": false
+        },
+        "description": {
+          "text": "語言學習打造更好的自己 海外工作經驗如何改變一個人的眼界與選擇 在這個資訊爆炸、科技飛速發展的時代，我們所面對的競爭對手，早已不僅限於全球的人才，更包括日新月異的人工智能。要在國際市場中站穩腳步，光靠單一專業技能已遠遠不夠，如何培養跨域整合的能力與關鍵的軟實力，成為團隊中不可或缺的一員，才是脫穎而出的關鍵。 我們很榮幸邀請到曾經協助過的學生Harry，來與大家分享他多年以來在海外工作的所見所聞與成長歷程。從過去英文不甚流利，到如今能自信地活躍於國際舞台，Harry讓我們看見了持續不懈的努力與清晰的目標的重要性。並且透過他的第一手經驗，學生將有機會更深入了解台灣以外的職場樣貌與文化，掌握國際企業所重視的人才特質。 本集除了聚焦於Harry的職涯發展，更希望能帶給學生全新的視野，激發對語言學習的熱情與目的感，勇敢跳脫舒適圈，擁抱更寬廣的世界。 畢竟，學習一種新的語言，不只是技能的累積，更是一次重新認識自己、塑造全新自我的旅程。 歡迎下方留言告訴我們喔！ https://open.firstory.me/story/clw12dbx608pt01wgdc4r93ha?m=comment 台北 02-23888900｜台中 04-23283020 🔥LINE: omega.taipei 🔥Skype: omega.taipei 🔥歐美加遊留學教育中心 www.osac.com.tw 🔥立即",
+          "truncated": true
+        },
+        "feed_index": 18,
+        "guid": "cmc0gd60a0ovs01uy7ojufpa3"
+      },
+      {
+        "title": {
+          "text": "EP90【主題式系列問答】- 決策，雅思口試從題目獲得啟發",
+          "truncated": false
+        },
+        "description": {
+          "text": "主題式系列問答 - 決策 雅思口試從題目獲得啟發 歡迎沒聽過或者想要回顧之前內容的同學前往以下連結聆聽第一集的雅思口試詳解喔！ 雅思口試 - 第一集： https://open.firstory.me/story/cm4mt2k5x0ap401z4e4d16cy7/platforms 雅思口試 - 第二集：https://open.firstory.me/story/cm51yqjvr007w01x09mvuhsa1/platforms 進入到最後一期的雅思口說環節，題目又回歸 part 1 一問一答的模式，只是探討的主題更加深入，難度也提升不少。同樣由Michael老師為學生們拆解每一題的回答方向和重點整理，了解到不論是寫作還是口試，托福還是雅思，都沒有制式的標準答案，每個人的觀點也都沒有絕對的對錯，只要你的邏輯清楚且能夠說服考官，回答的內容有一定程度的完整性，都會是一個好的回答。這次除了探討口試的解題要點，更分享了不同的思考觀點和人生方向的建言，讓學生得以在做題的過程中反思自己的人生歷程。當你能吸收知識，善用所學，連結自身體悟與經歷，進而轉化成自己的話好好地表達出來，那麼你就離成功又更近一步了喔！ 歡迎下方留言告訴我們喔！ https://open.firstory.me/story/clw12dbx608pt01wgdc4r93ha?m=comment 台北 02-23888",
+          "truncated": true
+        },
+        "feed_index": 35,
+        "guid": "cm56scjzo00ib01sle1wibhb2"
+      },
+      {
+        "title": {
+          "text": "EP72 雅思寫作大學問！你不可不知的英文寫作技巧",
+          "truncated": false
+        },
+        "description": {
+          "text": "雅思寫作大學問！ 你不可不知的英文寫作技巧 對很多遊留學的學生來說，托福和雅思這類型的英文考試一定不陌生。 在之前的集數中，Michael老師也有為大家講解閱讀測驗的題型，以及該如何有效、精準、快速的答題，而這次則會著重在寫作的技巧的上面。 為了讓學生們更好理解英語寫作的思路與雅思作文的評分標準，資深顧問Jenny和Michael老師根據雅思寫作的Task 2的題型，將範例文章的前、中、後段落逐一拆解探討。 這一集主要針對開頭Opening該怎麼寫，依照什麼步驟書寫可以更好的整理思緒，使用什麼樣的句型更加分等等。 如果你也正為英文寫作苦惱，不知道怎麼樣提升自己的分數，那麼這一集的內容一定對你十分受用喔！ 後面的集數我們會繼續解析寫作中間段的內文和結尾，歡迎追蹤後續內容唷！ 台北 02-23888900｜台中 04-23283020 🔥LINE: omega.taipei 🔥Skype: omega.taipei 🔥歐美加遊留學教育中心 www.osac.com.tw 🔥立即預約諮詢 https://goo.gl/msUyWE 歡迎同學有什麼想法都在以下留言板留言喔！ https://open.firstory.me/story/clw12dbx608pt01wgdc4r93ha?m=comment Powered by Firstory Hosting",
+          "truncated": false
+        },
+        "feed_index": 53,
+        "guid": "clxelzw74005w01w5g4geadto"
+      },
+      {
+        "title": {
+          "text": "EP54 深入UCI校園生活和課程，讓學校代表來為你解答！",
+          "truncated": false
+        },
+        "description": {
+          "text": "這是一集非常特別的UCI校園專題！我們今天邀請了UCI優秀的學校代表，跟我們分享UCI的課程、生活，以及回答學生常有的各種問題。 這不僅僅是一個校園導覽，而是一場精彩的冒險，探索這所令人驚嘆的大學的每個角落。 從課堂到社團活動，以及如何融入這個熱情洋溢的社區，我們將為你開啟UCI的真正面貌。 準備好了吗？讓我們開始吧！ 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckifjdarj3bt20992vdx8455b/comments Powered by Firstory Hosting",
+          "truncated": false
+        },
+        "feed_index": 71,
+        "guid": "clnvo91xs02rv01t95tzhfj6t"
+      },
+      {
+        "title": {
+          "text": "EP36 學長來囉!聽聽柏克萊學霸唸荷蘭馬斯垂克大學的就讀心得，以及荷蘭在地生活分享",
+          "truncated": false
+        },
+        "description": {
+          "text": "荷蘭的教育系統比較偏重團隊合作，協助國際學生互相幫忙。在荷蘭就學，學校鼓勵學生建立自己的思緒與邏輯，並增加自身的國際觀點。Sunny學長大學就讀美國公立常春藤柏克萊大學化學系，研究所轉往荷蘭就讀馬斯垂克大學，究竟荷蘭吸引他的地方在哪裡，荷蘭的教育方式和美國有什麼不同?就讓我們一起來聽聽Sunny的分享吧 了解更多荷蘭留學課程 有任何問題歡迎留言或聯繫我們喔！ 台北 02-23888900｜台中 04-23283020 🔥LINE: omega.taipei 🔥Skype: omega.taipei 🔥歐美加遊留學教育中心 www.osac.com.tw 🔥立即預約諮詢 https://goo.gl/msUyWE Powered by Firstory Hosting",
+          "truncated": false
+        },
+        "feed_index": 89,
+        "guid": "ckowrzdn5te010873pq201snm"
+      },
+      {
+        "title": {
+          "text": "EP19 專訪法國服務網創辦人Edouard DU 一手包辦法國當地服務",
+          "truncated": false
+        },
+        "description": {
+          "text": "拿到法國OFFER的下一步除了辦簽證之外，就是租屋了。本集邀請法國在地生活服務網FUWU.FR創辦人 Edouard DU和大家聊聊 Edouard從小移民法國，一路走來看了許多國際學生在法國生活踩了許多地雷和坑，因此希望就他這四十幾年來的生活經驗，讓同學們走得更順利。 #內容包括 租屋的時間、注意事項、位置怎麼找、水電怎麼開等等資訊，報給大家知道囉 #了解更多法國服務網的服務: https://tinyurl.com/y5rn68bx 有任何問題歡迎留言或聯繫我們喔！ 台北 02-23888900｜台中 04-23283020 🔥LINE: omega.taipei &nbsp;🔥Skype: omega.taipei 🔥歐美加遊留學教育中心 www.osac.com.tw 🔥立即預約諮詢 https://goo.gl/msUyWE Powered by Firstory Hosting",
+          "truncated": false
+        },
+        "feed_index": 106,
+        "guid": "c93207d9-34a0-4caa-a895-bc4af69d5a6a"
+      },
+      {
+        "title": {
+          "text": "EP01 法國商學院該如何做準備",
+          "truncated": false
+        },
+        "description": {
+          "text": "嗨～歡迎收聽歐美加滔客Omega Talk 我們的節目會介紹各種關於出國遊學、留學的大小事 #本集重點 邀請我們的學生Jenny李同學，分享她成功錄取法國Emlyon的故事喔！ 本集也有做成影音版，歡迎到我們的youtube頻道觀看！https://tinyurl.com/ybtcavma 有任何問題歡迎留言或聯繫我們喔！ 台北 02-23888900｜台中 04-23283020 🔥LINE: omega.taipei 🔥Skype: omega.taipei 🔥歐美加遊留學教育中心 www.osac.com.tw 🔥立即預約諮詢 https://goo.gl/msUyWE Powered by Firstory Hosting",
+          "truncated": false
+        },
+        "feed_index": 124,
+        "guid": "d06d34da-f9c7-415c-a307-5da2e30aa779"
+      }
+    ]
+  }
+}

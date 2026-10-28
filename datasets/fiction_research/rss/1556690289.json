@@ -1,0 +1,140 @@
+{
+  "show_id": "1556690289",
+  "feed_url": "http://www.ximalaya.com/album/3920585.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/3920585.xml",
+    "final_url": "http://www.ximalaya.com/album/3920585.xml",
+    "fetched_at": "2026-10-25T14:42:39.377679+00:00",
+    "status": 200,
+    "sha256": "b1af295f4c3f8c8a8731aeb8c1ecb8b9b51183573f5fd11ef4bd06776878c921"
+  },
+  "status": "ok",
+  "title": {
+    "text": "祸国糨糊 | 贪欢公子有毒 | 另类古风小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "贪欢是一种毒，贪欢也是一个人。 贪欢公子就是那个中了贪欢之毒的美男，有着双重身份，以男老鸨的身份坐镇妓院，操控手下梅兰竹菊四公子实施复仇计划，制服狗腿女杀手为其卖命，却在看清女杀手的真性情后别扭的情根深种，虽然不说爱，情在字里行间。 这是发生在两个擅长伪装的别扭男女之间的别扭爱情。她装，言行狗腿、表面卑微实则暗持节操；他也装，表面无欲无求心狠手辣，实则对她手下留情。 “谁解贪欢”，男主的毒能解否？女主的花痴能解否？女主能够成为贪欢公子的解语花吗？",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 58,
+  "episodes": [
+    {
+      "id": "d728977182515171cbd1c676035e6cc7a955b735042fd4d85641b8c21b52d132",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f08c-audiofreehighqps/CF/13/CKwRINsEi4U0AAiHzgCzcxD9-aacv2-48K.m4a",
+      "title": {
+        "text": "祸国糨糊_00 片花 | 欢迎订阅、评论，感谢",
+        "truncated": false
+      },
+      "description": {
+        "text": "贪欢是一种毒，贪欢也是一个人。 贪欢公子就是那个中了贪欢之毒的美男，有着双重身份，以男老鸨的身份坐镇妓院，操控手下梅兰竹菊四公子实施复仇计划，制服狗腿女杀手为其卖命，却在看清女杀手的真性情后别扭的情根深种，虽然不说爱，情在字里行间。 这是发生在两个擅长伪装的别扭男女之间的别扭爱情。她装，言行狗腿、表面卑微实则暗持节操；他也装，表面无欲无求心狠手辣，实则对她手下留情。 “谁解贪欢”，男主的毒能解否？女主的花痴能解否？女主能够成为贪欢公子的解语花吗？",
+        "truncated": false
+      },
+      "published_at": "Tue, 01 Jun 2021 05:14:26 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "c953c2ff3d6354010f4ad473279468d11961d8a2b2da5d0f11e157c9d5117f64",
+      "guid": "https://aod.cos.tx.xmcdn.com/group10/M00/2D/B0/wKgDaVb2WyehodN2AY1ck89i_-U678.mp3",
+      "title": {
+        "text": "祸国糨糊_第08章：白雪映红梅",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 26 Mar 2016 09:50:39 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "e2a99ca2e896216e3248ab91776ab1bf6d84eedf947dbd66533928427e6140fa",
+      "guid": "https://aod.cos.tx.xmcdn.com/group14/M07/35/3E/wKgDY1b7loih05oTAIHk1WkLbWg447-aacv2-48K.m4a",
+      "title": {
+        "text": "祸国糨糊_第16章：呆鸠占鹊巢",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 31 Mar 2016 09:50:00 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "f87c9f2210859e397fc74372981c560cb8addbb7f0eaae2d04421c7d8ca18eb0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group7/M06/3A/9D/wKgDX1cCJxuRJqfRAaKW3EfXccA870.mp3",
+      "title": {
+        "text": "祸国糨糊_第24章：两相对望时",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 08 Apr 2016 04:00:03 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "f12ccc19cb04d839882caade29c78cb3b9c07b2779450f0b9f41c70e20466a54",
+      "guid": "https://aod.cos.tx.xmcdn.com/group11/M03/57/00/wKgDbVcXJDegvUJjActoqNhVFNI140.mp3",
+      "title": {
+        "text": "祸国糨糊_第33章：初入留云轩",
+        "truncated": false
+      },
+      "description": {
+        "text": "销魂山庄是个什么样的地方？九姑娘走了，踏上了去销魂山庄的不归路，兰敞如是想。同时，柳公子催他制解药了，难道说。。。",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Apr 2016 06:46:38 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "82bcd0a4dbc24bd1443e4e06f1935e368489cf42272dce27fc4f74a6817b05d3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M0B/5D/E3/wKgDYlcqwamw-n7eAcvxzLMB5b0892.mp3",
+      "title": {
+        "text": "祸国糨糊_第41章：化静为机动",
+        "truncated": false
+      },
+      "description": {
+        "text": "萧御伦一直在装君子，而九疑一直在装小人，两个人一黑一白、一正一反。而真相却是。。。萧御伦觉得这局棋真是荒诞，然。。。他乐此不疲。。。真是疯了！",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 May 2016 03:45:20 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "0f7be19bf35c15be810144c5c3e607ba6287617ab9f41ccb4df6d2f014d34df3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group14/M07/7A/95/wKgDY1dFjZeiOih-AJPdASqA3SQ852.m4a",
+      "title": {
+        "text": "祸国糨糊_第49章：夜奔对峙局",
+        "truncated": false
+      },
+      "description": {
+        "text": "跟素来冷情的柳公子下棋说笑是种怎样的体验？这不，九姑娘就从柳陵郁的马车外摸了进来，变戏法、下围棋。。。可是那个秀美绝伦的人却说：“你会后悔的。。。”“为何后悔？”",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 May 2016 11:33:48 GMT",
+      "feed_index": 49
+    },
+    {
+      "id": "e2090ae7c59b8d4c3c99a56e7cbbbd2daf81a213cbaf2e54247b97d8d138bb3b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group16/M09/88/EC/wKgDbFdVCMizKnGYAfVPMAMfEzY499.mp3",
+      "title": {
+        "text": "祸国糨糊_第57章：万事总成空（大结局）",
+        "truncated": false
+      },
+      "description": {
+        "text": "终于大结局了！九疑和柳陵郁，一个指望着烟消云散，另一个成全了过往无痕。若问谁解贪欢，情也！",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Jun 2016 05:24:04 GMT",
+      "feed_index": 57
+    }
+  ]
+}

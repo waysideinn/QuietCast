@@ -1,0 +1,41 @@
+{
+  "group": "normal",
+  "term": "教育播客",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%95%99%E8%82%B2%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%95%99%E8%82%B2%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:43:08.645870+00:00",
+    "status": 200,
+    "sha256": "1f41bcdc85063053097fa37fdcafe81b87740538fca23e760cc2449b4df7c6fb"
+  },
+  "result_count": 1,
+  "records": [
+    {
+      "collectionId": 1554289906,
+      "trackId": 1554289906,
+      "collectionName": "拳人教育whywomenfist",
+      "artistName": "拳人教育whywomenfist播客",
+      "feedUrl": "http://www.ximalaya.com/album/46798811.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%8B%B3%E4%BA%BA%E6%95%99%E8%82%B2whywomenfist/id1554289906?uo=4",
+      "genres": [
+        "个人日记",
+        "播客",
+        "社会与文化",
+        "休闲",
+        "爱好"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2022-06-28T09:49:00Z",
+      "country": "CHN",
+      "primaryGenreName": "个人日记"
+    }
+  ]
+}

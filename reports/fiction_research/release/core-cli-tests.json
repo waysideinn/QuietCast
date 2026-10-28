@@ -1,0 +1,9 @@
+{
+  "command": "A Scripts/test-cli.sh, temporary source/test symlink view",
+  "exitCode": 0,
+  "tests": 72,
+  "assertions": 280,
+  "failures": 0,
+  "log": "reports/fiction_research/release/core-cli-tests.log",
+  "notes": "CLI assertion adapter runs the same test functions; not XCTest or iOS device validation."
+}

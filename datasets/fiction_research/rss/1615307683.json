@@ -1,0 +1,140 @@
+{
+  "show_id": "1615307683",
+  "feed_url": "http://www.ximalaya.com/album/56770138.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/56770138.xml",
+    "final_url": "http://www.ximalaya.com/album/56770138.xml",
+    "fetched_at": "2026-10-25T14:55:23.399609+00:00",
+    "status": 200,
+    "sha256": "477378851160aac506137ff13f9e91731fb61bd7946b79f0756205a13339995c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "龙哥聊股",
+    "truncated": false
+  },
+  "description": {
+    "text": "龙哥数十年的投资心得，带你一起装B一起飞！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 29,
+  "episodes": [
+    {
+      "id": "b31266767ea33b0f50980dac9276e91e5173d86fc70c3b89fb4fd78f146458cc",
+      "guid": "xmly_track_497022506",
+      "title": {
+        "text": "第一期",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 Jan 2022 21:39:19 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d7e33879efa0fc37be587f503a57a72b2ee217ae95c79856fb342cab64963c75",
+      "guid": "xmly_track_498092415",
+      "title": {
+        "text": "第五期",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 31 Jan 2022 21:20:28 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "fc3cd243ed7cfc041c990ba1322f11d07d0f7a83d98899a936cfcab32eb75315",
+      "guid": "xmly_track_499091766",
+      "title": {
+        "text": "第九期",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 05 Feb 2022 09:38:55 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "0a92c554e40b1eab92faa21cf66b8c141e87efb33cee373680baee6af5003bbf",
+      "guid": "xmly_track_500143639",
+      "title": {
+        "text": "第十三期",
+        "truncated": false
+      },
+      "description": {
+        "text": "价值投资",
+        "truncated": false
+      },
+      "published_at": "Tue, 08 Feb 2022 22:00:43 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "8950d5f7bee8c3bd1359d50ef2777e4886a1eb136ec3b6acad7541647077e874",
+      "guid": "xmly_track_501454798",
+      "title": {
+        "text": "第十七期",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 12 Feb 2022 21:29:01 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "1d6fb167ec9954312d5982d5c9675ae80f0b15e11a6ea3d282ea0bc776a7b5c2",
+      "guid": "xmly_track_502719613",
+      "title": {
+        "text": "第二十一期",
+        "truncated": false
+      },
+      "description": {
+        "text": "价值投资的奥义",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Feb 2022 21:47:13 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "162221581b7251b44a7911e385543740a034d90d7ade682a9c9ce7bf98af14d0",
+      "guid": "xmly_track_503923097",
+      "title": {
+        "text": "第二十五期",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 20 Feb 2022 21:09:43 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "754784c649bd619f5b4ecd284f189c504fb37250557ba113daa5a81c0491a3f8",
+      "guid": "xmly_track_505528660",
+      "title": {
+        "text": "第三十期",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Feb 2022 21:30:16 GMT",
+      "feed_index": 28
+    }
+  ]
+}

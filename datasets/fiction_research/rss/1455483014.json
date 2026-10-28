@@ -1,0 +1,140 @@
+{
+  "show_id": "1455483014",
+  "feed_url": "http://www.ximalaya.com/album/18478585.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/18478585.xml",
+    "final_url": "http://www.ximalaya.com/album/18478585.xml",
+    "fetched_at": "2026-10-25T14:48:56.190351+00:00",
+    "status": 200,
+    "sha256": "893b0628567e07d11181c2aba7e8f99f84a1d3520094eac4dcce9b38c29d48bf"
+  },
+  "status": "ok",
+  "title": {
+    "text": "秋野叨历史 | 十分钟的历史故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "大家好，我是秋野，一个不知名的口述历史主播。 《秋野叨历史》是我所讲述的第一个专辑，想通过简单有趣的口述方式给大家讲讲历史中有趣有料的故事，并不拘泥于正史或者野史，还有各种传说和花边小新闻，希望能给您带来不一样的读史体验。 我所讲述的可能是一整段一整段的朝代更迭，例如“元末明初”、“五代十国”，也有可能是历史中著名人物的名人传记，列入“XX名人堂”；也可能是各种有趣的历史故事，多谢您的品尝。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 132,
+  "episodes": [
+    {
+      "id": "a5ab4b83ec2daac9b543e32913d81a14e8e7e1b6dcb0f4fe8d87d38dcf4c4608",
+      "guid": "https://aod.cos.tx.xmcdn.com/group80/M08/0A/9A/wKgPEV7Tr93Ss6yWAFyGGO6itr8670.m4a",
+      "title": {
+        "text": "【年代史·春秋的开篇】5.春秋第一霸，郑庄公小霸中原",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 31 May 2020 13:23:19 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "46a43216dc6c9ad3c93c30f8bc6539de540816fbfb3466d5a18497f15eafa7f8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group71/M09/F5/0A/wKgO2V4hwtXD55taAXfmG7gz8zo000.mp3",
+      "title": {
+        "text": "【说俗·小年夜】过小年为啥要糊灶王爷的嘴？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 17 Jan 2020 14:22:35 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "a8596f0e255eb09f8cc77495e77a2bf68aed8135278201655b1d02459d3e03f5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group56/M04/E3/44/wKgLgFyMm9qC5YvRAIA_Svk5CDU444.m4a",
+      "title": {
+        "text": "【名人堂·韩愈】1.“唐宋”八大家之大当家韩愈",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Mar 2019 06:47:30 GMT",
+      "feed_index": 37
+    },
+    {
+      "id": "c6f35d1ac24bdad24fb9c825c17a33f9c1bbf8ee45db398d34896de954bb725f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group57/M00/BD/EB/wKgLgVxngJPw12yeAGwKNlAdP64281.m4a",
+      "title": {
+        "text": "【我的发家史】26.康茂才挡陈友谅",
+        "truncated": false
+      },
+      "description": {
+        "text": "秋野· 叨历史 聊历史，过日子，欢迎来到秋野叨历史，大家好我是秋野。 26.康茂才挡陈友谅 上期我们说道朱元璋正苦于无计可用，这时，有人提议朱元璋先收太平以牵制敌方，有人建议朱元璋自己亲自指挥出应天御敌，但都被朱元璋所拒，我们也详细的分析了原因。 朱元璋这位爷没读过什么兵书，但属于那种天生有感觉的军事家，他说：“太平城濠(háo)堑(qiàn)深固，如果当时陈友谅没有巨舰，不能水上进攻，太平根本不会陷落。那么我们现在去围城，又没大船，又没涨水，根本就不可能短时间拿下。而且，贼军水军十倍于我军，我们把大部队都放在坚城之下，那是进不能取，退不及援，肯定吃大亏的。 如果我自己出城逆敌，敌军以偏师牵制住我，牵着我们主力的鼻子四处兜圈，陈友谅必定会以水军顺流而下直奔应天，最多半天就可以抵达城下了。到了那个时候，即使我们的步兵骑兵能够即时回援，也是长途奔袭，早就已经精疲力竭，这可是兵法大忌，所以也使不得。” 于是才有了京剧中的那出大戏《挡谅》，全称就是《康茂才挡陈友谅》，也叫《战士台》或者《江东桥》，我们说几句题外话，我们现在听到的《挡谅》是相声演员郭德纲老师所创作的太平歌词，他在曲中增加了京剧西皮流水的唱腔。2004年北京相声大会中被年仅12岁的张云雷首先演唱，到了现在这一两年张云雷简直已经火的不行了，爱他的观众都爱的不行了，有的叫他辫儿哥哥，也有的叫他二爷，张云雷也唱了好多的小曲小调，像什",
+        "truncated": true
+      },
+      "published_at": "Sat, 16 Feb 2019 03:17:04 GMT",
+      "feed_index": 56
+    },
+    {
+      "id": "32e6aaaca83ca387ff30c481985fe46839775a78a7dd1f218af9170f243d377e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group53/M01/96/6A/wKgLcVw__WzjMC65AHO-UKKEhR4022.m4a",
+      "title": {
+        "text": "【我的发家史】7.一计定天下",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 17 Jan 2019 03:58:03 GMT",
+      "feed_index": 75
+    },
+    {
+      "id": "d09d06b105bc82163112c613f85d7994f206f9ebae9ef47f55baa5e8091d98ca",
+      "guid": "https://aod.cos.tx.xmcdn.com/group54/M07/95/66/wKgLfVwcW8mC3O-vAGa2Fugiq8U682.m4a",
+      "title": {
+        "text": "【农民大起义】4.挑动黄河天下反",
+        "truncated": false
+      },
+      "description": {
+        "text": "秋野· 说史 三百年大明社稷，浩浩汤汤，荡气回肠，然而，回溯历史的源头，是什么促成了如此帝国的建立，又是怎样的一群人完成了这样的丰功伟业，大明的明，到底又意味着什么？欢迎走进秋野说史，带您了解，明朝是怎么来的。 4.挑动黄河天下反 中国历史上有很多预言或者说是谶言。 咱们前几期专门讲过，所谓的谶语都是有人杜撰的具有强烈目的性的隐语或者预言，所以背后就一定有人在策划着什么。 元朝廷中书右丞相脱脱调集了15万民工决意开河，这为韩山童和刘福通提供了契机。 白莲教教主韩山童派数百教徒到开河的民众中散布“石人一只眼，挑动黄河天下反”的民谣，上期节目咱们就讲到这儿了。 在信徒们开始四处传播谶言的时候，刘福通自己则暗自造好了那个触发剧情的关键NPC，独眼石人。 造好了石人后，在它的背后刻上“莫道石人一只眼，挑动黄河天下反”14字的谶语，将他预先埋在了黄陵岗中。 至正十一年（1351）四月下旬，开河民工挖出独眼石人。 消息传开后，正如先前所预料的那样，人心不稳的情况出现了。 十多天之后的五月初，酝酿许久的韩山童、刘福通等聚众3千人，于安徽颍上县，杀黑牛白马，告祭天地，准备起义。 为了增强号召力，除了原有的宗教纽带外，韩山童等人又打出光复大宋的旗号，以招揽人心。 老韩自称是宋徽宗的八世孙，古语记载五个字：“当为中国主”。刘福通也自称为南宋名将刘光世后代，当辅助明主。 在一切准备妥当之后，韩山童打出了",
+        "truncated": true
+      },
+      "published_at": "Fri, 21 Dec 2018 03:19:24 GMT",
+      "feed_index": 94
+    },
+    {
+      "id": "b9a903180f648ac429486a772e5d9184726ab4fa6ca36bae63ea3e5e653402f3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group54/M09/61/32/wKgLfVv_rXPh6VKlAEdtcfh45jM757.m4a",
+      "title": {
+        "text": "【元末剧】18.痛快，你终于死了",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 29 Nov 2018 10:04:15 GMT",
+      "feed_index": 112
+    },
+    {
+      "id": "c201d5ac76e21e60f56168add8b12f7ffe60f5ac569f6d53480bb8a9cd7c0782",
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M06/4A/F6/wKgO2F4XA-PSakaRATaf29Ftfbs983.mp3",
+      "title": {
+        "text": "【引子·大汉十三将】1.中国也有“斯巴达”300勇士？",
+        "truncated": false
+      },
+      "description": {
+        "text": "大家好，我是秋野，一个不知名的口述历史主播。 《秋野叨历史》是我所讲述的第一个专辑，想通过简单有趣的口述方式给大家讲讲历史中有趣有料的故事，并不拘泥于正史或者野史，还有各种传说和花边小新闻，希望能给您带来不一样的读史体验。 我所讲述的可能是一整段一整段的朝代更迭，例如“元末明初”、“五代十国”，也有可能是历史中著名人物的名人传记，列入“XX名人堂”；也可能是各种有趣的历史故事，多谢您的品尝。",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Jan 2020 10:43:55 GMT",
+      "feed_index": 131
+    }
+  ]
+}

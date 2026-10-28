@@ -1,0 +1,61 @@
+{
+  "source": {
+    "url": "https://podcasts.apple.com/cn/channel/%E5%9B%BD%E5%AD%A6%E6%96%B0%E7%9F%A5/id6639614482",
+    "final_url": "https://podcasts.apple.com/cn/channel/%E5%9B%BD%E5%AD%A6%E6%96%B0%E7%9F%A5/id6639614482",
+    "fetched_at": "2026-10-26T08:00:43.792436+00:00",
+    "status": 200,
+    "sha256": "372cca974b07379553798c11b4aa7d3bbb790ae9599368a10033c2b8eae84b97"
+  },
+  "status": "ok",
+  "data": {
+    "heading": "国学新知",
+    "shows": [
+      {
+        "apple_id": "1765255455",
+        "url": "https://podcasts.apple.com/cn/podcast/%E3%80%8A%E8%B5%84%E6%B2%BB%E9%80%9A%E9%89%B4%E3%80%8B%E7%B2%BE%E8%A7%A3%E4%B8%A8%E5%B8%9D%E7%8E%8B%E5%BF%83%E6%9C%AF%E6%9D%83%E8%B0%8B%E4%B8%A8%E5%9B%BD%E5%AD%A6%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97/id1765255455",
+        "title": "图书"
+      },
+      {
+        "apple_id": "1809083709",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%8C%97%E5%A4%A7%E5%93%B2%E5%AD%A6%E8%AF%BE%7C%E4%B8%BA%E4%BD%A0%E7%9A%84%E4%BA%BA%E7%94%9F%E5%AF%BB%E6%89%BE%E4%B8%80%E4%B8%AA%E6%84%8F%E4%B9%89%7C%E8%94%A1%E5%85%83%E5%9F%B9-%E9%B2%81%E8%BF%85-%E6%9D%8E%E5%A4%A7%E9%92%8A/id1809083709",
+        "title": "哲学"
+      },
+      {
+        "apple_id": "1784188004",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%BD%97%E7%BF%94%E8%AF%B4%E5%88%91%E6%B3%95%E5%90%88%E9%9B%86/id1784188004",
+        "title": "社会与文化"
+      },
+      {
+        "apple_id": "1821134240",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%98%93%E4%B8%AD%E5%A4%A9%E5%93%81%E8%AF%BB%E4%B8%AD%E5%9B%BD-%7C-%E7%99%BE%E5%AE%B6%E8%AE%B2%E5%9D%9B%E5%90%8D%E5%B8%88%E8%A7%A3%E8%AF%BB%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E3%80%81%E6%96%87%E5%8C%96%E4%B8%8E%E7%94%9F%E6%B4%BB/id1821134240",
+        "title": "社会与文化"
+      },
+      {
+        "apple_id": "1802611835",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%BD%97%E7%BF%94%E6%99%AE%E6%B3%95%E6%96%B0%E4%BD%9C%EF%BC%9A%E6%B3%95%E5%BE%8B%E7%9A%84%E6%82%96%E8%AE%BA/id1802611835",
+        "title": "社会与文化"
+      },
+      {
+        "apple_id": "1765255017",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%99%BE%E5%AE%B6%E8%AE%B2%E5%9D%9B%E6%B4%AA%E5%85%B5%E8%AE%B2%E3%80%8A%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95%E3%80%8B%EF%BC%88%E7%BB%8F%E5%85%B8%E8%A7%A3%E8%AF%BB%EF%BC%89/id1765255017",
+        "title": "图书"
+      },
+      {
+        "apple_id": "1815488552",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%9B%BE%E4%BB%95%E5%BC%BA%EF%BC%9A%E3%80%8A%E9%81%93%E5%BE%B7%E7%BB%8F%E3%80%8B%E8%AF%B4%E4%BB%80%E4%B9%88/id1815488552",
+        "title": "社会与文化"
+      },
+      {
+        "apple_id": "1821134165",
+        "url": "https://podcasts.apple.com/cn/podcast/001-%E5%8D%97%E6%80%80%E7%91%BE%E8%AE%B2%E8%80%81%E5%AD%90-%E5%BA%8F%E4%B8%80-%E4%B8%80%E9%AA%91%E9%9D%92%E7%89%9B-%E5%BD%92%E5%8E%BB%E4%B8%8D%E7%9F%A5%E7%BA%A2%E5%B0%98%E4%BA%8B/id1821134165?i=1000713850509",
+        "title": "第 1 集 001.南怀瑾讲老子.序一 一骑青牛，归去不知红尘事 001.南怀瑾讲老子.序一 一骑青牛，归去不知红尘事 13 分钟"
+      },
+      {
+        "apple_id": "1795925725",
+        "url": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E7%94%9F%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88/id1795925725?i=1000691880146",
+        "title": "第 1 集 人生的目的是什么？ 人生的目的是什么？ 7 分钟"
+      }
+    ],
+    "channels": []
+  }
+}

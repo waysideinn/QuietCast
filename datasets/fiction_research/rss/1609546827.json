@@ -1,0 +1,140 @@
+{
+  "show_id": "1609546827",
+  "feed_url": "http://www.ximalaya.com/album/56734981.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/56734981.xml",
+    "final_url": "http://www.ximalaya.com/album/56734981.xml",
+    "fetched_at": "2026-10-25T14:55:45.214214+00:00",
+    "status": 200,
+    "sha256": "f1afce1b2ac67c3e46ea65ff7fdc42948f4ca83626e54e97dbaea0a27f786fb4"
+  },
+  "status": "ok",
+  "title": {
+    "text": "给孩子讲罗贯中全本的三国演义",
+    "truncated": false
+  },
+  "description": {
+    "text": "每天给孩子讲三国，以《三国演义》和《三国志》为蓝本。给孩子普及中国传统文化。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 120,
+  "episodes": [
+    {
+      "id": "22575a64691ae487c1d320e0042e5c6e5b3133510a877d27de30f89d6d696717",
+      "guid": "xmly_track_620309371",
+      "title": {
+        "text": "三国演义121 聚铁山断粮道",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Mar 2023 15:30:25 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "6fc9f553be42681b64990e5205f15703c8680e904dc7b998418179b6bcd24e0f",
+      "guid": "xmly_track_560087284",
+      "title": {
+        "text": "三国演义103 甘宁与凌统",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Aug 2022 14:52:51 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "609b1692010b7bcf09b2266724a7f1bebe75c89df1d70c0241299134dde114cd",
+      "guid": "xmly_track_550826748",
+      "title": {
+        "text": "三国演义86 曹操打败袁尚",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Jul 2022 14:35:04 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "9de5c889c07f83dc7d2d1a60a1eb6a1e4821d315eb02fe5ee22aa764efeaf153",
+      "guid": "xmly_track_529867411",
+      "title": {
+        "text": "三国演义69 斩颜良",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 08 May 2022 15:12:12 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "34974accd0459cc544e3f00e30a9186c14963bf3a9089ef78472105c934f5ab7",
+      "guid": "xmly_track_522149354",
+      "title": {
+        "text": "三国演义52 曹操与袁绍的十胜十败论",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Apr 2022 15:51:55 GMT",
+      "feed_index": 68
+    },
+    {
+      "id": "2ec710086bfaa228693c5f80cc04ea8574d49ccda1aeff996434f69faeae45c1",
+      "guid": "xmly_track_511948568",
+      "title": {
+        "text": "三国演义35 曹操定陶败吕布",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 17 Mar 2022 14:30:53 GMT",
+      "feed_index": 85
+    },
+    {
+      "id": "0fd9897e81a9b14619b50489186ed25c696e986c5aa2cadc9157491bd4cb78e4",
+      "guid": "xmly_track_502367181",
+      "title": {
+        "text": "三国演义18 大闹凤仪亭",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Feb 2022 15:33:26 GMT",
+      "feed_index": 102
+    },
+    {
+      "id": "2e076253db6b3c8d51cd7d6ea369129bb0035c998505bbe0dbafc6ff9c4ba7c7",
+      "guid": "xmly_track_497539809",
+      "title": {
+        "text": "三国演义1 桃园三结义",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 29 Jan 2022 12:04:49 GMT",
+      "feed_index": 119
+    }
+  ]
+}

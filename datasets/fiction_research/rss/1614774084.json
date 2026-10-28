@@ -1,0 +1,140 @@
+{
+  "show_id": "1614774084",
+  "feed_url": "http://www.ximalaya.com/album/58525853.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/58525853.xml",
+    "final_url": "http://www.ximalaya.com/album/58525853.xml",
+    "fetched_at": "2026-10-25T14:56:09.454877+00:00",
+    "status": 200,
+    "sha256": "a86b35e0351b91b88fc10080672ce8bfc40324533c442113345ebded0c5235e5"
+  },
+  "status": "ok",
+  "title": {
+    "text": "人类图西游记",
+    "truncated": false
+  },
+  "description": {
+    "text": "情绪好,命才好,人类图西游记公众号可出图",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 30,
+  "episodes": [
+    {
+      "id": "43565c2fe887dad3abf68e579f7ee99d0a562f995f0e8e149925f52e455c416c",
+      "guid": "xmly_track_666233628",
+      "title": {
+        "text": "与爱上真正的自己陈丽勋聊恒星黄道人类图,梦图",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Sep 2023 02:16:22 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "308d095bf1c620518a7f93eb16c5da1efaabe5ee3c67d90115f4c9242be4550f",
+      "guid": "xmly_track_605964957",
+      "title": {
+        "text": "琼瑶不听父母的不考大学去写作就是最大的孝顺(占星人类图)",
+        "truncated": false
+      },
+      "description": {
+        "text": "琼瑶不听父母的不考大学去写作就是最大的孝顺 如果听了父母的考大学,最后自己死气沉沉,不发光发热 父母只能后悔!而且琼瑶的头脑也不在学习的宫位上 琼瑶非常热爱写作,到了14岁这年，又不断有作品发表在报章杂志上，成为家里唯一有稿费收入的孩子。 16岁时在《晨光杂志》发表小说《云影》，高中阶段在各报刊杂志发表散文、小说200篇，成为台湾岛内有名的中学生作家。 这对琼瑶有很大的鼓励作用，那些稿费收入都去买文学书籍看了，同时也激励着她去创作更多作品。 在台湾读中学时，琼瑶只有国文学习比较好，其他科目一塌糊涂，而父母对她期望很高，希望她能考上大学，弟妹成绩总比她好，父母经常拿他们来比较，因此她的精神压力很大，无论她怎么努力，数学成绩一直提升不上去，她变得更加忧虑。 唯一能帮助她排遣孤独烦恼、自卑失意的，就只有写作。当她通过有生命力的文字写作时，就会忘记烦恼，变得快乐。 琼瑶18到19岁，参加过两次高考，结果都落榜了，当时对她打击很大，第一次落榜让她绝望到自杀，第二次也同样落榜。 20岁这年，母亲劝她继续考第三次大学，而她选择在家以写作为生。 除此以外，初期写好的那些作品，寄出去投稿，好多都音信全无，她也有点灰心丧气了，母亲见她写作一段时间，还没有什么成就，又苦口婆心劝她考大学，希望她放弃写作。 琼瑶当时是个很执著而又倔强的女孩，经历两次落榜后，她内心是害怕考大学的，她对考大学是没信心的，但是对",
+        "truncated": true
+      },
+      "published_at": "Sat, 21 Jan 2023 02:08:34 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "a9d8bcc0ea54be753ebe1082beca4de0689cf1f10610304b35b6f4d0de9ff6b0",
+      "guid": "xmly_track_595555560",
+      "title": {
+        "text": "16-9-63-64这个伟大的轮回交叉",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 10 Dec 2022 11:54:22 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "11d83f6747981c5149ce1ffcd5bdf5fce490949d6e21a2208d3e458ac0cba2e1",
+      "guid": "xmly_track_543089417",
+      "title": {
+        "text": "高维在低维的三种投影造就了3种人类图",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Jun 2022 06:23:25 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "cb34f7787cba78ecfebbfbca63750e745ed218c407e8eb34efaa3073f569e714",
+      "guid": "xmly_track_522224943",
+      "title": {
+        "text": "与喜舍CLUB OF JOY梁鲸默聊聊为什么人类图不建议你做中国式好人",
+        "truncated": false
+      },
+      "description": {
+        "text": "为什么人类图不建议你做中国式好人 1 、萨提亚—四种类型。讨好型。“本质就是那种习惯围绕别人感觉而活的人，因为他们觉得自己的价值不够，别人的感受比自己的更为重要，在生活中总是尽力满足别人的要求，燃烧自己，照亮别人。”这样的人，从关系里得到什么好处或报酬呢？名声，赞美，所有人都说他们好。这样的人全世界都有，但是咱们的文化背景，集体主义教育，加上人口基数又大，所以显得这样的人很多。我们父母那辈基本上人格基本上都有这部分。我们可以理解为有中国特色的讨好型人格。 2 、几个特点： 1 、非常爱面子—想要取悦所有人。 2 、对外人特别好，把不好的一面留给家里人。面具型人格。 3 、善于隐忍，不敢说不。更不敢维权。 4 、责任感很强，道德感很强。 5 、被动攻击— a 和非 a 。 6 、缺乏魅力。这样的男人很多，某种意义上也是一种精神的阉割。你会给他发好人卡，但你很难爱上他，对他欲罢不能。因为好人在某种程度上要压抑和否认性欲。 7 、招渣体质—本质上是他自己招来的。因为在关系中你选择扮演好人的角色，就得有人跟你唱对手。一个唱红脸，一个唱白脸。大多数人是不好不坏的人，根据环境来改变。人性就是得寸进尺的，既然可以从你这里索取 8 分，我努努力说不定能要 10 分。 3 、《被嫌弃的松子的一生》、《黑天鹅》。 松子的一生永远始于讨好，终于抛弃。父亲对妹妹的偏袒种下了信念，把全部力量用来取悦别人。她",
+        "truncated": true
+      },
+      "published_at": "Sat, 16 Apr 2022 02:01:35 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "0c9b5fe6bda4d0c445830168fe9c2bf656cb0c9bf79605937e4cfe400376e5ac",
+      "guid": "xmly_track_515724886",
+      "title": {
+        "text": "爱如潮水张信哲不要对他说人类图和占星",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 28 Mar 2022 13:43:57 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "831d040af71e1f3bca7d204704d3e8759cb8bc79c18d6cb8191a3e9f168d0db1",
+      "guid": "xmly_track_512698241",
+      "title": {
+        "text": "从5/1显示者普京的人类图聊到了东方哲学崛起",
+        "truncated": false
+      },
+      "description": {
+        "text": "更多资料请关注人类图西游记公众号同名文章",
+        "truncated": false
+      },
+      "published_at": "Sun, 20 Mar 2022 01:10:53 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "475dd478c00bbf00e4137f97612567438bf72b25e039ad07ce2546693279b33e",
+      "guid": "xmly_track_510338481",
+      "title": {
+        "text": "1我们怎么接触人类图的",
+        "truncated": false
+      },
+      "description": {
+        "text": "后座的风景和投射者丢鱼饵",
+        "truncated": false
+      },
+      "published_at": "Sun, 13 Mar 2022 01:48:27 GMT",
+      "feed_index": 29
+    }
+  ]
+}

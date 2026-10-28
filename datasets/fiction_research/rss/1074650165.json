@@ -1,0 +1,140 @@
+{
+  "show_id": "1074650165",
+  "feed_url": "http://www.ximalaya.com/album/3418284.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/3418284.xml",
+    "final_url": "http://www.ximalaya.com/album/3418284.xml",
+    "fetched_at": "2026-10-25T14:47:04.140135+00:00",
+    "status": 200,
+    "sha256": "01597c26b69f615f9c9b8f54419ed0bcbeb326b4730a72f566d88aaa826b3d47"
+  },
+  "status": "ok",
+  "title": {
+    "text": "然哥讲故事丨谈古论今",
+    "truncated": false
+  },
+  "description": {
+    "text": "品读历史经典·讲述人物故事 故事里，有意思 时隔三年，播音泰斗 赵忠祥 倾情推荐： 帮你真正练好普通话的训练营来了！ 点击加入→ 《央广然哥：21天说好普通话训练营》 声音修炼、朗读朗诵、演讲口才、语言表达全套课程请关注 《央广然哥：教你说好普通话》 ...",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 122,
+  "episodes": [
+    {
+      "id": "13c2a3e0f3bbe18fc9398d62dabdb662893d15146d5348d0b2fdbd4d66bfa028",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/dd96-audiofreehighqps/60/B1/GKwRIRwFYqhIAErSggD2IYLZ-aacv2-48K.m4a",
+      "title": {
+        "text": "谁说中国古代没有科学？这些成就让人惊掉下巴",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 11 Nov 2021 09:41:09 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b7b19008b07736b7ec678f3ade87f9c9399c132b712494791c52339b0405ca80",
+      "guid": "https://aod.cos.tx.xmcdn.com/group7/M04/FC/7D/wKgDWlazKw_xVwYAAEGRumx4Nho573-aacv2-48K.m4a",
+      "title": {
+        "text": "【太白金星导致孙悟空大闹天宫？】然哥讲故事13期",
+        "truncated": false
+      },
+      "description": {
+        "text": "说新闻的然哥没事儿的时候给大家讲讲故事~",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 Feb 2016 01:00:01 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "7369fe17891b1f4ec29759e4a842c4c12e2bee074f69c4e56c603158bb2a13da",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M04/19/E5/wKgDYlbeqeuzBI3JAEp02DMt2nc781-aacv2-48K.m4a",
+      "title": {
+        "text": "【草根皇帝：后赵明帝石勒】然哥讲故事30期",
+        "truncated": false
+      },
+      "description": {
+        "text": "说新闻的然哥没事儿的时候给大家讲讲故事~",
+        "truncated": false
+      },
+      "published_at": "Fri, 11 Mar 2016 04:12:00 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "4e3f155cfe5ab4d26150e76e81f2e93d130624287992f0568d5987fc0abad9a8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group14/M01/3F/EF/wKgDY1cHSj6gli76AEWXeG5Kr4c662.m4a",
+      "title": {
+        "text": "【名将风采：屠人战神白起】然哥讲故事47期",
+        "truncated": false
+      },
+      "description": {
+        "text": "说新闻的然哥没事儿的时候给大家讲讲故事~",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Apr 2016 04:00:02 GMT",
+      "feed_index": 52
+    },
+    {
+      "id": "dfe40d315f4ddd095cbac2f15090e3c9e7b07195e4d719557307c71ae8557e62",
+      "guid": "https://aod.cos.tx.xmcdn.com/group16/M00/64/F4/wKgDalcx1lbiZo5lAFNnv1z3U5Y924-aacv2-48K.m4a",
+      "title": {
+        "text": "【唐宋大家：坎坷潇洒苏东坡】然哥讲故事64期",
+        "truncated": false
+      },
+      "description": {
+        "text": "说新闻的然哥没事儿的时候给大家讲讲故事~",
+        "truncated": false
+      },
+      "published_at": "Tue, 10 May 2016 12:39:02 GMT",
+      "feed_index": 69
+    },
+    {
+      "id": "e8938594f830c06e35a1060093969078cde888f67f3324f9425221943a809836",
+      "guid": "https://aod.cos.tx.xmcdn.com/group12/M0A/85/64/wKgDW1dRQaCTl6xHAFB1P_1w4qM315-aacv2-48K.m4a",
+      "title": {
+        "text": "【杨绛故事：他们仨】然哥讲故事81期",
+        "truncated": false
+      },
+      "description": {
+        "text": "说新闻的然哥没事儿的时候给大家讲讲故事~",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Jun 2016 08:37:24 GMT",
+      "feed_index": 86
+    },
+    {
+      "id": "8c543b4799e69a153306a12a942b4180366dae606527f16968d1c9f8c7532329",
+      "guid": "https://aod.cos.tx.xmcdn.com/group18/M04/48/81/wKgJJVeUNH3jiXp1AFPUAOV4-ig987-aacv2-48K.m4a",
+      "title": {
+        "text": "【电视剧中的历史：乾隆跟刘墉、纪晓岚关系如何？】然哥讲故事101期",
+        "truncated": false
+      },
+      "description": {
+        "text": "说新闻的然哥没事儿的时候给大家讲讲故事~",
+        "truncated": false
+      },
+      "published_at": "Sun, 24 Jul 2016 03:22:21 GMT",
+      "feed_index": 104
+    },
+    {
+      "id": "be7afa6cbdfb588fb9a3e68d767ad171b9eaf1637fdec30d13a23e310e55f6bb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group28/M08/BB/6A/wKgJXFkrj6SRmPKiAI-Blxf7uLc961-aacv2-48K.m4a",
+      "title": {
+        "text": "【中国人物系列】传奇少年柯洁《然哥讲故事》第二季018期",
+        "truncated": false
+      },
+      "description": {
+        "text": "说新闻的然哥没事儿的时候给大家讲讲故事~",
+        "truncated": false
+      },
+      "published_at": "Tue, 30 May 2017 03:02:00 GMT",
+      "feed_index": 121
+    }
+  ]
+}

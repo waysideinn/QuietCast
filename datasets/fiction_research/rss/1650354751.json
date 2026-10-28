@@ -1,0 +1,140 @@
+{
+  "show_id": "1650354751",
+  "feed_url": "https://www.ximalaya.com/album/71756104.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/71756104.xml",
+    "final_url": "https://www.ximalaya.com/album/71756104.xml",
+    "fetched_at": "2026-10-25T14:44:53.932766+00:00",
+    "status": 200,
+    "sha256": "127ba18e5c53fec9b5658560bd6c33573f1cad1728e438495ae4ac8e045d6a2b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【万族崛起·龙族崛起】高品质玄幻小说丨免费有声小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "深渊。 凝望着它的时候，所能感受到的一切，除了冰冷就是黑暗。 这里，似乎是连接着死亡最近之地，让无数生灵闻之色变。 隐约间，从深渊的深处，不时传出阵阵龙吟之声。 每当这个时候，万族便会回想到，万年前的那场大战…… 龙族！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "serial",
+    "explicit": "false"
+  },
+  "feed_item_count": 46,
+  "episodes": [
+    {
+      "id": "a47b91da247a012e2ae20a259c7ac6b965ea7a9ae90bcff32620f98405e734ae",
+      "guid": "xmly_track_577800836",
+      "title": {
+        "text": "万族崛起·龙族崛起-第一章 深渊中的啼哭-01节",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Oct 2022 16:00:07 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f413053e189031dae701cc3be75c8a0d346bca423e327460ea571cb46e62e94c",
+      "guid": "xmly_track_578106897",
+      "title": {
+        "text": "万族崛起·龙族崛起-第三章 爸爸再看我一眼-07节",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 18 Oct 2022 23:50:40 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "7eef375fcb0ee321620a1fd805516ee8fa97c8b2eef9e30251a11c6aaa24ea37",
+      "guid": "xmly_track_578690972",
+      "title": {
+        "text": "万族崛起·龙族崛起-第五章 反抗的序曲-14节",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 20 Oct 2022 23:47:40 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "ef2c169f5f4e9398b57106d45cfdf6fc89d791cc96b26ae64d14f79a85ef8235",
+      "guid": "xmly_track_579487444",
+      "title": {
+        "text": "万族崛起·龙族崛起-第七章 至宝龙珠-20节",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 24 Oct 2022 00:27:05 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "22b8b5b9ee1d6a44ee285d8eb0555984509ff2c29b89e5be9df57f6a376310fc",
+      "guid": "xmly_track_580509854",
+      "title": {
+        "text": "万族崛起·龙族崛起-第九章 抗争到底-27节",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 Oct 2022 00:25:41 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "56128720d3132957be6e79c6854e19065e00565e81cab380401067e033b11177",
+      "guid": "xmly_track_581350470",
+      "title": {
+        "text": "万族崛起·龙族崛起-第十一章 永不为奴-33节",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 29 Oct 2022 16:00:05 GMT",
+      "feed_index": 32
+    },
+    {
+      "id": "9f0138c8df94c8da68152f0e964cf3b357c8e79bb673a84759f92dab1dc808c5",
+      "guid": "xmly_track_582410339",
+      "title": {
+        "text": "万族崛起·龙族崛起-第十四章 反攻的号角-40节",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 02 Nov 2022 00:25:13 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "cde7e68199842613540af13f6d9425789ffbdaf3ca259b13009d853bd0ab95e6",
+      "guid": "xmly_track_583855616",
+      "title": {
+        "text": "万族崛起·龙族崛起-第十六章 万族：龙族崛起-46节（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 05 Nov 2022 00:15:10 GMT",
+      "feed_index": 45
+    }
+  ]
+}

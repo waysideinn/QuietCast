@@ -1,0 +1,140 @@
+{
+  "show_id": "1537355376",
+  "feed_url": "http://www.ximalaya.com/album/26564728.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/26564728.xml",
+    "final_url": "http://www.ximalaya.com/album/26564728.xml",
+    "fetched_at": "2026-10-25T14:42:15.416581+00:00",
+    "status": 200,
+    "sha256": "62ca64ebbe1ef2b53828f26c525b29418ef66c08378b3420294b5b4e3372811c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "鼻涕公主 | 千金的末世之旅",
+    "truncated": false
+  },
+  "description": {
+    "text": "【主播简介】 主播：鼻涕公主，菠萝卫士超人气王牌主播，声音温柔，演播方式多变，擅长言情类小说，在菠萝卫士已获得500万粉丝，代表作《少妻高高在上》、《圣尊的逆天毒妃》、《杀手小姐请饶命》。 【小说简介】 午夜十二点，过完生日的富家女从酒店出来，她那本是高贵的手却贱贱的扫了一个码，手机上便多出一款叫末世之旅的游戏，从此开始了她的续命旅程。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 30,
+  "episodes": [
+    {
+      "id": "fd83cf897ad8a3811de076cee337752321ac4315b4b26d32c4bf62cbc1f207f7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group64/M06/15/79/wKgMaV1fdyXy3dsiAFg11MOj208452.m4a",
+      "title": {
+        "text": "第三十章.可怕的轮回",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Aug 2019 05:18:37 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f3dc8457526103a128230da01805c223ebd2f41f6218d257dd08b80016d48820",
+      "guid": "https://aod.cos.tx.xmcdn.com/group64/M06/9F/DC/wKgMaV1WYc3yDBi5ALz4R-WzO_w075.mp3",
+      "title": {
+        "text": "第二十六章.免斯基礼物",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Aug 2019 02:16:00 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "466c57a961ae11e12569a1ffc8328701c88a69f1ae9147ba29cf263d97796cde",
+      "guid": "https://aod.cos.tx.xmcdn.com/group66/M07/9F/B9/wKgMdV1WYL-zk-3TALc_hdSr4a4817.mp3",
+      "title": {
+        "text": "第二十二章.绿魔怪有秘密",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 21 Aug 2019 02:12:00 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "7838f9474783d8f3e2a933a8733ac37893c21fcc13d2162a5289f75513c16790",
+      "guid": "https://aod.cos.tx.xmcdn.com/group65/M01/9F/42/wKgMal1WWzbgrT8sAJ_7xa6wEVQ427.mp3",
+      "title": {
+        "text": "第十八章.替狐狸精解围",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 20 Aug 2019 02:10:05 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "b750a4e702bb19ebf7d629d59b1671c8eeaf409a39f775a12d30fdc85858dea3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group66/M05/7B/7A/wKgMdV1TzV3hReWdAMmrhSQe4uQ903.mp3",
+      "title": {
+        "text": "第十三章.可塑性记忆",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 18 Aug 2019 02:12:00 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "74a3e7abcb7c569d5c4a4a9f76865ebab120984637cf68c68f1e43e9e38cf284",
+      "guid": "https://aod.cos.tx.xmcdn.com/group64/M05/7B/44/wKgMaV1Ty_uDMB4VAKrSA6B92KU521.mp3",
+      "title": {
+        "text": "第九章.独身来到玫瑰庄园",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Aug 2019 02:10:00 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "d0bca5ddab54887d8eef6418dca29971e4bb44a2b22ca7b70b7d48092206cba4",
+      "guid": "https://aod.cos.tx.xmcdn.com/group65/M03/7B/47/wKgMdF1Ty0mhdSXOAMFdRYXl_YE987.mp3",
+      "title": {
+        "text": "第五章.寻找深海不落潮",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 15 Aug 2019 02:16:00 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "683499e1e3d091424b9df4cf51776ae7bda0ede79240a005e9dc4abc16d9aa4d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group64/M06/67/68/wKgMc11SeMTzp0pmADv4uj8kE-c935.m4a",
+      "title": {
+        "text": "第一章.旅程正式开始",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 13 Aug 2019 08:46:37 GMT",
+      "feed_index": 29
+    }
+  ]
+}

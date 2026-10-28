@@ -1,0 +1,140 @@
+{
+  "show_id": "1658248493",
+  "feed_url": "https://www.ximalaya.com/album/73002894.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/73002894.xml",
+    "final_url": "https://www.ximalaya.com/album/73002894.xml",
+    "fetched_at": "2026-10-25T14:45:00.501372+00:00",
+    "status": 200,
+    "sha256": "e0d2f13e14a1b5e786b2763b74e1cd0c20a57867450b4f71ea34b218123323b9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【免费多播】胜利的青春 | 女总裁遇上男学霸",
+    "truncated": false
+  },
+  "description": {
+    "text": "霸道女总裁遇上学霸男总裁，会碰撞出什么火花呢？ 失意中的千轶娇在拉斯维加斯偶遇了学霸男总裁叶世祖，临阵落荒而逃后，没想到 兜兜转转， 命运的红线又将两人连在了一起…… 这一次，学霸叶世祖能顺利俘获霸道女总裁的心吗？",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "serial",
+    "explicit": "true"
+  },
+  "feed_item_count": 82,
+  "episodes": [
+    {
+      "id": "79025be0d8abb03fcca470685ef214806fa6d114a272ae633a2c5a25c9c9d58d",
+      "guid": "xmly_track_594106996",
+      "title": {
+        "text": "胜利的青春 - 01 - 萍水相逢",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Dec 2022 05:41:59 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "bb35eae8a3ea569e737ecea74635f0554223ea967cd9473afc7c5ba8d7bc7def",
+      "guid": "xmly_track_595288979",
+      "title": {
+        "text": "胜利的青春 - 13 - 醉酒",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Dec 2022 10:00:05 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "6d498991be3d7f2b9983661e3c9d4bd93ec900a4787f5937c6a7bac816857aef",
+      "guid": "xmly_track_596896897",
+      "title": {
+        "text": "胜利的青春 - 24 - 再遇奥兰",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 15 Dec 2022 10:00:09 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "8569b19280809945b0ad4ef774a23db0b32672c9ceaa51f57fa6d6f72b831a1e",
+      "guid": "xmly_track_600106376",
+      "title": {
+        "text": "胜利的青春 - 36 - 狭路相逢",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 28 Dec 2022 10:00:06 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "4bd85e417c0196564692c6866e13208d044bbff49cb963f143d56bea2ee242b5",
+      "guid": "xmly_track_602801068",
+      "title": {
+        "text": "胜利的青春 - 47 - 小别胜新婚",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 08 Jan 2023 10:00:06 GMT",
+      "feed_index": 46
+    },
+    {
+      "id": "278bc14db9eee2c8f4cc621bc68001c48abeb6c788f1168935a06b9d617317fa",
+      "guid": "xmly_track_605857923",
+      "title": {
+        "text": "胜利的青春 - 59 - 完成任务",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 20 Jan 2023 10:00:06 GMT",
+      "feed_index": 58
+    },
+    {
+      "id": "39d90fea51c24d99248e3c4fa5202f54ef2ebecbc70430110afefca441bbe7d8",
+      "guid": "xmly_track_607955165",
+      "title": {
+        "text": "胜利的青春 - 70 - 安心少奶奶",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 Jan 2023 10:00:06 GMT",
+      "feed_index": 69
+    },
+    {
+      "id": "a4f69c39bc926f470d9fa86d34287b72ca561544aaaeac03963c8a61ae8e3772",
+      "guid": "xmly_track_612747973",
+      "title": {
+        "text": "胜利的青春 - 82 - 白色婚礼【完结】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 21 Feb 2023 10:00:07 GMT",
+      "feed_index": 81
+    }
+  ]
+}

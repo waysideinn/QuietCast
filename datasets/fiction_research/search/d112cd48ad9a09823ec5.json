@@ -1,0 +1,879 @@
+{
+  "group": "fiction",
+  "term": "有声书",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E4%B9%A6&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E4%B9%A6&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:42:04.634633+00:00",
+    "status": 200,
+    "sha256": "5c167bbc6600c60157bd9df2805d75126b7cd53b817581a5a6d54e1bbdb59b43"
+  },
+  "result_count": 37,
+  "records": [
+    {
+      "collectionId": 1694837275,
+      "trackId": 1694837275,
+      "collectionName": "168名士兵战胜8万大军的奇迹《枪炮、病菌与钢铁》",
+      "artistName": "给小白白的有声书",
+      "feedUrl": "https://www.ximalaya.com/album/68088742.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/168%E5%90%8D%E5%A3%AB%E5%85%B5%E6%88%98%E8%83%9C8%E4%B8%87%E5%A4%A7%E5%86%9B%E7%9A%84%E5%A5%87%E8%BF%B9-%E6%9E%AA%E7%82%AE-%E7%97%85%E8%8F%8C%E4%B8%8E%E9%92%A2%E9%93%81/id1694837275?uo=4",
+      "genres": [
+        "历史",
+        "播客"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 69,
+      "releaseDate": "2022-08-25T03:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1598572339,
+      "trackId": 1598572339,
+      "collectionName": "有声书｜中外短篇小说精选",
+      "artistName": "梦想飞翔mx",
+      "feedUrl": "http://www.ximalaya.com/album/39643321.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9C%89%E5%A3%B0%E4%B9%A6-%E4%B8%AD%E5%A4%96%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AF%B4%E7%B2%BE%E9%80%89/id1598572339?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 32,
+      "releaseDate": "2022-11-02T09:38:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1616121116,
+      "trackId": 1616121116,
+      "collectionName": "有声书专辑",
+      "artistName": "阅动圈",
+      "feedUrl": "http://www.ximalaya.com/album/60407345.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9C%89%E5%A3%B0%E4%B9%A6%E4%B8%93%E8%BE%91/id1616121116?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 21,
+      "releaseDate": "2022-05-17T09:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1652233564,
+      "trackId": 1652233564,
+      "collectionName": "中英双语滚动字幕有声书",
+      "artistName": "高音质传播",
+      "feedUrl": "https://www.ximalaya.com/album/71715192.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%AD%E8%8B%B1%E5%8F%8C%E8%AF%AD%E6%BB%9A%E5%8A%A8%E5%AD%97%E5%B9%95%E6%9C%89%E5%A3%B0%E4%B9%A6/id1652233564?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2023-03-15T07:43:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1769041196,
+      "trackId": 1769041196,
+      "collectionName": "吕著《中国通史》｜原文白话文有声书｜聆听历史长河",
+      "artistName": "话屿乐央995",
+      "feedUrl": "https://www.ximalaya.com/album/83619287.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%90%95%E8%91%97-%E4%B8%AD%E5%9B%BD%E9%80%9A%E5%8F%B2-%E5%8E%9F%E6%96%87%E7%99%BD%E8%AF%9D%E6%96%87%E6%9C%89%E5%A3%B0%E4%B9%A6-%E8%81%86%E5%90%AC%E5%8E%86%E5%8F%B2%E9%95%BF%E6%B2%B3/id1769041196?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "社会与文化",
+        "哲学"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 56,
+      "releaseDate": "2024-09-19T15:48:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1694843934,
+      "trackId": 1694843934,
+      "collectionName": "科学巨著《时间简史》（霍金）",
+      "artistName": "给小白白的有声书",
+      "feedUrl": "https://www.ximalaya.com/album/56136924.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A7%91%E5%AD%A6%E5%B7%A8%E8%91%97-%E6%97%B6%E9%97%B4%E7%AE%80%E5%8F%B2-%E9%9C%8D%E9%87%91/id1694843934?uo=4",
+      "genres": [
+        "自然科学",
+        "播客",
+        "科学"
+      ],
+      "genreIds": [
+        "1534",
+        "26",
+        "1533"
+      ],
+      "trackCount": 23,
+      "releaseDate": "2022-01-31T02:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "自然科学"
+    },
+    {
+      "collectionId": 1713901541,
+      "trackId": 1713901541,
+      "collectionName": "红楼梦 原著 全文 有声书 男中音YZ",
+      "artistName": "炉火焰山",
+      "feedUrl": "https://www.ximalaya.com/album/78660042.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E5%8E%9F%E8%91%97-%E5%85%A8%E6%96%87-%E6%9C%89%E5%A3%B0%E4%B9%A6-%E7%94%B7%E4%B8%AD%E9%9F%B3yz/id1713901541?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 120,
+      "releaseDate": "2024-09-22T04:49:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1554648866,
+      "trackId": 1554648866,
+      "collectionName": "寻秦记/黄易/2021年国语/玄幻穿越有声书",
+      "artistName": "黄易作品（大山播讲）",
+      "feedUrl": "http://www.ximalaya.com/album/30743908.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%AF%BB%E7%A7%A6%E8%AE%B0-%E9%BB%84%E6%98%93-2021%E5%B9%B4%E5%9B%BD%E8%AF%AD-%E7%8E%84%E5%B9%BB%E7%A9%BF%E8%B6%8A%E6%9C%89%E5%A3%B0%E4%B9%A6/id1554648866?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 296,
+      "releaseDate": "2022-03-07T06:57:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1896327902,
+      "trackId": 1896327902,
+      "collectionName": "东北诡事：我有一双阴阳眼｜悬疑灵异｜精品有声书",
+      "artistName": "微芒聚声",
+      "feedUrl": "https://www.ximalaya.com/album/113753641.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%9C%E5%8C%97%E8%AF%A1%E4%BA%8B-%E6%88%91%E6%9C%89%E4%B8%80%E5%8F%8C%E9%98%B4%E9%98%B3%E7%9C%BC-%E6%82%AC%E7%96%91%E7%81%B5%E5%BC%82-%E7%B2%BE%E5%93%81%E6%9C%89%E5%A3%B0%E4%B9%A6/id1896327902?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 153,
+      "releaseDate": "2026-02-16T08:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1669436063,
+      "trackId": 1669436063,
+      "collectionName": "【阅听小筑有声书】了凡四训白话篇",
+      "artistName": "阅听小筑",
+      "feedUrl": "https://www.ximalaya.com/album/74120488.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%98%85%E5%90%AC%E5%B0%8F%E7%AD%91%E6%9C%89%E5%A3%B0%E4%B9%A6-%E4%BA%86%E5%87%A1%E5%9B%9B%E8%AE%AD%E7%99%BD%E8%AF%9D%E7%AF%87/id1669436063?uo=4",
+      "genres": [
+        "自我完善",
+        "播客",
+        "教育",
+        "宗教与心灵",
+        "佛教"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1314",
+        "1438"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2023-02-02T13:29:00Z",
+      "country": "CHN",
+      "primaryGenreName": "自我完善"
+    },
+    {
+      "collectionId": 1609008971,
+      "trackId": 1609008971,
+      "collectionName": "中英对照有声书《相约星期二》",
+      "artistName": "Vera_the wild reader",
+      "feedUrl": "http://www.ximalaya.com/album/41869882.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%AD%E8%8B%B1%E5%AF%B9%E7%85%A7%E6%9C%89%E5%A3%B0%E4%B9%A6-%E7%9B%B8%E7%BA%A6%E6%98%9F%E6%9C%9F%E4%BA%8C/id1609008971?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "trackCount": 39,
+      "releaseDate": "2024-07-22T15:25:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1769519482,
+      "trackId": 1769519482,
+      "collectionName": "凡尔赛宫：路易十四的权力景观与法兰西历史记忆",
+      "artistName": "给小白白的有声书",
+      "feedUrl": "https://www.ximalaya.com/album/83222506.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%87%A1%E5%B0%94%E8%B5%9B%E5%AE%AB-%E8%B7%AF%E6%98%93%E5%8D%81%E5%9B%9B%E7%9A%84%E6%9D%83%E5%8A%9B%E6%99%AF%E8%A7%82%E4%B8%8E%E6%B3%95%E5%85%B0%E8%A5%BF%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BF%86/id1769519482?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "社会与文化",
+        "旅行与地方文化"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324",
+        "1320"
+      ],
+      "trackCount": 17,
+      "releaseDate": "2024-09-02T01:52:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1505487967,
+      "trackId": 1505487967,
+      "collectionName": "有声书｜秘密花园 (治愈系经典）",
+      "artistName": "梦想飞翔mx",
+      "feedUrl": "http://www.ximalaya.com/album/34017057.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9C%89%E5%A3%B0%E4%B9%A6-%E7%A7%98%E5%AF%86%E8%8A%B1%E5%9B%AD-%E6%B2%BB%E6%84%88%E7%B3%BB%E7%BB%8F%E5%85%B8/id1505487967?uo=4",
+      "genres": [
+        "艺术",
+        "播客",
+        "儿童与家庭"
+      ],
+      "genreIds": [
+        "1301",
+        "26",
+        "1305"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2021-09-22T13:55:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 1791243921,
+      "trackId": 1791243921,
+      "collectionName": "有声书演播100天",
+      "artistName": "陈阿腿",
+      "feedUrl": "https://www.ximalaya.com/album/85275153.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9C%89%E5%A3%B0%E4%B9%A6%E6%BC%94%E6%92%AD100%E5%A4%A9/id1791243921?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "社会与文化",
+        "个人日记"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 68,
+      "releaseDate": "2025-03-18T16:46:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1777644913,
+      "trackId": 1777644913,
+      "collectionName": "【免费】【有声书】精品多播｜穿越修仙|系统爽文",
+      "artistName": "深海鲲鲸",
+      "feedUrl": "https://www.ximalaya.com/album/83145318.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E6%9C%89%E5%A3%B0%E4%B9%A6-%E7%B2%BE%E5%93%81%E5%A4%9A%E6%92%AD-%E7%A9%BF%E8%B6%8A%E4%BF%AE%E4%BB%99-%E7%B3%BB%E7%BB%9F%E7%88%BD%E6%96%87/id1777644913?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 1125,
+      "releaseDate": "2025-08-14T22:31:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1778958629,
+      "trackId": 1778958629,
+      "collectionName": "简爱|世界名著|多播|多人有声书",
+      "artistName": "冷静之声",
+      "feedUrl": "https://www.ximalaya.com/album/84405485.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%AE%80%E7%88%B1-%E4%B8%96%E7%95%8C%E5%90%8D%E8%91%97-%E5%A4%9A%E6%92%AD-%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E4%B9%A6/id1778958629?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 206,
+      "releaseDate": "2024-11-10T07:04:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1598574757,
+      "trackId": 1598574757,
+      "collectionName": "有声书｜骆驼祥子 (老舍)",
+      "artistName": "梦想飞翔mx",
+      "feedUrl": "http://www.ximalaya.com/album/18622568.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9C%89%E5%A3%B0%E4%B9%A6-%E9%AA%86%E9%A9%BC%E7%A5%A5%E5%AD%90-%E8%80%81%E8%88%8D/id1598574757?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2019-02-28T03:29:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1777645185,
+      "trackId": 1777645185,
+      "collectionName": "【免费】【有声书】精品多播｜重生逆袭|重生90",
+      "artistName": "深海鲲鲸",
+      "feedUrl": "https://www.ximalaya.com/album/83145214.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E6%9C%89%E5%A3%B0%E4%B9%A6-%E7%B2%BE%E5%93%81%E5%A4%9A%E6%92%AD-%E9%87%8D%E7%94%9F%E9%80%86%E8%A2%AD-%E9%87%8D%E7%94%9F90/id1777645185?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 440,
+      "releaseDate": "2024-10-31T04:38:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1505487860,
+      "trackId": 1505487860,
+      "collectionName": "有声书｜牛 虻（世界名著）",
+      "artistName": "梦想飞翔mx",
+      "feedUrl": "http://www.ximalaya.com/album/26554644.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9C%89%E5%A3%B0%E4%B9%A6-%E7%89%9B-%E8%99%BB-%E4%B8%96%E7%95%8C%E5%90%8D%E8%91%97/id1505487860?uo=4",
+      "genres": [
+        "艺术",
+        "播客",
+        "休闲"
+      ],
+      "genreIds": [
+        "1301",
+        "26",
+        "1502"
+      ],
+      "trackCount": 17,
+      "releaseDate": "2020-02-04T14:23:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 1338197227,
+      "trackId": 1338197227,
+      "collectionName": "小王子英语有声书字幕插画版",
+      "artistName": "WeLearner",
+      "feedUrl": "http://www.ximalaya.com/album/12419420.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B0%8F%E7%8E%8B%E5%AD%90%E8%8B%B1%E8%AF%AD%E6%9C%89%E5%A3%B0%E4%B9%A6%E5%AD%97%E5%B9%95%E6%8F%92%E7%94%BB%E7%89%88/id1338197227?uo=4",
+      "genres": [
+        "语言学习",
+        "播客",
+        "教育",
+        "音乐"
+      ],
+      "genreIds": [
+        "1498",
+        "26",
+        "1304",
+        "1310"
+      ],
+      "trackCount": 27,
+      "releaseDate": "2018-01-07T15:11:00Z",
+      "country": "CHN",
+      "primaryGenreName": "语言学习"
+    },
+    {
+      "collectionId": 1831459050,
+      "trackId": 1831459050,
+      "collectionName": "风水寻龙|免费|单播有声书|惊悚恐怖&风水运势|民间灵异故事",
+      "artistName": "老云清",
+      "feedUrl": "https://www.ximalaya.com/album/98726230.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%A3%8E%E6%B0%B4%E5%AF%BB%E9%BE%99-%E5%85%8D%E8%B4%B9-%E5%8D%95%E6%92%AD%E6%9C%89%E5%A3%B0%E4%B9%A6-%E6%83%8A%E6%82%9A%E6%81%90%E6%80%96-%E9%A3%8E%E6%B0%B4%E8%BF%90%E5%8A%BF-%E6%B0%91%E9%97%B4%E7%81%B5%E5%BC%82%E6%95%85%E4%BA%8B/id1831459050?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 84,
+      "releaseDate": "2025-12-28T16:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1713902748,
+      "trackId": 1713902748,
+      "collectionName": "水浒传 原著 全文 有声书 男中音YZ",
+      "artistName": "炉火焰山",
+      "feedUrl": "https://www.ximalaya.com/album/78661218.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%B0%B4%E6%B5%92%E4%BC%A0-%E5%8E%9F%E8%91%97-%E5%85%A8%E6%96%87-%E6%9C%89%E5%A3%B0%E4%B9%A6-%E7%94%B7%E4%B8%AD%E9%9F%B3yz/id1713902748?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 100,
+      "releaseDate": "2024-04-16T13:50:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1772841341,
+      "trackId": 1772841341,
+      "collectionName": "（完结）嘉庆十八年：清朝的滑落",
+      "artistName": "给小白白的有声书",
+      "feedUrl": "https://www.ximalaya.com/album/83700322.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%AE%8C%E7%BB%93-%E5%98%89%E5%BA%86%E5%8D%81%E5%85%AB%E5%B9%B4-%E6%B8%85%E6%9C%9D%E7%9A%84%E6%BB%91%E8%90%BD/id1772841341?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "政府"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1511"
+      ],
+      "trackCount": 43,
+      "releaseDate": "2024-11-11T03:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1694843468,
+      "trackId": 1694843468,
+      "collectionName": "科学巨著《大设计》（霍金）",
+      "artistName": "给小白白的有声书",
+      "feedUrl": "https://www.ximalaya.com/album/56720923.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A7%91%E5%AD%A6%E5%B7%A8%E8%91%97-%E5%A4%A7%E8%AE%BE%E8%AE%A1-%E9%9C%8D%E9%87%91/id1694843468?uo=4",
+      "genres": [
+        "自然科学",
+        "播客",
+        "科学"
+      ],
+      "genreIds": [
+        "1534",
+        "26",
+        "1533"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2022-02-16T09:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "自然科学"
+    },
+    {
+      "collectionId": 1611335573,
+      "trackId": 1611335573,
+      "collectionName": "剑啸江湖丨逍遥剑客&江湖争霸丨免费有声书",
+      "artistName": "染红尘_",
+      "feedUrl": "http://www.ximalaya.com/album/52664011.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%89%91%E5%95%B8%E6%B1%9F%E6%B9%96%E4%B8%A8%E9%80%8D%E9%81%A5%E5%89%91%E5%AE%A2-%E6%B1%9F%E6%B9%96%E4%BA%89%E9%9C%B8%E4%B8%A8%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E4%B9%A6/id1611335573?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 230,
+      "releaseDate": "2022-04-22T08:26:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1777645182,
+      "trackId": 1777645182,
+      "collectionName": "【免费】【有声书】双播|都市爽文|打脸|杀穿世界",
+      "artistName": "深海鲲鲸",
+      "feedUrl": "https://www.ximalaya.com/album/83906121.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E6%9C%89%E5%A3%B0%E4%B9%A6-%E5%8F%8C%E6%92%AD-%E9%83%BD%E5%B8%82%E7%88%BD%E6%96%87-%E6%89%93%E8%84%B8-%E6%9D%80%E7%A9%BF%E4%B8%96%E7%95%8C/id1777645182?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 662,
+      "releaseDate": "2025-01-18T22:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1694270738,
+      "trackId": 1694270738,
+      "collectionName": "对立之美|聊着聊着就听完了500年西方艺术史",
+      "artistName": "给小白白的有声书",
+      "feedUrl": "https://www.ximalaya.com/album/75613596.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%AF%B9%E7%AB%8B%E4%B9%8B%E7%BE%8E-%E8%81%8A%E7%9D%80%E8%81%8A%E7%9D%80%E5%B0%B1%E5%90%AC%E5%AE%8C%E4%BA%86500%E5%B9%B4%E8%A5%BF%E6%96%B9%E8%89%BA%E6%9C%AF%E5%8F%B2/id1694270738?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "艺术",
+        "视觉艺术"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1301",
+        "1406"
+      ],
+      "trackCount": 70,
+      "releaseDate": "2023-07-02T03:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1713902969,
+      "trackId": 1713902969,
+      "collectionName": "黄帝内经 素问 灵枢 原著 有声书 男中音 YZ",
+      "artistName": "炉火焰山",
+      "feedUrl": "https://www.ximalaya.com/album/78845180.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%BB%84%E5%B8%9D%E5%86%85%E7%BB%8F-%E7%B4%A0%E9%97%AE-%E7%81%B5%E6%9E%A2-%E5%8E%9F%E8%91%97-%E6%9C%89%E5%A3%B0%E4%B9%A6-%E7%94%B7%E4%B8%AD%E9%9F%B3-yz/id1713902969?uo=4",
+      "genres": [
+        "生命科学",
+        "播客",
+        "科学",
+        "健康与健身",
+        "医学"
+      ],
+      "genreIds": [
+        "1541",
+        "26",
+        "1533",
+        "1512",
+        "1518"
+      ],
+      "trackCount": 36,
+      "releaseDate": "2024-02-02T07:18:00Z",
+      "country": "CHN",
+      "primaryGenreName": "生命科学"
+    },
+    {
+      "collectionId": 1705816775,
+      "trackId": 1705816775,
+      "collectionName": "《奥本海默》：电影里没拍的都在这本原著里",
+      "artistName": "给小白白的有声书",
+      "feedUrl": "https://www.ximalaya.com/album/77893780.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98-%E7%94%B5%E5%BD%B1%E9%87%8C%E6%B2%A1%E6%8B%8D%E7%9A%84%E9%83%BD%E5%9C%A8%E8%BF%99%E6%9C%AC%E5%8E%9F%E8%91%97%E9%87%8C/id1705816775?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "科技"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1318"
+      ],
+      "trackCount": 73,
+      "releaseDate": "2023-11-14T14:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1539356202,
+      "trackId": 1539356202,
+      "collectionName": "说书人|小说故事有声书",
+      "artistName": "伯乐灯",
+      "feedUrl": "http://www.ximalaya.com/album/33605316.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%AF%B4%E4%B9%A6%E4%BA%BA-%E5%B0%8F%E8%AF%B4%E6%95%85%E4%BA%8B%E6%9C%89%E5%A3%B0%E4%B9%A6/id1539356202?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 23,
+      "releaseDate": "2020-09-07T14:25:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1505487695,
+      "trackId": 1505487695,
+      "collectionName": "有声书｜三十九级台阶（英国经典惊险悬疑推理小说）",
+      "artistName": "梦想飞翔mx",
+      "feedUrl": "http://www.ximalaya.com/album/24621004.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9C%89%E5%A3%B0%E4%B9%A6-%E4%B8%89%E5%8D%81%E4%B9%9D%E7%BA%A7%E5%8F%B0%E9%98%B6-%E8%8B%B1%E5%9B%BD%E7%BB%8F%E5%85%B8%E6%83%8A%E9%99%A9%E6%82%AC%E7%96%91%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AF%B4/id1505487695?uo=4",
+      "genres": [
+        "艺术",
+        "播客",
+        "休闲"
+      ],
+      "genreIds": [
+        "1301",
+        "26",
+        "1502"
+      ],
+      "trackCount": 20,
+      "releaseDate": "2019-07-05T14:31:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    },
+    {
+      "collectionId": 1713902335,
+      "trackId": 1713902335,
+      "collectionName": "西游记 原文 原著 全文 男中音 有声书 YZ",
+      "artistName": "炉火焰山",
+      "feedUrl": "https://www.ximalaya.com/album/78633443.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E5%8E%9F%E6%96%87-%E5%8E%9F%E8%91%97-%E5%85%A8%E6%96%87-%E7%94%B7%E4%B8%AD%E9%9F%B3-%E6%9C%89%E5%A3%B0%E4%B9%A6-yz/id1713902335?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 100,
+      "releaseDate": "2024-03-12T07:51:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1638879880,
+      "trackId": 1638879880,
+      "collectionName": "《神墓》-免费有声书",
+      "artistName": "自由声艺",
+      "feedUrl": "https://www.ximalaya.com/album/64095146.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A5%9E%E5%A2%93-%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E4%B9%A6/id1638879880?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 132,
+      "releaseDate": "2024-06-10T11:10:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1673771480,
+      "trackId": 1673771480,
+      "collectionName": "【阅听小筑有声书】七真传 (七真史传、七真因果传)",
+      "artistName": "阅听小筑",
+      "feedUrl": "https://www.ximalaya.com/album/74144897.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%98%85%E5%90%AC%E5%B0%8F%E7%AD%91%E6%9C%89%E5%A3%B0%E4%B9%A6-%E4%B8%83%E7%9C%9F%E4%BC%A0-%E4%B8%83%E7%9C%9F%E5%8F%B2%E4%BC%A0-%E4%B8%83%E7%9C%9F%E5%9B%A0%E6%9E%9C%E4%BC%A0/id1673771480?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2023-03-04T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1775114701,
+      "trackId": 1775114701,
+      "collectionName": "《黑神话：悟空》|超对味儿朗读|影神图有声书",
+      "artistName": "牧子澄_半铖品声优",
+      "feedUrl": "https://www.ximalaya.com/album/83298190.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%BB%91%E7%A5%9E%E8%AF%9D-%E6%82%9F%E7%A9%BA-%E8%B6%85%E5%AF%B9%E5%91%B3%E5%84%BF%E6%9C%97%E8%AF%BB-%E5%BD%B1%E7%A5%9E%E5%9B%BE%E6%9C%89%E5%A3%B0%E4%B9%A6/id1775114701?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "宗教与心灵",
+        "佛教"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1314",
+        "1438"
+      ],
+      "trackCount": 181,
+      "releaseDate": "2024-11-11T10:14:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1755899793,
+      "trackId": 1755899793,
+      "collectionName": "免费有声书|女频|二月天堂|爱救赎和治愈悲伤和遗憾",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82475896.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E4%B9%A6-%E5%A5%B3%E9%A2%91-%E4%BA%8C%E6%9C%88%E5%A4%A9%E5%A0%82-%E7%88%B1%E6%95%91%E8%B5%8E%E5%92%8C%E6%B2%BB%E6%84%88%E6%82%B2%E4%BC%A4%E5%92%8C%E9%81%97%E6%86%BE/id1755899793?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "社会与文化",
+        "情感与人际关系"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 39,
+      "releaseDate": "2024-07-04T08:55:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1604515992,
+      "trackId": 1604515992,
+      "collectionName": "颜色的故事",
+      "artistName": "给小白白的有声书",
+      "feedUrl": "http://www.ximalaya.com/album/55894131.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%A2%9C%E8%89%B2%E7%9A%84%E6%95%85%E4%BA%8B/id1604515992?uo=4",
+      "genres": [
+        "自然科学",
+        "播客",
+        "科学",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1534",
+        "26",
+        "1533",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2022-01-08T02:04:00Z",
+      "country": "CHN",
+      "primaryGenreName": "自然科学"
+    }
+  ]
+}

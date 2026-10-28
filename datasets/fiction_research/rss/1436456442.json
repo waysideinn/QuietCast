@@ -1,0 +1,140 @@
+{
+  "show_id": "1436456442",
+  "feed_url": "http://www.ximalaya.com/album/7602560.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/7602560.xml",
+    "final_url": "http://www.ximalaya.com/album/7602560.xml",
+    "fetched_at": "2026-10-25T14:48:53.321044+00:00",
+    "status": 200,
+    "sha256": "1ea9a90cdbf52c7470e3f7f865129b2fc7d07c636e906498ab8a6f0c9a1d872a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "All浮云-讲《红楼梦》故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "《红楼梦》 是中国古典四大名著之一，作者曹雪芹积10年心血精心撰著，现仅存80回，后40回由后人续作。全书以贾府为中心描写上自朝廷、官场、下到市井、乡里的人情世故和风尚习俗，可谓是中国封建社会后期社会生活的“百科全书”。All浮云讲的《红楼梦》故事是经过浓缩提炼，既保留了原著的风格，又从适合少年儿童阅读的角度来展开故事的，希望小朋友大朋友们会喜欢。 视频收看： 优酷大鱼号 - 浮云朗读： http://i.youku.com/i/UMTQyNTA0ODc1Ng==?spm=a2hww.11359951.uerCenter.5!6~5!2~A YouTube - 浮云朗读 Fuyun Story Time ： https://www.youtube.com/channel/UC_ESkbEcBQ4Fn5qTU-3PQsQ?view_as=subscriber 扫描或长按二维码欢迎关注微信公众号：浮云朗读， 我在那里等你！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 40,
+  "episodes": [
+    {
+      "id": "8b5435f35f1c42062702724ddbcf5e47fc4d7bcb69a8d2a41e810a19ed333db1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group26/M02/79/96/wKgJRljr99SjWBQZACjWEyzYvQk012.m4a",
+      "title": {
+        "text": "《红楼梦》故事序－播讲：All浮云－2017年4月10日",
+        "truncated": false
+      },
+      "description": {
+        "text": "《红楼梦》 是中国古典四大名著之一，作者曹雪芹积10年心血精心撰著，现仅存80回，后40回由后人续作。全书以贾府为中心描写上自朝廷、官场、下到市井、乡里的人情 世故 和风尚习俗，可谓是中国封建社会后期社会生活的“百科全书”。All浮云讲的《红楼梦》故事是经过浓缩提炼，既保留了原著的风格，又从适合少年儿童阅读的角度来展开故事的，希望小朋友大朋友们会喜欢。 扫描或长按二维码欢迎关注微信公众号：浮云朗读，我在那里等你 ！",
+        "truncated": false
+      },
+      "published_at": "Mon, 10 Apr 2017 21:24:29 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ec63d9bc389b0c42f335b98515d5ba86292682d5df14c97064d8c6836bb0cc38",
+      "guid": "https://aod.cos.tx.xmcdn.com/group36/M0B/06/E6/wKgJUlo8igGw8u8eADS3NPpcEW0644.m4a",
+      "title": {
+        "text": "《红楼梦》第5回黛玉含酸－播讲：All浮云－2017年12月21日",
+        "truncated": false
+      },
+      "description": {
+        "text": "《红楼梦》 是中国古典四大名著之一，作者曹雪芹积10年心血精心撰著，现仅存80回，后40回由后人续作。全书以贾府为中心描写上自朝廷、官场、下到市井、乡里的人情 世故 和风尚习俗，可谓是中国封建社会后期社会生活的“百科全书”。All浮云讲的《红楼梦》故事是经过浓缩提炼，既保留了原著的风格，又从适合少年儿童阅读的角度来展开故事的，希望小朋友大朋友们会喜欢。 扫描或长按二维码欢迎关注微信公众号：浮云朗读，我在那里等你 ！",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Dec 2017 04:29:00 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "8d50cf65b2e552b9f66065e9d2fe7acd2cf31b752ff2db6150ee77375af4462c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group39/M02/82/20/wKgJnlpxPhfhgFyUAGIZdGf6hA8288.m4a",
+      "title": {
+        "text": "《红楼梦》第9回宝玉悟禅－播讲：All浮云－2018年1月30日",
+        "truncated": false
+      },
+      "description": {
+        "text": "《红楼梦》 是中国古典四大名著之一，作者曹雪芹积10年心血精心撰著，现仅存80回，后40回由后人续作。全书以贾府为中心描写上自朝廷、官场、下到市井、乡里的人情 世故 和风尚习俗，可谓是中国封建社会后期社会生活的“百科全书”。All浮云讲的《红楼梦》故事是经过浓缩提炼，既保留了原著的风格，又从适合少年儿童阅读的角度来展开故事的，希望小朋友大朋友们会喜欢。 扫描或长按二维码欢迎关注微信公众号：浮云朗读，我在那里等你 ！",
+        "truncated": false
+      },
+      "published_at": "Wed, 31 Jan 2018 03:54:56 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "fdc3608aea5768b0686bdfd7cc09b44d2555516fa88802ac620b4fe6d5873465",
+      "guid": "https://aod.cos.tx.xmcdn.com/group40/M08/8B/CD/wKgJT1rSzx-wVA3aAFrU9XGShGs310.m4a",
+      "title": {
+        "text": "《红楼梦》第13回宝玉诉肺腑－播讲：All浮云－2018年4月14日",
+        "truncated": false
+      },
+      "description": {
+        "text": "《红楼梦》 是中国古典四大名著之一，作者曹雪芹积10年心血精心撰著，现仅存80回，后40回由后人续作。全书以贾府为中心描写上自朝廷、官场、下到市井、乡里的人情 世故 和风尚习俗，可谓是中国封建社会后期社会生活的“百科全书”。All浮云讲的《红楼梦》故事是经过浓缩提炼，既保留了原著的风格，又从适合少年儿童阅读的角度来展开故事的，希望小朋友大朋友们会喜欢。 扫描或长按二维码欢迎关注微信公众号：浮云朗读，我在那里等你 ！",
+        "truncated": false
+      },
+      "published_at": "Sun, 15 Apr 2018 04:03:28 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "ee6015b138d8a6483d70b9175ee90ba2830282bd9c55754e87a7f6a9f6e49f82",
+      "guid": "https://aod.cos.tx.xmcdn.com/group44/M07/79/F1/wKgKkVsR3eSyyYvYAE30UE3Dp_4897-aacv2-48K.m4a",
+      "title": {
+        "text": "《红楼梦》第17回刘姥姥游园（上）－播讲：All浮云－2018年6月1日",
+        "truncated": false
+      },
+      "description": {
+        "text": "《红楼梦》 是中国古典四大名著之一，作者曹雪芹积10年心血精心撰著，现仅存80回，后40回由后人续作。全书以贾府为中心描写上自朝廷、官场、下到市井、乡里的人情 世故 和风尚习俗，可谓是中国封建社会后期社会生活的“百科全书”。All浮云讲的《红楼梦》故事是经过浓缩提炼，既保留了原著的风格，又从适合少年儿童阅读的角度来展开故事的，希望小朋友大朋友们会喜欢。 扫描或长按二维码欢迎关注微信公众号：浮云朗读，我在那里等你 ！",
+        "truncated": false
+      },
+      "published_at": "Sat, 02 Jun 2018 00:00:45 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "00cd80e3bde4f04cdf86816b6035fac1e005a03522b72d89bad3a2107145d8f0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group48/M0B/74/69/wKgKnFtNMXuwwqNUAEhWty3cHpY251.m4a",
+      "title": {
+        "text": "《红楼梦》第20回抄检大观园（上）－播讲：All浮云－2018年7月16日",
+        "truncated": false
+      },
+      "description": {
+        "text": "《红楼梦》 是中国古典四大名著之一，作者曹雪芹积10年心血精心撰著，现仅存80回，后40回由后人续作。全书以贾府为中心描写上自朝廷、官场、下到市井、乡里的人情 世故 和风尚习俗，可谓是中国封建社会后期社会生活的“百科全书”。All浮云讲的《红楼梦》故事是经过浓缩提炼，既保留了原著的风格，又从适合少年儿童阅读的角度来展开故事的，希望小朋友大朋友们会喜欢。 扫描或长按二维码欢迎关注微信公众号：浮云朗读， 我在那里等你！",
+        "truncated": false
+      },
+      "published_at": "Mon, 16 Jul 2018 23:59:54 GMT",
+      "feed_index": 28
+    },
+    {
+      "id": "33aa908d8a19b662cb299874777c3f51468a0bba4ae79ecf27ebbad40a76aa58",
+      "guid": "https://aod.cos.tx.xmcdn.com/group50/M06/C6/79/wKgKmVu4FP6T9J6NAFRCIOZxz90776.m4a",
+      "title": {
+        "text": "《红楼梦》第23回黛玉焚稿－播讲：All浮云－2018年10月5日",
+        "truncated": false
+      },
+      "description": {
+        "text": "《红楼梦》 是中国古典四大名著之一，作者曹雪芹积10年心血精心撰著，现仅存80回，后40回由后人续作。全书以贾府为中心描写上自朝廷、官场、下到市井、乡里的人情世故和风尚习俗，可谓是中国封建社会后期社会生活的“百科全书”。All浮云讲的《红楼梦》故事是经过浓缩提炼，既保留了原著的风格，又从适合少年儿童阅读的角度来展开故事的，希望小朋友大朋友们会喜欢。 视频收看： 优酷大鱼号 - 浮云朗读： http://i.youku.com/i/UMTQyNTA0ODc1Ng==?spm=a2hww.11359951.uerCenter.5!6~5!2~A YouTube - 浮云朗读 Fuyun Story Time ： https://www.youtube.com/channel/UC_ESkbEcBQ4Fn5qTU-3PQsQ?view_as=subscriber 扫描或长按二维码欢迎关注微信公众号：浮云朗读， 我在那里等你！",
+        "truncated": false
+      },
+      "published_at": "Sat, 06 Oct 2018 01:50:54 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "0c3f79854fef9d9463f4ca59104d0e9f7693e692459e5cf1c8b54ea187ba06fa",
+      "guid": "https://aod.cos.tx.xmcdn.com/group54/M09/19/2B/wKgLfVwMfhmAS515AD8U4ZbWxyg600.m4a",
+      "title": {
+        "text": "《红楼梦》第26回宝玉出家（下）－播讲：All浮云－2018年12月8日",
+        "truncated": false
+      },
+      "description": {
+        "text": "《红楼梦》 是中国古典四大名著之一，作者曹雪芹积10年心血精心撰著，现仅存80回，后40回由后人续作。全书以贾府为中心描写上自朝廷、官场、下到市井、乡里的人情世故和风尚习俗，可谓是中国封建社会后期社会生活的“百科全书”。All浮云讲的《红楼梦》故事是经过浓缩提炼，既保留了原著的风格，又从适合少年儿童阅读的角度来展开故事的，希望小朋友大朋友们会喜欢。 视频收看： 优酷大鱼号 - 浮云朗读： http://i.youku.com/i/UMTQyNTA0ODc1Ng==?spm=a2hww.11359951.uerCenter.5!6~5!2~A YouTube - 浮云朗读 Fuyun Story Time ： https://www.youtube.com/channel/UC_ESkbEcBQ4Fn5qTU-3PQsQ?view_as=subscriber 扫描或长按二维码欢迎关注微信公众号：浮云朗读， 我在那里等你！",
+        "truncated": false
+      },
+      "published_at": "Sun, 09 Dec 2018 02:29:41 GMT",
+      "feed_index": 39
+    }
+  ]
+}

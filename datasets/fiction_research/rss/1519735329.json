@@ -1,0 +1,112 @@
+{
+  "show_id": "1519735329",
+  "feed_url": "https://anchor.fm/s/2741a434/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/2741a434/podcast/rss",
+    "final_url": "https://anchor.fm/s/2741a434/podcast/rss",
+    "fetched_at": "2026-10-25T14:42:08.244625+00:00",
+    "status": 200,
+    "sha256": "b3bbc797c42ed1fb43c2c1be539e922708b4121151982dfa76b8b728ca4f8602"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Podcast Moshi Moshii 🥺",
+    "truncated": false
+  },
+  "description": {
+    "text": "Yang penting diplay podcastnya, ditinggal tidur gpp",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "in",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 6,
+  "episodes": [
+    {
+      "id": "168fc4c09f1d489b58a62bc540a36731ba04667f8bb434e0ec3f4b4b22eea940",
+      "guid": "c4fb947d-82aa-4d6e-bec3-cf684646c9ab",
+      "title": {
+        "text": "Trailer Eps#3 \"Genre\"",
+        "truncated": false
+      },
+      "description": {
+        "text": "Berikut preview episode comeback kami setelah cukup lama vakum, disini kami akan membawa materi tentang genre anime dengan segment baru di bagian akhirnya lohhh. Dan episode ini bisa sampe tembus satu jam waw! Thanks to Kotakopi Ambengan untuk memfasilitasi podcast kami, tempatnya cozy and chill~",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Jul 2020 18:24:40 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "07c848ab58b867ef68daef977cfa62843c84375de9ff8ee5f9159342dee1dddb",
+      "guid": "a006f87f-a8da-4f38-b992-fe3737fae3a0",
+      "title": {
+        "text": "Anggota moshi moshii mencoba perkenalan (lagi)",
+        "truncated": false
+      },
+      "description": {
+        "text": "OPlovers, Narutoaek sampai duet maut tsubasa hyuga dan cita cita menjadi tamiya. Di episode ini anggota moshi moshii mencoba berkenalan singkat dengan para pendengar dilatar belakangi oleh cafe wibu teman kita yaitu @druppleskoffie",
+        "truncated": false
+      },
+      "published_at": "Tue, 30 Jun 2020 06:50:16 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "efc014bf59eb310147ef870395fed432e6c315be25e6ea3039a1e9c738d48839",
+      "guid": "76100ef0-5c24-42cf-9bf7-6afe05fd4722",
+      "title": {
+        "text": "[Bonus] asal usul judul podcast eps 1 kami",
+        "truncated": false
+      },
+      "description": {
+        "text": "LETS N GO BUKAN ANIME TAPI KARTUN, TAMIYA BUNG..",
+        "truncated": false
+      },
+      "published_at": "Wed, 24 Jun 2020 08:46:17 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "7114f7799f05a4a2bc366e8ad4618a7ac6c6c1ffe5ad539b4a8cb703ea19a2e6",
+      "guid": "1b754089-3e06-4d55-a6e5-165fa1381650",
+      "title": {
+        "text": "Eps#1 Lets n go is my fav anime",
+        "truncated": false
+      },
+      "description": {
+        "text": "Disini kami akan ngobrol tentang perjalanan pertama kami memasuki dunia anime. Obrolan 50% anime 50% demam panggung",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 Jun 2020 10:39:47 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "69e406a76f910f59df60e38f6c3242b68a726ce6310669b20350225bdfe012d8",
+      "guid": "cc507eb2-691d-4d61-a6d1-7ebb2d0a726d",
+      "title": {
+        "text": "Loh gitu aja?",
+        "truncated": false
+      },
+      "description": {
+        "text": "Test moderator by kak adit",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 Jun 2020 03:04:56 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "a73c4fb52490887d841bbcf49ac350f0725474d857f106c054ca03e573f5b882",
+      "guid": "df5bcd53-bdef-449a-b78b-06b1e00663b1",
+      "title": {
+        "text": "Perkenalan anggota wibu",
+        "truncated": false
+      },
+      "description": {
+        "text": "Kenalan ae cek angele, kami wibu moshi moshi beranggotakan, kak adit (kembs), kak adhi (olis), kak priyo (beroks), dan kak qollby (qolbs)",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 Jun 2020 03:02:14 GMT",
+      "feed_index": 5
+    }
+  ]
+}

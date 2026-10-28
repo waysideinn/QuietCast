@@ -1,0 +1,140 @@
+{
+  "show_id": "1521814527",
+  "feed_url": "https://feeds.soundon.fm/podcasts/22988a63-bbd2-4759-b2cd-d03f9ce48f6f.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/22988a63-bbd2-4759-b2cd-d03f9ce48f6f.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/22988a63-bbd2-4759-b2cd-d03f9ce48f6f.xml",
+    "fetched_at": "2026-10-25T14:52:50.852494+00:00",
+    "status": 200,
+    "sha256": "91573a697b47f1de118ed19ba859639a5693a96b7a88610091affc3deb4c7b02"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Dr. 文化",
+    "truncated": false
+  },
+  "description": {
+    "text": "Hello 各位聽眾大家好，聽而起, 起而行，由BloomWave自製的Dr.文化，是一個文化交流的頻道，透過文化導覽員 Jemmy & Tiffany 以及文化實習生- KFZ 訪問擁有或參與過不同文化背景的各路好友讓聽眾能更了解多樣化的人事物．誠摯的邀請您戴上耳機，與我們開心遨遊吧^^ Our lives revolve around the colors between black and white, and what's interesting about colors is that each color is unique in it's own way, so are cultures. In each podcast episode, let the hosts, Jemmy & Tiffany & KFZ & friends, cruise with you from cultures to cultures, share with you the interesting and colorful stories they have experienced. 歡迎寫信給Dr.文化：[email removed] -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 31,
+  "episodes": [
+    {
+      "id": "200645e88fe9269d9e1a04c118dcf127496c28a96c0c68002c5aa57984505d80",
+      "guid": "ae300afd-7d3a-4acf-ae88-6da1df4d17db",
+      "title": {
+        "text": "減肥不再是明天的事，夏日減肥計劃你可以怎麼開始？",
+        "truncated": false
+      },
+      "description": {
+        "text": "進入夏天的你們，第一件事會想到什麼呢？ 沒錯！！陽光和沙灘的水上活動！！ 但看到自己的肚子，是不是就有點卻步呢？ 減肥是現代人們最大的困擾，其實瘦身很簡單，就是生活習慣的改變． 其中兩個大關鍵搞懂了，減肥就不遠了-吃進身體的東西和運動的習慣． 如果這些有點太複雜，可以從最基本的理念-熱量赤字，開始計算每天攝取的熱量，維持著適合自己的熱量赤字． 不過大家最煩惱的就是飲食選擇，其實沒那麼複雜，只要多多攝取像是原型食物、高蛋白質、粗糙澱粉等等，這些健康的食物，對於減肥來說就事半功倍了！！ 讓有昱醫師告訴你更多關於減肥的秘辛，讓我們一起開啟夏日的減肥計畫！！",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Jul 2021 00:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "2b5109468302d634bc773a0816a10cdcae5d7c6937aa39071063f8c8e82daab9",
+      "guid": "20246ed4-95c2-4b42-87cc-65b8f23d8352",
+      "title": {
+        "text": "打開你心底的回憶，從廟會文化看見台灣最美的風景。 Feat. 台南的孩子- 洪振傑",
+        "truncated": false
+      },
+      "description": {
+        "text": "廟會文化是台灣人大家共有的回憶，就算是沒有親自體驗過廟會的人們，也曾坐在爺爺奶奶的人旁，聽他們講述廟會的種種． 但隨著時間的流逝，大部分的年輕人到大都市發展的同時，廟會的文化漸漸被埋藏在大家的心中，甚至因為忙碌的都市生活，自己與廟會文化也漸行漸遠． 在電視媒體上，大多時候提到廟會，可能往往會是負面的形象，幫派滋事、露骨的電子花車、吵雜的噪音等等，讓大眾也漸漸誤會廟會文化真正的意義． 但真的是這樣嗎 ？ 廟會吸引一大群信徒，他們真的是湊熱鬧嗎 ？ 隊伍後面都會跟著電子花車，是純粹的場面活動嗎 ？ 其實廟會當中的每一個細節，都有著它所代表的意義，參與廟會的人們，並不是報章雜誌上所描述的負面． 藉著這次的機會，我們邀請到洪正傑攝影師，來看看從他的眼中，所看到的廟會文化是什麼． 讓 Dr.文化 幫你找回深埋在你心中，那溫暖且動人的回憶．",
+        "truncated": false
+      },
+      "published_at": "Mon, 01 Mar 2021 23:30:00 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "7d273f980fd7d243358af898711197c1ef31a2d7b00145ff47b4c71a006edf35",
+      "guid": "279173eb-e382-4019-b82e-fcaca3127410",
+      "title": {
+        "text": "[馥蘭朵特輯] 擁有一個像藝術品的家，那會是什麼感覺． Feat. 馥蘭朵烏來渡假酒店藝術總監- Wing",
+        "truncated": false
+      },
+      "description": {
+        "text": "Hello, 各位聽眾，文顏聞也跨過了2020來到了2021，這次是很特別的馥蘭朵特輯，為什麼馥蘭朵可以做成一個特輯，其特別之處就是從建築設施到服務本身甚至是出演活動，都與當地文化相互融合，文顏聞第一次出外景來錄音，第一集就讓馥蘭朵溫泉渡假飯店的藝術總監，來向您介紹馥蘭朵的奇思妙想．",
+        "truncated": false
+      },
+      "published_at": "Fri, 01 Jan 2021 04:52:59 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "a24531d0c646d9347d0a1890605d47e8df7d8dbc19d988fa97bd2a171e8ba3f9",
+      "guid": "ba8ac038-3ac9-487e-8417-7018657c68d4",
+      "title": {
+        "text": "[世界文化系列]要住就要住的步步高昇|馬告生態園區|有機會聽到優人神鼓",
+        "truncated": false
+      },
+      "description": {
+        "text": "世界文化系列又來啦！！文顏聞的駐點主持人KFZ也來到了現場，本次節目力邀力麗觀光的行銷副總監Elvila來跟我們分享馬告生態園區以及優人神鼓，而且非常非常棒的贊助了抽獎活動，歡迎收聽本單集並到文顏聞IG來了解抽獎詳情吧 Linktree : https://linktr.ee/talkthatctalk IG : https://www.instagram.com/tv/CGh2DakHy04/?igshid=1r0cuhokbmvpr",
+        "truncated": false
+      },
+      "published_at": "Mon, 19 Oct 2020 14:25:31 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "ac266a97cd79c7377d98e7d4ff52fb86979b7dc3bd462852c0d817d7a796a737",
+      "guid": "ba6cc819-56f2-4346-834b-b1622531de26",
+      "title": {
+        "text": "[職飛航班系列] 出發 - 獵頭飛往招募 (上) ft. Janice",
+        "truncated": false
+      },
+      "description": {
+        "text": "職飛航班系列第一集邀請到了促成文顏聞開設節目的媒人-專職於知名外商招募內容的Janice 來與各位聽眾朋友分享． Janice主持的讀書會加入連結，歡迎有興趣的聽眾朋友點選加入 https://line.me/ti/g2/dmOcTrYlwFzVvfV2-4obXQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default 申請內容麻煩填寫[文顏聞介紹]",
+        "truncated": false
+      },
+      "published_at": "Mon, 28 Sep 2020 17:25:57 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "fa532dd132acb8b6171256b1028c5afc8c695f00d73cac335e96c198264fccc5",
+      "guid": "be4f0cab-c731-4f4d-a551-5a7b1a9a99ae",
+      "title": {
+        "text": "把精釀啤酒喝成一幅畫的男人 feat. 酉時候小酒館beer熊",
+        "truncated": false
+      },
+      "description": {
+        "text": "酒類世界千變萬化，精釀啤酒更是一項有趣的文化，將平常完全不愛喝酒的Jemmy，推入了一個錄完音後還唸唸不忘那味道的酒槽裡，讓酉時候小酒館的主人beer熊告訴你如何將精釀啤酒喝成一幅畫吧！！ Beer熊的提醒： ＊啤酒應該是分成工業啤酒與精釀啤酒，而不是商業啤酒，請各位聽眾記住嚕 ＊大潤發買不到啤酒頭釀造 鴻鵠軒餐酒館地址：台北市中山區錦州街320號 ＊請理性飲酒，喝酒不開車，開車不喝酒，未滿18歲不得飲酒＊",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Sep 2020 16:48:43 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "25d4750b7ddb2e8dce0e4ca38d33f499fb95af7b13d0a98b178841be8a70f414",
+      "guid": "adf188d0-6415-4426-abcd-d317e193a0a0",
+      "title": {
+        "text": "[世界文化系列]來 ~ 美麗的女孩(泰國腔) ft. 您好，歡迎登機主持人 Yan-上集",
+        "truncated": false
+      },
+      "description": {
+        "text": "Hi 各位聽眾， 有聽過黃明志的泰國情歌嗎？ 是否跟Jemmy一樣都是從歌曲中了解泰國呢? 文顏聞力邀曾經派駐泰國曼谷的您好，歡迎登機主持人Yan來分享她的外派生活與泰國文化 Let's Join US",
+        "truncated": false
+      },
+      "published_at": "Mon, 27 Jul 2020 17:57:31 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "33a6126d207e92ca8ed7fcd813928e31f8e788d0f1faf74e4c2f2ff39ea1080d",
+      "guid": "96c1cfe2-8702-4311-9668-336da107e2bf",
+      "title": {
+        "text": "文化嘗試說(上)-Jemmy & Tiffany",
+        "truncated": false
+      },
+      "description": {
+        "text": "Hi 各位聽眾 你是早上起床才洗澡的嗎？ 你上過茅廁嗎？ 你睡過炕嗎？ 你知道北京的不同環是怎麼組成的嗎？ 文顏聞首錄-文化嘗試說(上) 歡迎收聽",
+        "truncated": false
+      },
+      "published_at": "Wed, 01 Jul 2020 14:36:47 GMT",
+      "feed_index": 30
+    }
+  ]
+}

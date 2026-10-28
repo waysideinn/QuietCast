@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://anchor.fm/s/22e3570c/podcast/rss",
+    "final_url": "https://anchor.fm/s/22e3570c/podcast/rss",
+    "fetched_at": "2026-10-26T08:05:54.919123+00:00",
+    "status": 200,
+    "sha256": "5b96683b7f1302586eda829f35b449b45b9c49fa51bde68669ba1b951f2d2e81"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "阴阳师 2020年榜首 悬疑小说 听书",
+      "truncated": false
+    },
+    "description": {
+      "text": "2020年榜首 悬疑小说 听书 树大招仙，槐树招鬼，村子里建小学，推倒了村庙，伐了几百年的老槐树，诡异的事情也来了……",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "Daily Books"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "Daily Books"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "Daily Books"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Arts"
+      ],
+      [
+        "Arts",
+        "Books"
+      ]
+    ],
+    "channel_link": "https://podcasters.spotify.com/pod/show/daily-books91",
+    "generator": "Anchor Podcasts",
+    "sampled_audio_endpoint_hosts": {
+      "anchor.fm": 8
+    },
+    "feed_item_count": 10,
+    "episodes": [
+      {
+        "title": {
+          "text": "阴阳师 [第10集] 悬疑小说 听书",
+          "truncated": false
+        },
+        "description": {
+          "text": "订阅关注 每天更新 树大招仙，槐树招鬼，村子里建小学，推倒了村庙，伐了几百年的老槐树，诡异的事情也来了……",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "c9fca0dd-bf76-4655-97c3-c3613cbe3b4f"
+      },
+      {
+        "title": {
+          "text": "阴阳师 [第9集] 悬疑小说 听书",
+          "truncated": false
+        },
+        "description": {
+          "text": "订阅关注 每天更新 树大招仙，槐树招鬼，村子里建小学，推倒了村庙，伐了几百年的老槐树，诡异的事情也来了……",
+          "truncated": false
+        },
+        "feed_index": 1,
+        "guid": "65a8a6fa-9c38-4ce9-9f8c-e34b27fefc0c"
+      },
+      {
+        "title": {
+          "text": "阴阳师 [第7集] 悬疑小说 听书",
+          "truncated": false
+        },
+        "description": {
+          "text": "订阅关注 每天更新 树大招仙，槐树招鬼，村子里建小学，推倒了村庙，伐了几百年的老槐树，诡异的事情也来了……",
+          "truncated": false
+        },
+        "feed_index": 3,
+        "guid": "7b686ba1-8983-4891-8cb7-231ae4bcae1f"
+      },
+      {
+        "title": {
+          "text": "阴阳师 [第6集] 悬疑小说 听书",
+          "truncated": false
+        },
+        "description": {
+          "text": "订阅关注 每天更新 树大招仙，槐树招鬼，村子里建小学，推倒了村庙，伐了几百年的老槐树，诡异的事情也来了……",
+          "truncated": false
+        },
+        "feed_index": 4,
+        "guid": "291d37cf-e3bd-48ff-b5dc-0d176ff513f6"
+      },
+      {
+        "title": {
+          "text": "阴阳师 [第5集] 悬疑小说 听书",
+          "truncated": false
+        },
+        "description": {
+          "text": "订阅关注 每天更新 树大招仙，槐树招鬼，村子里建小学，推倒了村庙，伐了几百年的老槐树，诡异的事情也来了……",
+          "truncated": false
+        },
+        "feed_index": 5,
+        "guid": "3dfaf49a-80e5-436c-8edd-b2a158987ba0"
+      },
+      {
+        "title": {
+          "text": "阴阳师 [第4集] 悬疑小说 听书",
+          "truncated": false
+        },
+        "description": {
+          "text": "订阅关注 每天更新 树大招仙，槐树招鬼，村子里建小学，推倒了村庙，伐了几百年的老槐树，诡异的事情也来了……",
+          "truncated": false
+        },
+        "feed_index": 6,
+        "guid": "e686b802-7097-494d-b434-e1ec6d315f1e"
+      },
+      {
+        "title": {
+          "text": "阴阳师 [第2集] 悬疑小说 听书",
+          "truncated": false
+        },
+        "description": {
+          "text": "订阅关注 每天更新 树大招仙，槐树招鬼，村子里建小学，推倒了村庙，伐了几百年的老槐树，诡异的事情也来了……",
+          "truncated": false
+        },
+        "feed_index": 8,
+        "guid": "b6f6c277-8468-4200-b9b3-5fde5b0d3be1"
+      },
+      {
+        "title": {
+          "text": "阴阳师 [第1集] 悬疑小说 听书",
+          "truncated": false
+        },
+        "description": {
+          "text": "订阅关注 每天更新 树大招仙，槐树招鬼，村子里建小学，推倒了村庙，伐了几百年的老槐树，诡异的事情也来了……",
+          "truncated": false
+        },
+        "feed_index": 9,
+        "guid": "31e7c636-bad0-401f-a449-2008aac33c79"
+      }
+    ]
+  }
+}

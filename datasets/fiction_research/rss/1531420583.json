@@ -1,0 +1,140 @@
+{
+  "show_id": "1531420583",
+  "feed_url": "https://feed.firstory.me/rss/user/ckexlhi3njpfc08396vnbbfs6",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckexlhi3njpfc08396vnbbfs6",
+    "final_url": "https://feed.firstory.me/rss/user/ckexlhi3njpfc08396vnbbfs6",
+    "fetched_at": "2026-10-25T14:54:21.672307+00:00",
+    "status": 200,
+    "sha256": "10f1c7c2f652e91ebd3fa2333383e8e81a566813fbf4604cb859fd159aadf0bf"
+  },
+  "status": "ok",
+  "title": {
+    "text": "專利法",
+    "truncated": false
+  },
+  "description": {
+    "text": "學習專利法 Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "explicit": "no",
+    "keywords": ""
+  },
+  "feed_item_count": 125,
+  "episodes": [
+    {
+      "id": "69b8bb0fb43778dae616edb396ea84d37f909fa15976f906802dbb8802000fe2",
+      "guid": "ckgbt8lelyqw30875s17y3ydp",
+      "title": {
+        "text": "5小時英語聽力訓練 — 短句聽力練習",
+        "truncated": false
+      },
+      "description": {
+        "text": "5小時英語聽力訓練 — 短句聽力練習 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 16 Oct 2020 05:27:17 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "66f4368f2ffaea24fd2c1f8aa7790c2bc4b1f7804a03a8e0ed161c3a7ef2a535",
+      "guid": "ckfqdp30o2gac0800yyrm2iyj",
+      "title": {
+        "text": "Daily English Conversation Practice Questions and Answers - Improve Vocabulary - Sleep Learning ✔",
+        "truncated": false
+      },
+      "description": {
+        "text": "Daily English Conversation Practice Questions and Answers - Improve Vocabulary - Sleep Learning ✔ Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 01 Oct 2020 05:29:03 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "21ce7b0e068d4a44df8f262ff821f2a33ceab5536090e33cee405c96f17ffdb0",
+      "guid": "ckfnoi2e40ggi0800hng5v85a",
+      "title": {
+        "text": "Intellectual Property: Inventors, Entrepreneurs, Creators - Lecture 25: The Economic and Legal Values of Trademarks",
+        "truncated": false
+      },
+      "description": {
+        "text": "Intellectual Property: Inventors, Entrepreneurs, Creators == At the end of this video, you will be able to: - Understand trademarks and their properties. - Identify differences between trademarks and other intellectual property rights. https://www.youtube.com/watch?v=ZGhhdXBYmW0 - https://www.youtube.com/channel/UC3D-YpL56dkhTBwkZ2Iim8Q Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Sep 2020 08:08:13 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "17174b3b9669ac9c6262d289c451a4fa1a6c114f95577e7f26a6d00078f3381e",
+      "guid": "ckfnnvbak04qa0800soqdm9bh",
+      "title": {
+        "text": "Intellectual Property: Inventors, Entrepreneurs, Creators - Lecture 7 The Debate Over Software Patents",
+        "truncated": false
+      },
+      "description": {
+        "text": "Intellectual Property: Inventors, Entrepreneurs, Creators == At the end of this video, you will be able to: - Identify the characteristics of a patentable invention. - Understand what is not patentable and why. - Identify the criteria that an invention must meet to earn a patent. - Understand why non-obviousness is the most difficult hurdle to overcome. https://www.youtube.com/watch?v=7lC7lJVl7z4 - https://www.youtube.com/channel/UC3D-YpL56dkhTBwkZ2Iim8Q Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Sep 2020 07:50:31 GMT",
+      "feed_index": 53
+    },
+    {
+      "id": "5641951da1bc714c0eebd2bf52d9e9e9d7ef1ca26cfaa40e3ef4c8cdf1e1149b",
+      "guid": "ckf0wtkcmou370839cil88j11",
+      "title": {
+        "text": "專利法第121條到第123條",
+        "truncated": false
+      },
+      "description": {
+        "text": "專利法第121條到第123條 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 13 Sep 2020 09:42:24 GMT",
+      "feed_index": 71
+    },
+    {
+      "id": "23ca6c624f21eab47bb3e3fb173e3dd55921ae3e298737db8c8b3d7f816f1fcd",
+      "guid": "ckez1xdpjxlhk0839eiktbloa",
+      "title": {
+        "text": "專利法第63條到第68條",
+        "truncated": false
+      },
+      "description": {
+        "text": "專利法第63條到第68條 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sat, 12 Sep 2020 02:29:48 GMT",
+      "feed_index": 89
+    },
+    {
+      "id": "2551fa0e13990318db39bb82b58dd4ae8681077aaa7aa3f32b92dded36d1aa54",
+      "guid": "ckeyyc6usu0nj0839h80p0aif",
+      "title": {
+        "text": "專利法 第27-28條",
+        "truncated": false
+      },
+      "description": {
+        "text": "專利法 第27-28條 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sat, 12 Sep 2020 00:49:20 GMT",
+      "feed_index": 106
+    },
+    {
+      "id": "557f83ae2f4f396b5bae6e13040e8a767ae7b50f036ba54fb146b3b45186713c",
+      "guid": "ckexlqm2tk1kl0839jj5cu2wp",
+      "title": {
+        "text": "專利法 1-6",
+        "truncated": false
+      },
+      "description": {
+        "text": "專利法 第1-6條 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 11 Sep 2020 02:08:52 GMT",
+      "feed_index": 124
+    }
+  ]
+}

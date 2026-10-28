@@ -1,0 +1,140 @@
+{
+  "show_id": "1610870447",
+  "feed_url": "http://www.ximalaya.com/album/55702322.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/55702322.xml",
+    "final_url": "http://www.ximalaya.com/album/55702322.xml",
+    "fetched_at": "2026-10-25T14:43:52.037434+00:00",
+    "status": 200,
+    "sha256": "90ef6dad8e18d73a84a184476fc7ed53318e213992cd8f9919c88535f681b6b9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "我和校花的暧昧生活|贴身高手|多人有声剧|热血&甜宠",
+    "truncated": false
+  },
+  "description": {
+    "text": "我和校花的暧昧生活 内容简介：平凡的人，却因为不平凡的后代而异能附身，修的一身能力，守护着美丽的校花组的至强战队，捍卫家园的荣耀，修身，齐家，治国平天下，后代，也为之骄傲……",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 203,
+  "episodes": [
+    {
+      "id": "6f3757afcd5070f27d54028a815cad272c2c3f47add393bdfd3c4e854856372b",
+      "guid": "xmly_track_488686373",
+      "title": {
+        "text": "校花-第一集|新专辑上架求关注加订阅",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 02 Jan 2022 15:02:58 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8ecc41690030f4af13803e08ed8a8a1ae5e04f887ba0f9756ee6f20f73e0c493",
+      "guid": "xmly_track_489023823",
+      "title": {
+        "text": "校花-第三十集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 11 Jan 2022 12:00:04 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "dd172f923001630a555836c66e484232ff8052d81be386c7460e60fdcde33c34",
+      "guid": "xmly_track_492188286",
+      "title": {
+        "text": "校花(讲故事旁白)-第五十八集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 Jan 2022 12:00:02 GMT",
+      "feed_index": 58
+    },
+    {
+      "id": "6216ae94b3dc740894f1aafe7dee4d8c84fd667af56edd39c380fdb160135bdf",
+      "guid": "xmly_track_493514588",
+      "title": {
+        "text": "校花-第八十八集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 31 Jan 2022 11:00:00 GMT",
+      "feed_index": 87
+    },
+    {
+      "id": "49dade418d1faa2489ac4f95b6a982e20b553cff1dca37700fe43c25eba7fb31",
+      "guid": "xmly_track_493519750",
+      "title": {
+        "text": "校花-第一百一十六集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 09 Feb 2022 06:00:02 GMT",
+      "feed_index": 115
+    },
+    {
+      "id": "29d5a852715f65ead89e58eb30298f1c7acf80f3db8267a314dbc7374620e42b",
+      "guid": "xmly_track_499779724",
+      "title": {
+        "text": "校花-第一百四十五集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 19 Feb 2022 04:00:00 GMT",
+      "feed_index": 144
+    },
+    {
+      "id": "0debe0e32a422953c4ac2b217a7e7e077025f96a500303917b9d0f2384d2a7bc",
+      "guid": "xmly_track_503922082",
+      "title": {
+        "text": "校花-第一百七十四集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 28 Feb 2022 04:00:04 GMT",
+      "feed_index": 173
+    },
+    {
+      "id": "3d850f372b3a1431bcd20821e591a2d711189b3f783b24dba3840e4e7d164edc",
+      "guid": "xmly_track_506104867",
+      "title": {
+        "text": "校花-第二百零三集（完结）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Mar 2022 10:00:02 GMT",
+      "feed_index": 202
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1602312543",
+  "feed_url": "https://feed.firstory.me/rss/user/ckxopb4es8kuf0858gqkx7iyk",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckxopb4es8kuf0858gqkx7iyk",
+    "final_url": "https://feed.firstory.me/rss/user/ckxopb4es8kuf0858gqkx7iyk",
+    "fetched_at": "2026-10-25T14:54:58.242710+00:00",
+    "status": 200,
+    "sha256": "8db23c50d63c65dcfe1aeeb767b3ef6c721a42e73a35bd657fcb6cfdfbd1a871"
+  },
+  "status": "ok",
+  "title": {
+    "text": "影視幕後同學會",
+    "truncated": false
+  },
+  "description": {
+    "text": "【影視幕後同學會】聲鮮時采科技出品 台大經濟系馮勃翰教授十年磨一劍，以經濟學的角度來解構好萊塢等影視娛樂產業，有別於坊間以媒體人看媒體人的切入方式，內容包括數據分析、產業秘辛及娛樂產業背後的金錢遊戲，僅此一檔，獨家播送。 Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 122,
+  "episodes": [
+    {
+      "id": "d3795ef6c5e296aa1f3d689e61e260843d9ce12e3b54b13b79144c7ac3546a13",
+      "guid": "cmecqun6b01lv01y45a79bc4p",
+      "title": {
+        "text": "S4E12－邁向零點擊時代，臺灣的新聞產業有沒有未來？ft. 華視新媒體部經理陳信聰",
+        "truncated": false
+      },
+      "description": {
+        "text": "匠心濃醇 奢享哈根達斯 嚴選高品質的鮮奶油與香滑牛奶，成分單純，不添加化學合成人工色素與香料。 打造濃郁奢華、令人沉醉的經典風味。 https://fstry.pse.is/9lh2rr —— 以上為 Firstory Podcast 廣告 —— 每天早上都捨不得離開床？楊謹華的賴床秘密，從一張好床墊開始！ MR. LIVING 減壓記憶床墊，穩穩承托腰與脊椎，讓身體好好放鬆。 立即了解更多 → https://fstry.pse.is/9s5vtg —— 以上為 Firstory Podcast 廣告 —— 【影視幕後同學會】聲鮮時采科技出品 - 訂閱制不是萬靈丹，媒體還能靠什麼存活？ - 當社群平台不缺任何一家媒體，台灣新聞有談判籌碼嗎？ - 社群演算法帶來的問題都還無解，但AI衝擊已來？ 合作邀約 / 心得回饋 /多節目廣告聯播 ✉ [email removed] 👩‍👧‍👧 https://www.facebook.com/NextVoicePodcast 👛 https://pay.firstory.me/user/nextvoicetechbyron 加入會員，支持節目： https://open.firstory.me/user/ckxopb4es8kuf0858gqkx7iyk 留言告訴我你對這一集的想法： https://open.firstory.me/user",
+        "truncated": true
+      },
+      "published_at": "Thu, 21 Aug 2025 21:02:06 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "3d8042100136bcca7feabec1e54a33ad426ec60877e1284c9c3644c803205679",
+      "guid": "cm50rj9d805wz01xm591b34ms",
+      "title": {
+        "text": "S3E1－和M觀點一起聊：全球台灣最瘋\"脆\"？新媒體型態大分析！",
+        "truncated": false
+      },
+      "description": {
+        "text": "匠心濃醇 奢享哈根達斯 嚴選高品質的鮮奶油與香滑牛奶，成分單純，不添加化學合成人工色素與香料。 打造濃郁奢華、令人沉醉的經典風味。 https://fstry.pse.is/9lh2rr —— 以上為 Firstory Podcast 廣告 —— 【影視幕後同學會】聲鮮時采科技出品 - Ｘ(原Twitter) 能夠提供比主流媒體更真確的資訊？ - 演算法的原理類似，為什麼脆的造星能力遠遠比不上TikTok？ - 自媒體經營必備 check list！如何有效檢視自己的內容是否會成功？ 合作邀約 / 心得回饋 /多節目廣告聯播 ✉ [email removed] 👩‍👧‍👧 https://www.facebook.com/NextVoicePodcast 👛 https://pay.firstory.me/user/nextvoicetechbyron 小額贊助支持本節目： https://open.firstory.me/user/ckxopb4es8kuf0858gqkx7iyk 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckxopb4es8kuf0858gqkx7iyk/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Dec 2024 21:01:00 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "6be05c59a1c37ad6a62380852f48c1341ea0d7b7cf076475a277644bc48bcdd9",
+      "guid": "clvq45idf00ri01w14cv5guug",
+      "title": {
+        "text": "S2E94－在《魔球》之後，棒球統計如何改變我們所看到的職棒比賽？ft. 野球革命共同創辦人 鄭凱駿",
+        "truncated": false
+      },
+      "description": {
+        "text": "【影視幕後同學會】聲鮮時采科技出品 - 比賽的精彩程度也可以用數據計算出來嗎？ - 打擊率和打點能塑造明星，卻不一定能代表球員實力？ - 運動科技的發展如何讓球賽的轉播呈現更精采？ 合作邀約 / 心得回饋 /多節目廣告聯播 ✉ [email removed] 👩‍👧‍👧 https://www.facebook.com/NextVoicePodcast 小額贊助支持本節目： https://open.firstory.me/user/ckxopb4es8kuf0858gqkx7iyk 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckxopb4es8kuf0858gqkx7iyk/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 May 2024 21:01:00 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "0fc5292d31ed92a8b59fef5198ee01e46028ec9632579c95662016163600d5bf",
+      "guid": "clr61w7n400aa01x371wo2ggk",
+      "title": {
+        "text": "S2E77－好萊塢正在把熱門影視IP從螢幕上搬到實體世界？",
+        "truncated": false
+      },
+      "description": {
+        "text": "【影視幕後同學會】聲鮮時采科技出品 - 華特迪士尼在50年代提出的商業模式，放在今天仍然有效？ - 怪奇物語的前傳為什麼不是拍影集而是做成舞台劇？ - Netflix把該是花錢的行銷活動變成新的收入管道？ 合作邀約 / 心得回饋 /多節目廣告聯播 ✉ [email removed] 👩‍👧‍👧 https://www.facebook.com/NextVoicePodcast 小額贊助支持本節目： https://open.firstory.me/user/ckxopb4es8kuf0858gqkx7iyk 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckxopb4es8kuf0858gqkx7iyk/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 11 Jan 2024 21:03:14 GMT",
+      "feed_index": 52
+    },
+    {
+      "id": "c6c6607969f2d2331ca3faa956262726561419faeeca83080a674f75d450e903",
+      "guid": "clmagn5qm03o601tc3paj48md",
+      "title": {
+        "text": "S2E60－從口譯員到被電視台加薪的KOL，你不知道的網紅經濟學 ft. 浩爾",
+        "truncated": false
+      },
+      "description": {
+        "text": "【影視幕後同學會】聲鮮時采科技出品 - 什麼是Repurpose？同一篇內容不能每個平台都長一樣？ - 為什麼社群追蹤數不等於品牌知名度？ - 爆款怎麼來？是出乎意料，還是有意經營？ 《浩爾的關鍵英語教室》傳送門： https://open.firstory.me/user/howard/platforms 合作邀約 / 心得回饋 /多節目廣告聯播 ✉ [email removed] 👩‍👧‍👧 https://www.facebook.com/NextVoicePodcast 小額贊助支持本節目： https://open.firstory.me/user/ckxopb4es8kuf0858gqkx7iyk 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckxopb4es8kuf0858gqkx7iyk/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 14 Sep 2023 21:01:16 GMT",
+      "feed_index": 69
+    },
+    {
+      "id": "d60a1c9bb14612294097374ee688889e2e40b20d2960332919a4211af79eabdf",
+      "guid": "clhsk5j5107jg01xo3ht43g2f",
+      "title": {
+        "text": "S2E43－漫威如何透過建立品牌取得巨大成功？ft 資深廣告人黃文博老師",
+        "truncated": false
+      },
+      "description": {
+        "text": "【影視幕後同學會】聲鮮時采科技出品 - 品牌的基本構成元素是印象？我們天天說的品牌形象又是什麼？ - 漫威的8,000個角色就是8,000個品牌？ - 李安拍的浩克逾越了漫威精神？ - 全聯付給漫威的2億元授權費值得嗎？ 合作邀約 / 心得回饋 /多節目廣告聯播 ✉ [email removed] 👩‍👧‍👧 https://www.facebook.com/NextVoicePodcast 小額贊助支持本節目： https://open.firstory.me/user/ckxopb4es8kuf0858gqkx7iyk 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckxopb4es8kuf0858gqkx7iyk/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 18 May 2023 21:01:06 GMT",
+      "feed_index": 86
+    },
+    {
+      "id": "7e4641cc4995212c4f1737cde19e2c6cfdfff5cca279ff72ea2b8377a8adf6e5",
+      "guid": "clcrddzuo02h301yh4ky06fah",
+      "title": {
+        "text": "S2E25－戲劇理論如何幫助打造好電影？ft. 台北電影獎最佳編劇馮勃棣",
+        "truncated": false
+      },
+      "description": {
+        "text": "【影視幕後同學會】聲鮮時采科技出品 - 西方發展出來的戲劇理論可以用來分析韓國電影嗎？ - 遊戲改編電影為什麼常失敗？ - 續集電影為什麼總沒有第一集好？玩具總動員是例外？ - 21世紀最好的101部劇本能教我們什麼說故事的功課？ 小額贊助支持本節目： https://open.firstory.me/user/ckxopb4es8kuf0858gqkx7iyk 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckxopb4es8kuf0858gqkx7iyk/comments 合作邀約 / 心得回饋 /多節目廣告聯播 ✉ [email removed] 👩‍👧‍👧 https://www.facebook.com/NextVoicePodcast 👛 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 Jan 2023 21:01:01 GMT",
+      "feed_index": 104
+    },
+    {
+      "id": "439ff5a11dbf73c210668e847537f3ab88302be05a9ebbd810e2dc89f8e5f968",
+      "guid": "ckxopqgze4woa09258jtz354j",
+      "title": {
+        "text": "台大經濟系馮勃翰教授十年磨一劍，獨家爆料娛樂產業秘辛",
+        "truncated": false
+      },
+      "description": {
+        "text": "【影視幕後同學會】聲鮮時采科技出品 留言告訴我你對這一集的想法： https://open.firstory.me/story/ckxopqgze4woa09258jtz354j?m=comment 台大經濟系馮勃翰教授十年磨一劍，以經濟學的角度來解構好萊塢等影視娛樂產業，有別於坊間以媒體人看媒體人的切入方式，內容包括數據分析、產業秘辛及娛樂產業背後的金錢遊戲，僅此一檔，獨家播送。 合作邀約 / 心得回饋 /多節目廣告聯播 ✉ [email removed] ?‍?‍? https://www.facebook.com/NextVoicePodcast ? https://open.firstory.me/join/nextvoicetechbyron Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Mon, 27 Dec 2021 21:30:38 GMT",
+      "feed_index": 121
+    }
+  ]
+}

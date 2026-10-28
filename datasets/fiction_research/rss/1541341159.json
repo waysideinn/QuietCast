@@ -1,0 +1,126 @@
+{
+  "show_id": "1541341159",
+  "feed_url": "http://www.ximalaya.com/album/43918838.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/43918838.xml",
+    "final_url": "http://www.ximalaya.com/album/43918838.xml",
+    "fetched_at": "2026-10-25T14:42:20.414698+00:00",
+    "status": 200,
+    "sha256": "9791ffa5e94ddf03e7342e0a42e28f6f26b42b3c619c6bccb10dbfbdc5c65b92"
+  },
+  "status": "ok",
+  "title": {
+    "text": "未见山多有有声广播剧《从前有座山 山里有个妖》",
+    "truncated": false
+  },
+  "description": {
+    "text": "多人广播剧【从前有座山 山里有个妖】 这个世界还有妖吗？ 如果真的有妖，要去要留？是保护还是杀绝？ 人妖必然殊图吗？ 在这世道中，看人与妖的故事如何上演，或是幽默诙谐，或因七情六欲，或关侠义柔肠…… 作者：西决 ——未见山有声工作室出品—— * 出演CV 栖凰 胡微生 季子安 西瓜 毛毛 三體 神慕 潇涵 老王 芯泽 兰戈 叶夕 西决 ——本广播剧所用插曲和音效非原创制作，节目仅用做爱好者自学研究和娱乐，致意港产影视作品和音乐制作方。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 7,
+  "episodes": [
+    {
+      "id": "f50546243ce0992589bb4ef787feb5895ad7610b7a246ec41b7796825dac3ad9",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/25b9-audiofreehighqps/52/7D/CMCoOSMDi49lAAQKCABoaZhW.m4a",
+      "title": {
+        "text": "欢迎收听多人广播剧《从前有座山 山里有个妖》",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎收听多人广播剧【从前有座山 山里有个妖】 这个世界还有妖吗？ 如果真的有妖，要去要留？是保护还是杀绝？ 人妖必然殊图吗？ 在这世道中，看人与妖的故事如何上演，或是幽默诙谐，或因七情六欲，或关侠义柔肠…… 作者-西决 未见山有声工作室出品",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Nov 2020 01:37:40 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "84fd337d8273393bc6e0bbc6f407ee6b14a5caaee114cf41ede6e2abd5598778",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e3f1-audiofreehighqps/CA/40/CMCoOSIDjZM_AF38jgBpAXLt.m4a",
+      "title": {
+        "text": "01 第一集 引子未见山",
+        "truncated": false
+      },
+      "description": {
+        "text": "多人广播剧【从前有座山 山里有个妖】 这个世界还有妖吗？ 如果真的有妖，要去要留？是保护还是杀绝？ 人妖必然殊图吗？ 在这世道中，看人与妖的故事如何上演，或是幽默诙谐，或因七情六欲，或关侠义柔肠…… 作者：西决 ——未见山有声工作室出品—— * 出演CV 栖凰 胡微生 季子安 西瓜 毛毛 三體 神慕 潇涵 老王 芯泽 兰戈 叶夕 西决 ——本广播剧所用插曲和音效非原创制作，节目仅用做爱好者自学研究和娱乐，致意音乐制作方。",
+        "truncated": false
+      },
+      "published_at": "Fri, 20 Nov 2020 14:18:22 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "a22e6204204edb9e55aab125bb43f7f94944e9c79c818059c318731263b6eada",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9c9a-audiofreehighqps/6E/A4/CMCoOSUDi5evAGIX8gBoa0H2.m4a",
+      "title": {
+        "text": "02 第二集 猫妖大人",
+        "truncated": false
+      },
+      "description": {
+        "text": "多人广播剧【从前有座山 山里有个妖】 这个世界还有妖吗？ 如果真的有妖，要去要留？是保护还是杀绝？ 人妖必然殊图吗？ 在这世道中，看人与妖的故事如何上演，或是幽默诙谐，或因七情六欲，或关侠义柔肠…… 作者：西决 ——未见山有声工作室出品—— * 出演CV 栖凰 胡微生 季子安 西瓜 毛毛 三體 神慕 潇涵 老王 芯泽 兰戈 叶夕 西决 ——本广播剧所用插曲和音效非原创制作，节目仅用做爱好者自学研究和娱乐，致意港产影视作品和音乐制作方。 本集推荐插曲： 动漫（一拳超人）插曲（The cyborgflghts/宫崎城/miyazaki makoto） 动漫（终结的炽天使） 插曲（world wArE/和田贵史） 部分音效 爱给网",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Nov 2020 02:12:43 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "fbdb5d3b56c53d333e80f385ff8dc600631fb843a03feb825690377231922c37",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9568-audiofreehighqps/86/A6/CMCoOSADi5QvAKbrsQBoanwt.m4a",
+      "title": {
+        "text": "03 第三集 聚灵八卦",
+        "truncated": false
+      },
+      "description": {
+        "text": "多人广播剧【从前有座山 山里有个妖】第三集 这个世界还有妖吗？ 如果真的有妖，要去要留？是保护还是杀绝？ 人妖必然殊图吗？ 在这世道中，看人与妖的故事如何上演，或是幽默诙谐，或因七情六欲，或关侠义柔肠…… 作者：西决 ——未见山有声工作室出品—— * 出演CV 栖凰 胡微生 季子安 西瓜 毛毛 三體 神慕 潇涵 老王 芯泽 兰戈 叶夕 西决 ——本广播剧所用插曲和音效非原创制作，节目仅用做爱好者自学研究和娱乐，致意港产影视作品和音乐制作方。 本集推荐插曲： 电影（僵尸）插曲（Let sBegin） 电影（长城）插曲（First Battle/拉敏贾瓦迪） 电视剧（古剑奇谭）插曲（下辈子/麦振鸿/女声：王亚乔） 结尾音乐（齐天/兔裹煎蛋卷）原曲(大冢爱) 部分音效 爱给网",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Nov 2020 01:57:31 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "d3df3e14a9c15d96f74a2e07b27e4ec5e608212a1f261e684a1c2dc7e37aa3ca",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6e20-audiofreehighqps/EE/24/CMCoOSYDi5TOAUvl3ABoaqeV.mp3",
+      "title": {
+        "text": "04 第四集 莫千羽",
+        "truncated": false
+      },
+      "description": {
+        "text": "多人广播剧【从前有座山 山里有个妖】第四集 这个世界还有妖吗？ 如果真的有妖，要去要留？是保护还是杀绝？ 人妖必然殊图吗？ 在这世道中，看人与妖的故事如何上演，或是幽默诙谐，或因七情六欲，或关侠义柔肠…… 作者：西决 ——未见山有声工作室出品—— * 出演CV 胡微生 季子安 西瓜 毛毛 三體 神慕 潇涵 老王 芯泽 兰戈 叶夕 西决 ——本广播剧所用插曲和音效非原创制作，节目仅用做爱好者自学研究和娱乐，致意港产影视作品和音乐制作方。",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Nov 2020 02:00:48 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "a23da420ea3a0d681ec7361ddbfb27624b1a7bc99c56398ff7f42e753a5a4f55",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7b58-audiofreehighqps/53/52/CMCoOSUDsMt9Ag4FRQByMcc9.mp3",
+      "title": {
+        "text": "05 第五集 师徒入城吃吃喝喝 师姐开挂噼里啪啦",
+        "truncated": false
+      },
+      "description": {
+        "text": "声音简介 多人广播剧【从前有座山 山里有个妖】 这个世界还有妖吗？ 如果真的有妖，要去要留？是保护还是杀绝？ 人妖必然殊图吗？ 在这世道中，看人与妖的故事如何上演，或是幽默诙谐，或因七情六欲，或关侠义柔肠…… 作者：西决 ——未见山有声工作室出品—— * 出演CV 栖凰 胡微生 季子安 西瓜 毛毛 三體 神慕 潇涵 老王 芯泽 兰戈 叶夕 西决",
+        "truncated": false
+      },
+      "published_at": "Thu, 17 Dec 2020 07:27:59 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "6ca45d1a65539f12986b960876a41488686217fcab1beca389b4bd9b5b7c5936",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6bf4-audiofreehighqps/0F/77/CMCoOScD7EsXAIhIyQCCAKYq.m4a",
+      "title": {
+        "text": "06 第6集 一叶知秋",
+        "truncated": false
+      },
+      "description": {
+        "text": "多人广播剧【从前有座山 山里有个妖】 这个世界还有妖吗？ 如果真的有妖，要去要留？是保护还是杀绝？ 人妖必然殊图吗？ 在这世道中，看人与妖的故事如何上演，或是幽默诙谐，或因七情六欲，或关侠义柔肠…… 作者：西决 ——未见山有声工作室出品—— * 出演CV 胡微生 季子安 西瓜 毛毛 三體 夙岚 神慕 潇涵 老王 芯泽 兰戈 叶夕 西决 ——本广播剧所用插曲和音效非原创制作，节目仅用做爱好者自学研究和娱乐，致意港产影视作品和音乐制作方。",
+        "truncated": false
+      },
+      "published_at": "Sun, 31 Jan 2021 10:35:45 GMT",
+      "feed_index": 6
+    }
+  ]
+}

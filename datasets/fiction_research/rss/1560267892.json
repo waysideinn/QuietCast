@@ -1,0 +1,140 @@
+{
+  "show_id": "1560267892",
+  "feed_url": "http://www.ximalaya.com/album/37856483.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/37856483.xml",
+    "final_url": "http://www.ximalaya.com/album/37856483.xml",
+    "fetched_at": "2026-10-25T14:52:29.773270+00:00",
+    "status": 200,
+    "sha256": "0c5825be096a4e05c2ec42f14bf12573ed3fda281b98297785a1911d94b9995b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "解读红楼梦精彩章节",
+    "truncated": false
+  },
+  "description": {
+    "text": "《红楼梦》作为中国历史上最伟大的宏观巨著，是白话小说的巅峰，我们选取了书中有联系的章节，组成了多个精彩系列，同时在播讲时加入个人的思考和品评，让你快速的领略《红楼梦》的魅力。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 16,
+  "episodes": [
+    {
+      "id": "193604a1118c6becce74a0822557db5c3f66c1879d9c29f8bc3e91dc3bbd449e",
+      "guid": "xmly_track_626322667",
+      "title": {
+        "text": "红楼梦里的小人物——小红",
+        "truncated": false
+      },
+      "description": {
+        "text": "作为贾府大管家林之孝的女儿，为什么只做一个小丫鬟呢？",
+        "truncated": false
+      },
+      "published_at": "Fri, 14 Apr 2023 09:40:32 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "0e57c866aedd6b4fbcc7a18b8702d3b10469cebf8fe630019d3ad35f98beb8f5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/58bc-audiofreehighqps/83/0D/GKwRIasFdo-2AJNAbAD7mm6B.m4a",
+      "title": {
+        "text": "搞定上层的王熙凤",
+        "truncated": false
+      },
+      "description": {
+        "text": "作为荣国府的管理者，王熙凤是如何搞定了上上下下这么多人呢？",
+        "truncated": false
+      },
+      "published_at": "Fri, 26 Nov 2021 12:01:04 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "f5c4838e2ce04a57caf66ae18b4addcf60fe71e7258e1bf1247106799869d34c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/46a5-audiofreehighqps/8C/EE/CKwRIRwEO37PABAAAACZd3vY.m4a",
+      "title": {
+        "text": "刘姥姥二进大观园-6",
+        "truncated": false
+      },
+      "description": {
+        "text": "妙玉请宝玉三人吃茶，从细节上暴露了内心哪些特殊的情感呢？",
+        "truncated": false
+      },
+      "published_at": "Thu, 01 Apr 2021 12:26:09 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "016b4a3db88e783714cffbf8ecba8bc3cc06b9c58683739a9c0cbeed3de68ca7",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f4bc-audiofreehighqps/3A/58/CKwRIJEEKP_wABAAAACT4jdC.m4a",
+      "title": {
+        "text": "刘姥姥二进大观园-4",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 18 Mar 2021 11:44:01 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "cbecacf6dd319aa9d82f26fe459c0fc02e575133d04b9f90b787d1e3b1db64e9",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f3ce-audiofreehighqps/A6/BB/CMCoOSQDjVF6AK8j9QBo3N70.m4a",
+      "title": {
+        "text": "刘姥姥二进大观园",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 20 Nov 2020 09:38:04 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "1b8bef1db933218a49c22edd6c0caea0792e32eb4a1b9e2db290ac406a5806bb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group80/M0A/32/D7/wKgPDF7WF6vjXSJTAajoxNc7jsk228.m4a",
+      "title": {
+        "text": "刘姥姥一进荣国府—1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 02 Jun 2020 09:11:07 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "045a5e5a2cff667c7f480c589110324bbbb522df129568c41249c948243940bc",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0b97-audiofreehighqps/29/8C/CKwRIRwEWuB5ABAAAACiteNQ.m4a",
+      "title": {
+        "text": "黛玉进贾府（3）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 May 2020 08:35:26 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "a5be64dc47e1a212bae3ac2d357f5969a3d24b75289508712f69af50ea684622",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6d44-audiofreehighqps/AA/41/CKwRIUEEVhAkAKqRngChe4QU.m4a",
+      "title": {
+        "text": "黛玉进贾府（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "黛玉丧母后，贾母将黛玉接到贾府抚养，黛玉眼中的贾府是什么模样呢？",
+        "truncated": false
+      },
+      "published_at": "Wed, 21 Apr 2021 16:04:19 GMT",
+      "feed_index": 15
+    }
+  ]
+}

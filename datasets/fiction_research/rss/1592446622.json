@@ -1,0 +1,98 @@
+{
+  "show_id": "1592446622",
+  "feed_url": "http://www.ximalaya.com/album/54241681.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/54241681.xml",
+    "final_url": "http://www.ximalaya.com/album/54241681.xml",
+    "fetched_at": "2026-10-25T14:43:21.104669+00:00",
+    "status": 200,
+    "sha256": "0b1059fa1ab810ae094f7b815740a0a0aa488e2855ace9564782fe4572296b49"
+  },
+  "status": "ok",
+  "title": {
+    "text": "误打误撞|即兴广播剧",
+    "truncated": false
+  },
+  "description": {
+    "text": "误打误撞是一档融合了聊天和即兴广播剧的播客节目，由即兴团体误打误撞出品。 每一期我们将邀请数位嘉宾一期聊天扯淡，然后从中得到启发开始表演即兴广播剧。 本节目每周更新，搜索公众号‘误打误撞“可获得节目推送信息，节目延展信息和线下活动资讯。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 5,
+  "episodes": [
+    {
+      "id": "99ecbb47eee070175e401351e9d12355222f4ac7f8098b47b35dd34c05212575",
+      "guid": "xmly_track_681941277",
+      "title": {
+        "text": "vol.4 假期：来自过去的游玩推荐",
+        "truncated": false
+      },
+      "description": {
+        "text": "主持人：Song 嘉宾： 小凡：不知道为什么会出现在这里、专业假期安排、差旅行业从业者 Kevin：主要来分享旅行经历(教你如何不做规划攻略去爽游) 培鈞：来听分享过瘾的、人能骑 宁檬：正在过假期、家里有个小游戏厅 陈皮：来和现场某人共同密谋假期安排 电视：自认为Song女士唯一的朋友 剪辑：布丁bot 微博@布丁bot",
+        "truncated": false
+      },
+      "published_at": "Tue, 07 Nov 2023 02:55:40 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "51761b753dadf51bf62535310530c712b8964e6b694c7965c8b23077cb1dbd20",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/843b-audiofreehighqps/D8/48/GKwRIUEFeQl2ABAAAAD8NKy3.mp3",
+      "title": {
+        "text": "vol.3 影视剧：春光乍泄猪八戒",
+        "truncated": false
+      },
+      "description": {
+        "text": "不管是电影、影视剧还是综艺，它们展示得好像是另一个平行世界，我们会旁观喜怒，会代入角色，会久久不能忘怀。 欢迎收听本期： vol.3 影视剧 本期主持：Song 本期嘉宾：刘宇、贺贺、Kiko、李冰、小凡、大力、二胖、培钧 后期制作：Song、 刘宇 误打误撞即兴广播台是一档融合了 聊天和即兴广播剧 的播客节目，每期主播和嘉宾就一个话题闲聊扯淡，然后从中得到启发开始表演即兴广播剧。 本播客每周更新，关注微信公众号“误打误撞”可获取更新推送、节目信息和团体演出信息。",
+        "truncated": false
+      },
+      "published_at": "Sun, 28 Nov 2021 09:06:48 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "157a8835bfe2908758c25769099bc12164e7ac57c39e6288ed5deed4142a6b79",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/bc31-audiofreehighqps/7F/88/GKwRIJIFa_4WABAAAAD4rF5u.mp3",
+      "title": {
+        "text": "vol.2 工作：为工作痛苦不值得",
+        "truncated": false
+      },
+      "description": {
+        "text": "工作是为了填饱肚子，还是自我实现？ 欢迎收听本期：工作 本期主持：Song 本期嘉宾：小自然 、柠檬、大力、小月月（小朋）、安琪、刘宇 后期制作：Song、 刘宇 误打误撞即兴广播台是一档融合了 聊天和即兴广播剧 的播客节目，每期主播和嘉宾就一个话题闲聊扯淡，然后从中得到启发开始表演即兴广播剧。 本播客每周更新，关注微信公众号“误打误撞”可获取更新推送、节目信息和团体演出信息。",
+        "truncated": false
+      },
+      "published_at": "Thu, 18 Nov 2021 10:26:59 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "f877af6b11532909905a5a0171a5770cae736fc3419872fcc30861b1ec48e2e4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2204-audiofreehighqps/3C/39/CKwRIJIFYa4zABAAAAD182V1.mp3",
+      "title": {
+        "text": "vol.1 东北：我们敢开地图炮就是因为这个节目没人听",
+        "truncated": false
+      },
+      "description": {
+        "text": "在外漂泊的东北人对家乡有什么记忆，他们身边的朋友们又对东北有哪些印象呢？ 欢迎收听本期：东北 本期主持： 刘宇 本期嘉宾： 硕、雅各、大力、Song、小月月、安琪 后期制作： 刘宇 误打误撞即兴广播台是一档融合了 聊天和即兴广播剧 的播客节目，每期主播和嘉宾就一个话题闲聊扯淡，然后从中得到启发开始表演即兴广播剧。 本播客每周更新，关注微信公众号“误打误撞”可获取更新推送、节目信息和团体演出信息。",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Nov 2021 15:55:10 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "e8aaf1b4c08f70ed131dd78284ec484a7c978b93c1d64105d8facf62cb005790",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/fac7-audiofreehighqps/E1/F5/CKwRIRwFUAZbABAAAADxMf3R.mp3",
+      "title": {
+        "text": "vol.0 爱好：玩滑板最重要的是心要纯",
+        "truncated": false
+      },
+      "description": {
+        "text": "我们都有过什么爱好？还在坚持的有哪些？未来还想培养什么爱好呢，欢迎收听本期：爱好 本期主持：刘宇 本期嘉宾：硕、Song、高兴、小自然、柠檬、睿哥、木春、雅各 后期制作：刘宇 本期为 测试节目 ，由于缺乏录制经验，音频效果欠佳，请见谅。请大家听完之后多多留言提宝贵意见，你们的每条宝贵意见，我们都会非常认真地删除^_^。 误打误撞即兴广播台是一档融合了 聊天和即兴广播剧 的播客节目，每期主播和嘉宾就一个话题闲聊扯淡，然后从中得到启发开始表演即兴广播剧。 本播客每周更新，关注微信公众号“误打误撞”可获取更新推送、节目信息和团体演出信息。",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 Oct 2021 06:30:47 GMT",
+      "feed_index": 4
+    }
+  ]
+}

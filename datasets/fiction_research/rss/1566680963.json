@@ -1,0 +1,140 @@
+{
+  "show_id": "1566680963",
+  "feed_url": "http://www.ximalaya.com/album/49250540.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/49250540.xml",
+    "final_url": "http://www.ximalaya.com/album/49250540.xml",
+    "fetched_at": "2026-10-25T14:42:50.740398+00:00",
+    "status": 200,
+    "sha256": "0ceb14d49187ae607a2203f557863d4c1b9b396841ad030ee002d6f6dfb3d7d0"
+  },
+  "status": "ok",
+  "title": {
+    "text": "守夜人|【作者巫九】|播音斯博学长|有声小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "《守夜人》繁华的都市，每当夜幕降临时，总会有一些‘东西’会出现。路灯下没有影子的女人，狐脸老太太，行走的干尸……每当它们出现时，总会有人守护在黑夜中，斩妖除魔，这些人被称为守夜人。守夜人一直认为自己是一个严肃，正直，脱离了低级趣味的组织。直到一个叫林旭的家伙加入了他们。林旭：道友，你在画符箓？正好，我刚买了一台印刷机，试试看……请问这就是传闻中的墨家傀儡术？我这刚买的钢铁侠能用吗？ 守夜人",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 145,
+  "episodes": [
+    {
+      "id": "76831e8531de0efefd931c1beef9bdd995bd41525c9b7f32f3a7f4f06675c3f5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c900-audiofreehighqps/0C/2E/CKwRIUEEaDnMADl4fACm-QQa.m4a",
+      "title": {
+        "text": "第一章，诡车",
+        "truncated": false
+      },
+      "description": {
+        "text": "悠扬的歌声，在车辆的收音机内低沉响起，网约车正往上港市的大学城开去。 司机此刻心情不错，因为他车后这位年轻的客户出手阔气，竟用三倍市场价格从别个客户那里硬生生抢走了他的车，还塞给那客户一百元，让对方不至于投诉自己。 这单跑完，就能早点回家陪老婆孩子了。",
+        "truncated": false
+      },
+      "published_at": "Wed, 05 May 2021 10:43:12 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "a5afa84907496755bd0f78ddd2cb8a91d73a2c42749e349b6372cd1185412463",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8b5e-audiofreehighqps/92/BD/CKwRIUEEbvLDADGamwCpOXYE.m4a",
+      "title": {
+        "text": "第二十二章，真正的守夜人",
+        "truncated": false
+      },
+      "description": {
+        "text": "上港市是一座沿海城市，此时，一座安静的码头内，史奎和许莞香，正躲藏在其中。 一艘渔船，在月光之下的海面上，慢慢往码头开了过来。 “呜呜……” 渔船有节奏的鸣笛了两声，史奎和许莞香对视一眼，信号对上了，二人慢慢的靠拢过去。 他们两人已经将有关林旭的情报，汇总告诉了背后的组织。 ......",
+        "truncated": false
+      },
+      "published_at": "Mon, 10 May 2021 13:06:00 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "574b15d82734bdc6ec82bcca5a72dd255298597e47ea67a9209eca63bcc4e12c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d930-audiofreehighqps/59/03/CKwRIDoEdWjFADOBCQCrjVbS.m4a",
+      "title": {
+        "text": "第四十二章，不行",
+        "truncated": false
+      },
+      "description": {
+        "text": "林旭与郑平，刚踏入敬老院，便被眼前的一幕给震撼。 此时，敬老院的院子内，长出了一颗高大十余米的大柳树。 无数藤蔓铺在敬老院地面的各个角落，这颗大柳树上，更是散发着极为磅礴的怨念。 二人朝大柳树的方向看去，此刻，藤蔓上，两道人影，被无数藤蔓捆绑，挂在大柳树之上！ “是刘安和赵安琪小姐！”郑平一眼就认出了藤蔓上的两人，此刻，二人已经彻底陷入昏迷之中，生死不知。 就在这时，他们二人身后，谢乾坤拉着安潇潇的手，也冲了进来。 ......",
+        "truncated": false
+      },
+      "published_at": "Sat, 15 May 2021 10:43:02 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "349aee099584ab7db9df3b530624939ee38273d6a0017262cae8dec7831da45e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/314c-audiofreehighqps/9D/02/CKwRIaIEeNJHADf8SgCssotC.m4a",
+      "title": {
+        "text": "第六十三章，江紫晴",
+        "truncated": false
+      },
+      "description": {
+        "text": "黄老头在魔道江湖沉浸的数十载，老谋深算，为何会选择第一个上前呢？ 这个规则，不管怎么看，第一个上，成为擂主的人都是要吃亏的。 就算赢下林旭，后面还要接连面对十余个人的挑战。 第一个上的人，要么有着莫大的自信，能相信自己可以战胜后面所有人。 要么，就是有别的道道。 这个规则可是黄老头自己提出来，他不可能挖坑，还自己跳进去。 黄老头的计划很简单，提出比武，然后靠近身怀邪舍利的僧人。 击败林旭后，趁着大家放松警惕，瞬间出手，夺走僧人腹中的邪舍利，然后吞下，增强实力！ 到时候，即便是面对这几十个高手，他也有机会逃走！ 其他魔道之人，大多数是为了背后的组织来争抢邪舍利。 ......",
+        "truncated": false
+      },
+      "published_at": "Tue, 18 May 2021 00:50:03 GMT",
+      "feed_index": 62
+    },
+    {
+      "id": "80f0dd73c9d257dc57708f5487de868e8d342df810d05f61bbb892b72b5e2818",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6254-audiofreehighqps/E1/4D/CKwRIaIEfgQdADba3wCukbMz.m4a",
+      "title": {
+        "text": "第八十三章，我们选林旭",
+        "truncated": false
+      },
+      "description": {
+        "text": "不过林旭的反应速度奇快，在蓝峰雨出手偷袭的瞬间，他便已经向后拉开双方的距离。 轰！ 铁棍轰在高台的地面，将地面轰出蛛网般的裂痕。 蓝峰雨乘胜追击，低声念咒，手中的铁棍散发出了淡淡的黑色光芒，朝林旭便攻来。 蓝峰雨从小苦练棍法，铁棍挥舞，颇有一种势如破竹之势，强大的气魄，从他身上涌现而出。 而林旭，则不断后退，让蓝峰雨的攻势越来越凶悍。 .......",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 May 2021 23:24:05 GMT",
+      "feed_index": 82
+    },
+    {
+      "id": "b312966d080a8e9bbebdc66f630ea4f00307ebcacf88e2483f23a7a5ed5454ed",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4bdf-audiofreehighqps/64/78/CKwRIRwEgpVqADVcpACwJcX-.m4a",
+      "title": {
+        "text": "第一百零四章，生死棋局",
+        "truncated": false
+      },
+      "description": {
+        "text": "听到我的询问，江紫晴愣了一下，吞吞吐吐的说道：“说，说，说不定初代教主大人成仙以后，肉身在这里呢。” “你又没成过仙，又不知道会不会留肉身在人间。” 说完，江紫晴继续看向信中的内容，随后，她深深皱眉起来：“完蛋了！” “咋了？”林旭看了过去，一看信中的内容，林旭也是脸黑了下来。 信上后面写着。 “此乃本尊闭生死关之地，本尊一旦突破，便能踏上那天仙之境。” “本尊进入密室前，发下宏愿，若不突破，便死在这生死关内。” ......",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 May 2021 10:33:00 GMT",
+      "feed_index": 103
+    },
+    {
+      "id": "3352a7b98adec9a17a5ec6a53d1a36462dd93dfb12380513e20e3a7db4f1398f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1df7-audiofreehighqps/8B/6F/CKwRIW4EhRALADYC9gCxHLoB.m4a",
+      "title": {
+        "text": "第一百二十四章，快来人啊！",
+        "truncated": false
+      },
+      "description": {
+        "text": "在场的人，瞬间鸦雀无声了下来，他们的目光，时不时的看向地上，苏万的尸体。 一个个人，不管心里是如何想的，但脸上，却没有表现出任何表情，唯独一个例外。 姜成。 姜成沉着脸，看着地上的苏万，微微捏紧了拳头，他万万没有想到，江紫晴竟然会这么果断，用这样莫须有的罪名，直接将苏万给杀了。 要知道，苏万可是通幽教内的司旗，并非是什么杂鱼角色，更是自己的心腹之一。 “江丫头，你说苏万是其他魔教派遣来的卧底，光是这样的证据，可不够充分。”姜成目光，看向了站在台上的江紫晴，大声说道：“苏万跟随着我，为通幽教出生入死，你就这样将他给杀了？” “就算你如今是新任教主，也不能如此乱来。” ......",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 May 2021 07:40:48 GMT",
+      "feed_index": 123
+    },
+    {
+      "id": "ed0c23adfa1381d4f4cad2fc41c67aff6b6abecbdc66161fff37a4683462998e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f8c7-audiofreehighqps/50/9D/CKwRIMAEntpzAAIvtQC6QB9a.m4a",
+      "title": {
+        "text": "此书已停更",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Jun 2021 21:11:15 GMT",
+      "feed_index": 144
+    }
+  ]
+}

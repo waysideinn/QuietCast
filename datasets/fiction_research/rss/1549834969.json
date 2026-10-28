@@ -1,0 +1,56 @@
+{
+  "show_id": "1549834969",
+  "feed_url": "https://feed.firstory.me/rss/user/ckjsbvc2oxgf60876innd19h3",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckjsbvc2oxgf60876innd19h3",
+    "final_url": "https://feed.firstory.me/rss/user/ckjsbvc2oxgf60876innd19h3",
+    "fetched_at": "2026-10-25T14:42:29.545485+00:00",
+    "status": 200,
+    "sha256": "7e964f1d648087a2d6ca68e316ab9fe3b58f56441cbeab30cc8610c18cc65317"
+  },
+  "status": "ok",
+  "title": {
+    "text": "播聲廣播劇團",
+    "truncated": false
+  },
+  "description": {
+    "text": "傳遞心動的聲音 製造聲音的幻想世界 Love!Love!播聲計畫 是一群由Podcaster組成的廣播劇團。希望可以用聲音傳遞美妙的故事。 如果你也喜歡廣播劇，也喜歡聽故事，歡迎追蹤我們 Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "explicit": "no",
+    "keywords": "932834"
+  },
+  "feed_item_count": 2,
+  "episodes": [
+    {
+      "id": "d5314a6af42e5692640e9a13fce108eccc1a4d06031d6aac6e78ed679e485c4e",
+      "guid": "ckkqxfkxk9eu80805wv098my2",
+      "title": {
+        "text": "休止符之前.EP1 - 觸動的心弦",
+        "truncated": false
+      },
+      "description": {
+        "text": "《觸動的心弦》 你我的故事發生『在休止符之前』 為了音樂、找尋自我 解除自身束縛 看似玩世不恭卻是音樂奇才的邢煜 熱愛鋼琴卻面對舞台感到恐懼的傅晏淳 以及為了家族榮耀而被束縛的嚴騏 最終大家是如何在琴弦的撩動下 追尋屬於自己的音樂以及愛人呢？ 琴弦停止之後、是誰繼續撫弄著我的心弦? ＝＝＝＝休止符之前＝＝＝＝ 傳遞心動的聲音 製造聲音的幻想世界 我們是Love!Love!播聲廣播劇團 是一群由Podcaster組成的廣播劇團。 希望可以用聲音傳遞美妙的故事。 如果你也喜歡廣播劇，也喜歡聽故事，歡迎追蹤我們❤️ IG連結：https://www.instagram.com/podcaster_audiodrama/ 若喜歡我們的故事也想支持我們歡迎點擊下方連結給予我們應援喔❤️ https://pay.firstory.me/user/podcasteraudiodrama ＝＝＝＝休止符之前＝＝＝＝ 感謝：瑪蘿顧問＆UUi音效師 技術支援 劇團人員名單： 策劃：Huahua，嘎拉嬉皮GALA 宣傳：倉鼠二廚，小宇宙 編劇：芙紫苑 繪師：天然風，Shiraichi 演員：邢煜—Basil、傅晏淳—Pon，嚴騏—舊衣 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 05 Feb 2021 04:30:09 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "733765b2f33484d6e504b43af5e3845ddbbf21927c79bcf4afe5ad844636f632",
+      "guid": "ckk57ymym890a0892gwn07jo5",
+      "title": {
+        "text": "【預告】休止符之前－邢煜版",
+        "truncated": false
+      },
+      "description": {
+        "text": "各位聽眾朋友們 準備好進入今年度最浪漫的音樂愛情故事了嗎? 《休止符之前》的第一樂章即將展開 讓我們一起進入聲音世界吧！ 歡迎到我們的IG留言給我們喔！ https://open.firstory.me/story/ckk57ymym890a0892gwn07jo5?m=comment Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Jan 2021 09:23:53 GMT",
+      "feed_index": 1
+    }
+  ]
+}

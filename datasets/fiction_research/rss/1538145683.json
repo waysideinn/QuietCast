@@ -1,0 +1,141 @@
+{
+  "show_id": "1538145683",
+  "feed_url": "https://rss.libsyn.com/shows/300239/destinations/2386244.xml",
+  "source": {
+    "url": "https://rss.libsyn.com/shows/300239/destinations/2386244.xml",
+    "final_url": "https://rss.libsyn.com/shows/300239/destinations/2386244.xml",
+    "fetched_at": "2026-10-25T14:42:19.890262+00:00",
+    "status": 200,
+    "sha256": "65ec845f750492259a0191c0a3e07e8168c9b24fded572264c0eea3bc1acb370"
+  },
+  "status": "ok",
+  "title": {
+    "text": "mind your life",
+    "truncated": false
+  },
+  "description": {
+    "text": "mind your life podcastserie, handler om at leve et moderne liv med mening. Lyt med, når vi tager med en række kvinder, der står stærkt, drømmer stort og lever helhjertet igennem fravalg og tilvalg, opture, nedture og hør hvordan de har fundet deres vej i dette både smukke og smertefulde liv – i en verden hvor det ellers kan være svært at finde fodfæste, finde sig selv eller blot finde en halv time til at trække vejret og tænke over tilværelsen. Vi håber, at denne podcast kan inspirere dig.",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "da",
+    "explicit": "false",
+    "type": "episodic",
+    "keywords": ""
+  },
+  "feed_item_count": 47,
+  "episodes": [
+    {
+      "id": "d2b87f4b8c1f4ef2644eba94b77747d194c83a3b86f2a1345a93cb3d5a641084",
+      "guid": "50a5ed5f-e487-4c2d-8ffe-bb57dc827294",
+      "title": {
+        "text": "25 år - Fremtiden er prikket",
+        "truncated": false
+      },
+      "description": {
+        "text": "Mind Your Life-podcast med ejere Rikke Rasmussen & Stine Skjoldborg I denne podcast stopper vi op og gør status. Vi undersøger sammen med Julia Lahme: Hvad vi lærte, hvad det kostede, hvor er vi på hen, og hvad sker der når ens drømme, holdninger og oplevelser bliver et brand, et fællesskab?",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Jan 2026 08:26:00 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "ef0c4db957a781eacd95ce891d65e48f73fa3489c682c6b8a7faf11c86e3aa70",
+      "guid": "c8504483-652c-4ad5-a117-3fb99aa9b6c2",
+      "title": {
+        "text": "Mind your Body med Karina Helsted Moe",
+        "truncated": false
+      },
+      "description": {
+        "text": "I dette afsnit taler vi med åndedrætsterapeut, kropsterapeut og yogalærer Karina Helsted Moe. Karina er også fysioterapeut og psykoterapeut og forfatter til bogen \"Bodyfullness – din vej tilbage i kroppen\". Mange af os lever et liv, hvor vi er alt for meget oppe i hovedet og glemmer at mærke vores krop og de vigtige signaler, som den sender til os. I dette afsnit taler vi med Karina om vigtigheden i at lytte til kroppen, for den hvisker til os hele tiden. Men hvordan lærer vi at høre efter og forstå det, vi mærker, så vi kan blive livfulde i vores krop? Og hvad sker der kropsligt og mentalt, h",
+        "truncated": true
+      },
+      "published_at": "Fri, 21 Oct 2022 05:00:00 +0000",
+      "feed_index": 7
+    },
+    {
+      "id": "69d599dbbddd7f2e6fbf21c67ccb85cc2ff037210699a7842fbcc3921a42bee8",
+      "guid": "baeb080d-6e60-4b11-b6b1-1c6f78e54086",
+      "title": {
+        "text": "mind your nervous system med Evaloa Schou",
+        "truncated": false
+      },
+      "description": {
+        "text": "I dette afsnit taler vi med Evaloa Schou, kropsterapeut, yoga lærer og reikihealer, om kroppen og hvordan vi kan regulere os selv og vores nervesystem. Nervesystemet er nøglen til at behandle mange af vor tids lidelser. Det er nervesystemet, der bestemmer, hvordan vi tager verden ind. Og det sker ubevidst. Nervesystemet påvirker os i en sådan grad, at det også påvirker vores valg i livet, fordi det hele tiden er med til at afgøre, hvordan vi kan være til stede. Når vi lærer at kortlægge og regulere vores nervesystem, kan vi bedre mærke os selv og hvem vi er. Lyt med når vi taler med Evaloa om",
+        "truncated": true
+      },
+      "published_at": "Fri, 26 Aug 2022 05:00:22 +0000",
+      "feed_index": 13
+    },
+    {
+      "id": "4ec7940b3dc9ecc92dbf53bfed8282c8a64481b142fbfc652c5eac407ecea552",
+      "guid": "557ed9bc-fbe5-40ea-86dc-43ff867db802",
+      "title": {
+        "text": "mind your Investments med Beile Grünbaum",
+        "truncated": false
+      },
+      "description": {
+        "text": "Hvad vil det sige at være økonomisk uafhængig - og hvad skal der til? I denne episode taler vi med investeringsekspert Beile Grünbaum. Beile er Cand. Merc. og tidligere erhvervs-journalist på flere danske medier. I dag er hendes mission at lære andre at blive økonomisk uafhængige. Beile startede med at investere i 2005, og siden har hun hver måned lagt et fast beløb til side til investering og opsparing. I dag bor hun i Portugal med sine drenge, hvor hun lever af afkastet fra sine investeringer. Vi taler med Beile om, hvad det egentlig vil sige at være økonomisk afhængig - og ikke mindst hvilk",
+        "truncated": true
+      },
+      "published_at": "Wed, 16 Mar 2022 14:17:34 +0000",
+      "feed_index": 20
+    },
+    {
+      "id": "b719fc73c1076ba4a97af9173f29269bd9b69971cb145b61f3bcff800f0adabe",
+      "guid": "b96d09a1-4f46-4400-92e2-fe2f1b14dee8",
+      "title": {
+        "text": "mind your life episode 2",
+        "truncated": false
+      },
+      "description": {
+        "text": "\"Det gir' mening lige nu at være hjemme med mine børn og opleve tingene sammen\"⁠ ⁠ I dette afsnit taler vi med stylist, freelance-skribent og blogger Frederikke Glob-Toftsø @fredesblog, om hvordan vejen i livet har snoet sig ad omveje fra ung studerende til modeblogger - til en meget bevidst vej ind i moderskabet. ⁠ Vi taler med hende om bumpene på vejen, som hun egentlig holder af, fordi det netop giver hende en bevidsthed om, hvad og hvem hun bruger sin tid og energi på. Vi taler også med hende om, hvordan hun lytter til sin mavefornemmelse, og hvordan netop den er blevet en rettesnor for he",
+        "truncated": true
+      },
+      "published_at": "Wed, 08 Dec 2021 16:11:38 +0000",
+      "feed_index": 26
+    },
+    {
+      "id": "7d96100268c13ce8d41a89fcdd408a1693b5b07e79ce355bcfaa292950a5fe97",
+      "guid": "ea65a0fd-0e87-48db-b00f-d90af417fd13",
+      "title": {
+        "text": "mind your life sæson 3 episode 1",
+        "truncated": false
+      },
+      "description": {
+        "text": "\"Der er meget liv i døden\" I dette afsnit taler vi med Stine Buje, forfatter og foredragsholder, om hvordan livets afslutning kan håndteres værdigt og smukt - hvordan vi kan lære noget af døende og dermed leve vores liv mere fuldt og helt. Døden kan nemlig give smukke og forløsende samtaler om det nære, for der er mange smukke følelser på spil og meget liv på spil i mødet med døden. Mind your life podcastserie, handler om at leve et moderne liv med mening. Lyt med, når vi tager med en række kvinder, der står stærkt, drømmer stort og lever helhjertet igennem fravalg og tilvalg, opture, nedture",
+        "truncated": true
+      },
+      "published_at": "Fri, 20 Aug 2021 11:13:29 +0000",
+      "feed_index": 33
+    },
+    {
+      "id": "d78f2be923e880db22c3f7135ddf9d47d45a8d87f034a8a4a0ce02ef190c9127",
+      "guid": "63d6b221-f3ff-4de7-ace8-b43b2e2fdf32",
+      "title": {
+        "text": "mind your life meditation",
+        "truncated": false
+      },
+      "description": {
+        "text": "Tag med os på en guided meditation, lavet og indtalt af Karen Pallisgaard. I mind your life podcastserien taler vi med en række kvinder, der står stærkt, drømmer stort og lever helhjertet igennem fravalg og tilvalg, opture, nedture og hør hvordan de har fundet deres vej i dette både smukke og smertefulde liv – i en verden hvor det ellers kan være svært at finde fodfæste, finde sig selv eller blot finde en halv time til at trække vejret og tænke over tilværelsen. Journalist: Karen Pallisgaard. Lyd og redigering: Jakob Ranum Musik: Henrik Lindstrand",
+        "truncated": false
+      },
+      "published_at": "Thu, 21 Jan 2021 08:28:17 +0000",
+      "feed_index": 39
+    },
+    {
+      "id": "3a2bc8a4edd9bc0f5d45b754a1ab22268880115e9ef8a68db63b2a5e9464e867",
+      "guid": "82411c1b-fc96-4728-8aa1-c4b393f8efaf",
+      "title": {
+        "text": "mind you life episode 1",
+        "truncated": false
+      },
+      "description": {
+        "text": "Velkommen til Mind Your Life. En podcastserie af Moshi Moshi Mind, der handler om at leve et moderne liv med mening. moshi moshi mind har i mere end 14 år inspireret kvinder til at klæde sig blødt og ukompliceret, trække vejret dybt og trække tempoet ud af hverdagen. Både i det vi bærer og det vi omgiver os med. I denne podcast serie følger vi journalist, forfatter, yoga- og meditationslærer Karen Pallisgaard i samtale med en række kvinder, der står stærkt, drømmer stort og lever helhjertet. Lyt med, når vi tager på tur igennem opture, nedture, fravalg og tilvalg, og hør hvordan kvinderne har",
+        "truncated": true
+      },
+      "published_at": "Mon, 28 Sep 2020 14:15:32 +0000",
+      "feed_index": 46
+    }
+  ]
+}

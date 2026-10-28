@@ -1,0 +1,140 @@
+{
+  "show_id": "1073849513",
+  "feed_url": "http://www.ximalaya.com/album/3156188.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/3156188.xml",
+    "final_url": "http://www.ximalaya.com/album/3156188.xml",
+    "fetched_at": "2026-10-25T14:46:53.726518+00:00",
+    "status": 200,
+    "sha256": "1a411cb36051be32f5d74277e4ed7047a22269ef2d143f8b10cc09f8d5199000"
+  },
+  "status": "ok",
+  "title": {
+    "text": "情迷武侠梦",
+    "truncated": false
+  },
+  "description": {
+    "text": "绝代双骄,侠客情 关注官方微信公众号“奔乐计划”更多精彩等着你！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "keywords": "怀旧|经典,主播|节目",
+    "explicit": "false"
+  },
+  "feed_item_count": 18,
+  "episodes": [
+    {
+      "id": "96214943d281e49735d3150310e1c51bbab52545e20ed686f8a6fec8277e920f",
+      "guid": "http://audio.xmcdn.com/group7/M02/1F/C2/wKgDWlbkG3WSz5jzAL79kesrVVI280.m4a",
+      "title": {
+        "text": "那些年港剧记忆里的金庸 - 其语",
+        "truncated": false
+      },
+      "description": {
+        "text": "歌单详情，请点击节目封面大图>>右划（需将图片右下角“弹”去√哦）",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Mar 2016 08:29:04 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "81991beeae85ae9f58e57c93ba2d9c72e44af09faf496daa65cc801b8387a6c6",
+      "guid": "http://audio.xmcdn.com/group8/M0B/EE/97/wKgDYFaiBaORVQDqAKVKtzVz_bg225.m4a",
+      "title": {
+        "text": "告别我们的青春告别我们的江湖 - 其语",
+        "truncated": false
+      },
+      "description": {
+        "text": "听友交流群一:540596904(已满)、群二:374330430。 关注官方微信公众号“奔乐计划”更多精彩等着你！",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Mar 2016 08:28:51 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "90a93af041feaaa8604f63753603c31069392532b2b94e65d2fd8977271c0371",
+      "guid": "http://audio.xmcdn.com/group10/M07/92/F5/wKgDZ1Y4gbOTHKXwALHEe5cd-LU738.m4a",
+      "title": {
+        "text": "他用歌声唱尽所有八零后武侠情——罗文迷你专辑 20151103",
+        "truncated": false
+      },
+      "description": {
+        "text": "尘缘 铁血丹心 绝代双骄 戏说人生 黄昏",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 Nov 2015 03:42:26 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "bdc35bb3fce095df28d34b5fb6b2fa649b4a67da7e38df069fce6e7334181844",
+      "guid": "http://audio.xmcdn.com/group16/M09/1D/AA/wKgDalV46veB1oKOAbmqbMK-xZY898.m4a",
+      "title": {
+        "text": "2013.09.17《音樂の印象--每个人心中都曾有一个武侠梦》NJ：印象",
+        "truncated": false
+      },
+      "description": {
+        "text": "微信平台：DJmimo（804282288） 听友QQ群[contact removed] 新浪微博：DJ印象 百度贴吧：音乐印象吧",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 Nov 2015 03:36:50 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "0d511f60bc1bf66095934eb530cb07969b7787b6a5a70cbb84cf3252f54cf3b9",
+      "guid": "http://audio.xmcdn.com/group11/M03/2A/83/wKgDa1WGf0LiaaP2ASe7M0BD2wg909.m4a",
+      "title": {
+        "text": "叶蓝怀旧经典（影视金庸第二季 笑傲江湖）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 Nov 2015 03:38:52 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "523504b470d5aa8782169d1563691e631ba847c59b8c7e73eb3e29271f899c27",
+      "guid": "http://audio.xmcdn.com/group9/M09/4A/F9/wKgDZlWu1KGRDlr-AcsYAPfrNvk397.m4a",
+      "title": {
+        "text": "20130724怀旧经典系列之一记忆中的武侠剧--DJ青墨",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 Nov 2015 03:38:10 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "4d108a112e9e25e351cb1bb94f3ac56cfb028c39168c38fdf6996a9501110cf9",
+      "guid": "http://audio.xmcdn.com/group13/M07/52/60/wKgDXlW2A9Ti7uQkAIvLsZ483gQ264.m4a",
+      "title": {
+        "text": "武侠有情，江湖有梦",
+        "truncated": false
+      },
+      "description": {
+        "text": "最近的一次聚会上，朋友跟泽南聊起了古天乐，说他当年演神雕侠侣时还是稚嫩小生，现在已经成了大叔一个。恍然间，发现那个时代，有很多经典的电视剧给我们留下了很深的印象。那么在今天的节目当中，泽南跟你分享，那些曾经风靡一时的武侠经典。 4.歌单： 神话情话-周华健、齐豫 爱江山更爱美人-李丽芬 愿你知我心-梁朝伟 铁血丹心-罗文、甄妮 浮生若梦-张国荣 沧海一声笑-黄霑",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 Nov 2015 03:36:21 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "49fb8f6bff9954bcf47c20cc495506fce369e89b5815593b76bcd4ede1f923d3",
+      "guid": "http://audio.xmcdn.com/group13/M07/41/07/wKgDXVWhjwuBTIyNAFF4Ty2sR-o124.m4a",
+      "title": {
+        "text": "歌声里的武侠江湖1",
+        "truncated": false
+      },
+      "description": {
+        "text": "武侠是中国的特色,武侠剧是中国影视剧独树的一杆旗帜.背刀跨剑的侠客,腥风血雨的武林, 风华绝代的美女，,这就是江湖.罗文 甄妮- ;罗文 甄妮- ;罗文 甄妮- ;秋野- QQ群[contact removed]；验证：叶子",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 Nov 2015 03:33:31 GMT",
+      "feed_index": 17
+    }
+  ]
+}

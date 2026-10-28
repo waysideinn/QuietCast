@@ -1,0 +1,140 @@
+{
+  "show_id": "1578329957",
+  "feed_url": "http://www.ximalaya.com/album/49456370.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/49456370.xml",
+    "final_url": "http://www.ximalaya.com/album/49456370.xml",
+    "fetched_at": "2026-10-25T14:42:58.744408+00:00",
+    "status": 200,
+    "sha256": "341fde7a48be6d4704213e72b27e7eefa00cb4c4f6a4bde8a164ed5296a3702a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "免费 王爷别嚣张｜奇幻有声小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "时爽，在现代社会是位意识超前的服装店女老板，生就一张让人一见倾心的脸，在偶然的穿越之后，遇见了今世的齐云磊的前世，齐云磊在前世名叫齐爷，她与齐爷历经各种波折和磨难，并与齐爷相恋。并为齐爷带去现代社会的各种武器和各种物品，使齐爷成为帝王所宠，在齐爷转世的今生又与其后世齐云磊相知，在他们相识的期间，以古董的所得、出售为线索，牵引故事情节的发展。主人公在前世与今生的来回几次穿越中完成财富的积累和所得，并成为富甲一方的女强人。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 41,
+  "episodes": [
+    {
+      "id": "1f51f256bc0b53008abe0a3bb314186e30f30c1739827a70aaebd4caa8380e8b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/be63-audiofreehighqps/D1/B6/CKwRIRwEcVuNAGFL0gCqH9gl.m4a",
+      "title": {
+        "text": "王爷别嚣张本妃不怕你 001 抱着花瓶穿越了",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 11 May 2021 06:45:03 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ad67cbc03860427d96c27712ff8245d041f702c8878daa34f336e09d58b3559f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/303b-audiofreehighqps/16/94/CKwRIJEEdJGlABAAAACrUXLm.mp3",
+      "title": {
+        "text": "王爷别嚣张本妃不怕你 007 奇珍异宝花了眼",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 15 May 2021 22:59:00 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "4f570ce6624cb3c021a406d8457dad17b88cbf20fe1ae10dd06442b232a08c6a",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4179-audiofreehighqps/EE/CC/CKwRIW4Ed-6hABAAAACsTESh.mp3",
+      "title": {
+        "text": "王爷别嚣张本妃不怕你 012 拍卖会上变富婆",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 May 2021 22:59:00 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "840829275cb873ce2802f3b54bf0e8c5fc55f28341f0a2345622fb25c7360162",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/981f-audiofreehighqps/4B/A7/CKwRIUEEeGwYABAAAACspPxe.mp3",
+      "title": {
+        "text": "王爷别嚣张本妃不怕你 018 吴家小姐不好惹",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 20 May 2021 22:59:00 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "74b2ccf4029b6575bf4f5c983231680c2b1cd209b206f80da857e6c267a1da33",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/58a2-audiofreehighqps/8E/CD/CKwRIMAEe1c3ABAAAACtrNnS.mp3",
+      "title": {
+        "text": "王爷别嚣张本妃不怕你 024 为救情郎进皇宫",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 23 May 2021 22:59:00 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "1f2bab80431a8dd30af32d08d32271ae582a21dfae9bbd2ef5b74f2617ac09c2",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5ab4-audiofreehighqps/8A/D5/CKwRIDoEf1kkABAAAACu87jq.mp3",
+      "title": {
+        "text": "王爷别嚣张本妃不怕你 030 太子府里闹风波",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 26 May 2021 22:59:00 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "178fd1d294dbcb04ffc0f06a1a58bc5c53860157104e91305368366b0bac9d2a",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/277b-audiofreehighqps/A0/28/CKwRIW4El-ZcABAAAAC4AIEw.mp3",
+      "title": {
+        "text": "王爷别嚣张本妃不怕你 035 携手穿越回现代",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 11 Jun 2021 23:32:00 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "d53bbf9977e941c37db95ec2055b3e38397aa347cbe7646068bf14695f97ecca",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/47c7-audiofreehighqps/7A/D0/CKwRIasEtIrGABAAAADB5CHb.mp3",
+      "title": {
+        "text": "王爷别嚣张本妃不怕你 041 全家老小齐出动",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 02 Jul 2021 08:01:33 GMT",
+      "feed_index": 40
+    }
+  ]
+}

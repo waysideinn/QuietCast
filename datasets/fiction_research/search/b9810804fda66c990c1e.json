@@ -1,0 +1,41 @@
+{
+  "group": "boundary",
+  "term": "章节课程",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%AB%A0%E8%8A%82%E8%AF%BE%E7%A8%8B&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%AB%A0%E8%8A%82%E8%AF%BE%E7%A8%8B&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:45:16.803452+00:00",
+    "status": 200,
+    "sha256": "0307fc74dec770586a4603ab325f72b601cf49b0cdb23ed38842212deedb3774"
+  },
+  "result_count": 1,
+  "records": [
+    {
+      "collectionId": 1772544358,
+      "trackId": 1772544358,
+      "collectionName": "微信自媒体速成系统",
+      "artistName": "來自香港的河馬叔叔",
+      "feedUrl": "https://www.ximalaya.com/album/80121750.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%BE%AE%E4%BF%A1%E8%87%AA%E5%AA%92%E4%BD%93%E9%80%9F%E6%88%90%E7%B3%BB%E7%BB%9F/id1772544358?uo=4",
+      "genres": [
+        "创业",
+        "播客",
+        "商务",
+        "教育",
+        "课程"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1304",
+        "1501"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2024-02-18T04:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "创业"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1674296020",
+  "feed_url": "https://anchor.fm/s/4b9e0fac/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/4b9e0fac/podcast/rss",
+    "final_url": "https://anchor.fm/s/4b9e0fac/podcast/rss",
+    "fetched_at": "2026-10-25T14:45:09.635538+00:00",
+    "status": 200,
+    "sha256": "99fb61e8ebbbe615b79a13567228df86513abd6e2b15760728bc4ed66d9be5fe"
+  },
+  "status": "ok",
+  "title": {
+    "text": "MoshiMoshi",
+    "truncated": false
+  },
+  "description": {
+    "text": "Group of 5 friends talking about anime, manga, video games, and even Asian dramas.",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "en",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 14,
+  "episodes": [
+    {
+      "id": "a72daabb72813291fe58bb039153d7222532064ff376b42f6db9e4fa99f0f427",
+      "guid": "f2641ebf-e424-49ff-aa6a-32d2756b42f0",
+      "title": {
+        "text": "Episode 14: Anime conventions once again!",
+        "truncated": false
+      },
+      "description": {
+        "text": "SKELATON CREW with only 3 peeps today we decided to talk about our recent anime con stories or even our past experience! Hope you guys enjoy! Dont forget to follow the main page: @moshi_moshi_podcast as well as VSQZ for lending us his music @itsjustvasquez",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Mar 2023 19:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f7a6bdb63874966b410a64c364dc5fd31fa3e2a4fe2eb6dbcf2f63db600a9821",
+      "guid": "2f880899-b27d-49d0-b8f2-95de571ca028",
+      "title": {
+        "text": "Episode 12: SPECIAL GUEST PART 3",
+        "truncated": false
+      },
+      "description": {
+        "text": "Sorry for our hiatus we are back now We have our special guest Thatoneguywhoquizzedme make sure to follow him on Instagram https://instagram.com/thatoneguywhoquizzedme?utm_medium=copy_link",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Dec 2022 18:53:33 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "4b1468364a7c577da942033d67d811c8c5b8044c3568737a522abea2301d232c",
+      "guid": "cd996070-621a-417a-ba9d-9909b73d74a3",
+      "title": {
+        "text": "Episode 10: SPECIAL GUEST PART 2",
+        "truncated": false
+      },
+      "description": {
+        "text": "NEWCOMER APPROACHING OUR STAGE ONCE AGAIN!!! Dont forget to go and follow our special guests account @thatoneguywhoquizzedme https://linktr.ee/moshimoshipod",
+        "truncated": false
+      },
+      "published_at": "Sat, 20 Feb 2021 00:47:52 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "d7e1e8078860546e0f0f3c25c44a6cc45df4d872b001740dcbf7e12c08f4b9f3",
+      "guid": "32024d23-a1db-43a6-b196-5ce8b34b3a17",
+      "title": {
+        "text": "Episode 8: Christmas Special?",
+        "truncated": false
+      },
+      "description": {
+        "text": "CHRISTMAS EPISODE BOYS AND GIRLS!!! We just created a patreon so make sure to go and check it out if youd like to support us! Heres our linktree for everything we got! https://linktr.ee/moshimoshipod",
+        "truncated": false
+      },
+      "published_at": "Sat, 20 Feb 2021 00:45:47 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "7682e8603fe91285b7e7b8d7ffc03a61de8d0c35341852df70414790a6a710d7",
+      "guid": "eb0d8523-6bd1-4cff-97a9-ec12c7d2b114",
+      "title": {
+        "text": "Episode 7: Filler",
+        "truncated": false
+      },
+      "description": {
+        "text": "Since we tend to get ahead of the manga heres another filler lol Dont forget to follow us @moshi_moshi_podcast",
+        "truncated": false
+      },
+      "published_at": "Sat, 20 Feb 2021 00:43:25 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "dbca046dc3e288d0cd4aabc2153403b160af19a0f344feaf6aebf95f188adac9",
+      "guid": "e943c9cc-05d1-40c3-9853-0beb2dae4880",
+      "title": {
+        "text": "Episode 5: Jeez another filler",
+        "truncated": false
+      },
+      "description": {
+        "text": "Another filler episode because we almost got caught up with our manga. YIKES! Dont forget to follow us @moshi_moshi_podcast",
+        "truncated": false
+      },
+      "published_at": "Sat, 20 Feb 2021 00:41:17 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "106805bd559b8ac299f64c216546efda265421699fde40ca5037b46eefd0962f",
+      "guid": "8d5707b1-9e3a-4f43-8c29-bc11b5047390",
+      "title": {
+        "text": "Episode 3: Happy Halloween?",
+        "truncated": false
+      },
+      "description": {
+        "text": "Happy Halloween to everyone! hope you guys enjoyed our little Halloween special!",
+        "truncated": false
+      },
+      "published_at": "Sat, 20 Feb 2021 00:39:05 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "3efa30768a24756ad3df70adc98a16261c67ad52678c0800ea6238b7019a1126",
+      "guid": "d93c56c3-2b00-47a4-9309-f5afab950b8f",
+      "title": {
+        "text": "Episode 1: Pilot",
+        "truncated": false
+      },
+      "description": {
+        "text": "Pilot episode introducing what we are all about! Make sure to follow us on our instagram @moshi_moshi_podcast",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Feb 2021 16:33:43 GMT",
+      "feed_index": 13
+    }
+  ]
+}

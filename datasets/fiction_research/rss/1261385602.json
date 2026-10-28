@@ -1,0 +1,140 @@
+{
+  "show_id": "1261385602",
+  "feed_url": "http://www.ximalaya.com/album/8685104.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/8685104.xml",
+    "final_url": "http://www.ximalaya.com/album/8685104.xml",
+    "fetched_at": "2026-10-25T14:48:25.316709+00:00",
+    "status": 200,
+    "sha256": "ed0741582febd7ca0e7e07ecf5cb555567a6413203d860bd53608935df675fa2"
+  },
+  "status": "ok",
+  "title": {
+    "text": "漫谈法兰西（泛法语文化）",
+    "truncated": false
+  },
+  "description": {
+    "text": "漫谈法兰西 Parlons de la francophonie 是 一档泛法语文化播客节目，旨在为中文世界的朋友揭开法语世界神秘的面纱。大家可以通过搜索“漫谈法兰西”在喜马拉雅、苹果播客、每日法语听力上找到我们。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 190,
+  "episodes": [
+    {
+      "id": "3b90e5b9bbd3e8de5df8cd371c67d3b3ce82ae3265d2b3ff2b63f472ffebf47c",
+      "guid": "xmly_track_597681973",
+      "title": {
+        "text": "漫谈法兰西194-The First Time Ever I Saw Your Face",
+        "truncated": false
+      },
+      "description": {
+        "text": "The First Time Ever I Saw Your Face Ce jour-là, pour la première fois En voyant tes yeux devant moi J'ai compris soudain d'où venait l'amour Et pourtant tu ne disais rien, mon cœur Et pourtant tu ne disais rien 这首La premiere fois是1969年希腊歌手** Nana Mouskouri演唱。 Nana是上世纪60年代成名，80年代走红全球的国际巨星，被誉为希腊国宝，雅典的白玫瑰。虽然是希腊人，她学习了好几种语言，她60年代去就了巴黎学法文。所以她也演唱了很多法语歌曲。** Nana的这首歌仅仅是翻唱，本期节目的重点，要介绍这首歌的原创英文版本The First time ever I saw your face The First time ever I saw your face写于1957年，是英国民谣创作歌手、演员、诗人Ewan MacColl创作，Ewan的歌以政治题材居多，为了证明自己也能写情歌，恰巧他当时的婚外情恋人、后来的妻子美国歌手Peggy Seeger邀歌，他因此写了这首经典名作。 我们先来收听歌曲故事的亲历者Peggy Seeger于19",
+        "truncated": true
+      },
+      "published_at": "Sun, 18 Dec 2022 08:50:06 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b7dd1185a56d61bbfff66b5d35ac8ad4bb3ef2a60298166ec7b9990064bcfda9",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7705-audiofreehighqps/5D/16/CKwRIRwD7C_vABAAAACB98YF.mp3",
+      "title": {
+        "text": "漫谈法兰西166-法国顶流歌手Gims 2011-2013",
+        "truncated": false
+      },
+      "description": {
+        "text": "录制时间：2021年1月26日 嘉宾：Henry，法国巴黎 出品人&主持人：Charles，广州，微信[contact removed] 本期简介： Gims是一位刚果金歌手和作曲家，他在法国长大，目前居住在法国和摩洛哥。他是嘻哈乐队Sexion d'Assaut的前成员，并于2013年发行了他的首张专辑《 Subliminal》。 在刚刚颁发的NRJ年度流行音乐大奖中，Gims和Elton John, Mariah Carey, IndoChine一同获得award d'honneur 音乐荣誉奖项。 我和Henry将分享他2011年以来的16首代表作 tu reviendras --- l'apogée, 2011 ma direction ---- subliminal 2013 je me tire bella ---- mon cœur avait raison 2015 Est-ce que tu m'aimes? je te pardonne mon cœur avait raison ABCD ---- ceinture noire (transcendance) 2019 hola senorita fet. Maluma caméléon la même fet. Vianney le pire carozon reste fet. Sting ---- le fléau 202",
+        "truncated": true
+      },
+      "published_at": "Sun, 31 Jan 2021 08:42:43 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "9e0a1355fc8b2f29e49a3fcbfefb8b51075aca5f12398820ff625c4cbd0abeca",
+      "guid": "https://aod.cos.tx.xmcdn.com/group79/M0A/29/93/wKgPEF6jvkLDLwIRAUKynRCD0ho262.mp3",
+      "title": {
+        "text": "漫谈法兰西139-法国租借地广州湾（前湛江）为何没有成为第二个香港？",
+        "truncated": false
+      },
+      "description": {
+        "text": "录制时间：2020年4月25日 出品人&主持人：Charles，微信[contact removed] 背景音乐：法国作曲家萨蒂 裸体舞曲 竖琴演奏版 本期简介： 分享微信公号“广州湾历史研究资讯”作者景东升文章 “广州湾为何没有成为第二个香港？” 感谢公号授权 下期将邀请公号作者吴子祺同学连线进一步解读广州湾历史",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Apr 2020 04:36:20 GMT",
+      "feed_index": 54
+    },
+    {
+      "id": "e9e82d57255e6af17d19125b073eab5bea5052009c97b57579ea6de8e80c97bc",
+      "guid": "https://aod.cos.tx.xmcdn.com/group63/M01/08/18/wKgMaF0PKM-h04r6Alug-7RGyGE131.mp3",
+      "title": {
+        "text": "漫谈法兰西112-写法语诗的女孩Olympe",
+        "truncated": false
+      },
+      "description": {
+        "text": "录制时间：2019年6月15日 节目嘉宾：Olympe/地球女侠，宁波，微信公众号 寒来诗往 主持人&出品人：Charles 广州，微信[contact removed] 背景音乐：Au coin du monde, Stacey Kent 嘉宾分享歌曲：Amireux, Gérard Darmon 本期简介： Olympe，2019年CGTN法语大赛中国赛区第七名，宁波法语老师，介绍自己学习法语的历程，写法语诗的故事 Nous Il y a sept ans déjà, Est né un petit bébé, Avec l’amour et l’espoir, Dans ce monde de mille éclats. Alors qu’il n’avait qu’un an. Il pleurait fortement, Il rigolait à tout moment, Il dormait même considérablement. Et moi, Je lui contais pléthores d’histoires, Le cajolais avec une voix plein d’espoir, Lui donnais tout ce qui, Me paraissait être le meilleur. Et puis, Durant des années suivan",
+        "truncated": true
+      },
+      "published_at": "Sun, 23 Jun 2019 07:30:55 GMT",
+      "feed_index": 81
+    },
+    {
+      "id": "3b6f44055fc0e4f38ace9573e0ccacae34d1f2ac13690ea18f42a9f46d28913c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group47/M08/74/B7/wKgKm1uKaACTRtazAk3qx-WiDN8802.mp3",
+      "title": {
+        "text": "漫谈法兰西84-别样毛里塔尼亚",
+        "truncated": false
+      },
+      "description": {
+        "text": "录制时间：2018年8月25日 嘉宾：François 北京，在非洲工作四年 出品人&主持人：Charles 广州 微信[contact removed] 背景音乐：Ne me quitte pas, Richard Clayderman 分享歌曲：Droit devant soi, 音乐剧 小王子 插曲 封面图片： François在毛塔 简介： Fran ç ois聊自己在毛里塔尼亚工作 生活的经历",
+        "truncated": false
+      },
+      "published_at": "Sat, 01 Sep 2018 10:20:53 GMT",
+      "feed_index": 108
+    },
+    {
+      "id": "35d12a0e011cd3e5f40d2e549e0d36d8a86db91d0022f28164746c44448726db",
+      "guid": "https://aod.cos.tx.xmcdn.com/group42/M02/C0/35/wKgJ81q2ZUKROT8eAdAofZeQVvI218.mp3",
+      "title": {
+        "text": "漫谈法兰西55-希腊神话与法语习语",
+        "truncated": false
+      },
+      "description": {
+        "text": "录制时间：2018年3月11日 出品人&主持人：Charles 广州，微信[contact removed] 嘉宾：吕玉冬 北京 《法语词根漫谈》《法语习语源来如此》作者 ，桃子 成都 本期简介：希腊神话来源的法语习语 背景音乐：法国作曲家Faure, Sicilienne, Op. 78",
+        "truncated": false
+      },
+      "published_at": "Sat, 24 Mar 2018 14:50:38 GMT",
+      "feed_index": 135
+    },
+    {
+      "id": "0e74961ea8696f12f9d4abb9f2e2d050a4a8218c11541135de5642f66e9df121",
+      "guid": "https://aod.cos.tx.xmcdn.com/group33/M02/6C/5A/wKgJTFn-SbjApkBhAWcgDNNOz30577.m4a",
+      "title": {
+        "text": "漫谈法兰西28-最美法语香颂5-Gainsbourg&Aznavour",
+        "truncated": false
+      },
+      "description": {
+        "text": "录制时间：2017年10月29日 出品人&主持人：Charles 广州 微信[contact removed] 嘉宾：Qin 深圳 本期简介： 最美法语香颂第五集，介绍Serge Gainsbourg和Charles Aznavour的歌 排名第三的是Serge Gainsbourg的La Javanaise 排名第五的是Charles Aznavour的La Bohème",
+        "truncated": false
+      },
+      "published_at": "Sat, 04 Nov 2017 23:13:20 GMT",
+      "feed_index": 162
+    },
+    {
+      "id": "f3cfb2cd148c052d23c52b9ad96e336c426e29ab6fdc0ebca4db46d0bd3920f0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group29/M03/0F/71/wKgJXVk_8L6SlZPZAXTIZISpS9w487.m4a",
+      "title": {
+        "text": "漫谈法兰西1-法语生活-2017-6-11",
+        "truncated": false
+      },
+      "description": {
+        "text": "录制时间： 2017年6月11日 主持人： Charles 嘉宾： 王教授 主题： Vie du Français 法语人生",
+        "truncated": false
+      },
+      "published_at": "Tue, 13 Jun 2017 14:08:21 GMT",
+      "feed_index": 189
+    }
+  ]
+}

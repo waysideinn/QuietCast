@@ -1,0 +1,140 @@
+{
+  "show_id": "1589363004",
+  "feed_url": "http://www.ximalaya.com/album/53317418.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/53317418.xml",
+    "final_url": "http://www.ximalaya.com/album/53317418.xml",
+    "fetched_at": "2026-10-25T14:54:21.271691+00:00",
+    "status": 200,
+    "sha256": "82df7d38d3bcc0885ad7e41fff51757592dae5b2c23aecda0a5530191dfb0e2a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "猫猫兔阅读｜每天一个好故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "一个不愿付出、不愿冒风险的人，一事无成对他来说是再自然不过的事让人觉得你可有可无，你被踢开的日子就不远了为别人着想，为客户节省时间，成功就离你不远了我们的错误在于，因为外界过多地改变了自己",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 73,
+  "episodes": [
+    {
+      "id": "dc9c0ccf81f449f165e80ef641287e49f40c5e3a17b21b748fc96caa6e9e6676",
+      "guid": "xmly_track_482657467",
+      "title": {
+        "text": "小王子14",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Dec 2021 03:20:07 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "a03af2b64f2946872555072f1d0d89419343a1e878d580440c5ba7d71ea23c72",
+      "guid": "xmly_track_479580223",
+      "title": {
+        "text": "小王子4",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Dec 2021 06:41:15 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "309c8e6032de103ce661dfe8c6ae97f773ede4cc72b355cc2a8b99890751ac39",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2bb1-audiofreehighqps/0D/0E/CKwRIJIFRdflABAAAADulYNe.mp3",
+      "title": {
+        "text": "其实，那是两棵树在倾诉秘密",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Oct 2021 13:08:58 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "7b210b40b9b6e1d598ef9a48849531fc039608ba1d25e659f4689cca2b316e89",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8f32-audiofreehighqps/14/AA/CKwRIW4FQG50ABAAAADtNLnI.mp3",
+      "title": {
+        "text": "世界上最高级的善良",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Oct 2021 10:37:53 GMT",
+      "feed_index": 31
+    },
+    {
+      "id": "8777cb127b6f047304452a3584c1741c12075416553920d06f74d50f6d98b5f3",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0a6f-audiofreehighqps/FC/FC/CKwRIRwFM4pMABAAAADqExTc.mp3",
+      "title": {
+        "text": "人生最大的遗憾是什么",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 06 Oct 2021 15:57:02 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "6c357e5ddd5e80022fda414f354ac819a85816f87ed88b101a705cb052aaed62",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1288-audiofreehighqps/CB/24/CKwRIJIFMGhfABAAAADpRc7C.m4a",
+      "title": {
+        "text": "我一直陶醉于世界的美好之中",
+        "truncated": false
+      },
+      "description": {
+        "text": "生活对任何人来说都不是一件简单的事，我们必须有百折不挠的精神；最重要的是我们对生活必须有信心。我们要相信，我们有自己独到的天赋，并且，无论付出多大代价，我们都要完成该做的事。当一切都完成了，我能够毫无愧疚地说：“我已尽了所有的可能。” 有一年春天的时候，由于生病我一连数周都在家休息。我观察我女儿们的养蚕活动，蚕正在结茧，这让我非常动心。看着这些蚕，它们近乎偏执地在工作，它们是那么勤奋，而且锲而不舍，我觉得我很像它们，能够耐心朝向一个目的。我能够如此，也许是因为有一种超越于我自身的力量在支配我——正如蚕被那种力量驱动着去结茧。",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Oct 2021 06:55:32 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "3e2f241c54364066619ad7b77458dc423c2e9f7cf46c319993bae80f3c5df0d1",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d279-audiofreehighqps/2C/2E/CKwRIDoFKG2DABAAAADncQ02.m4a",
+      "title": {
+        "text": "向左走，向右走",
+        "truncated": false
+      },
+      "description": {
+        "text": "那年的冬天特别寒冷，整个城市笼罩在阴湿的雨里，灰蒙蒙的天空，迟迟不见着阳光，让人感到莫名的沮丧，常常走在街上就有一种落泪的冲动...... 她习惯向左走，他习惯向右走，他们始终不相遇，就像都市里大多数人一样，一辈子也不会认识，却一直生活在一起...... 人生总有许多巧合，两条平行线也可能会有交汇的一天。人生总有许多意外，握在手里面的风筝也会突然断了线。在这个熟悉又陌生的城市中，无助地寻找一个陌生又熟悉的身影。 他们彼此深信，是瞬间的热情让他们相遇,这种相遇是美丽的。",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Sep 2021 05:39:17 GMT",
+      "feed_index": 62
+    },
+    {
+      "id": "39383a683f7083069b31b897bb9dfcfe01e0856d5157420dd6217790b4e35a12",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/fd2a-audiofreehighqps/0E/D0/CKwRIMAFIxRmAArj1gDmFR0u.m4a",
+      "title": {
+        "text": "皇都韵",
+        "truncated": false
+      },
+      "description": {
+        "text": "城市足迹",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Sep 2021 04:17:43 GMT",
+      "feed_index": 72
+    }
+  ]
+}

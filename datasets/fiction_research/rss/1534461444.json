@@ -1,0 +1,84 @@
+{
+  "show_id": "1534461444",
+  "feed_url": "http://www.ximalaya.com/album/32457216.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/32457216.xml",
+    "final_url": "http://www.ximalaya.com/album/32457216.xml",
+    "fetched_at": "2026-10-25T14:51:06.404389+00:00",
+    "status": 200,
+    "sha256": "12bf87a045040dbcf26313e3e80092300da20b53bf2b8f39c0d8416ba714449c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "用心聆听《尤溪笔谈》",
+    "truncated": false
+  },
+  "description": {
+    "text": "用心聆听！ 其实，就是给学生录的，给他们一点学习的动力！录音设备简陋，音质一般，望见谅！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 4,
+  "episodes": [
+    {
+      "id": "dad4b925e22e681d26498f6b79d848f077899231619f9bc605ef74ae9487aed0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group87/M0B/F3/E3/wKg5J17yAtajthZLAFnvd69dVik607.mp3",
+      "title": {
+        "text": "第三期：《故乡的味道》",
+        "truncated": false
+      },
+      "description": {
+        "text": "在远离家乡的 异乡土地上，我时常会有一种 淡淡的思念 和向往，我不知道 这 是不是乡愁。 一个人的内心 会有很多珍藏记忆的角落，故乡的乡音、乡情，故乡的味道 都已作为一种 永恒的记忆 藏在了 我内心 最 纯净的地方。",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 Jun 2020 13:25:47 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "257a3b8ff4051e905a59309abef82319736582a0a03c9b52402fa138ab86b195",
+      "guid": "https://aod.cos.tx.xmcdn.com/group80/M06/A3/BE/wKgPDF6xZ4yDihEIAF9ijuw-S6c814.mp3",
+      "title": {
+        "text": "第二期：《后浪》朗诵版",
+        "truncated": false
+      },
+      "description": {
+        "text": "请查收，B站献给新一代的青年宣言片。献给所有的80、90、00后们！ 以青年宣言《后浪》为词，认可、赞美与寄语年轻一代。 在UP主们的青春混剪中，属于年轻人的光芒正在闪耀。 “你们有幸 遇见这样的时代 但时代更有幸 遇见这样的你们”。",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 May 2020 13:18:06 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "0167d536251c81e79cf512742795b4f13738c1996c9336248ffaae72c9eba3f0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group72/M03/4E/39/wKgO0F4dtHPQ9yvvALq1v3abBCI382.mp3",
+      "title": {
+        "text": "第一期：《所有优秀背后，都是苦行僧般的自律》",
+        "truncated": false
+      },
+      "description": {
+        "text": "第一期，选题警示学生，更是勉励自己！",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Jan 2020 12:30:54 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "a140aea754f74ac971d8401fd5a540eb5a3bf3691dff72f49fd4ba3dc2b5387f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group23/M06/28/8E/wKgJNFgf4UPB3476ACTVXTY2ifA679.m4a",
+      "title": {
+        "text": "开篇寄语：思念",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 07 Nov 2016 02:04:53 GMT",
+      "feed_index": 3
+    }
+  ]
+}

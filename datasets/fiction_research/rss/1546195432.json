@@ -1,0 +1,140 @@
+{
+  "show_id": "1546195432",
+  "feed_url": "https://feeds.soundon.fm/podcasts/ee912847-7614-4484-8b5d-9fcbb6bf9673.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/ee912847-7614-4484-8b5d-9fcbb6bf9673.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/ee912847-7614-4484-8b5d-9fcbb6bf9673.xml",
+    "fetched_at": "2026-10-25T14:56:12.220542+00:00",
+    "status": 200,
+    "sha256": "8ef53f0776a7f655cce99a258ac1d69b74b8f6d51f91f5142df2ea8f039eca1c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "鐵人行軍團-就是愛自助旅行-歐洲篇",
+    "truncated": false
+  },
+  "description": {
+    "text": "歐洲背包自助旅行Podcast ✈️ 準備好自助旅行歐洲了嗎？ ✨幽默介紹 歐洲城市 / 知名景點 ✨好吃+好玩情報 ✨分享自助旅行酸甜苦辣 😆 包含豐富旅遊資訊，足不出戶享受充實的歐洲旅行！ 就是愛自助旅行，就是愛扛著行李箱在歐洲進行鐵人行程！ 幫助您輕鬆掌握自助旅行的技巧，你就是自助旅行歐洲的專家！ 愛旅遊的你，歡迎跟著鐵人行軍團 神農斯 與 Angel 一同神遊歐洲~ 帶你玩翻全歐洲！ Facebook臉書粉絲團 搜尋： 鐵人行軍團 🌟喜歡我們的Podcast,歡迎訂閱､追蹤 ､分享､請幫我們五星評價 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 60,
+  "episodes": [
+    {
+      "id": "c00168a482d34bd1da6f1f4b60dd930ecb792af2a7cc52f2cd8f275f9a636617",
+      "guid": "f2135eff-aaf3-495f-8a74-fb18f473ada5",
+      "title": {
+        "text": "EP.60-莫斯科-跳蚤市場、葉歷西夫超市、新阿爾巴特街:亂逛發現驚喜樂趣",
+        "truncated": false
+      },
+      "description": {
+        "text": "千里迢迢來到莫斯科 參觀完許多景點，總要帶點伴手禮回去吧! 莫斯科想逛街想血拚想買伴手禮要去哪裡找呢? 這一集讓鐵人行軍團為您仔細介紹吧~ 小額贊助支持本節目： https://open.firstory.me/user/ckkma5azjnv0n0813j9o1b8ub",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Mar 2023 17:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "67be07b2d0d9c549d8b0b772f1655ceaad0ee09d7f70af86408098eb871af956",
+      "guid": "c5fe1e3a-134a-46b9-84b4-03ff05c85b3c",
+      "title": {
+        "text": "EP.52-莫斯科-莫斯科地鐵：踏進俄羅斯最美麗地下藝術殿堂",
+        "truncated": false
+      },
+      "description": {
+        "text": "太混了吧! 地鐵怎麼也算景點? 不不不，俄羅斯地鐵不一樣 像皇宮、像豪宅、像博物館，就是不像捷運站 想知道哪裡不像嗎? 那就聽下去吧~ 小額贊助支持本節目： https://pay.firstory.me/user/ckkma5azjnv0n0813j9o1b8ub",
+        "truncated": false
+      },
+      "published_at": "Tue, 17 May 2022 18:00:00 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "e9e7e3dc5f6d304c4b2bd467ee9efd74426137a63cf6d48c58aaab860c9073b0",
+      "guid": "b5152975-0a22-484e-9e63-0c83c51e9274",
+      "title": {
+        "text": "EP.43-希臘-米克諾斯島-不可思議的海上寶石",
+        "truncated": false
+      },
+      "description": {
+        "text": "希臘旅遊不介紹小島的話就不完整了 鐵人行軍團首先從雪白的米克諾斯島開始講起 米克諾斯島為什麼吸引人呢? 這裡有什麼獨特的景觀呢? 這一集就讓鐵人行軍團帶您神遊希臘吧~",
+        "truncated": false
+      },
+      "published_at": "Sun, 14 Nov 2021 17:00:00 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "a8b384b182619fd0f6ce267ac035915bf785326bbc6091b4c84bf220eb42774e",
+      "guid": "f9f01323-abfb-4184-a3fe-7624e7d60c38",
+      "title": {
+        "text": "EP.35-羅馬食衣住行介紹.4-傳奇古城任我行",
+        "truncated": false
+      },
+      "description": {
+        "text": "在羅馬自助旅行要搭乘哪種交通工具才方便呢? 鐵人行軍團向您介紹如何在羅馬來去自如 還有大家最關心的治安問題 羅馬常見哪幾種\"錢錢消失的方法\"呢? 鐵人行軍團在這裡也破財囉~ 想知道我們在哪裡倒了大楣呢? 那就聽下去吧~",
+        "truncated": false
+      },
+      "published_at": "Mon, 16 Aug 2021 18:00:00 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "9fd57c67ece98a572fdd54619ae2016345935c013967fa3cd8c57ea947f1302c",
+      "guid": "6f3409a6-57dc-432a-ad5d-7ebebd78d6c8",
+      "title": {
+        "text": "EP.26-羅馬-聖彼得廣場、梵蒂岡博物館(上)~融合文化藝術的極致",
+        "truncated": false
+      },
+      "description": {
+        "text": "聖彼得廣場有埃及方尖碑、有噴泉，還有地上的西風浮雕 廣場地面上還有什麼小秘密呢? 四大博物館的梵蒂岡博物館有哪些必看展品呢? 想深度線上旅遊就別忘收聽這集吧~",
+        "truncated": false
+      },
+      "published_at": "Sun, 13 Jun 2021 17:53:13 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "50c3d28d5785580e7345d9dc571e302b6ad873d099343ade37f98afce7ec7e8b",
+      "guid": "7bbbbf34-a56f-4316-a697-f03832ef5726",
+      "title": {
+        "text": "EP.18-巴黎危險嗎?!交通與犯罪手法介紹-如何防範危險，輕鬆享受自由行！",
+        "truncated": false
+      },
+      "description": {
+        "text": "在巴黎自助旅行有哪些大眾運輸系統呢? 地鐵票有單程票、一日票，還有一周票 如何使用最超值呢? 還有巴黎犯罪手法介紹 旅客就是會走路的提款機 本集介紹巴黎的犯罪手法 也要分享鐵人行軍團在巴黎被偷被騙的悲慘經驗~",
+        "truncated": false
+      },
+      "published_at": "Sun, 18 Apr 2021 17:00:00 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "1b66dc2b638ffabaf263f8900335b0637b735124684336773974908c805376e9",
+      "guid": "45fb0e35-41ac-4845-b0db-0d969ddc3f9f",
+      "title": {
+        "text": "EP.9-《巴黎》萬神殿、傷兵院、瑪摩丹莫內美術館、凡爾賽宮~，掌握法國藝術與歷史的精髓",
+        "truncated": false
+      },
+      "description": {
+        "text": "萬神殿、傷兵院、瑪摩丹莫內美術館、凡爾賽宮各有哪裡必看? 這集有四個巴黎遺珠景點 聽神農斯為您細細介紹 別人的遺珠或許是你去巴黎的珍珠景點喔!",
+        "truncated": false
+      },
+      "published_at": "Sun, 14 Feb 2021 17:00:00 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "b2695d0ef50c9913c27ec99adb4d0a39fc87e9bee4814e29590885a08d638d94",
+      "guid": "77e9aedb-98c0-4e84-a8e3-9e94e1ef8ad2",
+      "title": {
+        "text": "EP.1-《巴黎》奧賽美術館、聖母院~經典藝術品寶庫，千年文化遺產見證者",
+        "truncated": false
+      },
+      "description": {
+        "text": "如何自助旅行?要參觀哪些景點?根據Tripadvisor的景點排名 從《巴黎》講起！跟著鐵人行軍團一起前進歐洲吧~ 奧賽美術館如何由火車站變成美術館？ 聖母院儘管歷經烈焰吞噬，聽本集Podcast好好思念這座巴黎聖母院 最強參觀攻略懶人包 也歡迎大家搜尋臉書粉絲團\"鐵人行軍團-就是愛自助旅行\"與痞客邦網誌\"就是愛試試\" 留下您寶貴的意見",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Dec 2020 08:48:02 GMT",
+      "feed_index": 59
+    }
+  ]
+}

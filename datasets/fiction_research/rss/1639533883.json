@@ -1,0 +1,140 @@
+{
+  "show_id": "1639533883",
+  "feed_url": "https://www.ximalaya.com/album/70232711.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/70232711.xml",
+    "final_url": "https://www.ximalaya.com/album/70232711.xml",
+    "fetched_at": "2026-10-25T14:44:42.029632+00:00",
+    "status": 200,
+    "sha256": "178bd698abb1ea96dc9bdd7f328bf4c915eaef0c66bd7ab065f686d67d9e9fd9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【双播/免费】快穿系统之世世有你 | 爆笑言情重生",
+    "truncated": false
+  },
+  "description": {
+    "text": "快穿系统，现言+古言，短篇爆笑温情轻松 同步推荐： 搞笑宫斗剧《王爷你认错王妃了》 都市甜宠文《失忆老婆哪里逃》 都市爆笑爽文《总裁是只坏狐狸》 莫浠浠，本是一位天真可爱又单纯的妹纸，却意外被绑定系统小九……结果，才刚派任务，系统小九就郁闷了：当初选人的时候怎么会混进去这么一个玩意？贪吃，佛系，胆小，怕疼，懒散……简直就是二十一世纪的毒瘤！蛀虫！吃啥啥不剩，干啥啥不行！ 在第一个世界里，为了促成男女主，她必须引起男配江牧天的注意，结果江牧天爱上了她，当然，她也很乐意一边做任务，一边谈恋爱，结果，系统小九一句“好了，现在任务完成了，我们去下一个世界。”，莫浠浠郁闷了！ 这是一本系统快穿文，不长，也就穿了三个世界，自称正经的系统（不靠谱），号称三观正的男女主（渣渣），胆小心软的宿主（打脸专家），在一世又一世的任务中，一次次立flag,一次次打脸；一次次遭遇系统bug，剧情线崩溃，系统当机，啼笑皆非。轻松搞笑之余，又不乏温情暖意，让人感叹缘份天注定。 希望让你在工作学习之余，能得到片刻放空，如能让你开怀一笑，兔子的目的就达到了。期待你的订阅收听和评论哦。 每晚6：00更一集，如遇打赏，更新+1 兔子的QQ听友群：690327935（用于上新和活动通知）",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 48,
+  "episodes": [
+    {
+      "id": "c219f822e15bd79be1c1746b774ebbf4b2d42a58afe1b47eb461e10924bf3aa9",
+      "guid": "xmly_track_560522920",
+      "title": {
+        "text": "新书来袭，先听为快，剧透一丢丢（搞笑宫斗剧《王爷你认错王妃了》等你来听哦）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 12 Aug 2022 06:27:05 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "454b18fc5a11c9f9b8b075159172d994359752ab5b879ba2be6ad4054a0d77f5",
+      "guid": "xmly_track_561098409",
+      "title": {
+        "text": "快穿系统之世世有你 第七集 原来只是因为怕疼（新书《王爷你认错王妃了》等你来听哦）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 14 Aug 2022 10:00:07 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "a4ee8a45aa516d71dd17993b2f8fe58dcdec2395311119da9cee8c7b1bf1bb7e",
+      "guid": "xmly_track_562739670",
+      "title": {
+        "text": "快穿系统之世世有你 第十三集 拒绝",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 20 Aug 2022 10:00:07 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "41f48dc589fa4245f54790abf88f9aa92de001627dea0175039105f8e2135236",
+      "guid": "xmly_track_564560030",
+      "title": {
+        "text": "快穿系统之世世有你 第二十集 约会",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 27 Aug 2022 10:00:11 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "3c67457bb3fe3f7f02c74403f5655ae394d4a3679bdd90fb5f1d9cc7a1f7f3bc",
+      "guid": "xmly_track_566321163",
+      "title": {
+        "text": "快穿系统之世世有你 第二十七集 稳住他？吻住他！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 03 Sep 2022 10:00:08 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "ad49a2bc133191f83d2263777a1b3bb4ae589461b19525b443d61afb1250245c",
+      "guid": "xmly_track_568164113",
+      "title": {
+        "text": "快穿系统之世世有你 第三十四集 收江牧天为徒",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 10 Sep 2022 10:00:10 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "ee58e2b89fcefbb7eb67a885256b9b5421386434ceaddc9e82bcab741235e57c",
+      "guid": "xmly_track_569731151",
+      "title": {
+        "text": "快穿系统之世世有你 第四十集 没有努力的理由",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 16 Sep 2022 10:00:11 GMT",
+      "feed_index": 40
+    },
+    {
+      "id": "cdb57ffa40ecbc6efdfe5f6e9534e56ad1de90dfbb98a2165849fdf1e44d2aa6",
+      "guid": "xmly_track_571588732",
+      "title": {
+        "text": "快穿系统之世世有你 第四十七集 光明正大的束缚在身边（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Sep 2022 10:00:07 GMT",
+      "feed_index": 47
+    }
+  ]
+}

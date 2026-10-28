@@ -1,0 +1,56 @@
+{
+  "show_id": "1584950371",
+  "feed_url": "https://anchor.fm/s/28247b4c/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/28247b4c/podcast/rss",
+    "final_url": "https://anchor.fm/s/28247b4c/podcast/rss",
+    "fetched_at": "2026-10-25T14:43:07.557532+00:00",
+    "status": 200,
+    "sha256": "765148be37ba8620ef86647d6d051c17548ce21d87de1c21a1b9e7aaf21fb923"
+  },
+  "status": "ok",
+  "title": {
+    "text": "末世福音",
+    "truncated": false
+  },
+  "description": {
+    "text": "通过学习预言来认识耶稣和经历福音",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 2,
+  "episodes": [
+    {
+      "id": "e997b79d38792c521f2bc261c33ac90482bcf5bff480af2a617bcd84195c4cb5",
+      "guid": "93992351-ad8e-4c0b-855d-28ed2ca1aca1",
+      "title": {
+        "text": "为什么要学习但以理书",
+        "truncated": false
+      },
+      "description": {
+        "text": "圣经里面的两个原因为什么今天的我们要学习但以理书",
+        "truncated": false
+      },
+      "published_at": "Thu, 07 Oct 2021 04:13:33 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1165bba1fb28ed4ff93c862acba6ffd9f635051b11c9151f9374a6021d074322",
+      "guid": "2905c8f9-1e58-4bf2-bdf2-126e544b77ae",
+      "title": {
+        "text": "为什么要学习预言",
+        "truncated": false
+      },
+      "description": {
+        "text": "通过学习预言，我们可以更好的认识耶稣和救赎的计划，更好的帮助我们经历福音。",
+        "truncated": false
+      },
+      "published_at": "Wed, 08 Sep 2021 08:10:35 GMT",
+      "feed_index": 1
+    }
+  ]
+}

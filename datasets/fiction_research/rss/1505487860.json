@@ -1,0 +1,140 @@
+{
+  "show_id": "1505487860",
+  "feed_url": "http://www.ximalaya.com/album/26554644.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/26554644.xml",
+    "final_url": "http://www.ximalaya.com/album/26554644.xml",
+    "fetched_at": "2026-10-25T14:49:50.127155+00:00",
+    "status": 200,
+    "sha256": "cf761ccfea5ec0870f7dae415678bf92da6a57112b3ea915a168d436b5ab059a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "有声书｜牛 虻（世界名著）",
+    "truncated": false
+  },
+  "description": {
+    "text": "一生必听经典 “无论我是活着，还是死去，我都是一只牛虻，快乐地飞来飞去” 生于爱尔兰的女作家艾捷尔·丽莲·伏尼契（Ethel Lilian Voynich 1864-1960）百年前著成的《牛虻》（1897年在英国出版），可以无愧于“伟大”一词的称誉。她笔下那个充满理想主义情怀，为祖国独立奉上生命的年轻意大利烧炭党人，在革命时代的苏联与中国青年心中是独一无二的存在。 这部左右了两个国家一整代人价值观的作品，时间已令它成为了经典。关于《牛虻》，它对理想始终不渝的殉道精神；它爱情和责任的冲突；它由人伦引发的痛苦与悲剧各有不同的理解。 1840年代奥地利统治下的意大利，是一个充满起义和反抗的时代。 故事围绕主角亚瑟伯顿，一名青年运动的成员，和他的对手蒙塔内利。 同时，亚瑟和他爱的琼玛悲剧性的关系也贯穿了整个故事。 这是一个关于信仰、幻灭、革命、爱情和英雄主义的故事。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 17,
+  "episodes": [
+    {
+      "id": "7f0c6df4ae7a532c9c361c009663d75839ae2249cb6e6cc400b547faa0dc6836",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f4df-audiofreehighqps/9D/ED/CMCoOSIDqceJAHO-UgBwblf8-aacv2-48K.m4a",
+      "title": {
+        "text": "牛虻 - 01",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 28 Aug 2019 06:55:43 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8a5b60cfd0e028d7c92ce95ca7cbc4406d7b6fdca9fea4d895e6409811d8a63a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group69/M0A/B9/47/wKgMeV2y4KWivximADevzuJgBog429-aacv2-48K.m4a",
+      "title": {
+        "text": "牛虻 - 03",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Oct 2019 11:46:53 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "56999ac88201f43658924ca767b8c39e652386a19781553ee3b4f77412287cc3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group67/M07/DF/DF/wKgMbV21agDiE5nBAFV9zHTuiB0547-aacv2-48K.m4a",
+      "title": {
+        "text": "牛虻 - 06",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Oct 2019 10:02:17 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "59bc2c55a62a42f606c246fb5764f5e198e0840e56fae42d4c641cec8554c712",
+      "guid": "https://aod.cos.tx.xmcdn.com/group67/M01/11/62/wKgMbV24PN_RUOb3AE9k1yffmpA459-aacv2-48K.m4a",
+      "title": {
+        "text": "牛虻 - 08",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Oct 2019 12:53:49 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "1a6de4ac9686716abbe513047508d4a05622e5a07c0961a255878cdb7c59c08b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group72/M01/8A/2E/wKgO0F4XBzTRT0apAFZFF4neV_c048-aacv2-48K.m4a",
+      "title": {
+        "text": "牛虻 - 10",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 30 Oct 2019 06:49:35 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "cbc6c7062ec566dd67a392ff722b020f5edb7cd7df3d3ae6d379f28f7a7bbe34",
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M06/4C/03/wKgO2F4XDm2BYVslAGJ3bhGErgY454-aacv2-48K.m4a",
+      "title": {
+        "text": "牛虻 - 12",
+        "truncated": false
+      },
+      "description": {
+        "text": "“无论我是活着，还是死去，我都是一只牛虻，快乐地飞来飞去” 生于爱尔兰的女作家艾捷尔·丽莲·伏尼契（Ethel Lilian Voynich 1864-1960）百年前著成的《牛虻》（1897年在英国出版），可以无愧于“伟大”一词的称誉。她笔下那个充满理想主义情怀，为祖国独立奉上生命的年轻意大利烧炭党人，在革命时代的苏联与中国青年心中是独一无二的存在。 这部左右了两个国家一整代人价值观的作品，时间已令它成为了经典。关于《牛虻》，它对理想始终不渝的殉道精神；它爱情和责任的冲突；它由人伦引发的痛苦与悲剧各有不同的理解。 1840年代奥地利统治下的意大利，是一个充满起义和反抗的时代。 故事围绕主角亚瑟伯顿，一名青年运动的成员，和他的对手蒙塔内利。 同时，亚瑟和他爱的琼玛悲剧性的关系也贯穿了整个故事。 这是一个关于信仰、幻灭、革命、爱情和英雄主义的故事。",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Jan 2020 11:28:24 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "974ee4eb97d7b60df9741f2549a325291d18ff4468588c3fdbeefd519dcd5255",
+      "guid": "https://aod.cos.tx.xmcdn.com/group71/M05/74/5B/wKgO2V4qTZHQQEj0AIoSyNAzLU4869-aacv2-48K.m4a",
+      "title": {
+        "text": "牛虻 - 15",
+        "truncated": false
+      },
+      "description": {
+        "text": "“无论我是活着，还是死去，我都是一只牛虻，快乐地飞来飞去” 生于爱尔兰的女作家艾捷尔·丽莲·伏尼契（Ethel Lilian Voynich 1864-1960）百年前著成的《牛虻》（1897年在英国出版），可以无愧于“伟大”一词的称誉。她笔下那个充满理想主义情怀，为祖国独立奉上生命的年轻意大利烧炭党人，在革命时代的苏联与中国青年心中是独一无二的存在。 这部左右了两个国家一整代人价值观的作品，时间已令它成为了经典。关于《牛虻》，它对理想始终不渝的殉道精神；它爱情和责任的冲突；它由人伦引发的痛苦与悲剧各有不同的理解。 1840年代奥地利统治下的意大利，是一个充满起义和反抗的时代。 故事围绕主角亚瑟伯顿，一名青年运动的成员，和他的对手蒙塔内利。 同时，亚瑟和他爱的琼玛悲剧性的关系也贯穿了整个故事。 这是一个关于信仰、幻灭、革命、爱情和英雄主义的故事。",
+        "truncated": false
+      },
+      "published_at": "Thu, 23 Jan 2020 13:08:03 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "051720ff87e5bd2796d30d691b344c25b21afc770fdaac1df61facd2d612c824",
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M0A/A6/E6/wKgOzl46SrOzhK3pAL-6rAp1Gdg982-aacv2-48K.m4a",
+      "title": {
+        "text": "牛虻 - 17",
+        "truncated": false
+      },
+      "description": {
+        "text": "“无论我是活着，还是死去，我都是一只牛虻，快乐地飞来飞去” 生于爱尔兰的女作家艾捷尔·丽莲·伏尼契（Ethel Lilian Voynich 1864-1960）百年前著成的《牛虻》（1897年在英国出版），可以无愧于“伟大”一词的称誉。她笔下那个充满理想主义情怀，为祖国独立奉上生命的年轻意大利烧炭党人，在革命时代的苏联与中国青年心中是独一无二的存在。 这部左右了两个国家一整代人价值观的作品，时间已令它成为了经典。关于《牛虻》，它对理想始终不渝的殉道精神；它爱情和责任的冲突；它由人伦引发的痛苦与悲剧各有不同的理解。 1840年代奥地利统治下的意大利，是一个充满起义和反抗的时代。 故事围绕主角亚瑟伯顿，一名青年运动的成员，和他的对手蒙塔内利。 同时，亚瑟和他爱的琼玛悲剧性的关系也贯穿了整个故事。 这是一个关于信仰、幻灭、革命、爱情和英雄主义的故事。",
+        "truncated": false
+      },
+      "published_at": "Tue, 04 Feb 2020 14:23:20 GMT",
+      "feed_index": 16
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1649513245",
+  "feed_url": "https://www.ximalaya.com/album/32762910.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/32762910.xml",
+    "final_url": "https://www.ximalaya.com/album/32762910.xml",
+    "fetched_at": "2026-10-25T14:44:51.308449+00:00",
+    "status": 200,
+    "sha256": "39ef6ad261357a58a4eb7b310754c0dea9a31adb65f193ad91305f637359a10a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "鬼瞳 | 恐怖悬疑 | 灵异 | 免费有声小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "一个生来就不平凡的男孩，一个一出生就注定了很多人要死的男孩，一个被村里人叫做“鬼娃”的男孩……经历了别人几辈子都不可能撞见的恐怖惊悚事件。他到底是谁？为什么惊动了整个阴界？订阅不迷路，打赏是真心！ 早期作品多多包涵。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 95,
+  "episodes": [
+    {
+      "id": "cfccc981a6037f7f7e051a9c4b52b712aa7f82e2b55e57a5632d1184b13e7ed1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group72/M0A/22/A0/wKgO0F4tzjKD_xLAAGJChhoLI3U968-aacv2-48K.m4a",
+      "title": {
+        "text": "《鬼瞳》第一章（早期作品，播的不好，请多包涵）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 26 Jan 2020 17:36:40 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f1528f1be579938bb7ccb0da96987d2502a9b799bbaf42fcdc432edd46399bf7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group72/M0B/EC/88/wKgO0F45MVGhoAKmAFpZjT6LDqw195-aacv2-48K.m4a",
+      "title": {
+        "text": "《鬼瞳》第十四章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 04 Feb 2020 16:06:00 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "dc38559169899029dcd631d5eca286eb8fc97ad177d94bccd1ed20f2aca9bea9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group72/M05/58/0C/wKgO0F5ALuyTwZCfAFzrfluBFlo442-aacv2-48K.m4a",
+      "title": {
+        "text": "《鬼瞳》第二十八章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 09 Feb 2020 16:06:01 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "22ceb2951e2df0bb93f07da463c520e863517b1524d3644165bebdefbdfbf7bf",
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M0A/B4/9E/wKgOzl5EAfDSjl2nAGGuNle1B-8124-aacv2-48K.m4a",
+      "title": {
+        "text": "《鬼瞳》第四十一章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 13 Feb 2020 16:16:00 GMT",
+      "feed_index": 40
+    },
+    {
+      "id": "60782304111264966a1166d95c2341831bad9d3f9290f4f100efe07f0c6ed4d7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group74/M01/49/1E/wKgO0l5KvBaQYlfYAF5BjQBH5YI346-aacv2-48K.m4a",
+      "title": {
+        "text": "《鬼瞳》第五十五章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Feb 2020 16:15:00 GMT",
+      "feed_index": 54
+    },
+    {
+      "id": "02f1c1afa5bb17a024c64a855bad46f3d0c6e633683eaefe8024d5ac6721b8ea",
+      "guid": "https://aod.cos.tx.xmcdn.com/group77/M06/98/E8/wKgO315RUXmjRJBGAFFIJ_-zByw415.m4a",
+      "title": {
+        "text": "《鬼瞳》第六十八章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 22 Feb 2020 16:06:00 GMT",
+      "feed_index": 67
+    },
+    {
+      "id": "d140665721a78b836846707c0d98b17948e4a72dcf08df945fef8a9229b0f556",
+      "guid": "https://aod.cos.tx.xmcdn.com/group78/M08/E3/FD/wKgO4F5WmkbByIrWAFtRURXShc8462-aacv2-48K.m4a",
+      "title": {
+        "text": "《鬼瞳》第八十二章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 26 Feb 2020 16:18:00 GMT",
+      "feed_index": 81
+    },
+    {
+      "id": "dc3f80918ef5e091193c075f85d0f830781df587688f137ee20abd234ca5d507",
+      "guid": "https://aod.cos.tx.xmcdn.com/group74/M0B/59/4B/wKgO0l5dLr2hFju2AFWc3DgvGqQ393-aacv2-48K.m4a",
+      "title": {
+        "text": "《鬼瞳》第九十五章（大结局下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 02 Mar 2020 16:05:01 GMT",
+      "feed_index": 94
+    }
+  ]
+}

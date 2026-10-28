@@ -1,0 +1,127 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/3613218.xml",
+    "final_url": "http://www.ximalaya.com/album/3613218.xml",
+    "fetched_at": "2026-10-26T07:58:36.054091+00:00",
+    "status": 200,
+    "sha256": "a2a369468621b031070a3b448270848de2c0798d5b942466c94b34ba091bde46"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "故乡是都市夜的一盏暖灯",
+      "truncated": false
+    },
+    "description": {
+      "text": "故乡，都市夜归人的一盏暖灯，漂泊于都市人群中的你，有一盏暖灯在等待着你~",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "喜马拉雅FM @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "喜游记"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "喜游记"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Places & Travel"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/3613218",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 6
+    },
+    "feed_item_count": 6,
+    "episodes": [
+      {
+        "title": {
+          "text": "【江西南昌】这里是江南昌盛之地，特产男神“经”和美食",
+          "truncated": false
+        },
+        "description": {
+          "text": "春节将至，“U anchors”主播做地陪，聊聊家乡的一切，这样的旅游秘籍不是哪里都能听到！",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group14/M09/F2/7B/wKgDY1alwgqTXkZQAGdHMzMIeBY840.m4a"
+      },
+      {
+        "title": {
+          "text": "【陕西西安】救了赵匡胤一命的羊肉泡馍",
+          "truncated": false
+        },
+        "description": {
+          "text": "春节将至，“U anchors”主播做地陪，聊聊家乡的一切，这样的旅游秘籍不是哪里都能听到！",
+          "truncated": false
+        },
+        "feed_index": 1,
+        "guid": "https://aod.cos.tx.xmcdn.com/group12/M08/F1/05/wKgDXFalvl3xT25NAEr-u6tt7H4399.m4a"
+      },
+      {
+        "title": {
+          "text": "【山西太原】爱“吃醋”又爱“面儿”的山西人",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 2,
+        "guid": "https://aod.cos.tx.xmcdn.com/group12/M04/F1/00/wKgDXFaluHGy546TAGrNUzTFmIM729.m4a"
+      },
+      {
+        "title": {
+          "text": "【浙江杭州】西湖水浪打浪，全靠白居易来维护",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 3,
+        "guid": "https://aod.cos.tx.xmcdn.com/group10/M07/EF/F1/wKgDaValy8nDzUCaAFFj02XMZpM665.m4a"
+      },
+      {
+        "title": {
+          "text": "【河北秦皇岛】天堂应该是图书馆拥着大海的模样",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 4,
+        "guid": "https://aod.cos.tx.xmcdn.com/group14/M02/F2/71/wKgDY1alt5ChfL-SAEBQbFmwm8U634.m4a"
+      },
+      {
+        "title": {
+          "text": "【北京】齐咚隆咚呛，帝都庙会全攻略",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 5,
+        "guid": "https://aod.cos.tx.xmcdn.com/group13/M0B/F1/9D/wKgDXlalt_7Tig6yAE8AE9WXerc529.m4a"
+      }
+    ]
+  }
+}

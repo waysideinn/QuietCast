@@ -1,0 +1,140 @@
+{
+  "show_id": "1633015940",
+  "feed_url": "https://www.ximalaya.com/album/56402108.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/56402108.xml",
+    "final_url": "https://www.ximalaya.com/album/56402108.xml",
+    "fetched_at": "2026-10-25T14:44:34.133498+00:00",
+    "status": 200,
+    "sha256": "1efdedea96497653b3d85471f92d9d1673572b17450a29af67a483ee40ac5f51"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【免费双播精品】绝世医妃之双凤手镯|古言穿越|王爷",
+    "truncated": false
+  },
+  "description": {
+    "text": "现代医学天才的她，在实验室遭遇枪杀。一朝重生成为苏府庶出心智不全的二小姐，爹爹姐姐为攀附权贵，把她嫁给个太监，哦不对……是王爷？！天下格局变幻莫测，各方势力在粉饰的太平下暗潮汹涌，异世灵魂又该如何自处，她的出现是意外还是命中注定？",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 842,
+  "episodes": [
+    {
+      "id": "497b4aa6c29310936ea5bff822bfa977c803e8ebed967a0cc3feaf3460b11f08",
+      "guid": "xmly_track_493319359",
+      "title": {
+        "text": "绝世医妃之双凤手镯 001【免费！《错嫁复仇》新坑已开，速抢前排！】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Jan 2022 10:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "25011520bd2f814be9e4c9ba2dc5d9e0efa05b5af6d18ff19e97745811243439",
+      "guid": "xmly_track_496533029",
+      "title": {
+        "text": "绝世医妃之双凤手镯 121",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 08 Feb 2022 10:00:08 GMT",
+      "feed_index": 120
+    },
+    {
+      "id": "c367f6e29acedc148eea4d5a089053a290fbc50844aab4cf637c34588af450cd",
+      "guid": "xmly_track_506916560",
+      "title": {
+        "text": "绝世医妃之双凤手镯 241",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Mar 2022 10:00:08 GMT",
+      "feed_index": 240
+    },
+    {
+      "id": "3ab2d450c4ee22ee3862dff3ea946901b941e22313c9e89f75d4f6802a66fac4",
+      "guid": "xmly_track_513478895",
+      "title": {
+        "text": "绝世医妃之双凤手镯 361(喜欢不要忘记点赞评论分享哟~爱你们）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 22 Mar 2022 10:00:38 GMT",
+      "feed_index": 360
+    },
+    {
+      "id": "c11117f29e465da52eecbcbd5cbd9456f0a86bbda0490e4dfefb14814cfcfa9c",
+      "guid": "xmly_track_519479348",
+      "title": {
+        "text": "绝世医妃之双凤手镯 482",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Apr 2022 10:00:00 GMT",
+      "feed_index": 481
+    },
+    {
+      "id": "a7e7774ad29f219ed06bcb59f70d4fb3ad12a35aaa153ce635074743aca0d276",
+      "guid": "xmly_track_527105997",
+      "title": {
+        "text": "绝世医妃之双凤手镯 602",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 04 May 2022 10:00:00 GMT",
+      "feed_index": 601
+    },
+    {
+      "id": "553e25f2efa083ca8b478ef7dccd282fecda5fcfdf88740525a0341f6702c9da",
+      "guid": "xmly_track_535070248",
+      "title": {
+        "text": "绝世医妃之双凤手镯 722",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 May 2022 10:00:00 GMT",
+      "feed_index": 721
+    },
+    {
+      "id": "59f280ca16cebbfd60849ec86563c49c3c1eb3dc8e31e23587317daafcfd82bf",
+      "guid": "xmly_track_538938191",
+      "title": {
+        "text": "绝世医妃之双凤手镯 842完结",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Jun 2022 10:00:10 GMT",
+      "feed_index": 841
+    }
+  ]
+}

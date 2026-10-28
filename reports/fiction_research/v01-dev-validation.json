@@ -1,0 +1,543 @@
+{
+  "split": "dev",
+  "status": "not_measured_no_human_labels",
+  "independent": false,
+  "snapshot": {
+    "rules": "79a30a8bedce4d7ffbdbbfb4fdd7ba6d60b51bfd37e0aa7e26706506f5a992e4",
+    "corpus": "e5b065124b15fccbec4e1aa157173520d885a8539e81b78c84ee8b9e8836a542",
+    "labels": "99d3d0afef5bc705a47420c00c2d081b9088406dbd93e124931486fef03ea146"
+  },
+  "formal": {
+    "show": {
+      "count": 0,
+      "confusion": {},
+      "fiction_block_recall": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "nonfiction_false_block_rate": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "precision": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "review_rate": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "uncertain_blocked": 0,
+      "subtype": {}
+    },
+    "episode": {
+      "count": 0,
+      "confusion": {},
+      "fiction_block_recall": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "nonfiction_false_block_rate": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "precision": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "review_rate": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "uncertain_blocked": 0,
+      "subtype": {}
+    }
+  },
+  "agent_exploratory": {
+    "show": {
+      "count": 27,
+      "confusion": {
+        "fiction/block": 11,
+        "fiction/allow": 8,
+        "nonfiction/allow": 6,
+        "uncertain/block": 1,
+        "uncertain/review": 1
+      },
+      "fiction_block_recall": {
+        "n": 11,
+        "d": 19,
+        "value": 0.5789473684210527,
+        "wilson95": [
+          0.3627590353425504,
+          0.7685810871754576
+        ]
+      },
+      "nonfiction_false_block_rate": {
+        "n": 0,
+        "d": 6,
+        "value": 0.0,
+        "wilson95": [
+          2.7755575615628914e-17,
+          0.3903342879021653
+        ]
+      },
+      "precision": {
+        "n": 11,
+        "d": 11,
+        "value": 1.0,
+        "wilson95": [
+          0.7411670330319684,
+          1
+        ]
+      },
+      "review_rate": {
+        "n": 1,
+        "d": 27,
+        "value": 0.037037037037037035,
+        "wilson95": [
+          0.006568145980785103,
+          0.18283465933575843
+        ]
+      },
+      "uncertain_blocked": 1,
+      "subtype": {
+        "audio_drama": {
+          "n": 4,
+          "d": 4,
+          "value": 1.0,
+          "wilson95": [
+            0.5101091635454027,
+            1
+          ]
+        },
+        "children": {
+          "n": 2,
+          "d": 2,
+          "value": 1.0,
+          "wilson95": [
+            0.34238022750665303,
+            1
+          ]
+        },
+        "contemporary": {
+          "n": 1,
+          "d": 1,
+          "value": 1.0,
+          "wilson95": [
+            0.20654931437723745,
+            1
+          ]
+        },
+        "horror": {
+          "n": 0,
+          "d": 1,
+          "value": 0.0,
+          "wilson95": [
+            0,
+            0.7934506856227626
+          ]
+        },
+        "romance": {
+          "n": 1,
+          "d": 1,
+          "value": 1.0,
+          "wilson95": [
+            0.20654931437723745,
+            1
+          ]
+        },
+        "science_fiction": {
+          "n": 1,
+          "d": 3,
+          "value": 0.3333333333333333,
+          "wilson95": [
+            0.06149194472039621,
+            0.7923403991979522
+          ]
+        },
+        "suspense": {
+          "n": 1,
+          "d": 3,
+          "value": 0.3333333333333333,
+          "wilson95": [
+            0.06149194472039621,
+            0.7923403991979522
+          ]
+        },
+        "time_travel": {
+          "n": 0,
+          "d": 1,
+          "value": 0.0,
+          "wilson95": [
+            0,
+            0.7934506856227626
+          ]
+        },
+        "wuxia": {
+          "n": 1,
+          "d": 3,
+          "value": 0.3333333333333333,
+          "wilson95": [
+            0.06149194472039621,
+            0.7923403991979522
+          ]
+        }
+      }
+    },
+    "episode": {
+      "count": 9,
+      "confusion": {
+        "nonfiction/allow": 2,
+        "fiction/block": 3,
+        "uncertain/block": 1,
+        "nonfiction/review": 1,
+        "nonfiction/block": 1,
+        "fiction/review": 1
+      },
+      "fiction_block_recall": {
+        "n": 3,
+        "d": 4,
+        "value": 0.75,
+        "wilson95": [
+          0.30064184258240184,
+          0.9544127391902995
+        ]
+      },
+      "nonfiction_false_block_rate": {
+        "n": 1,
+        "d": 4,
+        "value": 0.25,
+        "wilson95": [
+          0.04558726080970055,
+          0.6993581574175981
+        ]
+      },
+      "precision": {
+        "n": 3,
+        "d": 4,
+        "value": 0.75,
+        "wilson95": [
+          0.30064184258240184,
+          0.9544127391902995
+        ]
+      },
+      "review_rate": {
+        "n": 2,
+        "d": 9,
+        "value": 0.2222222222222222,
+        "wilson95": [
+          0.06322510711784671,
+          0.5474110308930111
+        ]
+      },
+      "uncertain_blocked": 1,
+      "subtype": {
+        "audio_drama": {
+          "n": 2,
+          "d": 3,
+          "value": 0.6666666666666666,
+          "wilson95": [
+            0.2076596008020477,
+            0.9385080552796037
+          ]
+        },
+        "science_fiction": {
+          "n": 1,
+          "d": 1,
+          "value": 1.0,
+          "wilson95": [
+            0.20654931437723745,
+            1
+          ]
+        }
+      }
+    }
+  },
+  "unlabeled_predictions": {
+    "show/allow": 91,
+    "episode/allow": 573,
+    "show/review": 1752,
+    "show/block": 200,
+    "episode/block": 433,
+    "episode/review": 264
+  },
+  "errors": [
+    {
+      "unit": "show",
+      "show_id": "1115612886",
+      "episode_id": null,
+      "title": "穿越搞笑-妖孽横行，狂妃祸江山",
+      "rss_complete": true,
+      "label": "fiction",
+      "label_source": "agent_metadata_review",
+      "subtype": "time_travel",
+      "decision": "allow",
+      "score": 0,
+      "categoryIDs": [
+        "fiction-audiobooks"
+      ],
+      "evidence": [],
+      "reason": "score"
+    },
+    {
+      "unit": "show",
+      "show_id": "1118206170",
+      "episode_id": null,
+      "title": "【《锁子》 荆棘鸟】幻思系有声科幻小说",
+      "rss_complete": true,
+      "label": "fiction",
+      "label_source": "agent_metadata_review",
+      "subtype": "science_fiction",
+      "decision": "allow",
+      "score": 0.7,
+      "categoryIDs": [
+        "fiction-audiobooks"
+      ],
+      "evidence": [
+        {
+          "ruleID": "b-8661a9d30c19",
+          "kind": "keywords",
+          "fields": [
+            "showDescription"
+          ],
+          "contribution": 0.7,
+          "expression": "演播"
+        }
+      ],
+      "reason": "score"
+    },
+    {
+      "unit": "show",
+      "show_id": "1118208455",
+      "episode_id": null,
+      "title": "《他是化学人》漫一刀 幻思系有声科幻小说",
+      "rss_complete": true,
+      "label": "fiction",
+      "label_source": "agent_metadata_review",
+      "subtype": "science_fiction",
+      "decision": "allow",
+      "score": 0,
+      "categoryIDs": [
+        "fiction-audiobooks"
+      ],
+      "evidence": [],
+      "reason": "score"
+    },
+    {
+      "unit": "show",
+      "show_id": "1264641315",
+      "episode_id": null,
+      "title": "地狱火车票丨高智商免费悬疑小说",
+      "rss_complete": true,
+      "label": "fiction",
+      "label_source": "agent_metadata_review",
+      "subtype": "suspense",
+      "decision": "allow",
+      "score": 0,
+      "categoryIDs": [
+        "fiction-audiobooks"
+      ],
+      "evidence": [],
+      "reason": "score"
+    },
+    {
+      "unit": "show",
+      "show_id": "1448125751",
+      "episode_id": null,
+      "title": "江户川乱步|推理悬疑奇幻小说集",
+      "rss_complete": true,
+      "label": "fiction",
+      "label_source": "agent_metadata_review",
+      "subtype": "suspense",
+      "decision": "allow",
+      "score": 0.7,
+      "categoryIDs": [
+        "fiction-audiobooks"
+      ],
+      "evidence": [
+        {
+          "ruleID": "b-fc5f8506a61b",
+          "kind": "keywords",
+          "fields": [
+            "showDescription"
+          ],
+          "contribution": 0.7,
+          "expression": "播讲"
+        }
+      ],
+      "reason": "score"
+    },
+    {
+      "unit": "show",
+      "show_id": "1449429752",
+      "episode_id": null,
+      "title": "蜀山剑侠传|玄幻武侠修真之祖/牛",
+      "rss_complete": true,
+      "label": "fiction",
+      "label_source": "agent_metadata_review",
+      "subtype": "wuxia",
+      "decision": "allow",
+      "score": 3.000000000000001,
+      "categoryIDs": [
+        "fiction-audiobooks"
+      ],
+      "evidence": [
+        {
+          "ruleID": "b-ee412c6f3f36",
+          "kind": "keywords",
+          "fields": [
+            "showTitle",
+            "showDescription"
+          ],
+          "contribution": 3.0,
+          "expression": "玄幻"
+        },
+        {
+          "ruleID": "b-8661a9d30c19",
+          "kind": "keywords",
+          "fields": [
+            "showDescription"
+          ],
+          "contribution": 0.7,
+          "expression": "演播"
+        },
+        {
+          "ruleID": "b-62ebe3a9cd41",
+          "kind": "combinationKeywords",
+          "fields": [
+            "showDescription"
+          ],
+          "contribution": 3.5,
+          "expression": [
+            "小说",
+            "演播"
+          ]
+        },
+        {
+          "ruleID": "b-b8a97976cfb4",
+          "kind": "exclusions",
+          "fields": [
+            "showDescription"
+          ],
+          "contribution": 4.199999999999999,
+          "expression": "文学史"
+        }
+      ],
+      "reason": "score"
+    },
+    {
+      "unit": "episode",
+      "show_id": "1462573678",
+      "episode_id": "7239805d70d494cbc0d7acac859a3dd0e3387a28f18cb8a793b9b07a41a42201",
+      "title": "青少年科幻不必反思科学：叶李华新书推荐序",
+      "rss_complete": true,
+      "label": "nonfiction",
+      "label_source": "agent_metadata_review",
+      "subtype": "literary_review",
+      "decision": "block",
+      "score": 10.5,
+      "categoryIDs": [
+        "fiction-audiobooks"
+      ],
+      "evidence": [
+        {
+          "ruleID": "b-e4b9eaf6ce41",
+          "kind": "keywords",
+          "fields": [
+            "showTitle",
+            "showDescription"
+          ],
+          "contribution": 10.5,
+          "expression": "广播剧"
+        }
+      ],
+      "reason": "score"
+    },
+    {
+      "unit": "show",
+      "show_id": "1502030058",
+      "episode_id": null,
+      "title": "武侠悬疑小说《死人经》",
+      "rss_complete": true,
+      "label": "fiction",
+      "label_source": "agent_metadata_review",
+      "subtype": "wuxia",
+      "decision": "allow",
+      "score": 0,
+      "categoryIDs": [
+        "fiction-audiobooks"
+      ],
+      "evidence": [],
+      "reason": "score"
+    },
+    {
+      "unit": "episode",
+      "show_id": "1509667588",
+      "episode_id": "fcdabb650530860069926e2981a448eb0d0fd714698ee3be17d4481e3d50e1b0",
+      "title": "古人故人03 - 当苏秦遇到约伯",
+      "rss_complete": true,
+      "label": "fiction",
+      "label_source": "agent_metadata_review",
+      "subtype": "audio_drama",
+      "decision": "review",
+      "score": 6.300000000000001,
+      "categoryIDs": [
+        "fiction-audiobooks"
+      ],
+      "evidence": [
+        {
+          "ruleID": "b-e4b9eaf6ce41",
+          "kind": "keywords",
+          "fields": [
+            "showTitle"
+          ],
+          "contribution": 10.5,
+          "expression": "广播剧"
+        },
+        {
+          "ruleID": "b-c9ca608d7f88",
+          "kind": "exclusions",
+          "fields": [
+            "showDescription"
+          ],
+          "contribution": 4.199999999999999,
+          "expression": "讨论"
+        }
+      ],
+      "reason": "score"
+    },
+    {
+      "unit": "show",
+      "show_id": "1516166301",
+      "episode_id": null,
+      "title": "阴阳师 2020年榜首 悬疑小说 听书",
+      "rss_complete": true,
+      "label": "fiction",
+      "label_source": "agent_metadata_review",
+      "subtype": "horror",
+      "decision": "allow",
+      "score": 0,
+      "categoryIDs": [
+        "fiction-audiobooks"
+      ],
+      "evidence": [],
+      "reason": "score"
+    }
+  ]
+}

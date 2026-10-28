@@ -1,0 +1,140 @@
+{
+  "show_id": "1634067184",
+  "feed_url": "https://www.ximalaya.com/album/60503837.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/60503837.xml",
+    "final_url": "https://www.ximalaya.com/album/60503837.xml",
+    "fetched_at": "2026-10-25T14:44:35.603738+00:00",
+    "status": 200,
+    "sha256": "46cd72dbedc9312c15150178d254ebf0c96de794f2c42d6e08dd454ff1ca3051"
+  },
+  "status": "ok",
+  "title": {
+    "text": "废妃重生记｜国语免费版 ｜心愿译声工场 精品多人剧",
+    "truncated": false
+  },
+  "description": {
+    "text": "她，美丽善良的宰相嫡女，为了心爱之人倾尽所有，助他登上皇位。未曾想多年前初遇的一场误会，使得这个男人成为了狠心的负心汉，从而上演了一出相爱相杀的虐恋。重生，是否可以挽回这对有情人的命运？",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 277,
+  "episodes": [
+    {
+      "id": "66e14660cd3b0a848c238760192cf1df7e0fe3a8efa397cf908a5ec5d2f621d2",
+      "guid": "xmly_track_514036185",
+      "title": {
+        "text": "楔子（攀登有声之夜复赛作品节选 ）国语字幕",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Mar 2022 14:13:27 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f4e8b4c68f131e065d6c93ce106a5a335d019bcfa64fe4467916a619e4b10db3",
+      "guid": "xmly_track_516257878",
+      "title": {
+        "text": "废妃重生记 第39集 （秦笙大师推荐/抽奖活动中）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 30 Mar 2022 04:22:31 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "23c4f600930997843646462410043324c979aee3fbdf42b2650e2a1b5aafb417",
+      "guid": "xmly_track_522567031",
+      "title": {
+        "text": "废妃重生记 第79集 思琪之死（莹小玉/柒晴六语/躺地熊/慕谦言/萌小K/16王）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 17 Apr 2022 10:00:00 GMT",
+      "feed_index": 79
+    },
+    {
+      "id": "88d56d940724ba679dd85d3138b018c7cba143ebf60e2396f1e5a4c47be161c6",
+      "guid": "xmly_track_529091338",
+      "title": {
+        "text": "废妃重生记 第118集 弥补（说你要！）（16王/萌小K/有声亦有光/阿琳达）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 May 2022 11:05:16 GMT",
+      "feed_index": 118
+    },
+    {
+      "id": "132c62e6c70bdb60b2922f14f6ca9ec9ecdd85cca6007d1412bbdae35de88da5",
+      "guid": "xmly_track_541507570",
+      "title": {
+        "text": "废妃重生记 粤语版 第26集 兄妹情深（订阅点赞留言及问答有奖）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Jun 2022 10:00:00 GMT",
+      "feed_index": 158
+    },
+    {
+      "id": "16b0343cbffb69aed7bde0e9cd8a6601b67090c0988aca7e102a3a1b6142a07b",
+      "guid": "xmly_track_554481353",
+      "title": {
+        "text": "废妃重生记 粤语版 第65集 得胜的喜悦（订阅点赞留言及问答有奖）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Jul 2022 11:20:51 GMT",
+      "feed_index": 197
+    },
+    {
+      "id": "0664a35763efe75b519423fa72d99347564b1952ad6f43db7d3a5f51f4492b51",
+      "guid": "xmly_track_565562907",
+      "title": {
+        "text": "废妃重生记 粤语版 第105集 好人家（订阅点赞留言及问答有奖）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 31 Aug 2022 10:52:07 GMT",
+      "feed_index": 237
+    },
+    {
+      "id": "b45784ae1e62abef87c5e63fc983b86c63f0b50f28c186a426f0386337e71cbf",
+      "guid": "xmly_track_595202807",
+      "title": {
+        "text": "废妃重生记 双语字幕 第一集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Dec 2022 03:09:28 GMT",
+      "feed_index": 276
+    }
+  ]
+}

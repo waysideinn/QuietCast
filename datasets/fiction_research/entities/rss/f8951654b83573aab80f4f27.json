@@ -1,0 +1,165 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/5867192.xml",
+    "final_url": "http://www.ximalaya.com/album/5867192.xml",
+    "fetched_at": "2026-10-26T07:54:54.652224+00:00",
+    "status": 200,
+    "sha256": "ab328aa6abbb43f75e9945160d3d190ec1dcdce19d021ed87d55ea0f980c9e3e"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "我的故事，你的心情",
+      "truncated": false
+    },
+    "description": {
+      "text": "用我的故事，讲述你的心情，用我的心情，温暖你的心灵！公众平台：一声FM，V博：程大牛牛",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "一声FM @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "一声FM-程风"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "一声FM-程风"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Health"
+      ],
+      [
+        "Health",
+        "Self-Help"
+      ],
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Personal Journals"
+      ],
+      [
+        "Arts"
+      ],
+      [
+        "Arts",
+        "Literature"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/5867192",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 54,
+    "episodes": [
+      {
+        "title": {
+          "text": "你拿什么去过你想要的生活",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_675471128"
+      },
+      {
+        "title": {
+          "text": "这个世界没有容易，只有坚强",
+          "truncated": false
+        },
+        "description": {
+          "text": "用我的故事，讲述你的心情，用我的心情，温暖你的心灵！公众平台：一声FM，V博：程大牛牛",
+          "truncated": false
+        },
+        "feed_index": 8,
+        "guid": "https://aod.cos.tx.xmcdn.com/group21/M02/BF/13/wKgJLVi0PtrSXa1lAMNqH2NvhfI756.mp3"
+      },
+      {
+        "title": {
+          "text": "余生很长，何必惊慌",
+          "truncated": false
+        },
+        "description": {
+          "text": "用我的故事，讲述你的心情，用我的心情，温暖你的心灵！公众平台：一声FM，V博：程大牛牛",
+          "truncated": false
+        },
+        "feed_index": 15,
+        "guid": "https://aod.cos.tx.xmcdn.com/group25/M07/77/20/wKgJMVid0QrgFjO4ALNX1sMAQ-g164.mp3"
+      },
+      {
+        "title": {
+          "text": "致所有正在奋斗的艺考生",
+          "truncated": false
+        },
+        "description": {
+          "text": "用我的故事，讲述你的心情，用我的心情，温暖你的心灵！公众平台：一声FM，V博：程大牛牛",
+          "truncated": false
+        },
+        "feed_index": 23,
+        "guid": "https://aod.cos.tx.xmcdn.com/group22/M0B/5B/ED/wKgJLlhzDOjghwP_AJ7R9tVZpqg627.mp3"
+      },
+      {
+        "title": {
+          "text": "要么爱，要么走",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 30,
+        "guid": "https://aod.cos.tx.xmcdn.com/group22/M02/F1/85/wKgJLlhdOBSAgOLQAF0k5g-DJ1M458.mp3"
+      },
+      {
+        "title": {
+          "text": "你为什么不相信自己？",
+          "truncated": false
+        },
+        "description": {
+          "text": "一声FM为您带来最真诚的声音，最诚挚的故事，希望能够陪伴你，温暖你。",
+          "truncated": false
+        },
+        "feed_index": 38,
+        "guid": "https://aod.cos.tx.xmcdn.com/group21/M06/A1/A1/wKgJKFhJctmwSa_RAE_SSYXZQMs880.mp3"
+      },
+      {
+        "title": {
+          "text": "童年时……",
+          "truncated": false
+        },
+        "description": {
+          "text": "一声FM为您带来最真诚的声音，最诚挚的故事，希望能够陪伴你，温暖你。",
+          "truncated": false
+        },
+        "feed_index": 45,
+        "guid": "https://aod.cos.tx.xmcdn.com/group22/M05/5A/7D/wKgJLlgzC-mxQ6SXAFfgVGOhWXM326.mp3"
+      },
+      {
+        "title": {
+          "text": "爱情需要勇敢",
+          "truncated": false
+        },
+        "description": {
+          "text": "一声FM为您带来最真诚的声音，最诚挚的故事，希望能够陪伴你，温暖你。",
+          "truncated": false
+        },
+        "feed_index": 53,
+        "guid": "https://aod.cos.tx.xmcdn.com/group23/M05/48/B7/wKgJL1gsdQPDQBtrAJFjmPAoWyM551.mp3"
+      }
+    ]
+  }
+}

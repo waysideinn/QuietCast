@@ -1,0 +1,2339 @@
+{
+  "group": "normal",
+  "term": "经济",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:44:16.379871+00:00",
+    "status": 200,
+    "sha256": "6577dd4b2b521e4863e6cd962f5da8c540fe3f2620b6be5a0babba1a761b5f9b"
+  },
+  "result_count": 98,
+  "records": [
+    {
+      "collectionId": 1532644672,
+      "trackId": 1532644672,
+      "collectionName": "每日一經濟學人 Daily x The Economist",
+      "artistName": "每日一經濟學人 Daily x The Economist",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/6d171128-db4f-4eb6-ad82-56250a3f1cbb.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AF%8F%E6%97%A5%E4%B8%80%E7%B6%93%E6%BF%9F%E5%AD%B8%E4%BA%BA-daily-x-the-economist/id1532644672?uo=4",
+      "genres": [
+        "政治",
+        "Podcast",
+        "新聞",
+        "教育"
+      ],
+      "genreIds": [
+        "1527",
+        "26",
+        "1489",
+        "1304"
+      ],
+      "trackCount": 786,
+      "releaseDate": "2026-10-21T22:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "政治"
+    },
+    {
+      "collectionId": 1571066725,
+      "trackId": 1571066725,
+      "collectionName": "聽經濟",
+      "artistName": "經濟日報",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckni85syu2z270833yv5yheas",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%81%BD%E7%B6%93%E6%BF%9F/id1571066725?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321"
+      ],
+      "trackCount": 422,
+      "releaseDate": "2026-10-21T04:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 1533645986,
+      "trackId": 1533645986,
+      "collectionName": "下班經濟學",
+      "artistName": "風傳媒",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/208dfd5b-d11b-4236-ab87-d8f0bf01d7d0.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%8B%E7%8F%AD%E7%B6%93%E6%BF%9F%E5%AD%B8/id1533645986?uo=4",
+      "genres": [
+        "商業",
+        "Podcast",
+        "科技"
+      ],
+      "genreIds": [
+        "1321",
+        "26",
+        "1318"
+      ],
+      "trackCount": 1195,
+      "releaseDate": "2026-10-23T10:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1594674922,
+      "trackId": 1594674922,
+      "collectionName": "一口經濟學 bitesize economics",
+      "artistName": "Charles Liao",
+      "feedUrl": "https://anchor.fm/s/7372342c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%80%E5%8F%A3%E7%B6%93%E6%BF%9F%E5%AD%B8-bitesize-economics/id1594674922?uo=4",
+      "genres": [
+        "社會科學",
+        "Podcast",
+        "科學"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533"
+      ],
+      "trackCount": 201,
+      "releaseDate": "2026-10-11T05:45:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會科學"
+    },
+    {
+      "collectionId": 1480340106,
+      "trackId": 1480340106,
+      "collectionName": "生活經濟學 | Everyday Economics",
+      "artistName": "生活經濟學",
+      "feedUrl": "https://rss.buzzsprout.com/602122.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%94%9F%E6%B4%BB%E7%B6%93%E6%BF%9F%E5%AD%B8-everyday-economics/id1480340106?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "商業",
+        "非營利"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1321",
+        "1494"
+      ],
+      "trackCount": 17,
+      "releaseDate": "2025-12-30T19:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 901259592,
+      "trackId": 901259592,
+      "collectionName": "傻瓜经济学|经济学小白必修课",
+      "artistName": "上山之声",
+      "feedUrl": "http://www.ximalaya.com/album/267217.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%82%BB%E7%93%9C%E7%BB%8F%E6%B5%8E%E5%AD%A6-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%B0%8F%E7%99%BD%E5%BF%85%E4%BF%AE%E8%AF%BE/id901259592?uo=4",
+      "genres": [
+        "商業",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1321",
+        "26"
+      ],
+      "trackCount": 132,
+      "releaseDate": "2024-12-26T14:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1844565900,
+      "trackId": 1844565900,
+      "collectionName": "月球背面的經濟學",
+      "artistName": "馮勃翰",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmfxm814a00e101y92zjvf0yz",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%88%E7%90%83%E8%83%8C%E9%9D%A2%E7%9A%84%E7%B6%93%E6%BF%9F%E5%AD%B8/id1844565900?uo=4",
+      "genres": [
+        "管理",
+        "Podcast",
+        "商業",
+        "電視與電影"
+      ],
+      "genreIds": [
+        "1491",
+        "26",
+        "1321",
+        "1309"
+      ],
+      "trackCount": 47,
+      "releaseDate": "2026-10-13T21:47:00Z",
+      "country": "TWN",
+      "primaryGenreName": "管理"
+    },
+    {
+      "collectionId": 1679518431,
+      "trackId": 1679518431,
+      "collectionName": "Two Money Lovers  經濟學不是萬能但有用",
+      "artistName": "季凡 & 翔蛇",
+      "feedUrl": "https://feed.firstory.me/rss/user/clfrwrtin00w401uq0pmwc5e5",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/two-money-lovers-%E7%B6%93%E6%BF%9F%E5%AD%B8%E4%B8%8D%E6%98%AF%E8%90%AC%E8%83%BD%E4%BD%86%E6%9C%89%E7%94%A8/id1679518431?uo=4",
+      "genres": [
+        "社會科學",
+        "Podcast",
+        "科學",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 188,
+      "releaseDate": "2026-10-23T04:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會科學"
+    },
+    {
+      "collectionId": 1608364998,
+      "trackId": 1608364998,
+      "collectionName": "決策者的世界筆記 | 經濟 & 科技",
+      "artistName": "Jeff 與編輯團隊",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckz70ncpfpj9v08142bakdx3f",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B1%BA%E7%AD%96%E8%80%85%E7%9A%84%E4%B8%96%E7%95%8C%E7%AD%86%E8%A8%98-%E7%B6%93%E6%BF%9F-%E7%A7%91%E6%8A%80/id1608364998?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321"
+      ],
+      "trackCount": 37,
+      "releaseDate": "2026-10-14T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 981083738,
+      "trackId": 981083738,
+      "collectionName": "每天学点经济学",
+      "artistName": "每日学点经济学",
+      "feedUrl": "http://www.ximalaya.com/album/342872.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AF%8F%E5%A4%A9%E5%AD%A6%E7%82%B9%E7%BB%8F%E6%B5%8E%E5%AD%A6/id981083738?uo=4",
+      "genres": [
+        "商業",
+        "Podcast",
+        "新聞",
+        "商業新聞"
+      ],
+      "genreIds": [
+        "1321",
+        "26",
+        "1489",
+        "1490"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2015-04-15T14:54:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1565072792,
+      "trackId": 1565072792,
+      "collectionName": "台經觀點︱景氣×經濟×產業",
+      "artistName": "財團法人台灣經濟研究院",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/319fdf36-7728-4f0d-835e-43e0dd54acf9.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8F%B0%E7%B6%93%E8%A7%80%E9%BB%9E-%E6%99%AF%E6%B0%A3-%E7%B6%93%E6%BF%9F-%E7%94%A2%E6%A5%AD/id1565072792?uo=4",
+      "genres": [
+        "商業",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1321",
+        "26",
+        "1324"
+      ],
+      "trackCount": 106,
+      "releaseDate": "2026-10-08T01:55:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1589710134,
+      "trackId": 1589710134,
+      "collectionName": "Economist「经济学人」文章探讨",
+      "artistName": "tao lun",
+      "feedUrl": "https://anchor.fm/s/6e9ce7bc/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/economist-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA-%E6%96%87%E7%AB%A0%E6%8E%A2%E8%AE%A8/id1589710134?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 19,
+      "releaseDate": "2022-01-19T01:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1523976704,
+      "trackId": 1523976704,
+      "collectionName": "BIGECON 站在巨人肩膀看世界經濟",
+      "artistName": "BIGECON",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/338b347a-4421-4e2b-a7db-cec0cc01a536.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/bigecon-%E7%AB%99%E5%9C%A8%E5%B7%A8%E4%BA%BA%E8%82%A9%E8%86%80%E7%9C%8B%E4%B8%96%E7%95%8C%E7%B6%93%E6%BF%9F/id1523976704?uo=4",
+      "genres": [
+        "商業",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1321",
+        "26",
+        "1489"
+      ],
+      "trackCount": 1299,
+      "releaseDate": "2026-10-20T13:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1576153902,
+      "trackId": 1576153902,
+      "collectionName": "旭沙龍｜創業Ｘ科技Ｘ經濟",
+      "artistName": "Sunrise 旭時報",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckqvqh2tg9oht0930u7n2cn3d",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%AD%E6%B2%99%E9%BE%8D-%E5%89%B5%E6%A5%AD%EF%BD%98%E7%A7%91%E6%8A%80%EF%BD%98%E7%B6%93%E6%BF%9F/id1576153902?uo=4",
+      "genres": [
+        "科技",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1318",
+        "26"
+      ],
+      "trackCount": 215,
+      "releaseDate": "2026-02-02T04:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1512701980,
+      "trackId": 1512701980,
+      "collectionName": "東哥經濟學",
+      "artistName": "東哥",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/4006cbb3-322d-4198-940f-dbe6214ace8b.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9D%B1%E5%93%A5%E7%B6%93%E6%BF%9F%E5%AD%B8/id1512701980?uo=4",
+      "genres": [
+        "商業",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1321",
+        "26",
+        "1487"
+      ],
+      "trackCount": 158,
+      "releaseDate": "2026-10-22T10:55:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1715139326,
+      "trackId": 1715139326,
+      "collectionName": "十分鐘經濟新聞",
+      "artistName": "GO",
+      "feedUrl": "https://feed.firstory.me/rss/user/clojtjl7v02nu01uveb4u6hvz",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8D%81%E5%88%86%E9%90%98%E7%B6%93%E6%BF%9F%E6%96%B0%E8%81%9E/id1715139326?uo=4",
+      "genres": [
+        "商業新聞",
+        "Podcast",
+        "新聞",
+        "商業",
+        "投資"
+      ],
+      "genreIds": [
+        "1490",
+        "26",
+        "1489",
+        "1321",
+        "1412"
+      ],
+      "trackCount": 51,
+      "releaseDate": "2024-01-16T21:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業新聞"
+    },
+    {
+      "collectionId": 1815204620,
+      "trackId": 1815204620,
+      "collectionName": "科技、經濟、生活、理財漫談 Podcast",
+      "artistName": "Stan Wu",
+      "feedUrl": "https://anchor.fm/s/105136b30/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%A7%91%E6%8A%80-%E7%B6%93%E6%BF%9F-%E7%94%9F%E6%B4%BB-%E7%90%86%E8%B2%A1%E6%BC%AB%E8%AB%87-podcast/id1815204620?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304"
+      ],
+      "trackCount": 168,
+      "releaseDate": "2026-10-20T13:40:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1860634863,
+      "trackId": 1860634863,
+      "collectionName": "觀測點·聲解經濟",
+      "artistName": "Chloe & Ethan",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/60fa32d4-fe60-4401-b13b-cea40354a79a.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%A7%80%E6%B8%AC%E9%BB%9E-%E8%81%B2%E8%A7%A3%E7%B6%93%E6%BF%9F/id1860634863?uo=4",
+      "genres": [
+        "社會科學",
+        "Podcast",
+        "科學",
+        "教育"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533",
+        "1304"
+      ],
+      "trackCount": 33,
+      "releaseDate": "2026-01-22T22:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會科學"
+    },
+    {
+      "collectionId": 6806224804,
+      "trackId": 6806224804,
+      "collectionName": "霸占碎片化听觉经济的隐秘王座：喜马拉雅播放与订阅在重塑播客音频商业版图中的基石作用",
+      "artistName": "霸占碎片化听觉经济的隐秘王座：喜马拉雅播放与订阅在重塑播客音频商业版图中的基石作用",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtcst0nw0j1901zc7zpmfl4q",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9C%B8%E5%8D%A0%E7%A2%8E%E7%89%87%E5%8C%96%E5%90%AC%E8%A7%89%E7%BB%8F%E6%B5%8E%E7%9A%84%E9%9A%90%E7%A7%98%E7%8E%8B%E5%BA%A7-%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%92%AD%E6%94%BE%E4%B8%8E%E8%AE%A2%E9%98%85%E5%9C%A8%E9%87%8D%E5%A1%91%E6%92%AD%E5%AE%A2%E9%9F%B3%E9%A2%91%E5%95%86%E4%B8%9A%E7%89%88%E5%9B%BE%E4%B8%AD%E7%9A%84%E5%9F%BA%E7%9F%B3%E4%BD%9C%E7%94%A8/id6806224804?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-28T10:21:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1701750865,
+      "trackId": 1701750865,
+      "collectionName": "財經三合院-從台灣本土出發，聊聊經濟大小事",
+      "artistName": "台灣金融研訓院",
+      "feedUrl": "https://feed.firstory.me/rss/user/cll3gq5kt023v01v941fmc2sa",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B2%A1%E7%B6%93%E4%B8%89%E5%90%88%E9%99%A2-%E5%BE%9E%E5%8F%B0%E7%81%A3%E6%9C%AC%E5%9C%9F%E5%87%BA%E7%99%BC-%E8%81%8A%E8%81%8A%E7%B6%93%E6%BF%9F%E5%A4%A7%E5%B0%8F%E4%BA%8B/id1701750865?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育",
+        "商業"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1321"
+      ],
+      "trackCount": 12,
+      "releaseDate": "2023-10-10T06:58:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 6809135369,
+      "trackId": 6809135369,
+      "collectionName": "引爆老铁经济生态共鸣：如何通过快手评论构建高黏性私域互动与老铁文化聚集地",
+      "artistName": "引爆老铁经济生态共鸣：如何通过快手评论构建高黏性私域互动与老铁文化聚集地",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtpjx7uw05go01y8716y1r3y",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%BC%95%E7%88%86%E8%80%81%E9%93%81%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%80%81%E5%85%B1%E9%B8%A3-%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E5%BF%AB%E6%89%8B%E8%AF%84%E8%AE%BA%E6%9E%84%E5%BB%BA%E9%AB%98%E9%BB%8F%E6%80%A7%E7%A7%81%E5%9F%9F%E4%BA%92%E5%8A%A8%E4%B8%8E%E8%80%81%E9%93%81%E6%96%87%E5%8C%96%E8%81%9A%E9%9B%86%E5%9C%B0/id6809135369?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "健康與瘦身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-09-06T08:32:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 1486700278,
+      "trackId": 1486700278,
+      "collectionName": "IEO 看什麼？國際財經、產業、科技觀察",
+      "artistName": "IEO 國際經濟觀察版主",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/c92cb66a-14fc-412f-84aa-08125add5ca9.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/ieo-%E7%9C%8B%E4%BB%80%E9%BA%BC-%E5%9C%8B%E9%9A%9B%E8%B2%A1%E7%B6%93-%E7%94%A2%E6%A5%AD-%E7%A7%91%E6%8A%80%E8%A7%80%E5%AF%9F/id1486700278?uo=4",
+      "genres": [
+        "商業",
+        "Podcast",
+        "科技"
+      ],
+      "genreIds": [
+        "1321",
+        "26",
+        "1318"
+      ],
+      "trackCount": 72,
+      "releaseDate": "2026-04-09T06:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1683446696,
+      "trackId": 1683446696,
+      "collectionName": "英语外刊 - 听Rex读经济学人",
+      "artistName": "Rex_Chen",
+      "feedUrl": "https://feed.xyzfm.space/crhphbm8qde6",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%8B%B1%E8%AF%AD%E5%A4%96%E5%88%8A-%E5%90%ACrex%E8%AF%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA/id1683446696?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 460,
+      "releaseDate": "2026-10-18T22:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1449153058,
+      "trackId": 1449153058,
+      "collectionName": "维生素E|经济学与哲学知识分享",
+      "artistName": "维生素E知识分享",
+      "feedUrl": "http://www.ximalaya.com/album/19758469.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BB%B4%E7%94%9F%E7%B4%A0e-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%B8%8E%E5%93%B2%E5%AD%A6%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/id1449153058?uo=4",
+      "genres": [
+        "教學",
+        "Podcast",
+        "教育",
+        "社會與文化",
+        "哲學"
+      ],
+      "genreIds": [
+        "1499",
+        "26",
+        "1304",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 151,
+      "releaseDate": "2026-06-25T14:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教學"
+    },
+    {
+      "collectionId": 1866824607,
+      "trackId": 1866824607,
+      "collectionName": "AI “偷” 听经济学人",
+      "artistName": "Eamon",
+      "feedUrl": "https://anchor.fm/s/10d90a480/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/ai-%E5%81%B7-%E5%90%AC%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA/id1866824607?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2026-04-12T05:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1601180565,
+      "trackId": 1601180565,
+      "collectionName": "AP economics 经济学/ 每天听一听更容易理解记忆",
+      "artistName": "Casey的新生活",
+      "feedUrl": "http://www.ximalaya.com/album/55609657.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/ap-economics-%E7%BB%8F%E6%B5%8E%E5%AD%A6-%E6%AF%8F%E5%A4%A9%E5%90%AC%E4%B8%80%E5%90%AC%E6%9B%B4%E5%AE%B9%E6%98%93%E7%90%86%E8%A7%A3%E8%AE%B0%E5%BF%86/id1601180565?uo=4",
+      "genres": [
+        "社會科學",
+        "Podcast",
+        "科學"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533"
+      ],
+      "trackCount": 85,
+      "releaseDate": "2022-02-16T02:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會科學"
+    },
+    {
+      "collectionId": 1712586028,
+      "trackId": 1712586028,
+      "collectionName": "澳洲经济观察",
+      "artistName": "SBS",
+      "feedUrl": "https://sbs-ondemand.streamguys1.com/australian-economic-insights/",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%BE%B3%E6%B4%B2%E7%BB%8F%E6%B5%8E%E8%A7%82%E5%AF%9F/id1712586028?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1324"
+      ],
+      "trackCount": 106,
+      "releaseDate": "2026-10-14T07:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 1568663355,
+      "trackId": 1568663355,
+      "collectionName": "緯度上的投資學 | 宏觀經濟與金融交易分析",
+      "artistName": "Peter & Ricky",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/13518790-3c07-4bae-960a-e7f2a0f3312a.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%B7%AF%E5%BA%A6%E4%B8%8A%E7%9A%84%E6%8A%95%E8%B3%87%E5%AD%B8-%E5%AE%8F%E8%A7%80%E7%B6%93%E6%BF%9F%E8%88%87%E9%87%91%E8%9E%8D%E4%BA%A4%E6%98%93%E5%88%86%E6%9E%90/id1568663355?uo=4",
+      "genres": [
+        "商業",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1321",
+        "26"
+      ],
+      "trackCount": 39,
+      "releaseDate": "2021-08-05T07:57:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1751285685,
+      "trackId": 1751285685,
+      "collectionName": "经济财经新闻洞察",
+      "artistName": "Thinkergy",
+      "feedUrl": "https://www.ximalaya.com/album/82288293.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BB%8F%E6%B5%8E%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB%E6%B4%9E%E5%AF%9F/id1751285685?uo=4",
+      "genres": [
+        "商業新聞",
+        "Podcast",
+        "新聞",
+        "商業",
+        "投資"
+      ],
+      "genreIds": [
+        "1490",
+        "26",
+        "1489",
+        "1321",
+        "1412"
+      ],
+      "trackCount": 129,
+      "releaseDate": "2026-07-29T17:09:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業新聞"
+    },
+    {
+      "collectionId": 1780774685,
+      "trackId": 1780774685,
+      "collectionName": "梁建章人口经济学15讲",
+      "artistName": "9ting",
+      "feedUrl": "https://www.ximalaya.com/album/84559278.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%A2%81%E5%BB%BA%E7%AB%A0%E4%BA%BA%E5%8F%A3%E7%BB%8F%E6%B5%8E%E5%AD%A615%E8%AE%B2/id1780774685?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "健康與瘦身",
+        "兩性"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1512",
+        "1516"
+      ],
+      "trackCount": 17,
+      "releaseDate": "2024-11-20T08:09:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1896772797,
+      "trackId": 1896772797,
+      "collectionName": "《鑑賢思齊》– iPAS應用大現場",
+      "artistName": "iPAS經濟部產業人才能力鑑定",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/08af70ed-acc0-4545-9843-f48b4e3932cf.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%91%91%E8%B3%A2%E6%80%9D%E9%BD%8A-ipas%E6%87%89%E7%94%A8%E5%A4%A7%E7%8F%BE%E5%A0%B4/id1896772797?uo=4",
+      "genres": [
+        "教育",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2026-10-15T04:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1888767426,
+      "trackId": 1888767426,
+      "collectionName": "飞凡26CPA：经济法｜听懂法条背后的商业潜规则",
+      "artistName": "飞凡研习社",
+      "feedUrl": "https://www.ximalaya.com/album/118711714.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%A3%9E%E5%87%A126cpa-%E7%BB%8F%E6%B5%8E%E6%B3%95-%E5%90%AC%E6%87%82%E6%B3%95%E6%9D%A1%E8%83%8C%E5%90%8E%E7%9A%84%E5%95%86%E4%B8%9A%E6%BD%9C%E8%A7%84%E5%88%99/id1888767426?uo=4",
+      "genres": [
+        "課程",
+        "Podcast",
+        "教育",
+        "商業",
+        "職業"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1321",
+        "1410"
+      ],
+      "trackCount": 354,
+      "releaseDate": "2026-09-04T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "課程"
+    },
+    {
+      "collectionId": 1603393716,
+      "trackId": 1603393716,
+      "collectionName": "小麦读书 💡 Max Book Club",
+      "artistName": "小麦校长: 智慧经济学家, 数字游牧民族, MBA",
+      "feedUrl": "https://feeds.transistor.fm/maxbookclub",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B0%8F%E9%BA%A6%E8%AF%BB%E4%B9%A6-max-book-club/id1603393716?uo=4",
+      "genres": [
+        "商業",
+        "Podcast",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1321",
+        "26",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 120,
+      "releaseDate": "2026-03-18T11:54:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1605055716,
+      "trackId": 1605055716,
+      "collectionName": "3分钟经济学人精读",
+      "artistName": "Mia萤子",
+      "feedUrl": "http://www.ximalaya.com/album/32187938.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/3%E5%88%86%E9%92%9F%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%BA%E7%B2%BE%E8%AF%BB/id1605055716?uo=4",
+      "genres": [
+        "語言學習",
+        "Podcast",
+        "教育",
+        "新聞",
+        "每日新聞"
+      ],
+      "genreIds": [
+        "1498",
+        "26",
+        "1304",
+        "1489",
+        "1526"
+      ],
+      "trackCount": 80,
+      "releaseDate": "2022-01-16T10:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "語言學習"
+    },
+    {
+      "collectionId": 1568437385,
+      "trackId": 1568437385,
+      "collectionName": "馬克投資學",
+      "artistName": "美股，台股經濟學",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckow2cem8pwz40818sawvnrg1",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%A6%AC%E5%85%8B%E6%8A%95%E8%B3%87%E5%AD%B8/id1568437385?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2021-07-04T12:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 1577540691,
+      "trackId": 1577540691,
+      "collectionName": "经济思想史",
+      "artistName": "山姆大叔看书",
+      "feedUrl": "http://www.ximalaya.com/album/47292843.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BB%8F%E6%B5%8E%E6%80%9D%E6%83%B3%E5%8F%B2/id1577540691?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 149,
+      "releaseDate": "2021-11-07T00:56:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1745061764,
+      "trackId": 1745061764,
+      "collectionName": "經經有WAY",
+      "artistName": "經濟部",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/3a9d94b2-bda8-4afd-a2f3-57128c6c7e56.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%B6%93%E7%B6%93%E6%9C%89way/id1745061764?uo=4",
+      "genres": [
+        "政府",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1511",
+        "26"
+      ],
+      "trackCount": 22,
+      "releaseDate": "2026-09-25T01:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "政府"
+    },
+    {
+      "collectionId": 1705163934,
+      "trackId": 1705163934,
+      "collectionName": "我城與我們—港情港事",
+      "artistName": "台港經濟文化合作策進會、心陪有聲",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/9d28cda7-7a72-4ce0-8483-bb6b796256b9.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%88%91%E5%9F%8E%E8%88%87%E6%88%91%E5%80%91-%E6%B8%AF%E6%83%85%E6%B8%AF%E4%BA%8B/id1705163934?uo=4",
+      "genres": [
+        "藝術",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1301",
+        "26"
+      ],
+      "trackCount": 22,
+      "releaseDate": "2024-01-12T10:45:00Z",
+      "country": "TWN",
+      "primaryGenreName": "藝術"
+    },
+    {
+      "collectionId": 1613092036,
+      "trackId": 1613092036,
+      "collectionName": "厭世經濟",
+      "artistName": "滿點",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/8beba62e-6508-4199-a33a-8cfb09c53b42.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8E%AD%E4%B8%96%E7%B6%93%E6%BF%9F/id1613092036?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1321"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2022-05-31T15:58:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1531420583,
+      "trackId": 1531420583,
+      "collectionName": "專利法",
+      "artistName": "經濟部智慧財產局",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckexlhi3njpfc08396vnbbfs6",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B0%88%E5%88%A9%E6%B3%95/id1531420583?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304"
+      ],
+      "trackCount": 125,
+      "releaseDate": "2020-10-16T05:27:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1786853447,
+      "trackId": 1786853447,
+      "collectionName": "献给孩子的英文知识——新闻、科学、经济学和传统故事",
+      "artistName": "Alex的英语故事王国",
+      "feedUrl": "https://www.ximalaya.com/album/84883116.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%8C%AE%E7%BB%99%E5%AD%A9%E5%AD%90%E7%9A%84%E8%8B%B1%E6%96%87%E7%9F%A5%E8%AF%86-%E6%96%B0%E9%97%BB-%E7%A7%91%E5%AD%A6-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%92%8C%E4%BC%A0%E7%BB%9F%E6%95%85%E4%BA%8B/id1786853447?uo=4",
+      "genres": [
+        "兒童教育",
+        "Podcast",
+        "兒童與家庭",
+        "教育",
+        "語言學習"
+      ],
+      "genreIds": [
+        "1519",
+        "26",
+        "1305",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2025-05-28T11:32:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童教育"
+    },
+    {
+      "collectionId": 1529416606,
+      "trackId": 1529416606,
+      "collectionName": "丁編經濟人/人生不要窮忙",
+      "artistName": "丁編編",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckeapt296op4w08396zn44lcx",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%81%E7%B7%A8%E7%B6%93%E6%BF%9F%E4%BA%BA-%E4%BA%BA%E7%94%9F%E4%B8%8D%E8%A6%81%E7%AA%AE%E5%BF%99/id1529416606?uo=4",
+      "genres": [
+        "商業",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1321",
+        "26"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2020-08-27T08:47:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1711145627,
+      "trackId": 1711145627,
+      "collectionName": "社会主义：经济学与社会学的分析-米塞斯1920年代",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/78330111.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%B8%8E%E7%A4%BE%E4%BC%9A%E5%AD%A6%E7%9A%84%E5%88%86%E6%9E%90-%E7%B1%B3%E5%A1%9E%E6%96%AF1920%E5%B9%B4%E4%BB%A3/id1711145627?uo=4",
+      "genres": [
+        "社會科學",
+        "Podcast",
+        "科學",
+        "商業",
+        "投資"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533",
+        "1321",
+        "1412"
+      ],
+      "trackCount": 175,
+      "releaseDate": "2023-11-23T09:33:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會科學"
+    },
+    {
+      "collectionId": 6799430404,
+      "trackId": 6799430404,
+      "collectionName": "中国经济思想的起源：《管子》七讲",
+      "artistName": "小崔讲中国经济史",
+      "feedUrl": "https://www.ximalaya.com/album/48127049.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%80%9D%E6%83%B3%E7%9A%84%E8%B5%B7%E6%BA%90-%E7%AE%A1%E5%AD%90-%E4%B8%83%E8%AE%B2/id6799430404?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "商業",
+        "管理"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1321",
+        "1491"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2021-04-13T11:40:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1519599280,
+      "trackId": 1519599280,
+      "collectionName": "黑媽教你Be Rich",
+      "artistName": "黑媽家庭經濟研究所",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/43450f98-f40d-45db-8fc0-f065611b9400.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%BB%91%E5%AA%BD%E6%95%99%E4%BD%A0be-rich/id1519599280?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "音樂"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1310"
+      ],
+      "trackCount": 21,
+      "releaseDate": "2025-04-10T15:29:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1701783179,
+      "trackId": 1701783179,
+      "collectionName": "看見淡水河",
+      "artistName": "經濟部水利署第十河川分署",
+      "feedUrl": "https://feed.firstory.me/rss/user/cll3k5b0c026101v94icz0tcg",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%9C%8B%E8%A6%8B%E6%B7%A1%E6%B0%B4%E6%B2%B3/id1701783179?uo=4",
+      "genres": [
+        "紀實",
+        "Podcast",
+        "社會與文化",
+        "名勝與旅遊"
+      ],
+      "genreIds": [
+        "1543",
+        "26",
+        "1324",
+        "1320"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2025-12-20T10:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "紀實"
+    },
+    {
+      "collectionId": 1565918476,
+      "trackId": 1565918476,
+      "collectionName": "原創我挺你",
+      "artistName": "經濟部智慧財產局",
+      "feedUrl": "https://feed.firstory.me/rss/user/cl3o8cub503b501xigty82a9g",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8E%9F%E5%89%B5%E6%88%91%E6%8C%BA%E4%BD%A0/id1565918476?uo=4",
+      "genres": [
+        "政府",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1511",
+        "26"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2022-12-12T03:37:00Z",
+      "country": "TWN",
+      "primaryGenreName": "政府"
+    },
+    {
+      "collectionId": 1525237031,
+      "trackId": 1525237031,
+      "collectionName": "Alpha經濟學",
+      "artistName": "PyInvest",
+      "feedUrl": "https://anchor.fm/s/2dc4c688/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/alpha%E7%B6%93%E6%BF%9F%E5%AD%B8/id1525237031?uo=4",
+      "genres": [
+        "科學",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1533",
+        "26"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2021-05-29T10:19:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科學"
+    },
+    {
+      "collectionId": 6800241631,
+      "trackId": 6800241631,
+      "collectionName": "郭曜郎——AI 策略、循環經濟、深度寫作",
+      "artistName": "郭曜郎 Paul Kuo",
+      "feedUrl": "https://paulkuo.tw/podcast.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%83%AD%E6%9B%9C%E9%83%8E-ai-%E7%AD%96%E7%95%A5-%E5%BE%AA%E7%92%B0%E7%B6%93%E6%BF%9F-%E6%B7%B1%E5%BA%A6%E5%AF%AB%E4%BD%9C/id6800241631?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 221,
+      "releaseDate": "2026-09-07T14:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1693123470,
+      "trackId": 1693123470,
+      "collectionName": "經濟在生活",
+      "artistName": "Sara Wang",
+      "feedUrl": "https://anchor.fm/s/e3d0977c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%B6%93%E6%BF%9F%E5%9C%A8%E7%94%9F%E6%B4%BB/id1693123470?uo=4",
+      "genres": [
+        "商業",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1321",
+        "26"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2023-06-18T09:52:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1811409257,
+      "trackId": 1811409257,
+      "collectionName": "纶今·深入浅出经济学",
+      "artistName": "Sepine",
+      "feedUrl": "https://feed.xyzfm.space/n467wfbykqk9",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BA%B6%E4%BB%8A-%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E7%BB%8F%E6%B5%8E%E5%AD%A6/id1811409257?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1304"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2026-04-24T01:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1725447077,
+      "trackId": 1725447077,
+      "collectionName": "《经济学关我什么事》｜德国经济学家的故事书",
+      "artistName": "纽英后花园",
+      "feedUrl": "https://www.ximalaya.com/album/79948853.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%85%B3%E6%88%91%E4%BB%80%E4%B9%88%E4%BA%8B-%E5%BE%B7%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E7%9A%84%E6%95%85%E4%BA%8B%E4%B9%A6/id1725447077?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2024-01-10T02:38:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1697426391,
+      "trackId": 1697426391,
+      "collectionName": "资本的秘密：金融危机与大萧条经济周期的规律",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/76846984.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B5%84%E6%9C%AC%E7%9A%84%E7%A7%98%E5%AF%86-%E9%87%91%E8%9E%8D%E5%8D%B1%E6%9C%BA%E4%B8%8E%E5%A4%A7%E8%90%A7%E6%9D%A1%E7%BB%8F%E6%B5%8E%E5%91%A8%E6%9C%9F%E7%9A%84%E8%A7%84%E5%BE%8B/id1697426391?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "科學",
+        "社會科學"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1533",
+        "1535"
+      ],
+      "trackCount": 63,
+      "releaseDate": "2023-07-31T13:45:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 1809057735,
+      "trackId": 1809057735,
+      "collectionName": "版权经济：声藏万金 文脉掘金 文化印钞机",
+      "artistName": "欢喜有声版权研究所",
+      "feedUrl": "https://www.ximalaya.com/album/85214963.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%89%88%E6%9D%83%E7%BB%8F%E6%B5%8E-%E5%A3%B0%E8%97%8F%E4%B8%87%E9%87%91-%E6%96%87%E8%84%89%E6%8E%98%E9%87%91-%E6%96%87%E5%8C%96%E5%8D%B0%E9%92%9E%E6%9C%BA/id1809057735?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "新聞",
+        "商業新聞"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1489",
+        "1490"
+      ],
+      "trackCount": 41,
+      "releaseDate": "2025-04-18T03:26:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 1734569671,
+      "trackId": 1734569671,
+      "collectionName": "每日实时热点-最新新闻热点、热点新闻排行、最新时事热点,涵盖经济、生活、娱乐、体育等各",
+      "artistName": "素还真",
+      "feedUrl": "https://anchor.fm/s/f331bf34/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AF%8F%E6%97%A5%E5%AE%9E%E6%97%B6%E7%83%AD%E7%82%B9-%E6%9C%80%E6%96%B0%E6%96%B0%E9%97%BB%E7%83%AD%E7%82%B9-%E7%83%AD%E7%82%B9%E6%96%B0%E9%97%BB%E6%8E%92%E8%A1%8C-%E6%9C%80%E6%96%B0%E6%97%B6%E4%BA%8B%E7%83%AD%E7%82%B9-%E6%B6%B5%E7%9B%96%E7%BB%8F%E6%B5%8E-%E7%94%9F%E6%B4%BB-%E5%A8%B1%E4%B9%90-%E4%BD%93%E8%82%B2%E7%AD%89%E5%90%84/id1734569671?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489"
+      ],
+      "trackCount": 13,
+      "releaseDate": "2024-03-08T04:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1708688935,
+      "trackId": 1708688935,
+      "collectionName": "大国对话2：不同视角下的经济观察（2017年）",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/78145379.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%A7%E5%9B%BD%E5%AF%B9%E8%AF%9D2-%E4%B8%8D%E5%90%8C%E8%A7%86%E8%A7%92%E4%B8%8B%E7%9A%84%E7%BB%8F%E6%B5%8E%E8%A7%82%E5%AF%9F-2017%E5%B9%B4/id1708688935?uo=4",
+      "genres": [
+        "政府",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1511",
+        "26"
+      ],
+      "trackCount": 111,
+      "releaseDate": "2023-11-08T13:32:00Z",
+      "country": "TWN",
+      "primaryGenreName": "政府"
+    },
+    {
+      "collectionId": 6825667368,
+      "trackId": 6825667368,
+      "collectionName": "短视频打赏与互动经济怎么玩？注册网址 4remen.cc 帮你全面拆解快手人气票的底层逻辑",
+      "artistName": "短视频打赏与互动经济怎么玩？注册网址 4remen.cc 帮你全面拆解快手人气票的底层逻辑",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmvj6vde109nc01w47d3mel1c",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%9F%AD%E8%A7%86%E9%A2%91%E6%89%93%E8%B5%8F%E4%B8%8E%E4%BA%92%E5%8A%A8%E7%BB%8F%E6%B5%8E%E6%80%8E%E4%B9%88%E7%8E%A9-%E6%B3%A8%E5%86%8C%E7%BD%91%E5%9D%80-4remen-cc-%E5%B8%AE%E4%BD%A0%E5%85%A8%E9%9D%A2%E6%8B%86%E8%A7%A3%E5%BF%AB%E6%89%8B%E4%BA%BA%E6%B0%94%E7%A5%A8%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91/id6825667368?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-10-22T07:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 6825660232,
+      "trackId": 6825660232,
+      "collectionName": "快手人气票玩法全解 国际版入口 4web3.cc 教你玩转短视频平台的打赏与互动经济",
+      "artistName": "快手人气票玩法全解 国际版入口 4web3.cc 教你玩转短视频平台的打赏与互动经济",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmvj5whw708so01xh5lkx77z3",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%BF%AB%E6%89%8B%E4%BA%BA%E6%B0%94%E7%A5%A8%E7%8E%A9%E6%B3%95%E5%85%A8%E8%A7%A3-%E5%9B%BD%E9%99%85%E7%89%88%E5%85%A5%E5%8F%A3-4web3-cc-%E6%95%99%E4%BD%A0%E7%8E%A9%E8%BD%AC%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0%E7%9A%84%E6%89%93%E8%B5%8F%E4%B8%8E%E4%BA%92%E5%8A%A8%E7%BB%8F%E6%B5%8E/id6825660232?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-10-22T06:32:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 6810110992,
+      "trackId": 6810110992,
+      "collectionName": "喜马拉雅涨粉平台运营策略：声音经济时代如何高效突破音频社区流量壁垒",
+      "artistName": "喜马拉雅涨粉平台运营策略：声音经济时代如何高效突破音频社区流量壁垒",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmttrb4h00gvt01wnc7z98676",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%B6%A8%E7%B2%89%E5%B9%B3%E5%8F%B0%E8%BF%90%E8%90%A5%E7%AD%96%E7%95%A5-%E5%A3%B0%E9%9F%B3%E7%BB%8F%E6%B5%8E%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E7%AA%81%E7%A0%B4%E9%9F%B3%E9%A2%91%E7%A4%BE%E5%8C%BA%E6%B5%81%E9%87%8F%E5%A3%81%E5%9E%92/id6810110992?uo=4",
+      "genres": [
+        "時尚與美容",
+        "Podcast",
+        "藝術",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1459",
+        "26",
+        "1301",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-09-09T07:11:00Z",
+      "country": "TWN",
+      "primaryGenreName": "時尚與美容"
+    },
+    {
+      "collectionId": 6810921880,
+      "trackId": 6810921880,
+      "collectionName": "快手直播间业务：全方位解析老铁经济狂欢浪潮下实时零售与商业变现的终极实操指南",
+      "artistName": "快手直播间业务：全方位解析老铁经济狂欢浪潮下实时零售与商业变现的终极实操指南",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtweqp470ja701tqe510b1bb",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%BF%AB%E6%89%8B%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B8%9A%E5%8A%A1-%E5%85%A8%E6%96%B9%E4%BD%8D%E8%A7%A3%E6%9E%90%E8%80%81%E9%93%81%E7%BB%8F%E6%B5%8E%E7%8B%82%E6%AC%A2%E6%B5%AA%E6%BD%AE%E4%B8%8B%E5%AE%9E%E6%97%B6%E9%9B%B6%E5%94%AE%E4%B8%8E%E5%95%86%E4%B8%9A%E5%8F%98%E7%8E%B0%E7%9A%84%E7%BB%88%E6%9E%81%E5%AE%9E%E6%93%8D%E6%8C%87%E5%8D%97/id6810921880?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-09-11T03:42:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 6810512341,
+      "trackId": 6810512341,
+      "collectionName": "点亮短视频即时互动热潮：深刻探讨快手评论在老铁经济与私域共鸣中的核心纽带",
+      "artistName": "点亮短视频即时互动热潮：深刻探讨快手评论在老铁经济与私域共鸣中的核心纽带",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtv0h22v01wk01tr3thz67ux",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%82%B9%E4%BA%AE%E7%9F%AD%E8%A7%86%E9%A2%91%E5%8D%B3%E6%97%B6%E4%BA%92%E5%8A%A8%E7%83%AD%E6%BD%AE-%E6%B7%B1%E5%88%BB%E6%8E%A2%E8%AE%A8%E5%BF%AB%E6%89%8B%E8%AF%84%E8%AE%BA%E5%9C%A8%E8%80%81%E9%93%81%E7%BB%8F%E6%B5%8E%E4%B8%8E%E7%A7%81%E5%9F%9F%E5%85%B1%E9%B8%A3%E4%B8%AD%E7%9A%84%E6%A0%B8%E5%BF%83%E7%BA%BD%E5%B8%A6/id6810512341?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "教育",
+        "語言學習"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-09-10T04:20:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 6804569545,
+      "trackId": 6804569545,
+      "collectionName": "全景透视数字经济时代的互动策略与实战演练 注册网址 sph365.top 打造可持续盈利的线上商业模",
+      "artistName": "全景透视数字经济时代的互动策略与实战演练 注册网址 sph365.top 打造可持续盈利的线上商业模型宝典",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmt6rouvn1xss01wy16x8fx9e",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%A8%E6%99%AF%E9%80%8F%E8%A7%86%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E6%97%B6%E4%BB%A3%E7%9A%84%E4%BA%92%E5%8A%A8%E7%AD%96%E7%95%A5%E4%B8%8E%E5%AE%9E%E6%88%98%E6%BC%94%E7%BB%83-%E6%B3%A8%E5%86%8C%E7%BD%91%E5%9D%80-sph365-top-%E6%89%93%E9%80%A0%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%9B%88%E5%88%A9%E7%9A%84%E7%BA%BF%E4%B8%8A%E5%95%86%E4%B8%9A%E6%A8%A1/id6804569545?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "教育",
+        "教學"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-24T05:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 6803585068,
+      "trackId": 6803585068,
+      "collectionName": "快手粉丝数量增长缓慢怎么办？教你破解双快算法打爆老铁经济52fen2.top干货拆解",
+      "artistName": "快手粉丝数量增长缓慢怎么办？教你破解双快算法打爆老铁经济52fen2.top干货拆解",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmt1p8t35105h01uz6v03cy1p",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%BF%AB%E6%89%8B%E7%B2%89%E4%B8%9D%E6%95%B0%E9%87%8F%E5%A2%9E%E9%95%BF%E7%BC%93%E6%85%A2%E6%80%8E%E4%B9%88%E5%8A%9E-%E6%95%99%E4%BD%A0%E7%A0%B4%E8%A7%A3%E5%8F%8C%E5%BF%AB%E7%AE%97%E6%B3%95%E6%89%93%E7%88%86%E8%80%81%E9%93%81%E7%BB%8F%E6%B5%8E52fen2-top%E5%B9%B2%E8%B4%A7%E6%8B%86%E8%A7%A3/id6803585068?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "教育",
+        "教學"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-20T16:20:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 6809331283,
+      "trackId": 6809331283,
+      "collectionName": "行业观察哔哩直播：实时陪伴经济下的创作者变现新赛道与互动美学",
+      "artistName": "行业观察哔哩直播：实时陪伴经济下的创作者变现新赛道与互动美学",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtqt0qyq0sh601y8bont9t5p",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%A1%8C%E4%B8%9A%E8%A7%82%E5%AF%9F%E5%93%94%E5%93%A9%E7%9B%B4%E6%92%AD-%E5%AE%9E%E6%97%B6%E9%99%AA%E4%BC%B4%E7%BB%8F%E6%B5%8E%E4%B8%8B%E7%9A%84%E5%88%9B%E4%BD%9C%E8%80%85%E5%8F%98%E7%8E%B0%E6%96%B0%E8%B5%9B%E9%81%93%E4%B8%8E%E4%BA%92%E5%8A%A8%E7%BE%8E%E5%AD%A6/id6809331283?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-09-07T05:37:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 6805845629,
+      "trackId": 6805845629,
+      "collectionName": "老铁经济爆发全景领航：快手直播间业务全矩阵生态在打通私域信任裂变与引爆GMV巅峰中的超",
+      "artistName": "老铁经济爆发全景领航：快手直播间业务全矩阵生态在打通私域信任裂变与引爆GMV巅峰中的超级引擎",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtbdtvt50e2a01vr9q2j9q7a",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%80%81%E9%93%81%E7%BB%8F%E6%B5%8E%E7%88%86%E5%8F%91%E5%85%A8%E6%99%AF%E9%A2%86%E8%88%AA-%E5%BF%AB%E6%89%8B%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B8%9A%E5%8A%A1%E5%85%A8%E7%9F%A9%E9%98%B5%E7%94%9F%E6%80%81%E5%9C%A8%E6%89%93%E9%80%9A%E7%A7%81%E5%9F%9F%E4%BF%A1%E4%BB%BB%E8%A3%82%E5%8F%98%E4%B8%8E%E5%BC%95%E7%88%86gmv%E5%B7%85%E5%B3%B0%E4%B8%AD%E7%9A%84%E8%B6%85/id6805845629?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "教育",
+        "教學"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-27T10:33:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 6811746082,
+      "trackId": 6811746082,
+      "collectionName": "解锁快手直播间业务核心运营密码：深耕老铁经济矩阵与引爆全域商业转化的高阶秘诀",
+      "artistName": "解锁快手直播间业务核心运营密码：深耕老铁经济矩阵与引爆全域商业转化的高阶秘诀",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmu0nzq6y0bkj01xkddzy1wbl",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%A7%A3%E9%94%81%E5%BF%AB%E6%89%8B%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B8%9A%E5%8A%A1%E6%A0%B8%E5%BF%83%E8%BF%90%E8%90%A5%E5%AF%86%E7%A0%81-%E6%B7%B1%E8%80%95%E8%80%81%E9%93%81%E7%BB%8F%E6%B5%8E%E7%9F%A9%E9%98%B5%E4%B8%8E%E5%BC%95%E7%88%86%E5%85%A8%E5%9F%9F%E5%95%86%E4%B8%9A%E8%BD%AC%E5%8C%96%E7%9A%84%E9%AB%98%E9%98%B6%E7%A7%98%E8%AF%80/id6811746082?uo=4",
+      "genres": [
+        "即興表演",
+        "Podcast",
+        "喜劇",
+        "小說",
+        "科幻小說"
+      ],
+      "genreIds": [
+        "1495",
+        "26",
+        "1303",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-09-14T03:11:00Z",
+      "country": "TWN",
+      "primaryGenreName": "即興表演"
+    },
+    {
+      "collectionId": 1896746768,
+      "trackId": 1896746768,
+      "collectionName": "早安经济",
+      "artistName": "早安经济",
+      "feedUrl": "https://feed.xyzfm.space/uvdha7ckerky",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%A9%E5%AE%89%E7%BB%8F%E6%B5%8E/id1896746768?uo=4",
+      "genres": [
+        "科技",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1318",
+        "26"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2026-07-09T08:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 6807816397,
+      "trackId": 6807816397,
+      "collectionName": "解码饭圈与粉丝经济的新基建：微博铁粉如何成为品牌忠诚度与长期商业变现的基石",
+      "artistName": "解码饭圈与粉丝经济的新基建：微博铁粉如何成为品牌忠诚度与长期商业变现的基石",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtjxth4y070a01y4d8zggo1w",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%A7%A3%E7%A0%81%E9%A5%AD%E5%9C%88%E4%B8%8E%E7%B2%89%E4%B8%9D%E7%BB%8F%E6%B5%8E%E7%9A%84%E6%96%B0%E5%9F%BA%E5%BB%BA-%E5%BE%AE%E5%8D%9A%E9%93%81%E7%B2%89%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%93%81%E7%89%8C%E5%BF%A0%E8%AF%9A%E5%BA%A6%E4%B8%8E%E9%95%BF%E6%9C%9F%E5%95%86%E4%B8%9A%E5%8F%98%E7%8E%B0%E7%9A%84%E5%9F%BA%E7%9F%B3/id6807816397?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-09-02T10:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 6804362932,
+      "trackId": 6804362932,
+      "collectionName": "私域粉丝积累秘诀访问 upzan.cc 解锁快手粉丝快速沉淀指南轻松构建老铁经济商业闭环",
+      "artistName": "私域粉丝积累秘诀访问 upzan.cc 解锁快手粉丝快速沉淀指南轻松构建老铁经济商业闭环",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmt5eq4up0kvl01wkh2al33mq",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%A7%81%E5%9F%9F%E7%B2%89%E4%B8%9D%E7%A7%AF%E7%B4%AF%E7%A7%98%E8%AF%80%E8%AE%BF%E9%97%AE-upzan-cc-%E8%A7%A3%E9%94%81%E5%BF%AB%E6%89%8B%E7%B2%89%E4%B8%9D%E5%BF%AB%E9%80%9F%E6%B2%89%E6%B7%80%E6%8C%87%E5%8D%97%E8%BD%BB%E6%9D%BE%E6%9E%84%E5%BB%BA%E8%80%81%E9%93%81%E7%BB%8F%E6%B5%8E%E5%95%86%E4%B8%9A%E9%97%AD%E7%8E%AF/id6804362932?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-23T06:12:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 6814752247,
+      "trackId": 6814752247,
+      "collectionName": "微博超话运营与粉丝经济裂变：借助 kol666.com 驱动高粘性社群热度高位攀升",
+      "artistName": "微博超话运营与粉丝经济裂变：借助 kol666.com 驱动高粘性社群热度高位攀升",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmucduup002aj01xma6qce1we",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%BE%AE%E5%8D%9A%E8%B6%85%E8%AF%9D%E8%BF%90%E8%90%A5%E4%B8%8E%E7%B2%89%E4%B8%9D%E7%BB%8F%E6%B5%8E%E8%A3%82%E5%8F%98-%E5%80%9F%E5%8A%A9-kol666-com-%E9%A9%B1%E5%8A%A8%E9%AB%98%E7%B2%98%E6%80%A7%E7%A4%BE%E7%BE%A4%E7%83%AD%E5%BA%A6%E9%AB%98%E4%BD%8D%E6%94%80%E5%8D%87/id6814752247?uo=4",
+      "genres": [
+        "脫口秀",
+        "Podcast",
+        "喜劇",
+        "教育",
+        "語言學習"
+      ],
+      "genreIds": [
+        "1497",
+        "26",
+        "1303",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-09-22T08:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "脫口秀"
+    },
+    {
+      "collectionId": 6806922233,
+      "trackId": 6806922233,
+      "collectionName": "赋能快手老铁经济高信任底座：深度探讨快手粉丝资产对拉升短视频首发推荐与直播带货爆单",
+      "artistName": "赋能快手老铁经济高信任底座：深度探讨快手粉丝资产对拉升短视频首发推荐与直播带货爆单的路径",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtgsmhvy27li01wya0827r14",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B5%8B%E8%83%BD%E5%BF%AB%E6%89%8B%E8%80%81%E9%93%81%E7%BB%8F%E6%B5%8E%E9%AB%98%E4%BF%A1%E4%BB%BB%E5%BA%95%E5%BA%A7-%E6%B7%B1%E5%BA%A6%E6%8E%A2%E8%AE%A8%E5%BF%AB%E6%89%8B%E7%B2%89%E4%B8%9D%E8%B5%84%E4%BA%A7%E5%AF%B9%E6%8B%89%E5%8D%87%E7%9F%AD%E8%A7%86%E9%A2%91%E9%A6%96%E5%8F%91%E6%8E%A8%E8%8D%90%E4%B8%8E%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E7%88%86%E5%8D%95/id6806922233?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-31T05:27:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 6801814570,
+      "trackId": 6801814570,
+      "collectionName": "深耕粉丝经济实操经验大揭秘 下单平台 blfen.top 利用 哔哩快涨专栏阅读 让账号数据表现更出色",
+      "artistName": "深耕粉丝经济实操经验大揭秘 下单平台 blfen.top 利用 哔哩快涨专栏阅读 让账号数据表现更出色助力品牌影响力",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmsu8zeff0icm01uh0kpiadlm",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B7%B1%E8%80%95%E7%B2%89%E4%B8%9D%E7%BB%8F%E6%B5%8E%E5%AE%9E%E6%93%8D%E7%BB%8F%E9%AA%8C%E5%A4%A7%E6%8F%AD%E7%A7%98-%E4%B8%8B%E5%8D%95%E5%B9%B3%E5%8F%B0-blfen-top-%E5%88%A9%E7%94%A8-%E5%93%94%E5%93%A9%E5%BF%AB%E6%B6%A8%E4%B8%93%E6%A0%8F%E9%98%85%E8%AF%BB-%E8%AE%A9%E8%B4%A6%E5%8F%B7%E6%95%B0%E6%8D%AE%E8%A1%A8%E7%8E%B0%E6%9B%B4%E5%87%BA%E8%89%B2/id6801814570?uo=4",
+      "genres": [
+        "即興表演",
+        "Podcast",
+        "喜劇",
+        "小說",
+        "科幻小說"
+      ],
+      "genreIds": [
+        "1495",
+        "26",
+        "1303",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-15T10:46:00Z",
+      "country": "TWN",
+      "primaryGenreName": "即興表演"
+    },
+    {
+      "collectionId": 1896924473,
+      "trackId": 1896924473,
+      "collectionName": "粉丝经济新视角：本社交媒体官方平台提供公众号真人粉养成记",
+      "artistName": "粉丝经济新视角：本社交媒体官方平台提供公众号真人粉养成记",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmqdbdsrk03t501t5e7a7ftb1",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%B2%89%E4%B8%9D%E7%BB%8F%E6%B5%8E%E6%96%B0%E8%A7%86%E8%A7%92-%E6%9C%AC%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%AE%98%E6%96%B9%E5%B9%B3%E5%8F%B0%E6%8F%90%E4%BE%9B%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9C%9F%E4%BA%BA%E7%B2%89%E5%85%BB%E6%88%90%E8%AE%B0/id1896924473?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "教育",
+        "教學"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-06-14T05:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1519207665,
+      "trackId": 1519207665,
+      "collectionName": "經濟一週",
+      "artistName": "經濟一週",
+      "feedUrl": "https://www.edigest.hk/feed/podcast-list?limit=100",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%B6%93%E6%BF%9F%E4%B8%80%E9%80%B1/id1519207665?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321"
+      ],
+      "trackCount": 100,
+      "releaseDate": "2020-12-21T04:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 6808521603,
+      "trackId": 6808521603,
+      "collectionName": "粉丝经济时代如何靠硬核私域矩阵筑牢长青护城河？全景透析微博铁粉高质量沉淀在商业变现",
+      "artistName": "粉丝经济时代如何靠硬核私域矩阵筑牢长青护城河？全景透析微博铁粉高质量沉淀在商业变现中的决定性作用",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtmjm9wn0eqs01yb0ywd9go2",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%B2%89%E4%B8%9D%E7%BB%8F%E6%B5%8E%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E9%9D%A0%E7%A1%AC%E6%A0%B8%E7%A7%81%E5%9F%9F%E7%9F%A9%E9%98%B5%E7%AD%91%E7%89%A2%E9%95%BF%E9%9D%92%E6%8A%A4%E5%9F%8E%E6%B2%B3-%E5%85%A8%E6%99%AF%E9%80%8F%E6%9E%90%E5%BE%AE%E5%8D%9A%E9%93%81%E7%B2%89%E9%AB%98%E8%B4%A8%E9%87%8F%E6%B2%89%E6%B7%80%E5%9C%A8%E5%95%86%E4%B8%9A%E5%8F%98%E7%8E%B0/id6808521603?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "小說",
+        "科幻小說"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-09-04T06:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1896893962,
+      "trackId": 1896893962,
+      "collectionName": "信任经济底座！本社交媒体官方平台提供活人资源，增加微信公众号粉丝",
+      "artistName": "信任经济底座！本社交媒体官方平台提供活人资源，增加微信公众号粉丝",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmq4qkkh5038x01ycdykj3kk6",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BF%A1%E4%BB%BB%E7%BB%8F%E6%B5%8E%E5%BA%95%E5%BA%A7-%E6%9C%AC%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%AE%98%E6%96%B9%E5%B9%B3%E5%8F%B0%E6%8F%90%E4%BE%9B%E6%B4%BB%E4%BA%BA%E8%B5%84%E6%BA%90-%E5%A2%9E%E5%8A%A0%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E7%B2%89%E4%B8%9D/id1896893962?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "教育",
+        "教學"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-06-08T05:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 6804555629,
+      "trackId": 6804555629,
+      "collectionName": "深析数字经济时代下的流量变现路径规划 海外地址 buyfen.top 帮助中小团队快速构建核心竞争优",
+      "artistName": "深析数字经济时代下的流量变现路径规划 海外地址 buyfen.top 帮助中小团队快速构建核心竞争优势",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmt6ov0vn0yqp01tbb36w0xlc",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B7%B1%E6%9E%90%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E6%97%B6%E4%BB%A3%E4%B8%8B%E7%9A%84%E6%B5%81%E9%87%8F%E5%8F%98%E7%8E%B0%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92-%E6%B5%B7%E5%A4%96%E5%9C%B0%E5%9D%80-buyfen-top-%E5%B8%AE%E5%8A%A9%E4%B8%AD%E5%B0%8F%E5%9B%A2%E9%98%9F%E5%BF%AB%E9%80%9F%E6%9E%84%E5%BB%BA%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E4%BC%98/id6804555629?uo=4",
+      "genres": [
+        "脫口秀",
+        "Podcast",
+        "喜劇",
+        "小說",
+        "科幻小說"
+      ],
+      "genreIds": [
+        "1497",
+        "26",
+        "1303",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-24T03:44:00Z",
+      "country": "TWN",
+      "primaryGenreName": "脫口秀"
+    },
+    {
+      "collectionId": 6805425226,
+      "trackId": 6805425226,
+      "collectionName": "赋能国民级演播矩阵商业跃升：全面透视 快手直播间业务 综合生态在打通老铁经济变现闭环与",
+      "artistName": "赋能国民级演播矩阵商业跃升：全面透视 快手直播间业务 综合生态在打通老铁经济变现闭环与驱动长效私域爆发中的全方位支撑",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmt9wj06o02y401x15sfe9gp1",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B5%8B%E8%83%BD%E5%9B%BD%E6%B0%91%E7%BA%A7%E6%BC%94%E6%92%AD%E7%9F%A9%E9%98%B5%E5%95%86%E4%B8%9A%E8%B7%83%E5%8D%87-%E5%85%A8%E9%9D%A2%E9%80%8F%E8%A7%86-%E5%BF%AB%E6%89%8B%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B8%9A%E5%8A%A1-%E7%BB%BC%E5%90%88%E7%94%9F%E6%80%81%E5%9C%A8%E6%89%93%E9%80%9A%E8%80%81%E9%93%81%E7%BB%8F%E6%B5%8E%E5%8F%98%E7%8E%B0%E9%97%AD%E7%8E%AF%E4%B8%8E/id6805425226?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-26T09:41:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 6804554478,
+      "trackId": 6804554478,
+      "collectionName": "深析数字经济时代下的流量变现路径规划 下单平台 94KOL.top 帮助中小团队快速构建核心竞争优",
+      "artistName": "深析数字经济时代下的流量变现路径规划 下单平台 94KOL.top 帮助中小团队快速构建核心竞争优势",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmt6onxgd1x1101wyes2mb2zm",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B7%B1%E6%9E%90%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E6%97%B6%E4%BB%A3%E4%B8%8B%E7%9A%84%E6%B5%81%E9%87%8F%E5%8F%98%E7%8E%B0%E8%B7%AF%E5%BE%84%E8%A7%84%E5%88%92-%E4%B8%8B%E5%8D%95%E5%B9%B3%E5%8F%B0-94kol-top-%E5%B8%AE%E5%8A%A9%E4%B8%AD%E5%B0%8F%E5%9B%A2%E9%98%9F%E5%BF%AB%E9%80%9F%E6%9E%84%E5%BB%BA%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E4%BC%98/id6804554478?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "教育",
+        "語言學習"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-24T03:37:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 6824175571,
+      "trackId": 6824175571,
+      "collectionName": "快手磁力金牛与公域竞价投流破局 下单平台 wb24.cc 激活老铁经济爆发式成交流",
+      "artistName": "快手磁力金牛与公域竞价投流破局 下单平台 wb24.cc 激活老铁经济爆发式成交流",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmvdkcumm0o2m01xg41zd4rsj",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%BF%AB%E6%89%8B%E7%A3%81%E5%8A%9B%E9%87%91%E7%89%9B%E4%B8%8E%E5%85%AC%E5%9F%9F%E7%AB%9E%E4%BB%B7%E6%8A%95%E6%B5%81%E7%A0%B4%E5%B1%80-%E4%B8%8B%E5%8D%95%E5%B9%B3%E5%8F%B0-wb24-cc-%E6%BF%80%E6%B4%BB%E8%80%81%E9%93%81%E7%BB%8F%E6%B5%8E%E7%88%86%E5%8F%91%E5%BC%8F%E6%88%90%E4%BA%A4%E6%B5%81/id6824175571?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-10-18T08:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 6824163494,
+      "trackId": 6824163494,
+      "collectionName": "快手达人带货与老铁经济高效沉淀 下单平台 wb24.cc 打造爆款直播间高成交大盘",
+      "artistName": "快手达人带货与老铁经济高效沉淀 下单平台 wb24.cc 打造爆款直播间高成交大盘",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmvdh822u08ec01yghdmn5p3q",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%BF%AB%E6%89%8B%E8%BE%BE%E4%BA%BA%E5%B8%A6%E8%B4%A7%E4%B8%8E%E8%80%81%E9%93%81%E7%BB%8F%E6%B5%8E%E9%AB%98%E6%95%88%E6%B2%89%E6%B7%80-%E4%B8%8B%E5%8D%95%E5%B9%B3%E5%8F%B0-wb24-cc-%E6%89%93%E9%80%A0%E7%88%86%E6%AC%BE%E7%9B%B4%E6%92%AD%E9%97%B4%E9%AB%98%E6%88%90%E4%BA%A4%E5%A4%A7%E7%9B%98/id6824163494?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "教育",
+        "教學"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-10-18T07:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 6812151832,
+      "trackId": 6812151832,
+      "collectionName": "数字经济浪潮下的流量重构：解码内容赛道的高效触达与商业化跃迁",
+      "artistName": "数字经济浪潮下的流量重构：解码内容赛道的高效触达与商业化跃迁",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmu2222et03s901x3dmb0beq8",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E6%B5%81%E9%87%8F%E9%87%8D%E6%9E%84-%E8%A7%A3%E7%A0%81%E5%86%85%E5%AE%B9%E8%B5%9B%E9%81%93%E7%9A%84%E9%AB%98%E6%95%88%E8%A7%A6%E8%BE%BE%E4%B8%8E%E5%95%86%E4%B8%9A%E5%8C%96%E8%B7%83%E8%BF%81/id6812151832?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-09-15T02:34:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 6806183967,
+      "trackId": 6806183967,
+      "collectionName": "纵横短视频江湖的基石战法：全方位深耕快手业务在赋能全域营销与老铁经济中的破局密码",
+      "artistName": "纵横短视频江湖的基石战法：全方位深耕快手业务在赋能全域营销与老铁经济中的破局密码",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtcnsmua0hdp01zchxplc5eu",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BA%B5%E6%A8%AA%E7%9F%AD%E8%A7%86%E9%A2%91%E6%B1%9F%E6%B9%96%E7%9A%84%E5%9F%BA%E7%9F%B3%E6%88%98%E6%B3%95-%E5%85%A8%E6%96%B9%E4%BD%8D%E6%B7%B1%E8%80%95%E5%BF%AB%E6%89%8B%E4%B8%9A%E5%8A%A1%E5%9C%A8%E8%B5%8B%E8%83%BD%E5%85%A8%E5%9F%9F%E8%90%A5%E9%94%80%E4%B8%8E%E8%80%81%E9%93%81%E7%BB%8F%E6%B5%8E%E4%B8%AD%E7%9A%84%E7%A0%B4%E5%B1%80%E5%AF%86%E7%A0%81/id6806183967?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "小說",
+        "科幻小說"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-28T08:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 6817298343,
+      "trackId": 6817298343,
+      "collectionName": "全域生态新范式 54pm6.cc 决胜数字经济下半场：全渠道获客与高复购私域闭环",
+      "artistName": "全域生态新范式 54pm6.cc 决胜数字经济下半场：全渠道获客与高复购私域闭环",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmumiuq2n02f201tv5ckdgtwa",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%A8%E5%9F%9F%E7%94%9F%E6%80%81%E6%96%B0%E8%8C%83%E5%BC%8F-54pm6-cc-%E5%86%B3%E8%83%9C%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E%E4%B8%8B%E5%8D%8A%E5%9C%BA-%E5%85%A8%E6%B8%A0%E9%81%93%E8%8E%B7%E5%AE%A2%E4%B8%8E%E9%AB%98%E5%A4%8D%E8%B4%AD%E7%A7%81%E5%9F%9F%E9%97%AD%E7%8E%AF/id6817298343?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-09-29T10:20:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 1557819366,
+      "trackId": 1557819366,
+      "collectionName": "五分鐘政治經濟學",
+      "artistName": "五分鐘政治經濟學 | 香港人",
+      "feedUrl": "https://anchor.fm/s/690d89b4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BA%94%E5%88%86%E9%90%98%E6%94%BF%E6%B2%BB%E7%B6%93%E6%BF%9F%E5%AD%B8/id1557819366?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2022-11-22T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1896945565,
+      "trackId": 1896945565,
+      "collectionName": "新华财经文章阅读量平滑拉升，配合流量提升，让深度经济报道触达更多投资者",
+      "artistName": "新华财经文章阅读量平滑拉升，配合流量提升，让深度经济报道触达更多投资者",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmqnswyb50gog01xd06le5g5o",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%B0%E5%8D%8E%E8%B4%A2%E7%BB%8F%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB%E9%87%8F%E5%B9%B3%E6%BB%91%E6%8B%89%E5%8D%87-%E9%85%8D%E5%90%88%E6%B5%81%E9%87%8F%E6%8F%90%E5%8D%87-%E8%AE%A9%E6%B7%B1%E5%BA%A6%E7%BB%8F%E6%B5%8E%E6%8A%A5%E9%81%93%E8%A7%A6%E8%BE%BE%E6%9B%B4%E5%A4%9A%E6%8A%95%E8%B5%84%E8%80%85/id1896945565?uo=4",
+      "genres": [
+        "時尚與美容",
+        "Podcast",
+        "藝術",
+        "喜劇",
+        "脫口秀"
+      ],
+      "genreIds": [
+        "1459",
+        "26",
+        "1301",
+        "1303",
+        "1497"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-06-21T13:12:00Z",
+      "country": "TWN",
+      "primaryGenreName": "時尚與美容"
+    },
+    {
+      "collectionId": 1628137370,
+      "trackId": 1628137370,
+      "collectionName": "微醺經濟學 Tipsy Economy",
+      "artistName": "A先生 & 幣傢伙",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/9022ce09-992f-4aa3-90a8-f68a134f149a.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%BE%AE%E9%86%BA%E7%B6%93%E6%BF%9F%E5%AD%B8-tipsy-economy/id1628137370?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "喜劇"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1303"
+      ],
+      "trackCount": 43,
+      "releaseDate": "2025-04-06T03:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 1471552226,
+      "trackId": 1471552226,
+      "collectionName": "经济师 工商管理 经济基础 最新",
+      "artistName": "昊天说金融",
+      "feedUrl": "http://www.ximalaya.com/album/24804025.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BB%8F%E6%B5%8E%E5%B8%88-%E5%B7%A5%E5%95%86%E7%AE%A1%E7%90%86-%E7%BB%8F%E6%B5%8E%E5%9F%BA%E7%A1%80-%E6%9C%80%E6%96%B0/id1471552226?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321"
+      ],
+      "trackCount": 178,
+      "releaseDate": "2021-12-09T15:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 1661389438,
+      "trackId": 1661389438,
+      "collectionName": "看穿被谬误掩盖的经济学真相—这才是经济学的思维方式",
+      "artistName": "微微东风读书会",
+      "feedUrl": "https://www.ximalaya.com/album/70781158.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%9C%8B%E7%A9%BF%E8%A2%AB%E8%B0%AC%E8%AF%AF%E6%8E%A9%E7%9B%96%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%9C%9F%E7%9B%B8-%E8%BF%99%E6%89%8D%E6%98%AF%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%9A%84%E6%80%9D%E7%BB%B4%E6%96%B9%E5%BC%8F/id1661389438?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "科學",
+        "社會科學"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1533",
+        "1535"
+      ],
+      "trackCount": 45,
+      "releaseDate": "2022-12-28T10:18:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 6819974998,
+      "trackId": 6819974998,
+      "collectionName": "商业全球视野 | 世界经济|宏观经济|商业热点",
+      "artistName": "听悦站站长",
+      "feedUrl": "https://www.ximalaya.com/album/129863020.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%95%86%E4%B8%9A%E5%85%A8%E7%90%83%E8%A7%86%E9%87%8E-%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E-%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E-%E5%95%86%E4%B8%9A%E7%83%AD%E7%82%B9/id6819974998?uo=4",
+      "genres": [
+        "非營利",
+        "Podcast",
+        "商業",
+        "創業"
+      ],
+      "genreIds": [
+        "1494",
+        "26",
+        "1321",
+        "1493"
+      ],
+      "trackCount": 27,
+      "releaseDate": "2026-10-15T04:49:00Z",
+      "country": "TWN",
+      "primaryGenreName": "非營利"
+    },
+    {
+      "collectionId": 1512368915,
+      "trackId": 1512368915,
+      "collectionName": "邓浩志教买房",
+      "artistName": "邓浩志地产经济观察",
+      "feedUrl": "http://www.ximalaya.com/album/5309037.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%82%93%E6%B5%A9%E5%BF%97%E6%95%99%E4%B9%B0%E6%88%BF/id1512368915?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "新聞",
+        "商業新聞"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1489",
+        "1490"
+      ],
+      "trackCount": 2007,
+      "releaseDate": "2026-10-21T23:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 6824384652,
+      "trackId": 6824384652,
+      "collectionName": "经济热点",
+      "artistName": "Chunlin",
+      "feedUrl": "https://feeds.transistor.fm/47de7233-938e-4fe7-a2b0-506cbc543a65",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BB%8F%E6%B5%8E%E7%83%AD%E7%82%B9/id6824384652?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "新聞",
+        "商業新聞"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1489",
+        "1490"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2026-10-19T05:03:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 1139142615,
+      "trackId": 1139142615,
+      "collectionName": "经济学",
+      "artistName": "好买研习社",
+      "feedUrl": "http://www.ximalaya.com/album/4735586.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BB%8F%E6%B5%8E%E5%AD%A6/id1139142615?uo=4",
+      "genres": [
+        "商業",
+        "Podcast",
+        "新聞",
+        "商業新聞"
+      ],
+      "genreIds": [
+        "1321",
+        "26",
+        "1489",
+        "1490"
+      ],
+      "trackCount": 260,
+      "releaseDate": "2018-12-14T09:38:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1136987802,
+      "trackId": 1136987802,
+      "collectionName": "2016年武汉经济广播《今晚我和你》节目录音",
+      "artistName": "今晚我和你",
+      "feedUrl": "http://www.ximalaya.com/album/3536707.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/2016%E5%B9%B4%E6%AD%A6%E6%B1%89%E7%BB%8F%E6%B5%8E%E5%B9%BF%E6%92%AD-%E4%BB%8A%E6%99%9A%E6%88%91%E5%92%8C%E4%BD%A0-%E8%8A%82%E7%9B%AE%E5%BD%95%E9%9F%B3/id1136987802?uo=4",
+      "genres": [
+        "兒童與家庭",
+        "Podcast",
+        "宗教與精神生活",
+        "靈修"
+      ],
+      "genreIds": [
+        "1305",
+        "26",
+        "1314",
+        "1444"
+      ],
+      "trackCount": 162,
+      "releaseDate": "2017-01-06T14:32:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童與家庭"
+    },
+    {
+      "collectionId": 896570594,
+      "trackId": 896570594,
+      "collectionName": "段子里的经济学",
+      "artistName": "上山之声",
+      "feedUrl": "http://www.ximalaya.com/album/242881.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AE%B5%E5%AD%90%E9%87%8C%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%AD%A6/id896570594?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321"
+      ],
+      "trackCount": 88,
+      "releaseDate": "2014-09-30T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 1813873354,
+      "trackId": 1813873354,
+      "collectionName": "密思经济",
+      "artistName": "Ava、葱烧板栗炸带鱼",
+      "feedUrl": "https://feed.xyzfm.space/pnjhjaab4vln",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%AF%86%E6%80%9D%E7%BB%8F%E6%B5%8E/id1813873354?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1502",
+        "26",
+        "1324"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2025-12-15T11:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1795194333,
+      "trackId": 1795194333,
+      "collectionName": "低空纪元 | 90分钟速通：掌握未来经济新引擎",
+      "artistName": "产教融合与能力提升",
+      "feedUrl": "https://www.ximalaya.com/album/85741130.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BD%8E%E7%A9%BA%E7%BA%AA%E5%85%83-90%E5%88%86%E9%92%9F%E9%80%9F%E9%80%9A-%E6%8E%8C%E6%8F%A1%E6%9C%AA%E6%9D%A5%E7%BB%8F%E6%B5%8E%E6%96%B0%E5%BC%95%E6%93%8E/id1795194333?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "職業"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1410"
+      ],
+      "trackCount": 19,
+      "releaseDate": "2025-02-27T19:10:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 1270553934,
+      "trackId": 1270553934,
+      "collectionName": "经济学五分钟",
+      "artistName": "听友86949822",
+      "feedUrl": "http://www.ximalaya.com/album/9775841.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%BA%94%E5%88%86%E9%92%9F/id1270553934?uo=4",
+      "genres": [
+        "社會科學",
+        "Podcast",
+        "科學",
+        "社會與文化",
+        "哲學"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2017-08-15T00:42:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會科學"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1613424924",
+  "feed_url": "http://www.ximalaya.com/album/48299841.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/48299841.xml",
+    "final_url": "http://www.ximalaya.com/album/48299841.xml",
+    "fetched_at": "2026-10-25T14:55:19.542152+00:00",
+    "status": 200,
+    "sha256": "be6a1e5c9f22fa7e1a38ec3ca9944cd79d7348389a718387e18892bf60c8c8e2"
+  },
+  "status": "ok",
+  "title": {
+    "text": "京剧聊斋 | 故事.历史.名人.解读",
+    "truncated": false
+  },
+  "description": {
+    "text": "聊京剧的台上台下里里外外的地方，侃京剧故事，剧作家，演员八卦，还有票友聊亲身体会，专业老师分享经历和学戏干货。希望能够满足一些小伙伴对京剧的好奇心，或者在票友成魔的路上陪伴你一段时光。 了解京剧真的是一条凶险的人生路，一不小心就能着魔，而且是一生一世的事情。 怕把一辈子交代在热爱京剧里的小伙伴，请慎入。 不怕成魔的，请进【京剧“聊”斋】！ 主理人：草原大雾，喜马拉雅播客3.0学员，加拿大渥太华电讯工程师，人工智能数据开采博士，干啥都较真，包括业余爱好。 主理人 ： Anika 侯， 多伦多枫彩艺术团 主播：晓军，渥太华中文电台 FM97.9 播音员 主播：杨笛，多伦多枫彩艺术团 主播：Jessie 胡，多伦多枫彩艺术团 常驻嘉宾：阿祥，多伦多的天津票友，自幼深受京剧样板戏的影响，八十年代开始学习言派老生 常驻嘉宾：陈林莺，加拿大首都京昆艺术研习班，从小学京剧的特长生，资深票友",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 119,
+  "episodes": [
+    {
+      "id": "2445da9539bda6ae9fa3631f299655ad38237277965c2146481dbb564c833541",
+      "guid": "xmly_track_598053817",
+      "title": {
+        "text": "念大字与坐排是什么？【大雾侃京剧】",
+        "truncated": false
+      },
+      "description": {
+        "text": "学习唱段为什么从“念大字”开始？ 【西皮原板】 宇宙鋒‧修本‧老爹爹发恩德 演唱：李玉芙 老爹爹发恩德将折修上， 明早朝上金殿面奏吾皇。 倘若是有道君皇恩浩荡， 观此本免了儿一门祸殃。",
+        "truncated": false
+      },
+      "published_at": "Mon, 19 Dec 2022 17:44:07 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "2c46c44441fbd523f13b7c955c18e3bda528934d4ea2339756fa72aaba449869",
+      "guid": "xmly_track_535068376",
+      "title": {
+        "text": "【AI访谈】荀派的艺术特点 - 世范风逸和阿祥聊天",
+        "truncated": false
+      },
+      "description": {
+        "text": "荀派虽然调门低,但难学。委婉绵柔、细腻嗲嗲的更注重感情,学起来真不容易,是另一种味道.口语化、生活化、通俗化、性格化,刻化少女、小家碧玉、平民少妇入目三分。而且文武兼备,做表更是一绝,融合青衣、花旦、刀马旦、玩笑旦、泼辣旦于一身,有时在一出戏扮演两个性格身份迥然不同的两个人物,有时念白京白、韵白合掺,演出当中特别能和观众互动,往往一个眼神一个小动作就能引起全场的掌声笑声,剧场气氛相当热烈。 京剧《生死恨》 说什么花好月圆人亦寿 演唱：世范风逸 【西皮流水】 说什么花好月圆人亦寿，山河万里几多愁！ 金酋铁骑豺狼冠，他那里饮马黄河血染流 尝胆卧薪全忍受，从来强项不低头。 思悠悠呀恨悠悠，故国月明在哪一州？ 京剧《让徐州》“未开言不由人珠泪滚滚” 演唱：阿祥 [二黄原板] 未开言不由人珠泪滚滚， 千斤重任我就要你担承。 二犬子皆年幼难当重任， 老朽年迈我也不能够担承。 望使君放开怀慨然应允， 救生民积阴功也免得我坐卧不宁。 配音： 主持人：AI 喜小雨 世范风逸：AI 喜小蜂 阿祥：AI 百川先生 制作： 草原大雾",
+        "truncated": false
+      },
+      "published_at": "Sat, 21 May 2022 03:32:24 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "6e3510f0bc8efb1db9a52e80be74555b74178fe8ae2ae8509c6d0f74efd5d188",
+      "guid": "xmly_track_503656148",
+      "title": {
+        "text": "什么样的演员 培养什么样的观众（一）主播：Anika侯【文华杂谈】",
+        "truncated": false
+      },
+      "description": {
+        "text": "一名学京剧的学员唱了一段“三家店”，让戏曲学院李甫春教授点评，“我以前是唱歌的，您听我的戏里有歌味吧”？李教授说：“不然，你唱的歌里有戏味儿”。 连演员自己都不知道自己唱的是歌还是戏，那么刚接触京剧的戏迷又怎么能分的清歌与戏的区别呢？所以说现在的戏迷不懂戏，是让那些不懂表演的表演艺术家给误导了。",
+        "truncated": false
+      },
+      "published_at": "Sun, 20 Feb 2022 00:51:00 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "0f612237a426fca48621bdbaf3bb99c5105c63b29d354dbedec7471e8a0d5e4a",
+      "guid": "xmly_track_478597642",
+      "title": {
+        "text": "【访谈】京剧老生八卦阵：老生名角内卷轶事（嘉宾：阿祥）",
+        "truncated": false
+      },
+      "description": {
+        "text": "多伦多的天津票友聊老生演员轶事 嘉宾：阿祥 主理：Anika侯",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Dec 2021 07:51:00 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "0e9f11976952e9ccb984bc2e071afcbb431a1de4f0db3f0a13563e587ff81924",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6b47-audiofreehighqps/A4/C7/CKwRIJEFO889ABAAAADsDu0H.mp3",
+      "title": {
+        "text": "梅兰芳，当代京剧的领航人 | 表演艺术的3个发展阶段",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Oct 2021 22:29:58 GMT",
+      "feed_index": 67
+    },
+    {
+      "id": "3166ea8b1a917392bfefe37e2c6c4dc87553d10fef4a7445a1757e2e68530cdd",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6349-audiofreehighqps/95/2E/CKwRIW4FA1g8ACg0fwDeLb2f.m4a",
+      "title": {
+        "text": "刘长瑜的《卖水·表花》7：旦行，京剧里有几类女人？【大雾侃京剧】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 Aug 2021 02:34:29 GMT",
+      "feed_index": 84
+    },
+    {
+      "id": "daaa7ff71ea4899685db5046210f4cfa5f6f5eccfa3e108223b41e7ef0c8be8d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2488-audiofreehighqps/BA/65/CKwRIUEFCXKHADNUNgDfzuf8.m4a",
+      "title": {
+        "text": "【文华杂谈】老生流派之“余派”（1）（主播：大雾）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 04 Sep 2021 17:40:15 GMT",
+      "feed_index": 101
+    },
+    {
+      "id": "771706123f79b7136feaaa2b151f4c587cd15767de0de75f2fc19a96889fd5f1",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6d05-audiofreehighqps/F2/2B/CKwRIaIE3I5DAAe-nwDRCXQP.m4a",
+      "title": {
+        "text": "【文华杂谈】作者简介：文华先生是多伦多的天津票友（主播：Lily杨）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Aug 2021 16:26:42 GMT",
+      "feed_index": 118
+    }
+  ]
+}

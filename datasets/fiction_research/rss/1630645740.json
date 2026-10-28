@@ -1,0 +1,41 @@
+{
+  "show_id": "1630645740",
+  "feed_url": "https://ugcup.music.qq.com/AlbumHost/Podcast?mid=003gftxf3S8mjA",
+  "source": {
+    "url": "https://ugcup.music.qq.com/AlbumHost/Podcast?mid=003gftxf3S8mjA",
+    "final_url": "https://ugcup.music.qq.com/AlbumHost/Podcast?mid=003gftxf3S8mjA",
+    "fetched_at": "2026-10-25T14:55:54.937626+00:00",
+    "status": 200,
+    "sha256": "56b2bdbc030eb389d0879642416bd8344baa744974c01bcc274d369ace77734a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "墨染的治愈小屋",
+    "truncated": false
+  },
+  "description": {
+    "text": "别不相信，这些都是真人真事！ 本播客持续更新中！ 如果你有专属于你的故事的话 请私信@甜.墨染.渝",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "explicit": "false"
+  },
+  "feed_item_count": 1,
+  "episodes": [
+    {
+      "id": "47a40adc9f9ea6659c3746ab9aae3f33924433055144834b1ea2da13ab6301b5",
+      "guid": "https://open.music.qq.com/rsc/fcgi-bin/boke_play/0015MnJe0MTple.m4a",
+      "title": {
+        "text": "第一期",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 May 2022 11:58:11 GMT",
+      "feed_index": 0
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1320886570",
+  "feed_url": "http://www.ximalaya.com/album/11861752.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/11861752.xml",
+    "final_url": "http://www.ximalaya.com/album/11861752.xml",
+    "fetched_at": "2026-10-25T14:48:14.292533+00:00",
+    "status": 200,
+    "sha256": "61b3a4a14a79c89c493b75c6db9338bc4037e32004b6d7bdea75dc818a95263f"
+  },
+  "status": "ok",
+  "title": {
+    "text": "他们是谁",
+    "truncated": false
+  },
+  "description": {
+    "text": "Hello, 我是Alan, 欢迎收听播客 . 是一档闲聊类的播客, 每期邀请不同行业的朋友前来讲述他们自己的工作, 以一个不全面的角度去了解未知的行业. 每周天晚上发布. 大家可以从Twitter关注我们, 账号是tamenshishui17. 大家也可以发邮件给我们, 邮箱名tamenshishui17 @126.com. 欢迎各位听众给我们反馈, 任何意见, 想法, 和建议, 都欢迎发邮件给我们.",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 15,
+  "episodes": [
+    {
+      "id": "84132d03408ae8ec1abb75089c0d9473504ff3fbcdabe200aae4dabb3c40c781",
+      "guid": "https://aod.cos.tx.xmcdn.com/group36/M07/43/A7/wKgJUlpSLeqxgOQiAQcXEbISeVc080.mp3",
+      "title": {
+        "text": "他们是谁第16期(V.0.16)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 Jan 2018 14:27:12 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "91a11896c4a67a7945afe6ae865ee990fb7ea60311dfb77c5ab0c0b9821680fd",
+      "guid": "https://aod.cos.tx.xmcdn.com/group36/M07/E7/F5/wKgJUlo2aAahSjMuASgQz9ERvho939.mp3",
+      "title": {
+        "text": "他们是谁第13期(V.0.13)--汉语国际教育",
+        "truncated": false
+      },
+      "description": {
+        "text": "Hello, 大家好, 我是Alan, 欢迎收听播客 . 是一档闲聊类的播客, 每期邀请不同行业的朋友前来讲述他们自己的工作, 以一个不全面的角度去了解未知的行业. 每周天晚上发布. 大家可以从Twitter关注我们, 账号是tamenshishui17. 大家也可以发邮件给我们, 邮箱名tamenshishui17 @126.com. 欢迎各位听众给我们反馈, 任何意见, 想法, 和建议, 都欢迎发邮件给我们. 下面是第13期的他们是谁, 本期我们邀请到是汉语国际教育专业的饺子.",
+        "truncated": false
+      },
+      "published_at": "Sun, 17 Dec 2017 12:51:43 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "417923782a73dfa0775ee9db52fb250cbac000d0618b97caa4cd07956cec6776",
+      "guid": "https://aod.cos.tx.xmcdn.com/group29/M06/70/7D/wKgJWVokAOnzW5VTAT8eAEw19JI779.mp3",
+      "title": {
+        "text": "他们是谁第11期(V.0.11)-肿瘤学",
+        "truncated": false
+      },
+      "description": {
+        "text": "Hello, 我是Alan, 欢迎收听播客 . 是一档闲聊类的播客, 每期邀请不同行业的朋友前来讲述他们自己的工作, 以一个不全面的角度去了解未知的行业. 每周天晚上发布. 大家可以从Twitter关注我们, 账号是tamenshishui17. 大家也可以发邮件给我们, 邮箱名tamenshishui17 @126.com. 欢迎各位听众给我们反馈, 任何意见, 想法, 和建议, 都欢迎发邮件给我们.",
+        "truncated": false
+      },
+      "published_at": "Sun, 03 Dec 2017 13:49:48 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "6ae2d5bab1d596fe5085c043037c7e667b88dad1689d987138a4f2b0d740fe3c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group32/M08/74/BE/wKgJS1oiE33Do-aBAUScKW8DgO8144.mp3",
+      "title": {
+        "text": "他们是谁第9期(V.0.09)-环境工程-水污染处理",
+        "truncated": false
+      },
+      "description": {
+        "text": "Hello, 我是Alan, 欢迎收听播客 . 是一档闲聊类的播客, 每期邀请不同行业的朋友前来讲述他们自己的工作, 以一个不全面的角度去了解未知的行业. 每周天晚上发布. 大家可以从Twitter关注我们, 账号是tamenshishui17. 大家也可以发邮件给我们, 邮箱名tamenshishui17 @126.com. 欢迎各位听众给我们反馈, 任何意见, 想法, 和建议, 都欢迎发邮件给我们.",
+        "truncated": false
+      },
+      "published_at": "Sat, 02 Dec 2017 03:17:54 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "af66f4abc3fa9698e6f7539cf37b5d51d012da445cef1abe249ed35f7c5bfeea",
+      "guid": "https://aod.cos.tx.xmcdn.com/group34/M07/AB/A6/wKgJYVoiEsHQnYbKAOPdSOAar9s163.mp3",
+      "title": {
+        "text": "他们是谁第7期(V.0.07)-软件工程",
+        "truncated": false
+      },
+      "description": {
+        "text": "Hello, 我是Alan, 欢迎收听播客 . 是一档闲聊类的播客, 每期邀请不同行业的朋友前来讲述他们自己的工作, 以一个不全面的角度去了解未知的行业. 每周天晚上发布. 大家可以从Twitter关注我们, 账号是tamenshishui17. 大家也可以发邮件给我们, 邮箱名tamenshishui17 @126.com. 欢迎各位听众给我们反馈, 任何意见, 想法, 和建议, 都欢迎发邮件给我们.",
+        "truncated": false
+      },
+      "published_at": "Sat, 02 Dec 2017 03:17:54 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "d902bd54046b725b401d1172c1c7d42f63cbd75b211f7fed7223768694e22a72",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M09/33/7C/wKgJWloiEjqjc_0OAXcYG7vWqw0219.mp3",
+      "title": {
+        "text": "他们是谁第5期(V.0.05)-生物化学与分子生物学",
+        "truncated": false
+      },
+      "description": {
+        "text": "Hello, 我是Alan, 欢迎收听播客 . 是一档闲聊类的播客, 每期邀请不同行业的朋友前来讲述他们自己的工作, 以一个不全面的角度去了解未知的行业. 每周天晚上发布. 大家可以从Twitter关注我们, 账号是tamenshishui17. 大家也可以发邮件给我们, 邮箱名tamenshishui17 @126.com. 欢迎各位听众给我们反馈, 任何意见, 想法, 和建议, 都欢迎发邮件给我们.",
+        "truncated": false
+      },
+      "published_at": "Sat, 02 Dec 2017 03:17:54 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "a3cb0e8ff8aaf55ed3fe7a136d03b73e69668ce67423c5d3fa580cdc99270db0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group32/M02/74/A3/wKgJS1oiEYnTgrb_AaQabLfU4kU119.mp3",
+      "title": {
+        "text": "他们是谁第3期(V.0.03)-公共事业管理专业(教育方向)",
+        "truncated": false
+      },
+      "description": {
+        "text": "Hello, 我是Alan, 欢迎收听播客 . 是一档闲聊类的播客, 每期邀请不同行业的朋友前来讲述他们自己的工作, 以一个不全面的角度去了解未知的行业. 每周天晚上发布. 大家可以从Twitter关注我们, 账号是tamenshishui17. 大家也可以发邮件给我们, 邮箱名tamenshishui17 @126.com. 欢迎各位听众给我们反馈, 任何意见, 想法, 和建议, 都欢迎发邮件给我们.",
+        "truncated": false
+      },
+      "published_at": "Sat, 02 Dec 2017 03:17:54 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "91085f22656cef6b0c4770b1acf6e07ce519b838ef44e227a99293ab34dc1f27",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M08/0E/AC/wKgJXloiEMaza-zGAZPxhE5EsTE140.mp3",
+      "title": {
+        "text": "他们是谁第1期(V.0.01)-多媒体设计",
+        "truncated": false
+      },
+      "description": {
+        "text": "Hello, 我是Alan, 欢迎收听播客 . 是一档闲聊类的播客, 每期邀请不同行业的朋友前来讲述他们自己的工作, 以一个不全面的角度去了解未知的行业. 每周天晚上发布. 大家可以从Twitter关注我们, 账号是tamenshishui17. 大家也可以发邮件给我们, 邮箱名tamenshishui17 @126.com. 欢迎各位听众给我们反馈, 任何意见, 想法, 和建议, 都欢迎发邮件给我们.",
+        "truncated": false
+      },
+      "published_at": "Sat, 02 Dec 2017 03:17:54 GMT",
+      "feed_index": 14
+    }
+  ]
+}

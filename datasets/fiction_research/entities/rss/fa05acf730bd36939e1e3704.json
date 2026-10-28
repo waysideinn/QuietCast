@@ -1,0 +1,165 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/70711946.xml",
+    "final_url": "https://www.ximalaya.com/album/70711946.xml",
+    "fetched_at": "2026-10-26T07:57:06.168156+00:00",
+    "status": 200,
+    "sha256": "ce38ea1b9d282e00690a327d45d9df977acef841d1f7488fce5da84917fc77ae"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "认识你自己：近代哲学四百年-理查德大卫普莱希特",
+      "truncated": false
+    },
+    "description": {
+      "text": "当红现象级畅销作家普莱希特哲学史第二卷，文艺复兴、启蒙、康德、黑格尔……故事与反思交织，连载小说一样好读，关切巨变中的世界，追问自我的确定性何在，认识自我是否可能",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "多云下的蛋@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "多云下的蛋"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "多云下的蛋"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Philosophy"
+      ],
+      [
+        "Arts"
+      ],
+      [
+        "Arts",
+        "Books"
+      ],
+      [
+        "Leisure"
+      ],
+      [
+        "Leisure",
+        "Hobbies"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/70711946",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 117,
+    "episodes": [
+      {
+        "title": {
+          "text": "认识你自己：001导言",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_575480159"
+      },
+      {
+        "title": {
+          "text": "认识你自己：018全新的天空-祛魅的天空",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 17,
+        "guid": "xmly_track_577788786"
+      },
+      {
+        "title": {
+          "text": "认识你自己：034完美的秩序",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 33,
+        "guid": "xmly_track_577884121"
+      },
+      {
+        "title": {
+          "text": "认识你自己：051与莱布尼茨的论争",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 50,
+        "guid": "xmly_track_578178004"
+      },
+      {
+        "title": {
+          "text": "认识你自己：067感性的语法",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 66,
+        "guid": "xmly_track_578419297"
+      },
+      {
+        "title": {
+          "text": "认识你自己：084伟大的觉醒",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 83,
+        "guid": "xmly_track_578419594"
+      },
+      {
+        "title": {
+          "text": "认识你自己：100灵魂世界还是世界灵魂-一份丰厚的遗产",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 99,
+        "guid": "xmly_track_578800384"
+      },
+      {
+        "title": {
+          "text": "认识你自己：117曾经的真和混乱",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 116,
+        "guid": "xmly_track_578800761"
+      }
+    ]
+  }
+}

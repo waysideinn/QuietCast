@@ -1,0 +1,14 @@
+{
+  "group": "boundary",
+  "term": "文学赏析",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%96%87%E5%AD%A6%E8%B5%8F%E6%9E%90&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%96%87%E5%AD%A6%E8%B5%8F%E6%9E%90&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:44:57.572554+00:00",
+    "status": 200,
+    "sha256": "7f5ce663b726607eae2fde2a6dc438052ac0d1681e636de7cc3377c0bb77e047"
+  },
+  "result_count": 0,
+  "records": []
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1546520948",
+  "feed_url": "https://feeds.megaphone.fm/NCB6602326930",
+  "source": {
+    "url": "https://feeds.megaphone.fm/NCB6602326930",
+    "final_url": "https://feeds.megaphone.fm/NCB6602326930",
+    "fetched_at": "2026-10-25T14:56:18.891611+00:00",
+    "status": 200,
+    "sha256": "1195a3a11a98267a9a1021cca01f6595361c0849434e4ba7a512961186280ad8"
+  },
+  "status": "ok",
+  "title": {
+    "text": "朝の小鳥",
+    "truncated": false
+  },
+  "description": {
+    "text": "日本国中にとどまらず、広く海外に迄音源を求めて収録した鳥の声をご紹介しています。 番組ページ：https://www.joqr.co.jp/qr/program/little-birds/ ※「鳥の録音音源」に関しては収録者に権利が帰属します。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "explicit": "no",
+    "type": "episodic"
+  },
+  "feed_item_count": 307,
+  "episodes": [
+    {
+      "id": "af8f5c973e42cec337b5bbd91abea60d3c05e244b9818f98382fd59268eb34ef",
+      "guid": "79635f50-c6dc-11f1-aebe-f7b6b36e132a",
+      "title": {
+        "text": "朝の小鳥#307 一色海岸のユリカモメ（愛知県）",
+        "truncated": false
+      },
+      "description": {
+        "text": "日本国中にとどまらず、広く海外に迄音源を求めて収録した鳥の声をご紹介しています。 一色海岸のユリカモメ（愛知県）をお届けします。 ※「鳥の録音音源」に関しては収録者に権利が帰属します。 [毎週日曜日更新]",
+        "truncated": false
+      },
+      "published_at": "Sat, 24 Oct 2026 22:00:00 -0000",
+      "feed_index": 0
+    },
+    {
+      "id": "bb7561aef793a9491d8b615c07e6bb71dd7bd82d42814ae54b5d9f48888703df",
+      "guid": "abb17726-d5b0-11f0-8af8-bf989dbf7ee7",
+      "title": {
+        "text": "朝の小鳥#263（グランジ貯水池のチョウショウバト（シンガポール））",
+        "truncated": false
+      },
+      "description": {
+        "text": "日本国中にとどまらず、広く海外に迄音源を求めて収録した鳥の声をご紹介しています。 グランジ貯水池のチョウショウバト（シンガポール）をお届けします。 [毎週日曜日更新]",
+        "truncated": false
+      },
+      "published_at": "Sat, 20 Dec 2025 22:00:00 -0000",
+      "feed_index": 44
+    },
+    {
+      "id": "aef58434c176a602ff4b5af2c748c2457b104cc3e5bed9a2c1e3420c9c989c3a",
+      "guid": "b663e535-3366-46c9-b41e-b28300a17cda",
+      "title": {
+        "text": "朝の小鳥#220 （染井入落のオオバン（千葉県））",
+        "truncated": false
+      },
+      "description": {
+        "text": "日本国中にとどまらず、広く海外に迄音源を求めて収録した鳥の声をご紹介しています。 染井入落のオオバン（千葉県）をお届けします。 [毎週日曜日更新] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Sat, 22 Feb 2025 22:00:00 -0000",
+      "feed_index": 87
+    },
+    {
+      "id": "fcd5cfdabc709e205739faa5ab5ba9fa133847defa1ac0a2c39a818a77198a0e",
+      "guid": "e47cc274-e848-456e-9251-b14f00ac091a",
+      "title": {
+        "text": "朝の小鳥#176（熊本県金峰山のヤマガラ）",
+        "truncated": false
+      },
+      "description": {
+        "text": "日本国中にとどまらず、広く海外に迄音源を求めて収録した鳥の声をご紹介しています。 熊本県金峰山のヤマガラをお届けします。 [毎週日曜日更新] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Sat, 20 Apr 2024 22:00:00 -0000",
+      "feed_index": 131
+    },
+    {
+      "id": "61cd3944854127e0205097f93bce98b8b1f957d08cbf6d7fc123331810ba4faa",
+      "guid": "31ec12ce-3efb-4140-8697-b0050059224e",
+      "title": {
+        "text": "朝の小鳥 #132（房総半島（千葉県）のキセキレイ）",
+        "truncated": false
+      },
+      "description": {
+        "text": "日本国中にとどまらず、広く海外に迄音源を求めて収録した鳥の声をご紹介しています。 2021年の霧降高原のコーラスをお届けします。 [更新 6月18日] [毎週日曜日更新][TIME 05:11] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Jun 2023 22:00:00 -0000",
+      "feed_index": 175
+    },
+    {
+      "id": "d5b0568d46fc1a4a3a4c1114875e47267aea8a95677b52a5281d4f2ea07995bc",
+      "guid": "1d456c11-cfa7-40de-8bbe-aed8007c0988",
+      "title": {
+        "text": "朝の小鳥 #88（蔵王のイワヒバリ）",
+        "truncated": false
+      },
+      "description": {
+        "text": "日本国中にとどまらず、広く海外に迄音源を求めて収録した鳥の声をご紹介しています。 蔵王のイワヒバリをお届けします。 [更新 8月14日] [毎週日曜日更新][TIME 05:19] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Sat, 13 Aug 2022 22:00:00 -0000",
+      "feed_index": 219
+    },
+    {
+      "id": "c620ebf755e38f7b5650223a6dbf84edd4df429d52da3cfc45cd4c7141b94899",
+      "guid": "619c1dab-3c0e-4754-a402-adb2003cc5ff",
+      "title": {
+        "text": "朝の小鳥 #45（沖縄本島のヤンバルクイナ）",
+        "truncated": false
+      },
+      "description": {
+        "text": "日本国中にとどまらず、広く海外に迄音源を求めて収録した鳥の声をご紹介しています。 沖縄本島のヤンバルクイナをお届けします。 [更新 10月17日] [毎週日曜日更新][TIME 05:20] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Oct 2021 22:00:00 -0000",
+      "feed_index": 262
+    },
+    {
+      "id": "89c272356128c8572235ba60f4c20be8996debf589398f69de71d87c16917fe8",
+      "guid": "https://www.joqr.co.jp/kotori_pod/#077966",
+      "title": {
+        "text": "朝の小鳥 #3 (栃木県・日光のセンダイムシクイ)",
+        "truncated": false
+      },
+      "description": {
+        "text": "日本国中にとどまらず、広く海外に迄音源を求めて収録した鳥の声をご紹介しています。 栃木県・日光のセンダイムシクイをお届けします [更新 12月27日] [毎週日曜日更新] [TIME 05:22] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Sat, 26 Dec 2020 22:00:00 -0000",
+      "feed_index": 306
+    }
+  ]
+}

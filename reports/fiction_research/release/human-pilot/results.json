@@ -1,0 +1,5136 @@
+{
+  "status": "provisional_human_metadata_pilot_not_certified_independent",
+  "evaluationTime": "2026-10-27T12:46:25.160688+00:00",
+  "snapshot": {
+    "candidateSHA256": "30dfd5e1b60e41f3723289bd89fda1491147679cff6164be1bd42b7c7c36cb3a",
+    "humanLabelsSHA256": "dd07570fab27ce9b1e00a7972f27f4cf5ae0e52df0f2ad9036048e36e8fdf78e",
+    "holdoutManifestSHA256": "6cb6691c6355de0b16d97e56e6e783a63a0a7daa1020cec18912c3d5ff46a89f",
+    "engineSHA256": {
+      "evaluate_human_pilot.py": "183781686243fe70fd36f0db821d7abda8ddeb7b8bac634ccdbf639627985bea",
+      "engine.py": "704af8bcf66d5cc9ae228c0b64525ef7ffa2c8b8b659debba9498e7b058073e2",
+      "engine_v11.py": "51175fb32a30b6311893d360828e26fe358d43762603a653df019736858037fa"
+    },
+    "fixtureSHA256": "517f190f25548c163987b3862ae14275e7601ec2448b5a049b935ebf7db01ed6"
+  },
+  "showCount": 50,
+  "episodeHumanLabels": 0,
+  "independentTestCertified": false,
+  "productionEligible": false,
+  "strategies": {
+    "keywords_only": {
+      "screenedChinesePilot": {
+        "count": 43,
+        "confusion": {
+          "nonfiction/allow": 34,
+          "fiction/allow": 3,
+          "fiction/block": 5,
+          "nonfiction/block": 1
+        },
+        "fiction_block_recall": {
+          "n": 5,
+          "d": 8,
+          "value": 0.625,
+          "wilson95": [
+            0.30574239460262737,
+            0.8631557141764026
+          ]
+        },
+        "nonfiction_false_block_rate": {
+          "n": 1,
+          "d": 35,
+          "value": 0.02857142857142857,
+          "wilson95": [
+            0.005061491855444203,
+            0.14533087233613673
+          ]
+        },
+        "precision": {
+          "n": 5,
+          "d": 6,
+          "value": 0.8333333333333334,
+          "wilson95": [
+            0.43649717781352987,
+            0.9699466302516935
+          ]
+        },
+        "review_rate": {
+          "n": 0,
+          "d": 43,
+          "value": 0.0,
+          "wilson95": [
+            0,
+            0.08200980322579117
+          ]
+        },
+        "uncertain_blocked": 0,
+        "subtype": {
+          "unspecified": {
+            "n": 5,
+            "d": 8,
+            "value": 0.625,
+            "wilson95": [
+              0.30574239460262737,
+              0.8631557141764026
+            ]
+          }
+        }
+      },
+      "allChineseBeforeOverlapExclusion": {
+        "count": 44,
+        "confusion": {
+          "nonfiction/allow": 34,
+          "fiction/allow": 3,
+          "fiction/block": 6,
+          "nonfiction/block": 1
+        },
+        "fiction_block_recall": {
+          "n": 6,
+          "d": 9,
+          "value": 0.6666666666666666,
+          "wilson95": [
+            0.3542021355803963,
+            0.879416181613089
+          ]
+        },
+        "nonfiction_false_block_rate": {
+          "n": 1,
+          "d": 35,
+          "value": 0.02857142857142857,
+          "wilson95": [
+            0.005061491855444203,
+            0.14533087233613673
+          ]
+        },
+        "precision": {
+          "n": 6,
+          "d": 7,
+          "value": 0.8571428571428571,
+          "wilson95": [
+            0.4868721707256811,
+            0.9743203756552565
+          ]
+        },
+        "review_rate": {
+          "n": 0,
+          "d": 44,
+          "value": 0.0,
+          "wilson95": [
+            0,
+            0.08029560375848066
+          ]
+        },
+        "uncertain_blocked": 0,
+        "subtype": {
+          "unspecified": {
+            "n": 6,
+            "d": 9,
+            "value": 0.6666666666666666,
+            "wilson95": [
+              0.3542021355803963,
+              0.879416181613089
+            ]
+          }
+        }
+      },
+      "outOfScopePolicyRegression": {
+        "count": 6,
+        "confusion": {
+          "allow/allow": 4,
+          "allow/block": 2
+        }
+      },
+      "errors": [
+        {
+          "show_id": "1125959192",
+          "title": "女仙外史【修山者版】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1251826993",
+          "title": "每日英文有声小说-长腿叔叔",
+          "label": "fiction",
+          "expectedFilterDecision": "allow",
+          "scope": "english_fiction_exemption",
+          "eligibleForScreenedPilot": false,
+          "decision": "block",
+          "score": 21.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 21.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1262978649",
+          "title": "每日英语有声小说-在我入睡前",
+          "label": "fiction",
+          "expectedFilterDecision": "allow",
+          "scope": "english_fiction_exemption",
+          "eligibleForScreenedPilot": false,
+          "decision": "block",
+          "score": 21.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 21.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1268501410",
+          "title": "山海经新说【玄幻】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1271272846",
+          "title": "男女双播玄幻【缥缈·提灯卷】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 3.7,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 3.7,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1462850845",
+          "title": "如何演播官场商战小说",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "block",
+          "score": 16.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 16.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        }
+      ],
+      "predictions": [
+        {
+          "show_id": "1021963866",
+          "title": "文化媒体人",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0.7,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0.7,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1030231015",
+          "title": "格列佛—听的旅行攻略",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1058819079",
+          "title": "听中国周刊",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1073849513",
+          "title": "情迷武侠梦",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1095222589",
+          "title": "追科技撩艺术",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1115782232",
+          "title": "政见｜讲座 & 访谈",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1125959192",
+          "title": "女仙外史【修山者版】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1128284503",
+          "title": "战争与和平有声小说中文版  主播鸡腿小木屋",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "block",
+          "score": 21.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 21.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1129666229",
+          "title": "北京传说故事",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1136987802",
+          "title": "2016年武汉经济广播《今晚我和你》节目录音",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1139142615",
+          "title": "经济学",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1157960349",
+          "title": "健康减肥脱口秀---可瘦可乐的生活",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1160578978",
+          "title": "甜甜圈在澳洲(旅行|留学|移民)",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1180537872",
+          "title": "不存在电台 non-exist",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1181770436",
+          "title": "多人配音有声小说《乱世为媒》",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "block",
+          "score": 21.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 21.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1183233450",
+          "title": "闲话文学史",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1184981897",
+          "title": "语桐听艺术",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1197935841",
+          "title": "妈妈你听",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1234086160",
+          "title": "女性の事業家井戸端会議",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "foreign_metadata",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1248691568",
+          "title": "关键洞察力：成功沟通的要诀（公关必读）完结",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 2.9,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 2.9,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1251826993",
+          "title": "每日英文有声小说-长腿叔叔",
+          "label": "fiction",
+          "expectedFilterDecision": "allow",
+          "scope": "english_fiction_exemption",
+          "eligibleForScreenedPilot": false,
+          "decision": "block",
+          "score": 21.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 21.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1262978649",
+          "title": "每日英语有声小说-在我入睡前",
+          "label": "fiction",
+          "expectedFilterDecision": "allow",
+          "scope": "english_fiction_exemption",
+          "eligibleForScreenedPilot": false,
+          "decision": "block",
+          "score": 21.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 21.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1268501410",
+          "title": "山海经新说【玄幻】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1271272846",
+          "title": "男女双播玄幻【缥缈·提灯卷】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 3.7,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 3.7,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1315967431",
+          "title": "中国文化概论",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1321229059",
+          "title": "长篇有声小说 战争风云",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "block",
+          "score": 21.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 21.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1323470627",
+          "title": "蛋比哈哈聊电影",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1333475582",
+          "title": "翻轉自己，婷婷的世界幸福哲學 | Ting's Philosophy Of Happiness",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1338444962",
+          "title": "吴勉旅行记之冰岛游",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1342040716",
+          "title": "艺术有读",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1352951413",
+          "title": "佛教哲学（新佛学金刚经）",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1358251055",
+          "title": "古风广播剧《今生亦何欢》",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "block",
+          "score": 10.5,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 10.5,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1438867843",
+          "title": "手机美术馆",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1449153058",
+          "title": "维生素E|经济学与哲学知识分享",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1450399086",
+          "title": "不正经的艺术",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1455483014",
+          "title": "秋野叨历史 | 十分钟的历史故事",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1466577555",
+          "title": "世界在你耳边｜旅行趣聊",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1471749688",
+          "title": "行迹访谈室",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1462843777",
+          "title": "《第十八个盛夏》都市奇幻广播剧",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "block",
+          "score": 10.5,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 10.5,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1462850845",
+          "title": "如何演播官场商战小说",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "block",
+          "score": 16.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 16.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1474474297",
+          "title": "Nippon MoshiMoshi",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "foreign_metadata",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1479173448",
+          "title": "稻此一游",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1479676767",
+          "title": "怪异电波",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1479951603",
+          "title": "【半瓶醋夜未眠】電影、動畫、遊戲及那些年",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1482927105",
+          "title": "文都比邻丨2020心理学考研背多分领读",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1486700278",
+          "title": "IEO 看什麼？國際財經、產業、科技觀察",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1489176388",
+          "title": "經典101 說給孩子聽的有聲書",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": false,
+          "decision": "block",
+          "score": 10.5,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 10.5,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1489841902",
+          "title": "家庭健康管理师：张旭营养基础班",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1490476655",
+          "title": "The Moshi Moshi Podcast",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "foreign_metadata",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1494068599",
+          "title": "明大スポーツ新聞部",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "foreign_metadata",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        }
+      ]
+    },
+    "publisher_only": {
+      "screenedChinesePilot": {
+        "count": 43,
+        "confusion": {
+          "nonfiction/allow": 35,
+          "fiction/allow": 8
+        },
+        "fiction_block_recall": {
+          "n": 0,
+          "d": 8,
+          "value": 0.0,
+          "wilson95": [
+            0,
+            0.32440756488388023
+          ]
+        },
+        "nonfiction_false_block_rate": {
+          "n": 0,
+          "d": 35,
+          "value": 0.0,
+          "wilson95": [
+            6.938893903907228e-18,
+            0.09890099232440402
+          ]
+        },
+        "precision": {
+          "n": 0,
+          "d": 0,
+          "value": null,
+          "wilson95": null
+        },
+        "review_rate": {
+          "n": 0,
+          "d": 43,
+          "value": 0.0,
+          "wilson95": [
+            0,
+            0.08200980322579117
+          ]
+        },
+        "uncertain_blocked": 0,
+        "subtype": {
+          "unspecified": {
+            "n": 0,
+            "d": 8,
+            "value": 0.0,
+            "wilson95": [
+              0,
+              0.32440756488388023
+            ]
+          }
+        }
+      },
+      "allChineseBeforeOverlapExclusion": {
+        "count": 44,
+        "confusion": {
+          "nonfiction/allow": 35,
+          "fiction/allow": 9
+        },
+        "fiction_block_recall": {
+          "n": 0,
+          "d": 9,
+          "value": 0.0,
+          "wilson95": [
+            0,
+            0.2991450484195441
+          ]
+        },
+        "nonfiction_false_block_rate": {
+          "n": 0,
+          "d": 35,
+          "value": 0.0,
+          "wilson95": [
+            6.938893903907228e-18,
+            0.09890099232440402
+          ]
+        },
+        "precision": {
+          "n": 0,
+          "d": 0,
+          "value": null,
+          "wilson95": null
+        },
+        "review_rate": {
+          "n": 0,
+          "d": 44,
+          "value": 0.0,
+          "wilson95": [
+            0,
+            0.08029560375848066
+          ]
+        },
+        "uncertain_blocked": 0,
+        "subtype": {
+          "unspecified": {
+            "n": 0,
+            "d": 9,
+            "value": 0.0,
+            "wilson95": [
+              0,
+              0.2991450484195441
+            ]
+          }
+        }
+      },
+      "outOfScopePolicyRegression": {
+        "count": 6,
+        "confusion": {
+          "allow/allow": 6
+        }
+      },
+      "errors": [
+        {
+          "show_id": "1125959192",
+          "title": "女仙外史【修山者版】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1128284503",
+          "title": "战争与和平有声小说中文版  主播鸡腿小木屋",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1181770436",
+          "title": "多人配音有声小说《乱世为媒》",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1268501410",
+          "title": "山海经新说【玄幻】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1271272846",
+          "title": "男女双播玄幻【缥缈·提灯卷】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1321229059",
+          "title": "长篇有声小说 战争风云",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1358251055",
+          "title": "古风广播剧《今生亦何欢》",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1462843777",
+          "title": "《第十八个盛夏》都市奇幻广播剧",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1489176388",
+          "title": "經典101 說給孩子聽的有聲書",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        }
+      ],
+      "predictions": [
+        {
+          "show_id": "1021963866",
+          "title": "文化媒体人",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1030231015",
+          "title": "格列佛—听的旅行攻略",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1058819079",
+          "title": "听中国周刊",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1073849513",
+          "title": "情迷武侠梦",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1095222589",
+          "title": "追科技撩艺术",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1115782232",
+          "title": "政见｜讲座 & 访谈",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1125959192",
+          "title": "女仙外史【修山者版】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1128284503",
+          "title": "战争与和平有声小说中文版  主播鸡腿小木屋",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1129666229",
+          "title": "北京传说故事",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1136987802",
+          "title": "2016年武汉经济广播《今晚我和你》节目录音",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1139142615",
+          "title": "经济学",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1157960349",
+          "title": "健康减肥脱口秀---可瘦可乐的生活",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1160578978",
+          "title": "甜甜圈在澳洲(旅行|留学|移民)",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1180537872",
+          "title": "不存在电台 non-exist",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1181770436",
+          "title": "多人配音有声小说《乱世为媒》",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1183233450",
+          "title": "闲话文学史",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1184981897",
+          "title": "语桐听艺术",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1197935841",
+          "title": "妈妈你听",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1234086160",
+          "title": "女性の事業家井戸端会議",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "foreign_metadata",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1248691568",
+          "title": "关键洞察力：成功沟通的要诀（公关必读）完结",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1251826993",
+          "title": "每日英文有声小说-长腿叔叔",
+          "label": "fiction",
+          "expectedFilterDecision": "allow",
+          "scope": "english_fiction_exemption",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1262978649",
+          "title": "每日英语有声小说-在我入睡前",
+          "label": "fiction",
+          "expectedFilterDecision": "allow",
+          "scope": "english_fiction_exemption",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1268501410",
+          "title": "山海经新说【玄幻】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1271272846",
+          "title": "男女双播玄幻【缥缈·提灯卷】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1315967431",
+          "title": "中国文化概论",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1321229059",
+          "title": "长篇有声小说 战争风云",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1323470627",
+          "title": "蛋比哈哈聊电影",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1333475582",
+          "title": "翻轉自己，婷婷的世界幸福哲學 | Ting's Philosophy Of Happiness",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1338444962",
+          "title": "吴勉旅行记之冰岛游",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1342040716",
+          "title": "艺术有读",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1352951413",
+          "title": "佛教哲学（新佛学金刚经）",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1358251055",
+          "title": "古风广播剧《今生亦何欢》",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1438867843",
+          "title": "手机美术馆",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1449153058",
+          "title": "维生素E|经济学与哲学知识分享",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1450399086",
+          "title": "不正经的艺术",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1455483014",
+          "title": "秋野叨历史 | 十分钟的历史故事",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1466577555",
+          "title": "世界在你耳边｜旅行趣聊",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1471749688",
+          "title": "行迹访谈室",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1462843777",
+          "title": "《第十八个盛夏》都市奇幻广播剧",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1462850845",
+          "title": "如何演播官场商战小说",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1474474297",
+          "title": "Nippon MoshiMoshi",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "foreign_metadata",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1479173448",
+          "title": "稻此一游",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1479676767",
+          "title": "怪异电波",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1479951603",
+          "title": "【半瓶醋夜未眠】電影、動畫、遊戲及那些年",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1482927105",
+          "title": "文都比邻丨2020心理学考研背多分领读",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1486700278",
+          "title": "IEO 看什麼？國際財經、產業、科技觀察",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1489176388",
+          "title": "經典101 說給孩子聽的有聲書",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1489841902",
+          "title": "家庭健康管理师：张旭营养基础班",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1490476655",
+          "title": "The Moshi Moshi Podcast",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "foreign_metadata",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1494068599",
+          "title": "明大スポーツ新聞部",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "foreign_metadata",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        }
+      ]
+    },
+    "category_only_review": {
+      "screenedChinesePilot": {
+        "count": 43,
+        "confusion": {
+          "nonfiction/allow": 35,
+          "fiction/allow": 7,
+          "fiction/review": 1
+        },
+        "fiction_block_recall": {
+          "n": 0,
+          "d": 8,
+          "value": 0.0,
+          "wilson95": [
+            0,
+            0.32440756488388023
+          ]
+        },
+        "nonfiction_false_block_rate": {
+          "n": 0,
+          "d": 35,
+          "value": 0.0,
+          "wilson95": [
+            6.938893903907228e-18,
+            0.09890099232440402
+          ]
+        },
+        "precision": {
+          "n": 0,
+          "d": 0,
+          "value": null,
+          "wilson95": null
+        },
+        "review_rate": {
+          "n": 1,
+          "d": 43,
+          "value": 0.023255813953488372,
+          "wilson95": [
+            0.004117087274333769,
+            0.12058993440607177
+          ]
+        },
+        "uncertain_blocked": 0,
+        "subtype": {
+          "unspecified": {
+            "n": 0,
+            "d": 8,
+            "value": 0.0,
+            "wilson95": [
+              0,
+              0.32440756488388023
+            ]
+          }
+        }
+      },
+      "allChineseBeforeOverlapExclusion": {
+        "count": 44,
+        "confusion": {
+          "nonfiction/allow": 35,
+          "fiction/allow": 8,
+          "fiction/review": 1
+        },
+        "fiction_block_recall": {
+          "n": 0,
+          "d": 9,
+          "value": 0.0,
+          "wilson95": [
+            0,
+            0.2991450484195441
+          ]
+        },
+        "nonfiction_false_block_rate": {
+          "n": 0,
+          "d": 35,
+          "value": 0.0,
+          "wilson95": [
+            6.938893903907228e-18,
+            0.09890099232440402
+          ]
+        },
+        "precision": {
+          "n": 0,
+          "d": 0,
+          "value": null,
+          "wilson95": null
+        },
+        "review_rate": {
+          "n": 1,
+          "d": 44,
+          "value": 0.022727272727272728,
+          "wilson95": [
+            0.004023252060053224,
+            0.11807709698213287
+          ]
+        },
+        "uncertain_blocked": 0,
+        "subtype": {
+          "unspecified": {
+            "n": 0,
+            "d": 9,
+            "value": 0.0,
+            "wilson95": [
+              0,
+              0.2991450484195441
+            ]
+          }
+        }
+      },
+      "outOfScopePolicyRegression": {
+        "count": 6,
+        "confusion": {
+          "allow/allow": 6
+        }
+      },
+      "errors": [
+        {
+          "show_id": "1125959192",
+          "title": "女仙外史【修山者版】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1128284503",
+          "title": "战争与和平有声小说中文版  主播鸡腿小木屋",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1181770436",
+          "title": "多人配音有声小说《乱世为媒》",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1268501410",
+          "title": "山海经新说【玄幻】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1271272846",
+          "title": "男女双播玄幻【缥缈·提灯卷】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1321229059",
+          "title": "长篇有声小说 战争风云",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "review",
+          "score": 4,
+          "signals": {
+            "appleCategories": true,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [
+            {
+              "ruleID": "b-category-fiction-family",
+              "family": "appleCategories",
+              "kind": "classification",
+              "source": "appleSearch",
+              "namespace": "apple.podcasts.genre",
+              "matchedIdentity": "1484"
+            }
+          ],
+          "keywordScore": 0,
+          "categoryScore": 4,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1358251055",
+          "title": "古风广播剧《今生亦何欢》",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1462843777",
+          "title": "《第十八个盛夏》都市奇幻广播剧",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1489176388",
+          "title": "經典101 說給孩子聽的有聲書",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        }
+      ],
+      "predictions": [
+        {
+          "show_id": "1021963866",
+          "title": "文化媒体人",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1030231015",
+          "title": "格列佛—听的旅行攻略",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1058819079",
+          "title": "听中国周刊",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1073849513",
+          "title": "情迷武侠梦",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1095222589",
+          "title": "追科技撩艺术",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1115782232",
+          "title": "政见｜讲座 & 访谈",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1125959192",
+          "title": "女仙外史【修山者版】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1128284503",
+          "title": "战争与和平有声小说中文版  主播鸡腿小木屋",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1129666229",
+          "title": "北京传说故事",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1136987802",
+          "title": "2016年武汉经济广播《今晚我和你》节目录音",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1139142615",
+          "title": "经济学",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1157960349",
+          "title": "健康减肥脱口秀---可瘦可乐的生活",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1160578978",
+          "title": "甜甜圈在澳洲(旅行|留学|移民)",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1180537872",
+          "title": "不存在电台 non-exist",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1181770436",
+          "title": "多人配音有声小说《乱世为媒》",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1183233450",
+          "title": "闲话文学史",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1184981897",
+          "title": "语桐听艺术",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1197935841",
+          "title": "妈妈你听",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1234086160",
+          "title": "女性の事業家井戸端会議",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "foreign_metadata",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1248691568",
+          "title": "关键洞察力：成功沟通的要诀（公关必读）完结",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1251826993",
+          "title": "每日英文有声小说-长腿叔叔",
+          "label": "fiction",
+          "expectedFilterDecision": "allow",
+          "scope": "english_fiction_exemption",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1262978649",
+          "title": "每日英语有声小说-在我入睡前",
+          "label": "fiction",
+          "expectedFilterDecision": "allow",
+          "scope": "english_fiction_exemption",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1268501410",
+          "title": "山海经新说【玄幻】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1271272846",
+          "title": "男女双播玄幻【缥缈·提灯卷】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1315967431",
+          "title": "中国文化概论",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1321229059",
+          "title": "长篇有声小说 战争风云",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "review",
+          "score": 4,
+          "signals": {
+            "appleCategories": true,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [
+            {
+              "ruleID": "b-category-fiction-family",
+              "family": "appleCategories",
+              "kind": "classification",
+              "source": "appleSearch",
+              "namespace": "apple.podcasts.genre",
+              "matchedIdentity": "1484"
+            }
+          ],
+          "keywordScore": 0,
+          "categoryScore": 4,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1323470627",
+          "title": "蛋比哈哈聊电影",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1333475582",
+          "title": "翻轉自己，婷婷的世界幸福哲學 | Ting's Philosophy Of Happiness",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1338444962",
+          "title": "吴勉旅行记之冰岛游",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1342040716",
+          "title": "艺术有读",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1352951413",
+          "title": "佛教哲学（新佛学金刚经）",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1358251055",
+          "title": "古风广播剧《今生亦何欢》",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1438867843",
+          "title": "手机美术馆",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1449153058",
+          "title": "维生素E|经济学与哲学知识分享",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1450399086",
+          "title": "不正经的艺术",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1455483014",
+          "title": "秋野叨历史 | 十分钟的历史故事",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1466577555",
+          "title": "世界在你耳边｜旅行趣聊",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1471749688",
+          "title": "行迹访谈室",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1462843777",
+          "title": "《第十八个盛夏》都市奇幻广播剧",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1462850845",
+          "title": "如何演播官场商战小说",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1474474297",
+          "title": "Nippon MoshiMoshi",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "foreign_metadata",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1479173448",
+          "title": "稻此一游",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1479676767",
+          "title": "怪异电波",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1479951603",
+          "title": "【半瓶醋夜未眠】電影、動畫、遊戲及那些年",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1482927105",
+          "title": "文都比邻丨2020心理学考研背多分领读",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1486700278",
+          "title": "IEO 看什麼？國際財經、產業、科技觀察",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1489176388",
+          "title": "經典101 說給孩子聽的有聲書",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1489841902",
+          "title": "家庭健康管理师：张旭营养基础班",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1490476655",
+          "title": "The Moshi Moshi Podcast",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "foreign_metadata",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1494068599",
+          "title": "明大スポーツ新聞部",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "foreign_metadata",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        }
+      ]
+    },
+    "joint_v11_score": {
+      "screenedChinesePilot": {
+        "count": 43,
+        "confusion": {
+          "nonfiction/allow": 34,
+          "fiction/allow": 3,
+          "fiction/block": 5,
+          "nonfiction/block": 1
+        },
+        "fiction_block_recall": {
+          "n": 5,
+          "d": 8,
+          "value": 0.625,
+          "wilson95": [
+            0.30574239460262737,
+            0.8631557141764026
+          ]
+        },
+        "nonfiction_false_block_rate": {
+          "n": 1,
+          "d": 35,
+          "value": 0.02857142857142857,
+          "wilson95": [
+            0.005061491855444203,
+            0.14533087233613673
+          ]
+        },
+        "precision": {
+          "n": 5,
+          "d": 6,
+          "value": 0.8333333333333334,
+          "wilson95": [
+            0.43649717781352987,
+            0.9699466302516935
+          ]
+        },
+        "review_rate": {
+          "n": 0,
+          "d": 43,
+          "value": 0.0,
+          "wilson95": [
+            0,
+            0.08200980322579117
+          ]
+        },
+        "uncertain_blocked": 0,
+        "subtype": {
+          "unspecified": {
+            "n": 5,
+            "d": 8,
+            "value": 0.625,
+            "wilson95": [
+              0.30574239460262737,
+              0.8631557141764026
+            ]
+          }
+        }
+      },
+      "allChineseBeforeOverlapExclusion": {
+        "count": 44,
+        "confusion": {
+          "nonfiction/allow": 34,
+          "fiction/allow": 3,
+          "fiction/block": 6,
+          "nonfiction/block": 1
+        },
+        "fiction_block_recall": {
+          "n": 6,
+          "d": 9,
+          "value": 0.6666666666666666,
+          "wilson95": [
+            0.3542021355803963,
+            0.879416181613089
+          ]
+        },
+        "nonfiction_false_block_rate": {
+          "n": 1,
+          "d": 35,
+          "value": 0.02857142857142857,
+          "wilson95": [
+            0.005061491855444203,
+            0.14533087233613673
+          ]
+        },
+        "precision": {
+          "n": 6,
+          "d": 7,
+          "value": 0.8571428571428571,
+          "wilson95": [
+            0.4868721707256811,
+            0.9743203756552565
+          ]
+        },
+        "review_rate": {
+          "n": 0,
+          "d": 44,
+          "value": 0.0,
+          "wilson95": [
+            0,
+            0.08029560375848066
+          ]
+        },
+        "uncertain_blocked": 0,
+        "subtype": {
+          "unspecified": {
+            "n": 6,
+            "d": 9,
+            "value": 0.6666666666666666,
+            "wilson95": [
+              0.3542021355803963,
+              0.879416181613089
+            ]
+          }
+        }
+      },
+      "outOfScopePolicyRegression": {
+        "count": 6,
+        "confusion": {
+          "allow/allow": 4,
+          "allow/block": 2
+        }
+      },
+      "errors": [
+        {
+          "show_id": "1125959192",
+          "title": "女仙外史【修山者版】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1251826993",
+          "title": "每日英文有声小说-长腿叔叔",
+          "label": "fiction",
+          "expectedFilterDecision": "allow",
+          "scope": "english_fiction_exemption",
+          "eligibleForScreenedPilot": false,
+          "decision": "block",
+          "score": 21.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 21.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1262978649",
+          "title": "每日英语有声小说-在我入睡前",
+          "label": "fiction",
+          "expectedFilterDecision": "allow",
+          "scope": "english_fiction_exemption",
+          "eligibleForScreenedPilot": false,
+          "decision": "block",
+          "score": 21.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 21.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1268501410",
+          "title": "山海经新说【玄幻】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1271272846",
+          "title": "男女双播玄幻【缥缈·提灯卷】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 3.7,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 3.7,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1462850845",
+          "title": "如何演播官场商战小说",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "block",
+          "score": 16.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 16.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        }
+      ],
+      "predictions": [
+        {
+          "show_id": "1021963866",
+          "title": "文化媒体人",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0.7,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0.7,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1030231015",
+          "title": "格列佛—听的旅行攻略",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1058819079",
+          "title": "听中国周刊",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1073849513",
+          "title": "情迷武侠梦",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1095222589",
+          "title": "追科技撩艺术",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1115782232",
+          "title": "政见｜讲座 & 访谈",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1125959192",
+          "title": "女仙外史【修山者版】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1128284503",
+          "title": "战争与和平有声小说中文版  主播鸡腿小木屋",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "block",
+          "score": 21.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 21.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1129666229",
+          "title": "北京传说故事",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1136987802",
+          "title": "2016年武汉经济广播《今晚我和你》节目录音",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1139142615",
+          "title": "经济学",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1157960349",
+          "title": "健康减肥脱口秀---可瘦可乐的生活",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1160578978",
+          "title": "甜甜圈在澳洲(旅行|留学|移民)",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1180537872",
+          "title": "不存在电台 non-exist",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1181770436",
+          "title": "多人配音有声小说《乱世为媒》",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "block",
+          "score": 21.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 21.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1183233450",
+          "title": "闲话文学史",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1184981897",
+          "title": "语桐听艺术",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1197935841",
+          "title": "妈妈你听",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1234086160",
+          "title": "女性の事業家井戸端会議",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "foreign_metadata",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1248691568",
+          "title": "关键洞察力：成功沟通的要诀（公关必读）完结",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 2.9,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 2.9,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1251826993",
+          "title": "每日英文有声小说-长腿叔叔",
+          "label": "fiction",
+          "expectedFilterDecision": "allow",
+          "scope": "english_fiction_exemption",
+          "eligibleForScreenedPilot": false,
+          "decision": "block",
+          "score": 21.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 21.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1262978649",
+          "title": "每日英语有声小说-在我入睡前",
+          "label": "fiction",
+          "expectedFilterDecision": "allow",
+          "scope": "english_fiction_exemption",
+          "eligibleForScreenedPilot": false,
+          "decision": "block",
+          "score": 21.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 21.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1268501410",
+          "title": "山海经新说【玄幻】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1271272846",
+          "title": "男女双播玄幻【缥缈·提灯卷】",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 3.7,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 3.7,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1315967431",
+          "title": "中国文化概论",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1321229059",
+          "title": "长篇有声小说 战争风云",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "block",
+          "score": 25.0,
+          "signals": {
+            "appleCategories": true,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [
+            {
+              "ruleID": "b-category-fiction-family",
+              "family": "appleCategories",
+              "kind": "classification",
+              "source": "appleSearch",
+              "namespace": "apple.podcasts.genre",
+              "matchedIdentity": "1484"
+            }
+          ],
+          "keywordScore": 21.0,
+          "categoryScore": 4,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1323470627",
+          "title": "蛋比哈哈聊电影",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1333475582",
+          "title": "翻轉自己，婷婷的世界幸福哲學 | Ting's Philosophy Of Happiness",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1338444962",
+          "title": "吴勉旅行记之冰岛游",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1342040716",
+          "title": "艺术有读",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1352951413",
+          "title": "佛教哲学（新佛学金刚经）",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1358251055",
+          "title": "古风广播剧《今生亦何欢》",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "block",
+          "score": 10.5,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 10.5,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1438867843",
+          "title": "手机美术馆",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1449153058",
+          "title": "维生素E|经济学与哲学知识分享",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1450399086",
+          "title": "不正经的艺术",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1455483014",
+          "title": "秋野叨历史 | 十分钟的历史故事",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1466577555",
+          "title": "世界在你耳边｜旅行趣聊",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1471749688",
+          "title": "行迹访谈室",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1462843777",
+          "title": "《第十八个盛夏》都市奇幻广播剧",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "block",
+          "score": 10.5,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 10.5,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1462850845",
+          "title": "如何演播官场商战小说",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "block",
+          "score": 16.0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 16.0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1474474297",
+          "title": "Nippon MoshiMoshi",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "foreign_metadata",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1479173448",
+          "title": "稻此一游",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1479676767",
+          "title": "怪异电波",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1479951603",
+          "title": "【半瓶醋夜未眠】電影、動畫、遊戲及那些年",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1482927105",
+          "title": "文都比邻丨2020心理学考研背多分领读",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1486700278",
+          "title": "IEO 看什麼？國際財經、產業、科技觀察",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1489176388",
+          "title": "經典101 說給孩子聽的有聲書",
+          "label": "fiction",
+          "expectedFilterDecision": "block",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": false,
+          "decision": "block",
+          "score": 10.5,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": true
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 10.5,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1489841902",
+          "title": "家庭健康管理师：张旭营养基础班",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "chinese_candidate",
+          "eligibleForScreenedPilot": true,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1490476655",
+          "title": "The Moshi Moshi Podcast",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "foreign_metadata",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        },
+        {
+          "show_id": "1494068599",
+          "title": "明大スポーツ新聞部",
+          "label": "nonfiction",
+          "expectedFilterDecision": "allow",
+          "scope": "foreign_metadata",
+          "eligibleForScreenedPilot": false,
+          "decision": "allow",
+          "score": 0,
+          "signals": {
+            "appleCategories": false,
+            "publishers": false,
+            "keywords": false
+          },
+          "jointReady": true,
+          "evidence": [],
+          "keywordScore": 0,
+          "categoryScore": 0,
+          "publisherScore": 0
+        }
+      ]
+    }
+  }
+}

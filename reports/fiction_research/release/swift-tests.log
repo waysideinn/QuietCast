@@ -1,0 +1,84 @@
+Building for debugging...
+[0/15] Write sources
+[5/15] /private/tmp/quietcast-b-release-build/arm64-apple-macosx/debug/QuietCastPackageTests.derived/runner.swift
+[6/15] Write sources
+[7/15] Write quietcast-tools-entitlement.plist
+[8/15] Copying Fixtures
+[9/15] Write swift-version--1AB21518FC5DEDBE.txt
+[11/20] Compiling PodcastModels PodcastCategories.swift
+[12/20] Compiling PodcastModels Models.swift
+[13/20] Emitting module PodcastModels
+[14/20] Compiling PodcastModels Metadata.swift
+[15/20] Compiling PodcastModels AppleCategoryMetadata.swift
+[16/24] Compiling ContentFiltering ContentFiltering.swift
+[17/24] Compiling ContentFiltering AdvancedSignals.swift
+[18/24] Compiling ContentFiltering AdvancedRules.swift
+[19/24] Emitting module ContentFiltering
+[20/32] Compiling PodcastCore Networking.swift
+[21/32] Compiling PodcastCore OfflineFiles.swift
+[22/32] Compiling PodcastCore Exports.swift
+[23/32] Emitting module PodcastCore
+[24/32] Compiling PodcastCore ParentSecurity.swift
+[25/32] Compiling PodcastCore Persistence.swift
+[26/33] Compiling PodcastCore RSSParser.swift
+[27/33] Compiling PodcastCore InterruptionRecovery.swift
+[28/33] Compiling PodcastCore Discovery.swift
+[29/42] Compiling PodcastCoreTests PersistenceAndSecurityTests.swift
+Tests/PodcastCoreTests/DiscoveryTests.swift:3:8: error: no such module 'XCTest'
+  1 | import Foundation
+  2 | #if !CORE_CLI_TESTS
+  3 | import XCTest
+    |        `- error: no such module 'XCTest'
+  4 | #endif
+  5 | @testable import PodcastCore
+[30/42] Compiling PodcastCoreTests MultisourceTests.swift
+Tests/PodcastCoreTests/DiscoveryTests.swift:3:8: error: no such module 'XCTest'
+  1 | import Foundation
+  2 | #if !CORE_CLI_TESTS
+  3 | import XCTest
+    |        `- error: no such module 'XCTest'
+  4 | #endif
+  5 | @testable import PodcastCore
+[31/42] Compiling PodcastCoreTests resource_bundle_accessor.swift
+Tests/PodcastCoreTests/DiscoveryTests.swift:3:8: error: no such module 'XCTest'
+  1 | import Foundation
+  2 | #if !CORE_CLI_TESTS
+  3 | import XCTest
+    |        `- error: no such module 'XCTest'
+  4 | #endif
+  5 | @testable import PodcastCore
+error: emit-module command failed with exit code 1 (use -v to see invocation)
+[32/42] Emitting module PodcastCoreTests
+Tests/PodcastCoreTests/DiscoveryTests.swift:3:8: error: no such module 'XCTest'
+  1 | import Foundation
+  2 | #if !CORE_CLI_TESTS
+  3 | import XCTest
+    |        `- error: no such module 'XCTest'
+  4 | #endif
+  5 | @testable import PodcastCore
+[33/42] Compiling PodcastCoreTests NetworkAndRSSTests.swift
+Tests/PodcastCoreTests/DiscoveryTests.swift:3:8: error: no such module 'XCTest'
+  1 | import Foundation
+  2 | #if !CORE_CLI_TESTS
+  3 | import XCTest
+    |        `- error: no such module 'XCTest'
+  4 | #endif
+  5 | @testable import PodcastCore
+[34/42] Compiling PodcastCoreTests DiscoveryTests.swift
+Tests/PodcastCoreTests/DiscoveryTests.swift:3:8: error: no such module 'XCTest'
+  1 | import Foundation
+  2 | #if !CORE_CLI_TESTS
+  3 | import XCTest
+    |        `- error: no such module 'XCTest'
+  4 | #endif
+  5 | @testable import PodcastCore
+[35/42] Compiling PodcastCoreTests FilteringTests.swift
+Tests/PodcastCoreTests/DiscoveryTests.swift:3:8: error: no such module 'XCTest'
+  1 | import Foundation
+  2 | #if !CORE_CLI_TESTS
+  3 | import XCTest
+    |        `- error: no such module 'XCTest'
+  4 | #endif
+  5 | @testable import PodcastCore
+[36/42] Emitting module QuietCastTools
+error: fatalError

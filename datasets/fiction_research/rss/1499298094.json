@@ -1,0 +1,140 @@
+{
+  "show_id": "1499298094",
+  "feed_url": "http://www.ximalaya.com/album/25254722.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/25254722.xml",
+    "final_url": "http://www.ximalaya.com/album/25254722.xml",
+    "fetched_at": "2026-10-25T14:49:35.448266+00:00",
+    "status": 200,
+    "sha256": "a2beca3de8e761bfecd8f361a8e06e55beb18a8cba9e12b94325f60265bc4484"
+  },
+  "status": "ok",
+  "title": {
+    "text": "天文随心听｜讲述宇宙与人的故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "为你捕捉最新最快的天文前沿信息，你不知道的和你想知道的天文内容都在这里，一起加入天文随心听的大家庭吧，我们一起探索宇宙无穷的奥秘！你也可以关注微信公众号——科学大唠嗑——了解更多信息。 主播简介：好学蜗牛，蜗牛研习社创始人，二手天文学家，多年从事科学普及工作，曾策划并执行了2018年1月31日超级月亮直播并为央视各段新闻提供视频直播信号，网络及电视观看人数近2亿。 联系VX：haoxuewoniu",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 708,
+  "episodes": [
+    {
+      "id": "4eb5a7bda0d2a38945fd9e799a8abb1e58ab47be47508356fc6635e370f06f80",
+      "guid": "xmly_track_1017895707",
+      "title": {
+        "text": "【第二季】284｜【黑洞之问】 第五个维度——第二种走不通",
+        "truncated": false
+      },
+      "description": {
+        "text": "1919年，在柯尼斯堡大学任教的数学家卡鲁扎给爱因斯坦寄去一篇论文，提出在四维时空基础上引入第五维度。将爱因斯坦广义相对论方程推广到五维后，电磁力自然从多出来的几何分量中浮现——引力与电磁力被统一在同一个五维框架里。爱因斯坦最初很满意，支持发表了论文，但最终放弃了这条路：第五维无法被实验验证，且只能统一两种力。1926年，瑞典物理学家克莱因回答了\"为什么看不到第五维\"——它蜷缩成普朗克长度（10⁻³⁵米）的微小圆圈，并用量子力学加固了理论。但卡鲁扎-克莱因理论最终失败：5维只能统一引力和电磁力，自然界有四种力。弦论直接继承了额外维度+紧致化的思想，从1个额外维推广到6个，但紧致化方式约有10的500次方种，理论无法预言我们的宇宙。 本期你会听到 ： 卡鲁扎1919年的核心想法：把爱因斯坦方程从四维推广到五维，电磁力从多出来的几何分量中自动浮现 爱因斯坦的态度弧线：从满意→支持发表→沉默放弃——没有明确反驳，只有说不清的不安 克莱因1926年的紧致化：第五维蜷缩成普朗克长度的圆圈，电线比喻解释\"为什么看不到\" 第二种走不通：选错数字——5维只能统一两种力，弦论需要10维 弦论继承：从1个额外维到6个，从圆圈到卡拉比-丘流形——但紧致化方式有10的500次方种 时间线 ： 1919年4月：卡鲁扎寄论文给爱因斯坦 1919-1921年：爱因斯坦满意→支持发表→最终放弃 1926年：克莱因",
+        "truncated": true
+      },
+      "published_at": "Wed, 23 Sep 2026 14:28:51 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "4b9aae82ce66057ad70b2894e5b080ab6026f1ca9efec9198f56d1c1d7651a82",
+      "guid": "xmly_track_978990819",
+      "title": {
+        "text": "【第二季】177｜【光速之问】两个不能都对的人",
+        "truncated": false
+      },
+      "description": {
+        "text": "参考文献： 1. 惠更斯，《惠更斯光论》（科学元典丛书），北京大学出版社，2012年。 2. 牛顿，《自然哲学之数学原理》（科学元典丛书·学生版），北京大学出版社，2021年。 3. 吴国盛，《科学的历程》（全新修订版），湖南科学技术出版社，2023年。 4. 汪有，《于是一片光明：1543—1957人类科学探索四百年》，清华大学出版社，2023年。 塞尔日·阿罗什，《光的探索》，世界图书出版有限公司，2023年。",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 May 2026 13:30:00 GMT",
+      "feed_index": 101
+    },
+    {
+      "id": "431317ddbb3dd2366813012ac9c57f49a7ddfe0d800e715b764c72b9d85cadda",
+      "guid": "xmly_track_947071363",
+      "title": {
+        "text": "【第二季】057｜【起源之问】哈勃的望远镜",
+        "truncated": false
+      },
+      "description": {
+        "text": "参考文献 1. Hubble, E. (1929). \"A Relation Between Distance and Radial Velocity Among Extra-Galactic Nebulae.\" *Proceedings of the National Academy of Sciences*, 15(3), 168-173. 2. Gamow, G. (1948). \"The Evolution of the Universe.\" *Nature*, 162(4122), 680-682. 3. Alpher, R. A., & Herman, R. (1948). \"Evolution of the Universe.\" *Nature*, 162(4124), 774-775. 4. Christianson, G. E. (1995). *Edwin Hubble: Mariner of the Nebulae*. University of Chicago Press. 5. Singh, S. (2004). *Big Bang: The Origin of the Universe*. Fourth Estate.",
+        "truncated": false
+      },
+      "published_at": "Thu, 08 Jan 2026 13:30:00 GMT",
+      "feed_index": 202
+    },
+    {
+      "id": "259738c5a6b7b7edee8e3e71a8b80c7033afa9a62ee8471ddd12cd15afb4a20d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/52c8-audiofreehighqps/5B/97/CKwRIJEE5cdlADj6MQDUn52K-aacv2-48K.m4a",
+      "title": {
+        "text": "参宿四究竟是因为什么变暗的？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 09 Aug 2021 13:00:00 GMT",
+      "feed_index": 303
+    },
+    {
+      "id": "0977684955bff1001d4e1ccd6649736bdab9fdeec0b96d37b6a5d68f2103e86c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/20c7-audiofreehighqps/7C/4A/CMCoOR4D_WRjAHLpZACHPHT3-aacv2-48K.m4a",
+      "title": {
+        "text": "【新春特辑】2021去火星——“看”火星的正确姿势之“围着看”",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 13 Feb 2021 13:00:04 GMT",
+      "feed_index": 404
+    },
+    {
+      "id": "1baea7b9e3d34d57d6932e6256ca7edec49bf4a0a38a01168261e4cf881b19d5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group85/M09/DC/4B/wKg5JV86f2Wgi0iVACu1t95mLE4140-aacv2-48K.m4a",
+      "title": {
+        "text": "天王星倾斜的秘密",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Aug 2020 13:00:12 GMT",
+      "feed_index": 505
+    },
+    {
+      "id": "5e6f79d751705a46a717ec718cad5f983b00b74d8400a71696d9882e5d2fb7a5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M09/13/47/wKgO2F40JQThrFPBAC2Z7dGk1jE021-aacv2-48K.m4a",
+      "title": {
+        "text": "航海天文钟第七部分：时钟的普及",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 31 Jan 2020 13:00:06 GMT",
+      "feed_index": 606
+    },
+    {
+      "id": "4448f4ac95df02890a19ddce7d9f13ceef265be22776b6622375c677f4a0a2db",
+      "guid": "https://aod.cos.tx.xmcdn.com/group61/M01/C0/A1/wKgMZl01dWLB9kuAACd_rCnX_EA133-aacv2-48K.m4a",
+      "title": {
+        "text": "天宫二号是怎样回家的？",
+        "truncated": false
+      },
+      "description": {
+        "text": "天宫二号回家了，背后的秘密你应该知道。",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 Jul 2019 12:00:25 GMT",
+      "feed_index": 707
+    }
+  ]
+}

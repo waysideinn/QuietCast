@@ -1,0 +1,291 @@
+{
+  "group": "fiction",
+  "term": "斗罗大陆",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:42:33.505897+00:00",
+    "status": 200,
+    "sha256": "24d4a8c41e909b1e1d84f70a3f6db46cbad53e7ecbe4a7fd77fd05b7e9f9891a"
+  },
+  "result_count": 13,
+  "records": [
+    {
+      "collectionId": 1717005156,
+      "trackId": 1717005156,
+      "collectionName": "斗罗大陆之至高武魂|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71952916.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E8%87%B3%E9%AB%98%E6%AD%A6%E9%AD%82-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717005156?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 344,
+      "releaseDate": "2022-10-25T13:11:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1732719398,
+      "trackId": 1732719398,
+      "collectionName": "鬥羅大陸",
+      "artistName": "聆聽小說之旅",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/b58a0c29-fc80-4127-932b-0207ba4579de.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%AC%A5%E7%BE%85%E5%A4%A7%E9%99%B8/id1732719398?uo=4",
+      "genres": [
+        "小說",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1483",
+        "26"
+      ],
+      "trackCount": 12,
+      "releaseDate": "2023-09-10T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "小說"
+    },
+    {
+      "collectionId": 1732719415,
+      "trackId": 1732719415,
+      "collectionName": "鬥羅大陸II絕世唐門",
+      "artistName": "聆聽小說之旅",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/be829848-d6f0-4204-bfee-c30a35f1eee4.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%AC%A5%E7%BE%85%E5%A4%A7%E9%99%B8ii%E7%B5%95%E4%B8%96%E5%94%90%E9%96%80/id1732719415?uo=4",
+      "genres": [
+        "小說",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1483",
+        "26"
+      ],
+      "trackCount": 27,
+      "releaseDate": "2023-09-19T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "小說"
+    },
+    {
+      "collectionId": 1717003414,
+      "trackId": 1717003414,
+      "collectionName": "斗罗大陆之觉醒",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71519152.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E8%A7%89%E9%86%92/id1717003414?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 600,
+      "releaseDate": "2022-10-07T08:17:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1717003408,
+      "trackId": 1717003408,
+      "collectionName": "斗罗大陆之龙之觉醒|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71931185.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E9%BE%99%E4%B9%8B%E8%A7%89%E9%86%92-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717003408?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 160,
+      "releaseDate": "2022-10-24T05:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1717005049,
+      "trackId": 1717005049,
+      "collectionName": "斗罗大陆之神圣武魂|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71977840.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E7%A5%9E%E5%9C%A3%E6%AD%A6%E9%AD%82-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717005049?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 302,
+      "releaseDate": "2022-10-28T06:43:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1730050126,
+      "trackId": 1730050126,
+      "collectionName": "鬥羅大陸外傳神界傳說",
+      "artistName": "聆聽小說之旅",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/480402ad-18e8-4810-97bd-2d382461c631.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%AC%A5%E7%BE%85%E5%A4%A7%E9%99%B8%E5%A4%96%E5%82%B3%E7%A5%9E%E7%95%8C%E5%82%B3%E8%AA%AA/id1730050126?uo=4",
+      "genres": [
+        "小說",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1483",
+        "26"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2023-09-21T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "小說"
+    },
+    {
+      "collectionId": 1730842753,
+      "trackId": 1730842753,
+      "collectionName": "鬥羅大陸III龍王傳說",
+      "artistName": "聆聽小說之旅",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/9f7bd515-fedd-4627-8e51-4ae799c4f940.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%AC%A5%E7%BE%85%E5%A4%A7%E9%99%B8iii%E9%BE%8D%E7%8E%8B%E5%82%B3%E8%AA%AA/id1730842753?uo=4",
+      "genres": [
+        "小說",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1483",
+        "26"
+      ],
+      "trackCount": 98,
+      "releaseDate": "2023-10-22T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "小說"
+    },
+    {
+      "collectionId": 1717002782,
+      "trackId": 1717002782,
+      "collectionName": "斗罗大陆之超能武魂|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71933684.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E8%B6%85%E8%83%BD%E6%AD%A6%E9%AD%82-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717002782?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 333,
+      "releaseDate": "2022-10-24T10:40:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1730842918,
+      "trackId": 1730842918,
+      "collectionName": "鬥羅大陸IV終極鬥羅",
+      "artistName": "聆聽小說之旅",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/7dbe2584-995a-49cd-b8d7-fbaf9a3fe7a7.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%AC%A5%E7%BE%85%E5%A4%A7%E9%99%B8iv%E7%B5%82%E6%A5%B5%E9%AC%A5%E7%BE%85/id1730842918?uo=4",
+      "genres": [
+        "小說",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1483",
+        "26"
+      ],
+      "trackCount": 26,
+      "releaseDate": "2023-10-01T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "小說"
+    },
+    {
+      "collectionId": 1716822386,
+      "trackId": 1716822386,
+      "collectionName": "斗罗大陆之神之觉醒|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71915352.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E7%A5%9E%E4%B9%8B%E8%A7%89%E9%86%92-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1716822386?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 262,
+      "releaseDate": "2022-10-24T04:39:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1717005088,
+      "trackId": 1717005088,
+      "collectionName": "斗罗大陆之王之觉醒|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71907973.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E7%8E%8B%E4%B9%8B%E8%A7%89%E9%86%92-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717005088?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 168,
+      "releaseDate": "2022-10-23T12:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1717005130,
+      "trackId": 1717005130,
+      "collectionName": "斗罗大陆之魂兽觉醒|多人播讲|穿越|系统流|玄幻爽文",
+      "artistName": "斗罗斗破苍穹小说合集",
+      "feedUrl": "https://www.ximalaya.com/album/71907415.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E9%AD%82%E5%85%BD%E8%A7%89%E9%86%92-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717005130?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 153,
+      "releaseDate": "2022-10-23T06:03:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    }
+  ]
+}

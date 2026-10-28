@@ -1,0 +1,140 @@
+{
+  "show_id": "1594997937",
+  "feed_url": "http://www.ximalaya.com/album/305095.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/305095.xml",
+    "final_url": "http://www.ximalaya.com/album/305095.xml",
+    "fetched_at": "2026-10-25T14:54:36.854693+00:00",
+    "status": 200,
+    "sha256": "b22271603540443c3558b5bb0bd683bb385a81f4678ed3cddeb11393df686c0a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "各站停靠",
+    "truncated": false
+  },
+  "description": {
+    "text": "寻找前世的蝴蝶，在梦的触须中成了人，身体形式是生命的各站停靠。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 42,
+  "episodes": [
+    {
+      "id": "cba83fd1ce0a9af69edb474246966cf1b7bc16e14fee2ca2635af9745bcbe2ec",
+      "guid": "xmly_track_745644958",
+      "title": {
+        "text": "EP31 萝卜快跑：35岁的打工人有机会跑过无人驾驶吗",
+        "truncated": false
+      },
+      "description": {
+        "text": "AI的浪潮带来的是经济繁荣还是下岗潮？算法是向善的吗？AI可以比人类更擅长开车么？为何工业革命产生了“卢德主义”，资本家最终又关停了更多机器转而雇佣工人？ 嘉宾：没有驾照的小狐狸 嘉宾：有驾照但没车的老K 主持&剪辑：每天假装开车但实际都在自动驾驶的贱圆 00:45 萝卜快跑 介绍 02:11 打工人退无可退 03:20 城市一隅 05:17 三十五岁焦虑 07:15 “以后我要做什么呢？” 09:33 平台型企业难做 12:05 日本打车、新加坡外卖 与 国内价格对比 14:04 差异化竞争的补充，还是完全替代？ 16:25 当我们在打车时，我们在打什么？ 21:45 资本逐利，但无人出租车是一笔合算的生意吗？ 27:08 开车，AI可以比人类更擅长吗？ 29:28 创造性破坏与“工业革命”时代的“卢德主义” 34:10 出租车司机竞争困境——当代“骆驼祥子” 38:39 “AI”的技术革新带来的失业，技术进步到底有什么意义？ 40:53 AI-永远相信美好的事情即将发生 44:22 0.1%错误率的代价 45:29 奥本海默--科技是打开了潘多拉的魔盒，还是打开了一个所谓美好的蛋糕？ 46:18 “庄生晓梦”",
+        "truncated": false
+      },
+      "published_at": "Fri, 02 Aug 2024 10:20:44 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "32728c7e4b4276f81effd18330236ab43291f7e232c6758e4d02340add7aac42",
+      "guid": "xmly_track_767532940",
+      "title": {
+        "text": "EP34 乃万和乙女游戏粉丝究竟在吵什么？",
+        "truncated": false
+      },
+      "description": {
+        "text": "嘉宾：斗斗，前乙女游戏运营，现家中绣花，资深乙女游戏玩家。 主持&剪辑：泡泡，还没有玩过乙女游戏的问题宝宝 近期一位名叫乃万的饶舌歌手，和乙女游戏粉丝进行了争吵，频繁出现在热搜。然而在争吵了这么久之后，我们还是想回到事情的原点看一看，乃万和乙女游戏粉丝到底在吵什么？ 00:10 乙女游戏简介与发展史，日本和国内的发展差异，以及国乙崛起 06:34 乃万是谁？ 09:10 乃万与乙女游戏粉丝争吵始末，梦女标签争议 18:00 派克特diss的歌曲说的对吗？",
+        "truncated": false
+      },
+      "published_at": "Tue, 22 Oct 2024 08:46:48 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "25c0ef184e2c811559153494bf9a71689be6b455731cae7bcb14a2ea79d22067",
+      "guid": "xmly_track_613773054",
+      "title": {
+        "text": "EP28上 2022年度停靠|“换一场工作仿佛一次离婚”",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Feb 2023 14:59:44 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "23cf8c90996c1ef04d9676884919bfc933bfb55e66fd1309713026459c55736e",
+      "guid": "xmly_track_494577913",
+      "title": {
+        "text": "EP23 圆桌|糊弄站|我不喜欢糊弄学，但我们喜欢这些豆瓣小组",
+        "truncated": false
+      },
+      "description": {
+        "text": "豆瓣三部曲第一部，从八组聊起，我们讨厌和喜欢的豆瓣小组。 2020年12月，豆瓣的小组功能再次被关闭了回复功能半个月，这次，两个老瓣er说说讨厌和喜欢的豆瓣小组 主持：贱圆，豆龄12岁 嘉宾：小dong，使用豆瓣7年 小组篇 不喜欢名单 0\"19矫情文字品鉴小组 4\"01糊弄学小组 10\"41避免自恋，只能糊弄 11\"50社死组 喜欢名单 12\"56今天穿什么组，请替我选择组，今天你也来研究穿搭了？ 15\"00文字失语者互助小组，假中国人的艰难学习 和所有的小众爱好不期而遇 16\"56便利店小组 18\"01世界浪漫组织 18\"56反派影片 20\"35散步小组 21\"16精神上是老年人的年轻人来乘凉小组，假装生活在1980-2000年小组 24\"48来参观我的卧室小组，我们生活中租房时代小组 25\"50buy（买组）＆基金小组 制作:贱圆 封面图via 小羊",
+        "truncated": false
+      },
+      "published_at": "Thu, 20 Jan 2022 16:27:04 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "d3c9d26908948097bac686593c0be4a5ee5f6d267329fa59a4284e8c34c3a685",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M04/98/F5/wKgDYlZAzO7wb17dAdnfTrcuN10444.m4a",
+      "title": {
+        "text": "赫哥回忆访谈录",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 09 Nov 2015 16:46:37 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "fdaf5ffcc43b33c5ac88ffa00f921c1ff0b40a361fa2c12dbbb794c71607a6ac",
+      "guid": "https://aod.cos.tx.xmcdn.com/group6/M00/32/EF/wKgDg1TezDrQavquA0IJGdyojdA978.mp3",
+      "title": {
+        "text": "single dog 如何过节",
+        "truncated": false
+      },
+      "description": {
+        "text": "无",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 Feb 2015 04:18:59 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "6a0792ba4fe7be1c404c3165e7cb10b11fe7b61004c963dc90b7fb1d1b6c66d6",
+      "guid": "https://aod.cos.tx.xmcdn.com/group5/M08/18/B9/wKgDtVSlWaKhhIafA03jmSR5iz8291.mp3",
+      "title": {
+        "text": "《贱圆》畅想2015",
+        "truncated": false
+      },
+      "description": {
+        "text": "两个南方方言重灾区的非著名电台节目主持人的自我修养。 和大家畅想2015的故事。",
+        "truncated": false
+      },
+      "published_at": "Thu, 01 Jan 2015 14:30:29 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "645c46b61367e8b9f3f0475ae6d316b1a3ddfdc08b01ba780a0c1573cba55117",
+      "guid": "https://aod.cos.tx.xmcdn.com/group5/M06/C7/CC/wKgDtlSC96ezLx-qAgS1oc62gs0518.mp3",
+      "title": {
+        "text": "第一期《贱圆》",
+        "truncated": false
+      },
+      "description": {
+        "text": "第一期难免手忙脚乱~",
+        "truncated": false
+      },
+      "published_at": "Sat, 06 Dec 2014 12:36:14 GMT",
+      "feed_index": 41
+    }
+  ]
+}

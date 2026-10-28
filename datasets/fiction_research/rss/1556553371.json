@@ -1,0 +1,140 @@
+{
+  "show_id": "1556553371",
+  "feed_url": "https://anchor.fm/s/4c8c4b90/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/4c8c4b90/podcast/rss",
+    "final_url": "https://anchor.fm/s/4c8c4b90/podcast/rss",
+    "fetched_at": "2026-10-25T14:42:37.590285+00:00",
+    "status": 200,
+    "sha256": "273e3e6dcdc0807f9779e1b452bc5ed58ca091ddbe7d28e7637fe12e13d8d1d5"
+  },
+  "status": "ok",
+  "title": {
+    "text": "MoshiMoshi - Anime Podcast",
+    "truncated": false
+  },
+  "description": {
+    "text": "Moshi Moshi, willkommen beim besten Anime Podcast Deutschlands. Bei uns bleibst du in jeder Season auf dem neuesten Stand, wir diskutieren, analysiseren und vergleichen Animes und spielen Spiele in dem wir unser Anime Wissen auf die Probe stellen.",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "de",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 162,
+  "episodes": [
+    {
+      "id": "b35dba0f316855760f4a69412a6da3600bda0b0da0623361d0c4a6c8f9edb73b",
+      "guid": "f2fab9dc-f016-49da-93bd-fbca188c3e28",
+      "title": {
+        "text": "Der Weg von Mobbing Opfer zur Power Frau💯 Tommy Morgenstern hat ihr Leben verändert.",
+        "truncated": false
+      },
+      "description": {
+        "text": "Moshi Moshi,wir befinden uns auf dem Tommy Morgenstern Event vom Akihabara Store in Kelkheim und sprechen mit den Gästen, während sie in der Schlange warten. Aus welchem Grund möchten sie Tommy treffen? Welche Dragonball Sage ist die beste? Wer ist der beste Antagonist uvm. wird in dieser Folge beantwortet.Gast:Larissa - IG: larrib1996 @AkihabaraTCG-Shop ​",
+        "truncated": false
+      },
+      "published_at": "Sat, 24 Oct 2026 16:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "5a58e1ccab79d183f9f6d59d2692c833c0b010262e886d9ee7f87bea0c671c9c",
+      "guid": "b2a32dfe-f62c-4fa9-82d4-e38f0c780f77",
+      "title": {
+        "text": "GAST: Fahrlehrerserband 🤓Animes gucken als Lehrer ist der Cheatcode🤓 Chainsawman vs Demon Slayer🤔",
+        "truncated": false
+      },
+      "description": {
+        "text": "Moshi Moshi, es ist wieder Zeit für eine Gastfolge und heute haben wir den guten Serband bei uns. Er ist neben seiner interessanten Tätigkeit als Fahrlehrer ganz nebenbei auch Anime Head und er erklärt uns heute wie er diese zwei Dinge miteinander vereint und daraus auch noch Vorteile zieht. Wir sprechen außerdem über Demon Slayer und Chainsawman und was diese Beiden Animes so besonders macht. Wir sprechen über unsere Top 5 Animes und gehen vor allen Dingen auf die Einzigartigkeit von Hunter X Hunter ein. Viel Spaß mit der Folge! P.S. die Akkustik war nicht Optimal, weil die Fahrschule einfach",
+        "truncated": true
+      },
+      "published_at": "Thu, 28 May 2026 16:00:00 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "a257b1613859af829bff6f3973229658d6b3a854e804c73a00e55aebbbac1c0d",
+      "guid": "45e16d6d-9551-4428-935f-6075eb2d4759",
+      "title": {
+        "text": "Hells Paradise löst JJK vom Thron 🤯🤯",
+        "truncated": false
+      },
+      "description": {
+        "text": "Moshi Moshi,Dail ist immernoch in Thailand, aber wir liefern dennoch ab. Wir spielen verschiedene Anime Spiele, streiten uns über Dragonball Z und haben unsere gemeinsame Top 5 endlich entschieden. Natürlich gehen wir auch auf die Winter Season Animes ein. JJK, Hells Paradise, Sentenced to be a Hero, Frieren, My Hero Academia Vigilantes, Fire Force und Fate Stay/Fake.Wenn euch unser Podcast gefällt, denkt dran uns zu abonnieren und zu bewerten!",
+        "truncated": false
+      },
+      "published_at": "Tue, 03 Feb 2026 17:46:32 GMT",
+      "feed_index": 46
+    },
+    {
+      "id": "3c96e6554d82306fded0d8d5a1f746c7b3668a27d668ad87a258205ee607a34c",
+      "guid": "b29a0c21-1051-4f54-b517-e7ef70b2cac0",
+      "title": {
+        "text": "Quizshow statt Podcast? Das große One-Piece Quiz ist zu ende..",
+        "truncated": false
+      },
+      "description": {
+        "text": "Unterstützt uns doch gerne indem ihr ein Like, ein Abo und ein Kommentar da lässt und vergesst nicht auf unseren weiteren Kanälen vorbeizuschauen und dort ein Follow da zu lassen!Twitch: www.twitch.tv/puzzles_podcastTikTok: https://www.tiktok.com/@puzzles.podcast",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Jul 2025 16:00:00 GMT",
+      "feed_index": 69
+    },
+    {
+      "id": "5f31d23126adf8164fe833c6f5ba40eb280d8eb9493bc791544d250de701c016",
+      "guid": "f2e32f86-2095-43f8-93bd-053b962fe1c8",
+      "title": {
+        "text": "Zorro ist Moslem?",
+        "truncated": false
+      },
+      "description": {
+        "text": "Unterstützt uns doch gerne indem ihr ein Like, ein Abo und ein Kommentar da lässt und vergesst nicht auf unseren weiteren Kanälen vorbeizuschauen und dort ein Follow da zu lassen!Twitch: www.twitch.tv/puzzles_podcastTikTok: https://www.tiktok.com/@puzzles.podcast",
+        "truncated": false
+      },
+      "published_at": "Tue, 11 Mar 2025 17:00:00 GMT",
+      "feed_index": 92
+    },
+    {
+      "id": "08c7385695b336f62c24b4748302f7f8338060d6269c81dde43dee0f9f48ffd7",
+      "guid": "55b6e163-989e-4f1f-85fa-18aef82abbec",
+      "title": {
+        "text": "Spezialfolge, ist Zypern underrated?",
+        "truncated": false
+      },
+      "description": {
+        "text": "Dails JGA führt zum Hottest Summer amk. Wir sprechen über die Vor Und Nachteile von Zypern. Falls ihr uns noch nicht kennt, lasst ein Abo da, in dem Sinne, bis nächste Woche.",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Sep 2024 16:17:17 GMT",
+      "feed_index": 115
+    },
+    {
+      "id": "95a0f77641c0ed25da8be74dfd7bb3e0c6f1a8603897415d8670d0a9c6a9433f",
+      "guid": "36b00855-0fab-4a87-aaff-b9ef6b0b508e",
+      "title": {
+        "text": "Tauben sind die Pfandflaschensammler der Tierwelt! | Folge 25",
+        "truncated": false
+      },
+      "description": {
+        "text": "Hast du dich schon immer gefragt was Tauben und Pfandflaschensammler gemeinsam haben? Heute erfährst du die Antwort! Außerdem bekommst du einen Einblick in Dune 2, Animes sind natürlich auch wieder am Start und zu guter Letzt gibt es noch einen Meinungsvergleich zu verschiedenen One Piece Themen. Falls dir die Folge gefällt, lass ein Like, ein Abo und ein Kommentar da. In dem Sinne viel Spaß mit der Folge!",
+        "truncated": false
+      },
+      "published_at": "Tue, 19 Mar 2024 17:00:00 GMT",
+      "feed_index": 138
+    },
+    {
+      "id": "eac2bf56322cc0499215c30433d466cd6ce249dfb81201e4821019ac95bbe314",
+      "guid": "c2f40272-9bb3-4890-a802-5538cd3d6b59",
+      "title": {
+        "text": "Der beste Sänger 🚀 & Die beste Sängerin 🧚‍♂️ | Folge 1",
+        "truncated": false
+      },
+      "description": {
+        "text": "Willkommen bei der ersten Folge des Niegel Nagel neuen Puzzle Podcast. Warum Puzzles fragst du dich? Tja, was denkst du? Kommentier die Antwort wenn du sie kennst. Viel Spaß mit der Folge. Ich tipp das Ding hier jedes Mal, ich glaub das hat sich noch nie jemand durchgelesen. Schreibt man Niegel so wie da oben?! Naja, ab jetzt gibt es jeden Dienstag eine neue Folge Puzzles auf Youtube sowie (fast) allen deinen Podcast Anbietern.",
+        "truncated": false
+      },
+      "published_at": "Thu, 17 Aug 2023 22:00:00 GMT",
+      "feed_index": 161
+    }
+  ]
+}

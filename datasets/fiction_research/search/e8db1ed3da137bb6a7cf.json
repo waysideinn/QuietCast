@@ -1,0 +1,1585 @@
+{
+  "group": "fiction",
+  "term": "有声小说",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:39:34.177123+00:00",
+    "status": 200,
+    "sha256": "fa5ef72ef4f9e1309fb9c4d581c8ff12bae5e9152f63d247cb948ea536408b9b"
+  },
+  "result_count": 68,
+  "records": [
+    {
+      "collectionId": 1585541937,
+      "trackId": 1585541937,
+      "collectionName": "权宠毒妃不好惹 | 强强权谋甜宠多人有声剧 免费有声小说",
+      "artistName": "一念_刘宇宁老婆",
+      "feedUrl": "http://www.ximalaya.com/album/51783236.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9D%83%E5%AE%A0%E6%AF%92%E5%A6%83%E4%B8%8D%E5%A5%BD%E6%83%B9-%E5%BC%BA%E5%BC%BA%E6%9D%83%E8%B0%8B%E7%94%9C%E5%AE%A0%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7-%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1585541937?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "休閒",
+        "動漫畫"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "trackCount": 1158,
+      "releaseDate": "2022-04-18T03:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1801640212,
+      "trackId": 1801640212,
+      "collectionName": "重生末日囤货|穿越重生|精品|免费有声小说|爽文",
+      "artistName": "爱吃小馄炖",
+      "feedUrl": "https://www.ximalaya.com/album/87407195.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%87%8D%E7%94%9F%E6%9C%AB%E6%97%A5%E5%9B%A4%E8%B4%A7-%E7%A9%BF%E8%B6%8A%E9%87%8D%E7%94%9F-%E7%B2%BE%E5%93%81-%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4-%E7%88%BD%E6%96%87/id1801640212?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "科幻小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 341,
+      "releaseDate": "2025-04-05T09:51:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1549493045,
+      "trackId": 1549493045,
+      "collectionName": "法医丑妃：王爷，晚上见｜穿越破案悬疑（永久免费）",
+      "artistName": "星空有声小说",
+      "feedUrl": "http://www.ximalaya.com/album/42622023.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B3%95%E5%8C%BB%E4%B8%91%E5%A6%83-%E7%8E%8B%E7%88%B7-%E6%99%9A%E4%B8%8A%E8%A7%81-%E7%A9%BF%E8%B6%8A%E7%A0%B4%E6%A1%88%E6%82%AC%E7%96%91-%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9/id1549493045?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 283,
+      "releaseDate": "2021-01-07T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1574357514,
+      "trackId": 1574357514,
+      "collectionName": "言情有声小说",
+      "artistName": "爱情小说",
+      "feedUrl": "https://anchor.fm/s/61cb78dc/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%A8%80%E6%83%85%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1574357514?uo=4",
+      "genres": [
+        "小說",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1483",
+        "26"
+      ],
+      "trackCount": 67,
+      "releaseDate": "2022-10-08T04:21:00Z",
+      "country": "TWN",
+      "primaryGenreName": "小說"
+    },
+    {
+      "collectionId": 1751425011,
+      "trackId": 1751425011,
+      "collectionName": "超品透视|火爆|都市玄幻有声小说",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/75900582.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B6%85%E5%93%81%E9%80%8F%E8%A7%86-%E7%81%AB%E7%88%86-%E9%83%BD%E5%B8%82%E7%8E%84%E5%B9%BB%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1751425011?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 1000,
+      "releaseDate": "2023-05-29T22:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1615080193,
+      "trackId": 1615080193,
+      "collectionName": "诡异墓书｜悬疑恐怖｜盗墓｜多播精品有声小说",
+      "artistName": "方鸣远播",
+      "feedUrl": "http://www.ximalaya.com/album/57573971.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AF%A1%E5%BC%82%E5%A2%93%E4%B9%A6-%E6%82%AC%E7%96%91%E6%81%90%E6%80%96-%E7%9B%97%E5%A2%93-%E5%A4%9A%E6%92%AD%E7%B2%BE%E5%93%81%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1615080193?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "科幻小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 175,
+      "releaseDate": "2022-06-01T02:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1605291553,
+      "trackId": 1605291553,
+      "collectionName": "我的老婆是双胞胎/免费有声小说（每日更新）",
+      "artistName": "午夜情城",
+      "feedUrl": "http://www.ximalaya.com/album/55750861.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%88%91%E7%9A%84%E8%80%81%E5%A9%86%E6%98%AF%E5%8F%8C%E8%83%9E%E8%83%8E-%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4-%E6%AF%8F%E6%97%A5%E6%9B%B4%E6%96%B0/id1605291553?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 2070,
+      "releaseDate": "2023-01-04T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1595747271,
+      "trackId": 1595747271,
+      "collectionName": "重生娇妻：章少请接招丨精品多人剧丨免费有声小说",
+      "artistName": "青墨私音",
+      "feedUrl": "http://www.ximalaya.com/album/50567081.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%87%8D%E7%94%9F%E5%A8%87%E5%A6%BB-%E7%AB%A0%E5%B0%91%E8%AF%B7%E6%8E%A5%E6%8B%9B%E4%B8%A8%E7%B2%BE%E5%93%81%E5%A4%9A%E4%BA%BA%E5%89%A7%E4%B8%A8%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1595747271?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "社會與文化",
+        "人際關係"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 243,
+      "releaseDate": "2021-09-05T04:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1523415060,
+      "trackId": 1523415060,
+      "collectionName": "女神有声小说[福利] patreon.com 收听全集",
+      "artistName": "女神有声小说",
+      "feedUrl": "https://anchor.fm/s/2babb898/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E7%A5%9E%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4-%E7%A6%8F%E5%88%A9-patreon-com-%E6%94%B6%E5%90%AC%E5%85%A8%E9%9B%86/id1523415060?uo=4",
+      "genres": [
+        "小說",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1483",
+        "26"
+      ],
+      "trackCount": 35,
+      "releaseDate": "2024-06-25T08:54:00Z",
+      "country": "TWN",
+      "primaryGenreName": "小說"
+    },
+    {
+      "collectionId": 1896791702,
+      "trackId": 1896791702,
+      "collectionName": "有聲小說 × 廣播劇｜PODNOVEL",
+      "artistName": "SpoonLabs",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmpga24ap01zl01mlg6jo9v3e",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%89%E8%81%B2%E5%B0%8F%E8%AA%AA-%E5%BB%A3%E6%92%AD%E5%8A%87-podnovel/id1896791702?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "藝術"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301"
+      ],
+      "trackCount": 133,
+      "releaseDate": "2026-09-28T13:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1869550922,
+      "trackId": 1869550922,
+      "collectionName": "免费有声小说丨长安秘典：十二时辰迷局丨悬疑推理探案",
+      "artistName": "星海寻声",
+      "feedUrl": "https://www.ximalaya.com/album/106963600.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E4%B8%A8%E9%95%BF%E5%AE%89%E7%A7%98%E5%85%B8-%E5%8D%81%E4%BA%8C%E6%97%B6%E8%BE%B0%E8%BF%B7%E5%B1%80%E4%B8%A8%E6%82%AC%E7%96%91%E6%8E%A8%E7%90%86%E6%8E%A2%E6%A1%88/id1869550922?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 266,
+      "releaseDate": "2026-10-23T21:12:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1251826993,
+      "trackId": 1251826993,
+      "collectionName": "每日英文有声小说-长腿叔叔",
+      "artistName": "有声师姐Memory",
+      "feedUrl": "http://www.ximalaya.com/album/8710656.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AF%8F%E6%97%A5%E8%8B%B1%E6%96%87%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4-%E9%95%BF%E8%85%BF%E5%8F%94%E5%8F%94/id1251826993?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "藝術",
+        "書籍"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 98,
+      "releaseDate": "2017-10-24T07:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1631657254,
+      "trackId": 1631657254,
+      "collectionName": "庆余年 有声小说",
+      "artistName": "YSD",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/e0a74d34-da6b-4885-9a71-8b0082cc3c52.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%BA%86%E4%BD%99%E5%B9%B4-%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1631657254?uo=4",
+      "genres": [
+        "電視與電影",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1309",
+        "26"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2022-06-25T08:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "電視與電影"
+    },
+    {
+      "collectionId": 1558922238,
+      "trackId": 1558922238,
+      "collectionName": "聽書Speech Novel /有聲小說",
+      "artistName": "小 羊",
+      "feedUrl": "https://anchor.fm/s/510110ac/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%81%BD%E6%9B%B8speech-novel-%E6%9C%89%E8%81%B2%E5%B0%8F%E8%AA%AA/id1558922238?uo=4",
+      "genres": [
+        "科幻小說",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-03-15T11:27:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科幻小說"
+    },
+    {
+      "collectionId": 1650354751,
+      "trackId": 1650354751,
+      "collectionName": "【万族崛起·龙族崛起】高品质玄幻小说丨免费有声小说",
+      "artistName": "南城天蝎",
+      "feedUrl": "https://www.ximalaya.com/album/71756104.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%87%E6%97%8F%E5%B4%9B%E8%B5%B7-%E9%BE%99%E6%97%8F%E5%B4%9B%E8%B5%B7-%E9%AB%98%E5%93%81%E8%B4%A8%E7%8E%84%E5%B9%BB%E5%B0%8F%E8%AF%B4%E4%B8%A8%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1650354751?uo=4",
+      "genres": [
+        "科幻小說",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 46,
+      "releaseDate": "2022-11-05T00:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科幻小說"
+    },
+    {
+      "collectionId": 1063962111,
+      "trackId": 1063962111,
+      "collectionName": "雪中悍刀行【大斌&精品有声小说】 第一季",
+      "artistName": "大斌",
+      "feedUrl": "http://www.ximalaya.com/album/2684034.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9B%AA%E4%B8%AD%E6%82%8D%E5%88%80%E8%A1%8C-%E5%A4%A7%E6%96%8C-%E7%B2%BE%E5%93%81%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4-%E7%AC%AC%E4%B8%80%E5%AD%A3/id1063962111?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術",
+        "表演"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1405"
+      ],
+      "trackCount": 881,
+      "releaseDate": "2018-02-11T07:56:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1718861910,
+      "trackId": 1718861910,
+      "collectionName": "好听的有声小说推荐（女生版）",
+      "artistName": "周soso",
+      "feedUrl": "https://www.ximalaya.com/album/19806238.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%BD%E5%90%AC%E7%9A%84%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E6%8E%A8%E8%8D%90-%E5%A5%B3%E7%94%9F%E7%89%88/id1718861910?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "電視與電影",
+        "節目回顧"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1309",
+        "1562"
+      ],
+      "trackCount": 97,
+      "releaseDate": "2025-12-11T04:53:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1618466865,
+      "trackId": 1618466865,
+      "collectionName": "阴阳摆渡人｜悬疑｜灵异｜精品有声小说",
+      "artistName": "方鸣远播",
+      "feedUrl": "http://www.ximalaya.com/album/61035303.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%98%B4%E9%98%B3%E6%91%86%E6%B8%A1%E4%BA%BA-%E6%82%AC%E7%96%91-%E7%81%B5%E5%BC%82-%E7%B2%BE%E5%93%81%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1618466865?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 105,
+      "releaseDate": "2022-05-19T01:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1736053916,
+      "trackId": 1736053916,
+      "collectionName": "《黃泉逆仙錄 : 1-2季》有聲小說連載（聽書）",
+      "artistName": "阿暖",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/a0ce9003-bcee-4b1e-b3ef-88683e4ee002.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%BB%83%E6%B3%89%E9%80%86%E4%BB%99%E9%8C%84-1-2%E5%AD%A3-%E6%9C%89%E8%81%B2%E5%B0%8F%E8%AA%AA%E9%80%A3%E8%BC%89-%E8%81%BD%E6%9B%B8/id1736053916?uo=4",
+      "genres": [
+        "小說",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1483",
+        "26"
+      ],
+      "trackCount": 302,
+      "releaseDate": "2026-03-30T05:29:00Z",
+      "country": "TWN",
+      "primaryGenreName": "小說"
+    },
+    {
+      "collectionId": 1618467149,
+      "trackId": 1618467149,
+      "collectionName": "我的老婆是妖女｜玄幻修仙｜先婚后爱｜精品有声小说",
+      "artistName": "方鸣远播",
+      "feedUrl": "http://www.ximalaya.com/album/61980278.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%88%91%E7%9A%84%E8%80%81%E5%A9%86%E6%98%AF%E5%A6%96%E5%A5%B3-%E7%8E%84%E5%B9%BB%E4%BF%AE%E4%BB%99-%E5%85%88%E5%A9%9A%E5%90%8E%E7%88%B1-%E7%B2%BE%E5%93%81%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1618467149?uo=4",
+      "genres": [
+        "喜劇小說",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "trackCount": 83,
+      "releaseDate": "2022-05-10T01:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇小說"
+    },
+    {
+      "collectionId": 1178855557,
+      "trackId": 1178855557,
+      "collectionName": "有声小说《小王子》日语版",
+      "artistName": "跟着圈圈吐泡泡",
+      "feedUrl": "http://www.ximalaya.com/album/2757960.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4-%E5%B0%8F%E7%8E%8B%E5%AD%90-%E6%97%A5%E8%AF%AD%E7%89%88/id1178855557?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術",
+        "教育",
+        "語言學習"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2016-02-12T10:17:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1611335858,
+      "trackId": 1611335858,
+      "collectionName": "阴阳帛书丨盗墓悬疑&强者回归丨免费有声小说",
+      "artistName": "染红尘_",
+      "feedUrl": "http://www.ximalaya.com/album/52676277.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%98%B4%E9%98%B3%E5%B8%9B%E4%B9%A6%E4%B8%A8%E7%9B%97%E5%A2%93%E6%82%AC%E7%96%91-%E5%BC%BA%E8%80%85%E5%9B%9E%E5%BD%92%E4%B8%A8%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1611335858?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 337,
+      "releaseDate": "2022-07-08T01:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1622344263,
+      "trackId": 1622344263,
+      "collectionName": "喜马拉雅有声小说后期音效bgm",
+      "artistName": "小野鸟",
+      "feedUrl": "http://www.ximalaya.com/album/62280353.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%8E%E6%9C%9F%E9%9F%B3%E6%95%88bgm/id1622344263?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 1881,
+      "releaseDate": "2022-05-18T07:06:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1736311773,
+      "trackId": 1736311773,
+      "collectionName": "有聲小說系列之夜獄街18號",
+      "artistName": "鉅子",
+      "feedUrl": "https://feed.firstory.me/rss/user/cltu2o4yr0aa401uuhof08oyv",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%89%E8%81%B2%E5%B0%8F%E8%AA%AA%E7%B3%BB%E5%88%97%E4%B9%8B%E5%A4%9C%E7%8D%84%E8%A1%9718%E8%99%9F/id1736311773?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "宗教與精神生活",
+        "靈修"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1314",
+        "1444"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2024-04-20T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1896794283,
+      "trackId": 1896794283,
+      "collectionName": "红楼梦",
+      "artistName": "旺仔有声小说",
+      "feedUrl": "https://papi.qingting.fm/podcast/channels/12132",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BA%A2%E6%A5%BC%E6%A2%A6/id1896794283?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 120,
+      "releaseDate": "2026-05-21T09:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1618467019,
+      "trackId": 1618467019,
+      "collectionName": "醉里唤卿卿｜权谋小甜饼｜虐渣不手软｜精品有声小说",
+      "artistName": "方鸣远播",
+      "feedUrl": "http://www.ximalaya.com/album/61036302.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%86%89%E9%87%8C%E5%94%A4%E5%8D%BF%E5%8D%BF-%E6%9D%83%E8%B0%8B%E5%B0%8F%E7%94%9C%E9%A5%BC-%E8%99%90%E6%B8%A3%E4%B8%8D%E6%89%8B%E8%BD%AF-%E7%B2%BE%E5%93%81%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1618467019?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 109,
+      "releaseDate": "2022-05-22T04:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1654311391,
+      "trackId": 1654311391,
+      "collectionName": "有声小说主题曲合集--喜马拉雅主播曼小西言情系列",
+      "artistName": "曼西心岸",
+      "feedUrl": "https://www.ximalaya.com/album/72424029.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E4%B8%BB%E9%A2%98%E6%9B%B2%E5%90%88%E9%9B%86-%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E4%B8%BB%E6%92%AD%E6%9B%BC%E5%B0%8F%E8%A5%BF%E8%A8%80%E6%83%85%E7%B3%BB%E5%88%97/id1654311391?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "音樂",
+        "音樂評論"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1310",
+        "1523"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2024-04-25T06:10:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1566680963,
+      "trackId": 1566680963,
+      "collectionName": "守夜人|【作者巫九】|播音斯博学长|有声小说",
+      "artistName": "斯博学长",
+      "feedUrl": "http://www.ximalaya.com/album/49250540.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%AE%88%E5%A4%9C%E4%BA%BA-%E4%BD%9C%E8%80%85%E5%B7%AB%E4%B9%9D-%E6%92%AD%E9%9F%B3%E6%96%AF%E5%8D%9A%E5%AD%A6%E9%95%BF-%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1566680963?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 145,
+      "releaseDate": "2021-06-15T21:11:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1822935425,
+      "trackId": 1822935425,
+      "collectionName": "都市神医 | 叶寒 | 异能 | 免费有声小说",
+      "artistName": "Cv逍遥",
+      "feedUrl": "https://www.ximalaya.com/album/93605461.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%83%BD%E5%B8%82%E7%A5%9E%E5%8C%BB-%E5%8F%B6%E5%AF%92-%E5%BC%82%E8%83%BD-%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1822935425?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 40,
+      "releaseDate": "2025-07-25T08:28:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1649513245,
+      "trackId": 1649513245,
+      "collectionName": "鬼瞳 | 恐怖悬疑 | 灵异 | 免费有声小说",
+      "artistName": "又见飞儿",
+      "feedUrl": "https://www.ximalaya.com/album/32762910.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%AC%BC%E7%9E%B3-%E6%81%90%E6%80%96%E6%82%AC%E7%96%91-%E7%81%B5%E5%BC%82-%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1649513245?uo=4",
+      "genres": [
+        "科幻小說",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 95,
+      "releaseDate": "2020-03-02T16:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科幻小說"
+    },
+    {
+      "collectionId": 1604147515,
+      "trackId": 1604147515,
+      "collectionName": "烟尘满目 | 古言精品多人有声剧 | 免费有声小说",
+      "artistName": "久久橙子",
+      "feedUrl": "http://www.ximalaya.com/album/55978675.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%83%9F%E5%B0%98%E6%BB%A1%E7%9B%AE-%E5%8F%A4%E8%A8%80%E7%B2%BE%E5%93%81%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7-%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1604147515?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "社會與文化",
+        "人際關係"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 77,
+      "releaseDate": "2022-01-27T00:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1896794467,
+      "trackId": 1896794467,
+      "collectionName": "水浒传",
+      "artistName": "旺仔有声小说",
+      "feedUrl": "https://papi.qingting.fm/podcast/channels/12133",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B0%B4%E6%B5%92%E4%BC%A0/id1896794467?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 120,
+      "releaseDate": "2026-05-22T05:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1262978649,
+      "trackId": 1262978649,
+      "collectionName": "每日英语有声小说-在我入睡前",
+      "artistName": "有声师姐Memory",
+      "feedUrl": "http://www.ximalaya.com/album/9495213.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AF%8F%E6%97%A5%E8%8B%B1%E8%AF%AD%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4-%E5%9C%A8%E6%88%91%E5%85%A5%E7%9D%A1%E5%89%8D/id1262978649?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 60,
+      "releaseDate": "2017-10-24T07:46:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1748407899,
+      "trackId": 1748407899,
+      "collectionName": "知味记 有声小说",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/57219965.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%9F%A5%E5%91%B3%E8%AE%B0-%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1748407899?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 470,
+      "releaseDate": "2022-02-20T15:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1742116953,
+      "trackId": 1742116953,
+      "collectionName": "《黃泉逆仙錄1-2季》(粵語原文朗讀) 有聲小說",
+      "artistName": "阿暖",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/7c34f6a8-da92-4217-924e-90619076dd7e.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%BB%83%E6%B3%89%E9%80%86%E4%BB%99%E9%8C%841-2%E5%AD%A3-%E7%B2%B5%E8%AA%9E%E5%8E%9F%E6%96%87%E6%9C%97%E8%AE%80-%E6%9C%89%E8%81%B2%E5%B0%8F%E8%AA%AA/id1742116953?uo=4",
+      "genres": [
+        "小說",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1483",
+        "26"
+      ],
+      "trackCount": 302,
+      "releaseDate": "2026-04-27T05:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "小說"
+    },
+    {
+      "collectionId": 1578329957,
+      "trackId": 1578329957,
+      "collectionName": "免费 王爷别嚣张｜奇幻有声小说",
+      "artistName": "杭州大石头",
+      "feedUrl": "http://www.ximalaya.com/album/49456370.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9-%E7%8E%8B%E7%88%B7%E5%88%AB%E5%9A%A3%E5%BC%A0-%E5%A5%87%E5%B9%BB%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1578329957?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "科幻小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 41,
+      "releaseDate": "2021-07-02T08:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1547451157,
+      "trackId": 1547451157,
+      "collectionName": "《北野武的小酒馆》免费有声小说",
+      "artistName": "小白龙的书屋",
+      "feedUrl": "http://www.ximalaya.com/album/44602943.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8C%97%E9%87%8E%E6%AD%A6%E7%9A%84%E5%B0%8F%E9%85%92%E9%A6%86-%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1547451157?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 34,
+      "releaseDate": "2021-07-13T00:40:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1181770436,
+      "trackId": 1181770436,
+      "collectionName": "多人配音有声小说《乱世为媒》",
+      "artistName": "乱世为媒剧组",
+      "feedUrl": "http://www.ximalaya.com/album/4158049.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%9A%E4%BA%BA%E9%85%8D%E9%9F%B3%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4-%E4%B9%B1%E4%B8%96%E4%B8%BA%E5%AA%92/id1181770436?uo=4",
+      "genres": [
+        "喜劇",
+        "Podcast",
+        "運動"
+      ],
+      "genreIds": [
+        "1303",
+        "26",
+        "1545"
+      ],
+      "trackCount": 17,
+      "releaseDate": "2018-09-05T02:42:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇"
+    },
+    {
+      "collectionId": 1750671001,
+      "trackId": 1750671001,
+      "collectionName": "重启大明丨多人有声小说丨穿越",
+      "artistName": "锦鸣茶馆",
+      "feedUrl": "https://www.ximalaya.com/album/81815022.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%87%8D%E5%90%AF%E5%A4%A7%E6%98%8E%E4%B8%A8%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E4%B8%A8%E7%A9%BF%E8%B6%8A/id1750671001?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 150,
+      "releaseDate": "2024-06-07T10:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1608628059,
+      "trackId": 1608628059,
+      "collectionName": "蚀境 | 恐怖悬疑小说 | 狮子云云|免费有声小说",
+      "artistName": "靡路",
+      "feedUrl": "http://www.ximalaya.com/album/56018182.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%9A%80%E5%A2%83-%E6%81%90%E6%80%96%E6%82%AC%E7%96%91%E5%B0%8F%E8%AF%B4-%E7%8B%AE%E5%AD%90%E4%BA%91%E4%BA%91-%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1608628059?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 35,
+      "releaseDate": "2022-01-10T12:44:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1128284503,
+      "trackId": 1128284503,
+      "collectionName": "战争与和平有声小说中文版  主播鸡腿小木屋",
+      "artistName": "鸡腿小木屋",
+      "feedUrl": "http://www.ximalaya.com/album/3155646.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%88%98%E4%BA%89%E4%B8%8E%E5%92%8C%E5%B9%B3%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E4%B8%AD%E6%96%87%E7%89%88-%E4%B8%BB%E6%92%AD%E9%B8%A1%E8%85%BF%E5%B0%8F%E6%9C%A8%E5%B1%8B/id1128284503?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1487"
+      ],
+      "trackCount": 109,
+      "releaseDate": "2018-01-01T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1790008515,
+      "trackId": 1790008515,
+      "collectionName": "《重煉傳說》有聲小說",
+      "artistName": "阿暖",
+      "feedUrl": "https://anchor.fm/s/ffd38484/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%87%8D%E7%85%89%E5%82%B3%E8%AA%AA-%E6%9C%89%E8%81%B2%E5%B0%8F%E8%AA%AA/id1790008515?uo=4",
+      "genres": [
+        "喜劇小說",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "trackCount": 100,
+      "releaseDate": "2025-07-27T05:37:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇小說"
+    },
+    {
+      "collectionId": 1286320610,
+      "trackId": 1286320610,
+      "collectionName": "《你的心情 我曾听说》—李浩长篇有声小说",
+      "artistName": "大眼李少一",
+      "feedUrl": "http://www.ximalaya.com/album/9700440.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BD%A0%E7%9A%84%E5%BF%83%E6%83%85-%E6%88%91%E6%9B%BE%E5%90%AC%E8%AF%B4-%E6%9D%8E%E6%B5%A9%E9%95%BF%E7%AF%87%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1286320610?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "藝術",
+        "書籍"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 70,
+      "releaseDate": "2017-10-15T15:14:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1559034169,
+      "trackId": 1559034169,
+      "collectionName": "《九鼎记》｜经典免费有声小说",
+      "artistName": "超级喵八岁",
+      "feedUrl": "http://www.ximalaya.com/album/46372694.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B9%9D%E9%BC%8E%E8%AE%B0-%E7%BB%8F%E5%85%B8%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1559034169?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 64,
+      "releaseDate": "2021-03-25T04:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1611460010,
+      "trackId": 1611460010,
+      "collectionName": "神枭正传|玄幻武侠|免费有声小说|狮子云云",
+      "artistName": "靡路",
+      "feedUrl": "http://www.ximalaya.com/album/56885667.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%A5%9E%E6%9E%AD%E6%AD%A3%E4%BC%A0-%E7%8E%84%E5%B9%BB%E6%AD%A6%E4%BE%A0-%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4-%E7%8B%AE%E5%AD%90%E4%BA%91%E4%BA%91/id1611460010?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "科幻小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 201,
+      "releaseDate": "2022-05-09T20:23:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1321229059,
+      "trackId": 1321229059,
+      "collectionName": "长篇有声小说 战争风云",
+      "artistName": "密西根潮哥",
+      "feedUrl": "http://www.ximalaya.com/album/9896701.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%95%BF%E7%AF%87%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4-%E6%88%98%E4%BA%89%E9%A3%8E%E4%BA%91/id1321229059?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "歷史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 156,
+      "releaseDate": "2018-01-14T04:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1618585772,
+      "trackId": 1618585772,
+      "collectionName": "《鲁滨逊漂流记》 ｜经典名著｜精品必听｜有声小说",
+      "artistName": "享耀好声音",
+      "feedUrl": "http://www.ximalaya.com/album/61803312.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%B2%81%E6%BB%A8%E9%80%8A%E6%BC%82%E6%B5%81%E8%AE%B0-%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97-%E7%B2%BE%E5%93%81%E5%BF%85%E5%90%AC-%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1618585772?uo=4",
+      "genres": [
+        "科幻小說",
+        "Podcast",
+        "小說",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 25,
+      "releaseDate": "2022-05-28T14:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科幻小說"
+    },
+    {
+      "collectionId": 1625108617,
+      "trackId": 1625108617,
+      "collectionName": "“末代佳人”有声小说",
+      "artistName": "Ephemera嘉炜",
+      "feedUrl": "https://feed.xyzfm.space/l64ddwuxnpfj",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%AB%E4%BB%A3%E4%BD%B3%E4%BA%BA-%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1625108617?uo=4",
+      "genres": [
+        "小說",
+        "Podcast",
+        "電視與電影"
+      ],
+      "genreIds": [
+        "1483",
+        "26",
+        "1309"
+      ],
+      "trackCount": 11,
+      "releaseDate": "2022-06-06T18:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "小說"
+    },
+    {
+      "collectionId": 1475041784,
+      "trackId": 1475041784,
+      "collectionName": "高判断案之无脸尸丨原创有声小说",
+      "artistName": "悬疑推理_吕子齐",
+      "feedUrl": "http://www.ximalaya.com/album/11217849.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%AB%98%E5%88%A4%E6%96%AD%E6%A1%88%E4%B9%8B%E6%97%A0%E8%84%B8%E5%B0%B8%E4%B8%A8%E5%8E%9F%E5%88%9B%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1475041784?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 35,
+      "releaseDate": "2018-06-06T14:54:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1310569265,
+      "trackId": 1310569265,
+      "collectionName": "这就是真相（梅花六带你涨姿势）",
+      "artistName": "梅花六有声小说",
+      "feedUrl": "http://www.ximalaya.com/album/11317378.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%BF%99%E5%B0%B1%E6%98%AF%E7%9C%9F%E7%9B%B8-%E6%A2%85%E8%8A%B1%E5%85%AD%E5%B8%A6%E4%BD%A0%E6%B6%A8%E5%A7%BF%E5%8A%BF/id1310569265?uo=4",
+      "genres": [
+        "自然科學",
+        "Podcast",
+        "科學",
+        "兒童與家庭"
+      ],
+      "genreIds": [
+        "1534",
+        "26",
+        "1533",
+        "1305"
+      ],
+      "trackCount": 232,
+      "releaseDate": "2020-05-27T04:12:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自然科學"
+    },
+    {
+      "collectionId": 1643009596,
+      "trackId": 1643009596,
+      "collectionName": "雷与龙丨免费有声小说丨超燃奇幻武侠丨原作者朗读",
+      "artistName": "克劳德伊斯特",
+      "feedUrl": "https://www.ximalaya.com/album/70454858.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9B%B7%E4%B8%8E%E9%BE%99%E4%B8%A8%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E4%B8%A8%E8%B6%85%E7%87%83%E5%A5%87%E5%B9%BB%E6%AD%A6%E4%BE%A0%E4%B8%A8%E5%8E%9F%E4%BD%9C%E8%80%85%E6%9C%97%E8%AF%BB/id1643009596?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "喜劇小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 117,
+      "releaseDate": "2022-11-22T07:48:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1868709530,
+      "trackId": 1868709530,
+      "collectionName": "免费有声小说丨无上剑尊丨爽文 复仇丨每天至少双更",
+      "artistName": "洪明深01",
+      "feedUrl": "https://www.ximalaya.com/album/113537432.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E4%B8%A8%E6%97%A0%E4%B8%8A%E5%89%91%E5%B0%8A%E4%B8%A8%E7%88%BD%E6%96%87-%E5%A4%8D%E4%BB%87%E4%B8%A8%E6%AF%8F%E5%A4%A9%E8%87%B3%E5%B0%91%E5%8F%8C%E6%9B%B4/id1868709530?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 78,
+      "releaseDate": "2026-02-12T13:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1701815244,
+      "trackId": 1701815244,
+      "collectionName": "他在等月光来（都市言情小说）",
+      "artistName": "有声的雪愿",
+      "feedUrl": "https://www.ximalaya.com/album/77459053.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BB%96%E5%9C%A8%E7%AD%89%E6%9C%88%E5%85%89%E6%9D%A5-%E9%83%BD%E5%B8%82%E8%A8%80%E6%83%85%E5%B0%8F%E8%AF%B4/id1701815244?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 203,
+      "releaseDate": "2023-09-28T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1685131238,
+      "trackId": 1685131238,
+      "collectionName": "都市邪尊赘婿（都市修仙小说）",
+      "artistName": "有声的雪愿",
+      "feedUrl": "https://www.ximalaya.com/album/74644153.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%83%BD%E5%B8%82%E9%82%AA%E5%B0%8A%E8%B5%98%E5%A9%BF-%E9%83%BD%E5%B8%82%E4%BF%AE%E4%BB%99%E5%B0%8F%E8%AF%B4/id1685131238?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 295,
+      "releaseDate": "2023-05-18T05:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1550033842,
+      "trackId": 1550033842,
+      "collectionName": "高容的奇幻桃源",
+      "artistName": "殘天闋 有聲武俠小說連載",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/63b79bf3-a636-4285-bf88-5684b7470d81.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%AB%98%E5%AE%B9%E7%9A%84%E5%A5%87%E5%B9%BB%E6%A1%83%E6%BA%90/id1550033842?uo=4",
+      "genres": [
+        "小說",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1483",
+        "26",
+        "1301"
+      ],
+      "trackCount": 74,
+      "releaseDate": "2021-06-29T13:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "小說"
+    },
+    {
+      "collectionId": 1118208455,
+      "trackId": 1118208455,
+      "collectionName": "《他是化学人》漫一刀 幻思系有声科幻小说",
+      "artistName": "幻思系",
+      "feedUrl": "http://www.ximalaya.com/album/4086159.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BB%96%E6%98%AF%E5%8C%96%E5%AD%A6%E4%BA%BA-%E6%BC%AB%E4%B8%80%E5%88%80-%E5%B9%BB%E6%80%9D%E7%B3%BB%E6%9C%89%E5%A3%B0%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4/id1118208455?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術",
+        "科技"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1318"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2016-04-16T14:12:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1539356202,
+      "trackId": 1539356202,
+      "collectionName": "说书人|小说故事有声书",
+      "artistName": "伯乐灯",
+      "feedUrl": "http://www.ximalaya.com/album/33605316.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AF%B4%E4%B9%A6%E4%BA%BA-%E5%B0%8F%E8%AF%B4%E6%95%85%E4%BA%8B%E6%9C%89%E5%A3%B0%E4%B9%A6/id1539356202?uo=4",
+      "genres": [
+        "喜劇小說",
+        "Podcast",
+        "小說",
+        "戲劇"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 23,
+      "releaseDate": "2020-09-07T14:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇小說"
+    },
+    {
+      "collectionId": 1669900606,
+      "trackId": 1669900606,
+      "collectionName": "免费专辑 | 反贪打黑小说《血剑》丨竹易有声",
+      "artistName": "耿地图",
+      "feedUrl": "https://www.ximalaya.com/album/73685442.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9%E4%B8%93%E8%BE%91-%E5%8F%8D%E8%B4%AA%E6%89%93%E9%BB%91%E5%B0%8F%E8%AF%B4-%E8%A1%80%E5%89%91-%E4%B8%A8%E7%AB%B9%E6%98%93%E6%9C%89%E5%A3%B0/id1669900606?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "犯罪紀實"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1488"
+      ],
+      "trackCount": 130,
+      "releaseDate": "2024-11-28T22:39:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1684406211,
+      "trackId": 1684406211,
+      "collectionName": "轮回劫：花若殇【粤语】古风玄幻言情小说|甜宠完结",
+      "artistName": "车理有声",
+      "feedUrl": "https://www.ximalaya.com/album/67975280.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%BD%AE%E5%9B%9E%E5%8A%AB-%E8%8A%B1%E8%8B%A5%E6%AE%87-%E7%B2%A4%E8%AF%AD-%E5%8F%A4%E9%A3%8E%E7%8E%84%E5%B9%BB%E8%A8%80%E6%83%85%E5%B0%8F%E8%AF%B4-%E7%94%9C%E5%AE%A0%E5%AE%8C%E7%BB%93/id1684406211?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 107,
+      "releaseDate": "2022-11-30T12:54:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1505487695,
+      "trackId": 1505487695,
+      "collectionName": "有声书｜三十九级台阶（英国经典惊险悬疑推理小说）",
+      "artistName": "梦想飞翔mx",
+      "feedUrl": "http://www.ximalaya.com/album/24621004.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%89%E5%A3%B0%E4%B9%A6-%E4%B8%89%E5%8D%81%E4%B9%9D%E7%BA%A7%E5%8F%B0%E9%98%B6-%E8%8B%B1%E5%9B%BD%E7%BB%8F%E5%85%B8%E6%83%8A%E9%99%A9%E6%82%AC%E7%96%91%E6%8E%A8%E7%90%86%E5%B0%8F%E8%AF%B4/id1505487695?uo=4",
+      "genres": [
+        "藝術",
+        "Podcast",
+        "休閒"
+      ],
+      "genreIds": [
+        "1301",
+        "26",
+        "1502"
+      ],
+      "trackCount": 20,
+      "releaseDate": "2019-07-05T14:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "藝術"
+    },
+    {
+      "collectionId": 1118206170,
+      "trackId": 1118206170,
+      "collectionName": "【《锁子》 荆棘鸟】幻思系有声科幻小说",
+      "artistName": "幻思系",
+      "feedUrl": "http://www.ximalaya.com/album/4268473.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%94%81%E5%AD%90-%E8%8D%86%E6%A3%98%E9%B8%9F-%E5%B9%BB%E6%80%9D%E7%B3%BB%E6%9C%89%E5%A3%B0%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4/id1118206170?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2016-05-18T12:39:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1753587068,
+      "trackId": 1753587068,
+      "collectionName": "免费丨十五贯丨明代悬疑小说丨公版书必听丨帝图有声",
+      "artistName": "帝图有声",
+      "feedUrl": "https://www.ximalaya.com/album/82265093.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9%E4%B8%A8%E5%8D%81%E4%BA%94%E8%B4%AF%E4%B8%A8%E6%98%8E%E4%BB%A3%E6%82%AC%E7%96%91%E5%B0%8F%E8%AF%B4%E4%B8%A8%E5%85%AC%E7%89%88%E4%B9%A6%E5%BF%85%E5%90%AC%E4%B8%A8%E5%B8%9D%E5%9B%BE%E6%9C%89%E5%A3%B0/id1753587068?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "犯罪紀實"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1488"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2024-06-23T15:10:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1701814193,
+      "trackId": 1701814193,
+      "collectionName": "天才奶爸（都市生活小说）",
+      "artistName": "有声的雪愿",
+      "feedUrl": "https://www.ximalaya.com/album/77458959.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%A9%E6%89%8D%E5%A5%B6%E7%88%B8-%E9%83%BD%E5%B8%82%E7%94%9F%E6%B4%BB%E5%B0%8F%E8%AF%B4/id1701814193?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 211,
+      "releaseDate": "2023-09-30T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1556690289,
+      "trackId": 1556690289,
+      "collectionName": "祸国糨糊 | 贪欢公子有毒 | 另类古风小说",
+      "artistName": "龄之有声",
+      "feedUrl": "http://www.ximalaya.com/album/3920585.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%A5%B8%E5%9B%BD%E7%B3%A8%E7%B3%8A-%E8%B4%AA%E6%AC%A2%E5%85%AC%E5%AD%90%E6%9C%89%E6%AF%92-%E5%8F%A6%E7%B1%BB%E5%8F%A4%E9%A3%8E%E5%B0%8F%E8%AF%B4/id1556690289?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "藝術",
+        "書籍"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 58,
+      "releaseDate": "2021-06-01T05:14:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1598572339,
+      "trackId": 1598572339,
+      "collectionName": "有声书｜中外短篇小说精选",
+      "artistName": "梦想飞翔mx",
+      "feedUrl": "http://www.ximalaya.com/album/39643321.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%89%E5%A3%B0%E4%B9%A6-%E4%B8%AD%E5%A4%96%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AF%B4%E7%B2%BE%E9%80%89/id1598572339?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "藝術",
+        "書籍"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 32,
+      "releaseDate": "2022-11-02T09:38:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1604568562,
+      "trackId": 1604568562,
+      "collectionName": "世界尽头的圣骑士|免费有声轻小说",
+      "artistName": "山月风眠",
+      "feedUrl": "http://www.ximalaya.com/album/54033337.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%96%E7%95%8C%E5%B0%BD%E5%A4%B4%E7%9A%84%E5%9C%A3%E9%AA%91%E5%A3%AB-%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E8%BD%BB%E5%B0%8F%E8%AF%B4/id1604568562?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 147,
+      "releaseDate": "2022-01-18T12:17:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1608665841,
+      "trackId": 1608665841,
+      "collectionName": "《绝命捞尸人》免费精彩双播",
+      "artistName": "刺猬索尼客",
+      "feedUrl": "http://www.ximalaya.com/album/55625117.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BB%9D%E5%91%BD%E6%8D%9E%E5%B0%B8%E4%BA%BA-%E5%85%8D%E8%B4%B9%E7%B2%BE%E5%BD%A9%E5%8F%8C%E6%92%AD/id1608665841?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 180,
+      "releaseDate": "2022-05-30T16:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1591705876,
+      "trackId": 1591705876,
+      "collectionName": "【免费】风雨桐江｜红色经典 | 写实谍战小说",
+      "artistName": "了一有声",
+      "feedUrl": "http://www.ximalaya.com/album/52976086.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9-%E9%A3%8E%E9%9B%A8%E6%A1%90%E6%B1%9F-%E7%BA%A2%E8%89%B2%E7%BB%8F%E5%85%B8-%E5%86%99%E5%AE%9E%E8%B0%8D%E6%88%98%E5%B0%8F%E8%AF%B4/id1591705876?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 148,
+      "releaseDate": "2022-04-28T10:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    }
+  ]
+}

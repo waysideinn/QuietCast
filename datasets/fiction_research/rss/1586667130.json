@@ -1,0 +1,140 @@
+{
+  "show_id": "1586667130",
+  "feed_url": "https://anchor.fm/s/6b7008d0/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/6b7008d0/podcast/rss",
+    "final_url": "https://anchor.fm/s/6b7008d0/podcast/rss",
+    "fetched_at": "2026-10-25T14:54:10.640637+00:00",
+    "status": 200,
+    "sha256": "38bb1dfad83a31c061d3d454e0f69dd68fd07f966855ac7498fa083cc3a485a3"
+  },
+  "status": "ok",
+  "title": {
+    "text": "旭亮搜神记 Liam Soul Searching",
+    "truncated": false
+  },
+  "description": {
+    "text": "Become a Paid Subscriber: https://podcasters.spotify.com/pod/show/liam-yan/subscribe 电影｜圣经｜文化｜批评｜艺术｜哲学｜旅行｜源起｜价值｜意义｜道德｜归宿",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 306,
+  "episodes": [
+    {
+      "id": "9d4b4052be7023a053ab4ea3134894da4162a3a1914d848527be7af1fe85d31e",
+      "guid": "75978906-95f0-4c59-ae60-320544027d68",
+      "title": {
+        "text": "爆红现场脱口秀播客《杀死托尼》：搞笑也是灵魂之战 诚实抵御世间寒冷",
+        "truncated": false
+      },
+      "description": {
+        "text": "旭亮从《Kill Tony》的“一分钟表演＋现场采访”切入，谈这档节目如何把新人的不确定性、Tony与嘉宾的临场反应，以及观众即时的笑声或冷场，变成持续吸引人的故事。影片最有力的观察是舞台上的双向风险：演员可能一夜被看见，也可能当场失败；主持人则需要在尖锐调侃之中，仍给对方展现自己的机会。后半段把喜剧延伸到言论自由、文化隔阂和信仰，最后提出一个值得讨论的判断：AI越擅长生产内容，真实的人在现场承受风险、回应他人的能力，或许越有价值。",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Sep 2026 18:46:51 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1e90d88d7d9b6c2052eacadf04b395cbdfc21a2ab4defdca8d5817a289cd45fd",
+      "guid": "5b87ad23-f163-4afd-ac89-e145732e7393",
+      "title": {
+        "text": "我毕生安利《七武士》的N个理由 黑泽明无死角绝美经典",
+        "truncated": false
+      },
+      "description": {
+        "text": "旭亮和大家开个头，聊聊黑泽明导演的经典中的经典《七武士》。因为它不仅是电影语言革新的里程碑，也是一部兼具思想深度、结构秩序、美学精度的作品。影片以严密的叙事逻辑、多层次的人物刻画与卓越的场面调度，奠定了其影史地位和叙事范式，其角色建构、视觉象征与人性隐喻三方面都有极好的表现，以至于在七十年后，甚至七百年后，依然会被视为电影史上的恒久经典。",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 May 2025 02:00:40 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "fa62e67a8f9a6787f94683a4232282ffa0102eb5b35b690b32785ad855f402d3",
+      "guid": "50a1ac3e-210a-45f0-a260-87ebee000370",
+      "title": {
+        "text": "巴黎奥运会开幕式观感 传统已死 乱世即临",
+        "truncated": false
+      },
+      "description": {
+        "text": "断断续续看了会儿巴黎奥运开幕式，整体观感是开放而混乱，传统已经僵化到变味，现代性狂妄到荒诞。这是新与旧的冲突，是塞纳河左岸之水与奥林巴斯之火的短暂欢愉。无脸男，因为没有脸，就没有故事，也没有意义。",
+        "truncated": false
+      },
+      "published_at": "Fri, 26 Jul 2024 21:34:56 GMT",
+      "feed_index": 87
+    },
+    {
+      "id": "4590acaced9557c720c7f2af157e59c08ec845faafd884b9dc0f44bd7a2a3791",
+      "guid": "82868b3a-521f-4a1f-8a7b-aad215292a0e",
+      "title": {
+        "text": "《花月杀手》斗胆吐槽：太长就短了 太对就错了 太聪明就糊涂了",
+        "truncated": false
+      },
+      "description": {
+        "text": "81岁高龄的美国当代最伟大导演之一马丁斯科塞斯的“Killers of the Flower Moon”《花月杀手》令人失望。影片角色缺乏弧光，情节缺乏张力，长度缺乏节制（我承认自己这方面罪孽深重）。作为一个愿意花时间、可以耐着心性、主动欣赏无剧情艺术电影的人，我对这部电影的主要不满，是原著作者和导演在智识层面的主动懒惰或浅薄。对历史真实事件的过度简化，是对人性幽暗的糖衣包裹，对人类必然走向光明的幼稚愿望。",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Dec 2023 02:19:00 GMT",
+      "feed_index": 131
+    },
+    {
+      "id": "ab4cb83f753915b55580ae8212b8fb5f45d347fa6822f467887111c76876875a",
+      "guid": "1e151eb6-9d58-4654-aceb-dc58f29ade60",
+      "title": {
+        "text": "山水男女欲望缺憾 色泽流淌符号拉满｜朴赞郁《分手的决心》深度赏析一",
+        "truncated": false
+      },
+      "description": {
+        "text": "韩国导演朴赞郁2022年的电影“Decision to Leave”细节着实丰富，视听复杂，有的地方近乎晦涩。电影使用了不少罕见的视角，剪辑上也有很多决定，必然深思熟虑，但寓意暧昧不清。剧本的台词前后不断重复呼应，语义又因故事发展和上下文的变化，甚至语言的隔阂，给人极大的解读和想象空间。这些确实吸引了我，让我有了和大家一起慢慢边复盘边发散的想法。这是第一集，聊得很乱也很慢，才说到影片第12分钟。就玩玩吧。",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Mar 2023 01:26:40 GMT",
+      "feed_index": 174
+    },
+    {
+      "id": "988c4d8bc589674631f56cfe3d475825f14708c8b9aa1fd7b477a0a869b9a4be",
+      "guid": "77d16299-8d1a-4e21-a22a-a38d92d50c89",
+      "title": {
+        "text": "奥斯卡颁奖礼比电影狗血 影帝掌掴主持人流泪感言 《健听女孩》获最佳影片堪称丑闻 苹果奈飞争霸好莱坞 电影世界面临重大挑战",
+        "truncated": false
+      },
+      "description": {
+        "text": "威尔史密斯（Will Smith）彻底偷走了奥斯卡颁奖礼，虽然ABC电视台或者学院也许还会因为网络效应而偷着乐，但电影艺术毫无疑问是牺牲者。苹果TV+借着场外造势和运作能力，强把不够优秀的CODA（健听女孩）推上最佳影片宝座，创造了奥斯卡历史的又一个大污点。《犬之力》导演简坎皮恩Jane Campion实至名归，以自己精湛细致敏感的想象力、执行力和领导力，拿下最佳导演奖。总体而言，这届奥斯卡是一处丑陋的闹剧，过度政治正确和虚伪的文化，将使它的影响力继续衰落下去。",
+        "truncated": false
+      },
+      "published_at": "Mon, 28 Mar 2022 06:45:05 GMT",
+      "feed_index": 218
+    },
+    {
+      "id": "c032142c842d1162c1af27ac987cef7a8365c307e51951a1a86ee039c4a08c31",
+      "guid": "0dd7fc5c-4739-4dab-9564-a3b94c6c532d",
+      "title": {
+        "text": "《冰血暴》逐场景深度解读（七）：编造谎言等于自设网罗 极简高级视听语言典范",
+        "truncated": false
+      },
+      "description": {
+        "text": "只顯示部分資訊 去亚马逊购买Fargo影片链接： https://amzn.to/3v79Ti9 据说我可以分得一杯咖啡钱。 内景 白天 4S店经理办公室 Jerry接到GMAC借贷负责人的电话 影片第二次出现一镜到底的场景。镜头语言虽简单，却精确到位和深思熟虑。这是伟大的表演、伟大的导演和伟大的摄影的合体，告诉我们什么是真，什么是好，什么是真好。 #雪花膏离奇命案 #科恩兄弟 #Fargo影评",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Sep 2021 20:22:26 GMT",
+      "feed_index": 261
+    },
+    {
+      "id": "cda6ff3cf436cf7fc13c30ddc722b8a3a2cb180bb7f120ccafe284f4373a340d",
+      "guid": "d3378af7-92f6-496c-9d58-702fa2f25454",
+      "title": {
+        "text": "我认识的张昭先生 Zhang Zhao",
+        "truncated": false
+      },
+      "description": {
+        "text": "中国电影制作人张昭的突然离世让我感到震惊，毕竟他才58岁。我在张昭还在光线影业的时期，与他共事过一段时间。特别和他在威尼斯电影节为《精武风云-陈真》做宣传的几天，对他个人他有了更多了解。",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Sep 2021 23:43:38 GMT",
+      "feed_index": 305
+    }
+  ]
+}

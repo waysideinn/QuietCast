@@ -1,0 +1,43 @@
+{
+  "show_id": "1617967034",
+  "feed_url": "https://media.rss.com/shengshengruer/feed.xml",
+  "source": {
+    "url": "https://media.rss.com/shengshengruer/feed.xml",
+    "final_url": "https://media.rss.com/shengshengruer/feed.xml",
+    "fetched_at": "2026-10-25T14:44:07.940767+00:00",
+    "status": 200,
+    "sha256": "90ca2a1e797f6a622481f144d86dbbccc33da97da889dd4d41f30cc97eeb8d5c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "聲聲入耳原創耽美廣播劇",
+    "truncated": false
+  },
+  "description": {
+    "text": "安安呀，這裡是聲聲入耳，一個來自台灣的原創耽美廣播劇，完全用愛發電～ Good day, we're Sheng Sheng Ru Er a podcast production group from Taiwan. The definition of our name is Sounds into Ear, we hope everyone could enjoy our content and the booming voice of our voice actors. 《男窩101》是聲聲入耳首部系列 當六位高中生住在同一間宿舍所呈現的趣味生活以及他們之間的互動會是如何的呢？ 讓我們一起聽聽吧! BOYS DORM 101's the first series produced by Sheng Sheng Ru Er. When six teenagers live under the same roof, how will their daily life and interaction be? Let's find out together!",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "explicit": "false",
+    "type": "episodic",
+    "medium": "podcast"
+  },
+  "feed_item_count": 1,
+  "episodes": [
+    {
+      "id": "2baef46114d1724b05cea38d00fa4bedfb051afdb5271a4627e981fc54705fc2",
+      "guid": "d48b51a2-47a4-43ba-adae-c6ab66812c28",
+      "title": {
+        "text": "《男窩101》",
+        "truncated": false
+      },
+      "description": {
+        "text": "《男窩101》是聲聲入耳首部系列 當六位高中生住在同一間宿舍所呈現的趣味生活以及他們之間的互動會是如何的呢？ 讓我們一起聽聽吧! BOYS DORM 101's the first series produced by Sheng Sheng Ru Er. When six teenagers live under the same roof, how will their daily life and interaction be? Let's find out together!",
+        "truncated": false
+      },
+      "published_at": "Wed, 06 Apr 2022 11:36:38 GMT",
+      "feed_index": 0
+    }
+  ]
+}

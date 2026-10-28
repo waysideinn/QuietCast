@@ -1,0 +1,171 @@
+{
+  "group": "normal",
+  "term": "读书播客",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E8%AF%BB%E4%B9%A6%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E8%AF%BB%E4%B9%A6%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:43:56.761711+00:00",
+    "status": 200,
+    "sha256": "56685c28b1dd2351d7a255e0b3b5b6269d9d91414d2520f819d369b4d3b06e72"
+  },
+  "result_count": 7,
+  "records": [
+    {
+      "collectionId": 1690533716,
+      "trackId": 1690533716,
+      "collectionName": "米．悅讀分享 Mic the Reader【廣東話讀書播客】",
+      "artistName": "米",
+      "feedUrl": "https://rss.buzzsprout.com/2182675.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%B1%B3-%E6%82%85%E8%AE%80%E5%88%86%E4%BA%AB-mic-the-reader-%E5%BB%A3%E6%9D%B1%E8%A9%B1%E8%AE%80%E6%9B%B8%E6%92%AD%E5%AE%A2/id1690533716?uo=4",
+      "genres": [
+        "藝術",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1301",
+        "26"
+      ],
+      "trackCount": 147,
+      "releaseDate": "2026-06-06T04:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "藝術"
+    },
+    {
+      "collectionId": 1859365454,
+      "trackId": 1859365454,
+      "collectionName": "刘彦的读书播客",
+      "artistName": "刘彦",
+      "feedUrl": "https://www.ximalaya.com/album/66393854.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%88%98%E5%BD%A6%E7%9A%84%E8%AF%BB%E4%B9%A6%E6%92%AD%E5%AE%A2/id1859365454?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 60,
+      "releaseDate": "2026-09-08T13:56:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 899502576,
+      "trackId": 899502576,
+      "collectionName": "十点读书官方播客",
+      "artistName": "十点读书官方播客",
+      "feedUrl": "http://rss.lizhi.fm/rss/353471.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8D%81%E7%82%B9%E8%AF%BB%E4%B9%A6%E5%AE%98%E6%96%B9%E6%92%AD%E5%AE%A2/id899502576?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 1998,
+      "releaseDate": "2024-07-22T14:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 6782381711,
+      "trackId": 6782381711,
+      "collectionName": "万相读书法拆书播客",
+      "artistName": "万相读书法 | WINS Reading Method",
+      "feedUrl": "https://q44qtpvdd8.coze.site/feed.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%87%E7%9B%B8%E8%AF%BB%E4%B9%A6%E6%B3%95%E6%8B%86%E4%B9%A6%E6%92%AD%E5%AE%A2/id6782381711?uo=4",
+      "genres": [
+        "教育",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "trackCount": 51,
+      "releaseDate": "2026-06-21T12:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1559492368,
+      "trackId": 1559492368,
+      "collectionName": "苗炜|苗师傅读书会",
+      "artistName": "苗炜|苗师傅读书会",
+      "feedUrl": "http://rss.lizhi.fm/rss/185386582.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%8B%97%E7%82%9C-%E8%8B%97%E5%B8%88%E5%82%85%E8%AF%BB%E4%B9%A6%E4%BC%9A/id1559492368?uo=4",
+      "genres": [
+        "紀實",
+        "Podcast",
+        "社會與文化",
+        "小說",
+        "戲劇"
+      ],
+      "genreIds": [
+        "1543",
+        "26",
+        "1324",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 40,
+      "releaseDate": "2021-10-25T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "紀實"
+    },
+    {
+      "collectionId": 1776999940,
+      "trackId": 1776999940,
+      "collectionName": "广西龙胜中学陪尔读书会阅读活动",
+      "artistName": "橘子瓣播客",
+      "feedUrl": "https://feed.xyzfm.space/8h9gydr3wg3c",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B9%BF%E8%A5%BF%E9%BE%99%E8%83%9C%E4%B8%AD%E5%AD%A6%E9%99%AA%E5%B0%94%E8%AF%BB%E4%B9%A6%E4%BC%9A%E9%98%85%E8%AF%BB%E6%B4%BB%E5%8A%A8/id1776999940?uo=4",
+      "genres": [
+        "教育",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2025-09-28T13:48:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1586642552,
+      "trackId": 1586642552,
+      "collectionName": "原创播客|好好读书◎聊聊那些值得一读再读的好书",
+      "artistName": "云略学习圈_麦琪",
+      "feedUrl": "http://www.ximalaya.com/album/53147734.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8E%9F%E5%88%9B%E6%92%AD%E5%AE%A2-%E5%A5%BD%E5%A5%BD%E8%AF%BB%E4%B9%A6-%E8%81%8A%E8%81%8A%E9%82%A3%E4%BA%9B%E5%80%BC%E5%BE%97%E4%B8%80%E8%AF%BB%E5%86%8D%E8%AF%BB%E7%9A%84%E5%A5%BD%E4%B9%A6/id1586642552?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2022-06-09T03:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    }
+  ]
+}

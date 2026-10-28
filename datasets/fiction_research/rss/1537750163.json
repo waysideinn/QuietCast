@@ -1,0 +1,140 @@
+{
+  "show_id": "1537750163",
+  "feed_url": "http://www.ximalaya.com/album/43113850.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/43113850.xml",
+    "final_url": "http://www.ximalaya.com/album/43113850.xml",
+    "fetched_at": "2026-10-25T14:42:16.618179+00:00",
+    "status": 200,
+    "sha256": "9ec681857a47e4c5e220723df9a0ce412eca561f84b04dd1bc3faef236a49687"
+  },
+  "status": "ok",
+  "title": {
+    "text": "穿越爽文 | 明末工程师 （帛阳演播）",
+    "truncated": false
+  },
+  "description": {
+    "text": "二十一世纪的工业设计师李植穿越到明末。 没有钱？搞个飞梭织布机来，立刻赚到盆满钵满。 不习惯明末的差劲卫生？发明个肥皂牙膏来让明朝洗得焕然一新！ 农民起义？乱世人命贱如狗？水泥混凝土的棱堡保护您的生命安全！ 满清南下生灵涂炭？在我的来复枪前面，哪个敢说一个不字？ 我大炮的射程之内！全是我汉人的土地！ 宅男种田文 【作者/主播简介】 作者：米酿，网络小说作家，代表着《晚明海盗王》、《明末工程师》、 主播：帛阳，2021待毕业、播音主持与艺术专业、有声书爱好者，希望我的声音能带给你别样的欢乐。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 31,
+  "episodes": [
+    {
+      "id": "9563eefe0cc6f371b61ac7d544bf4d2bc62a0d6bb778fa69381c6d6694862bc0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0f53-audiofreehighqps/B4/FD/CMCoOR8Daey3AArL1gBgO9gt.m4a",
+      "title": {
+        "text": "穿越爽文 | 明末工程师 片花",
+        "truncated": false
+      },
+      "description": {
+        "text": "二十一世纪的工业设计师李植穿越到明末。 且看他如何搞事情！！！！",
+        "truncated": false
+      },
+      "published_at": "Sat, 24 Oct 2020 13:18:45 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "71420be31973a9064a6dad84d8fa0ccaeef0b16bc0101b709357169fd2654bea",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8984-audiofreehighqps/57/38/CMCoOSMDbT3eAD3C4gBg7A6R.m4a",
+      "title": {
+        "text": "穿越爽文 | 明末工程师 第四章 皂化反应",
+        "truncated": false
+      },
+      "description": {
+        "text": "集齐材料开始制作！！！",
+        "truncated": false
+      },
+      "published_at": "Tue, 27 Oct 2020 01:41:43 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "08ae4106ffae4e77799eb81c35a07a327c3ac10800362fb73cfa5c70f5ca3203",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b88b-audiofreehighqps/5E/63/CMCoOR8DcobGALIS-gBiPaXL.mp3",
+      "title": {
+        "text": "穿越爽文 | 明末工程师 第九章 挫败的肖光伟",
+        "truncated": false
+      },
+      "description": {
+        "text": "这肥皂在明朝真是利在当代的物事啊！",
+        "truncated": false
+      },
+      "published_at": "Sat, 31 Oct 2020 01:54:17 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "d18402443ca8c6f9b93af99a8fac0fb1c0cac7cf5e25edb232dc662ec2a739e5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e5e1-audiofreehighqps/4A/89/CMCoOSEDdzQFALWjAgBjbNtG.mp3",
+      "title": {
+        "text": "穿越爽文 | 明末工程师 第十三章 银子",
+        "truncated": false
+      },
+      "description": {
+        "text": "还钱清债咯！！！",
+        "truncated": false
+      },
+      "published_at": "Tue, 03 Nov 2020 15:02:31 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "22e8821943c1d5c089f6728f26bb090b8f872b0d94595e69d8ad9a6312f3cc27",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c6da-audiofreehighqps/4D/67/CMCoOScDe9TuAMrhYgBkgKgD.mp3",
+      "title": {
+        "text": "穿越爽文 | 明末工程师 第十七章 杀价",
+        "truncated": false
+      },
+      "description": {
+        "text": "杀价忒狠了！！",
+        "truncated": false
+      },
+      "published_at": "Sat, 07 Nov 2020 03:18:07 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "ee48d633f7ae3fdcae1c8dc24d944dae1b5e03e2282dfe0a56edc04197fd14a1",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/746a-audiofreehighqps/71/13/CMCoOSEDgGMpAINPjgBlr_04.mp3",
+      "title": {
+        "text": "穿越爽文 | 明末工程师 第二十一章 高兴的柳氏",
+        "truncated": false
+      },
+      "description": {
+        "text": "李植这东家做得太地道了！！！",
+        "truncated": false
+      },
+      "published_at": "Tue, 10 Nov 2020 14:14:02 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "fa74c35c823096647cd139f3b88abb4b77b0086922bfa56a7fe4db735e6e0726",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5b33-audiofreehighqps/F7/F5/CMCoOR4DhYvFALyeigBm5pv9.mp3",
+      "title": {
+        "text": "穿越爽文| 明末工程师 第二十六章 成人之美",
+        "truncated": false
+      },
+      "description": {
+        "text": "大明朝做生意得看后台的！！",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 Nov 2020 12:08:39 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "969a35b3ddc588e59f6b0eba16543ebe4f6a04a1a10ab4e2c1835e0e35d12d49",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/22be-audiofreehighqps/F0/B9/CKwRIJEDujvbABAAAAB0iclc.mp3",
+      "title": {
+        "text": "穿越爽文 | 明末工程师 第三十章 家丁",
+        "truncated": false
+      },
+      "description": {
+        "text": "保安队建设中！！！！",
+        "truncated": false
+      },
+      "published_at": "Thu, 24 Dec 2020 11:18:11 GMT",
+      "feed_index": 30
+    }
+  ]
+}

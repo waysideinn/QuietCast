@@ -1,0 +1,140 @@
+{
+  "show_id": "1514345961",
+  "feed_url": "https://feeds.soundon.fm/podcasts/0d55bf39-09f6-4776-8e6d-133e7a595551.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/0d55bf39-09f6-4776-8e6d-133e7a595551.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/0d55bf39-09f6-4776-8e6d-133e7a595551.xml",
+    "fetched_at": "2026-10-25T14:50:02.814785+00:00",
+    "status": 200,
+    "sha256": "5b4b32e0d96c571da762354cf3dfb0f04c4bfb2cbd47b6f277b983b3fb51877a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "夏亦彤(官品心劇情聊天室 feat.大臉臉怪獸)",
+    "truncated": false
+  },
+  "description": {
+    "text": "戲如人生，人生如戲 是你開車、通勤、做家事的提神夥伴。 合作邀約：[email removed] YouTube頻道：https://www.youtube.com/channel/UCbaY5YMV6JcXc6_Hk48zQ6g Instagram：https://www.instagram.com/yitonglife -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 105,
+  "episodes": [
+    {
+      "id": "9d797e990fdaca0db668c3649bb36dae937d1f67d8cee38e31212ad744ec6402",
+      "guid": "59d7fb9d-1dec-4e0d-afe5-d425b49d8f9e",
+      "title": {
+        "text": "EP106韓劇二十五二十一結局分析｜迷幻式結局被罵翻?｜初戀欠我一個白易辰｜Twenty-FiveTwenty-One【官品心劇情聊天室】",
+        "truncated": false
+      },
+      "description": {
+        "text": "韓劇《二十五，二十一》（스물다섯 스물하나），由《 請輸入檢索詞WWW 》、《 The King：永遠的君主 》的 鄭志賢 導演與《 請輸入檢索詞WWW 》的權度恩編劇打造。此劇講述在整個世界動盪不安的1997年，男女主角經歷創傷、誤會、彼此依靠，25歲和21歲相愛青春故事。 主演: 金泰梨 、 南柱赫 、 苞娜 、 崔顯旭 、 李宙明 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Apr 2022 13:02:05 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "c212a44d82ee95dd562a64bb9147e7af228da95225afa08649d0ab922e9fe773",
+      "guid": "8698f19e-ff71-4705-b553-8d6b5fecf8bb",
+      "title": {
+        "text": "EP91鬼滅之刃無限列車篇經典回顧｜不是鬼滅粉一口氣看完26集動畫衝劇場版！｜炎柱片尾彩蛋分享【官品心聊電影Claire Kuan】",
+        "truncated": false
+      },
+      "description": {
+        "text": "鬼滅之刃無限列車篇Netflix終於上線拉，再刷一次還是很好哭啊!! 《鬼滅之刃劇場版無限列車篇》（劇場版「鬼滅の刃」無限列車編，Demon Slayer: Kimetsu no Yaiba the Movie: Mugen Train）是一部日本動畫電影，由外崎春雄執導，ufotable編劇，改編自漫畫家吾峠呼世晴創作的漫畫系列《鬼滅之刃》，故事承接動畫，竈門炭治郎、我妻善逸、嘴平伊之助一行人結束蝴蝶屋的訓練後，到達下一個任務地點「無限列車」，並與鬼殺隊炎柱煉獄杏壽郎會合，一同調查列車上的多人失蹤事件，而下弦之壹魘夢也潛伏在列車之中。 品心為了衝劇場版，只花一天一口氣看完26集動畫，眼睛看到快脫窗，你也想來感受炎柱大哥這股魅力嗎? 劇場版分析討論： 00:00 日本上映10天破百億票房，台灣3天破億 01:58 劇場版無限列車篇三大看點 07:48 片尾彩蛋分享 #鬼滅之刃無限列車篇 #煉獄杏壽郎 #炭治郎 🎇【官品心劇情聊天室 Podcast 收聽資訊】 Apple： https://apple.co/3aamd8T​​​ Mixer Box： https://www.mixerbox.com/podcast/1255979 SoundOn： https://sndn.link/pinhsinkuan​​​ Spotify： https://spoti.fi/3o39xFy​​",
+        "truncated": true
+      },
+      "published_at": "Wed, 21 Jul 2021 11:48:14 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "e6379f0c940c16f4e63b420d733eb6b94bc5d09ee66a0593f21e949509117050",
+      "guid": "da032787-2976-4ab8-b47c-dfadc41c7fd5",
+      "title": {
+        "text": "EP72韓劇上流戰爭第二季｜羅根終於吻了秀蓮｜補刀露娜真凶現身｜펜트하우스/頂樓/penthouse/上流之战【官品心劇情聊天室4 Claire Kuan】",
+        "truncated": false
+      },
+      "description": {
+        "text": "《Penthouse 2》펜트하우스 2/The Penthouse 2: War in Life）為韓國SBS投資製作，將分為三季播出，由《皇后的品格》的朱東民導演與金順玉編劇再度攜手合作打造。第二季以吳允熙為核心人物，劇情設定為第一季完結後約一年半至二年之間，講述無法滿足的扭曲及慾望在房價、教育展開，為了守護子女只能成為惡女的女人們的聯手和復仇的故事。主演：柳真、 金素妍、李智雅、嚴基俊、申恩慶、奉太奎、尹鐘焄、朴殷碩 鼓勵品心持續創作 https://pse.is/RQTDT​ ​ EP7~EP8劇情討論： 00:58 ​ 千書真河允哲吳允熙三人愛情糾葛 01:30 ​ 千書真第二季洗白鋪路 02:29 ​ 補刀露娜真凶現身 03:03 ​ 露娜死亡真相 03:55 ​ 拔呼吸管的人是他? 04:26 ​ 朱丹泰怕血原因?/與羅愛嬌從小認識? 05:45 ​ 沈秀蓮就是羅愛嬌 07:02 ​ 羅愛嬌為何可以假扮秀蓮20年 07:14 ​ 羅根秀蓮終於接吻啦! #上流戰爭第二季​ ​ #penthouse2​ ​ #沈秀蓮 ​ 韓劇上流戰爭第二季｜沈秀蓮aka羅愛嬌霸氣出場?｜是他殺了她?｜펜트하우스/頂樓/penthouse/上流之战【官品心劇情聊天室3 Claire Kuan】 https://youtu.be/of1VOqwKklY ​ 韓劇上流戰爭第二季｜沈秀蓮死而復生",
+        "truncated": true
+      },
+      "published_at": "Tue, 16 Mar 2021 14:42:30 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "e3139b30c0c96e9ce888782d1017df873fc482e72b5c8eb4d49f7b78ced78ff1",
+      "guid": "8570347e-6988-4642-804b-06b19c89d396",
+      "title": {
+        "text": "EP55韓劇女神降臨結局預測｜書竣跟朱靜在一起了?｜劇情走回漫畫線?｜여신강림True Beauty【官品心劇情聊天室3 Claire Kuan】",
+        "truncated": false
+      },
+      "description": {
+        "text": "《女神降臨》여신강림/True Beauty，改編自同名漫畫，本劇講述對外貌感到自卑的少女任朱靜，透過化妝變成校園女神，和隱藏傷痛的高冷校草李修豪及痞帥偶像練習生韓書峻展開一段浪漫愛情成長故事。主演：文佳煐、車銀優、黃寅燁(黃仁燁)、朴柔娜 EP13~EP14劇情討論： 00:00 喜歡追劇的小孩不會變壞 01:05 校園霸凌及家庭氛圍關聯 02:24 秀雅發現素顏的朱靜/最佳男友修豪 03:25 為什麼青春校園愛情劇大受歡迎? 04:16 書竣韓志平上身?結尾Start-Up化? 05:04 書竣深情演唱的歌曲 05:42 癡情暖男書竣心動的每個瞬間 06:32 女神降臨大結局預測 #女神降臨 #車銀優 #黃寅燁 韓劇女神降臨｜朱靜素顏被揭穿了｜致敬彩蛋你發現了嗎?｜여신강림True Beauty【官品心劇情聊天室2 Claire Kuan】 https://youtu.be/eQl2uFz-bYM 韓劇女神降臨｜第八集定律來了！終於接吻啦!｜修豪書竣正式開戰｜여신강림True Beauty【官品心劇情聊天室1 Claire Kuan】 https://youtu.be/4yfzSE-t4B4 🎇【官品心劇情聊天室 Podcast 收聽資訊】 Apple： https://apple.co/3aamd8T SoundOn： https://sndn.link/pinhsinkua",
+        "truncated": true
+      },
+      "published_at": "Mon, 01 Feb 2021 15:24:23 GMT",
+      "feed_index": 45
+    },
+    {
+      "id": "6c0ba22bc8ac4a4c5721e777ecdc7014441acb712f44d6c45b7fab30b033efa7",
+      "guid": "99163d02-2029-4b03-a2ee-be2f04260942",
+      "title": {
+        "text": "EP40直播｜韓劇Start-Up新創時代結局討論分享｜金宣虎開始走花路吧!｜如何餵新生寶寶喝奶feat.關心姐姐&小堅果【官品心直播聊天室#11】",
+        "truncated": false
+      },
+      "description": {
+        "text": "《Start-Up》스타트업，此劇圍繞著一個夢想成為史蒂夫·賈伯斯一樣的有錢人徐達美和科技公司創立人南道山之間的愛情故事。在新創時代飾演韓志平-SH風險投資公司的首席組長，是成功男人的典範。主演：裴秀智(徐達美)、南柱赫(南道山)、金宣虎(韓志平)、姜漢娜(徐/元仁材) 鼓勵品心持續創作 https://pse.is/RQTDT 官品心直播聊天室非常的peace，不管你道山派志平派奶平派通通來一起開聊，12/12 本週六晚上 20:45 官品心直播聊天室來啦~ 陪我一起嗨翻天! #韓劇startup #金宣虎 #新手爸媽 韓劇Start-Up我的新創時代｜結局會有反轉嗎?｜韓志平聖光充滿｜達美跟道山會在一起嗎?｜啟動了스타트업【官品心劇情聊天室#2 Claire Kuan】 https://youtu.be/3X_bmDkHSJk 韓劇Start-Up我的新創時代｜支持奶平CP｜準備開虐了?｜達美最終會創業成功嗎?｜啟動了스타트업【官品心劇情聊天室#1 Claire Kuan】 https://youtu.be/YJmo7QNk_Vk 韓劇Start-Up我的新創時代｜志平終於告白啦!｜結局預測｜啟動了｜金宣虎人氣直逼南柱赫【官品心的唧唧喳喳#3 Claire Kuan】 https://youtu.be/PIkeN6MCpfs 韓劇Start-Up我的新創時代｜金宣虎持續圈粉中｜",
+        "truncated": true
+      },
+      "published_at": "Sun, 13 Dec 2020 13:26:07 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "c15ef8384b438bf134e70be3bfa5064b328fec590618d53aa0cf8e4cfd6ddc89",
+      "guid": "de088dbb-e42a-4afa-b085-bd8dd3e2cd75",
+      "title": {
+        "text": "EP25浪漫輸給你｜天行講出通關密語了!｜唯一的奇行種｜那道神秘綠光?【官品心劇情聊天室#7 Claire Kuan】",
+        "truncated": false
+      },
+      "description": {
+        "text": "2020年三立華劇週日晚間十點《浪漫輸給你Lost Romance》，由張立昂、宋芸樺、連晨翔、廖奕琁、許孟哲、蔡瑞雪領銜主演。劇情描述一個有著霸道總裁愛上我夢想的女孩一覺醒來發現自己意外穿越到一本言情小說裡，更崩潰的是，發現自己的人設竟然是惡毒女配角，誓言奮力奪回第一女主角的光環。 鼓勵品心持續創作 https://pse.is/RQTDT EP17 劇情討論分析： 00:00 孫協志驚喜客串：56不能亡! 01:45 採訪變相親?天行獵豹式Q&A 03:53 現實楚楚也黑化?神秘綠光是什麼? #浪漫輸給你 #張立昂 #連晨翔 #宋芸樺 浪漫輸給你｜去你的Happy Ending！｜天行想起曉恩的通關密語是???【官品心劇情聊天室#6 Claire Kuan】 https://youtu.be/QZnF9WZOm8g 浪漫輸給你｜青風還有秘密未揭曉?｜言小世界崩塌，傲然跟青風全都消失?｜官品心劇情聊天室#5【Claire Kuan】 https://youtu.be/CmT_bGr0Dqc 浪漫輸給你｜青風是現實世界穿越來的?｜曉青派正式出局?｜曉恩為了傲然選擇離開?｜官品心劇情聊天室#4【Claire Kuan】 https://youtu.be/kVEuQrUo3T8 《浪漫輸給你》#3｜青風是作者？黑化？｜張立昂化身台版格雷，咬肩帶激吻開船｜傲然會消失?｜官品心劇情聊天室【",
+        "truncated": true
+      },
+      "published_at": "Fri, 02 Oct 2020 16:03:21 GMT",
+      "feed_index": 74
+    },
+    {
+      "id": "b7c1e5da3c22009b4cf6c521dc00a05a1629ac78743177a4cc5f21699740f479",
+      "guid": "d6ff941a-bb83-45d8-8705-1bcda49f3e6a",
+      "title": {
+        "text": "直播Live#2｜出不了《The king：永遠的君主》的坑，爆笑亂聊part Ⅱ～星期六夜晚好孤單好寂寞～feat.大臉臉怪獸關心你&終於買到bb.q韓式炸雞【官品心 Claire Kuan】",
+        "truncated": false
+      },
+      "description": {
+        "text": "韓劇《The King：永遠的君主》(国王：永远的君主)，由李敏鎬、金高銀、禹棹煥、金景南和鄭恩彩等主演，繼《繼承者們》和《孤單又燦爛的神－鬼怪》之後，李敏鎬、金高銀再度與王牌編劇金銀淑合作穿越平行時空。 鼓勵品心持續創作 https://pse.is/RQTDT 上次聊不夠嗎？沒有地方傾訴你對the king的愛嗎？覺得自己出不了坑，很孤單？很寂寞嗎？ 今晚20：00 品心再度邀請到大臉臉怪獸關心你姐姐跟我們一起直播吃吃喝喝大聊劇，有我們，你不寂寞～板凳拉好，晚上見囉～❤️❤️❤️😜😜😜 《The King：永遠的君主》李敏鎬、金高銀的理想型｜The King感情大占卜｜李袞跟太乙結婚了?｜結局完好空虛｜戲散情不散，就是出不了坑啦｜劇情聊天室【官品心 Claire Kuan】 https://youtu.be/jS969uinUaw The King：永遠的君主#13｜逆轉赤腳青春的大結局｜回顧那些沒填坑的遺憾｜完結篇分享｜劇情聊天室【官品心 Claire Kuan】 https://youtu.be/DouvT7skXlo The King：永遠的君主#12｜萬波息笛選擇之人能凌駕時間悖論?｜大結局預測分享｜李袞跟鄭太乙結局是最熟悉的陌生人?｜劇情聊天室【官品心 Claire Kuan】 https://youtu.be/HlemvQKsKq8 The King：永遠的君主#1",
+        "truncated": true
+      },
+      "published_at": "Wed, 15 Jul 2020 09:01:34 GMT",
+      "feed_index": 89
+    },
+    {
+      "id": "b1e5423f291a1379dd28fbfb708a79542100e892432c13904755c494dcfea4a7",
+      "guid": "a3899fb2-244a-4073-b8f1-4d5e729d1fda",
+      "title": {
+        "text": "EP1｜The King：永遠的君主#5｜推翻女性形象韓劇版亞瑟王的李敏鎬是時空旅人?｜大反派李霖究竟是蘭斯洛特或是莫德雷德?｜曹影禹棹煥一人分飾四角徹底圈粉！｜劇情聊天室【官品心】",
+        "truncated": false
+      },
+      "description": {
+        "text": "韓劇《The King：永遠的君主》(国王：永远的君主)，由李敏鎬、金高銀、禹棹煥、金景南和鄭恩彩等主演，繼《繼承者們》和《孤單又燦爛的神－鬼怪》之後，李敏鎬、金高銀再度與王牌編劇金銀淑合作穿越平行時空。 鼓勵品心持續創作 https://pse.is/RQTDT The King打造的平行世界題材，加上暗藏許多歷史巧思，每週隨著劇情發展，我的大腦都不停得在轉，或許剪輯有點跳，但是故事的編排，世界觀鋪陳，光線拍攝，劇組花了300億韓元斥資打造的皇宮，這些都是真的，不是去借一個豪宅來拍，還有都是上上之選的演員，我對於收視率不高依舊感到非常可惜~ EP9，EP10各節討論分享： 00：09 大亮點曹影禹棹煥一人分飾四角，徹底圈粉 02：20 袞王李敏鎬演技大爆發，跳脫花樣男子稱號 04：03 上帝視角-溜溜球男孩？推翻既定亞瑟王Saber形象，永遠的君主是韓劇版亞瑟王的故事？ 05：59 李霖為什麼不殺民國李知薫媽媽？李霖原型是蘭斯洛特還是莫德雷德？ 06：47 四寅劍暗喻石中劍？ 誰才是劍之主人？四寅劍擁有穿越時空的關鍵？ 08：16 李袞與鄭太乙最後之吻，是訣別吻嗎？李袞的初戀就是鄭太乙？原來李袞是時空旅人，早就穿越兩個世界？ 10：15 鄭太乙最後的那一退步象徵什麼？ The King：永遠的君主#4｜臉盲症發作，讓你追李敏鎬也需要紓睏嗎?｜臉盲角色整理｜Netflix韓劇｜姜薪",
+        "truncated": true
+      },
+      "published_at": "Wed, 20 May 2020 05:32:22 GMT",
+      "feed_index": 104
+    }
+  ]
+}

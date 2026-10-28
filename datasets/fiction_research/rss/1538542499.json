@@ -1,0 +1,140 @@
+{
+  "show_id": "1538542499",
+  "feed_url": "http://www.ximalaya.com/album/15968284.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/15968284.xml",
+    "final_url": "http://www.ximalaya.com/album/15968284.xml",
+    "fetched_at": "2026-10-25T14:55:13.296763+00:00",
+    "status": 200,
+    "sha256": "3a24df46a1753d82585a857abb84473e2f17139032dd7e2029ee57179e0ccfb6"
+  },
+  "status": "ok",
+  "title": {
+    "text": "一闻一见｜深度幽默新闻观点论",
+    "truncated": false
+  },
+  "description": {
+    "text": "深度幽默新闻观点论。不一样的新闻效果，嬉笑怒骂评社会百态。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 660,
+  "episodes": [
+    {
+      "id": "79278966911531aa1020ce745926b3b126d60e4b0e648816a28f2e372fa41bdf",
+      "guid": "xmly_track_581698736",
+      "title": {
+        "text": "互联网老年适配服务是金钱的诱惑？",
+        "truncated": false
+      },
+      "description": {
+        "text": "互联网老年适配服务是金钱的诱惑？",
+        "truncated": false
+      },
+      "published_at": "Mon, 31 Oct 2022 03:46:39 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "7419d1058873d6cef164ccfa3176efacca81bf6fe3606a1dc525ccaed404a284",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5eea-audiofreehighqps/8D/ED/CKwRIaIFPWPiADNbIQDsc0h5.m4a",
+      "title": {
+        "text": "奇葩 绑匪也能反腐",
+        "truncated": false
+      },
+      "description": {
+        "text": "奇葩 绑匪也能反腐.。更多精彩节目内容关注公众号【罗小刚刚好】直接参与节目直播互动。",
+        "truncated": false
+      },
+      "published_at": "Thu, 14 Oct 2021 03:15:36 GMT",
+      "feed_index": 94
+    },
+    {
+      "id": "3f41aa43910549a3ad06c0bb097aef6d3f0bf23b51b9de309a5e8d4e5a676298",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/039e-audiofreehighqps/FF/33/CKwRIDoEBRGoADG0OwCJP6Ua.m4a",
+      "title": {
+        "text": "打假看似权威的各种协会",
+        "truncated": false
+      },
+      "description": {
+        "text": "打假看似权威的各种协会，平时听起正经得不能再正经的一个协会近日爆出来却是违法的组织存在。",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Feb 2021 05:37:33 GMT",
+      "feed_index": 188
+    },
+    {
+      "id": "6c1d5f65bae789daf7b088075d24c29f74b70df19b571dd03cde0e42e7677c2f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group84/M00/A1/31/wKg5JF9Mf5njOYCjACqY2f9M6b4778.m4a",
+      "title": {
+        "text": "花样广告化的热搜 值得去追吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "花样热搜 值得去追吗？",
+        "truncated": false
+      },
+      "published_at": "Mon, 31 Aug 2020 04:41:40 GMT",
+      "feed_index": 282
+    },
+    {
+      "id": "ab87e03737e19a55791a1006747d1a0c090a314d68165e1223c34f1959369f63",
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M01/34/3C/wKgO2F4VarKQ5W7yADVnXcSZKsg838.m4a",
+      "title": {
+        "text": "打听同事的工资 被开除",
+        "truncated": false
+      },
+      "description": {
+        "text": "最近，云南一家商贸公司的员工何静，偶然得知，和她从事相同工作内容、业绩不相上下的8位同事，无论工资收入，还是业务提成，都高出自己不少。 何静以分配不公为由，向主管经理，提出加薪要求。 没过几天，公司以她严重 违反规章制度 为由，与其解除劳动关系。 法院审理认为，公司的行为， 构成， 违法 解除劳动关系 ，判令公司向何静支付经济赔偿金。此案，在网上引起热议。",
+        "truncated": false
+      },
+      "published_at": "Wed, 08 Jan 2020 05:38:50 GMT",
+      "feed_index": 377
+    },
+    {
+      "id": "1c69b78a79ba71f4cfa02e238137c7a4563e0cda38bc1ca8c45a723559d525a0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group61/M06/7E/F2/wKgMZl0wKqWhkYejAEg9ttP9d3s980.m4a",
+      "title": {
+        "text": "现在小孩怎么就“得罪”了社会人",
+        "truncated": false
+      },
+      "description": {
+        "text": "现在小孩怎么就“得罪”了社会人，让现在很多人得了一种厌童症。是因为社会上人不够宽容爱护 还是因为孩子太熊真的让人讨厌了？",
+        "truncated": false
+      },
+      "published_at": "Thu, 18 Jul 2019 08:18:10 GMT",
+      "feed_index": 471
+    },
+    {
+      "id": "50a95a52c014e0f88282de73e1337666abc706ae6c12dc5effe08a11688afcdb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group53/M07/7C/23/wKgLcVwm1G7RIHPlADiVNpDRRJU297.m4a",
+      "title": {
+        "text": "医患关系之医者也闹心",
+        "truncated": false
+      },
+      "description": {
+        "text": "医患沟通怎样才能和谐，怎样才能减少医患矛盾加强医患沟通的渠道？",
+        "truncated": false
+      },
+      "published_at": "Sat, 29 Dec 2018 02:00:29 GMT",
+      "feed_index": 565
+    },
+    {
+      "id": "4fa7d05f0ef8adc5ec038fc63c9873b2014e8e5d2960056523fb7ea326e79c34",
+      "guid": "https://aod.cos.tx.xmcdn.com/group43/M03/A7/4F/wKgKklsaM9OSukqmAD8lCNgjEzs263-aacv2-48K.m4a",
+      "title": {
+        "text": "“网络民工”的安全感到底应该谁来给？",
+        "truncated": false
+      },
+      "description": {
+        "text": "没有安全感的网络民工。网络民工指从事网络服务线下的人，他们看似自由却很难享有正规的劳动合同保障，权益不对等签约员工。他们如何保障自己的权益对社会也是一个问题，并且日益突出……",
+        "truncated": false
+      },
+      "published_at": "Fri, 08 Jun 2018 07:44:18 GMT",
+      "feed_index": 659
+    }
+  ]
+}

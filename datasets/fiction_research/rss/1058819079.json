@@ -1,0 +1,140 @@
+{
+  "show_id": "1058819079",
+  "feed_url": "http://www.ximalaya.com/album/3132101.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/3132101.xml",
+    "final_url": "http://www.ximalaya.com/album/3132101.xml",
+    "fetched_at": "2026-10-25T14:47:05.504694+00:00",
+    "status": 200,
+    "sha256": "b321de3854fe58b8bec01bd7d8198857a136bc5e0148fb0f7337367074e419fa"
+  },
+  "status": "ok",
+  "title": {
+    "text": "听中国周刊",
+    "truncated": false
+  },
+  "description": {
+    "text": "听《中国新闻杂志》的声音……",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 256,
+  "episodes": [
+    {
+      "id": "ef7506d379ba219c0653984aff26f0a7b2a746ab2544d96830173b2f3f0b9814",
+      "guid": "https://aod.cos.tx.xmcdn.com/group52/M03/27/3E/wKgLcFxHDk6y31JlACnZ8X0WWrY161-aacv2-48K.m4a",
+      "title": {
+        "text": "被烂番茄引爆的情绪",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 22 Jan 2019 12:36:58 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8bf1bd76fa21c6ee2d2ff726feb8cf08d6f9c354ac35b1871e913b19be10a959",
+      "guid": "https://aod.cos.tx.xmcdn.com/group42/M02/0A/D9/wKgJ81qT2H6SMQIpAEDWADrrQ94199-aacv2-48K.m4a",
+      "title": {
+        "text": "静默杀手高血压(下)",
+        "truncated": false
+      },
+      "description": {
+        "text": "调低“门槛”的冲击",
+        "truncated": false
+      },
+      "published_at": "Tue, 27 Feb 2018 16:00:01 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "2fea9918492e470caf9f977133e45e14edf44819729427464fa7a933b87c7e98",
+      "guid": "https://aod.cos.tx.xmcdn.com/group32/M00/14/1E/wKgJnFmrznHw3x14AFmR58qcTqY943.m4a",
+      "title": {
+        "text": "诺兰：没有英雄的《敦刻尔克》",
+        "truncated": false
+      },
+      "description": {
+        "text": "与宣传方刻意强调的“战争大片”不同，诺兰认为这部新作 并不能被归到《拯救大兵瑞恩》等战争片的传统中。没有贯穿始终的 英雄人物，也没有很多炮火纷飞的血腥镜头，善恶的二元对立被取消了， 关于人性的讨论也无法构成其主题。它甚至也不是一部“反战”电影",
+        "truncated": false
+      },
+      "published_at": "Sun, 03 Sep 2017 09:45:29 GMT",
+      "feed_index": 73
+    },
+    {
+      "id": "1fdc30a2770e4d753dcd5a9bb13f578f8204d06520e29093518b7768859e46e8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group26/M06/B7/E8/wKgJRlkFzbqDx9hjAErxZSS5BDM825.m4a",
+      "title": {
+        "text": "阿米尔·汗：巨星、名流和真相调查者（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《 中国新闻周刊 》记者：周甜 BGM：松田彬人 - 郷愁から芽吹くもの",
+        "truncated": false
+      },
+      "published_at": "Sun, 30 Apr 2017 12:00:00 GMT",
+      "feed_index": 109
+    },
+    {
+      "id": "08447ce0b4037f6fa80b41adeb918e1cffc571f7735214970cd1b0e295c0c175",
+      "guid": "https://aod.cos.tx.xmcdn.com/group21/M05/6E/0C/wKgJKFg6v33gKextADRjfyuudZI274.m4a",
+      "title": {
+        "text": "【人物】金马影帝范伟：“只能闷头做一件事”（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "早在二十来岁时，这个沈阳小伙完全没有想到后来自己能成为一个演员，当时，他喜欢表演，但觉得影视表演遥不可及，离自己的生活很远。",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Nov 2016 11:12:39 GMT",
+      "feed_index": 146
+    },
+    {
+      "id": "4a3f310c6a82ad5a7ac8afab2b990d901b8974688829553054ac0756b67e2768",
+      "guid": "https://aod.cos.tx.xmcdn.com/group8/M04/32/EA/wKgDYFb6m8zAJXKNAEtSb9Wfzh8934.m4a",
+      "title": {
+        "text": "【特稿】“弑母”嫌疑背后的完美少年（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "本节目由中国新闻周刊与喜马拉雅联合制作播出，主播夏雨嫣录制完成。喜马拉雅主页搜索夏雨嫣收听更多内容。",
+        "truncated": false
+      },
+      "published_at": "Wed, 30 Mar 2016 01:00:00 GMT",
+      "feed_index": 182
+    },
+    {
+      "id": "4d10663c5f4a605704c15a97e3b973a21663f5c3f0f535c2dd457d552237af1d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group25/M00/8E/A2/wKgJNlhC15fBXH5iAEjlKKVvNbI922.m4a",
+      "title": {
+        "text": "【人物】法医秦明： 我不悲天悯人，我只要破案（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 03 Dec 2016 14:33:09 GMT",
+      "feed_index": 219
+    },
+    {
+      "id": "790d6db54ba4e59460848ce597f80c822610bbea7e19121d5ae17a1edc09a740",
+      "guid": "https://aod.cos.tx.xmcdn.com/group11/M07/9C/84/wKgDbVYzVJ_gO8VjAJuAdMYpV2I034-aacv2-48K.m4a",
+      "title": {
+        "text": "【调查】70后非独父母：在焦虑与迷失中等待“二孩”",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 30 Oct 2015 11:34:32 GMT",
+      "feed_index": 255
+    }
+  ]
+}

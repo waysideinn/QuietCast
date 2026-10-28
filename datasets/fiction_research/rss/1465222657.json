@@ -1,0 +1,140 @@
+{
+  "show_id": "1465222657",
+  "feed_url": "http://www.ximalaya.com/album/22967451.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/22967451.xml",
+    "final_url": "http://www.ximalaya.com/album/22967451.xml",
+    "fetched_at": "2026-10-25T14:50:12.299058+00:00",
+    "status": 200,
+    "sha256": "7271414e257f3ed1df098ec8f448079b7b5d17bb543ae433a93ce1691bd4aa75"
+  },
+  "status": "ok",
+  "title": {
+    "text": "周易—中国本土心理学",
+    "truncated": false
+  },
+  "description": {
+    "text": "周易是人类历史上最早的心理学著作之一。几千年来，是周易承担了中国人的心理平衡与健康。人的心理是复杂的，西方心理学采用线性科学简单的释解画面和还原的方法解释人格和命运。比较西方心理学周易本土心理学非线性方法更能解释人格和命运的复杂性。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 32,
+  "episodes": [
+    {
+      "id": "81200c647e9172406e31dfeed3522cdf83fbab5bd2014ee09d3bcc3e1c0753e8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group59/M07/58/79/wKgLeFy9MgnA-EB_AHDqKwP8rkU686.m4a",
+      "title": {
+        "text": "周易中国本土心理学 第一讲 周易与西方科学相遇的故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "周易是人类历史上最早的心理学著作之一。几千年来，是周易承担了中国人的心理平衡与健康。人的心理是复杂的，西方心理学采用线性科学简单的释解画面和还原的方法解释人格和命运。比较西方心理学周易本土心理学非线性方法更能解释人格和命运的复杂性。",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 Apr 2019 03:16:36 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "92dffe2cc01c25dbab8c84d47eee7821afe892da61016915e84b88efbde13c24",
+      "guid": "https://aod.cos.tx.xmcdn.com/group58/M05/14/42/wKgLglziB92xoRGvAG8rX4N2OYQ602.m4a",
+      "title": {
+        "text": "中国本土心理学 第五讲 荣格心理学是如何从易经中汲取知识的？",
+        "truncated": false
+      },
+      "description": {
+        "text": "周易是人类历史上最早的心理学著作之一。几千年来，是周易承担了中国人的心理平衡与健康。人的心理是复杂的，西方心理学采用线性科学简单的释解画面和还原的方法解释人格和命运。比较西方心理学周易本土心理学非线性方法更能解释人格和命运的复杂性。",
+        "truncated": false
+      },
+      "published_at": "Mon, 20 May 2019 01:50:04 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "1ab861a965d44f4adb94ce313b8c8f8fd0120a57390b289e8ea2d2aadeae27fc",
+      "guid": "https://aod.cos.tx.xmcdn.com/group58/M05/91/B4/wKgLglz09_TitUqFAG3QMAsehro874.m4a",
+      "title": {
+        "text": "中国本土心理学 第十讲 简单人格理论-12地支",
+        "truncated": false
+      },
+      "description": {
+        "text": "周易是人类历史上最早的心理学著作之一。几千年来，是周易承担了中国人的心理平衡与健康。人的心理是复杂的，西方心理学采用线性科学简单的释解画面和还原的方法解释人格和命运。比较西方心理学周易本土心理学非线性方法更能解释人格和命运的复杂性。",
+        "truncated": false
+      },
+      "published_at": "Mon, 03 Jun 2019 10:35:10 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "e9be29ffe1162105cdada75b217193a47d1c5fb22d5d117066cb3c8682dc0708",
+      "guid": "https://aod.cos.tx.xmcdn.com/group61/M09/36/E1/wKgMZl0atTWzBL7bAJMwD2nxX28095.m4a",
+      "title": {
+        "text": "周易中国本土心理学 第十四讲 纯阳与纯阴的人格魅力",
+        "truncated": false
+      },
+      "description": {
+        "text": "周易是人类历史上最早的心理学著作之一。几千年来，是周易承担了中国人的心理平衡与健康。人的心理是复杂的，西方心理学采用线性科学简单的释解画面和还原的方法解释人格和命运。比较西方心理学周易本土心理学非线性方法更能解释人格和命运的复杂性。",
+        "truncated": false
+      },
+      "published_at": "Tue, 02 Jul 2019 01:36:26 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "4e651233c4700d2917124bd1f22028d3d23eecea289c33fa4e29993568820016",
+      "guid": "https://aod.cos.tx.xmcdn.com/group67/M02/9A/99/wKgMbV3tt1fAoKw7AGYTJJ9HlvY596.m4a",
+      "title": {
+        "text": "周易中国本土心理学 甘肃游学特辑（上）智慧的起源 伏羲与夏娃的比较",
+        "truncated": false
+      },
+      "description": {
+        "text": "千百年来，中华民族一向把自己称为龙的传人并为此自豪，龙俨然已成为我们民族的徽标和崇高象征。要说起龙的来历，不得不提到三皇五帝，三皇是指伏羲、神农、黄帝，而伏羲为三皇之首。 民间传说，伏羲和女娲都是人首蛇身，结成夫妻，繁衍后代，于是有了我们这群黄皮肤黑头发的龙的传人。伏羲是中华民族的先民们由野蛮向礼貌时期过渡的最杰出的代表之一，他仰观天象，俯查地理，对自然和人类社会的客观规律进行科学总结，创画了八卦，来教导人们趋吉避凶，表现万物的变化法则，作出了重要的历史贡献；伏羲创造了书契，代替了结绳记事的方法，促成中国文字的产生；伏羲制定了男婚女嫁的婚姻礼制，确立了礼貌社会一夫一妻制的基础……所以说，伏羲是中华民族的始祖。 徐坤教授带领周易游学团走进甘肃天水，代入伏羲视角，感受中华文明的起源。",
+        "truncated": false
+      },
+      "published_at": "Mon, 09 Dec 2019 03:06:14 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "8ce837d9869bd1381ee55acad52278513161fcb3cbf5a70aa67a999f0d9742bc",
+      "guid": "https://aod.cos.tx.xmcdn.com/group76/M01/F9/B3/wKgO3l54emjCAvjkAHFFQoDZVHU554.m4a",
+      "title": {
+        "text": "中国本土心理学 第二十三讲 什么样的人不易感染新冠病毒",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 23 Mar 2020 08:59:01 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "cfa39d782afb62e24032f6105a7c09ba81dc3565b35f0a68cf37b766ba3a9bcc",
+      "guid": "https://aod.cos.tx.xmcdn.com/group76/M05/AB/4C/wKgO1F6DPH3gYa_xAG6F3MqzOdo002.m4a",
+      "title": {
+        "text": "周易中国本土心理学 第二十八讲 测测你的领导力",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 Mar 2020 12:49:50 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "9e21ba8f989d1e984e0a6b6f628ea0373a7bc8afdb4d5804ab9e60d49dcd244b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group78/M05/37/65/wKgO4F6NfJDQfST9AIFwGxtdE1Q316.m4a",
+      "title": {
+        "text": "周易中国本土心理学 第三十二讲 中西方心理学的不同之处",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 08 Apr 2020 07:25:51 GMT",
+      "feed_index": 31
+    }
+  ]
+}

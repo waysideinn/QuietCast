@@ -1,0 +1,1163 @@
+{
+  "group": "fiction",
+  "term": "西游记",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E8%A5%BF%E6%B8%B8%E8%AE%B0&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E8%A5%BF%E6%B8%B8%E8%AE%B0&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:41:46.328289+00:00",
+    "status": 200,
+    "sha256": "3d9c716347e6fee4f90cd9e7ec440b925b4f7623b9d8e865062c55e1a96c93ae"
+  },
+  "result_count": 48,
+  "records": [
+    {
+      "collectionId": 1804281054,
+      "trackId": 1804281054,
+      "collectionName": "西游记全集丨原著白话文版",
+      "artistName": "晓明听书阁",
+      "feedUrl": "https://www.ximalaya.com/album/88025166.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%85%A8%E9%9B%86%E4%B8%A8%E5%8E%9F%E8%91%97%E7%99%BD%E8%AF%9D%E6%96%87%E7%89%88/id1804281054?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 101,
+      "releaseDate": "2025-06-29T11:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1504181629,
+      "trackId": 1504181629,
+      "collectionName": "少儿西游记",
+      "artistName": "可喵讲故事",
+      "feedUrl": "http://www.ximalaya.com/album/34875808.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B0%91%E5%84%BF%E8%A5%BF%E6%B8%B8%E8%AE%B0/id1504181629?uo=4",
+      "genres": [
+        "儿童故事",
+        "播客",
+        "儿童与家庭",
+        "喜剧",
+        "脱口秀"
+      ],
+      "genreIds": [
+        "1520",
+        "26",
+        "1305",
+        "1303",
+        "1497"
+      ],
+      "trackCount": 105,
+      "releaseDate": "2020-06-09T10:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童故事"
+    },
+    {
+      "collectionId": 1146353856,
+      "trackId": 1146353856,
+      "collectionName": "西游记（少儿版）",
+      "artistName": "天亮听广播",
+      "feedUrl": "http://www.ximalaya.com/album/5016872.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E5%B0%91%E5%84%BF%E7%89%88/id1146353856?uo=4",
+      "genres": [
+        "儿童与家庭",
+        "播客"
+      ],
+      "genreIds": [
+        "1305",
+        "26"
+      ],
+      "trackCount": 28,
+      "releaseDate": "2016-09-18T05:59:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童与家庭"
+    },
+    {
+      "collectionId": 1706855646,
+      "trackId": 1706855646,
+      "collectionName": "《西游记》原著原文字幕",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/77937324.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E5%8E%9F%E8%91%97%E5%8E%9F%E6%96%87%E5%AD%97%E5%B9%95/id1706855646?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 101,
+      "releaseDate": "2026-03-03T08:16:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1831666548,
+      "trackId": 1831666548,
+      "collectionName": "《西游记：适合小朋友听的有声童话》",
+      "artistName": "小月亮故事屋moon",
+      "feedUrl": "https://www.ximalaya.com/album/99274709.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E9%80%82%E5%90%88%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%90%AC%E7%9A%84%E6%9C%89%E5%A3%B0%E7%AB%A5%E8%AF%9D/id1831666548?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "儿童与家庭",
+        "儿童故事"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1305",
+        "1520"
+      ],
+      "trackCount": 221,
+      "releaseDate": "2025-10-27T04:34:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1597634833,
+      "trackId": 1597634833,
+      "collectionName": "西游记精编版|名著|2023",
+      "artistName": "不够言笑",
+      "feedUrl": "http://www.ximalaya.com/album/47608529.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E7%B2%BE%E7%BC%96%E7%89%88-%E5%90%8D%E8%91%97-2023/id1597634833?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "儿童与家庭",
+        "儿童故事"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1305",
+        "1520"
+      ],
+      "trackCount": 52,
+      "releaseDate": "2023-04-30T08:07:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1634549867,
+      "trackId": 1634549867,
+      "collectionName": "西游记 | 四大名著 | 儿童读物",
+      "artistName": "南城天蝎",
+      "feedUrl": "https://www.ximalaya.com/album/66216665.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97-%E5%84%BF%E7%AB%A5%E8%AF%BB%E7%89%A9/id1634549867?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "小说",
+        "喜剧小说"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 39,
+      "releaseDate": "2022-06-23T00:43:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1587306877,
+      "trackId": 1587306877,
+      "collectionName": "《西游记》原著播读",
+      "artistName": "曦爸读经典",
+      "feedUrl": "http://www.ximalaya.com/album/50433653.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E5%8E%9F%E8%91%97%E6%92%AD%E8%AF%BB/id1587306877?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 203,
+      "releaseDate": "2022-02-07T04:01:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1738028766,
+      "trackId": 1738028766,
+      "collectionName": "老周解读西游记（1-136）",
+      "artistName": "玄砂",
+      "feedUrl": "https://www.ximalaya.com/album/76802796.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%80%81%E5%91%A8%E8%A7%A3%E8%AF%BB%E8%A5%BF%E6%B8%B8%E8%AE%B0-1-136/id1738028766?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 136,
+      "releaseDate": "2024-11-15T02:55:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1795286278,
+      "trackId": 1795286278,
+      "collectionName": "我读你听 《西游记》",
+      "artistName": "一锅红烧肉啊",
+      "feedUrl": "https://www.ximalaya.com/album/82244973.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E8%AF%BB%E4%BD%A0%E5%90%AC-%E8%A5%BF%E6%B8%B8%E8%AE%B0/id1795286278?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "trackCount": 41,
+      "releaseDate": "2025-08-10T08:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1286603279,
+      "trackId": 1286603279,
+      "collectionName": "《西游记》里没有告诉你的事儿",
+      "artistName": "百姓国学",
+      "feedUrl": "http://www.ximalaya.com/album/10313303.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E9%87%8C%E6%B2%A1%E6%9C%89%E5%91%8A%E8%AF%89%E4%BD%A0%E7%9A%84%E4%BA%8B%E5%84%BF/id1286603279?uo=4",
+      "genres": [
+        "个人日记",
+        "播客",
+        "社会与文化",
+        "教育",
+        "语言学习"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2017-11-09T09:25:00Z",
+      "country": "CHN",
+      "primaryGenreName": "个人日记"
+    },
+    {
+      "collectionId": 1633650726,
+      "trackId": 1633650726,
+      "collectionName": "西游记",
+      "artistName": "皇甫名玥",
+      "feedUrl": "https://www.ximalaya.com/album/69273974.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0/id1633650726?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 88,
+      "releaseDate": "2026-07-19T07:59:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1796335910,
+      "trackId": 1796335910,
+      "collectionName": "西游记-原文朗读【四大名著】",
+      "artistName": "白云出岫",
+      "feedUrl": "https://www.ximalaya.com/album/220566.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E5%8E%9F%E6%96%87%E6%9C%97%E8%AF%BB-%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97/id1796335910?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "trackCount": 196,
+      "releaseDate": "2018-07-15T12:49:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1691808634,
+      "trackId": 1691808634,
+      "collectionName": "唠嗑讲故事之西游记",
+      "artistName": "东北贼大王",
+      "feedUrl": "https://www.ximalaya.com/album/76243890.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%94%A0%E5%97%91%E8%AE%B2%E6%95%85%E4%BA%8B%E4%B9%8B%E8%A5%BF%E6%B8%B8%E8%AE%B0/id1691808634?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 36,
+      "releaseDate": "2023-07-09T07:40:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1820556105,
+      "trackId": 1820556105,
+      "collectionName": "西游记后传之孙悟空探案 | 侦探推理|孙悟空",
+      "artistName": "呦呦鹿鸣儿童睡前故事",
+      "feedUrl": "https://www.ximalaya.com/album/85933876.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%90%8E%E4%BC%A0%E4%B9%8B%E5%AD%99%E6%82%9F%E7%A9%BA%E6%8E%A2%E6%A1%88-%E4%BE%A6%E6%8E%A2%E6%8E%A8%E7%90%86-%E5%AD%99%E6%82%9F%E7%A9%BA/id1820556105?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "儿童与家庭",
+        "儿童故事"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1305",
+        "1520"
+      ],
+      "trackCount": 268,
+      "releaseDate": "2026-09-23T02:02:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1782755699,
+      "trackId": 1782755699,
+      "collectionName": "原创少儿英文版《西游记》",
+      "artistName": "Alex的英语故事王国",
+      "feedUrl": "https://www.ximalaya.com/album/84628871.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8E%9F%E5%88%9B%E5%B0%91%E5%84%BF%E8%8B%B1%E6%96%87%E7%89%88-%E8%A5%BF%E6%B8%B8%E8%AE%B0/id1782755699?uo=4",
+      "genres": [
+        "语言学习",
+        "播客",
+        "教育",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1498",
+        "26",
+        "1304",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 82,
+      "releaseDate": "2025-05-28T10:53:00Z",
+      "country": "CHN",
+      "primaryGenreName": "语言学习"
+    },
+    {
+      "collectionId": 1894801674,
+      "trackId": 1894801674,
+      "collectionName": "【儿童评书】萌趣西游记",
+      "artistName": "马小葱",
+      "feedUrl": "https://www.ximalaya.com/album/115434676.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%84%BF%E7%AB%A5%E8%AF%84%E4%B9%A6-%E8%90%8C%E8%B6%A3%E8%A5%BF%E6%B8%B8%E8%AE%B0/id1894801674?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 200,
+      "releaseDate": "2026-03-29T09:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1896802331,
+      "trackId": 1896802331,
+      "collectionName": "喜洋洋讲西游记丨儿童广播剧丨多角色配音｜给孩子听",
+      "artistName": "喜洋洋与村长讲故事",
+      "feedUrl": "https://www.ximalaya.com/album/121611239.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%96%9C%E6%B4%8B%E6%B4%8B%E8%AE%B2%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%A8%E5%84%BF%E7%AB%A5%E5%B9%BF%E6%92%AD%E5%89%A7%E4%B8%A8%E5%A4%9A%E8%A7%92%E8%89%B2%E9%85%8D%E9%9F%B3-%E7%BB%99%E5%AD%A9%E5%AD%90%E5%90%AC/id1896802331?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 51,
+      "releaseDate": "2026-06-27T11:13:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1495148036,
+      "trackId": 1495148036,
+      "collectionName": "趣解西游记",
+      "artistName": "大蜜小糖",
+      "feedUrl": "https://papi.qingting.fm/podcast/channels/10202",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%B6%A3%E8%A7%A3%E8%A5%BF%E6%B8%B8%E8%AE%B0/id1495148036?uo=4",
+      "genres": [
+        "历史",
+        "播客"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 286,
+      "releaseDate": "2021-01-18T09:43:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1515802068,
+      "trackId": 1515802068,
+      "collectionName": "《歪批西游记》｜换个姿势读名著",
+      "artistName": "Hillber",
+      "feedUrl": "http://www.ximalaya.com/album/38434382.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%AD%AA%E6%89%B9%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E6%8D%A2%E4%B8%AA%E5%A7%BF%E5%8A%BF%E8%AF%BB%E5%90%8D%E8%91%97/id1515802068?uo=4",
+      "genres": [
+        "脱口秀",
+        "播客",
+        "喜剧",
+        "即兴表演"
+      ],
+      "genreIds": [
+        "1497",
+        "26",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 13,
+      "releaseDate": "2020-10-02T22:20:00Z",
+      "country": "CHN",
+      "primaryGenreName": "脱口秀"
+    },
+    {
+      "collectionId": 1713901094,
+      "trackId": 1713901094,
+      "collectionName": "西游记 原著 全文 神童朗读 儿童XY 原文",
+      "artistName": "炉火焰山",
+      "feedUrl": "https://www.ximalaya.com/album/78651581.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E5%8E%9F%E8%91%97-%E5%85%A8%E6%96%87-%E7%A5%9E%E7%AB%A5%E6%9C%97%E8%AF%BB-%E5%84%BF%E7%AB%A5xy-%E5%8E%9F%E6%96%87/id1713901094?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 100,
+      "releaseDate": "2024-01-08T07:42:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1536681393,
+      "trackId": 1536681393,
+      "collectionName": "西游记 | 白话",
+      "artistName": "DanielCxh",
+      "feedUrl": "http://www.ximalaya.com/album/42321645.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E7%99%BD%E8%AF%9D/id1536681393?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 39,
+      "releaseDate": "2020-10-08T02:27:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1896334145,
+      "trackId": 1896334145,
+      "collectionName": "原汁原味西游记|第一季完结【关注主播听第二季】",
+      "artistName": "云少讲故事",
+      "feedUrl": "https://www.ximalaya.com/album/120774538.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8E%9F%E6%B1%81%E5%8E%9F%E5%91%B3%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E7%AC%AC%E4%B8%80%E5%AD%A3%E5%AE%8C%E7%BB%93-%E5%85%B3%E6%B3%A8%E4%B8%BB%E6%92%AD%E5%90%AC%E7%AC%AC%E4%BA%8C%E5%AD%A3/id1896334145?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 51,
+      "releaseDate": "2026-05-24T04:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1539168778,
+      "trackId": 1539168778,
+      "collectionName": "开卷无益丨乱弹水浒传+暗黑西游记+胡侃三国演义",
+      "artistName": "春典",
+      "feedUrl": "http://www.ximalaya.com/album/43040427.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%BC%80%E5%8D%B7%E6%97%A0%E7%9B%8A%E4%B8%A8%E4%B9%B1%E5%BC%B9%E6%B0%B4%E6%B5%92%E4%BC%A0-%E6%9A%97%E9%BB%91%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E8%83%A1%E4%BE%83%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89/id1539168778?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 97,
+      "releaseDate": "2025-02-27T04:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 6788375051,
+      "trackId": 6788375051,
+      "collectionName": "原汁原味西游记|第三季【关注主播，补听前二季】",
+      "artistName": "云少讲故事",
+      "feedUrl": "https://www.ximalaya.com/album/125089493.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8E%9F%E6%B1%81%E5%8E%9F%E5%91%B3%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E7%AC%AC%E4%B8%89%E5%AD%A3-%E5%85%B3%E6%B3%A8%E4%B8%BB%E6%92%AD-%E8%A1%A5%E5%90%AC%E5%89%8D%E4%BA%8C%E5%AD%A3/id6788375051?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 57,
+      "releaseDate": "2026-07-26T14:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1581268895,
+      "trackId": 1581268895,
+      "collectionName": "马誉修谍战西游记|解密西游内斗",
+      "artistName": "马誉修",
+      "feedUrl": "http://www.ximalaya.com/album/51766365.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%A9%AC%E8%AA%89%E4%BF%AE%E8%B0%8D%E6%88%98%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E8%A7%A3%E5%AF%86%E8%A5%BF%E6%B8%B8%E5%86%85%E6%96%97/id1581268895?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 146,
+      "releaseDate": "2023-04-30T03:20:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1713902335,
+      "trackId": 1713902335,
+      "collectionName": "西游记 原文 原著 全文 男中音 有声书 YZ",
+      "artistName": "炉火焰山",
+      "feedUrl": "https://www.ximalaya.com/album/78633443.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E5%8E%9F%E6%96%87-%E5%8E%9F%E8%91%97-%E5%85%A8%E6%96%87-%E7%94%B7%E4%B8%AD%E9%9F%B3-%E6%9C%89%E5%A3%B0%E4%B9%A6-yz/id1713902335?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 100,
+      "releaseDate": "2024-03-12T07:51:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1896805545,
+      "trackId": 1896805545,
+      "collectionName": "原汁原味西游记|第二季完结【关注主播，补听第一季】",
+      "artistName": "云少讲故事",
+      "feedUrl": "https://www.ximalaya.com/album/121107439.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8E%9F%E6%B1%81%E5%8E%9F%E5%91%B3%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%AE%8C%E7%BB%93-%E5%85%B3%E6%B3%A8%E4%B8%BB%E6%92%AD-%E8%A1%A5%E5%90%AC%E7%AC%AC%E4%B8%80%E5%AD%A3/id1896805545?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "社会与文化",
+        "旅行与地方文化"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1324",
+        "1320"
+      ],
+      "trackCount": 65,
+      "releaseDate": "2026-06-24T11:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1456605784,
+      "trackId": 1456605784,
+      "collectionName": "西游记 | 背后的故事",
+      "artistName": "六小檬柠",
+      "feedUrl": "http://www.ximalaya.com/album/21985146.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B/id1456605784?uo=4",
+      "genres": [
+        "喜剧",
+        "播客"
+      ],
+      "genreIds": [
+        "1303",
+        "26"
+      ],
+      "trackCount": 12,
+      "releaseDate": "2019-03-22T03:01:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧"
+    },
+    {
+      "collectionId": 1633199400,
+      "trackId": 1633199400,
+      "collectionName": "四大名著之 西游记 原著听读-男声普通话",
+      "artistName": "自然音乐风",
+      "feedUrl": "https://www.ximalaya.com/album/69198752.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97%E4%B9%8B-%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E5%8E%9F%E8%91%97%E5%90%AC%E8%AF%BB-%E7%94%B7%E5%A3%B0%E6%99%AE%E9%80%9A%E8%AF%9D/id1633199400?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 100,
+      "releaseDate": "2022-07-03T09:28:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 6804181669,
+      "trackId": 6804181669,
+      "collectionName": "原汁原味西游记|第四季【关注主播，补听前三季】",
+      "artistName": "云少讲故事",
+      "feedUrl": "https://www.ximalaya.com/album/128883733.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8E%9F%E6%B1%81%E5%8E%9F%E5%91%B3%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E7%AC%AC%E5%9B%9B%E5%AD%A3-%E5%85%B3%E6%B3%A8%E4%B8%BB%E6%92%AD-%E8%A1%A5%E5%90%AC%E5%89%8D%E4%B8%89%E5%AD%A3/id6804181669?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 68,
+      "releaseDate": "2026-10-23T15:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1801659457,
+      "trackId": 1801659457,
+      "collectionName": "《西游记探幽》解读：探索西游记的修道密码",
+      "artistName": "RULAI333",
+      "feedUrl": "https://www.ximalaya.com/album/87335590.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E6%8E%A2%E5%B9%BD-%E8%A7%A3%E8%AF%BB-%E6%8E%A2%E7%B4%A2%E8%A5%BF%E6%B8%B8%E8%AE%B0%E7%9A%84%E4%BF%AE%E9%81%93%E5%AF%86%E7%A0%81/id1801659457?uo=4",
+      "genres": [
+        "佛教",
+        "播客",
+        "宗教与心灵",
+        "社会与文化",
+        "纪实"
+      ],
+      "genreIds": [
+        "1438",
+        "26",
+        "1314",
+        "1324",
+        "1543"
+      ],
+      "trackCount": 241,
+      "releaseDate": "2026-10-21T14:27:00Z",
+      "country": "CHN",
+      "primaryGenreName": "佛教"
+    },
+    {
+      "collectionId": 1880248729,
+      "trackId": 1880248729,
+      "collectionName": "西游记",
+      "artistName": "RULAI333",
+      "feedUrl": "https://www.ximalaya.com/album/117450873.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0/id1880248729?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "宗教与心灵",
+        "佛教"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1314",
+        "1438"
+      ],
+      "trackCount": 404,
+      "releaseDate": "2026-09-29T07:33:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1853395821,
+      "trackId": 1853395821,
+      "collectionName": "西游记之漫谈西游",
+      "artistName": "爱吃萝卜的回音岛",
+      "feedUrl": "https://www.ximalaya.com/album/110294305.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B9%8B%E6%BC%AB%E8%B0%88%E8%A5%BF%E6%B8%B8/id1853395821?uo=4",
+      "genres": [
+        "动画与漫画",
+        "播客",
+        "休闲",
+        "电视与电影",
+        "节目漫谈"
+      ],
+      "genreIds": [
+        "1510",
+        "26",
+        "1502",
+        "1309",
+        "1562"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2026-05-15T09:40:00Z",
+      "country": "CHN",
+      "primaryGenreName": "动画与漫画"
+    },
+    {
+      "collectionId": 1836578927,
+      "trackId": 1836578927,
+      "collectionName": "【玩宝故事】《西游记》少儿版",
+      "artistName": "玩千",
+      "feedUrl": "https://www.ximalaya.com/album/103720473.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%8E%A9%E5%AE%9D%E6%95%85%E4%BA%8B-%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E5%B0%91%E5%84%BF%E7%89%88/id1836578927?uo=4",
+      "genres": [
+        "儿童故事",
+        "播客",
+        "儿童与家庭",
+        "历史"
+      ],
+      "genreIds": [
+        "1520",
+        "26",
+        "1305",
+        "1487"
+      ],
+      "trackCount": 32,
+      "releaseDate": "2025-08-29T01:57:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童故事"
+    },
+    {
+      "collectionId": 6787393411,
+      "trackId": 6787393411,
+      "collectionName": "西游记评书 | 画面感极强 | 轻松幽默",
+      "artistName": "老岸书舍",
+      "feedUrl": "https://www.ximalaya.com/album/124955108.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E8%AF%84%E4%B9%A6-%E7%94%BB%E9%9D%A2%E6%84%9F%E6%9E%81%E5%BC%BA-%E8%BD%BB%E6%9D%BE%E5%B9%BD%E9%BB%98/id6787393411?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 37,
+      "releaseDate": "2026-08-15T13:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1504785497,
+      "trackId": 1504785497,
+      "collectionName": "西游记的秘密试听版|西游记解读",
+      "artistName": "奇覃轩",
+      "feedUrl": "http://www.ximalaya.com/album/35639151.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E7%9A%84%E7%A7%98%E5%AF%86%E8%AF%95%E5%90%AC%E7%89%88-%E8%A5%BF%E6%B8%B8%E8%AE%B0%E8%A7%A3%E8%AF%BB/id1504785497?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "宗教与心灵",
+        "宗教"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1314",
+        "1532"
+      ],
+      "trackCount": 81,
+      "releaseDate": "2020-03-25T16:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1775111783,
+      "trackId": 1775111783,
+      "collectionName": "西游记|原著原文播讲|悟空|神话|经典|世界名著",
+      "artistName": "影子兵",
+      "feedUrl": "https://www.ximalaya.com/album/84097051.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E5%8E%9F%E8%91%97%E5%8E%9F%E6%96%87%E6%92%AD%E8%AE%B2-%E6%82%9F%E7%A9%BA-%E7%A5%9E%E8%AF%9D-%E7%BB%8F%E5%85%B8-%E4%B8%96%E7%95%8C%E5%90%8D%E8%91%97/id1775111783?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 134,
+      "releaseDate": "2025-04-23T23:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1888445124,
+      "trackId": 1888445124,
+      "collectionName": "《西游记》详解之《西游征途》",
+      "artistName": "空森林",
+      "feedUrl": "https://www.ximalaya.com/album/55479421.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E8%AF%A6%E8%A7%A3%E4%B9%8B-%E8%A5%BF%E6%B8%B8%E5%BE%81%E9%80%94/id1888445124?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "喜剧小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 157,
+      "releaseDate": "2022-10-07T12:21:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1876560240,
+      "trackId": 1876560240,
+      "collectionName": "西游记：81难通关全记录",
+      "artistName": "Kyosong",
+      "feedUrl": "https://www.ximalaya.com/album/116769112.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0-81%E9%9A%BE%E9%80%9A%E5%85%B3%E5%85%A8%E8%AE%B0%E5%BD%95/id1876560240?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 100,
+      "releaseDate": "2026-04-27T14:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1635075207,
+      "trackId": 1635075207,
+      "collectionName": "续西游记 原著原文朗读",
+      "artistName": "自然音乐风",
+      "feedUrl": "https://www.ximalaya.com/album/69438039.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BB%AD%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E5%8E%9F%E8%91%97%E5%8E%9F%E6%96%87%E6%9C%97%E8%AF%BB/id1635075207?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 100,
+      "releaseDate": "2022-07-17T05:43:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1614774084,
+      "trackId": 1614774084,
+      "collectionName": "人类图西游记",
+      "artistName": "人类图西游记",
+      "feedUrl": "http://www.ximalaya.com/album/58525853.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E7%B1%BB%E5%9B%BE%E8%A5%BF%E6%B8%B8%E8%AE%B0/id1614774084?uo=4",
+      "genres": [
+        "灵修",
+        "播客",
+        "宗教与心灵",
+        "社会与文化",
+        "哲学"
+      ],
+      "genreIds": [
+        "1444",
+        "26",
+        "1314",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2023-09-16T02:16:00Z",
+      "country": "CHN",
+      "primaryGenreName": "灵修"
+    },
+    {
+      "collectionId": 1594755394,
+      "trackId": 1594755394,
+      "collectionName": "西游记",
+      "artistName": "简轻心理话",
+      "feedUrl": "http://www.ximalaya.com/album/41399273.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0/id1594755394?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 297,
+      "releaseDate": "2021-07-09T11:45:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1079269831,
+      "trackId": 1079269831,
+      "collectionName": "【安娜妈咪】西游记",
+      "artistName": "安娜妈咪教育频道",
+      "feedUrl": "http://www.ximalaya.com/album/232447.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%AE%89%E5%A8%9C%E5%A6%88%E5%92%AA-%E8%A5%BF%E6%B8%B8%E8%AE%B0/id1079269831?uo=4",
+      "genres": [
+        "儿童与家庭",
+        "播客",
+        "教育"
+      ],
+      "genreIds": [
+        "1305",
+        "26",
+        "1304"
+      ],
+      "trackCount": 23,
+      "releaseDate": "2020-08-14T04:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童与家庭"
+    },
+    {
+      "collectionId": 1757094203,
+      "trackId": 1757094203,
+      "collectionName": "人类图西游记",
+      "artistName": "人类图西游记",
+      "feedUrl": "https://feed.xyzfm.space/n3yteklwyxjb",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E7%B1%BB%E5%9B%BE%E8%A5%BF%E6%B8%B8%E8%AE%B0/id1757094203?uo=4",
+      "genres": [
+        "休闲",
+        "播客"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 45,
+      "releaseDate": "2026-06-25T12:58:00Z",
+      "country": "CHN",
+      "primaryGenreName": "休闲"
+    },
+    {
+      "collectionId": 1780740771,
+      "trackId": 1780740771,
+      "collectionName": "大象-西游记",
+      "artistName": "新鲜的人类",
+      "feedUrl": "https://feed.xyzfm.space/9dxnjrqpecjm",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%A7%E8%B1%A1-%E8%A5%BF%E6%B8%B8%E8%AE%B0/id1780740771?uo=4",
+      "genres": [
+        "休闲",
+        "播客"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 38,
+      "releaseDate": "2025-08-02T07:14:00Z",
+      "country": "CHN",
+      "primaryGenreName": "休闲"
+    },
+    {
+      "collectionId": 1123400595,
+      "trackId": 1123400595,
+      "collectionName": "《西游记》原著讲读（上）",
+      "artistName": "多爸讲书",
+      "feedUrl": "http://www.ximalaya.com/album/3481833.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E5%8E%9F%E8%91%97%E8%AE%B2%E8%AF%BB-%E4%B8%8A/id1123400595?uo=4",
+      "genres": [
+        "教育",
+        "播客",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 101,
+      "releaseDate": "2016-05-16T14:34:00Z",
+      "country": "CHN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1140071455,
+      "trackId": 1140071455,
+      "collectionName": "长篇传奇小说《吴承恩与西游记》镇平侠",
+      "artistName": "镇平书屋",
+      "feedUrl": "http://www.ximalaya.com/album/4656829.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%95%BF%E7%AF%87%E4%BC%A0%E5%A5%87%E5%B0%8F%E8%AF%B4-%E5%90%B4%E6%89%BF%E6%81%A9%E4%B8%8E%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E9%95%87%E5%B9%B3%E4%BE%A0/id1140071455?uo=4",
+      "genres": [
+        "艺术",
+        "播客"
+      ],
+      "genreIds": [
+        "1301",
+        "26"
+      ],
+      "trackCount": 177,
+      "releaseDate": "2017-09-04T11:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "艺术"
+    }
+  ]
+}

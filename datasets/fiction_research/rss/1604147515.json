@@ -1,0 +1,140 @@
+{
+  "show_id": "1604147515",
+  "feed_url": "http://www.ximalaya.com/album/55978675.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/55978675.xml",
+    "final_url": "http://www.ximalaya.com/album/55978675.xml",
+    "fetched_at": "2026-10-25T14:43:40.755367+00:00",
+    "status": 200,
+    "sha256": "1958011129d56ee9b3e55a54e9f3bcfb3e91b4be0e375006def96a4d34208434"
+  },
+  "status": "ok",
+  "title": {
+    "text": "烟尘满目 | 古言精品多人有声剧 | 免费有声小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "烟尘满目 - 古代言情精品多人有声剧，带你走进那场江湖纷乱，宫廷斗争，领略唯美爱情故事。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 77,
+  "episodes": [
+    {
+      "id": "231a7e0d75745b394a65eaa95cf37ef6f3aac581601b781f6d1f3e74a404f14f",
+      "guid": "xmly_track_488052975",
+      "title": {
+        "text": "烟尘满目片花",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 31 Dec 2021 10:41:38 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "66f7d4b1ea57ca906f3943d4a805552e7b185dd884912c44ada5e68e5f0ee7bd",
+      "guid": "xmly_track_488053288",
+      "title": {
+        "text": "烟尘满目第11章 空余叹息",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 31 Dec 2021 10:43:18 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "1d7b03f19c7f458e07131968af4d8f3ccc558c2419bacdeb40c973293b2503ee",
+      "guid": "xmly_track_488094361",
+      "title": {
+        "text": "烟尘满目第22章 奈何缘浅",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 31 Dec 2021 16:00:02 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "eee5c96f305c65aa2fcdeaff98e76acaf3440a09c885c5c70624ccc6739e3a3a",
+      "guid": "xmly_track_488316697",
+      "title": {
+        "text": "烟尘满目第33章 她貌倾城",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Jan 2022 16:00:00 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "9b827a028ecfc9f8c3172d8b8952be906957b2c80d50c54cf8dda7374d8bcdb9",
+      "guid": "xmly_track_490172581",
+      "title": {
+        "text": "烟尘满目第43章 为今之计",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 11 Jan 2022 03:08:00 GMT",
+      "feed_index": 43
+    },
+    {
+      "id": "2da708ecbcd82734da51b0e54c72b9f23bfb3079f48bacbb3af2aab5d33ff584",
+      "guid": "xmly_track_490174337",
+      "title": {
+        "text": "烟尘满目第54章 冰释前嫌",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 16 Jan 2022 03:08:02 GMT",
+      "feed_index": 54
+    },
+    {
+      "id": "14695f19d7108810002ebb6a20cc224047959c748d87474efd850ab50b4e8c2a",
+      "guid": "xmly_track_490492474",
+      "title": {
+        "text": "烟尘满目第65章 真相如此",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 22 Jan 2022 02:08:00 GMT",
+      "feed_index": 65
+    },
+    {
+      "id": "001e03702b65b163eb81c6bf5f7806421e924d6a8a28dab24117620d4b17be0b",
+      "guid": "xmly_track_490493767",
+      "title": {
+        "text": "烟尘满目第76章（大结局） 尘埃落定",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 Jan 2022 00:08:18 GMT",
+      "feed_index": 76
+    }
+  ]
+}

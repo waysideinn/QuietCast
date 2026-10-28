@@ -1,0 +1,140 @@
+{
+  "show_id": "1483565181",
+  "feed_url": "http://www.ximalaya.com/album/25527732.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/25527732.xml",
+    "final_url": "http://www.ximalaya.com/album/25527732.xml",
+    "fetched_at": "2026-10-25T14:49:24.128569+00:00",
+    "status": 200,
+    "sha256": "9346e0a31ca161d36db7919318179ed24a71406e05c3176891a2eed1e3ca086a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "追沙 | 古风武侠力作",
+    "truncated": false
+  },
+  "description": {
+    "text": "听一部传统武侠小说，生而为人，且修身，且渡人，且如水，身居恶渊而心存善念。听一部不传统的武侠小说，看安史之乱的大唐，人在滚滚历史洪流中被命运左右，被时代裹挟，听我慢慢道来，这一段抉择是非善恶的故事。 作者：白簌兮 演播：良音有声 吐槽追更：180961378 每日一更",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 100,
+  "episodes": [
+    {
+      "id": "91ffaec50fab1749ae7a5c489d4d56be45d0f8e0a2b26aac79ecd08084a16bb7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group61/M08/3B/C2/wKgMZl1AA8GTIixOAA_MUVEuMrk028-aacv2-48K.m4a",
+      "title": {
+        "text": "追沙 第0回 楔子（求订阅 求关注）",
+        "truncated": false
+      },
+      "description": {
+        "text": "听一部传统武侠小说，生而为人，且修身，且渡人，且如水，身居恶渊而心存善念。听一部不传统的武侠小说，看安史之乱的大唐，人在滚滚历史洪流中被命运左右，被时代裹挟，听我慢慢道来，这一段抉择是非善恶的故事。 作者：白簌兮 演播：良音有声 吐槽追更：180961378",
+        "truncated": false
+      },
+      "published_at": "Tue, 30 Jul 2019 08:46:48 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f3e098534b694122c9bb900e10b7bb1cc88c7c3204a4ba14f3dff2f9612435b7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group61/M05/42/DD/wKgMcF1BE0WgtrjoAM1ACnJcrlo065.mp3",
+      "title": {
+        "text": "追沙 第14回 抉择",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 03 Aug 2019 12:00:12 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "782929fcdbae44f65d9db36b7a6f0551a0512393f27c32cc19a8e83f581c5167",
+      "guid": "https://aod.cos.tx.xmcdn.com/group65/M0B/4D/62/wKgMal1Q4QOTiX42AKHEARB0RnU597.mp3",
+      "title": {
+        "text": "追沙 第28回 请君入瓮",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Aug 2019 04:10:00 GMT",
+      "feed_index": 28
+    },
+    {
+      "id": "6642e0975bd8398f2621a1aa9c2e3577dd87873d9ec14ada9382a0a635bbfaa8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group65/M00/9D/A1/wKgMdF1pCGeBqhhTAM0gJjMvGYo856.mp3",
+      "title": {
+        "text": "追沙 第42回 临危",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 31 Aug 2019 11:28:00 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "ca4f98cfd1b60938255458d7e8a34566317c4bcf3ae4cd7b267b225e9b597af9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group65/M05/85/17/wKgMal15ixKR-nOIAK8G5Yofsk0499.mp3",
+      "title": {
+        "text": "追沙 第57回 考验",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 Sep 2019 11:02:00 GMT",
+      "feed_index": 57
+    },
+    {
+      "id": "fc0c86ad59a3d2ed8e868a42840a05e6d2a0d326ade91eda7a80ae45f37c8d2b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group65/M08/C9/20/wKgMal2PRYbx6UnYAKu7QzBg-eI195.mp3",
+      "title": {
+        "text": "追沙 第71回 赴约",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 28 Sep 2019 11:36:03 GMT",
+      "feed_index": 71
+    },
+    {
+      "id": "cd9d2e69ec1fbbb2d08566d6d28cc41a00d23b20ffd4e200536b9646707fe769",
+      "guid": "https://aod.cos.tx.xmcdn.com/group65/M05/99/4D/wKgMdF2lZFzz90IAAEgHYBO-LkM910.m4a",
+      "title": {
+        "text": "追沙 第85回 血洗",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Oct 2019 04:00:04 GMT",
+      "feed_index": 85
+    },
+    {
+      "id": "db1f7f9891d9d8789d7a0535594e204fe091543764cbe73e282d08ab9521802b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group69/M05/8D/91/wKgMb12wNoignbnQAObxIwwDUDo960.mp3",
+      "title": {
+        "text": "追沙 第99回 长安行(上部完)",
+        "truncated": false
+      },
+      "description": {
+        "text": "《追沙》下部，预期 12月左右开更。",
+        "truncated": false
+      },
+      "published_at": "Wed, 30 Oct 2019 11:16:00 GMT",
+      "feed_index": 99
+    }
+  ]
+}

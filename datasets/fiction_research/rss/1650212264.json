@@ -1,0 +1,140 @@
+{
+  "show_id": "1650212264",
+  "feed_url": "https://www.ximalaya.com/album/71761540.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/71761540.xml",
+    "final_url": "https://www.ximalaya.com/album/71761540.xml",
+    "fetched_at": "2026-10-25T14:44:52.592650+00:00",
+    "status": 200,
+    "sha256": "f576a9927d2f1c2e22b779bb47513635ebac3ac12873fe902ba93a1f9e27e954"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【免费】狂神丨战神丨热血玄幻丨逆袭爽文",
+    "truncated": false
+  },
+  "description": {
+    "text": "免费多人精品有声剧，订阅才能看到自动更新哦~！ 平平无奇中年汉一朝穿越成骚浪贱小年轻，战气纵横的异世大陆修灵打怪，阴谋与力量的交织，内力与战气的对抗，不屈于命运，一步步踏上巅峰，成为至尊强者。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "serial",
+    "explicit": "false"
+  },
+  "feed_item_count": 95,
+  "episodes": [
+    {
+      "id": "9480c2c3ce53d4006177b15905314fa55c5543b7892c40ec18eb6ddb7a2545cb",
+      "guid": "xmly_track_577664957",
+      "title": {
+        "text": "狂神-01-平平无奇中年汉穿越了！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Oct 2022 08:31:51 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b32dd86f6d6140b9b70046e23ed32f26e6932118c7e34df67aae99b712aea2bb",
+      "guid": "xmly_track_579061790",
+      "title": {
+        "text": "狂神-014-猜不出1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 22 Oct 2022 09:00:06 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "89bf561a2dd22bc63fff2abcb0caeca3f9624004dbb5f78839243d24932a7f7d",
+      "guid": "xmly_track_581230017",
+      "title": {
+        "text": "狂神-028-有惊无险",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 29 Oct 2022 09:00:05 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "5a282bed9bf818f2eb04a06c53d30d458a3d74eeeb8b9a9d78fc431bb41fe54f",
+      "guid": "xmly_track_583634338",
+      "title": {
+        "text": "狂神-041-阴谋",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Nov 2022 09:00:05 GMT",
+      "feed_index": 40
+    },
+    {
+      "id": "ef8ee2a144afdfd1673dd51b5e0fba16eb1349b60169f01ddd171f3dd1f147a5",
+      "guid": "xmly_track_586489170",
+      "title": {
+        "text": "狂神-055-分头行动",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 11 Nov 2022 09:00:05 GMT",
+      "feed_index": 54
+    },
+    {
+      "id": "208b0ac9cae828409eb6cea26fbfa4c94c27c9bf7e1b25350d14fd6eedb8661e",
+      "guid": "xmly_track_588756554",
+      "title": {
+        "text": "狂神-068-神来杀神 1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 18 Nov 2022 09:00:05 GMT",
+      "feed_index": 67
+    },
+    {
+      "id": "b4c9eb14a2bc12cb7aab3c96ba9a692f5b25c4163bc2f73932315e9bbaddb494",
+      "guid": "xmly_track_590958478",
+      "title": {
+        "text": "狂神-082-联合行动",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Nov 2022 09:00:04 GMT",
+      "feed_index": 81
+    },
+    {
+      "id": "b3ffb6d71767f813e67f9fe030589a81ed40a794d6633ffb9787f6a589368ec4",
+      "guid": "xmly_track_593010270",
+      "title": {
+        "text": "狂神-095-大结局（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 01 Dec 2022 09:00:05 GMT",
+      "feed_index": 94
+    }
+  ]
+}

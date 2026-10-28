@@ -1,0 +1,98 @@
+{
+  "show_id": "1462850845",
+  "feed_url": "http://www.ximalaya.com/album/18577120.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/18577120.xml",
+    "final_url": "http://www.ximalaya.com/album/18577120.xml",
+    "fetched_at": "2026-10-25T14:41:49.736762+00:00",
+    "status": 200,
+    "sha256": "e571ba6aa48ec52f8aa77cef6e6c8a0b3aaa60848f4e7996cb2cee0e12ee5845"
+  },
+  "status": "ok",
+  "title": {
+    "text": "如何演播官场商战小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "探索更多人生可能，发现更多精彩内容，点击进入 兴趣兼职频道 第一手新鲜主播资讯、干货攻略来袭， 大咖主播零距离交流互动、经验分享， 不定期的喜播周边、流量曝光等福利发放， 快在微信搜索【喜播教育】关注官方公众号吧~ 痴迷于官场小说，想要在有声的播讲中与听众一起宦海浮沉？ 官场商战的小说类型繁多，到底该如何把握不同类型的官场小说的播讲技巧呢？ 小说里的人物众多，但是自己只有一张嘴，怎样在多角色中切换自如呢？ 同样是官场小说，为什么别人的就能有超高点击率，如何选书播讲并且进行推广？ 这些关于官场小说的播讲知识就由著名的有声书播讲人呵壁问天结合自身实战经验来一一为你解答。从选书开始一步一步带你升级蜕变，打破官场小说的演播壁垒。 课程亮点 l 定向技能：着眼于官场小说这一细分赛道，技能完全适配于官场文学 l 实战经验：呵壁问天结合自身实例，全方位分享自己官场小说的录制心得 l 录制优势：从选书到录制再到推广，全程让你优于他人 你可以获得 1、 不同类型的官场商战小说的播讲技巧 2、 深入的官场小说解读与选书拆书方法 3、 包装和推广自己作品的路径与技巧指导 适合谁听 l 有声书主播 l 官场商战小说爱好者",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 5,
+  "episodes": [
+    {
+      "id": "0de60349204405d4ab12dbee891271e6da702551520b3cfdaf54da8b7b2a852d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3fca-audiofreehighqps/65/CA/CKwRIDoFX81DAE7jnQD1X8Ny.m4a",
+      "title": {
+        "text": "01 读小说先要懂小说——我眼中的官场商战小说",
+        "truncated": false
+      },
+      "description": {
+        "text": "课程大纲： 1、为什么要研究小说文学本身？ 2、官场文学价值解析 3、认识官场商战演播特点更好的拆书读书",
+        "truncated": false
+      },
+      "published_at": "Fri, 28 Sep 2018 07:15:40 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "62bc1904fd72f40a872a01d38d946efcf206cbe4b84f1a316af10bb5cb7cc60f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/123b-audiofreehighqps/BF/D7/CKwRIRwFX9bvAESO9wD1Yhu8.m4a",
+      "title": {
+        "text": "02 别以为一招鲜吃遍天——不同的类型的官场商战小说的演播技巧 上篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "课程大纲： 1、官场商战小说的细分类目，如何找准这书的调调？ 2、同样是官场商战小说，也会有不同的演播风格",
+        "truncated": false
+      },
+      "published_at": "Fri, 28 Sep 2018 07:19:33 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "457a547f70226d248431b25194c2ba58b4073644ccf61ffae75bef04ff854daf",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/803a-audiofreehighqps/29/00/CKwRIJEFX9cHAESO9wD1YiHm.m4a",
+      "title": {
+        "text": "03 别以为一招鲜吃遍天——不同的类型的官场商战小说的演播技巧 下篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "内容大纲： 1、同样是官场商战小说，也会有不同的演播风格 2、反复演播，反复总结，确定最适合自己的演播风格",
+        "truncated": false
+      },
+      "published_at": "Sat, 29 Sep 2018 02:46:02 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "a36500244225f5ade296908efb27c358403b3198a11dbe8a205580e065189e26",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/740f-audiofreehighqps/D7/5A/CKwRIJIFX84UAESO9wD1X_M0.m4a",
+      "title": {
+        "text": "04 官场百态，人声百变——如何演活官场商战小说中的不同角色？",
+        "truncated": false
+      },
+      "description": {
+        "text": "内容大纲： 1、演播而非播讲，完全放松，放开自己，才能把作品演活 2、不同角色：旁白、人物对白 3、百变角色到底要不要伪声？",
+        "truncated": false
+      },
+      "published_at": "Sat, 29 Sep 2018 02:47:56 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "f48f740004e5321c308b0c59de43357a0c6f905e82131f7bbbe2669572d39dfe",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9509-audiofreehighqps/0B/40/CKwRIasFX845AESJGQD1X_vh.m4a",
+      "title": {
+        "text": "05 我的有声书作品《官神》为何能取得破亿的收听量？",
+        "truncated": false
+      },
+      "description": {
+        "text": "内容大纲： 1、选书的优势 2、播讲的优势 3、推广的优势",
+        "truncated": false
+      },
+      "published_at": "Sat, 29 Sep 2018 02:51:39 GMT",
+      "feed_index": 4
+    }
+  ]
+}

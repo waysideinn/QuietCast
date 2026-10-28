@@ -1,0 +1,223 @@
+{
+  "group": "fiction",
+  "term": "盗墓",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%9B%97%E5%A2%93&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%9B%97%E5%A2%93&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:42:23.958600+00:00",
+    "status": 200,
+    "sha256": "60541ecde5a7ad66323cb45e6066a24d72a4ac9b130fcb13bec24b3a4ab5b746"
+  },
+  "result_count": 9,
+  "records": [
+    {
+      "collectionId": 1683245066,
+      "trackId": 1683245066,
+      "collectionName": "【我在西北下墓那些年】盗墓|倒斗|升棺|粽子|免费",
+      "artistName": "Hi唐念念_悦念有声",
+      "feedUrl": "https://www.ximalaya.com/album/75507816.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E5%9C%A8%E8%A5%BF%E5%8C%97%E4%B8%8B%E5%A2%93%E9%82%A3%E4%BA%9B%E5%B9%B4-%E7%9B%97%E5%A2%93-%E5%80%92%E6%96%97-%E5%8D%87%E6%A3%BA-%E7%B2%BD%E5%AD%90-%E5%85%8D%E8%B4%B9/id1683245066?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 206,
+      "releaseDate": "2023-06-20T13:01:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1539618428,
+      "trackId": 1539618428,
+      "collectionName": "盗墓神兵|这是一本盗墓贼的手记",
+      "artistName": "老刘故事会",
+      "feedUrl": "http://www.ximalaya.com/album/43233370.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%9B%97%E5%A2%93%E7%A5%9E%E5%85%B5-%E8%BF%99%E6%98%AF%E4%B8%80%E6%9C%AC%E7%9B%97%E5%A2%93%E8%B4%BC%E7%9A%84%E6%89%8B%E8%AE%B0/id1539618428?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 272,
+      "releaseDate": "2021-03-27T07:13:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1751145484,
+      "trackId": 1751145484,
+      "collectionName": "最后一个护陵人悬疑灵异 盗墓 恐怖惊悚",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/78469872.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E6%8A%A4%E9%99%B5%E4%BA%BA%E6%82%AC%E7%96%91%E7%81%B5%E5%BC%82-%E7%9B%97%E5%A2%93-%E6%81%90%E6%80%96%E6%83%8A%E6%82%9A/id1751145484?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 526,
+      "releaseDate": "2023-10-06T11:32:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1719531613,
+      "trackId": 1719531613,
+      "collectionName": "盗墓诡话 | 倒斗 | 下地 | 打粽子",
+      "artistName": "杰子不精_宫享未来",
+      "feedUrl": "https://www.ximalaya.com/album/77586622.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%9B%97%E5%A2%93%E8%AF%A1%E8%AF%9D-%E5%80%92%E6%96%97-%E4%B8%8B%E5%9C%B0-%E6%89%93%E7%B2%BD%E5%AD%90/id1719531613?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "休闲",
+        "游戏"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1502",
+        "1507"
+      ],
+      "trackCount": 542,
+      "releaseDate": "2024-06-10T10:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1633857260,
+      "trackId": 1633857260,
+      "collectionName": "超谈&免费鬼故事 | 民间 | 灵异 | 鬼狐 | 盗墓",
+      "artistName": "超谈",
+      "feedUrl": "https://www.ximalaya.com/album/69268478.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%B6%85%E8%B0%88-%E5%85%8D%E8%B4%B9%E9%AC%BC%E6%95%85%E4%BA%8B-%E6%B0%91%E9%97%B4-%E7%81%B5%E5%BC%82-%E9%AC%BC%E7%8B%90-%E7%9B%97%E5%A2%93/id1633857260?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 22,
+      "releaseDate": "2022-11-25T13:42:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1820973300,
+      "trackId": 1820973300,
+      "collectionName": "盗墓:龙魂|盗墓寻迷|捉鬼降妖|纯爱多人有声剧",
+      "artistName": "桃之夭258",
+      "feedUrl": "https://www.ximalaya.com/album/85063680.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%9B%97%E5%A2%93-%E9%BE%99%E9%AD%82-%E7%9B%97%E5%A2%93%E5%AF%BB%E8%BF%B7-%E6%8D%89%E9%AC%BC%E9%99%8D%E5%A6%96-%E7%BA%AF%E7%88%B1%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1820973300?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 234,
+      "releaseDate": "2025-06-24T04:25:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1615080193,
+      "trackId": 1615080193,
+      "collectionName": "诡异墓书｜悬疑恐怖｜盗墓｜多播精品有声小说",
+      "artistName": "方鸣远播",
+      "feedUrl": "http://www.ximalaya.com/album/57573971.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%AF%A1%E5%BC%82%E5%A2%93%E4%B9%A6-%E6%82%AC%E7%96%91%E6%81%90%E6%80%96-%E7%9B%97%E5%A2%93-%E5%A4%9A%E6%92%AD%E7%B2%BE%E5%93%81%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1615080193?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "科幻小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 175,
+      "releaseDate": "2022-06-01T02:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1611335858,
+      "trackId": 1611335858,
+      "collectionName": "阴阳帛书丨盗墓悬疑&强者回归丨免费有声小说",
+      "artistName": "染红尘_",
+      "feedUrl": "http://www.ximalaya.com/album/52676277.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%98%B4%E9%98%B3%E5%B8%9B%E4%B9%A6%E4%B8%A8%E7%9B%97%E5%A2%93%E6%82%AC%E7%96%91-%E5%BC%BA%E8%80%85%E5%9B%9E%E5%BD%92%E4%B8%A8%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1611335858?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 337,
+      "releaseDate": "2022-07-08T01:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1500216153,
+      "trackId": 1500216153,
+      "collectionName": "锁龙诀（免费）｜盗墓笔记｜惊悚悬疑！",
+      "artistName": "天影海",
+      "feedUrl": "http://www.ximalaya.com/album/32604929.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%94%81%E9%BE%99%E8%AF%80-%E5%85%8D%E8%B4%B9-%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0-%E6%83%8A%E6%82%9A%E6%82%AC%E7%96%91/id1500216153?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 625,
+      "releaseDate": "2022-03-22T02:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    }
+  ]
+}

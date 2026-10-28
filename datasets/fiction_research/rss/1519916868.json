@@ -1,0 +1,69 @@
+{
+  "show_id": "1519916868",
+  "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:842417419/sounds.rss",
+  "source": {
+    "url": "https://feeds.soundcloud.com/users/soundcloud:users:842417419/sounds.rss",
+    "final_url": "https://feeds.soundcloud.com/users/soundcloud:users:842417419/sounds.rss",
+    "fetched_at": "2026-10-25T14:52:42.254814+00:00",
+    "status": 200,
+    "sha256": "0e60ba7ceeb3504304cded82e204ee6cb8fe2d2dec2c536db6a4d77fa1fa8ea9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "JOinMI職場與生活不專業心理學",
+    "truncated": false
+  },
+  "description": {
+    "text": "How do we work hard & play hard ? Jordan-美膚娜娜創辦人，斜槓業餘山友，以老闆角度的職場分享， Michelle-不能說的外企高管，斜槓業餘舞孃，以小嫩嫩爬到高管的甘苦談， 大家邊聽可以邊喝兩杯刻刻瓜子，我們很不專業，但我們可以是你一起點頭認同的小軍師。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "explicit": "no"
+  },
+  "feed_item_count": 3,
+  "episodes": [
+    {
+      "id": "f179a1fd68f84ca8b340c0761cbe2714f24e5700d50e0facdee5df0df9c00ce0",
+      "guid": "tag:soundcloud,2010:tracks/897595780",
+      "title": {
+        "text": "JoinMi S2 #5 職場倫理，如何面對所有主管？feat.吉峰滷肉飯",
+        "truncated": false
+      },
+      "description": {
+        "text": "職場倫理中有許多要面對的問題，這次邀請上下階層最多的公務體系，來為各位講解，面對不同主管提出的任務，優先順序如何掌握？",
+        "truncated": false
+      },
+      "published_at": "Tue, 22 Sep 2020 14:39:22 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "72852bea8df6f95c61e372804d94c8716fae5e150400edf58a74a10348a88e20",
+      "guid": "tag:soundcloud,2010:tracks/893621350",
+      "title": {
+        "text": "JOINMI S2 #4 該創業嗎？ Feat. 佳佳香鍋貼&小潘蛋黃酥",
+        "truncated": false
+      },
+      "description": {
+        "text": "JOINMI S2 #4 該創業嗎？ Feat. 佳佳香鍋貼&小潘蛋黃酥 by Jordan & Michelle",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Sep 2020 13:43:46 +0000",
+      "feed_index": 1
+    },
+    {
+      "id": "fe278ce349d388cbe8fde13b086a2689dfd28d66b645b1dbbb26f05519038f2d",
+      "guid": "tag:soundcloud,2010:tracks/889804918",
+      "title": {
+        "text": "JoinMi S2 #3 吃播，該換工作了嗎？feat.南京三民小肥便當",
+        "truncated": false
+      },
+      "description": {
+        "text": "JoinMi S2 #3 吃播，該換工作了嗎？feat.南京三民小肥便當 by Jordan & Michelle",
+        "truncated": false
+      },
+      "published_at": "Tue, 08 Sep 2020 14:27:06 +0000",
+      "feed_index": 2
+    }
+  ]
+}

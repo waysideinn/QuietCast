@@ -1,0 +1,140 @@
+{
+  "show_id": "1657851921",
+  "feed_url": "https://www.ximalaya.com/album/72547089.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/72547089.xml",
+    "final_url": "https://www.ximalaya.com/album/72547089.xml",
+    "fetched_at": "2026-10-25T14:44:59.216337+00:00",
+    "status": 200,
+    "sha256": "2e3b545371489b3a0dbaddbca2debf537dac3fe62fe0a8f64b2b9b207b4ec20b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "我不是喵神|穿越搞笑|精品双播|免费",
+    "truncated": false
+  },
+  "description": {
+    "text": "男主意外穿越成为一只猫，利用现代科技在修仙异世界里混的风声水起，登上喵生巅峰！从此贪财好色，人猫同乐……",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "serial",
+    "explicit": "false"
+  },
+  "feed_item_count": 357,
+  "episodes": [
+    {
+      "id": "293c1896adffecf030b1127c40a5c5cadb1293911d5f6e374998988794941d84",
+      "guid": "xmly_track_588387784",
+      "title": {
+        "text": "《我不是喵神》第001集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 17 Nov 2022 05:10:31 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "72c5433bdbac404b4d701b4d4b8958da318042acb74ded362460dee9b1d08102",
+      "guid": "xmly_track_588427499",
+      "title": {
+        "text": "《我不是喵神》第052章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Nov 2022 10:22:02 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "0f40edf9a7588ad8885ad85c4386179c834e5a63e2b8853c91df3d1df160326c",
+      "guid": "xmly_track_588429590",
+      "title": {
+        "text": "《我不是喵神》第104章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 06 Dec 2022 10:38:04 GMT",
+      "feed_index": 102
+    },
+    {
+      "id": "1a26893d46ffcce0ebde9e01dd7bf1b5a12f03cfd05bab1869cdde09b4629785",
+      "guid": "xmly_track_595947297",
+      "title": {
+        "text": "《我不是喵神》第154章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 24 Dec 2022 02:10:04 GMT",
+      "feed_index": 153
+    },
+    {
+      "id": "1eaf7c37921395c13fd45e78568ddb5ee8c632b2cefdd4423660faf48f313b06",
+      "guid": "xmly_track_599590759",
+      "title": {
+        "text": "《我不是喵神》第198章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Dec 2022 07:32:12 GMT",
+      "feed_index": 203
+    },
+    {
+      "id": "52394accde170cb304cd399c2e417500ea114890b6a073e7da14ca4a5b9367bd",
+      "guid": "xmly_track_599593158",
+      "title": {
+        "text": "《我不是喵神》第247章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Dec 2022 23:37:26 GMT",
+      "feed_index": 254
+    },
+    {
+      "id": "a2f863d18ede9786081b1e74bbc0efa204d5312b99d413b3c75055c877726a5a",
+      "guid": "xmly_track_599595119",
+      "title": {
+        "text": "《我不是喵神》第298章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 27 Dec 2022 23:02:28 GMT",
+      "feed_index": 305
+    },
+    {
+      "id": "ceeb04a3a32f5847f8f8494d2a623d69b3295a1c4442fa89965176c64821d72a",
+      "guid": "xmly_track_599606030",
+      "title": {
+        "text": "《我不是喵神》第350章（完结）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 28 Dec 2022 23:31:32 GMT",
+      "feed_index": 356
+    }
+  ]
+}

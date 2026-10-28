@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/56136924.xml",
+    "final_url": "https://www.ximalaya.com/album/56136924.xml",
+    "fetched_at": "2026-10-26T07:58:13.560182+00:00",
+    "status": 200,
+    "sha256": "95229acfd76e7659d5677a56c7710e0419ec19519a331fc269a57c2b00bd0074"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "科学巨著《时间简史》（霍金）",
+      "truncated": false
+    },
+    "description": {
+      "text": "《时间简史》是英国物理学家斯蒂芬·威廉·霍金创作的科普著作，首次出版于1988年。这部书的重要性和价值自不言而喻。 全书共十二章，讲述了关于宇宙本性的最前沿知识，包括：我们的宇宙图像、空间和时间、膨胀的宇宙、不确定性原理、黑洞、宇宙的起源和命运等内容，深入浅出地介绍了遥远星系、黑洞、粒子、反物质等知识，并对宇宙的起源、空间和时间以及相对论等古老命题进行了阐述。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "给小白白的有声书@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "给小白白的有声书"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "给小白白的有声书"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Science"
+      ],
+      [
+        "Science",
+        "Natural Sciences"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/56136924",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 23,
+    "episodes": [
+      {
+        "title": {
+          "text": "时间简史·序",
+          "truncated": false
+        },
+        "description": {
+          "text": "《时间简史》是英国物理学家 斯蒂芬·威廉·霍金 创作的科普著作，首次出版于1988年。 全书共十二章，讲述了关于宇宙本性的最前沿知识，包括：我们的宇宙图像、 空间 和时间、膨胀的宇宙、不确定性原理、黑洞、宇宙的起源和命运等内容，深入浅出地介绍了遥远星系、黑洞、粒子、反物质等知识，并对宇宙的起源、空间和时间以及相对论等古老命题进行了阐述。",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_490150780"
+      },
+      {
+        "title": {
+          "text": "时间简史第二章·空间与时间（上）",
+          "truncated": false
+        },
+        "description": {
+          "text": "牛顿的运动定律到底是正确还是错误的？为什么爱因斯坦推翻了伽利略和牛顿关于空间和时间的体系？如果它真的是错误的，为什么我们在学校里依然学习的还是牛顿力学？难道我们从小学的这些就从根上错了吗？",
+          "truncated": false
+        },
+        "feed_index": 3,
+        "guid": "xmly_track_491046542"
+      },
+      {
+        "title": {
+          "text": "时间简史第三章·膨胀的宇宙（下）",
+          "truncated": false
+        },
+        "description": {
+          "text": "在不到半个世纪的时间里，人们几千年来形成的关于宇宙的观点被改变了。哈勃关于宇宙膨胀的发现，并意识到我们的行星在茫茫的宇宙中的微不足道，只不过是起点而已。随着实验和理论证据的积累，人们越来越清楚地认识到，宇宙在时间上必须有个开端。",
+          "truncated": false
+        },
+        "feed_index": 6,
+        "guid": "xmly_track_492006983"
+      },
+      {
+        "title": {
+          "text": "时间简史第五章·基本粒子和自然的力（下）",
+          "truncated": false
+        },
+        "description": {
+          "text": "当宇宙膨胀时，相对于将电子变成反夸克，这些力更容易将反电子变成夸克。然后，当宇宙膨胀并冷却下来，反夸克就和夸克湮灭，但由于已有的夸克比反夸克多，少量过剩的夸克就留下来。正是它们构成我们今天看到的物质，由这些物质构成了我们自己。",
+          "truncated": false
+        },
+        "feed_index": 9,
+        "guid": "xmly_track_492965923"
+      },
+      {
+        "title": {
+          "text": "时间简史第七章·黑洞不是这么黑的（下）",
+          "truncated": false
+        },
+        "description": {
+          "text": "如果一个航天员落到黑洞中去，黑洞的质量将增加，但是最终这额外质量的等效能量会以辐射的形式回到宇宙中去。这样，此航天员在某种意义上被“再循环”了。然而，这是一种非常可怜的不朽，当他在黑洞里被撕开时，他的任何个人的时间的概念几乎肯定都达到了终点，甚至最终从黑洞辐射出来的粒子的种类一般都和构成这航天员的不同：这航天员所遗留下来的仅有特征是他的质量或能量。",
+          "truncated": false
+        },
+        "feed_index": 13,
+        "guid": "xmly_track_493799429"
+      },
+      {
+        "title": {
+          "text": "时间简史第八章·宇宙的起源和命运（3）",
+          "truncated": false
+        },
+        "description": {
+          "text": "定律并没有告诉我们，字宙的太初应该像什么样子——它依然要靠上帝去卷紧发条，并选择如何去启动它。只要宇宙有一个开端，我们就可以设想存在一个造物主。但是，如果宇宙确实是完全自足的，没有边界或边缘，它就既没有开端也没有终结——它就是存在。那么，还会有造物主存身之处吗？",
+          "truncated": false
+        },
+        "feed_index": 16,
+        "guid": "xmly_track_494775963"
+      },
+      {
+        "title": {
+          "text": "时间简史第十章·虫洞和时空旅行（下）",
+          "truncated": false
+        },
+        "description": {
+          "text": "量子理论在宏观尺度上允许人们可以利用的时间旅行吗？初看起来应该是可以的。费因曼历史求和的设想是指对所有的历史进行的。这样，它应包括被卷曲成允许旅行到过去的时空。那么，为什么我们并没有受到历史的骚扰？例如，假定有人回到过去，并把原子弹秘密提供给纳粹？",
+          "truncated": false
+        },
+        "feed_index": 19,
+        "guid": "xmly_track_495681368"
+      },
+      {
+        "title": {
+          "text": "时间简史·结论",
+          "truncated": false
+        },
+        "description": {
+          "text": "迄今，大部分科学家太忙于发展描述宇宙为何物的理论，以至于没工夫去过问为什么的问题。另一方面，以寻根究底为己任的哲学家不能跟得上科学理论的进步。然而，如果我们确实发现了一套完整的理论，它应该在一般的原理上及时让所有人（而不仅仅是少数科学家）所理解。那时，我们所有人，包括哲学家、科学家以及普普通通的人，都能参加为何我们和宇宙存在的问题的讨论。如果我们对此找到了答案，则将是人类理智的最终极的胜利。",
+          "truncated": false
+        },
+        "feed_index": 22,
+        "guid": "xmly_track_495782864"
+      }
+    ]
+  }
+}

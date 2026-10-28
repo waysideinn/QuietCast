@@ -1,0 +1,140 @@
+{
+  "show_id": "1537717354",
+  "feed_url": "https://feeds.soundon.fm/podcasts/c5b282a8-c4a5-4d0e-adf3-82587850ea07.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/c5b282a8-c4a5-4d0e-adf3-82587850ea07.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/c5b282a8-c4a5-4d0e-adf3-82587850ea07.xml",
+    "fetched_at": "2026-10-25T14:51:24.068218+00:00",
+    "status": 200,
+    "sha256": "5dc4e1e000772c2438853cd721618a3bc0d06470e2376219b45becac05e48a26"
+  },
+  "status": "ok",
+  "title": {
+    "text": "彩虹旗的世界",
+    "truncated": false
+  },
+  "description": {
+    "text": "彩虹旗的世界",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 310,
+  "episodes": [
+    {
+      "id": "950a4108a1cdeea02575b52d2d98afc634660be9a47b7f8451c5901e6abeb0f1",
+      "guid": "23fd0626-f01a-4044-86ed-c4cebb0779e2",
+      "title": {
+        "text": "彩虹旗的世界-門當「父」不對？",
+        "truncated": false
+      },
+      "description": {
+        "text": "當愛情遇上家長，門當戶對的壓力是否就此上演？本集節目以喜劇電影《門當父不對》為引，帶大家一窺父母在面對孩子伴侶時的心理狀態與隱藏標準，從外貌、職業到家庭背景，每一項都可能成為評斷的關鍵。我們將討論父母擔憂背後的愛與控制，以及親密關係如何在代間期望中找到平衡。",
+        "truncated": false
+      },
+      "published_at": "Mon, 12 Oct 2026 05:35:50 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "022137b8848313ff55522e060761d7973e9050cc7a2cae36119fe3646e8fcde0",
+      "guid": "83e5e809-f135-4015-ae09-0341231815d7",
+      "title": {
+        "text": "彩虹旗的世界-單身這件事",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集以「單身這件事」為題，邀請性教練賽維格一同探討許多人心中的疑問：「為什麼我一直單身？」節目將從心理與關係的角度出發，討論單身的定義、形成原因，以及現代人對親密關係的期待。賽維格也將分享如何在單身狀態中認識自我、培養情感能力，並思考進入關係前的準備。",
+        "truncated": false
+      },
+      "published_at": "Wed, 29 Jul 2026 06:52:22 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "397c0a4fbc8f41c0d577fb03d2713caffc6b6c374f1678ac3d678194c3bbb737",
+      "guid": "df474ebe-cd0a-4e15-914d-7c1b39445c97",
+      "title": {
+        "text": "彩虹旗的世界-出軌的道歉",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集節目以探討情感移動者的道歉行為及其背後的心理動機。主持人透過多個實際案例，剖析出軌者是否會道歉，並延伸討論道歉的誠意及其對修復關係的影響。此外，節目還比較了東西方文化中對道歉的不同期待，以及伴侶在面對道歉時的各種反應。",
+        "truncated": false
+      },
+      "published_at": "Tue, 27 May 2025 03:51:30 GMT",
+      "feed_index": 88
+    },
+    {
+      "id": "4f872ea8d48d751d2c54f5ead7881889ca39e8b4389287401ec01c20fbe21c2f",
+      "guid": "9eb63047-e6bc-4248-8f5b-f5ad908da9a1",
+      "title": {
+        "text": "彩虹旗的世界-教父母如何教青少年談性",
+        "truncated": false
+      },
+      "description": {
+        "text": "主題 : 教父母如何教青少年談性 本集節目，主持人將探討教育性健康的重要性。性健康是一個綜合性的議題，包括關係的健康、生理的健康，以及性的健康。我們將討論如何建立開放、坦誠的溝通氛圍，讓父母能夠與他們的青少年子女討論這些重要的議題。透過正確的教育，我們可以幫助青少年建立健康的性觀念，並提供他們適當的指導。",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 May 2024 23:58:34 GMT",
+      "feed_index": 132
+    },
+    {
+      "id": "af8b30ba4c2745b584e9d1f7ba2f7c73753ab8748781a111efd3a85715144b5b",
+      "guid": "ae2f46e7-3137-43f3-92b6-8c714aafcd82",
+      "title": {
+        "text": "彩虹旗的世界-閃婚",
+        "truncated": false
+      },
+      "description": {
+        "text": "主題 : 閃婚 一對伴侶需要交往多久才會決定結婚呢？ 本集節目要來和各位觀眾聊一聊閃婚這個主題。所謂的閃婚就是指與伴侶在戀愛後不久，或是在認識的很短時間內，就迅速結婚的人。主持人以分享故事的方式，來解釋人們在什麼樣的情況下會選擇閃婚，而他們的對於婚姻的期望又是什麼。",
+        "truncated": false
+      },
+      "published_at": "Wed, 31 May 2023 08:45:17 GMT",
+      "feed_index": 177
+    },
+    {
+      "id": "c91acbb4a29c895cb1a6cfacf26feb9ef62e2ed827320f67f611cecae8911815",
+      "guid": "47d7e0f3-1f17-407a-93ef-9936c84a4692",
+      "title": {
+        "text": "彩虹旗的世界-越南男同志性工作者現況",
+        "truncated": false
+      },
+      "description": {
+        "text": "綜觀全世界，日本是發展性產業最蓬勃的國家，但除了日本，其實有其他國家的性產業也是飛速的在成長。 這次兩位主持人要帶各位聽眾來到越南，了解目前的越南當地男性性工作者的現況，為此特別邀請到曾經訪問過越南男同志性工作者的國越，來跟大家聊聊他做調查過程，以及接受了他的訪問的這些性工作者的背景故事、工作內容、收費等級、性態度、與情感狀態。",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Jul 2022 06:35:09 GMT",
+      "feed_index": 221
+    },
+    {
+      "id": "afb57d312103c5bec633198f2c2de91f8da17bd37711c2414fe4e9a92d7b7046",
+      "guid": "777c810a-867a-42ae-921f-5f596e8031c9",
+      "title": {
+        "text": "彩虹旗的世界-嫉妒與愛",
+        "truncated": false
+      },
+      "description": {
+        "text": "嫉妒與愛 這一期又是跟情感親密關係有關的主題，今天談的主題是嫉妒，其實嫉妒常會出現在我們的生活當中，現在年輕人常說羨慕-嫉妒-恨這三個情緒。林燕卿與李珣主持人今天要跟彩虹旗的世界的聽眾朋友們分享愛情與嫉妒之間的關係。愛情的嫉妒一般來說人就會有嫉妒，但愛情裡面的嫉妒是正向還是負向的影響？ 我們大部分所看到愛情裡面的嫉妒的都是負面的，但如果嫉妒被當成一個引，兩個人勇敢說出害怕和質疑的點，相信與承受並且良好的溝通會讓我們的親密關係更穩定更漂亮。所以嫉妒不完全是不好的，只要能夠控制和解決它也會帶來意外的幫助。",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Sep 2021 01:16:44 GMT",
+      "feed_index": 265
+    },
+    {
+      "id": "02cf2ee2b2f471b26c7971e3bfea272338502e2ae68fa78023c4139224f032e4",
+      "guid": "35832c9d-5d99-43de-905c-0527b28f4709",
+      "title": {
+        "text": "彩虹旗的世界-青少年性教育",
+        "truncated": false
+      },
+      "description": {
+        "text": "主持人:林燕卿 簡介: 聚焦於人類性光譜的多元化，從生理、心理、社會、文化四大層面深入探究性議題的面向，在同志族群之外、我們全面關心主流、非主流、對少數的社會大眾。 主題: 青少年性教育 內容: 本節目暢談美國及台灣的青少年性教育現況，以時事觀點切入本集主題。 性教育必須從小扎根，而不是到了青少年時期，孩子們親自接觸到了才教育，因此青少年性教育是非常重要的一環，家長學校都得有責任去教育小孩在情感、約會，保護自己的一些技巧和知識。",
+        "truncated": false
+      },
+      "published_at": "Wed, 28 Oct 2020 01:24:47 GMT",
+      "feed_index": 309
+    }
+  ]
+}

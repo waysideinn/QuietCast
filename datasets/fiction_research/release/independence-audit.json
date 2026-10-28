@@ -1,0 +1,9 @@
+{
+  "status": "pending",
+  "reviewedBy": null,
+  "reviewedAt": null,
+  "workFamilyLeakageChecked": false,
+  "verifiedAccountLeakageChecked": false,
+  "languageScopeChecked": false,
+  "notes": "Name non-overlap is only a screening heuristic; it is not verified account or work-family independence."
+}

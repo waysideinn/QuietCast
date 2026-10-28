@@ -1,0 +1,112 @@
+{
+  "releaseState": "blocked_evidence_incomplete",
+  "productionRuleFile": null,
+  "productionEligible": false,
+  "formalRuleCounts": {
+    "keywords": 0,
+    "combinations": 0,
+    "publisherBlockAccounts": 0
+  },
+  "candidatePath": "rules/research/fiction-multisource-candidate.json",
+  "candidateStatus": "example",
+  "candidateSHA256": "30dfd5e1b60e41f3723289bd89fda1491147679cff6164be1bd42b7c7c36cb3a",
+  "candidateCounts": {
+    "strongKeywords": 0,
+    "keywords": 19,
+    "combinationKeywords": 14,
+    "regexRules": 1,
+    "exclusions": 12,
+    "classificationRules": 1,
+    "publisherRules": 201
+  },
+  "authoritativeLabelCounts": {
+    "agent_metadata_review": 112,
+    "human": 50
+  },
+  "uniqueHumanLabels": 50,
+  "humanHoldoutLabels": 50,
+  "humanConfirmedPublisherBlockAccounts": 0,
+  "sampling": {
+    "baseCandidates": 2943,
+    "baseRSSSuccess": 861,
+    "baseEpisodeExcerpts": 6416,
+    "note": "Entity enrichment overlaps the baseline; counts are not added together"
+  },
+  "holdout": {
+    "selectedShows": 221,
+    "episodeTasks": 435,
+    "state": "prepared_not_independence_certified"
+  },
+  "blockers": [
+    "Held-out work-family/account/language audit is incomplete; independent test not certified",
+    "No certified human independent-test predictions; keyword/category release validity remains unestablished"
+  ],
+  "notes": [
+    "No production JSON emitted; example status was not renamed to production.",
+    "No account or brand was added to a default blacklist.",
+    "A separate provisional human metadata pilot was scored; account/work-family independence remains uncertified and pilot results are not formal release metrics."
+  ],
+  "provisionalHumanPilot": {
+    "path": "reports/fiction_research/release/human-pilot/results.json",
+    "status": "provisional_human_metadata_pilot_not_certified_independent",
+    "showCount": 50,
+    "independentTestCertified": false,
+    "metrics": {
+      "count": 43,
+      "confusion": {
+        "nonfiction/allow": 34,
+        "fiction/allow": 3,
+        "fiction/block": 5,
+        "nonfiction/block": 1
+      },
+      "fiction_block_recall": {
+        "n": 5,
+        "d": 8,
+        "value": 0.625,
+        "wilson95": [
+          0.30574239460262737,
+          0.8631557141764026
+        ]
+      },
+      "nonfiction_false_block_rate": {
+        "n": 1,
+        "d": 35,
+        "value": 0.02857142857142857,
+        "wilson95": [
+          0.005061491855444203,
+          0.14533087233613673
+        ]
+      },
+      "precision": {
+        "n": 5,
+        "d": 6,
+        "value": 0.8333333333333334,
+        "wilson95": [
+          0.43649717781352987,
+          0.9699466302516935
+        ]
+      },
+      "review_rate": {
+        "n": 0,
+        "d": 43,
+        "value": 0.0,
+        "wilson95": [
+          0,
+          0.08200980322579117
+        ]
+      },
+      "uncertain_blocked": 0,
+      "subtype": {
+        "unspecified": {
+          "n": 5,
+          "d": 8,
+          "value": 0.625,
+          "wilson95": [
+            0.30574239460262737,
+            0.8631557141764026
+          ]
+        }
+      }
+    }
+  }
+}

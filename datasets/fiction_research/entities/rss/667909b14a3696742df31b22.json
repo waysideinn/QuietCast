@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/57219965.xml",
+    "final_url": "https://www.ximalaya.com/album/57219965.xml",
+    "fetched_at": "2026-10-26T07:56:21.384443+00:00",
+    "status": 200,
+    "sha256": "837032b8623a3828e2c1fbb98c1b20444bd1d29feacf0c1b747b85b8985ac67c"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "知味记 有声小说",
+      "truncated": false
+    },
+    "description": {
+      "text": "天上的飞禽，山里的走兽，河中的鱼虾，地里的蔬菜，林间的笋蘑……如何把它们做成一道道美食，吃进自己胃里，是吃货林小竹来到古代后，整日思考的人生重大问题。 你说什么？我的美食，吃刁了你的嘴，抓住了你的胃？ 呸，那是你的事，跟本姑娘何干？就算你是好男人也别就这样赖上我呀！",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "带给听书"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "带给听书"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Drama"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/57219965",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 470,
+    "episodes": [
+      {
+        "title": {
+          "text": "《知味记》有声小说 第 001 集 深山里",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_503810070"
+      },
+      {
+        "title": {
+          "text": "《知味记》有声小说 第 067 集 佛跳墙",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 67,
+        "guid": "xmly_track_503825391"
+      },
+      {
+        "title": {
+          "text": "《知味记》有声小说 第 134 集 颠勺",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 134,
+        "guid": "xmly_track_503849223"
+      },
+      {
+        "title": {
+          "text": "《知味记》有声小说 第 201 集 故人相见2",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 201,
+        "guid": "xmly_track_503860690"
+      },
+      {
+        "title": {
+          "text": "《知味记》有声小说 第 268 集 相认",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 268,
+        "guid": "xmly_track_503877227"
+      },
+      {
+        "title": {
+          "text": "《知味记》有声小说 第 335 集 蛇羹",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 335,
+        "guid": "xmly_track_503894775"
+      },
+      {
+        "title": {
+          "text": "《知味记》有声小说 第 402 集 谈判",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 402,
+        "guid": "xmly_track_503900013"
+      },
+      {
+        "title": {
+          "text": "《知味记》有声小说 第 469 集 最美妙的滋味",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 469,
+        "guid": "xmly_track_503905209"
+      }
+    ]
+  }
+}

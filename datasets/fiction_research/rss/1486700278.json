@@ -1,0 +1,140 @@
+{
+  "show_id": "1486700278",
+  "feed_url": "https://feeds.soundon.fm/podcasts/c92cb66a-14fc-412f-84aa-08125add5ca9.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/c92cb66a-14fc-412f-84aa-08125add5ca9.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/c92cb66a-14fc-412f-84aa-08125add5ca9.xml",
+    "fetched_at": "2026-10-25T14:50:57.202433+00:00",
+    "status": 200,
+    "sha256": "9b45304e5afd5d23d58ae0eac2ce192793cf2bc523c776012fbfcda953573f33"
+  },
+  "status": "ok",
+  "title": {
+    "text": "IEO 看什麼？國際財經、產業、科技觀察",
+    "truncated": false
+  },
+  "description": {
+    "text": "IEObserve 國際經濟觀察版主，閒聊國際財經、科技、政治、影視娛樂、網路產業觀察。 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 72,
+  "episodes": [
+    {
+      "id": "8565533dd186654c56e2b7b7d76d070973d25a00e223fd888e9208fc93f8021d",
+      "guid": "a0ba6db8-103f-4458-96ab-cd8af5aa9f73",
+      "title": {
+        "text": "EP.72 AI 進化最強駭客，資安公司末日降臨或世紀機遇？",
+        "truncated": false
+      },
+      "description": {
+        "text": "Anthropic 最新模型 Claude Mythos Preview 能自主挖出藏了 27 年的零日漏洞，還能串聯攻擊鏈一路奪取整台機器的控制權。強到連 Anthropic 自己都不敢公開發布。AI 都這麼會攻了，資安公司是不是要被淘汰了？ 這集我們從三個現場帶你看真相：Anthropic 砸一億美金成立的 Project Glasswing 防禦聯盟、CrowdStrike 創辦人在 RSA 2026 揭露的驚悚案例，以及 Palo Alto Networks 發布的下一代 Agent 閘道器架構。結論可能跟你想的完全相反 ---- 115 年使用牌照稅開徵，4 月 1 日到 4 月 30 日，繳款書可能已經躺在你家信箱了。 【哪些車要繳？】 小客車、大客車、貨車以及 151cc 以上機車，全部都在課徵範圍內。 貼心提醒：電動車免徵優惠則已延長至119 年年底。 【多元繳納管道 任你選】 最快的方式：直接打開行動支付或電子支付 APP，掃繳款書上的 QR-Code，幾秒完成，完全不用出門。也可以去金融機構、便利商店現場繳，或透過 ATM、信用卡、金融卡、活期(儲蓄)存款帳戶繳納，管道多到沒有藉口拖。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Apr 2026 06:05:16 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "4a9f25fa6951e518ad7ba57ed25a79451629364226ce98d445a9e86ed8bc57bd",
+      "guid": "b4ea96bb-3370-4884-ac95-9ff11c6393fc",
+      "title": {
+        "text": "EP.62 Airbnb 戰略轉型，想要當服務業的 Amazon？",
+        "truncated": false
+      },
+      "description": {
+        "text": "共享經濟的指標公司 Airbnb 開了最新的發佈會宣布重大轉型，要從短租的住宿預訂平台擴展成涵蓋各種服務與體驗的全方位平台。甚至還提出想要打造真實世界的社交網絡連結平台。這期IEO看什麼來分享自己的觀察 有興趣的人，也可以到我的專欄看更詳細的文章分析 [https://ieobserv.com/NewAirbnb](https://ieobserv.com/NewAirbnb >) -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 19 May 2025 09:18:06 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "0ccda6b3daa85f3c2d0b96dd277836284f9f20274c73d1bbdfbaef69b33c4c73",
+      "guid": "7b1aa2cb-c42f-4f75-b3f3-1f033d455f80",
+      "title": {
+        "text": "EP. 52 解密遊戲產業商業模式：從遊戲學習跨產業行銷、營運成長策略 feat. 飛鳥涼不涼版主 Sam",
+        "truncated": false
+      },
+      "description": {
+        "text": "這集新年特企，可能是 IEO 的 Podcast 中學到最多產業秘辛知識的一集，請到了實戰經驗豐富的遊戲產業真專家－飛鳥涼不涼的版主Sam，滿滿一小時從用戶洞察、數據分析到營運內幕和行銷乾貨，送給對遊戲產業不熟悉的朋友。聽完這集你也能初窺不同的產業，如何利用遊戲化的心理機制，讓你上鉤、上癮進而掏錢出來買單。 其實不只是遊戲業，如果對於網路事業的營運、行銷和數據分析有興趣的人，不要錯過真的有實戰經驗的專家的課程。 【百億遊戲營運行銷全攻略】早鳥限時低於5折✨ 👉課程超過8小時、75單元，越早買越划算！ 👉即日起～3/2結帳輸入專屬折扣碼「ieogame」可以再折350元 🔎課程介紹： https://hi.sat.cool/Ovb8k 🔥全台第一門遊戲營運行銷解密課，20年實戰心法大公開！ ✅爆款思維｜剖析熱門遊戲設計與策略，掌握爆品邏輯 ✅深刻洞察｜解密12大心理機制，精準洞察用戶需求與行為 ✅數據賦能｜看懂關鍵數據，優化用戶留存與付費策略 ✅跨界應用｜靈活運用遊戲思維，解決多產業需求，提升競爭力 ✅市場營運｜掌握產品生命週期，拆解爆品口碑操作邏輯 ✅趨勢案例｜超過20個實戰案例，涵蓋中美日韓領先市場趨勢 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 30 Jan 2025 23:40:26 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "1e8101c07ccfc0b10c9b92c0200b348130c558a6d50ef56147ef56ae41187cf9",
+      "guid": "99716833-e846-479c-b840-5e559d1e603a",
+      "title": {
+        "text": "EP. 42 二十大後的中國習天下，未來十年可預期的發展",
+        "truncated": false
+      },
+      "description": {
+        "text": "習近平不只已經創紀錄第三任期，二十大後習近平擺上常委的人選都已超過六十歲，換句話說下屆不會有接班人選，習近平至少將在2027再掌權五年。這期和大家聊二十大後中國未來可預期的國內與國際發展。 訂閱專欄免費公開文章 https://ieobserv.com/Xi_China 七萬字的財經知識曆【2023 #招財曆 】！ 募資連結： https://r.zecz.ec/inzG ---- 對財經有興趣的人也歡迎加入IEO的社群 Telegram財經聊天室： https://t.me/IEObserve Facebook： https://lihi1.com/pacxO Instagram: https://ieobserv.com/instagram 合作邀約請到FB粉專私訊，或是email到 [email removed] -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 Oct 2022 00:08:09 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "3aa79f555e8afdfd0d8715e293d2491e804783ff0c69e19d254cc1b7eed02bae",
+      "guid": "276c5f76-a89f-4b26-af22-fbb94f511081",
+      "title": {
+        "text": "Ep.31 邀請制平台 Clubhouse火箭升空，見證新世代聲音社交App的崛起",
+        "truncated": false
+      },
+      "description": {
+        "text": "如果說最近在網路圈上爆紅的議題，最明顯開始竄起的新潮流，就是Clubhouse這個新的聲音社群媒體。這個邀請制的新社群app目前只在iOS上架，主要是由矽谷科技圈菁英開始向外擴散，台灣也越來越多在美國和本土有影響力的人開始加入。我們就來聊聊，Clubhouse到底是什麼，完整的方格子訂閱文章《連Clubhouse概念股也超前部署，ARK 抓緊聲音社群時代浪潮》 https://ieobserv.com/clubhouse 則跟大家分享ARK看到了什麼投資機會。 本版也加入了Clubhouse，歡迎有加入的人follow IEO的 Clubhouse ID：@cyyang ------ 對財經有興趣的人也歡迎加入IEO的社群 Telegram財經聊天室： https://t.me/IEObserve Facebook： https://lihi1.com/pacxO Instagram: https://ieobserv.com/instagram 合作邀約請到FB粉專私訊，或是email到 [email removed] -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 31 Jan 2021 23:51:27 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "f3f6733d83e623e7aa7b83e54457c1f35fa799fde2458237886351a928a48f8a",
+      "guid": "c9c7cb31-334b-4866-9245-1df3b6292204",
+      "title": {
+        "text": "EP.21 美國總統大選倒數10天，那些變局與不變的事",
+        "truncated": false
+      },
+      "description": {
+        "text": "美國總統大選最後倒數，我們可以觀察什麼？看出哪些未來可能會遭遇到的變局，以及哪些是長期變化、哪些是短期現象。拜登或川普上台的影響會是什麼？完整的文章與數據分析，還有美國總統大選經濟影響的研究報告，都附在 Patreon的完整文章連結： https://ieobserv.com/ep21 歡迎訂閱支持IEO： https://ieobserv.com/podcast IEO最安靜的Telegram財經聊天室： https://t.me/IEObserve Facebook： https://lihi1.com/pacxO Youtube： https://lihi1.com/eGFbM Instagram: https://ieobserv.com/instagram 合作邀約請到FB粉專私訊，或是email到 [email removed] 😡又被WSJ付費牆擋？推薦WSJ特價訂閱👉 https://bit.ly/IEOxWSJ 🤩IEO與風傳媒業配合作，推廣華爾街日報一年期訂閱3折！ 🎁年繳原價 $13996 TWD，特價 $3988（$333/月），非台灣用戶也可訂閱 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 24 Oct 2020 10:18:29 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "1f951186e0d422fb74b0f76cdc1d5629462acfb83fbd6332f22810acc8aeeea7",
+      "guid": "8c6a6c43-ef37-40bc-8d88-892b739ee972",
+      "title": {
+        "text": "EP11. 天下苦Apple稅久矣、高通反托拉斯逆轉勝、AWS量子運算服務Braket",
+        "truncated": false
+      },
+      "description": {
+        "text": "本週《IEO看什麼》回顧的上週重要的財經新聞 1.Epic Games、Facebook 反蘋果稅，Apple 的 Service 重要戰略地位 2.高通在反壟斷上訴大捷逆轉勝，法院判定商業模式在合法競爭範圍 3.FB 成立 Facebook Financial 部門推進支付業務 4.Amazon AWS 開始量子運算商業服務 Amazon Braket 5.愛奇藝遭美國證監會SEC調查，財報公佈付費會員年增季減 6.鴻海供應鏈多角化進行式，印度製造無法重現中國式增長 IEObserve 國際經濟觀察是個關注國際財經、科技、政治與商業趨勢的部落客。 🤩IEO與風傳媒業配合作，推廣華爾街日報一年期訂閱3折！ https://bit.ly/IEOxWSJ 🎁年繳原價 $13996 TWD，特價 $3988（$333/月），非台灣用戶也可訂閱 Telegram：https://t.me/IEObserve Facebook：https://lihi1.com/pacxO 官網： https://lihi1.com/4LFqf Youtube：https://lihi1.com/eGFbM 合作邀約請到FB粉專私訊，或是email到 [email removed] -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 16 Aug 2020 09:57:30 GMT",
+      "feed_index": 61
+    },
+    {
+      "id": "2df83c12fbb8829f63f8553109e626413dcd6edbcf18ff84ff3c34b16d81cff3",
+      "guid": "f5783845-c88c-48f5-9316-75a85afbe445",
+      "title": {
+        "text": "EP1. Spotify 重金簽下Podcast巨星，Podcast界的商業變現大潮來臨？",
+        "truncated": false
+      },
+      "description": {
+        "text": "Spotify (SPOT) 在5/20號投下震撼彈，以一億美金簽下了知名的Podcast界巨星 Joe Rogan 獨家在Spotify播送，這對Podcast界有什麼意義，Spotify又在想什麼？這期分享給你IEO版主的觀察。 IEObserve 國際經濟觀察是個關注國際財經、科技、政治與商業趨勢的部落客 官網： https://lihi1.com/4LFqf Facebook： https://lihi1.com/pacxO Telegram： https://t.me/IEObserve Youtube： https://lihi1.com/eGFbM 合作邀約請到FB粉專私訊，或是email到 [email removed] -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 May 2020 05:12:14 GMT",
+      "feed_index": 71
+    }
+  ]
+}

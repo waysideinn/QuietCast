@@ -1,0 +1,140 @@
+{
+  "show_id": "1543400506",
+  "feed_url": "http://www.ximalaya.com/album/44421358.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/44421358.xml",
+    "final_url": "http://www.ximalaya.com/album/44421358.xml",
+    "fetched_at": "2026-10-25T14:55:37.174940+00:00",
+    "status": 200,
+    "sha256": "65f2f93e2bda73f2622dc2ce9bdb3af353e9ec7d53a4cfde494515d675b3baa0"
+  },
+  "status": "ok",
+  "title": {
+    "text": "食聊｜健康饮食、运动和生活方式",
+    "truncated": false
+  },
+  "description": {
+    "text": "食聊电台的目的是给听众带来最前沿最中立的营养学知识，帮助你更好的了解自己与食物的关系，为你的健康做出更好的选择！ 我们致力于为大家提供关于营养学、健康饮食、运动健身、饮食与运动心理以及生活方式方面的科学知识和指导。 关于主理人 Connie珂楠，在北京运营自己的训练馆STRIVE Training。曾任职于世界顶级私募股权投资基金，为了追求自己热爱运动的梦想而转行投身健身健康行业，成为一名专长于力量和体能训练的教练和认证的营养专家。 拥有PrecisionNutrition一级营养师认证、ACE私人教练认证、NSAM CES纠正训练认证、PPSC训练计划认证、CrossFit L1、FMS L1、AnimalFlow L1认证。 Email: [email removed]",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 36,
+  "episodes": [
+    {
+      "id": "cdde79d89f90656169aa400e4d8dce1f62a1a41a99ed7dd73bfab0d1566f08e8",
+      "guid": "xmly_track_927682221",
+      "title": {
+        "text": "食聊#35-乳制品消费与心血管代谢健康",
+        "truncated": false
+      },
+      "description": {
+        "text": "Show Notes： 00:21 INTRO 01:35 赞助商——卡士餐后一小时 03:11 Jean‑Philippe Drouin‑Chartier 教授简介 04:15 乳制品的类型以及区分类别的重要性 12:12 酸奶与二型糖尿病风险降低相关联 15:15 奶酪与心血管疾病风险并无明显相关性（食物基质效应） 19:40 牛奶对抵抗高血压有潜在益处 22:57 乳制品在食物结构中的地位以及如何选择和消费乳制品 BGM ： Julian Lage – Day and Age Reference ： 1. Prof. Jean-Philippe Drouin-Chartier: How Does Dairy Impact Cardiometabolic Health? 2. Drouin-Chartier et al., 2016: Comprehensive Review of the Impact of Dairy Foods and Dairy Fat on Cardiometabolic Risk 3. Drouin-Chartier et al., 2019: Changes in dairy product consumption and risk of type 2 diabetes: results from 3 large prospective cohor",
+        "truncated": true
+      },
+      "published_at": "Fri, 07 Nov 2025 11:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "693f97d364e76ad1f64561814ece56de0c3384a5e7ca2d11896985792795eb4d",
+      "guid": "xmly_track_727131139",
+      "title": {
+        "text": "食聊#30-进食时间与代谢健康和体重管理",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期节目我们来讨论一下进食时间 Meal Timing/ Chrononutiorion 对于我们的代谢健康和身材之间的关系。 BGM: Love Me JeJe by Tems",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 May 2024 11:07:44 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "9983b9e5fb3398981af8d711eb93de0f7e0ae0a8bc8f0a60ba9feede161407f2",
+      "guid": "xmly_track_640051874",
+      "title": {
+        "text": "食聊#25-排毒——是瘦身、健康和美容的秘诀还是智商税？",
+        "truncated": false
+      },
+      "description": {
+        "text": "1. 选择“排毒饮食法”需要考虑的几个方面 2. 你需要排宿便来轻体减肥吗？ 3. 排毒饮食的功效和安全性 4. 人体自身的排毒系统",
+        "truncated": false
+      },
+      "published_at": "Thu, 08 Jun 2023 01:23:12 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "cf67b5161225fca157b4bba4b26a108cf6b7697d4af70e0022bdb9ace07df364",
+      "guid": "xmly_track_523597569",
+      "title": {
+        "text": "食聊#21-浅淡膳食脂肪",
+        "truncated": false
+      },
+      "description": {
+        "text": "00:58 开头介绍及声明 03:00 脂肪是什么？食物来源 06:18 脂肪的作用 08:40 脂肪的过量危害 11:00 “好脂肪”与“坏脂肪”的概念 13:33 必需脂肪酸——omega 3和omega 6、其作用以及摄入比例的重要性 18:30 “好脂肪”与“坏脂肪”的看待角度 22:02 氢化植物油及反式脂肪 28:44 结语",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Apr 2022 00:37:11 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "52def23323289e76e44de43f71d1b908a14525ff53f419a571986dd1db8c8fc4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e136-audiofreehighqps/F4/DF/CKwRIMAER1hNANVEowCc7NsI-aacv2-48K.m4a",
+      "title": {
+        "text": "食聊#16-肠道菌群与健康",
+        "truncated": false
+      },
+      "description": {
+        "text": "时间分区： 1'52” 微生物群/菌群的定义 4'42\" 肠道菌群的种类 7'11\" 肠道菌群与健康的关系 14'08\" 影响肠道菌群健康的主要因素 16'10\" 药物、饮食以及运动对成年人肠道菌群的影响 27'15\" 结论",
+        "truncated": false
+      },
+      "published_at": "Mon, 12 Apr 2021 02:00:00 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "8c6b8098a4bf2e2f0fa586f18a99276b26db61f2cc2499bc996c1b61f8f1542f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1a06-audiofreehighqps/EB/C3/CMCoOSQDn_pyAOTeygBt9e7J-aacv2-48K.m4a",
+      "title": {
+        "text": "食聊#11-营养伪科学大辟谣（第二辑）",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期节目讲了“20个经久不衰的营养学伪科学”中的第8到14个。 2'04'' 迷思8：关于面包（热量、麸质、全麦vs白面包） 8'01'' 迷思9：有没有必要补充多重维他命？ 12'54'' 迷思10：天然的营养素比人工的营养素好 15'47'' 迷思11：打着“天然”和“有机”标签的食品 17'53'' 迷思12：冷冻食品和罐装食品没营养 20'30'' 迷思13：你应该吃的“干净”（eat clean) 26'01'' 迷思14：你需要定期排毒（detox)",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Dec 2020 13:18:56 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "0b599cb53648585bfc40573b6bcfde5229e86bc89d842e25ba39aefb0a2036b1",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6fc1-audiofreehighqps/05/B4/CMCoOSEDn_VNARagAABt8dBH-aacv2-48K.m4a",
+      "title": {
+        "text": "食聊#6-关于蛋白质，你想知道的都在这里",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期涵盖了几乎所有最常见的蛋白质摄入问题，包括： 1. 为什么说吃蛋白质很重要？ 2. 什么是高蛋白质饮食？适不适合我？ 3. 蛋白质吃多了会不会伤肾？ 4. 蛋白质的来源和质量（动物蛋白vs植物蛋白） 5. 该不该吃蛋白粉？ 6. 为什么说多吃蛋白质可以帮助减肥？ 7. 谁应该多吃蛋白质？ 8. 究竟该吃多少蛋白质？每餐吃多少？",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Dec 2020 12:56:52 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "54c45c70547834f967c4e64c17ecc159a4e3df7fd3db2f91196cd1d4406d87d4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/eb7b-audiofreehighqps/0E/34/CMCoOSIDn-6nAV-5uQBt7OXR-aacv2-48K.m4a",
+      "title": {
+        "text": "食聊#1-究竟哪种饮食法最好？",
+        "truncated": false
+      },
+      "description": {
+        "text": "从前些年流行的哥本哈根饮食法到果蔬汁排毒法到区域饮食法、原始人饮食法、生酮饮食法、全素、全肉、间歇性断食。。。到底哪个才是最好的？ 吃碳水化合物会让我发胖吗？想减肥究竟应该低碳还是低脂？吃多了蛋白质会不会让我变的成金刚芭比？ 想要变瘦真的只能靠挨饿吗？我总是控制不住自己怎么办？",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Dec 2020 12:28:18 GMT",
+      "feed_index": 35
+    }
+  ]
+}

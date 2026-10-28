@@ -1,0 +1,35 @@
+{
+  "sourceRevision": "b62212bdf9b36f0f90e2f7f3a8f0990bba6544b9",
+  "sourceHashes": {
+    "Sources/PodcastModels/AppleCategoryMetadata.swift": "565154778b726c8a5dc654d4f6f34be504aec0d3a1257918d68c444195d342cf",
+    "Sources/PodcastModels/Metadata.swift": "723ed776756050552e076f49f97a69071ba56a792e63b26c5f37da3e5d369401",
+    "Sources/PodcastModels/Models.swift": "87bc52c06d3dedb8ed97e2e51c2efc5b143869cf8fd4404647ded0bb92e3462a",
+    "Sources/PodcastModels/PodcastCategories.swift": "d0feac97a5c071101a01d35917a8201473d140dd3c308f309b9b5fdded142713",
+    "Sources/ContentFiltering/AdvancedRules.swift": "4aa1961915bc12927b88f0ad7da8a55049fd4cf7831ea4072095842f0f3187c2",
+    "Sources/ContentFiltering/AdvancedSignals.swift": "ad9401f886f8cfa6c15b1789d80cd9f47b56a733551a3c1fe845714f9a426042",
+    "Sources/ContentFiltering/ContentFiltering.swift": "6646b05fdc202ee81b08f31087a56ab4d8ccc772eb6ebe1d353c2eaac119c4a7",
+    "research/scripts/SwiftProbe.swift": "e4becf897a5b9627709c0f5bb7bfabc8ff34b9a5a7d2029af084030ad16334e6"
+  },
+  "fixtureSHA256": "710f108af38f04b3135ca83b6ec80b46795c7d09b5459d3d3aba58a97e5cf3b2",
+  "rulesSHA256": "30dfd5e1b60e41f3723289bd89fda1491147679cff6164be1bd42b7c7c36cb3a",
+  "strategies": {
+    "keywords_only": {
+      "compared": 50,
+      "differences": []
+    },
+    "publisher_only": {
+      "compared": 50,
+      "differences": []
+    },
+    "category_only_review": {
+      "compared": 50,
+      "differences": []
+    },
+    "joint_v11_score": {
+      "compared": 50,
+      "differences": []
+    }
+  },
+  "status": "pass",
+  "note": "Frozen committed v1.1 engine. Concurrent working-tree App changes were not used or modified. Not a current iOS build/device test."
+}

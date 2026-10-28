@@ -1,0 +1,84 @@
+{
+  "show_id": "1539558817",
+  "feed_url": "https://feed.firstory.me/rss/user/ckgxiuvulb3ur09030rtahuzc",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckgxiuvulb3ur09030rtahuzc",
+    "final_url": "https://feed.firstory.me/rss/user/ckgxiuvulb3ur09030rtahuzc",
+    "fetched_at": "2026-10-25T14:55:18.721069+00:00",
+    "status": 200,
+    "sha256": "8a19fc05dfab511b4aba0cf13bae94ecd452c0caf4f1b2626509f895153968a2"
+  },
+  "status": "ok",
+  "title": {
+    "text": "G.T.訪談室",
+    "truncated": false
+  },
+  "description": {
+    "text": "什麼都談什麼都不奇怪，聊聊生活大小事，分享經驗和學習新知 邀約信箱📪 [email removed] Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "explicit": "yes",
+    "keywords": ""
+  },
+  "feed_item_count": 4,
+  "episodes": [
+    {
+      "id": "50d4716d78cd23251be07633b7257be5bd9761405e6d607c419c43bd345c9984",
+      "guid": "ckia34eg96xm30842sgy7w7ra",
+      "title": {
+        "text": "嘗試各行各業卻依舊猶豫不決？其實這才是最好的選擇 EP05",
+        "truncated": false
+      },
+      "description": {
+        "text": "三人行必有我師焉 聊聊主持人們的心路歷程 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Dec 2020 09:47:50 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b7a912d1a86c5dc281c7061e5aab22b12eb3c238ec2e0be3f5e42edbce000f7e",
+      "guid": "cki0a4p8qsacb0821kxiq1ofc",
+      "title": {
+        "text": "(音質不OK 喜歡主題在入內) 校園生活大小事-荒唐事跡一籮筐！到底都做了些什麼⋯⋯⋯ EP4",
+        "truncated": false
+      },
+      "description": {
+        "text": "在校時的你都做了些什麼有趣的事呢？ 跟著我們一起回憶校園生活吧～ Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 27 Nov 2020 13:06:19 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "2a16125bd7706ee540ed4e0504d34bd2fca2eb56e513d7888cf4e85dbd4c329e",
+      "guid": "ckhg44bhkistd0822hw1p8hy7",
+      "title": {
+        "text": "在國外趣事拉底賽！分享求學與外國的經驗點滴 EP2",
+        "truncated": false
+      },
+      "description": {
+        "text": "國外生活趣事，遊學經驗分享 在國外就過得比較好? 不再台灣要怎麼生活? 英國、瑞士居住生活大不同 聽聽到底發生些什麼事 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 13 Nov 2020 10:22:40 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "dcea67a5af9c823c2b2936d0b78c5c4b7eab37dbbda2890007745039d3a6ef03",
+      "guid": "ckhahss681mu5088256f3oua2",
+      "title": {
+        "text": "臭宅穿著 VS 號稱自我風格時尚家 不專業討論時尚穿搭 (男性角度穿搭和送禮) EP1",
+        "truncated": false
+      },
+      "description": {
+        "text": "臭直宅不會穿搭 和 號稱注重穿搭的男子聊時尚穿搭 參考資料和網址如下 有任何指教都可以留言: https://www.russellandbromley.co.uk/birch/528252 https://www.gq.com.tw/fashion/guide https://www.gq.com.tw/fashion/article/%E8%A5%BF%E8%A3%9D-%E5%A4%A7%E5%9C%B0%E8%89%B2-%E5%8D%A1%E5%85%B6-%E7%A9%BF%E6%90%AD https://www.gq.com.tw/fashion/article/%E6%80%A7%E5%88%A5%E6%A8%A1%E7%B3%8A-%E7%94%B7%E8%A3%9D%E8%B6%A8%E5%8B%A2 https://www.gq.com.tw/fashion/article/%E5%B0%8F%E7%99%BD%E9%9E%8B-%E7%99%BD%E9%9E%8B-%E6%8E%A8%E8%96%A6-%E6%8C%87%E5%8D%97 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Mon, 09 Nov 2020 11:59:00 GMT",
+      "feed_index": 3
+    }
+  ]
+}

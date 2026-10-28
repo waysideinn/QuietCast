@@ -1,0 +1,520 @@
+{
+  "schemaVersion": "1.0",
+  "ruleVersion": "research-2026-10-25-v0.1",
+  "updatedAt": "2026-10-25T00:00:00Z",
+  "status": "example",
+  "sources": [
+    "https://performance-partners.apple.com/search-api",
+    "datasets/fiction_research/shows.json",
+    "datasets/fiction_research/rss/",
+    "schema commit 9e908672b5ac6afe94a0f6ea4e5d0f31f66b7360"
+  ],
+  "categories": [
+    {
+      "id": "fiction-audiobooks",
+      "name": "小说与虚构故事音频",
+      "description": "真实公开元数据支持的探索规则；未经人工独立测试，不作为生产词库。",
+      "enabled": true,
+      "thresholds": {
+        "review": 4,
+        "block": 10
+      },
+      "fieldWeights": {
+        "showTitle": 1.5,
+        "showDescription": 0.7,
+        "showCategories": 0,
+        "author": 0,
+        "episodeTitle": 1.5,
+        "episodeDescription": 0.7,
+        "rssMetadata": 0
+      },
+      "strongKeywords": [],
+      "keywords": [
+        {
+          "id": "b-14dbb1e87c61",
+          "score": 7,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中36档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "有声小说"
+        },
+        {
+          "id": "b-ff86c640dea0",
+          "score": 7,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中1档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "小说朗读"
+        },
+        {
+          "id": "b-cf666e59d9c1",
+          "score": 7,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中79档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "有声书"
+        },
+        {
+          "id": "b-e4b9eaf6ce41",
+          "score": 7,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中55档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "广播剧"
+        },
+        {
+          "id": "b-bdbe9429a4a6",
+          "score": 7,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中56档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "多人有声剧"
+        },
+        {
+          "id": "b-ee412c6f3f36",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中70档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "玄幻"
+        },
+        {
+          "id": "b-a47b747d06fe",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中31档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "修仙"
+        },
+        {
+          "id": "b-adb986efe495",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中64档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "重生"
+        },
+        {
+          "id": "b-966576cfd784",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中13档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "末世"
+        },
+        {
+          "id": "b-3e7456737b87",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中4档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "无限流"
+        },
+        {
+          "id": "b-16a526b91c42",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中35档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "总裁"
+        },
+        {
+          "id": "b-d83ed8f97289",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中34档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "甜宠"
+        },
+        {
+          "id": "b-7262884d65ef",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中3档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "赘婿"
+        },
+        {
+          "id": "b-8b59828df667",
+          "score": 2,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中70档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "言情"
+        },
+        {
+          "id": "b-aa1aa8d83665",
+          "score": 1,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中26档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "完结"
+        },
+        {
+          "id": "b-42121a4fe317",
+          "score": 1,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中4档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "全集"
+        },
+        {
+          "id": "b-af1fb7118622",
+          "score": 1,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中4档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "连载"
+        },
+        {
+          "id": "b-8661a9d30c19",
+          "score": 1,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中27档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "演播"
+        },
+        {
+          "id": "b-fc5f8506a61b",
+          "score": 1,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中22档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "播讲"
+        }
+      ],
+      "combinationKeywords": [
+        {
+          "id": "b-62ebe3a9cd41",
+          "score": 5,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中10档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "小说",
+            "演播"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-f2aa15c91ed2",
+          "score": 5,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中1档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "小说",
+            "全集"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-ad69ef7758cf",
+          "score": 5,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中3档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "小说",
+            "朗读"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-c772b8fa96f8",
+          "score": 5,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中2档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "小说",
+            "连载"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-6f8ecaa1b27c",
+          "score": 5,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中5档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "重生",
+            "都市"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-bbff05dc85f6",
+          "score": 5,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中4档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "总裁",
+            "娇妻"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-0e4444d1a78b",
+          "score": 5,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中59档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "多人",
+            "有声剧"
+          ],
+          "scope": "sameField"
+        },
+        {
+          "id": "b-452b5b21ed09",
+          "score": 5,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中2档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "terms": [
+            "原著",
+            "播讲"
+          ],
+          "scope": "sameField"
+        }
+      ],
+      "exclusions": [
+        {
+          "id": "b-7baa9a69ce3e",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中2档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "解析"
+        },
+        {
+          "id": "b-00c2be81b62a",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中80档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "访谈"
+        },
+        {
+          "id": "b-c9ca608d7f88",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中3档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "讨论"
+        },
+        {
+          "id": "b-b8a97976cfb4",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中1档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "文学史"
+        },
+        {
+          "id": "b-11c5e5a03edd",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中1档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "赏析"
+        },
+        {
+          "id": "b-6a629508c1a3",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中40档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "纪实"
+        },
+        {
+          "id": "b-ab166a761dbd",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中2档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "科普"
+        },
+        {
+          "id": "b-5f46593ec13a",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中31档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "课程"
+        },
+        {
+          "id": "b-25720b0084a7",
+          "score": 6,
+          "fields": [
+            "showTitle",
+            "showDescription",
+            "episodeTitle",
+            "episodeDescription"
+          ],
+          "note": "开发候选元数据命中19档；非人工正样本命中率。证据见 reports/fiction_research/rule-evidence.json。",
+          "term": "读书"
+        }
+      ],
+      "regexRules": [
+        {
+          "id": "b-chapter-marker",
+          "pattern": "第[0-9一二三四五六七八九十百千万零〇两]{1,8}[章回集]",
+          "score": 1,
+          "fields": [
+            "episodeTitle"
+          ],
+          "note": "仅弱特征，不会单独触发 review/block；不把第X期视为小说。"
+        }
+      ],
+      "showBlocklist": [],
+      "episodeBlocklist": [],
+      "showAllowlist": [],
+      "episodeAllowlist": [],
+      "notes": "status=example；查询组并非真实标签。未实现跨单集连续性评分，Schema v1 仅支持单次字段匹配。作者和目录分类权重为0。描述截断会影响召回。"
+    }
+  ]
+}

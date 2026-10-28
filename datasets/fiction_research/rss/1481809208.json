@@ -1,0 +1,140 @@
+{
+  "show_id": "1481809208",
+  "feed_url": "http://www.ximalaya.com/album/23497655.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/23497655.xml",
+    "final_url": "http://www.ximalaya.com/album/23497655.xml",
+    "fetched_at": "2026-10-25T14:50:45.569551+00:00",
+    "status": 200,
+    "sha256": "be40c65ac4c81c6857838c1fec0f749f46d094372a942e0878ec9c0f1273c3b1"
+  },
+  "status": "ok",
+  "title": {
+    "text": "BYM 女性系列第一季（全）",
+    "truncated": false
+  },
+  "description": {
+    "text": "BYM「女性系列」由 简里里和 brofeng 主创，探讨女性在现代社会中，面对教育职场、亲密关系、家庭等一系列问题，所需要做的选择和思考。欢迎参与讨论。 请发送观点、话题到微博：「简里里」 或发送邮件到 [email removed].",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 9,
+  "episodes": [
+    {
+      "id": "578b519942015596fa232e5f7c945bdfc63feefa0ded70e4c0a558cdf19b82ca",
+      "guid": "https://aod.cos.tx.xmcdn.com/group59/M03/56/AE/wKgLelzX84qgdyqlAX6wtE86MgY277-aacv2-48K.m4a",
+      "title": {
+        "text": "BYM-女性00：序-中年女性在想什么",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 May 2019 10:45:22 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "67d594ec28726b8888be2e6f1fafeccce044d6df89dbcc9c1bacec61d24d29d5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group59/M01/56/D8/wKgLeFzX9C2Q4FsaAWhPMHNglJs217-aacv2-48K.m4a",
+      "title": {
+        "text": "BYM-女性01: 结婚 vs. 不结婚？| 放弃对于 “选择正确生活” 的幻想",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 May 2019 10:45:22 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "5681eaec074278bec827339c3aeb4e699d8da4dd024cca3a90d04bf19511b12f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group58/M04/55/94/wKgLglzX9Mux5bCgAjprf779lR0875-aacv2-48K.m4a",
+      "title": {
+        "text": "BYM-女性02: 你是否允许他人对你感到失望？| 如何变美之 Get Your Body Back",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 May 2019 10:45:22 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "845ec30e93a4ff7c4c4ee6697825925c0492519412c06a8c1e139818ca800080",
+      "guid": "https://aod.cos.tx.xmcdn.com/group59/M04/57/01/wKgLeFzX9bah5KQhAhZH6ljGTAc057-aacv2-48K.m4a",
+      "title": {
+        "text": "BYM-女性03：亲密关系 | 你的潜在愿望为你编织 “命运”",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 May 2019 10:45:22 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "8f80461d53f1c32b6f2edc6becc2b2d3b94de9070092c118a4bffe0e6781e3bd",
+      "guid": "https://aod.cos.tx.xmcdn.com/group59/M06/57/20/wKgLeFzX9v2B72OoAYfRKfUXOoY335-aacv2-48K.m4a",
+      "title": {
+        "text": "BYM-女性05: 复杂的女 | 我们是如何使用“语言”来表达潜意识冲突的？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 May 2019 10:45:22 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "93aeef0fbdf275dc90cb8eba4e074db4390ca134a80026f9e0eb2374b5b53324",
+      "guid": "https://aod.cos.tx.xmcdn.com/group59/M00/57/2C/wKgLeFzX926jRzS8AWH8HT-zqlU945-aacv2-48K.m4a",
+      "title": {
+        "text": "BYM-女性06：女性魅力 | 要勇敢长大啊姑娘们",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 May 2019 10:45:22 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "0c64cb6d83130c47758ee4010ea42577807dfc51b7f1da64f78b19208ee9eebb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group59/M03/57/20/wKgLelzX-EWArJl_AXW0i7C9XmU963-aacv2-48K.m4a",
+      "title": {
+        "text": "BYM-女性07：处女情结 | 对于主流规则，遵从还是反抗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 May 2019 10:45:22 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "5a6367efe986882614177481d62f70e8a594abf194e1c018f0a32f2ceee77a3e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group59/M00/91/A8/wKgLeFzazQqyCdlQAYmVxfuQOSw703-aacv2-48K.m4a",
+      "title": {
+        "text": "BYM-女性08: 人生幸福感究竟从哪里来？| 事业、家庭、亲密感",
+        "truncated": false
+      },
+      "description": {
+        "text": "BYM「女性系列」season 01 最后一集，由于第一次录音中简里里牙痛难忍去了趟急诊，这次讨论是不同两天录制的，这次也是从一个Bymmer的提问开始，我们讨论了： 1 、年轻时候 “ 太嘚瑟 ” ，老了怎么办？ 2 、人对于自己的生活有多少 “ 控制感 ” ？人生是否能够规划？ 3、人生大事是否经得起 “ 思考 ” ？方法论：当你起了动念，就去做。 4、亲密关系的秘密：放弃 “ 你要按照我的方式对我好 ” 的执念 5、如何 “ 兼顾事业与家庭 ” ？ 6、社会对于女性的多重评价标准，女性承担了怎样的 “ 失望感 ” ？ 7、人生规划：从一个时间的长轴上看得失。切莫在年轻时杀死自己。 最后感谢 Bymmers 对于女性 mini 系列第一季共的支持，祝每个人内心有自由，生活有选择。 BYM 「女性系列」由 简里里和 FENG 哥 主创，探讨女性在现代社会中，面对教育职场、亲密关系、家庭等一系列问题，所需要做的选择和思考。欢迎参与讨论。 请发送观点、话题建议到「简里里」微信公号后台， 或发送邮件到 [email removed] .",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 May 2019 14:12:48 GMT",
+      "feed_index": 8
+    }
+  ]
+}

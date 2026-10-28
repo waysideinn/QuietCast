@@ -1,0 +1,42 @@
+{
+  "show_id": "1637926796",
+  "feed_url": "https://feed.firstory.me/rss/user/cl6dso9m000bv01xj3fpq61xi",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/cl6dso9m000bv01xj3fpq61xi",
+    "final_url": "https://feed.firstory.me/rss/user/cl6dso9m000bv01xj3fpq61xi",
+    "fetched_at": "2026-10-25T14:56:09.579660+00:00",
+    "status": 200,
+    "sha256": "5779dd07bcbc58254a761d9289fec645c211918a73801816125681ab1d5c7385"
+  },
+  "status": "ok",
+  "title": {
+    "text": "知書媽媽講故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "知書媽媽講故事 Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 1,
+  "episodes": [
+    {
+      "id": "a23da579f83938bc44a99c75ea8c51f950da4326a61ba81b5db12ee5ff872b6a",
+      "guid": "cl6dsy3m100by01xkb5jcgh8r",
+      "title": {
+        "text": "狼來了",
+        "truncated": false
+      },
+      "description": {
+        "text": "留言告訴我你對這一集的想法： https://open.firstory.me/user/cl6dso9m000bv01xj3fpq61xi/comments 狼來了 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Wed, 03 Aug 2022 16:07:05 GMT",
+      "feed_index": 0
+    }
+  ]
+}

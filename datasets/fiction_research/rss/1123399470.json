@@ -1,0 +1,140 @@
+{
+  "show_id": "1123399470",
+  "feed_url": "http://www.ximalaya.com/album/2965393.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/2965393.xml",
+    "final_url": "http://www.ximalaya.com/album/2965393.xml",
+    "fetched_at": "2026-10-25T14:47:24.073382+00:00",
+    "status": 200,
+    "sha256": "3c4baafcc3895eced139e6f76771ccb21b28c18ad7ab1d1847465fe46421ed3c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "多爸读讲《三国演义》原著 上",
+    "truncated": false
+  },
+  "description": {
+    "text": "欢迎关注、并留言。内容持续更新中。 我的女儿叫多多。这部三国始讲于2013年，历时两年半。《三国演义》是她第一次接触古典文学名著，那时她七岁。开始时我要一句一句的翻译给她听，所以讲的比较慢。后来她对古汉语的理解能力得到很大提升，很多内容不再需要翻译，讲得越来越快。通过听故事，她对阅读、尤其是历史产生了浓厚的兴趣。我们父女在讲故事时互动环节是我最喜欢的。她经常对我讲的内容品头论足。现在我把以前的内容更新到这里。希望和更多的家庭分享。让更多的孩子学习三国，学习传统文化。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 233,
+  "episodes": [
+    {
+      "id": "c7bcaf0d41d94f27aa0c4e2f757a2bda4bad67960cbffa2488e4934561e1f9a5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group45/M03/CB/BC/wKgKlFtu3sfzqE0oAFsjJKYXNTY671.m4a",
+      "title": {
+        "text": "第六十四回 孔明定计捉张任 杨阜借兵破马超 1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 11 Aug 2018 13:05:22 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b15e0d0391a365fbeb6b605e837a2141f104dbbfd939d0f87133962214522bbc",
+      "guid": "https://aod.cos.tx.xmcdn.com/group37/M05/24/92/wKgJoFoxIMGzlTgeAEBPSRfcD-k349.m4a",
+      "title": {
+        "text": "五十回 诸葛亮智算华容 关云长义释曹操 2",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 13 Dec 2017 13:40:20 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "8ab9c5f6ce3dd2725e15289a43ab2f6ed15c4622d344af820e34ef0591c7ef02",
+      "guid": "https://aod.cos.tx.xmcdn.com/group34/M0B/D5/D3/wKgJYFnomNPA6HZiAHg1qI4pQMI619.m4a",
+      "title": {
+        "text": "三十八回 定三分隆中决策 战长江孙氏报仇 3",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Oct 2017 12:22:27 GMT",
+      "feed_index": 66
+    },
+    {
+      "id": "5a5ee7f5d4755982dba3c31d035079700335c815d1c69ce6e139e39b18c3e1a9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M05/2B/D5/wKgJSVmT_MWyhe0DAGMvJj7Llio081.m4a",
+      "title": {
+        "text": "二十九回 小霸王怒斩于吉 碧眼儿坐领江东 4",
+        "truncated": false
+      },
+      "description": {
+        "text": "在《三国演义》中，吴主孙权是一个配角。在人们的心目中，孙权没有什么大的才华，只是有幸得到了从父兄传下的基业。然而，在东汉末年的乱世中，孙坚建立江东基业，也只是扬州北部的六个郡而已。这和曹操、袁绍等力量是无法抗衡的。在孙权的领导下，东吴不仅在赤壁大战中打败曹操，还顺势进入荆州，并后来在荆州也占了一半。最后，孙权建立了吴国。吴国还成为了三国中最后一个被西晋灭掉的国家。孙权这个人少年英才，胸怀大志，知人善任，是三国期间一个非常成功的君主。让我们透过《三国志》，重新认识一下他吧。",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Aug 2017 08:06:00 GMT",
+      "feed_index": 99
+    },
+    {
+      "id": "4d2c8e102e4f77dbc1ad76ee40457082048af4ca302ffb5397923df56a028c99",
+      "guid": "https://aod.cos.tx.xmcdn.com/group29/M07/B9/F1/wKgJXVlLsDPSI9fnAFdqnQUKwWI629.m4a",
+      "title": {
+        "text": "二十一回 曹操煮酒论英雄 关公赚城辗车胄 2",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Jun 2017 11:55:50 GMT",
+      "feed_index": 133
+    },
+    {
+      "id": "5fe37b670bcc8bc94ec22f7dee243dcd691dab61bacdb8f69a30e125372d2bb9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group27/M02/97/EB/wKgJR1jWNVvweNIIALnz2Zqw86w961.m4a",
+      "title": {
+        "text": "十四回 曹孟德移驾幸许都 吕凤先趁夜袭徐郡 6",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Mar 2017 09:16:20 GMT",
+      "feed_index": 166
+    },
+    {
+      "id": "5a7403d4dff392a98c3c148fa66b0d4a3764d64730cbbe76aacb02f7f513fd81",
+      "guid": "https://aod.cos.tx.xmcdn.com/group24/M08/E4/B9/wKgJNVhagjSjkf7dAOkPyI4BSnk432.m4a",
+      "title": {
+        "text": "第七回_袁绍磐河战公孙 孙坚跨江击刘表 2",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 21 Dec 2016 13:24:42 GMT",
+      "feed_index": 199
+    },
+    {
+      "id": "51de0c077c08c79ec4815498e8aa0ad54c58690414129ee882d09b0beacdcc67",
+      "guid": "https://aod.cos.tx.xmcdn.com/group8/M05/71/7D/wKgDYFX3ypTynwNFAGuj9clrOco889.m4a",
+      "title": {
+        "text": "第一回 宴桃源豪杰三结义 斩黄巾英雄首立功 1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Sep 2015 07:37:12 GMT",
+      "feed_index": 232
+    }
+  ]
+}

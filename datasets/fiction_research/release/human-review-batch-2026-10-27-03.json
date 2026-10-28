@@ -1,0 +1,103 @@
+{
+  "batch_id": "human-chat-2026-10-27-03",
+  "recorded_at": "2026-10-27T12:38:42.849443+00:00",
+  "user_statement": "21 保留 英文小说不拦截 22 保留 英文小说不拦截 23拦截 介绍里说了是玄幻仙侠小说，单集也都是小说章节序号和标题 24 拦截 玄幻故事 单集也都是小说章节序号和名字 25保留 26 拦截 有声小说 27保留 是主持人聊天 28保留 是访谈 29保留 是分享自己的经历 30 保留 有两个主持人，是对谈节目",
+  "review_basis": "User reviewed show titles, excerpted RSS descriptions and representative episode titles presented in chat; no audio listening reported.",
+  "unit": "show",
+  "predictions_shown": false,
+  "episode_labels_inferred": false,
+  "independence_audit_status": "pending",
+  "items": [
+    {
+      "number": 21,
+      "show_id": "1251826993",
+      "title": "每日英文有声小说-长腿叔叔",
+      "content_label": "fiction",
+      "filter_decision": "allow",
+      "rationale": "英文小说不拦截。",
+      "chinese_metrics_eligible": false
+    },
+    {
+      "number": 22,
+      "show_id": "1262978649",
+      "title": "每日英语有声小说-在我入睡前",
+      "content_label": "fiction",
+      "filter_decision": "allow",
+      "rationale": "英文小说不拦截。",
+      "chinese_metrics_eligible": false
+    },
+    {
+      "number": 23,
+      "show_id": "1268501410",
+      "title": "山海经新说【玄幻】",
+      "content_label": "fiction",
+      "filter_decision": "block",
+      "rationale": "介绍里说了是玄幻仙侠小说，单集也都是小说章节序号和标题。",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 24,
+      "show_id": "1271272846",
+      "title": "男女双播玄幻【缥缈·提灯卷】",
+      "content_label": "fiction",
+      "filter_decision": "block",
+      "rationale": "玄幻故事，单集也都是小说章节序号和名字。",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 25,
+      "show_id": "1315967431",
+      "title": "中国文化概论",
+      "content_label": "nonfiction",
+      "filter_decision": "allow",
+      "rationale": "保留。",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 26,
+      "show_id": "1321229059",
+      "title": "长篇有声小说 战争风云",
+      "content_label": "fiction",
+      "filter_decision": "block",
+      "rationale": "有声小说。",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 27,
+      "show_id": "1323470627",
+      "title": "蛋比哈哈聊电影",
+      "content_label": "nonfiction",
+      "filter_decision": "allow",
+      "rationale": "是主持人聊天。",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 28,
+      "show_id": "1333475582",
+      "title": "翻轉自己，婷婷的世界幸福哲學 | Ting's Philosophy Of Happiness",
+      "content_label": "nonfiction",
+      "filter_decision": "allow",
+      "rationale": "是访谈。",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 29,
+      "show_id": "1338444962",
+      "title": "吴勉旅行记之冰岛游",
+      "content_label": "nonfiction",
+      "filter_decision": "allow",
+      "rationale": "是分享自己的经历。",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 30,
+      "show_id": "1342040716",
+      "title": "艺术有读",
+      "content_label": "nonfiction",
+      "filter_decision": "allow",
+      "rationale": "有两个主持人，是对谈节目。",
+      "chinese_metrics_eligible": null
+    }
+  ],
+  "policy_note": "Human explicitly exempts English-language fiction. Items 21 and 22 remain fiction content labels with allow filter decisions and are excluded from Chinese-only fiction recall. This does not label English fiction as nonfiction."
+}

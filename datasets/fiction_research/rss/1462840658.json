@@ -1,0 +1,140 @@
+{
+  "show_id": "1462840658",
+  "feed_url": "http://www.ximalaya.com/album/15367125.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/15367125.xml",
+    "final_url": "http://www.ximalaya.com/album/15367125.xml",
+    "fetched_at": "2026-10-25T14:50:02.059540+00:00",
+    "status": 200,
+    "sha256": "939b6c495ba2d4e151846f469baf452d0f6894afef83034e2cd0977c4db6665a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "晚安妈妈趣旅行",
+    "truncated": false
+  },
+  "description": {
+    "text": "更多精彩有趣的旅行花絮 ，就在 晚安妈妈趣旅行【 新浪微博、微信公众号】 。 晚安妈妈酷爱亲子旅行和摄影 ，带孩子去过毛里求斯、马尔代夫、斯里兰卡、印度尼西亚、新加坡、泰国、日本、韩国、越南、中国台湾、中国香港、中国澳门等地。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 98,
+  "episodes": [
+    {
+      "id": "6e638adfe6a69716cf4a03f8fd616a1df61be728b5eb575f31a8bf14c15a56cf",
+      "guid": "xmly_track_1021964827",
+      "title": {
+        "text": "朱仙镇木版年画",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 13 Oct 2026 12:03:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "798f7ad6306ae194cf1ee279ca4afc591b0171d2f2d88ee2b2a1a825191cc972",
+      "guid": "xmly_track_819552144",
+      "title": {
+        "text": "在澳门路环岛徒步",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 12 Mar 2025 12:03:00 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "c2cd497d7507556afcc6a5b32ea91f3baa08b0e944a4c0870e28ead3edad6c04",
+      "guid": "xmly_track_647038767",
+      "title": {
+        "text": "跟着课本去研学【西安】【视频】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 08 Jul 2023 09:19:17 GMT",
+      "feed_index": 28
+    },
+    {
+      "id": "cbb8a13571a376272466aa929bb4ea63705c6045e54bd70accf7e4b836248b7b",
+      "guid": "xmly_track_549318648",
+      "title": {
+        "text": "【小胖吉的夏天】家门口的少儿篮球场【视频】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Jul 2022 15:19:41 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "2e6ce4f4a51c796f2499c37ec1c5cc220790282da2380fd96fdc2e075534be19",
+      "guid": "https://aod.cos.tx.xmcdn.com/group85/M0A/0A/D3/wKg5H18-gM7ixypBADWfLV43oOI345-aacv2-48K.m4a",
+      "title": {
+        "text": "晚安妈妈趣旅行：自驾去黄山【DAY 2】【视频】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 20 Aug 2020 13:55:08 GMT",
+      "feed_index": 55
+    },
+    {
+      "id": "ab31f6b94291a2b0b38a22310667647d6a41fa1b49d91fa48f950830c3980d57",
+      "guid": "https://aod.cos.tx.xmcdn.com/group73/M07/EF/E7/wKgO215XUYygrrpYAAIm6IB1G14202.m4a",
+      "title": {
+        "text": "晚安妈妈趣旅行：坐在竹筏上，“慢”游李中水上森林 2019.4拍摄【视频】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 Feb 2020 05:30:00 GMT",
+      "feed_index": 69
+    },
+    {
+      "id": "da6503bcd4e5bf2efd2736f0cca0c0af8565ed2e771d943ce6d981603b459663",
+      "guid": "https://aod.cos.tx.xmcdn.com/group52/M06/9A/AD/wKgLe1xMInjC_KdBACe3etDVicU065-aacv2-48K.m4a",
+      "title": {
+        "text": "晚安妈妈趣旅行：上野动物园里的牛乳冰淇淋",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 26 Jan 2019 09:14:23 GMT",
+      "feed_index": 83
+    },
+    {
+      "id": "89843fe0af7157591a1de1d26f91b786e0cbafe8ba04f006573a9a764ee425aa",
+      "guid": "https://aod.cos.tx.xmcdn.com/group7/M02/A8/F6/wKgDWlZS4ubxvPIkAEGTEaFKUnw538-aacv2-48K.m4a",
+      "title": {
+        "text": "晚安妈妈趣旅行：泰国海底漫步",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 23 Nov 2015 09:57:01 GMT",
+      "feed_index": 97
+    }
+  ]
+}

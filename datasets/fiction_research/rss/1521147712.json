@@ -1,0 +1,140 @@
+{
+  "show_id": "1521147712",
+  "feed_url": "https://feed.firstory.me/rss/user/ckfhpfssf3hn20836di2jkpef",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckfhpfssf3hn20836di2jkpef",
+    "final_url": "https://feed.firstory.me/rss/user/ckfhpfssf3hn20836di2jkpef",
+    "fetched_at": "2026-10-25T14:50:19.503638+00:00",
+    "status": 200,
+    "sha256": "b390398333b1738afd7a018163ce5accc025cba49ade80aa756468b88eee9d4c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "曾咖波荒謬事",
+    "truncated": false
+  },
+  "description": {
+    "text": "一個來自台南的北漂永康人，成立想讓大家在大便時，邊笑邊拉的搞笑粉絲團「永康曾咖郎」，後來決定攜手故事女主角某人，開個適合通勤時聽的 Podcast 節目！除了聊聊人生荒謬事以外，也會在節目中點歌送給大家。 Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 262,
+  "episodes": [
+    {
+      "id": "ed9cde79fe29ff2eb76f9e675e4d09595facf866f1497e5c5b95da5ec51edd57",
+      "guid": "cmvl3cbxk014901sz05te6jjz",
+      "title": {
+        "text": "新北市竟然可以騎車看蝙蝠 / 上陽明山抓蝌蚪 / 小咖寶愛上各種生態團｜EP 261",
+        "truncated": false
+      },
+      "description": {
+        "text": "最近帶小咖寶去一個可能連台北人都沒什麼聽過的地方玩，叫做牡丹，那邊有個很神奇的隧道叫做三貂嶺隧道，最神秘的是在裡面騎車，會撞見一大群蝙蝠！！！！ 本集點播歌曲：至少我們都還沒放棄 / 公館青少年 加入會員，支持節目： https://localcouple.firstory.cc/join 留言告訴我你對這一集的想法： https://open.firstory.fm/user/ckfhpfssf3hn20836di2jkpef/comments 歡迎到 曾咖波荒謬事 IG 看我們的荒謬日常！ 如果你喜歡我們的故事，也歡迎 單筆贊助 曾咖波，成為讓我們在繁忙的育兒風暴裡，仍能努力爬到麥克風前的那份動力。 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Oct 2026 15:00:17 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f10263837895db6dd2a9d0eb14a3a89002a5e79322ba324cd0652c2e6253ec8e",
+      "guid": "cmh52z14p008i01y01en32k3f",
+      "title": {
+        "text": "三歲小孩的不甘示弱與嗆聲 / 在高雄的飯店遇到神秘事件 / 愛河竟然可以搭貢多拉？？ ｜EP 224",
+        "truncated": false
+      },
+      "description": {
+        "text": "過了一個中秋連假，有好多有趣的事可以跟大家分享啊！！ 這次去高雄，搭了愛河的貢多拉，住到讓咖郎爸徹夜難眠的飯店，還有去超好玩的鈴鹿賽道樂園！！！！ 本集點播歌曲：若無你我欲去佗位 / 黃奇斌 加入會員，支持節目： https://localcouple.firstory.cc/join 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckfhpfssf3hn20836di2jkpef/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Oct 2025 16:49:10 GMT",
+      "feed_index": 37
+    },
+    {
+      "id": "f82e03b62c6e101f699b66d1270af91006fc36fcf2c71735d3c811bf36c6da84",
+      "guid": "cm38yu99d0bwk01xadoxt1zih",
+      "title": {
+        "text": "出發前查富國島怎麼越查越可怕辣 / 想幫小孩剪個頭髮實在有夠困難｜EP186",
+        "truncated": false
+      },
+      "description": {
+        "text": "下週某人生日全家要出發越南富國島囉！！！！但行前查資料怎麼越查越可怕ＸＤＤＤ 本集點播歌曲：Cornfield Chase / Hans Zimmer 小額贊助支持本節目： https://open.firstory.me/user/ckfhpfssf3hn20836di2jkpef 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckfhpfssf3hn20836di2jkpef/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 08 Nov 2024 16:44:12 GMT",
+      "feed_index": 75
+    },
+    {
+      "id": "ce5effb1e8a90a7a8f9df33cdefb1521f33008fa3874332edd4d30ed4d74db07",
+      "guid": "clq5e4tc0000601ur9trfhhum",
+      "title": {
+        "text": "作為高敏人的心路歷程 / 咖郎為什麼這麼討厭 KTV / 螞蟻蚊子好煩啊 ｜EP149",
+        "truncated": false
+      },
+      "description": {
+        "text": "MBTI 是 INFP 的咖郎，剖析了自己為什麼這麼不愛去 KTV ，一切竟然跟高敏有關！？ 本集點播歌曲：為愛啟程 / 楊丞琳 小額贊助支持本節目： https://open.firstory.me/user/ckfhpfssf3hn20836di2jkpef 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckfhpfssf3hn20836di2jkpef/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 14 Dec 2023 16:04:56 GMT",
+      "feed_index": 112
+    },
+    {
+      "id": "f5d50ba46bff2671c0b76d6971703b55299be227e941eda1368f1b8e419c6a4e",
+      "guid": "cldvvsp9700zp01tjgxk25mzf",
+      "title": {
+        "text": "過年十天猶如十年 / 體驗戀愛生態系頂端的失戀 / 夭壽喔抽中台北東京來回機票 ｜EP112",
+        "truncated": false
+      },
+      "description": {
+        "text": "今年過年是某人跟小咖寶第一次一起在永康過除夕，很多事情真的要親身體會才知道有多辛苦，期間又經歷小咖寶腸病毒來襲，整個過年實在度日如年，好在有某人妹相伴，聽聽不缺男人異性緣封頂的人失戀會是什麼樣子，以及最後史上最否極泰來的荒謬事件，我們莫名抽中台北東京來回機票！！ 本集點播歌曲：主打歌 / 屁孩 Ryan 小額贊助支持本節目： https://open.firstory.me/user/ckfhpfssf3hn20836di2jkpef 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckfhpfssf3hn20836di2jkpef/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Wed, 08 Feb 2023 16:26:27 GMT",
+      "feed_index": 149
+    },
+    {
+      "id": "679f32b904693f4fc39ee2e94bff15fca9ab6685cf2100f457d664e14df601ca",
+      "guid": "cl156tjaf01f30hvxf48909qc",
+      "title": {
+        "text": "【咖波問事】不想當高齡產婦怎麼辦 /八字不合被長輩反對結婚 / 如何開口跟久未聯絡的朋友聯繫 ｜EP75",
+        "truncated": false
+      },
+      "description": {
+        "text": "人生在世、煩惱多多，我們不時會在粉絲頁與 IG 收到咖粉們的來訊，分享人生煩惱，想聽聽咖波的看法～ 催生了「咖波問事」的誕生，每個月底我們都會在限動上徵集大家的煩惱，只要你來問，我們就會答！ 本集問事內容： 【家庭婚姻類】 覺得自己好像會變成高齡產婦 現在不想生小孩，可是怕老了生不出來 有特別的理財規劃嗎？兩個人變三人，會怎麼去分配呢？ 同樣剛好是剛卸貨的媽媽覺得一切都好無助啊，覺得小孩為什麼一直大便為什麼提早肚子餓一直哭 咖寶目前用什麼尿布的尺寸 【愛情結婚類】 雙方意見分歧，有時候只是做法不同，但一方堅持任何事情都有對錯，請問該如何解？ 都要登記結婚了，男友媽卻因算命說八字不合而極力反對，說服不了長輩，兩個人都很痛苦 你們怎看一方是學生一方是出社會的感情（現在大三但男友還在重考，將來勢必會遇到這個狀況，雖然目前很穩定但朋友很擔心） 【人生職場類】 上班的時候突然一陣阿雜（有時候是沒來由，有時候是因為某些同事或工作）該如何排解（不會抽菸） 當老師卻又因為一堂課大翻車，直接信心歸零，很怕耽誤人家 想和很久沒聯絡的朋友聯絡，不知道如何開口（不是情侶純友誼）覺得自己不是一個好朋友 本集點播歌曲：拉麵公子 / 鶴 The Crane ^o^ 歡迎到「永康曾咖郎」臉書粉專，看更多荒謬事 ^o^ https://www.facebook.com/yklocalman ＄ 抖內支持兩人，繼續荒",
+        "truncated": true
+      },
+      "published_at": "Thu, 24 Mar 2022 16:07:11 GMT",
+      "feed_index": 186
+    },
+    {
+      "id": "33cc61cc5db8fd11f3dd2d85dda6474076a6c6967cced0a0e2c28735f77107b3",
+      "guid": "cknsn4eewdlnj0856sp7hytxi",
+      "title": {
+        "text": "同居真的會讓愛情幻滅嗎 / 與友同居荒謬事 / 婚前到底要不要同居 ｜ EP38",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集由 氧潤洗髮精 贊助播出，氧潤行銷部的咖粉同事們想要邀請大家一起來聽本集 Podcast 抽超爽獎品，也提供咖粉專屬的賣場連結 https://bit.ly/3sDlpjG ，只要輸入專屬折扣碼 9487 ，就可以享有咖粉獨家優優優惠!! 結婚前到底要不要同居，同居對於愛情來說到底是加分還是扣分? 本集由已經進入第七年的資深同居組合曾咖波來細細分析同居的優缺點，並互相出賣對方超多莫名又荒謬的生活習慣，直接變成一集爆料大會! 重點段落直接選 (04:50) 大學同居的神奇室友 (13:52) 抽乾爹超猛洗髮精方式大公開 (17:13) 長大後與家人同居的憂愁 (25:44) 情侶同居十大注意事項 (26:50) 某人上廁所超荒謬習慣 (32:45) 為了同居的生活花費而研發的新型態電子支付 (32:45) 同居的家事如何分配 (43:39) 同居如何避免沒有愛了 (45:25) 同居是否很容易吵架 本集點播歌曲：陪妳過假日 / Leo王 9m88 ^o^ 歡迎到「永康曾咖郎」臉書粉專，看更多荒謬事 ^o^https://www.facebook.com/yklocalman ＄ 抖內支持兩人，繼續荒謬下去 ＄https://open.firstory.me/join/ckfhpfssf3hn20836di2jkpef Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Apr 2021 10:08:16 GMT",
+      "feed_index": 224
+    },
+    {
+      "id": "f45e2985e1676aa0decdedd63df083f15c5707d1659f920d1393d5b20ebfebfd",
+      "guid": "d17cac8e-b67a-4625-a773-0caa33be047c",
+      "title": {
+        "text": "養過的奇怪寵物 / 貓派還狗派 / 寵物溝通大揭密 | EP1",
+        "truncated": false
+      },
+      "description": {
+        "text": "永康曾咖郎開Podcast啦！和某人聯手，第一集來聊聊寵物荒謬事，某人家竟然是開動物園的？！小時候都要養蠶寶寶，背後的陰謀是什麼？寵物溝通是真的假的？ 本集點播歌曲： 韋禮安 / 貓咪共和國 蕭敬騰 / 讓我為你唱情歌 歡迎到「永康曾咖郎」臉書粉專，看更多荒謬事：https://www.facebook.com/yklocalman/ Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 28 Jun 2020 14:44:11 GMT",
+      "feed_index": 261
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1553959279",
+  "feed_url": "https://feeds.soundon.fm/podcasts/c9840456-4bd5-457a-921d-a4eb6f056439.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/c9840456-4bd5-457a-921d-a4eb6f056439.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/c9840456-4bd5-457a-921d-a4eb6f056439.xml",
+    "fetched_at": "2026-10-25T14:57:10.096540+00:00",
+    "status": 200,
+    "sha256": "03efb17f6a999eab3e90b7930620f83cfefbdbc6cfeffed3cc52b06ebf7403f1"
+  },
+  "status": "ok",
+  "title": {
+    "text": "下午茶喝到卦＿輕鬆聊各國文化",
+    "truncated": false
+  },
+  "description": {
+    "text": "她是走過三十個國家、在巴黎打拼的「歐蘿拉」；他是土生土長一輩子沒離開過亞洲、超local的「邱歪」。從台灣人的角度，混搭法式生活。用台台又法法的輕鬆節奏，帶大家一起探索各國文化。 👉想跟我們聊聊嗎？ IG「下午茶喝到卦」@afternoondrunk 歐蘿拉 FB & IG 「巴黎大小眼」@eyesonpariss 👉歐蘿拉的巴黎導覽與諮詢服務 https://forms.gle/Hma1rX4Ch5pGuNdy5 👉贊助一杯下午茶，讓我們繼續聊下去 https://afternoondrunk.soci.vip/ -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 153,
+  "episodes": [
+    {
+      "id": "0d8d24b9c536cd4ef12a1ee3a2947f002736f36b34938fcfdc14a2ae55d3efca",
+      "guid": "3e2614b3-315f-47b0-8930-906139e6a79b",
+      "title": {
+        "text": "ep153 [法國文化#63] 歐洲聖誕節怎麼過｜哪國聖誕市集最讚｜聖誕樹上放蠟燭合理嗎？！",
+        "truncated": false
+      },
+      "description": {
+        "text": "哪一個國家的聖誕市集最推薦呢？今年的聖誕節，歐蘿拉在維也納過，冷到路人小孩都穿滑雪服出門是怎麼回事啦！今年聖誕節吃什麼、玩什麼、看到什麼？聖誕節值得來歐洲嗎？今天來杯熱紅酒，順便聊聊歐洲人對小孩的餐桌文化大不同。 👉想跟歐蘿拉和邱歪聊聊嗎？ IG 下午茶喝到卦 @afternoondrunk 歐蘿拉 FB | IG 巴黎大小眼 eyesonpariss 👉歐蘿拉的巴黎導覽服務 https://forms.gle/Hma1rX4Ch5pGuNdy5 👉贊助一杯下午茶 https://afternoondrunk.soci.vip/ ⭐⭐⭐Apple podcast 五星評論與留言留起來⭐⭐⭐ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 13 Feb 2026 16:09:45 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "e973ae97db7622503e38c73c70fb29619cb827f25c69351c7dc170df5e0e5d88",
+      "guid": "20c35021-e714-4e38-a2e6-c99874439962",
+      "title": {
+        "text": "ep131 [法國文化#53] 法國餐廳用餐需知｜不是香檳就高級｜分食就是不可以!？",
+        "truncated": false
+      },
+      "description": {
+        "text": "法國人超～講究餐桌禮儀，在餐廳吃飯的規矩，不說不知道，一說還真的跟台灣太不同了吧！從點餐的眉角、食物的搭配方式、甚至是麵包的吃法，通通都有法國人自己的一套邏輯。有時候，沒有按照他們的規矩來，還會被服務生偷偷翻白眼！今天來杯Chai Latte，聊聊法國人餐桌的秘密。 👉想跟歐蘿拉和邱歪聊聊嗎？ IG 下午茶喝到卦 @afternoondrunk 歐蘿拉 FB | IG 巴黎大小眼 eyesonpariss 👉歐蘿拉的巴黎導覽與諮詢服務 https://forms.gle/Hma1rX4Ch5pGuNdy5 👉贊助一杯下午茶 https://afternoondrunk.soci.vip/ ⭐⭐⭐Apple podcast 五星評論與留言留起來⭐⭐⭐ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Oct 2024 21:45:02 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "82f75bd15302f431c0148a65ad4c444456d9bd285a17d162a2ef83874517dfd2",
+      "guid": "b254113d-544a-4adf-b24e-3323caf649e2",
+      "title": {
+        "text": "ep110 [歪歐旅遊#14] 日本北海道Hokkaido｜有雪處處是日劇｜水豚君跟馬來貘一樣大？",
+        "truncated": false
+      },
+      "description": {
+        "text": "邱歪遇到北海道的第一場雪，怎麼那麼幸運啦！披上雪景的北海道，無論是山上泡湯、小樽古蹟巡禮、四季彩之丘都加倍的浪漫；就連動物都加倍的可愛？今天來瓶Sapporo beer，聊聊冬天的北海道，有什麼好吃、好玩、大推的行程！ 👉想跟歐蘿拉和邱歪聊聊嗎？ IG 下午茶喝到卦 @afternoondrunk 歐蘿拉 FB | IG 巴黎大小眼 eyesonpariss 👉歐蘿拉的巴黎導覽與諮詢服務 https://forms.gle/Hma1rX4Ch5pGuNdy5 👉贊助一杯下午茶 https://afternoondrunk.soci.vip/ ⭐⭐⭐Apple podcast 五星評論與留言留起來⭐⭐⭐ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 Jan 2024 20:15:23 GMT",
+      "feed_index": 43
+    },
+    {
+      "id": "9459204677dbd0adda236541000365ba781ced616ea429efba3bbe27ce275fe5",
+      "guid": "31394dd7-6dc8-472f-947c-445b04b6b822",
+      "title": {
+        "text": "ep89 [法國文化#38] 法國醫療大不同｜想看病先排一個月｜醫生可以隨意喊價？",
+        "truncated": false
+      },
+      "description": {
+        "text": "來法國想看個病，發現在路上找不到診所，跟台灣也太不一樣了吧！法國的醫院冷冷清清，服務超級好；小診所卻要排隊排上好幾天、週、甚至是月才能見上醫生一面！今天來杯無糖的黑糖珍奶，聊聊法國的醫療制度揪竟在搞什麼鬼？ 👉想跟歐蘿拉和邱歪聊聊嗎？ IG 下午茶喝到卦 @afternoondrunk 歐蘿拉 FB | IG 巴黎大小眼 eyesonpariss 👉歐蘿拉的巴黎導覽與諮詢服務 https://forms.gle/Hma1rX4Ch5pGuNdy5 👉贊助一杯下午茶 https://afternoondrunk.soci.vip/ ⭐⭐⭐Apple podcast 五星評論與留言留起來⭐⭐⭐ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Dec 2022 18:22:30 GMT",
+      "feed_index": 65
+    },
+    {
+      "id": "fcb9628bc49d1edfd35e5708cabcaf468d10a998a479a27c1192b5fc0c82e7f1",
+      "guid": "c51c0df7-c200-4f7c-945d-ba390c398bd6",
+      "title": {
+        "text": "ep66 [異鄉大亂鬥#16] 新加坡工作戀愛養成記｜淘金天堂也有階級差別｜泰國人超愛乾淨？ft. Freda",
+        "truncated": false
+      },
+      "description": {
+        "text": "國際化大城市新加坡，不只是賺錢工作的好地方，更是認識形形色色外國人的戀愛勝地？今天邀請到在新加坡新創公司擔任HR的Freda，分享她體驗到既熟悉又陌生的在新加坡文化，以及她和泰國老公，在第三地生活的文化挑戰。今天來一杯teh C siew dai，一邊聊聊泰國男人的八卦。 👉想跟歐蘿拉和邱歪聊聊嗎？ IG 下午茶喝到卦 @afternoondrunk 歐蘿拉 FB | IG 巴黎大小眼 eyesonpariss 👉歐蘿拉的巴黎導覽與諮詢服務 https://forms.gle/Hma1rX4Ch5pGuNdy5 👉贊助一杯下午茶 https://afternoondrunk.soci.vip/ ⭐⭐⭐Apple podcast 五星評論與留言留起來⭐⭐⭐ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 07 Jun 2022 19:47:55 GMT",
+      "feed_index": 87
+    },
+    {
+      "id": "3fbc6635d0ac629cb9c5e125b15952a82da0a3a27b33c8db77b209652a945b0f",
+      "guid": "5e727f46-70e9-4f93-982d-a8e160152ab2",
+      "title": {
+        "text": "[歪歐白講#7] 回台雜感｜世代隔閡｜文化入侵",
+        "truncated": false
+      },
+      "description": {
+        "text": "歐蘿拉又回法國了，短短待在台灣幾週，看到了一些有趣的現象，無論是在工作、教育、生活上，都有一些新鮮體會。等不及要和大家來杯蜜香紅茶，大聊特聊一番！ 👉想跟歐蘿拉和邱歪聊聊嗎？ IG 下午茶喝到卦 @afternoondrunk 歐蘿拉 FB | IG 巴黎大小眼 eyesonpariss 👉贊助一杯下午茶 https://afternoondrunk.soci.vip/ ⭐⭐⭐Apple podcast 五星評論與留言留起來⭐⭐⭐ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Dec 2021 23:19:31 GMT",
+      "feed_index": 109
+    },
+    {
+      "id": "ec89996ecee4d763786ec13b559ab673bc9cde38e8e741aacfc7ea4062c547fb",
+      "guid": "c48c0a2b-178b-44eb-b316-ffc71cafd7d0",
+      "title": {
+        "text": "[法國文化#12] 法式旅行好刺激｜台灣三寶不能少｜旅遊vs度假你是哪一派？",
+        "truncated": false
+      },
+      "description": {
+        "text": "剛從南法普羅旺斯度假回來的歐蘿拉，今天要和大家分享，跟法國人一起出遊：咦～～～愛注意！法國人度假揪竟都在玩什麼？和法國人出遊必備三寶？還有千萬不要讓法國人坐上駕駛座！今天來杯薰衣草糖漿＋氣泡水＋三顆冰塊，冰冰涼涼的感覺，讓我們一邊聊普羅旺斯，一邊繼續帶你幽默這個夏天。 👉想跟歐蘿拉和邱歪聊聊嗎？ IG 下午茶喝到卦 @afternoondrunk 歐蘿拉 FB | IG 巴黎大小眼 eyesonpariss 👉贊助一杯下午茶 https://afternoondrunk.soci.vip/ ⭐⭐⭐Apple podcast 五星評論與留言留起來⭐⭐⭐ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 27 Jul 2021 19:22:12 GMT",
+      "feed_index": 130
+    },
+    {
+      "id": "9f27c5932e7fc4c0a0f10714f155bc656fcf2c2d0f86f67a03c1e061e70af46b",
+      "guid": "f48c1aac-2ee6-4150-a63e-320ac7aff905",
+      "title": {
+        "text": "[法國文化#1] 法國傳統聖誕節｜禮物買到破產｜強迫老人守歲！",
+        "truncated": false
+      },
+      "description": {
+        "text": "法國人的新年流程，跟法餐一樣講究細節，每個環節都不能錯過；從聖誕節的前一個月，直到聖誕夜的那一天，大家究竟在做什麼呢？偷偷跟你說，過年不僅是家人溫馨團聚的時光，更是考驗情人關係的時刻。這一集，我們一起舉杯喝香檳，深入法國家庭！ 👉想跟歐蘿拉和邱歪聊聊嗎？ IG 下午茶喝到卦 @afternoondrunk 歐蘿拉 FB | IG 巴黎大小眼 eyesonpariss 👉贊助一杯下午茶 https://afternoondrunk.soci.vip/ 【本集段落】 05:16 法國新年在幹嘛？ 08:23 聖誕夜家庭聚會也要走流程？ 14:28 聖誕節必吃的特殊甜點！ 18:00 男女朋友可以帶回家過聖誕節嗎？ 20:00 想感受聖誕節氣氛，什麼時候來法國最好？ 25:00 法國有農曆新年活動嗎？ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Feb 2021 19:22:54 GMT",
+      "feed_index": 152
+    }
+  ]
+}

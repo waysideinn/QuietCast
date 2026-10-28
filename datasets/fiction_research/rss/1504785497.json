@@ -1,0 +1,140 @@
+{
+  "show_id": "1504785497",
+  "feed_url": "http://www.ximalaya.com/album/35639151.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/35639151.xml",
+    "final_url": "http://www.ximalaya.com/album/35639151.xml",
+    "fetched_at": "2026-10-25T14:49:45.102851+00:00",
+    "status": 200,
+    "sha256": "d17d47c77559d200ef9a8bffcc14aa68f153fcdb6247db2b503a7615721a5f9b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "西游记的秘密试听版|西游记解读",
+    "truncated": false
+  },
+  "description": {
+    "text": "揭示西游记深层次奥秘，作者：致宁。 《西游记》蕴含了丰富的文化、社会、人性的内容。作者用生动精彩的文字描绘了一个历时千年的过程，作品从最初的起源到正式成书也历经了千年。作者除了直接描写故事发生的过程以外，还通过情节、细节揭示了一些深层的背景，甚至包括作品本身，如：作品诞生的背景，作者是谁，都还是迷，有些至今仍然待解。这一部西游记解析，便是要挖掘出西游记深层次的内容。 致宁：《西游记前传》《西游记讲解》《西游记深度解析》《七大圣》作者。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 81,
+  "episodes": [
+    {
+      "id": "297e0002e0d3c1948c90a3cd53b53cbdb5ebcda002cf385403038809673f86d2",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5512-audiofreehighqps/54/31/CKwRIaIE-0eIAEZmVQDb2QJ-.m4a",
+      "title": {
+        "text": "西游记与现实世界（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《西游记》蕴含了丰富的文化、社会、人性的内容。作者用生动精彩的文字描绘了一个历时千年的过程，作品从最初的起源到正式成书也历经了千年。作者除了直接描写故事发生的过程以外，还通过情节、细节揭示了一些深层的背景，甚至包括作品本身，如：作品诞生的背景，作者是谁，都还是迷，有些至今仍然待解。 《西游记》是一部古代神魔小说，讲述的内容从形式上看完全是神怪的世界，对西游记的评价一直存在两种不同的方向，有说是纯粹的故事，有说是饱含深意，二者都有依据以及支持者，基于不同视角来看都具备一定的道理。但其流传至今，不单单是因为其想象力和文辞的丰富多彩，更是因为其包含了丰富而深刻的社会和人性的现实，甚至是古代的一些修行的理念。 这些深层的内容被融入到了情节细节和整体的安排当中，只有通过系统和细致的思考才能够发现其中的深意，并发现主体的背景。作品隐含的内容反映的世界比表面的故事更加深刻精彩。 作品本身也充满了传奇和神秘色彩，在最终成书正式出版之前，包括人物原型在内，历经数个时代的无数人 为其贡献了丰富的内容，而最终作者至今依然没有明确的定论。 这一部西游记解析，便是要挖掘出西游记深层次的内容。",
+        "truncated": false
+      },
+      "published_at": "Sat, 21 Mar 2020 14:11:06 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8fb8c45535581b651f881205a1a86e5c7059105b7af3bf5c763797fd0dd5b6d7",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2af0-audiofreehighqps/44/7A/CKwRINsE-0qIAFBi5ADb2bhc-aacv2-48K.m4a",
+      "title": {
+        "text": "孙悟空的性情变迁（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 22 Mar 2020 10:10:00 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "8ad9d3700dfbe559926087dc22032279ea05d850e35beb2058c2cb5d7bf4dd54",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ab74-audiofreehighqps/47/45/CKwRIRwE_KH6AAgZqgDcRFd0.m4a",
+      "title": {
+        "text": "唐僧的秘密（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 23 Mar 2020 00:51:53 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "934bc39a17a1ecfb5c7b633f20c6a8aaf6e07bbd5d69fc4854802b3b2a1a3222",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/47cf-audiofreehighqps/09/8A/CKwRIasE_KKWAAlGswDcRI3r.m4a",
+      "title": {
+        "text": "红孩儿、金鱼精的秘密",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 23 Mar 2020 12:00:52 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "f6af382ecfbf0a1472ab4651bb3c8a5485d0b7eac4f90ab4718eeacc979256bd",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/dd7e-audiofreehighqps/09/D6/CKwRIRwE_KNXAAlywQDcRMqR.m4a",
+      "title": {
+        "text": "菩萨的秘密",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 24 Mar 2020 09:00:17 GMT",
+      "feed_index": 46
+    },
+    {
+      "id": "641bd5bd9beae88d1681c7e86849c47feaa7e179540a773fc4ceacc2fd0a6ec3",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0781-audiofreehighqps/75/01/CKwRIJIE_KQIAApaxQDcRQVr.m4a",
+      "title": {
+        "text": "取经的主角究竟是谁（2）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 24 Mar 2020 14:30:06 GMT",
+      "feed_index": 57
+    },
+    {
+      "id": "2002d79eac14cea23a7f4fafbc3b00c44f9c0c34a777c47f4930f063eb7bb941",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c914-audiofreehighqps/B6/07/CKwRIasE_KTCABNdrgDcRTrh.m4a",
+      "title": {
+        "text": "西游记的重要版本（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 Mar 2020 10:30:03 GMT",
+      "feed_index": 69
+    },
+    {
+      "id": "da9d71628d4bb41bf35a7bfa43ba59ad11f60504dc25e66efd09d10d4d3a906c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/63d9-audiofreehighqps/A1/FB/CKwRIasFHdOlAAtKHgDk0swy.m4a",
+      "title": {
+        "text": "西游记的作者究竟是谁（3）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 Mar 2020 16:00:40 GMT",
+      "feed_index": 80
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "http://cdn.lizhi.fm/rss/178674.xml",
+    "final_url": "http://cdn.lizhi.fm/rss/178674.xml",
+    "fetched_at": "2026-10-26T07:53:18.916313+00:00",
+    "status": 200,
+    "sha256": "a91b46755aa7b6cf27c36353512579a8654fc144534e2cef0e7caddbd15e4cf0"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "健康减肥 keep fit",
+      "truncated": false
+    },
+    "description": {
+      "text": "因为胖过，所以懂得。 愿你有高跟鞋也有跑鞋，喝茶也喝酒。愿你有勇敢的朋友，有牛逼的对手。愿你对过往的一切情深意重，但从不回头。愿你特别美丽，特别平静，特别凶狠，也特别温柔。",
+      "truncated": false
+    },
+    "language": "zh-CN",
+    "credits": [
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "桃子味儿吐司"
+      },
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "Copyright @荔枝FM www.lizhi.fm"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "桃子味儿吐司"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Health"
+      ],
+      [
+        "Health",
+        "Fitness & Nutrition"
+      ]
+    ],
+    "channel_link": "http://www.lizhi.fm",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "cdn.lizhi.fm": 8
+    },
+    "feed_item_count": 132,
+    "episodes": [
+      {
+        "title": {
+          "text": "流汗不等于减肥",
+          "truncated": false
+        },
+        "description": {
+          "text": "秋冬季节，流汗后注意保暖哦",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "http://cdn.lizhi.fm/audio/2016/10/21/2563741774735102470_hd.mp3"
+      },
+      {
+        "title": {
+          "text": "［评论送金币］夏天到了，你瘦了吗？",
+          "truncated": false
+        },
+        "description": {
+          "text": "刷弹幕啦，小伙伴们，有什么想问的，你问了，我们必答。五千条，我们可以！！！ 荔枝随机抽取三位粉丝送共280枚金币 桃子抽取一位粉丝送一个月减脂饮食运动计划 有什么问题在评论区留言，三位主播都会回复哒，么么哒 荔枝奖励措施是：（1）弹幕突破3000条，随机抽粉丝1位送金币60枚； （2）弹幕突破5000条，随机抽粉丝3位送金币共280枚； （3）弹幕突破10000条，随机抽粉丝5位送金币共500枚； （4）弹幕突破15000条，随机抽粉丝8位送金币共1480枚； （5）弹幕突破20000条，随机抽粉丝10位送金币共2080枚； 小伙伴们，得到金币可以送给我们电台哈哈，也可以送给其他你喜欢的电台。 爱你们，么么哒",
+          "truncated": false
+        },
+        "feed_index": 19,
+        "guid": "http://cdn.lizhi.fm/audio/2016/07/10/29836237796909958_hd.mp3"
+      },
+      {
+        "title": {
+          "text": "#桃子夜读#一直往南方开",
+          "truncated": false
+        },
+        "description": {
+          "text": "来自于行者李沐泽的新书《你是浪子，别泊岸》",
+          "truncated": false
+        },
+        "feed_index": 37,
+        "guid": "http://cdn.lizhi.fm/audio/2016/04/22/28008139459739270_hd.mp3"
+      },
+      {
+        "title": {
+          "text": "每一个人都能找到属于自己的星星",
+          "truncated": false
+        },
+        "description": {
+          "text": "那些不刷朋友圈的人都在干什么？ 第一期访谈节目：嘉宾tina",
+          "truncated": false
+        },
+        "feed_index": 56,
+        "guid": "http://cdn.lizhi.fm/audio/2016/01/14/25713838259780102_hd.mp3"
+      },
+      {
+        "title": {
+          "text": "变好是一场孤单的旅行",
+          "truncated": false
+        },
+        "description": {
+          "text": "如何拜托负能量 52个提高行动力的 tip 胖小白如何开始运动 饱和脂肪酸的好处",
+          "truncated": false
+        },
+        "feed_index": 75,
+        "guid": "http://cdn.lizhi.fm/audio/2015/10/05/23366430326698118_hd.mp3"
+      },
+      {
+        "title": {
+          "text": "不要活在别人的期待中",
+          "truncated": false
+        },
+        "description": {
+          "text": "广告来啦，爷爷家的葛根粉微信[contact removed]，澳洲保健品代购tiffshop",
+          "truncated": false
+        },
+        "feed_index": 94,
+        "guid": "http://cdn.lizhi.fm/audio/2015/06/06/20563306177204998_hd.mp3"
+      },
+      {
+        "title": {
+          "text": "我用七十斤汗水换我的未来",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 112,
+        "guid": "http://cdn.lizhi.fm/audio/2015/01/24/17480540249977990_hd.mp3"
+      },
+      {
+        "title": {
+          "text": "瘦的健康",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 131,
+        "guid": "http://cdn.lizhi.fm/audio/2014/06/14/12291639397803910_hd.mp3"
+      }
+    ]
+  }
+}

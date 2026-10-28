@@ -1,0 +1,140 @@
+{
+  "show_id": "1471552226",
+  "feed_url": "http://www.ximalaya.com/album/24804025.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/24804025.xml",
+    "final_url": "http://www.ximalaya.com/album/24804025.xml",
+    "fetched_at": "2026-10-25T14:50:19.529724+00:00",
+    "status": 200,
+    "sha256": "d9fba0db16e6011e622dde3d9c2190e23af249afa833afd73fdbc27f44a72e37"
+  },
+  "status": "ok",
+  "title": {
+    "text": "经济师 工商管理 经济基础 最新",
+    "truncated": false
+  },
+  "description": {
+    "text": "中级经济师《工商管理专业知识与实务》是中级经济师的专业课，中级经济师可以用于评定职称以及相关落户需求，现已加入公共课经济基础知识部分内容 相关课程资料可以搜索微信号[contact removed]",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 178,
+  "episodes": [
+    {
+      "id": "c7894d8910557c0a973e7b133c14d49d52e2dfb36803b865c1199293483c9ef5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/969a-audiofreehighqps/C6/2D/CKwRIUEE3gkwABPlcQDRm7fF.m4a",
+      "title": {
+        "text": "绩效考核的步骤",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 02 Aug 2021 19:23:25 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1eabe26f9176c16fa150168f1973933a87aa651cd6501b7ad8c361e8920f0541",
+      "guid": "https://aod.cos.tx.xmcdn.com/group61/M00/26/91/wKgMcF0pdH2xO-h-ADsAWsRsmcA612.m4a",
+      "title": {
+        "text": "差异化战略",
+        "truncated": false
+      },
+      "description": {
+        "text": "中级经济师《工商管理专业知识与实务》是中级经济师的专业课，中级经济师可以用于评定职称以及相关落户需求 本课程按照2018版教材录制，由于2019经济师教材于7月上旬出版，新教材出版后，会及时进行相应课程调整，欢迎订阅！！！ 本课程涉及企业战略、公司治理结构、市场、生产、物流、创新、人力资源、投融资、电商等多个企业模块 本课程适合获取中级职称、入户以及希望学习相关经济学方面知识同学学习",
+        "truncated": false
+      },
+      "published_at": "Sat, 13 Jul 2019 06:04:40 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "43143094f1c0034c200a3008e0f5b3dc95cc02a7ff6eea41a9bc19b76559addb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group66/M04/C2/32/wKgMa1199fDALHNWACcnoJldvk8967.m4a",
+      "title": {
+        "text": "公司财产权两次分离",
+        "truncated": false
+      },
+      "description": {
+        "text": "中级经济师《工商管理专业知识与实务》是中级经济师的专业课，中级经济师可以用于评定职称以及相关落户需求 ，讲义以及经济师相关问题可以加 V 931177361 本课程适合获取中级职称、入户以及希望学习相关经济学方面知识同学学习 本课程涉及企业战略、公司治理结构、市场、生产、物流、创新、人力资源、投融资、电商等多个企业模块",
+        "truncated": false
+      },
+      "published_at": "Sun, 15 Sep 2019 08:28:29 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "a8f8360be068302dafc4b010aff1055614787032416bb7b01d4c8ade975f7771",
+      "guid": "https://aod.cos.tx.xmcdn.com/group79/M03/90/1D/wKgPEF65iqmjmA6TACJqzndbPaQ287.m4a",
+      "title": {
+        "text": "监督机构",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 May 2020 17:25:55 GMT",
+      "feed_index": 76
+    },
+    {
+      "id": "34a22bf4e70e28b059e3c6963d0fab58c427d094a3ad8b1558a2476b50ae2c13",
+      "guid": "https://aod.cos.tx.xmcdn.com/group81/M07/9A/12/wKgPEl65jsWC6-kpAA3dP6EV01o094.m4a",
+      "title": {
+        "text": "降低库存措施",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 May 2020 17:43:32 GMT",
+      "feed_index": 101
+    },
+    {
+      "id": "a74928d59d79cd7252e2c45df89719a4c08df49a8ebfaafd091a2f1e5a4349d3",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5c51-audiofreehighqps/F0/97/CMCoOSQDEFTqABdfeABLiom5.m4a",
+      "title": {
+        "text": "技术创新管理含义分类与模式A",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Aug 2020 14:19:17 GMT",
+      "feed_index": 126
+    },
+    {
+      "id": "dedc9f899f3640170cd6246cd3be4bebd9268b0ab1f2596798e980b560769d8f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/632d-audiofreehighqps/56/36/CKwRINsFP1jkAGuGDQDs_Mp3.m4a",
+      "title": {
+        "text": "2 经济基础知识 市场供给",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Oct 2021 14:53:07 GMT",
+      "feed_index": 152
+    },
+    {
+      "id": "9946a96394e79c0576fbe2cd65a9b7950d54a45e21c1c9760290345cc2dfc59a",
+      "guid": "xmly_track_480850356",
+      "title": {
+        "text": "26 经济发展",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Dec 2021 15:08:33 GMT",
+      "feed_index": 177
+    }
+  ]
+}

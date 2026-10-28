@@ -1,0 +1,42 @@
+{
+  "show_id": "1460336261",
+  "feed_url": "https://anchor.fm/s/a95d7ec/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/a95d7ec/podcast/rss",
+    "final_url": "https://anchor.fm/s/a95d7ec/podcast/rss",
+    "fetched_at": "2026-10-25T14:49:55.113578+00:00",
+    "status": 200,
+    "sha256": "31525f13912da055270bfba5dcafe75ad6e44e8988458d6a7e86772407063211"
+  },
+  "status": "ok",
+  "title": {
+    "text": "女性向け恋愛ラジオailca (アイルカ)",
+    "truncated": false
+  },
+  "description": {
+    "text": "ailca Cover art photo provided by Paweł Czerwiński on Unsplash: https://unsplash.com/@pawel_czerwinski",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 1,
+  "episodes": [
+    {
+      "id": "86de8aba36979000c7a433a0c657b716ebc4d62306c4ab50853b6f732ff497d9",
+      "guid": "90e5836b-b5ea-1914-8d79-d9c43f107011",
+      "title": {
+        "text": "0号室",
+        "truncated": false
+      },
+      "description": {
+        "text": "0号室さんの音sネイ",
+        "truncated": false
+      },
+      "published_at": "Thu, 18 Apr 2019 08:13:18 GMT",
+      "feed_index": 0
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "show_id": "1516053079",
+  "feed_url": "https://papi.qingting.fm/podcast/channels/10526x",
+  "source": {
+    "url": "https://papi.qingting.fm/podcast/channels/10526x",
+    "final_url": "https://papi.qingting.fm/podcast/channels/10526x",
+    "fetched_at": "2026-10-25T14:52:20.744321+00:00",
+    "status": 200,
+    "sha256": "56ea1af1d33b73e9e92c2effe4e16254adc2f098ae754c4c47ad58cd6d998d2e"
+  },
+  "status": "ok",
+  "title": {
+    "text": "每天一点生活经济学",
+    "truncated": false
+  },
+  "description": {
+    "text": "魑魅魍魉，闲暇之余，与大家分享小故事，不标准的普通话，可能笑料百出，但一定用最好的状态呈现给大家，有不足的地方也请大家指教，谢谢。​ 亚当·斯密曾说：“社会分工一旦重新建立，必须要进行交换交换生活，所以，在一定程度上，所有人都会成为商人，社会成为商业社会。”在商业社会，不善思考的人最终都会成为生活中的失败者，只有激活头脑，不断思考，用经济学的思维方式看待问题，我们才能收获不一样的人生。​",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "explicit": "false"
+  },
+  "feed_item_count": 56,
+  "episodes": [
+    {
+      "id": "2f7c230bc990990a121bdbd5c2e4c6ac0515b5d56c4049cb4727039727a5ff95",
+      "guid": "15378918",
+      "title": {
+        "text": "为什么说最简单的理财方法就是量入为出？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Jul 2020 01:05:27 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "feaa8437f86d39847c97036334f90960b62e6044e134506a039a387017f1c174",
+      "guid": "15290188",
+      "title": {
+        "text": "为什么要走出不自觉消费的误区？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 Jun 2020 03:19:12 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "cb50c47dc5bca1e96299fbb767eecdc6529ff6e6b999a3adcbeb48335d094f8b",
+      "guid": "15224536",
+      "title": {
+        "text": "为什么仅仅贵了一元就选择不购买",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 14 Jun 2020 01:17:08 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "359ec9b0698df9911ee0bce762f34557f565e86569647d3030ad7c8a935f98a5",
+      "guid": "15163065",
+      "title": {
+        "text": "为什么比尔·盖茨的子女也得自己打工赚钱？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 06 Jun 2020 01:51:30 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "e3eaff27667954ed58d7697744c2758392658de3a81e918011c6ba87c05d4c8a",
+      "guid": "15129046",
+      "title": {
+        "text": "为什么买的永远没有卖的精？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 03 Jun 2020 00:35:51 GMT",
+      "feed_index": 31
+    },
+    {
+      "id": "3f6e1aae1f810735ef311030ed78b9737c6c2268acdd1a34cd902ef59b745e8e",
+      "guid": "15097587",
+      "title": {
+        "text": "为什么奴隶们都认为自己的孩子被关在小屋里？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 29 May 2020 05:43:53 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "3223f52b64ed2d541addb502fa21d12bdf25a6fb8d7ead4e9855bbf6e3f543cd",
+      "guid": "15053199",
+      "title": {
+        "text": "为什么鳄鱼不吃送上门的美餐？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 24 May 2020 04:04:53 GMT",
+      "feed_index": 47
+    },
+    {
+      "id": "299fecdf27c08b69db3b854624ce060b687cd3b017157e81167aaf1095626035",
+      "guid": "15035773",
+      "title": {
+        "text": "为什么孩子总是自己的好，而太太总是别人的好？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 21 May 2020 04:49:25 GMT",
+      "feed_index": 55
+    }
+  ]
+}

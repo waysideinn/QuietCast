@@ -1,0 +1,140 @@
+{
+  "show_id": "1448125751",
+  "feed_url": "http://www.ximalaya.com/album/16071395.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/16071395.xml",
+    "final_url": "http://www.ximalaya.com/album/16071395.xml",
+    "fetched_at": "2026-10-25T14:41:42.646950+00:00",
+    "status": 200,
+    "sha256": "d0cdd9d00e753481babf8c7707079449960db535b117ea1ad9cb5e4cac303e46"
+  },
+  "status": "ok",
+  "title": {
+    "text": "江户川乱步|推理悬疑奇幻小说集",
+    "truncated": false
+  },
+  "description": {
+    "text": "江户川乱步是日本最富盛名的推理作家、评论家，被誉为日本“侦探推理小说之父”，其笔下的侦探明智小五郎更是日本家喻户晓的人物。 江户川乱步的小说，情节扑朔迷离、悬念极强、处处伏笔，绝对能带给听众朋友不同的听书感受。 本专辑精心挑选江户川乱步的中长篇小说，由资深播讲人录制，奉献给热爱侦探推理小说的听众朋友们。欢迎大家订阅。​",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 285,
+  "episodes": [
+    {
+      "id": "8a75b07311af0672950d85d2d9fedbf2b97c59352e57d522b421cb39c0b2608d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group43/M07/82/AA/wKgKklsuFlrQLJ2yAG6HjpF45FQ247-aacv2-48K.m4a",
+      "title": {
+        "text": "《地狱的滑稽大师》一",
+        "truncated": false
+      },
+      "description": {
+        "text": "江户川乱步（1894年10月21日～1965年7月28日），本名平井太郎，1894年10月21日出生于日本三重县名张町，是日本最富盛名的推理作家、评论家，被誉为日本“侦探推理小说之父”，其笔下的侦探明智小五郎（《名侦探柯南》中江户川柯南姓名由来更是日本家喻户晓的人物。 他的作品，情节扑朔迷离，悬念强烈，既充满妖异、诡谲的气氛，又有着合情合理的推理判断，既以荒诞、幻想的浪漫为创作主调，又能深刻地把握人物的心理，推理严谨，无可挑剔。 本有声小说收录江户川乱步四部中篇，以及大量短片集，会持续更新补完，欢迎大家订阅收听！",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 Jun 2018 09:44:06 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "89ca7064b5f4ad1d8ab1bdaf6d4f03db5339e3e7176f906f6e36edb7970557af",
+      "guid": "https://aod.cos.tx.xmcdn.com/group46/M04/98/71/wKgKlltpOmKDAzRuADy3rSYQb70714-aacv2-48K.m4a",
+      "title": {
+        "text": "《孤岛之鬼》十一 断鼻的乃木大将",
+        "truncated": false
+      },
+      "description": {
+        "text": "江户川乱步（1894年10月21日～1965年7月28日），本名平井太郎，1894年10月21日出生于日本三重县名张町，是日本最富盛名的推理作家、评论家，被誉为日本“侦探推理小说之父”，其笔下的侦探明智小五郎（《名侦探柯南》中江户川柯南姓名由来更是日本家喻户晓的人物。 他的作品，情节扑朔迷离，悬念强烈，既充满妖异、诡谲的气氛，又有着合情合理的推理判断，既以荒诞、幻想的浪漫为创作主调，又能深刻地把握人物的心理，推理严谨，无可挑剔。 本有声小说收录江户川乱步四部中篇，以及大量短片集，会持续更新补完，欢迎大家订阅收听！",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Aug 2018 10:30:01 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "8b7ca11139f2df51a579b358c55da0b02cf4d74890d092000015313879c5922e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group47/M09/6D/A9/wKgKk1ug0sLB6T2qAEc-PwDDMUU815-aacv2-48K.m4a",
+      "title": {
+        "text": "《孤岛之鬼》四十六 大团圆",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 Sep 2018 10:30:00 GMT",
+      "feed_index": 81
+    },
+    {
+      "id": "28994a01cbba61c1f2248698b8c140945069a3b4889dafb02fdb3bbd9f396321",
+      "guid": "https://aod.cos.tx.xmcdn.com/group50/M06/D1/54/wKgKnVvdgxLi5m0uAFMihNeBdpQ911-aacv2-48K.m4a",
+      "title": {
+        "text": "怪盗二十面相 第十五章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 03 Nov 2018 11:14:33 GMT",
+      "feed_index": 122
+    },
+    {
+      "id": "81993d225b85c32e4c420bdb4839d616960ad32ed3752a558dd35c7de22ff612",
+      "guid": "https://aod.cos.tx.xmcdn.com/group54/M03/21/7E/wKgLfVwu1Guhb61vAEJFHDgDNCw974-aacv2-48K.m4a",
+      "title": {
+        "text": "《魔术师》二十六",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 12 Jan 2019 10:35:00 GMT",
+      "feed_index": 162
+    },
+    {
+      "id": "701791735841af377e1737de861c36c9a9ec83a49317fd907159073cee7276ae",
+      "guid": "https://aod.cos.tx.xmcdn.com/group56/M08/A7/A8/wKgLdlyJxFyB7sGXAEtt8VUuBsE868-aacv2-48K.m4a",
+      "title": {
+        "text": "《吸血鬼》28",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 19 Mar 2019 03:01:00 GMT",
+      "feed_index": 203
+    },
+    {
+      "id": "d44d5d782b174ec8876e5dc13157a2f7815abd7a2762da542d2046d1d07a535e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group60/M03/8E/D8/wKgLb1z02LaTDhEYAFqIiQeJors003.m4a",
+      "title": {
+        "text": "《蜘蛛男》33",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 03 Jun 2019 08:21:53 GMT",
+      "feed_index": 243
+    },
+    {
+      "id": "f1d0df58b0714bbea5951e1a81a0c6d4719ebeef39ee6055264a3c88d5fdfef0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group43/M09/33/4A/wKgKjVsqcDPh2weKADxYOMgpmDg539-aacv2-48K.m4a",
+      "title": {
+        "text": "《虫》第十二章（完结）",
+        "truncated": false
+      },
+      "description": {
+        "text": "江户川乱步（1894年10月21日～1965年7月28日），本名平井太郎，1894年10月21日出生于日本三重县名张町，是日本最富盛名的推理作家、评论家，被誉为日本“侦探推理小说之父”，其笔下的侦探明智小五郎（《名侦探柯南》中江户川柯南姓名由来更是日本家喻户晓的人物。 他的作品，情节扑朔迷离，悬念强烈，既充满妖异、诡谲的气氛，又有着合情合理的推理判断，既以荒诞、幻想的浪漫为创作主调，又能深刻地把握人物的心理，推理严谨，无可挑剔。 本有声小说收录江户川乱步四部中篇，以及大量短片集，会持续更新补完，欢迎大家订阅收听！",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Jun 2018 15:59:57 GMT",
+      "feed_index": 284
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1546360337",
+  "feed_url": "http://www.ximalaya.com/album/40756938.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/40756938.xml",
+    "final_url": "http://www.ximalaya.com/album/40756938.xml",
+    "fetched_at": "2026-10-25T14:42:26.808039+00:00",
+    "status": 200,
+    "sha256": "ecb32f3ab65d92b13abe4baab83035309abc0d392b701fe341f9ff4197a97fc8"
+  },
+  "status": "ok",
+  "title": {
+    "text": "绝望主妇PK出轨丈夫【免费精品广播剧】我很好｜双播",
+    "truncated": false
+  },
+  "description": {
+    "text": "继《我的前半生》《都挺好》《三十而已》之后一部现实主义题材的主妇奋斗史 【内容简介】 精明能干的三十五岁的全职主妇上官燕猛然发现，看似平静、幸福的生活实则隐藏各种焦虑，她变得不快乐。她的丈夫顾城是电视台综艺导演，儒雅大方，受人尊敬，实际上却在职场如履薄冰。夫与妻各自隐藏秘密，在寻求突破的道路上摩擦不断，最后离婚收场。当一场更大的变故到来时，还爱着对方的他们决定携手对抗生活的磨难。即便未来的生活依旧有风有雨，但他们已能自信笃定说出“我很好”。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 138,
+  "episodes": [
+    {
+      "id": "dc85a329302fff80c3500b6902acf95b57920af2f22ade48cf8c358f1f99ef5a",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1b4f-audiofreehighqps/0B/2C/CMCoOSMDXCmLACTB-gBc8_lJ.m4a",
+      "title": {
+        "text": "我很好·片花（云宝儿+启言有声联袂出演，特别鸣谢：峥嵘_atli）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 11 Aug 2020 03:16:48 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "a7f398a4adb9417ff8a3f8180d8f59be4cd300e3c018e36c4f0161daa7a0dde3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group87/M0B/06/E1/wKg5J18-adbCIA6KAE2DMg5g8Xg758.m4a",
+      "title": {
+        "text": "我很好 - 19 那只是你的想法",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 20 Aug 2020 12:16:11 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "ff9ccf66d9129593fefec09470bb38c4082e9c75825abe2bb91344e34dc7134a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group86/M05/4A/A7/wKg5Jl9EhwLQSF3WAEn_DQsTKE4819.m4a",
+      "title": {
+        "text": "我很好 - 38 那棵集满秘密的大树",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 Aug 2020 03:35:17 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "80ca6eda952ddcb0e4472dbe1abffebf66ca31c185fe323df8addb57543e39a7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group85/M01/D9/13/wKg5JV9Rn7yyLzWFAEsqn3__pkY345.m4a",
+      "title": {
+        "text": "我很好 - 58 不是每个爱情都会收获祝福",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Sep 2020 02:00:01 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "e79421989bdd28f485dadb2d3cfb302fcf86eeaaf8b0b41e60acef9f8d578f9d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group87/M07/35/48/wKg5J19aAvWjjkU9AFAKyq-xR90143.m4a",
+      "title": {
+        "text": "我很好 - 77 梦醒时分",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Sep 2020 10:41:45 GMT",
+      "feed_index": 78
+    },
+    {
+      "id": "c32fe3fd9a049d8f2622ef976ffef57b5e6ea5429924e13421bfa561e839852d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group83/M01/84/C8/wKg5I19gwz-iTTKJAEx5aTAlIZ4399.m4a",
+      "title": {
+        "text": "我很好 - 97 人生AB剧",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Sep 2020 13:35:47 GMT",
+      "feed_index": 98
+    },
+    {
+      "id": "328eebac089952c624d96c5667e193e4e73668891fd1ac102a1401f0150c8b1f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c6e4-audiofreehighqps/68/5A/CMCoOSIDTZ49AET6LgBZ27bE.m4a",
+      "title": {
+        "text": "我很好 - 116 公公婆婆来了",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 03 Oct 2020 02:00:03 GMT",
+      "feed_index": 117
+    },
+    {
+      "id": "57269c5cfedc58f97059564574d08a46c0487887ade370c5e468027af67725a7",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2ca0-audiofreehighqps/58/C1/GKwRIaIH8HWaAIWbAwIFiPMR.m4a",
+      "title": {
+        "text": "我很好-136 大结局（欢迎收听新作《真相》～比心）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Oct 2020 09:18:05 GMT",
+      "feed_index": 137
+    }
+  ]
+}

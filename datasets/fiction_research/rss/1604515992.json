@@ -1,0 +1,140 @@
+{
+  "show_id": "1604515992",
+  "feed_url": "http://www.ximalaya.com/album/55894131.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/55894131.xml",
+    "final_url": "http://www.ximalaya.com/album/55894131.xml",
+    "fetched_at": "2026-10-25T14:55:22.251311+00:00",
+    "status": 200,
+    "sha256": "442442be1f8d08453f3f1f1df3f265133978c8cbed7c1b38b6ed067c0a93678b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "颜色的故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "一种颜色的背后，承载了时代起伏的脉络，折射出个人命运的跌宕。它是艺术家的绝望与反抗，是诗人的浪漫与呼喊，是作家创作华丽凄美故事的苍凉底色，是心理学家对人类思想中最隐私之处的执着与追问。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 14,
+  "episodes": [
+    {
+      "id": "0ece39332017fe45086d582703e92ca6f1edca781c2107c22d582304caac102a",
+      "guid": "xmly_track_489488678",
+      "title": {
+        "text": "颜色的故事之概述",
+        "truncated": false
+      },
+      "description": {
+        "text": "一种颜色的背后，承载了时代起伏的脉络，折射出个人命运的跌宕。它是艺术家的绝望与反抗，是诗人的浪漫与呼喊，是作家创作华丽凄美故事的苍凉底色，是心理学家对人类思想中最隐私之处的执着与追问。",
+        "truncated": false
+      },
+      "published_at": "Wed, 05 Jan 2022 06:16:32 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ed798ae0ea8cc67ad3b4022c2f0607d9b6ecba4c2d91fbfd1830efaebd68cd90",
+      "guid": "xmly_track_487228574",
+      "title": {
+        "text": "颜色的故事之红色的故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "历史上，红色并不是至于血、火、性这些要素有关，它也与金钱、权力和地位有关。它更是革命的象征。",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Dec 2021 18:36:52 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "cf399235b159daef3c89f5354bd7bfe2d723ba4e4c37a8e9e6d8828c153c8ae7",
+      "guid": "xmly_track_487497004",
+      "title": {
+        "text": "颜色的故事之棕色的故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "棕色，一直默默无名，就像粉红色，彩虹或调色盘上根本就没有它。与粉色不同的是，大多数关于色彩的书籍都没有提及棕色。从光的角度来看，它在黄色和橙色之间，尽管亮度较低；而在颜料中，它是通过混合原色（或把蓝色加到橙色里）而制成。所以，棕色应该有它的位置，因为它是一个正统的颜色，不像黑色、白色、灰色和金色，但当人们要罗列出主色时，棕色经常被遗忘 奇怪的是，它给人的印象不管是正面的还是负面的，都很深刻。跟绿色一样，它是大自然的主色调之一，给人一种温暖的感觉，如地板、家具，以及人们吃的许多东西都是棕色的。就时尚而言，皮革往往是棕色的，所以从皮包到皮带都是棕色的。然而，棕色在某些领域，特别是在西装、衬衫和鞋子中使用时，却不怎么好。",
+        "truncated": false
+      },
+      "published_at": "Thu, 30 Dec 2021 02:00:00 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "69d8b43d51ae3789ceac945312efb0294ce954c376625c026a4f95d391820359",
+      "guid": "xmly_track_488016870",
+      "title": {
+        "text": "颜色的故事之绿色的故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "绿色是和平、健康、生命的象征，同时也是宗教、民族发展中重要的颜色，还是很多民间传说里必不可少的元素。 那么，罗宾汉为什么带着好汉们穿林肯绿呢？拿破仑的死，绿色要不要背锅？凭什么婚纱就不能用绿色？ 绿色的故事为您一一解答。 绿色是生命、和平、健康的象征，但在宗教当中也扮演非常重要的角色。 那么罗宾汉和绿色是什么关系？ 拿破仑的死到底绿色到底要不要背锅？ 凭什么婚纱就不能用绿色？ 绿色的故事为您解说。",
+        "truncated": false
+      },
+      "published_at": "Sat, 01 Jan 2022 02:00:00 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "de6fb1f52af8b79f904ffc9294761f23d21f994da527b4b463097afa42597960",
+      "guid": "xmly_track_488361721",
+      "title": {
+        "text": "颜色的故事之蓝色的故事第一部分",
+        "truncated": false
+      },
+      "description": {
+        "text": "蓝色，是世界上最受喜爱的颜色，象征着犹豫、伤心、平静。 那么，什么是“蓝血人”？什么是克莱因蓝？李维斯牛仔与蓝色如何发生了联系？蓝筹股又是怎么回事？ 蓝色的故事为您讲述。本篇为第一部分（上半部分）",
+        "truncated": false
+      },
+      "published_at": "Sun, 02 Jan 2022 02:00:00 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "4fc6a382bf4674253de378d726ed4c1b158e0dd36b23abeeabe94978f0e967bb",
+      "guid": "xmly_track_488800002",
+      "title": {
+        "text": "颜色的故事之紫色的故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "紫色曾经是皇室专用的颜色，平民不介许穿紫色的衣服，违背的人会被处以死刑。因为生产紫色的原材料非常昂贵。20世纪 60 年代，紫色作为反文化的颜色，跟魔幻、迷幻和双性联系在一起。在21世纪，它作为一种女性化色彩再次受到欢迎。 那么，紫色与埃及艳后有何关联？人工紫色染料发明者如何在36岁就实现财富自由？紫色与嬉皮士运动又是什么关系？ 紫色的故事为您讲述。",
+        "truncated": false
+      },
+      "published_at": "Tue, 04 Jan 2022 02:00:00 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "04cdb863da62aeef592a57ef0a6d540337d6509b12684bac541b92f2e2cb2a96",
+      "guid": "xmly_track_489305444",
+      "title": {
+        "text": "颜色的故事之白色的故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "白色是纯洁的象征，也是“白衣胜雪”、“白衣飘飘的年代”的灵感源泉，同样是婚纱的首选色。那么，您知道白色是如何成为死亡的颜色吗？铅白如何导致幕府统治的结束？白宫的白又是如何一个荒唐的错误？白色的故事为您讲述。",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Jan 2022 02:00:00 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "b5ed6a7204c3825063c53672194e12d96905caa45e23cf650fcbcf72d47e3bea",
+      "guid": "xmly_track_489668197",
+      "title": {
+        "text": "颜色的故事之金色的故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "金色，富丽堂皇，象征富足、高贵。从货币的金本位，到维也纳金色音乐大厅，从点石成金，到奥运会冠军挂上的金牌，无不显示金作为贵金属赋予金色的特殊含义。 作为颜色的故事最后一篇，让我们用这个特殊的颜色祝福您的生活如金色年华。",
+        "truncated": false
+      },
+      "published_at": "Sat, 08 Jan 2022 02:04:00 GMT",
+      "feed_index": 13
+    }
+  ]
+}

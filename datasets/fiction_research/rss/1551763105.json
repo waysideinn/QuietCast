@@ -1,0 +1,84 @@
+{
+  "show_id": "1551763105",
+  "feed_url": "http://www.ximalaya.com/album/46340676.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/46340676.xml",
+    "final_url": "http://www.ximalaya.com/album/46340676.xml",
+    "fetched_at": "2026-10-25T14:56:45.986950+00:00",
+    "status": 200,
+    "sha256": "7ddd1b4d99cdc48a939cad4bcda8fa32c8a99c8e40a185d0726b74d7eae8736a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "小众新疆，与新边疆人文生态旅行指南",
+    "truncated": false
+  },
+  "description": {
+    "text": "新疆与新边疆 “生态人文旅行” 的引领者：小众，野奢，原生态，深度人文，生态可持续。 非传统导游解说词，非虚构玄幻，人文讲解完全基于独立深度学术研究，呈现西域新疆与丝绸之路上的真实人文风物！ 如果您是一位生态旅行者，以下是您的旅行初衷，欢迎加入！ 旅行目的地 ——新疆，与西北“新边疆”地区。 旅行方式 ——远离过度商业化，远离大众景区；走入边疆腹地，探索原生态自然景观；走入当地人社区，收获真实在地人文体验；旅行中提供独立深度人文讲解，收获真正的“旅行的意义”。 旅行原则 ——生态人文旅行：环境教育，LNT的旅行方式（Leave No Trace，离开时不留下一片垃圾）；人文教育，即所有的旅行都是人文的旅行。 旅行目标 ——探索隐藏在新边疆腹地的极致自然风光；走入当地人的真实生活，见证古老非物质人文遗产的发掘与传承；支持中国边疆乡村的内生发展，践行生态环境的保护与传播，寻找人与自然和谐相处的“理想国”。 旅行特色体验 ——秘境旷野中的户外美食餐桌，极致风光中的户外“游牧式”野奢露营，美学场景中的户外轻奢下午茶。 新疆独一无二的资深户外领队 ——马晓军，联合创始人兼总领队，人称“大马“，外号 “马飞机”。土生土长的新疆人，70后，回族马帮后裔。从事新疆及西北边疆地区的越野车旅行带队至今20余年，是新疆 入行最早，最资深，且至今唯一一位仍然活跃在一线带队出团 的户外旅行领队！ 大马是新疆",
+    "truncated": true
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 4,
+  "episodes": [
+    {
+      "id": "beb8a5bb7e263dd7061348f4b9fced7c6e49765597f261d7761d52c0264a4c24",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7e09-audiofreehighqps/D8/36/CKwRIW4D7rC_AFtsJwCC2DFz.m4a",
+      "title": {
+        "text": "小众新疆，深度人文发刊词",
+        "truncated": false
+      },
+      "description": {
+        "text": "发刊词，讲一讲为什么要做小众新疆的独立深度人文讲解这件事！",
+        "truncated": false
+      },
+      "published_at": "Tue, 02 Feb 2021 06:14:11 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8c7f8b5c92e2a1ae75b658c0209426986860c3dd1186681bc601631f2d34efb8",
+      "guid": "xmly_track_497493694",
+      "title": {
+        "text": "什么是“生态人文旅行”？我们的理解与在新疆的践行",
+        "truncated": false
+      },
+      "description": {
+        "text": "伴随三江源国家公园的正式官宣，“生态旅行”作为一个更加可持续的旅行方式，正在被更多人了解。过去五年中，我们在新疆一直践行的正是“生态旅行”，并且带有自己的独立特征，我们总结为“生态人文旅行”。所以我们是如何理解这个新兴旅行方式？我们在新疆如何践行中？简单与大家聊一聊！",
+        "truncated": false
+      },
+      "published_at": "Sat, 29 Jan 2022 09:19:58 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "7fa233ebf26f753b033b63b30a6e00bbf30283acaf903dd74b062c2ce67753db",
+      "guid": "xmly_track_497503374",
+      "title": {
+        "text": "为什么要坚持继续做”生态旅行“？我们想创造一点点价值",
+        "truncated": false
+      },
+      "description": {
+        "text": "生态人文旅行方式可以支持乡村振兴，帮助保护与传承非物质文化遗产，对更多旅行者提供环境与人文教育，提供有价值的理念引导。这是我们要坚持做下去的三个理由。",
+        "truncated": false
+      },
+      "published_at": "Sat, 29 Jan 2022 09:55:27 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "a1258c1a61eff4b38e78a6fa441adbac81030ef5be324df95aaa39253f27c54b",
+      "guid": "xmly_track_497765855",
+      "title": {
+        "text": "西域新疆丝绸之路推荐书籍：林梅村系列",
+        "truncated": false
+      },
+      "description": {
+        "text": "推荐林梅村先生的几本书目： 《丝绸之路考古十五讲》 《西域考古与艺术》 《古道西风：考古新发现所见中西文化交流》",
+        "truncated": false
+      },
+      "published_at": "Sun, 30 Jan 2022 08:13:21 GMT",
+      "feed_index": 3
+    }
+  ]
+}

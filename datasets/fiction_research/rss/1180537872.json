@@ -1,0 +1,140 @@
+{
+  "show_id": "1180537872",
+  "feed_url": "http://rss.lizhi.fm/rss/1568752.xml",
+  "source": {
+    "url": "http://rss.lizhi.fm/rss/1568752.xml",
+    "final_url": "http://rss.lizhi.fm/rss/1568752.xml",
+    "fetched_at": "2026-10-25T14:47:44.297200+00:00",
+    "status": 200,
+    "sha256": "42df55609f9694f33485d0153ec6eeb167543dd4069ac2bf783775e2f177f0b3"
+  },
+  "status": "ok",
+  "title": {
+    "text": "不存在电台 non-exist",
+    "truncated": false
+  },
+  "description": {
+    "text": "人人都是主播",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-CN",
+    "keywords": "",
+    "explicit": "no"
+  },
+  "feed_item_count": 34,
+  "episodes": [
+    {
+      "id": "a025208902c3d454615514483cb40f81a921a151983cf07440f9978ea0562471",
+      "guid": "http://cdn.lizhi.fm/audio/2017/12/27/2643862154196719110_hd.mp3",
+      "title": {
+        "text": "百年后的一万米高楼：那些好看又好玩的科技和幻想 Part 2",
+        "truncated": false
+      },
+      "description": {
+        "text": "高达10000米的摩天大楼，居住100万以上人口的超级建筑。未来局与中国美院合作创作通天塔作品在2017菠萝科学节进行了展示。来聊聊超高建筑空间意识形态的各种可能性，以及未来新型城市建筑中人与建筑、人与人之间的关系。以及那些好看又好玩的发明。",
+        "truncated": false
+      },
+      "published_at": "Wed, 27 Dec 2017 19:00:13 +0800",
+      "feed_index": 0
+    },
+    {
+      "id": "85a3c48b886f43ae853376251c1ca4d39f64e04418ee3a71265339f8be3df8f7",
+      "guid": "http://cdn.lizhi.fm/audio/2017/11/16/2636247170743005190_hd.mp3",
+      "title": {
+        "text": "外国人看《三体》都喜欢程心？！",
+        "truncated": false
+      },
+      "description": {
+        "text": "三体人看人类就像你看你家猫一样？外国读者喜欢的角色都有谁？加拿大科幻作家罗伯特·索耶表示：“我挺喜欢程心的！”关于《三体》，还有哪些好玩的观点，来听听这期录播~​",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Nov 2017 19:00:53 +0800",
+      "feed_index": 5
+    },
+    {
+      "id": "1cb858a277cc7f07c1f4f5e62ce816a3977a30aeef1620e2d21e159f549b23e8",
+      "guid": "http://cdn.lizhi.fm/audio/2017/11/01/2633478682068833286_hd.mp3",
+      "title": {
+        "text": "银魂：这部没什么内涵的科幻？电影_01_03",
+        "truncated": false
+      },
+      "description": {
+        "text": "大数据运用到冷兵器上是一种什么样的体验？周二晚8点，特邀@梁清散 一起聊聊《银魂》和新选组，还有画风清奇的日本科幻作品们~",
+        "truncated": false
+      },
+      "published_at": "Wed, 1 Nov 2017 20:10:07 +0800",
+      "feed_index": 9
+    },
+    {
+      "id": "12e5a117587f82f068892df9f4f535b0d8103f58f1acdf033f9dde025805dad5",
+      "guid": "http://cdn.lizhi.fm/audio/2017/10/17/2630666058311326214_hd.mp3",
+      "title": {
+        "text": "Rick And Morty的107个真相",
+        "truncated": false
+      },
+      "description": {
+        "text": "限制级操作和那些大材小用的发明：《瑞克和莫蒂》第三季开播，二位又会发生什么新故事？作为全宇宙最聪明的人，Rick发明了些什么看起来“没啥用”的东西，在科幻作品里还有哪些大材小用的科技吗？来一起聊聊~",
+        "truncated": false
+      },
+      "published_at": "Wed, 18 Oct 2017 12:00:34 +0800",
+      "feed_index": 14
+    },
+    {
+      "id": "f65d6ed7ed3e0ca9499afce2f195782e2e3e2297e2d215796e0814fab3ae9f8c",
+      "guid": "http://cdn.lizhi.fm/audio/2017/04/25/2598221563971068422_hd.mp3",
+      "title": {
+        "text": "奇异博士：聊聊那个会魔法的外科大夫",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 Apr 2017 19:25:41 +0800",
+      "feed_index": 19
+    },
+    {
+      "id": "1e5900f960959489b8e063c4f8e4ffdc02c2f6a5c97dc892e615bdfff0160374",
+      "guid": "http://cdn.lizhi.fm/audio/2017/03/16/2590751512037418502_hd.mp3",
+      "title": {
+        "text": "熊子嘉朗读：《写给未来海洋的信》",
+        "truncated": false
+      },
+      "description": {
+        "text": "“目前为止，尚有95%的海底未能被人眼所见。未来，我们愿意像少年派一样，在海洋上来一次奇幻漂流。在我的研究领域，声纳作为漂流路上的“眼睛”和“耳朵”，将会愈加精确、灵敏，会“感知”你的内心深处，我们的载人潜水器功能也将更加强大，突破一个又一个的生命禁区，看到一个更加丰富多才的深蓝世界。” 写信人：潘锋，全国政协委员 ，中国科学院信息工程所副所长。主要从事海洋声学技术研究，包括声纳系统设计、结构设计及工程实施。 朗读者：熊子嘉，12岁铁杆科幻迷",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Mar 2017 13:02:41 +0800",
+      "feed_index": 24
+    },
+    {
+      "id": "83af87491dc294e52dec1bb7d8976aa7f1f6a1a2753f175873d55db582a28396",
+      "guid": "http://cdn.lizhi.fm/audio/2017/03/14/2590416304872005638_hd.mp3",
+      "title": {
+        "text": "姬少亭朗读：《给揭开暗能量神秘面纱的世界》",
+        "truncated": false
+      },
+      "description": {
+        "text": "“我期待，五到十年后，人类对暗物质和暗能量的研究将会迎来突破。所以，我把这封信写给你，那个已经掀起这些神秘面纱的世界。” 写信人：张新民，全国政协委员，中科院高能物理所研究员，暗物质暗能量领域权威专家。 朗读者：姬少亭，未来事务管理局局长。",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Mar 2017 17:45:47 +0800",
+      "feed_index": 28
+    },
+    {
+      "id": "99824c8a4a8efd1790dbf7670e73077102be190e5c76550f0a3e37266f5c9bed",
+      "guid": "http://cdn.lizhi.fm/audio/2016/05/31/2537129210434121222_hd.mp3",
+      "title": {
+        "text": "#001. 未来科幻大师工作坊第一期：科幻意象的选择与搭建（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "未来科幻大师工作坊是未来事物管理局旗下的一档系列活动，分享前沿科技领域的新奇动态，交流阅读与创作的心得体验，旨在为未来的华语科幻创作大师提供思想弹药库与码字方法论。 本节目第一期，由著名的科幻评论家兔子等着瞧老师为大家讲解科幻文学区别于传统文学和其他类型文学，最有魅力的一点——科幻文学的核心意象——如何生成、构建与选择。",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 May 2016 13:02:19 +0800",
+      "feed_index": 33
+    }
+  ]
+}

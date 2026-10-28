@@ -1,0 +1,140 @@
+{
+  "show_id": "1589964004",
+  "feed_url": "http://www.ximalaya.com/album/23810207.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/23810207.xml",
+    "final_url": "http://www.ximalaya.com/album/23810207.xml",
+    "fetched_at": "2026-10-25T14:54:23.728544+00:00",
+    "status": 200,
+    "sha256": "79b044e772cf3cc7fe55b3983a3cc6044eac53a51cc424ec677991d3b437a068"
+  },
+  "status": "ok",
+  "title": {
+    "text": "轻说历史_一个个历史故事娓娓道来",
+    "truncated": false
+  },
+  "description": {
+    "text": "说一说历史背后的故事",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 24,
+  "episodes": [
+    {
+      "id": "9e596dbb88753deaeb9ebbc531f80223561888d677ed1dd8bc2a2b421a79b7e6",
+      "guid": "xmly_track_497723238",
+      "title": {
+        "text": "12寄人篱下，不忘大庇天下寒士—-蜀中漂泊的杜甫",
+        "truncated": false
+      },
+      "description": {
+        "text": "12寄人篱下，不忘大庇天下寒士—-蜀中漂泊的杜甫",
+        "truncated": false
+      },
+      "published_at": "Sun, 30 Jan 2022 04:39:25 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "089e644373cb98be3647a54beca04670c2deb352535cb7f049c04fced79bc900",
+      "guid": "xmly_track_496990806",
+      "title": {
+        "text": "9现实主义诗人的少年，也有轻衣裘马的快意时光",
+        "truncated": false
+      },
+      "description": {
+        "text": "9现实主义诗人的少年，也有轻衣裘马的快意时光",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 Jan 2022 15:51:05 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "da2c7e83aa1391540a1dad1e8fc9470c7151114cb6dd468192870a9a56e0ddf6",
+      "guid": "xmly_track_495971480",
+      "title": {
+        "text": "5潦倒于长安的大街——献赋谋仕的李白",
+        "truncated": false
+      },
+      "description": {
+        "text": "5潦倒于长安的大街——献赋谋仕的李白",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 Jan 2022 10:38:00 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "f68fbbc2821d0ca823cb86110b115f730257fec0a0d4fe6e1288f62196655fa5",
+      "guid": "xmly_track_495904329",
+      "title": {
+        "text": "2你以为你真的熟悉他吗？——身世成谜的李白",
+        "truncated": false
+      },
+      "description": {
+        "text": "2你以为你真的熟悉他吗？——身世成谜的李白 我们真是那么熟悉李白吗？他是哪里人，他的生活是怎样的，和谁是好朋友，人生有几个主要阶段？ 这些问题，你都能回答吗？",
+        "truncated": false
+      },
+      "published_at": "Mon, 24 Jan 2022 12:57:55 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "09c6faf7ae1f8cb02fefab576f819fa19034baea64fda16ec3159726228a88cc",
+      "guid": "https://aod.cos.tx.xmcdn.com/group64/M05/CE/84/wKgMc136OefBzlvxABS3B6skfqM677.m4a",
+      "title": {
+        "text": "轻说历史—一位变法大师，原来却是个不愿改变的拗人！",
+        "truncated": false
+      },
+      "description": {
+        "text": "本级说一说《梦溪笔谈》里记录的王安石的几个小段子",
+        "truncated": false
+      },
+      "published_at": "Wed, 18 Dec 2019 14:38:32 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "3a06999a6ac7cb2fa59f8184750b53286448aceb69de093da41a8e57a7901492",
+      "guid": "https://aod.cos.tx.xmcdn.com/group58/M05/00/BF/wKgLglztV--wB_nBARKnQe30oqY061.m4a",
+      "title": {
+        "text": "轻说历史—一场戏剧性的兵变",
+        "truncated": false
+      },
+      "description": {
+        "text": "唐德宗时，由于皇帝小气，引起的一场兵变",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 May 2019 15:46:55 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "924ea2b9250c7d17444a2fb5186ab301b2321ab5f1085aca6e3d6aa0f1d5f73a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group59/M01/C6/E3/wKgLelzqp4SgIrkEAKy3RjD4ln4268.m4a",
+      "title": {
+        "text": "轻说历史-唐朝唯一当过宰相的宦官是谁？",
+        "truncated": false
+      },
+      "description": {
+        "text": "唐朝肃宗起，宦官权势滔天",
+        "truncated": false
+      },
+      "published_at": "Sun, 26 May 2019 14:49:41 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "34897293bb8f17b62b5c9f965e0c42391da07e214f5310374c7f4b1fdb9a593c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group58/M02/8F/DD/wKgLc1zoAzWi8IS9AIr2kbGTHz4737.m4a",
+      "title": {
+        "text": "杜甫名落孙山",
+        "truncated": false
+      },
+      "description": {
+        "text": "一代诗圣，因何而成？",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 May 2019 14:44:06 GMT",
+      "feed_index": 23
+    }
+  ]
+}

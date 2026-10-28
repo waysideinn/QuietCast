@@ -1,0 +1,140 @@
+{
+  "show_id": "1556551600",
+  "feed_url": "http://www.ximalaya.com/album/24103352.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/24103352.xml",
+    "final_url": "http://www.ximalaya.com/album/24103352.xml",
+    "fetched_at": "2026-10-25T14:52:25.239192+00:00",
+    "status": 200,
+    "sha256": "614d852311107ae97bd5e013cc95386e4d6c7c946b0727ca165d8451e8d7dfcd"
+  },
+  "status": "ok",
+  "title": {
+    "text": "秘史故事 | 当历史照进现实",
+    "truncated": false
+  },
+  "description": {
+    "text": "探寻深藏在时光里的传奇故事 时间是个神奇的沙漏 过滤了平庸 留下了传奇 这些深藏在时光里的秘史故事 等待我们去探寻…… PS 诚挚地欢迎收听这张专辑的听友朋友们，也收听主播的其它专辑，比如《趣味冷知识》、《一言一世界》、《Music Story音符里的故事》、《主播霂荃的私房收藏》等。 除了录播节目，也欢迎有缘的你，关注主页里的直播预告指示，光临霂荃的直播间，在那里我们可以更加即兴畅快地交流。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 381,
+  "episodes": [
+    {
+      "id": "d7ddfb9801a851fde0ed5cf7e22a1b55ab48602424870aa9dd2b81d95e4244d4",
+      "guid": "xmly_track_1014288137",
+      "title": {
+        "text": "哈里被永久剥夺“殿下”尊称！英国王室最狠的一次清算，根本不是闹脾气",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 12 Sep 2026 15:31:06 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "5b8bbe8e7471388b69668d84f0b629517a9d3926ad2f819c99850439b984a5ea",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7f5d-audiofreehighqps/E4/21/CKwRIUEFW9ZzABAAAAD0Tot_.mp3",
+      "title": {
+        "text": "人中龙凤曹操与蔡文姬的一世孽缘",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期听点： 蔡文姬，汉末三国时期的一代才女，曾被匈奴抢走，嫁与匈奴人为妻。在曹操统一北方后将其赎回。众所周知，曹操乃乱世枭雄，他一生染指的美女艳妇不计其数，而他对一位曾被匈奴俘获的美丽女俘虽然垂涎三尺，但却从不敢抱有非分之想。尽管如此，这位美丽的女俘的一生命运却与曹操有着千丝万缕的联系。她就是东汉末年的著名才女蔡文姬。",
+        "truncated": false
+      },
+      "published_at": "Sat, 06 Nov 2021 05:32:46 GMT",
+      "feed_index": 54
+    },
+    {
+      "id": "a8ed09256128384629d8c1c7a0cdaff9231be6e607a96e0dbce93d5b7c09bfc3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group80/M0A/1F/C8/wKgPEV61aXaAZYc9ACFYFEQRUds837.m4a",
+      "title": {
+        "text": "国际护士节的来历，致敬我们可爱的白衣天使",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期听点： 本期将为大家讲述“国际护士节”的来历，它源于一位叫“南丁格尔”的女士。 在19世纪中期，医疗水平远不如现在发达，医院的工作也被贵族视为肮脏的工作，所以在南丁格尔说要选择当护士的时候，父亲大发雷霆，母亲气急败坏，姐姐更是怀疑南丁格尔是不是“中了邪”，但最终，南丁格尔还是坚持了自己的选择，成了一名护士。",
+        "truncated": false
+      },
+      "published_at": "Fri, 08 May 2020 14:15:13 GMT",
+      "feed_index": 109
+    },
+    {
+      "id": "4cba7efb76773b52e0bc8e5cca9ab5fa00c6d94238ae73cef8d91ff27d4d2795",
+      "guid": "https://aod.cos.tx.xmcdn.com/group72/M08/F4/A2/wKgO0F4i7pnTtLAdAFojFMOgCVM518.mp3",
+      "title": {
+        "text": "理发店门口三色灯的来历，竟还有这样的黑历史",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期听点： 理发店门口的”三色灯”依旧非常醒目。红白蓝三色的炫彩灯柱，无限循环。这个物件不是中国人的传统，是从西方传过来的 。 “三色灯”的原型说出来真是吓人一跳。 最先它只是门口的柱子上绑着的白色绷带，再然后加入了染上血渍的绷带，再然后又加入了蓝色的绷带。蓝色的绷带代表人的静脉。 所有的这一切，在明确告诉别人，这里提供”放血”服务。",
+        "truncated": false
+      },
+      "published_at": "Sat, 18 Jan 2020 11:45:20 GMT",
+      "feed_index": 163
+    },
+    {
+      "id": "bb15b77ba878decd7c286f09c660aacb82e827f42a9a7e6c638c0781ff1d3774",
+      "guid": "https://aod.cos.tx.xmcdn.com/group68/M0B/48/25/wKgMbl3agEbQiUYRAB3LTDg7wjo672.m4a",
+      "title": {
+        "text": "苏轼进寺庙大喊一声“秃驴何在”,小和尚回了4个字，成千古绝对",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期听点： 苏轼是宋朝著名的文学家，才华洋溢、才高八斗 。 他有一好友，是一个和尚，号称佛印。可能大家都不太清楚，其实佛印在文学上的造诣其实也不低于当时的文学家，但是却很少有人知道。倒是他和苏轼的一些趣事流传了下来。",
+        "truncated": false
+      },
+      "published_at": "Sun, 24 Nov 2019 13:09:36 GMT",
+      "feed_index": 217
+    },
+    {
+      "id": "6629c42ea434e361b9fa084582c6b7ed370227126d249841efae88d7873edd14",
+      "guid": "https://aod.cos.tx.xmcdn.com/group66/M02/CD/F5/wKgMdV2PYciz1LU_AB6HPkSNn9k876.m4a",
+      "title": {
+        "text": "美国的自由女神像竟然是来自法国？",
+        "truncated": false
+      },
+      "description": {
+        "text": "像，全名为“铜像国家纪念碑”，正式名称是“自由照耀世界”，位于美国纽约海港内自由岛的哈德逊河口附近。 这尊铜像的选型，是按照希腊神话中女神的美丽形象建造的。女神头上戴着额箍，右手高举火炬，左手拿着《独立宣言》面容端庄而慈祥。 它是法国在1876年赠送给美国的独立100周年礼物，由法国著名雕塑家奥古斯特·巴托尔迪在巴黎设计并制作，历时10余年，1885年6月分拆装成210箱运至纽约组装。",
+        "truncated": false
+      },
+      "published_at": "Sat, 28 Sep 2019 13:45:57 GMT",
+      "feed_index": 271
+    },
+    {
+      "id": "acb2112f566dcb508e4632354d8034182876fa8e1a6af6245b45d135507e7def",
+      "guid": "https://aod.cos.tx.xmcdn.com/group59/M07/C0/64/wKgLel1CX8vwnRfzABrUHDza5Uo400.m4a",
+      "title": {
+        "text": "历史上有哪些外国的国宝级文物被收藏在我国呢？",
+        "truncated": false
+      },
+      "description": {
+        "text": "我国的近代史就是一段屈辱的血泪史。清政府腐朽无能，外国侵略者肆意践踏我中华大地，无数的国宝被侵略者掠夺到海外，比如最为著名的圆明园十二生肖兽首铜像，令人痛心疾首。那么，在历史上有没有哪些外国的国宝级的文物被收藏在我国呢？还真是有，本期就为大家介绍几样顶级国宝 ！",
+        "truncated": false
+      },
+      "published_at": "Fri, 02 Aug 2019 22:00:08 GMT",
+      "feed_index": 326
+    },
+    {
+      "id": "51cff29feb100735571a6d3dc464fa76c968c3cce9e1baf68858b33d977b2db2",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d328-audiofreehighqps/13/EC/GKwRIaIJfaFHAAfe7QKcpcVC.m4a",
+      "title": {
+        "text": "专辑缘起，欢迎你的收听！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 Jun 2019 14:46:13 GMT",
+      "feed_index": 380
+    }
+  ]
+}

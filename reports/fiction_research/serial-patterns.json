@@ -1,0 +1,5987 @@
+[
+  {
+    "show_id": "1006510674",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1006558032",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1021963866",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 5,
+    "chapter_ratio": 0.625,
+    "split": "test"
+  },
+  {
+    "show_id": "1023646883",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1030231015",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1031400642",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1039668127",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1055974809",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1058819079",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1070100585",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1073849513",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1074650165",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1079269831",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1084911410",
+    "sampled_episodes": 6,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1084911966",
+    "sampled_episodes": 6,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1084926346",
+    "sampled_episodes": 6,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1086633716",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1089038034",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1089038036",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1089038531",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1091928630",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1092555866",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1095188273",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1095222589",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1095957604",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1096128209",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 3,
+    "chapter_ratio": 0.375,
+    "split": "dev"
+  },
+  {
+    "show_id": "1097107152",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1101566191",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1101566199",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1112466861",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1115612886",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1115782232",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1116858703",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1118206170",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1118208455",
+    "sampled_episodes": 7,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1123397530",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 1,
+    "chapter_ratio": 0.125,
+    "split": "dev"
+  },
+  {
+    "show_id": "1123399470",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 3,
+    "chapter_ratio": 0.375,
+    "split": "test"
+  },
+  {
+    "show_id": "1123400595",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1124906254",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1125953267",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1125959192",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "test"
+  },
+  {
+    "show_id": "1128284503",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1129666229",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1130862082",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1136986088",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1136987802",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1139142615",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1140071455",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1146322285",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1146322401",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1146353856",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1150960423",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1151354389",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1151635158",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1156526309",
+    "sampled_episodes": 7,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1157803271",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 4,
+    "chapter_ratio": 0.5,
+    "split": "dev"
+  },
+  {
+    "show_id": "1157960349",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 2,
+    "chapter_ratio": 0.25,
+    "split": "test"
+  },
+  {
+    "show_id": "1158667858",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1160578978",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1170351486",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1170845976",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1173492226",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1178855557",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1180461525",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1180537872",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1181770436",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1183233450",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1184981897",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1191409439",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1191410221",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1191425381",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1194587829",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1197935841",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1201782184",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1205474193",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1206319092",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1209426639",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1213440816",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1217700310",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1217715562",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1217885190",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1219876819",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1224548575",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 3,
+    "chapter_ratio": 0.375,
+    "split": "dev"
+  },
+  {
+    "show_id": "1225563539",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1234086160",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1241282365",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1248691568",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 2,
+    "chapter_ratio": 0.25,
+    "split": "test"
+  },
+  {
+    "show_id": "1251826993",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1252205284",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1261385602",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1262978649",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1264641315",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 6,
+    "chapter_ratio": 0.75,
+    "split": "dev"
+  },
+  {
+    "show_id": "1267160367",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1268501410",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1270553934",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1271272846",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1274134689",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1286320610",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1286603279",
+    "sampled_episodes": 5,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1286642737",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1291684859",
+    "sampled_episodes": 6,
+    "chapter_marker_count": 5,
+    "chapter_ratio": 0.8333333333333334,
+    "split": "dev"
+  },
+  {
+    "show_id": "1304221230",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1310569265",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1315967431",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1320886570",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1321229059",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1323470627",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1329700195",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1331388068",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1333475582",
+    "sampled_episodes": 4,
+    "chapter_marker_count": 4,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1336323610",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1338197227",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1338444962",
+    "sampled_episodes": 4,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1341333217",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1342040716",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1347068178",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1352951413",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1356520295",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1358251055",
+    "sampled_episodes": 2,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1358675824",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1361205685",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1361904540",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1375417096",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1377548071",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1384521268",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1399630377",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1432356276",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1434062971",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1436456442",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1438867843",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1440580962",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 2,
+    "chapter_ratio": 0.25,
+    "split": "dev"
+  },
+  {
+    "show_id": "1440710576",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1443574597",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1444714071",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1444716592",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1447860187",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1447966275",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1448125751",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 2,
+    "chapter_ratio": 0.25,
+    "split": "dev"
+  },
+  {
+    "show_id": "1448200830",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1449153058",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1449429752",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1449446811",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 4,
+    "chapter_ratio": 0.5,
+    "split": "test"
+  },
+  {
+    "show_id": "1449816135",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1449933222",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1450006255",
+    "sampled_episodes": 2,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1450399086",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1451397848",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1451644227",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1453665361",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1455483014",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1456605784",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1456973400",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1460336261",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1460580954",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1462573678",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1462736515",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1462840658",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1462841121",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1462842609",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1462843777",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1462844138",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1462848266",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1462848906",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1462849476",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1462849901",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1462850845",
+    "sampled_episodes": 5,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1465222657",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1466577555",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1466925893",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1471552226",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1471749688",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1473120043",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1474396127",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 1,
+    "chapter_ratio": 0.125,
+    "split": "dev"
+  },
+  {
+    "show_id": "1474474297",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1475041784",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1475866415",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1477273339",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1477744927",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 1,
+    "chapter_ratio": 0.125,
+    "split": "dev"
+  },
+  {
+    "show_id": "1478366349",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1478691737",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1479173448",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1479676767",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1479951603",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1480340106",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1480979517",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 2,
+    "chapter_ratio": 0.25,
+    "split": "dev"
+  },
+  {
+    "show_id": "1481809208",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1482760145",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1482881851",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1482927105",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1483565181",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1485136822",
+    "sampled_episodes": 2,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1485707007",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 5,
+    "chapter_ratio": 0.625,
+    "split": "dev"
+  },
+  {
+    "show_id": "1485723113",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1486700278",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1488439861",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1489176388",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1489419966",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1489441852",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1489841902",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1490064176",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1490065008",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1490065177",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1490066022",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1490066399",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1490066416",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1490362437",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 5,
+    "chapter_ratio": 0.625,
+    "split": "dev"
+  },
+  {
+    "show_id": "1490476655",
+    "sampled_episodes": 4,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1491146223",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1491897654",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1493254531",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1493408968",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1494068599",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1494068914",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1494223839",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1495148036",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 5,
+    "chapter_ratio": 0.625,
+    "split": "dev"
+  },
+  {
+    "show_id": "1496542077",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1496893742",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 2,
+    "chapter_ratio": 0.25,
+    "split": "dev"
+  },
+  {
+    "show_id": "1497254041",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1497482602",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1497837672",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1497850823",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1498406647",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1499298094",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1499460303",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1500194803",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 6,
+    "chapter_ratio": 0.75,
+    "split": "dev"
+  },
+  {
+    "show_id": "1500216153",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1500298175",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1501149357",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1501632882",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1502030058",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1502221534",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1502529309",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1502792444",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1502916216",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1503188359",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1503523744",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1503760672",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1503920926",
+    "sampled_episodes": 7,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1504181629",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1504245190",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1504408457",
+    "sampled_episodes": 7,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1504785497",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1505259070",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1505487695",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1505487860",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1505487967",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1507723786",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1507896500",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1507944396",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 5,
+    "chapter_ratio": 0.625,
+    "split": "test"
+  },
+  {
+    "show_id": "1508095512",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1508180377",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1508280313",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1508865583",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1509667588",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1509923186",
+    "sampled_episodes": 6,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1509923480",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1510341727",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1510409203",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1511129977",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1511302015",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1511414111",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1512548667",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1512701980",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1513814747",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1513873725",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1513886709",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1514345961",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1514540856",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1515018549",
+    "sampled_episodes": 7,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1515777124",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 3,
+    "chapter_ratio": 0.375,
+    "split": "test"
+  },
+  {
+    "show_id": "1515802068",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1515874610",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1516053079",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1516158105",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1516166301",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1516514082",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1516647926",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "test"
+  },
+  {
+    "show_id": "1516948648",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1517166119",
+    "sampled_episodes": 6,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1517405352",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1517446672",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1517616701",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1518302178",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1518327110",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1518399172",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1518688349",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1518914711",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1518960843",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1519207665",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1519378369",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1519546151",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1519594158",
+    "sampled_episodes": 7,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1519599280",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1519735329",
+    "sampled_episodes": 6,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1519916868",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1520151361",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1520759051",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1521027718",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1521147712",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1521193160",
+    "sampled_episodes": 4,
+    "chapter_marker_count": 3,
+    "chapter_ratio": 0.75,
+    "split": "dev"
+  },
+  {
+    "show_id": "1521211206",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1521215591",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1521795741",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1521814527",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1522355139",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1522660940",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1522705706",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1522780452",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1522858630",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1523040354",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 6,
+    "chapter_ratio": 0.75,
+    "split": "test"
+  },
+  {
+    "show_id": "1523229322",
+    "sampled_episodes": 5,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1523403762",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1523415060",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1523420304",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1523820527",
+    "sampled_episodes": 6,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1524127170",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1524136171",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1524366044",
+    "sampled_episodes": 2,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1525237031",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1525332415",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1525394503",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1525462663",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1525845035",
+    "sampled_episodes": 6,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1526028680",
+    "sampled_episodes": 4,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1526238249",
+    "sampled_episodes": 4,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1526795511",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1526975198",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1527206657",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1527514372",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1527545103",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1527553610",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1527725917",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1527859146",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1527878804",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1527944933",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1528122245",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1528853124",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1528878897",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 2,
+    "chapter_ratio": 0.25,
+    "split": "dev"
+  },
+  {
+    "show_id": "1529215629",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1529416606",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1529549070",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 3,
+    "chapter_ratio": 0.375,
+    "split": "dev"
+  },
+  {
+    "show_id": "1529773545",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1530016140",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1530116566",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1530135897",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1530391519",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1530453026",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1530593534",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1530655498",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1530715663",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1530827409",
+    "sampled_episodes": 7,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1530876176",
+    "sampled_episodes": 7,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1531332167",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1531353858",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1531420583",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1531443773",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1531443831",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1531819660",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1531931920",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1532017519",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1532170181",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1532246515",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1532573947",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1532664823",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1532691162",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1532858880",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1532859895",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1532962949",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1533388375",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1533512076",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1533523869",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1533557520",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1533574623",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1533775577",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1533962251",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1534461444",
+    "sampled_episodes": 4,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1534681688",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1534691629",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1534696440",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1534813376",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1534830440",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1534883609",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1534951495",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1535167846",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1535206991",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1535290480",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1535331432",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1535333231",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1535379735",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1535401310",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1535822479",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1536149213",
+    "sampled_episodes": 4,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1536320622",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1536359333",
+    "sampled_episodes": 6,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1536572081",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1536681393",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1536763609",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 5,
+    "chapter_ratio": 0.625,
+    "split": "test"
+  },
+  {
+    "show_id": "1536985876",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1537247236",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1537312874",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1537355376",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1537517875",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1537717354",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1537722943",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1537750163",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1537769558",
+    "sampled_episodes": 5,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1538145683",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1538427606",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1538542499",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1538757077",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1538797595",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1539014348",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1539143234",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1539168778",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1539315654",
+    "sampled_episodes": 7,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1539356202",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1539558817",
+    "sampled_episodes": 4,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1539559038",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1539618428",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1540213670",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1540254339",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1540415842",
+    "sampled_episodes": 2,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1540556984",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1540709743",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1540823783",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1541121592",
+    "sampled_episodes": 4,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1541273122",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1541317969",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1541325905",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1541341159",
+    "sampled_episodes": 7,
+    "chapter_marker_count": 6,
+    "chapter_ratio": 0.8571428571428571,
+    "split": "dev"
+  },
+  {
+    "show_id": "1541844779",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "test"
+  },
+  {
+    "show_id": "1542090928",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1542572069",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1542796941",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1542813580",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1543116288",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 6,
+    "chapter_ratio": 0.75,
+    "split": "dev"
+  },
+  {
+    "show_id": "1543332946",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1543400506",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1543587303",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1543663382",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1543842699",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1543869907",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1544048893",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1544191601",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1544216753",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1544230622",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1544368764",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1544382987",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1544463635",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "test"
+  },
+  {
+    "show_id": "1544703886",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1544727675",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1544738841",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1544889676",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1545095335",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1545278203",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1545302844",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1545540518",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1545564522",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1545864039",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1546030766",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 1,
+    "chapter_ratio": 0.125,
+    "split": "dev"
+  },
+  {
+    "show_id": "1546031266",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1546031352",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1546042469",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1546043621",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1546044606",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1546179566",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1546195432",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1546202225",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1546321851",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 1,
+    "chapter_ratio": 0.125,
+    "split": "dev"
+  },
+  {
+    "show_id": "1546360337",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1546419522",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1546458238",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1546520948",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1546589315",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1546688507",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1546801105",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1547451157",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1547594094",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1547740550",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "test"
+  },
+  {
+    "show_id": "1548408231",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1548663662",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1549493045",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1549532681",
+    "sampled_episodes": 7,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1549834969",
+    "sampled_episodes": 2,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1550033842",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1550111979",
+    "sampled_episodes": 6,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1550542389",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1550576946",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 1,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1550735071",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1550750499",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1550892627",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1550899632",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1551251945",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1551252439",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1551295821",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 2,
+    "chapter_ratio": 0.25,
+    "split": "dev"
+  },
+  {
+    "show_id": "1551507736",
+    "sampled_episodes": 4,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1551564366",
+    "sampled_episodes": 5,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1551595534",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1551763105",
+    "sampled_episodes": 4,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1551802294",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 2,
+    "chapter_ratio": 0.25,
+    "split": "dev"
+  },
+  {
+    "show_id": "1551862874",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1552119965",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1552145331",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1552336518",
+    "sampled_episodes": 6,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1552342131",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1552603743",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1553047414",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1553203963",
+    "sampled_episodes": 7,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1553436127",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1553555632",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1553866399",
+    "sampled_episodes": 5,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1553868323",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1553874656",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 5,
+    "chapter_ratio": 0.625,
+    "split": "dev"
+  },
+  {
+    "show_id": "1553905772",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1553959279",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1554031793",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1554211819",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1554229047",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1554289906",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1554643880",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "test"
+  },
+  {
+    "show_id": "1554737413",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1555222252",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1555407379",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1555718950",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1556175680",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1556192549",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1556351278",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1556381234",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1556551600",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1556553371",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1556690289",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1556777037",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1557085200",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1557180247",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "test"
+  },
+  {
+    "show_id": "1557424167",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1557815788",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1558689086",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1558922238",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 1,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1559034169",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1559242534",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1559368110",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1559764273",
+    "sampled_episodes": 5,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1560267892",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1560497437",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1561086430",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1561409938",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 3,
+    "chapter_ratio": 0.375,
+    "split": "dev"
+  },
+  {
+    "show_id": "1561689781",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1561739834",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 1,
+    "chapter_ratio": 0.125,
+    "split": "dev"
+  },
+  {
+    "show_id": "1562115557",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1562154837",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1562361787",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1562473789",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1562986998",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1564620897",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1565440246",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1565906036",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "test"
+  },
+  {
+    "show_id": "1566091263",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1566279300",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1566495443",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1566538731",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1566680963",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1566807373",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1566859938",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1566860993",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1567737571",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1567737823",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1568511412",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1568632411",
+    "sampled_episodes": 2,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1568929087",
+    "sampled_episodes": 7,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1569761303",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1569785256",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1570027035",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1570197352",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1570776641",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1571016991",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1571109952",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1572607826",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1573265692",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1573332513",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1573377451",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1573387031",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1574017487",
+    "sampled_episodes": 7,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1574357514",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 1,
+    "chapter_ratio": 0.125,
+    "split": "dev"
+  },
+  {
+    "show_id": "1575085310",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1575163140",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1575266742",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1575373406",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1575840532",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1577493020",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1577716689",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 5,
+    "chapter_ratio": 0.625,
+    "split": "dev"
+  },
+  {
+    "show_id": "1578100157",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1578213878",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1578329957",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1579018901",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1579485294",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1579670201",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1580011532",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1580265227",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1580338360",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 6,
+    "chapter_ratio": 0.75,
+    "split": "dev"
+  },
+  {
+    "show_id": "1580999116",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1581083287",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1581106416",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1581268895",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1581352532",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1581354245",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1581957622",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 2,
+    "chapter_ratio": 0.25,
+    "split": "test"
+  },
+  {
+    "show_id": "1582621175",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1583478399",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1583548912",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1583726629",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1583730370",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1584777741",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 4,
+    "chapter_ratio": 0.5,
+    "split": "test"
+  },
+  {
+    "show_id": "1584950371",
+    "sampled_episodes": 2,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1585467547",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1585467941",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1585541937",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1585542669",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 6,
+    "chapter_ratio": 0.75,
+    "split": "test"
+  },
+  {
+    "show_id": "1585628527",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1585795688",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1585882379",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1586322678",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 6,
+    "chapter_ratio": 0.75,
+    "split": "test"
+  },
+  {
+    "show_id": "1586443746",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1586667130",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1586822632",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1586937163",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1587306877",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 6,
+    "chapter_ratio": 0.75,
+    "split": "test"
+  },
+  {
+    "show_id": "1587476233",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1587561762",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1587709573",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1587907611",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 4,
+    "chapter_ratio": 0.5,
+    "split": "test"
+  },
+  {
+    "show_id": "1588003050",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1588299412",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1588601588",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1589363004",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1589607227",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1589964004",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1590670330",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1590958656",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1590963628",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1591143998",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1591705876",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1591860301",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1592227299",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1592446622",
+    "sampled_episodes": 5,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1592653928",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1592882364",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1593198342",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 5,
+    "chapter_ratio": 0.625,
+    "split": "dev"
+  },
+  {
+    "show_id": "1593424154",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1593444877",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1593571618",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1593825895",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1593846257",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1594109647",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1594201589",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1594484144",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1594549803",
+    "sampled_episodes": 2,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1594755394",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1594806933",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1594997937",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1595221383",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 4,
+    "chapter_ratio": 0.5,
+    "split": "dev"
+  },
+  {
+    "show_id": "1595303849",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 3,
+    "chapter_ratio": 0.375,
+    "split": "dev"
+  },
+  {
+    "show_id": "1595427776",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1595745927",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1596038755",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1596054358",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1597425214",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1597542409",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 4,
+    "chapter_ratio": 0.5,
+    "split": "dev"
+  },
+  {
+    "show_id": "1597634833",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1598143267",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1598572339",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1598574757",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1598722980",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1598776297",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1599150293",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1599199615",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1599200265",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1600635178",
+    "sampled_episodes": 2,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1600827323",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1600872987",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1600937445",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 1,
+    "chapter_ratio": 0.125,
+    "split": "dev"
+  },
+  {
+    "show_id": "1601807508",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1601820243",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1602312543",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1602821048",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1603860942",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1604147515",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1604515992",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1604568562",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 6,
+    "chapter_ratio": 0.75,
+    "split": "dev"
+  },
+  {
+    "show_id": "1604607719",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1606841123",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1606844062",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1606866358",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1607471085",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 3,
+    "chapter_ratio": 0.375,
+    "split": "test"
+  },
+  {
+    "show_id": "1608628059",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1608655882",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1608655894",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1608665841",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1608787047",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1609008971",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1609546827",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1609742899",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1609865280",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1609907080",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1610870447",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1610998931",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 4,
+    "chapter_ratio": 0.5,
+    "split": "test"
+  },
+  {
+    "show_id": "1611036825",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1611335573",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 5,
+    "chapter_ratio": 0.625,
+    "split": "test"
+  },
+  {
+    "show_id": "1611335858",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1611460010",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1611742490",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1612174425",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1612231240",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1612442328",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1613142547",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1613151381",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1613424924",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1613466840",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1613527980",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1614041954",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1614774084",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1614947842",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1615080193",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1615307683",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1615326182",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1615366896",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1615563149",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1615721133",
+    "sampled_episodes": 2,
+    "chapter_marker_count": 2,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1615721495",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1616121116",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1616379451",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "test"
+  },
+  {
+    "show_id": "1616386196",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1616603917",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1616908621",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1617229401",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1617508857",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1617511370",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "test"
+  },
+  {
+    "show_id": "1617583551",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1617646036",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1617967034",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1618466865",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1618467019",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1618467149",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1618585772",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1619452667",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1619761072",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1619938950",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1620495606",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1621039521",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1622050411",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "dev"
+  },
+  {
+    "show_id": "1622970390",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1623040410",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1623099660",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1623716818",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1623844647",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1625045157",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1625108617",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1626182951",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1626401345",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1627085525",
+    "sampled_episodes": 7,
+    "chapter_marker_count": 5,
+    "chapter_ratio": 0.7142857142857143,
+    "split": "dev"
+  },
+  {
+    "show_id": "1627412636",
+    "sampled_episodes": 2,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1627437945",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 6,
+    "chapter_ratio": 0.75,
+    "split": "dev"
+  },
+  {
+    "show_id": "1627714579",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1628862860",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1629560469",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1629845423",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1630268236",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1630529526",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1630645740",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1630762379",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1631086663",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1631657254",
+    "sampled_episodes": 4,
+    "chapter_marker_count": 4,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1631764655",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1631973860",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1632464679",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1632724761",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1632849082",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1633015940",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1633206283",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1633620855",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1634067184",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "test"
+  },
+  {
+    "show_id": "1634775949",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1634801963",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1634966407",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1635296295",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1636898808",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1637112725",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1637593999",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1637919930",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1637926796",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1638226871",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 1,
+    "chapter_ratio": 0.125,
+    "split": "test"
+  },
+  {
+    "show_id": "1638232136",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1638247931",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1638249994",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 1,
+    "chapter_ratio": 0.125,
+    "split": "dev"
+  },
+  {
+    "show_id": "1638254355",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1638269446",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1638363421",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1638445496",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1638490920",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1638509074",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1638556020",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1638657267",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1639242682",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1639533883",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 7,
+    "chapter_ratio": 0.875,
+    "split": "test"
+  },
+  {
+    "show_id": "1642886094",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1642886187",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1643009596",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 6,
+    "chapter_ratio": 0.75,
+    "split": "dev"
+  },
+  {
+    "show_id": "1643305997",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1643770689",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 1,
+    "chapter_ratio": 0.125,
+    "split": "dev"
+  },
+  {
+    "show_id": "1643828267",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1644463077",
+    "sampled_episodes": 6,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1644471294",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1644569354",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1644575024",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1644640860",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1644822163",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1644886179",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1645257952",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1645742229",
+    "sampled_episodes": 2,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1646039586",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1646230512",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1646436736",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1646612485",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1646843374",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1647497900",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1647957832",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1649513245",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1649704730",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1650212264",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1650308067",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1650323939",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1650338181",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1650354751",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1650507591",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1650846791",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1650988978",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1651046004",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1651050401",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1651150279",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1654311391",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1655676676",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1657851921",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1658248493",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1659274310",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 3,
+    "chapter_ratio": 0.375,
+    "split": "dev"
+  },
+  {
+    "show_id": "1659790409",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1664345469",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 8,
+    "chapter_ratio": 1.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1668306837",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 2,
+    "chapter_ratio": 0.6666666666666666,
+    "split": "dev"
+  },
+  {
+    "show_id": "1668307367",
+    "sampled_episodes": 3,
+    "chapter_marker_count": 2,
+    "chapter_ratio": 0.6666666666666666,
+    "split": "dev"
+  },
+  {
+    "show_id": "1668307403",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1669900606",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1671078172",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1671329509",
+    "sampled_episodes": 5,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "test"
+  },
+  {
+    "show_id": "1672852848",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 2,
+    "chapter_ratio": 0.25,
+    "split": "test"
+  },
+  {
+    "show_id": "1672931748",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1674296020",
+    "sampled_episodes": 8,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  },
+  {
+    "show_id": "1674394906",
+    "sampled_episodes": 1,
+    "chapter_marker_count": 0,
+    "chapter_ratio": 0.0,
+    "split": "dev"
+  }
+]

@@ -1,0 +1,158 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/1072869.xml",
+    "final_url": "http://www.ximalaya.com/album/1072869.xml",
+    "fetched_at": "2026-10-26T07:53:15.476186+00:00",
+    "status": 200,
+    "sha256": "7344fcce38b7e9ecf82a3a4ab48438e43a60f54021d8351b6536e06d86328c75"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "健康减肥瘦身法",
+      "truncated": false
+    },
+    "description": {
+      "text": "",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "小博带你悦读"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "小博带你悦读"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Health"
+      ],
+      [
+        "Health",
+        "Self-Help"
+      ],
+      [
+        "Health"
+      ],
+      [
+        "Health",
+        "Alternative Health"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/1072869",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 1000,
+    "episodes": [
+      {
+        "title": {
+          "text": "抗糖，断糖，孔控糖，都是啥意思？那个能减肥？",
+          "truncated": false
+        },
+        "description": {
+          "text": "抗糖，断糖，孔控糖，都是啥意思？那个能减肥？",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/storages/c792-audiofreehighqps/13/34/GKwRIaIFenUpAC0JZgD8ru6q-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "地摊美食测评，哪种最适合减肥？",
+          "truncated": false
+        },
+        "description": {
+          "text": "关注公号“窈窕会”，免费获取个性化减肥方案＆食谱，每日限10份，先到先得！",
+          "truncated": false
+        },
+        "feed_index": 143,
+        "guid": "https://aod.cos.tx.xmcdn.com/group85/M08/39/D1/wKg5JV7fXzOSjT1zACtJD6i51rU111.m4a"
+      },
+      {
+        "title": {
+          "text": "节后为何瘦身难？只因这1点！",
+          "truncated": false
+        },
+        "description": {
+          "text": "关注公号：窈窕会 回复：“瘦身计划”,“瘦肚子”，“瘦腿”，“瘦胳膊”，领取相应减肥秘籍",
+          "truncated": false
+        },
+        "feed_index": 285,
+        "guid": "https://aod.cos.tx.xmcdn.com/group66/M03/49/36/wKgMa12Z2NnRQsTIADDB7nuYoMM001.m4a"
+      },
+      {
+        "title": {
+          "text": "为什么掌握这3招，就能轻松瘦10斤？",
+          "truncated": false
+        },
+        "description": {
+          "text": "关注微信公众号：窈窕会 回复：“瘦身计划”“瘦身食谱”“瘦肚子”，“瘦腿”，“瘦胳膊”，领取相应减肥秘籍",
+          "truncated": false
+        },
+        "feed_index": 428,
+        "guid": "https://aod.cos.tx.xmcdn.com/group46/M0B/09/D2/wKgKj1uFFpTzm9mZADSW5neiy2Q572.m4a"
+      },
+      {
+        "title": {
+          "text": "这8件事让运动减脂效果倍增（下）",
+          "truncated": false
+        },
+        "description": {
+          "text": "关注微信公众号：小灰健康课堂 回复：“瘦肚子”，“瘦腿”，“瘦胳膊”，领取相应减肥秘籍",
+          "truncated": false
+        },
+        "feed_index": 571,
+        "guid": "https://aod.cos.tx.xmcdn.com/group41/M09/12/94/wKgJ8VqeaenBxViaACzJBkYGU6w162.m4a"
+      },
+      {
+        "title": {
+          "text": "咖啡能减肥，但喝错了更容易胖",
+          "truncated": false
+        },
+        "description": {
+          "text": "关注微信公众号：小灰健康课堂 免费领取小博和小灰推荐的《超简单7日瘦身食谱》",
+          "truncated": false
+        },
+        "feed_index": 714,
+        "guid": "https://aod.cos.tx.xmcdn.com/group32/M05/1D/ED/wKgJnFnHrGOQzDa-ADA908dSaTw087.m4a"
+      },
+      {
+        "title": {
+          "text": "水果这样吃会越来越胖？（下）",
+          "truncated": false
+        },
+        "description": {
+          "text": "关注微信公众号：小灰健康课堂 免费领取小博和小灰推荐的《超简单7日瘦身食谱》",
+          "truncated": false
+        },
+        "feed_index": 856,
+        "guid": "https://aod.cos.tx.xmcdn.com/group26/M04/A5/A6/wKgJWFjwfpLw4hmsADhx6RxWxp0951-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "让你越吃越瘦的饮食法",
+          "truncated": false
+        },
+        "description": {
+          "text": "需要加快瘦身或私人订制减肥计划请加小灰的微信[contact removed]",
+          "truncated": false
+        },
+        "feed_index": 999,
+        "guid": "https://aod.cos.tx.xmcdn.com/group10/M03/5D/8E/wKgDaVXO8wWzkcQVAB8gQtWbow0903-aacv2-48K.m4a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1650308067",
+  "feed_url": "https://anchor.fm/s/b124e65c/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/b124e65c/podcast/rss",
+    "final_url": "https://anchor.fm/s/b124e65c/podcast/rss",
+    "fetched_at": "2026-10-25T14:57:16.701762+00:00",
+    "status": 200,
+    "sha256": "8e6ee1c94c26949c784a918447141439b2e9feeae0dd84e8bba0866cdfa7d4f6"
+  },
+  "status": "ok",
+  "title": {
+    "text": "遇到最好的别人",
+    "truncated": false
+  },
+  "description": {
+    "text": "遇到最好的别人",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 785,
+  "episodes": [
+    {
+      "id": "acbb20ceb44d16edbe44ecb4479991eabfab98c17fa87046eff6f028af14dbaa",
+      "guid": "52643159-2d0f-4f81-bbd2-4e4ea572b582",
+      "title": {
+        "text": "194.不可思议的阿富汗（10）——刀头舔血的边缘人",
+        "truncated": false
+      },
+      "description": {
+        "text": "194.不可思议的阿富汗（10）——刀头舔血的边缘人",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Jun 2023 15:32:44 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ca79ae86c56b21923ec53fd12a631f519b129c7f9d5c4fc7bf53b353aa388106",
+      "guid": "7b73d265-88ab-4f5a-9f7c-19e781d92249",
+      "title": {
+        "text": "151.“隆中对”里不为人知的政治阴谋",
+        "truncated": false
+      },
+      "description": {
+        "text": "151.“隆中对”里不为人知的政治阴谋",
+        "truncated": false
+      },
+      "published_at": "Wed, 24 May 2023 08:10:55 GMT",
+      "feed_index": 112
+    },
+    {
+      "id": "4dd4a55cecad9b3f1d9e1f9cac078da65f04a4771860faca2a3bc4d44258f85c",
+      "guid": "6dcff824-d771-4545-806f-f024894183a1",
+      "title": {
+        "text": "209.女朋友下楼去接快递，刚回来就说：你一点都不爱我",
+        "truncated": false
+      },
+      "description": {
+        "text": "209.女朋友下楼去接快递，刚回来就说：你一点都不爱我",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 May 2023 13:47:12 GMT",
+      "feed_index": 224
+    },
+    {
+      "id": "a89844c9647504d839a049ea7d748f38fc214fae53c648ebb455181ddacce900",
+      "guid": "8633b73f-6a65-4962-af39-67783eb09bb4",
+      "title": {
+        "text": "144.成为那个闪闪发光的自己",
+        "truncated": false
+      },
+      "description": {
+        "text": "144.成为那个闪闪发光的自己",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Apr 2023 21:09:52 GMT",
+      "feed_index": 336
+    },
+    {
+      "id": "3f164cfb88867f1554f0280871ac572c20a92bf63ba9d3ee4b8b65cf1b7486af",
+      "guid": "f800d90a-f5a7-4925-9716-12680859b72b",
+      "title": {
+        "text": "2113.蓬佩奥要解除“美台接触限制”，中方如何反击？",
+        "truncated": false
+      },
+      "description": {
+        "text": "2113.蓬佩奥要解除“美台接触限制”，中方如何反击？",
+        "truncated": false
+      },
+      "published_at": "Fri, 07 Apr 2023 06:31:22 GMT",
+      "feed_index": 448
+    },
+    {
+      "id": "9e94ad4101c98403b6e66298de2e9d58173e4528449919cae1e7ea45fb42c5ec",
+      "guid": "a7142d2a-bdbb-44bb-a0fd-f5df798bf353",
+      "title": {
+        "text": "17827.姆巴佩等新星入围首届科帕奖 梅西C罗等33位金球奖球员当评委",
+        "truncated": false
+      },
+      "description": {
+        "text": "17827.姆巴佩等新星入围首届科帕奖 梅西C罗等33位金球奖球员当评委",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Mar 2023 06:59:31 GMT",
+      "feed_index": 560
+    },
+    {
+      "id": "9a730106f7ad9f6acc47a450971602981a86537ac8ca5ea733964158e998f5e4",
+      "guid": "5aff8b7d-4412-47a1-a308-40b79efa7094",
+      "title": {
+        "text": "1335.有病方为贵",
+        "truncated": false
+      },
+      "description": {
+        "text": "1335.有病方为贵",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Mar 2023 09:35:42 GMT",
+      "feed_index": 672
+    },
+    {
+      "id": "ed6c3f85225eb661e787d3ae84c865f5077aaf20a5b0a96a6eac781189d5127d",
+      "guid": "88a2b69c-4db0-47d4-8bad-fa672a8beb17",
+      "title": {
+        "text": "遇到最好的别人",
+        "truncated": false
+      },
+      "description": {
+        "text": "遇到最好的别人",
+        "truncated": false
+      },
+      "published_at": "Thu, 18 Aug 2022 09:28:53 GMT",
+      "feed_index": 784
+    }
+  ]
+}

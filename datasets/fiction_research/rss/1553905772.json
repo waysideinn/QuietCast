@@ -1,0 +1,140 @@
+{
+  "show_id": "1553905772",
+  "feed_url": "http://www.ximalaya.com/album/45077463.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/45077463.xml",
+    "final_url": "http://www.ximalaya.com/album/45077463.xml",
+    "fetched_at": "2026-10-25T14:42:37.066765+00:00",
+    "status": 200,
+    "sha256": "a40b21ab1dd8b4c842e2546dcab4ee9c7107bbfc7e9aefdc7c41a57d13c8063e"
+  },
+  "status": "ok",
+  "title": {
+    "text": "萌宝助攻：爹地追妻 | 萌宝神助攻-爹地,我妈咪超甜 (言情 总裁 多播)",
+    "truncated": false
+  },
+  "description": {
+    "text": "** 每 天19:00 更新， 订阅可以看到每日更新 ** 欢迎订阅，感谢 订阅感谢 支持主播，比心 心 ! 五年前，她是最耀眼的豪门千金，他是身世不详的孤儿。 五年后，她家破人亡，失忆落魄，与四岁儿子相依为命，而他一跃成为高高在上的帝国总裁， 地位尊贵,身价千亿。 初见，她醉酒误惹了中了情药的他，被吃干抹净，再见，她被人欺凌，他破门而入救她于水火。 望着这与自己宝贝儿子如出一辙的帅脸，倪清欢下定决心给宝贝儿子找个爹。 但没想到，传说中她儿子那个短命鬼的爹正……正是眼前这个高大帅气的男人！ “倪清欢，听说你到处说我死了？是个短命鬼？嗯？”周薄言牵着跟自己一个模子刻出来的儿子，手里拿着DNA检测表，微眯着黑眸，步步逼近，那气势足以将倪清欢碾压千万次。 作者： 温知知 演播：奶茶加一；情绪呢； 猫落不死 后期：奶茶加一",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 516,
+  "episodes": [
+    {
+      "id": "f5bef9935d7a7a4d885f51fb60317282ce16449fc570badcfbd65a8d3c57f9f1",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1aed-audiofreehighqps/A4/2B/CMCoOScD6rVeAEmJlACBlapc-aacv2-48K.m4a",
+      "title": {
+        "text": "第001集 - 做他的解药 （亲，请点点订阅关注 谢谢）",
+        "truncated": false
+      },
+      "description": {
+        "text": "五年后第一次相遇，女主在醉酒时遇上了不能自持的男主，尴尬，这会发生点什么",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Dec 2020 11:30:02 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "239c9e40c36ee65e62d770a9c34931c5f0abb5af46386163eb4acccbf2b5c734",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/fb54-audiofreehighqps/56/25/CMCoOSMD8GIWAEZyFwCDji6L-aacv2-48K.m4a",
+      "title": {
+        "text": "第075集 - 借你儿子玩玩呗 (亲，请点点订阅关注）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 03 Feb 2021 13:03:04 GMT",
+      "feed_index": 74
+    },
+    {
+      "id": "c7d7c11c0ec6c162c9de64c3431c188de115cdd1da5e4588fadbb5f1698bcc11",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c37f-audiofreehighqps/C8/8F/CKwRIJEEJjsPAEC8_wCS7aMt-aacv2-48K.m4a",
+      "title": {
+        "text": "第148集- 不听话，就吻你（亲，请点点订阅关注）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Mar 2021 09:19:00 GMT",
+      "feed_index": 147
+    },
+    {
+      "id": "dcead5d451b15878864d86de34ddc27091543fc46763ce272a6a1090e7bdc34a",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9d7b-audiofreehighqps/A3/D3/CKwRIW4EW-yGADZidwCjAA0n-aacv2-48K.m4a",
+      "title": {
+        "text": "第222集 这就是你说的小甜心（亲，请点点订阅关注）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Apr 2021 02:46:15 GMT",
+      "feed_index": 221
+    },
+    {
+      "id": "820bda552deb7c1fb11164d3d46edf87cbc7d2e795db2eb893981800f9cf13c2",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a5a5-audiofreehighqps/AA/E2/CKwRIUEEjzvlADblKAC04CkM-aacv2-48K.m4a",
+      "title": {
+        "text": "第295集 清欢吃不起的餐厅",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Jun 2021 00:50:31 GMT",
+      "feed_index": 294
+    },
+    {
+      "id": "64c813862ddfdf08635829b79ceacd6bf2d3784e81b5de546a4bdba91dd91c27",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b951-audiofreehighqps/BF/D9/CKwRINsEzo65ADlidwDLy8cg-aacv2-48K.m4a",
+      "title": {
+        "text": "第369集 恐吓倪夫人（亲，请点点订阅关注）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Jul 2021 01:36:45 GMT",
+      "feed_index": 368
+    },
+    {
+      "id": "c08900430a85542ec627e35295766e3e1ba4a8e1dc699d01bca28456317f0fb4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4f29-audiofreehighqps/A8/DA/CKwRIJIFCeArADf00wDf2ypr.m4a",
+      "title": {
+        "text": "第402集 庆祝派对（亲，请点点订阅关注）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 01 Sep 2021 01:35:45 GMT",
+      "feed_index": 441
+    },
+    {
+      "id": "d72956a86e4d4a786a8c3ce573b2d8a45bedc87e0b4d97b6045648956c751f07",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b8ef-audiofreehighqps/18/E4/CKwRIJEFOU2PAEiELwDra6eM-aacv2-48K.m4a",
+      "title": {
+        "text": "第516集 幸福大结局 HAPPY ENDING （完) （亲，请点点订阅关注）感谢陪伴",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 Oct 2021 00:51:17 GMT",
+      "feed_index": 515
+    }
+  ]
+}

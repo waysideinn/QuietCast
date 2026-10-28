@@ -1,0 +1,140 @@
+{
+  "show_id": "1521795741",
+  "feed_url": "https://s1.proxy.wavpub.com/xianjingzhiqiao.xml",
+  "source": {
+    "url": "https://s1.proxy.wavpub.com/xianjingzhiqiao.xml",
+    "final_url": "https://s1.proxy.wavpub.com/xianjingzhiqiao.xml",
+    "fetched_at": "2026-10-25T14:52:49.369242+00:00",
+    "status": 200,
+    "sha256": "bdef9d781d3b7ae444d23c3a2746e5ff200dc70a3c719420949cdaddcf797f9b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "仙境之桥｜动漫影视游戏文化和欢乐的我们",
+    "truncated": false
+  },
+  "description": {
+    "text": "【每周六更新哟！每周六上午9:43哟！】 《仙境之桥》是活力四射情绪丰沛的逗比女主播们欢乐分享 主播：未央、白马、酸奶 播出时间：每周六上午9:43 微信ID: weiyangyang27（未央）/ bai5jinji_（白马） 欢迎进群来讨论文化娱乐作品的新鲜事~努力分享那些有趣/有内涵/有深度/有回忆的作品！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "explicit": "false",
+    "type": "episodic"
+  },
+  "feed_item_count": 336,
+  "episodes": [
+    {
+      "id": "638864876afa7d491eb1ad0013185123e85c7fc3ec9d78e04977cef5972a969f",
+      "guid": "9a9aed0a-795e-4acc-9f37-1ba757594e0a",
+      "title": {
+        "text": "《龙岭迷窟》之鬼打墙，鬼吹灯，走不出的悬魂梯",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：未央、采小阳 进群+weiyangyang27（未央）、bai5jinji_（白马） 后期：姚阿华 一只绣花鞋引来迷窟探险， 两朝古墓中悬魂梯困亡魂， 又菜又爱听的鬼吹灯系列来啦！ ps.未央特制封面特别棒棒哒！",
+        "truncated": false
+      },
+      "published_at": "Wed, 21 Oct 2026 09:43:00 +0800",
+      "feed_index": 0
+    },
+    {
+      "id": "5f33fb0f9344f6d531f3bb4a745b863832b9d9d1568bc2eddc2d5fe245f3e84d",
+      "guid": "b1991346-ba59-41dd-b459-9506763e5cc2",
+      "title": {
+        "text": "游戏网文闲聊吐槽，未央回来啦！（内含罗小黑1超长花絮，来自6年前的青涩岁月）",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：未央、采小阳 后期：姚阿华 进群+vx：weiyangyang27（未央）、bai5jinji_（白马） 未央回来一起分享最近的电子多巴胺啦！ 片尾超长花絮更有来自六年前未央与酸奶的声音哦！",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Aug 2025 09:43:00 +0800",
+      "feed_index": 48
+    },
+    {
+      "id": "ccfed8761d1c9b10e80dbb44c6fe8827b30ec054be9333281178946c29dc2443",
+      "guid": "1a75cc5b-ccf7-4f3c-a9e8-3ef3bd8d3df9",
+      "title": {
+        "text": "甄嬛传 | vol.7 奴才、智囊、打工人,紫禁城底层生存攻略!",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播:白马、采小阳 嘉宾:阿凯 进群+weiyangyang27(未央)、bai5jinji_(白马) 后期: 姚阿华 甄嬛传更新啦！！ 俗话说，得苏培盛者得天下！ 俗话还说，成也槿汐，败也剪秋！ 让我们盘一盘皇上娘娘身边的最强辅助， 究竟谁能将主子一波带走， 谁又是助力小主笑到最后的人？ 前六期请收听: 《甄嬛传|后来,她们都成了封建王朝的势脚石》安陵容、皇后宜修 《甄嬛传|登上极权的巅峰需要献祭什么?》 眉庄、甄嬛、雍正 《甄嬛传|半世贪嗔痴,华妃年世兰从未看透的困兽之斗》华妃，年羹尧 《甄嬛传|浣碧: 被爱点亮的酸涩一生》浣碧、淳儿、欣贵人 《甄嬛传|在后宫，最亲密的情谊是共谋一起屠龙！》端妃、敬妃、叶澜依、瑛贵人 《甄嬛传|蛊王争霸赛，皇子们一出生就被设置了内卷模式》雍正、果郡王、慎贝勒、敦亲王、三阿哥、四阿哥",
+        "truncated": false
+      },
+      "published_at": "Sat, 07 Sep 2024 09:43:00 +0800",
+      "feed_index": 96
+    },
+    {
+      "id": "d7bb0fc7fe342f660475ff16b42e0e7046c4ad14ac5ee03e2e9c5a084c37bfed",
+      "guid": "6feb785e-2b56-425c-a456-2223b89af801",
+      "title": {
+        "text": "风月丨《唐朝豪放女》长安才女鱼玄机：我，是属于我自己的",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：白马、采小阳 进群+weiyangyang27（未央）、bai5jinji_（白马） 后期：姚阿华 收听指南：本期节目会涉及到一部情色电影与其相关情节,请听友朋友们按照自己的接受程度自行决定是否收听;请12岁以下听友朋友们在家长陪同下收听 （不比甄嬛跟皇上分享孙答应与狂徒二三事时候的措辞尺度大） 马女士新挖了一个坑！风月片专题系列 ~会分享一些带有情色元素的作品 第一期：《唐朝豪放女》A Tang Dynasty Uninhibited Woman 提到的两首诗： 《赠邻女》鱼玄机 羞日遮罗袖，愁春懒起妆。 易求无价宝，难得有心郎。 枕上潜垂泪，花间暗断肠。 自能窥 宋玉 ，何必恨王昌？ 收尾潇洒放达的一首诗，最为人传颂的反而是其中“爱的执念”的一句； 就像这部电影，一生追求命运自决的女人的挣扎，最后大家却深深记住她的香艳之名。 好在，她是属于她自己的。 《游崇真观南楼睹新及第题名处》鱼玄机 云峰满目放春晴，历历银钩指下生。 自恨罗衣掩诗句，举头空羡榜中名。 ↑ “有才华的女人可以做什么？” 现在终于可以回答这个问题了：做什么都可以，我们是自由的。 PS：我觉得温庭筠和鱼玄机是纯师徒关系！！！",
+        "truncated": false
+      },
+      "published_at": "Sat, 21 Oct 2023 09:43:00 +0800",
+      "feed_index": 144
+    },
+    {
+      "id": "004686d6ee413e5545131acc55734b35afe6ce82ff0569a3b72960f2e6955490",
+      "guid": "d760f7f1-4501-4ef0-9ac5-f50c3a745c24",
+      "title": {
+        "text": "《玩具总动员》皮克斯的王牌系列，到80岁也要理直气壮地爱玩具啊！",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：酸奶、未央、白马 后期：姚阿华 进群+vx：weiyangyang27（未央）、bai5jinji_（白马） 那些暗中观察我的玩具会不会说话的日子，一直都在呀！",
+        "truncated": false
+      },
+      "published_at": "Sat, 26 Nov 2022 09:43:00 +0800",
+      "feed_index": 191
+    },
+    {
+      "id": "ac1eeb61bbf639db4cb60b827bbdb44f289426e1dd3cc0201e84fadbb3bb7284",
+      "guid": "cf5006ae-1f99-4159-8c51-800c80562244",
+      "title": {
+        "text": "全职猎人vol.7 | 凯特 X 嵌合蚁 X NGL",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：未央、酸奶 后期：毛师傅 进群+vx: weiyangyang27（未央）、bai5jinji_（白马） 我来啦~~我哭着来讲蚂蚁篇啦~~ 看见的朋友们来叫个好再走啊！ 每一次讲猎人都是一场痛并快乐的过程…",
+        "truncated": false
+      },
+      "published_at": "Sat, 22 Jan 2022 09:43:00 +0800",
+      "feed_index": 239
+    },
+    {
+      "id": "7a6e54475ce3fba4062396a450a4657408e6c499aad18c9e6fbb7f3829594b33",
+      "guid": "0fd61b17-2c0b-4843-8d56-9502b6c24b45",
+      "title": {
+        "text": "仙境小剧场 | 旺达幻视节目的背后",
+        "truncated": false
+      },
+      "description": {
+        "text": "突然更新，惊不惊喜意不意外！ 吕未央一人分饰四角的武林外传，普法罗白马老师的幕后世界大揭秘，某位嘉宾的心酸（？）感情史…… 还有出差赶回来加入彩蛋环节的酸奶！ 一起来听《旺达幻视》节目的幕后小剧场！",
+        "truncated": false
+      },
+      "published_at": "Wed, 24 Mar 2021 09:43:00 +0800",
+      "feed_index": 287
+    },
+    {
+      "id": "217695501719717edf608ef9a4bd070f0795975f60abfd6ee67698b76df76cea",
+      "guid": "d492a15e-fc27-43e4-b946-c89c07ebaacf",
+      "title": {
+        "text": "奇奇怪怪的《整容液》",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期聊聊韩国漫画《奇奇怪怪》单元剧之《整容液》 喜欢猎奇恐怖悬疑向内容的朋友们欢迎来聊天~ 奇奇怪怪一系列故事都挺有趣的，10-15分钟看一个单元剧 比较经典的温馨向作品《妻子的记忆》也是这个系列的 国内也有类似的悬疑类单元剧漫画，比如 《怪奇笔记》《心跳300秒》，脑洞都挺大的。 中间提到了《美女税》的故事，这一集是出自 《世界奇妙物语2016春季特别篇》有兴趣可以看看这集，毕竟 佐佐木希太好看了！想给她打钱的那种好看！跺脚！！ 最后PS. 没想到发完第一期就遇到了各种滑铁卢，一定会争取按时周更的TAT",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 Dec 2019 19:34:17 +0800",
+      "feed_index": 335
+    }
+  ]
+}

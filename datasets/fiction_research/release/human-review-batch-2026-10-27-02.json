@@ -1,0 +1,84 @@
+{
+  "batch_id": "human-chat-2026-10-27-02",
+  "recorded_at": "2026-10-27T12:32:59.915334+00:00",
+  "user_statement": "15拦截 标题里说了是配音小说 其他都不是 都保留",
+  "review_basis": "User reviewed show titles, excerpted public RSS descriptions and representative episode titles presented in chat. No audio listening reported.",
+  "unit": "show",
+  "predictions_shown": false,
+  "episode_labels_inferred": false,
+  "account_identity_confirmed": false,
+  "independence_audit_status": "pending",
+  "items": [
+    {
+      "number": 11,
+      "show_id": "1139142615",
+      "title": "经济学",
+      "label": "nonfiction",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 12,
+      "show_id": "1157960349",
+      "title": "健康减肥脱口秀---可瘦可乐的生活",
+      "label": "nonfiction",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 13,
+      "show_id": "1160578978",
+      "title": "甜甜圈在澳洲(旅行|留学|移民)",
+      "label": "nonfiction",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 14,
+      "show_id": "1180537872",
+      "title": "不存在电台 non-exist",
+      "label": "nonfiction",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 15,
+      "show_id": "1181770436",
+      "title": "多人配音有声小说《乱世为媒》",
+      "label": "fiction",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 16,
+      "show_id": "1183233450",
+      "title": "闲话文学史",
+      "label": "nonfiction",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 17,
+      "show_id": "1184981897",
+      "title": "语桐听艺术",
+      "label": "nonfiction",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 18,
+      "show_id": "1197935841",
+      "title": "妈妈你听",
+      "label": "nonfiction",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 19,
+      "show_id": "1234086160",
+      "title": "女性の事業家井戸端会議",
+      "label": "nonfiction",
+      "chinese_metrics_eligible": false
+    },
+    {
+      "number": 20,
+      "show_id": "1248691568",
+      "title": "关键洞察力：成功沟通的要诀（公关必读）完结",
+      "label": "nonfiction",
+      "chinese_metrics_eligible": null
+    }
+  ],
+  "language_scope_note": "Item 19 (1234086160) is a Japanese-language sample. Preserve the human nonfiction label but exclude it from Chinese-only metrics. Other items still require the pending full language/account/work-family audit."
+}

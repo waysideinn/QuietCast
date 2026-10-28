@@ -1,0 +1,140 @@
+{
+  "show_id": "1638247931",
+  "feed_url": "https://anchor.fm/s/adef835c/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/adef835c/podcast/rss",
+    "final_url": "https://anchor.fm/s/adef835c/podcast/rss",
+    "fetched_at": "2026-10-25T14:56:19.644416+00:00",
+    "status": 200,
+    "sha256": "475f3e33ef7598b69186bcff87f4ba5e004706b1ed0b08f45ec89c9a9f4286f5"
+  },
+  "status": "ok",
+  "title": {
+    "text": "为你精挑细选",
+    "truncated": false
+  },
+  "description": {
+    "text": "为你精挑细选",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 948,
+  "episodes": [
+    {
+      "id": "4b84de3d299a19b8343ba0b741482a0446c69f8252d532c346f4c9715944a22a",
+      "guid": "7a4b9c57-0767-48eb-a268-a82f4b489552",
+      "title": {
+        "text": "128.12.27大陆已有22个省区市制定落实“31条惠及台胞措施”的具体办法.mp3",
+        "truncated": false
+      },
+      "description": {
+        "text": "128.12.27大陆已有22个省区市制定落实“31条惠及台胞措施”的具体办法.mp3",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Jun 2023 09:13:07 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ba86bf0a17f3b20826bb45045fa5e412bad9ee5b8af0c40d89a2e969b30bb1b7",
+      "guid": "5b7db777-dc96-4194-933b-283ed1dde0ad",
+      "title": {
+        "text": "002.新“红顶商人”尹明善：被两任总理称赞的民营企业家，深陷危局！",
+        "truncated": false
+      },
+      "description": {
+        "text": "002.新“红顶商人”尹明善：被两任总理称赞的民营企业家，深陷危局！",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Jun 2023 03:56:14 GMT",
+      "feed_index": 135
+    },
+    {
+      "id": "ffc7695466dc5347f3de3e9fadf7f6ff01a6ad69696f37125ad203c3ae14fcec",
+      "guid": "7e9ecf45-d6e3-4cb6-9095-16c458840d44",
+      "title": {
+        "text": "001.画框10（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "001.画框10（完）",
+        "truncated": false
+      },
+      "published_at": "Sat, 20 May 2023 17:24:28 GMT",
+      "feed_index": 271
+    },
+    {
+      "id": "115a787878b2d5c549239ddbce7f48a174e3014d554885d7bd19c7d9cbb8ac47",
+      "guid": "bda1e7b7-5c2c-4459-96cb-21477277b988",
+      "title": {
+        "text": "001.女生什么行为会导致男人讨厌",
+        "truncated": false
+      },
+      "description": {
+        "text": "001.女生什么行为会导致男人讨厌",
+        "truncated": false
+      },
+      "published_at": "Fri, 28 Apr 2023 08:47:28 GMT",
+      "feed_index": 406
+    },
+    {
+      "id": "49069799c4a000457f43de33598f02c111583c60cd675e67cd90e2a23424b43b",
+      "guid": "7aaf5969-6289-410d-bad4-56fd522d62de",
+      "title": {
+        "text": "001.特工的特别装备",
+        "truncated": false
+      },
+      "description": {
+        "text": "001.特工的特别装备",
+        "truncated": false
+      },
+      "published_at": "Mon, 10 Apr 2023 14:07:18 GMT",
+      "feed_index": 541
+    },
+    {
+      "id": "deca1a507fe9c7a7892fc954d960a11b4dbc1db39e3aa18dd15aecb435965b4f",
+      "guid": "9b7f609b-6ad6-4902-95c3-cdc081737f5d",
+      "title": {
+        "text": "006.马红漫：逆全球化趋势下，如何应对外部的不确定性？",
+        "truncated": false
+      },
+      "description": {
+        "text": "006.马红漫：逆全球化趋势下，如何应对外部的不确定性？",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Mar 2023 02:53:16 GMT",
+      "feed_index": 676
+    },
+    {
+      "id": "03ff4a44c3054a7306155d766952db32727a9a4d41a3193ac4274eae2d69c51a",
+      "guid": "3d03907c-08be-4e27-8d22-1c87abb011c8",
+      "title": {
+        "text": "001.在最好的年纪遇见最好的自己。",
+        "truncated": false
+      },
+      "description": {
+        "text": "001.在最好的年纪遇见最好的自己。",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Mar 2023 02:52:15 GMT",
+      "feed_index": 812
+    },
+    {
+      "id": "743a352fc304706d16e9d516ecc2e49df3442da08ed90354b91a9c6f6029ee45",
+      "guid": "2abc7480-0026-4f0a-9479-8c9e25933d4d",
+      "title": {
+        "text": "因为成熟",
+        "truncated": false
+      },
+      "description": {
+        "text": "因为成熟",
+        "truncated": false
+      },
+      "published_at": "Fri, 05 Aug 2022 02:18:47 GMT",
+      "feed_index": 947
+    }
+  ]
+}

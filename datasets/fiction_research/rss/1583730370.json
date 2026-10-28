@@ -1,0 +1,140 @@
+{
+  "show_id": "1583730370",
+  "feed_url": "https://feed.firstory.me/rss/user/cmbfvskk00tt901x2773h20bp",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/cmbfvskk00tt901x2773h20bp",
+    "final_url": "https://feed.firstory.me/rss/user/cmbfvskk00tt901x2773h20bp",
+    "fetched_at": "2026-10-25T14:53:58.637808+00:00",
+    "status": 200,
+    "sha256": "b0ff604517411f215599d0925351ae2e84fc98a221b29d247e799df37709365e"
+  },
+  "status": "ok",
+  "title": {
+    "text": "读报teleread",
+    "truncated": false
+  },
+  "description": {
+    "text": "读报是一档杂志文章的阅读分享节目，我们的目标是希望借助外文报道看到更多的人和故事。我们相信，总有人对外面的世界有所兴趣。 Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 74,
+  "episodes": [
+    {
+      "id": "025e98e80216622d5516bc474b8998dfa83a119d587a4ce535a43e2ea50e2a81",
+      "guid": "cmvkvb75u00pz01xag5duhj3b",
+      "title": {
+        "text": "总第074期：他们曾「见过」未来，于是创造了「现在」",
+        "truncated": false
+      },
+      "description": {
+        "text": "【本期收录】 The Atlantic, 2026年8月31日 How Musk, Thiel, and Altman Misread Science Fiction , By Gal Beckerman 大西洋对新书《The Rise and Fall of the Artificial State》的评论文章，书评提出了一个比原书更尖锐的问题：当科技巨头有能力把科幻给他们的想象做成产品之后，会发生什么？许多诞生于冷战与核恐惧年代的科幻作品，本是借未来技术提出伦理警告；科幻把技术当成一个问题，产业却把问题里的技术当成了答案。 Vanity Fair, 2026年10月1日 Larry Ellison's Tentacular Spectacular , By Tom Dotan 甲骨文创始人 Larry Ellison 最喜欢的形象是章鱼，他的控股公司、风投公司都以章鱼和触手命名。这篇长篇人物报道从他买下的夏威夷拉奈岛写起，一路写到他伸向 AI 数据中心、好莱坞与白宫的几条触手，以及触手背后巨额的债务与这个 82 岁老人的孤独。 【勘误及补充】 拉奈岛在Larry Ellison之前，岛主是地产大亨 David Murdock，而非传媒大亨默多克 甲骨文牵头的财团亦拿下TikTok 美国业务，甲骨文负责托管用户数据、监管算法安全 【BGM】 Miracle, By Caravan",
+        "truncated": true
+      },
+      "published_at": "Fri, 23 Oct 2026 11:13:23 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "4627a520ac19183ddfa3f6db85d210a9528a243f415e7c239fd7a96e34bb7643",
+      "guid": "cmq0dhqnx00q601z0565c29ow",
+      "title": {
+        "text": "总第064期：垃圾，与男子气概的谎言",
+        "truncated": false
+      },
+      "description": {
+        "text": "【本期收录】 Harper's Magazine, 2026年6月刊 The Conscience of the City , By Simon Paré-Poupart, Translated by Pablo Strauss 在魁北克当了二十年垃圾工的Simon，在看待垃圾世界、社会生活时，视角有些不同。他说\"垃圾是唯一不撒谎的东西\"，体面社会的光鲜在垃圾桶里原形毕露。与垃圾为伍的生活好不好？好与不好又在哪里？这可能不是个人选择所能决定的。 The Believer, 2026年春季刊 The Death of a Superman , By Paul Collins 街边的衣物捐赠箱，为防盗设计的卷帘滑道，却让它成为了「谋财害命」的机器，这个机器背后，慈善的外衣下是一桩二手纺织品出口生意。 The Atlantic, 2026年6月刊 The Men Who Don't Want Women to Vote , By Helen Lewis 保守派大开倒车倾轧而来，政治主张从废除第十九修正案到呼吁男性户主制，一整套「让女人回到原位」的masculinism正在传播。\"新男性\"依然没有正面形象，有的只是镜子碎掉之后，把敌意投射向所有人的各种变体。 【本期回顾】 总第050期：现代男性何以可能 【BGM】 Good Boy, By Paris Paloma Powered by",
+        "truncated": true
+      },
+      "published_at": "Fri, 05 Jun 2026 04:11:55 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "f44a392876a08d64c342afd84551219be5baa17858154c3078cef75ac98651c3",
+      "guid": "cmdlbz15r096c01rw6cev9yfv",
+      "title": {
+        "text": "总第054期：停在问题里",
+        "truncated": false
+      },
+      "description": {
+        "text": "【本期收录】 The Atlantic My Personal War On Plastic , By Annie Lowrey 塑料在生活中无处不在，在地球上无处不在，甚至在身体里也能找到沉积。但有人真的打响了一场和塑料的战争，一场注定会失败的战争。 Monocle June 2025 Dancing to A Different Tune , By Kate Solomon 扪心自问，现在年轻人最喜欢的娱乐休闲活动，排名第一的肯定是刷手机——而曾经，可能是去夜店。现在好像没有人爱去蹦迪了，夜店也一间接着一间的倒闭，除了社会经济等宏观原因，还有一个隐秘的心理因素在发挥作用。 The Atlantic The Day the Music Died, By Spencer Kornhaber 现在是文化与艺术最好的时代，制作与生产前所未有的简单，发布与曝光空前绝后的轻易。但是，这也是最坏的时代，创作者被平台挟持，意识形态不断激化，氛围断裂。 身处乱流当中，有一个叩问不断回响：内容供给如此量大、丰富、管饱，为什么，好像没有人因此而感到开心呢？ BGM: Foreign Coast，By Alfred Hal 读报的Telegram频道：https://t.me/SLtelenote 留言告訴我你對這一集的想法： https://open.firstory.me/user/cmbfvsk",
+        "truncated": true
+      },
+      "published_at": "Sun, 27 Jul 2025 07:10:41 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "0f62690ba11f43acf26351d37fa76aad08d3da590f185148e3f437fdc116dab3",
+      "guid": "e7dbad28-43de-4186-b6a3-d1bf27e13142",
+      "title": {
+        "text": "总第044期：忍住",
+        "truncated": false
+      },
+      "description": {
+        "text": "⚠️本期后半段为有损音质⚠️ The New York Times The Voices of A.I. Are Telling Us a Lot , By Amanda Hess OpenAI的创始人之一Andrej Karpathy曾经开玩笑说，「the killer app for artificial intelligence is Scarlett Johansson, you all thought that’s maths or something」。远不止于此，ai chatbot产品以及类人机器人，总是以女性为想象的基底，而且是传统意义上的女性形象。 Objects of Our Life Steve’s talk at the 1983 International Design Conference in Aspen 1983年，乔布斯参加了阿斯彭国际设计大会发表演讲，当时正是Mac即将面世的关键阶段，他面对台下一大群不太懂电脑、没听说过苹果的观众说，「我需要你们的帮助。」 The New Yorker Fitzcarraldo Editions Makes Challenging Literature Chic , By Rebecca Mead 来自伦敦、创办不过十年的独立小众出版商Fitzcarraldo，却发掘了四位诺贝尔文学奖得主，并把他们的作品带进英",
+        "truncated": true
+      },
+      "published_at": "Sun, 28 Jul 2024 23:40:00 GMT",
+      "feed_index": 31
+    },
+    {
+      "id": "78323719a3cb44abf47fba91ff7b9a6c15bf9df7eb065cbf41bfc5959cb7a661",
+      "guid": "a07c8fb5-b85d-48ae-a2e1-5931953f7c80",
+      "title": {
+        "text": "总第032期：No shame, 这期主要靠翻译",
+        "truncated": false
+      },
+      "description": {
+        "text": "【Editor’s note：不再缚于他人目光】 法国作家安妮·诶尔诺有这样一句话，“一个女性从出生开始，就天然站在一个被压迫的结构里，这也是很自然的。”而这个结构站位，及其给女性所造成的羞耻感，成了诶尔诺写作的重要主题。 正是在不久前的法国，一桩对杀婴案的裁决也指向了同一个问题——一个不完美的母亲、伴侣、女儿，就只能面对一层又一层的羞耻指控吗？ 【本期收录】 法国世界报 The young mother and the child of shame , By Pascale Robert-Diard Meroua在18岁时和比她大十岁的Dilale发生关系，意外怀孕。在提心吊胆地度过孕期之后，她在家里的浴室生下了这个“孩子”——然后便陷入了对自己谋杀的指控当中。 【延伸阅读】 They Followed Doctors’ Orders. Then Their Children Were Taken Away , By Shoshana Walter NYT的长报道关注了因为药物成瘾历史，而必须与新生儿分离的母亲，涉及了对美国儿童福利政策在执行时所出现的问题。 How to do great work , By Paul Graham 这是Paul Graham时隔许久的长篇巨作，这次他想探讨的是如何成就伟大的事业，这是一个提问但更是一种思考的路径，更是对一系列与“志向”相关概念的",
+        "truncated": true
+      },
+      "published_at": "Thu, 27 Jul 2023 19:46:53 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "59cc8474f94589726cbb691fa2518516a4310cb5d9e2776ef94000917d5beff7",
+      "guid": "eec50c1b-08ce-428d-a9bc-9da8d6eda1de",
+      "title": {
+        "text": "休季通知",
+        "truncated": false
+      },
+      "description": {
+        "text": "朋友们，又一轮休季期到啦。在休季期间，我会维护和更新电报组Telenote的内容（https://t.me/SLtelenote），你可以在这里找到一些阅读和生活分享。末尾有一个小忙，thanks in advance, and I'll see you in a different future! 【BGM】 The Light-CHPTRS Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 20 Sep 2022 08:41:29 GMT",
+      "feed_index": 52
+    },
+    {
+      "id": "0700cddba60eea8034ce6297d320c6bf90f54f5850ecf4fdf3967e8c2854b7ad",
+      "guid": "1aeb3f75-3f6f-4b71-8344-317ad6e61a16",
+      "title": {
+        "text": "总第009期：悠闲假期",
+        "truncated": false
+      },
+      "description": {
+        "text": "【Editor's note：放假了，摆烂吧】 这是一期比较轻松的节目，没有什么疾病和灾难，不仅适合假期躺平，也同样适合思考并重塑我们和很多东西的关系：包括酒精、八卦，或者是美丽童话。 New York Magazine/the CUT I’m Tired of Explaining Why I Don’t Drink By Sarah Wood 逢年过节，喝酒这件事一定会被拿出来重新检视。New York Magazine作者决定不再喝酒，有出于对健康的管理，更多是想「重塑自己与酒精的关系」。 The New Yorker 0124 Eat Prey Love By Kathryn Schulz 《小鹿斑比》的原著今年在美国的版权保护到期，进入公域，观众可以看见迪士尼改编前的斑比和它所在的森林是什么样子——与想象的不同，那是更凉薄、更暴力、更残酷的世界。 （正片中误报成了1月27刊次，实际应为1月24刊次） Normal Gossip By Rachel Syme 八卦，是一项人民群众一边抵制、一边喜闻乐见的活动。媒体人Kelsey McKinney写了一篇 文章 为它正名，甚至开了一档播客，冲到你耳边给你讲八卦。引人入胜，效果堪称播客界guilty pleasure Normal Gossip的链接在 这里 ，也可以在各大（外面的）平台搜索名称，听不听全凭自己了😏 Powere",
+        "truncated": true
+      },
+      "published_at": "Sat, 29 Jan 2022 10:11:00 GMT",
+      "feed_index": 63
+    },
+    {
+      "id": "58b4f4f7c348cb775ded92ff256fc79374ba63c2b803e92b60cedb40b1193ffb",
+      "guid": "8f1f7ec8-9d7b-4f5a-b1b3-6b761be032c9",
+      "title": {
+        "text": "读报teleread: pilot episode",
+        "truncated": false
+      },
+      "description": {
+        "text": "读报是一档阅读分享节目，在播放音频之前，你可能想知道自己是不是有必要来听。以下shownote里有基本信息的介绍和解释。 Q：这是一档什么节目？ 你可以称之为阅读分享节目（尤其是在向周围人推荐的时候，总是需要一个描述），但我在制作上避免做成“三分钟带你看完xxx”和“外刊精读精练”这两种极端。尽管每一期包含了提炼的和摘录两个环节，但重点是文章们如何向外延展。我所期待的是这个节目诱发你对这些文章的兴趣后，自行阅读，并再次回来分享你的想法。 Q: 为什么做这个节目？ 有一些个人需求在里面：我在重新找回使用英文的感觉和习惯。另外，我觉得微博微信上没什么值得看的东西了。反而，纸本杂志里有不少没有被放到网上的有趣文章。 Q:你是谁？ A：我不认为这是一档人格化很明显的节目，更像是一个媒介。播客主和博主也不一样，换句话说我是谁并不重要。但如果你想知道：一个前媒体民工，目前在准备回到学校。资深网民，兴趣是看东西。 Q：为什么以外刊为主？ A：像我说的，微信微博上没什么东西好“看”，即便有，也不需要我来挑选评价。另外我也看繁体中文内容，偶尔也会出现。或许确实存有一部分人，他们仍然对外面的世界感兴趣，对外面正在发生什么感兴趣。如果你并不关心外面发生了什么，这档节目就只会浪费你的流量了。 Q：文章的选择标准是什么？有书吗？ 不做书很大一个原因是篇幅，囫囵吞枣看完一本书就为了做播客，大可不必，这不是我的",
+        "truncated": true
+      },
+      "published_at": "Mon, 16 Aug 2021 16:03:11 GMT",
+      "feed_index": 73
+    }
+  ]
+}

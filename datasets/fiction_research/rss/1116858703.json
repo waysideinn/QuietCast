@@ -1,0 +1,140 @@
+{
+  "show_id": "1116858703",
+  "feed_url": "http://www.ximalaya.com/album/368828.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/368828.xml",
+    "final_url": "http://www.ximalaya.com/album/368828.xml",
+    "fetched_at": "2026-10-25T14:47:13.245220+00:00",
+    "status": 200,
+    "sha256": "cd8f234b10e35587abc163bc6933d5667449b7dca06d7c72f0a688b71d8329fb"
+  },
+  "status": "ok",
+  "title": {
+    "text": "猫爸电台 | 晚安故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "一个屌丝男，认知着这个城市中的故事。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 65,
+  "episodes": [
+    {
+      "id": "a5045bd6504b60e0a172609c5a8f299db758720ded2bebeb64c44d30b29f494c",
+      "guid": "xmly_track_751825476",
+      "title": {
+        "text": "【猫爸电台】任何关系到最后都只是相识一场",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Aug 2024 15:18:56 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "76844676a276ee8ce96db71f7f055ac81ffb97b51c291c49dc73efa01da24d14",
+      "guid": "xmly_track_592117805",
+      "title": {
+        "text": "【猫爸电台】那些难熬的日子终究会过去的",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 28 Nov 2022 13:49:12 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "e1177a954dd61762fe28ad6c2cf7f389dcfcad9db379468816a233104ccbbe99",
+      "guid": "https://aod.cos.tx.xmcdn.com/group50/M05/7D/7D/wKgKnVvxlxrhPSQoAD5dGw19Ezo586.m4a",
+      "title": {
+        "text": "【猫爸电台】如果爱情太难，那就先挣钱吧",
+        "truncated": false
+      },
+      "description": {
+        "text": "前两天朋友默默分手了，哭着跟我说：“爱情这件事，实在是太难了，以后再也不想谈恋爱了。” 我安慰着默默说：“不是爱情太难，而是遇见那个对的人太难”而默默反问了我一句：“如果遇见的不是对的人，那还能叫做爱情吗？” 我一时间不知道说什么，最后想了想说：“不是所有的感情都叫做爱情，也不是所有的爱情都必须长久，如果你真的觉得爱情太难，那我祝你有钱”。 觉得爱情太难，那我祝你有钱 从默默这件事情上，让我想起了两年前的小安，也是一个感慨爱情太难的姑娘。 小安的前男友说白了就是个人渣，追你的时候说尽了甜言蜜语，可一到手就什么都变了，以前是个体贴入微的翩翩君子，关怀，照顾，陪伴一样都不少，可自从两人在一起之后，除了男女之间那点事情以外，对小安的态度和行为，真的是一落千丈。 以前觉得小安的前男友是个很优秀的人，可后来才知道，小安所有的钱几乎都花在了男友身上，可不满足的前男友总是对小安不是打就是骂，甚至逼着小安一个人去做流产，最后却又说小安是个不检点的人。 曾经小安也和我抱怨过这些事情，我听过之后只问了小安一句：“你为什么不分手”小安说：“我也想分手，可他总是威胁我，手机里有很多我见不得人的照片，要是分手就撕破脸闹起来看，所以才一直忍气吞声到现在。” 对于小安这样的情况，只有分手远离这样的人渣才能慢慢的变好，不然这样纠缠在一起只会带来无止境的伤害。 最后小安心灰意冷，面对男朋友的威胁，小安直说了一句：“",
+        "truncated": true
+      },
+      "published_at": "Sun, 18 Nov 2018 16:45:31 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "6a35099237111e2ddf81f44ef6b2ea54ce7944f8809d7c3477676c0b923e3295",
+      "guid": "https://aod.cos.tx.xmcdn.com/group41/M01/0F/EF/wKgJ8VqT_yzReB8-AEjQmy2lQkU864.m4a",
+      "title": {
+        "text": "【猫爸电台】失去的意义",
+        "truncated": false
+      },
+      "description": {
+        "text": "合上书本，不要回头。",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Feb 2018 12:36:50 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "2dad8b9a4b6e6e37896e5ac125c0c075486ac5c912414ec678c269b9823caaf5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group29/M02/EF/ED/wKgJXVlPwozDWBS3AFJfAvD-_tA388.m4a",
+      "title": {
+        "text": "当他不在爱你的时候",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Jun 2017 14:02:53 GMT",
+      "feed_index": 37
+    },
+    {
+      "id": "1af747ea89424b7fc2f6a67574526d7fb9b916ef3246bb37ec72a1f6e3fc3247",
+      "guid": "https://aod.cos.tx.xmcdn.com/group22/M02/CA/70/wKgJM1i20FbAAGHwAFYKHyK1nbI663.mp3",
+      "title": {
+        "text": "最好的幸福，是你给的在乎",
+        "truncated": false
+      },
+      "description": {
+        "text": "我要的 只是简单而安稳的生活 最好的幸福 是你给的在乎",
+        "truncated": false
+      },
+      "published_at": "Wed, 01 Mar 2017 13:47:26 GMT",
+      "feed_index": 46
+    },
+    {
+      "id": "39eaa2988005ac1ca09763b9f62137210e9270f15c617c15f872d0a9b94cac13",
+      "guid": "https://aod.cos.tx.xmcdn.com/group14/M03/15/19/wKgDY1VtyBrhBYjMAIMKH_50CX8241.mp3",
+      "title": {
+        "text": "一个人",
+        "truncated": false
+      },
+      "description": {
+        "text": "一个人有何不可。",
+        "truncated": false
+      },
+      "published_at": "Tue, 02 Jun 2015 15:13:37 GMT",
+      "feed_index": 55
+    },
+    {
+      "id": "95391cb4d106f89425fa61ec102ca471c20053197999f6cf0f721a94e8517d11",
+      "guid": "https://aod.cos.tx.xmcdn.com/group8/M0A/20/DE/wKgDYVV78KfiHzY5AF2Gc8Yy02o056.m4a",
+      "title": {
+        "text": "反正这就是人生",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 Apr 2015 15:08:42 GMT",
+      "feed_index": 64
+    }
+  ]
+}

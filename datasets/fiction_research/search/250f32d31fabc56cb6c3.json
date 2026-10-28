@@ -1,0 +1,655 @@
+{
+  "group": "fiction",
+  "term": "修仙",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E4%BF%AE%E4%BB%99&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E4%BF%AE%E4%BB%99&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:39:56.794251+00:00",
+    "status": 200,
+    "sha256": "6bfa5147fb80374d9cd0344bd68366d06a213ab3920b0521617537a849aafaff"
+  },
+  "result_count": 28,
+  "records": [
+    {
+      "collectionId": 1803882208,
+      "trackId": 1803882208,
+      "collectionName": "仙道神尊|永久免费|玄幻|修仙|诸天万界|",
+      "artistName": "案夜",
+      "feedUrl": "https://www.ximalaya.com/album/88144274.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BB%99%E9%81%93%E7%A5%9E%E5%B0%8A-%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9-%E7%8E%84%E5%B9%BB-%E4%BF%AE%E4%BB%99-%E8%AF%B8%E5%A4%A9%E4%B8%87%E7%95%8C/id1803882208?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 2000,
+      "releaseDate": "2025-09-02T16:29:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1775354167,
+      "trackId": 1775354167,
+      "collectionName": "凡人修仙 | 都市奇幻 | 都市诡途：从凡人到神祇",
+      "artistName": "係阿東呀",
+      "feedUrl": "https://www.ximalaya.com/album/83974801.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99-%E9%83%BD%E5%B8%82%E5%A5%87%E5%B9%BB-%E9%83%BD%E5%B8%82%E8%AF%A1%E9%80%94-%E4%BB%8E%E5%87%A1%E4%BA%BA%E5%88%B0%E7%A5%9E%E7%A5%87/id1775354167?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 106,
+      "releaseDate": "2024-10-31T01:54:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1777644913,
+      "trackId": 1777644913,
+      "collectionName": "【免费】【有声书】精品多播｜穿越修仙|系统爽文",
+      "artistName": "深海鲲鲸",
+      "feedUrl": "https://www.ximalaya.com/album/83145318.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E6%9C%89%E5%A3%B0%E4%B9%A6-%E7%B2%BE%E5%93%81%E5%A4%9A%E6%92%AD-%E7%A9%BF%E8%B6%8A%E4%BF%AE%E4%BB%99-%E7%B3%BB%E7%BB%9F%E7%88%BD%E6%96%87/id1777644913?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 1125,
+      "releaseDate": "2025-08-14T22:31:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1746439164,
+      "trackId": 1746439164,
+      "collectionName": "（视频）徒儿你无敌了|沙雕修仙小说|动漫二次元短片",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/81513331.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A7%86%E9%A2%91-%E5%BE%92%E5%84%BF%E4%BD%A0%E6%97%A0%E6%95%8C%E4%BA%86-%E6%B2%99%E9%9B%95%E4%BF%AE%E4%BB%99%E5%B0%8F%E8%AF%B4-%E5%8A%A8%E6%BC%AB%E4%BA%8C%E6%AC%A1%E5%85%83%E7%9F%AD%E7%89%87/id1746439164?uo=4",
+      "genres": [
+        "脱口秀",
+        "播客",
+        "喜剧"
+      ],
+      "genreIds": [
+        "1497",
+        "26",
+        "1303"
+      ],
+      "trackCount": 86,
+      "releaseDate": "2024-07-23T06:44:00Z",
+      "country": "CHN",
+      "primaryGenreName": "脱口秀"
+    },
+    {
+      "collectionId": 1618467149,
+      "trackId": 1618467149,
+      "collectionName": "我的老婆是妖女｜玄幻修仙｜先婚后爱｜精品有声小说",
+      "artistName": "方鸣远播",
+      "feedUrl": "http://www.ximalaya.com/album/61980278.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E7%9A%84%E8%80%81%E5%A9%86%E6%98%AF%E5%A6%96%E5%A5%B3-%E7%8E%84%E5%B9%BB%E4%BF%AE%E4%BB%99-%E5%85%88%E5%A9%9A%E5%90%8E%E7%88%B1-%E7%B2%BE%E5%93%81%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1618467149?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "trackCount": 83,
+      "releaseDate": "2022-05-10T01:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1751406730,
+      "trackId": 1751406730,
+      "collectionName": "天火大帝|玄幻超能|废柴|修仙|热血|爽文",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/78167691.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%A9%E7%81%AB%E5%A4%A7%E5%B8%9D-%E7%8E%84%E5%B9%BB%E8%B6%85%E8%83%BD-%E5%BA%9F%E6%9F%B4-%E4%BF%AE%E4%BB%99-%E7%83%AD%E8%A1%80-%E7%88%BD%E6%96%87/id1751406730?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 378,
+      "releaseDate": "2023-09-17T17:05:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1751143087,
+      "trackId": 1751143087,
+      "collectionName": "仙骨淬体|不朽战神|修仙|强者回归|仙人指路",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/79891473.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BB%99%E9%AA%A8%E6%B7%AC%E4%BD%93-%E4%B8%8D%E6%9C%BD%E6%88%98%E7%A5%9E-%E4%BF%AE%E4%BB%99-%E5%BC%BA%E8%80%85%E5%9B%9E%E5%BD%92-%E4%BB%99%E4%BA%BA%E6%8C%87%E8%B7%AF/id1751143087?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 308,
+      "releaseDate": "2024-01-04T04:18:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1598143267,
+      "trackId": 1598143267,
+      "collectionName": "九阳神功 我在昆仑当掌教丨搞笑逆袭&修仙奇遇",
+      "artistName": "圣创轩丶镭震子",
+      "feedUrl": "http://www.ximalaya.com/album/55061061.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B9%9D%E9%98%B3%E7%A5%9E%E5%8A%9F-%E6%88%91%E5%9C%A8%E6%98%86%E4%BB%91%E5%BD%93%E6%8E%8C%E6%95%99%E4%B8%A8%E6%90%9E%E7%AC%91%E9%80%86%E8%A2%AD-%E4%BF%AE%E4%BB%99%E5%A5%87%E9%81%87/id1598143267?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 1066,
+      "releaseDate": "2022-09-20T12:35:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 6804193973,
+      "trackId": 6804193973,
+      "collectionName": "从前有座山，我在那修仙",
+      "artistName": "开心流马",
+      "feedUrl": "https://www.ximalaya.com/album/128307499.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BB%8E%E5%89%8D%E6%9C%89%E5%BA%A7%E5%B1%B1-%E6%88%91%E5%9C%A8%E9%82%A3%E4%BF%AE%E4%BB%99/id6804193973?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 144,
+      "releaseDate": "2026-09-16T10:34:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1685131238,
+      "trackId": 1685131238,
+      "collectionName": "都市邪尊赘婿（都市修仙小说）",
+      "artistName": "有声的雪愿",
+      "feedUrl": "https://www.ximalaya.com/album/74644153.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%83%BD%E5%B8%82%E9%82%AA%E5%B0%8A%E8%B5%98%E5%A9%BF-%E9%83%BD%E5%B8%82%E4%BF%AE%E4%BB%99%E5%B0%8F%E8%AF%B4/id1685131238?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 295,
+      "releaseDate": "2023-05-18T05:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1782815696,
+      "trackId": 1782815696,
+      "collectionName": "重生再修仙之疯子林飞|重生穿越|修仙|多人有声剧|",
+      "artistName": "冷静之声",
+      "feedUrl": "https://www.ximalaya.com/album/84684502.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%87%8D%E7%94%9F%E5%86%8D%E4%BF%AE%E4%BB%99%E4%B9%8B%E7%96%AF%E5%AD%90%E6%9E%97%E9%A3%9E-%E9%87%8D%E7%94%9F%E7%A9%BF%E8%B6%8A-%E4%BF%AE%E4%BB%99-%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1782815696?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 525,
+      "releaseDate": "2024-11-29T03:21:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1698453574,
+      "trackId": 1698453574,
+      "collectionName": "【重生之废材大小姐】虐渣|女强|修仙|逆袭|免费",
+      "artistName": "Hi唐念念_悦念有声",
+      "feedUrl": "https://www.ximalaya.com/album/76657843.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%87%8D%E7%94%9F%E4%B9%8B%E5%BA%9F%E6%9D%90%E5%A4%A7%E5%B0%8F%E5%A7%90-%E8%99%90%E6%B8%A3-%E5%A5%B3%E5%BC%BA-%E4%BF%AE%E4%BB%99-%E9%80%86%E8%A2%AD-%E5%85%8D%E8%B4%B9/id1698453574?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 218,
+      "releaseDate": "2023-08-05T02:10:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1813570326,
+      "trackId": 1813570326,
+      "collectionName": "铁剑仙途|玄幻|穿越|修仙|多人演播|免费小说",
+      "artistName": "案夜",
+      "feedUrl": "https://www.ximalaya.com/album/92071466.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%93%81%E5%89%91%E4%BB%99%E9%80%94-%E7%8E%84%E5%B9%BB-%E7%A9%BF%E8%B6%8A-%E4%BF%AE%E4%BB%99-%E5%A4%9A%E4%BA%BA%E6%BC%94%E6%92%AD-%E5%85%8D%E8%B4%B9%E5%B0%8F%E8%AF%B4/id1813570326?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 1230,
+      "releaseDate": "2025-07-05T06:11:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1787824163,
+      "trackId": 1787824163,
+      "collectionName": "猫咪和她的狗勾铲屎官|修仙|爽文|甜宠|多人有声剧",
+      "artistName": "冷静之声",
+      "feedUrl": "https://www.ximalaya.com/album/85012014.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%8C%AB%E5%92%AA%E5%92%8C%E5%A5%B9%E7%9A%84%E7%8B%97%E5%8B%BE%E9%93%B2%E5%B1%8E%E5%AE%98-%E4%BF%AE%E4%BB%99-%E7%88%BD%E6%96%87-%E7%94%9C%E5%AE%A0-%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1787824163?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 244,
+      "releaseDate": "2024-12-23T09:57:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1740094934,
+      "trackId": 1740094934,
+      "collectionName": "团宠小祖宗是大佬 | 免费爆笑多人剧 | 重生修仙",
+      "artistName": "阿壮是个大喜庆",
+      "feedUrl": "https://www.ximalaya.com/album/70658299.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%9B%A2%E5%AE%A0%E5%B0%8F%E7%A5%96%E5%AE%97%E6%98%AF%E5%A4%A7%E4%BD%AC-%E5%85%8D%E8%B4%B9%E7%88%86%E7%AC%91%E5%A4%9A%E4%BA%BA%E5%89%A7-%E9%87%8D%E7%94%9F%E4%BF%AE%E4%BB%99/id1740094934?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 221,
+      "releaseDate": "2022-11-14T23:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1785128836,
+      "trackId": 1785128836,
+      "collectionName": "屠戮神仙|穿越|修仙|玄幻|多人有声剧",
+      "artistName": "冷静之声",
+      "feedUrl": "https://www.ximalaya.com/album/84827012.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B1%A0%E6%88%AE%E7%A5%9E%E4%BB%99-%E7%A9%BF%E8%B6%8A-%E4%BF%AE%E4%BB%99-%E7%8E%84%E5%B9%BB-%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1785128836?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 746,
+      "releaseDate": "2024-12-10T02:57:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1786833983,
+      "trackId": 1786833983,
+      "collectionName": "救赎魔尊后我死遁了|穿越|修仙|虐恋|多人有声剧",
+      "artistName": "冷静之声",
+      "feedUrl": "https://www.ximalaya.com/album/84922122.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%95%91%E8%B5%8E%E9%AD%94%E5%B0%8A%E5%90%8E%E6%88%91%E6%AD%BB%E9%81%81%E4%BA%86-%E7%A9%BF%E8%B6%8A-%E4%BF%AE%E4%BB%99-%E8%99%90%E6%81%8B-%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1786833983?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 201,
+      "releaseDate": "2024-12-16T09:07:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1583566726,
+      "trackId": 1583566726,
+      "collectionName": "帝歌免费男频玄幻修仙侠修真混沌神体大帝境界",
+      "artistName": "刘昕故事",
+      "feedUrl": "http://www.ximalaya.com/album/50047728.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B8%9D%E6%AD%8C%E5%85%8D%E8%B4%B9%E7%94%B7%E9%A2%91%E7%8E%84%E5%B9%BB%E4%BF%AE%E4%BB%99%E4%BE%A0%E4%BF%AE%E7%9C%9F%E6%B7%B7%E6%B2%8C%E7%A5%9E%E4%BD%93%E5%A4%A7%E5%B8%9D%E5%A2%83%E7%95%8C/id1583566726?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 145,
+      "releaseDate": "2022-08-09T11:41:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1590963628,
+      "trackId": 1590963628,
+      "collectionName": "方圆剑（异域修仙）",
+      "artistName": "旺旺小小苏_",
+      "feedUrl": "http://www.ximalaya.com/album/53135485.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%B9%E5%9C%86%E5%89%91-%E5%BC%82%E5%9F%9F%E4%BF%AE%E4%BB%99/id1590963628?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 19,
+      "releaseDate": "2021-10-10T18:21:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1691672217,
+      "trackId": 1691672217,
+      "collectionName": "【免费】都市不败仙尊丨重生丨都市修仙丨热血爽文丨玄幻丨爆更丨AI多播",
+      "artistName": "12可可_魔麦有声",
+      "feedUrl": "https://www.ximalaya.com/album/76396210.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E9%83%BD%E5%B8%82%E4%B8%8D%E8%B4%A5%E4%BB%99%E5%B0%8A%E4%B8%A8%E9%87%8D%E7%94%9F%E4%B8%A8%E9%83%BD%E5%B8%82%E4%BF%AE%E4%BB%99%E4%B8%A8%E7%83%AD%E8%A1%80%E7%88%BD%E6%96%87%E4%B8%A8%E7%8E%84%E5%B9%BB%E4%B8%A8%E7%88%86%E6%9B%B4%E4%B8%A8ai%E5%A4%9A%E6%92%AD/id1691672217?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 1000,
+      "releaseDate": "2023-10-16T22:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1848501167,
+      "trackId": 1848501167,
+      "collectionName": "速通《凡人修仙传》-未来聊天室",
+      "artistName": "cuzn梦想成真",
+      "feedUrl": "https://www.ximalaya.com/album/106890755.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%80%9F%E9%80%9A-%E5%87%A1%E4%BA%BA%E4%BF%AE%E4%BB%99%E4%BC%A0-%E6%9C%AA%E6%9D%A5%E8%81%8A%E5%A4%A9%E5%AE%A4/id1848501167?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "电视与电影",
+        "节目漫谈"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1309",
+        "1562"
+      ],
+      "trackCount": 13,
+      "releaseDate": "2025-09-29T18:44:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1782816387,
+      "trackId": 1782816387,
+      "collectionName": "仙之吟唱|修仙|古言|多人有声剧|多播",
+      "artistName": "冷静之声",
+      "feedUrl": "https://www.ximalaya.com/album/84725022.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BB%99%E4%B9%8B%E5%90%9F%E5%94%B1-%E4%BF%AE%E4%BB%99-%E5%8F%A4%E8%A8%80-%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7-%E5%A4%9A%E6%92%AD/id1782816387?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 170,
+      "releaseDate": "2024-12-02T01:41:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1754828664,
+      "trackId": 1754828664,
+      "collectionName": "爽文！高考失败意外获得修仙种田系统承包山头发家致富",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/81053225.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%88%BD%E6%96%87-%E9%AB%98%E8%80%83%E5%A4%B1%E8%B4%A5%E6%84%8F%E5%A4%96%E8%8E%B7%E5%BE%97%E4%BF%AE%E4%BB%99%E7%A7%8D%E7%94%B0%E7%B3%BB%E7%BB%9F%E6%89%BF%E5%8C%85%E5%B1%B1%E5%A4%B4%E5%8F%91%E5%AE%B6%E8%87%B4%E5%AF%8C/id1754828664?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "科学",
+        "地球科学"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1533",
+        "1540"
+      ],
+      "trackCount": 675,
+      "releaseDate": "2024-03-25T05:09:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1573265692,
+      "trackId": 1573265692,
+      "collectionName": "邪痞云游 | 热血修仙 ＆ 逆袭斗神",
+      "artistName": "皮皮邓",
+      "feedUrl": "http://www.ximalaya.com/album/50198027.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%82%AA%E7%97%9E%E4%BA%91%E6%B8%B8-%E7%83%AD%E8%A1%80%E4%BF%AE%E4%BB%99-%E9%80%86%E8%A2%AD%E6%96%97%E7%A5%9E/id1573265692?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "喜剧小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 106,
+      "releaseDate": "2021-07-21T09:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1785129131,
+      "trackId": 1785129131,
+      "collectionName": "纯纯欲动|修仙|重生|玄幻|现言|多人有声剧",
+      "artistName": "冷静之声",
+      "feedUrl": "https://www.ximalaya.com/album/84812605.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%AF%E7%BA%AF%E6%AC%B2%E5%8A%A8-%E4%BF%AE%E4%BB%99-%E9%87%8D%E7%94%9F-%E7%8E%84%E5%B9%BB-%E7%8E%B0%E8%A8%80-%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1785129131?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 264,
+      "releaseDate": "2024-12-08T06:15:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1751428012,
+      "trackId": 1751428012,
+      "collectionName": "一仙难求|仙侠|修仙|江湖罪孽",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/74997992.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%80%E4%BB%99%E9%9A%BE%E6%B1%82-%E4%BB%99%E4%BE%A0-%E4%BF%AE%E4%BB%99-%E6%B1%9F%E6%B9%96%E7%BD%AA%E5%AD%BD/id1751428012?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 655,
+      "releaseDate": "2023-04-08T09:33:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1737767213,
+      "trackId": 1737767213,
+      "collectionName": "仙路漫漫∣修仙∣古典仙侠∣儒道∣神仙鬼怪∣AI多播",
+      "artistName": "玲珑樱花语",
+      "feedUrl": "https://www.ximalaya.com/album/80821432.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BB%99%E8%B7%AF%E6%BC%AB%E6%BC%AB-%E4%BF%AE%E4%BB%99-%E5%8F%A4%E5%85%B8%E4%BB%99%E4%BE%A0-%E5%84%92%E9%81%93-%E7%A5%9E%E4%BB%99%E9%AC%BC%E6%80%AA-ai%E5%A4%9A%E6%92%AD/id1737767213?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 115,
+      "releaseDate": "2024-04-04T03:38:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1594806933,
+      "trackId": 1594806933,
+      "collectionName": "【邪痞云游】热血修仙|仙侠修真|多播后期|免费",
+      "artistName": "Hi唐念念_悦念有声",
+      "feedUrl": "http://www.ximalaya.com/album/54261342.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%82%AA%E7%97%9E%E4%BA%91%E6%B8%B8-%E7%83%AD%E8%A1%80%E4%BF%AE%E4%BB%99-%E4%BB%99%E4%BE%A0%E4%BF%AE%E7%9C%9F-%E5%A4%9A%E6%92%AD%E5%90%8E%E6%9C%9F-%E5%85%8D%E8%B4%B9/id1594806933?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "科幻小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2023-02-14T00:08:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    }
+  ]
+}

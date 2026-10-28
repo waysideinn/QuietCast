@@ -1,0 +1,42 @@
+{
+  "show_id": "1674394906",
+  "feed_url": "https://feed.firstory.me/rss/user/clel51wtk02y001v5h2rod5gk",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/clel51wtk02y001v5h2rod5gk",
+    "final_url": "https://feed.firstory.me/rss/user/clel51wtk02y001v5h2rod5gk",
+    "fetched_at": "2026-10-25T14:45:11.377647+00:00",
+    "status": 200,
+    "sha256": "de4a713696afd10811026d41d4b5988ea824a8209906a6edc0b6c815cddbb631"
+  },
+  "status": "ok",
+  "title": {
+    "text": "玄姑奇幻妙談",
+    "truncated": false
+  },
+  "description": {
+    "text": "🌟【玄姑奇幻妙談】聽眾投稿專區： https://forms.gle/G4rPc6ddMs5h4KNb9 🔸追蹤看更多，訂閱我們🔸 IG：https://instagram.com/its.cosmospoint?igshid=MjEwN2IyYWYwYw== 蝦皮：shopee.tw/abuga_2021 大家好，我是卓恩莉莉，是一位靈修者！ 修行10餘年，發生了很多奇妙的事情。 透過前世今生的感應，與大家分享各種奇幻故事！ Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 1,
+  "episodes": [
+    {
+      "id": "6b38d0e1a1f9d8e4e4f5ad0d9e2772408d6cad92080bd87fb469c23ccb08b7c9",
+      "guid": "clk56cbfi03jg01vogmgk5k13",
+      "title": {
+        "text": "【玄姑奇幻妙談】EP1：首遇大禹！大禹治水的剋星是老婆？！",
+        "truncated": false
+      },
+      "description": {
+        "text": "【玄姑奇幻妙談】聽眾投稿專區： https://forms.gle/G4rPc6ddMs5h4KNb9 【玄姑奇幻妙談EP1：首遇大禹！大禹治水的剋星是老婆？！】 🔸 追蹤看更多，訂閱我們 🔸 IG：https:// instagram.com/its.cosmospoint?igshid=MjEwN2IyYWYwYw== 蝦皮賣場： shopee.tw/abuga_2021 留言告訴我你對這一集的想法： https://open.firstory.me/user/clel51wtk02y001v5h2rod5gk/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 16 Jul 2023 08:28:07 GMT",
+      "feed_index": 0
+    }
+  ]
+}

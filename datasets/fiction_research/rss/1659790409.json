@@ -1,0 +1,140 @@
+{
+  "show_id": "1659790409",
+  "feed_url": "https://www.ximalaya.com/album/72897259.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/72897259.xml",
+    "final_url": "https://www.ximalaya.com/album/72897259.xml",
+    "fetched_at": "2026-10-25T14:45:01.797169+00:00",
+    "status": 200,
+    "sha256": "a3bdbbb0cb0013483b4db7ecd4ddef3befaf269891fba69d64353c16d8a6d592"
+  },
+  "status": "ok",
+  "title": {
+    "text": "风的呼吸 | 虐恋情深 | 现代言情 | 免费精品",
+    "truncated": false
+  },
+  "description": {
+    "text": "小玉是个活泼开朗的女孩，小时候转学到乡下，结识了强子和子豪。青梅竹马的三人之间，流淌着初恋的美好。分别十几年后，小玉从国外学琴归来，本以为能和牵挂多年的强子再续前缘，可一个女孩的出现，让一切都不复从前了…… 有声小说《风的呼吸》第1集至第60集为单播，第61集至第93集为多播，是萌新主播慕娴儿和小伙伴的练习作品，感谢关注，欢迎订阅收听。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "serial",
+    "explicit": "false"
+  },
+  "feed_item_count": 93,
+  "episodes": [
+    {
+      "id": "a32e1c1e2910e1ac50f98478b8daa403c8eed6a83ce75a5eb158ec54cc65c9bb",
+      "guid": "xmly_track_592844031",
+      "title": {
+        "text": "风的呼吸 01 三人初识 | 新上架多播剧《是谁闯入了我的梦境》，欢迎收听！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 30 Nov 2022 16:03:46 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b724950fac0806c9a88224336745f632d7274df180079c531df2637d963d28ab",
+      "guid": "xmly_track_595870982",
+      "title": {
+        "text": "风的呼吸 14 找条后路",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Dec 2022 16:00:06 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "c72f51753df837da9b281898f01284e8d09cdc06836ed9c3f485572364fea2c8",
+      "guid": "xmly_track_599251841",
+      "title": {
+        "text": "风的呼吸 27 冰释前嫌",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 24 Dec 2022 16:00:02 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "a6c0c0c6c070fcf34c1010504231ed41f7c943b1287fe004003a826432cde9e3",
+      "guid": "xmly_track_602391866",
+      "title": {
+        "text": "风的呼吸 40 真相大白 | 感谢后期阿雪伸出援手，不再孤军奋战啦！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 Jan 2023 16:00:03 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "415433fb39a8143da1f4d0cba48d8eb84287e64a78b50fb97ee2b424e3cc6721",
+      "guid": "xmly_track_605912702",
+      "title": {
+        "text": "风的呼吸 54 往事随风",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 20 Jan 2023 16:00:04 GMT",
+      "feed_index": 53
+    },
+    {
+      "id": "74605c3adb3f78bce33dfcee1fd3f95fd10a54ffb8afb9c61bfeb7da91bb8278",
+      "guid": "xmly_track_608513855",
+      "title": {
+        "text": "风的呼吸 67 心狠手辣",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 Feb 2023 16:00:03 GMT",
+      "feed_index": 66
+    },
+    {
+      "id": "cf0dc6556799e9d0d4bb52e0c9bdc93b00b5a7ae8d7d4a53a40b934404126ff3",
+      "guid": "xmly_track_611469214",
+      "title": {
+        "text": "风的呼吸 80 放松警惕",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Feb 2023 16:00:03 GMT",
+      "feed_index": 79
+    },
+    {
+      "id": "61da408becc372c85811d9bf932fa15029abefd5bd216831991851a4faa6458a",
+      "guid": "xmly_track_614585269",
+      "title": {
+        "text": "风的呼吸 93 往后余生（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Feb 2023 19:07:49 GMT",
+      "feed_index": 92
+    }
+  ]
+}

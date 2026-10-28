@@ -1,0 +1,153 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/24621004.xml",
+    "final_url": "http://www.ximalaya.com/album/24621004.xml",
+    "fetched_at": "2026-10-26T07:55:52.319370+00:00",
+    "status": 200,
+    "sha256": "c0575731c89e74cfbaaaf7ce8aa9201ae4f56ce9bfc972aff96ebe7abb6d6e16"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "有声书｜三十九级台阶（英国经典惊险悬疑推理小说）",
+      "truncated": false
+    },
+    "description": {
+      "text": "著名悬疑惊险小说 欢迎关注微信公众号: 梦想飞翔mx 《三十九级台阶》是英国作家 约翰·巴肯 的重要作品之一。在这部小说中，从南部非洲返回英国的采矿工程师理查德·汉内为阻止国防绝密文件落入德国人之手，与德国间谍展开了一场惊心动魄的搏斗。小说的文笔通俗细腻，故事情节跌宕起伏，悬念丛生，惊险瞬间目不暇接，不愧为一部脍炙人口的惊险小说。 1915年出版之后马上引起轰动，之后被四次拍成电影或电视 。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "梦想飞翔mx @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "梦想飞翔mx"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "梦想飞翔mx"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Arts"
+      ],
+      [
+        "Leisure"
+      ],
+      [
+        "Society & Culture"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/24621004",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 20,
+    "episodes": [
+      {
+        "title": {
+          "text": "三十九级台阶 - 第01集（一个死了的人 . 上）",
+          "truncated": false
+        },
+        "description": {
+          "text": "“死前必读的1000本小说”——《卫报》 “25部经典推理小说”——美国推理作家协会 四次改编同名电影，百老汇舞台屡获殊荣之作 希区柯克最钟爱的悬疑小说 一心渴求刺激的英国工程师理查德·汉内从贫乏的非洲回到伦敦，却在几个月后对都市生活同样心生厌倦。恰在此时，美国人斯卡德托付给他一个巨大的秘密：德国间谍企图刺杀友国领袖，一旦事成，世界将危在旦夕。",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/storages/3ca0-audiofreehighqps/1F/28/GKwRIasIh8uPAIxZ5gI4X3Kz.m4a"
+      },
+      {
+        "title": {
+          "text": "三十九级台阶 - 第04集",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 3,
+        "guid": "https://aod.cos.tx.xmcdn.com/group62/M05/D2/33/wKgMcV0293fSrJ2GAJ9fBrqe_gY998-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "三十九级台阶 - 第06集",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 5,
+        "guid": "https://aod.cos.tx.xmcdn.com/group61/M03/8F/CE/wKgMcF0UehzwgYqJAIuH6zAv37g519-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "三十九级台阶 - 第09集",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 8,
+        "guid": "https://aod.cos.tx.xmcdn.com/group63/M0B/D1/91/wKgMaF0W10KxsQ1zAHskYrxFXiQ610-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "三十九级台阶 - 第12集",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 11,
+        "guid": "https://aod.cos.tx.xmcdn.com/group85/M08/5F/19/wKg5H18XbpzA9L_-AGyeh4Dxk0k865-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "三十九级台阶 - 第15集",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 14,
+        "guid": "https://aod.cos.tx.xmcdn.com/group62/M04/98/68/wKgMcV0d16Oh-HRjAMgAJ6pku20729-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "三十九级台阶 - 第17集",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 16,
+        "guid": "https://aod.cos.tx.xmcdn.com/group63/M07/BE/0F/wKgMcl0e_rTifSTmAGc7qU6bA3w083-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "三十九级台阶 - 第20集",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 19,
+        "guid": "https://aod.cos.tx.xmcdn.com/group62/M08/7E/4D/wKgMcV0kyM6S_MeBAH8p9xq1NDc192-aacv2-48K.m4a"
+      }
+    ]
+  }
+}

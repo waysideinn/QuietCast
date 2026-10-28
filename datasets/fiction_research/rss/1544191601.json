@@ -1,0 +1,140 @@
+{
+  "show_id": "1544191601",
+  "feed_url": "http://www.ximalaya.com/album/43489794.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/43489794.xml",
+    "final_url": "http://www.ximalaya.com/album/43489794.xml",
+    "fetched_at": "2026-10-25T14:42:22.956202+00:00",
+    "status": 200,
+    "sha256": "027a1409f97259a22e409eb3d0cd9022480d28f66e4821934608368340641ed0"
+  },
+  "status": "ok",
+  "title": {
+    "text": "一念成仙｜免费｜女强｜仙侠修真｜热血｜玄幻",
+    "truncated": false
+  },
+  "description": {
+    "text": "【强烈推荐】 本书是一部火爆全网、剧情精彩纷呈的经典修仙小说。 请大家多多支持，给个关注和订阅，多评论，主播会不断努力的！谢谢大家啦~O(∩_∩)O 【内容简介】 虽然家族被流放荒凉之地，但主人公却并未认输！她历尽千难万险，走上成仙之路，一路上，有机缘、有奇遇、有惊险、有喜悦，主播玖尾小狐带你一起走进这奇幻的仙侠世界，一起探寻未知的精彩 ！ 天地大变之际，女主抓住机运从被流放的绝灵之地重回修仙界。女主机缘不断，持续解锁各种秘境地图。智商在线， 不圣母，有逻辑，人物性格招人喜欢，主人公嘴巴像蜜糖一样甜，一路扶摇直上...",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 255,
+  "episodes": [
+    {
+      "id": "aacfb61d144527b5dcc91120663c5059056fc50c8a920cc4393ce14908abe919",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0c37-audiofreehighqps/44/A9/CMCoOR4Dfc0BAAXXHQBlBbHj-aacv2-48K.m4a",
+      "title": {
+        "text": "001 序章（给我的新书白夕传好评订阅，我就偷偷更这本）",
+        "truncated": false
+      },
+      "description": {
+        "text": "本书是一部火爆全网、剧情精彩纷呈的经典修仙小说",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 Nov 2020 14:43:44 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1201e5fe1c7691e55fa25cbdadb0b49e1ed6ebf160f8f8b4137bcab0af616559",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/496d-audiofreehighqps/FF/93/CMCoOSIDjUY3ADWt3ABo2WVj-aacv2-48K.m4a",
+      "title": {
+        "text": "037",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 20 Nov 2020 08:44:18 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "1c2601a97d77299c05f019e557aaab8493b480fba4be909590d8939b7d3fd54c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7e7e-audiofreehighqps/E5/94/CMCoOScDlOlQAEj2vABq6Abl-aacv2-48K.m4a",
+      "title": {
+        "text": "072（一）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Nov 2020 03:51:26 GMT",
+      "feed_index": 73
+    },
+    {
+      "id": "9902c62135c2ac3a13227667f4c957cb4923c63685fd638990944cfe5b7cdc71",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4e96-audiofreehighqps/C6/6F/CMCoOR8Dnp6GADJryQBtlppP-aacv2-48K.m4a",
+      "title": {
+        "text": "091（二）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Dec 2020 12:35:08 GMT",
+      "feed_index": 109
+    },
+    {
+      "id": "7e3d53631884b6134204ce0b25ec1ac74960c0dc97e872fd60b7c515b2abc046",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/bed0-audiofreehighqps/40/BE/CMCoOSEDqAVNADP5uwBwFrHw-aacv2-48K.m4a",
+      "title": {
+        "text": "112（一）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Dec 2020 15:44:04 GMT",
+      "feed_index": 145
+    },
+    {
+      "id": "089871b4db9b989471fcd1aa7572510b77857d458de3882cdb194c628cc3438d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/af78-audiofreehighqps/F5/CC/CMCoOSADtTExAGqTwwBzQQ1z-aacv2-48K.m4a",
+      "title": {
+        "text": "134（主播又来深夜更新了）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 20 Dec 2020 15:30:38 GMT",
+      "feed_index": 181
+    },
+    {
+      "id": "423e37a97febf11a29ae723d508b57682a43e7af6beb72d70a30d44c1fa72624",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7b42-audiofreehighqps/18/70/CMCoOSUDy4beAGjW1AB494EO-aacv2-48K.m4a",
+      "title": {
+        "text": "一念成仙171",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 06 Jan 2021 14:06:04 GMT",
+      "feed_index": 218
+    },
+    {
+      "id": "bd6b914b088d2d9a3a38791330e4fd28d56621d72d41c2f7f216a47d1567ef85",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3320-audiofreehighqps/CA/B2/CKwRIW4EaJaTAHevIgCnI306-aacv2-48K.m4a",
+      "title": {
+        "text": "210魔魇",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 05 May 2021 17:18:48 GMT",
+      "feed_index": 254
+    }
+  ]
+}

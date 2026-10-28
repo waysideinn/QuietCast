@@ -1,0 +1,140 @@
+{
+  "show_id": "1494223839",
+  "feed_url": "https://anchor.fm/s/10a22f50/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/10a22f50/podcast/rss",
+    "final_url": "https://anchor.fm/s/10a22f50/podcast/rss",
+    "fetched_at": "2026-10-25T14:41:52.666965+00:00",
+    "status": 200,
+    "sha256": "35300599de36a51410d2df2347b84177f29d2cbbd565f6383a1f9b0825f872f1"
+  },
+  "status": "ok",
+  "title": {
+    "text": "MOSHI MOSHI!",
+    "truncated": false
+  },
+  "description": {
+    "text": "Um bate papo entre amigos jornalistas sobre nerdezas.",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "pt-pt",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 22,
+  "episodes": [
+    {
+      "id": "1b4924f780b5465421d7129d6ab90bcebe674bd702336dd3dd87323ec70286db",
+      "guid": "63f12fff-303d-4f7b-b698-1d3daa7e85dd",
+      "title": {
+        "text": "O QUE ACONTECERIA SE OS EPISÓDIOS DE WHAT IF FOSSEM MAIORES? - MOSHI MOSHI! #20",
+        "truncated": false
+      },
+      "description": {
+        "text": "A Marvel está mandando ver nas séries no Disney Plus e a mais nova delas foi a louquíssima What if. Como grandes fãs de nerdezas e, óbvio, de Marvel, adoramos algumas qualidades da série mas também enxergamos diversos defeitos que foram muito bem pontuados neste podcast. A presença de personagens como Killmonger, Ultron, O Vigia e vários outros deixam essa animação algo singular no Universo Cinematográfico da Marvel e que não poderia deixar de ser analisada. João Pedro, Eduardo e Marcelo se reúnem para conversar sobre e, além disso, escolher o ranking de melhores episódios (na opinião deles, c",
+        "truncated": true
+      },
+      "published_at": "Fri, 15 Oct 2021 18:59:08 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8975b347f8d4ed5bdadbb8adb30c8cb120715f97058482668dc973434b2a17da",
+      "guid": "2718b45c-a61d-4edf-ab45-edc7b9f33e29",
+      "title": {
+        "text": "Como o jornalismo científico está cobrindo as pesquisas da Covid-19 | MOSHIMOSHI EXTRA!",
+        "truncated": false
+      },
+      "description": {
+        "text": "Fala galera! Esse é um programa EXTRA do MoshiMoshiCast porque não tem relação com os conteúdos que geralmente falamos. É um trabalho da faculdade de jornalismo da UFG da disciplina de jornalismo científico. Esperamos que gostem. Se cuidem!",
+        "truncated": false
+      },
+      "published_at": "Wed, 28 Oct 2020 01:28:41 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "ebba6bec3b4b5a23c8422341a5c69a632a80a364619ab8d2ff073f1d7b8c5162",
+      "guid": "a48af6cc-2388-407b-85a1-04e64054378d",
+      "title": {
+        "text": "O DIABO DE CADA DIA NÃO É LENTO! - MOSHI MOSHI! #15",
+        "truncated": false
+      },
+      "description": {
+        "text": "O filme O Diabo de cada dia estreou na Netflix esses dias e nós retiramos um tempo para analisar o filme e te explicar porque ele, sem dúvidas, não é devagar. Tom Holland e Robert Pattinson estrelam juntamente com vários atores já consagrados essa história emaranhada de um jeito nada convencional que ilustra bem a violência e a loucura do ser humano, que confunde suas crenças com seus desejos. No Podcast elogiamos as atuações, criticamos um pouco da narração (hehe) e debatemos várias outras coisas como: Quem é o verdadeiro culpado na história? Aperte o play e aproveite mais um Moshi Moshi. Nos",
+        "truncated": true
+      },
+      "published_at": "Fri, 02 Oct 2020 17:16:58 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "db17863c1099e4170dfe92f74e3b62311589e5c58e616328bc28c724c19958e5",
+      "guid": "2b2f653d-da92-45f6-b298-6cfd68fc2eeb",
+      "title": {
+        "text": "ELENCO DOS SONHOS DE ONE PIECE + DESABAFO - MOSHI MOSHI! #12",
+        "truncated": false
+      },
+      "description": {
+        "text": "#onepiece #moshimoshi #elencodossonhos Queridos ouvintes! Sejam bem-vindos! No episódio do Moshi Moshi de hoje vamos montar um elenco de atores dos sonhos para serem nosso queridos personagens de One Piece no Live Action que está por vir da Netflix. Debatemos e demos algumas opções para formar esse grande elenco e, particularmente, a Netflix deveria nos contratar. No meio do elenco tem Cate Blanchett, Orlando Bloom e até Tyler James Williams, o famoso Chris. Confira o podcast inteiro pra saber toda nossa opinão dessa série que está por vir e conferir os atores. Não se esqueça de ouvir nossos o",
+        "truncated": true
+      },
+      "published_at": "Wed, 19 Aug 2020 00:01:41 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "d4c1aedc6d843efbee6f9f29603d6f98a1c5f509bb64df204f0e5a928484d11e",
+      "guid": "1c97d85c-3a74-456a-8ce5-645c07535b2e",
+      "title": {
+        "text": "MOSHI MOSHI! #9 - INDIANA JONES É MACHISTA E XENOFÓBICO?",
+        "truncated": false
+      },
+      "description": {
+        "text": "#podcast #indianajones #moshimoshi #filmes MOSHI MOSHI!!! Os filmes de Indiana Jones são machistas e xenofóbicos? Harrison Ford sempre é o mesmo personagem? Bora debater isso aí em mais um episódio do nosso podcast. Aproveita a quarentena pra nos ouvir! HEHE. Se gostou, deixa o like, compartilha e se inscreva no canal. Nossas redes sociais: Twitter: https://twitter.com/MoshiMoshiCast Instagram: @moshimoshicast Spotify: https://open.spotify.com/show/6vslrVm ... Deezer: http://www.deezer.com/show/754342",
+        "truncated": false
+      },
+      "published_at": "Sun, 21 Jun 2020 16:38:59 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "6507a1cb2d247ab871900d9d44226fe0420e27e3ec78dfa7367691104315deb5",
+      "guid": "987196f6-61e2-4c14-89b8-7e1812aca6a0",
+      "title": {
+        "text": "MOSHI MOSHI! #6 - THE MANDALORIAN: A DISNEY MANDOu BEM?",
+        "truncated": false
+      },
+      "description": {
+        "text": "E ai galeris. No podjohnson de hoje vamos falar sobre uma das melhores séries do ano passado: The mandalorian. Será que é tudo isso? Baby yoda é um bom personagem? A disney MANDOu bem? Vamos responder essas e outras perguntas sobre essa série do universo expandido de Star Wars. Pra nos ajudar convidamos o Oid Neto, especialista na história de George Lucas e dono da loja de nerdices PowComic Shop. Aproveite o Pod ai e nos siga nas redes socias, além da PowComic Shop é claro. Nossas redes sociais: Twitter: https://twitter.com/MoshiMoshiCast Instagram: @moshimoshicast Spotify: https://open.spotif",
+        "truncated": true
+      },
+      "published_at": "Mon, 11 May 2020 16:58:55 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "835d464dcc902f0a0ef70c9f8d65688dbed38bc3fb0e7c2e663e5b44366b8a18",
+      "guid": "1e145d5b-521b-4c61-badc-f9e53a5e4149",
+      "title": {
+        "text": "ESPECIAL HISTÓRIA 01 - A POLÊMICA OPERAÇÃO PAPERCLIP",
+        "truncated": false
+      },
+      "description": {
+        "text": "Fala galeros. Como nosso post no twitter fez sucesso e muitos pediram, hehe, trouxemos o especial história também em vídeo e áudio. Nessa série você descobre mais sobre acontecimentos históricos e como eles participam de diversas obras da cultura pop. Siga-nos nas redes sociais para ter essas informações em primeira mão. Spotify: https://open.spotify.com/show/6vslrVm... Redes sociais: Twitter: https://twitter.com/MoshiMoshiCast Instagram: moshimoshicast",
+        "truncated": false
+      },
+      "published_at": "Mon, 20 Apr 2020 23:31:25 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "6434d2f2e578cf4bfa2372b0d42ce535462df4978f3624b14260a080a532950f",
+      "guid": "1d843591-40bc-296c-476c-aeec7c16a210",
+      "title": {
+        "text": "MOSHI MOSHI! #1 - UM BATE PAPO SOBRE O FILME CORINGA",
+        "truncated": false
+      },
+      "description": {
+        "text": "Nesse primeiro episódio do nosso Podcast, que é produzido por uma dupla \"nerd\" de jornalistas, falamos um pouco sobre o filmaço Coringa. Pegue um lanche, se acomode, ou ouça enquanto faz algum afazer mesmo. Aproveite nosso MOSHI MOSHI!",
+        "truncated": false
+      },
+      "published_at": "Tue, 19 Nov 2019 02:47:13 GMT",
+      "feed_index": 21
+    }
+  ]
+}

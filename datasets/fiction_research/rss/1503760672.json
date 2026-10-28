@@ -1,0 +1,139 @@
+{
+  "show_id": "1503760672",
+  "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:796719769/sounds.rss",
+  "source": {
+    "url": "https://feeds.soundcloud.com/users/soundcloud:users:796719769/sounds.rss",
+    "final_url": "https://feeds.soundcloud.com/users/soundcloud:users:796719769/sounds.rss",
+    "fetched_at": "2026-10-25T14:51:53.430350+00:00",
+    "status": 200,
+    "sha256": "8fd3793dfe1eda82d9e97fe553bb31a88fa0b73d78c3cee9eac69f73d2eca125"
+  },
+  "status": "ok",
+  "title": {
+    "text": "說話藝術森林",
+    "truncated": false
+  },
+  "description": {
+    "text": "說話藝術森林是一個「知識經驗分享」的廣播頻道，由森林主人「山姆」主持。我們在每個禮拜天晚上9點，給你一則關於說話溝通，人際關係，以及生活觀點的反思與討論。希望藉由這些主題的分享，讓大家用更好的說話與溝通技巧，提升自己的人際關係，打造更美好的生活。 我們希望，來到這座森林的你，不管是特意來拜訪，還是不經意路過，都能夠帶走許多有價值的寶藏。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "explicit": "no"
+  },
+  "feed_item_count": 11,
+  "episodes": [
+    {
+      "id": "ae38492e29ac5e79c443b01892d9d6d696696ef802a999071acbb0cef37d7723",
+      "guid": "tag:soundcloud,2010:tracks/868779025",
+      "title": {
+        "text": "#18 [新鮮人求職週記] 不要把興趣當作職業！",
+        "truncated": false
+      },
+      "description": {
+        "text": "🌟 七月特別企劃「新鮮人求職週記」正式上線！ 🌟 履歷「超吸睛」的黃金魔法是什麼？ >> bit.ly/2ZDK631 挑選工作的標準，最常見的八成是「興趣」，但偏偏我是絕不把興趣當成工作的人！本週的節目，主持人—山姆將告訴你為什麼不把興趣當成工作，以及自己用了什麼樣的標準作為挑選工作的依據。有這個煩惱或者兩難的人們請進！ 閱讀文字稿 >> saminforest.com/興趣與工作/",
+        "truncated": false
+      },
+      "published_at": "Sun, 02 Aug 2020 13:00:16 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "d996063afa5aed1e48ec12e5ef03c692dc579a62387d7898c66e0855456db783",
+      "guid": "tag:soundcloud,2010:tracks/860639902",
+      "title": {
+        "text": "#17 [新鮮人求職週記] 還有什麼問題想問的嗎？面試你的面試官，你可以這樣問！",
+        "truncated": false
+      },
+      "description": {
+        "text": "🌟 七月特別企劃「新鮮人求職週記」正式上線！ 🌟 履歷「超吸睛」的黃金魔法是什麼？ >> bit.ly/2ZDK631 面試的問題千變萬化，但有一個橋段你一定可以好好把握，那就是向你的面試官發問！如果把面試比喻成相親的過程，這個橋段就是一種雙向溝通，不只讓公司了解你，同時也讓你更進一步了解公司的大小事。本週的節目，主持人—山姆將和你分享你可以在這個橋段中發問的問題，好好經營這段有如相親的雙向溝通吧！ 閱讀文字稿 >> saminforest.com/面試發問/",
+        "truncated": false
+      },
+      "published_at": "Sun, 19 Jul 2020 13:00:10 +0000",
+      "feed_index": 1
+    },
+    {
+      "id": "9ba8b1e4f0d734d151c49c25481370ccb7db0f0d943d40bd5448642f5e121e57",
+      "guid": "tag:soundcloud,2010:tracks/851944039",
+      "title": {
+        "text": "#15 [新鮮人求職週記] 新鮮人寫履歷時的3個黃金Q&A！（免費音頻下載）",
+        "truncated": false
+      },
+      "description": {
+        "text": "🌟 七月特別企劃「新鮮人求職週記」正式上線！ 🌟 履歷「超吸睛」的黃金魔法是什麼？ >> https://bit.ly/2ZDK631 疫情爆發後，多數產業都受到影響，求職機會也連帶大幅減少。在面臨七月求職旺季，該如何撰寫履歷，才能夠脫穎而出呢？七月特別企劃第一集，主持人—山姆整理出新鮮人撰寫履歷時，最常遇到的「三大問題」，告訴你如何克服，才能撰寫出一份優秀的履歷！ 閱讀文字稿 >> saminforest.com/撰寫履歷/",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Jul 2020 13:00:11 +0000",
+      "feed_index": 3
+    },
+    {
+      "id": "99b7ab46de73a111baf64248068397a8ea579d12a6b5ca9f42b78af73ff8a984",
+      "guid": "tag:soundcloud,2010:tracks/847835146",
+      "title": {
+        "text": "#14 篩選「好朋友」時，我最看重的三件事。",
+        "truncated": false
+      },
+      "description": {
+        "text": "好朋友對於我們的人格形塑與價值觀，常常有著不可抹滅的影響力，因此奉行減法價值、篩選身邊的好朋友，成了我們提升人際關係品質，以及經營美好生活的守則之一。本集節目—主持人山姆將與你分享篩選朋友時最看重的三件事，帶你一起思考我們真正需要的朋友的樣貌！ 閱讀文字稿 >> saminforest.com/篩選朋友/",
+        "truncated": false
+      },
+      "published_at": "Sun, 28 Jun 2020 13:00:12 +0000",
+      "feed_index": 4
+    },
+    {
+      "id": "1358d25f3cfb4f102b9f324c96cf4cee3ced394433869ca1d2b65dd3ebe31ca1",
+      "guid": "tag:soundcloud,2010:tracks/839801215",
+      "title": {
+        "text": "#12 選擇北漂，還不都是因為「人」（上）— 離開家鄉，究竟造就了我什麼？",
+        "truncated": false
+      },
+      "description": {
+        "text": "到了上大學、找工作的階段，「北漂青年」是許多人選擇成為的樣子，但這個族群的模樣，卻是由許多悲喜交加的時刻描繪出來的。本週的節目，主持人—山姆，將與你聊聊離開家鄉、成為北漂青年的背後，究竟失去了什麼，又得到了什麼珍貴的禮物。 閱讀文字稿>> saminforest.com/離開家鄉/",
+        "truncated": false
+      },
+      "published_at": "Sun, 14 Jun 2020 13:00:10 +0000",
+      "feed_index": 6
+    },
+    {
+      "id": "11e577f13164e06a9ee1cc4655443edd57af1ccd08496b109ee34b42080fbf74",
+      "guid": "tag:soundcloud,2010:tracks/835658527",
+      "title": {
+        "text": "#11 用Line講事情，卻常常「有溝沒有通」？來聊聊「文字溝通」的小秘訣吧！",
+        "truncated": false
+      },
+      "description": {
+        "text": "即使通訊軟體已經發展出通話免費的服務，「文字溝通」卻還是沒有式微，仍是佈達消息，或討論事情時常見、常用的方式之一。但是，怎麼用最有效率的方式，達到最「精準」的溝通，便是許多人卡關的地方！本集節目，主持人—山姆將與你分享幾個小訣竅，不只讓你的文字訊息避開「沒重點」的窘境，也能兼顧正確的情緒，讓溝通過程最大效益化。 閱讀文字稿 >> saminforest.com/文字溝通/",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 Jun 2020 13:00:28 +0000",
+      "feed_index": 7
+    },
+    {
+      "id": "ea5c50f7097e43252da4456dc782ac54f5effbf6a097063383cdf4b281c7ab01",
+      "guid": "tag:soundcloud,2010:tracks/826813588",
+      "title": {
+        "text": "#09 如何維繫一段十年的友情？",
+        "truncated": false
+      },
+      "description": {
+        "text": "如果你是很容易結交朋友的人，那麼你有曾經掐指算過，身邊有多少十年以上的友情嗎？十年的友情，不管是了解程度或默契，帶來的影響力都是我們人生當中的里程碑，但是要長久維繫這樣的關係，卻不是個容易的過程！本週的節目，主持人—山姆，將與你分享十年友情當中的觀察，以及維繫關係的小tips，讓更長久的友誼關係，豐富你的人生！ 閱讀文字稿 >> saminforest.com/十年友情/",
+        "truncated": false
+      },
+      "published_at": "Sun, 24 May 2020 02:05:34 +0000",
+      "feed_index": 9
+    },
+    {
+      "id": "6cb334f70b9ace7375d120b55ca845a80489e969cd0e8f0271e1162bb368854d",
+      "guid": "tag:soundcloud,2010:tracks/822265684",
+      "title": {
+        "text": "#08 吸引人的自我介紹，從4個重點做起！",
+        "truncated": false
+      },
+      "description": {
+        "text": "覺得自我介紹是一個很困難、很尷尬的事嗎？自我介紹和我們的人際關係息息相關，它是讓我們快速融入團體的第一步，也是有效和他人創造連結，建立人際網絡的重要基礎，因此第一印象的好壞，常常就在這一步決勝負！本週的節目，主持人—山姆，將會透過經驗談，分享4個自我介紹的重點，用最精鍊的方式，把自己深深印在別人腦中！ 閱讀文字稿 >> saminforest.com/自我介紹/",
+        "truncated": false
+      },
+      "published_at": "Sun, 17 May 2020 11:15:25 +0000",
+      "feed_index": 10
+    }
+  ]
+}

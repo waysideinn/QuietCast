@@ -1,0 +1,84 @@
+{
+  "show_id": "1490476655",
+  "feed_url": "https://www.spreaker.com/show/4161247/episodes/feed",
+  "source": {
+    "url": "https://www.spreaker.com/show/4161247/episodes/feed",
+    "final_url": "https://www.spreaker.com/show/4161247/episodes/feed",
+    "fetched_at": "2026-10-25T14:41:52.209142+00:00",
+    "status": 200,
+    "sha256": "7345ba33dc3c3c8afc5754923fa242b9347b16bcdc98f2d17330dd1b755634c9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "The Moshi Moshi Podcast",
+    "truncated": false
+  },
+  "description": {
+    "text": "Just a little personal conversation between you and me.",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "en",
+    "explicit": "clean",
+    "type": "episodic"
+  },
+  "feed_item_count": 4,
+  "episodes": [
+    {
+      "id": "c8cab5ab3e31101d3e6ff7443f3c514f38e2f12caa402606a47d6d5f3b2f99f8",
+      "guid": "https://api.spreaker.com/episode/22209250",
+      "title": {
+        "text": "A New Positive Environment with Reighan",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 29 Jan 2020 21:34:04 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "a2142a004fd17923814c65a459d4abb59ee2b523eada96a5d9c3830f96dee925",
+      "guid": "https://api.spreaker.com/episode/22067303",
+      "title": {
+        "text": "2017 (Feat. Special Guest)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Jan 2020 22:10:04 +0000",
+      "feed_index": 1
+    },
+    {
+      "id": "5c1b4b4886267c9af7cdd9459f00efbafac39e751b1c15d4712d56a4620d3dbc",
+      "guid": "https://api.spreaker.com/episode/21961892",
+      "title": {
+        "text": "Vegetarianism And Life Goals",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Jan 2020 20:15:32 +0000",
+      "feed_index": 2
+    },
+    {
+      "id": "2e996a7ecd40262796ae7fc5ad3e587ad50363be4035b36de6eb05f97f8d6474",
+      "guid": "https://api.spreaker.com/episode/20511299",
+      "title": {
+        "text": "Pilot",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 Dec 2019 19:39:30 +0000",
+      "feed_index": 3
+    }
+  ]
+}

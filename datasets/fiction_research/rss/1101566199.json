@@ -1,0 +1,140 @@
+{
+  "show_id": "1101566199",
+  "feed_url": "http://www.ximalaya.com/album/3986881.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/3986881.xml",
+    "final_url": "http://www.ximalaya.com/album/3986881.xml",
+    "fetched_at": "2026-10-25T14:47:19.129940+00:00",
+    "status": 200,
+    "sha256": "a830d4a39c2ad42ea67213076048ded0d995ab33b2d7698e925b26c6a1f7385a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "爱声音，爱旅行",
+    "truncated": false
+  },
+  "description": {
+    "text": "舒扬用声音带您深度旅行。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 20,
+  "episodes": [
+    {
+      "id": "baf627f2f751df716970c52b50f9722e29b0030d0cd193e0d4a471877402317b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group15/M09/73/02/wKgDZVdBNCTB-IseAFjfd8HkObc085-aacv2-48K.m4a",
+      "title": {
+        "text": "比大更大比小更小的金字塔 入埃及记（三）",
+        "truncated": false
+      },
+      "description": {
+        "text": "没见过金字塔的人，没法想象它到底有多大。 没进过金字塔的人，没法想象它到底有多小。",
+        "truncated": false
+      },
+      "published_at": "Sun, 22 May 2016 04:28:38 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b0bce686fb3e9ad60a4de484f47cb30aa6d472f720f2a066b011fb696c6f4aa2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group12/M02/66/45/wKgDW1c0DcTAXV2uAJ8LyPkLBJ0177.mp3",
+      "title": {
+        "text": "历史并不遥远",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 May 2016 05:00:43 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "882588a980eb06e20c73f73dd13d975961598c32e9231bb050729bc2d85cd5f2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group10/M03/60/41/wKgDaVcvCD2hzUpjALjPHmYeTw8686.mp3",
+      "title": {
+        "text": "从古人的脑回路出来后，世界竟成了这般模样！北京园林（二）",
+        "truncated": false
+      },
+      "description": {
+        "text": "如果找到颐和园的卫星地图，再把南北方向掉一下个儿，就可以清晰地看到，整个昆明湖就是一只巨大的寿桃，而万寿山则像一只蝙蝠趴在下面，如同捧着寿桃一样。当年的老佛爷也许看不到卫星地图，但是站在佛香阁的最顶端向下俯视，仍可以看到眼前是一直巨大的扁寿桃，而蝙蝠的头和两翼也清晰可见。",
+        "truncated": false
+      },
+      "published_at": "Sun, 08 May 2016 09:37:13 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "1ea22330c6281a8d2819f0f348e727d48fafa351e9b1584ac3cf9d19fb9a4248",
+      "guid": "https://aod.cos.tx.xmcdn.com/group13/M0B/56/47/wKgDXlch0WzRKmMQALpytrupNuk398.mp3",
+      "title": {
+        "text": "一个时代的孤品 平遥（三）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 Apr 2016 09:01:58 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "da3a805152d77c7571fa8a3e82e3a15a54f076179031c473a1ce36e4f320a0b1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group7/M00/4C/BE/wKgDX1cXSDOB_idaAO1FUjp2phw177.mp3",
+      "title": {
+        "text": "历史走着走着，三观就变了",
+        "truncated": false
+      },
+      "description": {
+        "text": "关注微信公众号“边走边看的舒扬”，给你看妇好古尸容貌复原图~",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Apr 2016 09:23:54 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "d7f5cfcf2f47a91111307e52438df4dacb55370f998fc45ac6bb9ce29a7dab68",
+      "guid": "https://aod.cos.tx.xmcdn.com/group10/M07/40/39/wKgDZ1cPHnyRixw0ALOudzK005k575.mp3",
+      "title": {
+        "text": "殷墟埋葬着的三千年",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 14 Apr 2016 04:37:55 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "8dce20b3ea83abec3516a259c2850a65c70737ed44c8e85cf323aa96879087b9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M06/41/23/wKgDYlcKY4OxoYN4AHQwOExALb4303.m4a",
+      "title": {
+        "text": "如果你叫牛顿伟大的科学家，他为什么会把你打一顿？",
+        "truncated": false
+      },
+      "description": {
+        "text": "古希腊人的脑子简直是人类的奇迹。他们思考世界本源，思考运动静止，思考怎样把孩子教育成最佳公民。但他们依然没有入选文明古国(⊙o⊙)…",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Apr 2016 14:35:06 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "4a202d093e2eddb8757d3721cf4c459daf3ab805ab02b476b3407865038c917a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M03/36/26/wKgDZlb9-ATB5kOLAEwv5K6nmaI725.m4a",
+      "title": {
+        "text": "神马？古埃及也有“太后”属性！",
+        "truncated": false
+      },
+      "description": {
+        "text": "古埃及人到底能不能成为太阳的后裔，不是由韩国人民说了算的，尼罗河亲自孕育的古埃及体内本就具有一股洪荒之力。 你知不知道这股子洪荒之力是怎么做到保持世界最高建筑物的世界纪录四千多年的？你清不清楚，他们又是如何把人际关系延伸到了地球之外，让星际主义精神为自己创造神话和辉煌的？",
+        "truncated": false
+      },
+      "published_at": "Fri, 01 Apr 2016 04:25:22 GMT",
+      "feed_index": 19
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "schema_commit": "9e908672b5ac6afe94a0f6ea4e5d0f31f66b7360",
+  "v11_handoff_commit": "b62212bdf9b36f0f90e2f7f3a8f0990bba6544b9",
+  "handoff_files": {
+    "schemas/content-filter.v1.0.schema.json": "62480d94c7828797d715b29f4ae7452f359849f7cdd0aa85e9f918ddd4fa0f43",
+    "schemas/content-filter-interface.md": "88b84a72b73637b7660acc4184afb6f6feb1f49a6d80758fa3cd7109312b99a4",
+    "rules/example-fiction.json": "c43b769fb5e8ea586baf04c8098b5846b996fe3602e6db7f32f8a2fd631d707b"
+  },
+  "json_schema": "pass",
+  "semantic_subset": "pass",
+  "status": "example",
+  "production_ready": false,
+  "notes": "The frozen v1.0 schema/example are checked against the initial commit; the updated interface Markdown is checked against the authorized v1.1 commit. Actual Swift loading/scoring parity is separately reported; production additionally requires human gold and independent test."
+}

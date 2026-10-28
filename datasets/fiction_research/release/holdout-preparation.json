@@ -1,0 +1,1343 @@
+{
+  "state": "prepared_not_independence_certified",
+  "candidatePath": "rules/research/fiction-multisource-candidate.json",
+  "candidateSHA256": "30dfd5e1b60e41f3723289bd89fda1491147679cff6164be1bd42b7c7c36cb3a",
+  "unlabeledTestShowsWithRSS": 267,
+  "selectedShows": 221,
+  "tasks": 656,
+  "episodeTasks": 435,
+  "selection": "Original test candidates with successful RSS, excluding exposed IDs and exact display names present in development; no model scoring performed",
+  "members": [
+    {
+      "show_id": "1021963866",
+      "rss_path": "datasets/fiction_research/rss/1021963866.json",
+      "rss_sha256": "9d8a4a706d0ebf55016070bccdf0dfb8d0089308c5e4851670723b35d33a079e",
+      "show_record_sha256": "0c374afbe4c0324d3edfeee135c3aa917ef7969cc0f2b1e2c408af1ee645f39f"
+    },
+    {
+      "show_id": "1030231015",
+      "rss_path": "datasets/fiction_research/rss/1030231015.json",
+      "rss_sha256": "f2eb8a3e3db6d7e035337e6c233c2ea9eef1165386a9fabc6ece00b2c3d54be1",
+      "show_record_sha256": "730f854a45eddd3571e79d00715faec2ab60ea5f5d68eb1ebf662d4fff4d8c84"
+    },
+    {
+      "show_id": "1058819079",
+      "rss_path": "datasets/fiction_research/rss/1058819079.json",
+      "rss_sha256": "78777b74e9ce5c7ae1e353afbfbf5f1068d2c2d22c04bcb7afcbb185acdab84b",
+      "show_record_sha256": "92af718a6166ab403d41d0120ba9d55b8577e0231b69c82f15df0a5aed42db48"
+    },
+    {
+      "show_id": "1073849513",
+      "rss_path": "datasets/fiction_research/rss/1073849513.json",
+      "rss_sha256": "2359b8669e0f4b20cfffe4bc1cd2842132bf450658d23c0739987844db1bb457",
+      "show_record_sha256": "39a8cbdf6d08073248196dada305a1fa44c9357023987d226df7aa8723314320"
+    },
+    {
+      "show_id": "1095222589",
+      "rss_path": "datasets/fiction_research/rss/1095222589.json",
+      "rss_sha256": "00d1b94bd7cb620464b008af581b0b1055b3773ee0c4ed2cc88ede8ec10e4d84",
+      "show_record_sha256": "3c484fb024f1ffea31208174ff884a9d946160c97022e1e93457206016bc5de3"
+    },
+    {
+      "show_id": "1115782232",
+      "rss_path": "datasets/fiction_research/rss/1115782232.json",
+      "rss_sha256": "57749581daef0e3be41852c0a7c5015658624a60af204a19f10c28e908f6ed07",
+      "show_record_sha256": "67010483fa29735bba1ee229d11158ac29c49abc17dbabd5d39330be1187eba6"
+    },
+    {
+      "show_id": "1125959192",
+      "rss_path": "datasets/fiction_research/rss/1125959192.json",
+      "rss_sha256": "e3cd8201c6f68d7f7a277000263f3667dd1319a323f93f3e4dd1e08a8205b998",
+      "show_record_sha256": "c3427f7fb719ab510b81f235bc0cef72f6b550b1ac581d88cc0b27a9ec468f09"
+    },
+    {
+      "show_id": "1128284503",
+      "rss_path": "datasets/fiction_research/rss/1128284503.json",
+      "rss_sha256": "857f4b70df81f230ff8a0023db41303ce2556d3ff49d1b1800bf37280a75d288",
+      "show_record_sha256": "4b126a5de0169ef01f4a2b6dd41c8a551e95dcc67a9447f7827a75a7b5bddc4a"
+    },
+    {
+      "show_id": "1129666229",
+      "rss_path": "datasets/fiction_research/rss/1129666229.json",
+      "rss_sha256": "efeb26d26d87519e57b0aabc0f4916f6ee8e512f9cbf7400bf6ceec0478dc88b",
+      "show_record_sha256": "3353eec631a6d34771fc2acdc8a9549e0c73f4e9aed414919e3a34975ca935a8"
+    },
+    {
+      "show_id": "1136987802",
+      "rss_path": "datasets/fiction_research/rss/1136987802.json",
+      "rss_sha256": "02a662faf50fd21db706d16d723a7f326e91cafd582e926c28b9d74e5af4d8d8",
+      "show_record_sha256": "237a4d50306995d14098264d6bd0d0b276ff583097f65c652934e4d9d8ef9501"
+    },
+    {
+      "show_id": "1139142615",
+      "rss_path": "datasets/fiction_research/rss/1139142615.json",
+      "rss_sha256": "bd0041893d62cfe360fc0a32634f15ba871ba4d160762f9c562c9af3e3b7c37b",
+      "show_record_sha256": "2d1d08ff9599dd15b57f19cbef296a7fa8ac44c74aed3667f06f8ac03d7e8164"
+    },
+    {
+      "show_id": "1157960349",
+      "rss_path": "datasets/fiction_research/rss/1157960349.json",
+      "rss_sha256": "a547237d3be0b160d92168144337b4e5a4278f631487154718d41c83e87112f3",
+      "show_record_sha256": "807e5ac2af1b4709d4b5e749b180ececf645529fefbae096eaae807fbec3a36b"
+    },
+    {
+      "show_id": "1160578978",
+      "rss_path": "datasets/fiction_research/rss/1160578978.json",
+      "rss_sha256": "951a0c419656ecc257352a238b6dd5acb455a1fe7f3d2cbfe74cba336a9e6a14",
+      "show_record_sha256": "718da052f7c1797e89ae29e22b2c95661ff4089524258bce2681a1fdc9f30e91"
+    },
+    {
+      "show_id": "1180537872",
+      "rss_path": "datasets/fiction_research/rss/1180537872.json",
+      "rss_sha256": "d1abb52bc7acf7cfb6b08d0898948b084ff255621bf215b4f7009dfbdcf3698d",
+      "show_record_sha256": "647eb9183dc99c424957ad2f2c186b621883261261690342d259726ba7805938"
+    },
+    {
+      "show_id": "1181770436",
+      "rss_path": "datasets/fiction_research/rss/1181770436.json",
+      "rss_sha256": "ad97a4254b97b2378b5e45ecbd695312de4455709f957411ed07c91776837f8d",
+      "show_record_sha256": "f31f0e45e962a19084ee4932112278e43047c688994939d0fbeac0b7786e3e6b"
+    },
+    {
+      "show_id": "1183233450",
+      "rss_path": "datasets/fiction_research/rss/1183233450.json",
+      "rss_sha256": "7794ff4551e833093df3c9c2b3c4de0172f61ff730287514f6067a3c7423ca5b",
+      "show_record_sha256": "b03cb3dabd0595db955236e30d3a378c922e659ab4057cdf38b8bc1e21b6431a"
+    },
+    {
+      "show_id": "1184981897",
+      "rss_path": "datasets/fiction_research/rss/1184981897.json",
+      "rss_sha256": "13cce7e3ad958abb965fba67a209b6bda98fe8afae361240afa93d3a5d48ea3c",
+      "show_record_sha256": "8e98950f6701efe1b1bd4741eb75f2094d75ee05b36f1e37e667ef57c87435ad"
+    },
+    {
+      "show_id": "1197935841",
+      "rss_path": "datasets/fiction_research/rss/1197935841.json",
+      "rss_sha256": "a95629f63266b458d647dcf2d0d50068f452e350fb96e704682ccf48149ae080",
+      "show_record_sha256": "3adac880e1785852dcad4e6d9893bd627cbc12fabb3041c708c63d0f9d2348fe"
+    },
+    {
+      "show_id": "1234086160",
+      "rss_path": "datasets/fiction_research/rss/1234086160.json",
+      "rss_sha256": "7fac5403e9de4e62d840585e6d46ecdde1d3144c183b7fee590d8aad3c2be1b2",
+      "show_record_sha256": "c61e75d70f47808d2b6eac7fe4039461adae90c1543f40bd1de7c738d038cbde"
+    },
+    {
+      "show_id": "1248691568",
+      "rss_path": "datasets/fiction_research/rss/1248691568.json",
+      "rss_sha256": "b8afdcf80b534586ecd0a6c0c5d206d770b7585766b59d3bedad297ceb03819d",
+      "show_record_sha256": "070c2995d12a5d60a12527a25de6c7ac9e19a2d38c06a993bae40b82620c96c1"
+    },
+    {
+      "show_id": "1251826993",
+      "rss_path": "datasets/fiction_research/rss/1251826993.json",
+      "rss_sha256": "eba37d87f560ecac6a5f67d260910f065dabc0ceb4e58cabb508418bdcc5c0c4",
+      "show_record_sha256": "b154be8962cd9088cb1153b2e9d38a32553de265624837198418d7af1ef00f6c"
+    },
+    {
+      "show_id": "1262978649",
+      "rss_path": "datasets/fiction_research/rss/1262978649.json",
+      "rss_sha256": "15ca48464d748b817eaf1cb0c55b07419bf2b65e0975043f11c3ed06cdab44c2",
+      "show_record_sha256": "60bbe5eeb717e101cc308dd8fdc0e9f7a281bc447097c41b7f8e9973b6a9f44c"
+    },
+    {
+      "show_id": "1268501410",
+      "rss_path": "datasets/fiction_research/rss/1268501410.json",
+      "rss_sha256": "41fb6213ee93702bf62dc8c51da73ddb1abf32eaf71889449188a040dc9c9592",
+      "show_record_sha256": "287a4a4f6e9e9cf4b79131e44148f7cce3dbb9395a09ca64d0a47463f4927f7c"
+    },
+    {
+      "show_id": "1271272846",
+      "rss_path": "datasets/fiction_research/rss/1271272846.json",
+      "rss_sha256": "31146ef8d1941e256556de4ab0fbc65df9e48dd2beb0f218461f9cd88fc07752",
+      "show_record_sha256": "436c972ea5821307353bbaa9b4c743af314c608a9296129b8c6f2b5fdb7b6848"
+    },
+    {
+      "show_id": "1315967431",
+      "rss_path": "datasets/fiction_research/rss/1315967431.json",
+      "rss_sha256": "ab47444937357a3be15700bb8b9badb79efeed8bcb8d028f39aa0f2fd12ebdc8",
+      "show_record_sha256": "dfec5c33d724c74b2c61580a3dc6424e08f1312a3012c3eea38365a87f948684"
+    },
+    {
+      "show_id": "1321229059",
+      "rss_path": "datasets/fiction_research/rss/1321229059.json",
+      "rss_sha256": "1b571ce521a6f67d8bf56735227d51987400beffa026bc4464b9e8c12cc1a9ce",
+      "show_record_sha256": "3838b596054309e13328ec35557451c9712f0c58ff8f4a4df2d2a3a2daa54a7a"
+    },
+    {
+      "show_id": "1323470627",
+      "rss_path": "datasets/fiction_research/rss/1323470627.json",
+      "rss_sha256": "6234cd6941af5e78a53f65ddc740d0da2a23f669557bbe9844b567570268a8d7",
+      "show_record_sha256": "82b5eab742b8557a62168a339f45a7e4f5ca5235e4f8997c6eb6ac23bc4ae30a"
+    },
+    {
+      "show_id": "1333475582",
+      "rss_path": "datasets/fiction_research/rss/1333475582.json",
+      "rss_sha256": "49b497c20598fd2161217e88c89b4a88e4e325ebb8003082ac97b2789df835d1",
+      "show_record_sha256": "2f1ccc7c82369b2afd0b3b9732794fa26ecc5bfc0875d45b8152c6b3da054afa"
+    },
+    {
+      "show_id": "1338444962",
+      "rss_path": "datasets/fiction_research/rss/1338444962.json",
+      "rss_sha256": "92e3b878054eb09098932efb62c90918e241eb48b50f8f5e94ef80d0ba8c5350",
+      "show_record_sha256": "7e932999f31246246ed64f1b50f9594293e9ca7b0767b833064d794d8a137ea4"
+    },
+    {
+      "show_id": "1342040716",
+      "rss_path": "datasets/fiction_research/rss/1342040716.json",
+      "rss_sha256": "28695dbdd20de0ba28fd84f894f3c957de7838c29ec05763686601ccd11dafc3",
+      "show_record_sha256": "762615761da337f6b8e25bcbded5ead13acdc04d102c18bb87836a443501e350"
+    },
+    {
+      "show_id": "1352951413",
+      "rss_path": "datasets/fiction_research/rss/1352951413.json",
+      "rss_sha256": "ac157fb655c38a93dd0b98eceae06acee4b9b564af075faf32ea64c032166c0c",
+      "show_record_sha256": "60545309e72faece4ebb99f618cf810a985b734adee031fb0d4f8dcc656a85a4"
+    },
+    {
+      "show_id": "1358251055",
+      "rss_path": "datasets/fiction_research/rss/1358251055.json",
+      "rss_sha256": "d143327015c1bc7cf44877bbd6a37ecfcecf356d956871e0bb7bb3a2e16e4416",
+      "show_record_sha256": "420c0286b4348081ee6fbff6d9710d40b036dad62e943a97b245b3accc54739f"
+    },
+    {
+      "show_id": "1438867843",
+      "rss_path": "datasets/fiction_research/rss/1438867843.json",
+      "rss_sha256": "41de4403c5e2423ffe3b4acda1b8d7414a213a42f9a3c913dbb236b7e8cccf26",
+      "show_record_sha256": "559d9226389aaa22e3f7a8976fc1a6d9a09de41ba7b214e7c537d87699e1df65"
+    },
+    {
+      "show_id": "1449153058",
+      "rss_path": "datasets/fiction_research/rss/1449153058.json",
+      "rss_sha256": "1ffba7802b960408b8bbc9556d867bd20f82c52298ae439e15bfc07696d4a53f",
+      "show_record_sha256": "5b8aa8471cdfb2c5dbf927402146dcacacbf570dbc060f312cc89b6f748dab3a"
+    },
+    {
+      "show_id": "1450399086",
+      "rss_path": "datasets/fiction_research/rss/1450399086.json",
+      "rss_sha256": "8916311132a4b3bb0d679cd16bd05bc9c2c0308708496a697e3398d1157970ad",
+      "show_record_sha256": "acea9bffa2189eaf69231f8e6702616eb460c7d8771f9b01f6a152e584ab0b49"
+    },
+    {
+      "show_id": "1455483014",
+      "rss_path": "datasets/fiction_research/rss/1455483014.json",
+      "rss_sha256": "c58b4f27904ad2eacf83432d3163db1d56d6dce7ec8898b9f21147e3b9e6a9dd",
+      "show_record_sha256": "873f11fd34aa1dcfaeed697305b522a3146c3440c910b44b1f63d4e488c67ef2"
+    },
+    {
+      "show_id": "1462843777",
+      "rss_path": "datasets/fiction_research/rss/1462843777.json",
+      "rss_sha256": "b8d8dbdafe0dc3bd3e65a85ba1d7724d7d8407dc26f79c9035df72dc8986a5f5",
+      "show_record_sha256": "7ff8d68189ec205a034e8c9b831f5b8f1afef9724b1e4a4dc2bee114f8b2d3a1"
+    },
+    {
+      "show_id": "1462850845",
+      "rss_path": "datasets/fiction_research/rss/1462850845.json",
+      "rss_sha256": "e36a7467427668bd288c9f14e2ed16c7c78cb305535f0c047fdd3159ee9a6dc5",
+      "show_record_sha256": "2c1108ecd1563e69c9d7896b19a0b77d661d4f4e8b4b736841dca49b38013b95"
+    },
+    {
+      "show_id": "1466577555",
+      "rss_path": "datasets/fiction_research/rss/1466577555.json",
+      "rss_sha256": "71923f4f418e7a9bf7c1ddf87486366b6b8cf20ad5a68ddd803864c3cfebf09d",
+      "show_record_sha256": "53020571f824d7f3acb25ca2cde468d0c3498b2c28b436cde253a83082909ac8"
+    },
+    {
+      "show_id": "1471749688",
+      "rss_path": "datasets/fiction_research/rss/1471749688.json",
+      "rss_sha256": "e82bcc4e55ae4dafd942f4b9d9ce37ea0b1b5d45f908fc458910641cc5133975",
+      "show_record_sha256": "e21da502b8814d3b0db2aafa76938723d49b48bdc0219d704917d68036a98257"
+    },
+    {
+      "show_id": "1474474297",
+      "rss_path": "datasets/fiction_research/rss/1474474297.json",
+      "rss_sha256": "f279ee7207ae32fb70ce12441e874ade404cb423a0d8841d104554d80cec71e7",
+      "show_record_sha256": "b02ab788b013dd60635b1a5d8a2c58ccf448d6e180411d5d1b91e827c3e3ea62"
+    },
+    {
+      "show_id": "1479173448",
+      "rss_path": "datasets/fiction_research/rss/1479173448.json",
+      "rss_sha256": "ecb070a0417c0a84fcd659641490a4774fc577c149ca092223238c206febd5d1",
+      "show_record_sha256": "fbdf1a80323df2aedeffbc60297346c53e712d667b345ca721a3d2379d5cfb13"
+    },
+    {
+      "show_id": "1479676767",
+      "rss_path": "datasets/fiction_research/rss/1479676767.json",
+      "rss_sha256": "3ffede7d78b39269d7d6a1e22b03cd7575f881658ffcef5cce3c50533e152916",
+      "show_record_sha256": "cca0915f2cef5025e144cf8f8425d04021a3679ad2d4deb232c8570655bef8a6"
+    },
+    {
+      "show_id": "1479951603",
+      "rss_path": "datasets/fiction_research/rss/1479951603.json",
+      "rss_sha256": "c1d797a6852821f0a8e20c97a6afbabba5dd06fb8eb1061b33dd963cb299afd6",
+      "show_record_sha256": "30992b06c0e11446de3e146ea927c6949843b52f6b3c8cfcde384ee77220d334"
+    },
+    {
+      "show_id": "1482927105",
+      "rss_path": "datasets/fiction_research/rss/1482927105.json",
+      "rss_sha256": "4328849d3b004105a31599ba93d569afb54a0e58fca88a6494fdea61cb159b80",
+      "show_record_sha256": "b199400d4ddc73a8273f9e9a0d285e07f16ea0dda966ade83513226d8c86e326"
+    },
+    {
+      "show_id": "1486700278",
+      "rss_path": "datasets/fiction_research/rss/1486700278.json",
+      "rss_sha256": "dccb0cb002f8a44a047a230102405ff7f879a261cf03dcb78b74ee1b2f97217c",
+      "show_record_sha256": "ac709e949536c8c1624642d590aaad0fbbb874d2c3f36fe192cf4529416fe416"
+    },
+    {
+      "show_id": "1489176388",
+      "rss_path": "datasets/fiction_research/rss/1489176388.json",
+      "rss_sha256": "5bd51513ffa334da908d46fed809eed487cf9838abb312e8f4109e4f5dacd014",
+      "show_record_sha256": "dd787bcc194ec416bbebd9754cce536f5824255ec4f6fada73120b1b0d984dc0"
+    },
+    {
+      "show_id": "1489841902",
+      "rss_path": "datasets/fiction_research/rss/1489841902.json",
+      "rss_sha256": "eab0d4334ae02f429d2fe5bf32757009d817279003b805cb39b2c0fe5cfd3767",
+      "show_record_sha256": "242691c97b4a0c23eb45333e27b31a78c7f5dd36a961c6bde692ab722402dada"
+    },
+    {
+      "show_id": "1490476655",
+      "rss_path": "datasets/fiction_research/rss/1490476655.json",
+      "rss_sha256": "593373427fc88dae8165009b8700fbda2c321278f0c35b9d29e4373482aa3390",
+      "show_record_sha256": "6b101c16ac49719bda5393358cfb9719db87d2533e01512483d43a69006179bd"
+    },
+    {
+      "show_id": "1494068599",
+      "rss_path": "datasets/fiction_research/rss/1494068599.json",
+      "rss_sha256": "2b2915ce2bc6e147d6481550b73cfe3445ee0dce69f6d51b73bc6e8687f5b1e4",
+      "show_record_sha256": "1a8e4953a0e75fe0af2e6d76482bb89013b46276e1194b5df8c2ba7fb53d9516"
+    },
+    {
+      "show_id": "1497837672",
+      "rss_path": "datasets/fiction_research/rss/1497837672.json",
+      "rss_sha256": "15ec6dceb44e0bf1cf090ea49b9257d5d80900a2d92f5de771fdcaa9e07659d8",
+      "show_record_sha256": "a93a3a9899b67d720ee1a201bf73712ba6cbf5c45b63c96eaa8e3a9bcc556f3d"
+    },
+    {
+      "show_id": "1499298094",
+      "rss_path": "datasets/fiction_research/rss/1499298094.json",
+      "rss_sha256": "0d41092c68d4e53bc1057190282694ce6c98d000ca7eafd364d4abc35f48407e",
+      "show_record_sha256": "61ec02f437b7f76dd2ac414a56659583b805d7750a573b5560f1bb55633ca5fd"
+    },
+    {
+      "show_id": "1500216153",
+      "rss_path": "datasets/fiction_research/rss/1500216153.json",
+      "rss_sha256": "3e41f4756d5aeccc84313f690f362adcf841d58b2ac1eee424210753d0d953b2",
+      "show_record_sha256": "55fa9db547046cf3b08ceb75ecf7c5eb3d3eaf29091b02a17c836cf5c6e7d204"
+    },
+    {
+      "show_id": "1500298175",
+      "rss_path": "datasets/fiction_research/rss/1500298175.json",
+      "rss_sha256": "d68a70f3de5cb6678247f31f1fb4bf70827617f28b37a56bfdf8eab8aa1537d8",
+      "show_record_sha256": "915107724dd3e71e12f28a53220110792987c1a93c47bc21906686679eedba70"
+    },
+    {
+      "show_id": "1503188359",
+      "rss_path": "datasets/fiction_research/rss/1503188359.json",
+      "rss_sha256": "9e1e3ccff31c161d2315835980f12775dba7bd4fcdc6a5dd028c23ec61c4ac4b",
+      "show_record_sha256": "963c1871efd349d3f50d89fc46def19e08ffba0f3912256bf2421726cc8d5a47"
+    },
+    {
+      "show_id": "1504181629",
+      "rss_path": "datasets/fiction_research/rss/1504181629.json",
+      "rss_sha256": "3019031b164ece8b3f2929c190e3cd2c3f9430703f6ac6e767f179f0a2891255",
+      "show_record_sha256": "e3295799210ebcc1227fa8408fe711f857a984c06cfb4c0a00594b295823c81f"
+    },
+    {
+      "show_id": "1507944396",
+      "rss_path": "datasets/fiction_research/rss/1507944396.json",
+      "rss_sha256": "7df88d1f153c17034092b8d2265ab87f8bfb057cfcd03d604575ac257da83792",
+      "show_record_sha256": "ff1bbc5aaa7eb43913d5091b8784f224cb2f93afcf253d83964ba4c87cd3348e"
+    },
+    {
+      "show_id": "1508095512",
+      "rss_path": "datasets/fiction_research/rss/1508095512.json",
+      "rss_sha256": "73997753d8c303912fae0b17d8f630c70fc9239661c25321ff94f269ba10db0b",
+      "show_record_sha256": "6ff80fa50853af7d32560b03aed20de642c71c2f5eb60937e22dc6a718471a33"
+    },
+    {
+      "show_id": "1512548667",
+      "rss_path": "datasets/fiction_research/rss/1512548667.json",
+      "rss_sha256": "7cd010191b5e88ac645a2e2ed6c938686e04fba9059baf55997c4921586a288e",
+      "show_record_sha256": "d28000dc12ab298d32961d932b5f9d296b96a98e60e248ff954718f6b51a5660"
+    },
+    {
+      "show_id": "1513814747",
+      "rss_path": "datasets/fiction_research/rss/1513814747.json",
+      "rss_sha256": "64d78d480aa5421f193e7cae98e702696125ef4ba572002dcbfc5c53dbc8ba67",
+      "show_record_sha256": "34c7db2e2ccde809384160a5fe933ef58dbd656b30ceaa00144a31f5b4ccae66"
+    },
+    {
+      "show_id": "1514345961",
+      "rss_path": "datasets/fiction_research/rss/1514345961.json",
+      "rss_sha256": "fdbba3cc3ee89861e4adfb9d3980ae5ca6c464fe280e4a97a9c1502c311d3144",
+      "show_record_sha256": "d479e3d6984cc0b759a23aa54d00f4532ee771ec2a451314d23b813e62910ebd"
+    },
+    {
+      "show_id": "1515018549",
+      "rss_path": "datasets/fiction_research/rss/1515018549.json",
+      "rss_sha256": "de18e07644b3a98ec28ea54e87d14a76cf76c0d216cf05eda9a0625f61f11009",
+      "show_record_sha256": "5a05a1eb2b7be0a182f83f46710aad6bd2ae29c82154877f283a5e691537d79c"
+    },
+    {
+      "show_id": "1515777124",
+      "rss_path": "datasets/fiction_research/rss/1515777124.json",
+      "rss_sha256": "3a5aeea942047625edfc98cc4f29406698785826dc8c112b6916add930eb2f52",
+      "show_record_sha256": "a76c942e260e752404b09deaf4bb8662d8e78c2350acd0c793737edc724dc058"
+    },
+    {
+      "show_id": "1515874610",
+      "rss_path": "datasets/fiction_research/rss/1515874610.json",
+      "rss_sha256": "440c3c5e74944055ee916c0a4b8a28d9903925a50325224fce82e0c6c1f3f3a2",
+      "show_record_sha256": "500330b3b62e0506ecbbf0f18272d81fcee453dc212ed7addd56c4ba478f4e54"
+    },
+    {
+      "show_id": "1516158105",
+      "rss_path": "datasets/fiction_research/rss/1516158105.json",
+      "rss_sha256": "06288a617a1e1cb445a67fe1ccc4cee28850fa7747f7b73994f561979d271756",
+      "show_record_sha256": "9828a9fa9151492536b86138726f058095b270d3f81867e74d78dc1e0fa7b1d2"
+    },
+    {
+      "show_id": "1516647926",
+      "rss_path": "datasets/fiction_research/rss/1516647926.json",
+      "rss_sha256": "31134b784eba44490d55d4c6fbe6b17f498022bae8b8029c3bfff4fbffaefa08",
+      "show_record_sha256": "c1e28aaaf95513024f3da3384208748e51fde8e33561433dfef4b1811207f2e6"
+    },
+    {
+      "show_id": "1517405352",
+      "rss_path": "datasets/fiction_research/rss/1517405352.json",
+      "rss_sha256": "e064fbcf53dd9734d45e716d20f80f61d8e879df54f468d2504a74e25d069d7d",
+      "show_record_sha256": "191df094289f930e8dc54c4900a3ea900fd339263e82279ba5650ca57981f7da"
+    },
+    {
+      "show_id": "1518914711",
+      "rss_path": "datasets/fiction_research/rss/1518914711.json",
+      "rss_sha256": "50f25c36d0068b46ffa8f79784354969133e71c540b398df66be07d51b910502",
+      "show_record_sha256": "4b3e3bf6fa33910011b083c7e6f58cce204189d54790deb27097f7fcc00842f3"
+    },
+    {
+      "show_id": "1519207665",
+      "rss_path": "datasets/fiction_research/rss/1519207665.json",
+      "rss_sha256": "5aaa3ddd36e2e26a37bbe99d37656857f2912aa7a347a9a46910f872cf03b240",
+      "show_record_sha256": "bdb25ef40b3aa1453a170cb192452009c469d21d7a815c4a5c2326453faa016e"
+    },
+    {
+      "show_id": "1519594158",
+      "rss_path": "datasets/fiction_research/rss/1519594158.json",
+      "rss_sha256": "19c30f9edc29c9b71b72b94a31550d55ea9a212f4845cc2580af5f0c58176912",
+      "show_record_sha256": "73a7977b2b06b7cb28b11377646b14e78773325cc2e2130babba694113da7bf4"
+    },
+    {
+      "show_id": "1521147712",
+      "rss_path": "datasets/fiction_research/rss/1521147712.json",
+      "rss_sha256": "dc7410d9d8f620bd7ca1651ce37163ced829994bbcd93cd6297465f912afcb91",
+      "show_record_sha256": "bcf4a8c1e423834b0572eb2f7cef407b71c3a34e14774bd64a5111241b8ed400"
+    },
+    {
+      "show_id": "1521211206",
+      "rss_path": "datasets/fiction_research/rss/1521211206.json",
+      "rss_sha256": "66efb7ff7275cffbb8e17ae76e448d7cf85e5894c339e0d4b513003fab90a8ba",
+      "show_record_sha256": "4aee9678ac341de8441f090dcfa6365f14c131f2c5c60889ddeaa0b0f70db1ea"
+    },
+    {
+      "show_id": "1521795741",
+      "rss_path": "datasets/fiction_research/rss/1521795741.json",
+      "rss_sha256": "9eff6b7001a4071c5d8c7f58400361e7299f5db2f42c353b48a454f4cd6c8e98",
+      "show_record_sha256": "8af3b4993703bef3051ac915861e390ab750c8097aac3f5b91b60dc03ee429f4"
+    },
+    {
+      "show_id": "1522780452",
+      "rss_path": "datasets/fiction_research/rss/1522780452.json",
+      "rss_sha256": "0ae058057e943ef9094238a76776d12b0bed2824b8a42a71b9f3c633745f77c0",
+      "show_record_sha256": "31983bac0f4fe73432617cf164c9551f903e54d2c1739c65925c6e24dd2d9912"
+    },
+    {
+      "show_id": "1523040354",
+      "rss_path": "datasets/fiction_research/rss/1523040354.json",
+      "rss_sha256": "8c5f5b4970627334d44bd0541ad1340e17d9f1bd3e81768750bda05e940701ac",
+      "show_record_sha256": "1e7e0406383ce55a48c17c24f8c4caa7e625d7cb50a5cc0805d2e2968aacb49c"
+    },
+    {
+      "show_id": "1523229322",
+      "rss_path": "datasets/fiction_research/rss/1523229322.json",
+      "rss_sha256": "897382c7918dc2b4f9bc1085999e31f043edd5197e3301411b1f26a75de4618f",
+      "show_record_sha256": "18f8be3a77250a4501a5c07f9131da850f51dc709078e3b883e85fb19f6f3274"
+    },
+    {
+      "show_id": "1523820527",
+      "rss_path": "datasets/fiction_research/rss/1523820527.json",
+      "rss_sha256": "9cc28538729dec5378daedc247aca3a58ae1b4b51168eb21ea3028ba92a06018",
+      "show_record_sha256": "86db26f693baec04df5360ae1347abd2a42d10e16609a1e7cab3d1dc95d5979a"
+    },
+    {
+      "show_id": "1524136171",
+      "rss_path": "datasets/fiction_research/rss/1524136171.json",
+      "rss_sha256": "a23cbc0cfb3178d9384bf2b20f2cfb8ce91831d87cd556528dbce47d46a44a4c",
+      "show_record_sha256": "05579f6a78789e54d791d1426fe1efb30006f11bffee8490e2aceb144f5fc256"
+    },
+    {
+      "show_id": "1525237031",
+      "rss_path": "datasets/fiction_research/rss/1525237031.json",
+      "rss_sha256": "6b58aa97edd6fbda5025154fec3486c5b69bfebd3d62f956a635f99779d81881",
+      "show_record_sha256": "c63362c2fdad3c13a4838c0d42ef7e5149936abc25d268997ffc89ac1b62961f"
+    },
+    {
+      "show_id": "1525394503",
+      "rss_path": "datasets/fiction_research/rss/1525394503.json",
+      "rss_sha256": "acd7bf8b5567bd2b3161bf7e51a1a951688a66d9e4a42e1355b3652e977d38e3",
+      "show_record_sha256": "850859e2cfdc1bcf287d634ccebb1239e154aa5cdd332a13eb4d57f24a6fdc37"
+    },
+    {
+      "show_id": "1525462663",
+      "rss_path": "datasets/fiction_research/rss/1525462663.json",
+      "rss_sha256": "4924af44abc76b2bc3d2074d28172b93e3895d690058f577c327ef46cdac5e02",
+      "show_record_sha256": "918f4b314b01d06e412f55cebe6c8f6548b6ac49f2b52dccb1e6792820063e12"
+    },
+    {
+      "show_id": "1530593534",
+      "rss_path": "datasets/fiction_research/rss/1530593534.json",
+      "rss_sha256": "f25bb73db333662a9645e737022e807c9ce9cffa5ebb6304a47ec4d17b26f825",
+      "show_record_sha256": "6ec3991fb85caa4260d4757b0ad6ee072aa1b629b935f53099dde6cdcf3be459"
+    },
+    {
+      "show_id": "1530655498",
+      "rss_path": "datasets/fiction_research/rss/1530655498.json",
+      "rss_sha256": "5a034780d8cfee10f53147bf09b269bf02ba06452b9b2276d11a8c685e823775",
+      "show_record_sha256": "fd500fa0eaa70a5ec0673cd9378af1518a0455d7a4fb1f2cb635a840e86f4a6b"
+    },
+    {
+      "show_id": "1530827409",
+      "rss_path": "datasets/fiction_research/rss/1530827409.json",
+      "rss_sha256": "8bde3ad9e4cd2be876188d6a20f0135803d5e38d66a3d50d02c5f134f440e150",
+      "show_record_sha256": "b7e759573316323d8f09c5d20f13ef4edc6616621d696f16ac760d249c154f61"
+    },
+    {
+      "show_id": "1531276752",
+      "rss_path": "datasets/fiction_research/rss/1531276752.json",
+      "rss_sha256": "a54aaba40042e9de57e4d7ff857cdfe17fb8d7d5c41a104409edca080997712c",
+      "show_record_sha256": "f14765b2ad4b6464cda8b1085380b7e2101ef79854c1fb3a7e922c96ab9de169"
+    },
+    {
+      "show_id": "1531353858",
+      "rss_path": "datasets/fiction_research/rss/1531353858.json",
+      "rss_sha256": "a9d53cfc59cd6a57baf801d76df3548ad0a981a506fdb3355d83186c3dcbb500",
+      "show_record_sha256": "95ca0171beee02b4107d4d2855ccd4beb8d0014c948d5b3ad63d2df669d35524"
+    },
+    {
+      "show_id": "1531819660",
+      "rss_path": "datasets/fiction_research/rss/1531819660.json",
+      "rss_sha256": "1d149597cc617264aa59cc13696a2b353abf8649bd79a253ffe08f7ade58c3d9",
+      "show_record_sha256": "6b1d8a0e1b0bb1e2c1b78109184c8ff659333b7b93119972056b9e3f4d405584"
+    },
+    {
+      "show_id": "1531931920",
+      "rss_path": "datasets/fiction_research/rss/1531931920.json",
+      "rss_sha256": "78feb74142901f4b64a7e4889572374785df98c6044eb79557efc5aec3237226",
+      "show_record_sha256": "ac64612b7a4a8ba6ef002967c7511acbd318acc6894332dab7f25b693f057ac8"
+    },
+    {
+      "show_id": "1532170181",
+      "rss_path": "datasets/fiction_research/rss/1532170181.json",
+      "rss_sha256": "3ef9c0517cb05196aac831e7d108e695a3665d7e400815831444fdfb15e61be9",
+      "show_record_sha256": "1d92b9b6c9232cf208203ef05e48a36148ecb3394a063011a6b8c9596d1b5726"
+    },
+    {
+      "show_id": "1533388375",
+      "rss_path": "datasets/fiction_research/rss/1533388375.json",
+      "rss_sha256": "6d42be3824a37c2567fb497b70e1e9365a2ce254b119f1740075e164dc592c54",
+      "show_record_sha256": "ff1b90ac2ac9e7c6fb880c26217cc52190693ce2fc622dfd798fb1030f5ec287"
+    },
+    {
+      "show_id": "1533574623",
+      "rss_path": "datasets/fiction_research/rss/1533574623.json",
+      "rss_sha256": "d3f0ca0e68e908fa04d16f04893aaa83fac820313aed9372d0ffac9e4e7856bc",
+      "show_record_sha256": "61c999980fd9a69fc128966d8b4538ecaadb8c53a05388e6555e12779929eebf"
+    },
+    {
+      "show_id": "1534696440",
+      "rss_path": "datasets/fiction_research/rss/1534696440.json",
+      "rss_sha256": "882ffde2a56a2a777d4f54b342cacdc30661d63f4fa2a82d2ff36648ab537749",
+      "show_record_sha256": "76ef13ce5ea88f5bb6e4d9ee9aa4abee8fc72163829f0d23563055ef2d23327d"
+    },
+    {
+      "show_id": "1534951495",
+      "rss_path": "datasets/fiction_research/rss/1534951495.json",
+      "rss_sha256": "83a7193712f0032c99dd8c5e835c4aad1359b19d255652d2e8dd9b0054b78faf",
+      "show_record_sha256": "b4a4ba2d985ee7dd4cb214b9c7a9abe6c226669614dd9ef6e8e0bed87536cb59"
+    },
+    {
+      "show_id": "1535206991",
+      "rss_path": "datasets/fiction_research/rss/1535206991.json",
+      "rss_sha256": "9e63ed367b70580ac1d0dd4d6ddc4a54f1d5ff8ad34c61c876014fb64238d7be",
+      "show_record_sha256": "40b58c2786f193b80edaff616012b092ee613eb170852e10af97e16cf3695753"
+    },
+    {
+      "show_id": "1535333231",
+      "rss_path": "datasets/fiction_research/rss/1535333231.json",
+      "rss_sha256": "920ef94040f0f4bd5bb1a09ffd73cee950dabf0957ec57d89acdf2b4e8c485c1",
+      "show_record_sha256": "c52a2b76c708a9a25f804b747d4be9e66f8057bdeba632c749bcb2df318e8d29"
+    },
+    {
+      "show_id": "1535401310",
+      "rss_path": "datasets/fiction_research/rss/1535401310.json",
+      "rss_sha256": "c8bf8f46e91fe414f774510469e2162e335f758f721af9c5ce8290b110298d3b",
+      "show_record_sha256": "34437ed38839b75592600e3a87820170312b0aeba040909b25827cbb874dce15"
+    },
+    {
+      "show_id": "1536149213",
+      "rss_path": "datasets/fiction_research/rss/1536149213.json",
+      "rss_sha256": "e1cd36e0821280cebe62500483643e37a9ad9fa44ab434861cb550aef520449c",
+      "show_record_sha256": "4a7ccafc0b874b798a7d6f82a36ae731ae83db4489d1907a572dc2597a7fe078"
+    },
+    {
+      "show_id": "1536572081",
+      "rss_path": "datasets/fiction_research/rss/1536572081.json",
+      "rss_sha256": "6460ea1f2df4588b93c193528216537302af0459a1ca57f128960f9796d392e0",
+      "show_record_sha256": "d45bbdeea3edf823b6f635480fc775d5728fb7ac8cc05d3d34f55916609cf964"
+    },
+    {
+      "show_id": "1536681393",
+      "rss_path": "datasets/fiction_research/rss/1536681393.json",
+      "rss_sha256": "6afd52831beb322ba2e447f795dcf79f980c5f1709b96668658c3922a4523546",
+      "show_record_sha256": "dc02a1bac9283d9736fd814cff47f0b512cec46ba13b54bcf02bcb6dadd4c752"
+    },
+    {
+      "show_id": "1536763609",
+      "rss_path": "datasets/fiction_research/rss/1536763609.json",
+      "rss_sha256": "731de5a38d760d0fb20f4b75176c856c14c4e2b66f40e1496e8d34dc030238c0",
+      "show_record_sha256": "2bb8f42aaf8a52fc93909a6ba1bd7a12173526636945bd8b78984a397f1a1640"
+    },
+    {
+      "show_id": "1536985876",
+      "rss_path": "datasets/fiction_research/rss/1536985876.json",
+      "rss_sha256": "ee5587527a85fbc8319f42cbceb6b0993c292765c069f09701a9f53e26018666",
+      "show_record_sha256": "932f01f5e2f80ae01079059c49f84044ef2daf11cfec69eaf475b66624e7196e"
+    },
+    {
+      "show_id": "1537722943",
+      "rss_path": "datasets/fiction_research/rss/1537722943.json",
+      "rss_sha256": "6d1b5e755a05134ca0892ebdbce855d89a346f01aeca62079055dd480fe21a0c",
+      "show_record_sha256": "67ffcf280693c6e5b60c2c2069d329924c7ba84048e2c75d95ddf2afd5cd14bb"
+    },
+    {
+      "show_id": "1538145683",
+      "rss_path": "datasets/fiction_research/rss/1538145683.json",
+      "rss_sha256": "4a63836513df85f7f806f45aa8da026bf0ed1bef8b23f24ca11ad3d85aed024b",
+      "show_record_sha256": "aaf5cd0e43530c23284e7bebe039f5ef5bd8fa3db1c36e2b075bbc924a055080"
+    },
+    {
+      "show_id": "1539014348",
+      "rss_path": "datasets/fiction_research/rss/1539014348.json",
+      "rss_sha256": "c196425b988947fcc946c7b4bca3b445cc47db6446e6bdf7172b1b1cdaf7a2a4",
+      "show_record_sha256": "a9e97bdc77396c3366b676e21c492ead9228ff6f13af48fc02bc4947387a3b77"
+    },
+    {
+      "show_id": "1539315654",
+      "rss_path": "datasets/fiction_research/rss/1539315654.json",
+      "rss_sha256": "175f40b0c2cbd8e2b5d4963679e1f121f3af83f13de69855811047615a494fc2",
+      "show_record_sha256": "9cda4bb0f968cfbe93f0139d725e603108123775ad5ea39ba556e52e58bfbe27"
+    },
+    {
+      "show_id": "1539559038",
+      "rss_path": "datasets/fiction_research/rss/1539559038.json",
+      "rss_sha256": "fadc72f6441e14b360e79091b02dbf0f8d1efec8b8baffad9f06fa1288f85eb9",
+      "show_record_sha256": "ada534205e192e7799f372f3756fced729e99d514dc27c6fe3a9275e533c21ab"
+    },
+    {
+      "show_id": "1540213670",
+      "rss_path": "datasets/fiction_research/rss/1540213670.json",
+      "rss_sha256": "357b364b45f10311da08a621b655759c9bd331fa7146cb73387170acd57da822",
+      "show_record_sha256": "2ad8dd1b4ba8f121e35dc777d5a36cde9771f54641e8df86ac06210d915ee158"
+    },
+    {
+      "show_id": "1540415842",
+      "rss_path": "datasets/fiction_research/rss/1540415842.json",
+      "rss_sha256": "a448514d6f7ca6a1069dee49746ff5053a051c8f0249db5d5239bcbb3bdb1bad",
+      "show_record_sha256": "9c0981109fa0313e50a23bfe5d3e500ccae2599fbe55abeb6645baed5f3be965"
+    },
+    {
+      "show_id": "1541273122",
+      "rss_path": "datasets/fiction_research/rss/1541273122.json",
+      "rss_sha256": "bb648f50cab0969ffa6a12cf470601bc03919c24ee840b8aab38e56aa15eba83",
+      "show_record_sha256": "1a0f771027e05eea74c95c7625fdf5f5aed861dce1b2abf2872aacca4b986430"
+    },
+    {
+      "show_id": "1542796941",
+      "rss_path": "datasets/fiction_research/rss/1542796941.json",
+      "rss_sha256": "0a508ca4dcd3c9839a374eaa16691c05c87468020afeac257a9fdb3d064a6969",
+      "show_record_sha256": "32a32f541594c16edb3f3cf5c5f144577ede79aea76cc60eea75593ebc0fe7d5"
+    },
+    {
+      "show_id": "1543332946",
+      "rss_path": "datasets/fiction_research/rss/1543332946.json",
+      "rss_sha256": "93258d367e4544241e0444bf6399ba81c0b2feaeba1b5121ba0a429135621df1",
+      "show_record_sha256": "5337b8d1698eebc943c34186aee09ac17e12f88734ab6f54fa95a0738a669058"
+    },
+    {
+      "show_id": "1543400506",
+      "rss_path": "datasets/fiction_research/rss/1543400506.json",
+      "rss_sha256": "dbff3bb99f77da4adbe9aae1daa658b4306836a494f8fe77d942c28d8258c9e8",
+      "show_record_sha256": "6a0d88840502459c53d463b946404542a85f3a004263c94f3ca75358ce444170"
+    },
+    {
+      "show_id": "1543587303",
+      "rss_path": "datasets/fiction_research/rss/1543587303.json",
+      "rss_sha256": "a1b33ae3302bd5d23d9155430144ac3832f23b75e0cac2dcaaeed12587654ef8",
+      "show_record_sha256": "2e794da06d8e2be09365ecdaeb08a791d9653590e5e5f12489632b2461ced9e0"
+    },
+    {
+      "show_id": "1543663382",
+      "rss_path": "datasets/fiction_research/rss/1543663382.json",
+      "rss_sha256": "8d275afe89c376ae2c7802ef1a3813b10f1e5e576c63200585fd88b5a6d8f4b0",
+      "show_record_sha256": "13847f8e8181587a716735c85d4fd6c636eb7feb12f58e81cf0e0f8272121361"
+    },
+    {
+      "show_id": "1544216753",
+      "rss_path": "datasets/fiction_research/rss/1544216753.json",
+      "rss_sha256": "0eae53cf2ca5ec775b92acb78564f46c33ab148636b08e8e3c7556f55ad19dd0",
+      "show_record_sha256": "b12764f51b7f18207d05e33be20a0caec509c170302132ed4ddbcaab3e689ecf"
+    },
+    {
+      "show_id": "1544368764",
+      "rss_path": "datasets/fiction_research/rss/1544368764.json",
+      "rss_sha256": "f4cdbd0e036eab0b88e0f9040dc979825c31a055db6f08b5f84f83351317be73",
+      "show_record_sha256": "e42de105854cba0bdf7476ec0997f3acf734d128c974bd6edf140eaf1a382f5d"
+    },
+    {
+      "show_id": "1544382987",
+      "rss_path": "datasets/fiction_research/rss/1544382987.json",
+      "rss_sha256": "a5ab1145245fff4afad9dc6be184c0c4c1d45feb57f1a4fcffcd832b2891492a",
+      "show_record_sha256": "e69631f7e02d2022417e10e55a5bba0675cce6ee58c503c4f492ba2d07e3cc88"
+    },
+    {
+      "show_id": "1544463635",
+      "rss_path": "datasets/fiction_research/rss/1544463635.json",
+      "rss_sha256": "e139c3fb721b795bcbb2089eaa437a8e2643c306cf233f5bea5f340f6e4081e1",
+      "show_record_sha256": "2ba9ae13816e5e5914b959eba2ebe7d71e044859d8479bce088d33e6083870e1"
+    },
+    {
+      "show_id": "1544738841",
+      "rss_path": "datasets/fiction_research/rss/1544738841.json",
+      "rss_sha256": "05d15f8e90a1b8540b4eee4fea6dd1b4e426e9ef32b137a7a6c4262422fc1006",
+      "show_record_sha256": "e87b5050568d7547ed977252d0daf4aa8d0525728e995ebd49fb9e91aefc4c48"
+    },
+    {
+      "show_id": "1545564522",
+      "rss_path": "datasets/fiction_research/rss/1545564522.json",
+      "rss_sha256": "560c88ed3840fe631ffecf0f27482343aa3de968c5e4e802c0c2cbcb359ba3ec",
+      "show_record_sha256": "a446d8d8908d13d7ce0124fc67999c4373e25d429d382f47ac47f246d5b8db1f"
+    },
+    {
+      "show_id": "1545864039",
+      "rss_path": "datasets/fiction_research/rss/1545864039.json",
+      "rss_sha256": "11512c5a168a716b67119cc07f58389e3774ec1c8a279e857284c59429ccb451",
+      "show_record_sha256": "43ed0c96188c8b4ce6a90393b2e0dc9554838bc450a51f1149f8795d0305ad18"
+    },
+    {
+      "show_id": "1546031266",
+      "rss_path": "datasets/fiction_research/rss/1546031266.json",
+      "rss_sha256": "c71abbab2c13dc3868e628648d4e5b466fa2f612e0e15836956c363289b6a331",
+      "show_record_sha256": "8335ba06e255913a8bedd6b318ff87cff75dd9fbd1da29f2db9ee73ae0e04995"
+    },
+    {
+      "show_id": "1546202225",
+      "rss_path": "datasets/fiction_research/rss/1546202225.json",
+      "rss_sha256": "fd1dcc07943a782bf0c91112bb8652937011297421c6b6cf6619034e69a54260",
+      "show_record_sha256": "28a53883d4c78ca5410088babb59bf3adf242b4cbc299a1d33c447c58443856b"
+    },
+    {
+      "show_id": "1546688507",
+      "rss_path": "datasets/fiction_research/rss/1546688507.json",
+      "rss_sha256": "20578ad86e3ca18ded5bd26e634bffe5014afb3201696b8b3aa5419550ac7e57",
+      "show_record_sha256": "845aa1fc0456f81d694e803717c4c47df6c963479976088b12ef9b406330a723"
+    },
+    {
+      "show_id": "1548663662",
+      "rss_path": "datasets/fiction_research/rss/1548663662.json",
+      "rss_sha256": "faec207691745dfe981f983650a84a5124d479884668832ac6349346197d0920",
+      "show_record_sha256": "6c07a931dfd550a056cb678d94aa1d07b502958306752760d9977c9d6da27fde"
+    },
+    {
+      "show_id": "1549532681",
+      "rss_path": "datasets/fiction_research/rss/1549532681.json",
+      "rss_sha256": "bcfa837eedf999889b325070a272c5826b85f6e0c7d98843cdd1ff42d13b9b06",
+      "show_record_sha256": "0ea67bb7d7feeea2ad15d24e8bb1a9fd9f3a78444f9de72a278c992681661bfe"
+    },
+    {
+      "show_id": "1550542389",
+      "rss_path": "datasets/fiction_research/rss/1550542389.json",
+      "rss_sha256": "3cdb4280d9c7fefee5e20b3b1ca9d6d74f0903af2c9c7afc47d068a5d5c15c1f",
+      "show_record_sha256": "de5d7dfef74c55d0c0133fd896137d1afc10e31be11fc7fbbc6106a1f5b55889"
+    },
+    {
+      "show_id": "1550576946",
+      "rss_path": "datasets/fiction_research/rss/1550576946.json",
+      "rss_sha256": "08e165cd665dd8367eb485bd04f22f7537530e5a07e58a50c9e6136dc5c93f58",
+      "show_record_sha256": "3c79ba383ed20a42b7747fdbcf80aaf519e433b33e44a125c6a8c0c028d625c0"
+    },
+    {
+      "show_id": "1550735071",
+      "rss_path": "datasets/fiction_research/rss/1550735071.json",
+      "rss_sha256": "8ef71040996429c4ba2820aae05e79236cfa5a251dd25c79b925fe075062aafc",
+      "show_record_sha256": "635fe88d1ef4eac79f77a7d7af4ff689bc439d4603aadbf3d97e247edde5aa46"
+    },
+    {
+      "show_id": "1552336518",
+      "rss_path": "datasets/fiction_research/rss/1552336518.json",
+      "rss_sha256": "c021f8732789f61b7deae2ff077e3b375998e6c40cd6b8716153d73a3ed98633",
+      "show_record_sha256": "b85a31b8c76454cdce35b96dd2e2fb24d9dc88600851c88195e862ca6aeb4975"
+    },
+    {
+      "show_id": "1553047414",
+      "rss_path": "datasets/fiction_research/rss/1553047414.json",
+      "rss_sha256": "5ee983dbcbb4f51103f08ad86d1d89786d4cf602f653a97c037f98dc52b031f9",
+      "show_record_sha256": "8707eb8c759d069cf95a751236e621425ece4001e8d72898764aeaa45627d996"
+    },
+    {
+      "show_id": "1553203963",
+      "rss_path": "datasets/fiction_research/rss/1553203963.json",
+      "rss_sha256": "eb777741ca6d3108ac29f033ce55639f884282411310e05c36add56e928aa473",
+      "show_record_sha256": "ffbe5889acdae4415673d300d3f8420cab0000d070ca316b7b675810dc5be6e5"
+    },
+    {
+      "show_id": "1553555632",
+      "rss_path": "datasets/fiction_research/rss/1553555632.json",
+      "rss_sha256": "f68abb7aa22613615d6b89df69d984c688826b38c702814b39097844b3399b56",
+      "show_record_sha256": "08d5522327ecec447f0eeabf8390084b1b84fee7860983f9b7836d89bc14cdf9"
+    },
+    {
+      "show_id": "1553866399",
+      "rss_path": "datasets/fiction_research/rss/1553866399.json",
+      "rss_sha256": "4cc1509a628402b8c66f58fef00183058086b3215ba7bbb4fbe99a4a15ed63a6",
+      "show_record_sha256": "2a32aae846f0e702ace90b74043c24787f7acd85060554d56cc12b87824c3364"
+    },
+    {
+      "show_id": "1553868323",
+      "rss_path": "datasets/fiction_research/rss/1553868323.json",
+      "rss_sha256": "0fda9505e3a0c878950ade6fd57a0e8aa69fd7726756163aa4b0855e7953044f",
+      "show_record_sha256": "658f8c343b24f4665321a00716a7b4bb71cf82340d6bbce551217664d1bf5196"
+    },
+    {
+      "show_id": "1553905772",
+      "rss_path": "datasets/fiction_research/rss/1553905772.json",
+      "rss_sha256": "211e3d0f0ff9fa4eb3e6cdaf633229a24cc3a38a3c898f7e8b0d768b4982c9f4",
+      "show_record_sha256": "43fa845ceba9b011ac9e4b6dfcccb12a02a70045d2d9ecf6523edd20768aa810"
+    },
+    {
+      "show_id": "1554031793",
+      "rss_path": "datasets/fiction_research/rss/1554031793.json",
+      "rss_sha256": "4853d7f7c008660491c344aa2bc54360c02b5fe693a0ca7e3f969d03e99d0b66",
+      "show_record_sha256": "9b739c846106178a642726f46afac08725f388c10d5b8428de479f9c58d67b4a"
+    },
+    {
+      "show_id": "1554737413",
+      "rss_path": "datasets/fiction_research/rss/1554737413.json",
+      "rss_sha256": "c7d9624191c43d2c7dbef1f364bb69f228545f62b6cb6c8d1a5bfb31b1435323",
+      "show_record_sha256": "41cadb40e09513e97acff5a5682f7a91449648f2d3e7185d90c340d987df67f7"
+    },
+    {
+      "show_id": "1556777037",
+      "rss_path": "datasets/fiction_research/rss/1556777037.json",
+      "rss_sha256": "c9d51a3661cb3fa2dfd3fa9fd480653b0811483b69969a231684f8656dedd82e",
+      "show_record_sha256": "49118b3a08b57c9a1b2b2826ebf77b368e6ce8dbbe5d88ece17ad8fc8243eb84"
+    },
+    {
+      "show_id": "1557180247",
+      "rss_path": "datasets/fiction_research/rss/1557180247.json",
+      "rss_sha256": "92277eee717d14561b68065bcb153fb41599de555d45bab04bc7071c696e8ce8",
+      "show_record_sha256": "a0e349a56befd4746075b59afe1a54bba4ba0b0c7404c4534937d56d93e51b51"
+    },
+    {
+      "show_id": "1557424167",
+      "rss_path": "datasets/fiction_research/rss/1557424167.json",
+      "rss_sha256": "e5e17a87e5f059eefe3fe8f1485cf0c01b1240bcb7003695fe4a78b290bcdc27",
+      "show_record_sha256": "159d3cac1ac94e61fc8990564bf1a469c6473c21a413a60fde1434cb48ce40e1"
+    },
+    {
+      "show_id": "1561086430",
+      "rss_path": "datasets/fiction_research/rss/1561086430.json",
+      "rss_sha256": "faaa213e3bdbc298d37622e364d017299abc057ccb9a117280c77c36324d0097",
+      "show_record_sha256": "a0dd0b91ea8494a9e73c473b206bb7ee46de45a0740f519b3e5bb18949d5ae8d"
+    },
+    {
+      "show_id": "1564620897",
+      "rss_path": "datasets/fiction_research/rss/1564620897.json",
+      "rss_sha256": "70463fdac9950c5e11ec6a39e8564a0fcdeceaf82949f2b2301aa92405048487",
+      "show_record_sha256": "e088b6619ac67951daa7f37d6f8e9aa64548d6ee893fd35421dbbeb9cd8d4865"
+    },
+    {
+      "show_id": "1565906036",
+      "rss_path": "datasets/fiction_research/rss/1565906036.json",
+      "rss_sha256": "c80c70e207262ff6bc79e51db88b1a5e97bb4b5dc07b4d5cbc9d5c3f36fde268",
+      "show_record_sha256": "0e64f2e0063f0f618930722d8301fec27e3b0e0f86450551e94cd14c33b2d67c"
+    },
+    {
+      "show_id": "1566860993",
+      "rss_path": "datasets/fiction_research/rss/1566860993.json",
+      "rss_sha256": "afcf65cbdf6097f2334d27633439ba39fa7b1124fe9c78c9ab799767af418681",
+      "show_record_sha256": "163968fa9aa58d3ab30454420d73baba233320fa541890f4c213ff709281ebde"
+    },
+    {
+      "show_id": "1567737823",
+      "rss_path": "datasets/fiction_research/rss/1567737823.json",
+      "rss_sha256": "114dce9a00aa42174a5c87a7fa100f6286b93482a82df84b31b73f1409056c14",
+      "show_record_sha256": "50ac6c74130b730b611beb5a56ae14b3ca868f716f4879cf4f653cd10b3d04c4"
+    },
+    {
+      "show_id": "1568929087",
+      "rss_path": "datasets/fiction_research/rss/1568929087.json",
+      "rss_sha256": "f6ee38878d65a47519b3875c2fb34e016cd405ab5381e8a5315e259cb83f0dbe",
+      "show_record_sha256": "d8296078a6a48d51ba9b3d9bdc2be81a824d7c25bf06c3a1df44bf2cffb843b5"
+    },
+    {
+      "show_id": "1569761303",
+      "rss_path": "datasets/fiction_research/rss/1569761303.json",
+      "rss_sha256": "59472bb57032d5aa25b1df6e16a42565b69d4541c4e48acf4ca4654a861e75f9",
+      "show_record_sha256": "2259d7af392e8cc8d2e030df4ab310dffdcdcc6a67116b30e965bf26ee243082"
+    },
+    {
+      "show_id": "1575373406",
+      "rss_path": "datasets/fiction_research/rss/1575373406.json",
+      "rss_sha256": "76b350cb6fc4000847eb9ca4cf25e3e0f5ee14767290d1c286f5515de8156ee3",
+      "show_record_sha256": "6742e8b21044bc6bbaf88599ee0fb852fdaca9a6aa9c2b0ccedd076cbab4391e"
+    },
+    {
+      "show_id": "1575840532",
+      "rss_path": "datasets/fiction_research/rss/1575840532.json",
+      "rss_sha256": "f9bc7fe4794ee836d2286e61343f2ee3ebd6987fc875672df081b8c9410f3918",
+      "show_record_sha256": "b689eda0435797ef26173e0a85c4b099a888ed0134f566d45e1a1490d441a582"
+    },
+    {
+      "show_id": "1577493020",
+      "rss_path": "datasets/fiction_research/rss/1577493020.json",
+      "rss_sha256": "599c5b314a1fcbf1cc9170ecfdc306ec1ed2a59f7250078042c074119679795c",
+      "show_record_sha256": "e7087f7446eb3b514d09d0e4c8f5c00cc182adba714f4d13e4e18d698d06a331"
+    },
+    {
+      "show_id": "1578100157",
+      "rss_path": "datasets/fiction_research/rss/1578100157.json",
+      "rss_sha256": "c4ec3110be808c3eff2d329beea24d3e5a1e18769f6c4a08794b8e92cbffcee2",
+      "show_record_sha256": "1e6941843522ced951a06d45fa7556660a045a5221b28e21c7416a43f1af73ba"
+    },
+    {
+      "show_id": "1578213878",
+      "rss_path": "datasets/fiction_research/rss/1578213878.json",
+      "rss_sha256": "fa14e1e3bfff53ae0e35e3bf7043bc41174bc7f7ba9cf9a9463b71329c58921d",
+      "show_record_sha256": "4d320eb2bab34552d4e505cb636f62d325b9b79b90defeb68e1cc561f73414a3"
+    },
+    {
+      "show_id": "1581352532",
+      "rss_path": "datasets/fiction_research/rss/1581352532.json",
+      "rss_sha256": "ec42303fb15f4b1eb5402e4959009ad44cd9aa9ae16cbf4d0f3644c8ff015469",
+      "show_record_sha256": "234f71a34c19dcf74386cb65b838d6a8d082fad789fb2bded2872104aea29673"
+    },
+    {
+      "show_id": "1581957622",
+      "rss_path": "datasets/fiction_research/rss/1581957622.json",
+      "rss_sha256": "78295e1c438f52890fb34e9f04bac2b83fec306b00b276b737c2ed50edb70363",
+      "show_record_sha256": "6db4b7d8c59ca8fcfe74acc06343acbb0a1d1153a83fbc4f9874f1ad63ba9921"
+    },
+    {
+      "show_id": "1582621175",
+      "rss_path": "datasets/fiction_research/rss/1582621175.json",
+      "rss_sha256": "6a8dbccd0e584d82997fc83fe4daf1278615c5bc138e7c7e10f3f2582234d9bc",
+      "show_record_sha256": "3905a425e8df67d71c1ba86ba67d43ea1b7a2a70ac5af43be5c7ee01be4c9377"
+    },
+    {
+      "show_id": "1583478399",
+      "rss_path": "datasets/fiction_research/rss/1583478399.json",
+      "rss_sha256": "39179addefecb54436176f9b54d9f80572340f6d7a7bee9ae7322c95b87a0881",
+      "show_record_sha256": "ad1e0d0dd4076c473ca70ad7bb04d441916975ba0cc6e461d05dc7c74cc9a8ea"
+    },
+    {
+      "show_id": "1583730370",
+      "rss_path": "datasets/fiction_research/rss/1583730370.json",
+      "rss_sha256": "1a27864f90dfe342cb39f85b78e650912442e1838bf9048387056e09cec33c24",
+      "show_record_sha256": "1197b0b2fe8b32d9e2ad651ba8694f3072f7ea6bdc19a38bc8d4aa49ca61aab9"
+    },
+    {
+      "show_id": "1584777741",
+      "rss_path": "datasets/fiction_research/rss/1584777741.json",
+      "rss_sha256": "8e87ff489e639b052611f3aabe126f40a3d460938dba323c6bbc35bb4d73954e",
+      "show_record_sha256": "7b4e2ab7970ed5f734222b0ae215117ba68b7fe44867342c7353f33e83a556bd"
+    },
+    {
+      "show_id": "1585467547",
+      "rss_path": "datasets/fiction_research/rss/1585467547.json",
+      "rss_sha256": "dbbe873e1c89b9dc059eac6da4ace14f9e3e38ae4dd8b1e1576a60f53d6f2cca",
+      "show_record_sha256": "9f61e3ff42f84602c5f55cf93d6f8e06dd04c4601cd6a2a4cbe35bdbc65328dd"
+    },
+    {
+      "show_id": "1585467941",
+      "rss_path": "datasets/fiction_research/rss/1585467941.json",
+      "rss_sha256": "a47ad72db6748edb13bac1d75e39f22e5d047b2cf4b89bec36439adf9892622b",
+      "show_record_sha256": "89e1ee612ed22794ed4bcc2f7a7197feb61fb4a6574329048bb876318cda372f"
+    },
+    {
+      "show_id": "1585542669",
+      "rss_path": "datasets/fiction_research/rss/1585542669.json",
+      "rss_sha256": "4056ae662487650decb3dc4febbb46d7a0aa4ea1401367ba7e7723a6ca634223",
+      "show_record_sha256": "822a12084cd68fddda30355d1c6ede2f6788c02b1b825d7d6f752f8479a5c9b9"
+    },
+    {
+      "show_id": "1587709573",
+      "rss_path": "datasets/fiction_research/rss/1587709573.json",
+      "rss_sha256": "052adaefa17deabd17b26fa7c39595db7dac18ce98a4dd4bfa405f9961852c92",
+      "show_record_sha256": "b01ae2143e866274e591640631be6e4ef2f837c244119ac1a0147a93f2e80384"
+    },
+    {
+      "show_id": "1587907611",
+      "rss_path": "datasets/fiction_research/rss/1587907611.json",
+      "rss_sha256": "44686f963a3794155b4811498457773c8848353c920006d8f7cd08be9211e6b9",
+      "show_record_sha256": "02b20f2eaf8cf729e9046c47d20d4f6a25844533afab549c4b10753c685d97d5"
+    },
+    {
+      "show_id": "1588299412",
+      "rss_path": "datasets/fiction_research/rss/1588299412.json",
+      "rss_sha256": "84148a88a9cba5bc039833dcb3e216feb3a13548f08cf5b11da02626e666b93c",
+      "show_record_sha256": "cf080c462004ecb54dcda27e56b8710ea764335e4e5fa3ed6ef1b4491b7a1f4d"
+    },
+    {
+      "show_id": "1590670330",
+      "rss_path": "datasets/fiction_research/rss/1590670330.json",
+      "rss_sha256": "149d69091e577e0df7f73280f02918f7de9eb5bb0db48b81066fe86ebb795bcc",
+      "show_record_sha256": "55bd79e7e5ae1dca5470b483a306e7000e857d2e6df3ac352b616db40fc5d90a"
+    },
+    {
+      "show_id": "1591143998",
+      "rss_path": "datasets/fiction_research/rss/1591143998.json",
+      "rss_sha256": "f1926f48eb317d0eac2d619e896a2cc6e14650901b57f70c7e165bd03fcecd27",
+      "show_record_sha256": "c01b08f0fe7373b12f56e84c24ee2fa5ed39b7bfb91d7405b7081bb1c877d41b"
+    },
+    {
+      "show_id": "1592227299",
+      "rss_path": "datasets/fiction_research/rss/1592227299.json",
+      "rss_sha256": "49e55eda8f4d27e2664047ca297b12ba9ef6741bf3da0ca69822ede7fe745f34",
+      "show_record_sha256": "1615416a3505f734d1b6295a4a5de488c90e3e7a29dea088379ca9e55e33663f"
+    },
+    {
+      "show_id": "1592882364",
+      "rss_path": "datasets/fiction_research/rss/1592882364.json",
+      "rss_sha256": "a4e502ba09cfe64a2084a6cc8206fab5de56a51c785c6f576c757ac50ae3b040",
+      "show_record_sha256": "17ea9c9da3e3c43a1cb78efb42d20e2ff399b89f2caa27d0b20b981b9012c1cc"
+    },
+    {
+      "show_id": "1593444877",
+      "rss_path": "datasets/fiction_research/rss/1593444877.json",
+      "rss_sha256": "6da3303af38350c0e4fa65e7bb321d6fa6cec19684d1fcccb08aaaa17da670bf",
+      "show_record_sha256": "9ba7c47b958b6efdea10f60db5f09348f9336fe4d9b997432e3e63d81bf4eedc"
+    },
+    {
+      "show_id": "1593571618",
+      "rss_path": "datasets/fiction_research/rss/1593571618.json",
+      "rss_sha256": "36c7b0428f36deefeb859411908ddf2c1865d2213cf891d3afd19474516a1415",
+      "show_record_sha256": "dc282699257764ddf14e217f57072108a11ff7b04abd17d8ac6dfebafaaf59ea"
+    },
+    {
+      "show_id": "1594109647",
+      "rss_path": "datasets/fiction_research/rss/1594109647.json",
+      "rss_sha256": "0c32845c9d31b0b79b217cc5c4b201d39bf9e9e19db34c5ab18fd13a20960280",
+      "show_record_sha256": "25251922272b6ff84e3b80bca2951dde9ceed6af8bf4ebf6c53b8c03aee740db"
+    },
+    {
+      "show_id": "1594755394",
+      "rss_path": "datasets/fiction_research/rss/1594755394.json",
+      "rss_sha256": "a58f76b3e7ed3bb1ab2620f77b47b496ace85b7055b938c6113dfcb218b76624",
+      "show_record_sha256": "3f4526a928e21c8881d7e82477f819a24fd3da439c1003e1ef5baf5dcb0435cf"
+    },
+    {
+      "show_id": "1594997937",
+      "rss_path": "datasets/fiction_research/rss/1594997937.json",
+      "rss_sha256": "4367732ab46167e05ed0dc4af8d8040be926fbd68e871be79baefbce86a4bd11",
+      "show_record_sha256": "6c0b4b4d310a8b7c0b0fbf538abbf52e01886364fa06428dd5883ad64d5a88c2"
+    },
+    {
+      "show_id": "1600827323",
+      "rss_path": "datasets/fiction_research/rss/1600827323.json",
+      "rss_sha256": "6ecefb4876442de7249f684ac1b4f54170a04a296585f13ebeef9d70e667e9ab",
+      "show_record_sha256": "7eae3abe8e9b686deb27fd258671a69f0d74681d6a71542231ad224936b1dc24"
+    },
+    {
+      "show_id": "1601807508",
+      "rss_path": "datasets/fiction_research/rss/1601807508.json",
+      "rss_sha256": "bca42ded36624884f95f393b40bf4159e7cb9d6cb504b3070119f0f6a9099200",
+      "show_record_sha256": "61123898eaf1481e5316dadaa71800d9f3382789c397212391cd4c7f42556d1b"
+    },
+    {
+      "show_id": "1601820243",
+      "rss_path": "datasets/fiction_research/rss/1601820243.json",
+      "rss_sha256": "5b026edf3656a3ebe144cf9b32f6448abac7b4d95f855e48906d3dc501574c4d",
+      "show_record_sha256": "39e2a5b282284afbe10f7f7bbf32eae01fb7675dde2af123628d88d6cb956c9b"
+    },
+    {
+      "show_id": "1602116892",
+      "rss_path": "datasets/fiction_research/rss/1602116892.json",
+      "rss_sha256": "fb585b301ce828d4cf1abd61ff190d6dfb8f869dff5450a8a4941eddd6968937",
+      "show_record_sha256": "1240975b811e29f56631d67f82d4634ceed7ffe62e1b9f711103aa943a188df4"
+    },
+    {
+      "show_id": "1607471085",
+      "rss_path": "datasets/fiction_research/rss/1607471085.json",
+      "rss_sha256": "73f5d5dc347d32b645fed1d59b3ed50ba756c0d6630a63ae0669d762283346dd",
+      "show_record_sha256": "177c42fbfba52c7105292038490adfbeb83070b13efaceb02b548ee440e41ef7"
+    },
+    {
+      "show_id": "1609546827",
+      "rss_path": "datasets/fiction_research/rss/1609546827.json",
+      "rss_sha256": "511824320c00e8cd7323dde62e5f2bcb0e27ef60d3afdd309b60b065514085a2",
+      "show_record_sha256": "34cb48ceb15a8817c8e79a5d56e91c091e045fc09df0a2bc5c6e5d64172b1c8a"
+    },
+    {
+      "show_id": "1609865280",
+      "rss_path": "datasets/fiction_research/rss/1609865280.json",
+      "rss_sha256": "651af1f32d551d48758a7ba55e8a92d671b882b5617f3f5c2c9066a17394c2fe",
+      "show_record_sha256": "9953a68e424fe6cd4d384360a206c36ac343a49e790ea02de203945c1767fff3"
+    },
+    {
+      "show_id": "1609907080",
+      "rss_path": "datasets/fiction_research/rss/1609907080.json",
+      "rss_sha256": "63c234eae38b8c5e6c9c8a7ee057b1c3b4fe12152f107575ac86d877e39a1336",
+      "show_record_sha256": "f8d314f741da1f1ddb12bebc00c34f806ecacf33b21b6a174b7a731d15390d41"
+    },
+    {
+      "show_id": "1610998931",
+      "rss_path": "datasets/fiction_research/rss/1610998931.json",
+      "rss_sha256": "77ebe70055f8407f53702b3797fe43a790039932f2a1f1636ed656a11ccfbcf8",
+      "show_record_sha256": "679fb8f7db8e4475517b4c9b48a36ac7544628bda92d753e907b581d53b0e524"
+    },
+    {
+      "show_id": "1611335573",
+      "rss_path": "datasets/fiction_research/rss/1611335573.json",
+      "rss_sha256": "6da879dabca962395487b8cf9f44612ba47abe32a9eb77954e0a2e665962f013",
+      "show_record_sha256": "8228d2266ac61ae0916a02df643e7dcd7bd1422f2d9b93f1feb4a7d7700460a1"
+    },
+    {
+      "show_id": "1611335858",
+      "rss_path": "datasets/fiction_research/rss/1611335858.json",
+      "rss_sha256": "8f82b5c0b1095e02a38dbb6727a1945a71e967bc9535d7ccff50f14edb43bd61",
+      "show_record_sha256": "f10ef341f81242a4bd46087311c38573489ada460eeb3a56888c000cd47df0d9"
+    },
+    {
+      "show_id": "1613142547",
+      "rss_path": "datasets/fiction_research/rss/1613142547.json",
+      "rss_sha256": "5daa75a84ce57d1895ed06543d2ca694b312ed13da116eb175ebfab3e4637b0a",
+      "show_record_sha256": "253a0a8032fa4ce1611d5d8b3480566b272e0c837f25ee84791245699ead17d4"
+    },
+    {
+      "show_id": "1613424924",
+      "rss_path": "datasets/fiction_research/rss/1613424924.json",
+      "rss_sha256": "d9a78f8c9eb4280f9d12964cb92005c8802c2868a317ac39570802377ed8cd6e",
+      "show_record_sha256": "94fb1774625014eb1c9e956722f99016571e20bfb2eb2ec32ce6d182a7b77c89"
+    },
+    {
+      "show_id": "1615563149",
+      "rss_path": "datasets/fiction_research/rss/1615563149.json",
+      "rss_sha256": "a0def0a18f85c8e7b2810a64b0802e666bdac3e82e0f671afef571394da9d700",
+      "show_record_sha256": "316c892c916c48891465c527c668c6fc24b3230c69edbf964922f1f4c2a7f4fa"
+    },
+    {
+      "show_id": "1617646036",
+      "rss_path": "datasets/fiction_research/rss/1617646036.json",
+      "rss_sha256": "b55d0f5fbddf493c133bddcdc11b93ee0ff1bc9d8794d2eb88c40a377fabd76b",
+      "show_record_sha256": "17ac25491162d74843ada03d02fc035a62a6f7a9fbd1abbfafbeda27ee466e94"
+    },
+    {
+      "show_id": "1619452667",
+      "rss_path": "datasets/fiction_research/rss/1619452667.json",
+      "rss_sha256": "f92c327da462fca16747f766f565a725f5763721159772df1d7c6e5079a9563f",
+      "show_record_sha256": "3365b8a02e66599c2d08845d212c7a5adc993d6e11381df585dfb5ef1a833d07"
+    },
+    {
+      "show_id": "1620495606",
+      "rss_path": "datasets/fiction_research/rss/1620495606.json",
+      "rss_sha256": "aa854a7de041ef3a2e778f98b44a5dd9a2020448eb8e88f757cfd5a7f951234b",
+      "show_record_sha256": "3a672763aa12fdbca39ac7fed7f9f4f30ffa8893c742ec036a5e129d57bf9346"
+    },
+    {
+      "show_id": "1622970390",
+      "rss_path": "datasets/fiction_research/rss/1622970390.json",
+      "rss_sha256": "840166a26e513948dc61fddc4433e69ac6c7ebc1a426d8c2e76aca7dfc8b897b",
+      "show_record_sha256": "c09a6b1d3f26d3988b7497e41051ce29b510ada80a8e830bed79409e3450f497"
+    },
+    {
+      "show_id": "1625045157",
+      "rss_path": "datasets/fiction_research/rss/1625045157.json",
+      "rss_sha256": "e65764c5cd4c923b8ebf78ebe1db280db0cb1a4bfde113f1c18af26d914817eb",
+      "show_record_sha256": "14b867a3450d69fc4aa573c3d90ad2632e3a783d7ff167e5f9d2762849383c20"
+    },
+    {
+      "show_id": "1626401345",
+      "rss_path": "datasets/fiction_research/rss/1626401345.json",
+      "rss_sha256": "d4a5f154fd712e06c91859572691e0feb0f1508530f2b1599421e298ee1e1705",
+      "show_record_sha256": "2c9e3fa6e646f93ea3e28a5901ab7d28baef0198326738ccd230ccba46abc175"
+    },
+    {
+      "show_id": "1627412636",
+      "rss_path": "datasets/fiction_research/rss/1627412636.json",
+      "rss_sha256": "86f1239188eaf3c326ce8ef409af8e58947f670dd169c5e998842e5ea0e82158",
+      "show_record_sha256": "ea712d1dc1cc5ad6c9d5411db54653c96613cb5d829c258c0ffc37b189f90994"
+    },
+    {
+      "show_id": "1627714579",
+      "rss_path": "datasets/fiction_research/rss/1627714579.json",
+      "rss_sha256": "c80f480d401625aa8a700b1573b331ad6fcd4c7cdde53122ad74ec5170316b91",
+      "show_record_sha256": "6a2acb8289f70589a6ce2028e299820d9c330210570a9695d9e4f7719b11eaf0"
+    },
+    {
+      "show_id": "1630645740",
+      "rss_path": "datasets/fiction_research/rss/1630645740.json",
+      "rss_sha256": "4bcc4d96abca8d2824ee505cdac3003a04eaf846cca26119e0229055a3fc9cf3",
+      "show_record_sha256": "4570fd142458563e1fcf6218e34d419ff2f65e361b6484eb3b49da750da8a60e"
+    },
+    {
+      "show_id": "1632464679",
+      "rss_path": "datasets/fiction_research/rss/1632464679.json",
+      "rss_sha256": "7269c9eea04627cc16cd1052a176ee753591117b25b165ef42fe12a1a825e117",
+      "show_record_sha256": "06318237040da03b02a2900610ba1fbf774979c29722057df56c0b93feb45ba4"
+    },
+    {
+      "show_id": "1632849082",
+      "rss_path": "datasets/fiction_research/rss/1632849082.json",
+      "rss_sha256": "984f3caf081f1ad56737bbabdb4395b5ba3b8fb34573d9f51ed0e3661215910a",
+      "show_record_sha256": "be9fb8b3b81cb6eafe912a85a06ea385f333dd332088a89ebb128eb5e1f188a2"
+    },
+    {
+      "show_id": "1634067184",
+      "rss_path": "datasets/fiction_research/rss/1634067184.json",
+      "rss_sha256": "7bbbb55f28ea2941bc4bdfee29c346bd630c222c1553903330f3670782758274",
+      "show_record_sha256": "49d0d5daa568127d8a2a8382951797d4cf34fc7b6a5baeec6a9416100b3a622c"
+    },
+    {
+      "show_id": "1635296295",
+      "rss_path": "datasets/fiction_research/rss/1635296295.json",
+      "rss_sha256": "d71bf94eff5a854f0a53382aa72a860d95587974e39aafafe13651bbc019fea5",
+      "show_record_sha256": "eba6b4ac31a8e40c2434fbe1bc9320b7562645bc2d4c563e4be392aebed74cdb"
+    },
+    {
+      "show_id": "1637926796",
+      "rss_path": "datasets/fiction_research/rss/1637926796.json",
+      "rss_sha256": "856124901314738329284c302008c336c7d2cba8b423ff3ef690da5617f6d3ed",
+      "show_record_sha256": "6f271878ecf863c23fe8703b41ef00cd5e7be036d07204b2818bf348808d7702"
+    },
+    {
+      "show_id": "1638226871",
+      "rss_path": "datasets/fiction_research/rss/1638226871.json",
+      "rss_sha256": "b52e05d074fa240721095c955a8a75b5ccd54569f82a6958d658fb09ad83d9f1",
+      "show_record_sha256": "b0fd33cb879701637415b0105d33a4831d873b1ccd67e5959e526f95b967d36c"
+    },
+    {
+      "show_id": "1638254355",
+      "rss_path": "datasets/fiction_research/rss/1638254355.json",
+      "rss_sha256": "99cffe0b0698e3dd94c8b88a05719669704cc8c60c9c27bc7c67e59ba7079fb0",
+      "show_record_sha256": "1861d951b3eee1cc3f578cf4b78b435871786cbbd068e4c900ec24d136996fd7"
+    },
+    {
+      "show_id": "1638269446",
+      "rss_path": "datasets/fiction_research/rss/1638269446.json",
+      "rss_sha256": "f901ef163f5fbaeaed3baf3e63628acf570e7effaed9fca90989978973e3f549",
+      "show_record_sha256": "92dae58061c17f0872a612ca50ea4e4dcddcdaa954f1930b3062961cbdeb4298"
+    },
+    {
+      "show_id": "1638363421",
+      "rss_path": "datasets/fiction_research/rss/1638363421.json",
+      "rss_sha256": "22914bfa14e34842a5dbf8c7a72be9f2a70a2cde0a0bcd2ffc50678cd2239438",
+      "show_record_sha256": "46b01fe8d9bd1e8029dc5ca14e72b9eb71a84e9c4bb0893a3d7f21b314426044"
+    },
+    {
+      "show_id": "1638509074",
+      "rss_path": "datasets/fiction_research/rss/1638509074.json",
+      "rss_sha256": "ce4fdff6c1736fe03b4e434c330c7574bf21a7c594a5b0973e1adb82c56c610b",
+      "show_record_sha256": "8f672a7d80d0ca9e6446056eee3c4c6862e9fe60767e08a03d43541093798869"
+    },
+    {
+      "show_id": "1639242682",
+      "rss_path": "datasets/fiction_research/rss/1639242682.json",
+      "rss_sha256": "b20f28b740d64c5fdb59df6085c9e54d88d59d1cac5273c9f398ae914ef6ef33",
+      "show_record_sha256": "1224d7ccbca417e14cbe207f98ce255ceabe1a118269d2f44fca3b65302d0f55"
+    },
+    {
+      "show_id": "1644822163",
+      "rss_path": "datasets/fiction_research/rss/1644822163.json",
+      "rss_sha256": "f281d7d56555190873b4da7ab0fb6d1cd41f3c73635c82478cb7acdf53173ecb",
+      "show_record_sha256": "4dac5dd13d6a194d6898c9e59fe36bf3cdfd078eda3938f13e6505485d58131e"
+    },
+    {
+      "show_id": "1644886179",
+      "rss_path": "datasets/fiction_research/rss/1644886179.json",
+      "rss_sha256": "770aa606616de751388c56d9fa85384fd6d74d0cf52f9c6a2f37fee76dc56b4a",
+      "show_record_sha256": "fdf5497bf02628b7921def41c6ba79afebf79c08a461845949cdc9170854778b"
+    },
+    {
+      "show_id": "1646039586",
+      "rss_path": "datasets/fiction_research/rss/1646039586.json",
+      "rss_sha256": "d675c0659cd78c197efd6aeebf614a4bd88647b7aa3b55d586aaeb6c5b1e893b",
+      "show_record_sha256": "b7861cef2cdc3ff5a78658b30618f8bc77ae8a18bcc9b1d4f568a08282d45c53"
+    },
+    {
+      "show_id": "1646436736",
+      "rss_path": "datasets/fiction_research/rss/1646436736.json",
+      "rss_sha256": "8924e90194be5abb261f7c87ff838bf2197d043735c107fbc9ae21aef65b8870",
+      "show_record_sha256": "af43ef8f4376043dd79f7a671c6f307d2a8e2d2e710a920fe40830bc88ad3e45"
+    },
+    {
+      "show_id": "1646843374",
+      "rss_path": "datasets/fiction_research/rss/1646843374.json",
+      "rss_sha256": "b97bb83a24c0dc7125c350e7651129e0dec980e882214585046480cb38c85adb",
+      "show_record_sha256": "89b3ac1f62bbf39beb7c2477f27da1c168cf1854fd3afde266e7b0e1fd1ca18d"
+    },
+    {
+      "show_id": "1647497900",
+      "rss_path": "datasets/fiction_research/rss/1647497900.json",
+      "rss_sha256": "5960f2d13c74ce7ae575803e444705a3b8c9e1d32b17a3fb74a9b5b710501b49",
+      "show_record_sha256": "897a2c54142e812d0cba3953e86fa1c02cba761416e8772e2458aa979d9fbd13"
+    },
+    {
+      "show_id": "1650338181",
+      "rss_path": "datasets/fiction_research/rss/1650338181.json",
+      "rss_sha256": "faa6fdfcfe65758e3a29a27816c2c10c865736ed57c199d104f5fe854a3659e2",
+      "show_record_sha256": "66394371a4a341841d7315831952499cdd490f1b7661ff187246ae7daa9cadaf"
+    },
+    {
+      "show_id": "1650846791",
+      "rss_path": "datasets/fiction_research/rss/1650846791.json",
+      "rss_sha256": "99616f59be632957ed430727d012eedf13a832a5c2cff5c931d7bc4cd24f7327",
+      "show_record_sha256": "3304f6d166825a802b3a69581df122e2bd8f4479abe054bd41051be81239386f"
+    },
+    {
+      "show_id": "1650988978",
+      "rss_path": "datasets/fiction_research/rss/1650988978.json",
+      "rss_sha256": "3ade3259d23508285016e613c050409946bf3e9719093b288381fe8236ba3193",
+      "show_record_sha256": "20978adcb7051212a0a7f4a9a07ba829cd3c07a16df790b152706fce48dcb9ab"
+    },
+    {
+      "show_id": "1651150279",
+      "rss_path": "datasets/fiction_research/rss/1651150279.json",
+      "rss_sha256": "ab027f87acd89c5da3a2625e863c9f44ca6af614ba0c06a0d55a50c50858cbd3",
+      "show_record_sha256": "a60e151af06df6573d8c89d6a7555f0940c51d350ce5eed513f51a4da959500b"
+    },
+    {
+      "show_id": "1654311391",
+      "rss_path": "datasets/fiction_research/rss/1654311391.json",
+      "rss_sha256": "cfcef39584062d94d2e3a34d80dadf283f19fe0260acaf66d41750a2c35673d5",
+      "show_record_sha256": "770d88ab90ca9b6e7e4e0124463ea23beec9932f03ca7f670b391263724e0cad"
+    },
+    {
+      "show_id": "1671329509",
+      "rss_path": "datasets/fiction_research/rss/1671329509.json",
+      "rss_sha256": "2b7c0ff6a3c5c2e49502aaaed0e13ca3bb1c7a26d08f49f5fc1455138f0ca297",
+      "show_record_sha256": "906d63930374022369d4fae79f608dc0b3a2e5186bd9e4830febc010cdc45c9f"
+    },
+    {
+      "show_id": "1672852848",
+      "rss_path": "datasets/fiction_research/rss/1672852848.json",
+      "rss_sha256": "83cf030bd092ceb8c96eb30aaafe756cc8feb75be8f30d7879a06898e9b89b73",
+      "show_record_sha256": "8f9106ebbf6fe5f85585c7c94d9ce252ac5cf63ec76d1e72408676259624612a"
+    }
+  ],
+  "files": {
+    "datasets/fiction_research/release/blind-holdout-tasks.json": "7d79fe5c04fc720b9ec270979e4d4a5625fa85da96c59bbfa112b60d9bca9a92",
+    "datasets/fiction_research/release/human-labels.template.json": "cf3303c6cf99c69a773b85789b07369e65adcdd9ef3edfda4206f65951374721"
+  },
+  "independentMetricsAvailable": false
+}

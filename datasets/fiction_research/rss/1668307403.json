@@ -1,0 +1,42 @@
+{
+  "show_id": "1668307403",
+  "feed_url": "https://feeds.soundon.fm/podcasts/9b47c6ff-4ccd-44f3-8487-4b1dc9dd19b5.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/9b47c6ff-4ccd-44f3-8487-4b1dc9dd19b5.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/9b47c6ff-4ccd-44f3-8487-4b1dc9dd19b5.xml",
+    "fetched_at": "2026-10-25T14:45:06.845825+00:00",
+    "status": 200,
+    "sha256": "593fe67c1ac3fc6147ee627a80ff8897fab8b4586743abe9773ff41a144c20da"
+  },
+  "status": "ok",
+  "title": {
+    "text": "BL廣播劇《查禮訓》",
+    "truncated": false
+  },
+  "description": {
+    "text": "查家禮訓年28，任職於警察機構的公務員 「我眼裡沒有犯罪者的人權。」 自由奔放、任性霸道，身為署長的胃痛病因，查禮訓難道會告訴你，比起正義，他更愛「行使正義」才成為刑警嗎？ 當然，有然任性就得有人擦屁股，余鐵雄就是那個擦屁股的人。 「學長，你看報告這樣可以嗎？我還有寫英文版的。」 余家鐵雄年27，查禮訓的學弟以及…… 辦辦案子談談戀愛上上床，人生得意莫過於此吧。 黑蛋白 原著、錄音的結晶體吳世翔 錄製、貓與白松露工作室 出品 短篇廣播劇《查禮訓》全一集 ☆製作組☆ 製片&企劃：貓與白松露工作室 編劇：壹醬&草履蟲 配音導演：草履蟲&三葉蟲 錄音師：錄音的結晶體吳世翔 廣播劇後製：大黃與小夥伴 封面繪師：夜犽 ☆配音組☆ 雪花 飾 查禮訓 杜子羊 飾 余鐵雄 布魯麵 飾 署長 協力配音 墨莫 ──貓與白松露企業有限公司持有本廣播劇版權，禁止二次分享、二次修改、商業販售在未授權之平台── -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "yes"
+  },
+  "feed_item_count": 1,
+  "episodes": [
+    {
+      "id": "f516a890b2507ea435dc7e8ea85d8135c14d7e6721e8bd9648fd5c6f947b3633",
+      "guid": "efb4b877-3d82-4617-bd56-cdbd7cca4d14",
+      "title": {
+        "text": "《查禮訓》",
+        "truncated": false
+      },
+      "description": {
+        "text": "「我以後長大，要成為一個刑警！」 「學長，開槍是要寫報告的！」 ☆製作組☆ 製作&企劃：貓與白松露工作室 編劇：壹醬&草履蟲 配音導演：草履蟲&三葉蟲 錄音室：Loop Music Studio 錄音師：錄音的結晶體吳世翔 廣播劇後製：大黃與小夥伴 封面繪師：夜犽 ☆配音組☆ 雪花 飾 查禮訓 杜子羊 飾 余鐵雄 布魯麵 飾 署長 協力配音 墨莫 ──貓與白松露企業有限公司持有本廣播劇版權，禁止二次分享、二次修改、商業販售在未授權之平台──",
+        "truncated": false
+      },
+      "published_at": "Fri, 27 Jan 2023 16:00:00 GMT",
+      "feed_index": 0
+    }
+  ]
+}

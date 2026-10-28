@@ -1,0 +1,140 @@
+{
+  "show_id": "1184981897",
+  "feed_url": "http://rss.lizhi.fm/rss/1516830.xml",
+  "source": {
+    "url": "http://rss.lizhi.fm/rss/1516830.xml",
+    "final_url": "http://rss.lizhi.fm/rss/1516830.xml",
+    "fetched_at": "2026-10-25T14:47:54.464459+00:00",
+    "status": 200,
+    "sha256": "a39c8836fc736f83d96f50fa0327bde3d9ae995e7d25ebe54c651f873c40a9bf"
+  },
+  "status": "ok",
+  "title": {
+    "text": "语桐听艺术",
+    "truncated": false
+  },
+  "description": {
+    "text": "人人都是主播",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-CN",
+    "keywords": "",
+    "explicit": "yes"
+  },
+  "feed_item_count": 1334,
+  "episodes": [
+    {
+      "id": "7cbc1c85d26d64a9c5224288253f7962eb98e52e8e3e5603cf62515e64da65e7",
+      "guid": "http://cdn.lizhi.fm/audio/2018/03/31/2661231951134649862_hd.mp3",
+      "title": {
+        "text": "蓝围巾男人—18",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 31 Mar 2018 09:44:25 +0800",
+      "feed_index": 0
+    },
+    {
+      "id": "90f638e98edaa2d76c4a809ab91a6eeb6035c5a61f49663efd1760d9a4745bd2",
+      "guid": "http://cdn.lizhi.fm/audio/2018/03/31/2661181545398134278_hd.mp3",
+      "title": {
+        "text": "【艺术史】 大地艺术（G） 朗读：语桐",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 31 Mar 2018 03:16:26 +0800",
+      "feed_index": 190
+    },
+    {
+      "id": "5a2798c8da44bbe3dd5760eeef26c54a2e9f32d32bb16edbb8eb1b05be964748",
+      "guid": "http://cdn.lizhi.fm/audio/2017/12/12/2640960714809393670_hd.mp3",
+      "title": {
+        "text": "【艺术·短文】 我们离艺术消费有多远 朗读：译之",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Dec 2017 03:39:03 +0800",
+      "feed_index": 381
+    },
+    {
+      "id": "a788a7e7e0597164d798f7b193e00e688efaab1cfbde6f5ce6c2ca74b2585d2d",
+      "guid": "http://cdn.lizhi.fm/audio/2017/12/11/2640891426248772614_hd.mp3",
+      "title": {
+        "text": "【艺术史】女性主义艺术 5／6 朗读：语桐",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 Dec 2017 18:38:15 +0800",
+      "feed_index": 571
+    },
+    {
+      "id": "a1caf31b5165aac1b210f8d601f94577b553683716234a2abbf1f2ef975edf6f",
+      "guid": "http://cdn.lizhi.fm/audio/2017/04/05/2594545127800822278_hd.mp3",
+      "title": {
+        "text": "海德格尔 艺术的本源 朗读：Aida",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 5 Apr 2017 23:45:40 +0800",
+      "feed_index": 762
+    },
+    {
+      "id": "918e9b8e1e93c2a87aae304e236ca31207a0c560eb0f7bf8dd01d69352318c0d",
+      "guid": "http://cdn.lizhi.fm/audio/2016/12/05/2572041880519781382_hd.mp3",
+      "title": {
+        "text": "【哲学与艺术】礼数之忧 朗读：语桐",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 5 Dec 2016 16:56:28 +0800",
+      "feed_index": 952
+    },
+    {
+      "id": "b418b848cc001a775e82a03a91b46287bfff76ba22eb63ff11ef7377c05987d5",
+      "guid": "http://cdn.lizhi.fm/audio/2016/07/23/2546890565147964422_hd.mp3",
+      "title": {
+        "text": "【读书】《原本的真实》—2 朗读：刘芳",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 Jul 2016 03:45:59 +0800",
+      "feed_index": 1143
+    },
+    {
+      "id": "71723387094a70b97fa0b4403ef3650e308a42e017026ed20055c600b84a3c71",
+      "guid": "http://cdn.lizhi.fm/audio/2015/12/17/25067412396104582_hd.mp3",
+      "title": {
+        "text": "当代艺术的主题－1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 17 Dec 2015 20:09:16 +0800",
+      "feed_index": 1333
+    }
+  ]
+}

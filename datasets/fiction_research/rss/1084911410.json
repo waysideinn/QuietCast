@@ -1,0 +1,112 @@
+{
+  "show_id": "1084911410",
+  "feed_url": "http://www.ximalaya.com/album/3613053.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/3613053.xml",
+    "final_url": "http://www.ximalaya.com/album/3613053.xml",
+    "fetched_at": "2026-10-25T14:46:57.637718+00:00",
+    "status": 200,
+    "sha256": "0aba9f4a3c15e83db26167060a4645d50e7d2e1af2163c9b522face58160652f"
+  },
+  "status": "ok",
+  "title": {
+    "text": "舌尖上的家乡味",
+    "truncated": false
+  },
+  "description": {
+    "text": "我的家乡要上头条！！那些萦绕舌尖久久难忘的味道，快来听听大咖主播们的家乡味吧！！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 6,
+  "episodes": [
+    {
+      "id": "3e16e62a7001737d52754e8153da301905427308b57817483dae205aade94711",
+      "guid": "https://aod.cos.tx.xmcdn.com/group13/M03/F1/C9/wKgDXValzcLzQFu4AGdkrMvkcG4604.m4a",
+      "title": {
+        "text": "【山东烟台】口水直流三千尺，鲜货之城数烟台",
+        "truncated": false
+      },
+      "description": {
+        "text": "我的家乡要上头条！！那些萦绕舌尖久久难忘的味道，快来听听大咖主播们的家乡味吧！！",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Jan 2016 07:25:04 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "143f9bedd46af776ae5ab0a1f68119036145412ae2e52799193ed8985470659c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group11/M08/FC/AB/wKgDbValv1CBZaZvAFagjMtt044307.m4a",
+      "title": {
+        "text": "【山东潍坊】让口水眼泪同时奔涌的年饭味儿",
+        "truncated": false
+      },
+      "description": {
+        "text": "春节将至，“U anchors”主播做地陪，聊聊家乡的一切，这样的旅游秘籍不是哪里都能听到！",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Jan 2016 07:27:10 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "0e49cb21c8a44d7f103665e3431c363169ef866ee072ab4e2c56bc8cde2747a1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group11/M09/E3/A1/wKgDa1alt9OhkXw_AFx4qmLPtgU120.m4a",
+      "title": {
+        "text": "【陕西咸阳】饿货！芈月请你来吃Biángbiáng面",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Jan 2016 08:57:11 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "9eb5b05a34b51cc87fa6d1ad6f58337b5c525f434e8bda3c7f98604446aa6376",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M0A/F1/7D/wKgDZlalvBXgdDJ6AE59dUav9uA127.m4a",
+      "title": {
+        "text": "【安徽淮南】连皇帝陛下也欲罢不能的“救驾神汤”",
+        "truncated": false
+      },
+      "description": {
+        "text": "春节将至，“U anchors”主播做地陪，聊聊家乡的一切，这样的旅游秘籍不是哪里都能听到！",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Jan 2016 07:24:55 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "62e8014da48f057c220e3db5346fa2b4143cd600167d63312b0b33a80402fc8f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M0A/F1/54/wKgDYlaluBfBPNkjAFHwsHiJAjc825.m4a",
+      "title": {
+        "text": "【湖南常德】在桃花源里流连忘返的不是隐士，都是吃货！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Jan 2016 08:58:14 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "6e6d37facc34a04906455ca0dab016e7939840f9e9934660e968b259f26bc665",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M03/F1/80/wKgDZlalwKzTyBAFADxw0f0rCRY992.m4a",
+      "title": {
+        "text": "【安徽阜阳】送“大雁馍”给爸妈，玩的就是走心",
+        "truncated": false
+      },
+      "description": {
+        "text": "春节将至，“U anchors”主播做地陪，聊聊家乡的一切，这样的旅游秘籍不是哪里都能听到！",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Jan 2016 07:26:01 GMT",
+      "feed_index": 5
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1613466840",
+  "feed_url": "https://feeds.soundon.fm/podcasts/ced16a0c-dec2-4999-9dc7-aa8a76aa06df.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/ced16a0c-dec2-4999-9dc7-aa8a76aa06df.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/ced16a0c-dec2-4999-9dc7-aa8a76aa06df.xml",
+    "fetched_at": "2026-10-25T14:55:20.147015+00:00",
+    "status": 200,
+    "sha256": "fb953e83ffe3b5a5126be13cbab156569960443c49481665b08bceb9b64f4360"
+  },
+  "status": "ok",
+  "title": {
+    "text": "同同同學",
+    "truncated": false
+  },
+  "description": {
+    "text": "《同同同學》 S2作為一名寫作初心者出發，觀察文學圈或文學作品， 持續寫點有趣的故事，心得分享，閒聊，也許有些訪談(未來)。 IG/Threads: jonathan7988 也歡迎大家可以去聆聽《愛呀哎呀 Oops It's Love》 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 49,
+  "episodes": [
+    {
+      "id": "5afefd3eb5f791652820e96bb65f3f5b89e832256181057318a8f6004ed47388",
+      "guid": "000d7995-143c-4362-9fe0-02dc2d1c19c7",
+      "title": {
+        "text": "S2EP26｜你決定用什麼姿態參與一件事，決定了你參與那件事的姿態。（我不是在家裡，就是不在家裡。）",
+        "truncated": false
+      },
+      "description": {
+        "text": "主持人：同同 鏡文學人氣獎投票，謝謝我的朋友們： https://millionnovel.mirrorfiction.com/ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Oct 2026 13:23:03 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "2568cca0e9c48caaf85fdcc67d1d71cc341682ea709f934f92b5a2a231634dca",
+      "guid": "df3af9e8-13b9-4c70-a19d-08373fe0e9f4",
+      "title": {
+        "text": "S2EP19｜興趣能不能當飯吃？發現自己其實天賦普通時，還要繼續努力嗎？",
+        "truncated": false
+      },
+      "description": {
+        "text": "主持人：同同 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 18 May 2026 09:52:14 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "8193b72aae54036bf2fe1f4fae144f0b41f4329807e38325474899efa6b4e239",
+      "guid": "e3ab33fc-73c6-4859-b83d-1b1ca8aa0db3",
+      "title": {
+        "text": "S2EP12｜《金曲共創實境秀》16位音樂人48小時共同創作，李詠恩狡詐智取，隊員打手機遊戲反倒成為獲勝關鍵。",
+        "truncated": false
+      },
+      "description": {
+        "text": "主持人：同同 《金曲共創實境秀》｜16 位金曲音樂人 48 小時極限創作！ https://youtu.be/mtJMKRgH27Y?si=-A7AafadrCJ71V58 （以下介紹來自YouTube） 🎤 呂士軒 × 葉穎 × Dac × 林漢庭： 在享受美食中誕生的〈I swear today〉，從假笑到真心，展現創作最激烈的火花。 🔥 春艷 × Soft Liu × 子霆 × CCFU 嘉富： 用〈我想要活到18歲〉唱出台灣交通日常的荒謬與青春的不安。 🎧 柯泯薰 × 李詠恩 × 莫宰羊 × VITZ： 〈聽見了〉從一隻離去的貓開始，最後成為一首療癒又誠實的歌。 🎸 SOWUT × 思嘉 × 李宗軒 × 洪惟農： 從 freestyle 到 full band，他們用彼此的玩笑和節奏，把陌生變成信任，讓音樂自然長出 groove。 (02:32) 呂士軒 × 葉穎 × Dac × 林漢庭 (12:05) 春艷 × Soft Liu × 子霆 × CCFU 嘉富 (19:06) 柯泯薰 × 李詠恩 × 莫宰羊 × VITZ (27:00) SOWUT × 思嘉 × 李宗軒 × 洪惟農 (33:17) 我玩樂團的小過程 (35:00) 樂團常見的創作形式 (38:02) 寫小說不用妥協vs玩樂團的妥協 (40:30) 融合各種創作的想法往終點前進 -- Hosting prov",
+        "truncated": true
+      },
+      "published_at": "Wed, 26 Nov 2025 13:53:08 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "42be30946835e14a42ec314a3a8680a7941d85ad04060c7dae53372175de4d4d",
+      "guid": "099919e1-8e57-43f6-8de8-eaca13e90b61",
+      "title": {
+        "text": "S2EP5｜「鄧觀傑！什麼時候回來寫小說！」我讀首獎中的首獎作品〈樂園〉—你心底最深刻的恐懼是什麼？",
+        "truncated": false
+      },
+      "description": {
+        "text": "主持人：同同 如果有一個屬於創作者的鬼屋，身為創作初心者最大的恐懼是：撇除那些鼓勵之詞，你其實知道，根本沒人對你有所期待。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 07 Oct 2025 14:44:56 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "a232046a844e84cb15d28750f51c3030227be5355fbdbbdf04c2bd8e8bfa74b6",
+      "guid": "c4966dde-7268-4a62-89bb-60e390d02407",
+      "title": {
+        "text": "《美麗新世界》－深思理想世界背後的醜惡與矛盾",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集說書：阿Ｊ 你心中的理想國度，是什麼樣子呢？ 沒有戰爭、沒有病痛、沒有犯罪、沒有貧窮、沒有饑餓的社會夠好嗎？ 生活在一個美好的烏托邦，就能使人內心富足而平和嗎？ 而塑造一個完美世界的方式，是藉由教育，讓世人變得良善而無私嗎？ 《美麗新世界》是赫胥黎1931年創作的反烏托邦作品，或許以小說的精緻度而言略顯陳舊古板，但背後對於政治及人性的寓意，在當今社會局勢中，仍能帶來深深的啟發。 或許達到「穩定的平和愉悅」真的只有一種方式，剪斷夢想的羽翼，箝制思考的自由，讓人們成為無為享樂主義的禁臠，成為空白盲目的俘虜。 如果讀完這本書，內心感到騷動難安，那麼恭喜你，你還擁有自由思考的能力。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 01 Jun 2022 15:32:48 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "209dc7c97c8340ba28d6fe2ea8f7da36dbaa31f49278eab08a8660fb92156580",
+      "guid": "d18916ad-cd0f-44a7-a06e-8cf2b3626ec1",
+      "title": {
+        "text": "《錢買不到的東西：金錢與正義的攻防》－你想要一切都待價而沽的社會嗎？",
+        "truncated": false
+      },
+      "description": {
+        "text": "IG: tung_learning 本集說書: 同同 「為什麼錢買不到一切，因為你的錢不夠。」 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 27 Apr 2022 00:00:28 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "302d8b8e196adccdd1fe97b7a0ccda2fc9435059ff0ad7c4c68c05b8d019ccb4",
+      "guid": "ce5a457a-e54e-4126-b8aa-c09cb5009f14",
+      "title": {
+        "text": "《深井效應：治療童年逆境傷害的長期影響》｜書後討論",
+        "truncated": false
+      },
+      "description": {
+        "text": "主持人：同同、炯哥 回到愛的理論，如果「熊」不是跟你住在山洞裡，而是就住在你心裡？ IG: tung_learning -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 30 Mar 2022 00:01:42 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "a952327d929f519a827e338d84720259dc795ace7fff6096151f91ab9e91cd14",
+      "guid": "d53a0ca3-d734-4154-9dbd-ef383661b36e",
+      "title": {
+        "text": "《愛的藝術》－愛不只是感情，而是需要磨練與學習的能力。",
+        "truncated": false
+      },
+      "description": {
+        "text": "IG: tung_learning 本集說書: 同同 《愛的藝術》在1956年出版，到現在已經65年，被翻譯成34種語言，全球銷售超過3000萬冊。 作者佛洛姆是一個人本主義哲學家，同時也是精神分析心理學家。 如果想要了解愛，一定要讀過這本書， 如果懶得讀，一定要聽同同同學幫你整理， 如果不想聽同同同學，那一定要去聽愛呀哎呀。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 13 Mar 2022 07:20:45 GMT",
+      "feed_index": 48
+    }
+  ]
+}

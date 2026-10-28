@@ -1,0 +1,140 @@
+{
+  "show_id": "1462841121",
+  "feed_url": "http://www.ximalaya.com/album/9603357.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/9603357.xml",
+    "final_url": "http://www.ximalaya.com/album/9603357.xml",
+    "fetched_at": "2026-10-25T14:41:46.268833+00:00",
+    "status": 200,
+    "sha256": "fd4539837ebfa428baa9cada61ee23f0275f17aeb48192dad7a1959d869a44f5"
+  },
+  "status": "ok",
+  "title": {
+    "text": "一书一心得：总裁陪你读书",
+    "truncated": false
+  },
+  "description": {
+    "text": "导师介绍： 暖心honey姐 ·毕业于西安交大；资深互联网产品大咖 · 国家二级婚姻家庭咨询师 ；接受过 央视采访 的婚恋心理咨询机构 创始人 ·曾任职于 世界500强企业管理层 ；现兼任 两家公司CEO ·喜马拉雅《高情商社交攻略》、《一书一心得》签约主播， 拥有百万粉丝 · 畅销书《决定上限的是你的情商和格局》作者 ，由内而外提升格局，突破思维局限，活出更优秀、更无畏、更有魅力的自己。 ...",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 98,
+  "episodes": [
+    {
+      "id": "bf15b9b879e7e0df13d065b167ee4ec1330539f8a49e0484a5af93af9a063a55",
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M01/EF/E1/wKgO2F49AbXx5KpzAEk9N1dID2Y146-aacv2-48K.m4a",
+      "title": {
+        "text": "《好的婚姻，要守护财产和爱》：你不知道的婚姻彩礼问题",
+        "truncated": false
+      },
+      "description": {
+        "text": "女人到底应该嫁给爱情还是金钱呢？在面对婚姻问题时要从哪些方面去考虑才能最大程度上获得幸福的生活？联系我的小助理 lianaichengzhang006 让我们的老师帮你分析处理，添加还可 免费获取8本女性高价值书籍 哦！ 获取节目文稿关注公众号【 高情 商心理课堂 】",
+        "truncated": false
+      },
+      "published_at": "Fri, 07 Feb 2020 12:00:27 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "92feb9f3029b9023708aea1b03e574e9fc71c1dfd6dbb756bfcc13453e406abe",
+      "guid": "https://aod.cos.tx.xmcdn.com/group69/M04/4C/80/wKgMeV279sOjh916AMYB-qw2UtE842.mp3",
+      "title": {
+        "text": "《决定上限的是你的情商和格局》：我们如何才能更好的活着",
+        "truncated": false
+      },
+      "description": {
+        "text": "感谢大家的收听，双十一要到了，我们准备了很多的课程、电子书、还有小礼品想要回馈给亲爱的粉丝，大家可以添加小助理lianaichengzhang006了解和领取哦。",
+        "truncated": false
+      },
+      "published_at": "Fri, 01 Nov 2019 12:00:26 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "9a45583bdb1452f6ae202dd3bbf10136c2e94f13152fcdaa93ac5769e3a11e05",
+      "guid": "https://aod.cos.tx.xmcdn.com/group62/M07/16/02/wKgMZ10oU6PQBj5NANehmfu8-TQ104.mp3",
+      "title": {
+        "text": "《感受爱》男人爱不爱你，还看你有没有这个能力",
+        "truncated": false
+      },
+      "description": {
+        "text": "联系小编:lianaichengzhang006可获取更多情感电子书以及课程哦~",
+        "truncated": false
+      },
+      "published_at": "Fri, 12 Jul 2019 12:00:33 GMT",
+      "feed_index": 28
+    },
+    {
+      "id": "715553e0e5096d233676614d7e6067fb0782f3624a6607b356bb7a8757e35b95",
+      "guid": "https://aod.cos.tx.xmcdn.com/group57/M08/CF/D3/wKgLd1xbk6qABfrRAEAOQG8Htr0264.m4a",
+      "title": {
+        "text": "《恋爱读心术》：如何运用话术思维，让他爱和你聊天？",
+        "truncated": false
+      },
+      "description": {
+        "text": "遇到喜欢的男神，怎么才能让对方觉得自己有趣？ 聊什么话题，才能让对方爱上和自己聊天？ 怎么安排话，让对方愿意主动推进关系呢？ 这些你搞不定的情感难题，只要添加我的小助理微信;lianaichengzhang006, 让我们手把手教给你，快速得到男人心，让他爱上你。",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Feb 2019 12:00:05 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "f0d95f3fd0a851578f742fb160ce0447a8da3d1ef432420912cd5585f04c65d1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group51/M0B/43/CA/wKgKmlvW8qGjyrzuAPur2VogKBk022.mp3",
+      "title": {
+        "text": "《B选项》：恋爱不易，如何翻盘？",
+        "truncated": false
+      },
+      "description": {
+        "text": "有很多女生都咨询，挽回是不是非常难？ 可以肯定的回答“是的”，有一定难度，但因为你们是有感情基础的，你的身上是有吸引他的点的，而且你是熟悉他的，同等条件下，想要挽回一个男人，比搞定一个新的男人要简单的多。你只要自信起来，超越之前那个吸引他的自己。 当然挽回的过程中，要有特别的思维方式和行为模式，是“反直觉”，甚至“反常识”的。针对这个难题我们整个恋爱成长学会教研组研究上万个挽回案例，总结出一套挽回教程，添加我的助理咨询师微信[contact removed]，让我们专业的咨询师手把手教给你。",
+        "truncated": false
+      },
+      "published_at": "Mon, 29 Oct 2018 12:00:00 GMT",
+      "feed_index": 55
+    },
+    {
+      "id": "5de1f9317494032eacc1908518193e124b8be86def05d003e95f8666aee7c386",
+      "guid": "https://aod.cos.tx.xmcdn.com/group44/M06/62/DC/wKgKjFssuQHQlKp7ADvwSgPNM74271.m4a",
+      "title": {
+        "text": "《男人这东西》：聪明女人经营好亲密关系的秘密",
+        "truncated": false
+      },
+      "description": {
+        "text": "对于男人的很多想法，渡边淳一都在《男人这东西》这本书中淋淋尽致地刻画了出来，阅读这本书能够帮助我们更好地了解男生，做出合理应对。 好男人是被调教出来的，他们都要经历女人这所学校才能成长。 在爱情里男人一向很随性，想干什么就干什么，也不知道这么做对不对，而女人就是最好的老师，教会男人如何宠爱女人，如何做一个有担当的男人。那么具体要如何调教，男友才能成为24孝好男友呢？欢迎添加我的小助理微信[contact removed]，让我们的专业老师给你一个心理小锦囊，让你的男友时时刻刻把你捧在手心里，做你的专属骑士~~",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Jun 2018 12:00:01 GMT",
+      "feed_index": 69
+    },
+    {
+      "id": "b45ddead22f2b98f9a5ff0e19fdc7cf407bce0579d567f4bbe3c7ae959ea67d8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group42/M04/06/6F/wKgJ9FqTsYazD384AOyaZFH0-VU436.mp3",
+      "title": {
+        "text": "《思维的精进》：今年你的职场如何再上一个台阶？",
+        "truncated": false
+      },
+      "description": {
+        "text": "2018年，身处职场的你，肯定有很多想法和愿望，比如想要找到合适自己的行业职位，适合自己发展的平台，快速提升自己，然后加薪升职…… 这期节目，暖心honey姐借着和刘sir多年沟通中的总结，和大家分享下：想要在职场上再上一个台阶你要怎么做？ 职场上想要突飞猛进，也推荐大家看刘sir的《思维的精进》，让这位曾经做过民工，卖过保险，而今拥有多家公司的总裁教你如何搞定你的职场升迁路吧。 想要快速提升自己的情商，让周围人更喜欢你，拥有美好的生活和婚姻吗？请来恋爱成长学会，这里有众多优秀的情感大咖可以手把手指导你，带你脱胎换骨的蜕变哦。添加我们助理lianaichengzhang001,即可每天免费学习更多干货，每天进步一点，一年后相信你不止上了一个台阶！",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Feb 2018 12:00:02 GMT",
+      "feed_index": 83
+    },
+    {
+      "id": "a37e776f16df8b6174b0eb50cfa9ceb25176c8c933c56c6f660a379910934bd5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group35/M04/F3/88/wKgJnVoX7crBw1fgAGLPjDjrNSU693.m4a",
+      "title": {
+        "text": "《幸福的婚姻》：两人一起做做这个，爱情就事半功倍了",
+        "truncated": false
+      },
+      "description": {
+        "text": "很多女性朋友 都知道幸福的伴侣关系是经营出来的， 但往往依旧无法妥善处理情感问题。 这期节目honey姐就讲述一下《幸福的婚姻》中的7个幸福法则， 助听友们早日习得幸福的秘诀。 如果你想科学地、不走弯路地、达到幸福的彼岸，可以添加助理咨询师微信[contact removed]，让我们手把手教给你牢固关系的技巧。",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Nov 2017 10:06:11 GMT",
+      "feed_index": 97
+    }
+  ]
+}

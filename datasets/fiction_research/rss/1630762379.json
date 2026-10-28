@@ -1,0 +1,140 @@
+{
+  "show_id": "1630762379",
+  "feed_url": "https://www.ximalaya.com/album/68278930.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/68278930.xml",
+    "final_url": "https://www.ximalaya.com/album/68278930.xml",
+    "fetched_at": "2026-10-25T14:57:17.960254+00:00",
+    "status": 200,
+    "sha256": "7073d3a4983442d5a14f920c0641266be501ab05f9f0e2c0721c8a068bcd8fc2"
+  },
+  "status": "ok",
+  "title": {
+    "text": "猫城记 | 老舍生平唯一科幻小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "《猫城记》是老舍所著具有讽喻及科幻色彩的长篇小说。该书采用游记式的结构展开故事，用第一人称写作，以“我”飞离地球开始，以“我”返回地球结束，描述了”我“在猫国经历了一番奇遇。 内容简介 在小说中，“我”与同伴乘坐飞机到火星探险，没想到飞机坠落、同伴身亡，只剩“我”一人来到这陌生星球的古老国度——猫国。在猫国，一群猫人要抓“我”，“我”开枪吓跑了猫人，并被一个叫“大蝎”的猫人救走。原来，大蝎是一位地主兼政客，他救“我”另有所图：在猫国，有一种叫“迷叶”的粮食，吃了它就会精神振奋，因此猫人经常偷抢迷叶。但是，猫国人十分害怕外国人。所以，大蝎就想请“我”帮忙守卫迷叶。 “我”了解到猫国人原来也是正常吃饭的，只是在吃了迷叶后就不再吃饭，也不爱劳动，甚至都不洗澡了。“我”有一次跑到河里去洗澡，没想到大蝎竟然组织猫人来参观，并以此赚钱。“我”对此很生气，后来大蝎在收取迷叶时打了工人，“我”便让大蝎接受惩罚，使大蝎很不高兴。收好迷叶后，大蝎带人将其运至猫城，“我”也一同前往。在猫城，“我”发现了这个国度的诸多弊端：猫国的孩子第一天上学就已毕业，而且都是大学毕业；猫国校长以卖校产为生；猫国博物馆也被国家卖光，并以此作为经济支柱；猫国学者们经常互相诟骂；猫国也改革，但是只是听说外国改革了，自己也模仿着改……但是尽管猫城如此混乱，猫国人还是很快乐，每天在街上闲逛。 敌矮子国来犯，可政客们在讨论如何退敌",
+    "truncated": true
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 14,
+  "episodes": [
+    {
+      "id": "51c7a377b5317b7f9fca3f127d0904ad9d273e27616fa77530faad1392cc4fec",
+      "guid": "xmly_track_540814355",
+      "title": {
+        "text": "猫城记 自序",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Jun 2022 13:45:40 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "cce4d8a2ab357a052ba610aadbaf570b52aff0cfa288c702a2657fe5898869c3",
+      "guid": "xmly_track_541458477",
+      "title": {
+        "text": "猫城记 002",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Jun 2022 10:03:00 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "a8fdf97749ba848d77bd7ce990c5beb36fcddbe6d95a4c9d7bbd5de8971a3552",
+      "guid": "xmly_track_542632080",
+      "title": {
+        "text": "猫城记 004",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Jun 2022 23:27:00 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "00e44c895a3966bbf621e0247a65f46a5bd6b3a591a1fadb019dbaa3127993f4",
+      "guid": "xmly_track_543509164",
+      "title": {
+        "text": "猫城记 006",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 18 Jun 2022 10:18:00 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "cec193eeb0f9b9f00e25886a5242f8bb83a1ea6eb7c8d7cdd24d285d91090801",
+      "guid": "xmly_track_544134644",
+      "title": {
+        "text": "猫城记 007",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 20 Jun 2022 10:20:00 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "42ca75dfef84c1ede0c042e8dc1c627f3c051d4589d879880a4dc953b0d29e60",
+      "guid": "xmly_track_545265956",
+      "title": {
+        "text": "猫城记 009",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Jun 2022 09:35:00 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "0d0a5ff8565d726bee35bb425ffc76dcf2ce48db293664591d53ed06da06ba98",
+      "guid": "xmly_track_546134603",
+      "title": {
+        "text": "猫城记 011",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Jun 2022 09:38:00 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "e5e8d5120d4f5153802a5d235d0d3e5a2f472ea06de03fda270a4e4b6311993b",
+      "guid": "xmly_track_546992713",
+      "title": {
+        "text": "猫城记 013",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 02 Jul 2022 09:39:00 GMT",
+      "feed_index": 13
+    }
+  ]
+}

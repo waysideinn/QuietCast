@@ -1,0 +1,161 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/120774538.xml",
+    "final_url": "https://www.ximalaya.com/album/120774538.xml",
+    "fetched_at": "2026-10-26T07:58:17.009470+00:00",
+    "status": 200,
+    "sha256": "b32f7bf3c09c2661a4e3e4711c9a6ea2baa60db92daea3c239bdd0fa7eab7b0f"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "原汁原味西游记|第一季完结【关注主播听第二季】",
+      "truncated": false
+    },
+    "description": {
+      "text": "====第一季已完结，【关注主播】，快速收听第二季，另有《红楼梦》第一季全新放送中！==== 请随云少一起： 羡慕悟空，同情悟空，成为悟空，——超越悟空！ ---------- 保留原著的原汁原味，老少皆宜。 如果您的孩子沉迷手机短视频、网络小说，可以尝试让他们听听中国古典小说。毕竟，我们这一代都是在小学时就看着这些有趣的故事长大的，也没见的我们变得多么暴戾。 反观现在的短视频平台和儿童有声区，是否真对少年儿童有益？ 本故事用现代大白话进行了转译，老少皆宜，通俗易懂，兼备故事性的同时，去除了大量的非故事性内容。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "云少讲故事"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "云少讲故事"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Comedy Fiction"
+      ],
+      [
+        "History"
+      ],
+      [
+        "Kids & Family"
+      ],
+      [
+        "Kids & Family",
+        "Stories for Kids"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/120774538",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 51,
+    "episodes": [
+      {
+        "title": {
+          "text": "第1集：灵石育神猴",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_973285909"
+      },
+      {
+        "title": {
+          "text": "第8集：弼马温封官记",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 7,
+        "guid": "xmly_track_974137501"
+      },
+      {
+        "title": {
+          "text": "第15集：智斗擒妖猴",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 14,
+        "guid": "xmly_track_974505385"
+      },
+      {
+        "title": {
+          "text": "第22集：取经缘起之水陆法会",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 21,
+        "guid": "xmly_track_974505401"
+      },
+      {
+        "title": {
+          "text": "第30集：紧箍咒锁心猿",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 29,
+        "guid": "xmly_track_974505414"
+      },
+      {
+        "title": {
+          "text": "第37集：智斗黑熊夺袈裟",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 36,
+        "guid": "xmly_track_974505430"
+      },
+      {
+        "title": {
+          "text": "第44集：黄风岭妖现",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 43,
+        "guid": "xmly_track_974505442"
+      },
+      {
+        "title": {
+          "text": "第51集：顺渡流沙河",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 50,
+        "guid": "xmly_track_974505462"
+      }
+    ]
+  }
+}

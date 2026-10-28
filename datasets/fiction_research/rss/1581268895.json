@@ -1,0 +1,140 @@
+{
+  "show_id": "1581268895",
+  "feed_url": "http://www.ximalaya.com/album/51766365.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/51766365.xml",
+    "final_url": "http://www.ximalaya.com/album/51766365.xml",
+    "fetched_at": "2026-10-25T14:53:32.019005+00:00",
+    "status": 200,
+    "sha256": "090885bde06bd623320f659adf14d87bcd22dfa15c27a555d2a7957dc04180a3"
+  },
+  "status": "ok",
+  "title": {
+    "text": "马誉修谍战西游记|解密西游内斗",
+    "truncated": false
+  },
+  "description": {
+    "text": "著名西游记研究专家马誉修（马修鹏）继《商解西游记》之后的又一力作，喜马拉雅亲自讲解，严格按照《西游记》原著的故事发展顺序逐一解读，给你全面还原西游记的真相。作品不定期更新，喜欢的朋友，欢迎免费订阅，有更新时会收到通知~ 点顶部的“AI文稿”，可以查看作品文字稿件。 声明：《西游记》里的所有人物，包括如来、观音、文殊、普贤等诸菩萨，玉帝、老君、太白等神仙，都是代称，就是个名字和代号。作者只是用这些人物代表了各方势力和角色，就像金庸武侠小说里的人物，里面的乾隆不是现实中的乾隆，里面的朝廷也不是真实的朝廷。西游记里的如来观音玉帝这些人，其言行思维和现实中宗教人物没有任何关系，请勿对号入座。比如，唐僧就是西游记里的人物，他有作者笔下独立的性格和特征，和现实中的玄奘法师完全不是一个人，所以各位看官，别拿我讲解内容里的如来、观音和现实宗教中的如来观音划等号。 一部西游记，你看了几十年，是不是越看越迷糊？小时候看西游记，权当是看热闹；长大了之后再看西游记，却发现里边很多逻辑不通的地方，还有很多怎么想也想不明白的地方，百思不得其解！西游记，作为四大名著之首，绝对不是我们看到的打怪升级那么简单，也绝对不仅仅是你电视剧中看到的那些故事情节，这背后的内斗、机关算尽、谎话连篇，可能超出你的想象！微信交流群[contact removed]",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 146,
+  "episodes": [
+    {
+      "id": "7753bbc7ab9358fddf289e99ee7a41c19fc4422ade1acc85ae321c9ac24ea0b5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9758-audiofreehighqps/EB/0C/GKwRIMAIbLbXAFxxiQIuRfPu.m4a",
+      "title": {
+        "text": "石猴的出生称王和拜师过程，明显是被人在背后操纵，黑手到底是谁",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 07 Sep 2021 14:34:23 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "01c17d21bdcf9957bcb9d549d549e1a3e1976f4045fda3b326664c7184de7918",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/da94-audiofreehighqps/38/75/GKwRIUEIcDUQAFUkNQIvf1gH.m4a",
+      "title": {
+        "text": "错投成猪八戒的到底是谁，为何他大闹天宫以后只是被贬职处理",
+        "truncated": false
+      },
+      "description": {
+        "text": "错投成猪八戒的到底是谁，为何他大闹天宫以后只是被贬职处理",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Sep 2021 13:11:00 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "84f6ad83807e259164c8ba7ed1d8ce1a2230f8c42d0bc1b2efd5d034d07dc137",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0b93-audiofreehighqps/2C/E0/GKwRIaIFdtdLAGncNQD7tq-o-aacv2-48K.m4a",
+      "title": {
+        "text": "黄袍怪为什么要去宝象国认亲，还把唐僧变成老虎而不是直接杀死他",
+        "truncated": false
+      },
+      "description": {
+        "text": "黄袍怪为什么要去宝象国认亲，还把唐僧变成老虎而不是直接杀死他",
+        "truncated": false
+      },
+      "published_at": "Fri, 26 Nov 2021 17:07:09 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "1b16e5fee3b8f4158942f3f0e911c6bdf277a8535fea47f7391685aa90501bc3",
+      "guid": "xmly_track_498843845",
+      "title": {
+        "text": "西游世界最恐怖咒语，竟出自大慈大悲观世音之口，究竟是什么咒语",
+        "truncated": false
+      },
+      "description": {
+        "text": "西游世界最恐怖咒语，竟出自大慈大悲观世音之口，究竟是什么咒语",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Feb 2022 08:51:49 GMT",
+      "feed_index": 62
+    },
+    {
+      "id": "e645f0cba256f4eca46bd2b74d806873a146fd65d12b4a05aada85e5fd128121",
+      "guid": "xmly_track_504075366",
+      "title": {
+        "text": "荆棘岭树妖的后台老板到底是谁，这个神秘的大佬，最后又去哪了",
+        "truncated": false
+      },
+      "description": {
+        "text": "荆棘岭树妖的后台老板到底是谁，这个神秘的大佬，最后又去哪了",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Feb 2022 08:45:00 GMT",
+      "feed_index": 83
+    },
+    {
+      "id": "f7a1289a2fa15f69b07ba14f316315213fd42249ad194833f09747c44efecf05",
+      "guid": "xmly_track_518361349",
+      "title": {
+        "text": "唐僧在镇海寺病了三天，寺里就死了六个和尚，全中了老鼠精美人计",
+        "truncated": false
+      },
+      "description": {
+        "text": "唐僧在镇海寺病了三天，寺里就死了六个和尚，全中了老鼠精美人计",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Apr 2022 05:18:05 GMT",
+      "feed_index": 104
+    },
+    {
+      "id": "2a251bdbfbf0300fb3f0421ab40dd8a9eacd6851347405001de0dfd74f4e25cc",
+      "guid": "xmly_track_566348094",
+      "title": {
+        "text": "早期的西游世界是怎么诞生的？人、神、妖又是怎么诞生的？",
+        "truncated": false
+      },
+      "description": {
+        "text": "早期的西游世界是怎么诞生的？人、神、妖又是怎么诞生的？",
+        "truncated": false
+      },
+      "published_at": "Sat, 03 Sep 2022 11:58:05 GMT",
+      "feed_index": 124
+    },
+    {
+      "id": "112550b2e9f1294ddb4763cf9d6fe1263f601820e6adfbf936bc31a7a00004b6",
+      "guid": "xmly_track_630245717",
+      "title": {
+        "text": "谍战西游记专辑到此全部终稿，后边故事如何发展，请发挥想象",
+        "truncated": false
+      },
+      "description": {
+        "text": "谍战西游记专辑到此全部终稿，感谢所有粉丝朋友们的支持。后边故事如何发展，请发挥想象。",
+        "truncated": false
+      },
+      "published_at": "Sun, 30 Apr 2023 03:20:06 GMT",
+      "feed_index": 145
+    }
+  ]
+}

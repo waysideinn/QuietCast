@@ -1,0 +1,905 @@
+{
+  "group": "normal",
+  "term": "哲学",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%93%B2%E5%AD%A6&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%93%B2%E5%AD%A6&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:44:00.117873+00:00",
+    "status": 200,
+    "sha256": "26b3def0f0f6fc18e8dda5cc1af2eff80429614370e9bdf00374ed7925805814"
+  },
+  "result_count": 37,
+  "records": [
+    {
+      "collectionId": 1687879526,
+      "trackId": 1687879526,
+      "collectionName": "西方哲学史 罗素｜哲学（完）",
+      "artistName": "由然而达",
+      "feedUrl": "https://www.ximalaya.com/album/75618281.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6%E5%8F%B2-%E7%BD%97%E7%B4%A0-%E5%93%B2%E5%AD%A6-%E5%AE%8C/id1687879526?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "历史"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 264,
+      "releaseDate": "2024-01-07T06:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1224548575,
+      "trackId": 1224548575,
+      "collectionName": "马克思丨唯物辩证法",
+      "artistName": "一合哲学",
+      "feedUrl": "http://www.ximalaya.com/album/6256948.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%A8%E5%94%AF%E7%89%A9%E8%BE%A9%E8%AF%81%E6%B3%95/id1224548575?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 83,
+      "releaseDate": "2022-08-18T15:53:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1655011775,
+      "trackId": 1655011775,
+      "collectionName": "每日哲学五分钟",
+      "artistName": "林川登罗",
+      "feedUrl": "https://www.ximalaya.com/album/70118864.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%AF%8F%E6%97%A5%E5%93%B2%E5%AD%A6%E4%BA%94%E5%88%86%E9%92%9F/id1655011775?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "宗教与心灵",
+        "宗教"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1314",
+        "1532"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2023-05-11T12:45:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1687878883,
+      "trackId": 1687878883,
+      "collectionName": "人性能达到的境界｜马斯洛｜心理学｜哲学（完）",
+      "artistName": "由然而达",
+      "feedUrl": "https://www.ximalaya.com/album/75633951.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E6%80%A7%E8%83%BD%E8%BE%BE%E5%88%B0%E7%9A%84%E5%A2%83%E7%95%8C-%E9%A9%AC%E6%96%AF%E6%B4%9B-%E5%BF%83%E7%90%86%E5%AD%A6-%E5%93%B2%E5%AD%A6-%E5%AE%8C/id1687878883?uo=4",
+      "genres": [
+        "心理健康",
+        "播客",
+        "健康与健身",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 65,
+      "releaseDate": "2023-05-10T07:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1685520779,
+      "trackId": 1685520779,
+      "collectionName": "漫读哲学｜快速看遍全世界哲学著作",
+      "artistName": "里维糖",
+      "feedUrl": "https://www.ximalaya.com/album/75711995.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%BC%AB%E8%AF%BB%E5%93%B2%E5%AD%A6-%E5%BF%AB%E9%80%9F%E7%9C%8B%E9%81%8D%E5%85%A8%E4%B8%96%E7%95%8C%E5%93%B2%E5%AD%A6%E8%91%97%E4%BD%9C/id1685520779?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 96,
+      "releaseDate": "2023-05-04T15:37:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1893211573,
+      "trackId": 1893211573,
+      "collectionName": "纳瓦尔哲学",
+      "artistName": "悟道_修真",
+      "feedUrl": "https://www.ximalaya.com/album/119229397.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%B3%E7%93%A6%E5%B0%94%E5%93%B2%E5%AD%A6/id1893211573?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 148,
+      "releaseDate": "2026-09-30T08:01:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1807016239,
+      "trackId": 1807016239,
+      "collectionName": "3000分钟讲透老子《道德经》大智慧丨国学｜哲学",
+      "artistName": "谢明语",
+      "feedUrl": "https://www.ximalaya.com/album/88040578.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/3000%E5%88%86%E9%92%9F%E8%AE%B2%E9%80%8F%E8%80%81%E5%AD%90-%E9%81%93%E5%BE%B7%E7%BB%8F-%E5%A4%A7%E6%99%BA%E6%85%A7%E4%B8%A8%E5%9B%BD%E5%AD%A6-%E5%93%B2%E5%AD%A6/id1807016239?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "宗教与心灵",
+        "灵修"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1314",
+        "1444"
+      ],
+      "trackCount": 108,
+      "releaseDate": "2025-08-04T07:41:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1765108475,
+      "trackId": 1765108475,
+      "collectionName": "谈谈哲学家那些事儿",
+      "artistName": "Teresa叶彬清",
+      "feedUrl": "https://feed.xyzfm.space/ew74puhmgdte",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%B0%88%E8%B0%88%E5%93%B2%E5%AD%A6%E5%AE%B6%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/id1765108475?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客",
+        "宗教与心灵"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1314"
+      ],
+      "trackCount": 121,
+      "releaseDate": "2026-09-22T05:31:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1809555544,
+      "trackId": 1809555544,
+      "collectionName": "政治哲学圆桌",
+      "artistName": "政治哲学研究",
+      "feedUrl": "https://feed.xyzfm.space/xumvcbalnbrj",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6%E5%9C%86%E6%A1%8C/id1809555544?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 43,
+      "releaseDate": "2026-09-04T16:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1698620711,
+      "trackId": 1698620711,
+      "collectionName": "每个人的亚里士多德：哲学是每个人的故事",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/77139316.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%AF%8F%E4%B8%AA%E4%BA%BA%E7%9A%84%E4%BA%9A%E9%87%8C%E5%A3%AB%E5%A4%9A%E5%BE%B7-%E5%93%B2%E5%AD%A6%E6%98%AF%E6%AF%8F%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%95%85%E4%BA%8B/id1698620711?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "健康与健身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 26,
+      "releaseDate": "2023-07-28T14:39:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1686116514,
+      "trackId": 1686116514,
+      "collectionName": "漫谈哲学｜古今中外无话不谈",
+      "artistName": "里维糖",
+      "feedUrl": "https://www.ximalaya.com/album/75825612.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%BC%AB%E8%B0%88%E5%93%B2%E5%AD%A6-%E5%8F%A4%E4%BB%8A%E4%B8%AD%E5%A4%96%E6%97%A0%E8%AF%9D%E4%B8%8D%E8%B0%88/id1686116514?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 32,
+      "releaseDate": "2023-05-05T14:11:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1536985876,
+      "trackId": 1536985876,
+      "collectionName": "西方哲学史-伯特兰·罗素(英)",
+      "artistName": "熙娅时光",
+      "feedUrl": "http://www.ximalaya.com/album/42390794.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6%E5%8F%B2-%E4%BC%AF%E7%89%B9%E5%85%B0-%E7%BD%97%E7%B4%A0-%E8%8B%B1/id1536985876?uo=4",
+      "genres": [
+        "课程",
+        "播客",
+        "教育",
+        "社会与文化",
+        "哲学"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 333,
+      "releaseDate": "2021-01-29T20:47:00Z",
+      "country": "CHN",
+      "primaryGenreName": "课程"
+    },
+    {
+      "collectionId": 1512548667,
+      "trackId": 1512548667,
+      "collectionName": "【哲学文本一起品】康德-纯粹理性批判",
+      "artistName": "悠悠Mobi两百斤",
+      "feedUrl": "http://www.ximalaya.com/album/35860402.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%93%B2%E5%AD%A6%E6%96%87%E6%9C%AC%E4%B8%80%E8%B5%B7%E5%93%81-%E5%BA%B7%E5%BE%B7-%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4/id1512548667?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2020-05-09T04:34:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1851653335,
+      "trackId": 1851653335,
+      "collectionName": "“恍神哲学” by 史东183",
+      "artistName": "史東183",
+      "feedUrl": "https://feed.xyzfm.space/kkyrgmy8cc8p",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%81%8D%E7%A5%9E%E5%93%B2%E5%AD%A6-by-%E5%8F%B2%E4%B8%9C183/id1851653335?uo=4",
+      "genres": [
+        "宗教与心灵",
+        "播客"
+      ],
+      "genreIds": [
+        "1314",
+        "26"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-07-26T11:57:00Z",
+      "country": "CHN",
+      "primaryGenreName": "宗教与心灵"
+    },
+    {
+      "collectionId": 1686794716,
+      "trackId": 1686794716,
+      "collectionName": "哲学编年史｜快速了解西方哲学的发展史",
+      "artistName": "里维糖",
+      "feedUrl": "https://www.ximalaya.com/album/75901908.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%93%B2%E5%AD%A6%E7%BC%96%E5%B9%B4%E5%8F%B2-%E5%BF%AB%E9%80%9F%E4%BA%86%E8%A7%A3%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2/id1686794716?uo=4",
+      "genres": [
+        "历史",
+        "播客"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 59,
+      "releaseDate": "2023-05-12T13:12:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1352951413,
+      "trackId": 1352951413,
+      "collectionName": "佛教哲学（新佛学金刚经）",
+      "artistName": "闲者知无涯",
+      "feedUrl": "http://www.ximalaya.com/album/11434523.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BD%9B%E6%95%99%E5%93%B2%E5%AD%A6-%E6%96%B0%E4%BD%9B%E5%AD%A6%E9%87%91%E5%88%9A%E7%BB%8F/id1352951413?uo=4",
+      "genres": [
+        "佛教",
+        "播客",
+        "宗教与心灵",
+        "社会与文化",
+        "哲学"
+      ],
+      "genreIds": [
+        "1438",
+        "26",
+        "1314",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 208,
+      "releaseDate": "2025-12-31T15:42:00Z",
+      "country": "CHN",
+      "primaryGenreName": "佛教"
+    },
+    {
+      "collectionId": 1698726023,
+      "trackId": 1698726023,
+      "collectionName": "自己拯救自己：人际交往心理学哲学书",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/77148254.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%87%AA%E5%B7%B1%E6%8B%AF%E6%95%91%E8%87%AA%E5%B7%B1-%E4%BA%BA%E9%99%85%E4%BA%A4%E5%BE%80%E5%BF%83%E7%90%86%E5%AD%A6%E5%93%B2%E5%AD%A6%E4%B9%A6/id1698726023?uo=4",
+      "genres": [
+        "心理健康",
+        "播客",
+        "健康与健身",
+        "社会与文化",
+        "哲学"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 45,
+      "releaseDate": "2023-08-07T14:53:00Z",
+      "country": "CHN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1652605841,
+      "trackId": 1652605841,
+      "collectionName": "认识你自己：近代哲学四百年-理查德大卫普莱希特",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/70711946.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%AE%A4%E8%AF%86%E4%BD%A0%E8%87%AA%E5%B7%B1-%E8%BF%91%E4%BB%A3%E5%93%B2%E5%AD%A6%E5%9B%9B%E7%99%BE%E5%B9%B4-%E7%90%86%E6%9F%A5%E5%BE%B7%E5%A4%A7%E5%8D%AB%E6%99%AE%E8%8E%B1%E5%B8%8C%E7%89%B9/id1652605841?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 117,
+      "releaseDate": "2022-10-26T11:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1813796315,
+      "trackId": 1813796315,
+      "collectionName": "【哲学经典】哲学问题|诺奖得主罗素代表作|哲学入门",
+      "artistName": "大麦书屋",
+      "feedUrl": "https://www.ximalaya.com/album/79348295.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%93%B2%E5%AD%A6%E7%BB%8F%E5%85%B8-%E5%93%B2%E5%AD%A6%E9%97%AE%E9%A2%98-%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E7%BD%97%E7%B4%A0%E4%BB%A3%E8%A1%A8%E4%BD%9C-%E5%93%B2%E5%AD%A6%E5%85%A5%E9%97%A8/id1813796315?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "科学",
+        "社会科学"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1533",
+        "1535"
+      ],
+      "trackCount": 59,
+      "releaseDate": "2025-05-08T09:08:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1449153058,
+      "trackId": 1449153058,
+      "collectionName": "维生素E|经济学与哲学知识分享",
+      "artistName": "维生素E知识分享",
+      "feedUrl": "http://www.ximalaya.com/album/19758469.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BB%B4%E7%94%9F%E7%B4%A0e-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%B8%8E%E5%93%B2%E5%AD%A6%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/id1449153058?uo=4",
+      "genres": [
+        "实用知识",
+        "播客",
+        "教育",
+        "社会与文化",
+        "哲学"
+      ],
+      "genreIds": [
+        "1499",
+        "26",
+        "1304",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 151,
+      "releaseDate": "2026-06-25T14:07:00Z",
+      "country": "CHN",
+      "primaryGenreName": "实用知识"
+    },
+    {
+      "collectionId": 1502916216,
+      "trackId": 1502916216,
+      "collectionName": "哲学有趣",
+      "artistName": "西绪福斯神话",
+      "feedUrl": "http://www.ximalaya.com/album/34902440.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%93%B2%E5%AD%A6%E6%9C%89%E8%B6%A3/id1502916216?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2020-03-15T19:11:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1813795007,
+      "trackId": 1813795007,
+      "collectionName": "【国学经典】大麦简读《道德经》老子|本经译文|哲学",
+      "artistName": "大麦书屋",
+      "feedUrl": "https://www.ximalaya.com/album/89415467.xmlhttps://www.ximalaya.com/album/89415467.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%9B%BD%E5%AD%A6%E7%BB%8F%E5%85%B8-%E5%A4%A7%E9%BA%A6%E7%AE%80%E8%AF%BB-%E9%81%93%E5%BE%B7%E7%BB%8F-%E8%80%81%E5%AD%90-%E6%9C%AC%E7%BB%8F%E8%AF%91%E6%96%87-%E5%93%B2%E5%AD%A6/id1813795007?uo=4",
+      "genres": [
+        "社会科学",
+        "播客",
+        "科学",
+        "社会与文化",
+        "哲学"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 82,
+      "releaseDate": "2025-05-11T23:08:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会科学"
+    },
+    {
+      "collectionId": 1713060073,
+      "trackId": 1713060073,
+      "collectionName": "种菜哲学",
+      "artistName": "天空nini",
+      "feedUrl": "https://feed.xyzfm.space/rl6n79j3qf4n",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A7%8D%E8%8F%9C%E5%93%B2%E5%AD%A6/id1713060073?uo=4",
+      "genres": [
+        "休闲",
+        "播客"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 92,
+      "releaseDate": "2026-10-15T23:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "休闲"
+    },
+    {
+      "collectionId": 1549532681,
+      "trackId": 1549532681,
+      "collectionName": "秃然不想唠哲学",
+      "artistName": "专注秃头九百年2",
+      "feedUrl": "http://www.ximalaya.com/album/45498456.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A7%83%E7%84%B6%E4%B8%8D%E6%83%B3%E5%94%A0%E5%93%B2%E5%AD%A6/id1549532681?uo=4",
+      "genres": [
+        "个人日记",
+        "播客",
+        "社会与文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2021-06-07T10:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "个人日记"
+    },
+    {
+      "collectionId": 1805591539,
+      "trackId": 1805591539,
+      "collectionName": "永井玲衣×長井優希乃『Wナガイと哲学対話』",
+      "artistName": "J-WAVE",
+      "feedUrl": "https://feed.sonicbowl.cloud/rss/eb8cdf54-d5e8-47c4-836b-0b2576c81572/",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%B0%B8%E4%BA%95%E7%8E%B2%E8%A1%A3-%E9%95%B7%E4%BA%95%E5%84%AA%E5%B8%8C%E4%B9%83-w%E3%83%8A%E3%82%AC%E3%82%A4%E3%81%A8%E5%93%B2%E5%AD%A6%E5%AF%BE%E8%A9%B1/id1805591539?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 47,
+      "releaseDate": "2026-07-14T02:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1657910656,
+      "trackId": 1657910656,
+      "collectionName": "小王子，阅读率最高的童话哲学书（中文女声版）",
+      "artistName": "鼎好听",
+      "feedUrl": "https://www.ximalaya.com/album/72883440.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B0%8F%E7%8E%8B%E5%AD%90-%E9%98%85%E8%AF%BB%E7%8E%87%E6%9C%80%E9%AB%98%E7%9A%84%E7%AB%A5%E8%AF%9D%E5%93%B2%E5%AD%A6%E4%B9%A6-%E4%B8%AD%E6%96%87%E5%A5%B3%E5%A3%B0%E7%89%88/id1657910656?uo=4",
+      "genres": [
+        "自我完善",
+        "播客",
+        "教育",
+        "儿童与家庭",
+        "儿童教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1305",
+        "1519"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2022-12-09T09:50:00Z",
+      "country": "CHN",
+      "primaryGenreName": "自我完善"
+    },
+    {
+      "collectionId": 1895093732,
+      "trackId": 1895093732,
+      "collectionName": "于东来哲学 | 胖东来成功和生活幸福的秘诀",
+      "artistName": "阿坑是个坑",
+      "feedUrl": "https://www.ximalaya.com/album/120423663.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%93%B2%E5%AD%A6-%E8%83%96%E4%B8%9C%E6%9D%A5%E6%88%90%E5%8A%9F%E5%92%8C%E7%94%9F%E6%B4%BB%E5%B9%B8%E7%A6%8F%E7%9A%84%E7%A7%98%E8%AF%80/id1895093732?uo=4",
+      "genres": [
+        "个人日记",
+        "播客",
+        "社会与文化",
+        "商务",
+        "管理"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1321",
+        "1491"
+      ],
+      "trackCount": 181,
+      "releaseDate": "2026-09-17T04:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "个人日记"
+    },
+    {
+      "collectionId": 1692794646,
+      "trackId": 1692794646,
+      "collectionName": "人大社·哲学文库·文化与政治：西方马克思主义研究",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/76501151.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E5%A4%A7%E7%A4%BE-%E5%93%B2%E5%AD%A6%E6%96%87%E5%BA%93-%E6%96%87%E5%8C%96%E4%B8%8E%E6%94%BF%E6%B2%BB-%E8%A5%BF%E6%96%B9%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E7%A0%94%E7%A9%B6/id1692794646?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "教育",
+        "课程"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1304",
+        "1501"
+      ],
+      "trackCount": 78,
+      "releaseDate": "2023-07-18T12:17:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 6801857790,
+      "trackId": 6801857790,
+      "collectionName": "道德经|老子哲学智慧|万经之王|传统文化",
+      "artistName": "金尚熙_时祺",
+      "feedUrl": "https://www.ximalaya.com/album/124886933.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%81%93%E5%BE%B7%E7%BB%8F-%E8%80%81%E5%AD%90%E5%93%B2%E5%AD%A6%E6%99%BA%E6%85%A7-%E4%B8%87%E7%BB%8F%E4%B9%8B%E7%8E%8B-%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/id6801857790?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "宗教与心灵",
+        "灵修"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1314",
+        "1444"
+      ],
+      "trackCount": 82,
+      "releaseDate": "2026-07-25T16:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1730476445,
+      "trackId": 1730476445,
+      "collectionName": "罗素论幸福：幸福之路，罗素写给你的生活哲学",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/80374367.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BD%97%E7%B4%A0%E8%AE%BA%E5%B9%B8%E7%A6%8F-%E5%B9%B8%E7%A6%8F%E4%B9%8B%E8%B7%AF-%E7%BD%97%E7%B4%A0%E5%86%99%E7%BB%99%E4%BD%A0%E7%9A%84%E7%94%9F%E6%B4%BB%E5%93%B2%E5%AD%A6/id1730476445?uo=4",
+      "genres": [
+        "情感与人际关系",
+        "播客",
+        "社会与文化",
+        "哲学"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2024-02-18T05:52:00Z",
+      "country": "CHN",
+      "primaryGenreName": "情感与人际关系"
+    },
+    {
+      "collectionId": 1572380839,
+      "trackId": 1572380839,
+      "collectionName": "村长说行情：比特币交易、心理与哲学",
+      "artistName": "TPPer",
+      "feedUrl": "http://www.ximalaya.com/album/47538309.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9D%91%E9%95%BF%E8%AF%B4%E8%A1%8C%E6%83%85-%E6%AF%94%E7%89%B9%E5%B8%81%E4%BA%A4%E6%98%93-%E5%BF%83%E7%90%86%E4%B8%8E%E5%93%B2%E5%AD%A6/id1572380839?uo=4",
+      "genres": [
+        "投资",
+        "播客",
+        "商务"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321"
+      ],
+      "trackCount": 190,
+      "releaseDate": "2021-09-29T00:55:00Z",
+      "country": "CHN",
+      "primaryGenreName": "投资"
+    },
+    {
+      "collectionId": 1598329483,
+      "trackId": 1598329483,
+      "collectionName": "佛教哲学（新佛学）",
+      "artistName": "西陌听书",
+      "feedUrl": "http://www.ximalaya.com/album/50634195.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BD%9B%E6%95%99%E5%93%B2%E5%AD%A6-%E6%96%B0%E4%BD%9B%E5%AD%A6/id1598329483?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "宗教与心灵",
+        "佛教"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1314",
+        "1438"
+      ],
+      "trackCount": 369,
+      "releaseDate": "2026-01-01T01:33:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1584914561,
+      "trackId": 1584914561,
+      "collectionName": "处世哲学|曾国藩家书白话精读版",
+      "artistName": "令扬读书会",
+      "feedUrl": "http://www.ximalaya.com/album/52713772.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%84%E4%B8%96%E5%93%B2%E5%AD%A6-%E6%9B%BE%E5%9B%BD%E8%97%A9%E5%AE%B6%E4%B9%A6%E7%99%BD%E8%AF%9D%E7%B2%BE%E8%AF%BB%E7%89%88/id1584914561?uo=4",
+      "genres": [
+        "个人日记",
+        "播客",
+        "社会与文化",
+        "历史"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 123,
+      "releaseDate": "2021-11-13T22:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "个人日记"
+    },
+    {
+      "collectionId": 1692794402,
+      "trackId": 1692794402,
+      "collectionName": "人大社·哲学文库·马克思宗教批判思想及其当代启示",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/76501095.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E5%A4%A7%E7%A4%BE-%E5%93%B2%E5%AD%A6%E6%96%87%E5%BA%93-%E9%A9%AC%E5%85%8B%E6%80%9D%E5%AE%97%E6%95%99%E6%89%B9%E5%88%A4%E6%80%9D%E6%83%B3%E5%8F%8A%E5%85%B6%E5%BD%93%E4%BB%A3%E5%90%AF%E7%A4%BA/id1692794402?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "教育",
+        "课程"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1304",
+        "1501"
+      ],
+      "trackCount": 73,
+      "releaseDate": "2023-07-15T23:51:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1711145589,
+      "trackId": 1711145589,
+      "collectionName": "马克思主义哲学原理：高校思想政治理论课重点教材",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/78329849.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E5%93%B2%E5%AD%A6%E5%8E%9F%E7%90%86-%E9%AB%98%E6%A0%A1%E6%80%9D%E6%83%B3%E6%94%BF%E6%B2%BB%E7%90%86%E8%AE%BA%E8%AF%BE%E9%87%8D%E7%82%B9%E6%95%99%E6%9D%90/id1711145589?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "教育",
+        "课程"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1304",
+        "1501"
+      ],
+      "trackCount": 159,
+      "releaseDate": "2023-11-17T08:35:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1807343188,
+      "trackId": 1807343188,
+      "collectionName": "胡适口述自传｜唐德刚｜人文|北大|哲学|国学|智慧",
+      "artistName": "Gavin读书",
+      "feedUrl": "https://www.ximalaya.com/album/89500322.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%83%A1%E9%80%82%E5%8F%A3%E8%BF%B0%E8%87%AA%E4%BC%A0-%E5%94%90%E5%BE%B7%E5%88%9A-%E4%BA%BA%E6%96%87-%E5%8C%97%E5%A4%A7-%E5%93%B2%E5%AD%A6-%E5%9B%BD%E5%AD%A6-%E6%99%BA%E6%85%A7/id1807343188?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "社会与文化",
+        "个人日记"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 23,
+      "releaseDate": "2025-04-30T13:16:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1851823492,
+      "trackId": 1851823492,
+      "collectionName": "生命哲学",
+      "artistName": "天池青藤",
+      "feedUrl": "https://feed.xyzfm.space/93nravxtv436",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%94%9F%E5%91%BD%E5%93%B2%E5%AD%A6/id1851823492?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客",
+        "休闲"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1502"
+      ],
+      "trackCount": 321,
+      "releaseDate": "2026-10-20T10:09:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    }
+  ]
+}

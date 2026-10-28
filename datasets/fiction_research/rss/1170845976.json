@@ -1,0 +1,140 @@
+{
+  "show_id": "1170845976",
+  "feed_url": "http://www.ximalaya.com/album/2956091.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/2956091.xml",
+    "final_url": "http://www.ximalaya.com/album/2956091.xml",
+    "fetched_at": "2026-10-25T14:47:46.394687+00:00",
+    "status": 200,
+    "sha256": "fcd2f23562d5c71611273486f62edb8e1fbcb54a3d3ced193e862d27b2f60335"
+  },
+  "status": "ok",
+  "title": {
+    "text": "逃出母宇宙 | 末日灾难点燃的燎原之火；中国科幻银河奖长篇小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "作者：王晋康。《逃出母宇宙》是一部长篇科幻小说，获“华语科幻星云奖”，它描写了人类在面临宇宙突然收缩的大灾难前所展现出的顽强意志，以及创造出的科技奇迹，深受国内外大量读者的喜爱。若演播涉及版权问题，请王晋康老师联系我，谢谢。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 96,
+  "episodes": [
+    {
+      "id": "f388160de83d45fa4ad16e6350f491b7ed78558ca1f837f544596e6e4f3268ff",
+      "guid": "https://aod.cos.tx.xmcdn.com/group15/M0B/6F/71/wKgDZVXz31qAqUZQABNeMltpadk324.m4a",
+      "title": {
+        "text": "逃出母宇宙 简介",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 12 Sep 2015 08:27:13 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ba690b9fcf67216f7fe147301ae2f37d3e2063928468d314a7465d075bc60133",
+      "guid": "https://aod.cos.tx.xmcdn.com/group10/M0A/86/86/wKgDZ1YjAhnyWtUbALrQ78PE-GI714-aacv2-48K.m4a",
+      "title": {
+        "text": "入山和出山1（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 18 Oct 2015 02:22:19 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "9f47e05b9ec2ce6b9ddcde8f614b0d6f756612a337b99398bd06a84f8ec517e9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group7/M0A/9B/F6/wKgDX1ZEjZWzT2bCAKUDdV8nqGg603-aacv2-48K.m4a",
+      "title": {
+        "text": "送子远行1（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 Nov 2015 13:01:48 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "7f81dec40a2012954d5590b8308b823e947873c897a6823d9738a2d86f013bd9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group8/M00/C9/26/wKgDYFZrwIPTxAbKAGkhFffqJWw728-aacv2-48K.m4a",
+      "title": {
+        "text": "以尾做头2",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 12 Dec 2015 06:37:18 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "46079e71b4baa1313542420db69c6ba9b084e67ae24cba6748d2a60970b9d7f1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group14/M06/E7/D4/wKgDY1aaILejTmUkAEXM52qVXuw248-aacv2-48K.m4a",
+      "title": {
+        "text": "终极之灾2",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Jan 2016 10:51:49 GMT",
+      "feed_index": 54
+    },
+    {
+      "id": "964381d1ab2ebddea1849e12f6e43f39cd3f3b33fed1775dbb5d350ff38fe462",
+      "guid": "https://aod.cos.tx.xmcdn.com/group15/M00/F6/18/wKgDZVat5LWQKyjUAJVI4cS4fo0993.m4a",
+      "title": {
+        "text": "蓦然回首1（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 31 Jan 2016 12:30:01 GMT",
+      "feed_index": 68
+    },
+    {
+      "id": "56969751330781decb6b388de4e7a785adde4e5eab08aae65079babae2606317",
+      "guid": "https://aod.cos.tx.xmcdn.com/group13/M0A/06/E5/wKgDXVbHBcLhSJvOAIh9YGWwEaQ743-aacv2-48K.m4a",
+      "title": {
+        "text": "二度梅开寒又来6（1)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Feb 2016 12:09:07 GMT",
+      "feed_index": 81
+    },
+    {
+      "id": "c004dbd931227f6ccd521102efe63cab828bdcf3834df0840af98ec790005fa2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group8/M03/19/F6/wKgDYVbeqmizhCFbAAmzfsoYb5c195.m4a",
+      "title": {
+        "text": "结束时的话",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 08 Mar 2016 10:34:43 GMT",
+      "feed_index": 95
+    }
+  ]
+}

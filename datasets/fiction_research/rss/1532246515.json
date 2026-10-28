@@ -1,0 +1,140 @@
+{
+  "show_id": "1532246515",
+  "feed_url": "http://www.ximalaya.com/album/31919173.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/31919173.xml",
+    "final_url": "http://www.ximalaya.com/album/31919173.xml",
+    "fetched_at": "2026-10-25T14:50:35.630769+00:00",
+    "status": 200,
+    "sha256": "2dce6787ed5dee0acb8403d46d97ebc7bca9bd233f0fe55677e6eedba8c0ffce"
+  },
+  "status": "ok",
+  "title": {
+    "text": "武侠电影赏析",
+    "truncated": false
+  },
+  "description": {
+    "text": "中国经典武侠电影影评，不定期更新",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 33,
+  "episodes": [
+    {
+      "id": "f26ec12ba45d0278ff1db2a16886c3c7304143220bdc48f04b33461ade499121",
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M0B/27/33/wKgOzl4CLMvRk3ifADYZI16efSY434.m4a",
+      "title": {
+        "text": "东邪西毒-观后感",
+        "truncated": false
+      },
+      "description": {
+        "text": "东邪西毒-观后感",
+        "truncated": false
+      },
+      "published_at": "Tue, 24 Dec 2019 15:20:38 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "0ba84abe062497126e81363a93b86b28e8f45a70a70a8d2d6cfedef0765a139b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M06/BF/25/wKgOzl4MqdeytwSjADFpV-EGePc509.m4a",
+      "title": {
+        "text": "剑雨-观后感",
+        "truncated": false
+      },
+      "description": {
+        "text": "剑雨-观后感",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Jan 2020 13:00:07 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "355cf0cd9f0a079bc3e12bac3af3d9dd632ea9b4e0a5ff2b28431d9d237b8fe2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group71/M09/4D/BF/wKgO2V4XI_iRrpaUAEKuDeuLoDY437.m4a",
+      "title": {
+        "text": "绣春刀-观后感",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Jan 2020 13:00:04 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "3ed6adb0fdcd5cdaf5910ed1046530f6f8e373b6c67d8ad4f48dbb10a18ff5f3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M0B/04/A9/wKgO2F4i7UmjYte-ANKI32yr5CA665.mp3",
+      "title": {
+        "text": "青蛇-观后感",
+        "truncated": false
+      },
+      "description": {
+        "text": "青蛇影评",
+        "truncated": false
+      },
+      "published_at": "Mon, 20 Jan 2020 13:00:07 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "1e6755c45f0224f8d78b9ec21eab24df911dba4ec9da757962d924c1984f2bb7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group71/M06/D3/40/wKgO2V4xMoSy_xn5Aawv3wgXAjo235.mp3",
+      "title": {
+        "text": "卧虎藏龙-观后感",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 04 Feb 2020 13:00:03 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "03e22ede5cabb19dff0c5c1fa715c1ee47d60eb6c31468ea68cabd0f238b7122",
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M03/3D/2D/wKgO2F4_3TyzMKY4ASTun9JkGEU053.mp3",
+      "title": {
+        "text": "影-观后感",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 11 Feb 2020 13:00:07 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "d4c40bc2c4cc1a58d1350fcc743fe7d3e60187f4d3865657fa025f0f9d8a0823",
+      "guid": "https://aod.cos.tx.xmcdn.com/group76/M09/98/7D/wKgO1F6RuMHwyyrWAOM-H8xNaDo393.mp3",
+      "title": {
+        "text": "大明劫-观后感",
+        "truncated": false
+      },
+      "description": {
+        "text": "大明劫-影评",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Apr 2020 13:00:10 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "db44dea7805bb7dd458632b14a5d828d0bdf7b58a25c3e634d115a85178121c0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group79/M05/FC/BC/wKgPC16qzA3gTsy1AFxm_rdqzxw808.m4a",
+      "title": {
+        "text": "少林寺-观后感",
+        "truncated": false
+      },
+      "description": {
+        "text": "少林寺-影评",
+        "truncated": false
+      },
+      "published_at": "Thu, 30 Apr 2020 13:00:11 GMT",
+      "feed_index": 32
+    }
+  ]
+}

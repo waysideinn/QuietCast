@@ -1,0 +1,165 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/81334488.xml",
+    "final_url": "https://www.ximalaya.com/album/81334488.xml",
+    "fetched_at": "2026-10-26T07:56:43.960497+00:00",
+    "status": 200,
+    "sha256": "7eb899693bbb463dce064ad7394ca669c61008ff928d46713b84dc3e0ed9f3a2"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "R17上流社会|万人迷女主|多男主甜宠商战豪门言情",
+      "truncated": false
+    },
+    "description": {
+      "text": "一个美丽女人踩着一群精英男人坐上王座的故事。 “反正都是要跪的，跪你，倒也算势均力敌。” 女主：沈冬至（林萱） 男主：沈冬行 谭宗铭 谭润深 秦琛 周希尧 盛怀宣 赵霆桀 唐维钧 韩城 上流社会（都市权斗） 作者：九铃 本专辑仅作推荐赏析 高干架空现代情感豪门金融战权斗文 学金融知识的进来必听！呵呵 【尊敬的听众朋友们】 今天我要跟大家分享一个非常特别的专辑，这个专辑的目的是为了推广和赏析作品，展示作者们的才华和创作能力。我们希望能让更多的人熟知、欣赏并产生共鸣，同时向更多的人介绍这些文学作品。 在这里，我真诚地恳请大家支持这些作者，帮助他们扩大影响力，让更多的人了解并喜欢他们的才华和努力。您可以通过网络途径访问作者的主页，了解更多关于他们的信息，并购买他们的正版作品以及进行打赏，以支持他们的创作。 云麓有声社成立的初衷和目标动力就是希望能够推广和赏析作品，让更多人受益于文学的魅力。我们相信，通过大家的支持和共同努力，这个目标一定能够实现。 再次感谢大家的支持和关注！我们将继续努力，为大家呈现更多优秀的作品和精彩的内容。 购买正版作品，打赏作者，支持他们的创作！� #推广作品 #赏析文学 #支持创作",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "云鹿柔迩@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "云鹿柔迩"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "云鹿柔迩"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Arts"
+      ],
+      [
+        "Arts",
+        "Books"
+      ],
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Drama"
+      ],
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Relationships"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/81334488",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 642,
+    "episodes": [
+      {
+        "title": {
+          "text": "楔♛子",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_722043391"
+      },
+      {
+        "title": {
+          "text": "第97章仪式",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 92,
+        "guid": "xmly_track_722162324"
+      },
+      {
+        "title": {
+          "text": "第192章♛做坏（周希尧）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 183,
+        "guid": "xmly_track_722407444"
+      },
+      {
+        "title": {
+          "text": "第290章低语",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 275,
+        "guid": "xmly_track_723840419"
+      },
+      {
+        "title": {
+          "text": "第381章 芬芳",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 366,
+        "guid": "xmly_track_732673336"
+      },
+      {
+        "title": {
+          "text": "第473章告捷",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 458,
+        "guid": "xmly_track_728373627"
+      },
+      {
+        "title": {
+          "text": "第567章筹码（大秦的告白+唐哥韩城暴3人前",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 549,
+        "guid": "xmly_track_728650517"
+      },
+      {
+        "title": {
+          "text": "完结♛番外10·温泉2",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 641,
+        "guid": "xmly_track_730750030"
+      }
+    ]
+  }
+}

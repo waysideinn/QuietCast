@@ -1,0 +1,177 @@
+{
+  "artifactKind": "classification_evidence_research",
+  "appCompatibility": "Research only; classificationRules mapped into v1.1 candidate",
+  "status": "research",
+  "sources": [
+    "https://podcasters.apple.com/support/1691-apple-podcasts-categories"
+  ],
+  "standardCategories": [
+    {
+      "id": "1483",
+      "name": "Fiction",
+      "cnLabel": "小说",
+      "parentID": null
+    },
+    {
+      "id": "1484",
+      "name": "Drama",
+      "cnLabel": "剧情",
+      "parentID": "1483"
+    },
+    {
+      "id": "1485",
+      "name": "Science Fiction",
+      "cnLabel": "科幻小说",
+      "parentID": "1483"
+    },
+    {
+      "id": "1486",
+      "name": "Comedy Fiction",
+      "cnLabel": "喜剧小说",
+      "parentID": "1483"
+    }
+  ],
+  "nonFictionSpecificCategories": [
+    {
+      "id": "1482",
+      "name": "Books",
+      "reason": "Books includes commentary and nonfiction; not a fiction block category"
+    }
+  ],
+  "curatedCollections": [
+    {
+      "name": "有声图书",
+      "url": "https://podcasts.apple.com/cn/grouping/197714",
+      "role": "discovery_only"
+    },
+    {
+      "name": "网络文学",
+      "url": "https://podcasts.apple.com/cn/grouping/197716",
+      "role": "discovery_only"
+    }
+  ],
+  "pageObservations": {
+    "audiobooks": {
+      "source": {
+        "url": "https://podcasts.apple.com/cn/grouping/197714",
+        "final_url": "https://podcasts.apple.com/cn/grouping/197714",
+        "fetched_at": "2026-10-26T07:50:53.532440+00:00",
+        "status": 200,
+        "sha256": "cfed0c90ca4bb128c93f2857d0ef57bc426b33762ed40ef64e842594ceb2c73d"
+      },
+      "heading": "有声图书",
+      "showLinkCount": 63
+    },
+    "web-literature": {
+      "source": {
+        "url": "https://podcasts.apple.com/cn/grouping/197716",
+        "final_url": "https://podcasts.apple.com/cn/grouping/197716",
+        "fetched_at": "2026-10-26T07:51:12.511047+00:00",
+        "status": 200,
+        "sha256": "506539d182da007145317540e98c7631ca4172325224be3cf526a9e5af18a74e"
+      },
+      "heading": "网络文学",
+      "showLinkCount": 53
+    },
+    "fiction-cn": {
+      "source": {
+        "url": "https://podcasts.apple.com/cn/genre/1483",
+        "final_url": "https://podcasts.apple.com/cn/genre/1483",
+        "fetched_at": "2026-10-26T07:51:54.125411+00:00",
+        "status": 200,
+        "sha256": "19ee28466a584fd36a60af68a4b20627295dff76e875cbba3aa940f6f848ec1e"
+      },
+      "heading": "小说",
+      "showLinkCount": 53
+    },
+    "drama-cn": {
+      "source": {
+        "url": "https://podcasts.apple.com/cn/genre/1484",
+        "final_url": "https://podcasts.apple.com/cn/genre/1484",
+        "fetched_at": "2026-10-26T07:51:56.828609+00:00",
+        "status": 200,
+        "sha256": "7c94814c687367add950c2ed9f683abcbc73470f63ac69a9e10c63320b5e361b"
+      },
+      "heading": "剧情",
+      "showLinkCount": 13
+    },
+    "scifi-cn": {
+      "source": {
+        "url": "https://podcasts.apple.com/cn/genre/1485",
+        "final_url": "https://podcasts.apple.com/cn/genre/1485",
+        "fetched_at": "2026-10-26T07:51:59.582102+00:00",
+        "status": 200,
+        "sha256": "9571f0b171cba8d5669af9b928877ff704a47c4fc21d734d7952942a006f2684"
+      },
+      "heading": "科幻小说",
+      "showLinkCount": 13
+    },
+    "comedy-fiction-cn": {
+      "source": {
+        "url": "https://podcasts.apple.com/cn/genre/1486",
+        "final_url": "https://podcasts.apple.com/cn/genre/1486",
+        "fetched_at": "2026-10-26T07:52:01.858887+00:00",
+        "status": 200,
+        "sha256": "90cfe9800915f5b1bc4db6962a45716a4ec03d51eed4a44d33d5c09f005d7f8f"
+      },
+      "heading": "喜剧小说",
+      "showLinkCount": 13
+    },
+    "books-cn": {
+      "source": {
+        "url": "https://podcasts.apple.com/cn/genre/1482",
+        "final_url": "https://podcasts.apple.com/cn/genre/1482",
+        "fetched_at": "2026-10-26T07:52:06.182674+00:00",
+        "status": 200,
+        "sha256": "301ce6b4a38f204d85d6584fcea07bbe62da7329e05a3c690711ce08a63d7d76"
+      },
+      "heading": "图书",
+      "showLinkCount": 20
+    },
+    "fiction-us": {
+      "source": {
+        "url": "https://podcasts.apple.com/us/genre/1483",
+        "final_url": "https://podcasts.apple.com/cn/new",
+        "fetched_at": "2026-10-26T07:52:10.791455+00:00",
+        "status": 200,
+        "sha256": "2021b19be5a0b0166bbc629ce07e2a093001a99dfd6454c4cb2aed6c28ce135a"
+      },
+      "heading": "新发现",
+      "showLinkCount": 69
+    },
+    "drama-us": {
+      "source": {
+        "url": "https://podcasts.apple.com/us/genre/1484",
+        "final_url": "https://podcasts.apple.com/cn/new",
+        "fetched_at": "2026-10-26T07:52:13.416874+00:00",
+        "status": 200,
+        "sha256": "2021b19be5a0b0166bbc629ce07e2a093001a99dfd6454c4cb2aed6c28ce135a"
+      },
+      "heading": "新发现",
+      "showLinkCount": 69
+    },
+    "scifi-us": {
+      "source": {
+        "url": "https://podcasts.apple.com/us/genre/1485",
+        "final_url": "https://podcasts.apple.com/cn/new",
+        "fetched_at": "2026-10-26T07:52:16.430757+00:00",
+        "status": 200,
+        "sha256": "2021b19be5a0b0166bbc629ce07e2a093001a99dfd6454c4cb2aed6c28ce135a"
+      },
+      "heading": "新发现",
+      "showLinkCount": 69
+    },
+    "comedy-fiction-us": {
+      "source": {
+        "url": "https://podcasts.apple.com/us/genre/1486",
+        "final_url": "https://podcasts.apple.com/cn/new",
+        "fetched_at": "2026-10-26T07:52:19.422939+00:00",
+        "status": 200,
+        "sha256": "2021b19be5a0b0166bbc629ce07e2a093001a99dfd6454c4cb2aed6c28ce135a"
+      },
+      "heading": "新发现",
+      "showLinkCount": 69
+    }
+  },
+  "enabledBlockRules": []
+}

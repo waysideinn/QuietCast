@@ -1,0 +1,140 @@
+{
+  "show_id": "1535206991",
+  "feed_url": "https://feeds.soundon.fm/podcasts/e16b8fad-5f57-4b8d-b7bc-bbd9f17ba126.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/e16b8fad-5f57-4b8d-b7bc-bbd9f17ba126.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/e16b8fad-5f57-4b8d-b7bc-bbd9f17ba126.xml",
+    "fetched_at": "2026-10-25T14:50:45.844340+00:00",
+    "status": 200,
+    "sha256": "0d852612281cb43a19321c0dd6f03af2b63bcad0b61b97e9da9bb12dabcc3456"
+  },
+  "status": "ok",
+  "title": {
+    "text": "享說書- 西遊記",
+    "truncated": false
+  },
+  "description": {
+    "text": "敬告：此節目僅到62回女兒國單元，後續暫停更新。 ======================================================================== 兒子在學齡前就無法滿足於 簡略版的兒童西遊記，於是我開始講起了原文的版本，用更多細節架構起一個奇幻時空，也因而可以容納許多艱澀的語句詞彙，讓孩子在情境中有所意會，反而更深入西遊記的傳奇，跟著孫悟空，來一場不設限的修練之旅。 這是一個生氣蓬勃的故事，從束縛到解脫，歷經著千難萬險的追尋，過程奇妙詼諧、馳騁幻想。阿明希望盡可能呈現出原著開放的精神，讓作品回歸到作品本身，讓你可以在聆聽中建構出自己的奇幻時空。（但這其實很難，每一個講故事的人，都不可避免的呈現了自己對故事的理解與體會）歡迎每一個大孩子重溫這個兒時的故事。（北歐神話部份則不更新，僅8回） -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 70,
+  "episodes": [
+    {
+      "id": "a4d396fab1636e8ff97837de1a7436cfc4c981893910b580e322a9c2c2679181",
+      "guid": "b670cff1-2a97-4653-8432-a0f4633ae2cb",
+      "title": {
+        "text": "A33 金角怪三件寶物《西遊記的修練之旅》",
+        "truncated": false
+      },
+      "description": {
+        "text": "A33 金角怪三件寶物《西遊記的修練之旅》 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 30 Sep 2025 04:22:43 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ae3cb77cd6dbb6e4cd92bd9342713d1d5417a37cd565c09a1f666d693dd17ce6",
+      "guid": "757b9ba7-bbe8-4e4f-8d4c-3b7b350e3afb",
+      "title": {
+        "text": "B01 神族與巨人族誕生〔冰火中的北歐神話〕",
+        "truncated": false
+      },
+      "description": {
+        "text": "B01 神族與巨人族誕生《冰火中的北歐神話》 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 29 Sep 2025 04:14:06 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "ac0b79675154aaf7483de891eaae1f9386e1fbd6a6cb61d8966407851bb36a42",
+      "guid": "fff3e539-6f1d-47b0-89be-1876d9b9c0fd",
+      "title": {
+        "text": "A58 洗淨口欲身清淨《西遊記的修練之旅》",
+        "truncated": false
+      },
+      "description": {
+        "text": "洗淨口孽身乾淨，消化凡胎體自然。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 14 Nov 2024 21:39:00 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "2e7dc785dd3a94b69509e8b39b45137707ef3f1773e96e79cf71c37a05e4e01c",
+      "guid": "374cbde9-30fa-4797-8ed1-536b1306855c",
+      "title": {
+        "text": "A47 觀音收善財童子《西遊記的修練之旅》",
+        "truncated": false
+      },
+      "description": {
+        "text": "別說話，靜觀其變 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 29 Sep 2023 05:15:36 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "ab125ae860b27af5ed5eaa67c8be83fe917d9213a9a6ca6941cd127da3dfd8c6",
+      "guid": "51d4fa44-635b-4bfe-b509-f5e98647332d",
+      "title": {
+        "text": "A38 寶象國公主家書《西遊記的修練之旅》",
+        "truncated": false
+      },
+      "description": {
+        "text": "古人說：「與人方便，自己方便。」 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Apr 2022 02:00:00 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "13eea6c4472503b930b97b1a32368115e15fe06a88281c57f52ccb66d6e39580",
+      "guid": "f7592da2-ac0b-4661-8b86-2d1da6558c58",
+      "title": {
+        "text": "A23 雲棧洞收豬悟能《西遊記的修練之旅》",
+        "truncated": false
+      },
+      "description": {
+        "text": "雲棧洞收服豬悟能 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Feb 2021 07:46:27 GMT",
+      "feed_index": 49
+    },
+    {
+      "id": "c3398eece15aea6b3e5f9a70bf7154811f21c5bdc489d2e64c2826dfb4dde80d",
+      "guid": "209cdea1-1863-4e36-898f-ea15abb2278b",
+      "title": {
+        "text": "B03 主神奧丁的追尋*冰火中北歐神話",
+        "truncated": false
+      },
+      "description": {
+        "text": "奧丁為什麼要用眼睛換泉水？奧丁不斷的看，到底想看到什麼？如果不斷的看，我們能看到什麼？當那兩隻烏鴉不斷的在網路中搜尋，到底要搜尋什麼？奧丁看到了什麼樣的未來？他有了什麼樣的決定？奧丁面對未來，有一種不安，他想要透過外在的追尋來解決不安，但當我們知道的更多，我們會更安心嗎？我們到底要知道什麼？知識真的可以帶來美好的生活嗎？ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 30 Nov 2020 11:39:54 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "fa2c1a59e463cd3ea7d32ae19ba24036bd01557aeb9619ac91d11e20a6466b5a",
+      "guid": "4ca6e7cb-89cd-48f4-9c6a-1f2708b7dd4a",
+      "title": {
+        "text": "A01 花果山石猴出世《西遊記的修練之旅》",
+        "truncated": false
+      },
+      "description": {
+        "text": "第一回 花果山石猴出世 兒子在還沒上學前，就聽我講原文的西遊記；女兒現在五年級了，仍會反覆重聽。這是一個生氣蓬勃的故事，是一場由束縛到解脫的修練之旅，是歷經千難萬險的追尋，而過程奇妙詼諧、馳騁幻想。 我想要盡可能呈現出原著開放的精神，將作品回歸到作品本身（但這其實不可能，每一個講故事的人，都不可避免的呈現了自己對故事的理解與體會。） 設定的對象是小學中年級的孩子。稍有一些困難的詞彙，但又要能感受其間的情境，可以自行建構出西遊記的奇幻時空。 It uses the sound from freesound:Fantasy Classical Themes by theojt ( https://freesound.org/s/511311/ ) -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Oct 2020 15:00:00 GMT",
+      "feed_index": 69
+    }
+  ]
+}

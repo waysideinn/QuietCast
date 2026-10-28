@@ -1,0 +1,59 @@
+{
+  "group": "boundary",
+  "term": "犯罪纪实",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%8A%AF%E7%BD%AA%E7%BA%AA%E5%AE%9E&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%8A%AF%E7%BD%AA%E7%BA%AA%E5%AE%9E&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:45:36.260048+00:00",
+    "status": 200,
+    "sha256": "7b936344e335411646a4b83b4abdadece467d7915791fd73ab125ba03a1fe65f"
+  },
+  "result_count": 2,
+  "records": [
+    {
+      "collectionId": 1772528638,
+      "trackId": 1772528638,
+      "collectionName": "犯罪大案纪实丨真实案件",
+      "artistName": "曲艺大剧院",
+      "feedUrl": "https://www.ximalaya.com/album/78299597.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%8A%AF%E7%BD%AA%E5%A4%A7%E6%A1%88%E7%BA%AA%E5%AE%9E%E4%B8%A8%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BB%B6/id1772528638?uo=4",
+      "genres": [
+        "犯罪纪实",
+        "播客"
+      ],
+      "genreIds": [
+        "1488",
+        "26"
+      ],
+      "trackCount": 315,
+      "releaseDate": "2024-04-01T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "犯罪纪实"
+    },
+    {
+      "collectionId": 1544703886,
+      "trackId": 1544703886,
+      "collectionName": "情感犯罪 |大案纪实 |真实案件恐怖 |尚文说大案",
+      "artistName": "大舌头尚文",
+      "feedUrl": "http://www.ximalaya.com/album/30855436.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%83%85%E6%84%9F%E7%8A%AF%E7%BD%AA-%E5%A4%A7%E6%A1%88%E7%BA%AA%E5%AE%9E-%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BB%B6%E6%81%90%E6%80%96-%E5%B0%9A%E6%96%87%E8%AF%B4%E5%A4%A7%E6%A1%88/id1544703886?uo=4",
+      "genres": [
+        "犯罪纪实",
+        "播客",
+        "社会与文化",
+        "纪实"
+      ],
+      "genreIds": [
+        "1488",
+        "26",
+        "1324",
+        "1543"
+      ],
+      "trackCount": 596,
+      "releaseDate": "2024-07-23T17:14:00Z",
+      "country": "CHN",
+      "primaryGenreName": "犯罪纪实"
+    }
+  ]
+}

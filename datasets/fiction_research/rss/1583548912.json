@@ -1,0 +1,140 @@
+{
+  "show_id": "1583548912",
+  "feed_url": "http://www.ximalaya.com/album/52474809.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/52474809.xml",
+    "final_url": "http://www.ximalaya.com/album/52474809.xml",
+    "fetched_at": "2026-10-25T14:53:41.450262+00:00",
+    "status": 200,
+    "sha256": "a83777a2acfafa01b2c5f7aa724763955ae57fca808fd77e805be7dac4bcf4a6"
+  },
+  "status": "ok",
+  "title": {
+    "text": "天下第一楼|古言传统武侠江湖搞笑|青莲真人免费有声",
+    "truncated": false
+  },
+  "description": {
+    "text": "他们的剑无敌不是因为正道或者魔道，而是因为他们有包容有仁慈有爱~~~~ 演播：青莲 后期：躺平的土狗",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 86,
+  "episodes": [
+    {
+      "id": "6224a8e703d6497165a2d6b46820879df92be4ad66f086225823fb2bdb879ab9",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/bd6b-audiofreehighqps/D8/B2/CKwRIaIE_kJAAEgdZQDczEZc-aacv2-48K.m4a",
+      "title": {
+        "text": "01 巨富剑客（点赞戳我别手软兄弟）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 28 Aug 2021 03:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "78a058d855591dc199c758cb199f440ea9c951f7a3d69da9806d5024d7039a54",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ec44-audiofreehighqps/02/BE/CKwRIRwFARhxABAAAADdk5V9.mp3",
+      "title": {
+        "text": "13 诸葛圣（点赞戳我别手软兄弟）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Sep 2021 03:00:00 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "982c61f63a3e37967ec39f33baa69ba00640f12d4f8a9b0399236b8485c55834",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6747-audiofreehighqps/6D/02/CKwRIasFCjh3ABAAAADf-gTw.mp3",
+      "title": {
+        "text": "25 预感（兄弟们五星好评来的更猛烈些吧）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Sep 2021 03:01:00 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "69c85b958c0ef5bee4c57ae1eafca819e3f636e1ee6aed4b8ebbe2afb8c957c4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/91bf-audiofreehighqps/9D/65/CKwRIasFD2XrABAAAADhSrJc.mp3",
+      "title": {
+        "text": "37 心痛（新书《魔剑冰心》欢迎订阅）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Sep 2021 03:01:00 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "ecdcc591d0d5a3b882196ff6c894da64c9732c08f76addb09b351081227a1381",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c6ad-audiofreehighqps/07/0A/CKwRIMAFFQOjABAAAADisWZG.mp3",
+      "title": {
+        "text": "50 众人被埋（更多精彩喜马拉雅搜索青莲嘚啵嘚）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Sep 2021 03:00:00 GMT",
+      "feed_index": 49
+    },
+    {
+      "id": "ea9e02bae42272afdb64daa4a155b10a306de81c8f54ea545b89490f3d49e928",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ee3a-audiofreehighqps/74/B7/CKwRIRwFHNaVABAAAADklvuf.mp3",
+      "title": {
+        "text": "62 盗墓团伙（兄弟们五星好评来的更猛烈些吧）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Sep 2021 03:00:00 GMT",
+      "feed_index": 61
+    },
+    {
+      "id": "77e4a85fd92bdd8a955d2068255706aafe25878cccac991edb840dd28dbecb00",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8945-audiofreehighqps/26/CE/CKwRIJIFIe9RABAAAADlyYnk.mp3",
+      "title": {
+        "text": "74 我是谁（兄弟们五星好评来的更猛烈些吧）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Oct 2021 03:00:00 GMT",
+      "feed_index": 73
+    },
+    {
+      "id": "b1bec5761fdf3d2e28156a79b6808836a868537749f510bb30727c0fe4974b2d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f490-audiofreehighqps/85/50/CKwRIDoFMkTHABAAAADpwewz.mp3",
+      "title": {
+        "text": "86 师徒缘灭（第一部完）（喜欢请点赞评论分享哦，兄弟们谢谢）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Oct 2021 03:00:00 GMT",
+      "feed_index": 85
+    }
+  ]
+}

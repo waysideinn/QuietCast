@@ -1,0 +1,25 @@
+{
+  "status": "pass",
+  "packages": {
+    "rules/research/fiction-multisource-candidate.json": {
+      "publisherRules": 201,
+      "enabledPendingReview": 4,
+      "enabledPublisherBlockRules": 0
+    },
+    "rules/research/publisher-accounts.json": {
+      "publisherRules": 201,
+      "enabledPendingReview": 4,
+      "enabledPublisherBlockRules": 0
+    }
+  },
+  "uniqueObservations": 2072,
+  "agentReviewedLabels": 112,
+  "humanLabels": 0,
+  "quarantinedTestCandidates": 1,
+  "schema": "pass",
+  "unitTests": "..........................\n----------------------------------------------------------------------\nRan 26 tests in 0.006s\n\nOK",
+  "swiftCompared": 784,
+  "swiftMismatches": 0,
+  "productionReady": false,
+  "reason": "Human gold and independent testing incomplete; account identity confirmation absent"
+}

@@ -1,0 +1,112 @@
+{
+  "show_id": "1517166119",
+  "feed_url": "https://anchor.fm/s/218d7a40/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/218d7a40/podcast/rss",
+    "final_url": "https://anchor.fm/s/218d7a40/podcast/rss",
+    "fetched_at": "2026-10-25T14:42:04.991318+00:00",
+    "status": 200,
+    "sha256": "ce14e7267962755d565239d9bcd29b086d722d47b9c97389e3b0938fac361c7d"
+  },
+  "status": "ok",
+  "title": {
+    "text": "MOSHI MOSHI",
+    "truncated": false
+  },
+  "description": {
+    "text": "ALOHA!! My name is Yuka. I am from Japan and currently living in Hawaii. MOSHI MOSHI is a channel where I talk with fun-loving guests about anything going on in their lives. I hope I can make you happy and smile!! ハワイ在住YUKAが色々な事をテーマに毎回ゲストとお話ししています。皆さんのハッピーや笑顔、何かのきっかけになりますように・・・",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 6,
+  "episodes": [
+    {
+      "id": "687adc88242c417dd0735e7557851cc544014b06cb5d155f9893495b154cba9b",
+      "guid": "88dca0cd-c6e6-41d4-9ded-4a6de141004e",
+      "title": {
+        "text": "#6ハワイ国際看護師みつきとの対談/With Hawaii International nurse Mitsuki",
+        "truncated": false
+      },
+      "description": {
+        "text": "Today's guest is Hawaii nurse Mitsuki. We are talking about how to be a nurse in America being from Japan. She also established a Nurse community company. 今回はハワイで看護師と会社経営をしているみつきに アメリカで看護師になるまで、アメリカナース事情を聞いてみました！ 実際に現場でお仕事をしながらも自身で会社設立もこなす彼女のお話しお楽しみください！ 何かのきっかけになりますように。。。 Mitsuki's Podcast https://anchor.fm/globalnursing.jp",
+        "truncated": false
+      },
+      "published_at": "Fri, 11 Dec 2020 21:10:54 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "90953c10378f041451de322b103faf0a3b52f6940257d8718364c6bf8396f92a",
+      "guid": "a676c8ef-a266-4d95-9160-2420cf08302d",
+      "title": {
+        "text": "#5アーシングヨガインストラクターEllyとの対談/With Earthing yoga teacher Elly",
+        "truncated": false
+      },
+      "description": {
+        "text": "Today's guest is Yoga instructor Elly. She does Earthing yoga, NLP coaching , Beach clean UP and many yoga events in Japan. I hope you enjoy our show!! 今回はアーシングヨガインストラクターのエリちゃんとの対談です。 他にもNLPコーチングやビーチクリーンアップ活動など毎月色々なイベントを日本各地で開催しているようです。 そんなアクティブなエリちゃんに色々聞いてみました！",
+        "truncated": false
+      },
+      "published_at": "Sun, 22 Nov 2020 01:10:38 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "c5f48b7cf8193f8e1b71336eac69f0f1e43a77636165565af7ceb60a85b88899",
+      "guid": "a459fd93-7b7b-49c5-876f-cefc8de64aff",
+      "title": {
+        "text": "#4思い向くままに/ Follow your heart",
+        "truncated": false
+      },
+      "description": {
+        "text": "This podcast we are talking about how Amy takes solo trips and how she decides what she wants to do and where to go. 今回は時間が出来たら一人で色々な場所へ旅行に行くAmyちゃんに、女子一人旅についてYukaから色々質問してみました！",
+        "truncated": false
+      },
+      "published_at": "Mon, 27 Jul 2020 05:48:47 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "d58a8977c98e0a40df77f51e148b84acbc9a12208281f61e2e5d740e1dad306b",
+      "guid": "d5e1c0d9-7b95-4312-adf3-f42f38fb7d33",
+      "title": {
+        "text": "#3 シンプルライフ / Simple Life",
+        "truncated": false
+      },
+      "description": {
+        "text": "今回は二人の一日のルーティンをお話ししています！ ハワイと日本でのライフスタイルの違いから アミちゃんが自粛中に起こったとある変化について、深〜く語っています。 This podcast we talk about our daily routine and how Amy's Japanese lifestyle is different from Yuka's in Hawaii. Also, we talk about Amy's difficult time as a business owner in Tokyo during the recent pandemic.",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Jul 2020 07:33:24 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "d1e03a2ff9efabed8b334d50c4099c422e0090b33dcdd5d78572fb89fc31834b",
+      "guid": "8858670e-7ab5-4131-9d61-18e82bf40e9b",
+      "title": {
+        "text": "#2 起こるべきして起こる事 / Everything happens for a reason",
+        "truncated": false
+      },
+      "description": {
+        "text": "今回は私達の出会いについて。 思い返す事３年前。 ハワイでひょんな事がきっかけで出会った私達のストーリーをお話ししています。",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 Jun 2020 21:06:37 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "21976864e35832c6e702c526612489dcb0ea175165f1295acf94949cfc94698f",
+      "guid": "9e8903b6-2312-4695-9b83-f20a291c61f8",
+      "title": {
+        "text": "＃１自己紹介 / Introduction",
+        "truncated": false
+      },
+      "description": {
+        "text": "はじめまして！Hawaii在住のYukaとTokyo在住のAmyです。 まず始めに私たちの自己紹介からお聞きください＾＾ 感想や、こんな事話して欲しいなど私達のInstaguramよりお気軽にメッセージしてくださいね！ Instagram AMY : @amy_waxing YUKA : @yun5858",
+        "truncated": false
+      },
+      "published_at": "Sat, 06 Jun 2020 00:58:31 GMT",
+      "feed_index": 5
+    }
+  ]
+}

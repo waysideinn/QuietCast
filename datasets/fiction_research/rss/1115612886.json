@@ -1,0 +1,140 @@
+{
+  "show_id": "1115612886",
+  "feed_url": "http://www.ximalaya.com/album/4276887.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/4276887.xml",
+    "final_url": "http://www.ximalaya.com/album/4276887.xml",
+    "fetched_at": "2026-10-25T14:41:19.534541+00:00",
+    "status": 200,
+    "sha256": "3fbc593c41fd42602cc20ef7d3e9c731afa8bb3bc442c73c430567ed5fee3bb8"
+  },
+  "status": "ok",
+  "title": {
+    "text": "穿越搞笑-妖孽横行，狂妃祸江山",
+    "truncated": false
+  },
+  "description": {
+    "text": "作者：夜舞倾城； 内容： 要钱不要命的杀手霍水，一朝穿越成了丞相府的草包嫡女。要才没才要钱没钱还是个病秧子。 最要命的是所有人都见不得她好，欲把她除之而后快。 家人算计，姐妹无良，未婚夫节操碎满地，原身懦弱连小命都保不住。 霍水泼辣不羁，顽强睿智，更有那让地球人都觉得汗颜的厚脸皮。 犀利时能巧言善辩，温柔时能软化天地。得罪她的人，她一个都不会放过！ 话说，这个死皮赖脸没吃药的蛇精病是从哪里跑出来的？ 片段一： 霍水本想找到神医解毒救命，却遇见个外表像神仙内心是恶魔，丧心病狂的妖孽强迫收她为徒。 某妖孽说：徒弟，前面有危险！ 某水货斜眼：师父，上！ 某妖孽向后退了一步：养兵千日，用兵一时，你上！ 某水货的嘴角一抽：那你呢？ 某妖孽转身就跑：我先撤！ 某水货脸颊狂抽：说好的不能同年同月同日生，但愿同年同月同日死呢？ 如果您喜欢请关注、订阅。 讲故事很辛苦的，请用支付宝扫描二维码打赏几个子儿，谢谢！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 499,
+  "episodes": [
+    {
+      "id": "b5ce58452f5410c1eafe6954233c5e93b536e4c5f624aacec865ea62c73f061c",
+      "guid": "https://audio.xmcdn.com/group12/M03/65/F9/wKgDXFczMXXwKd8WABz1oYj1HbA079-aacv2-48K.m4a",
+      "title": {
+        "text": "妖孽横行，狂妃祸江山（预告）",
+        "truncated": false
+      },
+      "description": {
+        "text": "（ 点赞助主播能分到手的金额很少，如果您喜欢请选择扫码支付，谢谢了！先扫第一张二维码领红包，再扫第二张二维码进行支付，就可以用红包金额了！也可以直接选择扫第二张二维码直接打赏。谢谢各位听友！ ）",
+        "truncated": false
+      },
+      "published_at": "Wed, 11 May 2016 13:19:44 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "46d39e7c819097cb2ad7037ac21df22f83531c031ff326093f78190fe302f6f0",
+      "guid": "https://audio.xmcdn.com/group9/M06/9A/FA/wKgDZldqrwGRxUwBAC06y5XhKeY008-aacv2-48K.m4a",
+      "title": {
+        "text": "第71章 不好的预感（欢迎收听新作品柳家七娘子）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Jun 2016 15:30:01 GMT",
+      "feed_index": 71
+    },
+    {
+      "id": "b748357e21fd94b761475f7a61c89a5c91fdf88c77fdbbd42f259b8ea8163945",
+      "guid": "https://audio.xmcdn.com/group18/M03/9E/4A/wKgJJVe0eriTZjGoAGqsxWuBHo8890-aacv2-48K.m4a",
+      "title": {
+        "text": "第133章 柳府拜寿（特别感谢打赏的宝宝们）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 17 Aug 2016 14:54:25 GMT",
+      "feed_index": 142
+    },
+    {
+      "id": "3f97a6ca9a3e98c78a0c7465fea7e92c51358f5b474b2498f9e5a0bca1e6a37a",
+      "guid": "https://audio.xmcdn.com/group19/M09/16/77/wKgJJlffzTzCdQIjAGKU0LKY1W0406-aacv2-48K.m4a",
+      "title": {
+        "text": "第188章 脑袋里一根筋",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 19 Sep 2016 11:34:00 GMT",
+      "feed_index": 213
+    },
+    {
+      "id": "95cb8056cfa55ac72a15ba7a0ff2d828a2a5a24c613b81495ec272ace268b5e9",
+      "guid": "https://audio.xmcdn.com/group18/M08/8F/59/wKgJKlgHfFizwPXiAFJUuhIJDXI810-aacv2-48K.m4a",
+      "title": {
+        "text": "第246章 大婚4（欢迎收听新作品柳家七娘子）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Oct 2016 13:58:46 GMT",
+      "feed_index": 285
+    },
+    {
+      "id": "3dfda3bd017c75f4c380b9dc4fdaa58a114d584dfb8531e08c61fadf0fba0a6f",
+      "guid": "https://audio.xmcdn.com/group24/M08/6F/34/wKgJNVg7BtfTWy3qAHpukWLIisY744.m4a",
+      "title": {
+        "text": "第313章",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Nov 2016 16:16:00 GMT",
+      "feed_index": 356
+    },
+    {
+      "id": "28adf2a2057facbaacaf3ef0a2549524c3fb09837523fb68f61fd80ac12a1029",
+      "guid": "https://audio.xmcdn.com/group21/M08/02/A2/wKgJLVhhLzqAQNNjAE1Syey9Egk065-aacv2-48K.m4a",
+      "title": {
+        "text": "第368章（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Dec 2016 14:54:36 GMT",
+      "feed_index": 427
+    },
+    {
+      "id": "6cd11aba5f6e228ab3733f083e3db203a0c408dcc29b088bf2505bf850a2b7a3",
+      "guid": "https://audio.xmcdn.com/group21/M07/A6/96/wKgJKFh-LVuQXwgDAE5-W2uMh_g666-aacv2-48K.m4a",
+      "title": {
+        "text": "第408章（下）大结局完",
+        "truncated": false
+      },
+      "description": {
+        "text": "讲故事很辛苦的，请用支付宝扫描二维码打赏几个子儿，谢谢！",
+        "truncated": false
+      },
+      "published_at": "Tue, 17 Jan 2017 14:42:21 GMT",
+      "feed_index": 498
+    }
+  ]
+}

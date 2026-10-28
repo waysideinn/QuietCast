@@ -1,0 +1,42 @@
+{
+  "show_id": "1571109952",
+  "feed_url": "https://feeds.soundon.fm/podcasts/59677919-d39b-4258-a648-818b76fb74c8.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/59677919-d39b-4258-a648-818b76fb74c8.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/59677919-d39b-4258-a648-818b76fb74c8.xml",
+    "fetched_at": "2026-10-25T14:42:55.052286+00:00",
+    "status": 200,
+    "sha256": "91a7053006b4dc28852cfeb96cf3b5bb500c12151d3d797966ef29e2123f48da"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【真孔】廣播劇",
+    "truncated": false
+  },
+  "description": {
+    "text": "【SoundOn原創廣播劇】 一棟平凡不過的大樓裡，住著各式各樣不同的家庭，每個家庭都有幸福的一面與自己的問題，或許每個人在生活中都有偷偷觀察過別人的經驗，這樣的慾望如果太過旺盛，則被稱為偷窺。而偷窺雖然是不可取的行為，但是這或許是發現面具後真心的唯一手段... 贊助這個節目：https://pay.soundon.fm/podcasts/59677919-d39b-4258-a648-818b76fb74c8 ✉️ 廣告合作邀約➠ [email removed] 📱免費下載【SoundOn 聲浪】APP，完整收聽所有精彩節目。 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 1,
+  "episodes": [
+    {
+      "id": "1f52c539dfe1facb5dc234adc0615c29b2dc155fdeba68caddc93daca27c245a",
+      "guid": "107baa76-fe09-448c-a30e-1c574ed1312b",
+      "title": {
+        "text": "【真孔】偷窺是我唯一可以得到安慰的方式！揭開每個家庭白色謊言下的幸福",
+        "truncated": false
+      },
+      "description": {
+        "text": "【SoundOn原創廣播劇】 一棟平凡不過的大樓裡，住著各式各樣不同的家庭，每個家庭都有幸福的一面與自己的問題，或許每個人在生活中都有偷偷觀察過別人的經驗，這樣的慾望如果太過旺盛，則被稱為偷窺。而偷窺雖然是不可取的行為，但是這或許是發現面具後真心的唯一手段… ✉️ 廣告合作邀約➠ [email removed] 📱免費下載【SoundOn 聲浪】APP，完整收聽所有精彩節目。",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Jun 2021 16:00:00 GMT",
+      "feed_index": 0
+    }
+  ]
+}

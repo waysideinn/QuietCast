@@ -1,0 +1,140 @@
+{
+  "show_id": "1611036825",
+  "feed_url": "http://rss.lizhi.fm/rss/14187437.xml",
+  "source": {
+    "url": "http://rss.lizhi.fm/rss/14187437.xml",
+    "final_url": "http://rss.lizhi.fm/rss/14187437.xml",
+    "fetched_at": "2026-10-25T14:55:10.457511+00:00",
+    "status": 200,
+    "sha256": "f07a47f4f4cd4ab7e2dfdc6112e9a768d4bf5bcfeff86e26bdf9780b96c68546"
+  },
+  "status": "ok",
+  "title": {
+    "text": "蒸汽疗法",
+    "truncated": false
+  },
+  "description": {
+    "text": "Steam日常荐游，帮您摘选最新好玩的。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-CN",
+    "keywords": "",
+    "explicit": "yes"
+  },
+  "feed_item_count": 316,
+  "episodes": [
+    {
+      "id": "7d08ffd975be81ff7f87475cbd7ef06f3cf86a944ef8bfa32f71a1417d742b87",
+      "guid": "http://cdn.lizhi.fm/audio/2026/10/14/3239877935471657990_hd.mp3",
+      "title": {
+        "text": "296丨沉星喜鹊钻银松",
+        "truncated": false
+      },
+      "description": {
+        "text": "10月①，马上要10月新品节了，找内容的时候感觉到已经开始有大量Demo推出了，今年秋季的新品节想必竞争又是相当激烈。最近确实不太有新东西，不过有吹哥的《沉星之序》完全够大家玩到明年了，可能。另外还推荐了一些Demo，大家可以在新品节开始前先试试看。",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Oct 2026 02:09:20 +0800",
+      "feed_index": 0
+    },
+    {
+      "id": "942274ffeb9523d5b2d33082d7864d16b1c6850c4ec76b020603dd3f2f445260",
+      "guid": "http://cdn.lizhi.fm/audio/2024/10/29/3107202972915035654_hd.mp3",
+      "title": {
+        "text": "251丨科技信徒等神父",
+        "truncated": false
+      },
+      "description": {
+        "text": "10月④，最近快到万圣节了，整体都恐怖了起来，一页20个游戏恨不得小一半都吓人，我整个看麻了。AAkira又找出 Baba Yaga 游戏了，真是 Yaga 小雷达。这期他是乐了，三个游戏都是恐怖惊悚风（哦，第二个不是，只是黑白而已）。不过即便如此，我这边这周也是说了点克苏鲁的，另外细胞组的新作出了，这个有时间可以好好玩玩，支持最多3人联机，很是心动。这期提到的《科技乌托邦》微博有个小抽奖可以看看。",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Oct 2024 00:24:23 +0800",
+      "feed_index": 45
+    },
+    {
+      "id": "bb4c590fb5c4efea310bf731c5aef9aa50e783ac7f24725f2ce9e397da5ba774",
+      "guid": "http://cdn.lizhi.fm/audio/2023/09/25/3033166442630735366_hd.mp3",
+      "title": {
+        "text": "206丨兔子地城收猛兽",
+        "truncated": false
+      },
+      "description": {
+        "text": "9月②，最近深受阳康+换季鼻炎的双重打击啊，一把鼻涕一把眼泪的遭老罪咯。节目恢复第二周，内容还都挺吸引人的，AAkira这边搞来两个“手”为主角的游戏，在创意上算是狠狠地站住了，另外这《Leafy Trails: Magic Tree》也挺可爱的，确实没想到AAkira如果倾心于这类闲逛式的游戏。我这边的话除了一些怪消息，推荐大家可以试试《Rise Of The White Sun》最近群友有人试了，说是还挺带劲的，玩着挺上瘾，还有一款有点节奏医生内味的《Life is not Auto》，有点像手忙脚乱版节奏医生，不妨来看看。",
+        "truncated": false
+      },
+      "published_at": "Tue, 26 Sep 2023 01:10:43 +0800",
+      "feed_index": 90
+    },
+    {
+      "id": "f0f4c1fc47dd6aa566126853ab8346a473585f4a4d806dccbbf01a7c9e52fae6",
+      "guid": "http://cdn.lizhi.fm/audio/2022/10/11/2968373755709399558_hd.mp3",
+      "title": {
+        "text": "163丨阴影朋友盗房间",
+        "truncated": false
+      },
+      "description": {
+        "text": "10月②，后国庆折磨中，又整这一下上7天班，并没啥时间剪节目很抱歉又晚了一天。Steam倒是很给面子，这周内容不是很多，其中《1428: Shadows over Silesia》算是最瞩目的，画面玩法和故事感觉都特别棒，可惜没有中文，有空的话准备试试这个。其他的话，《Marauders》看着不错，之前没玩过逃离塔科夫，说不定这次可以直接来这宇宙版了。",
+        "truncated": false
+      },
+      "published_at": "Tue, 11 Oct 2022 18:44:12 +0800",
+      "feed_index": 135
+    },
+    {
+      "id": "b068dfe47ae89c5793d3110c062816b9710da67f4f3dc5ae9d54471f25660c81",
+      "guid": "http://cdn.lizhi.fm/audio/2021/12/13/2912373989376748038_hd.mp3",
+      "title": {
+        "text": "121丨天空森林易暗影",
+        "truncated": false
+      },
+      "description": {
+        "text": "12月②，这周有不少大事件啊，2021TGA颁奖典礼已经结束了，看着重复度极高的提名切实感受到今年游戏问世的数量有点惨淡，节目后半程简单说了说对于不同奖项我们的看法，确切说是我的看法吧，AAkira没怎么发言。新游戏的话，本周还是有不少值得留意的新作，不过就我来说现在全身心都在《光环 无限》上了，不管怎么说，能玩到续作还是非常开心的。任天堂明星大乱斗最终也没能加入士官长作为斗士，能够在新作中踏在环带的地面上自由探索也是挺好。",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Dec 2021 23:16:10 +0800",
+      "feed_index": 180
+    },
+    {
+      "id": "290e2e24151ede51c12c2198d3eb8135ce93d18e2c23274366fd9ec79fda9bad",
+      "guid": "http://cdn.lizhi.fm/audio/2021/01/11/5155306050711564294_hd.mp3",
+      "title": {
+        "text": "76丨瘟疫部落猎纹身",
+        "truncated": false
+      },
+      "description": {
+        "text": "-----更多节目中提到的游戏信息请参考头条文章，给您带来不便还请谅解-----",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 Jan 2021 21:01:34 +0800",
+      "feed_index": 225
+    },
+    {
+      "id": "e4a63bacc942f25c9e336afbf76171ab54af8b9d5e46734f8cfacf56ffb06234",
+      "guid": "http://cdn.lizhi.fm/audio/2019/05/20/5044173714365227526_hd.mp3",
+      "title": {
+        "text": "36丨骨头蔷薇吃鸟肠 如龙女孩守裂缝",
+        "truncated": false
+      },
+      "description": {
+        "text": "-----更多节目中提到的游戏信息请参考头条文章，给您带来不便还请谅解-----",
+        "truncated": false
+      },
+      "published_at": "Mon, 20 May 2019 23:00:18 +0800",
+      "feed_index": 270
+    },
+    {
+      "id": "f77306566f90946375bb198ebb9be77e14e1ddb7d99c2bd68e92964faa7d8012",
+      "guid": "http://cdn.lizhi.fm/audio/2017/11/04/2634023369821775366_hd.mp3",
+      "title": {
+        "text": "《蒸汽疗法》第001期",
+        "truncated": false
+      },
+      "description": {
+        "text": "首先感谢您收听本期节目，《蒸汽疗法》是一档全新的节目，暂由我们两位全平台游戏爱好者「Akira」和「饼干」为大家带来Stem平台的PC游戏推荐。由于经常为身边的朋友推荐游戏，于是便想到，如果可以把这些内容分享给更多喜爱游戏的玩家，甚至针对某些需求推荐合适的游戏，那么这份游戏的快乐一定可以彼此传递。《蒸汽疗法》便因此应运而生，我们二位会努力为大家介绍更多有趣的游戏，也希望各位可以更积极的参与节目的互动，和我们多聊聊你们的看法和建议，再次感谢大家。 联络平台：同名微博、微信公众号「蒸汽疗法」 ；同名QQ群「《蒸汽疗法》听众群」271238506 本期节目涉及的游戏名称与Steam链接。 新闻环节： 弹幕游戏 《Shikhondo(食魂徒) - Soul Eater》 http://store.steampowered.com/app/720150/Shikhondo__Soul_Eater/ 动作冒险游戏《A Hat in Time》 http://store.steampowered.com/app/253230/A_Hat_in_Time/ 三消剧情游戏《Metropolis: Lux Obscura》 http://store.steampowered.com/app/671390/Metropolis_Lux_Obscura/ 横版射击游戏《Let Them Come》 htt",
+        "truncated": true
+      },
+      "published_at": "Sat, 4 Nov 2017 18:20:57 +0800",
+      "feed_index": 315
+    }
+  ]
+}

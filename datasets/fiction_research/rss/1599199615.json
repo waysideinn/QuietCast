@@ -1,0 +1,140 @@
+{
+  "show_id": "1599199615",
+  "feed_url": "http://www.ximalaya.com/album/54623735.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/54623735.xml",
+    "final_url": "http://www.ximalaya.com/album/54623735.xml",
+    "fetched_at": "2026-10-25T14:55:08.698549+00:00",
+    "status": 200,
+    "sha256": "68d66c4c052853e2814f334ec762f861ed27fd77820e2e9d1c1d633effbb7781"
+  },
+  "status": "ok",
+  "title": {
+    "text": "恐怖小故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "这里是巳月说，每天都会收集不同的小故事，分享给你们，希望大家能喜欢",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 45,
+  "episodes": [
+    {
+      "id": "e84f75021567889488e30fc16e46d9989e306f15d409d371299d6838a1344bc0",
+      "guid": "xmly_track_489141350",
+      "title": {
+        "text": "消失的人",
+        "truncated": false
+      },
+      "description": {
+        "text": "好好的一个人竟然莫名其妙的消失了，究竟怎么回事？",
+        "truncated": false
+      },
+      "published_at": "Tue, 04 Jan 2022 16:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "a25d0ad8e7f1ee6b04f9f5695ace7711b6da506dee80db08258c963156c102ac",
+      "guid": "xmly_track_485086783",
+      "title": {
+        "text": "照片中的女孩",
+        "truncated": false
+      },
+      "description": {
+        "text": "小伙到废弃的学校拍照，竟然看到一个奇怪的女孩！！！",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Dec 2021 16:00:00 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "0a9a51ab6adf81e65e015d6f8af3692978252db73f9c392a2042e139956e3eb7",
+      "guid": "xmly_track_481093602",
+      "title": {
+        "text": "鬼上身",
+        "truncated": false
+      },
+      "description": {
+        "text": "听说过鬼上身吧，巳月今天和你们说说关于鬼上身的故事。",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Dec 2021 16:00:00 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "7e70f4cfdccf6e5aa0956b168255a07f35ccfb2d0f9cef5dd3d958f6a1f3821e",
+      "guid": "xmly_track_479110262",
+      "title": {
+        "text": "蚯蚓人",
+        "truncated": false
+      },
+      "description": {
+        "text": "你们听说过蚯蚓人嘛？究竟怎么回事？",
+        "truncated": false
+      },
+      "published_at": "Sat, 04 Dec 2021 17:46:39 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "c32447d16a8ec3e17ba3d21f7e5dfcfb37effec79e11d18186316e673cc41095",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2c59-audiofreehighqps/15/5D/GKwRIDoFeXDZACzT5QD8ZbmD.m4a",
+      "title": {
+        "text": "思念的人",
+        "truncated": false
+      },
+      "description": {
+        "text": "男子半夜老是梦到自己的父亲，结果就出事了，究竟怎么回事？",
+        "truncated": false
+      },
+      "published_at": "Sun, 28 Nov 2021 16:25:30 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "90936928958aa00e160dd36ed33fdefb77650f0ce25748c24b2ea075de1be846",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7d03-audiofreehighqps/9C/33/GKwRIJIFcRMtABmVdAD6BumT.m4a",
+      "title": {
+        "text": "厕所里的声音",
+        "truncated": false
+      },
+      "description": {
+        "text": "男子上厕所，突然听到奇怪的声音，但是他过去发现什么都没有，究竟怎么回事？",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 Nov 2021 16:00:00 GMT",
+      "feed_index": 31
+    },
+    {
+      "id": "8574a976f2af94de38cf7de9c6c2dc7cef83a13dc375d78ad2ca235defb9990b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2a64-audiofreehighqps/FD/A2/GKwRIW4FaFMSABvICAD3qt8m.m4a",
+      "title": {
+        "text": "恐怖鸡爪",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Nov 2021 16:51:26 GMT",
+      "feed_index": 38
+    },
+    {
+      "id": "31d038e8f9219779b1e5982eb08f61a58b096ff4f15b0d2f272566270547f00e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a15c-audiofreehighqps/4B/73/CKwRIaIFYWcxABAAAAD1z5Ft.mp3",
+      "title": {
+        "text": "深林",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Nov 2021 10:51:35 GMT",
+      "feed_index": 44
+    }
+  ]
+}

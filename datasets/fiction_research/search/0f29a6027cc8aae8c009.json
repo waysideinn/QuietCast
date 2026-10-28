@@ -1,0 +1,787 @@
+{
+  "group": "fiction",
+  "term": "红楼梦",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%BA%A2%E6%A5%BC%E6%A2%A6&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%BA%A2%E6%A5%BC%E6%A2%A6&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:41:39.076367+00:00",
+    "status": 200,
+    "sha256": "5f7c302bc59e4fb0d99ae282ebb8c51946eb0038b0ea74ae4fa13df11853290d"
+  },
+  "result_count": 32,
+  "records": [
+    {
+      "collectionId": 1768628254,
+      "trackId": 1768628254,
+      "collectionName": "红楼梦-前80回完整本-全新诵读",
+      "artistName": "韩韬（韩丰泽）",
+      "feedUrl": "https://www.ximalaya.com/album/39260970.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E5%89%8D80%E5%9B%9E%E5%AE%8C%E6%95%B4%E6%9C%AC-%E5%85%A8%E6%96%B0%E8%AF%B5%E8%AF%BB/id1768628254?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "表演艺术"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1405"
+      ],
+      "trackCount": 80,
+      "releaseDate": "2021-04-27T04:05:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1706854093,
+      "trackId": 1706854093,
+      "collectionName": "《红楼梦》原著原文附字幕文稿",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/77937281.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E5%8E%9F%E8%91%97%E5%8E%9F%E6%96%87%E9%99%84%E5%AD%97%E5%B9%95%E6%96%87%E7%A8%BF/id1706854093?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 120,
+      "releaseDate": "2023-11-03T12:50:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1748237055,
+      "trackId": 1748237055,
+      "collectionName": "林黛玉读《红楼梦》|120回|",
+      "artistName": "伴你听书",
+      "feedUrl": "https://www.ximalaya.com/album/79236685.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9E%97%E9%BB%9B%E7%8E%89%E8%AF%BB-%E7%BA%A2%E6%A5%BC%E6%A2%A6-120%E5%9B%9E/id1748237055?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 121,
+      "releaseDate": "2024-01-29T12:01:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1715094917,
+      "trackId": 1715094917,
+      "collectionName": "红楼梦 原著",
+      "artistName": "潮音阁",
+      "feedUrl": "https://www.ximalaya.com/album/78964238.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E5%8E%9F%E8%91%97/id1715094917?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2023-11-11T06:50:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1513814747,
+      "trackId": 1513814747,
+      "collectionName": "更适合孩子们听的《红楼梦》",
+      "artistName": "应龙的古文角",
+      "feedUrl": "http://www.ximalaya.com/album/34831956.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9B%B4%E9%80%82%E5%90%88%E5%AD%A9%E5%AD%90%E4%BB%AC%E5%90%AC%E7%9A%84-%E7%BA%A2%E6%A5%BC%E6%A2%A6/id1513814747?uo=4",
+      "genres": [
+        "儿童故事",
+        "播客",
+        "儿童与家庭",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1520",
+        "26",
+        "1305",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 55,
+      "releaseDate": "2021-04-07T12:47:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童故事"
+    },
+    {
+      "collectionId": 1795651737,
+      "trackId": 1795651737,
+      "collectionName": "红楼梦原文朗读｜四大名著",
+      "artistName": "白云出岫、蓝色百合",
+      "feedUrl": "https://www.ximalaya.com/album/220565.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A5%BC%E6%A2%A6%E5%8E%9F%E6%96%87%E6%9C%97%E8%AF%BB-%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97/id1795651737?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "trackCount": 597,
+      "releaseDate": "2024-03-24T10:44:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1713901541,
+      "trackId": 1713901541,
+      "collectionName": "红楼梦 原著 全文 有声书 男中音YZ",
+      "artistName": "炉火焰山",
+      "feedUrl": "https://www.ximalaya.com/album/78660042.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E5%8E%9F%E8%91%97-%E5%85%A8%E6%96%87-%E6%9C%89%E5%A3%B0%E4%B9%A6-%E7%94%B7%E4%B8%AD%E9%9F%B3yz/id1713901541?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 120,
+      "releaseDate": "2024-09-22T04:49:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1722837194,
+      "trackId": 1722837194,
+      "collectionName": "红楼梦解读",
+      "artistName": "小哲谝传子",
+      "feedUrl": "https://feed.xyzfm.space/nepwufyyb9y8",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A5%BC%E6%A2%A6%E8%A7%A3%E8%AF%BB/id1722837194?uo=4",
+      "genres": [
+        "电视与电影",
+        "播客"
+      ],
+      "genreIds": [
+        "1309",
+        "26"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2023-12-23T15:19:00Z",
+      "country": "CHN",
+      "primaryGenreName": "电视与电影"
+    },
+    {
+      "collectionId": 1633259202,
+      "trackId": 1633259202,
+      "collectionName": "红楼梦原著 曹雪芹著（前八十回）",
+      "artistName": "苑溪仙",
+      "feedUrl": "https://www.ximalaya.com/album/52704191.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A5%BC%E6%A2%A6%E5%8E%9F%E8%91%97-%E6%9B%B9%E9%9B%AA%E8%8A%B9%E8%91%97-%E5%89%8D%E5%85%AB%E5%8D%81%E5%9B%9E/id1633259202?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 388,
+      "releaseDate": "2022-10-09T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1613527980,
+      "trackId": 1613527980,
+      "collectionName": "川叔白话红楼梦 | 爆笑听四大名著之首",
+      "artistName": "川叔",
+      "feedUrl": "http://www.ximalaya.com/album/56831395.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B7%9D%E5%8F%94%E7%99%BD%E8%AF%9D%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E7%88%86%E7%AC%91%E5%90%AC%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97%E4%B9%8B%E9%A6%96/id1613527980?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 55,
+      "releaseDate": "2023-03-01T15:16:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1714829770,
+      "trackId": 1714829770,
+      "collectionName": "文本细读《红楼梦》",
+      "artistName": "真心书生",
+      "feedUrl": "https://www.ximalaya.com/album/8702900.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%87%E6%9C%AC%E7%BB%86%E8%AF%BB-%E7%BA%A2%E6%A5%BC%E6%A2%A6/id1714829770?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 33,
+      "releaseDate": "2020-03-12T03:10:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1194587829,
+      "trackId": 1194587829,
+      "collectionName": "猫哥详说红楼梦",
+      "artistName": "猫哥爱科学",
+      "feedUrl": "http://www.ximalaya.com/album/5609461.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%8C%AB%E5%93%A5%E8%AF%A6%E8%AF%B4%E7%BA%A2%E6%A5%BC%E6%A2%A6/id1194587829?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "教育",
+        "语言学习"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 409,
+      "releaseDate": "2026-07-25T15:46:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 6814721777,
+      "trackId": 6814721777,
+      "collectionName": "细说红楼梦",
+      "artistName": "LY",
+      "feedUrl": "https://www.ximalaya.com/album/130212181.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BB%86%E8%AF%B4%E7%BA%A2%E6%A5%BC%E6%A2%A6/id6814721777?uo=4",
+      "genres": [
+        "历史",
+        "播客"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 160,
+      "releaseDate": "2026-09-22T02:16:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 6799072048,
+      "trackId": 6799072048,
+      "collectionName": "原汁原味红楼梦|第三季【关注主播，补听前两季】",
+      "artistName": "云少讲故事",
+      "feedUrl": "https://www.ximalaya.com/album/128093580.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8E%9F%E6%B1%81%E5%8E%9F%E5%91%B3%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E7%AC%AC%E4%B8%89%E5%AD%A3-%E5%85%B3%E6%B3%A8%E4%B8%BB%E6%92%AD-%E8%A1%A5%E5%90%AC%E5%89%8D%E4%B8%A4%E5%AD%A3/id6799072048?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 51,
+      "releaseDate": "2026-08-30T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 6788374807,
+      "trackId": 6788374807,
+      "collectionName": "原汁原味红楼梦|第二季【关注主播，补听第一季】",
+      "artistName": "云少讲故事",
+      "feedUrl": "https://www.ximalaya.com/album/125130594.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8E%9F%E6%B1%81%E5%8E%9F%E5%91%B3%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E7%AC%AC%E4%BA%8C%E5%AD%A3-%E5%85%B3%E6%B3%A8%E4%B8%BB%E6%92%AD-%E8%A1%A5%E5%90%AC%E7%AC%AC%E4%B8%80%E5%AD%A3/id6788374807?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "社会与文化",
+        "情感与人际关系"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 64,
+      "releaseDate": "2026-07-28T09:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1610993282,
+      "trackId": 1610993282,
+      "collectionName": "《红楼梦》-原著",
+      "artistName": "曦爸读经典",
+      "feedUrl": "http://www.ximalaya.com/album/50661539.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E5%8E%9F%E8%91%97/id1610993282?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 163,
+      "releaseDate": "2022-09-15T02:33:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1560267892,
+      "trackId": 1560267892,
+      "collectionName": "解读红楼梦精彩章节",
+      "artistName": "有书有世界",
+      "feedUrl": "http://www.ximalaya.com/album/37856483.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%A7%A3%E8%AF%BB%E7%BA%A2%E6%A5%BC%E6%A2%A6%E7%B2%BE%E5%BD%A9%E7%AB%A0%E8%8A%82/id1560267892?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2023-04-14T09:40:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1806761402,
+      "trackId": 1806761402,
+      "collectionName": "【免费】红楼梦｜RULAI333演播｜品读人生梦与幻|中国古典文学",
+      "artistName": "RULAI333",
+      "feedUrl": "https://www.ximalaya.com/album/89472050.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E7%BA%A2%E6%A5%BC%E6%A2%A6-rulai333%E6%BC%94%E6%92%AD-%E5%93%81%E8%AF%BB%E4%BA%BA%E7%94%9F%E6%A2%A6%E4%B8%8E%E5%B9%BB-%E4%B8%AD%E5%9B%BD%E5%8F%A4%E5%85%B8%E6%96%87%E5%AD%A6/id1806761402?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "社会与文化",
+        "哲学"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 490,
+      "releaseDate": "2025-12-04T16:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1896848050,
+      "trackId": 1896848050,
+      "collectionName": "原汁原味红楼梦|第一季（完结）：通灵宝玉",
+      "artistName": "云少讲故事",
+      "feedUrl": "https://www.ximalaya.com/album/122019562.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8E%9F%E6%B1%81%E5%8E%9F%E5%91%B3%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E7%AC%AC%E4%B8%80%E5%AD%A3-%E5%AE%8C%E7%BB%93-%E9%80%9A%E7%81%B5%E5%AE%9D%E7%8E%89/id1896848050?uo=4",
+      "genres": [
+        "情感与人际关系",
+        "播客",
+        "社会与文化",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 68,
+      "releaseDate": "2026-06-26T11:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "情感与人际关系"
+    },
+    {
+      "collectionId": 1534681688,
+      "trackId": 1534681688,
+      "collectionName": "红楼梦",
+      "artistName": "古典小说",
+      "feedUrl": "https://papi.qingting.fm/podcast/channels/10698",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A5%BC%E6%A2%A6/id1534681688?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 489,
+      "releaseDate": "2023-05-23T10:26:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1755540793,
+      "trackId": 1755540793,
+      "collectionName": "一瓢红楼梦",
+      "artistName": "安大哥",
+      "feedUrl": "https://feed.xyzfm.space/c3jpalcl9mjf",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%80%E7%93%A2%E7%BA%A2%E6%A5%BC%E6%A2%A6/id1755540793?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1483"
+      ],
+      "trackCount": 126,
+      "releaseDate": "2026-10-18T23:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1896794283,
+      "trackId": 1896794283,
+      "collectionName": "红楼梦",
+      "artistName": "旺仔有声小说",
+      "feedUrl": "https://papi.qingting.fm/podcast/channels/12132",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A5%BC%E6%A2%A6/id1896794283?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 120,
+      "releaseDate": "2026-05-21T09:07:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1888892329,
+      "trackId": 1888892329,
+      "collectionName": "《红楼梦》详解之《梦中红楼》",
+      "artistName": "空森林",
+      "feedUrl": "https://www.ximalaya.com/album/50173647.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E8%AF%A6%E8%A7%A3%E4%B9%8B-%E6%A2%A6%E4%B8%AD%E7%BA%A2%E6%A5%BC/id1888892329?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 81,
+      "releaseDate": "2021-12-07T23:56:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1681206903,
+      "trackId": 1681206903,
+      "collectionName": "猫哥详说红楼梦",
+      "artistName": "猫哥爱科学",
+      "feedUrl": "https://www.ximalaya.com/album/5609461.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%8C%AB%E5%93%A5%E8%AF%A6%E8%AF%B4%E7%BA%A2%E6%A5%BC%E6%A2%A6/id1681206903?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "教育",
+        "语言学习"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 409,
+      "releaseDate": "2026-07-25T15:46:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1592227299,
+      "trackId": 1592227299,
+      "collectionName": "蚂蚁晒耳|红楼梦",
+      "artistName": "蚂蚁晒耳",
+      "feedUrl": "http://www.ximalaya.com/album/53226064.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%9A%82%E8%9A%81%E6%99%92%E8%80%B3-%E7%BA%A2%E6%A5%BC%E6%A2%A6/id1592227299?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 212,
+      "releaseDate": "2024-01-15T11:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1747771590,
+      "trackId": 1747771590,
+      "collectionName": "红楼梦续作《红楼真梦》 | 国学公版书必听（免费）",
+      "artistName": "又见飞儿",
+      "feedUrl": "https://www.ximalaya.com/album/80828953.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A5%BC%E6%A2%A6%E7%BB%AD%E4%BD%9C-%E7%BA%A2%E6%A5%BC%E7%9C%9F%E6%A2%A6-%E5%9B%BD%E5%AD%A6%E5%85%AC%E7%89%88%E4%B9%A6%E5%BF%85%E5%90%AC-%E5%85%8D%E8%B4%B9/id1747771590?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 107,
+      "releaseDate": "2026-09-05T12:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 6808937297,
+      "trackId": 6808937297,
+      "collectionName": "原汁原味红楼梦|结局【关注主播，补听前三季】",
+      "artistName": "云少讲故事",
+      "feedUrl": "https://www.ximalaya.com/album/129541858.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8E%9F%E6%B1%81%E5%8E%9F%E5%91%B3%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E7%BB%93%E5%B1%80-%E5%85%B3%E6%B3%A8%E4%B8%BB%E6%92%AD-%E8%A1%A5%E5%90%AC%E5%89%8D%E4%B8%89%E5%AD%A3/id6808937297?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 57,
+      "releaseDate": "2026-10-25T11:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1773890406,
+      "trackId": 1773890406,
+      "collectionName": "爽！红楼梦+大明王朝嫡幼子逆袭夺权风云争霸美女后宫",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/83851792.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%88%BD-%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E5%A4%A7%E6%98%8E%E7%8E%8B%E6%9C%9D%E5%AB%A1%E5%B9%BC%E5%AD%90%E9%80%86%E8%A2%AD%E5%A4%BA%E6%9D%83%E9%A3%8E%E4%BA%91%E4%BA%89%E9%9C%B8%E7%BE%8E%E5%A5%B3%E5%90%8E%E5%AE%AB/id1773890406?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 1476,
+      "releaseDate": "2025-05-10T04:33:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1436456442,
+      "trackId": 1436456442,
+      "collectionName": "All浮云-讲《红楼梦》故事",
+      "artistName": "浮云朗读",
+      "feedUrl": "http://www.ximalaya.com/album/7602560.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/all%E6%B5%AE%E4%BA%91-%E8%AE%B2-%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E6%95%85%E4%BA%8B/id1436456442?uo=4",
+      "genres": [
+        "儿童与家庭",
+        "播客",
+        "教育",
+        "语言学习"
+      ],
+      "genreIds": [
+        "1305",
+        "26",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 40,
+      "releaseDate": "2018-12-09T02:29:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童与家庭"
+    },
+    {
+      "collectionId": 1594109647,
+      "trackId": 1594109647,
+      "collectionName": "红楼梦诗词对联及相关片段朗读",
+      "artistName": "一声之遥",
+      "feedUrl": "http://www.ximalaya.com/album/49813831.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A5%BC%E6%A2%A6%E8%AF%97%E8%AF%8D%E5%AF%B9%E8%81%94%E5%8F%8A%E7%9B%B8%E5%85%B3%E7%89%87%E6%AE%B5%E6%9C%97%E8%AF%BB/id1594109647?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 145,
+      "releaseDate": "2021-10-05T10:08:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1675838454,
+      "trackId": 1675838454,
+      "collectionName": "白话红楼梦｜石头记|Ai多播",
+      "artistName": "青木攀攀",
+      "feedUrl": "https://www.ximalaya.com/album/70812077.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%99%BD%E8%AF%9D%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E7%9F%B3%E5%A4%B4%E8%AE%B0-ai%E5%A4%9A%E6%92%AD/id1675838454?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 26,
+      "releaseDate": "2023-01-26T08:59:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1782623418,
+      "trackId": 1782623418,
+      "collectionName": "新制《红楼梦》原文演播|阿东|不老不少青年男音",
+      "artistName": "前进四_阿东",
+      "feedUrl": "https://www.ximalaya.com/album/84664330.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%B0%E5%88%B6-%E7%BA%A2%E6%A5%BC%E6%A2%A6-%E5%8E%9F%E6%96%87%E6%BC%94%E6%92%AD-%E9%98%BF%E4%B8%9C-%E4%B8%8D%E8%80%81%E4%B8%8D%E5%B0%91%E9%9D%92%E5%B9%B4%E7%94%B7%E9%9F%B3/id1782623418?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 17,
+      "releaseDate": "2024-12-06T10:23:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    }
+  ]
+}

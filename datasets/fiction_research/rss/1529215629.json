@@ -1,0 +1,140 @@
+{
+  "show_id": "1529215629",
+  "feed_url": "https://feeds.soundon.fm/podcasts/58de5a86-b1c0-4262-9af6-a78bba3b71c3.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/58de5a86-b1c0-4262-9af6-a78bba3b71c3.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/58de5a86-b1c0-4262-9af6-a78bba3b71c3.xml",
+    "fetched_at": "2026-10-25T14:53:49.901471+00:00",
+    "status": 200,
+    "sha256": "a72a4526b8131b52719ed0332f89bb63740f65e11ddde2b20fb407b865dd7698"
+  },
+  "status": "ok",
+  "title": {
+    "text": "健康聲友會",
+    "truncated": false
+  },
+  "description": {
+    "text": "歡迎加入「健康聲友會」，這是一個專門以健康為出發點，所創立的醫療網路廣播（Podcast），內容包括白色巨塔的醫病故事、疾病的討論、時事新聞探討，一路追焦到醫療產業的各種大小事。 每周一 「尬聊健康」單元，Kevin 將與來賓一同用輕鬆的口語聊醫療。 每周二 「狄志為&陳欣湄時間」單元，名嘴狄志為與陳欣湄醫師，帶來生活各種面向的健康議題。 每周三 「聚焦專訪」單元，訪問大人物、醫師、專業成功人士。 每周四&六 「江坤俊時間」單元，江坤俊醫師來開講，用淺顯易懂方式，分享診間醫病故事。 每周五 「病患故事」單元，邀請病友來節目中說故事，領路帶您認識疾病預防。 快跟著「健康聲友會」一起了解那些你不懂的醫療面貌，聆聽攸關健康樂活的聲音。 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 226,
+  "episodes": [
+    {
+      "id": "40e8295e593e454c9159a77a7f76c06edb879fe909caa50f05f2da90ed456813",
+      "guid": "fe024c52-0ac8-41f6-971a-e46df38056da",
+      "title": {
+        "text": "頭痛欲裂！ 小心不定時炸彈「腦動脈瘤」上身！ Feat. 歐長憲醫師",
+        "truncated": false
+      },
+      "description": {
+        "text": "依據衛福部歷年國人十大死因統計顯示，腦血管疾病均為國人十大死因前四名，平均每年奪走1萬多條寶貴的性命。當腦部動脈壁長期受到血流不平均的壓力，使動脈血管鼓出囊泡，就會產生腦動脈瘤，讓病患處於與不定時炸彈為伍的風險中。 今天邀請義大醫院 神經影像專科 歐長憲主任 來為大家說明與分享動脈瘤的成因、症狀，以及最新治療方式 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 01 May 2024 09:00:57 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8e6c726ff6871d2740002ae6b9c6f2ec7b7e06fe9f0773c26405bab7b17971c2",
+      "guid": "1b28b691-4e03-4765-acd0-e59fa5afd79d",
+      "title": {
+        "text": "冠心症治療新利器-專家帶你了解新一代支架 feat.方志元醫師",
+        "truncated": false
+      },
+      "description": {
+        "text": "今天健康聲友會邀請百大明醫---高雄長庚醫院心臟內科 方志元醫師 來到節目現場 方醫師要告訴我們什麼是心肌梗塞?狹心症又是什麼?心臟支架又可以怎麼「救心」? 快來聽聽看方醫師怎麼說吧! 更多衛教資訊歡迎鎖定👉健康聲友會👈： ►聲傳媒：https://health-voice.com/ ►Facebook：https://reurl.cc/Q36Ge9 ►Instagram：https://reurl.cc/0OxlvY 合作邀約📬：[email removed] -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 07 Oct 2022 09:00:00 GMT",
+      "feed_index": 32
+    },
+    {
+      "id": "ff2d551eafb48a926f8c7e5950200a0550a67db41ab4a42ca86a0b058e22817f",
+      "guid": "3aa4bd4d-b888-4595-ab80-281bbf040f5f",
+      "title": {
+        "text": "罕見疾病患者的用藥權益及未來期望 feat.林炫沛教授【看見彩色人生】",
+        "truncated": false
+      },
+      "description": {
+        "text": "生病這件事我相信大家一定都有經歷過，從小感冒發燒、吃壞肚子腸胃炎等等對於每個人來說一定都有發生 但有些人的疾病天生就非常特殊，對他們的一生造成非常巨大且長久的影響，也就是我們常聽到的罕見疾病 今天我們特別邀請馬偕小兒遺傳的專家林炫沛教授來到節目現場，他也是台灣罕見疾病進步的推手之一 快來聽聽他跟主持人聊了些什麼吧! 更多衛教資訊歡迎鎖定👉健康聲友會👈： ►聲傳媒：https://health-voice.com/ ►Facebook：https://reurl.cc/Q36Ge9 ►Instagram：https://reurl.cc/0OxlvY 合作邀約📬：[email removed] -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Jun 2022 09:00:00 GMT",
+      "feed_index": 64
+    },
+    {
+      "id": "2631cb8083df65e32fb08346dc4010e326dc3f3b9f7c6e065426279513cbb65f",
+      "guid": "54d35102-6b27-40de-8e4d-e1d493cb77f8",
+      "title": {
+        "text": "這些行為讓妳吃藥越吃越錯！藥師告訴妳用藥五大重點 Feat.呂亞儒｜【狄志為＆陳欣湄時間 】",
+        "truncated": false
+      },
+      "description": {
+        "text": "都有醫師了為什麼需要有藥師？ 讓呂亞儒藥師告訴妳「五大重點」，才不會把良藥吃成毒藥！ 健康聲友會各平台連結： 聲傳媒： https://health-voice.com/ Facebook： https://reurl.cc/Q36Ge9 Instagram： https://reurl.cc/0OxlvY Youtube ： https://reurl.cc/7o3LdQ 合作邀約: [email removed] -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 08 Feb 2022 09:02:48 GMT",
+      "feed_index": 96
+    },
+    {
+      "id": "f19986ecfc831bd0975ac66cff574bbf4f467eba28b9152621bd772b85282ac3",
+      "guid": "5e87783e-be68-46a1-b3f2-6ed16d621b22",
+      "title": {
+        "text": "台灣本土病例不斷！下一步該怎麼辦?｜【狄志為＆陳欣湄時間】",
+        "truncated": false
+      },
+      "description": {
+        "text": "疫情又起該怎麼辦？ 工作、旅遊、投資樣樣都受到了影響，更重要的是不明感染源比例激增！ 人心惶惶的時候我們該怎麼做呢？ 聽聽陳欣湄醫師怎麼說！ 健康聲友會各平台連結： 聲傳媒： https://health-voice.com/ Facebook： https://reurl.cc/Q36Ge9 Instagram： https://reurl.cc/0OxlvY Youtube ： https://reurl.cc/7o3LdQ 合作邀約: [email removed] -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 01 Jun 2021 09:27:56 GMT",
+      "feed_index": 129
+    },
+    {
+      "id": "76df43483fb51280c5b090f4732c2d1688ca0f06b09650e5fb7d88e4236414b3",
+      "guid": "63789077-739f-4836-ae1c-52670a5c0680",
+      "title": {
+        "text": "許藍方＆江坤俊續聊斜槓人生，兩人當初創業遇到什麼樣的困難與謾罵？【江坤俊時間】",
+        "truncated": false
+      },
+      "description": {
+        "text": "許藍方博士今天繼續來與江坤俊聊斜槓人生的心酸血淚史 兩人當初開創新事業，都遭受了許多同行的批評… 究竟許藍方開始聊性並且成為Youtuber的時候 碰到了什麼樣的鳥事呢？ 收聽健康聲友會 聽聽兩位出生於白色巨塔內的斜槓醫護人員 一路走來發生什麼趣事！ 健康聲友會各平台連結： 聲傳媒： https://health-voice.com/ Facebook： https://reurl.cc/Q36Ge9 Instagram： https://reurl.cc/0OxlvY Youtube ： https://reurl.cc/7o3LdQ 合作邀約: [email removed] -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 18 Feb 2021 01:00:00 GMT",
+      "feed_index": 161
+    },
+    {
+      "id": "e09ce00b33af75cc4359747d2b7e5a3fecb7273c81019da06068b61221603634",
+      "guid": "e5828d2d-b5d7-4641-9f3e-b407d8b77589",
+      "title": {
+        "text": "江坤俊時間 EP7-1 萊豬萊豬，是不是可以吃的都是好豬呢? 讓江坤俊告訴妳到底吃了會不會生病！(上集)",
+        "truncated": false
+      },
+      "description": {
+        "text": "萊豬吵得沸沸揚揚，到底萊克多巴胺是什麼？ 對於人體，對於環境又有什麼影響？ 今天江坤俊醫師與資深醫藥媒體人洪素卿要一起討論這個“豬”多爭議的食品政策 同時也要分析一下這對台灣豬肉市場會造成什麼問題… 快來聽聽他們說了些什麼吧！ 也歡迎有疑難雜症的聽眾，留下你們的問題或感想喔！ 你也想問問題嗎？快去追蹤健康聲友會官方 FB 粉絲團 Facebook： https://reurl.cc/Q36Ge9 健康聲友會各平台連結： 聲傳媒： https://health-voice.com/ Facebook： https://reurl.cc/Q36Ge9 Instagram： https://reurl.cc/0OxlvY Youtube ： https://reurl.cc/7o3LdQ 合作邀約: [email removed] -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 17 Dec 2020 02:00:00 GMT",
+      "feed_index": 193
+    },
+    {
+      "id": "d27560282a08ee3652f87d9cbb938b12a99f4d236b428f56fdd05b8c70086ee0",
+      "guid": "6316c712-8846-4825-9766-17b451b9b62f",
+      "title": {
+        "text": "節目介紹 健康聲友會 HealthVoice",
+        "truncated": false
+      },
+      "description": {
+        "text": "歡迎加入「健康聲友會」，這是一個專門以健康為出發點，創立的醫療網路廣播（Podcast），內容包括白色巨塔的醫病故事、疾病的討論、時事新聞探討，一路追焦到醫療產業的各種大小事。 請到YouTube搜尋：「健康聲友會」 Email: [email removed] -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 Aug 2020 10:30:42 GMT",
+      "feed_index": 225
+    }
+  ]
+}

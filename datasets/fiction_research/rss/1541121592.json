@@ -1,0 +1,84 @@
+{
+  "show_id": "1541121592",
+  "feed_url": "http://www.ximalaya.com/album/43749406.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/43749406.xml",
+    "final_url": "http://www.ximalaya.com/album/43749406.xml",
+    "fetched_at": "2026-10-25T14:55:28.735144+00:00",
+    "status": 200,
+    "sha256": "4d5348ae5e3fc225639dd073a267a134607976ccecc54fbe1518a2bcd6397c91"
+  },
+  "status": "ok",
+  "title": {
+    "text": "十二经络——藏在时间里的健康密码《经闻》",
+    "truncated": false
+  },
+  "description": {
+    "text": "中医认为自然界与人是统一的整体，自然界的年、季、日、时周期变化，会影响人们的生理、病理相应的周期变化，人的病情变化和人体气血运行息息相关关，也就是在不同的时辰，气血运行到不同的经络，对人体的生理，病理起到了直接的影响！《经闻》将带领大家揭示时间里的健康密码， 希望通过我们的课程大家能对十二经络、十二经络与时辰的关系能够有一定认知和了解。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 4,
+  "episodes": [
+    {
+      "id": "1dbd1c7996c9a5f82ca07b183762c8e85bfc45a630377c6161e8563409c845c5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3651-audiofreehighqps/D7/07/CMCoOR8DjkeJAIa7NABpHE3E.mp3",
+      "title": {
+        "text": "十二经络：巳时脾经",
+        "truncated": false
+      },
+      "description": {
+        "text": "中医认为自然界与人是统一的整体，自然界的年、季、日、时周期变化，会影响人们的生理、病理相应的周期变化，人的病情变化和人体气血运行息息相关关，也就是在不同的时辰，气血运行到不同的经络，对人体的生理，病理起到了直接的影响！《经闻》将带领大家揭示时间里的健康密码，希望通过我们的课程大家能对十二经络、十二经络与时辰的关系能够有一定认知和了解。",
+        "truncated": false
+      },
+      "published_at": "Sat, 21 Nov 2020 03:07:54 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "9ad93d00319a04fd442799128d65bb52944da1bb7199f6460f88c7d620d80c78",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e278-audiofreehighqps/B9/7B/CMCoOSEDi5riAKIb6wBoa-Vc.mp3",
+      "title": {
+        "text": "十二经络：辰时胃经",
+        "truncated": false
+      },
+      "description": {
+        "text": "中医认为自然界与人是统一的整体，自然界的年、季、日、时周期变化，会影响人们的生理、病理相应的周期变化，人的病情变化和人体气血运行息息相关关，也就是在不同的时辰，气血运行到不同的经络，对人体的生理，病理起到了直接的影响！《经闻》将带领大家揭示时间里的健康密码， 希望通过我们的课程大家能对十二经络、十二经络与时辰的关系能够有一定认知和了解。",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Nov 2020 02:26:43 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "54faa4212cbe5412ef858fe92a1ca6ab5b3dc3a0ff7641b4666f17362f551a38",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2897-audiofreehighqps/67/9A/CMCoOSQDhT-eAIrdsgBmzsK4.mp3",
+      "title": {
+        "text": "十二经络：卯时大肠经",
+        "truncated": false
+      },
+      "description": {
+        "text": "中医认为自然界与人是统一的整体，自然界的年、季、日、时周期变化，会影响人们的生理、病理相应的周期变化，人的病情变化和人体气血运行息息相关关，也就是在不同的时辰，气血运行到不同的经络，对人体的生理，病理起到了直接的影响！《经闻》将带领大家揭示时间里的健康密码，希望通过我们的课程大家能对十二经络、十二经络与时辰的关系能够有一定认知和了解。",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 Nov 2020 06:43:44 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "d94830410845d616e39e5e34b793c21160adbf37ad5e430a4cfa8435f11ee793",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/efa1-audiofreehighqps/39/C6/CMCoOSEDhTiHAEXrTQBmzVIM.mp3",
+      "title": {
+        "text": "十二经络：寅时肺经",
+        "truncated": false
+      },
+      "description": {
+        "text": "中医认为自然界与人是统一的整体，自然界的年、季、日、时周期变化，会影响人们的生理、病理相应的周期变化，人的病情变化和人体气血运行息息相关关，也就是在不同的时辰，气血运行到不同的经络，对人体的生理，病理起到了直接的影响！《经闻》将带领大家揭示时间里的健康密码， 希望通过我们的课程大家能对十二经络、十二经络与时辰的关系能够有一定认知和了解。",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 Nov 2020 06:13:28 GMT",
+      "feed_index": 3
+    }
+  ]
+}

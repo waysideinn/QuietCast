@@ -1,0 +1,42 @@
+{
+  "show_id": "1530453026",
+  "feed_url": "https://anchor.fm/s/33e0071c/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/33e0071c/podcast/rss",
+    "final_url": "https://anchor.fm/s/33e0071c/podcast/rss",
+    "fetched_at": "2026-10-25T14:54:07.741477+00:00",
+    "status": 200,
+    "sha256": "c2e669cf6d4cdf74daa172787ba541075eef1aa72b8d88df8a5a4d9f80de485a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "胸キュン乙女ボイスチャンネル【女性向けボイス配信】",
+    "truncated": false
+  },
+  "description": {
+    "text": "女性向けのボイスドラマを配信しています。甘いストーリーに癒やされたい、キュンとしたい、そんなあなたにぴったりのボイスチャンネルです。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 1,
+  "episodes": [
+    {
+      "id": "d4d1ec3eb4727b0c3bbcf47a26b2907d89101a123a62f04d2f02f989aa605a9d",
+      "guid": "01a90df1-30a9-4658-aebe-33025bb4889e",
+      "title": {
+        "text": "イケメン２人に拾われて男２人女１人のシェアハウス！？【女性向けボイス・低音・ドラマ】",
+        "truncated": false
+      },
+      "description": {
+        "text": "住む場所を失ったあなたを拾ったのは、癒やし系ボイスの中性的なイケメンと、低音メガネの高校教師でした。 イケメン２人に挟まれるシェアハウス！ 深広先生の癒やしボイスと、子規先生の低音ボイスに挟まれて下さい！ 水間深広：越川博康 https://twitter.com/Kosshi_hiro 小野坂子規：山本教介 https://twitter.com/natoyk83 youtubeのチャンネルもチェックしてね！ https://www.youtube.com/c/Landkarte_usakame",
+        "truncated": false
+      },
+      "published_at": "Sun, 30 Aug 2020 07:12:22 GMT",
+      "feed_index": 0
+    }
+  ]
+}

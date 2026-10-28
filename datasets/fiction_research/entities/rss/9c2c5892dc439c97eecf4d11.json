@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/84366625.xml",
+    "final_url": "https://www.ximalaya.com/album/84366625.xml",
+    "fetched_at": "2026-10-26T07:56:56.475298+00:00",
+    "status": 200,
+    "sha256": "3e288ab3257e3937d963d252924dffc573f0600848ea89ce31db416aebf65ea3"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "武则天外史|经典公版书|多播|多人有声剧",
+      "truncated": false
+    },
+    "description": {
+      "text": "话说苍苍人生，号为淫物，实在是一点不错。看官，这“淫”宇要当作过分的“过”宇解说，因为，人心是不知足的。所以，古人说得好：“饱暖思淫欲，饥寒起盗心。”人当未发迹的时候，思衣思食。待衣食已丰，未免就要起肉体相薄的念头了。故男爱女，女爱男，男女成了誊属之后，就发生多少怪剧来。在下今天不说别个，单讲那唐朝武氏则天。他人称则天为中国四千年间第一英雄，一部艳史，真个好看：其中千奇百怪，种种诲淫的事体，实在不少。然而，唐宫春色，载于史编，洛阳烟花，久注鸳册。小可本不好做淫书，风流事何伤大雅。看官暂且毋躁，待在下给则天外史慢馒的说出来罢。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "冷静之声"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "冷静之声"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Drama"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/84366625",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 9,
+    "episodes": [
+      {
+        "title": {
+          "text": "第一章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_772481187"
+      },
+      {
+        "title": {
+          "text": "第二章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 1,
+        "guid": "xmly_track_772481189"
+      },
+      {
+        "title": {
+          "text": "第三章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 2,
+        "guid": "xmly_track_772481190"
+      },
+      {
+        "title": {
+          "text": "第四章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 3,
+        "guid": "xmly_track_772481192"
+      },
+      {
+        "title": {
+          "text": "第六章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 5,
+        "guid": "xmly_track_772481197"
+      },
+      {
+        "title": {
+          "text": "第七章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 6,
+        "guid": "xmly_track_772481198"
+      },
+      {
+        "title": {
+          "text": "第八章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 7,
+        "guid": "xmly_track_772481200"
+      },
+      {
+        "title": {
+          "text": "第九章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 8,
+        "guid": "xmly_track_772481276"
+      }
+    ]
+  }
+}

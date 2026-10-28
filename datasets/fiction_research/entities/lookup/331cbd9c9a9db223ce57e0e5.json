@@ -1,0 +1,296 @@
+{
+  "source": {
+    "url": "https://itunes.apple.com/lookup?id=1652605841%2C1657851921%2C1687955818%2C1692790013%2C1692794402%2C1485707007%2C1494068914%2C1507306726%2C1525845035%2C1542572069%2C1650507591%2C1716822386%2C1716825531%2C1717002782%2C1717003195%2C1525948730%2C1529468463%2C1544923739%2C1545432227%2C1558009581&country=cn",
+    "final_url": "https://itunes.apple.com/lookup?id=1652605841%2C1657851921%2C1687955818%2C1692790013%2C1692794402%2C1485707007%2C1494068914%2C1507306726%2C1525845035%2C1542572069%2C1650507591%2C1716822386%2C1716825531%2C1717002782%2C1717003195%2C1525948730%2C1529468463%2C1544923739%2C1545432227%2C1558009581&country=cn",
+    "fetched_at": "2026-10-26T07:52:34.257159+00:00",
+    "status": 200,
+    "sha256": "8592b23a3eb7f1143353f9eecc6bd4e4f810710bf5ccb262c9e2a6b76c518d80"
+  },
+  "status": "ok",
+  "data": [
+    {
+      "collectionId": 1652605841,
+      "trackId": 1652605841,
+      "artistName": "多云下的蛋",
+      "collectionName": "认识你自己：近代哲学四百年-理查德大卫普莱希特",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%AE%A4%E8%AF%86%E4%BD%A0%E8%87%AA%E5%B7%B1-%E8%BF%91%E4%BB%A3%E5%93%B2%E5%AD%A6%E5%9B%9B%E7%99%BE%E5%B9%B4-%E7%90%86%E6%9F%A5%E5%BE%B7%E5%A4%A7%E5%8D%AB%E6%99%AE%E8%8E%B1%E5%B8%8C%E7%89%B9/id1652605841?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/70711946.xml",
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1301",
+        "1482"
+      ],
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "艺术",
+        "图书"
+      ],
+      "primaryGenreName": "哲学",
+      "country": "CHN",
+      "trackCount": 117,
+      "releaseDate": "2022-10-26T11:00:00Z"
+    },
+    {
+      "collectionId": 1657851921,
+      "trackId": 1657851921,
+      "artistName": "多云下的蛋",
+      "collectionName": "我不是喵神|穿越搞笑|精品双播|免费",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E4%B8%8D%E6%98%AF%E5%96%B5%E7%A5%9E-%E7%A9%BF%E8%B6%8A%E6%90%9E%E7%AC%91-%E7%B2%BE%E5%93%81%E5%8F%8C%E6%92%AD-%E5%85%8D%E8%B4%B9/id1657851921?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/72547089.xml",
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "primaryGenreName": "喜剧小说",
+      "country": "CHN",
+      "trackCount": 357,
+      "releaseDate": "2022-12-28T23:31:00Z"
+    },
+    {
+      "collectionId": 1687955818,
+      "trackId": 1687955818,
+      "artistName": "多云下的蛋",
+      "collectionName": "去依附：中国化解第一次经济危机的真实经验-温铁军",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8E%BB%E4%BE%9D%E9%99%84-%E4%B8%AD%E5%9B%BD%E5%8C%96%E8%A7%A3%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%8F%E6%B5%8E%E5%8D%B1%E6%9C%BA%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%BB%8F%E9%AA%8C-%E6%B8%A9%E9%93%81%E5%86%9B/id1687955818?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/75992036.xml",
+      "genreIds": [
+        "1535",
+        "26",
+        "1533",
+        "1324",
+        "1543"
+      ],
+      "genres": [
+        "社会科学",
+        "播客",
+        "科学",
+        "社会与文化",
+        "纪实"
+      ],
+      "primaryGenreName": "社会科学",
+      "country": "CHN",
+      "trackCount": 49,
+      "releaseDate": "2023-05-19T21:30:00Z"
+    },
+    {
+      "collectionId": 1692790013,
+      "trackId": 1692790013,
+      "artistName": "多云下的蛋",
+      "collectionName": "秘密：爱、健康与金钱-带你找到真实本质",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A7%98%E5%AF%86-%E7%88%B1-%E5%81%A5%E5%BA%B7%E4%B8%8E%E9%87%91%E9%92%B1-%E5%B8%A6%E4%BD%A0%E6%89%BE%E5%88%B0%E7%9C%9F%E5%AE%9E%E6%9C%AC%E8%B4%A8/id1692790013?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/76526568.xml",
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1304",
+        "1500"
+      ],
+      "genres": [
+        "情感与人际关系",
+        "播客",
+        "社会与文化",
+        "教育",
+        "自我完善"
+      ],
+      "primaryGenreName": "情感与人际关系",
+      "country": "CHN",
+      "trackCount": 131,
+      "releaseDate": "2023-08-15T13:53:00Z"
+    },
+    {
+      "collectionId": 1692794402,
+      "trackId": 1692794402,
+      "artistName": "多云下的蛋",
+      "collectionName": "人大社·哲学文库·马克思宗教批判思想及其当代启示",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E5%A4%A7%E7%A4%BE-%E5%93%B2%E5%AD%A6%E6%96%87%E5%BA%93-%E9%A9%AC%E5%85%8B%E6%80%9D%E5%AE%97%E6%95%99%E6%89%B9%E5%88%A4%E6%80%9D%E6%83%B3%E5%8F%8A%E5%85%B6%E5%BD%93%E4%BB%A3%E5%90%AF%E7%A4%BA/id1692794402?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/76501095.xml",
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1304",
+        "1501"
+      ],
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "教育",
+        "课程"
+      ],
+      "primaryGenreName": "哲学",
+      "country": "CHN",
+      "trackCount": 73,
+      "releaseDate": "2023-07-15T23:51:00Z"
+    },
+    {
+      "collectionId": 1507306726,
+      "trackId": 1507306726,
+      "artistId": 311022607,
+      "artistName": "文化放送PodcastQR",
+      "artistViewUrl": "https://podcasts.apple.com/cn/artist/%E6%96%87%E5%8C%96%E6%94%BE%E9%80%81podcastqr/311022607?uo=4",
+      "collectionName": "Track Town JPN",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/track-town-jpn/id1507306726?uo=4",
+      "feedUrl": "https://feeds.megaphone.fm/NCB9690914039",
+      "genreIds": [
+        "1545",
+        "26",
+        "1502"
+      ],
+      "genres": [
+        "体育",
+        "播客",
+        "休闲"
+      ],
+      "primaryGenreName": "体育",
+      "country": "CHN",
+      "trackCount": 464,
+      "releaseDate": "2026-10-23T03:54:00Z"
+    },
+    {
+      "collectionId": 1542572069,
+      "trackId": 1542572069,
+      "artistName": "文化放送PodcastQR",
+      "collectionName": "週刊秋田書店 ラジオ編集部",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%80%B1%E5%88%8A%E7%A7%8B%E7%94%B0%E6%9B%B8%E5%BA%97-%E3%83%A9%E3%82%B8%E3%82%AA%E7%B7%A8%E9%9B%86%E9%83%A8/id1542572069?uo=4",
+      "feedUrl": "https://feeds.megaphone.fm/NCB9626559467",
+      "genreIds": [
+        "1502",
+        "26",
+        "1303"
+      ],
+      "genres": [
+        "休闲",
+        "播客",
+        "喜剧"
+      ],
+      "primaryGenreName": "休闲",
+      "country": "CHN",
+      "trackCount": 341,
+      "releaseDate": "2026-10-18T15:00:00Z"
+    },
+    {
+      "collectionId": 1650507591,
+      "trackId": 1650507591,
+      "artistName": "斗罗斗破苍穹小说合集",
+      "collectionName": "斗罗之最强武魂|多人播讲|穿越|系统流|玄幻爽文",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E4%B9%8B%E6%9C%80%E5%BC%BA%E6%AD%A6%E9%AD%82-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1650507591?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/71718997.xml",
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "喜剧小说",
+      "country": "CHN",
+      "trackCount": 883,
+      "releaseDate": "2022-10-19T03:13:00Z"
+    },
+    {
+      "collectionId": 1716822386,
+      "trackId": 1716822386,
+      "artistName": "斗罗斗破苍穹小说合集",
+      "collectionName": "斗罗大陆之神之觉醒|多人播讲|穿越|系统流|玄幻爽文",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E7%A5%9E%E4%B9%8B%E8%A7%89%E9%86%92-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1716822386?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/71915352.xml",
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "剧情",
+      "country": "CHN",
+      "trackCount": 262,
+      "releaseDate": "2022-10-24T04:39:00Z"
+    },
+    {
+      "collectionId": 1716825531,
+      "trackId": 1716825531,
+      "artistName": "斗罗斗破苍穹小说合集",
+      "collectionName": "斗破之遮天斗罗|精彩播讲|穿越|系统流|玄幻爽文",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%A0%B4%E4%B9%8B%E9%81%AE%E5%A4%A9%E6%96%97%E7%BD%97-%E7%B2%BE%E5%BD%A9%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1716825531?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/72362295.xml",
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "喜剧小说",
+      "country": "CHN",
+      "trackCount": 322,
+      "releaseDate": "2022-11-10T08:33:00Z"
+    },
+    {
+      "collectionId": 1717002782,
+      "trackId": 1717002782,
+      "artistName": "斗罗斗破苍穹小说合集",
+      "collectionName": "斗罗大陆之超能武魂|多人播讲|穿越|系统流|玄幻爽文",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E4%B9%8B%E8%B6%85%E8%83%BD%E6%AD%A6%E9%AD%82-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717002782?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/71933684.xml",
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "剧情",
+      "country": "CHN",
+      "trackCount": 333,
+      "releaseDate": "2022-10-24T10:40:00Z"
+    },
+    {
+      "collectionId": 1717003195,
+      "trackId": 1717003195,
+      "artistName": "斗罗斗破苍穹小说合集",
+      "collectionName": "斗罗之觉醒武魂|多人播讲|穿越|系统流|玄幻爽文",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%96%97%E7%BD%97%E4%B9%8B%E8%A7%89%E9%86%92%E6%AD%A6%E9%AD%82-%E5%A4%9A%E4%BA%BA%E6%92%AD%E8%AE%B2-%E7%A9%BF%E8%B6%8A-%E7%B3%BB%E7%BB%9F%E6%B5%81-%E7%8E%84%E5%B9%BB%E7%88%BD%E6%96%87/id1717003195?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/72114481.xml",
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "剧情",
+      "country": "CHN",
+      "trackCount": 323,
+      "releaseDate": "2022-10-31T12:55:00Z"
+    }
+  ]
+}

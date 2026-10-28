@@ -1,0 +1,140 @@
+{
+  "show_id": "1489419966",
+  "feed_url": "http://www.ximalaya.com/album/29309816.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/29309816.xml",
+    "final_url": "http://www.ximalaya.com/album/29309816.xml",
+    "fetched_at": "2026-10-25T14:50:59.462577+00:00",
+    "status": 200,
+    "sha256": "c3e898118a639617a1bb6ef979e93d4d7d05f55577e416ac3fe10ee12fa9d8d8"
+  },
+  "status": "ok",
+  "title": {
+    "text": "漫步欧洲|携程听见旅行",
+    "truncated": false
+  },
+  "description": {
+    "text": "【携程听见旅行】来自携程旅游官方打造 微信公众号：携程旅行顾问 添加游游君微信[contact removed] 即可随时进入旅行大咖直播间获取更多精彩内容 不论是浪漫的法国意大利，热情的西班牙葡萄牙，优雅的瑞士，神秘的北欧......资深达人专家与你一一分享目的地故事及适合路线玩法推荐。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 58,
+  "episodes": [
+    {
+      "id": "98b1337ff558de670f7b625a27932fc32bec558dd72b81c843ccee3b5d887aac",
+      "guid": "https://aod.cos.tx.xmcdn.com/group84/M07/6F/42/wKg5JF8wgAzRxNV_AElHgWpaqi8682-aacv2-48K.m4a",
+      "title": {
+        "text": "漫步欧洲|那些你所不知道的西葡文化与美食",
+        "truncated": false
+      },
+      "description": {
+        "text": "关注 微信公众号“携程旅行顾问” 或 直播助手微信号“ ctrip1010 ” ，更多精彩分享课优先知晓！ 本期携程【听见旅行】西葡专场。我们邀请到了拥有丰富旅行经验的欧洲领队 —— 徐晓洁，从资深旅游玩家的视角，为大家讲讲西葡旅行应该怎么玩。 内容介绍 欧洲可能是许多人心目中的旅游圣地，作为一名欧洲领队时常会被问及最喜欢欧洲哪个国家，或者欧洲哪个国家最有特色，最值得一游。可能浮现在大家眼前的是浪漫优雅的法国，辉煌灿烂的意大利，宁静自然的瑞士，或是贵气雅致的英国，德国。也有人说，去过许多次欧洲看来看去建筑风格雷同，乡村也差不多，那么在欧洲还能看到具有其他异域风情的国家吗？当然有啦，就是她今天要介绍的这两个国家，位于欧洲西南部，伊比利亚半岛上的两颗明珠，西班牙葡萄牙。",
+        "truncated": false
+      },
+      "published_at": "Sun, 09 Aug 2020 23:00:11 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "a0de2bbc0977bf33443da5000ead6088026facb8f140d0e7d8099965d5b46937",
+      "guid": "https://aod.cos.tx.xmcdn.com/group84/M01/B5/EA/wKg5Hl8ff5_wvEnKACHAhj_tVa4272-aacv2-48K.m4a",
+      "title": {
+        "text": "漫步欧洲|瑞典,才不是美食荒漠！",
+        "truncated": false
+      },
+      "description": {
+        "text": "关注 微信公众号“携程旅行顾问” 或 直播助手微信号“ ctrip1010 ” ，更多精彩分享课优先知晓！ 本期携程【听见旅行】北欧专场。我们邀请到了拥有丰富旅行经验的旅游达人 ——CC ，从资深旅游玩家的视角，为大家讲讲北欧旅行应该怎么玩。 内容介绍 北欧（ Northern Europe ），又称北欧五国，是丹麦、挪威、瑞典、芬兰和冰岛，及其附属领土法罗群岛、奥兰群岛和斯瓦尔巴群岛的统称。本次分享 CC 将分享她在北欧各国游玩的经历，聊聊各地的美景与看点，以及一些亲身体验当地文化等，并奉上部分实景照片，说一说除了极光之外北欧其他季节的好风光，以及瑞典一些小众景点。",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Jul 2020 01:30:01 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "b658d6337fe92b822df2d4d938bce0e039704a1ee1cab218ac9f20c5d60ec4cb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group67/M06/B0/93/wKgMd13CHNmzq4NYADYIHcTQGXU360.m4a",
+      "title": {
+        "text": "漫步欧洲|聆听维也纳3.0-去哪里听一场维也纳音乐会？",
+        "truncated": false
+      },
+      "description": {
+        "text": "这是携程【听见旅行】维也纳专场。我们邀请到了拥有丰富旅行经验的人文旅行博主——潘潘三条子，从资深旅游玩家的视角，为携程用户讲讲去维也纳旅行应该怎么玩，并推荐适合的线路。 内容介绍 坐落在多瑙河畔的维也纳，是奥地利的首都，也是闻名世界的音乐之都，这里不仅有着悠久的艺术与文化历史，更培养了包含莫扎特、海顿、贝多芬、舒伯特、勃拉姆斯等在内的一系列古典音乐家。 维也纳还曾连续多年被评为“全球最宜居城市“”，这里亲民的物价、有限的生活方式，无不吸引着来自世界各地的游客们。 内容提纲 -为什么维也纳是世界音乐之都（1.0） - 以时间顺序介绍与维也纳有关的三位音乐家（2.0） - 维也纳必打卡景点推荐（2.0） -去哪里听一场维也纳音乐会（3.0） -维也纳城市卡（3.0） 去哪里听一场维也纳音乐会？ -金色大厅 -美泉宫 -库尔沙龙 -维也纳音乐厅 -音乐会咖啡厅 部分官方网站： https://www.wien.info/de/musik-buehne/klassik/konzert-cafes https://www.cafe-schwarzenberg.at/en/ https://www.cafe-imperial.at/en/ https://www.cafecentral.wien/en/ https://www.cafe-residenz.at/en/cafe-residenz",
+        "truncated": true
+      },
+      "published_at": "Wed, 06 Nov 2019 01:15:07 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "55dbb0e5d72d95ceb3777e4fd8cd64e445eca717445fd8e930467f7f11a57f5e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group71/M04/BA/65/wKgOz14eiUeR5fsQAIFzQLtQj4I836.mp3",
+      "title": {
+        "text": "漫步欧洲|俄罗斯竟有蓝冰和极光观测圣地？-揭秘不一样的俄罗斯4.0",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期携程【听见旅行】俄罗斯专场请到了旅行达人张晓洋为大家讲解这个国家。 内容提纲 - 俄罗斯国家概况（1.0） - 莫斯科旅行景点，历史介绍（2.0） - 圣彼得堡各个宫殿介绍（3.0） - 俄罗斯蓝冰和极光观赏介绍（4.0） 关注 微信公众号 【 携程旅行顾问 】 或直播助手微信号 【 ctrip1010 】 ，更多精彩分享课优先知晓！",
+        "truncated": false
+      },
+      "published_at": "Sat, 18 Jan 2020 14:30:05 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "28aea8f7900522ec9ac60a91d251d63b22d78af8da8b22157b4a8b011e3de112",
+      "guid": "https://aod.cos.tx.xmcdn.com/group54/M0A/7B/1F/wKgLfVwm4VixOZzAATjKB3d0FXw189-aacv2-48K.m4a",
+      "title": {
+        "text": "漫步欧洲 |资深导游和你聊聊意大利的人文故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "从当地人文 、从电影场景、从旅游文化 解读——意大利的魅力 旅行从不是简单的走走停停，而是像当地人一样去旅行。 关注“携程旅行顾问”或直播助手微信号“ctrip1010”，更多精彩分享课优先知晓！",
+        "truncated": false
+      },
+      "published_at": "Sat, 29 Dec 2018 02:51:44 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "ca71457e1dc301eaa764bec7c3885bf0d39f7c1b4cc2defb83d3dbaba3d9c897",
+      "guid": "https://aod.cos.tx.xmcdn.com/group48/M0A/32/7B/wKgKlVtO9fij-_VBAFoAB9N9DWk839-aacv2-48K.m4a",
+      "title": {
+        "text": "漫步欧洲|瑞士法国-那些你不能错过的景点",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 18 Jul 2018 08:10:53 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "3ca20e44c3ee31516c27642e9fa55df275f2fa211891faabaa125a66f9d0d9eb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group66/M0B/65/8D/wKgMdV2cFz-wfG9OAFuAtIcHCUY407-aacv2-48K.m4a",
+      "title": {
+        "text": "漫步欧洲|意大利-西西里岛屿+行前准备3.0",
+        "truncated": false
+      },
+      "description": {
+        "text": "关注微信公众号 “携程旅行顾问 ” 或直播助手微信号 “ctrip1010” ，更多精彩分享课优先知晓！",
+        "truncated": false
+      },
+      "published_at": "Thu, 21 Jun 2018 06:28:46 GMT",
+      "feed_index": 49
+    },
+    {
+      "id": "22bca0bbf7c6f538490ebe0a40a0fd4daa592df07340cf3a67559f92891cf71a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group47/M02/D1/02/wKgKk1tO9iPw-n-bABUa3CUGSps232-aacv2-48K.m4a",
+      "title": {
+        "text": "漫步欧洲|瑞士法国-出行注意事项",
+        "truncated": false
+      },
+      "description": {
+        "text": "关注微信公众号 “携程旅行顾问 ” 或直播助手微信号 “ctrip1010” ，更多精彩分享课优先知晓！",
+        "truncated": false
+      },
+      "published_at": "Wed, 18 Jul 2018 08:11:30 GMT",
+      "feed_index": 57
+    }
+  ]
+}

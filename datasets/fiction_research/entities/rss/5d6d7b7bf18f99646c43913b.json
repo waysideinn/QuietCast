@@ -1,0 +1,153 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/4086159.xml",
+    "final_url": "http://www.ximalaya.com/album/4086159.xml",
+    "fetched_at": "2026-10-26T07:54:12.907694+00:00",
+    "status": 200,
+    "sha256": "e3dbd094a7fd0533576104c7fdc92761d00d81b87f9fc4dd8f5f026838f3ccd5"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "《他是化学人》漫一刀 幻思系有声科幻小说",
+      "truncated": false
+    },
+    "description": {
+      "text": "",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "幻思系 幻思文化 @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "幻思系"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "幻思系"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Arts"
+      ],
+      [
+        "Arts",
+        "Literature"
+      ],
+      [
+        "Technology"
+      ],
+      [
+        "Technology",
+        "Tech News"
+      ],
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Personal Journals"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/4086159",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 7
+    },
+    "feed_item_count": 7,
+    "episodes": [
+      {
+        "title": {
+          "text": "【漫一刀《她是化学人》第07集】幻思系有声科幻小说",
+          "truncated": false
+        },
+        "description": {
+          "text": "【漫一刀《她是化学人》第07集】幻思系有声科幻小说 http://huansixi.com/",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group15/M07/46/90/wKgDZVcSR7fxlvv_AGQU17h6IgQ718.m4a"
+      },
+      {
+        "title": {
+          "text": "【漫一刀《她是化学人》第06集】幻思系有声科幻小说",
+          "truncated": false
+        },
+        "description": {
+          "text": "漫一刀《她是化学人》【第06集】幻思系有声科幻小说",
+          "truncated": false
+        },
+        "feed_index": 1,
+        "guid": "https://aod.cos.tx.xmcdn.com/group13/M04/46/BA/wKgDXlcQtgKQSmoZAQZdsC7sMSc711.mp3"
+      },
+      {
+        "title": {
+          "text": "【漫一刀《她是化学人》第05集】幻思系有声科幻小说",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 2,
+        "guid": "https://aod.cos.tx.xmcdn.com/group11/M07/37/2E/wKgDa1cPT-KTHf3eAR1N9GtRoQA176.mp3"
+      },
+      {
+        "title": {
+          "text": "【漫一刀《她是化学人》第04集】幻思系有声科幻小说",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 3,
+        "guid": "https://aod.cos.tx.xmcdn.com/group14/M07/45/80/wKgDZFcN-MnBSu1_ATPYNOLolCY380.mp3"
+      },
+      {
+        "title": {
+          "text": "【漫一刀《她是化学人》第03集】幻思系有声科幻小说",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 4,
+        "guid": "https://aod.cos.tx.xmcdn.com/group16/M09/42/F7/wKgDalcMsjWSlg8wAWHRSlKcD-0975.mp3"
+      },
+      {
+        "title": {
+          "text": "【漫一刀《她是化学人》第02集】幻思系有声科幻小说",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 5,
+        "guid": "https://aod.cos.tx.xmcdn.com/group15/M02/40/80/wKgDaFcLXpWTa0AgAQ5VvloUE98959.mp3"
+      },
+      {
+        "title": {
+          "text": "【漫一刀《她是化学人》第01集】幻思系有声科幻小说",
+          "truncated": false
+        },
+        "description": {
+          "text": "【漫一刀《她是化学人》第01集】幻思系有声科幻小说 全部小说 请登录 http://www.huansixi.com",
+          "truncated": false
+        },
+        "feed_index": 6,
+        "guid": "https://aod.cos.tx.xmcdn.com/group14/M05/41/17/wKgDY1cIuJrAUGXgASkTJISXem0539.mp3"
+      }
+    ]
+  }
+}

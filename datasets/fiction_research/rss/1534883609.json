@@ -1,0 +1,140 @@
+{
+  "show_id": "1534883609",
+  "feed_url": "https://anchor.fm/s/3a4de8d0/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/3a4de8d0/podcast/rss",
+    "final_url": "https://anchor.fm/s/3a4de8d0/podcast/rss",
+    "fetched_at": "2026-10-25T14:51:13.721671+00:00",
+    "status": 200,
+    "sha256": "a6c1372a6f589f0ec147d88d6c454b0df04a597371c0470b2f4882846aef7ca3"
+  },
+  "status": "ok",
+  "title": {
+    "text": "令潔的讀書分享",
+    "truncated": false
+  },
+  "description": {
+    "text": "令潔是一位喜歡讀書的好寶寶 每週分享一本最近看的好書📚 #暫時停更，歡迎到podcast【字我感覺良好】、【Here We Go】節目繼續支持令潔噢！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 46,
+  "episodes": [
+    {
+      "id": "67d50055bc5f4fee9834f9f1aae970c86793c83f5bd411f2bad50d173d9dd860",
+      "guid": "03ccbd77-8db4-45a2-bd3e-88ad710d4c60",
+      "title": {
+        "text": "ep46《婚禮現場：主持人為什麼不早說？》",
+        "truncated": false
+      },
+      "description": {
+        "text": "書名：《婚禮現場：主持人為什麼不早說？》 作者：曾令潔 📚適合：未婚／已婚／即將結婚的新人 入行十年的婚禮主持人，幽默分享工作現場的親身經歷，以及體會出的夫妻相處之道。 結婚，固然是兩人愛到最高點的慶賀儀式，但「過好日子」終究比「選好日子」重要。",
+        "truncated": false
+      },
+      "published_at": "Wed, 08 Nov 2023 23:42:20 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "087df1afb2f4461ac859c81125bd5324f30a74e34d99bd4008df6d55f68c5447",
+      "guid": "a4aaec50-90c2-4a3f-80dd-524f5dae45c8",
+      "title": {
+        "text": "ep40《不只是喜劇演員：黃豪平的諧槓生存學》",
+        "truncated": false
+      },
+      "description": {
+        "text": "書名：《不只是喜劇演員：黃豪平的諧槓生存學》 作者：黃豪平 演藝圈的學霸——黃豪平，連續多屆的三金星光大道主持人，曾經因為想當明星而被父親賞了一巴掌。 他用詼諧的方式述說自己的故事，分享從跑龍套到被譽為「黃子佼接班人」的過程中經歷了什麼。 📚適合：豪平的粉絲／自認懷才不遇的人",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 May 2023 14:07:47 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "88a8947bee9f4ce28edef583f01d7b2f2ffbb2916ae9e1da8f3dfe7b41b8e78f",
+      "guid": "e1cb624b-c3bd-4c59-ab31-18d2f29594f1",
+      "title": {
+        "text": "ep33《逆思維》",
+        "truncated": false
+      },
+      "description": {
+        "text": "書名：《逆思維》 作者：Adam Grant 「我們向來都是這麼做的。」當大家都不想重新思考，就會說出這句最討人厭的話。 「你怎麼知道？」這是我們需要更常提出的問題，對自己或對別人都是。 📚適合：喜歡跟風的人／自認為有頭腦的人",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Mar 2023 13:26:22 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "bd1321a20dc944d92df4afad92553f861341f0d36a3dbe8eb2a2962173724658",
+      "guid": "cfc09f00-b9f0-4485-ab17-8631a4b21c3e",
+      "title": {
+        "text": "ep27《面試郭台銘》",
+        "truncated": false
+      },
+      "description": {
+        "text": "書名：《面試郭台銘》 作者：高虹安 Big Boss來了！如果開會時，換了位置卻沒有換腦袋，就有可能被郭董罰站！ 郭董雖然很嚴厲，但竟然在繞完操場回辦公室後，就幫員工加薪！他到底是個怎樣的Boss呢？ 📚適合：Big Boss／想了解郭董的人",
+        "truncated": false
+      },
+      "published_at": "Sun, 06 Nov 2022 04:20:38 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "a6fa3c06a7cca2da147bb57c706e411cd3c3b85572c7cb941f787507e3692e51",
+      "guid": "63a89a1f-81d7-402c-a2ad-bd3f25d50b3f",
+      "title": {
+        "text": "ep20《不要做自己了，你做個人吧。》",
+        "truncated": false
+      },
+      "description": {
+        "text": "書名：《不要做自己了，你做個人吧。》 作者：mumu 如果把「做自己」當成不改變的理由，或是傷害人的免死金牌，那你不要做自己了，你做個人吧！ 【德州媽媽沒有崩潰】主角本人！真是一位太有頭腦和邏輯的女子！ 📚適合：有腦子的人／心中有愛的人",
+        "truncated": false
+      },
+      "published_at": "Fri, 29 Jul 2022 14:03:49 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "b4bcc447817c0313c3f3b96f966a6c8f5cecbbb7ec3198f7c4ebb5b3836eba1a",
+      "guid": "e72480f0-98e8-44dc-a81c-851f8718f3a8",
+      "title": {
+        "text": "ep14《情緒勒索》",
+        "truncated": false
+      },
+      "description": {
+        "text": "書名：《情緒勒索》 作者：周慕姿 「你不這樣這樣，就是不愛我！！！」你是被情緒勒索的人？還是勒索別人的人呢？ 會勒索你的人，可能是父母、子女、配偶，也可能是普通朋友！該怎麼避免這個惡性循環呢？ 📚適合：覺得自己在一個令人不舒服的關係中／不想被情緒勒索的人",
+        "truncated": false
+      },
+      "published_at": "Tue, 01 Feb 2022 15:13:55 GMT",
+      "feed_index": 32
+    },
+    {
+      "id": "a5dfcbe05a8d9af509d761a9a93c34d8ee057f548f938a5631bedbf876a32996",
+      "guid": "3467cff5-9caf-46f5-a048-2830d248a154",
+      "title": {
+        "text": "ep7《一個瑜伽行者的自傳》",
+        "truncated": false
+      },
+      "description": {
+        "text": "書名：《一個瑜伽行者的自傳》 作者：帕拉宏撒．尤迦南達 蘋果創辦人Steve Jobs每年都要重讀一遍！他的ipad裡，唯一下載的一本書！ 尤迦南達在美國宣揚一度失傳的「克里亞瑜伽」，把印度修行、冥想傳統，帶到西方。 📚適合：想認識印度教的人／對靈性追尋有興趣的人／喜歡看奇幻小說的人",
+        "truncated": false
+      },
+      "published_at": "Sun, 22 Aug 2021 04:00:39 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "27b6d96c3d39bb39cf9d36cde8eddb601a6e5468d7f07e1955d174a2b6adac52",
+      "guid": "e85d4fd0-15f2-4447-a20c-8a751cde2c44",
+      "title": {
+        "text": "ep1《零噪音》",
+        "truncated": false
+      },
+      "description": {
+        "text": "書名：零噪音 作者：Joseph McCormack 除了耳朵聽到的噪音，你知道「資訊超載」也是一種噪音嗎？ 作者教你向噪音說不！ 📚適合：每天忙忙碌碌，做事很難專注的人／手機成癮的人",
+        "truncated": false
+      },
+      "published_at": "Sat, 10 Jul 2021 08:05:59 GMT",
+      "feed_index": 45
+    }
+  ]
+}

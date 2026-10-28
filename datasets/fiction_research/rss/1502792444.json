@@ -1,0 +1,140 @@
+{
+  "show_id": "1502792444",
+  "feed_url": "http://www.ximalaya.com/album/34869197.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/34869197.xml",
+    "final_url": "http://www.ximalaya.com/album/34869197.xml",
+    "fetched_at": "2026-10-25T14:49:43.838035+00:00",
+    "status": 200,
+    "sha256": "b0ca49f9f1441e1dea3bde404556f45d980c2caddf7f47d967dc0d26bcedb812"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Robust: 程序员的 TALK PLACE",
+    "truncated": false
+  },
+  "description": {
+    "text": "Robust 是一档技术谈话节目，主要聊一聊程序开发、技术想法、技术职业相关、科技话题等等。我将站在程序员的视角，和你一起分享我所见我所想。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 61,
+  "episodes": [
+    {
+      "id": "477aed8fc4b0311afc7278a7fb2b0ac90890464d0b3321f06a568a408b150906",
+      "guid": "xmly_track_1023505221",
+      "title": {
+        "text": "第061期：最接近完美形态的Agent，出现了！",
+        "truncated": false
+      },
+      "description": {
+        "text": "Instinct这家公司，提供了一种，完全没有界面的，只能通过电话、短信、微信等来进行沟通的Agent形态。这让我产生了非常深刻的想法，今天这期节目，就以这个话题为基础，聊一聊终极Agent形态可能会是怎样。 文字稿在：www.tangshuang.net/10392",
+        "truncated": false
+      },
+      "published_at": "Mon, 12 Oct 2026 06:26:11 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "a0a39115dcc7ba020ed1adecbb9c2f5b75ba96155f6c81c208c7e2b0dfae4464",
+      "guid": "xmly_track_740581928",
+      "title": {
+        "text": "第052期：国内AI应用场景现有技术与产品简评",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期节目 挑选了我认为AI领域当前发展最重要的几个方向进行了阐述，呈现国内发展现状，以让更多的读者朋友了解当前AI领域发展趋势。关注我的公众号[contact removed] 阅读本期文字版，了解更多AI应用开发领域内容。",
+        "truncated": false
+      },
+      "published_at": "Thu, 11 Jul 2024 05:33:37 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "fef7b0642b402209e408302f9e55d1e48560ac00dd8bb9f1023303da2f3cbc3d",
+      "guid": "xmly_track_692693142",
+      "title": {
+        "text": "第044期：2024年，前端开发者，不妨看看鸿蒙开发",
+        "truncated": false
+      },
+      "description": {
+        "text": "2024年前端开发行业必然更加惨烈，而此时，鸿蒙开发却如火如荼进行，本期节目列举了8个前端开发者应该考虑看看鸿蒙开发的因素，希望对你有启发。如果需要文字稿，可以关注微信公众号[contact removed]",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Dec 2023 14:27:53 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "85228286fe8dde400f3b1105b0b980925ba01bc47f42a232bb12fe0a4050141c",
+      "guid": "xmly_track_562783147",
+      "title": {
+        "text": "第035期：前端性能优化深入浅出（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "前端性能优化是一个非常重要的话题，本期将聊一条前端性能问题分类、指标体系和诊断方法，具体可以关注微信[contact removed] 回复“前端性能优化”获得更多。",
+        "truncated": false
+      },
+      "published_at": "Sat, 20 Aug 2022 13:20:12 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "f5c0cd15be8e59e270c85aa52b6a783e5a1d3ec000b2b7f6e89654f4e34ed83f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2617-audiofreehighqps/58/D9/CKwRIUEE-DMlABAAAADa98rb.m4a",
+      "title": {
+        "text": "第027期：元宇宙",
+        "truncated": false
+      },
+      "description": {
+        "text": "元宇宙的概念最近特别火，那么什么是元宇宙呢，我们怎么去理解虚拟世界的社会属性呢？本期节目以我个人的视角，和你聊一聊元宇宙的事情。",
+        "truncated": false
+      },
+      "published_at": "Sun, 22 Aug 2021 15:45:13 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "67384e5d0b8e1cd4012c97fc1775b666be01efa2b26b3158383e20cbafd39c79",
+      "guid": "https://aod.cos.tx.xmcdn.com/group85/M09/29/82/wKg5JV9BSiaiA138BUIqUpq0F6g216.m4a",
+      "title": {
+        "text": "第018期：隐形的水印",
+        "truncated": false
+      },
+      "description": {
+        "text": "水印是 web 开发中偶然会遇到的问题，我们做水印，一方面是为了提高安全，维护成本，另一方面也要考虑用户的阅读感受，不能对用于原有的阅读和感官带来影响。本期具体聊一聊我所接触到的水印知识。",
+        "truncated": false
+      },
+      "published_at": "Sat, 22 Aug 2020 16:39:03 GMT",
+      "feed_index": 43
+    },
+    {
+      "id": "aa18649e352ebe80090500b6170f7053de69a43dcecac6ed823289bb71ab40d8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group76/M03/B2/F2/wKgO3l5jTUHTbZdQB9OTcffdMPQ585.mp3",
+      "title": {
+        "text": "第010期：前端开发者如何入门机器学习？",
+        "truncated": false
+      },
+      "description": {
+        "text": "机器学习是人工智能时代对于开发者而言，最核心也是最近的领域。机器学习看上去是比较深，比较复杂的后端开发技术，被算法工程师牢牢掌控着，前端开发者难道不能涉足吗？我们真的要错过吗？如果我是前端开发者，如何入门机器学习？要学 python 吗？我不会怎么办？本期 Robust 我就带你来聊一聊机器学习。",
+        "truncated": false
+      },
+      "published_at": "Sat, 07 Mar 2020 07:29:14 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "ee8d40c7b10b8f1a702693639ed52d4b1184236545491ec4ee448d8d09a01356",
+      "guid": "https://aod.cos.tx.xmcdn.com/group73/M00/AA/DB/wKgO215jQsiwHpQ7BLrrVyJ8Ymc537.mp3",
+      "title": {
+        "text": "第001期：2019前端开发趋势",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期是Robust的第一期，没有特定的话题，主要聊的是2019年前端开发的一些趋势，是一个大汇集。由于是第一期，时间比较久，全部听完需要40分钟左右，建议通过手机打开，上班途中收听。",
+        "truncated": false
+      },
+      "published_at": "Sat, 07 Mar 2020 06:50:26 GMT",
+      "feed_index": 60
+    }
+  ]
+}

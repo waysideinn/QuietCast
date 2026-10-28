@@ -1,0 +1,56 @@
+{
+  "show_id": "1358251055",
+  "feed_url": "http://www.ximalaya.com/album/6447495.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/6447495.xml",
+    "final_url": "http://www.ximalaya.com/album/6447495.xml",
+    "fetched_at": "2026-10-25T14:41:40.102102+00:00",
+    "status": 200,
+    "sha256": "a73a8528c69ec09356e9775133b9d6d2f0d09aeecbaade268d8d25ca1c9fec64"
+  },
+  "status": "ok",
+  "title": {
+    "text": "古风广播剧《今生亦何欢》",
+    "truncated": false
+  },
+  "description": {
+    "text": "《今生亦何欢》 ——原创古风BG广播剧(更新中) 何欢在一个下午收到了前女友送来的包裹，被一道莫名奇妙的光带入了姻缘石的世界…… 【STAFF】 策划：海猫 导演：泱葵 编剧：艾亦文 微博@艾亦文 剧务：奈落 美工：司【御声嘲风】 后期：何方妖孽【阡淼广播剧社】 宣传：小归【羽落有声】 【CAST】 何欢：沐子白 幼年何欢：e只猫 幼年无灵：蓝暹萝【墨色千城中文广播剧社】 吴思君：凌雅宁【药店.书浓】 木先生：水火【古今剧社】 赵蕊：慕诺【醉梦流殇音社】 赵蕊闺蜜：澹台七娘【十四桥】 公司员工小李：言倦【言倦是总攻工作室】 幼年无常：白砚 王寡妇：紫惜棠【月玲珑】 王月儿：彧薇·凉【天籁梵音】 画外音：澜",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 2,
+  "episodes": [
+    {
+      "id": "3bdd62943a7a216d4f4ba4d53d176ead14c57e560dbb52ed7a8d98cc8c48e3dd",
+      "guid": "https://aod.cos.tx.xmcdn.com/group25/M0B/8B/4A/wKgJNlh6BImCXSJiAjJtJ4mCI-U544.mp3",
+      "title": {
+        "text": "《今生亦何欢》第1期（持续更新中）",
+        "truncated": false
+      },
+      "description": {
+        "text": "《今生亦何欢》 ——原创古风BG广播剧(更新中) 何欢在一个下午收到了前女友送来的包裹，被一道莫名奇妙的光带入了姻缘石的世界…… 【STAFF】 策划：海猫 导演：泱葵 编剧：艾亦文 微博@艾亦文 剧务：奈落 美工：司【御声嘲风】 后期：何方妖孽【阡淼广播剧社】 宣传：小归【羽落有声】 【CAST】 何欢：沐子白 幼年何欢：e只猫 幼年无灵：蓝暹萝【墨色千城中文广播剧社】 吴思君：凌雅宁【药店.书浓】 木先生：水火【古今剧社】 赵蕊：慕诺【醉梦流殇音社】 赵蕊闺蜜：澹台七娘【十四桥】 公司员工小李：言倦【言倦是总攻工作室】 幼年无常：白砚 王寡妇：紫惜棠...",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 Jan 2017 11:01:39 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "34db62ec459ce95d0712c6c57a1db4ac1776156b81691802ccee071c26376382",
+      "guid": "https://aod.cos.tx.xmcdn.com/group38/M02/B3/7B/wKgJo1qOrunTsXRUAnLrA7JPgCo960.mp3",
+      "title": {
+        "text": "《今生亦何欢》第2期（持续更新中）附：主题曲《姻缘石》",
+        "truncated": false
+      },
+      "description": {
+        "text": "《今生亦何欢》 —— 原创古风穿越BG广播剧《今生亦何欢》(第二期) 何欢在一个下午收到了前女友送来的包裹，被一道莫名奇妙的光带入了姻缘石的世界…… 【STAFF】 策划：海猫 导演：泱葵【小鸡炖蘑菇工作室】 编剧：艾亦文 剧务：奈落 美工：司【御声嘲风】 后期：何方妖孽【阡淼广播剧社】 宣传：安待归 【CAST】 何欢：墨千临【星之声】 无灵：千音渺渺【渺渺千音阁】 无常：乔肯尼 木先生：水火 公司员工小李：言倦【凌霄剧团】 李二婶儿：叶言【耽语聆音】 赵大娘：D。12 李二麻子：天霖【十四桥】 画外音：澜【斐然卓声】 【ED】 《姻缘石》 原曲：《情动》 填词：夜素 翻唱：衣支 歌后：临溪【羽落有声】",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Feb 2018 11:56:35 GMT",
+      "feed_index": 1
+    }
+  ]
+}

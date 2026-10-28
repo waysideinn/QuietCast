@@ -1,0 +1,157 @@
+{
+  "group": "normal",
+  "term": "编程",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%BC%96%E7%A8%8B&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%BC%96%E7%A8%8B&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:44:22.322470+00:00",
+    "status": 200,
+    "sha256": "5a658f1c348764a770a880d9949abb2c40cc52c0a065b1f775746f3f10696c57"
+  },
+  "result_count": 7,
+  "records": [
+    {
+      "collectionId": 1274134689,
+      "trackId": 1274134689,
+      "collectionName": "听学编程之Python",
+      "artistName": "听学程序",
+      "feedUrl": "http://www.ximalaya.com/album/9803351.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%90%AC%E5%AD%A6%E7%BC%96%E7%A8%8B%E4%B9%8Bpython/id1274134689?uo=4",
+      "genres": [
+        "自然科學",
+        "Podcast",
+        "科學"
+      ],
+      "genreIds": [
+        "1534",
+        "26",
+        "1533"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2019-05-06T02:36:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自然科學"
+    },
+    {
+      "collectionId": 1526238249,
+      "trackId": 1526238249,
+      "collectionName": "编程百物语",
+      "artistName": "编程百物语",
+      "feedUrl": "http://www.ximalaya.com/album/40444082.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BC%96%E7%A8%8B%E7%99%BE%E7%89%A9%E8%AF%AD/id1526238249?uo=4",
+      "genres": [
+        "科技",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1318",
+        "26"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2020-10-13T08:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1526028680,
+      "trackId": 1526028680,
+      "collectionName": "编程百物语",
+      "artistName": "编程百物语",
+      "feedUrl": "https://codingmyths.github.io/podcast.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BC%96%E7%A8%8B%E7%99%BE%E7%89%A9%E8%AF%AD/id1526028680?uo=4",
+      "genres": [
+        "科技",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1318",
+        "26"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2020-10-13T15:18:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 996138153,
+      "trackId": 996138153,
+      "collectionName": "tag Design：编程漫谈",
+      "artistName": "Apple",
+      "feedUrl": "https://applehosted.podcasts.apple.com/eaas/cn/special_event/wood_joints/wood_joints.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/tag-design-%E7%BC%96%E7%A8%8B%E6%BC%AB%E8%B0%88/id996138153?uo=4",
+      "genres": [
+        "科技",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1318",
+        "26"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2015-05-20T12:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1814427296,
+      "trackId": 1814427296,
+      "collectionName": "编程小学生",
+      "artistName": "Yue",
+      "feedUrl": "https://anchor.fm/s/104e3c45c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BC%96%E7%A8%8B%E5%B0%8F%E5%AD%A6%E7%94%9F/id1814427296?uo=4",
+      "genres": [
+        "科技",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1318",
+        "26"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2025-05-14T14:48:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 996136400,
+      "trackId": 996136400,
+      "collectionName": "故宫博物院：编程漫谈",
+      "artistName": "Apple",
+      "feedUrl": "https://applehosted.podcasts.apple.com/eaas/cn/special_event/palace_museum/palace_museum.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%95%85%E5%AE%AB%E5%8D%9A%E7%89%A9%E9%99%A2-%E7%BC%96%E7%A8%8B%E6%BC%AB%E8%B0%88/id996136400?uo=4",
+      "genres": [
+        "科技",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1318",
+        "26"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2015-05-20T12:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1473120043,
+      "trackId": 1473120043,
+      "collectionName": "吉他 编程 故事",
+      "artistName": "花火cool",
+      "feedUrl": "http://www.ximalaya.com/album/9358282.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%90%89%E4%BB%96-%E7%BC%96%E7%A8%8B-%E6%95%85%E4%BA%8B/id1473120043?uo=4",
+      "genres": [
+        "音樂",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1310",
+        "26"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2020-01-18T03:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "音樂"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1621039521",
+  "feed_url": "http://www.ximalaya.com/album/62043528.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/62043528.xml",
+    "final_url": "http://www.ximalaya.com/album/62043528.xml",
+    "fetched_at": "2026-10-25T14:44:15.406141+00:00",
+    "status": 200,
+    "sha256": "00f1672e3890294538a9171a450913b9985e631ac0c417625b63b55f5ddd4ad0"
+  },
+  "status": "ok",
+  "title": {
+    "text": "三十九级台阶|经典悬疑推理间谍小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "经典悬疑推理间谍小说 - 三十九级台阶。谋杀，追捕，逃亡，改装，易容，警察与间谍兵分两路，结下遮天大网。汉内火眼金晴，一次次识破陷阱，巧妙逃脱魔手。刺杀之日迫在眉睫，而唯一的线索 —— 三十九级台阶究竟在哪儿？三十九级台阶又通向何处？最后的真相又是什么？整个故事情节跌宕起伏，种种突如其来、意想不到的阴谋和犯罪，悬念丛生，惊险瞬间让人目不暇接，不愧为英国作家约翰 · 巴肯的传世之作，曾被四次拍成电影或电视。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 33,
+  "episodes": [
+    {
+      "id": "813640d9a835b84d0d93e853585edabdc90e6b33872190895b4bd4c3adbc0311",
+      "guid": "xmly_track_517217715",
+      "title": {
+        "text": "第一章 一个死了的人（1）|新专辑求关注，评论，转发",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 02 Apr 2022 02:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d88aa8b6fd2006571a41cf19b234eaebdf2c77c7000a62f88e141b23d892800e",
+      "guid": "xmly_track_517221959",
+      "title": {
+        "text": "第三章 爱好文学的小旅店主（1）|感谢收听，评论，转发",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Apr 2022 02:00:00 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "a837f9350af40670ebbb44642b51e8a68dd0bc63bedd701824b9e50c72ca11f1",
+      "guid": "xmly_track_519313775",
+      "title": {
+        "text": "第四章 激进派的候选人（1） |感谢收听，评论，转发",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 09 Apr 2022 02:00:00 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "de7ae5a5e910ea840a68ddace12502aa540a67af2d26682a7466ea425e6d3000",
+      "guid": "xmly_track_521092724",
+      "title": {
+        "text": "第五章 戴眼镜的养路工（3）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 14 Apr 2022 02:00:00 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "8b5a137116f9a12f5a2c30905bb6a04765be03c98a94a0e125327ae412218b3a",
+      "guid": "xmly_track_522497214",
+      "title": {
+        "text": "第六章 秃顶的收藏家（4）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 18 Apr 2022 02:00:00 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "4c392ba394cd83d9cc22ae9c99c27a115a804493ccb925a37b1933ea7950ad3a",
+      "guid": "xmly_track_524263253",
+      "title": {
+        "text": "第八章 “黑石头”来了（2）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Apr 2022 07:00:00 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "77c526bd9874481f8a43e2228fcdf6ba7f9235bbec92349a258e7e9a588948ac",
+      "guid": "xmly_track_525523242",
+      "title": {
+        "text": "第九章 三十九级台阶（3）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 26 Apr 2022 07:00:00 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "b919d27556cd2b56f9b049b7eef3dcdf436aa9db30beb9d7401e9a5509119555",
+      "guid": "xmly_track_527295540",
+      "title": {
+        "text": "第十章 滨海擒敌大结局（5）|大结局",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 May 2022 06:00:00 GMT",
+      "feed_index": 32
+    }
+  ]
+}

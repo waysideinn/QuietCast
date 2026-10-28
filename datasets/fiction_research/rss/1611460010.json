@@ -1,0 +1,140 @@
+{
+  "show_id": "1611460010",
+  "feed_url": "http://www.ximalaya.com/album/56885667.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/56885667.xml",
+    "final_url": "http://www.ximalaya.com/album/56885667.xml",
+    "fetched_at": "2026-10-25T14:43:54.677971+00:00",
+    "status": 200,
+    "sha256": "9122224cb9df3af4b6da35cf46c401a183767ca98d4824b0fce2be2a5196f789"
+  },
+  "status": "ok",
+  "title": {
+    "text": "神枭正传|玄幻武侠|免费有声小说|狮子云云",
+    "truncated": false
+  },
+  "description": {
+    "text": "【作品简介】：爱人已逝，神枭远游。为再见挚爱之人，为寻找起死回生的失落古道术，神枭踏上旅途，从此遨游在茫茫鸿蒙大陆…… 刀惊一万里，驭火三十年，百炼身如铁，横行天地间... ... 我是山洪中不倒的浮萍，我是暴雨中冲锋的山鹰，我是黑暗中最亮的孤星... ... 我是霍真！ 【主播简介】： 靡路，喜马拉雅A+签约 优质主播。 掌握了画本、演播、对轨、后期等有声书全部录制流程。 擅长作品类型：都市、恐怖、玄幻、武侠类作品。 音色(干净、柔和、圆润)：主音色 余音袅袅青叔音，辅音色 正太 公子 总裁 大叔 老年",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "serial",
+    "explicit": "false"
+  },
+  "feed_item_count": 201,
+  "episodes": [
+    {
+      "id": "080f007e9ea67c913dddad91ab0ac803cbb14c062cb9b6dfd067a12f7a2e2ede",
+      "guid": "xmly_track_499645889",
+      "title": {
+        "text": "神枭正传 序章1：4",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 07 Feb 2022 09:02:46 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ae625cd70902530b77113aa630e30c237b6cbdfa883d1b6dc2f524040c323b26",
+      "guid": "xmly_track_501902498",
+      "title": {
+        "text": "神枭正传19登高说天地 上集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 14 Feb 2022 07:32:41 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "94be498c39329736a00b61aba0247dd7167916aaf8874c25a8cd240889d7f89b",
+      "guid": "xmly_track_501904824",
+      "title": {
+        "text": "神枭正传33同是沦落人 上集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Feb 2022 21:26:00 GMT",
+      "feed_index": 57
+    },
+    {
+      "id": "914a8ee3f11f4efd55dc9f8df90efe4299daca0acccd2b44627178b956f809f9",
+      "guid": "xmly_track_509312311",
+      "title": {
+        "text": "神枭正传46神刀断邪月03",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 13 Mar 2022 19:56:02 GMT",
+      "feed_index": 86
+    },
+    {
+      "id": "423d31bcf4e70ba274cba1d0e4402a39f0fa68a0abb76d8e14e85a746175dd5e",
+      "guid": "xmly_track_509313376",
+      "title": {
+        "text": "神枭正传56秘火斗玄火02",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Mar 2022 19:58:00 GMT",
+      "feed_index": 114
+    },
+    {
+      "id": "094aa3d438c13e596212947109dd3f736981fbf336de47e956c9f485caa5e01c",
+      "guid": "xmly_track_511452669",
+      "title": {
+        "text": "神枭正传64大漠主宰者02",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Apr 2022 19:58:02 GMT",
+      "feed_index": 143
+    },
+    {
+      "id": "a2158e303b742d24acac797f1729d1bb2c622ae7e092c1a4da544d4bbbb3c43d",
+      "guid": "xmly_track_511467300",
+      "title": {
+        "text": "神枭正传71铁虎飞熊血04",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 24 Apr 2022 20:23:02 GMT",
+      "feed_index": 171
+    },
+    {
+      "id": "d3ef4d03296ec89d3bbc5e30463953aa5253db5b6bfb7db93d37cba7be2a67d8",
+      "guid": "xmly_track_511468160",
+      "title": {
+        "text": "神枭正传80再走向荒野(本书完结)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 09 May 2022 20:23:00 GMT",
+      "feed_index": 200
+    }
+  ]
+}

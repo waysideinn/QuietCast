@@ -1,0 +1,140 @@
+{
+  "show_id": "1532170181",
+  "feed_url": "http://www.ximalaya.com/album/41371898.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/41371898.xml",
+    "final_url": "http://www.ximalaya.com/album/41371898.xml",
+    "fetched_at": "2026-10-25T14:50:34.437598+00:00",
+    "status": 200,
+    "sha256": "e801f8838aa02fa4edd98d813ac7f3e9b92f6a65a1e37cd542b756393f472920"
+  },
+  "status": "ok",
+  "title": {
+    "text": "细读《三国演义》全本｜解码乱世权谋中的生存智慧",
+    "truncated": false
+  },
+  "description": {
+    "text": "进阶专辑 《刘备的逆袭｜三国争霸：从织席贩履到蜀汉帝王的崛起传》 已上线，欢迎认可刘皇叔逆袭故事的朋友进一步收听与交流～～ 本专辑主要内容： 详细解读罗贯中《三国演义》原著 专辑特点： ·忠于原著 · 品鉴经典 · 刨根究底 ·从故事中看历史，从历史中品生活 ·适合喜欢一探究竟的朋友 共455集（已完结） 作者&演播： 尹岩",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 446,
+  "episodes": [
+    {
+      "id": "e64a0cbb70249c5a4f9da9c0b6cce8a3f2c616904efb826cd95186b8f3ad696b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5a50-audiofreehighqps/2D/9C/GKwRIDoF2RVNACBS4AEVRC9p.m4a",
+      "title": {
+        "text": "【引言】女声读三国",
+        "truncated": false
+      },
+      "description": {
+        "text": "为什么女生也来凑热闹？《三国演义》的经典力量～",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Sep 2020 12:08:32 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "77f45e8293b7421db51ec459cc0fbe66333b4bf2b72cdb6dcbee09a6ffb8d9d0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2836-audiofreehighqps/40/D5/CMCoOSMDdOTnAGeeDwBixIjf-aacv2-48K.m4a",
+      "title": {
+        "text": "64 曹操的小堕落",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Nov 2020 21:00:04 GMT",
+      "feed_index": 64
+    },
+    {
+      "id": "a23e2ebc9255c74b84858a4afd4d33a82a10d322f2fe248d6c9707883db579f2",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/cda8-audiofreehighqps/3B/9D/CMCoOSIDxYepAF1vlAB3TNxj-aacv2-48K.m4a",
+      "title": {
+        "text": "127 曹操的年轻对手",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 03 Jan 2021 21:00:10 GMT",
+      "feed_index": 127
+    },
+    {
+      "id": "29c2b1802562f810c3d072d35d5296c079ae63d1f634b6de545da03be23b9509",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3628-audiofreehighqps/33/EF/CKwRIW4ED97DAF1sowCMdYmC-aacv2-48K.m4a",
+      "title": {
+        "text": "191 赤壁大战曹军溃",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 Mar 2021 21:00:08 GMT",
+      "feed_index": 191
+    },
+    {
+      "id": "bc5ffaef9fd274dad4ce2d39a8e85df48af1aa3ed3b9bb673e84a20bb3a85a17",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9c53-audiofreehighqps/E8/B5/CKwRIaIEak-cAFoRmACnoyO7-aacv2-48K.m4a",
+      "title": {
+        "text": "254 江湖险马走何方",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 09 May 2021 21:00:00 GMT",
+      "feed_index": 254
+    },
+    {
+      "id": "4d6dbae1ed442e27e0cf80a2613ba8447db8c57582eb73c8f9692606d9e566e2",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8574-audiofreehighqps/28/F0/CKwRIJIEvVrPAFw-IgDFStvb-aacv2-48K.m4a",
+      "title": {
+        "text": "318 书生陆逊拜大将",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Jul 2021 21:00:00 GMT",
+      "feed_index": 318
+    },
+    {
+      "id": "9c53e5dc63e00d86d869f17ea62e662d6f8cca3d6f5b0afe5da2af29c30ca25e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ac9a-audiofreehighqps/F1/A1/CKwRINsFDyoSAFhe8gDhPAMc-aacv2-48K.m4a",
+      "title": {
+        "text": "381 棋逢对手难相胜",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 Sep 2021 21:00:00 GMT",
+      "feed_index": 381
+    },
+    {
+      "id": "209242f4368c3cd3d363ab2ab825431cb71de7b14af90857b57d5a7e0e72dc63",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e192-audiofreehighqps/11/0A/GKwRIaIFZ4DLAEwUFQD3XCIf-aacv2-48K.m4a",
+      "title": {
+        "text": "445 乱世雄才争三国（终）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Nov 2021 21:00:00 GMT",
+      "feed_index": 445
+    }
+  ]
+}

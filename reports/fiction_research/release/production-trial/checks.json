@@ -1,0 +1,153 @@
+{
+  "status": "pass",
+  "evaluationTime": "2026-10-27T13:43:46.762796+00:00",
+  "ruleSHA256": "b1d875e5b49415f74c111389f0ec1b3c189abc37cdc547dd5c21e18d3393d765",
+  "sourceHashes": {
+    "Sources/PodcastModels/AppleCategoryMetadata.swift": "565154778b726c8a5dc654d4f6f34be504aec0d3a1257918d68c444195d342cf",
+    "Sources/PodcastModels/Metadata.swift": "723ed776756050552e076f49f97a69071ba56a792e63b26c5f37da3e5d369401",
+    "Sources/PodcastModels/Models.swift": "87bc52c06d3dedb8ed97e2e51c2efc5b143869cf8fd4404647ded0bb92e3462a",
+    "Sources/PodcastModels/PodcastCategories.swift": "089c57b60879ade2c3a4e0cd039449b4e4264d76c4314b83e960a1b9b28b9c66",
+    "Sources/ContentFiltering/AdvancedRules.swift": "987a0963965eff5e3157c129b4a91b45eb81bbd080c5d6281fd5ea2bd3fb7e6a",
+    "Sources/ContentFiltering/AdvancedSignals.swift": "ad9401f886f8cfa6c15b1789d80cd9f47b56a733551a3c1fe845714f9a426042",
+    "Sources/ContentFiltering/ContentFiltering.swift": "ec35469451406f96c97e836448d57517807f8dc9255eb7bba93c43f285764658",
+    "research/scripts/SwiftProbe.swift": "e4becf897a5b9627709c0f5bb7bfabc8ff34b9a5a7d2029af084030ad16334e6"
+  },
+  "independentTest": false,
+  "releaseBasis": "user_approved_practical_trial_without_independent_accuracy_gate",
+  "humanRegression": {
+    "count": 50,
+    "matches": 50,
+    "expectedConfusion": {
+      "allow/allow": 41,
+      "block/block": 9
+    },
+    "failures": []
+  },
+  "aiDevelopment": {
+    "show": {
+      "count": 103,
+      "confusion": {
+        "fiction/block": 32,
+        "fiction/allow": 2,
+        "nonfiction/allow": 40,
+        "uncertain/block": 2,
+        "fiction/review": 14,
+        "uncertain/allow": 9,
+        "nonfiction/review": 3,
+        "uncertain/review": 1
+      },
+      "fiction_block_recall": {
+        "n": 32,
+        "d": 48,
+        "value": 0.6666666666666666,
+        "wilson95": [
+          0.5254010970594798,
+          0.7832321930518142
+        ]
+      },
+      "nonfiction_false_block_rate": {
+        "n": 0,
+        "d": 43,
+        "value": 0.0,
+        "wilson95": [
+          0,
+          0.08200980322579117
+        ]
+      },
+      "precision": {
+        "n": 32,
+        "d": 32,
+        "value": 1.0,
+        "wilson95": [
+          0.8928208017449293,
+          1
+        ]
+      },
+      "review_rate": {
+        "n": 18,
+        "d": 103,
+        "value": 0.17475728155339806,
+        "wilson95": [
+          0.11349896556855765,
+          0.2594036441529902
+        ]
+      },
+      "uncertain_blocked": 2,
+      "subtype": {
+        "unspecified": {
+          "n": 32,
+          "d": 48,
+          "value": 0.6666666666666666,
+          "wilson95": [
+            0.5254010970594798,
+            0.7832321930518142
+          ]
+        }
+      }
+    },
+    "episode": {
+      "count": 9,
+      "confusion": {
+        "nonfiction/block": 2,
+        "fiction/block": 4,
+        "nonfiction/allow": 2,
+        "uncertain/block": 1
+      },
+      "fiction_block_recall": {
+        "n": 4,
+        "d": 4,
+        "value": 1.0,
+        "wilson95": [
+          0.5101091635454027,
+          1
+        ]
+      },
+      "nonfiction_false_block_rate": {
+        "n": 2,
+        "d": 4,
+        "value": 0.5,
+        "wilson95": [
+          0.15003898915214947,
+          0.8499610108478506
+        ]
+      },
+      "precision": {
+        "n": 4,
+        "d": 6,
+        "value": 0.6666666666666666,
+        "wilson95": [
+          0.299993315138392,
+          0.9032285888942195
+        ]
+      },
+      "review_rate": {
+        "n": 0,
+        "d": 9,
+        "value": 0.0,
+        "wilson95": [
+          0,
+          0.2991450484195441
+        ]
+      },
+      "uncertain_blocked": 1,
+      "subtype": {
+        "unspecified": {
+          "n": 4,
+          "d": 4,
+          "value": 1.0,
+          "wilson95": [
+            0.5101091635454027,
+            1
+          ]
+        }
+      }
+    }
+  },
+  "swiftComparisons": 162,
+  "swiftDifferences": [],
+  "notes": [
+    "Human 50 and AI 112 are exposed regression/development cases, not independent test accuracy.",
+    "Current App module source SHA recorded; no App source edits performed by this check.",
+    "No unreviewed holdout scored. No publisher identities promoted."
+  ]
+}

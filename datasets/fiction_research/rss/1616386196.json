@@ -1,0 +1,140 @@
+{
+  "show_id": "1616386196",
+  "feed_url": "http://www.ximalaya.com/album/60789081.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/60789081.xml",
+    "final_url": "http://www.ximalaya.com/album/60789081.xml",
+    "fetched_at": "2026-10-25T14:55:30.025444+00:00",
+    "status": 200,
+    "sha256": "4abe9d210d31a5719efadd8f7a7d28d38ac1c874092162c7fa9f8059249a2343"
+  },
+  "status": "ok",
+  "title": {
+    "text": "3-6岁儿童科学百科故事|睡前科普故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "给刚刚3岁的女儿花花录的科普读物，希望花花能一直保持好奇心和不断探索的勇气。本免费专辑仅供练习之用。【固定每周五周六晚上7点左右更新，周中会随缘加更。】 【小耳朵们，如果喜欢本专辑的话欢迎订阅关注哦，这样就可以第一时间收到更新提醒啦！】",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 134,
+  "episodes": [
+    {
+      "id": "6b96174c49e5b8b1899b0b920d349d95cdcac54a838c41630f1fd73a1988a4c5",
+      "guid": "xmly_track_514549401",
+      "title": {
+        "text": "【天文地理】夜晚 | 亲亲科学图书馆",
+        "truncated": false
+      },
+      "description": {
+        "text": "深夜，面包师正在烤着第二天的面包，火车载着乘客继续前进，蝙蝠纷纷离开了巢穴出来觅食…… 小朋友，你一定在呼呼大睡吧？睡梦中的你正在偷偷长个儿呢！",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Mar 2022 12:29:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "5c7f187687cd4e56c5013c535b0536e099b99b53d78ee37f4cc51b9a3b1ec6ca",
+      "guid": "xmly_track_547566314",
+      "title": {
+        "text": "【生活百科】动手做 装修 | 亲亲科学图书馆",
+        "truncated": false
+      },
+      "description": {
+        "text": "修理一辆自行车，翻新一件旧家具，在家里修修补补、敲敲打打…… 动手做的乐趣有很多，你想不想来动手做一做呢？",
+        "truncated": false
+      },
+      "published_at": "Fri, 01 Jul 2022 10:59:00 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "fc17412434aee68e0b9d2eab505a86a7fe2d6c483f8f50359f3d610fd5a75de4",
+      "guid": "xmly_track_534369340",
+      "title": {
+        "text": "【动物百科】小蜜蜂 | 亲亲科学图书馆",
+        "truncated": false
+      },
+      "description": {
+        "text": "嗡嗡嗡…… 采花蜂在田野里采集花蜜，守卫蜂负责保护蜂箱， 蜂后正在产卵，而酿蜜蜂正忙着储存蜂蜜。 快来跟小艾姐姐一起看看小蜜蜂的大世界吧！",
+        "truncated": false
+      },
+      "published_at": "Sat, 21 May 2022 10:58:00 GMT",
+      "feed_index": 38
+    },
+    {
+      "id": "718005bebedba84e223ae04b75b714ab36dd60ce4fc46d0763516279d01c8425",
+      "guid": "xmly_track_564242004",
+      "title": {
+        "text": "【文艺娱乐】音乐 | 亲亲科学图书馆",
+        "truncated": false
+      },
+      "description": {
+        "text": "远古的人类并不知道音乐是什么，但他们已经会演奏音乐了。 再后来，人们发明了乐器——弦乐器，管乐器还有打击乐器。 快来跟小艾姐姐一起听一听吧！",
+        "truncated": false
+      },
+      "published_at": "Fri, 26 Aug 2022 10:59:00 GMT",
+      "feed_index": 57
+    },
+    {
+      "id": "0cc1a26c311f4db82e09b90b296f5533397250d59af5e66ab4c056cf1c1320c9",
+      "guid": "xmly_track_584638166",
+      "title": {
+        "text": "【交通工具】自行车 无音效版 | 睡前科普故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "【无音效版本】适合睡前听 要想成为真正的自行车赛冠军，我们需要先从平衡车或儿童自行车学起！ 加快速度，正视前方，然后找到平衡。 戴上头盔，我们现在就出发吧！",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Nov 2022 09:59:00 GMT",
+      "feed_index": 76
+    },
+    {
+      "id": "14860ce3d99a1a9c32d3f8bb1a7ee6e3e6980da1aac458dfcf73161057a5d842",
+      "guid": "xmly_track_596937403",
+      "title": {
+        "text": "【健康管理】真干净 卫生习惯 无音效版 | 睡前科普故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "【无音效版本】适合睡前听 洗澡时间到！ 但是，究竟什么是细菌？香皂是怎么来的？ 很久以前，人们怎样洗澡？ 其他国家的人们又是怎样洗澡的呢？",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Dec 2022 10:59:02 GMT",
+      "feed_index": 95
+    },
+    {
+      "id": "b5d623b61fdb5a85f54c750ba1451fb771fb2f46e01265e16e68a36fce12d8fa",
+      "guid": "xmly_track_605452646",
+      "title": {
+        "text": "【体育运动】滑雪场 滑雪 无音效版 | 睡前科普故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "【无音效版本】适合睡前听 冬天到了，滑雪场开放啦！ 儿童雪上乐园里，小朋友们正在开心地玩耍。 大点儿的孩子们正跟着教练学习滑雪的基本动作。 滑雪可真好玩，不过要注意安全，小心别摔倒哦！",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 Feb 2023 10:59:06 GMT",
+      "feed_index": 114
+    },
+    {
+      "id": "5e1d1f749798e63960be988465ee208e6486a5d4cfe7587f1d45e9c0076f0efc",
+      "guid": "xmly_track_620882609",
+      "title": {
+        "text": "【健康管理】看医生 无音效版 | 睡前科普故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "【无音效版本】适合睡前听 小朋友，你知不知道，如果有人生病了，我们要去做什么呀。对了，就是看医生！ 医生给我们治病，呵护我们的健康。医生，谢谢你们！",
+        "truncated": false
+      },
+      "published_at": "Sat, 08 Apr 2023 11:59:04 GMT",
+      "feed_index": 133
+    }
+  ]
+}

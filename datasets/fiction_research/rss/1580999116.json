@@ -1,0 +1,140 @@
+{
+  "show_id": "1580999116",
+  "feed_url": "http://www.ximalaya.com/album/51993638.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/51993638.xml",
+    "final_url": "http://www.ximalaya.com/album/51993638.xml",
+    "fetched_at": "2026-10-25T14:42:59.961434+00:00",
+    "status": 200,
+    "sha256": "c381ce2a2be7fe198e559d94c472d4a47977a008f48b73d834661ac912ac6fe0"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【免费多播】穿越架空|腹黑王爷骄纵妃",
+    "truncated": false
+  },
+  "description": {
+    "text": "【强烈推荐】 本书由喜马拉雅授权播出，正版免费。 多人有声剧 短篇古代言情 【作品简介】 洞房花烛，沐锦欢看着自家王爷相公，嫣然一笑。“相公，光明正大娶不到便使手段，不太好吧？”七王爷笑的更加嫣然：“非也非也，为了能娶到娘子这般‘贤妻’，耍耍王爷的牌子也是必要的！” 【作者】阿小呆 【主播简介】 多人小说剧：参与人员如下 KK四姑娘----------旁白 沐锦欢 城北九爷------- ---- 洛云绝 庄非离 等 悦音漫漫 ------- ---- 韵梅 赵贵妃 等 七加一的戒 --- ---- 叶芊芊 丫鬟 等 咪言啸语 ------- ---绿漪 亦娉婷 等 圣人座下 ------- ---莫不凡 剑尘 等 君宝宝 ------- - - -- --萧清 剑云 等 城北小乔 ------- ---曹中雅 苏春姚 等 汐瑶姑娘 ------- ---汐念瑶 竺雨菲 等 铃儿响你个叮当 ------- ---剑雨 从安 等 闻道秀秀 ------- ---赵绯衣 小皇帝 等 梦回瑾年 ------- ---洛意君 恭亲王 等 轻声飞语 ------- ---审听 来呀，订阅评论打call 走起！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 140,
+  "episodes": [
+    {
+      "id": "bb998dd7be93f9cb43ee42029df9d327d43483c08d3c4a7abe2487a92233ac85",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2a53-audiofreehighqps/70/3A/CKwRIW4E5oO1ACvb5QDU3G8S-aacv2-48K.m4a",
+      "title": {
+        "text": "腹黑王爷骄纵妃 片花",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 09 Aug 2021 05:44:09 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "be2de12ffac04ea4452ad36709931317bbb4a1da0966d9381dc6a0d3ec7cb4fe",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1d1c-audiofreehighqps/E6/51/CKwRINsE7_o0ADeEGADYTlIQ.m4a",
+      "title": {
+        "text": "腹黑王爷骄纵妃 20 给你找个好人家",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 16 Aug 2021 10:00:03 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "464c02339be5901829c0422ca49572d0c520b4ec1920b184029db228b6a0cbba",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/cc89-audiofreehighqps/22/56/CKwRIaIE_Sl4AC_2iQDcelth.m4a",
+      "title": {
+        "text": "腹黑王爷骄纵妃 40 叶芊芊上门！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Aug 2021 10:00:05 GMT",
+      "feed_index": 40
+    },
+    {
+      "id": "24a7e686f0ccf3c53d056149796891acc7e7f53cc60878f70d6b13826c062ac1",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/73a0-audiofreehighqps/4F/41/CKwRIDoFClh7ACzXqwDgBKj1.m4a",
+      "title": {
+        "text": "腹黑王爷骄纵妃 60 难道爷喜欢七王爷？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Sep 2021 10:00:06 GMT",
+      "feed_index": 60
+    },
+    {
+      "id": "aa0e73482da50ab6896ad1fe4e8d8c54435c7efea89ca6b64c3081409327aec0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a430-audiofreehighqps/60/5D/CKwRIRwFF4dGACsavADjS1mR.m4a",
+      "title": {
+        "text": "腹黑王爷骄纵妃 79 我要定你了",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Sep 2021 10:00:08 GMT",
+      "feed_index": 79
+    },
+    {
+      "id": "b5edf05c7b42a4454d13eed49c76a1aeaf6ee9d7557a4fb0e529e557d59fe6b1",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/572f-audiofreehighqps/55/8B/CKwRINsFJLbjAC6BgwDmgyRV.m4a",
+      "title": {
+        "text": "腹黑王爷骄纵妃 99 欢儿，不要看（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Sep 2021 10:00:15 GMT",
+      "feed_index": 99
+    },
+    {
+      "id": "6f0ebabeb84733ccd0976a78ba4d5bc7bd02923eab2a4971a40cb288d4a762e5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0ccd-audiofreehighqps/CF/BF/CKwRIMAFMeXiADrSPwDpoSrT.m4a",
+      "title": {
+        "text": "腹黑王爷骄纵妃 119 争执（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Oct 2021 10:00:20 GMT",
+      "feed_index": 119
+    },
+    {
+      "id": "8321b7d20e982c41aa2446103757a29e0e53db103a8668213bc2133f23e19714",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3f02-audiofreehighqps/A1/C0/CKwRIRwFPxTVADBZrADs34o_.m4a",
+      "title": {
+        "text": "腹黑王爷骄纵妃 139 我抱你（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Oct 2021 10:00:18 GMT",
+      "feed_index": 139
+    }
+  ]
+}

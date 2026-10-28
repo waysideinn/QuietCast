@@ -1,0 +1,140 @@
+{
+  "show_id": "1561409938",
+  "feed_url": "https://anchor.fm/s/4cfc55fc/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/4cfc55fc/podcast/rss",
+    "final_url": "https://anchor.fm/s/4cfc55fc/podcast/rss",
+    "fetched_at": "2026-10-25T14:52:34.893794+00:00",
+    "status": 200,
+    "sha256": "90c3cb727783bd8807951df04ba72b1acd8b78be5bf6ef3c1e29cc4e2a6b73b8"
+  },
+  "status": "ok",
+  "title": {
+    "text": "小不点共学空间。有声书",
+    "truncated": false
+  },
+  "description": {
+    "text": "一群一起共读的孩子，用他们真挚自然的朗朗读书声，把大家带入阅读的花园。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 117,
+  "episodes": [
+    {
+      "id": "6b1ab94a42634597fff4af2b63c3fec1372f9d87b79384517c468dca34c7f4c2",
+      "guid": "b978c65c-8aa7-4e95-9e9a-c7ac697bc785",
+      "title": {
+        "text": "小黄狗上课",
+        "truncated": false
+      },
+      "description": {
+        "text": "日有所诵",
+        "truncated": false
+      },
+      "published_at": "Tue, 07 Jan 2025 08:32:19 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "e07d6f91c3fb85dde58111e24bd44d8ba9bdea617b3d09e07642ca3d6c894100",
+      "guid": "61372b95-01c4-442d-a066-9b887120c85b",
+      "title": {
+        "text": "书怎么读（任蓉蓉）朗读者：黄贻柔",
+        "truncated": false
+      },
+      "description": {
+        "text": "爷爷读书，一本又一本，有一些书，厚得像块砖。我忍不住，问我爷爷说：“书这么厚，怎么读得完？”爷爷回答我说：“就这样：一个字一个字地读，一句一句地读，一段一段地读，一页一页地读……很简单。”",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 Jul 2022 22:34:14 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "f2d74a52d3fea668a7437f8ba81a0fe134d309b3c890a74494696c5d422445fe",
+      "guid": "f7da1f6c-cceb-49bd-a6d5-e24d77f2da3d",
+      "title": {
+        "text": "16。掌心的寻宝图（古震宇）",
+        "truncated": false
+      },
+      "description": {
+        "text": "马提与祖父【意】罗伯拖。普密尼",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 Jul 2022 22:10:00 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "2bfc48d192707ee42b2a484392117ddddc3f714a886bce1ea6c7e66cd7b3a28b",
+      "guid": "540253ec-7978-4384-9034-2d3fdfb1d11d",
+      "title": {
+        "text": "睡懒觉不被批评的方法（68-76页）姚茗文",
+        "truncated": false
+      },
+      "description": {
+        "text": "妈妈使用手册",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 Jul 2022 20:15:18 GMT",
+      "feed_index": 50
+    },
+    {
+      "id": "171c59e6477bb165832bcad41039d5726f0746706a1c5e55425e04208cb916f1",
+      "guid": "77adfea9-d2fb-4022-b5ce-6e89febbdf00",
+      "title": {
+        "text": "第12章 笨鸟与凤凰（李承骏）",
+        "truncated": false
+      },
+      "description": {
+        "text": "蝉为谁鸣讲述了性格乖巧、成绩平凡的女孩秀男突然收到好友转交给她的几封信。因为一次意外，秀男的父母发现了这些信，开始步步追问，来自学校和家庭的双重误解让秀男感到不知所措。这时，突然出现的高中生边域“认领”了这些信，并送给秀男一支用玉石做成的刻有蝉的钢笔。在这支神奇的钢笔的帮助下，秀男的成绩有了提高，她的变化引起周围人的关注，一个深藏多年的秘密随之揭开……这部少年小说关注孩子的成长烦恼，引导他们直面挫折，给予他们成长的信心和勇气。",
+        "truncated": false
+      },
+      "published_at": "Wed, 06 Jul 2022 14:49:42 GMT",
+      "feed_index": 66
+    },
+    {
+      "id": "66952e85657eadc864317a424225d2925c96bed58a1eb7063e7511ca3db6e519",
+      "guid": "97562369-d682-4ae1-9f1f-d13338a649af",
+      "title": {
+        "text": "第10章 被撞到了（黄贻柔）",
+        "truncated": false
+      },
+      "description": {
+        "text": "「你不必嘲笑我，因為我聽不懂」 一位智能遲緩十三歲男孩最純真的告白 一份最高貴動人的友愛與勇氣 「他不是白痴，他是我同學」 只要給予一點愛和包容，就能彌補世上一切缺陷！ 我是彭鐵男，大家叫我「白痴」的時候都笑笑的，我也跟著笑。 我喜歡學校，每天抄課文，吃便當，幫同學提水，幫老師倒水；我看不懂考卷，老師叫我每題答案都寫1，結果得了十二分，老師說我好聰明；上體育課的時候，我多跑一圈，那是要送給「跛腳」的；老師到家裡來找媽媽，說我可能需要「補救」，但是我不喜歡吃「補」，因為「補」很苦；很多事情我都聽不懂，但是「跛腳」說，聽不懂沒關係，因為不懂才會快樂…… 本書為一位智能遲緩的孩子的自述。在他的世界裡，沒有痛苦，只有單純的「快樂」和「害怕」。在他身上發生的一切不公平，都被他純真善良的心靈化為雲淡風輕。語調樸實自然，讓讀者讀完故事後，內容字句持續在心底發酵，久久無法忘懷，並引起深刻的反思。",
+        "truncated": false
+      },
+      "published_at": "Wed, 06 Jul 2022 11:51:16 GMT",
+      "feed_index": 83
+    },
+    {
+      "id": "91aa57f34f7ca4475bbfdfc5125e26431c0b05a74f56288e2845095f80d1f0cc",
+      "guid": "ee10ce69-5f2c-4a56-be7a-53200e4bec48",
+      "title": {
+        "text": "第26章 妹妹跌倒了（姚茗文）",
+        "truncated": false
+      },
+      "description": {
+        "text": "「你不必嘲笑我，因為我聽不懂」 一位智能遲緩十三歲男孩最純真的告白 一份最高貴動人的友愛與勇氣 「他不是白痴，他是我同學」 只要給予一點愛和包容，就能彌補世上一切缺陷！ 我是彭鐵男，大家叫我「白痴」的時候都笑笑的，我也跟著笑。 我喜歡學校，每天抄課文，吃便當，幫同學提水，幫老師倒水；我看不懂考卷，老師叫我每題答案都寫1，結果得了十二分，老師說我好聰明；上體育課的時候，我多跑一圈，那是要送給「跛腳」的；老師到家裡來找媽媽，說我可能需要「補救」，但是我不喜歡吃「補」，因為「補」很苦；很多事情我都聽不懂，但是「跛腳」說，聽不懂沒關係，因為不懂才會快樂…… 本書為一位智能遲緩的孩子的自述。在他的世界裡，沒有痛苦，只有單純的「快樂」和「害怕」。在他身上發生的一切不公平，都被他純真善良的心靈化為雲淡風輕。語調樸實自然，讓讀者讀完故事後，內容字句持續在心底發酵，久久無法忘懷，並引起深刻的反思。",
+        "truncated": false
+      },
+      "published_at": "Wed, 06 Jul 2022 11:18:18 GMT",
+      "feed_index": 99
+    },
+    {
+      "id": "14e5adeb997eef6ed41f01de7be0ba5a410e3f9a258910947946449335f33c1e",
+      "guid": "50e6f250-7388-4179-88ad-d959f28ae6e3",
+      "title": {
+        "text": "《爱哭鬼波萨》刘恩雨。张彩帷。吴紫睿",
+        "truncated": false
+      },
+      "description": {
+        "text": "《世界上最糟糕的孩子》",
+        "truncated": false
+      },
+      "published_at": "Fri, 05 Mar 2021 05:04:55 GMT",
+      "feed_index": 116
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1587306877",
+  "feed_url": "http://www.ximalaya.com/album/50433653.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/50433653.xml",
+    "final_url": "http://www.ximalaya.com/album/50433653.xml",
+    "fetched_at": "2026-10-25T14:54:03.804378+00:00",
+    "status": 200,
+    "sha256": "ae1bcfd5dad89ee43b62a1429b0a681857120c7e5bf943e78b4bc7137e8365dc"
+  },
+  "status": "ok",
+  "title": {
+    "text": "《西游记》原著播读",
+    "truncated": false
+  },
+  "description": {
+    "text": "这里没有播音腔，只有最具韵味的西游记原著有声书演艺播读！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 203,
+  "episodes": [
+    {
+      "id": "ab028c40126cba9f5eeb716760602f84bd42fe9dc3e81b5f8ca6793b21e107bd",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4850-audiofreehighqps/A2/43/GKwRIasGtRJSAD4lRAGHhw3R.m4a",
+      "title": {
+        "text": "百回本西游记原著播读 开播前言",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Jul 2021 03:58:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "2e4bfb28f44ad1670ed9e332181b5bb1d555d4834c8b62310e040fae9878a43f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/95be-audiofreehighqps/7D/90/GMCoOSEGfbkFACAAAAFqov_v.mp3",
+      "title": {
+        "text": "014第十四回 心猿归正 六贼无踪（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Aug 2021 04:00:00 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "42172b0bd5b6882fe31adfbadb3f389c4f742b21c6ddd6b0f0a3c1e3ac720ade",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/cd38-audiofreehighqps/11/FA/GKwRIRwGfeloAIOgaQFqutyo.m4a",
+      "title": {
+        "text": "029第二十九回 脱难江流来国土 承恩八戒转山林（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 17 Sep 2021 04:00:00 GMT",
+      "feed_index": 58
+    },
+    {
+      "id": "84807ad7210e4bc3605de3adcc2093cf47b937e2a763a0b9bfb770399a53e014",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/109b-audiofreehighqps/6A/1A/GKwRIasGkbMdAJ_qugF0HnpI.m4a",
+      "title": {
+        "text": "043第四十三回 黑河妖孽擒僧去 西洋龙子捉鼍回（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Oct 2021 04:00:00 GMT",
+      "feed_index": 87
+    },
+    {
+      "id": "98bceb9d6fe8cd15700e54a1d79c7387f5ebf523263287029e41b58eba1d3e25",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1e39-audiofreehighqps/46/BA/GKwRIJIGoVElAI7YqQF72fDk.m4a",
+      "title": {
+        "text": "057第五十七回 真行者落伽山诉苦 假猴王水帘洞誊文（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 13 Nov 2021 04:00:00 GMT",
+      "feed_index": 115
+    },
+    {
+      "id": "d59c4f33d1ab16e0489b7a1f3493bce960fafeda86292deca86fd998eb2d3434",
+      "guid": "xmly_track_453022522",
+      "title": {
+        "text": "072第七十二回 盘丝洞七情迷本 濯垢泉八戒忘形（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 Dec 2021 04:00:00 GMT",
+      "feed_index": 144
+    },
+    {
+      "id": "62a52fceac6b90855b4b5477c94bfc2b9db569748c570f3287b3810204318a32",
+      "guid": "xmly_track_464046951",
+      "title": {
+        "text": "086第八十六回 木母助威征怪物 金公施法灭妖邪（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 10 Jan 2022 04:00:00 GMT",
+      "feed_index": 173
+    },
+    {
+      "id": "afa9727a1a9455d7d5cca6a371efd051c71e9a31ff215953c0c166389feb3543",
+      "guid": "xmly_track_494424964",
+      "title": {
+        "text": "西游记播读完结感言",
+        "truncated": false
+      },
+      "description": {
+        "text": "西游记播读完结感言 各位西游记原著的听友大家好，从2021年的7月底至今，约7个月的时间，我尽力保持日更。今天曦爸读经典的第二部四大名著《西游记》已经全部播读完毕了。当我录制完这期节目后，我已经开始着力准备下部名著《红楼梦》的资料了。经历了这大半年的录制和制作，今天西游记的播读，将会暂告一个段落了，还真有些不舍，感谢各位听友一路以来的陪伴。是你们的坚持收听，给我源源的动力，将这部约70万字的名著，坚持播读完结了。今天在这里和大家对西游记原著的故事，做一个小小总结。 西游记仔仔细细的完整读完，大家会发现，原著西游记前前后后，会有很多前后对不上的环节，例如在金平府观灯这一单元，悟空与井木犴等神将，降伏了3个犀牛精后，明确说，带给如来佛祖一根犀牛角，可是到了灵山后，没有任何人任何环节提及这回事儿；又比如47回的灵感大王那一单元，原文『悟空道：要吃童男女吗？老者笑道：正是。』可是这个老者就是后文提到的陈澄，要吃的童男女就是他的女儿啊，他怎么能够笑得出来啊。类似这样的用语，明显就是笔误了。 我们可以看到1-8回是孙悟空取经前的个人经历，9-22回是组建取经团队的，23-31回应该是初组建的团队间的磨合问题，32-43回，作者把故事的重心，转到了孙悟空之外的环境和事物，妖精都涉及了家庭，金银角虽然算得上是孝顺，但是托生在狐狸老妈这种不好的环境下，最终走上了邪路；乌鸡国王子天资不高，但是高贵的出",
+        "truncated": true
+      },
+      "published_at": "Mon, 07 Feb 2022 04:01:00 GMT",
+      "feed_index": 202
+    }
+  ]
+}

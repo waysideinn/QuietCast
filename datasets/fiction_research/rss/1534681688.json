@@ -1,0 +1,139 @@
+{
+  "show_id": "1534681688",
+  "feed_url": "https://papi.qingting.fm/podcast/channels/10698",
+  "source": {
+    "url": "https://papi.qingting.fm/podcast/channels/10698",
+    "final_url": "https://papi.qingting.fm/podcast/channels/10698",
+    "fetched_at": "2026-10-25T14:50:42.851281+00:00",
+    "status": 200,
+    "sha256": "7ffda0eb96b11d643a1bc6e484c4e3f5f634097538d46047694e5f0cafecc7e3"
+  },
+  "status": "ok",
+  "title": {
+    "text": "红楼梦",
+    "truncated": false
+  },
+  "description": {
+    "text": "小白读红楼 红楼梦原文真人朗读，不是按章节，而是将每章划分成若干小知识点 古典小说网 打造 头条号： 古典小说 公众号：古典小说网 《红楼梦》，中国古代章回体长篇小说，中国古典四大名著之一，一般认为是清代作家曹雪芹所著。小说以贾、史、王、薛四大家族的兴衰为背景，以富贵公子贾宝玉为视角，以贾宝玉与林黛玉、薛宝钗的爱情婚姻悲剧为主线，描绘了一批举止见识出于须眉之上的闺阁佳人的人生百态，展现了真正的人性美和悲剧美，可以说是一部从各个角度展现女性美以及中国古代社会世态百相的史诗性著作。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "explicit": "true"
+  },
+  "feed_item_count": 489,
+  "episodes": [
+    {
+      "id": "97f5f7c8d8a579ee75d5bc0beb1943727673c5cf8f8c52369a90371a0cd00827",
+      "guid": "24422717",
+      "title": {
+        "text": "红楼梦80.4 迎春回家诉委屈 孙绍祖骂贾赦五千银子卖给他",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 May 2023 08:27:23 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "3d7dab9009d74531c3c88b7a0f74e220d48fbc17aec3388f32d64fbb0232512d",
+      "guid": "23504493",
+      "title": {
+        "text": "红楼梦64.3 五美吟",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 13 Dec 2022 03:07:09 GMT",
+      "feed_index": 70
+    },
+    {
+      "id": "ddc8b121862f4a5cf73e2339a8c9e75d0c77cbc8c7e3e821ee164d130e839617",
+      "guid": "22711627",
+      "title": {
+        "text": "红楼梦54.1 因不见袭人 贾母不悦 说袭人有些拿大了 凤姐巧说缘由",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Aug 2022 02:04:00 GMT",
+      "feed_index": 139
+    },
+    {
+      "id": "21ae7f82d7a0ceb3fb9293907c423809741622a7b3910bf7c00b0741f1e7fb24",
+      "guid": "21652300",
+      "title": {
+        "text": "红楼梦43.2 众人凑份子钱 凤姐提醒两个姨太太还没出钱",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 19 Apr 2022 02:00:56 GMT",
+      "feed_index": 209
+    },
+    {
+      "id": "96a1d63c73349f2e6355aec31dc08d5dd68da58a42b73596a28af320ea686f15",
+      "guid": "19514675",
+      "title": {
+        "text": "红楼梦29.4 张道士给宝玉介绍15岁的女孩 贾母说等大一大再说",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Nov 2021 03:24:20 GMT",
+      "feed_index": 279
+    },
+    {
+      "id": "dc82ff0aff1bb0d761ce75f98b9ae23955d8c3dc79efe43ef556c98933c5fbeb",
+      "guid": "17530704",
+      "title": {
+        "text": "红楼梦20.2 幸亏凤姐赶来 把老婆子撮了去了",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Mar 2021 03:17:03 GMT",
+      "feed_index": 349
+    },
+    {
+      "id": "dd1aee52cf3a226df5d52bac4885423c8a687dbf224e2c4ed428289c827cbb23",
+      "guid": "17064977",
+      "title": {
+        "text": "红楼梦15.7 秦钟夜会智能 不料被宝玉抓到",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Jan 2021 03:47:39 GMT",
+      "feed_index": 418
+    },
+    {
+      "id": "0cc4c84420e9c3437693d418e8a9835548432a336e83d97b3ee994b4e1847c98",
+      "guid": "24433393",
+      "title": {
+        "text": "红楼梦1.1 红楼梦此书由来始末",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 May 2023 02:09:23 GMT",
+      "feed_index": 488
+    }
+  ]
+}

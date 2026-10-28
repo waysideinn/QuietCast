@@ -1,0 +1,2245 @@
+{
+  "group": "normal",
+  "term": "新闻",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%96%B0%E9%97%BB&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%96%B0%E9%97%BB&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:43:25.155556+00:00",
+    "status": 200,
+    "sha256": "5f819e5b6eddec74ccefebaf578b32a782b3900bf1353b9ef93f1caba4beda97"
+  },
+  "result_count": 100,
+  "records": [
+    {
+      "collectionId": 306300959,
+      "trackId": 306300959,
+      "collectionName": "联合国新闻 - 全球视野, 常人故事",
+      "artistName": "United Nations",
+      "feedUrl": "https://news.un.org/zh/audio-product/all/audio-rss.xml?26Sep2025",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%81%94%E5%90%88%E5%9B%BD%E6%96%B0%E9%97%BB-%E5%85%A8%E7%90%83%E8%A7%86%E9%87%8E-%E5%B8%B8%E4%BA%BA%E6%95%85%E4%BA%8B/id306300959?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489"
+      ],
+      "trackCount": 100,
+      "releaseDate": "2026-10-16T23:16:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1135329297,
+      "trackId": 1135329297,
+      "collectionName": "新闻早餐",
+      "artistName": "东方网",
+      "feedUrl": "http://www.ximalaya.com/album/4519297.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%B0%E9%97%BB%E6%97%A9%E9%A4%90/id1135329297?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 2006,
+      "releaseDate": "2023-12-29T01:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1058819079,
+      "trackId": 1058819079,
+      "collectionName": "听中国周刊",
+      "artistName": "中国新闻周刊杂志V",
+      "feedUrl": "http://www.ximalaya.com/album/3132101.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%90%AC%E4%B8%AD%E5%9B%BD%E5%91%A8%E5%88%8A/id1058819079?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1487"
+      ],
+      "trackCount": 256,
+      "releaseDate": "2019-01-22T12:36:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1612771297,
+      "trackId": 1612771297,
+      "collectionName": "新闻早报",
+      "artistName": "羊城晚报",
+      "feedUrl": "http://www.ximalaya.com/album/49697166.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%B0%E9%97%BB%E6%97%A9%E6%8A%A5/id1612771297?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489"
+      ],
+      "trackCount": 2000,
+      "releaseDate": "2025-07-14T01:57:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1746008689,
+      "trackId": 1746008689,
+      "collectionName": "热点辣评娱乐民生共探讨｜冷暖人生事|大事件点评新闻",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/75689248.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%83%AD%E7%82%B9%E8%BE%A3%E8%AF%84%E5%A8%B1%E4%B9%90%E6%B0%91%E7%94%9F%E5%85%B1%E6%8E%A2%E8%AE%A8-%E5%86%B7%E6%9A%96%E4%BA%BA%E7%94%9F%E4%BA%8B-%E5%A4%A7%E4%BA%8B%E4%BB%B6%E7%82%B9%E8%AF%84%E6%96%B0%E9%97%BB/id1746008689?uo=4",
+      "genres": [
+        "娛樂新聞",
+        "Podcast",
+        "新聞",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1531",
+        "26",
+        "1489",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 966,
+      "releaseDate": "2026-10-14T06:48:00Z",
+      "country": "TWN",
+      "primaryGenreName": "娛樂新聞"
+    },
+    {
+      "collectionId": 1543324358,
+      "trackId": 1543324358,
+      "collectionName": "魔都英语新闻丨ShanghaiLive",
+      "artistName": "ICS",
+      "feedUrl": "http://www.ximalaya.com/album/44080601.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%AD%94%E9%83%BD%E8%8B%B1%E8%AF%AD%E6%96%B0%E9%97%BB%E4%B8%A8shanghailive/id1543324358?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞",
+        "教育",
+        "語言學習"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 789,
+      "releaseDate": "2024-08-30T08:06:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 473501583,
+      "trackId": 473501583,
+      "collectionName": "新闻酸菜馆",
+      "artistName": "新闻酸菜馆",
+      "feedUrl": "https://wzzgg.com/feed/wasai",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%B0%E9%97%BB%E9%85%B8%E8%8F%9C%E9%A6%86/id473501583?uo=4",
+      "genres": [
+        "喜劇訪談",
+        "Podcast",
+        "喜劇",
+        "社會與文化",
+        "紀實"
+      ],
+      "genreIds": [
+        "1496",
+        "26",
+        "1303",
+        "1324",
+        "1543"
+      ],
+      "trackCount": 71,
+      "releaseDate": "2026-10-12T16:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇訪談"
+    },
+    {
+      "collectionId": 6822982401,
+      "trackId": 6822982401,
+      "collectionName": "講重點新聞啦唔該",
+      "artistName": "Simon",
+      "feedUrl": "https://simon-617-chan.github.io/ApplePodcasts/feed.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AC%9B%E9%87%8D%E9%BB%9E%E6%96%B0%E8%81%9E%E5%95%A6%E5%94%94%E8%A9%B2/id6822982401?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2026-10-24T10:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 6825350649,
+      "trackId": 6825350649,
+      "collectionName": "零鴨蛋小新聞",
+      "artistName": "零鴨蛋",
+      "feedUrl": "https://zeroegg.tw/podcast/kids-news/feed.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9B%B6%E9%B4%A8%E8%9B%8B%E5%B0%8F%E6%96%B0%E8%81%9E/id6825350649?uo=4",
+      "genres": [
+        "兒童教育",
+        "Podcast",
+        "兒童與家庭"
+      ],
+      "genreIds": [
+        "1519",
+        "26",
+        "1305"
+      ],
+      "trackCount": 38,
+      "releaseDate": "2026-10-25T00:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童教育"
+    },
+    {
+      "collectionId": 1558410138,
+      "trackId": 1558410138,
+      "collectionName": "☀️ 全球串連早安新聞｜Morning Taiwan Glocal News",
+      "artistName": "浩爾&小路",
+      "feedUrl": "https://feed.firstory.me/rss/user/cklqae6gy388f0892i2qmv851",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%A8%E7%90%83%E4%B8%B2%E9%80%A3%E6%97%A9%E5%AE%89%E6%96%B0%E8%81%9E-morning-taiwan-glocal-news/id1558410138?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489"
+      ],
+      "trackCount": 1356,
+      "releaseDate": "2026-10-22T03:18:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1779654649,
+      "trackId": 1779654649,
+      "collectionName": "HOT 基礎英文新聞 Hot English News",
+      "artistName": "CLN (Corporate Language Network)",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/7b2dd7fb-6b0a-4088-ac19-2af96e4b0667.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/hot-%E5%9F%BA%E7%A4%8E%E8%8B%B1%E6%96%87%E6%96%B0%E8%81%9E-hot-english-news/id1779654649?uo=4",
+      "genres": [
+        "語言學習",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1498",
+        "26",
+        "1304"
+      ],
+      "trackCount": 543,
+      "releaseDate": "2026-10-22T22:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "語言學習"
+    },
+    {
+      "collectionId": 1812343530,
+      "trackId": 1812343530,
+      "collectionName": "10分鐘早報",
+      "artistName": "中廣新聞網NewsRadio",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/5122cf56-9e52-4fef-8258-e168e1e2694b.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/10%E5%88%86%E9%90%98%E6%97%A9%E5%A0%B1/id1812343530?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 362,
+      "releaseDate": "2026-10-21T22:26:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1786934931,
+      "trackId": 1786934931,
+      "collectionName": "李正皓｜新台派上線",
+      "artistName": "三立新聞台",
+      "feedUrl": "https://feed.firstory.me/rss/user/cm50lvndw008101xj80o92l6i",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9D%8E%E6%AD%A3%E7%9A%93-%E6%96%B0%E5%8F%B0%E6%B4%BE%E4%B8%8A%E7%B7%9A/id1786934931?uo=4",
+      "genres": [
+        "政治",
+        "Podcast",
+        "新聞",
+        "新聞評論"
+      ],
+      "genreIds": [
+        "1527",
+        "26",
+        "1489",
+        "1530"
+      ],
+      "trackCount": 453,
+      "releaseDate": "2026-10-23T02:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "政治"
+    },
+    {
+      "collectionId": 1432506634,
+      "trackId": 1432506634,
+      "collectionName": "九八新聞台",
+      "artistName": "News98",
+      "feedUrl": "https://feed.firstory.me/rss/user/cl5uw04d501b001sb4s9vapev",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B9%9D%E5%85%AB%E6%96%B0%E8%81%9E%E5%8F%B0/id1432506634?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1489",
+        "26",
+        "1321"
+      ],
+      "trackCount": 2001,
+      "releaseDate": "2026-10-23T07:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1557162572,
+      "trackId": 1557162572,
+      "collectionName": "陶色新聞",
+      "artistName": "聽說",
+      "feedUrl": "https://feed.firstory.me/rss/user/cklt6w7h6wr4t0804te2iqkxh",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%99%B6%E8%89%B2%E6%96%B0%E8%81%9E/id1557162572?uo=4",
+      "genres": [
+        "電視與電影",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1309",
+        "26",
+        "1489"
+      ],
+      "trackCount": 518,
+      "releaseDate": "2026-10-23T07:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "電視與電影"
+    },
+    {
+      "collectionId": 1692140089,
+      "trackId": 1692140089,
+      "collectionName": "看新聞學英文｜William 每周新聞英文｜ 教你記單字｜看懂文章",
+      "artistName": "WilliamLin",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/97dadd7a-3960-4e4e-a028-27fac7a57386.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%9C%8B%E6%96%B0%E8%81%9E%E5%AD%B8%E8%8B%B1%E6%96%87-william-%E6%AF%8F%E5%91%A8%E6%96%B0%E8%81%9E%E8%8B%B1%E6%96%87-%E6%95%99%E4%BD%A0%E8%A8%98%E5%96%AE%E5%AD%97-%E7%9C%8B%E6%87%82%E6%96%87%E7%AB%A0/id1692140089?uo=4",
+      "genres": [
+        "語言學習",
+        "Podcast",
+        "教育",
+        "新聞"
+      ],
+      "genreIds": [
+        "1498",
+        "26",
+        "1304",
+        "1489"
+      ],
+      "trackCount": 296,
+      "releaseDate": "2026-10-03T11:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "語言學習"
+    },
+    {
+      "collectionId": 1550687726,
+      "trackId": 1550687726,
+      "collectionName": "台灣最前線",
+      "artistName": "民視新聞 Formosa TV News",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckk64smel2xg70889ffpppwtz",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8F%B0%E7%81%A3%E6%9C%80%E5%89%8D%E7%B7%9A/id1550687726?uo=4",
+      "genres": [
+        "新聞評論",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1530",
+        "26",
+        "1489"
+      ],
+      "trackCount": 1977,
+      "releaseDate": "2026-10-23T15:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞評論"
+    },
+    {
+      "collectionId": 1531443831,
+      "trackId": 1531443831,
+      "collectionName": "MoneyDJ財經新聞",
+      "artistName": "MoneyDJ財經新聞",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/489a6945-a341-40ca-88ab-73c174057634.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/moneydj%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E/id1531443831?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "新聞"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1489"
+      ],
+      "trackCount": 513,
+      "releaseDate": "2026-10-19T21:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 1492551169,
+      "trackId": 1492551169,
+      "collectionName": "Dr.Liu國際新聞摘要分析",
+      "artistName": "劉必榮",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/ffcb66b4-e419-4837-8103-942da7d06f7c.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/dr-liu%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E6%91%98%E8%A6%81%E5%88%86%E6%9E%90/id1492551169?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 348,
+      "releaseDate": "2026-10-20T03:52:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1671471899,
+      "trackId": 1671471899,
+      "collectionName": "新聞鏡來聽",
+      "artistName": "鏡好聽",
+      "feedUrl": "https://feed.mirrorvoice.com.tw/rss/dailyvoice.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%B0%E8%81%9E%E9%8F%A1%E4%BE%86%E8%81%BD/id1671471899?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 400,
+      "releaseDate": "2026-10-20T22:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1737083276,
+      "trackId": 1737083276,
+      "collectionName": "新聞幕後",
+      "artistName": "TVBS Media Inc.",
+      "feedUrl": "https://feed.firstory.me/rss/user/cltwut3cf07ke01w1d85803mx",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%B0%E8%81%9E%E5%B9%95%E5%BE%8C/id1737083276?uo=4",
+      "genres": [
+        "新聞評論",
+        "Podcast",
+        "新聞",
+        "政治"
+      ],
+      "genreIds": [
+        "1530",
+        "26",
+        "1489",
+        "1527"
+      ],
+      "trackCount": 363,
+      "releaseDate": "2026-10-15T00:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞評論"
+    },
+    {
+      "collectionId": 1740431670,
+      "trackId": 1740431670,
+      "collectionName": "TVBS新聞",
+      "artistName": "TVBS",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/07593470-9f99-4b05-b8d2-98a6350a2891.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/tvbs%E6%96%B0%E8%81%9E/id1740431670?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞",
+        "教育"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489",
+        "1304"
+      ],
+      "trackCount": 1742,
+      "releaseDate": "2026-10-23T08:59:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1646175218,
+      "trackId": 1646175218,
+      "collectionName": "TVBS《Focus全球新聞》",
+      "artistName": "TVBS",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/37ad7105-4ec9-4f8d-a4dd-95ab40c91708.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/tvbs-focus%E5%85%A8%E7%90%83%E6%96%B0%E8%81%9E/id1646175218?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489"
+      ],
+      "trackCount": 900,
+      "releaseDate": "2026-10-22T03:23:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1534702773,
+      "trackId": 1534702773,
+      "collectionName": "台視新聞 每日頭條 Taiwan TTV NEWS",
+      "artistName": "台視新聞",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/968a601e-b2fa-4795-b857-602d8a73064e.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9E-%E6%AF%8F%E6%97%A5%E9%A0%AD%E6%A2%9D-taiwan-ttv-news/id1534702773?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489"
+      ],
+      "trackCount": 2000,
+      "releaseDate": "2026-10-23T03:22:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1607447086,
+      "trackId": 1607447086,
+      "collectionName": "新聞真假掰｜假訊息ByeBye！",
+      "artistName": "黃兆徽 @ 台灣事實查核中心（教育基金會）",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckyvtabkc0cn7081913m3x01j",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%B0%E8%81%9E%E7%9C%9F%E5%81%87%E6%8E%B0-%E5%81%87%E8%A8%8A%E6%81%AFbyebye/id1607447086?uo=4",
+      "genres": [
+        "新聞評論",
+        "Podcast",
+        "新聞",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1530",
+        "26",
+        "1489",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 551,
+      "releaseDate": "2026-10-22T08:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞評論"
+    },
+    {
+      "collectionId": 1870217322,
+      "trackId": 1870217322,
+      "collectionName": "News98 每日新聞",
+      "artistName": "News98",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmkkxzuv409e601wu5xnz57m4",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/news98-%E6%AF%8F%E6%97%A5%E6%96%B0%E8%81%9E/id1870217322?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489"
+      ],
+      "trackCount": 519,
+      "releaseDate": "2026-10-22T22:48:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1812350050,
+      "trackId": 1812350050,
+      "collectionName": "葉蓉早報",
+      "artistName": "中廣新聞網NewsRadio",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/2a9925e5-fecc-4157-98e3-1874652f62d7.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%91%89%E8%93%89%E6%97%A9%E5%A0%B1/id1812350050?uo=4",
+      "genres": [
+        "政治",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1527",
+        "26",
+        "1489"
+      ],
+      "trackCount": 376,
+      "releaseDate": "2026-10-22T00:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "政治"
+    },
+    {
+      "collectionId": 1550687907,
+      "trackId": 1550687907,
+      "collectionName": "台灣向前行",
+      "artistName": "民視新聞 Formosa TV News",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckkcbc2sq2sfp08714v9ixyia",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8F%B0%E7%81%A3%E5%90%91%E5%89%8D%E8%A1%8C/id1550687907?uo=4",
+      "genres": [
+        "新聞評論",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1530",
+        "26",
+        "1489"
+      ],
+      "trackCount": 1851,
+      "releaseDate": "2026-10-23T16:28:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞評論"
+    },
+    {
+      "collectionId": 1812542583,
+      "trackId": 1812542583,
+      "collectionName": "中廣新聞宴",
+      "artistName": "中廣新聞網NewsRadio",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/89f83a4e-d50e-42c5-ba26-6d295d116ba5.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%BB%A3%E6%96%B0%E8%81%9E%E5%AE%B4/id1812542583?uo=4",
+      "genres": [
+        "政治",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1527",
+        "26",
+        "1489"
+      ],
+      "trackCount": 362,
+      "releaseDate": "2026-10-22T11:14:00Z",
+      "country": "TWN",
+      "primaryGenreName": "政治"
+    },
+    {
+      "collectionId": 1588212734,
+      "trackId": 1588212734,
+      "collectionName": "寰宇#關鍵字新聞 Global Hashtag News",
+      "artistName": "寰宇新聞台",
+      "feedUrl": "https://feed.firstory.me/rss/user/cku2d315gwbbo0947nezjmg86",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%AF%B0%E5%AE%87-%E9%97%9C%E9%8D%B5%E5%AD%97%E6%96%B0%E8%81%9E-global-hashtag-news/id1588212734?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞",
+        "商業新聞"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489",
+        "1490"
+      ],
+      "trackCount": 2000,
+      "releaseDate": "2026-10-22T09:52:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1685103414,
+      "trackId": 1685103414,
+      "collectionName": "政治讀新術",
+      "artistName": "FTNN新聞網",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/63fb95fa-6751-42a0-863b-faaa453445f5.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%94%BF%E6%B2%BB%E8%AE%80%E6%96%B0%E8%A1%93/id1685103414?uo=4",
+      "genres": [
+        "新聞評論",
+        "Podcast",
+        "新聞",
+        "政治"
+      ],
+      "genreIds": [
+        "1530",
+        "26",
+        "1489",
+        "1527"
+      ],
+      "trackCount": 162,
+      "releaseDate": "2026-10-19T03:47:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞評論"
+    },
+    {
+      "collectionId": 1657824192,
+      "trackId": 1657824192,
+      "collectionName": "誰來讀新聞 by少年報導者",
+      "artistName": "少年報導者",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/2f9e2894-e97e-4647-a095-c48dbfb81627.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AA%B0%E4%BE%86%E8%AE%80%E6%96%B0%E8%81%9E-by%E5%B0%91%E5%B9%B4%E5%A0%B1%E5%B0%8E%E8%80%85/id1657824192?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1489",
+        "26",
+        "1304"
+      ],
+      "trackCount": 507,
+      "releaseDate": "2026-10-22T04:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1816439682,
+      "trackId": 1816439682,
+      "collectionName": "啦啦_NEWS",
+      "artistName": "經紀人豆芽的內行剖析、體育主播天王楊正磊的激情解說、陳捷盛不定時客串主持，透過專業視角直擊啦啦隊熱門新聞",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/a8e30487-a736-48bf-ae5d-ae2ead570855.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%95%A6%E5%95%A6-news/id1816439682?uo=4",
+      "genres": [
+        "運動",
+        "Podcast",
+        "喜劇"
+      ],
+      "genreIds": [
+        "1545",
+        "26",
+        "1303"
+      ],
+      "trackCount": 74,
+      "releaseDate": "2026-10-12T13:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "運動"
+    },
+    {
+      "collectionId": 1661087449,
+      "trackId": 1661087449,
+      "collectionName": "頭家來開講",
+      "artistName": "民視新聞 Formosa News",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/0c835caf-8da5-46f4-8890-df9a8f356de2.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%A0%AD%E5%AE%B6%E4%BE%86%E9%96%8B%E8%AC%9B/id1661087449?uo=4",
+      "genres": [
+        "政治",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1527",
+        "26",
+        "1489"
+      ],
+      "trackCount": 1118,
+      "releaseDate": "2026-10-23T10:18:00Z",
+      "country": "TWN",
+      "primaryGenreName": "政治"
+    },
+    {
+      "collectionId": 1770674250,
+      "trackId": 1770674250,
+      "collectionName": "FUNDAY News 看新聞學英文",
+      "artistName": "FUNDAY英語學院",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/61b30622-a03f-4bc0-800f-52c146065491.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/funday-news-%E7%9C%8B%E6%96%B0%E8%81%9E%E5%AD%B8%E8%8B%B1%E6%96%87/id1770674250?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1489",
+        "26",
+        "1301"
+      ],
+      "trackCount": 305,
+      "releaseDate": "2025-12-31T10:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1586093243,
+      "trackId": 1586093243,
+      "collectionName": "現代啟示錄",
+      "artistName": "東森財經新聞台57頻道",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/62aa6dc8-04a8-4e98-9f86-68ab5f4f9780.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%8F%BE%E4%BB%A3%E5%95%9F%E7%A4%BA%E9%8C%84/id1586093243?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 111,
+      "releaseDate": "2023-03-20T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1530016140,
+      "trackId": 1530016140,
+      "collectionName": "三尼巴掌｜怪新聞",
+      "artistName": "智慧王＆紹平＆惟元",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/1ba1d999-c8b1-46ed-89b1-a093535d6570.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%89%E5%B0%BC%E5%B7%B4%E6%8E%8C-%E6%80%AA%E6%96%B0%E8%81%9E/id1530016140?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1301"
+      ],
+      "trackCount": 353,
+      "releaseDate": "2026-10-20T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1109872694,
+      "trackId": 1109872694,
+      "collectionName": "Dr.Liu國際新聞摘要分析",
+      "artistName": "劉必榮",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/ffcb66b4-e419-4837-8103-942da7d06f7c.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/dr-liu%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E6%91%98%E8%A6%81%E5%88%86%E6%9E%90/id1109872694?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 348,
+      "releaseDate": "2026-10-13T04:14:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1572879315,
+      "trackId": 1572879315,
+      "collectionName": "端聞 | 端傳媒新聞播客",
+      "artistName": "端传媒音頻 | Initium Audio",
+      "feedUrl": "https://feeds.acast.com/public/shows/66b07190af99592b5329f43a",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%AB%AF%E8%81%9E-%E7%AB%AF%E5%82%B3%E5%AA%92%E6%96%B0%E8%81%9E%E6%92%AD%E5%AE%A2/id1572879315?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 278,
+      "releaseDate": "2026-10-23T11:45:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1836788949,
+      "trackId": 1836788949,
+      "collectionName": "妖你聽新聞",
+      "artistName": "Harry",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmf0135k103k401s3cyiyf563",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A6%96%E4%BD%A0%E8%81%BD%E6%96%B0%E8%81%9E/id1836788949?uo=4",
+      "genres": [
+        "新聞評論",
+        "Podcast",
+        "新聞",
+        "喜劇",
+        "喜劇訪談"
+      ],
+      "genreIds": [
+        "1530",
+        "26",
+        "1489",
+        "1303",
+        "1496"
+      ],
+      "trackCount": 68,
+      "releaseDate": "2026-10-18T16:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞評論"
+    },
+    {
+      "collectionId": 1551579117,
+      "trackId": 1551579117,
+      "collectionName": "一起聽世界",
+      "artistName": "中央廣播電臺 新聞部",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/1f819afa-037f-450f-94f7-404eddc9c810.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%80%E8%B5%B7%E8%81%BD%E4%B8%96%E7%95%8C/id1551579117?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 1352,
+      "releaseDate": "2026-10-23T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1812340055,
+      "trackId": 1812340055,
+      "collectionName": "千秋萬事",
+      "artistName": "中廣新聞網NewsRadio",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/570a0048-c078-4a45-9104-3fd4ce00add1.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8D%83%E7%A7%8B%E8%90%AC%E4%BA%8B/id1812340055?uo=4",
+      "genres": [
+        "新聞評論",
+        "Podcast",
+        "新聞",
+        "教育"
+      ],
+      "genreIds": [
+        "1530",
+        "26",
+        "1489",
+        "1304"
+      ],
+      "trackCount": 351,
+      "releaseDate": "2026-10-22T04:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞評論"
+    },
+    {
+      "collectionId": 1562541908,
+      "trackId": 1562541908,
+      "collectionName": "茫新聞",
+      "artistName": "茫DAY不錄",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckna0uprwat750a49565711j0",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%8C%AB%E6%96%B0%E8%81%9E/id1562541908?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2021-07-25T05:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1526620065,
+      "trackId": 1526620065,
+      "collectionName": "中廣新聞網",
+      "artistName": "中廣新聞網NewsRadio",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/68ee2738-dec6-4737-b952-6716c6d68051.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%BB%A3%E6%96%B0%E8%81%9E%E7%B6%B2/id1526620065?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 2069,
+      "releaseDate": "2026-01-29T00:19:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1843786299,
+      "trackId": 1843786299,
+      "collectionName": "世界報報：Jee 的兒童新聞英文 | English News with Jee",
+      "artistName": "Jie",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/86aee8de-208c-4e28-8344-7cfeb15c3a0b.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%96%E7%95%8C%E5%A0%B1%E5%A0%B1-jee-%E7%9A%84%E5%85%92%E7%AB%A5%E6%96%B0%E8%81%9E%E8%8B%B1%E6%96%87-english-news-with-jee/id1843786299?uo=4",
+      "genres": [
+        "兒童教育",
+        "Podcast",
+        "兒童與家庭",
+        "教育"
+      ],
+      "genreIds": [
+        "1519",
+        "26",
+        "1305",
+        "1304"
+      ],
+      "trackCount": 182,
+      "releaseDate": "2025-12-17T02:29:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童教育"
+    },
+    {
+      "collectionId": 6808602314,
+      "trackId": 6808602314,
+      "collectionName": "上台說新聞",
+      "artistName": "Up Media - Podcast",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtmn4v140ahq01u414mr7fkk",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%8A%E5%8F%B0%E8%AA%AA%E6%96%B0%E8%81%9E/id6808602314?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2026-10-13T02:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1582954442,
+      "trackId": 1582954442,
+      "collectionName": "華視三國演議",
+      "artistName": "華視新聞",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%8F%AF%E8%A6%96%E4%B8%89%E5%9C%8B%E6%BC%94%E8%AD%B0/id1582954442?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1489",
+        "26",
+        "1487"
+      ],
+      "trackCount": 544,
+      "releaseDate": "2026-10-25T07:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1618675067,
+      "trackId": 1618675067,
+      "collectionName": "☀️ 全球串連早安新聞｜Morning Taiwan Glocal News",
+      "artistName": "浩爾&小路",
+      "feedUrl": "https://feed.firstory.me/rss/user/cklqae6gy388f0892i2qmv851",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%A8%E7%90%83%E4%B8%B2%E9%80%A3%E6%97%A9%E5%AE%89%E6%96%B0%E8%81%9E-morning-taiwan-glocal-news/id1618675067?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489"
+      ],
+      "trackCount": 1356,
+      "releaseDate": "2026-10-22T03:18:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1593132250,
+      "trackId": 1593132250,
+      "collectionName": "小新聞動動腦",
+      "artistName": "動動腦小隊",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/a7a83aa1-0784-4f86-a7f0-807af1a78541.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B0%8F%E6%96%B0%E8%81%9E%E5%8B%95%E5%8B%95%E8%85%A6/id1593132250?uo=4",
+      "genres": [
+        "兒童教育",
+        "Podcast",
+        "兒童與家庭",
+        "教育"
+      ],
+      "genreIds": [
+        "1519",
+        "26",
+        "1305",
+        "1304"
+      ],
+      "trackCount": 266,
+      "releaseDate": "2026-10-24T02:27:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童教育"
+    },
+    {
+      "collectionId": 1735294774,
+      "trackId": 1735294774,
+      "collectionName": "講客廣播電臺 I 新聞學客語",
+      "artistName": "黃于娟, 羅盛滿➹阿滿仔, 王于郡, 江芮敏, 黃盛源, 宋涵葳, 蘇佑昇, 朱品諭（朱皮）, 陳惠亭（啾啾）, 戴君儒, 洪藝晅, 鍾惠欣, 黎西荃, 鍾瑾瑜, 邱巧昀, 客家公共傳播基金會",
+      "feedUrl": "https://api.hakkaradio.org.tw/program/podcast/id/427",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AC%9B%E5%AE%A2%E5%BB%A3%E6%92%AD%E9%9B%BB%E8%87%BA-i-%E6%96%B0%E8%81%9E%E5%AD%B8%E5%AE%A2%E8%AA%9E/id1735294774?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489"
+      ],
+      "trackCount": 683,
+      "releaseDate": "2026-10-21T10:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1450006255,
+      "trackId": 1450006255,
+      "collectionName": "九八新聞台",
+      "artistName": "News98",
+      "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:593470944/sounds.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B9%9D%E5%85%AB%E6%96%B0%E8%81%9E%E5%8F%B0/id1450006255?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2026-10-25T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1524127170,
+      "trackId": 1524127170,
+      "collectionName": "行走知勢",
+      "artistName": "Dr. E | 深入歷史 | 淺出科技 | 旅遊亂走 | 靠北政治 | 胡說新聞",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckcdy2bijlk7n0918zfcwxyyr",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%A1%8C%E8%B5%B0%E7%9F%A5%E5%8B%A2/id1524127170?uo=4",
+      "genres": [
+        "新聞評論",
+        "Podcast",
+        "新聞",
+        "科學"
+      ],
+      "genreIds": [
+        "1530",
+        "26",
+        "1489",
+        "1533"
+      ],
+      "trackCount": 196,
+      "releaseDate": "2026-05-19T23:45:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞評論"
+    },
+    {
+      "collectionId": 1754908878,
+      "trackId": 1754908878,
+      "collectionName": "中午來開匯",
+      "artistName": "CNEWS匯流新聞網",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/4e839509-8a50-456d-ae79-4ebb349374e1.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%8D%88%E4%BE%86%E9%96%8B%E5%8C%AF/id1754908878?uo=4",
+      "genres": [
+        "政治",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1527",
+        "26",
+        "1489"
+      ],
+      "trackCount": 356,
+      "releaseDate": "2026-10-21T06:03:00Z",
+      "country": "TWN",
+      "primaryGenreName": "政治"
+    },
+    {
+      "collectionId": 1527694100,
+      "trackId": 1527694100,
+      "collectionName": "5歲都要懂的國際觀",
+      "artistName": "國際｜世界｜國際觀｜新聞｜LARA ｜教育",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckdfjls64vzob0804ysg8nyp2",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/5%E6%AD%B2%E9%83%BD%E8%A6%81%E6%87%82%E7%9A%84%E5%9C%8B%E9%9A%9B%E8%A7%80/id1527694100?uo=4",
+      "genres": [
+        "教育",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "trackCount": 187,
+      "releaseDate": "2026-03-25T09:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1795625344,
+      "trackId": 1795625344,
+      "collectionName": "鄉民監察院",
+      "artistName": "FTNN新聞網",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/d752f1d2-10c1-42cd-bb41-3a87c4a88743.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%84%89%E6%B0%91%E7%9B%A3%E5%AF%9F%E9%99%A2/id1795625344?uo=4",
+      "genres": [
+        "新聞評論",
+        "Podcast",
+        "新聞",
+        "政治"
+      ],
+      "genreIds": [
+        "1530",
+        "26",
+        "1489",
+        "1527"
+      ],
+      "trackCount": 173,
+      "releaseDate": "2026-10-20T05:43:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞評論"
+    },
+    {
+      "collectionId": 1531106786,
+      "trackId": 1531106786,
+      "collectionName": "財經一路發",
+      "artistName": "News98",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckuydilxj0ys508026gxkhbp4",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B2%A1%E7%B6%93%E4%B8%80%E8%B7%AF%E7%99%BC/id1531106786?uo=4",
+      "genres": [
+        "商業",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1321",
+        "26",
+        "1489"
+      ],
+      "trackCount": 2000,
+      "releaseDate": "2026-10-25T00:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1675416953,
+      "trackId": 1675416953,
+      "collectionName": "民視即時新聞",
+      "artistName": "民視新聞 Formosa News",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/53d0dee2-135c-43b1-b1ad-f7b2a61d1ed4.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B0%91%E8%A6%96%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E/id1675416953?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 794,
+      "releaseDate": "2024-10-07T23:26:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1709868653,
+      "trackId": 1709868653,
+      "collectionName": "BBK新闻随便看 - 带你了解马来西亚的有趣时事！",
+      "artistName": "BBK Network",
+      "feedUrl": "https://anchor.fm/s/ea54622c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/bbk%E6%96%B0%E9%97%BB%E9%9A%8F%E4%BE%BF%E7%9C%8B-%E5%B8%A6%E4%BD%A0%E4%BA%86%E8%A7%A3%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E7%9A%84%E6%9C%89%E8%B6%A3%E6%97%B6%E4%BA%8B/id1709868653?uo=4",
+      "genres": [
+        "新聞評論",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1530",
+        "26",
+        "1489"
+      ],
+      "trackCount": 291,
+      "releaseDate": "2026-10-25T14:14:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞評論"
+    },
+    {
+      "collectionId": 1812356529,
+      "trackId": 1812356529,
+      "collectionName": "電一下就上影",
+      "artistName": "中廣新聞網NewsRadio",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/e9177807-65bd-42f4-b2cc-a793eda0f76c.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9B%BB%E4%B8%80%E4%B8%8B%E5%B0%B1%E4%B8%8A%E5%BD%B1/id1812356529?uo=4",
+      "genres": [
+        "電視與電影",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1309",
+        "26",
+        "1301"
+      ],
+      "trackCount": 78,
+      "releaseDate": "2026-10-16T13:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "電視與電影"
+    },
+    {
+      "collectionId": 1843778636,
+      "trackId": 1843778636,
+      "collectionName": "兒童世界新聞報",
+      "artistName": "多肉老爹",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/8ce74f7a-5a56-446d-a82b-8dc938262b78.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%92%E7%AB%A5%E4%B8%96%E7%95%8C%E6%96%B0%E8%81%9E%E5%A0%B1/id1843778636?uo=4",
+      "genres": [
+        "兒童教育",
+        "Podcast",
+        "兒童與家庭"
+      ],
+      "genreIds": [
+        "1519",
+        "26",
+        "1305"
+      ],
+      "trackCount": 52,
+      "releaseDate": "2025-12-30T21:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童教育"
+    },
+    {
+      "collectionId": 1896857562,
+      "trackId": 1896857562,
+      "collectionName": "ヒットの路地裏 by 日経MJ",
+      "artistName": "日本経済新聞社",
+      "feedUrl": "https://feeds.megaphone.fm/NIC4969468564",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%83%92%E3%83%83%E3%83%88%E3%81%AE%E8%B7%AF%E5%9C%B0%E8%A3%8F-by-%E6%97%A5%E7%B5%8Cmj/id1896857562?uo=4",
+      "genres": [
+        "商業新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1490",
+        "26",
+        "1489"
+      ],
+      "trackCount": 21,
+      "releaseDate": "2026-10-18T20:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業新聞"
+    },
+    {
+      "collectionId": 1544608180,
+      "trackId": 1544608180,
+      "collectionName": "蘇老師講國際新聞 Su Laoshi daily news review",
+      "artistName": "蘇育平 Yuping SU",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/3cf3b58b-2ddb-4251-aa58-6fed51745a31.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%98%87%E8%80%81%E5%B8%AB%E8%AC%9B%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E-su-laoshi-daily-news-review/id1544608180?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞",
+        "教育"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489",
+        "1304"
+      ],
+      "trackCount": 619,
+      "releaseDate": "2026-05-18T22:37:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1727290081,
+      "trackId": 1727290081,
+      "collectionName": "全球新聞快報",
+      "artistName": "全球新聞快報",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/81647d51-ac5d-4201-9249-603571fe53c9.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%A8%E7%90%83%E6%96%B0%E8%81%9E%E5%BF%AB%E5%A0%B1/id1727290081?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast",
+        "科技"
+      ],
+      "genreIds": [
+        "1489",
+        "26",
+        "1318"
+      ],
+      "trackCount": 561,
+      "releaseDate": "2025-03-07T12:19:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1552603743,
+      "trackId": 1552603743,
+      "collectionName": "朝日新聞アルキキ 最新ニュース",
+      "artistName": "朝日新聞ポッドキャスト",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/1e3bd144-9b57-451a-93cf-ac0e00e74446/4ed5fcbf-299a-4d2d-bde1-acc4009cef22/ee64c498-786d-4155-962a-acc4009cef3e/podcast.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%9D%E6%97%A5%E6%96%B0%E8%81%9E%E3%82%A2%E3%83%AB%E3%82%AD%E3%82%AD-%E6%9C%80%E6%96%B0%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1552603743?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489"
+      ],
+      "trackCount": 118,
+      "releaseDate": "2026-10-25T14:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1526255081,
+      "trackId": 1526255081,
+      "collectionName": "非凡Morning Call",
+      "artistName": "非凡新聞",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/152521dc-f469-493b-bea9-7e68662b1fb7.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9D%9E%E5%87%A1morning-call/id1526255081?uo=4",
+      "genres": [
+        "商業新聞",
+        "Podcast",
+        "新聞",
+        "電視與電影"
+      ],
+      "genreIds": [
+        "1490",
+        "26",
+        "1489",
+        "1309"
+      ],
+      "trackCount": 856,
+      "releaseDate": "2022-09-16T00:13:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業新聞"
+    },
+    {
+      "collectionId": 1592938106,
+      "trackId": 1592938106,
+      "collectionName": "こどもそうだんしつ",
+      "artistName": "朝日新聞ポッドキャスト",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/1e3bd144-9b57-451a-93cf-ac0e00e74446/50382bb4-3af3-4250-8ddc-ac0f0033ceb5/693cfdd6-f5a9-4308-9025-adb10164b5b1/podcast.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%81%93%E3%81%A9%E3%82%82%E3%81%9D%E3%81%86%E3%81%A0%E3%82%93%E3%81%97%E3%81%A4/id1592938106?uo=4",
+      "genres": [
+        "兒童教育",
+        "Podcast",
+        "兒童與家庭",
+        "子女教養"
+      ],
+      "genreIds": [
+        "1519",
+        "26",
+        "1305",
+        "1521"
+      ],
+      "trackCount": 36,
+      "releaseDate": "2026-10-20T19:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童教育"
+    },
+    {
+      "collectionId": 1739049715,
+      "trackId": 1739049715,
+      "collectionName": "講客廣播電臺 I 新聞懂喜劇",
+      "artistName": "穎珍, 阿拋, 客家公共傳播基金會",
+      "feedUrl": "https://api.hakkaradio.org.tw/program/podcast/id/429",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AC%9B%E5%AE%A2%E5%BB%A3%E6%92%AD%E9%9B%BB%E8%87%BA-i-%E6%96%B0%E8%81%9E%E6%87%82%E5%96%9C%E5%8A%87/id1739049715?uo=4",
+      "genres": [
+        "即興表演",
+        "Podcast",
+        "喜劇"
+      ],
+      "genreIds": [
+        "1495",
+        "26",
+        "1303"
+      ],
+      "trackCount": 135,
+      "releaseDate": "2026-10-23T10:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "即興表演"
+    },
+    {
+      "collectionId": 1584556505,
+      "trackId": 1584556505,
+      "collectionName": "華視三國演議",
+      "artistName": "華視新聞",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/5e3912ee-9927-4c38-a363-1cd1686f6bb1.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%8F%AF%E8%A6%96%E4%B8%89%E5%9C%8B%E6%BC%94%E8%AD%B0/id1584556505?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1489",
+        "26",
+        "1487"
+      ],
+      "trackCount": 544,
+      "releaseDate": "2026-10-24T07:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1522858630,
+      "trackId": 1522858630,
+      "collectionName": "布克新聞 Taiwan Book News",
+      "artistName": "Readmoo讀墨電子書與布克新聞Taiwan Book News聯合製播",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/2f506878-7614-4b51-9416-d3796c8b245e.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B8%83%E5%85%8B%E6%96%B0%E8%81%9E-taiwan-book-news/id1522858630?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 285,
+      "releaseDate": "2026-10-02T06:55:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1745049978,
+      "trackId": 1745049978,
+      "collectionName": "NIKKEI PrimeVOICE（日経プライムボイス）",
+      "artistName": "日本経済新聞社",
+      "feedUrl": "https://feeds.megaphone.fm/NIC7259802436",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/nikkei-primevoice-%E6%97%A5%E7%B5%8C%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A0%E3%83%9C%E3%82%A4%E3%82%B9/id1745049978?uo=4",
+      "genres": [
+        "商業新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1490",
+        "26",
+        "1489"
+      ],
+      "trackCount": 124,
+      "releaseDate": "2026-10-14T04:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業新聞"
+    },
+    {
+      "collectionId": 1556382632,
+      "trackId": 1556382632,
+      "collectionName": "崔娜新聞英文",
+      "artistName": "崔娜",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/8dea4dc6-08c7-49fa-a12a-833dd7821719.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B4%94%E5%A8%9C%E6%96%B0%E8%81%9E%E8%8B%B1%E6%96%87/id1556382632?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1489"
+      ],
+      "trackCount": 64,
+      "releaseDate": "2026-10-23T22:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1557404661,
+      "trackId": 1557404661,
+      "collectionName": "食農搜查線－上下游",
+      "artistName": "上下游新聞",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/d97c69e5-a3fb-4a70-8817-20e732af87a9.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%A3%9F%E8%BE%B2%E6%90%9C%E6%9F%A5%E7%B7%9A-%E4%B8%8A%E4%B8%8B%E6%B8%B8/id1557404661?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1489",
+        "26",
+        "1324"
+      ],
+      "trackCount": 136,
+      "releaseDate": "2026-10-11T07:48:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 6813713068,
+      "trackId": 6813713068,
+      "collectionName": "AI 國際新聞快報",
+      "artistName": "Mark Ku",
+      "feedUrl": "https://blog.markkulab.net/world-news/feed.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/ai-%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E5%BF%AB%E5%A0%B1/id6813713068?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2026-10-21T02:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1530715663,
+      "trackId": 1530715663,
+      "collectionName": "台灣名人堂",
+      "artistName": "台視新聞 TTV NEWS",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/0248e7a2-4ede-4e9b-9074-3640d922f97e.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8F%B0%E7%81%A3%E5%90%8D%E4%BA%BA%E5%A0%82/id1530715663?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1304"
+      ],
+      "trackCount": 141,
+      "releaseDate": "2026-03-09T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1450006245,
+      "trackId": 1450006245,
+      "collectionName": "轉角國際新聞 Daily Podcast",
+      "artistName": "轉角國際新聞 Daily Podcast",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/4f4a009b-d95b-4590-85cf-d5e050ead84e.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%BD%89%E8%A7%92%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E-daily-podcast/id1450006245?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1489",
+        "26",
+        "1324"
+      ],
+      "trackCount": 1559,
+      "releaseDate": "2026-10-23T05:27:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1526773927,
+      "trackId": 1526773927,
+      "collectionName": "ニュースの現場から",
+      "artistName": "朝日新聞ポッドキャスト",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/1e3bd144-9b57-451a-93cf-ac0e00e74446/50382bb4-3af3-4250-8ddc-ac0f0033ceb5/684015f9-2396-4ac4-bc1f-ac0f0033d08c/podcast.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%AE%E7%8F%BE%E5%A0%B4%E3%81%8B%E3%82%89/id1526773927?uo=4",
+      "genres": [
+        "新聞評論",
+        "Podcast",
+        "新聞",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1530",
+        "26",
+        "1489",
+        "1324"
+      ],
+      "trackCount": 2001,
+      "releaseDate": "2026-10-23T19:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞評論"
+    },
+    {
+      "collectionId": 1569756728,
+      "trackId": 1569756728,
+      "collectionName": "跟著Emily聽新聞學日文",
+      "artistName": "Emily",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/c16ddba6-8e39-466c-8111-fd5a7b665ffe.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B7%9F%E8%91%97emily%E8%81%BD%E6%96%B0%E8%81%9E%E5%AD%B8%E6%97%A5%E6%96%87/id1569756728?uo=4",
+      "genres": [
+        "教育",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "trackCount": 60,
+      "releaseDate": "2022-07-14T02:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1896679568,
+      "trackId": 1896679568,
+      "collectionName": "國際新聞懶人包",
+      "artistName": "Makka Maka",
+      "feedUrl": "https://anchor.fm/s/112a07cd4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%9C%8B%E9%9A%9B%E6%96%B0%E8%81%9E%E6%87%B6%E4%BA%BA%E5%8C%85/id1896679568?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2026-06-29T10:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1556351278,
+      "trackId": 1556351278,
+      "collectionName": "世界電力新聞週報",
+      "artistName": "taipower",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/2daf5dcc-ca20-4b69-ac37-e98778a94e9e.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%96%E7%95%8C%E9%9B%BB%E5%8A%9B%E6%96%B0%E8%81%9E%E9%80%B1%E5%A0%B1/id1556351278?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1489",
+        "26",
+        "1304"
+      ],
+      "trackCount": 223,
+      "releaseDate": "2026-10-05T06:36:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1551595534,
+      "trackId": 1551595534,
+      "collectionName": "ニュースの学校",
+      "artistName": "朝日新聞ポッドキャスト",
+      "feedUrl": "https://feeds.megaphone.fm/TASC5851398719",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%AE%E5%AD%A6%E6%A0%A1/id1551595534?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞",
+        "新聞評論"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489",
+        "1530"
+      ],
+      "trackCount": 493,
+      "releaseDate": "2026-10-22T19:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1481175771,
+      "trackId": 1481175771,
+      "collectionName": "新聞早晚報",
+      "artistName": "華視新聞",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%B0%E8%81%9E%E6%97%A9%E6%99%9A%E5%A0%B1/id1481175771?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞",
+        "政治"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489",
+        "1527"
+      ],
+      "trackCount": 2000,
+      "releaseDate": "2024-01-01T03:57:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1703763991,
+      "trackId": 1703763991,
+      "collectionName": "新聞日語",
+      "artistName": "Jes",
+      "feedUrl": "https://feed.firstory.me/rss/user/clkusqwvy00jd01vn0p7khjm5",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%B0%E8%81%9E%E6%97%A5%E8%AA%9E/id1703763991?uo=4",
+      "genres": [
+        "娛樂新聞",
+        "Podcast",
+        "新聞",
+        "新聞評論"
+      ],
+      "genreIds": [
+        "1531",
+        "26",
+        "1489",
+        "1530"
+      ],
+      "trackCount": 57,
+      "releaseDate": "2024-08-13T11:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "娛樂新聞"
+    },
+    {
+      "collectionId": 1545110700,
+      "trackId": 1545110700,
+      "collectionName": "新聞大破解",
+      "artistName": "新唐人亞太電視台",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/06227fb1-8d0e-4dd9-902f-6c412c5ea194.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%B0%E8%81%9E%E5%A4%A7%E7%A0%B4%E8%A7%A3/id1545110700?uo=4",
+      "genres": [
+        "政治",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1527",
+        "26",
+        "1489"
+      ],
+      "trackCount": 488,
+      "releaseDate": "2024-09-04T14:14:00Z",
+      "country": "TWN",
+      "primaryGenreName": "政治"
+    },
+    {
+      "collectionId": 1886624171,
+      "trackId": 1886624171,
+      "collectionName": "AI 新聞早知道",
+      "artistName": "大衛曾",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/aa8d8689-664d-492a-90c4-a8f62df9ef1e.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/ai-%E6%96%B0%E8%81%9E%E6%97%A9%E7%9F%A5%E9%81%93/id1886624171?uo=4",
+      "genres": [
+        "科技",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1318",
+        "26",
+        "1304"
+      ],
+      "trackCount": 205,
+      "releaseDate": "2026-10-24T22:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1847653936,
+      "trackId": 1847653936,
+      "collectionName": "輔大之聲 X 為何Book說書",
+      "artistName": "輔大之聲新聞部",
+      "feedUrl": "https://feed.firstory.me/rss/user/clqg883ct0axw01wq1o2a2p5m",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%BC%94%E5%A4%A7%E4%B9%8B%E8%81%B2-x-%E7%82%BA%E4%BD%95book%E8%AA%AA%E6%9B%B8/id1847653936?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1324"
+      ],
+      "trackCount": 75,
+      "releaseDate": "2026-10-22T13:41:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1533512076,
+      "trackId": 1533512076,
+      "collectionName": "益起看世界 Global Insight",
+      "artistName": "台視新聞 TTV NEWS",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/dc67740e-7982-4e61-b4fe-05d11369392b.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%9B%8A%E8%B5%B7%E7%9C%8B%E4%B8%96%E7%95%8C-global-insight/id1533512076?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 223,
+      "releaseDate": "2026-10-08T06:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1541317969,
+      "trackId": 1541317969,
+      "collectionName": "雷蒙英文講台灣新聞Taiwan news",
+      "artistName": "雷蒙",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckhq14cfz0y3q0811rou8380y",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9B%B7%E8%92%99%E8%8B%B1%E6%96%87%E8%AC%9B%E5%8F%B0%E7%81%A3%E6%96%B0%E8%81%9Etaiwan-news/id1541317969?uo=4",
+      "genres": [
+        "新聞評論",
+        "Podcast",
+        "新聞",
+        "教育",
+        "語言學習"
+      ],
+      "genreIds": [
+        "1530",
+        "26",
+        "1489",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 125,
+      "releaseDate": "2022-12-15T14:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞評論"
+    },
+    {
+      "collectionId": 6807098202,
+      "trackId": 6807098202,
+      "collectionName": "記錄者",
+      "artistName": "邱家宜@優質新聞發展協會",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtbknxgs07mv01zr4xizfa8s",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%A8%98%E9%8C%84%E8%80%85/id6807098202?uo=4",
+      "genres": [
+        "新聞評論",
+        "Podcast",
+        "新聞",
+        "社會與文化",
+        "紀實"
+      ],
+      "genreIds": [
+        "1530",
+        "26",
+        "1489",
+        "1324",
+        "1543"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2026-10-13T08:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞評論"
+    },
+    {
+      "collectionId": 1675988702,
+      "trackId": 1675988702,
+      "collectionName": "民視台語新聞",
+      "artistName": "民視新聞 Formosa News",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/ee649547-cc34-4b20-aadf-71c13fcaa62b.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B0%91%E8%A6%96%E5%8F%B0%E8%AA%9E%E6%96%B0%E8%81%9E/id1675988702?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 529,
+      "releaseDate": "2025-05-30T10:55:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1880256613,
+      "trackId": 1880256613,
+      "collectionName": "臺北英語新聞 Taipei English News-臺北廣播電臺",
+      "artistName": "Shelly Hsiao、齊斌 Kenneth Chyi",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/db59bff7-b63f-44ef-9f38-05a4077ebfef.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%87%BA%E5%8C%97%E8%8B%B1%E8%AA%9E%E6%96%B0%E8%81%9E-taipei-english-news-%E8%87%BA%E5%8C%97%E5%BB%A3%E6%92%AD%E9%9B%BB%E8%87%BA/id1880256613?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 82,
+      "releaseDate": "2026-10-20T13:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1736660584,
+      "trackId": 1736660584,
+      "collectionName": "読売新聞音声ニュース",
+      "artistName": "読売新聞ポッドキャスト",
+      "feedUrl": "https://www.omnycontent.com/d/playlist/1ac836f7-a55f-4b30-8e98-aeac011f8199/98d8085a-3352-4712-b1a8-b10f003f4ba3/92340250-9561-4fdb-91a8-b10f0041d8d0/podcast.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AA%AD%E5%A3%B2%E6%96%B0%E8%81%9E%E9%9F%B3%E5%A3%B0%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id1736660584?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489"
+      ],
+      "trackCount": 50,
+      "releaseDate": "2026-10-23T08:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1836102899,
+      "trackId": 1836102899,
+      "collectionName": "时事天下: 实时新闻快讯与深度解读",
+      "artistName": "小明 | 时事天下 (实时新闻)",
+      "feedUrl": "https://podcast.pengzhang.synology.me/sstx/rss.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%B6%E4%BA%8B%E5%A4%A9%E4%B8%8B-%E5%AE%9E%E6%97%B6%E6%96%B0%E9%97%BB%E5%BF%AB%E8%AE%AF%E4%B8%8E%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB/id1836102899?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489",
+        "1324"
+      ],
+      "trackCount": 961,
+      "releaseDate": "2026-10-25T08:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1586762102,
+      "trackId": 1586762102,
+      "collectionName": "好書好日　本好きの昼休み",
+      "artistName": "朝日新聞ポッドキャスト",
+      "feedUrl": "https://feeds.megaphone.fm/TASC8310526194",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%BD%E6%9B%B8%E5%A5%BD%E6%97%A5-%E6%9C%AC%E5%A5%BD%E3%81%8D%E3%81%AE%E6%98%BC%E4%BC%91%E3%81%BF/id1586762102?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 200,
+      "releaseDate": "2026-10-11T20:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1853461808,
+      "trackId": 1853461808,
+      "collectionName": "七嘴八卦 | 娱乐新闻",
+      "artistName": "七嘴八卦",
+      "feedUrl": "https://podcast.pengzhang.synology.me/ylxw/rss.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%83%E5%98%B4%E5%85%AB%E5%8D%A6-%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB/id1853461808?uo=4",
+      "genres": [
+        "娛樂新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1531",
+        "26",
+        "1489"
+      ],
+      "trackCount": 321,
+      "releaseDate": "2026-10-23T16:16:00Z",
+      "country": "TWN",
+      "primaryGenreName": "娛樂新聞"
+    },
+    {
+      "collectionId": 513507274,
+      "trackId": 513507274,
+      "collectionName": "虚構新聞ニュース",
+      "artistName": "plray.jp／虚構新聞社",
+      "feedUrl": "http://plray.jp/listen/kyoko/feed",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%99%9A%E6%A7%8B%E6%96%B0%E8%81%9E%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/id513507274?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1489",
+        "26",
+        "1321"
+      ],
+      "trackCount": 300,
+      "releaseDate": "2026-10-04T14:55:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1675991733,
+      "trackId": 1675991733,
+      "collectionName": "全球看民視",
+      "artistName": "民視新聞 Formosa News",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/f076d7c5-0886-4424-8645-c007ff3bab68.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%A8%E7%90%83%E7%9C%8B%E6%B0%91%E8%A6%96/id1675991733?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 396,
+      "releaseDate": "2024-09-20T11:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1590808036,
+      "trackId": 1590808036,
+      "collectionName": "爆新聞挖真相",
+      "artistName": "東森電視",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/463dd167-48bd-4abc-9105-47aa61b3c26b.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%88%86%E6%96%B0%E8%81%9E%E6%8C%96%E7%9C%9F%E7%9B%B8/id1590808036?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1489",
+        "26",
+        "1487"
+      ],
+      "trackCount": 710,
+      "releaseDate": "2022-06-28T03:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1042236221,
+      "trackId": 1042236221,
+      "collectionName": "張雅琴 新聞點對點",
+      "artistName": "張雅琴",
+      "feedUrl": "http://era.emba.academy/1800/podcastrss.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%BC%B5%E9%9B%85%E7%90%B4-%E6%96%B0%E8%81%9E%E9%BB%9E%E5%B0%8D%E9%BB%9E/id1042236221?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 48,
+      "releaseDate": "2019-05-29T10:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1588943994,
+      "trackId": 1588943994,
+      "collectionName": "破台語說新聞",
+      "artistName": "破台語說新聞",
+      "feedUrl": "https://feed.firstory.me/rss/user/cku5u443q0bk708963es213a8",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%A0%B4%E5%8F%B0%E8%AA%9E%E8%AA%AA%E6%96%B0%E8%81%9E/id1588943994?uo=4",
+      "genres": [
+        "新聞評論",
+        "Podcast",
+        "新聞",
+        "教育",
+        "語言學習"
+      ],
+      "genreIds": [
+        "1530",
+        "26",
+        "1489",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 140,
+      "releaseDate": "2025-09-06T16:17:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞評論"
+    },
+    {
+      "collectionId": 1819862538,
+      "trackId": 1819862538,
+      "collectionName": "BETTY's Aero Insights 航空新聞週報",
+      "artistName": "A+Talents",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmbrjqaqb2q5z01vzcrme4c0s",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/bettys-aero-insights-%E8%88%AA%E7%A9%BA%E6%96%B0%E8%81%9E%E9%80%B1%E5%A0%B1/id1819862538?uo=4",
+      "genres": [
+        "航空",
+        "Podcast",
+        "休閒",
+        "新聞",
+        "新聞評論"
+      ],
+      "genreIds": [
+        "1504",
+        "26",
+        "1502",
+        "1489",
+        "1530"
+      ],
+      "trackCount": 21,
+      "releaseDate": "2026-07-28T04:32:00Z",
+      "country": "TWN",
+      "primaryGenreName": "航空"
+    }
+  ]
+}

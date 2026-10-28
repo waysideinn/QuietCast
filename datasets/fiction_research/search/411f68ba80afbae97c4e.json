@@ -1,0 +1,37 @@
+{
+  "group": "boundary",
+  "term": "有声杂志",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E6%9D%82%E5%BF%97&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E6%9D%82%E5%BF%97&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:45:23.323313+00:00",
+    "status": 200,
+    "sha256": "19cfd0d76b3ea10008ea59f3eff5c11c81ff93c20bcd7f7a24f6a9408e5b8e15"
+  },
+  "result_count": 1,
+  "records": [
+    {
+      "collectionId": 1462849476,
+      "trackId": 1462849476,
+      "collectionName": "明星蜕变故事（风月杂志）",
+      "artistName": "听米有声",
+      "feedUrl": "http://www.ximalaya.com/album/9289739.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%98%8E%E6%98%9F%E8%9C%95%E5%8F%98%E6%95%85%E4%BA%8B-%E9%A3%8E%E6%9C%88%E6%9D%82%E5%BF%97/id1462849476?uo=4",
+      "genres": [
+        "表演艺术",
+        "播客",
+        "艺术"
+      ],
+      "genreIds": [
+        "1405",
+        "26",
+        "1301"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2017-12-20T02:43:00Z",
+      "country": "CHN",
+      "primaryGenreName": "表演艺术"
+    }
+  ]
+}

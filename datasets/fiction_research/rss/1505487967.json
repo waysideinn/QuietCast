@@ -1,0 +1,140 @@
+{
+  "show_id": "1505487967",
+  "feed_url": "http://www.ximalaya.com/album/34017057.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/34017057.xml",
+    "final_url": "http://www.ximalaya.com/album/34017057.xml",
+    "fetched_at": "2026-10-25T14:49:52.457612+00:00",
+    "status": 200,
+    "sha256": "09fd628b6c0d12d8dc9bb5627892f60a4a85ef342d19c6092933f33d84a5b330"
+  },
+  "status": "ok",
+  "title": {
+    "text": "有声书｜秘密花园 (治愈系经典）",
+    "truncated": false
+  },
+  "description": {
+    "text": "欢迎家长儿童收听 《 秘密花园 》（The Secret Garden） 原著： 弗朗西丝·霍奇森·伯内特 （ 美 国女作家） 翻译、朗读：梦想飞翔mx 故事讲述了性情古怪孤僻的小女孩玛丽・伦罗克斯的父母双亡后，生活在姨父神秘阴沉的大房子里，一次神奇的经历，使玛丽闯入久已禁闭且荒芜的花园。玛丽、农家小子迪肯和常年被关在阴暗房间里病态的少爷柯林，找到了开启快乐的钥匙，和花园经历了一次诗意的复活。 它是近百年来畅销不衰的经典儿童小说，多次被改编成影视作品，并在中国有多个图书版本。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 29,
+  "episodes": [
+    {
+      "id": "5e0a43b9ae960ac286345d562132476be83a0915004bbb9824e45ea5343fab0c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c365-audiofreehighqps/96/66/CKwRIaIFIPh5ABAAAADlnCYk.mp3",
+      "title": {
+        "text": "（20）“我会永远——永远活下去！”（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Sep 2021 13:55:35 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "c93efe8abc47b75b89e94badef1d8f19d63b8d169d2053ad45027d42c873fe48",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/52e6-audiofreehighqps/9E/ED/CKwRIMAExYZQABAAAADIR_kM-aacv2-48K.m4a",
+      "title": {
+        "text": "（18）“你决不能浪费时间”",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 15 Jul 2021 05:12:41 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "616ba724c34bac376ed0a068c3f85735f4cda6d696661999c511a7a38205add4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c75b-audiofreehighqps/D6/1D/CKwRIMAEHOgZABAAAACQOOtQ.mp3",
+      "title": {
+        "text": "（15）“筑巢”（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 09 Mar 2021 07:40:12 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "b86b0d943afbc1d47bee5987af743ca20cbffc04b8c46cbf62a73e56e831b7d8",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b2a7-audiofreehighqps/01/32/CMCoOSADS42mAp-dTQBZeGg3.mp3",
+      "title": {
+        "text": "（13) “我是柯林”（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 30 Sep 2020 12:36:36 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "c1842097a553427a50bfab01484a803e292e5aed12ab9b2229fa6129cb64a67a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group85/M08/13/5D/wKg5H18_bxiyPpo7AtYLPRsAdr8299.mp3",
+      "title": {
+        "text": "（10）迪肯（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 Aug 2020 05:31:25 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "cdc2c24f64d7408a9618a7b0cc60b8df21e5e305a594944df6bdabdee4d09a3f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/18e3-audiofreehighqps/B5/55/CMCoOSEDAWPzAuA9YQBISiHb.mp3",
+      "title": {
+        "text": "（07) 通往花园的钥匙",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Aug 2020 06:19:34 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "1bec0a7a6a6fce2133c78df988fd4b2b62ea325c40881324cd9d8c82ded20a70",
+      "guid": "https://aod.cos.tx.xmcdn.com/group78/M07/4F/68/wKgO1l5s3_miX4-vAsEBqu-0tLk246.mp3",
+      "title": {
+        "text": "（04）玛莎（中）",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎家长儿童收听 《 秘密花园 》（The Secret Garden） 原著： 弗朗西丝·霍奇森·伯内特 （ 美 国女作家） 翻译、朗读：梦想飞翔mx 故事讲述了性情古怪孤僻的小女孩玛丽・伦罗克斯的父母双亡后，生活在姨父神秘阴沉的大房子里，一次神奇的经历，使玛丽闯入久已禁闭且荒芜的花园。玛丽、农家小子迪肯和常年被关在阴暗房间里病态的少爷柯林，找到了开启快乐的钥匙，和花园经历了一次诗意的复活。 它是近百年来畅销不衰的经典儿童小说，多次被改编成影视作品，并在中国有多个图书版本。",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 Mar 2020 13:45:58 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "d7990132a337c8dfabfdae62db57bdc1a81ef31c94e7debd1bd5148ee1be1aa7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group74/M01/EC/89/wKgO0l5m_ZHBq0eqAnyfKMrcQDg409.mp3",
+      "title": {
+        "text": "（01）一个人也没剩下",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎家长儿童收听 《 秘密花园 》（The Secret Garden） 原著： 弗朗西丝·霍奇森·伯内特 （ 美 国女作家） 翻译、朗读：梦想飞翔mx",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 Feb 2020 05:41:50 GMT",
+      "feed_index": 28
+    }
+  ]
+}

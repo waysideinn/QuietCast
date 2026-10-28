@@ -1,0 +1,59 @@
+{
+  "group": "normal",
+  "term": "科学播客",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%A7%91%E5%AD%A6%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%A7%91%E5%AD%A6%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:43:37.627805+00:00",
+    "status": 200,
+    "sha256": "b5ec6915da523b144f6a041a4d273e64a046fef1a999708cb60656d0db7d8139"
+  },
+  "result_count": 2,
+  "records": [
+    {
+      "collectionId": 1618999041,
+      "trackId": 1618999041,
+      "collectionName": "曦曦说 | 畜牧科学播客",
+      "artistName": "曦曦博士",
+      "feedUrl": "http://www.ximalaya.com/album/38184706.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9B%A6%E6%9B%A6%E8%AF%B4-%E7%95%9C%E7%89%A7%E7%A7%91%E5%AD%A6%E6%92%AD%E5%AE%A2/id1618999041?uo=4",
+      "genres": [
+        "科技",
+        "Podcast",
+        "科學",
+        "自然科學"
+      ],
+      "genreIds": [
+        "1318",
+        "26",
+        "1533",
+        "1534"
+      ],
+      "trackCount": 533,
+      "releaseDate": "2025-03-27T23:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1662902173,
+      "trackId": 1662902173,
+      "collectionName": "哈潑播客",
+      "artistName": "輔仁大學社會科學院",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/f2816b0f-8cc1-478b-9a0b-4c6a9bb80714.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%88%E6%BD%91%E6%92%AD%E5%AE%A2/id1662902173?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 122,
+      "releaseDate": "2025-03-29T02:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1466577555",
+  "feed_url": "http://www.ximalaya.com/album/18189052.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/18189052.xml",
+    "final_url": "http://www.ximalaya.com/album/18189052.xml",
+    "fetched_at": "2026-10-25T14:50:14.957560+00:00",
+    "status": 200,
+    "sha256": "d633703e075b20917e82dd809acd52bb18f311b3b9bc571540515f09b5cd3031"
+  },
+  "status": "ok",
+  "title": {
+    "text": "世界在你耳边｜旅行趣聊",
+    "truncated": false
+  },
+  "description": {
+    "text": "好玩的媒体人、定制游专家、旅居海外好友......汇聚身边各路好吃爱玩的达人资源，分享环游世界亲眼所见的美景、走过的弯路、经历的奇遇，走到哪儿咱都有的聊！ 主播：Amanda 北京妞， 曾留学欧洲， 游走30个国家，资深媒体人 每周六早9点播出",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 256,
+  "episodes": [
+    {
+      "id": "b2972e8a4c1a7ce0ab9419acc333a42a22f2c0675753f154f38c5d3cf65e138b",
+      "guid": "xmly_track_1021038588",
+      "title": {
+        "text": "仰望朱丽叶的阳台，品尝维罗纳冰淇淋的甜美",
+        "truncated": false
+      },
+      "description": {
+        "text": "威尼斯之外，维罗纳为何因朱丽叶成名？一天能否逛明白？买票避坑、阳台打卡、城堡与冰淇淋，爱情传奇和旅行现实，哪个更打动你 02:04 威尼斯之旅：探秘小城的游客陷阱和隐藏景点 04:08 在线购买门票，但现场排队兑换，你是否了解这种现象？ 06:12 莎翁笔下的故事与朱烈故居的传说：一座庭院的多重解读 08:13 线上购票问题解决不了？别担心！找她和他帮你解决所有问题！ 10:13 爱情与建筑的交织：探秘意大利小城的浪漫之旅 12:17 意大利建筑师卡洛斯的杰作：古堡改造与艺术展示的完美结合 14:18 探寻美味冰淇淋",
+        "truncated": false
+      },
+      "published_at": "Sun, 04 Oct 2026 11:00:48 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d3f5845e5d5346b5662be0c84f94bf49606fbf47c215a6e23953a8eb5f4fa8e8",
+      "guid": "xmly_track_756910500",
+      "title": {
+        "text": "阳光下的希腊之旅10:上半场宙斯，下半场安哲",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 15 Sep 2024 12:28:54 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "9d050f7aabf53413f58bde1f323d0423db616449a5cd51cae1c248843c60775b",
+      "guid": "xmly_track_522007958",
+      "title": {
+        "text": "和维也纳偷车贼的“猫鼠”游戏，保险买单？",
+        "truncated": false
+      },
+      "description": {
+        "text": "嘉宾：Thomas 主播：Amanda 图片拍摄：Thomas",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Apr 2022 01:00:00 GMT",
+      "feed_index": 73
+    },
+    {
+      "id": "f701d4fafad5f63e80a55890316cbf4cf8b7ad61cab458ba19bba50238c9d747",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9323-audiofreehighqps/67/D3/CKwRIDoExq3WAHbr0gDIt3B1.m4a",
+      "title": {
+        "text": "千里寄法棍，漫话法式美食与总统",
+        "truncated": false
+      },
+      "description": {
+        "text": "嘉宾：wila(vlog 花花在波尔多) 主播：Amanda 配乐：toi",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Jul 2021 01:00:00 GMT",
+      "feed_index": 109
+    },
+    {
+      "id": "8a157c013447598d60fc9399c59608183b1ba357cb20e493df4696620e8b19a4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7d7e-audiofreehighqps/5C/AE/CMCoOSADcnpKAFg0XgBiOjr--aacv2-48K.m4a",
+      "title": {
+        "text": "你随心飞了吗？哪家航司玩法强",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：Amanda 配乐：Je vole",
+        "truncated": false
+      },
+      "published_at": "Sat, 31 Oct 2020 01:00:17 GMT",
+      "feed_index": 146
+    },
+    {
+      "id": "968ec921bcac289617d0d14ccc421372f0927a82d1a4f778c1e27267f5410aee",
+      "guid": "https://aod.cos.tx.xmcdn.com/group74/M08/08/39/wKgO0l5GE92RsH_eAGfneVA3Hwg249-aacv2-48K.m4a",
+      "title": {
+        "text": "穿越900公里“白骨之路”，最冷奥伊米亚康村",
+        "truncated": false
+      },
+      "description": {
+        "text": "套上两层羊毛袜加抗低温雪地靴，穿越900公里无人区的“白骨之路”，探寻位于俄罗斯西伯利亚世界上最冷的奥伊米亚康村。 尽管室内可以达到二十多度，穿短袖，但没有自来水，去室外上厕所成了巨大的挑战。 嘉宾：支支（自由摄影师） 主播：Amanda 配乐：k3 西伯利亚铁路 雅库茨克 貂皮全副武装的当地人 望而生畏的室外厕所 厕所房顶一隅 外出购物 在热水管上取暖的小喵 图片拍摄：支支 嘉宾：支支 外出十分钟",
+        "truncated": false
+      },
+      "published_at": "Sat, 15 Feb 2020 01:00:10 GMT",
+      "feed_index": 182
+    },
+    {
+      "id": "fd756be17544d8eb6f47ab105f64ba6535240b6db3f95d93aecabb40c66117b2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group60/M0B/1C/EE/wKgLeVzU5DyiH1jVAPAyvPUNbHI566-aacv2-48K.m4a",
+      "title": {
+        "text": "别老说樱花温泉，濑户内海跳岛玩艺术去",
+        "truncated": false
+      },
+      "description": {
+        "text": "今年是濑户内海艺术节大年，春夏秋都可以去打卡。除了草间弥生的知名大南瓜和长设美术馆、艺术展，更有新奇有趣的新作品值得期待。来听听本期嘉宾Yuka之前的艺术节体验：在渔民旧木屋里，通过声光电装置感受暴风雨来临；柠檬酒店和陌生人牵手一起体验夏日酸酸甜甜柠檬味的初恋感觉；躺下来看庭院里一棵盆栽，奇妙无穷，还有在场的帅气的艺术家福利；岛上的老爷爷教Yuka做什么？Yuka吃的了什么奇特的冰淇淋...... 嘉宾：Yuka 主播：Amanda 配乐： 僕と花 (我与花) PS：嘉宾Yuka的新书《最美的生活不过是日常》也已经出版上线啦！欢迎上当当选购，来一场现代版的“爱丽丝漫游仙境” 草间弥生的黄南瓜 桃太郎追鬼 口琴 庭院里的那棵盆栽 躺下来看到盆栽的奇幻景象 盆栽艺术家平尾成志 直岛上的钱汤装置 逛岛 海鸥停车场 地中美术馆（网络图片） 岛上可爱的老爷爷指导和小车拍照摆pose，Yuka画成了漫画 （图片摄影 Yuka） 嘉宾：Yuka",
+        "truncated": false
+      },
+      "published_at": "Sat, 11 May 2019 01:00:05 GMT",
+      "feed_index": 219
+    },
+    {
+      "id": "583b2b03f7cb80993750fe2cb0cae78db6c249b902067b3db463cc2a424520f4",
+      "guid": "https://aod.cos.tx.xmcdn.com/group46/M04/FE/46/wKgKj1uXjFnyARh1ALNkH2WA6oo294-aacv2-48K.m4a",
+      "title": {
+        "text": "克罗地亚迷人的小眼神儿（1）说走就走",
+        "truncated": false
+      },
+      "description": {
+        "text": "实地探访克罗地亚，交通签证经验谈 主播：Amanda 嘉宾：小倪 配乐：克罗地亚狂想曲",
+        "truncated": false
+      },
+      "published_at": "Tue, 11 Sep 2018 09:36:47 GMT",
+      "feed_index": 255
+    }
+  ]
+}

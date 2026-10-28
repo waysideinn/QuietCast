@@ -1,0 +1,83 @@
+{
+  "group": "normal",
+  "term": "电影评论",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:43:50.344008+00:00",
+    "status": 200,
+    "sha256": "5862d32ef10a67152cce48e2848a8221fcb1f397cb647f26155a590a35dc7921"
+  },
+  "result_count": 3,
+  "records": [
+    {
+      "collectionId": 1853798979,
+      "trackId": 1853798979,
+      "collectionName": "「電影敢咁感」第一季",
+      "artistName": "香港電影評論學會",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/05934ee6-041c-4d55-86b4-7b8d2608c28f.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9B%BB%E5%BD%B1%E6%95%A2%E5%92%81%E6%84%9F-%E7%AC%AC%E4%B8%80%E5%AD%A3/id1853798979?uo=4",
+      "genres": [
+        "電影評論",
+        "Podcast",
+        "電視與電影"
+      ],
+      "genreIds": [
+        "1563",
+        "26",
+        "1309"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2026-01-20T09:56:00Z",
+      "country": "TWN",
+      "primaryGenreName": "電影評論"
+    },
+    {
+      "collectionId": 1896856926,
+      "trackId": 1896856926,
+      "collectionName": "「電影敢咁感」第二季",
+      "artistName": "香港電影評論學會",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/585cf9cc-0ea9-4d45-a0be-0866e77a11ca.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9B%BB%E5%BD%B1%E6%95%A2%E5%92%81%E6%84%9F-%E7%AC%AC%E4%BA%8C%E5%AD%A3/id1896856926?uo=4",
+      "genres": [
+        "電影評論",
+        "Podcast",
+        "電視與電影"
+      ],
+      "genreIds": [
+        "1563",
+        "26",
+        "1309"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2026-07-07T05:47:00Z",
+      "country": "TWN",
+      "primaryGenreName": "電影評論"
+    },
+    {
+      "collectionId": 1778852704,
+      "trackId": 1778852704,
+      "collectionName": "电影评论家",
+      "artistName": "小鱼游记",
+      "feedUrl": "https://www.ximalaya.com/album/83803027.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA%E5%AE%B6/id1778852704?uo=4",
+      "genres": [
+        "電影評論",
+        "Podcast",
+        "電視與電影",
+        "電影訪談"
+      ],
+      "genreIds": [
+        "1563",
+        "26",
+        "1309",
+        "1565"
+      ],
+      "trackCount": 212,
+      "releaseDate": "2026-10-07T04:03:00Z",
+      "country": "TWN",
+      "primaryGenreName": "電影評論"
+    }
+  ]
+}

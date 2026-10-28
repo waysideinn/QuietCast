@@ -1,0 +1,140 @@
+{
+  "show_id": "1490362437",
+  "feed_url": "http://www.ximalaya.com/album/29555206.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/29555206.xml",
+    "final_url": "http://www.ximalaya.com/album/29555206.xml",
+    "fetched_at": "2026-10-25T14:51:18.044100+00:00",
+    "status": 200,
+    "sha256": "7396cd1b1b500287c19020fd02a631eb30a1150ef34bb67e2f3d4a86cc0c7ec3"
+  },
+  "status": "ok",
+  "title": {
+    "text": "HD播客 | 体育运动相关深度访谈",
+    "truncated": false
+  },
+  "description": {
+    "text": "由主播张楚，以自己的热情和知识，给广大铁友、听众带来的播客栏目。节目将邀请顶尖运动员、普通爱好者、教练、学者、业界实践者等不同领域嘉宾，通过铁人三项、耐力运动、运动表现、运动科学、健康生活等话题，讲述人物故事，探秘身体与心理、社会与自然，帮助大家寻找运动乐趣，发掘自身潜力，实现卓越表现。感谢收听！ 微信公众号[contact removed]",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 50,
+  "episodes": [
+    {
+      "id": "782da8722d8a7657f0b1d859bf4124139ccc1506267387690d87e68303340a52",
+      "guid": "xmly_track_799594392",
+      "title": {
+        "text": "HD播客 #50：铁三游泳的要义与迷思 *番外*",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期节目特别不同，现场录制的年终聚会大揭秘，分享游泳训练心得！从初学到公开水域挑战，铁三爱好者们的心路历程与你分享。想知道更多关于成年人学游泳、团队氛围如何构建的故事吗？一起来听听吧，相信你会找到共鸣！ 相关内容扩展： 做客《在下不才》： https://www.xiaoyuzhoufm.com/episode/676bdabf15a5fd520e7f8f19",
+        "truncated": false
+      },
+      "published_at": "Sun, 26 Jan 2025 00:17:27 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "e2b15088e396a1d916fa398217392b7eb77ada1610f5474127357696dec293e8",
+      "guid": "xmly_track_640320058",
+      "title": {
+        "text": "HD播客 #43：超马、越野跑中的意志力、痛苦与努力——武源媛",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Jun 2023 03:03:26 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "288eaf9dfb105f8e36405f15468ca7374d00aa8a73f3b6b19ab43762f27fa02e",
+      "guid": "xmly_track_509343271",
+      "title": {
+        "text": "HD铁三播客 #36：高强度间歇训练的科学与应用——黎涌明（2）",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集节目，再次邀请到上海体育学院教授，博士研究生导师黎涌明老师。我们一起聊聊高强度间歇训练背后的科学，以及它在不同项目运动员训练中的应用。对于致力于提高运动员表现的教练、体能教练、私人教练、运动生理学家、体育科学家和研究人员来说，在线课程和书是一个必备资源。同时，我们也围绕两位作者，继续探讨体育运动领域科研工作者的特点。 时间轴 03:00 概念与源起 12:28 两位原作者，体育运动领域科研与实践者 35:45 HIIT Science课程体系 57:45 课程制作收获、心得 相关内容扩展 - 课程制作心 得： https://mp.weixin.qq.com/s/NTy9tAZsaJEcGACwJTrEYQ - 高强度间歇训练对不同训练人群的应用效果： https://mp.weixin.qq.com/s/KbtLtyoLUCw5GJYLwMfjyw - Paul Laursen: https://www.paullaursen.com - Martin Buchheit: https://martin-buchheit.net - 《高强度间歇训练科学》： https://hiitscience.com/ - NSCA认证： CSCS（体能训练专家），CPSS（表现与运动科学家）",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Mar 2022 00:40:07 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "8f623f0815b6d5cfe5475e0428f24e3cefad287bb5984b52fbed017db376429d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2a89-audiofreehighqps/5F/37/CKwRIW4EkIzNAlKjKwC1Td3Z.m4a",
+      "title": {
+        "text": "[HD铁三播客] 第29集：“轻松愉悦”的海峡横渡和大铁距离——徐麟",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集节目，我们邀请来自上海的爱好者徐麟（lucky），讲讲她运动经历和个人挑战中的收获和感悟。徐麟是两个孩子的妈妈，同时也是一名人民警察。她的两次个人挑战为2020年的大铁距离和今年五月份的琼州海峡横渡，在琼州海峡横渡中，徐麟还创造了南向北的女子时间记录。看似轻松愉悦的挑战中，显现了她的日常功夫。乐观积极的运动观念之外，我们也聊到了对爱好者的实用建议。 节目内容： 06:55 青少年时期 17:12 重回运动入坑铁三 25:25 2019年尼斯70.3 32:46 横渡琼州海峡及愿望清单 1:06:26 2020 IRONMAN世锦赛线上赛 1:10:20 日常工作生活训练 相关内容扩展： AWA: IRONMAN积分体系 IRONMAN VR: 2020年因疫情而生的线上、虚拟赛 哈Pro ：李琦晟（详见HD铁三播客第一集）； 青蛙 ：刘芊箬，另一位国内优秀女子业余运动员",
+        "truncated": false
+      },
+      "published_at": "Sat, 05 Jun 2021 00:46:45 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "9968b95e4255304f8a8fa68633f2774112c2e826abd74cb8cf2e162f094784ac",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f1fb-audiofreehighqps/F9/54/CMCoOR4DnM-ABq9WfQBtCmr3.mp3",
+      "title": {
+        "text": "[HD铁三播客] 第22集：铁三江湖中的真Pro——萧昱（2）",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集节目邀请萧昱回来，萧大侠大铁成绩更新为8:36:05，华人圈中最快，IRONMAN 70.3距离最好成绩3:58:53，两个成绩是在今年唯二的两场比赛中创下的，我们就一起聊聊这两场比赛和他的训练。 节目内容： 02:28 IRONMAN佛罗里达 38:50 IRONMAN 70.3台湾 1:01:45 训练理念与方法 1:23:00 工作、生活及展望 相关内容扩展： HD铁三播客第8集： https://www.ximalaya.com/youshengshu/29555206/243887248 火箭科技三亚训练营： https://mp.weixin.qq.com/s/i3vOhtWTNWX8JRsqkETPAQ 萧昱训练经验： http://www.yuxsjao.com/swimming http://www.yuxsjao.com/cycling http://www.yuxsjao.com/running 萧昱提到的跑步训练团队： https://tinmanelite.com/",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Dec 2020 09:00:29 GMT",
+      "feed_index": 28
+    },
+    {
+      "id": "3d41f6509d1d4d491ea3766d5a37b3c4eab33c04aa2ad6bf92b56d2296a5629c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group86/M0B/41/F8/wKg5IF76u9Lgczk1B8HF5z74-Ek072.mp3",
+      "title": {
+        "text": "[HD铁三播客] 第15集：新人与听众问答特辑——weiya，王开元",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集节目，我们再次邀请到王开元，先与 女性健康生活方式博主 weiya 一起聊聊她作为一个铁三新手遇到的问题；随后再与开元一起，回应一些节目开播到现在听众们留下的问题。之后的节目中，只要积累足够多有意思的问题，问答特辑还会不定期开展。 节目内容： 第一部分： 06:20 《你的第一场铁人三项》 14:35 weiya的器材装备问题 33:03 能量补给讨论 39:55 weiya的技能与体能训练问题 57:22 参加运动与健康减肥问题 第二部分： 1:04:19 比赛期停摆期的训练动力与方法 1:12:00 训练最应该关注什么，训练计划制定方法 1:20:49 训练计划与进展检验 1:28:00 铁三及耐力运动的力量训练 1:39:13 心理与头脑训练 1:43:02 MAF训练方法的有效性 1:51:45 咖啡因作为日常饮食和运动补给的注意事项 相关内容扩展： Weiya的女性健康生活方式自媒体——微博[contact removed]： https://www.weibo.com/u/6049305333 播客 fit4life | fitgirl weekly chat ： https://www.ximalaya.com/shishang/26640504 萌新标铁全攻略： https://mp.weixin.qq.com/s/4ADBQNemyTtGyRrOCFgciw 把银子花在刀刃上，",
+        "truncated": true
+      },
+      "published_at": "Tue, 30 Jun 2020 04:13:10 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "c8a2a622f724df34280f925bc19d6abcb6a5da4b2b3e9815e837bc6524215a97",
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M03/A7/4C/wKgOzl4dWZORpfrZBAobL7M9ics204.mp3",
+      "title": {
+        "text": "[HD铁三播客] 第8集：铁三江湖中的真Pro——萧昱（一）",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集节目邀请到来自美国加州的萧昱，他自称“萧大侠”，“ 台湾 职业铁三演员”。大铁（首大铁，也是目前唯一一场）成绩 8:49:00 ，华人圈中最快， IRONMAN70.3 距离最好成绩 4:00:23 ，马拉松最好成绩 2:26:05 。我们一起来听听萧昱作为职业铁人三项运动员 ， 全职硅谷工程师 ， 儿子 和（一点点 ） 未婚夫的故事。 节目内容： 04:42 近期回台湾经历 09:07 儿时与中学时光 17:07 大学时期铁三开始 22:17 获取职业资格 27:30 初入“职场”的受挫经历 34:41 退坑与破茧重生再入坑 45:04 2019 年比赛经历及 2020 年比赛计划 相关内容扩展： 萧昱微博[contact removed]://weibo.com/p/1005053173630592 BURN跑团 ： http://burnrunning.org/zh-hans/about 相关文字报道（有他首大铁和首马描述） ： https://mp.weixin.qq.com/s/w3x4OgmacV-wToqHN77-Sg 节目中提到的几个比赛 ：加州 IRONMAN 70.3 Oceanside ， Wildflower Long Course ， IRONMAN 70.3 Vineman ，加州国际马拉松 California International Marathon ，犹他州",
+        "truncated": true
+      },
+      "published_at": "Tue, 14 Jan 2020 06:15:46 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "4575bd1d632332cbcbabdc19dbad51b5b669e13d1822632c124dcce92b265f1e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group66/M0B/B2/15/wKgMa12Nx_fBpd8xAdiABxJvkIA464.m4a",
+      "title": {
+        "text": "[HD铁三播客] 第1集：威海超级铁三——李琦晟、朱立昶",
+        "truncated": false
+      },
+      "description": {
+        "text": "HD铁三播客开播首集，我们邀请到了国内优秀的年龄组选手李琦晟和朱立昶。我们三人上周末都参加了国内历史最长的铁三比赛之一——威海铁三赛。赛后，我们在酒店房间里就威海比赛过程、见闻，两人参与此项运动历程，相关训练理念，以及各自作为教练的经历等内容，一直聊到我去赶飞机的前一分钟。 万事开头难，为推出这档播客栏目，在过程中做了不少的准备工作，包括为控制时长、留出精华而做的剪辑，搭建喜马拉雅账号，编写节目说明等。感谢广大铁友收听，欢迎关注、点赞、转发节目。有任何意见、建议，也欢迎提出！ 节目内容： 03:16 威海比赛过程回顾 28:31 本赛季剩余比赛计划 30:26 训练相关：训练伙伴、训练强度比例、周期训练、基准测试、马拉松与铁三的关系、训练动力 52:45 教练相关 李琦晟 ，业余铁人三项爱好者，接触铁人三项运动五年。标铁最好成绩2小时05分，IRONMAN 70.3最好成绩4小时14分，马拉松最好成绩2小时29分。 朱立昶 ，业余铁人三项爱好者，接触铁人三项运动五年。标铁最好成绩2小时04分，IRONMAN 70.3最好成绩4小时21分，马拉松最好成绩2小时40分。 相关内容扩展： 威海超级铁三 ：www.x-triathlon.com/html/tiesan/ NP ：标准化功率 IF ：强度因子 CTL ：长期运动负荷 Garmin储备心率 ：储备心率=最大心率-静止心率，再根",
+        "truncated": true
+      },
+      "published_at": "Fri, 27 Sep 2019 08:28:09 GMT",
+      "feed_index": 49
+    }
+  ]
+}

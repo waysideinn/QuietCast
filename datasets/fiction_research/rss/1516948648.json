@@ -1,0 +1,140 @@
+{
+  "show_id": "1516948648",
+  "feed_url": "http://www.ximalaya.com/album/33481389.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/33481389.xml",
+    "final_url": "http://www.ximalaya.com/album/33481389.xml",
+    "fetched_at": "2026-10-25T14:50:07.273633+00:00",
+    "status": 200,
+    "sha256": "8327b5a98e12d5ead55cc13f0a0cbd765e134d6b25f4607ce120a1f36ad557e6"
+  },
+  "status": "ok",
+  "title": {
+    "text": "儿童健康专业科普",
+    "truncated": false
+  },
+  "description": {
+    "text": "欢迎关注元气小医！ 专业的育儿指导 ，为孩子的健康保驾护航！ 这里有专业全面的儿童健康科普知识，由医生团队出品，科学育儿、轻松育儿，生活依旧可以元气满满！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 83,
+  "episodes": [
+    {
+      "id": "cbe1667e0d1086390d7f781d705c89e0494aea5e67452437ebe5bb00d73d81f0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/69f6-audiofreehighqps/92/B2/CMCoOSADo72vABpRbQBuyu0z.m4a",
+      "title": {
+        "text": "儿童家庭急救箱里应该有些什么？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 07 Dec 2020 09:49:27 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ab5fdce9f24ca2fdf4680b36a1b177620b24e19ca53f3b08853e171f0ce7a004",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d48e-audiofreehighqps/0E/F4/CMCoOScDiBLnABMzGQBnb5uz.m4a",
+      "title": {
+        "text": "受伤流血了怎么办 — 指压止血法",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 16 Nov 2020 10:09:29 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "49464f86780a100892997a42c25a18a98272b4510336d6957c76a773aa7f3dd7",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/67a6-audiofreehighqps/13/4D/CMCoOSIDbFW9ABpRbQBgrGWm.m4a",
+      "title": {
+        "text": "儿童家庭急救箱里应该有些什么？",
+        "truncated": false
+      },
+      "description": {
+        "text": "儿童家庭急救药箱里应该有些什么？这是父母们都要掌握的，赶快来跟松果医生学习医学知识吧！",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Oct 2020 09:11:20 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "2e0bbd61faa2cb5ab713be4be299710d7b45c39f5a6c4306bd1232d222a4b4ad",
+      "guid": "https://aod.cos.tx.xmcdn.com/group84/M0A/55/FC/wKg5JF8Wl2yjw0xJADil9fXolPk561.mp3",
+      "title": {
+        "text": "益生菌对人体有什么好处？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Jul 2020 02:00:15 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "255f4162990946c521dd44f156c66c592a8ebfbc3a6c512a4328a950c23a7d03",
+      "guid": "https://aod.cos.tx.xmcdn.com/group74/M06/2F/9D/wKgO3F58YNWB11-fACwBrUYuRNk183.m4a",
+      "title": {
+        "text": "儿童家庭应急处理--眼内异物",
+        "truncated": false
+      },
+      "description": {
+        "text": "更多内容，欢迎关注松果医服微信号，微信搜索“松果医服”一站直达。",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Mar 2020 07:59:27 GMT",
+      "feed_index": 47
+    },
+    {
+      "id": "dfca5f3e181e5f2be6d9acb24ce7c0278cc29dbf552f4730813ee8597693c41e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group77/M00/27/D7/wKgO315rOEywI_yUACcEz6HpZvk875.m4a",
+      "title": {
+        "text": "小朋友如何缓解眼疲劳",
+        "truncated": false
+      },
+      "description": {
+        "text": "更多内容，欢迎关注松果医服微信号，微信搜索“松果医服”一站直达。",
+        "truncated": false
+      },
+      "published_at": "Fri, 13 Mar 2020 07:38:12 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "81db6decc53b82000afe21300d5ca8dbeb4d7a0e50a98533300009ed12cd2334",
+      "guid": "https://aod.cos.tx.xmcdn.com/group75/M06/12/0D/wKgO015YvCyDI8heADDeZFMtmFg500.m4a",
+      "title": {
+        "text": "孩子在家憋坏了想出去玩怎么办",
+        "truncated": false
+      },
+      "description": {
+        "text": "更多内容，欢迎关注松果医服微信号，微信搜索“松果医服”一站直达。 如果您对我们的节目有什么意见或建议，可以在节目下方留言，或通过微信号联系我们。",
+        "truncated": false
+      },
+      "published_at": "Fri, 28 Feb 2020 07:07:47 GMT",
+      "feed_index": 70
+    },
+    {
+      "id": "be08ae66e684d49fba4a94da3dc6db516c59ecfdd0238f1950704106dda69f4f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group70/M03/84/84/wKgOzl5CeI2yyJXTADLNVDlfh7E296.m4a",
+      "title": {
+        "text": "儿童防疫小贴士-孩子的口罩怎么选？",
+        "truncated": false
+      },
+      "description": {
+        "text": "松果医服，妈妈们的医生朋友。 了解最新疫情，学习新冠肺炎防护知识，请关注松果医服。",
+        "truncated": false
+      },
+      "published_at": "Tue, 11 Feb 2020 09:50:31 GMT",
+      "feed_index": 82
+    }
+  ]
+}

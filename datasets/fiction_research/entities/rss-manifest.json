@@ -1,0 +1,1432 @@
+[
+  {
+    "show_id": "1006510674",
+    "rss_url": "http://www.ximalaya.com/album/2670589.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/2670589.xml",
+      "final_url": "http://www.ximalaya.com/album/2670589.xml",
+      "fetched_at": "2026-10-26T07:53:12.096898+00:00",
+      "status": 200,
+      "sha256": "2a557efd33f5d486520f8b1527ab8beb3f00a5ad480683f671807e0098468879"
+    }
+  },
+  {
+    "show_id": "1006558032",
+    "rss_url": "http://www.ximalaya.com/album/1072869.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/1072869.xml",
+      "final_url": "http://www.ximalaya.com/album/1072869.xml",
+      "fetched_at": "2026-10-26T07:53:15.476186+00:00",
+      "status": 200,
+      "sha256": "7344fcce38b7e9ecf82a3a4ab48438e43a60f54021d8351b6536e06d86328c75"
+    }
+  },
+  {
+    "show_id": "1023646883",
+    "rss_url": "http://cdn.lizhi.fm/rss/178674.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://cdn.lizhi.fm/rss/178674.xml",
+      "final_url": "http://cdn.lizhi.fm/rss/178674.xml",
+      "fetched_at": "2026-10-26T07:53:18.916313+00:00",
+      "status": 200,
+      "sha256": "a91b46755aa7b6cf27c36353512579a8654fc144534e2cef0e7caddbd15e4cf0"
+    }
+  },
+  {
+    "show_id": "1031400642",
+    "rss_url": "http://rss.lizhi.fm/rss/1310979.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://rss.lizhi.fm/rss/1310979.xml",
+      "final_url": "http://rss.lizhi.fm/rss/1310979.xml",
+      "fetched_at": "2026-10-26T07:53:22.441615+00:00",
+      "status": 200,
+      "sha256": "2e8702fe9083dfb7688d45dc8018275153e069ec42894c549eb7890545e1ba38"
+    }
+  },
+  {
+    "show_id": "1055974809",
+    "rss_url": "http://www.ximalaya.com/album/2716954.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/2716954.xml",
+      "final_url": "http://www.ximalaya.com/album/2716954.xml",
+      "fetched_at": "2026-10-26T07:53:24.849798+00:00",
+      "status": 200,
+      "sha256": "07614546f02d129ae25eaa5d3107f4bee9e3aea6e5dbb7ce4796f6dbf0930e17"
+    }
+  },
+  {
+    "show_id": "1063962111",
+    "rss_url": "http://www.ximalaya.com/album/2684034.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/2684034.xml",
+      "final_url": "http://www.ximalaya.com/album/2684034.xml",
+      "fetched_at": "2026-10-26T07:53:28.109911+00:00",
+      "status": 200,
+      "sha256": "d5f0b64c3ca09d61ec4a28a2545a24b0513902509b10277bc970c63d0fd501cf"
+    }
+  },
+  {
+    "show_id": "1070100585",
+    "rss_url": "http://www.ximalaya.com/album/3367596.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/3367596.xml",
+      "final_url": "http://www.ximalaya.com/album/3367596.xml",
+      "fetched_at": "2026-10-26T07:53:31.481861+00:00",
+      "status": 200,
+      "sha256": "81e3543cdc9f8109cafd807a1138b9ffe6b32239432b87a222bb73c4a8588b70"
+    }
+  },
+  {
+    "show_id": "1074650165",
+    "rss_url": "http://www.ximalaya.com/album/3418284.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/3418284.xml",
+      "final_url": "http://www.ximalaya.com/album/3418284.xml",
+      "fetched_at": "2026-10-26T07:53:34.490584+00:00",
+      "status": 200,
+      "sha256": "01597c26b69f615f9c9b8f54419ed0bcbeb326b4730a72f566d88aaa826b3d47"
+    }
+  },
+  {
+    "show_id": "1086633716",
+    "rss_url": "http://www.ximalaya.com/album/3684321.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/3684321.xml",
+      "final_url": "http://www.ximalaya.com/album/3684321.xml",
+      "fetched_at": "2026-10-26T07:53:37.635491+00:00",
+      "status": 200,
+      "sha256": "6c3f05108d85067395d1860e741ff40b0001a19985a685bcb674e005b9c4adf2"
+    }
+  },
+  {
+    "show_id": "1091928630",
+    "rss_url": "http://rss.lizhi.fm/rss/1964225.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://rss.lizhi.fm/rss/1964225.xml",
+      "final_url": "http://rss.lizhi.fm/rss/1964225.xml",
+      "fetched_at": "2026-10-26T07:53:41.272513+00:00",
+      "status": 200,
+      "sha256": "5087b636ffda8bef45a4dca145518145fb3d64493df37d19c88be362f5263c39"
+    }
+  },
+  {
+    "show_id": "1095188273",
+    "rss_url": "http://www.ximalaya.com/album/3820628.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/3820628.xml",
+      "final_url": "http://www.ximalaya.com/album/3820628.xml",
+      "fetched_at": "2026-10-26T07:53:44.055822+00:00",
+      "status": 200,
+      "sha256": "3715b2e7d9f5b9ece211e4a6d306daf95daae45c57ac7e8596e999c98348bfd2"
+    }
+  },
+  {
+    "show_id": "1095957604",
+    "rss_url": "http://www.ximalaya.com/album/3550537.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/3550537.xml",
+      "final_url": "http://www.ximalaya.com/album/3550537.xml",
+      "fetched_at": "2026-10-26T07:53:47.376136+00:00",
+      "status": 200,
+      "sha256": "7414f42b524f40fb6d3958e30a5dd7a7afdf52bce21d0517bfe9514bf09c872d"
+    }
+  },
+  {
+    "show_id": "1097107152",
+    "rss_url": "http://www.ximalaya.com/album/3865985.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/3865985.xml",
+      "final_url": "http://www.ximalaya.com/album/3865985.xml",
+      "fetched_at": "2026-10-26T07:53:50.522968+00:00",
+      "status": 200,
+      "sha256": "2edf06d3fb279ada1d736bd91fe2723e245fa0565d5ef4495879a5800dd710db"
+    }
+  },
+  {
+    "show_id": "1101566191",
+    "rss_url": "http://www.ximalaya.com/album/3013987.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/3013987.xml",
+      "final_url": "http://www.ximalaya.com/album/3013987.xml",
+      "fetched_at": "2026-10-26T07:53:53.732691+00:00",
+      "status": 200,
+      "sha256": "135f334ce1f813232325d0f086492cd125c9046035fe6a4ee7c0dfa152145dea"
+    }
+  },
+  {
+    "show_id": "1101566199",
+    "rss_url": "http://www.ximalaya.com/album/3986881.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/3986881.xml",
+      "final_url": "http://www.ximalaya.com/album/3986881.xml",
+      "fetched_at": "2026-10-26T07:53:57.005776+00:00",
+      "status": 200,
+      "sha256": "a830d4a39c2ad42ea67213076048ded0d995ab33b2d7698e925b26c6a1f7385a"
+    }
+  },
+  {
+    "show_id": "1112466861",
+    "rss_url": "http://www.ximalaya.com/album/4194858.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/4194858.xml",
+      "final_url": "http://www.ximalaya.com/album/4194858.xml",
+      "fetched_at": "2026-10-26T07:54:00.380047+00:00",
+      "status": 200,
+      "sha256": "df08e8811025036f54a6a120f9d7d7dbdfb55a09986ecda2f3b7c520920759fd"
+    }
+  },
+  {
+    "show_id": "1115612886",
+    "rss_url": "http://www.ximalaya.com/album/4276887.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/4276887.xml",
+      "final_url": "http://www.ximalaya.com/album/4276887.xml",
+      "fetched_at": "2026-10-26T07:54:03.492343+00:00",
+      "status": 200,
+      "sha256": "3fbc593c41fd42602cc20ef7d3e9c731afa8bb3bc442c73c430567ed5fee3bb8"
+    }
+  },
+  {
+    "show_id": "1116858703",
+    "rss_url": "http://www.ximalaya.com/album/368828.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/368828.xml",
+      "final_url": "http://www.ximalaya.com/album/368828.xml",
+      "fetched_at": "2026-10-26T07:54:06.653549+00:00",
+      "status": 200,
+      "sha256": "cd8f234b10e35587abc163bc6933d5667449b7dca06d7c72f0a688b71d8329fb"
+    }
+  },
+  {
+    "show_id": "1118206170",
+    "rss_url": "http://www.ximalaya.com/album/4268473.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/4268473.xml",
+      "final_url": "http://www.ximalaya.com/album/4268473.xml",
+      "fetched_at": "2026-10-26T07:54:09.746223+00:00",
+      "status": 200,
+      "sha256": "0241ec1acc46fa7e50904e52b8c2817e621fad1aad849eea127a244dbb91aa05"
+    }
+  },
+  {
+    "show_id": "1118208455",
+    "rss_url": "http://www.ximalaya.com/album/4086159.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/4086159.xml",
+      "final_url": "http://www.ximalaya.com/album/4086159.xml",
+      "fetched_at": "2026-10-26T07:54:12.907694+00:00",
+      "status": 200,
+      "sha256": "e3dbd094a7fd0533576104c7fdc92761d00d81b87f9fc4dd8f5f026838f3ccd5"
+    }
+  },
+  {
+    "show_id": "1125953267",
+    "rss_url": "http://www.ximalaya.com/album/4180445.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/4180445.xml",
+      "final_url": "http://www.ximalaya.com/album/4180445.xml",
+      "fetched_at": "2026-10-26T07:54:16.236111+00:00",
+      "status": 200,
+      "sha256": "8c1c4f88787e83b250307cc416bb2298f936d9c04d96117b2f45f5763361619b"
+    }
+  },
+  {
+    "show_id": "1130862082",
+    "rss_url": "http://www.ximalaya.com/album/4600139.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/4600139.xml",
+      "final_url": "http://www.ximalaya.com/album/4600139.xml",
+      "fetched_at": "2026-10-26T07:54:19.368450+00:00",
+      "status": 200,
+      "sha256": "21bb7480e52ce75eeb6d7661d5b0118da523678a4d1e0bbe892e662764d6e13b"
+    }
+  },
+  {
+    "show_id": "1136986088",
+    "rss_url": "http://www.ximalaya.com/album/4767360.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/4767360.xml",
+      "final_url": "http://www.ximalaya.com/album/4767360.xml",
+      "fetched_at": "2026-10-26T07:54:22.620016+00:00",
+      "status": 200,
+      "sha256": "6ae8f87525fed7eac8b425600a92f7afd70af3a2dfb7635dbd02e81e6e2ce08e"
+    }
+  },
+  {
+    "show_id": "1146322285",
+    "rss_url": "http://www.ximalaya.com/album/3517813.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/3517813.xml",
+      "final_url": "http://www.ximalaya.com/album/3517813.xml",
+      "fetched_at": "2026-10-26T07:54:25.890755+00:00",
+      "status": 200,
+      "sha256": "3316c28dc5413d339c065c7b3a26bf67b1ee816da280f99f36d727882c3fac12"
+    }
+  },
+  {
+    "show_id": "1146322401",
+    "rss_url": "http://www.ximalaya.com/album/4478958.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/4478958.xml",
+      "final_url": "http://www.ximalaya.com/album/4478958.xml",
+      "fetched_at": "2026-10-26T07:54:29.157687+00:00",
+      "status": 200,
+      "sha256": "cee99e643f5d4ff69c86378a4d335758af66eb3714542f432c06106003534c82"
+    }
+  },
+  {
+    "show_id": "1150960423",
+    "rss_url": "http://www.ximalaya.com/album/5141494.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/5141494.xml",
+      "final_url": "http://www.ximalaya.com/album/5141494.xml",
+      "fetched_at": "2026-10-26T07:54:32.255093+00:00",
+      "status": 200,
+      "sha256": "f694f5fdb5c2c8a8f6cf35e1adae2d0321c5fd93daea9fc8fdf21b22fba81d37"
+    }
+  },
+  {
+    "show_id": "1151635158",
+    "rss_url": "http://www.ximalaya.com/album/5152485.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/5152485.xml",
+      "final_url": "http://www.ximalaya.com/album/5152485.xml",
+      "fetched_at": "2026-10-26T07:54:35.442638+00:00",
+      "status": 200,
+      "sha256": "f4561156849daf87347bb690646f64f2a1c269e276bb38e20ec566c97640ff20"
+    }
+  },
+  {
+    "show_id": "1156526309",
+    "rss_url": "http://www.ximalaya.com/album/5195135.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/5195135.xml",
+      "final_url": "http://www.ximalaya.com/album/5195135.xml",
+      "fetched_at": "2026-10-26T07:54:38.550726+00:00",
+      "status": 200,
+      "sha256": "cc26eca1a7e6b68fe1562c0b85955220464ca9ccabaec5f789b2486e991e3027"
+    }
+  },
+  {
+    "show_id": "1157803271",
+    "rss_url": "http://www.ximalaya.com/album/4827179.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/4827179.xml",
+      "final_url": "http://www.ximalaya.com/album/4827179.xml",
+      "fetched_at": "2026-10-26T07:54:41.785941+00:00",
+      "status": 200,
+      "sha256": "a4f79e3448cf94324ecaf5ede210cf2a2d942637fb361ce17c6d007da7fc1d36"
+    }
+  },
+  {
+    "show_id": "1158667858",
+    "rss_url": "https://s2.proxy.wavpub.com/voyagefm.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://s2.proxy.wavpub.com/voyagefm.xml",
+      "final_url": "https://s2.proxy.wavpub.com/voyagefm.xml",
+      "fetched_at": "2026-10-26T07:54:45.262938+00:00",
+      "status": 200,
+      "sha256": "ed4c905a49d9db5774bec38ed53cde07be6be5e150dc777469b63f542f50e084"
+    }
+  },
+  {
+    "show_id": "1170351486",
+    "rss_url": "http://www.ximalaya.com/album/4920066.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/4920066.xml",
+      "final_url": "http://www.ximalaya.com/album/4920066.xml",
+      "fetched_at": "2026-10-26T07:54:48.234078+00:00",
+      "status": 200,
+      "sha256": "e8c397f690ed636efd158fe548140fe1e9855f6d653e01ec81becaa680aac53f"
+    }
+  },
+  {
+    "show_id": "1180461525",
+    "rss_url": "http://www.ximalaya.com/album/3757071.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/3757071.xml",
+      "final_url": "http://www.ximalaya.com/album/3757071.xml",
+      "fetched_at": "2026-10-26T07:54:51.482430+00:00",
+      "status": 200,
+      "sha256": "7d56cc91071a3ba8552a08f368caf4e58c066a8a71fa28ba9af08f9b780002e8"
+    }
+  },
+  {
+    "show_id": "1191409439",
+    "rss_url": "http://www.ximalaya.com/album/5867192.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/5867192.xml",
+      "final_url": "http://www.ximalaya.com/album/5867192.xml",
+      "fetched_at": "2026-10-26T07:54:54.652224+00:00",
+      "status": 200,
+      "sha256": "ab328aa6abbb43f75e9945160d3d190ec1dcdce19d021ed87d55ea0f980c9e3e"
+    }
+  },
+  {
+    "show_id": "1191410221",
+    "rss_url": "http://www.ximalaya.com/album/5807748.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/5807748.xml",
+      "final_url": "http://www.ximalaya.com/album/5807748.xml",
+      "fetched_at": "2026-10-26T07:54:57.842495+00:00",
+      "status": 200,
+      "sha256": "7312a75a680f802f3c6cace853a1ec647760309bc7ccb2e19fe0c193f9764a38"
+    }
+  },
+  {
+    "show_id": "1191425381",
+    "rss_url": "http://www.ximalaya.com/album/4736247.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/4736247.xml",
+      "final_url": "http://www.ximalaya.com/album/4736247.xml",
+      "fetched_at": "2026-10-26T07:55:01.316654+00:00",
+      "status": 200,
+      "sha256": "1834b59f3d7c59bb3eed45ccfeacd69974cd65fef3d452b1e12df6582a83d6e9"
+    }
+  },
+  {
+    "show_id": "1201782184",
+    "rss_url": "http://rss.lizhi.fm/rss/1784186.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://rss.lizhi.fm/rss/1784186.xml",
+      "final_url": "http://rss.lizhi.fm/rss/1784186.xml",
+      "fetched_at": "2026-10-26T07:55:04.714227+00:00",
+      "status": 200,
+      "sha256": "2e6f55cd0b3e78cabb5de1156d365e73081c12092b8d0ed8e3b38c81040e2c17"
+    }
+  },
+  {
+    "show_id": "1205474193",
+    "rss_url": "http://www.ximalaya.com/album/6419801.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/6419801.xml",
+      "final_url": "http://www.ximalaya.com/album/6419801.xml",
+      "fetched_at": "2026-10-26T07:55:07.654209+00:00",
+      "status": 200,
+      "sha256": "90895bfa4f56fc2b0ceffa35e31ca926d9cdf43ef7168f81043c1f52312456f3"
+    }
+  },
+  {
+    "show_id": "1206319092",
+    "rss_url": "http://www.ximalaya.com/album/6089565.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/6089565.xml",
+      "final_url": "http://www.ximalaya.com/album/6089565.xml",
+      "fetched_at": "2026-10-26T07:55:10.822093+00:00",
+      "status": 200,
+      "sha256": "0ed7a213982b3ecf233fd7aa34e46c7da29ef6d9af183e53c96e9d683c88fa74"
+    }
+  },
+  {
+    "show_id": "1241282365",
+    "rss_url": "http://www.ximalaya.com/album/8292144.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/8292144.xml",
+      "final_url": "http://www.ximalaya.com/album/8292144.xml",
+      "fetched_at": "2026-10-26T07:55:13.798848+00:00",
+      "status": 200,
+      "sha256": "589632157df1ce90c1a31bf6381be012aefcf159ea417ba343c821eb70b169f7"
+    }
+  },
+  {
+    "show_id": "1264641315",
+    "rss_url": "http://www.ximalaya.com/album/2883166.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/2883166.xml",
+      "final_url": "http://www.ximalaya.com/album/2883166.xml",
+      "fetched_at": "2026-10-26T07:55:17.101002+00:00",
+      "status": 200,
+      "sha256": "e83ce1e3d22181a970d3203146e77e55e71d5b47a73fefb991fff54f36d5a85f"
+    }
+  },
+  {
+    "show_id": "1286320610",
+    "rss_url": "http://www.ximalaya.com/album/9700440.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/9700440.xml",
+      "final_url": "http://www.ximalaya.com/album/9700440.xml",
+      "fetched_at": "2026-10-26T07:55:20.392200+00:00",
+      "status": 200,
+      "sha256": "6e1981898de0e6ffd10d6d65d15ae4b6f9c1c28a25999d6f3672103990866682"
+    }
+  },
+  {
+    "show_id": "1310569265",
+    "rss_url": "http://www.ximalaya.com/album/11317378.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/11317378.xml",
+      "final_url": "http://www.ximalaya.com/album/11317378.xml",
+      "fetched_at": "2026-10-26T07:55:23.640651+00:00",
+      "status": 200,
+      "sha256": "512ba24c314a338c9a86f15976e8c368af986cede9222fcca15434b2276d5efa"
+    }
+  },
+  {
+    "show_id": "1444714071",
+    "rss_url": "http://www.ximalaya.com/album/7521608.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/7521608.xml",
+      "final_url": "http://www.ximalaya.com/album/7521608.xml",
+      "fetched_at": "2026-10-26T07:55:26.752666+00:00",
+      "status": 200,
+      "sha256": "4ee1a51600b48e29807bb3867ad6672b412f2d89eb85bbb5e5d19f7df156f3d9"
+    }
+  },
+  {
+    "show_id": "1448125751",
+    "rss_url": "http://www.ximalaya.com/album/16071395.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/16071395.xml",
+      "final_url": "http://www.ximalaya.com/album/16071395.xml",
+      "fetched_at": "2026-10-26T07:55:30.031512+00:00",
+      "status": 200,
+      "sha256": "d0cdd9d00e753481babf8c7707079449960db535b117ea1ad9cb5e4cac303e46"
+    }
+  },
+  {
+    "show_id": "1449429752",
+    "rss_url": "http://www.ximalaya.com/album/20508299.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/20508299.xml",
+      "final_url": "http://www.ximalaya.com/album/20508299.xml",
+      "fetched_at": "2026-10-26T07:55:33.065433+00:00",
+      "status": 200,
+      "sha256": "615a0c72da55e14da060b44158d60896ea45e098f9ed4b3a1ca17104c7e0a228"
+    }
+  },
+  {
+    "show_id": "1462573678",
+    "rss_url": "http://www.ximalaya.com/album/19787065.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/19787065.xml",
+      "final_url": "http://www.ximalaya.com/album/19787065.xml",
+      "fetched_at": "2026-10-26T07:55:36.318024+00:00",
+      "status": 200,
+      "sha256": "1ca798d893537bfec3c8663ee4388ac0e60cd8b2e6f9365efcdb4ebe76dc4325"
+    }
+  },
+  {
+    "show_id": "1462841121",
+    "rss_url": "http://www.ximalaya.com/album/9603357.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/9603357.xml",
+      "final_url": "http://www.ximalaya.com/album/9603357.xml",
+      "fetched_at": "2026-10-26T07:55:39.638084+00:00",
+      "status": 200,
+      "sha256": "fd4539837ebfa428baa9cada61ee23f0275f17aeb48192dad7a1959d869a44f5"
+    }
+  },
+  {
+    "show_id": "1462848266",
+    "rss_url": "http://www.ximalaya.com/album/7134236.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/7134236.xml",
+      "final_url": "http://www.ximalaya.com/album/7134236.xml",
+      "fetched_at": "2026-10-26T07:55:42.744050+00:00",
+      "status": 200,
+      "sha256": "33d9fa0d2536c061ab4e854e0cae53ff3bc2fdc9a9baad43855234176b86c835"
+    }
+  },
+  {
+    "show_id": "1502030058",
+    "rss_url": "http://www.ximalaya.com/album/34485165.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/34485165.xml",
+      "final_url": "http://www.ximalaya.com/album/34485165.xml",
+      "fetched_at": "2026-10-26T07:55:46.047617+00:00",
+      "status": 200,
+      "sha256": "b28de35e37e414fad5ca609d72a63c32dc798b4a6a2106065d4c2cdafda88aa7"
+    }
+  },
+  {
+    "show_id": "1502221534",
+    "rss_url": "http://www.ximalaya.com/album/34771544.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/34771544.xml",
+      "final_url": "http://www.ximalaya.com/album/34771544.xml",
+      "fetched_at": "2026-10-26T07:55:49.213523+00:00",
+      "status": 200,
+      "sha256": "92ce5a004e602db05c3a6bb2da378675d5c5ff48e07deb9853771bd72dd752a7"
+    }
+  },
+  {
+    "show_id": "1505487695",
+    "rss_url": "http://www.ximalaya.com/album/24621004.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/24621004.xml",
+      "final_url": "http://www.ximalaya.com/album/24621004.xml",
+      "fetched_at": "2026-10-26T07:55:52.319370+00:00",
+      "status": 200,
+      "sha256": "c0575731c89e74cfbaaaf7ce8aa9201ae4f56ce9bfc972aff96ebe7abb6d6e16"
+    }
+  },
+  {
+    "show_id": "1505487860",
+    "rss_url": "http://www.ximalaya.com/album/26554644.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/26554644.xml",
+      "final_url": "http://www.ximalaya.com/album/26554644.xml",
+      "fetched_at": "2026-10-26T07:55:55.591037+00:00",
+      "status": 200,
+      "sha256": "cf761ccfea5ec0870f7dae415678bf92da6a57112b3ea915a168d436b5ab059a"
+    }
+  },
+  {
+    "show_id": "1509667588",
+    "rss_url": "http://www.ximalaya.com/album/36901831.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/36901831.xml",
+      "final_url": "http://www.ximalaya.com/album/36901831.xml",
+      "fetched_at": "2026-10-26T07:55:58.798120+00:00",
+      "status": 200,
+      "sha256": "a2ed8ee03d5f91cc5ba011b0433fddfa6528eecb5847d26ff09e2ada346b43f5"
+    }
+  },
+  {
+    "show_id": "1516948648",
+    "rss_url": "http://www.ximalaya.com/album/33481389.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/33481389.xml",
+      "final_url": "http://www.ximalaya.com/album/33481389.xml",
+      "fetched_at": "2026-10-26T07:56:02.019061+00:00",
+      "status": 200,
+      "sha256": "8327b5a98e12d5ead55cc13f0a0cbd765e134d6b25f4607ce120a1f36ad557e6"
+    }
+  },
+  {
+    "show_id": "1544703886",
+    "rss_url": "http://www.ximalaya.com/album/30855436.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/30855436.xml",
+      "final_url": "http://www.ximalaya.com/album/30855436.xml",
+      "fetched_at": "2026-10-26T07:56:05.370174+00:00",
+      "status": 200,
+      "sha256": "b183a29115cc34b9e29a41fcf255319bec625d48bc5e90d8eedbff890f8c3591"
+    }
+  },
+  {
+    "show_id": "1551252439",
+    "rss_url": "http://www.ximalaya.com/album/29615562.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/29615562.xml",
+      "final_url": "http://www.ximalaya.com/album/29615562.xml",
+      "fetched_at": "2026-10-26T07:56:08.433141+00:00",
+      "status": 200,
+      "sha256": "67b9cb8c11b0da40fcdbb8948ab0775a5c3a5b1aef1b1ecf6ca3ff73dab49635"
+    }
+  },
+  {
+    "show_id": "1585795688",
+    "rss_url": "http://www.ximalaya.com/album/53046919.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/53046919.xml",
+      "final_url": "http://www.ximalaya.com/album/53046919.xml",
+      "fetched_at": "2026-10-26T07:56:11.601816+00:00",
+      "status": 200,
+      "sha256": "ad8c61f2ff856faf8801190f2f819400cb8669e5c3b5cf8acffafc1d60914094"
+    }
+  },
+  {
+    "show_id": "1621039521",
+    "rss_url": "http://www.ximalaya.com/album/62043528.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/62043528.xml",
+      "final_url": "http://www.ximalaya.com/album/62043528.xml",
+      "fetched_at": "2026-10-26T07:56:14.866870+00:00",
+      "status": 200,
+      "sha256": "00f1672e3890294538a9171a450913b9985e631ac0c417625b63b55f5ddd4ad0"
+    }
+  },
+  {
+    "show_id": "1746439164",
+    "rss_url": "https://www.ximalaya.com/album/81513331.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/81513331.xml",
+      "final_url": "https://www.ximalaya.com/album/81513331.xml",
+      "fetched_at": "2026-10-26T07:56:18.087282+00:00",
+      "status": 200,
+      "sha256": "20bca905b3e24f7945b25a6573756d6475f1202c0dd1da61c7e6d7f8ccb14cb0"
+    }
+  },
+  {
+    "show_id": "1748407899",
+    "rss_url": "https://www.ximalaya.com/album/57219965.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/57219965.xml",
+      "final_url": "https://www.ximalaya.com/album/57219965.xml",
+      "fetched_at": "2026-10-26T07:56:21.384443+00:00",
+      "status": 200,
+      "sha256": "837032b8623a3828e2c1fbb98c1b20444bd1d29feacf0c1b747b85b8985ac67c"
+    }
+  },
+  {
+    "show_id": "1750014121",
+    "rss_url": "https://www.ximalaya.com/album/80971151.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/80971151.xml",
+      "final_url": "https://www.ximalaya.com/album/80971151.xml",
+      "fetched_at": "2026-10-26T07:56:24.562457+00:00",
+      "status": 200,
+      "sha256": "1f644ada1652b6eb914b6f6c30e40986a4a332be37118867b85688b7f4bb42d2"
+    }
+  },
+  {
+    "show_id": "1750227661",
+    "rss_url": "https://www.ximalaya.com/album/79731553.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/79731553.xml",
+      "final_url": "https://www.ximalaya.com/album/79731553.xml",
+      "fetched_at": "2026-10-26T07:56:27.859510+00:00",
+      "status": 200,
+      "sha256": "ef2dc1c04b149692dbc32f79244aa75abb5e7b4c513e485ef0c5d6af62ffa7c9"
+    }
+  },
+  {
+    "show_id": "1751142044",
+    "rss_url": "https://www.ximalaya.com/album/77765284.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/77765284.xml",
+      "final_url": "https://www.ximalaya.com/album/77765284.xml",
+      "fetched_at": "2026-10-26T07:56:31.037688+00:00",
+      "status": 200,
+      "sha256": "1bb9abc2407a0c5a8d733a912f3ad711309a60b0c7dbf5ce6df8e853e8134234"
+    }
+  },
+  {
+    "show_id": "1743910941",
+    "rss_url": "https://www.ximalaya.com/album/81586794.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/81586794.xml",
+      "final_url": "https://www.ximalaya.com/album/81586794.xml",
+      "fetched_at": "2026-10-26T07:56:34.179105+00:00",
+      "status": 200,
+      "sha256": "3fc47e7efe7d0fbf432e727a2a53131dcade2bb556b5370b109ee71b9a44f1ab"
+    }
+  },
+  {
+    "show_id": "1744509268",
+    "rss_url": "https://www.ximalaya.com/album/81619629.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/81619629.xml",
+      "final_url": "https://www.ximalaya.com/album/81619629.xml",
+      "fetched_at": "2026-10-26T07:56:37.382578+00:00",
+      "status": 200,
+      "sha256": "84590652d27f7bee315484194e691670cbe57a7451ba7e096cf6c1e412feb151"
+    }
+  },
+  {
+    "show_id": "1744708404",
+    "rss_url": "https://www.ximalaya.com/album/81639597.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/81639597.xml",
+      "final_url": "https://www.ximalaya.com/album/81639597.xml",
+      "fetched_at": "2026-10-26T07:56:40.764282+00:00",
+      "status": 200,
+      "sha256": "9870ec1e80a161b4484d2c43a5edb102ba390b26783e22ddd0823ad58aff7304"
+    }
+  },
+  {
+    "show_id": "1744710651",
+    "rss_url": "https://www.ximalaya.com/album/81334488.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/81334488.xml",
+      "final_url": "https://www.ximalaya.com/album/81334488.xml",
+      "fetched_at": "2026-10-26T07:56:43.960497+00:00",
+      "status": 200,
+      "sha256": "7eb899693bbb463dce064ad7394ca669c61008ff928d46713b84dc3e0ed9f3a2"
+    }
+  },
+  {
+    "show_id": "1744792290",
+    "rss_url": "https://www.ximalaya.com/album/81069630.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/81069630.xml",
+      "final_url": "https://www.ximalaya.com/album/81069630.xml",
+      "fetched_at": "2026-10-26T07:56:46.972430+00:00",
+      "status": 200,
+      "sha256": "02064c9257ca7d1ccb95d86c07c2f1fe55a5165be15446eda61466ddf8102254"
+    }
+  },
+  {
+    "show_id": "1778246046",
+    "rss_url": "https://www.ximalaya.com/album/84351742.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/84351742.xml",
+      "final_url": "https://www.ximalaya.com/album/84351742.xml",
+      "fetched_at": "2026-10-26T07:56:50.232197+00:00",
+      "status": 200,
+      "sha256": "75133ba449ebaca99a63acb174e2298b5dbed9c2c27c86efde8f889ade3e0b53"
+    }
+  },
+  {
+    "show_id": "1778246510",
+    "rss_url": "https://www.ximalaya.com/album/84249234.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/84249234.xml",
+      "final_url": "https://www.ximalaya.com/album/84249234.xml",
+      "fetched_at": "2026-10-26T07:56:53.528834+00:00",
+      "status": 200,
+      "sha256": "e773ebbb48996cd45ab50c862c5064113f748d63b689085b166f4731ef4feeff"
+    }
+  },
+  {
+    "show_id": "1778492347",
+    "rss_url": "https://www.ximalaya.com/album/84366625.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/84366625.xml",
+      "final_url": "https://www.ximalaya.com/album/84366625.xml",
+      "fetched_at": "2026-10-26T07:56:56.475298+00:00",
+      "status": 200,
+      "sha256": "3e288ab3257e3937d963d252924dffc573f0600848ea89ce31db416aebf65ea3"
+    }
+  },
+  {
+    "show_id": "1778958629",
+    "rss_url": "https://www.ximalaya.com/album/84405485.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/84405485.xml",
+      "final_url": "https://www.ximalaya.com/album/84405485.xml",
+      "fetched_at": "2026-10-26T07:56:59.867529+00:00",
+      "status": 200,
+      "sha256": "e2695af54d58148a35ad9c025120e8f927552a9eb99278d0fc5f54d74f14cb97"
+    }
+  },
+  {
+    "show_id": "1780275622",
+    "rss_url": "https://www.ximalaya.com/album/84525255.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/84525255.xml",
+      "final_url": "https://www.ximalaya.com/album/84525255.xml",
+      "fetched_at": "2026-10-26T07:57:03.001746+00:00",
+      "status": 200,
+      "sha256": "bb4a157a1cc0c2ed18e03e9a69b47cd5c744478ed30f1d521624d7761ad490b2"
+    }
+  },
+  {
+    "show_id": "1652605841",
+    "rss_url": "https://www.ximalaya.com/album/70711946.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/70711946.xml",
+      "final_url": "https://www.ximalaya.com/album/70711946.xml",
+      "fetched_at": "2026-10-26T07:57:06.168156+00:00",
+      "status": 200,
+      "sha256": "ce38ea1b9d282e00690a327d45d9df977acef841d1f7488fce5da84917fc77ae"
+    }
+  },
+  {
+    "show_id": "1657851921",
+    "rss_url": "https://www.ximalaya.com/album/72547089.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/72547089.xml",
+      "final_url": "https://www.ximalaya.com/album/72547089.xml",
+      "fetched_at": "2026-10-26T07:57:09.580006+00:00",
+      "status": 200,
+      "sha256": "2e3b545371489b3a0dbaddbca2debf537dac3fe62fe0a8f64b2b9b207b4ec20b"
+    }
+  },
+  {
+    "show_id": "1687955818",
+    "rss_url": "https://www.ximalaya.com/album/75992036.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/75992036.xml",
+      "final_url": "https://www.ximalaya.com/album/75992036.xml",
+      "fetched_at": "2026-10-26T07:57:12.660822+00:00",
+      "status": 200,
+      "sha256": "89e175043e7f694f3e0301104dbc68719608b9e68b3438c153de90d572c72398"
+    }
+  },
+  {
+    "show_id": "1692790013",
+    "rss_url": "https://www.ximalaya.com/album/76526568.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/76526568.xml",
+      "final_url": "https://www.ximalaya.com/album/76526568.xml",
+      "fetched_at": "2026-10-26T07:57:15.841817+00:00",
+      "status": 200,
+      "sha256": "c980db79e6679a7d1806edb8122b91c2c20ff68a19b0e42f887b57a3493de308"
+    }
+  },
+  {
+    "show_id": "1692794402",
+    "rss_url": "https://www.ximalaya.com/album/76501095.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/76501095.xml",
+      "final_url": "https://www.ximalaya.com/album/76501095.xml",
+      "fetched_at": "2026-10-26T07:57:19.018966+00:00",
+      "status": 200,
+      "sha256": "243d33f46557dc6479d20fa21910cc5c7858cced0befdfd7376f95141dda1b9c"
+    }
+  },
+  {
+    "show_id": "1507306726",
+    "rss_url": "https://feeds.megaphone.fm/NCB9690914039",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://feeds.megaphone.fm/NCB9690914039",
+      "final_url": "https://feeds.megaphone.fm/NCB9690914039",
+      "fetched_at": "2026-10-26T07:57:23.493956+00:00",
+      "status": 200,
+      "sha256": "432e74dbfd9b4754bd349d8542bde2cb525d6f6abcb41894b1651bed5a7c650e"
+    }
+  },
+  {
+    "show_id": "1542572069",
+    "rss_url": "https://feeds.megaphone.fm/NCB9626559467",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://feeds.megaphone.fm/NCB9626559467",
+      "final_url": "https://feeds.megaphone.fm/NCB9626559467",
+      "fetched_at": "2026-10-26T07:57:26.045930+00:00",
+      "status": 200,
+      "sha256": "d10c30398d7158e949be9d7ade320769b734a0effa4a5207569b064bf4db42c8"
+    }
+  },
+  {
+    "show_id": "1650507591",
+    "rss_url": "https://www.ximalaya.com/album/71718997.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/71718997.xml",
+      "final_url": "https://www.ximalaya.com/album/71718997.xml",
+      "fetched_at": "2026-10-26T07:57:28.817652+00:00",
+      "status": 200,
+      "sha256": "ad216068da2b4ec6eb4cfb3954797b73e34f7f6397168aa3cf4bf260ca1fd2a1"
+    }
+  },
+  {
+    "show_id": "1716822386",
+    "rss_url": "https://www.ximalaya.com/album/71915352.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/71915352.xml",
+      "final_url": "https://www.ximalaya.com/album/71915352.xml",
+      "fetched_at": "2026-10-26T07:57:31.865287+00:00",
+      "status": 200,
+      "sha256": "536f5339291a20ee8a2547cdd5b336188a8d7cada2bf04e034b7729632408a19"
+    }
+  },
+  {
+    "show_id": "1716825531",
+    "rss_url": "https://www.ximalaya.com/album/72362295.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/72362295.xml",
+      "final_url": "https://www.ximalaya.com/album/72362295.xml",
+      "fetched_at": "2026-10-26T07:57:35.206699+00:00",
+      "status": 200,
+      "sha256": "efe9246a703cff97c85554457b7e6246cd311c19c1dd11c36c061cb928dcba2e"
+    }
+  },
+  {
+    "show_id": "1717002782",
+    "rss_url": "https://www.ximalaya.com/album/71933684.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/71933684.xml",
+      "final_url": "https://www.ximalaya.com/album/71933684.xml",
+      "fetched_at": "2026-10-26T07:57:38.403375+00:00",
+      "status": 200,
+      "sha256": "c82b8b6291d5167080589a74864c621b1d10538ed357bc1414fa1c1c06afe184"
+    }
+  },
+  {
+    "show_id": "1717003195",
+    "rss_url": "https://www.ximalaya.com/album/72114481.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/72114481.xml",
+      "final_url": "https://www.ximalaya.com/album/72114481.xml",
+      "fetched_at": "2026-10-26T07:57:41.532288+00:00",
+      "status": 200,
+      "sha256": "c623fba12e0da6176b617d545fa9c990d60c5e93e7cb80a7cb07cbea53aecad5"
+    }
+  },
+  {
+    "show_id": "1493254531",
+    "rss_url": "http://www.ximalaya.com/album/31631044.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/31631044.xml",
+      "final_url": "http://www.ximalaya.com/album/31631044.xml",
+      "fetched_at": "2026-10-26T07:57:44.640953+00:00",
+      "status": 200,
+      "sha256": "dd739dbde140c1f6e395cc5cdb2de69e974a0b2646b959dc8dfab95fb5adb2b3"
+    }
+  },
+  {
+    "show_id": "1508280313",
+    "rss_url": "http://www.ximalaya.com/album/36771337.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/36771337.xml",
+      "final_url": "http://www.ximalaya.com/album/36771337.xml",
+      "fetched_at": "2026-10-26T07:57:47.796509+00:00",
+      "status": 200,
+      "sha256": "84514625eaf89508d86de6ad9d26240bc051abaa6d7f7f1a54f838c98a609115"
+    }
+  },
+  {
+    "show_id": "1513873733",
+    "rss_url": "http://www.ximalaya.com/album/36817660.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/36817660.xml",
+      "final_url": "http://www.ximalaya.com/album/36817660.xml",
+      "fetched_at": "2026-10-26T07:57:51.286034+00:00",
+      "status": 200,
+      "sha256": "ae1acad8b395336ec9dd41647c77e2e089e9f47219fca6fd3b54f3ea8049c1b0"
+    }
+  },
+  {
+    "show_id": "1513886709",
+    "rss_url": "http://www.ximalaya.com/album/38093519.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/38093519.xml",
+      "final_url": "http://www.ximalaya.com/album/38093519.xml",
+      "fetched_at": "2026-10-26T07:57:54.433939+00:00",
+      "status": 200,
+      "sha256": "69b4237ddb18f43f250d4d26e59e52ed559d52c82b2cb9413b4faad48bd384be"
+    }
+  },
+  {
+    "show_id": "1533523869",
+    "rss_url": "http://www.ximalaya.com/album/42133491.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/42133491.xml",
+      "final_url": "http://www.ximalaya.com/album/42133491.xml",
+      "fetched_at": "2026-10-26T07:57:57.575804+00:00",
+      "status": 200,
+      "sha256": "da75d4cc1613c93a35d7850312cc4043d053f5ea2be183cc607cdc43a30c20e1"
+    }
+  },
+  {
+    "show_id": "1604515992",
+    "rss_url": "http://www.ximalaya.com/album/55894131.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/55894131.xml",
+      "final_url": "http://www.ximalaya.com/album/55894131.xml",
+      "fetched_at": "2026-10-26T07:58:00.644448+00:00",
+      "status": 200,
+      "sha256": "442442be1f8d08453f3f1f1df3f265133978c8cbed7c1b38b6ed067c0a93678b"
+    }
+  },
+  {
+    "show_id": "1694270738",
+    "rss_url": "https://www.ximalaya.com/album/75613596.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/75613596.xml",
+      "final_url": "https://www.ximalaya.com/album/75613596.xml",
+      "fetched_at": "2026-10-26T07:58:04.015587+00:00",
+      "status": 200,
+      "sha256": "08299a7640881f452c1cfd3222e58811d4a9e17b8e6a857d6e95cc382f89b1ad"
+    }
+  },
+  {
+    "show_id": "1694837275",
+    "rss_url": "https://www.ximalaya.com/album/68088742.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/68088742.xml",
+      "final_url": "https://www.ximalaya.com/album/68088742.xml",
+      "fetched_at": "2026-10-26T07:58:07.241232+00:00",
+      "status": 200,
+      "sha256": "00f9ac0ab2a9dd13351a8a143774609e1c696fc894508745f7c2cfb6f42b50f3"
+    }
+  },
+  {
+    "show_id": "1694843468",
+    "rss_url": "https://www.ximalaya.com/album/56720923.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/56720923.xml",
+      "final_url": "https://www.ximalaya.com/album/56720923.xml",
+      "fetched_at": "2026-10-26T07:58:10.269817+00:00",
+      "status": 200,
+      "sha256": "fe5e1d83d9ea8dde84c5ac5e811b7a2721c88304800d4bb3b34c77a3038e0b38"
+    }
+  },
+  {
+    "show_id": "1694843934",
+    "rss_url": "https://www.ximalaya.com/album/56136924.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/56136924.xml",
+      "final_url": "https://www.ximalaya.com/album/56136924.xml",
+      "fetched_at": "2026-10-26T07:58:13.560182+00:00",
+      "status": 200,
+      "sha256": "95229acfd76e7659d5677a56c7710e0419ec19519a331fc269a57c2b00bd0074"
+    }
+  },
+  {
+    "show_id": "1896334145",
+    "rss_url": "https://www.ximalaya.com/album/120774538.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/120774538.xml",
+      "final_url": "https://www.ximalaya.com/album/120774538.xml",
+      "fetched_at": "2026-10-26T07:58:17.009470+00:00",
+      "status": 200,
+      "sha256": "b32f7bf3c09c2661a4e3e4711c9a6ea2baa60db92daea3c239bdd0fa7eab7b0f"
+    }
+  },
+  {
+    "show_id": "1896805545",
+    "rss_url": "https://www.ximalaya.com/album/121107439.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/121107439.xml",
+      "final_url": "https://www.ximalaya.com/album/121107439.xml",
+      "fetched_at": "2026-10-26T07:58:20.178278+00:00",
+      "status": 200,
+      "sha256": "86f8ec156aed4593160bf67ba132cfff081c9a4e4e01064dbb2b754b6a01273a"
+    }
+  },
+  {
+    "show_id": "1896848050",
+    "rss_url": "https://www.ximalaya.com/album/122019562.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/122019562.xml",
+      "final_url": "https://www.ximalaya.com/album/122019562.xml",
+      "fetched_at": "2026-10-26T07:58:23.369158+00:00",
+      "status": 200,
+      "sha256": "9fc262dcf4b5c914696cc87ad2a5bc351e4e40320ffd136d301af37aa64cf589"
+    }
+  },
+  {
+    "show_id": "6788375051",
+    "rss_url": "https://www.ximalaya.com/album/125089493.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/125089493.xml",
+      "final_url": "https://www.ximalaya.com/album/125089493.xml",
+      "fetched_at": "2026-10-26T07:58:26.666594+00:00",
+      "status": 200,
+      "sha256": "e17f3489fff787b3226013c05a08fb3f4d6f7b79af8d4f0d38645332153be43f"
+    }
+  },
+  {
+    "show_id": "6799072048",
+    "rss_url": "https://www.ximalaya.com/album/128093580.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/128093580.xml",
+      "final_url": "https://www.ximalaya.com/album/128093580.xml",
+      "fetched_at": "2026-10-26T07:58:29.894330+00:00",
+      "status": 200,
+      "sha256": "63e8e59be49ca23363898ae27d5ae93d636e0631b81fb5dd8d931f798fed82bd"
+    }
+  },
+  {
+    "show_id": "1084911410",
+    "rss_url": "http://www.ximalaya.com/album/3613053.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/3613053.xml",
+      "final_url": "http://www.ximalaya.com/album/3613053.xml",
+      "fetched_at": "2026-10-26T07:58:32.821886+00:00",
+      "status": 200,
+      "sha256": "0aba9f4a3c15e83db26167060a4645d50e7d2e1af2163c9b522face58160652f"
+    }
+  },
+  {
+    "show_id": "1084911966",
+    "rss_url": "http://www.ximalaya.com/album/3613218.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/3613218.xml",
+      "final_url": "http://www.ximalaya.com/album/3613218.xml",
+      "fetched_at": "2026-10-26T07:58:36.054091+00:00",
+      "status": 200,
+      "sha256": "a2a369468621b031070a3b448270848de2c0798d5b942466c94b34ba091bde46"
+    }
+  },
+  {
+    "show_id": "1084926346",
+    "rss_url": "http://www.ximalaya.com/album/3613262.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/3613262.xml",
+      "final_url": "http://www.ximalaya.com/album/3613262.xml",
+      "fetched_at": "2026-10-26T07:58:39.078904+00:00",
+      "status": 200,
+      "sha256": "9feb8aee6765b7fee19164d9ce8c41cc5fc4bfa572e29eef90ea0a45386ed9a7"
+    }
+  },
+  {
+    "show_id": "1089038034",
+    "rss_url": "http://www.ximalaya.com/album/3301746.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/3301746.xml",
+      "final_url": "http://www.ximalaya.com/album/3301746.xml",
+      "fetched_at": "2026-10-26T07:58:42.689938+00:00",
+      "status": 200,
+      "sha256": "45f47b713de5050e830a4a4d2b67517e58e5ef47b001ce84b6c80e479597ed32"
+    }
+  },
+  {
+    "show_id": "1089038036",
+    "rss_url": "http://www.ximalaya.com/album/3710171.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "http://www.ximalaya.com/album/3710171.xml",
+      "final_url": "http://www.ximalaya.com/album/3710171.xml",
+      "fetched_at": "2026-10-26T07:58:45.552818+00:00",
+      "status": 200,
+      "sha256": "ea0c0f6e33b733ef9d5d7c889ddd61055b9d11b70ca8f145a377b6a1e74c8313"
+    }
+  },
+  {
+    "show_id": "1685131238",
+    "rss_url": "https://www.ximalaya.com/album/74644153.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/74644153.xml",
+      "final_url": "https://www.ximalaya.com/album/74644153.xml",
+      "fetched_at": "2026-10-26T07:58:49.232370+00:00",
+      "status": 200,
+      "sha256": "85e78e6587b09291d1191d89735f898b0463c0ce15d2290818aa8de8676e61db"
+    }
+  },
+  {
+    "show_id": "1701814193",
+    "rss_url": "https://www.ximalaya.com/album/77458959.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/77458959.xml",
+      "final_url": "https://www.ximalaya.com/album/77458959.xml",
+      "fetched_at": "2026-10-26T07:58:52.379230+00:00",
+      "status": 200,
+      "sha256": "9e2126029a0921d6f161228b28df8846aeae4b0dac5a4714f27b904a17cd338c"
+    }
+  },
+  {
+    "show_id": "1701815244",
+    "rss_url": "https://www.ximalaya.com/album/77459053.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/77459053.xml",
+      "final_url": "https://www.ximalaya.com/album/77459053.xml",
+      "fetched_at": "2026-10-26T07:58:55.605645+00:00",
+      "status": 200,
+      "sha256": "62955ffd1f5ea5027a6186e767ebf4c058d027b7aa45d0b2f2447d6b3d5480dc"
+    }
+  },
+  {
+    "show_id": "1708029339",
+    "rss_url": "https://www.ximalaya.com/album/78201808.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/78201808.xml",
+      "final_url": "https://www.ximalaya.com/album/78201808.xml",
+      "fetched_at": "2026-10-26T07:58:58.907523+00:00",
+      "status": 200,
+      "sha256": "44e77219f005a30b04818f51b16a0e8425966410e0bedf67cb2aeec9c8c8e1cf"
+    }
+  },
+  {
+    "show_id": "1714134539",
+    "rss_url": "https://www.ximalaya.com/album/78830505.xml",
+    "status": "ok",
+    "cohort": "original_dev",
+    "source": {
+      "url": "https://www.ximalaya.com/album/78830505.xml",
+      "final_url": "https://www.ximalaya.com/album/78830505.xml",
+      "fetched_at": "2026-10-26T07:59:02.042361+00:00",
+      "status": 200,
+      "sha256": "7413a13e5980309f82420f4fcd22aeea3ee8b32fe226eb8cb4fea08dbc2afab8"
+    }
+  }
+]

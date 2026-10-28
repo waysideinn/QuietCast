@@ -1,0 +1,140 @@
+{
+  "show_id": "1527553610",
+  "feed_url": "https://feeds.soundon.fm/podcasts/072acf76-5405-4aa7-bbd0-bd6c268183cc.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/072acf76-5405-4aa7-bbd0-bd6c268183cc.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/072acf76-5405-4aa7-bbd0-bd6c268183cc.xml",
+    "fetched_at": "2026-10-25T14:50:39.314871+00:00",
+    "status": 200,
+    "sha256": "088f4c1cb1fa6a9c5f8ed7ce77b3333fa248b7d15ab6323b4a2faa15346aefec"
+  },
+  "status": "ok",
+  "title": {
+    "text": "影迷尖叫屋 Screen Scream",
+    "truncated": false
+  },
+  "description": {
+    "text": "影迷尖叫屋是一個以討論台灣與好萊塢電影為主的隨選廣播節目。 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 134,
+  "episodes": [
+    {
+      "id": "46379ec6d9599603a3ff3cba6a7a1a7cc781f7d3ce1166df124ab2c1ac73aa5b",
+      "guid": "eafb1eb1-f871-47bc-b6bf-31a82951b6e5",
+      "title": {
+        "text": "20251225 影迷尖叫屋 ep 131 熱情如火、熱血沸騰的年末大片",
+        "truncated": false
+      },
+      "description": {
+        "text": "影迷尖叫屋是一個以討論台灣與好萊塢電影為主的隨選廣播節目。第一百三十一集內容包含新片《大衛：王者降臨》、《橫衝直闖》、票房強片《劇場版 BanG Dream! It's MyGO!!!!! 後編》與《阿凡達：火與燼》。 Music Credit Ready for Summer by Roa https://soundcloud.com/roa_music1031 Creative Commons — Attribution 3.0 Unported — CC BY 3.0 Free Download / Stream: https://bit.ly/al-ready-for-summer Music promoted by Audio Library https://youtu.be/yiR-hhoV9TU -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 25 Dec 2025 10:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "432b3d30a702f9cdcbab6d1f39c2592d8a4d03f0817c4994bed2089e74a708b2",
+      "guid": "3089c7a5-fcb2-434c-89e2-abcc090fe8b7",
+      "title": {
+        "text": "20240620 影迷尖叫屋 ep 112 谷底曙光",
+        "truncated": false
+      },
+      "description": {
+        "text": "影迷尖叫屋是一個以討論台灣與好萊塢電影為主的隨選廣播節目。第一百一十二集內容包含新片《金孫暴富攻略》、《Silent Love》、票房強片《腦筋急轉彎2》與《絕地戰警：生死與共》。 Music Credit Ready for Summer by Roa https://soundcloud.com/roa_music1031 Creative Commons — Attribution 3.0 Unported — CC BY 3.0 Free Download / Stream: https://bit.ly/al-ready-for-summer Music promoted by Audio Library https://youtu.be/yiR-hhoV9TU -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 20 Jun 2024 10:00:00 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "29b5ed8eb40b90f046599709636debecef07cc2649059525cc4bce25bee1d206",
+      "guid": "cf224dae-aa45-4dd8-9d16-a689fd69f4e4",
+      "title": {
+        "text": "20231130 影迷尖叫屋 ep 93 Viola觀影後強力推薦 & 新上榜電影大放送",
+        "truncated": false
+      },
+      "description": {
+        "text": "影迷尖叫屋是一個以討論台灣與好萊塢電影為主的隨選廣播節目。第九十三集內容包含新片《富都青年》、經典重映《壁花男孩》與票房強片《拿破崙》。 Music Credit Ready for Summer by Roa https://soundcloud.com/roa_music1031 Creative Commons — Attribution 3.0 Unported — CC BY 3.0 Free Download / Stream: https://bit.ly/al-ready-for-summer Music promoted by Audio Library https://youtu.be/yiR-hhoV9TU -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 30 Nov 2023 10:00:00 GMT",
+      "feed_index": 38
+    },
+    {
+      "id": "ea4e3678f0319d8eca356d15dce6bc4f1634903cc6f3d193c9c9e815a407c566",
+      "guid": "9cb3fde4-7966-4293-8af7-a53700c1ef2f",
+      "title": {
+        "text": "20230511 影迷尖叫屋 ep 74 性別角色與種族認同議題",
+        "truncated": false
+      },
+      "description": {
+        "text": "影迷尖叫屋是一個以討論台灣與好萊塢電影為主的隨選廣播節目。第七十四集內容包含經典重映《油麻菜籽》、新片《炎日》與票房強片《星際異攻隊3》。 Music Credit Ready for Summer by Roa https://soundcloud.com/roa_music1031 Creative Commons — Attribution 3.0 Unported — CC BY 3.0 Free Download / Stream: https://bit.ly/al-ready-for-summer Music promoted by Audio Library https://youtu.be/yiR-hhoV9TU -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 11 May 2023 10:00:00 GMT",
+      "feed_index": 57
+    },
+    {
+      "id": "584927b992fdee48f1c726b2a55bd8a9375987ae8c3ea833897be2d73a7d75a5",
+      "guid": "615995af-9469-47fa-888f-15f875a00eaf",
+      "title": {
+        "text": "20230105 影迷尖叫屋 ep 56 一年之初強片連發",
+        "truncated": false
+      },
+      "description": {
+        "text": "影迷尖叫屋是一個以討論台灣與好萊塢電影為主的隨選廣播節目。第五十六集內容包含經典重映《無法無天》、新片《夜鷹的單戀》、票房強片《黑豹2：瓦干達萬歲》與《與你共舞》。 Music Credit Ready for Summer by Roa https://soundcloud.com/roa_music1031 Creative Commons — Attribution 3.0 Unported — CC BY 3.0 Free Download / Stream: https://bit.ly/al-ready-for-summer Music promoted by Audio Library https://youtu.be/yiR-hhoV9TU -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 Jan 2023 10:00:00 GMT",
+      "feed_index": 76
+    },
+    {
+      "id": "ac6b57acd18e58eba0b612b9f0caebe07a09d13e318e6975aaad23b68e24de4d",
+      "guid": "02829185-9641-4aab-bc18-5c014dd41fae",
+      "title": {
+        "text": "20220616 影迷尖叫屋 ep 37 議題電影特輯",
+        "truncated": false
+      },
+      "description": {
+        "text": "影迷尖叫屋是一個以討論台灣與好萊塢電影為主的隨選廣播節目。第三十七集內容包含新片《午後彌撒》、《尋人啟弒》、票房強片《餘命十年》與《侏儸紀世界：統霸天下》。 Music Credit Ready for Summer by Roa https://soundcloud.com/roa_music1031 Creative Commons — Attribution 3.0 Unported — CC BY 3.0 Free Download / Stream: https://bit.ly/al-ready-for-summer Music promoted by Audio Library https://youtu.be/yiR-hhoV9TU -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Jun 2022 10:00:00 GMT",
+      "feed_index": 95
+    },
+    {
+      "id": "2f5b67c53abead3f1e2b9350a4964c16e9bbf1d64f0290979401a7c8c4e12d36",
+      "guid": "bfa151fb-d890-47ab-9873-ca8a820da872",
+      "title": {
+        "text": "20220210 影迷尖叫屋 ep 19 情人節特輯",
+        "truncated": false
+      },
+      "description": {
+        "text": "影迷尖叫屋是一個以討論台灣與好萊塢電影為主的隨選廣播節目。第十九集內容包含新片《在車上》、經典重映《王牌冤家》、票房強片《我吃了那男孩一整年的早餐》與《蜘蛛人：無家日》。 Music Credit Ready for Summer by Roa https://soundcloud.com/roa_music1031 Creative Commons — Attribution 3.0 Unported — CC BY 3.0 Free Download / Stream: https://bit.ly/al-ready-for-summer Music promoted by Audio Library https://youtu.be/yiR-hhoV9TU -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Feb 2022 10:00:00 GMT",
+      "feed_index": 114
+    },
+    {
+      "id": "b209c00245637f64e6e840eb3c4decaf9416fe2c77475beecf45dff06234052d",
+      "guid": "fb9dcb7d-03c7-4823-8e6e-fca643dd1e8a",
+      "title": {
+        "text": "20200806 影迷尖叫屋 ep 0",
+        "truncated": false
+      },
+      "description": {
+        "text": "影迷尖叫屋是一個以討論台灣與好萊塢電影為主的隨選廣播節目。第零集內容包含經典重映《記憶拼圖》、《地下社會》與票房強片《北海小英雄》、《鋼鐵雨：深潛行動》。 Music Credit Ready for Summer by Roa https://soundcloud.com/roa_music1031 Creative Commons — Attribution 3.0 Unported — CC BY 3.0 Free Download / Stream: https://bit.ly/al-ready-for-summer Music promoted by Audio Library https://youtu.be/yiR-hhoV9TU -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Aug 2020 10:00:00 GMT",
+      "feed_index": 133
+    }
+  ]
+}

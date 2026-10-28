@@ -1,0 +1,56 @@
+{
+  "show_id": "1600635178",
+  "feed_url": "https://feed.firstory.me/rss/user/ckx8ma8kr03m10924jt6bq8zz",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckx8ma8kr03m10924jt6bq8zz",
+    "final_url": "https://feed.firstory.me/rss/user/ckx8ma8kr03m10924jt6bq8zz",
+    "fetched_at": "2026-10-25T14:54:46.796627+00:00",
+    "status": 200,
+    "sha256": "02828baf717c425b3d15620953696c11a8deb9d57fb7fc2d06dca6dc1600c042"
+  },
+  "status": "ok",
+  "title": {
+    "text": "經典故事教會我們的事",
+    "truncated": false
+  },
+  "description": {
+    "text": "經典故事一定會教會我們一些事，只是它不是用理性的論述，而是用感性的同理，讓我們在放眼世界的同時，也觀照自己的心靈世界、洞悉人生。 Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 2,
+  "episodes": [
+    {
+      "id": "f4a2e8c9c554435676ce355f5a7f9ec5cf1d400ff80553aaee6f13e02e270779",
+      "guid": "ckxa0whbk07ux09464dptfx81",
+      "title": {
+        "text": "EP.02 鐘樓怪人（二）舊時代的悲歌會在新時代續唱嗎？",
+        "truncated": false
+      },
+      "description": {
+        "text": "古時候的故事，有哪些元素會歷久彌新的在新時代重現？ 關於我們： 好好聽FM APP：http://onelink.to/94hhtfm 好好聽FM Web：https://risu.io/DYKs 好好聽FM YouTube：https://risu.io/5lTL ★贊助專用連結(綠界金流/可用信用卡、ATM) 👉 Donate：https://www.provoice.tw/host/donate/ytprovoice/ 好好聽出品 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 17 Dec 2021 13:30:07 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "44685bbd5ecbb8a7872f25555eb0d3215eb6b60769cd96d2f803ad39c445e61e",
+      "guid": "ckx8mcbsk69dc08107ax80788",
+      "title": {
+        "text": "EP.01 鐘樓怪人（一）三個男人與一個女人的美醜愛慾之歌",
+        "truncated": false
+      },
+      "description": {
+        "text": "在雨果創作的這個故事中，三個男人分別代表時代交替之下，對女人不同的愛情，以及美醜外貌與心靈的辯證。 關於我們： 好好聽FM APP：http://onelink.to/94hhtfm 好好聽FM Web：https://risu.io/DYKs 好好聽FM YouTube：https://risu.io/5lTL ★贊助專用連結(綠界金流/可用信用卡、ATM) 👉 Donate：https://www.provoice.tw/host/donate/ytprovoice/ 好好聽出品 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Dec 2021 07:05:55 GMT",
+      "feed_index": 1
+    }
+  ]
+}

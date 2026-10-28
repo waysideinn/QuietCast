@@ -1,0 +1,140 @@
+{
+  "show_id": "1535167846",
+  "feed_url": "http://www.ximalaya.com/album/40946716.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/40946716.xml",
+    "final_url": "http://www.ximalaya.com/album/40946716.xml",
+    "fetched_at": "2026-10-25T14:51:15.451393+00:00",
+    "status": 200,
+    "sha256": "4c8ebab609ae385b1b86e7bd0939de2db926fb2360745c12c935fd38433de30e"
+  },
+  "status": "ok",
+  "title": {
+    "text": "适合孩子听的晚安历史小故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "伴着优美动听的背景音乐，聆听生动有趣的历史故事。跟着甜甜妈妈的脚步，一起穿越回古代吧！ 甜甜妈妈阅书房，每天早上9:00准时更新，每天一集。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 55,
+  "episodes": [
+    {
+      "id": "e54d97ad160e9c016774001c5b317fe06064afc1952205fa5b6b332386ab5e54",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2bbc-audiofreehighqps/9B/2E/CMCoOSMD1w67ABIcGQB77_1G.m4a",
+      "title": {
+        "text": "专辑结尾写给小朋友的话",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Jan 2021 08:00:41 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b79d74e4bff318c4be0d7bb31e66fa295ac639f344dd635f563060e4cba755d8",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e741-audiofreehighqps/4B/27/CMCoOSQDyJD8ACSLpAB3-fxx.m4a",
+      "title": {
+        "text": "明清故事-清军入关（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Jan 2021 08:12:33 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "2031cd1264eb7709682db8e2b76945167895c710b835563b7d6663184bc815c3",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/196c-audiofreehighqps/FA/7B/CMCoOSEDemSMADxvrgBkJq7H.m4a",
+      "title": {
+        "text": "明清故事-于谦-要留清白在人间",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 Nov 2020 01:06:01 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "949d587ce21bb2ed35d0da6c6acdc8caf229ed587f259da2dd048b0e08bebf4e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4934-audiofreehighqps/73/0A/CMCoOSIDXYVKACi9EABdSH0m.m4a",
+      "title": {
+        "text": "宋元故事－崖山海战",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 15 Oct 2020 03:30:06 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "b1c2aa1bc4a200d625690640a6d7db1a58023488bac94c8c31562217f489633f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/cf04-audiofreehighqps/DA/60/CMCoOSIDUwEFADBDqgBa8Ebb.m4a",
+      "title": {
+        "text": "隋唐故事－赵绰守法",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 07 Oct 2020 04:01:05 GMT",
+      "feed_index": 31
+    },
+    {
+      "id": "d6c24add762eeb668676eb57dd229d9b83ea32ab1c6df5c17eb9b9490b9c8f3a",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e37c-audiofreehighqps/BA/E7/CMCoOScDPR-bAClTPQBWUMZL.m4a",
+      "title": {
+        "text": "三国两晋－江郎才尽",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 20 Sep 2020 13:43:48 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "cb59cb20bd527fbd49d3940891b7f2e2eae37bf8b9fe785b92c51702643a4c66",
+      "guid": "https://aod.cos.tx.xmcdn.com/group87/M07/B1/13/wKg5J19OIqjAJ8kFAC0TNZqRNhw147.m4a",
+      "title": {
+        "text": "先秦两汉－鸿门宴",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 01 Sep 2020 10:29:55 GMT",
+      "feed_index": 46
+    },
+    {
+      "id": "a48040d57580e1b6d303cc289659efaa59bcde9cd7588a6efe82aecc5716be0a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group87/M04/0E/FA/wKg5J18_N0yxsJ0IACZBPc83ki8214.m4a",
+      "title": {
+        "text": "先秦两汉－烽火戏诸侯",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 Aug 2020 02:53:58 GMT",
+      "feed_index": 54
+    }
+  ]
+}

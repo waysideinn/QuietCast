@@ -1,0 +1,140 @@
+{
+  "show_id": "1592227299",
+  "feed_url": "http://www.ximalaya.com/album/53226064.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/53226064.xml",
+    "final_url": "http://www.ximalaya.com/album/53226064.xml",
+    "fetched_at": "2026-10-25T14:54:22.565938+00:00",
+    "status": 200,
+    "sha256": "502f5b94abbbd058981a21a1ef63e1e81669a77d93f0aa1291b32065daf973a2"
+  },
+  "status": "ok",
+  "title": {
+    "text": "蚂蚁晒耳|红楼梦",
+    "truncated": false
+  },
+  "description": {
+    "text": "满纸荒唐言,一把辛酸泪 。都云作者痴,谁解其中味? 《红楼梦》，中国古典四大名著之首，清代作家曹雪芹创作的章回体长篇小说。早期仅有前八十回抄本流传，原名《石头记》。程伟元搜集到后四十回残稿，邀请高鹗协同整理出版百二十回全本，定名《红楼梦》。亦有版本作《金玉缘》《脂砚斋重评石头记》。 《红楼梦》是一部具有世界影响力的伟大作品，举世公认的中国古典小说巅峰之作，中国封建社会的百科全书，传统文化的集大成者。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 212,
+  "episodes": [
+    {
+      "id": "965cdf329a74f71c5ec67b7e3627820f4d771b2caaaa6dedbde78540ecdd7982",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/986b-audiofreehighqps/BB/BB/CKwRINsFHmlwAKRuZADlA0ro-aacv2-48K.m4a",
+      "title": {
+        "text": "001第一回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀 （1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 20 Sep 2021 23:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "5be49134c00dd6ca024863d5beed9770593b0e1e4bde5799f1a114eaadd16a88",
+      "guid": "xmly_track_490192804",
+      "title": {
+        "text": "031第十七回 会芳园试才题对额 贾宝玉机敏动诸宾（2）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 07 Jan 2022 10:05:13 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "d2aee0bd66d2a923f5b4cbbf11b549c321c9a25b872694e018c9e931b35f09d3",
+      "guid": "xmly_track_525435696",
+      "title": {
+        "text": "061第三十四回 情中情因情感妹妹 错里错以错劝哥哥(1)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Apr 2022 11:00:00 GMT",
+      "feed_index": 60
+    },
+    {
+      "id": "cea114ea9c032e68037b91a53bdd7bf0677f2566613a4e57367425212dacacb1",
+      "guid": "xmly_track_563317266",
+      "title": {
+        "text": "091第四十九回 琉璃世界白雪红梅 脂粉香娃割腥啖膻(1)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 Aug 2022 13:55:34 GMT",
+      "feed_index": 90
+    },
+    {
+      "id": "fc4fa4855f65fc8756f8a6c160f912fd88a750edc3c9ea5fe99e20780ff4437d",
+      "guid": "xmly_track_594997323",
+      "title": {
+        "text": "122第六十五回 贾二舍偷娶尤二姨 尤三姐思嫁柳二郎(1)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 08 Dec 2022 11:00:00 GMT",
+      "feed_index": 121
+    },
+    {
+      "id": "e9dc545820e634e17a4d6546af626acdcf272d8e2d6b0719001f11734ec178db",
+      "guid": "xmly_track_632399982",
+      "title": {
+        "text": "152第八十回 美香菱屈受贪夫棒 王道士胡诌妒妇方(2)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 11 May 2023 11:00:00 GMT",
+      "feed_index": 151
+    },
+    {
+      "id": "21db5873035f3015a0d59c7fea4dad18fff8f839be2fd92ef4ed9538e53e7602",
+      "guid": "xmly_track_665859105",
+      "title": {
+        "text": "182第九十五回 因讹成实元妃薨逝 以假混真宝玉疯颠(2)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 18 Sep 2023 11:00:00 GMT",
+      "feed_index": 181
+    },
+    {
+      "id": "b79fd6c299f69af4e6f126738fd0422ecafc7f7f9d6c0daeb43fde3c0c41eb35",
+      "guid": "xmly_track_697791384",
+      "title": {
+        "text": "212第一百一十回 史太君寿终归地府 王凤姐力诎失人心(2)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Jan 2024 11:00:00 GMT",
+      "feed_index": 211
+    }
+  ]
+}

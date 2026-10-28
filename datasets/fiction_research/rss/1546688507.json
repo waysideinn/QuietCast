@@ -1,0 +1,140 @@
+{
+  "show_id": "1546688507",
+  "feed_url": "https://feed.firstory.me/rss/user/ckj2vpt5f5vda0819li9briwg",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckj2vpt5f5vda0819li9briwg",
+    "final_url": "https://feed.firstory.me/rss/user/ckj2vpt5f5vda0819li9briwg",
+    "fetched_at": "2026-10-25T14:52:00.952869+00:00",
+    "status": 200,
+    "sha256": "97c02105e5b52acb2f6917df1f9111645333f39779041c92d78f33fd6c25666c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "老子說",
+    "truncated": false
+  },
+  "description": {
+    "text": "合作邀約請寄信至 [email removed] 永遠19歲的大叔跟看似45歲的年輕人拼命爆雷給你聽!! 本節目所聊之動漫畫全數無節制爆雷，請謹慎思考。 本節目內容沒有要管正確，只求爽聊，想想19歲的大叔對漫畫的看法? 歡迎來虐待您的耳朵及大腦!! 有任何提歡迎至臉書及ig粉絲團回饋 每月不到一本漫畫的錢救救我們: https://pay.firstory.me/user/laozihshou Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 208,
+  "episodes": [
+    {
+      "id": "7e1c80602abc1db665ec34fbf420d646b23c568d620c1866679022287f17cf4f",
+      "guid": "cmuwp7b9x03g001vp8oo7g3kb",
+      "title": {
+        "text": "EP145 漫打旋風2之宇治波反彈!!! - 關於必殺技 ft.神影少年團動畫漫畫遊戲咖啡閒聊次文化電台記物語廚俱樂部",
+        "truncated": false
+      },
+      "description": {
+        "text": "新阿姆斯特朗旋風噴射阿姆斯特朗砲也算是必殺技 加入會員，支持節目： https://laozihshou.firstory.cc/join 留言告訴我你對這一集的想法： https://open.firstory.fm/user/ckj2vpt5f5vda0819li9briwg/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 20 Oct 2026 01:02:08 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "7a67d4cd23677b9e97d66a977aa95f6f037bc2394e6743d975250e2c910a0ca4",
+      "guid": "cme1jkvwt000s01t1dune3lky",
+      "title": {
+        "text": "EP0.47 近乎苛求 - 關於死亡擱淺 上 ft.熊熊、大哥布林的名單",
+        "truncated": false
+      },
+      "description": {
+        "text": "我，從不追隨潮流 加入會員，支持節目： https://open.firstory.me/user/ckj2vpt5f5vda0819li9briwg 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckj2vpt5f5vda0819li9briwg/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Aug 2025 01:02:50 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "9b2e20bcbed489e560f26621d744b24d568775d248aed1160170d49be6bfd65f",
+      "guid": "cm3d2olqq007c01up1m3e2c5r",
+      "title": {
+        "text": "ep0.36 齁齁齁齁齁 - 十月新番 ft.大哥布林的名單、塞耶",
+        "truncated": false
+      },
+      "description": {
+        "text": "請有在聽的同人作家務必找我合作，我可以掛名就好 小額贊助支持本節目： https://open.firstory.me/user/ckj2vpt5f5vda0819li9briwg 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckj2vpt5f5vda0819li9briwg/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Nov 2024 01:01:01 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "9d2b92f5396f502d804eac17dc07d86feb8d54d4d1a5c40cd1271c6e18bda8c4",
+      "guid": "clogtcexm0p7i01tn9felbs6m",
+      "title": {
+        "text": "EP 96 幹古 - 城市獵人劇場版 天使之淚",
+        "truncated": false
+      },
+      "description": {
+        "text": "冴羽這個姓的帥氣程度跟歐陽有得拚 小額贊助支持本節目： https://open.firstory.me/user/ckj2vpt5f5vda0819li9briwg 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckj2vpt5f5vda0819li9briwg/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 07 Nov 2023 01:01:37 GMT",
+      "feed_index": 89
+    },
+    {
+      "id": "db1876a22005158b5e46a48f60d26990ebe4440b5235d8f6f9f97dfab0510f60",
+      "guid": "clcw3dr9p06vi01vadchea2du",
+      "title": {
+        "text": "EP79 喬斯達家族史 - JOJO的奇妙冒險 石之海",
+        "truncated": false
+      },
+      "description": {
+        "text": "錄音中沒提到，我個人被第一首OP「STONE OCEAN」中的徐倫射穿了心💘 小額贊助支持本節目： https://open.firstory.me/user/ckj2vpt5f5vda0819li9briwg 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckj2vpt5f5vda0819li9briwg/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 17 Jan 2023 01:01:01 GMT",
+      "feed_index": 118
+    },
+    {
+      "id": "3e721a95372435d8f26c4da55dda9b4e78cad5ee884927a6e0e6a85bea7b48b3",
+      "guid": "cl2dg6zp90a1a01w48tytdf0a",
+      "title": {
+        "text": "EP 55 天花板 - 奧術",
+        "truncated": false
+      },
+      "description": {
+        "text": "只播一季好煩ㄚㄚㄚㄚㄚ 小額贊助支持本節目： https://open.firstory.me/join/ckj2vpt5f5vda0819li9briwg 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckj2vpt5f5vda0819li9briwg/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 26 Apr 2022 01:01:00 GMT",
+      "feed_index": 148
+    },
+    {
+      "id": "e2167cfed0390dfc75b3376bde89790730764db19b4f165f1b3872b80b7b9eb3",
+      "guid": "cks20q5bj2iq00990q22129qv",
+      "title": {
+        "text": "EP29認真就輸了 - 影子籃球員",
+        "truncated": false
+      },
+      "description": {
+        "text": "原本想蹭一下奧運熱度的說... Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 10 Aug 2021 01:00:17 GMT",
+      "feed_index": 177
+    },
+    {
+      "id": "76bcee5c2604e9b00287edc4d66850ea1a2a9476728c92d06de8c90d43425155",
+      "guid": "ckj8maks01woz0846k8nxfjv4",
+      "title": {
+        "text": "EP 1 我們凡事求個圓 - 鋼之鍊金術師",
+        "truncated": false
+      },
+      "description": {
+        "text": "*此集前半段因檔案問題有所毀損，請見諒* 全程劇透盡請安請服用；你的神作不是我的神作；大...哥...哥... Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Mon, 28 Dec 2020 13:48:41 GMT",
+      "feed_index": 207
+    }
+  ]
+}

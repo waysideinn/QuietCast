@@ -1,0 +1,49 @@
+{
+  "releaseState": "blocked_evidence_incomplete",
+  "productionRuleFile": null,
+  "productionEligible": false,
+  "formalRuleCounts": {
+    "keywords": 0,
+    "combinations": 0,
+    "publisherBlockAccounts": 0
+  },
+  "candidatePath": "rules/research/fiction-multisource-candidate.json",
+  "candidateStatus": "example",
+  "candidateSHA256": "30dfd5e1b60e41f3723289bd89fda1491147679cff6164be1bd42b7c7c36cb3a",
+  "candidateCounts": {
+    "strongKeywords": 0,
+    "keywords": 19,
+    "combinationKeywords": 14,
+    "regexRules": 1,
+    "exclusions": 12,
+    "classificationRules": 1,
+    "publisherRules": 201
+  },
+  "authoritativeLabelCounts": {
+    "agent_metadata_review": 112
+  },
+  "uniqueHumanLabels": 0,
+  "humanHoldoutLabels": 0,
+  "humanConfirmedPublisherBlockAccounts": 0,
+  "sampling": {
+    "baseCandidates": 2943,
+    "baseRSSSuccess": 861,
+    "baseEpisodeExcerpts": 6416,
+    "note": "Entity enrichment overlaps the baseline; counts are not added together"
+  },
+  "holdout": {
+    "selectedShows": 221,
+    "episodeTasks": 435,
+    "state": "prepared_not_independence_certified"
+  },
+  "blockers": [
+    "No human labels: AI metadata judgments cannot be substituted for a human gold standard",
+    "Held-out work-family/account/language audit is incomplete; independent test not certified",
+    "No certified human independent-test predictions; keyword/category release validity remains unestablished"
+  ],
+  "notes": [
+    "No production JSON emitted; example status was not renamed to production.",
+    "No account or brand was added to a default blacklist.",
+    "No test-set predictions were generated while the human/family audit is pending."
+  ]
+}

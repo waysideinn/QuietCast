@@ -1,0 +1,55 @@
+{
+  "show_id": "1485136822",
+  "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:724584373/sounds.rss",
+  "source": {
+    "url": "https://feeds.soundcloud.com/users/soundcloud:users:724584373/sounds.rss",
+    "final_url": "https://feeds.soundcloud.com/users/soundcloud:users:724584373/sounds.rss",
+    "fetched_at": "2026-10-25T14:49:16.958445+00:00",
+    "status": 200,
+    "sha256": "7895a744ab9c4089703bffbdfe27ae1afda071727e5865266ab3381e51e0caa7"
+  },
+  "status": "ok",
+  "title": {
+    "text": "加一电台",
+    "truncated": false
+  },
+  "description": {
+    "text": "Podcast by PlusOneFM",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "explicit": "yes"
+  },
+  "feed_item_count": 2,
+  "episodes": [
+    {
+      "id": "44c25e1e9ef582854c2390c1e19764d7b38a1b8086fc1aeb47474cc0e97b33d1",
+      "guid": "tag:soundcloud,2010:tracks/736033747",
+      "title": {
+        "text": "vol.2 我们都是弄潮儿",
+        "truncated": false
+      },
+      "description": {
+        "text": "vol.2 我们都是弄潮儿 年末这个时候, 消费主义横行. 这本是一期自省以及提醒听众朋友在消费主义浪潮下冷静自律的节目...但请耐心地听完本期节目... 欢迎大家与我们互动, 我们的邮箱是 [email removed] 或者微博私信我们 微博@加一FM 在这里也祝大家节日快乐, 购物愉快(???",
+        "truncated": false
+      },
+      "published_at": "Mon, 30 Dec 2019 23:19:14 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "f5cc4cdc0edc085cfcdfe9bfca9defbdd067fa60651b95631122257bff1d9674",
+      "guid": "tag:soundcloud,2010:tracks/702281119",
+      "title": {
+        "text": "第一期 - 男人的成人玩具",
+        "truncated": false
+      },
+      "description": {
+        "text": "男人可能永远都没长大, 只是玩具原来越大了. 第一期节目, 让我们聊一聊四个中年人都很感兴趣的话题. BGM: 陈光荣 - Gloves 2 Ali 陈光荣 -First Date",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Oct 2019 03:39:58 +0000",
+      "feed_index": 1
+    }
+  ]
+}

@@ -1,0 +1,2305 @@
+{
+  "group": "normal",
+  "term": "旅行",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:44:09.726744+00:00",
+    "status": 200,
+    "sha256": "290361ca04214ea900f4d49fb5140fc2f3b310d82581caac74b061cb84b46489"
+  },
+  "result_count": 100,
+  "records": [
+    {
+      "collectionId": 1543587303,
+      "trackId": 1543587303,
+      "collectionName": "毛很多旅行社",
+      "artistName": "Alvin & 寶寶",
+      "feedUrl": "https://feed.firstory.me/rss/user/ck7q9dxfwl6eo0873p9x1bunk",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AF%9B%E5%BE%88%E5%A4%9A%E6%97%85%E8%A1%8C%E7%A4%BE/id1543587303?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 247,
+      "releaseDate": "2026-10-08T12:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1567797716,
+      "trackId": 1567797716,
+      "collectionName": "我的正職是旅行｜不上班的生活型態",
+      "artistName": "我的正職是旅行",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckovln007ojam0862yiy2ms38",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%88%91%E7%9A%84%E6%AD%A3%E8%81%B7%E6%98%AF%E6%97%85%E8%A1%8C-%E4%B8%8D%E4%B8%8A%E7%8F%AD%E7%9A%84%E7%94%9F%E6%B4%BB%E5%9E%8B%E6%85%8B/id1567797716?uo=4",
+      "genres": [
+        "靈修",
+        "Podcast",
+        "宗教與精神生活",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1444",
+        "26",
+        "1314",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 17,
+      "releaseDate": "2026-06-30T20:27:00Z",
+      "country": "TWN",
+      "primaryGenreName": "靈修"
+    },
+    {
+      "collectionId": 1638516771,
+      "trackId": 1638516771,
+      "collectionName": "RC: 旅行的那些事",
+      "artistName": "Ryan Chu",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/8ce4c3e6-4292-4393-95df-b6b2b8468059.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/rc-%E6%97%85%E8%A1%8C%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/id1638516771?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "休閒"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1502"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2023-12-09T15:47:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1811340894,
+      "trackId": 1811340894,
+      "collectionName": "就去旅行吧",
+      "artistName": "品生活國際旅行社",
+      "feedUrl": "https://feed.firstory.me/rss/user/cma2b13k5159801vuafnlev06",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B0%B1%E5%8E%BB%E6%97%85%E8%A1%8C%E5%90%A7/id1811340894?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "紀實"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1543"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2025-08-12T23:32:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1516158105,
+      "trackId": 1516158105,
+      "collectionName": "打卡世界｜PinMap",
+      "artistName": "自助旅行｜歐洲生活 & 職場",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckachde449xi60873uykm9bhh",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%89%93%E5%8D%A1%E4%B8%96%E7%95%8C-pinmap/id1516158105?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 56,
+      "releaseDate": "2022-10-18T10:35:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1518914711,
+      "trackId": 1518914711,
+      "collectionName": "旅行熱炒店：世界地理人文探索頻道",
+      "artistName": "探索世界地理人文的知識型旅行節目 by Jerome Yang",
+      "feedUrl": "https://ltsoj.com/podcast.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%85%E8%A1%8C%E7%86%B1%E7%82%92%E5%BA%97-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86%E4%BA%BA%E6%96%87%E6%8E%A2%E7%B4%A2%E9%A0%BB%E9%81%93/id1518914711?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 278,
+      "releaseDate": "2026-09-30T04:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1497850823,
+      "trackId": 1497850823,
+      "collectionName": "坐火車去旅行 GoByTrain",
+      "artistName": "坐火車去旅行 GoByTrain",
+      "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:776824903/sounds.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%9D%90%E7%81%AB%E8%BB%8A%E5%8E%BB%E6%97%85%E8%A1%8C-gobytrain/id1497850823?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2020-06-03T10:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1642060261,
+      "trackId": 1642060261,
+      "collectionName": "旅行交換生 Travel Interactor",
+      "artistName": "Joe Huang",
+      "feedUrl": "https://feed.firstory.me/rss/user/cl7bwuwbu00iw01wmbofu2k3b",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%85%E8%A1%8C%E4%BA%A4%E6%8F%9B%E7%94%9F-travel-interactor/id1642060261?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 11,
+      "releaseDate": "2023-05-07T03:29:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1539315654,
+      "trackId": 1539315654,
+      "collectionName": "旅行那些小事",
+      "artistName": "Evelyn",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/933e473e-c36c-4208-aec4-414fd3c316c3.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%85%E8%A1%8C%E9%82%A3%E4%BA%9B%E5%B0%8F%E4%BA%8B/id1539315654?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "藝術",
+        "食物"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1301",
+        "1306"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2022-02-19T02:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1515018549,
+      "trackId": 1515018549,
+      "collectionName": "有間旅行社，不知道在幹嘛",
+      "artistName": "有間旅行社，不知道在幹嘛",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/2d62985d-1f72-419e-ba08-73bfc2379433.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%89%E9%96%93%E6%97%85%E8%A1%8C%E7%A4%BE-%E4%B8%8D%E7%9F%A5%E9%81%93%E5%9C%A8%E5%B9%B9%E5%98%9B/id1515018549?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2020-12-11T10:34:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1758956980,
+      "trackId": 1758956980,
+      "collectionName": "旅行歷險記（澳洲）",
+      "artistName": "Michelle&Vicky&Yana",
+      "feedUrl": "https://feed.firstory.me/rss/user/clyybu5yb09lj01ulaqc5gd2o",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%85%E8%A1%8C%E6%AD%B7%E9%9A%AA%E8%A8%98-%E6%BE%B3%E6%B4%B2/id1758956980?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 6,
+      "releaseDate": "2025-03-02T08:17:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1533557520,
+      "trackId": 1533557520,
+      "collectionName": "世界・旅行攝",
+      "artistName": "世界旅行攝 ｜旅遊｜攝影｜生活",
+      "feedUrl": "https://anchor.fm/s/38bd846c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%96%E7%95%8C-%E6%97%85%E8%A1%8C%E6%94%9D/id1533557520?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 20,
+      "releaseDate": "2021-05-05T02:16:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1570027035,
+      "trackId": 1570027035,
+      "collectionName": "消業障旅行團",
+      "artistName": "Bryan",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckpaxyypmjz930868suk6uh64",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B6%88%E6%A5%AD%E9%9A%9C%E6%97%85%E8%A1%8C%E5%9C%98/id1570027035?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 154,
+      "releaseDate": "2026-10-12T07:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1527206657,
+      "trackId": 1527206657,
+      "collectionName": "奶茶TO GO~浪漫飛行與悠遊旅行的想像～",
+      "artistName": "奶茶團長",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckdoc3stlk1ec0862b9ro8bl3",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B6%E8%8C%B6to-go-%E6%B5%AA%E6%BC%AB%E9%A3%9B%E8%A1%8C%E8%88%87%E6%82%A0%E9%81%8A%E6%97%85%E8%A1%8C%E7%9A%84%E6%83%B3%E5%83%8F/id1527206657?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 164,
+      "releaseDate": "2023-11-29T19:18:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1547444588,
+      "trackId": 1547444588,
+      "collectionName": "耳朵帶我去旅行",
+      "artistName": "鋼琴詩人王俊傑",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckjtpji0cq2fg08075kbb444u",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%80%B3%E6%9C%B5%E5%B8%B6%E6%88%91%E5%8E%BB%E6%97%85%E8%A1%8C/id1547444588?uo=4",
+      "genres": [
+        "音樂訪談",
+        "Podcast",
+        "音樂",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1525",
+        "26",
+        "1310",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 328,
+      "releaseDate": "2026-10-19T16:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "音樂訪談"
+    },
+    {
+      "collectionId": 1768587022,
+      "trackId": 1768587022,
+      "collectionName": "跟我去旅行",
+      "artistName": "Tina",
+      "feedUrl": "https://feed.firstory.me/rss/user/cm130w7bd0ai301t62g690xhj",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B7%9F%E6%88%91%E5%8E%BB%E6%97%85%E8%A1%8C/id1768587022?uo=4",
+      "genres": [
+        "嗜好",
+        "Podcast",
+        "休閒",
+        "社會與文化",
+        "名勝與旅遊"
+      ],
+      "genreIds": [
+        "1505",
+        "26",
+        "1502",
+        "1324",
+        "1320"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2024-09-15T04:13:00Z",
+      "country": "TWN",
+      "primaryGenreName": "嗜好"
+    },
+    {
+      "collectionId": 1544230622,
+      "trackId": 1544230622,
+      "collectionName": "旅行無用良藥",
+      "artistName": "Sheng | 旅遊 | 飯店 | 行程",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckibcaue0yxe808981374o6ir",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%85%E8%A1%8C%E7%84%A1%E7%94%A8%E8%89%AF%E8%97%A5/id1544230622?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "喜劇",
+        "喜劇訪談"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1303",
+        "1496"
+      ],
+      "trackCount": 176,
+      "releaseDate": "2025-03-14T01:34:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1841769327,
+      "trackId": 1841769327,
+      "collectionName": "公視-在地旅行",
+      "artistName": "公視-在地旅行",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/58035276-ca0f-4ef3-9527-39409de835ec.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%AC%E8%A6%96-%E5%9C%A8%E5%9C%B0%E6%97%85%E8%A1%8C/id1841769327?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 28,
+      "releaseDate": "2026-06-24T05:26:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1556192549,
+      "trackId": 1556192549,
+      "collectionName": "日本旅行",
+      "artistName": "太平洋旅行社",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/f8e3d8c6-ea10-41c0-9076-9dfeb588c329.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%A5%E6%9C%AC%E6%97%85%E8%A1%8C/id1556192549?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2022-03-15T12:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1880110323,
+      "trackId": 1880110323,
+      "collectionName": "居家旅行必備良藥",
+      "artistName": "真真 老辣妹 阿轟 攝影大哥",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/13071558-c8da-4e99-953a-336cdaa8f806.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B1%85%E5%AE%B6%E6%97%85%E8%A1%8C%E5%BF%85%E5%82%99%E8%89%AF%E8%97%A5/id1880110323?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2026-09-23T22:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1546195432,
+      "trackId": 1546195432,
+      "collectionName": "鐵人行軍團-就是愛自助旅行-歐洲篇",
+      "artistName": "神農斯",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/ee912847-7614-4484-8b5d-9fcbb6bf9673.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%90%B5%E4%BA%BA%E8%A1%8C%E8%BB%8D%E5%9C%98-%E5%B0%B1%E6%98%AF%E6%84%9B%E8%87%AA%E5%8A%A9%E6%97%85%E8%A1%8C-%E6%AD%90%E6%B4%B2%E7%AF%87/id1546195432?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 60,
+      "releaseDate": "2023-03-14T17:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1765881682,
+      "trackId": 1765881682,
+      "collectionName": "旅行不設限",
+      "artistName": "莎拉",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/319e3bce-bf5e-430b-8a79-395ad481003c.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%85%E8%A1%8C%E4%B8%8D%E8%A8%AD%E9%99%90/id1765881682?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "歷史"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 22,
+      "releaseDate": "2024-12-04T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1597751854,
+      "trackId": 1597751854,
+      "collectionName": "在家旅行",
+      "artistName": "Sofa Explorers",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckwg12zxe3mke0839s0bt52n6",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%9C%A8%E5%AE%B6%E6%97%85%E8%A1%8C/id1597751854?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 57,
+      "releaseDate": "2024-06-20T12:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1528853124,
+      "trackId": 1528853124,
+      "collectionName": "白日貓咖啡館聽旅行",
+      "artistName": "wei mao",
+      "feedUrl": "https://anchor.fm/s/3288d678/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%99%BD%E6%97%A5%E8%B2%93%E5%92%96%E5%95%A1%E9%A4%A8%E8%81%BD%E6%97%85%E8%A1%8C/id1528853124?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2022-11-30T11:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1599291712,
+      "trackId": 1599291712,
+      "collectionName": "仙姑叫我不要往西走",
+      "artistName": "雀兒喜 | 背包旅行、歐洲生活、獨旅冒險 | 旅行Podcast",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckwp1m9yy23u30851gikwu0ch",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BB%99%E5%A7%91%E5%8F%AB%E6%88%91%E4%B8%8D%E8%A6%81%E5%BE%80%E8%A5%BF%E8%B5%B0/id1599291712?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "歷史"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 22,
+      "releaseDate": "2022-10-04T08:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1890482823,
+      "trackId": 1890482823,
+      "collectionName": "芬享旅時光：聽故事、吃美食的世界旅行",
+      "artistName": "淑芬",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmgxocbys01yz01uw9himh3hp",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%8A%AC%E4%BA%AB%E6%97%85%E6%99%82%E5%85%89-%E8%81%BD%E6%95%85%E4%BA%8B-%E5%90%83%E7%BE%8E%E9%A3%9F%E7%9A%84%E4%B8%96%E7%95%8C%E6%97%85%E8%A1%8C/id1890482823?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2026-09-01T01:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1896730627,
+      "trackId": 1896730627,
+      "collectionName": "請讓我為您規劃下一場旅行",
+      "artistName": "魯魯",
+      "feedUrl": "https://rss.buzzsprout.com/2618420.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AB%8B%E8%AE%93%E6%88%91%E7%82%BA%E6%82%A8%E8%A6%8F%E5%8A%83%E4%B8%8B%E4%B8%80%E5%A0%B4%E6%97%85%E8%A1%8C/id1896730627?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "藝術",
+        "書籍"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 25,
+      "releaseDate": "2026-10-25T12:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1535331432,
+      "trackId": 1535331432,
+      "collectionName": "洋蔥耳小旅行 Onion Ear Explorer",
+      "artistName": "洋蔥耳音樂小學堂",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckg3lwloc63jc0875eb5ckk4p",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B4%8B%E8%94%A5%E8%80%B3%E5%B0%8F%E6%97%85%E8%A1%8C-onion-ear-explorer/id1535331432?uo=4",
+      "genres": [
+        "兒童教育",
+        "Podcast",
+        "兒童與家庭",
+        "音樂",
+        "音樂史"
+      ],
+      "genreIds": [
+        "1519",
+        "26",
+        "1305",
+        "1310",
+        "1524"
+      ],
+      "trackCount": 27,
+      "releaseDate": "2023-05-01T09:55:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童教育"
+    },
+    {
+      "collectionId": 1530655498,
+      "trackId": 1530655498,
+      "collectionName": "你家隔壁的旅行社",
+      "artistName": "鼻子＆Even",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/89f9e891-614d-40bb-812b-a2e052d0c95d.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BD%A0%E5%AE%B6%E9%9A%94%E5%A3%81%E7%9A%84%E6%97%85%E8%A1%8C%E7%A4%BE/id1530655498?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "休閒"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1502"
+      ],
+      "trackCount": 56,
+      "releaseDate": "2022-04-08T13:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1497482602,
+      "trackId": 1497482602,
+      "collectionName": "讓思想去旅行",
+      "artistName": "SOLER風格誌｜思葒（S編）",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckioksoqlfel60997skxfulwu",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AE%93%E6%80%9D%E6%83%B3%E5%8E%BB%E6%97%85%E8%A1%8C/id1497482602?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321"
+      ],
+      "trackCount": 177,
+      "releaseDate": "2026-04-29T12:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1686848365,
+      "trackId": 1686848365,
+      "collectionName": "旅行潘朵拉",
+      "artistName": "潘朵拉&霹靂馬",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/2f7faa08-28d3-45a1-a86c-840f596d75ab.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%85%E8%A1%8C%E6%BD%98%E6%9C%B5%E6%8B%89/id1686848365?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 181,
+      "releaseDate": "2026-10-15T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1661763574,
+      "trackId": 1661763574,
+      "collectionName": "建築大旅社",
+      "artistName": "建築｜藝文｜攝影｜旅行｜TOMO",
+      "feedUrl": "https://feed.firstory.me/rss/user/clc5twy1c0576010g64pabrvx",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%BB%BA%E7%AF%89%E5%A4%A7%E6%97%85%E7%A4%BE/id1661763574?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "藝術",
+        "設計"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1301",
+        "1402"
+      ],
+      "trackCount": 121,
+      "releaseDate": "2026-10-13T02:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1530391519,
+      "trackId": 1530391519,
+      "collectionName": "Winny 十分鐘中英語說",
+      "artistName": "Travel with Winny 一起跟昀去旅行",
+      "feedUrl": "https://anchor.fm/s/34a69bd4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/winny-%E5%8D%81%E5%88%86%E9%90%98%E4%B8%AD%E8%8B%B1%E8%AA%9E%E8%AA%AA/id1530391519?uo=4",
+      "genres": [
+        "語言學習",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1498",
+        "26",
+        "1304"
+      ],
+      "trackCount": 33,
+      "releaseDate": "2021-11-18T01:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "語言學習"
+    },
+    {
+      "collectionId": 1888153062,
+      "trackId": 1888153062,
+      "collectionName": "輔大之聲ｘ漫遊旅行社",
+      "artistName": "魚頭",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmlw41nur083101yb01zy1jfm",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%BC%94%E5%A4%A7%E4%B9%8B%E8%81%B2%EF%BD%98%E6%BC%AB%E9%81%8A%E6%97%85%E8%A1%8C%E7%A4%BE/id1888153062?uo=4",
+      "genres": [
+        "藝術",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1301",
+        "26"
+      ],
+      "trackCount": 12,
+      "releaseDate": "2026-06-11T13:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "藝術"
+    },
+    {
+      "collectionId": 1849341533,
+      "trackId": 1849341533,
+      "collectionName": "跟著鄉野趣旅行",
+      "artistName": "鄉野旅行社台中分公司",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/e25fdde3-c423-472b-942b-ed37c2ea8541.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B7%9F%E8%91%97%E9%84%89%E9%87%8E%E8%B6%A3%E6%97%85%E8%A1%8C/id1849341533?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 31,
+      "releaseDate": "2026-03-25T04:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1760266009,
+      "trackId": 1760266009,
+      "collectionName": "米粒趣旅行 Travel with Emily",
+      "artistName": "emilychih",
+      "feedUrl": "https://anchor.fm/s/f8eb3b44/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%B1%B3%E7%B2%92%E8%B6%A3%E6%97%85%E8%A1%8C-travel-with-emily/id1760266009?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2026-10-22T08:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 6823241543,
+      "trackId": 6823241543,
+      "collectionName": "人生旅行社",
+      "artistName": "Deborah & Rose",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/9a26d7ac-1a2d-479f-a87a-3c009834cdd1.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BA%BA%E7%94%9F%E6%97%85%E8%A1%8C%E7%A4%BE/id6823241543?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1304"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2026-10-15T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1451644227,
+      "trackId": 1451644227,
+      "collectionName": "阿玩旅遊 玩‧素旅行",
+      "artistName": "阿玩旅遊 玩‧素旅行",
+      "feedUrl": "https://anchor.fm/s/9015668/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%98%BF%E7%8E%A9%E6%97%85%E9%81%8A-%E7%8E%A9-%E7%B4%A0%E6%97%85%E8%A1%8C/id1451644227?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2025-05-12T06:24:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1660215111,
+      "trackId": 1660215111,
+      "collectionName": "聲動神州行",
+      "artistName": "旅行丨歷史丨文化丨新聞",
+      "feedUrl": "https://feed.firstory.me/rss/user/clb5vqkj500j401qycnqn7ug6",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%81%B2%E5%8B%95%E7%A5%9E%E5%B7%9E%E8%A1%8C/id1660215111?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2023-03-23T23:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1572569403,
+      "trackId": 1572569403,
+      "collectionName": "旅色｜旅行調色盤",
+      "artistName": "《趣日本自由行》旅行 | 紅龜稞",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/134a0a50-d5a3-4207-afee-5a0b5fbc6dd4.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%85%E8%89%B2-%E6%97%85%E8%A1%8C%E8%AA%BF%E8%89%B2%E7%9B%A4/id1572569403?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2022-01-28T07:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1556381234,
+      "trackId": 1556381234,
+      "collectionName": "太平洋旅行報",
+      "artistName": "太平洋旅行社",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/fa165b91-30af-4162-aadc-d30f85e061f1.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%AA%E5%B9%B3%E6%B4%8B%E6%97%85%E8%A1%8C%E5%A0%B1/id1556381234?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 86,
+      "releaseDate": "2022-11-25T11:14:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1750620913,
+      "trackId": 1750620913,
+      "collectionName": "跟著故事去旅行 by 大地之芽",
+      "artistName": "YuChen",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/618f7cce-e8d3-4690-a490-ed23b3a28519.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B7%9F%E8%91%97%E6%95%85%E4%BA%8B%E5%8E%BB%E6%97%85%E8%A1%8C-by-%E5%A4%A7%E5%9C%B0%E4%B9%8B%E8%8A%BD/id1750620913?uo=4",
+      "genres": [
+        "兒童故事",
+        "Podcast",
+        "兒童與家庭",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1520",
+        "26",
+        "1305",
+        "1324"
+      ],
+      "trackCount": 61,
+      "releaseDate": "2026-01-22T10:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童故事"
+    },
+    {
+      "collectionId": 1471628291,
+      "trackId": 1471628291,
+      "collectionName": "壮游者|人文旅行声音游记",
+      "artistName": "壮游者领头YANG",
+      "feedUrl": "http://www.ximalaya.com/album/18088545.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A3%AE%E6%B8%B8%E8%80%85-%E4%BA%BA%E6%96%87%E6%97%85%E8%A1%8C%E5%A3%B0%E9%9F%B3%E6%B8%B8%E8%AE%B0/id1471628291?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 319,
+      "releaseDate": "2026-10-19T22:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1529534299,
+      "trackId": 1529534299,
+      "collectionName": "非正常旅行",
+      "artistName": "季季JiJi",
+      "feedUrl": "https://www.ximalaya.com/album/40375905.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9D%9E%E6%AD%A3%E5%B8%B8%E6%97%85%E8%A1%8C/id1529534299?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "藝術",
+        "視覺藝術"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1301",
+        "1406"
+      ],
+      "trackCount": 229,
+      "releaseDate": "2026-10-24T00:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1887474381,
+      "trackId": 1887474381,
+      "collectionName": "埃及旅行笔记",
+      "artistName": "有钱花Hannah",
+      "feedUrl": "https://feed.xyzfm.space/y7bnbqvkaljr",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%9F%83%E5%8F%8A%E6%97%85%E8%A1%8C%E7%AC%94%E8%AE%B0/id1887474381?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "休閒"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1502"
+      ],
+      "trackCount": 38,
+      "releaseDate": "2026-06-02T15:17:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1637821742,
+      "trackId": 1637821742,
+      "collectionName": "屏東聽旅行",
+      "artistName": "屏東縣政府交通旅遊處",
+      "feedUrl": "https://feed.firstory.me/rss/user/cl42h2vgf024i01xd50xl6rnp",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B1%8F%E6%9D%B1%E8%81%BD%E6%97%85%E8%A1%8C/id1637821742?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 19,
+      "releaseDate": "2024-11-19T07:52:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1727506879,
+      "trackId": 1727506879,
+      "collectionName": "Sake journey 清酒旅行",
+      "artistName": "潮Sake製作委員會",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/d93c15c5-b865-40eb-af6c-9a5d74d1029d.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/sake-journey-%E6%B8%85%E9%85%92%E6%97%85%E8%A1%8C/id1727506879?uo=4",
+      "genres": [
+        "食物",
+        "Podcast",
+        "藝術",
+        "休閒"
+      ],
+      "genreIds": [
+        "1306",
+        "26",
+        "1301",
+        "1502"
+      ],
+      "trackCount": 41,
+      "releaseDate": "2024-12-17T01:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "食物"
+    },
+    {
+      "collectionId": 1543332946,
+      "trackId": 1543332946,
+      "collectionName": "葡萄酒旅行家 Vine Traveller",
+      "artistName": "葡萄酒旅行家 Agnes",
+      "feedUrl": "https://feed.firstory.me/rss/user/cki9e2jn0pz8p0873okam4wr3",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%91%A1%E8%90%84%E9%85%92%E6%97%85%E8%A1%8C%E5%AE%B6-vine-traveller/id1543332946?uo=4",
+      "genres": [
+        "嗜好",
+        "Podcast",
+        "休閒"
+      ],
+      "genreIds": [
+        "1505",
+        "26",
+        "1502"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2021-09-17T22:14:00Z",
+      "country": "TWN",
+      "primaryGenreName": "嗜好"
+    },
+    {
+      "collectionId": 1511129977,
+      "trackId": 1511129977,
+      "collectionName": "行旅調調",
+      "artistName": "深度旅行｜文化｜議題｜生活  #Chelle",
+      "feedUrl": "https://feed.firstory.me/rss/user/ck9nvuzurq7hf0873klhs1kih",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%A1%8C%E6%97%85%E8%AA%BF%E8%AA%BF/id1511129977?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 60,
+      "releaseDate": "2025-07-31T16:03:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1497254041,
+      "trackId": 1497254041,
+      "collectionName": "想旅行的拖鞋",
+      "artistName": "想旅行的拖鞋",
+      "feedUrl": "http://rss.lizhi.fm/rss/985292.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%83%B3%E6%97%85%E8%A1%8C%E7%9A%84%E6%8B%96%E9%9E%8B/id1497254041?uo=4",
+      "genres": [
+        "音樂",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1310",
+        "26"
+      ],
+      "trackCount": 711,
+      "releaseDate": "2021-01-28T14:26:00Z",
+      "country": "TWN",
+      "primaryGenreName": "音樂"
+    },
+    {
+      "collectionId": 1613043039,
+      "trackId": 1613043039,
+      "collectionName": "素養旅行",
+      "artistName": "顏安秀",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckzk06zbt03s10890h8cg9n10",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%B4%A0%E9%A4%8A%E6%97%85%E8%A1%8C/id1613043039?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "兒童與家庭",
+        "兒童教育"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1305",
+        "1519"
+      ],
+      "trackCount": 41,
+      "releaseDate": "2025-01-19T02:10:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1593824936,
+      "trackId": 1593824936,
+      "collectionName": "听游云南丨七十迈旅行故事",
+      "artistName": "七十迈旅行",
+      "feedUrl": "http://www.ximalaya.com/album/52413488.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%90%AC%E6%B8%B8%E4%BA%91%E5%8D%97%E4%B8%A8%E4%B8%83%E5%8D%81%E8%BF%88%E6%97%85%E8%A1%8C%E6%95%85%E4%BA%8B/id1593824936?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 161,
+      "releaseDate": "2022-05-30T08:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1620523371,
+      "trackId": 1620523371,
+      "collectionName": "定住旅行家ERIKO　旅して暮らしてせかいとことば",
+      "artistName": "文化放送PodcastQR",
+      "feedUrl": "https://feeds.megaphone.fm/NCB6039392586",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%AE%9A%E4%BD%8F%E6%97%85%E8%A1%8C%E5%AE%B6eriko-%E6%97%85%E3%81%97%E3%81%A6%E6%9A%AE%E3%82%89%E3%81%97%E3%81%A6%E3%81%9B%E3%81%8B%E3%81%84%E3%81%A8%E3%81%93%E3%81%A8%E3%81%B0/id1620523371?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "歷史"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 238,
+      "releaseDate": "2026-10-23T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1584080743,
+      "trackId": 1584080743,
+      "collectionName": "港女講旅行 Gong Travel",
+      "artistName": "Plus and Same",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/4f70c2c4-bfbf-4eda-be81-d40ba18360c9.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B8%AF%E5%A5%B3%E8%AC%9B%E6%97%85%E8%A1%8C-gong-travel/id1584080743?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "教育"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1304"
+      ],
+      "trackCount": 57,
+      "releaseDate": "2024-04-19T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1751150861,
+      "trackId": 1751150861,
+      "collectionName": "世新廣播電臺/Boarding Time 旅行聲活",
+      "artistName": "世新廣播電臺/小石與阿瑄",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/d388428c-173d-4141-9a23-4dfa7104bb08.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%96%E6%96%B0%E5%BB%A3%E6%92%AD%E9%9B%BB%E8%87%BA-boarding-time-%E6%97%85%E8%A1%8C%E8%81%B2%E6%B4%BB/id1751150861?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1304"
+      ],
+      "trackCount": 40,
+      "releaseDate": "2025-04-29T08:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1731867901,
+      "trackId": 1731867901,
+      "collectionName": "魚頭",
+      "artistName": "旅行家",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/81195d40-d7a9-44a4-bf98-afc20541076e.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%AD%9A%E9%A0%AD/id1731867901?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 43,
+      "releaseDate": "2026-10-11T11:23:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1479173448,
+      "trackId": 1479173448,
+      "collectionName": "稻此一游",
+      "artistName": "稻草人旅行",
+      "feedUrl": "http://www.ximalaya.com/album/3066455.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%A8%BB%E6%AD%A4%E4%B8%80%E6%B8%B8/id1479173448?uo=4",
+      "genres": [
+        "野外",
+        "Podcast",
+        "運動",
+        "社會與文化",
+        "名勝與旅遊"
+      ],
+      "genreIds": [
+        "1559",
+        "26",
+        "1545",
+        "1324",
+        "1320"
+      ],
+      "trackCount": 348,
+      "releaseDate": "2026-10-22T22:59:00Z",
+      "country": "TWN",
+      "primaryGenreName": "野外"
+    },
+    {
+      "collectionId": 1846493609,
+      "trackId": 1846493609,
+      "collectionName": "童話旅行箱",
+      "artistName": "若靈",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/880a9577-e2f4-46b4-ba5a-9b2c0054711f.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%AB%A5%E8%A9%B1%E6%97%85%E8%A1%8C%E7%AE%B1/id1846493609?uo=4",
+      "genres": [
+        "兒童與家庭",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1305",
+        "26"
+      ],
+      "trackCount": 53,
+      "releaseDate": "2026-10-15T10:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童與家庭"
+    },
+    {
+      "collectionId": 1521215591,
+      "trackId": 1521215591,
+      "collectionName": "凱瑞全世界 Kerry the World",
+      "artistName": "旅行｜旅遊知識｜打工度假｜Kerry",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckc8gb2i917ak0918ocpicd1a",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%87%B1%E7%91%9E%E5%85%A8%E4%B8%96%E7%95%8C-kerry-the-world/id1521215591?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 33,
+      "releaseDate": "2021-04-20T23:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1648131103,
+      "trackId": 1648131103,
+      "collectionName": "大牛旅行,人生智慧",
+      "artistName": "王大牛",
+      "feedUrl": "https://anchor.fm/s/bda01b68/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%A7%E7%89%9B%E6%97%85%E8%A1%8C-%E4%BA%BA%E7%94%9F%E6%99%BA%E6%85%A7/id1648131103?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 57,
+      "releaseDate": "2023-09-20T13:10:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 6790060292,
+      "trackId": 6790060292,
+      "collectionName": "聽文樂聲饗｜歌劇輕旅行",
+      "artistName": "星洋、育甄老師",
+      "feedUrl": "https://anchor.fm/s/114d276d8/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%81%BD%E6%96%87%E6%A8%82%E8%81%B2%E9%A5%97-%E6%AD%8C%E5%8A%87%E8%BC%95%E6%97%85%E8%A1%8C/id6790060292?uo=4",
+      "genres": [
+        "表演",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1405",
+        "26",
+        "1301"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-01T08:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "表演"
+    },
+    {
+      "collectionId": 1783597206,
+      "trackId": 1783597206,
+      "collectionName": "卡樂弗的下課時間 | 旅行ｘ運動ｘ樂活點子",
+      "artistName": "卡樂弗 Colorful",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/9f457b8f-9ea9-4fa5-98ef-c6b9b0fe08a4.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8D%A1%E6%A8%82%E5%BC%97%E7%9A%84%E4%B8%8B%E8%AA%B2%E6%99%82%E9%96%93-%E6%97%85%E8%A1%8C%EF%BD%98%E9%81%8B%E5%8B%95%EF%BD%98%E6%A8%82%E6%B4%BB%E9%BB%9E%E5%AD%90/id1783597206?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1512"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2026-01-14T10:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1543842699,
+      "trackId": 1543842699,
+      "collectionName": "跟著動物去旅行",
+      "artistName": "跟著動物去旅行",
+      "feedUrl": "https://feed.firstory.me/rss/user/cki8mwmv5n6an08601pr9ewiu",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B7%9F%E8%91%97%E5%8B%95%E7%89%A9%E5%8E%BB%E6%97%85%E8%A1%8C/id1543842699?uo=4",
+      "genres": [
+        "紀實",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1543",
+        "26",
+        "1324"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2025-03-02T13:19:00Z",
+      "country": "TWN",
+      "primaryGenreName": "紀實"
+    },
+    {
+      "collectionId": 1771266731,
+      "trackId": 1771266731,
+      "collectionName": "茶說旅行的窸窸窣窣",
+      "artistName": "靖怡 ＆ 偷動",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/02c09459-8097-4a05-ad8a-74b9ba332e61.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%8C%B6%E8%AA%AA%E6%97%85%E8%A1%8C%E7%9A%84%E7%AA%B8%E7%AA%B8%E7%AA%A3%E7%AA%A3/id1771266731?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2025-01-08T11:40:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1610525665,
+      "trackId": 1610525665,
+      "collectionName": "琅琊榜之安定天下｜古装权谋",
+      "artistName": "旅行民谣阿童木",
+      "feedUrl": "http://www.ximalaya.com/album/54637868.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%90%85%E7%90%8A%E6%A6%9C%E4%B9%8B%E5%AE%89%E5%AE%9A%E5%A4%A9%E4%B8%8B-%E5%8F%A4%E8%A3%85%E6%9D%83%E8%B0%8B/id1610525665?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "歷史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 87,
+      "releaseDate": "2023-04-11T20:10:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1860457650,
+      "trackId": 1860457650,
+      "collectionName": "這就是人生｜旅行・生活・人生體驗 Podcast",
+      "artistName": "阿賢｜這就是人生",
+      "feedUrl": "https://feed.firstory.me/rss/user/cm8b1p4us08n501y49zpze7wx",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%80%99%E5%B0%B1%E6%98%AF%E4%BA%BA%E7%94%9F-%E6%97%85%E8%A1%8C-%E7%94%9F%E6%B4%BB-%E4%BA%BA%E7%94%9F%E9%AB%94%E9%A9%97-podcast/id1860457650?uo=4",
+      "genres": [
+        "嗜好",
+        "Podcast",
+        "休閒"
+      ],
+      "genreIds": [
+        "1505",
+        "26",
+        "1502"
+      ],
+      "trackCount": 32,
+      "releaseDate": "2026-05-27T04:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "嗜好"
+    },
+    {
+      "collectionId": 1807290139,
+      "trackId": 1807290139,
+      "collectionName": "阿琳的生活旅行箱",
+      "artistName": "寶島聯播網 A-LIN",
+      "feedUrl": "https://feed.firstory.me/rss/user/cm7yh3lk5000101107q1r0mwm",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%98%BF%E7%90%B3%E7%9A%84%E7%94%9F%E6%B4%BB%E6%97%85%E8%A1%8C%E7%AE%B1/id1807290139?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1502",
+        "26",
+        "1321"
+      ],
+      "trackCount": 46,
+      "releaseDate": "2026-02-27T01:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1592810673,
+      "trackId": 1592810673,
+      "collectionName": "認識佛教有聲書 （佛教 佛法）",
+      "artistName": "旅行者",
+      "feedUrl": "https://anchor.fm/s/9f701fbc/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AA%8D%E8%AD%98%E4%BD%9B%E6%95%99%E6%9C%89%E8%81%B2%E6%9B%B8-%E4%BD%9B%E6%95%99-%E4%BD%9B%E6%B3%95/id1592810673?uo=4",
+      "genres": [
+        "佛教",
+        "Podcast",
+        "宗教與精神生活"
+      ],
+      "genreIds": [
+        "1438",
+        "26",
+        "1314"
+      ],
+      "trackCount": 25,
+      "releaseDate": "2024-02-03T13:34:00Z",
+      "country": "TWN",
+      "primaryGenreName": "佛教"
+    },
+    {
+      "collectionId": 1813925253,
+      "trackId": 1813925253,
+      "collectionName": "愚者旅行",
+      "artistName": "王韻華",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmalcgddr0c0401tz6ymx70ur",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%84%9A%E8%80%85%E6%97%85%E8%A1%8C/id1813925253?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 26,
+      "releaseDate": "2026-08-25T04:18:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1849132338,
+      "trackId": 1849132338,
+      "collectionName": "旅行talk不打烊",
+      "artistName": "言如星语",
+      "feedUrl": "https://feed.xyzfm.space/yllwm3rjh4kw",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%85%E8%A1%8Ctalk%E4%B8%8D%E6%89%93%E7%83%8A/id1849132338?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1502",
+        "26",
+        "1324"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2026-07-22T11:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1620319100,
+      "trackId": 1620319100,
+      "collectionName": "旅行噗噗車",
+      "artistName": "阿菜和噗噗",
+      "feedUrl": "https://anchor.fm/s/8be94af4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%85%E8%A1%8C%E5%99%97%E5%99%97%E8%BB%8A/id1620319100?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2022-07-08T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1573211845,
+      "trackId": 1573211845,
+      "collectionName": "Bri your life 用聲音旅行吧!",
+      "artistName": "xiaochiao",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckq60999zy6hc0846zrdr8a23",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/bri-your-life-%E7%94%A8%E8%81%B2%E9%9F%B3%E6%97%85%E8%A1%8C%E5%90%A7/id1573211845?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 32,
+      "releaseDate": "2025-03-19T09:17:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 6809090350,
+      "trackId": 6809090350,
+      "collectionName": "跟著吉航去旅行",
+      "artistName": "Rico Yang",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtp6e2jl02xn01uvb6aie2d8",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B7%9F%E8%91%97%E5%90%89%E8%88%AA%E5%8E%BB%E6%97%85%E8%A1%8C/id6809090350?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "藝術",
+        "食物"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1301",
+        "1306"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2026-09-06T02:28:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1614421160,
+      "trackId": 1614421160,
+      "collectionName": "听着声音趣旅行",
+      "artistName": "NJ刘倩",
+      "feedUrl": "http://www.ximalaya.com/album/16391499.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%90%AC%E7%9D%80%E5%A3%B0%E9%9F%B3%E8%B6%A3%E6%97%85%E8%A1%8C/id1614421160?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 342,
+      "releaseDate": "2026-07-27T14:13:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1638352206,
+      "trackId": 1638352206,
+      "collectionName": "身意旅行",
+      "artistName": "物理治療師Yuwen",
+      "feedUrl": "https://feed.firstory.me/rss/user/cl6gbh05401ht01xk5bxjbnq9",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%BA%AB%E6%84%8F%E6%97%85%E8%A1%8C/id1638352206?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 62,
+      "releaseDate": "2024-04-04T16:55:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1490066022,
+      "trackId": 1490066022,
+      "collectionName": "玩遍日本|携程听见旅行",
+      "artistName": "听见旅行",
+      "feedUrl": "http://www.ximalaya.com/album/18168862.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%8E%A9%E9%81%8D%E6%97%A5%E6%9C%AC-%E6%90%BA%E7%A8%8B%E5%90%AC%E8%A7%81%E6%97%85%E8%A1%8C/id1490066022?uo=4",
+      "genres": [
+        "嗜好",
+        "Podcast",
+        "休閒",
+        "社會與文化",
+        "名勝與旅遊"
+      ],
+      "genreIds": [
+        "1505",
+        "26",
+        "1502",
+        "1324",
+        "1320"
+      ],
+      "trackCount": 25,
+      "releaseDate": "2020-02-22T00:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "嗜好"
+    },
+    {
+      "collectionId": 1460580954,
+      "trackId": 1460580954,
+      "collectionName": "跟Lily说英语去旅行",
+      "artistName": "Fly with Lily",
+      "feedUrl": "http://www.ximalaya.com/album/20403413.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B7%9Flily%E8%AF%B4%E8%8B%B1%E8%AF%AD%E5%8E%BB%E6%97%85%E8%A1%8C/id1460580954?uo=4",
+      "genres": [
+        "語言學習",
+        "Podcast",
+        "教育",
+        "教學"
+      ],
+      "genreIds": [
+        "1498",
+        "26",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 281,
+      "releaseDate": "2021-09-16T23:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "語言學習"
+    },
+    {
+      "collectionId": 1652294243,
+      "trackId": 1652294243,
+      "collectionName": "带上耳朵去旅行",
+      "artistName": "柠檬香香FM",
+      "feedUrl": "https://www.ximalaya.com/album/47209366.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B8%A6%E4%B8%8A%E8%80%B3%E6%9C%B5%E5%8E%BB%E6%97%85%E8%A1%8C/id1652294243?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 133,
+      "releaseDate": "2025-03-01T08:52:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1626087088,
+      "trackId": 1626087088,
+      "collectionName": "原创作品｜适合开车听的旅行音乐",
+      "artistName": "达鸟三巡",
+      "feedUrl": "https://www.ximalaya.com/album/64307981.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8E%9F%E5%88%9B%E4%BD%9C%E5%93%81-%E9%80%82%E5%90%88%E5%BC%80%E8%BD%A6%E5%90%AC%E7%9A%84%E6%97%85%E8%A1%8C%E9%9F%B3%E4%B9%90/id1626087088?uo=4",
+      "genres": [
+        "音樂評論",
+        "Podcast",
+        "音樂",
+        "社會與文化",
+        "名勝與旅遊"
+      ],
+      "genreIds": [
+        "1523",
+        "26",
+        "1310",
+        "1324",
+        "1320"
+      ],
+      "trackCount": 11,
+      "releaseDate": "2022-04-16T18:49:00Z",
+      "country": "TWN",
+      "primaryGenreName": "音樂評論"
+    },
+    {
+      "collectionId": 1625562426,
+      "trackId": 1625562426,
+      "collectionName": "一根竹子的旅行。王文志",
+      "artistName": "幼葉林藝術工作室",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/ca0c5029-6575-477e-9d7f-fbdfc46109f3.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%80%E6%A0%B9%E7%AB%B9%E5%AD%90%E7%9A%84%E6%97%85%E8%A1%8C-%E7%8E%8B%E6%96%87%E5%BF%97/id1625562426?uo=4",
+      "genres": [
+        "藝術",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1301",
+        "26",
+        "1324"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2024-03-11T05:28:00Z",
+      "country": "TWN",
+      "primaryGenreName": "藝術"
+    },
+    {
+      "collectionId": 1489419966,
+      "trackId": 1489419966,
+      "collectionName": "漫步欧洲|携程听见旅行",
+      "artistName": "听见旅行",
+      "feedUrl": "http://www.ximalaya.com/album/29309816.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%BC%AB%E6%AD%A5%E6%AC%A7%E6%B4%B2-%E6%90%BA%E7%A8%8B%E5%90%AC%E8%A7%81%E6%97%85%E8%A1%8C/id1489419966?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 58,
+      "releaseDate": "2020-08-09T23:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1219876819,
+      "trackId": 1219876819,
+      "collectionName": "《西班牙旅行笔记》—林达",
+      "artistName": "郑娃娃一家的故事会",
+      "feedUrl": "http://www.ximalaya.com/album/5462821.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%A5%BF%E7%8F%AD%E7%89%99%E6%97%85%E8%A1%8C%E7%AC%94%E8%AE%B0-%E6%9E%97%E8%BE%BE/id1219876819?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1487"
+      ],
+      "trackCount": 64,
+      "releaseDate": "2017-03-03T01:40:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1573691023,
+      "trackId": 1573691023,
+      "collectionName": "E斯特｜印象派旅行故事",
+      "artistName": "E斯特",
+      "feedUrl": "https://anchor.fm/s/5fd62ae0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/e%E6%96%AF%E7%89%B9-%E5%8D%B0%E8%B1%A1%E6%B4%BE%E6%97%85%E8%A1%8C%E6%95%85%E4%BA%8B/id1573691023?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 57,
+      "releaseDate": "2024-03-04T11:59:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1527944933,
+      "trackId": 1527944933,
+      "collectionName": "現在旅行式",
+      "artistName": "克里斯",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/6b518c40-2130-4c6d-b9a1-dccbc0fc1bcd.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%8F%BE%E5%9C%A8%E6%97%85%E8%A1%8C%E5%BC%8F/id1527944933?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "藝術"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1301"
+      ],
+      "trackCount": 17,
+      "releaseDate": "2021-01-27T12:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1489441852,
+      "trackId": 1489441852,
+      "collectionName": "走遍中国|携程听见旅行带你玩",
+      "artistName": "听见旅行",
+      "feedUrl": "http://www.ximalaya.com/album/11284349.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B5%B0%E9%81%8D%E4%B8%AD%E5%9B%BD-%E6%90%BA%E7%A8%8B%E5%90%AC%E8%A7%81%E6%97%85%E8%A1%8C%E5%B8%A6%E4%BD%A0%E7%8E%A9/id1489441852?uo=4",
+      "genres": [
+        "嗜好",
+        "Podcast",
+        "休閒",
+        "社會與文化",
+        "名勝與旅遊"
+      ],
+      "genreIds": [
+        "1505",
+        "26",
+        "1502",
+        "1324",
+        "1320"
+      ],
+      "trackCount": 302,
+      "releaseDate": "2021-10-07T12:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "嗜好"
+    },
+    {
+      "collectionId": 1709484756,
+      "trackId": 1709484756,
+      "collectionName": "心之旅行者",
+      "artistName": "Erin Tung",
+      "feedUrl": "https://feed.firstory.me/rss/user/cln2uhu0800rx01zefax2h6zz",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%BF%83%E4%B9%8B%E6%97%85%E8%A1%8C%E8%80%85/id1709484756?uo=4",
+      "genres": [
+        "靈修",
+        "Podcast",
+        "宗教與精神生活",
+        "健康與瘦身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1444",
+        "26",
+        "1314",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 6,
+      "releaseDate": "2023-11-17T12:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "靈修"
+    },
+    {
+      "collectionId": 1609865158,
+      "trackId": 1609865158,
+      "collectionName": "米粒宅聊音樂劇",
+      "artistName": "米粒",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/230df63a-be98-49c0-8326-b2a80c13670b.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%B1%B3%E7%B2%92%E5%AE%85%E8%81%8A%E9%9F%B3%E6%A8%82%E5%8A%87/id1609865158?uo=4",
+      "genres": [
+        "表演",
+        "Podcast",
+        "藝術",
+        "電視與電影"
+      ],
+      "genreIds": [
+        "1405",
+        "26",
+        "1301",
+        "1309"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2026-01-19T10:57:00Z",
+      "country": "TWN",
+      "primaryGenreName": "表演"
+    },
+    {
+      "collectionId": 1551763105,
+      "trackId": 1551763105,
+      "collectionName": "小众新疆，与新边疆人文生态旅行指南",
+      "artistName": "吐火罗人与走马行疆旅行",
+      "feedUrl": "http://www.ximalaya.com/album/46340676.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B0%8F%E4%BC%97%E6%96%B0%E7%96%86-%E4%B8%8E%E6%96%B0%E8%BE%B9%E7%96%86%E4%BA%BA%E6%96%87%E7%94%9F%E6%80%81%E6%97%85%E8%A1%8C%E6%8C%87%E5%8D%97/id1551763105?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2022-01-30T08:13:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1895207219,
+      "trackId": 1895207219,
+      "collectionName": "听完故事去旅行",
+      "artistName": "余白FM",
+      "feedUrl": "https://feed.xyzfm.space/6yqcwekhlrgw",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%90%AC%E5%AE%8C%E6%95%85%E4%BA%8B%E5%8E%BB%E6%97%85%E8%A1%8C/id1895207219?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 23,
+      "releaseDate": "2026-05-19T11:55:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1568968623,
+      "trackId": 1568968623,
+      "collectionName": "旅行的形狀：新書導讀",
+      "artistName": "陳浪 JerryChen",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckov6exu2mh3x0a36ymji3u8g",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%85%E8%A1%8C%E7%9A%84%E5%BD%A2%E7%8B%80-%E6%96%B0%E6%9B%B8%E5%B0%8E%E8%AE%80/id1568968623?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 11,
+      "releaseDate": "2021-06-03T16:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1843300355,
+      "trackId": 1843300355,
+      "collectionName": "Historical Travel Stories💕旅行の歷史故事",
+      "artistName": "Lawrence An",
+      "feedUrl": "https://feeds.redcircle.com/cfc0e32d-c1fc-435f-8d4b-b3f5fb352872",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/historical-travel-stories-%E6%97%85%E8%A1%8C%E3%81%AE%E6%AD%B7%E5%8F%B2%E6%95%85%E4%BA%8B/id1843300355?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化",
+        "歷史"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 1666,
+      "releaseDate": "2026-10-25T13:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1531578233,
+      "trackId": 1531578233,
+      "collectionName": "漫步世界 2 | 继续颠覆你的旅行观",
+      "artistName": "静夜宇声",
+      "feedUrl": "http://www.ximalaya.com/album/41339168.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%BC%AB%E6%AD%A5%E4%B8%96%E7%95%8C-2-%E7%BB%A7%E7%BB%AD%E9%A2%A0%E8%A6%86%E4%BD%A0%E7%9A%84%E6%97%85%E8%A1%8C%E8%A7%82/id1531578233?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 341,
+      "releaseDate": "2025-11-20T04:44:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1631663946,
+      "trackId": 1631663946,
+      "collectionName": "跟著故事去旅行",
+      "artistName": "雲林故事館／知識．文化．在地．世界",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/d76619ee-dd4f-4d81-ba2c-ff4f9046f8c8.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B7%9F%E8%91%97%E6%95%85%E4%BA%8B%E5%8E%BB%E6%97%85%E8%A1%8C/id1631663946?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1304"
+      ],
+      "trackCount": 52,
+      "releaseDate": "2025-11-08T08:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 6809893947,
+      "trackId": 6809893947,
+      "collectionName": "旅行觀察室",
+      "artistName": "宇辰+若晴",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/c06eff26-34cc-4953-a160-b1052f679aab.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%85%E8%A1%8C%E8%A7%80%E5%AF%9F%E5%AE%A4/id6809893947?uo=4",
+      "genres": [
+        "新聞評論",
+        "Podcast",
+        "新聞",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1530",
+        "26",
+        "1489",
+        "1324"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2026-09-08T17:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞評論"
+    },
+    {
+      "collectionId": 1766075473,
+      "trackId": 1766075473,
+      "collectionName": "PJ 聊旅行",
+      "artistName": "PJ",
+      "feedUrl": "https://feed.firstory.me/rss/user/cm0z3igtt04gg01q947jh7mjw",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/pj-%E8%81%8A%E6%97%85%E8%A1%8C/id1766075473?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 11,
+      "releaseDate": "2024-12-24T08:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1657543408,
+      "trackId": 1657543408,
+      "collectionName": "好好讀你-跟著圖書館去旅行",
+      "artistName": "貓頭鷹爸爸的閱讀空間",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/eaff66d8-f02d-497a-ae90-e8bfbb56e9ed.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%BD%E5%A5%BD%E8%AE%80%E4%BD%A0-%E8%B7%9F%E8%91%97%E5%9C%96%E6%9B%B8%E9%A4%A8%E5%8E%BB%E6%97%85%E8%A1%8C/id1657543408?uo=4",
+      "genres": [
+        "子女教養",
+        "Podcast",
+        "兒童與家庭",
+        "藝術"
+      ],
+      "genreIds": [
+        "1521",
+        "26",
+        "1305",
+        "1301"
+      ],
+      "trackCount": 60,
+      "releaseDate": "2023-11-03T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "子女教養"
+    },
+    {
+      "collectionId": 1775923957,
+      "trackId": 1775923957,
+      "collectionName": "旅行目的地FM",
+      "artistName": "Ommer",
+      "feedUrl": "https://feed.xyzfm.space/jc6wuynj6a3e",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%85%E8%A1%8C%E7%9B%AE%E7%9A%84%E5%9C%B0fm/id1775923957?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1502",
+        "26",
+        "1324"
+      ],
+      "trackCount": 27,
+      "releaseDate": "2026-10-19T02:47:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1840887474,
+      "trackId": 1840887474,
+      "collectionName": "那又怎麼樣 What About It? ｜生活、旅行與隨想",
+      "artistName": "@Rachelin2589",
+      "feedUrl": "https://anchor.fm/s/109019c58/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%82%A3%E5%8F%88%E6%80%8E%E9%BA%BC%E6%A8%A3-what-about-it-%E7%94%9F%E6%B4%BB-%E6%97%85%E8%A1%8C%E8%88%87%E9%9A%A8%E6%83%B3/id1840887474?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2025-09-19T10:58:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1544738841,
+      "trackId": 1544738841,
+      "collectionName": "Amanda的旅行散冊/帶你探索旅行的大小事",
+      "artistName": "Amanda Cho",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckijyna3jfiqd0810xqlor4kp",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/amanda%E7%9A%84%E6%97%85%E8%A1%8C%E6%95%A3%E5%86%8A-%E5%B8%B6%E4%BD%A0%E6%8E%A2%E7%B4%A2%E6%97%85%E8%A1%8C%E7%9A%84%E5%A4%A7%E5%B0%8F%E4%BA%8B/id1544738841?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2021-06-11T08:10:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 1531931920,
+      "trackId": 1531931920,
+      "collectionName": "録り鉄じゃなく、聴き鉄へ。各駅停車、耳で乗り放題。",
+      "artistName": "旅行遂行士・ＤＪＲかもちゃん",
+      "feedUrl": "https://anchor.fm/s/3660b5f4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%8C%B2%E3%82%8A%E9%89%84%E3%81%98%E3%82%83%E3%81%AA%E3%81%8F-%E8%81%B4%E3%81%8D%E9%89%84%E3%81%B8-%E5%90%84%E9%A7%85%E5%81%9C%E8%BB%8A-%E8%80%B3%E3%81%A7%E4%B9%97%E3%82%8A%E6%94%BE%E9%A1%8C/id1531931920?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 1094,
+      "releaseDate": "2026-09-23T23:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    }
+  ]
+}

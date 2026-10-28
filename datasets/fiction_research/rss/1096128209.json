@@ -1,0 +1,140 @@
+{
+  "show_id": "1096128209",
+  "feed_url": "http://juriarima.com/category/podcast/feed",
+  "source": {
+    "url": "http://juriarima.com/category/podcast/feed",
+    "final_url": "http://juriarima.com/category/podcast/feed",
+    "fetched_at": "2026-10-25T14:47:20.029857+00:00",
+    "status": 200,
+    "sha256": "f4f4e6233c8c487800debd1c42005ad424d9f1056236201a3a3a0006d75f27f9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "恋愛・婚活の専門家JURIの『野獣でも美女を捕まえる』テクニック 女性の本音☆教えます",
+    "truncated": false
+  },
+  "description": {
+    "text": "本気で彼女が欲しい方必見！恋愛・婚活スタイリストJURIがあなたに理想の彼女が出来る方法を女性目線で語ります！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "explicit": "false",
+    "medium": "podcast"
+  },
+  "feed_item_count": 240,
+  "episodes": [
+    {
+      "id": "6c275018af1d8acbd308bd3c532de23b2f569617ca47a007f199c30deedc0301",
+      "guid": "https://juriarima.com/?p=8170",
+      "title": {
+        "text": "第228回目：デートの時の服装とは？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 30 Jul 2021 09:05:54 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "6507b29dbbf8d3f9fd1a12665c09fd507603abb1d352a81a3f01b736f45a701d",
+      "guid": "http://juriarima.com/?p=7841",
+      "title": {
+        "text": "第194回目:職場で話をしたことがない女性を落とす方法",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Sep 2020 11:11:12 +0000",
+      "feed_index": 34
+    },
+    {
+      "id": "2430e4627a7d6ea66700c22b1661ba877d9341a2931438ebdda6b68b4e31e926",
+      "guid": "http://juriarima.com/?p=7051",
+      "title": {
+        "text": "第159回目：キャバクラの女性の本音とは？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Nov 2019 07:05:52 +0000",
+      "feed_index": 68
+    },
+    {
+      "id": "5121e4c9a466a3711f1b06c362b0e37e0726d1a16355cf80c76f17f100874c47",
+      "guid": "http://juriarima.com/?p=5211",
+      "title": {
+        "text": "125回目：受付嬢を好きになってしまった時の対処法",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Mar 2019 18:10:59 +0000",
+      "feed_index": 102
+    },
+    {
+      "id": "cda17fa89b4041184c7ce271804d8e4f400fe341e852cc47f980cd941d5ae2ed",
+      "guid": "http://juriarima.com/?p=3471",
+      "title": {
+        "text": "第８８回目：LINEはするけど”デートしてくれない”女性の本音",
+        "truncated": false
+      },
+      "description": {
+        "text": "LINEはしてくるのに、食事に誘っても来てくれない・・・一体、何を考えているのか？と混乱しますよね。そんな時の女性の本音をお話しました。",
+        "truncated": false
+      },
+      "published_at": "Fri, 13 Apr 2018 04:31:01 +0000",
+      "feed_index": 137
+    },
+    {
+      "id": "86f590e3901addb02513ffef0d3d3f63996f9a1dbbb8317fdf9ff772fb49ded1",
+      "guid": "http://juriarima.com/?p=3106",
+      "title": {
+        "text": "第５５回目：勘違いに注意！女性の社交辞令の見抜き方",
+        "truncated": false
+      },
+      "description": {
+        "text": "病院や、よく行くお店で知り合った女性を、好きになったことはありますか？いつも行くと、笑顔で迎えてくれる。楽しそうに話してくれる。これって脈あり？？でも気をつけて！下調べせずにアプローチすると、大失敗する可能性大！女性はコ […]",
+        "truncated": false
+      },
+      "published_at": "Fri, 30 Jun 2017 05:27:26 +0000",
+      "feed_index": 171
+    },
+    {
+      "id": "ea5cd77838fa253d3c4a52ae1b2b0481803d93a0e57cf9fb680ca7eb3a8937dd",
+      "guid": "http://juriarima.com/?p=2567",
+      "title": {
+        "text": "第３３回目：駅のホームで一目惚れ！気になる女性と近づく”好印象”な出会い方",
+        "truncated": false
+      },
+      "description": {
+        "text": "通勤中、朝の駅のホームで 見つけてしまった！運命の出会いを♡ 毎朝会えるか楽しみで 会えたらとっても嬉しくて でも、なんて声をかけたらいいんだろう？ もしかしたらあなたにも こんな偶然の素敵な出会いがあるかもしれません♡ […]",
+        "truncated": false
+      },
+      "published_at": "Fri, 16 Dec 2016 08:38:56 +0000",
+      "feed_index": 205
+    },
+    {
+      "id": "79d60ab188434963e5d902668be8b746233d5d867e8b7d42d59e7f497c264dfc",
+      "guid": "http://juriarima.com/?p=1800",
+      "title": {
+        "text": "【限定プレゼント】たった90日で本気の彼女ができる無料講座！",
+        "truncated": false
+      },
+      "description": {
+        "text": "5年で累計10000人を指導！ 請け負った会員を100%お見合いさせた実績を誇る 恋愛.婚活スタイリストJURIが、今までの人生で付き合った人数0〜3人の男性が 90日以内で彼女ができて結婚に至った極秘テクニックをアナタ […]",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Mar 2016 16:58:20 +0000",
+      "feed_index": 239
+    }
+  ]
+}

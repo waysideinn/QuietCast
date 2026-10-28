@@ -1,0 +1,41 @@
+{
+  "status": "production_trial_user_accepted",
+  "acceptedAt": "2026-10-27T13:44:45.115471+00:00",
+  "approvalRecord": "research/production-trial-acceptance.md",
+  "rulesPath": "rules/fiction-audiobooks.json",
+  "appResourcePath": "App/Resources/content-filter.json",
+  "ruleVersion": "fiction-zh-2026-10-27-v1",
+  "schemaVersion": "1.1",
+  "ruleSHA256": "b1d875e5b49415f74c111389f0ec1b3c189abc37cdc547dd5c21e18d3393d765",
+  "previousAppRuleSHA256": "0bbedc59b2b14f4f29cffe4e62a65d769cf424530c67befaa699185a988ea617",
+  "independentTestPassed": false,
+  "researchEvidenceGateWaivedByUser": true,
+  "humanRegression": {
+    "count": 50,
+    "matches": 50,
+    "expectedConfusion": {
+      "allow/allow": 41,
+      "block/block": 9
+    },
+    "failures": []
+  },
+  "swiftComparisons": 162,
+  "swiftDifferences": 0,
+  "counts": {
+    "strongKeywords": 0,
+    "keywords": 21,
+    "combinationKeywords": 16,
+    "regexRules": 1,
+    "exclusions": 15,
+    "classificationRules": 1,
+    "publisherRules": 0
+  },
+  "confirmedPublisherBlockAccounts": 0,
+  "limitations": [
+    "Only exposed samples were used for this correction and regression; no independent accuracy claim.",
+    "English exemption depends on explicit title phrases; actual audio language is unverified.",
+    "Unknown or mixed accounts are not blocked by publisher.",
+    "Old AI episode development cases still contain 2 nonfiction false blocks out of 4; mixed fiction shows need parent exceptions.",
+    "Previously imported rules may override the new built-in asset."
+  ]
+}

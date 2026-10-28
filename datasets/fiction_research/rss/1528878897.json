@@ -1,0 +1,140 @@
+{
+  "show_id": "1528878897",
+  "feed_url": "https://anchor.fm/s/3128f9e8/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/3128f9e8/podcast/rss",
+    "final_url": "https://anchor.fm/s/3128f9e8/podcast/rss",
+    "fetched_at": "2026-10-25T14:50:47.226573+00:00",
+    "status": 200,
+    "sha256": "cfc100bae37c93d3dda100007eddbc0d5029bbfb3c6da592fc4ee7debaee80b1"
+  },
+  "status": "ok",
+  "title": {
+    "text": "夜行動物",
+    "truncated": false
+  },
+  "description": {
+    "text": "喜歡文學與電影，偏愛科幻與獵奇，是夜裡陪你聊天的好夥伴 ig:https://www.instagram.com/lilydear_c/ email: [email removed]",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 47,
+  "episodes": [
+    {
+      "id": "54cea837b0d84878cf5b4bdd2a76f39521f388a17f2b0a80565c5f5859aa600f",
+      "guid": "e3ec1cc2-fa27-4476-b0ef-7f1df2555b87",
+      "title": {
+        "text": "《奧德賽》回家好辛苦：走遍世界以後，你最想回到誰身邊？",
+        "truncated": false
+      },
+      "description": {
+        "text": "失蹤人口被諾蘭逼到回歸了 請都去看IMAX版的《奧德賽》",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Jul 2026 15:42:18 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "2bfb25d00c5d6575df0c2fc40df79f087128a4c03e278e1fd89028161e378425",
+      "guid": "8ad91127-8945-480b-a50f-f5bcd2e1bb83",
+      "title": {
+        "text": "《Moving 異能》2023最好看韓劇│柳承龍、趙寅成、韓孝周、高允貞、李正河│諜報動作＋愛情親情天花板，敲碗第二季│車太鉉到底為何演高中生XD",
+        "truncated": false
+      },
+      "description": {
+        "text": "邀請韓劇小專家Ting聊聊今年最愛的《Moving 異能》 兩代超能力者的故事，融入家庭、愛情、校園、諜報、科幻等元素 成為了一部讓人看了又笑又哭又感動的好劇 敲碗第二季啦 本集在《Moving 異能》結局前錄置，進度跟到17集。",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Sep 2023 09:32:19 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "35ec933e3ca0fa48c55a9c930002cfe255445de6d8e52d9c1e6da3accd55b1b9",
+      "guid": "dce0616e-b20a-4772-b4a9-c48e208e0479",
+      "title": {
+        "text": "《龍族前傳House of the Dragon》第十集，第一季精彩大結局，龍戰與黑女王",
+        "truncated": false
+      },
+      "description": {
+        "text": "終於！第十集來了 第一次這樣從頭到尾錄音追劇，對我跟陳陳來說都是一大挑戰 不過為了心愛的龍族前傳我們做到了 說回這部劇，個人認為大結局完全不負期待 至於為什麼覺得好看，就來聽我們聊聊吧！",
+        "truncated": false
+      },
+      "published_at": "Sun, 30 Oct 2022 05:26:00 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "867a56368c576d2ce30dc1cfbaa7ff77ab0ca72f5ff8764debd15ac538212580",
+      "guid": "7071adfc-f732-4386-a355-e3b31fff00e2",
+      "title": {
+        "text": "《龍族前傳House of the Dragon》第四集，關於公主情史之謎，影集終於給了答案",
+        "truncated": false
+      },
+      "description": {
+        "text": "原著《血火同源》中，雷妮拉與科爾爵士，以及親叔叔戴蒙王子的三角關係一直撲朔迷離 更涉及到公主的清譽（在這邊說得很委婉） 那究竟醜聞的真相如何呢？原著裡一直眾說紛紜，讀者靠想像與線索拼湊答案 影集《龍族前傳》就很好心的把始末都演給你看 我覺得王國之光雷妮拉，如何從少女變為女人的心境歷程非常有趣 歡迎大家點開本集收聽我與陳陳的討論！",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Sep 2022 14:09:46 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "06d7baedd8f35881704ebadfa672e3ee8a03681a0c9e4091bb0474f69c345cde",
+      "guid": "72108a4c-6797-414a-8a49-1ad19948afcb",
+      "title": {
+        "text": "鬼月特輯之鬼話連篇，撞鬼經驗分享、清大台大東吳校園傳說、西寧國宅、PTT飄版好文推薦",
+        "truncated": false
+      },
+      "description": {
+        "text": "上集與Ting、阿保開啟鬼月特輯，結果聊上癮 這次繼續鬼話連篇 分享我們親身經歷的撞鬼經驗 讀書人Ting帶來清大人社院與台大醉月湖的校園傳說 力力分享東吳大學與鄭成功廟的故事 鬼屋系列也繼續，阿保分享全台十大鬼屋 也深入介紹萬華區有名的西寧國宅 另外，我們三人也曾一起勇闖桃園鬼飯店探班《馗降：粽邪2》拍攝現場 沒想到當晚竟然妖風大作、吹狗螺等詭異狀況發生 想知道更多細節，就別錯過我們這集的內容！ 最後彩蛋送上PTT飄版精華區好文推薦 希望大家還喜歡囉！",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 Aug 2022 13:45:29 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "177cfbd6c00850cd4d4583b4fcc020667077eb2de1234d38f452ea663422d6d7",
+      "guid": "1adda46a-b946-4890-b0a2-0f5e8f5f0d85",
+      "title": {
+        "text": "#閒聊│夏日香水特輯！兩個香水迷的夏天寶藏香大公開",
+        "truncated": false
+      },
+      "description": {
+        "text": "不專業警告（但有品味） 今天不聊電影不講影劇不看書 力力跟Ting大公開夏日必備香水 每一瓶都真心推、沒業配（拜託請來業配一下） 夏天想噴香水，但怕味道太重擾民嗎？那你一定要來聽聽這集 女香、中性香甚至男香都有 一起進入香水的世界吧！ 推薦香水名單： 解放橘郡 像你這樣的人 Marc Jacobs小黃瓜 Goutal 濟州島茶 Acqua Di Parma 無花果 Acqua Di Parma 桃金娘加州桂 Acqua Di Parma 青柚 TOM FORD 暖陽橙花 愛馬仕 橘綠之泉古龍水 Maison Margiela 慵懶週末 FREDERIC MALLE 紫丁香 歐瓏 無極烏龍 愛馬仕 屋頂花園 La Belle Mèche 翻玩薄荷古龍水",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 May 2022 09:00:39 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "9fb3e1c74a84067c69ca949f53005cba2dd4512b08496d10ecb83f852e8e2129",
+      "guid": "dabf3782-80dd-4f91-886f-877e15792c57",
+      "title": {
+        "text": "哈利波特20週年！還記得麻瓜與魔法世界相遇的感動嗎？",
+        "truncated": false
+      },
+      "description": {
+        "text": "因為玩手遊再次深陷魔法世界走不出來，把小說跟電影都重看了好幾遍！ 找來同樣身為資深哈迷的糖果大聊特聊 20年過去，兩位粉絲說起哈利波特，除了滿滿回憶殺 也找回當年愛上這故事的感動 哈利波特真的太多可以說了，還會再繼續分享，大家敬請期待",
+        "truncated": false
+      },
+      "published_at": "Sun, 13 Mar 2022 09:54:20 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "4ffcbcbb2e75d56fba3fcbd1796e37cb6a8ca1b760e661892b129aaffdeba685",
+      "guid": "b353ac1d-c510-4972-80d4-57c997876316",
+      "title": {
+        "text": "【力力看書】EP1：少女心從清朝到2020都一樣 看《紅樓夢》最美的告白",
+        "truncated": false
+      },
+      "description": {
+        "text": "從文學經典紅樓夢中 看到古今以來不變的人性與雋永的愛情",
+        "truncated": false
+      },
+      "published_at": "Sun, 23 Aug 2020 07:03:57 GMT",
+      "feed_index": 46
+    }
+  ]
+}

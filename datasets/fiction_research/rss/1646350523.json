@@ -1,0 +1,7 @@
+{
+  "show_id": "1646350523",
+  "feed_url": "https://www.ibo-ad.com/my_rss.php?sid=2089&sbid=20292",
+  "fetched_at": "2026-10-25T14:57:02.846222+00:00",
+  "status": "error",
+  "error": "not well-formed (invalid token): line 1, column 1092"
+}

@@ -1,0 +1,294 @@
+{
+  "split": "dev",
+  "status": "not_measured_no_human_labels",
+  "independent": false,
+  "formal": {
+    "show": {
+      "count": 0,
+      "confusion": {},
+      "fiction_block_recall": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "nonfiction_false_block_rate": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "precision": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "review_rate": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "uncertain_blocked": 0,
+      "subtype": {}
+    },
+    "episode": {
+      "count": 0,
+      "confusion": {},
+      "fiction_block_recall": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "nonfiction_false_block_rate": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "precision": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "review_rate": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "uncertain_blocked": 0,
+      "subtype": {}
+    }
+  },
+  "agent_exploratory": {
+    "show": {
+      "count": 65,
+      "confusion": {
+        "nonfiction/allow": 27,
+        "uncertain/allow": 8,
+        "fiction/block": 22,
+        "fiction/allow": 3,
+        "fiction/review": 3,
+        "uncertain/block": 1,
+        "uncertain/review": 1
+      },
+      "fiction_block_recall": {
+        "n": 22,
+        "d": 28,
+        "value": 0.7857142857142857,
+        "wilson95": [
+          0.6046141434627812,
+          0.8978753966710211
+        ]
+      },
+      "nonfiction_false_block_rate": {
+        "n": 0,
+        "d": 27,
+        "value": 0.0,
+        "wilson95": [
+          0,
+          0.12455502974186705
+        ]
+      },
+      "precision": {
+        "n": 22,
+        "d": 22,
+        "value": 1.0,
+        "wilson95": [
+          0.8513451253913791,
+          1
+        ]
+      },
+      "review_rate": {
+        "n": 4,
+        "d": 65,
+        "value": 0.06153846153846154,
+        "wilson95": [
+          0.024189054966350286,
+          0.1478215186552319
+        ]
+      },
+      "uncertain_blocked": 1,
+      "subtype": {
+        "audio_drama": {
+          "n": 4,
+          "d": 4,
+          "value": 1.0,
+          "wilson95": [
+            0.5101091635454027,
+            1
+          ]
+        },
+        "children": {
+          "n": 4,
+          "d": 5,
+          "value": 0.8,
+          "wilson95": [
+            0.37553462976252533,
+            0.9637758913675698
+          ]
+        },
+        "classic_literature": {
+          "n": 1,
+          "d": 1,
+          "value": 1.0,
+          "wilson95": [
+            0.20654931437723745,
+            1
+          ]
+        },
+        "contemporary": {
+          "n": 1,
+          "d": 1,
+          "value": 1.0,
+          "wilson95": [
+            0.20654931437723745,
+            1
+          ]
+        },
+        "fantasy": {
+          "n": 1,
+          "d": 1,
+          "value": 1.0,
+          "wilson95": [
+            0.20654931437723745,
+            1
+          ]
+        },
+        "horror": {
+          "n": 1,
+          "d": 1,
+          "value": 1.0,
+          "wilson95": [
+            0.20654931437723745,
+            1
+          ]
+        },
+        "romance": {
+          "n": 1,
+          "d": 2,
+          "value": 0.5,
+          "wilson95": [
+            0.09453120573423074,
+            0.9054687942657693
+          ]
+        },
+        "science_fiction": {
+          "n": 3,
+          "d": 4,
+          "value": 0.75,
+          "wilson95": [
+            0.30064184258240184,
+            0.9544127391902995
+          ]
+        },
+        "suspense": {
+          "n": 4,
+          "d": 5,
+          "value": 0.8,
+          "wilson95": [
+            0.37553462976252533,
+            0.9637758913675698
+          ]
+        },
+        "time_travel": {
+          "n": 0,
+          "d": 1,
+          "value": 0.0,
+          "wilson95": [
+            0,
+            0.7934506856227626
+          ]
+        },
+        "wuxia": {
+          "n": 2,
+          "d": 3,
+          "value": 0.6666666666666666,
+          "wilson95": [
+            0.2076596008020477,
+            0.9385080552796037
+          ]
+        }
+      }
+    },
+    "episode": {
+      "count": 9,
+      "confusion": {
+        "nonfiction/allow": 2,
+        "fiction/block": 3,
+        "uncertain/block": 1,
+        "nonfiction/block": 2,
+        "fiction/review": 1
+      },
+      "fiction_block_recall": {
+        "n": 3,
+        "d": 4,
+        "value": 0.75,
+        "wilson95": [
+          0.30064184258240184,
+          0.9544127391902995
+        ]
+      },
+      "nonfiction_false_block_rate": {
+        "n": 2,
+        "d": 4,
+        "value": 0.5,
+        "wilson95": [
+          0.15003898915214947,
+          0.8499610108478506
+        ]
+      },
+      "precision": {
+        "n": 3,
+        "d": 5,
+        "value": 0.6,
+        "wilson95": [
+          0.2307242812760128,
+          0.882379225767352
+        ]
+      },
+      "review_rate": {
+        "n": 1,
+        "d": 9,
+        "value": 0.1111111111111111,
+        "wilson95": [
+          0.019890887638544907,
+          0.434999705576656
+        ]
+      },
+      "uncertain_blocked": 1,
+      "subtype": {
+        "audio_drama": {
+          "n": 2,
+          "d": 3,
+          "value": 0.6666666666666666,
+          "wilson95": [
+            0.2076596008020477,
+            0.9385080552796037
+          ]
+        },
+        "science_fiction": {
+          "n": 1,
+          "d": 1,
+          "value": 1.0,
+          "wilson95": [
+            0.20654931437723745,
+            1
+          ]
+        }
+      }
+    }
+  },
+  "all_predictions": {
+    "show/allow": 460,
+    "episode/allow": 3391,
+    "show/review": 1348,
+    "show/block": 235,
+    "episode/block": 756,
+    "episode/review": 277
+  }
+}

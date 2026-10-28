@@ -1,0 +1,7 @@
+{
+  "show_id": "1068175454",
+  "feed_url": "http://rss.lizhi.fm/rss/1693637.xml",
+  "fetched_at": "2026-10-25T14:46:59.771025+00:00",
+  "status": "error",
+  "error": "response exceeds bounded metadata limit"
+}

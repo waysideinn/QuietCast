@@ -1,0 +1,140 @@
+{
+  "show_id": "1146322285",
+  "feed_url": "http://www.ximalaya.com/album/3517813.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/3517813.xml",
+    "final_url": "http://www.ximalaya.com/album/3517813.xml",
+    "fetched_at": "2026-10-25T14:47:22.800410+00:00",
+    "status": 200,
+    "sha256": "3316c28dc5413d339c065c7b3a26bf67b1ee816da280f99f36d727882c3fac12"
+  },
+  "status": "ok",
+  "title": {
+    "text": "晓鹿读书好文分享",
+    "truncated": false
+  },
+  "description": {
+    "text": "关注我们，跟 我们一起成为有力量的人",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 117,
+  "episodes": [
+    {
+      "id": "54ffa11459d7397c3bab83723891a9e694bd5bb2b72386d201ff1f57d352494c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group18/M06/F8/EA/wKgJJVfWY2nQhne1AGHtZzegOE4478.m4a",
+      "title": {
+        "text": "我们为什么会讨厌一个优秀的人1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 12 Sep 2016 08:14:43 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f06de982d819def450d74d650c474eba9b605ba41fd22d4b36dff7764c0cc7b1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group22/M07/5B/D1/wKgJM1gz2i3gMy_9AEfol5V-Omw917.m4a",
+      "title": {
+        "text": "你走吧，我不送！",
+        "truncated": false
+      },
+      "description": {
+        "text": "微信公号：鹿鸣悠悠 主播：鹿小姐",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Nov 2016 08:00:01 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "4289d34162645e6abc665be2adc0260236ca477176450680a145be1bfe512aa6",
+      "guid": "https://aod.cos.tx.xmcdn.com/group17/M04/DE/CC/wKgJKVfM6OShaf5aAMRAmTRrn5M203.mp3",
+      "title": {
+        "text": "风度，一种不动声色的力量",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Sep 2016 03:44:33 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "213b4d9a19bc7c50b589a8bd0558ccb77c8a49ae4004c36cc4b0a0e34af3118b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group8/M00/A2/E4/wKgDYVd2J3zCPj_LAG0tYcSsoDk213.mp3",
+      "title": {
+        "text": "婚姻不能给的，梦想能！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 01 Jul 2016 08:19:53 GMT",
+      "feed_index": 50
+    },
+    {
+      "id": "1d82f64c5cffe8da3aff7df75afa210309a0828890618139a999ef31864f4e8d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M0A/82/48/wKgDZldNa13SFtA5APV5akNwypY617.mp3",
+      "title": {
+        "text": "你愿意做一个挣钱的人还是一个之前的人",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 May 2016 10:46:58 GMT",
+      "feed_index": 66
+    },
+    {
+      "id": "3f9f952c0efcf3643ba2d685f8b7087c5929d16fb44cfe729e80dc890ebd353b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group14/M00/45/A0/wKgDZFcOF7eCykJRAPr8B1yw1U8981.mp3",
+      "title": {
+        "text": "不离不弃",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 13 Apr 2016 09:56:40 GMT",
+      "feed_index": 83
+    },
+    {
+      "id": "bc26c7e6300d2b1c0532401e80c1c4d198d654cbb0f1786fdd4689403bfd744e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group7/M09/24/12/wKgDWlbpJjCzL6tpAQNzwxpwRRg386.mp3",
+      "title": {
+        "text": "不要做那个主动切断联系的人",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Mar 2016 09:24:57 GMT",
+      "feed_index": 99
+    },
+    {
+      "id": "7ca30e0e947f684abd60c29de820eb96fed336cb75a7754c9c65284f8681a580",
+      "guid": "https://aod.cos.tx.xmcdn.com/group13/M07/DF/93/wKgDXlaNLGjiXtgxACd63twnY24895.m4a",
+      "title": {
+        "text": "终于等到你",
+        "truncated": false
+      },
+      "description": {
+        "text": "温暖治愈",
+        "truncated": false
+      },
+      "published_at": "Wed, 06 Jan 2016 15:04:03 GMT",
+      "feed_index": 116
+    }
+  ]
+}

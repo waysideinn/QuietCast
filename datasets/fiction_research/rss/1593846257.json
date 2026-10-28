@@ -1,0 +1,140 @@
+{
+  "show_id": "1593846257",
+  "feed_url": "http://www.ximalaya.com/album/53536301.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/53536301.xml",
+    "final_url": "http://www.ximalaya.com/album/53536301.xml",
+    "fetched_at": "2026-10-25T14:43:23.536602+00:00",
+    "status": 200,
+    "sha256": "f722a33676afbbd36e73715af5701b280a14080a2e8e4045bbe745d91202db99"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【爆笑穿越】后宫女配她太难",
+    "truncated": false
+  },
+  "description": {
+    "text": "怜惜一朝穿越成了一本小说中的女配 严格来说，是死状极其惨烈的女炮灰 怜惜哭唧唧，与其惨死. 不如先对自己下手为敬，起码不用那么痛苦 于是她开始了爆笑求死之路…… 暴戻残酷只喜爱杀人的皇上：怜贵人脑子？？？ 后宫佳丽：她有病！！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 78,
+  "episodes": [
+    {
+      "id": "fa4c698e8710c72eac0933752467577e85968237ab596cd004bc3d8ac0194cba",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d32d-audiofreehighqps/CC/E8/CKwRIRwFPG4BAEuOdADsNcvG.m4a",
+      "title": {
+        "text": "后宫女配她太难 01 求订阅",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 Oct 2021 04:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "727ececc32eae4df454762f8d1327b5699c4b580ded3d43ce9a171190c043428",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3d4e-audiofreehighqps/D2/11/CKwRIRwFMM6mAGutsADpZ-FS-aacv2-48K.m4a",
+      "title": {
+        "text": "后宫女配她太难 12",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 14 Oct 2021 08:00:02 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "dedf43b418fcf2f41ea6251c9ca605b13a85b4d2d01d963b72f8840f6e710ab3",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/bc20-audiofreehighqps/95/CA/CKwRIaIFMtTqAGYRkgDp1a2j-aacv2-48K.m4a",
+      "title": {
+        "text": "后宫女配她太难 23",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Oct 2021 04:00:00 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "7ec5ec22a211c64f8b8a228fd507ce62d3368ffd5fc277d05807f24b0e6d51fe",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/39c0-audiofreehighqps/26/62/CKwRIW4FPIuPAFInKADsQVoB-aacv2-48K.m4a",
+      "title": {
+        "text": "后宫女配她太难 34",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Oct 2021 04:00:02 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "1baec3f6753016bdb86318a699e7d8b24cfe1b2ba4bad33c5dd92fe5af302740",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/af2b-audiofreehighqps/11/FA/CKwRIasFUoL_AGKyIQDx2Myt-aacv2-48K.m4a",
+      "title": {
+        "text": "后宫女配她太难 45",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 31 Oct 2021 04:00:00 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "c12ac806fb3e98437102168cd43a63cc31b8fc842cfcc15226bf5aee0ce8fa65",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e93d-audiofreehighqps/44/61/CKwRIRwFWveEAD-zNgD0HpeG.m4a",
+      "title": {
+        "text": "后宫女配她太难 56",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 05 Nov 2021 04:00:02 GMT",
+      "feed_index": 55
+    },
+    {
+      "id": "1d862dfc8a0986add5054e5d9258d7e06a32ed45f4653ce9bad6397805235438",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5ada-audiofreehighqps/91/13/CKwRIJEFXWNSAErJsQD0vXVX-aacv2-48K.m4a",
+      "title": {
+        "text": "后宫女配她太难 67",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 11 Nov 2021 04:00:00 GMT",
+      "feed_index": 66
+    },
+    {
+      "id": "2230647cbe651d6bb138e55b0935a9ce153702be0a5184a35e6cb0ffbadc45d8",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/cfe5-audiofreehighqps/C8/4B/GKwRIMAFZjkHACw0AAD3BlOz-aacv2-48K.m4a",
+      "title": {
+        "text": "后宫女配她太难 78（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Nov 2021 04:00:02 GMT",
+      "feed_index": 77
+    }
+  ]
+}

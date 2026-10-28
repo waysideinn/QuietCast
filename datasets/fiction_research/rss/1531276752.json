@@ -1,0 +1,27 @@
+{
+  "show_id": "1531276752",
+  "feed_url": "http://www.ximalaya.com/album/41184351.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/41184351.xml",
+    "final_url": "http://www.ximalaya.com/album/41184351.xml",
+    "fetched_at": "2026-10-25T14:54:17.766997+00:00",
+    "status": 200,
+    "sha256": "e18869e35702ed11e1ccbf8dbf969c993661e7a668348903cc75252e23fe2d72"
+  },
+  "status": "ok",
+  "title": {
+    "text": "任天堂switch游戏《超级马力欧》马里奥旅行历险",
+    "truncated": false
+  },
+  "description": {
+    "text": "本专辑讲述因桃花公主被酷霸王抢走，马里奥（或译名马力欧）为营救公主，与帽子国精灵凯皮结伴，旅经不同国度一路追踪酷霸王的旅行冒险故事。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 0,
+  "episodes": []
+}

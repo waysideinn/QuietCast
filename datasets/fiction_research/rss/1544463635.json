@@ -1,0 +1,140 @@
+{
+  "show_id": "1544463635",
+  "feed_url": "http://www.ximalaya.com/album/43285608.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/43285608.xml",
+    "final_url": "http://www.ximalaya.com/album/43285608.xml",
+    "fetched_at": "2026-10-25T14:51:30.940701+00:00",
+    "status": 200,
+    "sha256": "d7a4d5a4e6cba882cface85a14b713f1c2396cf45d443b06d6e6c4674f141f57"
+  },
+  "status": "ok",
+  "title": {
+    "text": "耳听《新三国》| 带你免费速听整部三国演义",
+    "truncated": false
+  },
+  "description": {
+    "text": "东汉末年，山河动荡，刘汉王朝气数将尽。内有十常侍颠倒黑白，祸乱朝纲；外有张氏兄弟高呼“苍天当死，黄天当立”的口号，掀起浩大的农民起义。一时间狼烟四起，战火熊熊，刘家的朝廷宛如大厦将倾，岌岌可危。 正所谓乱世出英雄，曹操、公孙瓒、袁术、袁绍、吕布、刘备、孙策、关羽、张飞、诸葛亮等各路豪杰不断涌现，从群雄逐鹿到赤壁之战，从魏蜀吴三国鼎立到三分归一统，波澜壮阔的三国时代的大幕缓缓拉开……",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 109,
+  "episodes": [
+    {
+      "id": "06e0f75e84ce94c37359a8177635d086508cc51539a49a050a0467acee66289b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/455d-audiofreehighqps/24/2B/CMCoOScDcVM6AC2u3gBh9Mhh-aacv2-48K.m4a",
+      "title": {
+        "text": "耳听《新三国》 第1回 王司徒宝刀赠奸雄，曹阿瞒妙计脱险境",
+        "truncated": false
+      },
+      "description": {
+        "text": "王司徒宝刀赠奸雄，曹阿瞒妙计脱险境",
+        "truncated": false
+      },
+      "published_at": "Fri, 30 Oct 2020 04:00:42 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d7bc1b40f95096bfc65af16a188d3600bde1149fbc1bbf1e4dcd8e8eac65a64b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/522d-audiofreehighqps/DC/24/CMCoOSADcprUACIP0ABiQxsa-aacv2-48K.m4a",
+      "title": {
+        "text": "耳听《新三国》第16回 曹操粮草告急，借粮官人头稳定军心",
+        "truncated": false
+      },
+      "description": {
+        "text": "曹操粮草告急，借粮官人头稳定军心",
+        "truncated": false
+      },
+      "published_at": "Sat, 31 Oct 2020 03:19:44 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "323e98ea4ae4a5ce5beecfe024e45ea6aaedb7d0fb08483123c36f22d681ab2b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/dc4f-audiofreehighqps/71/9A/CMCoOSIDdUfaACvzYwBi0nbX-aacv2-48K.m4a",
+      "title": {
+        "text": "耳听《新三国》第32回 徐庶计破八门金锁阵",
+        "truncated": false
+      },
+      "description": {
+        "text": "徐庶计破八门金锁阵",
+        "truncated": false
+      },
+      "published_at": "Mon, 02 Nov 2020 04:00:54 GMT",
+      "feed_index": 31
+    },
+    {
+      "id": "a9b7289a76319c816d785af5d6b7b859d85e84b9f292fe6ccc3136a6c9486251",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a47a-audiofreehighqps/0C/75/CMCoOSIDdpnDADDt_gBjKg80-aacv2-48K.m4a",
+      "title": {
+        "text": "耳听《新三国》第47回 曹仁也有空城计，诸葛巧取南郡地",
+        "truncated": false
+      },
+      "description": {
+        "text": "曹仁也有空城计，诸葛巧取南郡地",
+        "truncated": false
+      },
+      "published_at": "Tue, 03 Nov 2020 04:01:12 GMT",
+      "feed_index": 46
+    },
+    {
+      "id": "e68eaa1a295601018ba906305dead136f811a2b65c53184c25b55444d936d76e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2eef-audiofreehighqps/3E/DD/CMCoOSEDeTxpADvFVQBj2g6U-aacv2-48K.m4a",
+      "title": {
+        "text": "耳听《新三国》第63回 韩遂反目，张松投曹",
+        "truncated": false
+      },
+      "description": {
+        "text": "韩遂反目，张松投曹",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 Nov 2020 04:01:11 GMT",
+      "feed_index": 62
+    },
+    {
+      "id": "fea4f9a97c870c7388036654dc47a24dd6432e51f4cac4cb394e03d7e56f849c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/290a-audiofreehighqps/8F/28/CMCoOR8Deo3YAD6GLwBkLt-W-aacv2-48K.m4a",
+      "title": {
+        "text": "耳听《新三国》第78回 汉献帝溺水身亡 四百年王朝终灭亡",
+        "truncated": false
+      },
+      "description": {
+        "text": "汉献帝溺水身亡 四百年王朝终灭亡",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 Nov 2020 04:01:22 GMT",
+      "feed_index": 77
+    },
+    {
+      "id": "0f5fa75dc6e30532cbd3067017a8f43462d30e99aab2fb9c80beba8019871c35",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0f80-audiofreehighqps/6F/D6/CMCoOSIDerZmADVekgBkNlp5-aacv2-48K.m4a",
+      "title": {
+        "text": "耳听《新三国》第94回 诸葛空城退司马，挥泪斩马谡",
+        "truncated": false
+      },
+      "description": {
+        "text": "诸葛空城退司马，挥泪斩马谡",
+        "truncated": false
+      },
+      "published_at": "Sun, 08 Nov 2020 04:01:11 GMT",
+      "feed_index": 93
+    },
+    {
+      "id": "3252c41f6d6f829750e81341ec19c280864e45922b1fd61206d2b5936a0b5677",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4342-audiofreehighqps/D7/A8/CMCoOSADg8V-AAjrqwBmcaIv-aacv2-48K.m4a",
+      "title": {
+        "text": "耳听《新三国》终",
+        "truncated": false
+      },
+      "description": {
+        "text": "王濬楼船下益州，金陵王气黯然收。 千寻铁锁沉江底，一片降幡出石头。 人世几回伤往事，山形依旧枕寒流。 从今四海为家日，故垒萧萧芦荻秋。 各位听友，大家好。荡气回肠的三国历史有声讲播：耳听《新三国系列 已经全部结束，在此感谢各位听友的支持与鼓励，欢迎大家收听主播的新专辑， 耳听《水浒传》，关注主播收听更多精彩内容！",
+        "truncated": false
+      },
+      "published_at": "Fri, 13 Nov 2020 03:50:21 GMT",
+      "feed_index": 108
+    }
+  ]
+}

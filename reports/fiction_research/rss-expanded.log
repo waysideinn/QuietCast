@@ -1,0 +1,37 @@
+RSS 25/900 {'cached': 3, 'ok': 17, 'error': 5}
+RSS 50/900 {'cached': 8, 'ok': 35, 'error': 7}
+RSS 75/900 {'cached': 11, 'ok': 56, 'error': 8}
+RSS 100/900 {'cached': 18, 'ok': 72, 'error': 10}
+RSS 125/900 {'cached': 22, 'ok': 89, 'error': 14}
+RSS 150/900 {'cached': 25, 'ok': 107, 'error': 18}
+RSS 175/900 {'cached': 33, 'ok': 121, 'error': 21}
+RSS 200/900 {'cached': 35, 'ok': 140, 'error': 24, 'no-feed': 1}
+RSS 225/900 {'cached': 38, 'ok': 158, 'error': 28, 'no-feed': 1}
+RSS 250/900 {'cached': 43, 'ok': 177, 'error': 29, 'no-feed': 1}
+RSS 275/900 {'cached': 46, 'ok': 193, 'error': 35, 'no-feed': 1}
+RSS 300/900 {'cached': 46, 'ok': 214, 'error': 38, 'no-feed': 2}
+RSS 325/900 {'cached': 52, 'ok': 230, 'error': 41, 'no-feed': 2}
+RSS 350/900 {'cached': 55, 'ok': 250, 'error': 43, 'no-feed': 2}
+RSS 375/900 {'cached': 58, 'ok': 271, 'error': 44, 'no-feed': 2}
+RSS 400/900 {'cached': 65, 'ok': 286, 'error': 47, 'no-feed': 2}
+RSS 425/900 {'cached': 71, 'ok': 302, 'error': 50, 'no-feed': 2}
+RSS 450/900 {'cached': 77, 'ok': 318, 'error': 53, 'no-feed': 2}
+RSS 475/900 {'cached': 84, 'ok': 335, 'error': 54, 'no-feed': 2}
+RSS 500/900 {'cached': 90, 'ok': 352, 'error': 55, 'no-feed': 3}
+RSS 525/900 {'cached': 97, 'ok': 366, 'error': 59, 'no-feed': 3}
+RSS 550/900 {'cached': 104, 'ok': 380, 'error': 63, 'no-feed': 3}
+RSS 575/900 {'cached': 110, 'ok': 396, 'error': 66, 'no-feed': 3}
+RSS 600/900 {'cached': 115, 'ok': 415, 'error': 67, 'no-feed': 3}
+RSS 625/900 {'cached': 121, 'ok': 432, 'error': 69, 'no-feed': 3}
+RSS 650/900 {'cached': 126, 'ok': 450, 'error': 71, 'no-feed': 3}
+RSS 675/900 {'cached': 129, 'ok': 467, 'error': 76, 'no-feed': 3}
+RSS 700/900 {'cached': 135, 'ok': 483, 'error': 79, 'no-feed': 3}
+RSS 725/900 {'cached': 140, 'ok': 502, 'error': 80, 'no-feed': 3}
+RSS 750/900 {'cached': 148, 'ok': 518, 'error': 81, 'no-feed': 3}
+RSS 775/900 {'cached': 153, 'ok': 536, 'error': 83, 'no-feed': 3}
+RSS 800/900 {'cached': 158, 'ok': 554, 'error': 85, 'no-feed': 3}
+RSS 825/900 {'cached': 164, 'ok': 570, 'error': 88, 'no-feed': 3}
+RSS 850/900 {'cached': 171, 'ok': 584, 'error': 92, 'no-feed': 3}
+RSS 875/900 {'cached': 177, 'ok': 602, 'error': 93, 'no-feed': 3}
+RSS 900/900 {'cached': 185, 'ok': 618, 'error': 94, 'no-feed': 3}
+{'cached': 185, 'ok': 618, 'error': 94, 'no-feed': 3}

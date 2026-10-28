@@ -1,0 +1,107 @@
+{
+  "group": "normal",
+  "term": "教育播客",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%95%99%E8%82%B2%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%95%99%E8%82%B2%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:43:11.835644+00:00",
+    "status": 200,
+    "sha256": "697d9d07f9e7580cd7b138c3dc3213a25aed926a38f9d674c846fcac70701c8c"
+  },
+  "result_count": 4,
+  "records": [
+    {
+      "collectionId": 6810939055,
+      "trackId": 6810939055,
+      "collectionName": "伊甸圣经长老会 - 信徒教育播客",
+      "artistName": "Eden Bible Presbyterian Church",
+      "feedUrl": "https://anchor.fm/s/1151e7cf4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BC%8A%E7%94%B8%E5%9C%A3%E7%BB%8F%E9%95%BF%E8%80%81%E4%BC%9A-%E4%BF%A1%E5%BE%92%E6%95%99%E8%82%B2%E6%92%AD%E5%AE%A2/id6810939055?uo=4",
+      "genres": [
+        "基督教",
+        "Podcast",
+        "宗教與精神生活"
+      ],
+      "genreIds": [
+        "1439",
+        "26",
+        "1314"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2026-10-12T01:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "基督教"
+    },
+    {
+      "collectionId": 1673268188,
+      "trackId": 1673268188,
+      "collectionName": "教育播客站",
+      "artistName": "國教院 X 好好聽FM",
+      "feedUrl": "https://feed.firstory.me/rss/user/cledxsp3f004y01v33lf560i9",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%95%99%E8%82%B2%E6%92%AD%E5%AE%A2%E7%AB%99/id1673268188?uo=4",
+      "genres": [
+        "課程",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304"
+      ],
+      "trackCount": 6,
+      "releaseDate": "2023-06-14T02:09:00Z",
+      "country": "TWN",
+      "primaryGenreName": "課程"
+    },
+    {
+      "collectionId": 1577491659,
+      "trackId": 1577491659,
+      "collectionName": "史播客",
+      "artistName": "教育部歷史學科中心｜國立嘉義女中",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/e9ce0c40-9b4a-41e2-a19e-db9e5aeca3f7.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8F%B2%E6%92%AD%E5%AE%A2/id1577491659?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1487"
+      ],
+      "trackCount": 113,
+      "releaseDate": "2025-01-09T12:41:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1554289906,
+      "trackId": 1554289906,
+      "collectionName": "拳人教育whywomenfist",
+      "artistName": "拳人教育whywomenfist播客",
+      "feedUrl": "http://www.ximalaya.com/album/46798811.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%8B%B3%E4%BA%BA%E6%95%99%E8%82%B2whywomenfist/id1554289906?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2022-06-28T09:49:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    }
+  ]
+}

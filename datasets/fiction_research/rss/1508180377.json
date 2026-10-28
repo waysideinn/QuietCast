@@ -1,0 +1,140 @@
+{
+  "show_id": "1508180377",
+  "feed_url": "https://feeds.soundon.fm/podcasts/cc088bd1-d7a5-47aa-9ab6-5673cd2418cf.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/cc088bd1-d7a5-47aa-9ab6-5673cd2418cf.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/cc088bd1-d7a5-47aa-9ab6-5673cd2418cf.xml",
+    "fetched_at": "2026-10-25T14:49:58.263413+00:00",
+    "status": 200,
+    "sha256": "0a71149f09f39d9636c41cc24b0c6cb779a32376f25d5c6774eae67b5b68d806"
+  },
+  "status": "ok",
+  "title": {
+    "text": "說說心理話",
+    "truncated": false
+  },
+  "description": {
+    "text": "Hi 我是安，是一名諮商心理師 ＆ 行銷工作者! 在這裡聊聊自我成長、生活中與你我有關的關係與心理議題， 也跟你分享我的故事! 觀看更多心理學內容：https://reurl.cc/dQdVmy 小額贊助，支持安繼續創作：https://bit.ly/3aaSQ7b -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 164,
+  "episodes": [
+    {
+      "id": "6fb6723921b8a40eb494c30225a8d3da6d129203b19fff9a9d6269e54102e4c7",
+      "guid": "4f7c24c3-2cf4-4c5b-8867-0926d251d49b",
+      "title": {
+        "text": "為什麼他很愛我，我卻感受不到？",
+        "truncated": false
+      },
+      "description": {
+        "text": "我知道他很愛，卻總感覺少了什麼？ 「腦袋知道」和「感受」到的差異，到底在哪裡？ 不是你貪心，真正的原因可能來自…（趕快去 Podcast 收聽） 今天就來跟你聊聊這個主題。 更多心理學內容： https://speakoutinsight.com/#podcast 一對一諮詢預約： https://forms.gle/HmG3pWgTLojftT9U7 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Oct 2026 10:30:19 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "94da487ba78e46fe9def2aff68a61b07b0730f9ca3c6207a1c1175676b0671d2",
+      "guid": "c05d6cd2-9d6a-4c43-b9ef-dd9d8a5ac40e",
+      "title": {
+        "text": "是什麼拖住改變的腳步？認識潛在的心理阻礙！",
+        "truncated": false
+      },
+      "description": {
+        "text": "突破舒適圈有多難？一步的距離常常要跨好久。 那是因為我們尋求安逸的本能！ 究竟該怎麼跨出那一步，做出改變？要先從辨識你的恐懼在說什麼開始 聽完這一集，留言跟我分享，新的一年你最想做出什麼改變吧！ ---------------------------------------------------------------------------------------------------------------------------- 收聽更多【說說心理話】單集： https://speakoutinsight.soci.vip/ 說說心理話的 IG： https://www.instagram.com/lifeisariddle/ 歡迎抖內節目，支持安持續創作更新： https://pse.is/3jewmx 找安諮商-->馨思診所: 02-33933369 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Jan 2025 15:18:04 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "1e2965f6586bee0160b07ff664782dc87398b9e6a4699e2499b23b7cf102ed54",
+      "guid": "873828be-4316-41f5-befd-8223bae16e12",
+      "title": {
+        "text": "S3 #25 自由與責任的兩難，從 [海賊王] 中學習放手與祝福",
+        "truncated": false
+      },
+      "description": {
+        "text": "10月實體活動早鳥倒數： https://forms.gle/KjtvwL63M4VSUKmaA 你們有看海賊/航海王的真人版嗎？ 真的是重溫童年回憶，但長大後被感動和看到的是不一樣的內容！ 其中一段更是讓我動容，忍不住想錄一集跟你們分享。 在夢想與責任中，我能夠任性追夢嗎？還是應該先扮演好自己的角色？ 在想要抓住關係與放手成全中，我該綁住對方，還是放手讓他飛翔？ 或許你也曾出現過這樣的兩難，在不可能完美的選擇中， 我們如何做出真正為自己負責的選擇？ 收聽這一集，從海賊王的故事聽聽他們是如何選擇，我又是如何看待的吧！ ------------------------------------------------------------------------------------------------------------ 收聽更多【說說心理話】單集： https://speakoutinsight.soci.vip/ 說說心理話的 IG： https://www.instagram.com/lifeisariddle/ 歡迎抖內節目，支持安持續創作更新： https://pse.is/3jewmx -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 18 Sep 2023 04:11:52 GMT",
+      "feed_index": 47
+    },
+    {
+      "id": "c3bcb0459ecf26a0c4daa800f32dc1a453e9a0193abfc3bd7dd282399e2ca66d",
+      "guid": "3a92f7c3-5a70-4c64-b930-34cf349dd20f",
+      "title": {
+        "text": "S3 #03 在交友軟體上脫單經驗！我們的使用心得＆遇過的地雷人 -ft. 君君",
+        "truncated": false
+      },
+      "description": {
+        "text": "交友軟體到底是什麼樣的地方？尋求溫暖、認識朋友，還是尋求一夜歡愉？ 今天就跟大家分享我們親身使用心得、從中交到朋友甚至脫單的經驗！ 當然還有一些地雷人，也會跟你們分享，到底要怎麼在交友軟體上聊天、約見面後如何相處？ 提供一些交友相處的小技巧給你們參考，希望大家使用愉快！哈哈哈哈哈 ----------------------------------------------------------------------------------------- 收聽更多【說說心理話】單集： https://taplink.cc/lifeisariddle 說說心理話的 IG： https://www.instagram.com/lifeisariddle/ 歡迎抖內節目，支持安持續創作更新： https://pse.is/3jewmx -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 09 Jul 2022 12:00:10 GMT",
+      "feed_index": 70
+    },
+    {
+      "id": "e2b1b3d83264d8dde26ef381a057fb7eaccacf331d642e55003b7141ebc48f68",
+      "guid": "d27ed14f-f278-42f6-b633-6418d243adde",
+      "title": {
+        "text": "S2 #49 你是否帶著濾鏡看世界？其實我們都有對自己的誤解 -ft. 君君",
+        "truncated": false
+      },
+      "description": {
+        "text": "我們都希望能被正確的認識，不想輕易被定義，但是… 我們卻也常不自覺定義自己？ 這一集輕鬆聊聊我們怎麼看待誤解這件事 被誤解的感受、是否帶著濾鏡看待別人，以及什麼時候，我們也有對自己的誤解？ ----------------------------- 「podcast 自媒體經營」線上講座倒數一週： https://www.accupass.com/go/dn65 說說心理話 IG： https://www.instagram.com/lifeisariddle/ 安的個人 IG： https://www.instagram.com/freelancer.life_ann/ 分享【說說心理話】給朋友： https://taplink.cc/lifeisariddle 歡迎抖內節目，支持安持續創作更新： https://pse.is/3jewmx -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Oct 2021 09:00:08 GMT",
+      "feed_index": 93
+    },
+    {
+      "id": "41a9426ce67527e34482a5ba9e9ceb8b6e826c73cbb09a79aa177eeb02ae128f",
+      "guid": "bdcf0483-765f-4d9d-9fed-301752059d92",
+      "title": {
+        "text": "S2 #26 聊聊我們內心的「討好者」－練習勇敢表達需求吧！ ft. XX冠軍 瑜",
+        "truncated": false
+      },
+      "description": {
+        "text": "大家敲碗已久的半日工作坊，熱騰騰推出啦： https://forms.gle/8uZKHAKYfKTCaRm26 結合「繪畫自我探索 X 故事寫作技巧」，深入內在衝突、理解自己 突破框架、不講美醜的創作過程，自我剖析與詮釋＋細膩有架構的文字表達技巧 這場工作坊是很新的嘗試，試辦場如往常會有價格優惠，歡迎大家一起來玩 <3 這一集邀請瑜跟我一起聊聊我們各自的「討好者」面向。 同時也按照慣例，扮演在感情中的雙方角色和溝通狀態（超級好笑） 如果你也常常委屈自己、配合他人，或許可以從我們的故事中感到共鳴！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Mar 2021 13:02:22 GMT",
+      "feed_index": 116
+    },
+    {
+      "id": "c98f1292443e6f7353e211681c6c9f61901b402cc82cd3817b0e974af36a02bb",
+      "guid": "c865c538-d312-4044-822c-b6a2d712a419",
+      "title": {
+        "text": "S2 #03 你的人生是按照潛意識的劇本演出，認識 TA 理論 - ft. niki",
+        "truncated": false
+      },
+      "description": {
+        "text": "你曾經有常常陷入某個相同的困境嗎？無論是戴太久的「好人面具」，還是總是遇到劈腿的另一半。 這些重複的經歷是有意義的，也是有原因的。 你相信你現在的經歷和你在人際關係中習慣擔任的角色，都是你自己寫下的劇本嗎？ 這一集會跟大家分享我很喜歡的 TA 溝通分析理論的腳本概念。 童年如何影響我們的信念，導致我們在長大的過程中不斷去重複我們熟悉的一切。 也會分享我和 Niki 的腳本是什麼，我們常常在關係中常常處於什麼相似的角色、經歷相似的感受。 我個人蠻喜歡這一集的內容的，不知道對大家來說會不會太難理解。 期待聽到你們的心得，歡迎留言給我！ 在這裡可以贊助、寫信與分享給我：https://linktr.ee/lifeisariddle -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 28 Sep 2020 09:30:30 GMT",
+      "feed_index": 140
+    },
+    {
+      "id": "44aef771dd8aac8caf864983dea879135b4c57ebf8699c4b067db6be7d4e0f3f",
+      "guid": "c3ea9177-a87b-429c-8429-4ebbe505c366",
+      "title": {
+        "text": "#1 聊聊女權(而不是女權自助餐)下的男女",
+        "truncated": false
+      },
+      "description": {
+        "text": "女權≠排擠或打壓男性，真正的女權是「顛覆傳統父權下對男女的限制」 性別議題是每一個人的事，歡迎進來聽聽觀點，聽聽故事。 影片中提到的 ted talk:https://www.ted.com/talks/justinbaldoniwhyimdonetryingtobemanenough 另外，Emma Watson 的演講也很棒： https://www.youtube.com/watch?v=nIwU-9ZTTJc -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 19 Apr 2020 16:01:21 GMT",
+      "feed_index": 163
+    }
+  ]
+}

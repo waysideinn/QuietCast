@@ -1,0 +1,140 @@
+{
+  "show_id": "1356520295",
+  "feed_url": "http://www.ximalaya.com/album/4842217.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/4842217.xml",
+    "final_url": "http://www.ximalaya.com/album/4842217.xml",
+    "fetched_at": "2026-10-25T14:48:26.777757+00:00",
+    "status": 200,
+    "sha256": "8a1b0436b1db85487e8a099c9ce9443bbc138705f14092478167f24aa75b3ceb"
+  },
+  "status": "ok",
+  "title": {
+    "text": "小月姐姐睡前故事电台",
+    "truncated": false
+  },
+  "description": {
+    "text": "本专辑内故事由小月姐姐播讲，独家发布 小月姐姐，国内知名儿童主播、主持人。儿童情商故事播放量全网第一 1、通过催眠音频音调语气情感，让孩子睡前情绪稳定，从而使孩子心态健康，达到身体健康的目的。收到了很多家长神奇效果反馈，一些听众反映重复听催眠效果更好 2、小月姐姐音色极具辨识度，方便从小听到大，姐姐型人格化IP陪伴孩子健康成长 3、小月姐姐晚上8点更新",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 1106,
+  "episodes": [
+    {
+      "id": "d9acc80419a344b81b74fa6cbdf8919d4aed9fd70245cd450f18ab2da19d0baf",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/65ea-audiofreehighqps/EA/E4/GKwRIaIGhberABNmewFuWtrr-aacv2-48K.m4a",
+      "title": {
+        "text": "不脱衣服睡觉的小兔子",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 15 Apr 2021 12:01:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "c43af941c4e217da90ddf6cb1bf74c603a19f3c4e95790e6e6e6197fa04c4f50",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0cc7-audiofreehighqps/EF/80/CKwRIasFEPmUACBP7QDhsejq-aacv2-48K.m4a",
+      "title": {
+        "text": "乐于分享的小狐狸(春节爆更)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 09 Feb 2021 02:50:52 GMT",
+      "feed_index": 158
+    },
+    {
+      "id": "fac5cc7b8bde000d1b8e7f926a6e359ba6c47f041903672b9752089825d84e83",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ee2f-audiofreehighqps/2B/1F/CKwRIJEFEP_pAA1lCgDhtDjp-aacv2-48K.m4a",
+      "title": {
+        "text": "帽子的故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 13 Jul 2019 12:01:00 GMT",
+      "feed_index": 316
+    },
+    {
+      "id": "e1938ffe17577e1b7af94cac87569f1d3238eb06c13cb1fe6855cf06f4bbde61",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4c30-audiofreehighqps/F8/4D/CKwRINsFERBkAAxxRgDhux-t-aacv2-48K.m4a",
+      "title": {
+        "text": "骑白马的苍耳",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 15 Nov 2018 12:00:07 GMT",
+      "feed_index": 474
+    },
+    {
+      "id": "94cf86f2585e4bcf053ed676ed487aea1848a9529bb064be2b42d08646fc22c0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c658-audiofreehighqps/98/1C/CKwRINsFEM8AABV3HgDhoxJf-aacv2-48K.m4a",
+      "title": {
+        "text": "小兔和剪刀",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 01 Jun 2018 11:45:18 GMT",
+      "feed_index": 631
+    },
+    {
+      "id": "cad4dddb8369ae3fa950a7417d55bf32cf13089398790b4ecae3e89aea776c99",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/bca2-audiofreehighqps/CD/75/CKwRIW4FERBdABRdLgDhuxtm-aacv2-48K.m4a",
+      "title": {
+        "text": "大胆儿小鸭",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Mar 2018 14:58:37 GMT",
+      "feed_index": 789
+    },
+    {
+      "id": "cf1e1294ae31a09f6bcd090b3b430750406b892f314ef1dea806143f311add59",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f3d1-audiofreehighqps/A6/50/CKwRIJEFEN5iABIMRwDhqACJ-aacv2-48K.m4a",
+      "title": {
+        "text": "胡桃夹子",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Dec 2017 13:24:07 GMT",
+      "feed_index": 947
+    },
+    {
+      "id": "e7bc90233014432284f4c18b798085b33b0772f823b3dbd84f88a1dabd071538",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6d18-audiofreehighqps/C3/F2/CKwRIJIFEO5iABFanwDhrbMn-aacv2-48K.m4a",
+      "title": {
+        "text": "可爱的雪小熊（动手能力）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 06 Jan 2018 03:17:29 GMT",
+      "feed_index": 1105
+    }
+  ]
+}

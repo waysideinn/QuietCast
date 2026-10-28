@@ -1,0 +1,140 @@
+{
+  "show_id": "1136987802",
+  "feed_url": "http://www.ximalaya.com/album/3536707.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/3536707.xml",
+    "final_url": "http://www.ximalaya.com/album/3536707.xml",
+    "fetched_at": "2026-10-25T14:47:29.391269+00:00",
+    "status": 200,
+    "sha256": "10382d4e1e937db5e4ba4a7b22fc7d77b1ae4cfe5670ab6648e8e941f0b32897"
+  },
+  "status": "ok",
+  "title": {
+    "text": "2016年武汉经济广播《今晚我和你》节目录音",
+    "truncated": false
+  },
+  "description": {
+    "text": "武汉 经济广播 FM100.6 《今晚我和你》节目是一档心理咨询类夜间谈话节目，也是全国民生影响力十佳栏目，专业心理咨询师倾力打造的心理健康节目，每晚亚新等候你、聆听你、陪伴你~~ 节目微信平台号：jwwhn1。听友群号分别是173944801；42366444。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 162,
+  "episodes": [
+    {
+      "id": "3a88c44645c6704a5eb48ddd4e983b6d7606f302ea77cef62848cc69f6173f57",
+      "guid": "https://aod.cos.tx.xmcdn.com/group24/M0A/3E/D3/wKgJNVhvqZWSdwiDAXflv4jgYpA922.m4a",
+      "title": {
+        "text": "今晚我和你—2016年12月30号录音",
+        "truncated": false
+      },
+      "description": {
+        "text": "武汉 经济广播 FM100.6 《今晚我和你》节目是一档心理咨询类夜间谈话节目，也是全国民生影响力十佳栏目，专业心理咨询师倾力打造的心理健康节目，每晚亚新等候你、聆听你、陪伴你~~ 节目微信平台号：jwwhn1。七个听友群号分别是117095104；78917626；117920007；123333703；124545757；90207185；42366444。",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 Jan 2017 14:32:58 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8ef7470d7e3ec5b68aeed886032d299f04c619ff59b12565e474470f2f89c6a7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group25/M07/48/7D/wKgJNlgscF6BjoLRAZ3ebzXTvsM114.mp3",
+      "title": {
+        "text": "今晚我和你—2016年11月14号录音",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Nov 2016 14:42:44 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "b8b3d9c70b1fe0abdc76e72fa7f5f7605194d66d1eeb78bcb6c559dda257064f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group17/M08/4E/67/wKgJJFfxxDGwgmHAA1X0X4FAWZE567.mp3",
+      "title": {
+        "text": "今晚我和你—2016年9月29号录音",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 03 Oct 2016 02:41:12 GMT",
+      "feed_index": 46
+    },
+    {
+      "id": "3a5680e6bfd57f34a3e86749cd03740475b3c4318e7482078e8187dc4905d36a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group19/M09/9F/DE/wKgJK1e1GJ3AHJGTAzSGL2aVWE0840.mp3",
+      "title": {
+        "text": "今晚我和你—2016年8月16号录音",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 18 Aug 2016 02:08:32 GMT",
+      "feed_index": 69
+    },
+    {
+      "id": "d8b36824e6736d50359636686387ff3a9d7644e12ae5b007ca5375ffee0dc9df",
+      "guid": "https://aod.cos.tx.xmcdn.com/group17/M01/06/26/wKgJKVd70DeR9el2A1pEBGKr3X8285.mp3",
+      "title": {
+        "text": "今晚我和你—2016年6月30号录音",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Jul 2016 15:22:46 GMT",
+      "feed_index": 92
+    },
+    {
+      "id": "98c3464401245216a89b9979ac73e3cd717db7fd5688a93e0eea6e0174a37318",
+      "guid": "https://aod.cos.tx.xmcdn.com/group12/M0A/5E/02/wKgDXFcq_izRTug9A0H9L2a1_mo092.mp3",
+      "title": {
+        "text": "今晚我和你—2016年5月4号录音",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 May 2016 08:04:37 GMT",
+      "feed_index": 115
+    },
+    {
+      "id": "dfb7208fb6c0a0c62089438416e885b95303eea0a71c16c25413bc5e1c5bbcf7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group15/M08/FA/20/wKgDaFay1xaiC7yhAXGcTvuWHXw000.m4a",
+      "title": {
+        "text": "今晚我和你—2016年2月2号录音",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 04 Feb 2016 04:45:14 GMT",
+      "feed_index": 138
+    },
+    {
+      "id": "3b1fa427b3471f657ec57c26c0b1a49d6b0592c4bfc0536f472f9acf9b85a30c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M04/4B/92/wKgJJ1eVeN3BHc6nAWMAPh_xPmI865.m4a",
+      "title": {
+        "text": "今晚我和你—2016年7月22号录音",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Jul 2016 02:25:00 GMT",
+      "feed_index": 161
+    }
+  ]
+}

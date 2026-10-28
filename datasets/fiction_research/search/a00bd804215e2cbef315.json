@@ -1,0 +1,559 @@
+{
+  "group": "fiction",
+  "term": "末世",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%9C%AB%E4%B8%96&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%9C%AB%E4%B8%96&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:40:41.719624+00:00",
+    "status": 200,
+    "sha256": "359fe3bd8e320130215d819f34612144f7f8b68f430849d93ae492c9d2194b3a"
+  },
+  "result_count": 22,
+  "records": [
+    {
+      "collectionId": 1692064509,
+      "trackId": 1692064509,
+      "collectionName": "【全球末世降临】丧尸|热血|爽文|病毒|进化|免费",
+      "artistName": "Hi唐念念_悦念有声",
+      "feedUrl": "https://www.ximalaya.com/album/75990092.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%A8%E7%90%83%E6%9C%AB%E4%B8%96%E9%99%8D%E4%B8%B4-%E4%B8%A7%E5%B0%B8-%E7%83%AD%E8%A1%80-%E7%88%BD%E6%96%87-%E7%97%85%E6%AF%92-%E8%BF%9B%E5%8C%96-%E5%85%8D%E8%B4%B9/id1692064509?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 493,
+      "releaseDate": "2023-08-02T11:41:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1763475973,
+      "trackId": 1763475973,
+      "collectionName": "极寒！末世来临提前囤积生存物资冰雪中打造坚实避难所",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/83092289.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9E%81%E5%AF%92-%E6%9C%AB%E4%B8%96%E6%9D%A5%E4%B8%B4%E6%8F%90%E5%89%8D%E5%9B%A4%E7%A7%AF%E7%94%9F%E5%AD%98%E7%89%A9%E8%B5%84%E5%86%B0%E9%9B%AA%E4%B8%AD%E6%89%93%E9%80%A0%E5%9D%9A%E5%AE%9E%E9%81%BF%E9%9A%BE%E6%89%80/id1763475973?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "trackCount": 400,
+      "releaseDate": "2024-08-15T10:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1807023673,
+      "trackId": 1807023673,
+      "collectionName": "免费有声|重生后末世屯物资反杀渣男复仇冰原血色女王",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/89631548.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0-%E9%87%8D%E7%94%9F%E5%90%8E%E6%9C%AB%E4%B8%96%E5%B1%AF%E7%89%A9%E8%B5%84%E5%8F%8D%E6%9D%80%E6%B8%A3%E7%94%B7%E5%A4%8D%E4%BB%87%E5%86%B0%E5%8E%9F%E8%A1%80%E8%89%B2%E5%A5%B3%E7%8E%8B/id1807023673?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "休闲",
+        "游戏"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1502",
+        "1507"
+      ],
+      "trackCount": 143,
+      "releaseDate": "2025-04-07T06:19:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1743910941,
+      "trackId": 1743910941,
+      "collectionName": "爽文！全家一起提前囤货穿越末世重生空间种田养崽天灾",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/81586794.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%88%BD%E6%96%87-%E5%85%A8%E5%AE%B6%E4%B8%80%E8%B5%B7%E6%8F%90%E5%89%8D%E5%9B%A4%E8%B4%A7%E7%A9%BF%E8%B6%8A%E6%9C%AB%E4%B8%96%E9%87%8D%E7%94%9F%E7%A9%BA%E9%97%B4%E7%A7%8D%E7%94%B0%E5%85%BB%E5%B4%BD%E5%A4%A9%E7%81%BE/id1743910941?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 252,
+      "releaseDate": "2024-04-29T12:39:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1759526469,
+      "trackId": 1759526469,
+      "collectionName": "末世疯批女主重生囤货狂魔疯批！杀伐果断空间挂A爆了",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82716443.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9C%AB%E4%B8%96%E7%96%AF%E6%89%B9%E5%A5%B3%E4%B8%BB%E9%87%8D%E7%94%9F%E5%9B%A4%E8%B4%A7%E7%8B%82%E9%AD%94%E7%96%AF%E6%89%B9-%E6%9D%80%E4%BC%90%E6%9E%9C%E6%96%AD%E7%A9%BA%E9%97%B4%E6%8C%82a%E7%88%86%E4%BA%86/id1759526469?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "trackCount": 460,
+      "releaseDate": "2024-07-29T13:01:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1777599464,
+      "trackId": 1777599464,
+      "collectionName": "【免费】末日系统里的养殖大亨|爽文|重生|末世后宫",
+      "artistName": "卢旺达先生",
+      "feedUrl": "https://www.ximalaya.com/album/84032700.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E6%9C%AB%E6%97%A5%E7%B3%BB%E7%BB%9F%E9%87%8C%E7%9A%84%E5%85%BB%E6%AE%96%E5%A4%A7%E4%BA%A8-%E7%88%BD%E6%96%87-%E9%87%8D%E7%94%9F-%E6%9C%AB%E4%B8%96%E5%90%8E%E5%AE%AB/id1777599464?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 102,
+      "releaseDate": "2024-11-09T01:44:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1744004559,
+      "trackId": 1744004559,
+      "collectionName": "天灾末世：全家一起囤物资|无CP+天灾+重生+囤物",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/81240332.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%A9%E7%81%BE%E6%9C%AB%E4%B8%96-%E5%85%A8%E5%AE%B6%E4%B8%80%E8%B5%B7%E5%9B%A4%E7%89%A9%E8%B5%84-%E6%97%A0cp-%E5%A4%A9%E7%81%BE-%E9%87%8D%E7%94%9F-%E5%9B%A4%E7%89%A9/id1744004559?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "小说",
+        "科幻小说"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 238,
+      "releaseDate": "2024-04-08T01:48:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1783470195,
+      "trackId": 1783470195,
+      "collectionName": "重生归来！开粮仓在末世基因突变前花光百亿资产屯物资",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/84685553.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%87%8D%E7%94%9F%E5%BD%92%E6%9D%A5-%E5%BC%80%E7%B2%AE%E4%BB%93%E5%9C%A8%E6%9C%AB%E4%B8%96%E5%9F%BA%E5%9B%A0%E7%AA%81%E5%8F%98%E5%89%8D%E8%8A%B1%E5%85%89%E7%99%BE%E4%BA%BF%E8%B5%84%E4%BA%A7%E5%B1%AF%E7%89%A9%E8%B5%84/id1783470195?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "trackCount": 1202,
+      "releaseDate": "2025-04-24T02:36:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1759526866,
+      "trackId": 1759526866,
+      "collectionName": "免费有声剧|天灾末世，囤货养娃，夫妻开挂抗灾求生！",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82716480.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%89%A7-%E5%A4%A9%E7%81%BE%E6%9C%AB%E4%B8%96-%E5%9B%A4%E8%B4%A7%E5%85%BB%E5%A8%83-%E5%A4%AB%E5%A6%BB%E5%BC%80%E6%8C%82%E6%8A%97%E7%81%BE%E6%B1%82%E7%94%9F/id1759526866?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "trackCount": 461,
+      "releaseDate": "2024-07-29T06:44:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1867696047,
+      "trackId": 1867696047,
+      "collectionName": "嗨！这就是邪门啊！｜末世重生帝尊 ｜ 唯一知情人",
+      "artistName": "卧幽篁",
+      "feedUrl": "https://www.ximalaya.com/album/112451428.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%97%A8-%E8%BF%99%E5%B0%B1%E6%98%AF%E9%82%AA%E9%97%A8%E5%95%8A-%E6%9C%AB%E4%B8%96%E9%87%8D%E7%94%9F%E5%B8%9D%E5%B0%8A-%E5%94%AF%E4%B8%80%E7%9F%A5%E6%83%85%E4%BA%BA/id1867696047?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 98,
+      "releaseDate": "2026-10-25T09:10:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1632724761,
+      "trackId": 1632724761,
+      "collectionName": "《三月同天》末世|复仇|魔兽|单播|环保|成神",
+      "artistName": "一阳冷小说",
+      "feedUrl": "https://www.ximalaya.com/album/48921517.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E6%9C%88%E5%90%8C%E5%A4%A9-%E6%9C%AB%E4%B8%96-%E5%A4%8D%E4%BB%87-%E9%AD%94%E5%85%BD-%E5%8D%95%E6%92%AD-%E7%8E%AF%E4%BF%9D-%E6%88%90%E7%A5%9E/id1632724761?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 978,
+      "releaseDate": "2026-08-26T05:14:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1628862860,
+      "trackId": 1628862860,
+      "collectionName": "末世重生之浴火凤凰|涅槃|双播爽文|全书免费",
+      "artistName": "九成九呗",
+      "feedUrl": "https://www.ximalaya.com/album/62005954.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9C%AB%E4%B8%96%E9%87%8D%E7%94%9F%E4%B9%8B%E6%B5%B4%E7%81%AB%E5%87%A4%E5%87%B0-%E6%B6%85%E6%A7%83-%E5%8F%8C%E6%92%AD%E7%88%BD%E6%96%87-%E5%85%A8%E4%B9%A6%E5%85%8D%E8%B4%B9/id1628862860?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 419,
+      "releaseDate": "2022-08-22T17:33:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1744508873,
+      "trackId": 1744508873,
+      "collectionName": "【末世】温软玫瑰沦为他心尖偏宠渣男火葬场死对头反派",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/81377202.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9C%AB%E4%B8%96-%E6%B8%A9%E8%BD%AF%E7%8E%AB%E7%91%B0%E6%B2%A6%E4%B8%BA%E4%BB%96%E5%BF%83%E5%B0%96%E5%81%8F%E5%AE%A0%E6%B8%A3%E7%94%B7%E7%81%AB%E8%91%AC%E5%9C%BA%E6%AD%BB%E5%AF%B9%E5%A4%B4%E5%8F%8D%E6%B4%BE/id1744508873?uo=4",
+      "genres": [
+        "犯罪纪实",
+        "播客",
+        "喜剧",
+        "脱口秀"
+      ],
+      "genreIds": [
+        "1488",
+        "26",
+        "1303",
+        "1497"
+      ],
+      "trackCount": 180,
+      "releaseDate": "2024-04-15T03:46:00Z",
+      "country": "CHN",
+      "primaryGenreName": "犯罪纪实"
+    },
+    {
+      "collectionId": 1793429922,
+      "trackId": 1793429922,
+      "collectionName": "《我只会制造怪物》【与神对话的人|末世大奉打更人】",
+      "artistName": "与神对话的人",
+      "feedUrl": "https://www.ximalaya.com/album/84781265.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E5%8F%AA%E4%BC%9A%E5%88%B6%E9%80%A0%E6%80%AA%E7%89%A9-%E4%B8%8E%E7%A5%9E%E5%AF%B9%E8%AF%9D%E7%9A%84%E4%BA%BA-%E6%9C%AB%E4%B8%96%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA/id1793429922?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 1433,
+      "releaseDate": "2025-03-12T18:09:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1760987392,
+      "trackId": 1760987392,
+      "collectionName": "免费末世丧尸病毒来袭！秘密武器超科技房车网店连三界",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82935272.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9%E6%9C%AB%E4%B8%96%E4%B8%A7%E5%B0%B8%E7%97%85%E6%AF%92%E6%9D%A5%E8%A2%AD-%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8%E8%B6%85%E7%A7%91%E6%8A%80%E6%88%BF%E8%BD%A6%E7%BD%91%E5%BA%97%E8%BF%9E%E4%B8%89%E7%95%8C/id1760987392?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "trackCount": 1062,
+      "releaseDate": "2024-08-09T13:21:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1808100270,
+      "trackId": 1808100270,
+      "collectionName": "末世最强少女.竟与我已婚五年?复仇|白给|魔兽末日",
+      "artistName": "一阳冷小说",
+      "feedUrl": "https://www.ximalaya.com/album/90681644.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9C%AB%E4%B8%96%E6%9C%80%E5%BC%BA%E5%B0%91%E5%A5%B3-%E7%AB%9F%E4%B8%8E%E6%88%91%E5%B7%B2%E5%A9%9A%E4%BA%94%E5%B9%B4-%E5%A4%8D%E4%BB%87-%E7%99%BD%E7%BB%99-%E9%AD%94%E5%85%BD%E6%9C%AB%E6%97%A5/id1808100270?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "喜剧小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 169,
+      "releaseDate": "2026-08-26T05:14:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1748937102,
+      "trackId": 1748937102,
+      "collectionName": "震惊！末世囤物资我囤了女神前妻你哭什么科幻重生空间",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/80943776.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%9C%87%E6%83%8A-%E6%9C%AB%E4%B8%96%E5%9B%A4%E7%89%A9%E8%B5%84%E6%88%91%E5%9B%A4%E4%BA%86%E5%A5%B3%E7%A5%9E%E5%89%8D%E5%A6%BB%E4%BD%A0%E5%93%AD%E4%BB%80%E4%B9%88%E7%A7%91%E5%B9%BB%E9%87%8D%E7%94%9F%E7%A9%BA%E9%97%B4/id1748937102?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "trackCount": 110,
+      "releaseDate": "2024-03-17T03:45:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1793429240,
+      "trackId": 1793429240,
+      "collectionName": "《我只会制造怪物》【与神对话的人|末世大奉打更人】",
+      "artistName": "与神对话的人",
+      "feedUrl": "https://www.ximalaya.com/album/84781265.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E5%8F%AA%E4%BC%9A%E5%88%B6%E9%80%A0%E6%80%AA%E7%89%A9-%E4%B8%8E%E7%A5%9E%E5%AF%B9%E8%AF%9D%E7%9A%84%E4%BA%BA-%E6%9C%AB%E4%B8%96%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA/id1793429240?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 1433,
+      "releaseDate": "2025-03-12T18:09:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1612174425,
+      "trackId": 1612174425,
+      "collectionName": "大佬也娇软丨沙雕搞笑爽文丨末世大佬穿成虐文娇软美人",
+      "artistName": "卡西有声",
+      "feedUrl": "http://www.ximalaya.com/album/57205118.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%A7%E4%BD%AC%E4%B9%9F%E5%A8%87%E8%BD%AF%E4%B8%A8%E6%B2%99%E9%9B%95%E6%90%9E%E7%AC%91%E7%88%BD%E6%96%87%E4%B8%A8%E6%9C%AB%E4%B8%96%E5%A4%A7%E4%BD%AC%E7%A9%BF%E6%88%90%E8%99%90%E6%96%87%E5%A8%87%E8%BD%AF%E7%BE%8E%E4%BA%BA/id1612174425?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "喜剧小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 291,
+      "releaseDate": "2022-10-12T22:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1773891990,
+      "trackId": 1773891990,
+      "collectionName": "[红楼]咸鱼林夫人|巫朝尘|笑不活了！末世女穿越",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/80250229.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A5%BC-%E5%92%B8%E9%B1%BC%E6%9E%97%E5%A4%AB%E4%BA%BA-%E5%B7%AB%E6%9C%9D%E5%B0%98-%E7%AC%91%E4%B8%8D%E6%B4%BB%E4%BA%86-%E6%9C%AB%E4%B8%96%E5%A5%B3%E7%A9%BF%E8%B6%8A/id1773891990?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "trackCount": 158,
+      "releaseDate": "2024-02-03T15:49:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1751207835,
+      "trackId": 1751207835,
+      "collectionName": "菜鸟归来，末世也飞翔",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/82139089.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%8F%9C%E9%B8%9F%E5%BD%92%E6%9D%A5-%E6%9C%AB%E4%B8%96%E4%B9%9F%E9%A3%9E%E7%BF%94/id1751207835?uo=4",
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "艺术",
+        "视觉艺术"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1301",
+        "1406"
+      ],
+      "trackCount": 371,
+      "releaseDate": "2024-06-13T06:05:00Z",
+      "country": "CHN",
+      "primaryGenreName": "科幻小说"
+    },
+    {
+      "collectionId": 1537355376,
+      "trackId": 1537355376,
+      "collectionName": "鼻涕公主 | 千金的末世之旅",
+      "artistName": "鼻涕公主",
+      "feedUrl": "http://www.ximalaya.com/album/26564728.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%BC%BB%E6%B6%95%E5%85%AC%E4%B8%BB-%E5%8D%83%E9%87%91%E7%9A%84%E6%9C%AB%E4%B8%96%E4%B9%8B%E6%97%85/id1537355376?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "科幻小说"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2019-08-23T05:18:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    }
+  ]
+}

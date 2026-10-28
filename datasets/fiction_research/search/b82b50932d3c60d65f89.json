@@ -1,0 +1,213 @@
+{
+  "group": "boundary",
+  "term": "读书分享",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E8%AF%BB%E4%B9%A6%E5%88%86%E4%BA%AB&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E8%AF%BB%E4%B9%A6%E5%88%86%E4%BA%AB&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:46:01.820744+00:00",
+    "status": 200,
+    "sha256": "17aadd1dd0c371c3da7f08848fc91936fc08a3f22eb170c0900fecbf5fb572f2"
+  },
+  "result_count": 8,
+  "records": [
+    {
+      "collectionId": 1587907611,
+      "trackId": 1587907611,
+      "collectionName": "Sherry的读书分享",
+      "artistName": "Sherry的读书分享",
+      "feedUrl": "http://www.ximalaya.com/album/53437607.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/sherry%E7%9A%84%E8%AF%BB%E4%B9%A6%E5%88%86%E4%BA%AB/id1587907611?uo=4",
+      "genres": [
+        "课程",
+        "播客",
+        "教育"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304"
+      ],
+      "trackCount": 103,
+      "releaseDate": "2022-05-18T13:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "课程"
+    },
+    {
+      "collectionId": 1768971721,
+      "trackId": 1768971721,
+      "collectionName": "读书分享",
+      "artistName": "小茜说养生",
+      "feedUrl": "https://www.ximalaya.com/album/83613101.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%AF%BB%E4%B9%A6%E5%88%86%E4%BA%AB/id1768971721?uo=4",
+      "genres": [
+        "心理健康",
+        "播客",
+        "健康与健身",
+        "宗教与心灵",
+        "佛教"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1314",
+        "1438"
+      ],
+      "trackCount": 165,
+      "releaseDate": "2026-02-13T14:23:00Z",
+      "country": "CHN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1669774951,
+      "trackId": 1669774951,
+      "collectionName": "什么玩艺| 文化 书籍 分享 生活读书会丨免费",
+      "artistName": "杨小墓/卡车",
+      "feedUrl": "https://www.ximalaya.com/album/74147933.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BB%80%E4%B9%88%E7%8E%A9%E8%89%BA-%E6%96%87%E5%8C%96-%E4%B9%A6%E7%B1%8D-%E5%88%86%E4%BA%AB-%E7%94%9F%E6%B4%BB%E8%AF%BB%E4%B9%A6%E4%BC%9A%E4%B8%A8%E5%85%8D%E8%B4%B9/id1669774951?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "电视与电影",
+        "影评"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1309",
+        "1563"
+      ],
+      "trackCount": 100,
+      "releaseDate": "2026-01-15T16:08:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1657423349,
+      "trackId": 1657423349,
+      "collectionName": "《儿童青少年抑郁症的父母指南》读书分享",
+      "artistName": "心理大白",
+      "feedUrl": "https://www.ximalaya.com/album/72747104.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%84%BF%E7%AB%A5%E9%9D%92%E5%B0%91%E5%B9%B4%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E7%88%B6%E6%AF%8D%E6%8C%87%E5%8D%97-%E8%AF%BB%E4%B9%A6%E5%88%86%E4%BA%AB/id1657423349?uo=4",
+      "genres": [
+        "育儿",
+        "播客",
+        "儿童与家庭",
+        "健康与健身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1521",
+        "26",
+        "1305",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 35,
+      "releaseDate": "2026-03-29T12:33:00Z",
+      "country": "CHN",
+      "primaryGenreName": "育儿"
+    },
+    {
+      "collectionId": 1146322285,
+      "trackId": 1146322285,
+      "collectionName": "晓鹿读书好文分享",
+      "artistName": "鹿小姐",
+      "feedUrl": "http://www.ximalaya.com/album/3517813.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%99%93%E9%B9%BF%E8%AF%BB%E4%B9%A6%E5%A5%BD%E6%96%87%E5%88%86%E4%BA%AB/id1146322285?uo=4",
+      "genres": [
+        "两性",
+        "播客",
+        "健康与健身",
+        "社会与文化",
+        "个人日记"
+      ],
+      "genreIds": [
+        "1516",
+        "26",
+        "1512",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 117,
+      "releaseDate": "2017-02-09T12:37:00Z",
+      "country": "CHN",
+      "primaryGenreName": "两性"
+    },
+    {
+      "collectionId": 1669521550,
+      "trackId": 1669521550,
+      "collectionName": "读书笔记分享【一生伏首王阳明】",
+      "artistName": "周夏亘",
+      "feedUrl": "https://www.ximalaya.com/album/74125145.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB-%E4%B8%80%E7%94%9F%E4%BC%8F%E9%A6%96%E7%8E%8B%E9%98%B3%E6%98%8E/id1669521550?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "社会与文化",
+        "个人日记"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 40,
+      "releaseDate": "2023-03-03T16:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1694615186,
+      "trackId": 1694615186,
+      "collectionName": "【多播】怎样读书|觉醒年代文豪们的读书心得分享",
+      "artistName": "甜小荷_SOMO",
+      "feedUrl": "https://www.ximalaya.com/album/76716621.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%9A%E6%92%AD-%E6%80%8E%E6%A0%B7%E8%AF%BB%E4%B9%A6-%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3%E6%96%87%E8%B1%AA%E4%BB%AC%E7%9A%84%E8%AF%BB%E4%B9%A6%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB/id1694615186?uo=4",
+      "genres": [
+        "自我完善",
+        "播客",
+        "教育",
+        "历史"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1487"
+      ],
+      "trackCount": 32,
+      "releaseDate": "2023-08-13T05:49:00Z",
+      "country": "CHN",
+      "primaryGenreName": "自我完善"
+    },
+    {
+      "collectionId": 1688109539,
+      "trackId": 1688109539,
+      "collectionName": "阿司每日读书分享",
+      "artistName": "阿司为您读书",
+      "feedUrl": "https://www.ximalaya.com/album/39244251.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%98%BF%E5%8F%B8%E6%AF%8F%E6%97%A5%E8%AF%BB%E4%B9%A6%E5%88%86%E4%BA%AB/id1688109539?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "教育",
+        "自我完善"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 1694,
+      "releaseDate": "2026-10-22T06:29:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    }
+  ]
+}

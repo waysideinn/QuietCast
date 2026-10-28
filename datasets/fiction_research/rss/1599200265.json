@@ -1,0 +1,139 @@
+{
+  "show_id": "1599200265",
+  "feed_url": "https://papi.qingting.fm/podcast/channels/11330",
+  "source": {
+    "url": "https://papi.qingting.fm/podcast/channels/11330",
+    "final_url": "https://papi.qingting.fm/podcast/channels/11330",
+    "fetched_at": "2026-10-25T14:55:11.159066+00:00",
+    "status": 200,
+    "sha256": "1f745b998722c706ceeecd41aae56627bc3be16b49e066a7ef81d1fc6f00f3c4"
+  },
+  "status": "ok",
+  "title": {
+    "text": "恐怖小故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "这里是巳月说，每天分享民间流传恐怖故事。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "explicit": "true"
+  },
+  "feed_item_count": 45,
+  "episodes": [
+    {
+      "id": "f8fdba88da0f9175f394dd4ea68f827dbb141541bad4152970d63907e00d9879",
+      "guid": "20022403",
+      "title": {
+        "text": "消失的人",
+        "truncated": false
+      },
+      "description": {
+        "text": "好好的一个人竟然莫名其妙的消失了，究竟怎么回事？",
+        "truncated": false
+      },
+      "published_at": "Tue, 04 Jan 2022 05:16:08 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "3205c411557459bbc5f1440c9dc1439ddf124d9712d26298cbd7fd1553f53508",
+      "guid": "19905235",
+      "title": {
+        "text": "照片中的女孩",
+        "truncated": false
+      },
+      "description": {
+        "text": "小伙到废弃的学校拍照，竟然看到一个奇怪的女孩！！！",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Dec 2021 06:11:01 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "527917a072155371d133f4a0a7378bbed963b35da958617d5a2d359f5bc77f5a",
+      "guid": "19620881",
+      "title": {
+        "text": "孤独老人",
+        "truncated": false
+      },
+      "description": {
+        "text": "老人被儿子赶到小区独居，究竟发生了什么？",
+        "truncated": false
+      },
+      "published_at": "Sat, 27 Nov 2021 09:30:19 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "74d56a4862f966368995d99d94e137b12befd5580e4cafbfbc3b474a3c7f209e",
+      "guid": "19531942",
+      "title": {
+        "text": "恐怖殡仪馆",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 20 Nov 2021 16:43:46 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "e80772b17da109e2d574886f803ca3c980340cb2ce8aa8da632dac8734aaea45",
+      "guid": "19477173",
+      "title": {
+        "text": "恐怖鸡爪",
+        "truncated": false
+      },
+      "description": {
+        "text": "有家饭店的老板生意特别好，特别是他家的鸡爪，只可惜不知道他用的是什么材料，直到有一次...",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Nov 2021 11:38:18 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "55dac96580836d02f33dec8dded194f8ee2fc000743a851321cceee3c998cde1",
+      "guid": "19661186",
+      "title": {
+        "text": "偷骨人",
+        "truncated": false
+      },
+      "description": {
+        "text": "广西小伙半夜喝酒回来，半路上车子突然自己熄火了，究竟怎么回事？",
+        "truncated": false
+      },
+      "published_at": "Tue, 30 Nov 2021 16:00:59 GMT",
+      "feed_index": 31
+    },
+    {
+      "id": "434f7194cb37c61d238d6e3226d4a20359e1dc2dea05d674703a2fe542444919",
+      "guid": "19745358",
+      "title": {
+        "text": "医院的奇闻异事",
+        "truncated": false
+      },
+      "description": {
+        "text": "都说医院奇闻怪事最多，今天就说说医院的故事。",
+        "truncated": false
+      },
+      "published_at": "Tue, 07 Dec 2021 16:05:45 GMT",
+      "feed_index": 38
+    },
+    {
+      "id": "a35c4d7b57e48d097b446de08364c1455406793ade4c92f812d24adf21c8c68d",
+      "guid": "19826204",
+      "title": {
+        "text": "纸钱",
+        "truncated": false
+      },
+      "description": {
+        "text": "小伙为了比谁大胆，大晚上跑去坟地睡觉，结果......",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Dec 2021 18:38:54 GMT",
+      "feed_index": 44
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1331388068",
+  "feed_url": "http://www.ximalaya.com/album/11975905.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/11975905.xml",
+    "final_url": "http://www.ximalaya.com/album/11975905.xml",
+    "fetched_at": "2026-10-25T14:48:49.309188+00:00",
+    "status": 200,
+    "sha256": "cb5c8ab05e0073f216c7662b3cc640112ace6738a17b4a82a860e484a2c7f317"
+  },
+  "status": "ok",
+  "title": {
+    "text": "二胡名人堂",
+    "truncated": false
+  },
+  "description": {
+    "text": "本专辑节目由毕业于中央音乐学院二胡专业研究生的赵丹青为您主讲。以最通俗易懂的方式，讲述现代二胡艺术发展中的人物故事。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 62,
+  "episodes": [
+    {
+      "id": "ae9d2c418cbe432bc725b1f80b125509f4f4ffc0dc446f3493007b0e508d14bf",
+      "guid": "https://aod.cos.tx.xmcdn.com/group57/M08/71/F7/wKgLd1yHbrzh30Y-AEhnMJR0srE974.mp3",
+      "title": {
+        "text": "62 结束语",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期为《二胡名人堂》结束语。",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Mar 2019 04:00:01 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "0cdde5554177197ae7d8f0283ba5ebd4c1752fb83c14548c36420185e729f61a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group53/M0B/04/13/wKgLcVwtXHPTiu7CAI723NNsoKA979.mp3",
+      "title": {
+        "text": "53 二胡名人堂之刘文金 一",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期讲述中国现当代作曲家刘文金先生的故事。",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Jan 2019 04:00:03 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "9a5754c27e283abead4a5e84c34789a36078a79c1d105646ab8f45968df28d1b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group50/M04/5E/2E/wKgKnVvkLj6yCMkZATJbbrZPYrM840.mp3",
+      "title": {
+        "text": "45 二胡名人堂之孙文明 八",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期继续讲解孙文明先生的故事。",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Nov 2018 04:00:01 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "9c8e5016b797248650d9bf21203179e0a30a0ffb1017def44eee718ca0775f45",
+      "guid": "https://aod.cos.tx.xmcdn.com/group46/M07/99/E5/wKgKlluQhMrxOj9kAHooVL1BJ3I576.mp3",
+      "title": {
+        "text": "36 二胡名人堂之张韶 一",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期讲述二胡艺术家张韶先生的故事。",
+        "truncated": false
+      },
+      "published_at": "Fri, 07 Sep 2018 04:00:02 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "f033387a3dae487cc7459ce83685b076b83a8bdf0b2b6bb87a2e86c863b9ea0c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group46/M01/87/91/wKgKj1s-uo3CnoNHAHka8es9JTE482.mp3",
+      "title": {
+        "text": "27 二胡名人堂之蒋风之 三",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期节目继续讲述蒋风之先生的故事。",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 Jul 2018 04:00:02 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "04be14599ec90eb05d899b8337487cf8f7691cad36e29b57cf8d680acb0d8acb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group40/M0B/AD/C1/wKgJT1rhi06SWdBbAIslt9hRYS0678.mp3",
+      "title": {
+        "text": "18 二胡名人堂之刘天华 六",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期节目继续讲述刘天华的故事。",
+        "truncated": false
+      },
+      "published_at": "Fri, 27 Apr 2018 04:00:02 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "f049f79816faf62a1159264adec36c3bf418106ee10d8544a5bf859bf80fec8e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group41/M09/96/3E/wKgJ8VqZJ-ziWJvnANUuX14n3fo242.mp3",
+      "title": {
+        "text": "10 二胡名人堂之华彦钧 六",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期接着讲述华彦钧（阿炳）的故事，欣赏华彦钧演奏《龙船》。",
+        "truncated": false
+      },
+      "published_at": "Fri, 02 Mar 2018 16:00:02 GMT",
+      "feed_index": 52
+    },
+    {
+      "id": "88c0b84d021d4a9691b7fe315aa17a6f14080af997ab0823ed2ed9bed8630f66",
+      "guid": "https://aod.cos.tx.xmcdn.com/group36/M08/E3/89/wKgJUloqCuCSGRsuABYw4HJfmXw727.m4a",
+      "title": {
+        "text": "01 开场白",
+        "truncated": false
+      },
+      "description": {
+        "text": "此为开场白。",
+        "truncated": false
+      },
+      "published_at": "Fri, 08 Dec 2017 04:08:07 GMT",
+      "feed_index": 61
+    }
+  ]
+}

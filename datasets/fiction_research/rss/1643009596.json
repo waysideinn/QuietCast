@@ -1,0 +1,140 @@
+{
+  "show_id": "1643009596",
+  "feed_url": "https://www.ximalaya.com/album/70454858.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/70454858.xml",
+    "final_url": "https://www.ximalaya.com/album/70454858.xml",
+    "fetched_at": "2026-10-25T14:44:43.418744+00:00",
+    "status": 200,
+    "sha256": "fc8fded891dc31341a3cffd4bd550f0f22569b98a89a228785399f75589f67ca"
+  },
+  "status": "ok",
+  "title": {
+    "text": "雷与龙丨免费有声小说丨超燃奇幻武侠丨原作者朗读",
+    "truncated": false
+  },
+  "description": {
+    "text": "雷与龙是两个小人物，在奇幻的世界平凡地生活，在时间里漂流，奔向既定却未知的终点。他们天赋异禀，却也没什么伟大成就。他们默默无闻，却能搅动天下是非。这部书里有武侠，有魔法，有爱情，也有权谋。这是个全新的奇幻世界，你绝对未曾见过。 总之，这是一部轻松的奇幻小说。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 117,
+  "episodes": [
+    {
+      "id": "4e5de44871e7e76ab84ac2f0a325c7bc7f8b9193ddf273bf2753ea4518bfeb15",
+      "guid": "xmly_track_563186302",
+      "title": {
+        "text": "雷与龙 Thunder and Dragon 序言",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 Aug 2022 05:30:20 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "751a081ab769e693e4a68fd1204ad3dd4ade0573b12d006c4bf52032688d5200",
+      "guid": "xmly_track_565454357",
+      "title": {
+        "text": "雷与龙 第九章 笑与泪",
+        "truncated": false
+      },
+      "description": {
+        "text": "真人朗读长篇小说 武侠、奇幻、魔法、爱情",
+        "truncated": false
+      },
+      "published_at": "Wed, 31 Aug 2022 02:03:44 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "78cf64e8829daeb6f47488fe3c20b87921451876eb8580c9adf048915d6efe2f",
+      "guid": "xmly_track_566775395",
+      "title": {
+        "text": "雷与龙 第十七章 灵龙雷雨道不同",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Sep 2022 05:05:45 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "318455d81443afdb1a11eac1dfd54f25fe56c2c093640f7a6d3f786b3a42e003",
+      "guid": "xmly_track_569644798",
+      "title": {
+        "text": "雷与龙 第二十五章 裂痕",
+        "truncated": false
+      },
+      "description": {
+        "text": "雷与龙是两个小人物，在奇幻的世界平凡地生活，在时间里漂流，奔向既定却未知的终点。他们天赋异禀，却也没什么伟大成就。他们默默无闻，却能搅动天下是非。这部书里有武侠，有魔法，有爱情，也有权谋。这是个全新的奇幻世界，你绝对未曾见过。 总之，这是一部轻松的奇幻小说。",
+        "truncated": false
+      },
+      "published_at": "Fri, 16 Sep 2022 03:04:28 GMT",
+      "feed_index": 50
+    },
+    {
+      "id": "03444c275f6adefd245f3ee8effd059b1a4b807d9546a2c2abb8b6c6ed8b3487",
+      "guid": "xmly_track_573060018",
+      "title": {
+        "text": "雷与龙 第三十二章 盟友 敌人 海盗旗 （上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "雷与龙是两个小人物，在奇幻的世界平凡地生活，在时间里漂流，奔向既定却未知的终点。他们天赋异禀，却也没什么伟大成就。他们默默无闻，却能搅动天下是非。这部书里有武侠，有魔法，有爱情，也有权谋。这是个全新的奇幻世界，你绝对未曾见过。 这部作品很难划分类别，不是中世纪西幻，也不是中国传统武侠，更不是仙侠玄幻。我希望能够创作出全新的奇幻世界。这部书在我脑中是一部动画电影的剧本，我给写成小说了。 我发现很少有作者来自己朗读作品，就来喜马拉雅试试看了。每一章后面还有作者漫谈，和大家分享创作细节，以及一些相关的遐想。",
+        "truncated": false
+      },
+      "published_at": "Thu, 29 Sep 2022 03:54:11 GMT",
+      "feed_index": 66
+    },
+    {
+      "id": "ea8dffd090d9b14f5b916afcd3af696fb0484ba9ebf2174145c6f1190d98fc43",
+      "guid": "xmly_track_578139074",
+      "title": {
+        "text": "雷与龙 第三十九章 大道至简 万法合一",
+        "truncated": false
+      },
+      "description": {
+        "text": "雷与龙是两个小人物，在奇幻的世界平凡地生活，在时间里漂流，奔向既定却未知的终点。他们天赋异禀，却也没什么伟大成就。他们默默无闻，却能搅动天下是非。这部书里有武侠，有魔法，有爱情，也有权谋。 这部作品很难划分类别，不是中世纪西幻，也不是中国传统武侠，更不是仙侠玄幻。我希望能够创作出全新的奇幻世界。这部书在我脑中是一部动画电影的剧本，我给写成小说了。 我发现很少有作者来自己朗读作品，我就来试试看了。每一章后面还有作者漫谈，和大家分享创作细节，以及一些相关的遐想。这是个全新的奇幻世界，你绝对未曾见过。",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Oct 2022 02:38:59 GMT",
+      "feed_index": 83
+    },
+    {
+      "id": "653717d6648e85ba85942d2eb6dca375c3b25bba137ee85b89aaa5ac29728001",
+      "guid": "xmly_track_583881428",
+      "title": {
+        "text": "雷与龙 第四十五章 命运的无常",
+        "truncated": false
+      },
+      "description": {
+        "text": "雷与龙是两个小人物，在奇幻的世界平凡地生活，在时间里漂流，奔向既定却未知的终点。他们天赋异禀，却也没什么伟大成就。他们默默无闻，却能搅动天下是非。这部书里有武侠，有魔法，有爱情，也有权谋。这是个全新的奇幻世界，你绝对未曾见过。 这部作品很难划分类别，不是中世纪西幻，也不是中国传统武侠，更不是仙侠玄幻。我希望能够创作出全新的奇幻世界。这部书在我脑中是一部动画电影的剧本，我给写成小说了。 我发现很少有作者来自己朗读作品，就来Bilibili试试看了。每一章后面还有作者漫谈，和大家分享创作细节，以及一些相关的遐想。这是个全新的奇幻世界，你绝对未曾见过。 晋江 http://www.jjwxc.net/onebook.php?novelid=7265993 17K https://www.17k.com/book/3474450.html 纵横 https://book.zongheng.com/book/1239531.html Bilibil https://www.bilibili.com/video/BV1ua411G77W/?share_source=copy_web&vd_source=040168ba361b0a8d379fbaf097317f6b",
+        "truncated": false
+      },
+      "published_at": "Sat, 05 Nov 2022 02:16:32 GMT",
+      "feed_index": 99
+    },
+    {
+      "id": "223f525e5bb9eda2ded07cb8d6c05cba7717e73386f5430e3980d5ebbe10879f",
+      "guid": "xmly_track_589981067",
+      "title": {
+        "text": "雷与龙 作者漫谈52+完结语",
+        "truncated": false
+      },
+      "description": {
+        "text": "感谢您关注这部作品 这不是精心雕琢的文化产品 只是我的白日梦，与您分享 我觉得我成功了 我把想写的东西写了出来 若是能找到知音，便是此生无憾 写作品想让人看到不容易 各个平台都害怕免费被人“利用” 后面两部会尽快写完 写书的同时录音非常辛苦 所以我会先全部写完再录音 偶遇老司机贾巴尔 丹龙给出的金币同样引发了蝴蝶效应 屺垣城的宝藏不是属于哈克沁的 哥布林一族的历史也充满血泪 这些金币原本是他们的 什么是一家人？ 不管相隔多远不管分开多久 再见面一样是没有隔阂 家人不一定会三观一致 但是彼此之间的纽带牢不可破 三兄妹结拜当然是安排好的 尤维亚此时最需要家人 所谓的银狐家其实只有她和托图 弥赛尔以后会出现，是重要的分支 兰灵的妹妹艾玛也会出现 有心事的不只是尤维亚 兰灵也在想自己的未来 她在马琳莱克之外找到了家 大家都成长了，变强大了 但是这个世界依然没变 它依然不可预测，不可抗拒，充满魅力 奇幻之旅没有结束 第一部仅仅是个开始 燕子和难民最后出现 他们不是专程来访友的，而是来查案 这个案子和兰灵的身世有着莫大的联系 谢谢！再会！",
+        "truncated": false
+      },
+      "published_at": "Tue, 22 Nov 2022 07:48:53 GMT",
+      "feed_index": 116
+    }
+  ]
+}

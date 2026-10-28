@@ -1,0 +1,140 @@
+{
+  "show_id": "1449816135",
+  "feed_url": "http://www.ximalaya.com/album/20386694.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/20386694.xml",
+    "final_url": "http://www.ximalaya.com/album/20386694.xml",
+    "fetched_at": "2026-10-25T14:49:39.651965+00:00",
+    "status": 200,
+    "sha256": "492c5ea0ee3d305507f1efe6208424e099747f3f028e7659a91b5a51e58a1681"
+  },
+  "status": "ok",
+  "title": {
+    "text": "女性养生减肥说",
+    "truncated": false
+  },
+  "description": {
+    "text": "主播： 锦虹，注册营养师，公共营养师，高级健康管理师，中国营养师学会会员， 广东省营养师协会荣誉会员，一直从事体重管理和疾病调理。 可添加 微信号[contact removed] 帮你轻松健康瘦下来。 在这里我会分享一些以健康为前提的体重管理方法，不吃药、不节食、不伤害身体，健康轻松地瘦下去。 [1] 内容将从医学、营养学、康复学及中医药膳等专业方向延伸扩展； [2] 每天更新新颖专业的减重方法，健康饮食，轻松瘦身，避开平台期； [3] 营养瘦身小知识，少走减重弯路，做自己最亲密的体重管理师； [4]想瘦多少告诉我，我帮你，以健康为前提！ [5]有想了解的其他健康减重相关的内容，也可给我留言哦，会给大家解析需要的内容。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 189,
+  "episodes": [
+    {
+      "id": "37d84c174e2e6d67ff97db343e9602a25c357ab584566c609a2a5ac2b8197e9d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4e80-audiofreehighqps/11/A5/CKwRIUEE4yjJACojXQDTv9Eg-aacv2-48K.m4a",
+      "title": {
+        "text": "为什么中国营养学会推荐这种饮食模式？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 Aug 2021 16:39:29 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "3eada5bc2ac2283332045a82797fb526b75ea856c39a0f58bdb28c41e61889f1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group80/M03/0F/17/wKgPDF6r65_xDxEKAKS8tBpzpug631.mp3",
+      "title": {
+        "text": "常见改善便秘的酵素、蜂蜜和香蕉，哪个更有效？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 May 2020 09:33:00 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "074c2a3401d6d193e4db5610cafdbd0eafec41b052bb24e06414ab58091f5375",
+      "guid": "https://aod.cos.tx.xmcdn.com/group73/M03/80/93/wKgO0V5OlevyKEwkAM5Lag-ITMk540.mp3",
+      "title": {
+        "text": "防疫在家，如何合理囤菜，健康饮食",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 20 Feb 2020 14:21:38 GMT",
+      "feed_index": 54
+    },
+    {
+      "id": "3a0509572742d58415ebae67075496514d7dc0a08eef4745358db448d221206b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group64/M03/0E/09/wKgMaV2UrZPQmwOSAM9g3lCkFuA256.mp3",
+      "title": {
+        "text": "国庆想吃晚饭来减肥？3招教你怎么吃",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 02 Oct 2019 14:01:02 GMT",
+      "feed_index": 81
+    },
+    {
+      "id": "0fa03a1e78c9863bb252c4adadfef2cc4d8a5377b76300a4685c95d7134790bf",
+      "guid": "https://aod.cos.tx.xmcdn.com/group58/M05/AC/6B/wKgLglzcLuuybf0xACWDl32P-D0528.m4a",
+      "title": {
+        "text": "致人肥胖的隐形糖，你不知不觉中吃了多少？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 May 2019 15:23:19 GMT",
+      "feed_index": 107
+    },
+    {
+      "id": "c990dcb81239d8d102e1b953f3043c2ecb3abacb6830ec6ced4e5f8ef30d0070",
+      "guid": "https://aod.cos.tx.xmcdn.com/group57/M05/2E/1C/wKgLgVyPtseiFAeSAeaxmMaBDdE722.mp3",
+      "title": {
+        "text": "高盐饮食的10大危害【健康饮食干货】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 18 Mar 2019 15:18:35 GMT",
+      "feed_index": 134
+    },
+    {
+      "id": "8e05a23e44be682be89a933183b98b76568b6082e478e5e2e5601596b5536afe",
+      "guid": "https://aod.cos.tx.xmcdn.com/group56/M07/C9/80/wKgLdlxa5cLjHzCTAW8cvBJ32hA281.mp3",
+      "title": {
+        "text": "过年胖3斤？让我来教你怎么挑选食物避免过节胖【技巧】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 06 Feb 2019 14:30:44 GMT",
+      "feed_index": 161
+    },
+    {
+      "id": "72b486d037ce19cfb49f8e37bab55e8b8ad102c2faea4c2f15d8e573e5aa9905",
+      "guid": "https://aod.cos.tx.xmcdn.com/group54/M0A/EE/83/wKgLclwsd6LCufh5ABusPAu5EiQ921.m4a",
+      "title": {
+        "text": "这是我之所以开电台的一点小想法",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 02 Jan 2019 08:36:31 GMT",
+      "feed_index": 188
+    }
+  ]
+}

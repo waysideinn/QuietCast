@@ -1,0 +1,126 @@
+{
+  "show_id": "1504408457",
+  "feed_url": "http://www.ximalaya.com/album/35764413.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/35764413.xml",
+    "final_url": "http://www.ximalaya.com/album/35764413.xml",
+    "fetched_at": "2026-10-25T14:51:57.294781+00:00",
+    "status": 200,
+    "sha256": "82b1d6c59f09b066b2fb5594abb032f89fd3dcd52cc2693fe1a5702880e23406"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Walking Cloud｜跟着音乐去旅行",
+    "truncated": false
+  },
+  "description": {
+    "text": "“沙砾之间窥见宇宙 星宿之间流淌银河” 我们热爱旅行，也热爱音乐，这里是Milky Journey旅行文化品牌（微信公众号/微博/小红书：Milky Journey）旗下旅行音乐电台Walking Cloud，每一期我们会邀请一位旅行达人来分享他的旅行故事以及私藏灵感歌单，在不同的情境听不同的音乐，也许会为你之后的旅行增添充满魅力的闪光点和意想不到的小惊喜。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 7,
+  "episodes": [
+    {
+      "id": "12679eaf65d4b6a69c4f96eefda3da94bf9c5ccc129b255f2b32df77d492f707",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0e9e-audiofreehighqps/54/BD/CMCoOR4DilK0AcrxUwBoEpmX.mp3",
+      "title": {
+        "text": "ep.10: 墨尔本留学、日本高野佛修 撕掉“僧人”标签",
+        "truncated": false
+      },
+      "description": {
+        "text": "“沙砾之中窥见宇宙 星宿之间流淌银河” 被年味“呛”到 连夜“出逃”墨尔本 日本佛旅禅行 高野山上的早殿 社交自媒体下 生动生活着的佛学年轻人 ... Walking Cloud ep.10 我们对出家人的刻板印象还停留在每日诵经念佛的避世修行，可事实上，总有这群不奢求有统一标签的出家人，会颠覆你的认知。本期Walking Cloud邀请到“僧人”明安，将与我们分享“在澳洲的留学打工生活”、“日本禅旅，高野山上的修行”，以及始终与生活保持一段柔软距离的故事。 关注微信公众号/微博[contact removed]，解锁更多惊喜。 本期歌单： 05’20’’《Illusion》VNV Nation - I know it's hard to tell how mixed up you feel 09’56’’《Farewell》茶太 - Felicitas - 揺れるこの想い 16’36’’《Welcome Home》Radical Face - Sleep don't visit so I choke on sun",
+        "truncated": false
+      },
+      "published_at": "Wed, 18 Nov 2020 03:06:30 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "86069780f8b17d5c7bd864aa25e09e76906c80cd71744bca04606546849cb162",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9a08-audiofreehighqps/93/87/CMCoOSMDdXFtAdrHpwBi2xUg.mp3",
+      "title": {
+        "text": "ep.9: 冰面自驾横跨贝加尔湖 深度越野自带血性DNA",
+        "truncated": false
+      },
+      "description": {
+        "text": "“沙砾之中窥见宇宙 星宿之间流淌银河” 冰面自驾 横穿贝加尔湖第一国人 勇闯堪察加火山 探索野性与蛮荒 在青海异域星球 寻找茫崖翡翠之眼 ... Walking Cloud ep.9 本期Walking Cloud邀请到有着9年军旅生涯，曾经是一名特种部队军医的杨凯，酷爱户外旅行的他有着丰富的户外越野旅行经验。作为第一个完成贝加尔湖冰面自驾穿越的中国人，顶着鹅毛大雪感受战斗民族的处变不惊，再到最东边堪察加半岛，看棕熊、爬火山、露营过夜，以及在青海探秘翡翠之眼。如何玩得炫酷且不大众，本期嘉宾杨凯将告诉你答案。 关注微信公众号/微博[contact removed]，解锁更多惊喜。 本期歌单： 06’03’’《贝加尔湖》李健-在我的怀里 在你的眼里 12’43’’《喀秋莎》Георгий Виноградов / The Red Army Choir-Расцветали яблони и груши 18’04’’《追梦人》凤飞飞-让青春吹动了你的长发让它牵引你的梦",
+        "truncated": false
+      },
+      "published_at": "Mon, 02 Nov 2020 06:59:59 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "d6ffbff6be656664c5de0b84d08777f78da38c230887319e6ea95cbabfa80ef7",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/47f7-audiofreehighqps/1C/0D/CMCoOSIDWX9TAXh-bwBcSUV6.mp3",
+      "title": {
+        "text": "ep.8: 西班牙朝圣之路 通向欧洲尽头的灵魂跋涉",
+        "truncated": false
+      },
+      "description": {
+        "text": "“沙砾之中窥见宇宙 星宿之间流淌银河” 西班牙朝圣之旅 灵性启发还是自我探索 代课中文老师普奇赛达路上“误入”艺术之旅 且战且走在漂泊中旅居的“culture shock” ... Walking Cloud ep.8 本期Walking Cloud邀请到台湾有着多国旅居经验的YIN，她说她在人生这条长河有着多重身份，是小画家、设计师，更在巴塞罗那海边有着自己的餐饮民宿。而她今天要和我们分享，在世界上最美的徒步路线之一的“西班牙朝圣之路”，遭遇了多少奇妙偶遇。 微信公众号/微博[contact removed] 本期歌单： 01’42’’《Lonesome Town (1958)》Ricky Nelson-There's a place where lovers go 10’42’’《Spirits in the Material World》Curved Air-There is no political solution 15’00’’《Moguer (Buleras)》Estrella Morente-El dormir es como un puente",
+        "truncated": false
+      },
+      "published_at": "Mon, 12 Oct 2020 02:15:49 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "7e25fdaac9cef317cc3bf867770efd55570b944d264ab63904196249802d1cba",
+      "guid": "https://aod.cos.tx.xmcdn.com/group84/M05/DB/4E/wKg5Hl9RuySR9veBAYFe76YymIg088.mp3",
+      "title": {
+        "text": "ep.7: 在童话奥兰多和奥巴马夫人同台演讲",
+        "truncated": false
+      },
+      "description": {
+        "text": "“沙砾之中窥见宇宙 星宿之间流淌银河” 泰国清迈14天隔离之旅 参观学校差点当校长 在满是迪士尼的奥兰多 与总统夫人同台演讲 跳出喧嚣城市的总督岛 有着纽约港最美日落 ... Walking Cloud ep.7 本期Walking Cloud邀请到锐领教育创始⼈及CEO Serene蘑菇老师，因为长期在美国工作，旅行变成连着事业和家庭的纽带，今天跟着美女蘑菇老师，感受和总统夫人同台演讲的特别旅程。 本期歌单： 01’58’’《Dawn of us》王嘉尔-Let it come 06’15’’《Summer Feeling》Charlie Puth - I hear the rhythm of waves hitting on the shore 14’13’’《Almost Home》余佳运 / Jony J- 吃完这份早餐 看完这本杂志就走",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Sep 2020 03:57:25 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "5eb1faf21d9e23453c8043b00bad02ec87af6ee52e137b1d6dde9d9315496f57",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/277f-audiofreehighqps/B7/15/CMCoOSADABSbAW1klQBH-9ZT.mp3",
+      "title": {
+        "text": "ep.6: 领略全世界美酒在舌尖上的乐趣",
+        "truncated": false
+      },
+      "description": {
+        "text": "“沙砾之中窥见宇宙 星宿之间流淌银河” 在马克吐温笔下的天堂毛里求斯的蜜月之旅 里奥哈不仅好酒遍地 更让“美食家”找到归宿 日本京都文化巡礼 品味传统日式美学 ... 从都市穿梭到居酒屋，在日本沉浸于清酒文化的浓厚氛围；行走在最真实的酒厂，触碰毛里求斯独特的朗姆酒味道；惊然发现西班牙葡萄酒本身自带风格，热情多变，它们是舌尖上的弗拉门戈…… Walking Cloud ep.6 国际认证侍酒师、清酒品鉴家认证讲师、认证澳洲葡萄酒专家 Kobe 的一场领略全世界美酒之旅。 本期歌单： 01’47’’《因你而在》林俊杰-我为你心跳 05’15’’《Look At Me》Alan Jackson - Good looking 11’03’’《Despacito》Luis Fonsi / Daddy Yankee- Ay Ay 14’18’’《恋人も濡れる街角》中村雅俊-不思議な恋は女の姿をして",
+        "truncated": false
+      },
+      "published_at": "Wed, 05 Aug 2020 06:28:45 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "7a5f8eff22192b72980c10ff07db2cd19527a862093e12e48d8024a1a6f08390",
+      "guid": "https://aod.cos.tx.xmcdn.com/group83/M06/A4/2C/wKg5I18FasPhfaQ_AVjag8iQN4s176.mp3",
+      "title": {
+        "text": "ep.5: 拥抱未知的结果是凌晨2点差点误闯泰姬陵？",
+        "truncated": false
+      },
+      "description": {
+        "text": "“沙砾之中窥见宇宙 星宿之间流淌银河” 拉贾斯坦邦公路旅行、差点闯入泰姬玛哈陵 开启挪威味蕾调色板、享受纯白的水下野生世界 和来自世界的朋友、办了一场传统的斯里兰卡婚礼 ... 我们热爱旅行，也热爱音乐，这里是Milky Journey文化旅行品牌（微信公众号/微博/小红书：Milky Journey）旗下旅行音乐电台Walking Cloud，每一期我们会邀请一位旅行达人，来分享他的旅行故事以及私藏灵感歌单，在不同的情境听不同的音乐，也许会为你之后的旅行增添充满魅力的闪光点和意想不到的小惊喜。 Walking Cloud ep.5 看长沙P8星球联合创始人Angela怎么在路上用公路旅行拥抱未知 本期歌单： 03’36’’《Best Part》Daniel Caesar/H.E.R.-Oh ey 07’53’’《Untitled #4》Sigur Rós -Essil on 12’51’’《You Belong To Me》- Carla Bruni-See the pyramids along the Nile",
+        "truncated": false
+      },
+      "published_at": "Wed, 08 Jul 2020 06:42:11 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "9bc2359960da10c9513c1ae6788ed6a32d4247ba6db83b407892f9d0910d1720",
+      "guid": "https://aod.cos.tx.xmcdn.com/group82/M09/D8/0B/wKg5HF9Ru4vRc94AAWTS71hGuwQ235.mp3",
+      "title": {
+        "text": "ep.4: 在日本和荒木经惟坠入影像艺术的旋涡",
+        "truncated": false
+      },
+      "description": {
+        "text": "“沙砾之中窥见宇宙 星宿之间流淌银河” 步入新疆这块遗落在人间的浄土 如果喜欢艺术，就不要错过香港的展览 茶道、花艺、陶瓷 跟着荒木经惟游日本 ... 我们热爱旅行，也热爱音乐，这里是Milky Journey文化旅行品牌（微信公众号/微博/小红书：Milky Journey）旗下旅行音乐电台Walking Cloud，每一期我们会邀请一位旅行达人，来分享他的旅行故事以及私藏灵感歌单，在不同的情境听不同的音乐，也许会为你之后的旅行增添充满魅力的闪光点和意想不到的小惊喜。 Walking Cloud ep.4 看长沙谢子龙影像艺术馆执行馆长卢妮的独特艺文之旅 本期歌单： 03’04’’《在希望的田野上》朴树-快些仰起你那苍白的脸吧 05’56’’《No fear in my heart》朴树-你在躲避什么 11’24’’《平凡之路》朴树-徘徊着的",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Jun 2020 07:16:26 GMT",
+      "feed_index": 6
+    }
+  ]
+}

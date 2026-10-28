@@ -1,0 +1,140 @@
+{
+  "show_id": "1522780452",
+  "feed_url": "http://www.ximalaya.com/album/35534708.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/35534708.xml",
+    "final_url": "http://www.ximalaya.com/album/35534708.xml",
+    "fetched_at": "2026-10-25T14:50:24.940534+00:00",
+    "status": 200,
+    "sha256": "3a89b22a59702d6f6d8c4a6b4555739b2f1c498f2dc11e49a25e8aa3c3aab943"
+  },
+  "status": "ok",
+  "title": {
+    "text": "多伦多话多多—北美加拿大",
+    "truncated": false
+  },
+  "description": {
+    "text": "哥俩儿在北美加拿大-多伦多为您呈现一场不一样的嬉笑怒骂",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 51,
+  "episodes": [
+    {
+      "id": "6ccd760497eb4f9b28b5724cbc828c5a36212bd8088fe1de6a38c6689f263b77",
+      "guid": "xmly_track_623974259",
+      "title": {
+        "text": "第49期马车儿的童年小故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "2023年3月春没暖花儿也没开，因为很多的因素，我们的瑞小暂时隐退，但是我们决定还是要把多伦多话多多做下去，于是大表哥请来了一个客座嘉宾 - 马车儿。 一个地道的北京出生，3岁来到加拿大的准CBC跟大家聊一聊，因为最近一段时间马车儿跟表哥聊了很多事情中间有很多很多逗事儿，希望能给大家在无聊的时间带来一些乐趣。也让马车儿热热身，等以后聊开了，会给大家带来更多的乐趣和对中国小孩儿在加拿大的生活带来一些不一样的体验。破除刻板印象!",
+        "truncated": false
+      },
+      "published_at": "Wed, 05 Apr 2023 17:44:45 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "77bef1e7fb25e0de60178b95af2374b22dbf03fbe249f010b6cab9bccbba9d64",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5aee-audiofreehighqps/5D/D5/CKwRIUEEbaXPABAAAACowIxR.mp3",
+      "title": {
+        "text": "第42期 - 北京宿醉多伦多（3）",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：大表哥，瑞小 嘉宾：龑（yǎn）哥 宿醉系列的第三期节目了，什么都不用再介绍了，大家就听听我们哥仨的传奇经历吧！",
+        "truncated": false
+      },
+      "published_at": "Sun, 09 May 2021 13:26:39 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "c5028150d5dfacb39501a9c4de6dffc4aa794af4c426b848cf67f743a216890a",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0d17-audiofreehighqps/95/51/CKwRINsD5yd-ABAAAACAki8f.mp3",
+      "title": {
+        "text": "第35期 - 多伦多话多多北京首次合体！",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：大表哥，瑞小 回京3个多月了，因为瑞小被各种各样的事情困扰无法开始新的录音，在上一期节目传完后实在是没有库存了，知道着急了，赶紧想约大北京，哥俩终于在分别三个月后见面了！",
+        "truncated": false
+      },
+      "published_at": "Wed, 27 Jan 2021 13:04:48 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "961c60e59868bd24296aa89fcbc9fe7979738904c79aa8e3149afd14d126de8e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/26f6-audiofreehighqps/DA/16/CMCoOSIDdtnIBWSETgBjNi18.mp3",
+      "title": {
+        "text": "第29期 - 加拿大看病备忘录",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：大表哥，雪姐，瑞小 人吃五谷杂粮没有不生病的，尤其是在异国他乡，在语言不通，文化不通的背景下变得更为艰难。三位主播无一例外的都见过了加拿大的医生，我们起码知道了医院的大门往哪开了，但和国内相比见医生却变得没那么容易。",
+        "truncated": false
+      },
+      "published_at": "Tue, 03 Nov 2020 08:37:33 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "83a40498414a6f620a8152f7dab3d3bac7377c91e9e08c5540df10b94add9e3c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group83/M03/F3/5A/wKg5I188mu-TpX-fBZmtPmuG4W0716.mp3",
+      "title": {
+        "text": "第21期 - 老司机",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：大表哥，瑞小 这期聊聊我们在这边开车的故事，在这边没有车就和没有腿差不多，去哪里都不方便。有了车以后，时不常的就能从后视镜看到红蓝闪烁的灯光和马路上的一些趣事。",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Aug 2020 03:22:25 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "caf7f09ecf225ab267a6a7523c03ed99192f08941e93e7f046558dcb83d178d9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group87/M05/F9/20/wKg5J17yuoqTWuZoBNkkJv9WbHE956.mp3",
+      "title": {
+        "text": "第14期 - 加拿大奇妙美食之旅",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：大表哥，瑞小 是否只吃过老北京土耳其肉夹馍而没真正的尝过人本家儿的是什么味儿？喝没喝过桂皮水？吃没吃过蘑菇和茴香刺身？ 当然也有让你欲罢不能的肉汁薯条Poutine 和 已经倒闭了的软壳蟹汉堡，来看看加拿大有什么新奇的食物让你流连忘返！",
+        "truncated": false
+      },
+      "published_at": "Wed, 24 Jun 2020 02:29:31 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "aee4a897ff527601619bfcd222ec9623b60668e0565fd0c41476538dad92f467",
+      "guid": "https://aod.cos.tx.xmcdn.com/group80/M02/C2/C7/wKgPEV6o8iCghkwYA_B1RDYH-tc999.mp3",
+      "title": {
+        "text": "第7期 - 时间管理大师",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：大表哥，瑞小 最近突然爆出罗老师的瓜，哥俩就时间管理的事情展开了热烈的讨论，最后有点聊跑题了，希望大家听的开心。",
+        "truncated": false
+      },
+      "published_at": "Wed, 29 Apr 2020 03:18:57 GMT",
+      "feed_index": 43
+    },
+    {
+      "id": "5f76bedee0365bd3b07effec5cf0aa0e737924f3366fc8c123665e9d64c99264",
+      "guid": "https://aod.cos.tx.xmcdn.com/group73/M05/B0/D7/wKgO0V5zY-Dg4FZJAhiUM66fJsE113.mp3",
+      "title": {
+        "text": "第1期 - 开篇之我们来了！",
+        "truncated": false
+      },
+      "description": {
+        "text": "两个北京孩子在北美多伦多为您呈现一场不一样的嬉笑怒骂。 主播：瑞小，大表哥 本期内容，主要是哥儿俩像孙猴子一样从石头缝儿里蹦出来。让大家对我们哥儿俩有个简单的了解，两位从北京南城混出来的野孩子在加拿大东岸多伦多，为大家呈现一期别有味道的开篇曲。",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Mar 2020 12:22:21 GMT",
+      "feed_index": 50
+    }
+  ]
+}

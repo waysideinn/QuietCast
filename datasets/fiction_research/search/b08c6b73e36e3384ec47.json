@@ -1,0 +1,39 @@
+{
+  "group": "normal",
+  "term": "电影评论",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:43:47.177508+00:00",
+    "status": 200,
+    "sha256": "d065f8a0d51105b22dbb919dc5290a62a998a5ea10946173f2b3550a27730251"
+  },
+  "result_count": 1,
+  "records": [
+    {
+      "collectionId": 1778852704,
+      "trackId": 1778852704,
+      "collectionName": "电影评论家",
+      "artistName": "小鱼游记",
+      "feedUrl": "https://www.ximalaya.com/album/83803027.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA%E5%AE%B6/id1778852704?uo=4",
+      "genres": [
+        "影评",
+        "播客",
+        "电视与电影",
+        "电影专访"
+      ],
+      "genreIds": [
+        "1563",
+        "26",
+        "1309",
+        "1565"
+      ],
+      "trackCount": 212,
+      "releaseDate": "2026-10-07T04:03:00Z",
+      "country": "CHN",
+      "primaryGenreName": "影评"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "show_id": "1545278203",
+  "feed_url": "https://anchor.fm/s/4484abb8/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/4484abb8/podcast/rss",
+    "final_url": "https://anchor.fm/s/4484abb8/podcast/rss",
+    "fetched_at": "2026-10-25T14:56:02.202127+00:00",
+    "status": 200,
+    "sha256": "980f0d2c0f9f3dcb4ed801e4584e94cd4831d184e53e56a2a29255a0019968c9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "FLOWER OF LIFE 19～団塊ジュニア女性の心の花瓶に水を注ぐラジオ",
+    "truncated": false
+  },
+  "description": {
+    "text": "団塊ジュニア女性として 豊かに幸せに生きていくことを 応援し合いたいラジオです。 この世代特有の時代の課題や 困難について、 考えを共有し、癒し、慈しみ合うことで うまく意味づけし、消化していくこと、 自分たちに与えられた特別な物語を 素敵なものにしていくために 今日も微笑んで生きていく、 そのための活力をチャージしていく番組を目指しています。 ◆FLOWER OF LIFE（ミニ）はstand.fmにて、もう少しコンパクトに放送開始しています。 https://stand.fm/channels/5fd9eead47dfe99c8b0f0eeb ◆twitterもよろしくお願いいたします。 @FLOWEROFLIFE_19",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 3,
+  "episodes": [
+    {
+      "id": "0f48d195008d683eee84d9690364af9819f9700c473478cba7207dc13340b381",
+      "guid": "3439bd25-6fa3-41c7-ac53-f0dc87af7879",
+      "title": {
+        "text": "【201223-No03】子供が不登校になった話",
+        "truncated": false
+      },
+      "description": {
+        "text": "2020年、コロナがもたらした影響は我が子にも及んでいました。 中学3年生で受験を控えた状況下での不登校となった今年、 その不登校をきっかけに家族が潜在的に抱えていた膿が明るみになることとなりました。",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Dec 2020 21:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d716d5f13d100b2811891325d40cae0c10e80e7f9985dd2a8f13380036088f64",
+      "guid": "5c0df65a-ff9a-494c-853d-c6ea02947244",
+      "title": {
+        "text": "【201219-No02】今年試練の局面を迎えた方へ",
+        "truncated": false
+      },
+      "description": {
+        "text": "2020年の星の配置に関する話（ミニ版FLOWER OF LIFE）の補足（牡羊座・山羊座）と 2020年という1年に試練や人生の局面を迎えられた方へ ツラい時間を自分がどう乗り越えたのかについても少し触れました。 ※お詫び：収録内で「2000年に1度」という話が出てきますが、正確には土星、木星、冥王星の3天体がほぼぴったり重なる現象が今年から前後2000年以内にはない現象だったという事のようです。",
+        "truncated": false
+      },
+      "published_at": "Fri, 18 Dec 2020 22:00:00 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "4fe1b8a0af1a22941b79fa207af60036a1fb75661204beede56ea3f8fb1a2c02",
+      "guid": "775ce021-3e50-4540-b4a1-dc4512deeab9",
+      "title": {
+        "text": "【201217-No01】FLOWER OF LIFEラジオ放送スタート！",
+        "truncated": false
+      },
+      "description": {
+        "text": "初回はFLOWER OF LIFE のお話と 私19（ないん）の自己紹介などです。",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Dec 2020 21:35:20 GMT",
+      "feed_index": 2
+    }
+  ]
+}

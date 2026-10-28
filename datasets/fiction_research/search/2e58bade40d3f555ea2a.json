@@ -1,0 +1,87 @@
+{
+  "group": "boundary",
+  "term": "儿童科普",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%84%BF%E7%AB%A5%E7%A7%91%E6%99%AE&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%84%BF%E7%AB%A5%E7%A7%91%E6%99%AE&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:45:48.982785+00:00",
+    "status": 200,
+    "sha256": "32a6c42d17b6dc8fdae7ab6b0800caa61b1f2af2308b6a6e2b7a6e402ecc0ef6"
+  },
+  "result_count": 3,
+  "records": [
+    {
+      "collectionId": 1616386196,
+      "trackId": 1616386196,
+      "collectionName": "3-6岁儿童科学百科故事|睡前科普故事",
+      "artistName": "小艾姐姐FM",
+      "feedUrl": "http://www.ximalaya.com/album/60789081.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/3-6%E5%B2%81%E5%84%BF%E7%AB%A5%E7%A7%91%E5%AD%A6%E7%99%BE%E7%A7%91%E6%95%85%E4%BA%8B-%E7%9D%A1%E5%89%8D%E7%A7%91%E6%99%AE%E6%95%85%E4%BA%8B/id1616386196?uo=4",
+      "genres": [
+        "儿童教育",
+        "播客",
+        "儿童与家庭",
+        "儿童故事"
+      ],
+      "genreIds": [
+        "1519",
+        "26",
+        "1305",
+        "1520"
+      ],
+      "trackCount": 134,
+      "releaseDate": "2023-04-08T11:59:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童教育"
+    },
+    {
+      "collectionId": 927325973,
+      "trackId": 927325973,
+      "collectionName": "lipstar的儿童科普智慧故事",
+      "artistName": "lipstar",
+      "feedUrl": "http://www.ximalaya.com/album/280759.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/lipstar%E7%9A%84%E5%84%BF%E7%AB%A5%E7%A7%91%E6%99%AE%E6%99%BA%E6%85%A7%E6%95%85%E4%BA%8B/id927325973?uo=4",
+      "genres": [
+        "教育",
+        "播客",
+        "艺术",
+        "表演艺术"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1301",
+        "1405"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2014-09-28T16:21:00Z",
+      "country": "CHN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1847320016,
+      "trackId": 1847320016,
+      "collectionName": "《蓝蓝的安全超能力》丨儿童科普",
+      "artistName": "松鼠娱乐",
+      "feedUrl": "https://www.ximalaya.com/album/108647406.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%93%9D%E8%93%9D%E7%9A%84%E5%AE%89%E5%85%A8%E8%B6%85%E8%83%BD%E5%8A%9B-%E4%B8%A8%E5%84%BF%E7%AB%A5%E7%A7%91%E6%99%AE/id1847320016?uo=4",
+      "genres": [
+        "儿童教育",
+        "播客",
+        "儿童与家庭",
+        "育儿"
+      ],
+      "genreIds": [
+        "1519",
+        "26",
+        "1305",
+        "1521"
+      ],
+      "trackCount": 37,
+      "releaseDate": "2026-02-20T11:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童教育"
+    }
+  ]
+}

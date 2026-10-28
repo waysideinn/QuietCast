@@ -1,0 +1,140 @@
+{
+  "show_id": "1191410221",
+  "feed_url": "http://www.ximalaya.com/album/5807748.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/5807748.xml",
+    "final_url": "http://www.ximalaya.com/album/5807748.xml",
+    "fetched_at": "2026-10-25T14:47:56.916515+00:00",
+    "status": 200,
+    "sha256": "7312a75a680f802f3c6cace853a1ec647760309bc7ccb2e19fe0c193f9764a38"
+  },
+  "status": "ok",
+  "title": {
+    "text": "颠覆性儿童益智心理学童话集",
+    "truncated": false
+  },
+  "description": {
+    "text": "别让 “一天一个新故事” 害了您的孩子！ 这就如一天认识一个人一样，认识多少人对你都没有意义！--（有必要写在专辑介绍前的话） 不管是传统经典童话还是当下流行的各类绘本故事，都未曾从心理学层面、结合认知科学和记忆科学去打造儿童益智童话故事的。这里的益智是指 去除孩子思维的束缚， 激发儿童基础思维能力，提高儿童思辨能力，培养积极主动的思维习惯、科学的思维方法。 儿童是在逐渐深入认知这个世界的过程中慢慢长大的，脱离开认知科学，泛泛的谈论儿童心理健康是舍本逐末的行为；脱离开社会的竞争本质谈论儿童教育也不过是镜花水月。 我创立的立体故事纯粹为听而创作，而目前流行的儿童绘本故事以绘画为主，纯粹听绘本故事无异舍本逐末； 立体故事不仅仅关注 有序开发儿童智力，同时潜移默化的将一些积极的、良好的心理机制植入到孩子的潜意识层面 。 我的故事表面上看起来是比较简单有趣，其实文字本后隐藏了不少心理学、认知科学的内容。让孩子在多次倾听同一个故事的过程中，不断的自主发现，真正的做到了对儿童心、智教育的“润物细无声”。 听高智商的故事，成就高智商的人生！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 51,
+  "episodes": [
+    {
+      "id": "e326bbc7fce66b25543f61b6b472ff0f153bf8ef1b079c87e6af0023b9a996f7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group42/M08/63/74/wKgJ9FqiUEOgj4GWADQi5JGAm7k181.m4a",
+      "title": {
+        "text": "纸片人",
+        "truncated": false
+      },
+      "description": {
+        "text": "一个叫皮皮的女生在自己的阳台上碰见了一个纸片人，她本以为。。。。。。",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Mar 2018 10:19:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "2cba5d155485ff76b886c58034e17f241ad46ce502c5fd93c086165ef3c92ecd",
+      "guid": "https://aod.cos.tx.xmcdn.com/group25/M04/35/43/wKgJMVglN6qTbK4mAEd4_P0keqg301-aacv2-48K.m4a",
+      "title": {
+        "text": "采蘑菇的大灰狼 （拆掉束缚思维的墙）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 11 Nov 2016 03:15:11 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "75d1d6e6ced4013709f9639301638168e454253271ac372fd45401127ed802fd",
+      "guid": "https://aod.cos.tx.xmcdn.com/group21/M08/E9/66/wKgJLVhbsHKDk8lpACeQFkRQ8l0168-aacv2-48K.m4a",
+      "title": {
+        "text": "最会哭的兔子 （最佳的情绪认知与管理）",
+        "truncated": false
+      },
+      "description": {
+        "text": "目前市面上有关情绪管理的童话绘本都太简单化了。。。。",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Dec 2016 13:07:00 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "0a0eabc85b7cf03edeac43ccdde7aef9240d74edcd207fe41931d1579835a05f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group24/M00/FA/71/wKgJMFhfXuCxm3MXAFNwJcQkA0c825-aacv2-48K.m4a",
+      "title": {
+        "text": "没有毛的猫 （自我认知需要一个过程）",
+        "truncated": false
+      },
+      "description": {
+        "text": "孩子的自我认知其实是一个比较复杂的过程，在这个过程中可能因为父母的失误导致一些潜藏的能力还未曾发芽就泯灭了。",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Dec 2016 13:07:00 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "e39802018cfab3cd398b49230780dfcf20d1ac5c40a2a0e0c5bf05b07b5ac38e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group21/M05/BF/09/wKgJKFhQqk6A7vBGADL4zklNTIk382.m4a",
+      "title": {
+        "text": "同学，我是老师 （孩子们心领神会的故事）",
+        "truncated": false
+      },
+      "description": {
+        "text": "儿童对成人的世界充满了向往和模仿，以有趣的方式引导孩子认知部分真实的成人世界，对他们的成长是极有裨益的。",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Dec 2016 13:03:00 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "a21994af87bb73823663463e42aae5019650404823fc2e133190a22a77d7f595",
+      "guid": "https://aod.cos.tx.xmcdn.com/group23/M04/97/6E/wKgJNFhGGZ7xKgKCAExAL7ErKK8550-aacv2-48K.m4a",
+      "title": {
+        "text": "眼睛里的小精灵 （让孩子自己学会管理自己）",
+        "truncated": false
+      },
+      "description": {
+        "text": "儿童教育的关键是认同孩子的自我价值！",
+        "truncated": false
+      },
+      "published_at": "Tue, 06 Dec 2016 12:46:00 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "94f6b4329a026034051da097302e855ad53d02fb6b472d1ce90a55e3405dc449",
+      "guid": "https://aod.cos.tx.xmcdn.com/group24/M04/63/E7/wKgJNVg2v6LB5DT9AHLyQDoC-GM911-aacv2-48K.m4a",
+      "title": {
+        "text": "九个脑袋的妖怪（帮助孩子冲破束缚）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 24 Nov 2016 12:40:36 GMT",
+      "feed_index": 43
+    },
+    {
+      "id": "27c4c936f69f35846ab8e08d6b2d24fef52da4e1a3f8f59c19c03f023086f1aa",
+      "guid": "https://aod.cos.tx.xmcdn.com/group21/M08/35/63/wKgJKFglNi3SQUL8AEo1biAjjV4177-aacv2-48K.m4a",
+      "title": {
+        "text": "屁股弟弟 （复杂内容的简单化）",
+        "truncated": false
+      },
+      "description": {
+        "text": "不管是传统经典童话还是当下流行的各类绘本故事，都未曾有以益智为基本创作方向的。这里的益智是指激发儿童基础思维能力，提高儿童思辨能力，培养科学的思维方法、去除思维的束缚。 脱离开认知科学，泛泛的谈论儿童心理健康是舍本逐末的行为；脱离开社会的竞争本质谈论儿童教育也不过是镜花水月。 我创立的立体故事纯粹为听而创作，而目前流行的儿童绘本故事以绘画为主，纯粹听绘本故事无异舍本逐末； 立体故事不仅仅关注儿童心理，更注重从认知科学的角度去有序开发儿童智力。 我的故事表面上看起来是比较简单有趣，其实文字本后隐藏了不少心理学、认知科学的内容。真正的做到了对儿童教育的“润物细无声”。 听高智商的故事，成就高智商的人生！",
+        "truncated": false
+      },
+      "published_at": "Fri, 11 Nov 2016 03:09:09 GMT",
+      "feed_index": 50
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1447860187",
+  "feed_url": "http://www.ximalaya.com/album/20095847.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/20095847.xml",
+    "final_url": "http://www.ximalaya.com/album/20095847.xml",
+    "fetched_at": "2026-10-25T14:49:26.750984+00:00",
+    "status": 200,
+    "sha256": "ad4c16aa35fc60721d3e22d2ca1ebb21e80bf3768f7c7f86f679c1bf829b7482"
+  },
+  "status": "ok",
+  "title": {
+    "text": "未竟之地|大咖访谈治愈系设计课",
+    "truncated": false
+  },
+  "description": {
+    "text": "心+设计学社 在纷扰的设计界中，他们自发在这里分享各自所长领域中积累的专业知识，秉承匠人精神，通过优秀设计师之间的交流互动，促进设计产业良性发展，倡导“用心·创新·复兴”的精神回归设计本质，以“心+设计学社”之名，在业内凝聚成一股强大的正能量。这，便是心+设计学社。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 12,
+  "episodes": [
+    {
+      "id": "960ac1895734787cbe9a1ffa0e761d8e33c2d6d1326a4eaf4aba70486d3e7f1a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group53/M07/58/97/wKgLcVwZvoKTI_sKAfWV1XGD2gY729.mp3",
+      "title": {
+        "text": "本期嘉宾：赖连取、李文敏",
+        "truncated": false
+      },
+      "description": {
+        "text": "心+设计学社 在纷扰的设计界中，他们自发在这里分享各自所长领域中积累的专业知识，秉承匠人精神，通过优秀设计师之间的交流互动，促进设计产业良性发展，倡导“用心·创新·复兴”的精神回归设计本质，以“心+设计学社”之名，在业内凝聚成一股强大的正能量。这，便是心+设计学社。",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Dec 2018 03:44:11 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f7656dca3646fcef493083733b04ffd3bbf449a683f4d1ba6174005e8327361d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group53/M02/5D/71/wKgLcVwZ90LRmQkiAd9no8m2mI8389.mp3",
+      "title": {
+        "text": "本期嘉宾：林琮然、赵志勇",
+        "truncated": false
+      },
+      "description": {
+        "text": "嘉宾简介 林琮然， 青年建筑师，意大利米兰Domus Academy建筑与都市设计硕士，心+设计学社创始会员；2007年创立CROX阔合国际有限公司；于2016年成为首位同时策展意大利米兰三年展与威尼斯国际建筑双年展的华人设计师。代表作品有：江苏省溧阳博物馆、友邦集成吊顶总部园区、青田砚、U-CUBE南西创想中心、UNI SPACE南京灰鲸联合空间。艺术作品有：龟椅、回合、船烟。作品及设计哲思广受全球国际知名媒体关注、报导，如：中国中央电视台CCTV、意大利国家电台、东方早报、archdaily，dezeen，domus、外滩画报、理想家IDEAT等。2016年，米兰三年展策展人2016年，威尼斯国际建筑双年展官方邀请参展建筑师、分展区“7+1凝聚设计源动力”策展人2014年，意大利A’design Award策展人2013年，室内设计奥斯卡奖安德鲁‧马丁国际设计年度大奖 个人设计理念 ：以“前卫自然”的建筑空间传导东方人文价值。设计源于想象的无形和有机，建筑师应模糊自身身份，突破建筑权限，将其对东西文化的深度理解及犀利观察转化为从建筑到其他领域的自在多元创作，让建筑成为文化的一种诉说方式。 赵志勇， 上海师范大学美术学院副院长。 国际联合设计联盟（United Designs Alliance）副理事长，（全国）教育书画协会高等美术教育学会常务理事，海上图志品牌设计总监。研究方向",
+        "truncated": true
+      },
+      "published_at": "Fri, 21 Dec 2018 04:00:01 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "f6f31a042b70f1f3d073e7e8853e58951b6189ee38168c165b75ea921a4f5674",
+      "guid": "https://aod.cos.tx.xmcdn.com/group54/M04/5D/59/wKgLfVwZ-F3hJ0_7AKo4GHwj7rY971.m4a",
+      "title": {
+        "text": "本期嘉宾：颜呈勋、韩挺",
+        "truncated": false
+      },
+      "description": {
+        "text": "嘉宾简介： 颜呈勋， MRT DESIGN 穆哈地设计咨询（上海）有限公司 创始人，设计总监。美国哈佛大学设计学院建筑学硕士，美国杜克大学经济& 艺术史学士；心+设计学社创始会员；1995年创立 MRT DESIGN 穆哈地设计咨询（上海）有限公司，期间，创办MRKT 产品品牌并担任创意总监；致力于建筑规划、室内空间及产品设计。空间设计作品跨越商业楼、品牌零售展厅、地产售楼处、会所、样板房等多种类型；代表作品有：野兽派北京三里屯店、绿地张江缤纷广场、绿地虹口商业广场、徐汇万科中心、kingbaby珠宝店、上海新天地吃饱了店、重庆自由贸易港城等。 2012 - 至今复旦大学视觉艺术学院 特聘讲师 毕业论文导师 2016 年 广州设计周40 UNDER 40 中国设计杰出青年; 2015年获得搜狐焦点家居2014年度杰出设计人物奖； 2013年获得上海设计之星荣誉称号； 2010-12年 香港大学（上海分校）特聘讲师 2003年 上海同济大学 都市规划部 访问学者 个人设计理念 ： 设计是理性的，设计的实质是分析问题并想出它的解决办法，以此来满足功能上的需求，而不是追求所谓的装饰艺术，当功能性与艺术性发生冲突的时候，而令人惊艳的艺术构想都必须向功能做出让步。 韩挺， 上海交通大学设计学院副院长，博士、博导、副教授，上海浦江人才计划入选者（2013）。主持工程院重大咨询课题子课题、重点咨",
+        "truncated": true
+      },
+      "published_at": "Sat, 22 Dec 2018 04:00:01 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "82add234d5986531117ab49bed93f641ea43a5239aafa8f5fcbe3bc4bfde78d1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group53/M09/E9/8E/wKgLfFwsLy-hQ38gAmAKnaElo-E966.mp3",
+      "title": {
+        "text": "本期嘉宾：邱春瑞、郭屹民",
+        "truncated": false
+      },
+      "description": {
+        "text": "嘉宾简介： 邱春瑞， 大易国际设计事业有限公司创始人、总设计师。 台湾中原大学室内设计研究所硕士，心+设计学社创始会员；独树一帜的设计作品多次获得国际各类设计奖项；代表作品有：珠海横琴莲邦广场艺术中心、惠州中信紫苑汤泉茶馆销售中心、深圳绿景红树湾1号销售中心、宜春江湖禅语销售中心、宇宏健康花园销售中心、万科时代之光销售中心、岸芷汀兰销售中心、华联城市全景花园样板示范单位、万科时代之光叠墅样板示范单位等。 郭屹民， 东南大学建筑系副教授，结构建筑学研究中心主任。",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Jan 2019 04:00:02 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "c043864eb7eae58f67d6150f838fba088077dcb375bdd591e830c62f8efdbd42",
+      "guid": "https://aod.cos.tx.xmcdn.com/group54/M06/E8/97/wKgLclwsMfvRcitvArqgipttI-Y158.mp3",
+      "title": {
+        "text": "本期嘉宾：赖建安、赵志勇",
+        "truncated": false
+      },
+      "description": {
+        "text": "嘉宾简介： 赖建安， 心+设计学社创始会员；涉足建筑、室内、装置艺术等多个设计领域；成立集慧堂装置艺术设计机构及秀茶事连锁茶文化体系国际公司，积极拓展软装艺术及茶文化推广。代表作品有：马来西亚豪丽胜大酒店、苏州广运国际环球金融中心、 东灿五金贸易公司全球总部、 J3 space-简三空间、上海锐驰总部、百年吴裕泰茶庄-裕泰东方、安薇塔英国下午茶连锁茶屋等。 赵志勇， 上海师范大学美术学院副院长。 国际联合设计联盟（United Designs Alliance）副理事长，（全国）教育书画协会高等美术教育学会常务理事，海上图志品牌设计总监。研究方向：书籍设计、品牌设计、艺术人类学理论与方法。",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Jan 2019 04:00:03 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "9f223a5b41b73867c42667136213baa97aaac5fa120b64f4415360b600fe4bd3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group52/M05/7C/A5/wKgLcFw-yFbSlzEdA0ypHP8hWxY094.mp3",
+      "title": {
+        "text": "本期嘉宾：张清平、韩挺",
+        "truncated": false
+      },
+      "description": {
+        "text": "嘉宾简介： 张清平， 天坊室内计划有限公司 创始人/总设计师 现任中国台湾室内设计专技协会理事长；心+设计学社会员；深圳市创想公益基金会执行理事；代表作品有龙的DNA、大明大放、成都朗基望今缘、大连耕海国民院子、深圳湾游艇会会所、赣州宝能太古城、中国华商金融中心、邯郸美食林环球中心等。 2011—2017年，获英国“Andrew Martin”国际设计年度大奖； 2015年，成为美国Interior Design \"Hall of Fame\"名人堂成员； 2016年，获德国“Red Dot Award”——“Best of the Best”； 2016年，获意大利“A'Design Award Competition”； 2017年，获德国“IF”设计大奖； 2017年，获美国“IDEA”工业设计大奖。 韩挺，上海交通大学媒体与设计学院副院长，博士、博导、副教授，上海浦江人才计划入选者（2013）。主持工程院重大咨询课题子课题、重点咨询项目子课题、973项目子课题、上海市哲学社会科学“十二五”规划课题、上海交通大学文理交叉课题和科研创新计划项目等。承担Intel、Samsung、Nissan、Mazda、Hp、Yamaha、GE、Panasonic等国际合作项目和研究课题。研究方向：设计管理和设计战略、用户研究和产品开发、体验和交互设计等，目前任中国创新设计产业战略联盟副秘书长，",
+        "truncated": true
+      },
+      "published_at": "Thu, 17 Jan 2019 04:00:01 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "98e7598cf8261422c796ea24d370421343f3384f3f03e91a675fdbec7f4511a3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group53/M09/7E/D2/wKgLcVw-zpiBv6tVAvkTnG9jJdo564.mp3",
+      "title": {
+        "text": "本期嘉宾：凌子达、吴国欣",
+        "truncated": false
+      },
+      "description": {
+        "text": "嘉宾简介： 凌子达 达观国际设计事务所 创始人&设计总监 法国Conservatoire National des Arts et Metiers 建筑管理硕士，心+设计学社创始会员。2001年，创立了达观国际设计事务所，致力于建筑室内空间设计领域。2006年，出版个人作品集《达观视界》，致力于将自身经验、设计心得与社会分享，以最深切情感提携后辈，牵手共进。代表作品有：深圳万科麓城售楼处、广州时代外滩会所、上海建发展示中心、日照华润中心售楼处等； 自2008年以来已获得436项设计类奖项，以下为部分奖项： 1. 获德国红点 （REDDOT） 工业设计领域大奖 5 项 2. 获德国 IF 设计大奖共 6 项 3. 连续 7 年获得意大利 A’Design 大奖，共 34 项大奖 4. 四次 获得设计界奥斯卡奖之称的英国伦敦安德马丁 （ Andrew Martin ） 国际室内设计大奖 5.三次获得美国工业设计优秀奖（IDEA）,共9项大奖 6.年荣获美国洛杉矶INTERNATIONAL DESIGN大奖的28项大奖，其中6项为金奖 吴国欣 同济大学建筑与城市规划学院/设计创意学院教授； 上海世博会工程建设指挥部办公室副总工程师。",
+        "truncated": false
+      },
+      "published_at": "Fri, 18 Jan 2019 04:00:01 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "e9527f08938177baefaad2eb200d185550cd962a0b593d0bce1b2e71ee56d087",
+      "guid": "https://aod.cos.tx.xmcdn.com/group55/M05/1E/01/wKgLf1xrlv_zMEvQAQYlnlVwB7Y597.mp3",
+      "title": {
+        "text": "本期嘉宾：朱志康、吴国欣",
+        "truncated": false
+      },
+      "description": {
+        "text": "嘉宾简介： 朱志康， 朱志康室内装修设计有限公司创始人、设计总监。 心+设计学社会员，因作品成都方所书店被欧洲的趋势媒体列为设计趋势指标，同时也获得了德国、日本、香港、美国、中国各地数十项最具权威的设计奖项。AD安邸杂志封他为AD100中国百大最具影响力设计菁英，国际版AD杂志将成都方所书店评为《世界最美书店》之一；多达10余种语言的杂志媒体报道。2016年，受欧洲策展单位GAA邀请，在威尼斯建筑双年展官方平行展”Time Space Existence”中展出全新概念创作《山‧水》；2017年，GAA再度邀请参与2017威尼斯艺术双年展”Human Structure”。同年，获《PRESTIGE》品杂志2016年第一届40 UNDER 40年度风云人物。代表作品：成都方所书店、城市客栈宽窄巷。 吴国欣， 同济大学建筑与城市规划学院/设计创意学院教授；上海世博会工程建设指挥部办公室副总工程师。",
+        "truncated": false
+      },
+      "published_at": "Tue, 19 Feb 2019 05:45:37 GMT",
+      "feed_index": 11
+    }
+  ]
+}

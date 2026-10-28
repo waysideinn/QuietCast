@@ -1,0 +1,140 @@
+{
+  "show_id": "1654311391",
+  "feed_url": "https://www.ximalaya.com/album/72424029.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/72424029.xml",
+    "final_url": "https://www.ximalaya.com/album/72424029.xml",
+    "fetched_at": "2026-10-25T14:44:56.525506+00:00",
+    "status": 200,
+    "sha256": "79f423c967b482d024c81f641a4677ccbc5a8d4891c6289ffd980a810bbcfdea"
+  },
+  "status": "ok",
+  "title": {
+    "text": "有声小说主题曲合集--喜马拉雅主播曼小西言情系列",
+    "truncated": false
+  },
+  "description": {
+    "text": "本专辑下音乐，均出自喜马拉雅主播曼小西播讲的言情小说主题曲，欢迎收听",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 9,
+  "episodes": [
+    {
+      "id": "5f02608016aa24571444f925afd01348dbe3b310f39c8605c765e70dbd7e9f68",
+      "guid": "xmly_track_724874980",
+      "title": {
+        "text": "审判者《弥罪》主题曲",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 25 Apr 2024 06:10:27 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "96b96062405a5ee598c0d092653c87968e37ba8834d8354e5760ec04c2092452",
+      "guid": "xmly_track_670839229",
+      "title": {
+        "text": "星河欲转千帆舞《凌迟后，我横扫后宫赢麻了》 主题曲",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 03 Oct 2023 17:15:44 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "fa18f60fa9f32ca1b8ee875a179863b0a4f84b4abbde0e6919d73d5884455201",
+      "guid": "xmly_track_663119714",
+      "title": {
+        "text": "一眼如初 《农门毒医：拐个王爷来种田》 主题曲",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Sep 2023 05:24:12 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "97a42bf9021960115fe9ead4ff24d489b83d5b195f71d2c89feb0d33d7c360b6",
+      "guid": "xmly_track_605843270",
+      "title": {
+        "text": "醉眼看人间《顾七她只想种田 》 主题曲",
+        "truncated": false
+      },
+      "description": {
+        "text": "顾七重生了，可惜人品不佳，赶上渝州府六十年未见的旱灾。 身上没钱，肚里没粮，身后还跟着大龄拖油瓶。 看顾七如何赤手空拳风雨逆转 一路买买买，买田买房买山头， 打土匪战流寇收小弟，建商圈做首富 玩转资本市场 姐这一生就是要叱咤风云、富到流油~！ ps：女主钢铁直，专注搞事业。（没有宅斗，没有宫斗...不是玛丽苏...） 欢迎由喜马拉雅和阅文集团联合出品的有声书《顾七她只想种田》 搜索曼小西或者 《顾七她只想种田》都可以看到哟",
+        "truncated": false
+      },
+      "published_at": "Fri, 20 Jan 2023 08:26:42 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "e92d37994f783dfa7c7f3a5a7859b36476e59b1db1deb85f8ea240f475408416",
+      "guid": "xmly_track_604418963",
+      "title": {
+        "text": "停留《赴书之约（叔途同归）》主题曲",
+        "truncated": false
+      },
+      "description": {
+        "text": "白苏不小心穿进自己熬夜追的小说里，成了炮灰女配，还是眼见着就要见阎王那种怎么破？ 当然是果断抱住未来权倾天下的首辅小叔苏御大腿啊！ 家徒四壁，饿死自己也得让小叔吃好睡好。 奇葩找茬，抗揍挨骂也得让小叔毫发无损。 后来的后来，那人猩红着眼跪在床前，十指交握，寸寸亲吻， 哑着声说：“乖，别哭了。” 他肖想她多年，欲念入骨至髓，无人能知，无人可挡！ 欢迎收听《赴书之约》原名：叔途同归 首辅大人求跑腿",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 Jan 2023 08:20:34 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "57081707177c364738cf71bd2d6c621d155d8a4c8780a0414385aa4ff0c6785b",
+      "guid": "xmly_track_604415486",
+      "title": {
+        "text": "念暖《黑白之间（白先生的黑莲花）》主题曲",
+        "truncated": false
+      },
+      "description": {
+        "text": "乔暖暖经常教育白宇笙：“做人呢，切记不要忍气吞声！要是有人欺负你呢，你就拿巴掌呼他脸上，拿脚踩他身上！啧啧，那滋味别提多爽！放手去做，姐罩着你！” 在别人眼里，乔暖暖是个只会阴人的黑莲花，白宇笙是个心狠手辣的冰山男。 可在他们彼此眼中，一个是张牙舞爪的小奶猫，一个是只会撒娇的小奶狗。 难道这便是传说中的----情到深处自然萌？ 欢迎收听 多人有声剧 《白先生的黑莲花》| QQ阅读高分作品|甜宠丝滑 | 爆笑来袭 请搜索 曼小西 或者《白先生的黑莲花》",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 Jan 2023 08:00:32 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "0399cb75a63ef2f681cfa2ca7fd131dca70f68fab768ac6f1e6455d2cd89a663",
+      "guid": "xmly_track_602374578",
+      "title": {
+        "text": "不如《破镜之梦（沈太太说渣男回头不如狗）》主题曲",
+        "truncated": false
+      },
+      "description": {
+        "text": "内容简介： 他来自权贵家族，没有感受过被爱与理解，从来没有体会过人与人之间珍贵的信任 她来自市井平民，生活的艰辛只教会她卑微隐忍，她从来不敢表达真实的想法 阴差阳错的相遇，不情不愿的结合，终成了一场场难以启齿的不虞之隙 当误会越积越深，说与不说都成徒劳，只剩爱与恨的内耗与纠结 却在转身处，发现，我们的爱早已深入骨髓，可百转千回 我还唤得回你千疮百孔的心么。。。 欢迎收听多人有声剧《沈太太说渣男回头不如狗》 搜索曼小西 或者 《沈太太说渣男回头不如狗》 都可以找到哟 https://www.ximalaya.com/album/73771329 https://www.ximalaya.com/album/72033797",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 Jan 2023 14:10:34 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "6f3d64d240587dcdc32a4b8e6987980afca024a1607cf1abef5585a777cd2be6",
+      "guid": "xmly_track_600514513",
+      "title": {
+        "text": "不如《爱在转身后》主题曲",
+        "truncated": false
+      },
+      "description": {
+        "text": "他来自权贵家族，没有感受过被爱与理解，从来没有体会过人与人之间珍贵的信任 她来自市井平民，生活的艰辛只教会她卑微隐忍，她从来不敢表达真实的想法 阴差阳错的相遇，不情不愿的结合，终成了一场场难以启齿的不虞之隙 当误会越积越深，说与不说都成徒劳，只剩爱与恨的内耗与纠结 却在转身处，发现，我们的爱早已深入骨髓，可百转千回 我还唤得回你千疮百孔的心么。。。 欢迎收听《爱在转身后》",
+        "truncated": false
+      },
+      "published_at": "Fri, 30 Dec 2022 04:47:59 GMT",
+      "feed_index": 8
+    }
+  ]
+}

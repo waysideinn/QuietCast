@@ -1,0 +1,140 @@
+{
+  "show_id": "1557085200",
+  "feed_url": "https://feed.firstory.me/rss/user/ckkv9dlxqud2x0815qf1u4a06",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckkv9dlxqud2x0815qf1u4a06",
+    "final_url": "https://feed.firstory.me/rss/user/ckkv9dlxqud2x0815qf1u4a06",
+    "fetched_at": "2026-10-25T14:52:18.462397+00:00",
+    "status": 200,
+    "sha256": "e2aa1c841f01bdd4e9ee8d537d5b7bda5d2cf203bfd373464d0de4004288fbee"
+  },
+  "status": "ok",
+  "title": {
+    "text": "彌勒救苦經講記～有聲書",
+    "truncated": false
+  },
+  "description": {
+    "text": "彌勒真經雖然很簡短，卻統攝了一切經典的精華。 是彌勒祖師的大愿，只要相信就能得救。 Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "explicit": "no",
+    "keywords": ""
+  },
+  "feed_item_count": 34,
+  "episodes": [
+    {
+      "id": "f288491d24153c5e70eb9df669e27eecaf523a2aeed4062b256799b2a62ac520",
+      "guid": "ckoc8ksey640h08407xdmkuav",
+      "title": {
+        "text": "1100306 【 p213-221】_pin",
+        "truncated": false
+      },
+      "description": {
+        "text": "p213-221 鄉兒點鐵化成金–24 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 May 2021 01:54:19 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b31d98245f75550bd5e1512941415953db64d3d002172b930cd675e412bfffef",
+      "guid": "ckn070no0c5h90821m689o9cu",
+      "title": {
+        "text": "1100228 【 p188-190】_pin",
+        "truncated": false
+      },
+      "description": {
+        "text": "p188-190 無影山前對合同-18 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 02 Apr 2021 10:57:44 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "bae32a8384639b3fa413961fe38a999ea028625fdfc93b30b4ebd6e0c6b3f374",
+      "guid": "ckmlhc6o36i810823u7b2b16t",
+      "title": {
+        "text": "1100224 【 p158-165】_pin",
+        "truncated": false
+      },
+      "description": {
+        "text": "p158-165 收圓顯化在古東-14 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 Mar 2021 03:50:05 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "e16203a79a9d38340a5eb5ef213a2ce9bab527ea2ea5dda545b8272012d201ab",
+      "guid": "ckm74s62ammti0915ne80k52l",
+      "title": {
+        "text": "1100218 【 p123-129】_pin",
+        "truncated": false
+      },
+      "description": {
+        "text": "p123-129 親在仁天中華母-11(2) Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sat, 13 Mar 2021 02:49:49 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "e4c1ced23b9cf27cd0c538d1f749937eb6ffff107331d2697c2773396036f1af",
+      "guid": "ckln34szzmmkb0878g3epa9t9",
+      "title": {
+        "text": "1100212 【 p99-101】_pin",
+        "truncated": false
+      },
+      "description": {
+        "text": "p99-101 天真收圓掛聖號-07 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sat, 27 Feb 2021 02:08:16 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "0d966509eb7b63654e1b9fd125d1511b66041bc3256b0d172aaebf70a33e9291",
+      "guid": "ckl3cm08wvsxp08154ptpif1y",
+      "title": {
+        "text": "1100206 【 p57-64】_pin",
+        "truncated": false
+      },
+      "description": {
+        "text": "p57-64 領寶齊魯靈山地-03(2) Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sat, 13 Feb 2021 06:38:12 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "a4828b5d4690aac626441217a2cc40403f59612aa1cac712da8df2a7ee76cc4e",
+      "guid": "ckkwq82141re20823h8jwzvwa",
+      "title": {
+        "text": "1100201 【 p30-34】_pin",
+        "truncated": false
+      },
+      "description": {
+        "text": "p30-34 簡譯(3) Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 Feb 2021 15:24:52 GMT",
+      "feed_index": 28
+    },
+    {
+      "id": "e8ce22a003b2886e84d3b3cd4f2a2bf148193fea1df58fae8f4cba285eba61c2",
+      "guid": "ckkv9q0e0u1wt0898qd98p7dk",
+      "title": {
+        "text": "1100127 【 p06-11】_pin",
+        "truncated": false
+      },
+      "description": {
+        "text": "p12-16 序(1) Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 Feb 2021 14:55:10 GMT",
+      "feed_index": 33
+    }
+  ]
+}

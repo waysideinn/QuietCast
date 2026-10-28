@@ -1,0 +1,7 @@
+{
+  "show_id": "1480679439",
+  "feed_url": "https://feed.mirrorvoice.com.tw/rss/Literacy.xml",
+  "fetched_at": "2026-10-25T14:49:15.092141+00:00",
+  "status": "error",
+  "error": "response exceeds bounded metadata limit"
+}

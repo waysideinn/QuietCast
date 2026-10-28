@@ -1,0 +1,140 @@
+{
+  "show_id": "1587709573",
+  "feed_url": "https://www.omnycontent.com/d/playlist/7740012e-e1bd-4f85-81c4-a7f50047134a/70de4edd-79c0-4e05-9588-adac00481023/324c80dd-bb29-41b6-bc8e-adac0048768e/podcast.rss",
+  "source": {
+    "url": "https://www.omnycontent.com/d/playlist/7740012e-e1bd-4f85-81c4-a7f50047134a/70de4edd-79c0-4e05-9588-adac00481023/324c80dd-bb29-41b6-bc8e-adac0048768e/podcast.rss",
+    "final_url": "https://www.omnycontent.com/d/playlist/7740012e-e1bd-4f85-81c4-a7f50047134a/70de4edd-79c0-4e05-9588-adac00481023/324c80dd-bb29-41b6-bc8e-adac0048768e/podcast.rss",
+    "fetched_at": "2026-10-25T14:43:13.910182+00:00",
+    "status": 200,
+    "sha256": "3b0ee1fcb67f7dcf9eaf6b70a034e7fc6343c6619e70a6aec2cd7683285a76e6"
+  },
+  "status": "ok",
+  "title": {
+    "text": "LOVE 972 最爱广播剧",
+    "truncated": false
+  },
+  "description": {
+    "text": "LOVE 972 为你倾力打造精彩跌宕，扣人心弦的原创广播剧，由DJ和艺人盛情声演。 Immerse yourself in captivating stories brought to life by our DJs and beloved artistes. Each episode of our audio drama is a rollercoaster of emotions, suspense, and drama—all created just for you. Don’t miss out on the action—tune in and get hooked! The views and opinions shared during this podcast series are those of the hosts and guests and do not necessarily reflect the views of Mediacorp Pte. Ltd. or its group of companies.",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hans",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 100,
+  "episodes": [
+    {
+      "id": "6c5b3e7de93739a1947a8425f51dee06c829d26b087e0f645d947ae1f51514d9",
+      "guid": "67c68300-28ec-4f1f-bdcc-b4e300404006",
+      "title": {
+        "text": "最爱Angels 第10集 完结篇 | LOVE 972 最爱广播剧",
+        "truncated": false
+      },
+      "description": {
+        "text": "任务完成后，一个从未听过的声音联系三人，自称“教授”——天使组织真正的创始人。随着他的身份逐渐揭晓，三位天使终于明白自己为何被选中。 See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Fri, 16 Oct 2026 13:45:00 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "b27755dbbb133dfd0ee89a5d67a8583721cfbb16d495e49630d6c95ada382c46",
+      "guid": "8eb8603c-551e-4b7e-8657-b438007a6e5a",
+      "title": {
+        "text": "街头巨人 第6集 | LOVE 972 最爱广播剧",
+        "truncated": false
+      },
+      "description": {
+        "text": "See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Mon, 27 Apr 2026 13:40:00 +0000",
+      "feed_index": 14
+    },
+    {
+      "id": "df239d7346c1fedc452539db7c578c26424e8bf712a455e6a295488d12de2ca6",
+      "guid": "d39cb239-1557-4989-8fd8-b2c60025c814",
+      "title": {
+        "text": "LOVE 972 最爱广播剧【听见你的爱】 第7集",
+        "truncated": false
+      },
+      "description": {
+        "text": "See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Tue, 22 Apr 2025 14:00:00 +0000",
+      "feed_index": 28
+    },
+    {
+      "id": "4eeaf02c725e2357c9c925bfe484349702ce4270b4ae01d2155d1309f14dc549",
+      "guid": "cd806a90-b64c-4d6d-9e17-b1620081570a",
+      "title": {
+        "text": "LOVE 972 最爱广播剧 【小黄豆】第4集",
+        "truncated": false
+      },
+      "description": {
+        "text": "冠病肆虐，Soya家人也中标！Soya在医院也忙碌不已 See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 May 2024 14:00:00 +0000",
+      "feed_index": 42
+    },
+    {
+      "id": "e58a270dc2948c2b8768c258ca63b05c57f48065b6961bad09a29243355e8b14",
+      "guid": "8f3fabb3-12f7-415e-83a1-af260000b313",
+      "title": {
+        "text": "LOVE 972 最爱广播剧 【天使的秘密】第9集",
+        "truncated": false
+      },
+      "description": {
+        "text": "See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Oct 2022 13:36:00 +0000",
+      "feed_index": 57
+    },
+    {
+      "id": "b28c4e81cf78de5d3fbd4d8a1be266d98f75b45e0638d7fee06dffb28fc5d67e",
+      "guid": "ae803f23-f3f7-4656-aa2d-adc0006b5967",
+      "title": {
+        "text": "LOVE 972 最爱广播剧 【叫我潘玉莲】 第9集",
+        "truncated": false
+      },
+      "description": {
+        "text": "玉莲没收到飞鸿的回复，心里忐忑，懊悔于自己当初没坦白。 See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Thu, 14 Oct 2021 13:45:00 +0000",
+      "feed_index": 71
+    },
+    {
+      "id": "a8631da1ca8329e96f3cd40d6a31c770e91eff1c73913a3967286e0e9e87167a",
+      "guid": "0faf0010-0e1a-4b25-b13a-adb10019fd07",
+      "title": {
+        "text": "LOVE 972 庆生重头广播剧[新白蛇传之素贞与青霞] 第7集",
+        "truncated": false
+      },
+      "description": {
+        "text": "See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Sep 2021 02:00:00 +0000",
+      "feed_index": 85
+    },
+    {
+      "id": "10fbb64fc9e565cb0e89ed70e5885c225cb574dab00fd8af73fcaa6edb708239",
+      "guid": "cdd32d7d-afbe-40bc-be01-adb000f75714",
+      "title": {
+        "text": "LOVE972广播剧【工要这样打】第3集",
+        "truncated": false
+      },
+      "description": {
+        "text": "See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Mon, 27 Sep 2021 17:00:00 +0000",
+      "feed_index": 99
+    }
+  ]
+}

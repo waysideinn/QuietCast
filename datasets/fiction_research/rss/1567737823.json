@@ -1,0 +1,70 @@
+{
+  "show_id": "1567737823",
+  "feed_url": "https://feed.firstory.me/rss/user/cko6rqcgel9mj0834savhc1n5",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/cko6rqcgel9mj0834savhc1n5",
+    "final_url": "https://feed.firstory.me/rss/user/cko6rqcgel9mj0834savhc1n5",
+    "fetched_at": "2026-10-25T14:42:53.088028+00:00",
+    "status": 200,
+    "sha256": "69117c2886fe6e8056f8d481656760f7274c1b30d301e685452f87512033b147"
+  },
+  "status": "ok",
+  "title": {
+    "text": "安逝_廣播劇",
+    "truncated": false
+  },
+  "description": {
+    "text": "許多重症病患及他們的親友， 因為沒有主動安樂死的存在， 只能繼續無止盡的受病痛折磨， 有些人甚至選擇用極端的方式來解脫病痛。 讓我們聽聽他們的心聲， 並讓他們自主選擇，安樂逝去吧！ Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "explicit": "no",
+    "keywords": ""
+  },
+  "feed_item_count": 3,
+  "episodes": [
+    {
+      "id": "e9a958203060ece0f7c637ec5b7cd0033f9be98e3822386988c18a3b7de14c0f",
+      "guid": "cko6xxyyslr2l09641ix87ccf",
+      "title": {
+        "text": "EP3_丈夫被迫殺死病重妻",
+        "truncated": false
+      },
+      "description": {
+        "text": "丈夫依照與妻子年輕時的承諾，在妻子患病無法自理時， 可以選擇用自己的方式離開， 無奈以極端方式放手的丈夫，是對還是錯呢？ Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 02 May 2021 08:57:47 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "2e5d8ebd67178b98c6202e441c6caea52a60d8616b0e5dcaa5c7c71f435d4e36",
+      "guid": "cko6xv1q8syc708294irlw1mi",
+      "title": {
+        "text": "EP2_照顧者的心疼",
+        "truncated": false
+      },
+      "description": {
+        "text": "面對因車禍變成植物人的女兒，即將面臨無期限的治療及痛苦， 作為母親該怎麼辦呢？該留、還是該放手呢？ Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 02 May 2021 08:55:54 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "7b5a4bcfe15b5f9e711c6f32b72832989cef02d7bf74f964b61b48903ca49382",
+      "guid": "cko6xnikfsxlo0829tc47hmkt",
+      "title": {
+        "text": "EP1_植物人的內心獨白",
+        "truncated": false
+      },
+      "description": {
+        "text": "在上學途中遭遇車禍，不幸變成植物人，尚有個人意識的她看著身旁一直操勞的父母， 有話卻無法表達，這樣的日子她該如何渡過呢？ Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 02 May 2021 08:49:41 GMT",
+      "feed_index": 2
+    }
+  ]
+}

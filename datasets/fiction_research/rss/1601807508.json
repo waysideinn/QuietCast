@@ -1,0 +1,140 @@
+{
+  "show_id": "1601807508",
+  "feed_url": "http://www.ximalaya.com/album/45207875.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/45207875.xml",
+    "final_url": "http://www.ximalaya.com/album/45207875.xml",
+    "fetched_at": "2026-10-25T14:54:52.237840+00:00",
+    "status": 200,
+    "sha256": "56e46f7f6b6adb4823ac23a8f321b33f8f9d536bfd4c1561a3f68eb15ceb23a0"
+  },
+  "status": "ok",
+  "title": {
+    "text": "夜听哄睡故事｜艺秋电台 情感放松FM",
+    "truncated": false
+  },
+  "description": {
+    "text": "【节目更新】每晚9点更新，欢迎订阅 艺秋—喜马拉雅认证作家，职业有声演播人，《艺秋电台》专注夜听情感领域。 感谢您的每一次聆听，冷暖远近，都是继续的力量。 希望能够给《艺秋电台》专辑打个满分支持！ 也欢迎您在评论区留言，也许明天的主题，就是您的故事！ 我会认真回复每一条留言，感谢您的每一条文字！ 我想陪您度过所有孤独的夜晚，带走您所有的忧伤，让您忘却烦恼，陪您进入梦乡。 愿您的梦都是温暖的，都是甜的~",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 81,
+  "episodes": [
+    {
+      "id": "992a31a86d7c76bf3a435930fad57119c096654e7c0f241ebfae34de0cf89383",
+      "guid": "xmly_track_507915976",
+      "title": {
+        "text": "《艺秋电台》做自己的摆渡人",
+        "truncated": false
+      },
+      "description": {
+        "text": "当走过这段至暗的时刻，当有人问起你是怎么熬过去的，你可以说： “我也没有你想得那么光鲜，我一直在碰壁，在各种事情上跌倒，可是，我没有逃避，我全都接受，这就是我唯一的骄傲。”",
+        "truncated": false
+      },
+      "published_at": "Sat, 05 Mar 2022 12:33:03 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "183f4844d59302af0826d65c1e1aa86635b05682847f329bc9f40286e80e27e7",
+      "guid": "xmly_track_521253892",
+      "title": {
+        "text": "《艺秋电台》爱情就是，我需要的时候你在",
+        "truncated": false
+      },
+      "description": {
+        "text": "爱情就是我刚好需要，而你恰好都在 ！ 电视剧里演的的那些故事不全是假的，这个世界上就是有人会想方设法的让你开心，不让你伤心难过，竭尽所能的对你好，生怕给你的不够多。他会跟你证明，只要爱一个人，那他就会一直有时间，你只要需要，哪怕是隔着千山万水，他也会来到你的身边。",
+        "truncated": false
+      },
+      "published_at": "Wed, 13 Apr 2022 07:43:09 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "df6b3f42d6ce25f4bd6dbbb55a65f17791813d236e3cdcfed9d00fd27ba534f2",
+      "guid": "xmly_track_512553053",
+      "title": {
+        "text": "《艺秋电台》看淡失去，珍惜当下！",
+        "truncated": false
+      },
+      "description": {
+        "text": "看淡失去，珍惜当下 当你放下后，蓦然回首，你会发现自己如向日葵一般，活得自如开心、从容淡定、明媚灿烂。 往后余生，不再纠缠，不再纠结，不再执着。",
+        "truncated": false
+      },
+      "published_at": "Sat, 19 Mar 2022 12:17:26 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "72b959b82b262408c6d3a092e19f1ffffbfa5c01c00b639f2c78e9933ad7befd",
+      "guid": "xmly_track_504827779",
+      "title": {
+        "text": "《艺秋电台｜情感夜听》心宽才是养身",
+        "truncated": false
+      },
+      "description": {
+        "text": "心宽才是养身",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Feb 2022 13:24:30 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "e9984a0dbb0fa90872b982918eec5225100d6f0f8fd4c9e58b69951603745f8d",
+      "guid": "xmly_track_499459660",
+      "title": {
+        "text": "《艺秋电台｜夜听哄睡FM》遇见你，真好！",
+        "truncated": false
+      },
+      "description": {
+        "text": "“最好的爱情，是当你老了，还有另外一个人陪着你，一起老去。” “最好的遇见，是于千万人中，于千万年里，没有早一步，没有晚一步，刚好，正巧。” 遇见你，真好。 我希望与你，在漫长的光阴中，一起成长，在平静的岁月里，慢慢变老。",
+        "truncated": false
+      },
+      "published_at": "Sun, 06 Feb 2022 15:48:43 GMT",
+      "feed_index": 46
+    },
+    {
+      "id": "b0c02cf5bf7036957fb854c96d9e3a3aadec074ebc4802cc96ecced96ac2b330",
+      "guid": "xmly_track_496259243",
+      "title": {
+        "text": "《艺秋电台》不负自己，不负余生",
+        "truncated": false
+      },
+      "description": {
+        "text": "抛掉你给自己上的枷锁，做最喜欢的自己。这世上没有谁是谁的谁，而你才是你的你。",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 Jan 2022 13:02:32 GMT",
+      "feed_index": 57
+    },
+    {
+      "id": "cc1fb71fc02bfede1c01855f09e94f3dab9a2fa79bcf4a836780588840b7a6b3",
+      "guid": "xmly_track_486223933",
+      "title": {
+        "text": "（艺秋电台）与一人白首,择一城终老",
+        "truncated": false
+      },
+      "description": {
+        "text": "听过一句话说：你在，四海皆可为家，你不在，去哪都是流浪。 幸福，就是我遇见你，两个人变成一个家。",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Dec 2021 15:17:33 GMT",
+      "feed_index": 69
+    },
+    {
+      "id": "a9c4f3de8033789932e8a8d63a0247da810131cffc70ade9e736e7c5e2470878",
+      "guid": "xmly_track_480872434",
+      "title": {
+        "text": "（艺秋电台）这一生大胆一次",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Dec 2021 17:33:22 GMT",
+      "feed_index": 80
+    }
+  ]
+}

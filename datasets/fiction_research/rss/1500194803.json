@@ -1,0 +1,140 @@
+{
+  "show_id": "1500194803",
+  "feed_url": "https://anchor.fm/s/13b5f9ec/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/13b5f9ec/podcast/rss",
+    "final_url": "https://anchor.fm/s/13b5f9ec/podcast/rss",
+    "fetched_at": "2026-10-25T14:49:37.413862+00:00",
+    "status": 200,
+    "sha256": "3791d53c0e3f9ab2004d8c557ca66faea8c2fc467cd80033f1a69c9d56735bde"
+  },
+  "status": "ok",
+  "title": {
+    "text": "簡約科技 KCast001",
+    "truncated": false
+  },
+  "description": {
+    "text": "[簡約科技] 每星期講下一D科技冷智識同熱門科技資訊. 主持Anthony, 一個有18年經驗, 美國, 亞洲兩邊走嘅產品開發員, 同你分享。 #廣東話podcast #香港 #科技 #technews #podcast #cantonpodcast #播客",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "yue",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 125,
+  "episodes": [
+    {
+      "id": "0569bf611c2597f5e3efb4870213b8e247606e13e33b9b8e37be71eee915bcdf",
+      "guid": "603db9d4-b7c1-40d5-9b9b-7b0daac8c6ae",
+      "title": {
+        "text": "[簡約科技] - 第109集 - 日本成功研發氣味顯示器",
+        "truncated": false
+      },
+      "description": {
+        "text": "[簡約科技] - 第109集 - 日本成功研發氣味顯示器 支持: http://www.patreon.com/kcast001 收聽/支持/留言: https://linktr.ee/KCast001 留言： Facebook: https://www.facebook.com/kcast852 Facebook Group: https://bit.ly/3czJmS5 Twitter: 一家852 Podcast Instagram: https://www.instagram.com/SimpleTechShow RSS Link: 簡約科技: https://anchor.fm/s/13b5f9ec/podcast/rss 香講852: https://anchor.fm/s/13b75468/podcast/rss 一家852: https://anchor.fm/s/13b75468/podcast/rss #podcast #廣東話PODCAST # 氣味顯示器 #臭覺 #顯示器",
+        "truncated": false
+      },
+      "published_at": "Wed, 01 Jun 2022 04:52:11 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "71d39eb9c86799f94e9e55529e310e1cc156fb0321beb3398316a9a82c8df091",
+      "guid": "1913d132-de4a-492e-aa2b-f91acc039dce",
+      "title": {
+        "text": "[簡約科技] - Special - 我要換電話? Samsung篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "[簡約科技] - Special - 我要換電話? Samsung篇 收聽/支持/留言: https://linktr.ee/KCast001 RSS Link: 簡約科技: https://anchor.fm/s/13b5f9ec/podcast/rss 香講852: https://anchor.fm/s/13b75468/podcast/rss 一家852: https://anchor.fm/s/13b75468/podcast/rss 留言： Facebook: https://www.facebook.com/kcast852 Facebook Group: https://bit.ly/3czJmS5 Twitter: 一家852 Podcast Instagram: https://www.instagram.com/SimpleTechShow #podcast #廣東話PODCAST #Fold3 #Galaxyphone #samsungphone #Flip3 #SamsungFold3",
+        "truncated": false
+      },
+      "published_at": "Fri, 01 Oct 2021 18:25:53 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "9a538e012b0dcfd6fb5197cb4b63f56f324c65a7c4ed5f1ae69f52610de12275",
+      "guid": "07f10006-a37f-4dac-ad9b-78ff5c2444be",
+      "title": {
+        "text": "[簡約科技] - 第75集 - 睡眠足夠是多少，太多太少都影響健康",
+        "truncated": false
+      },
+      "description": {
+        "text": "[簡約科技] - 第75集 - 睡眠足夠是多少，太多太少都影響健康，究竟係點樣影健康？大家都要注意。 收聽/支持/留言: https://linktr.ee/KCast001 RSS Link: 簡約科技: https://anchor.fm/s/13b5f9ec/podcast/rss 香講852: https://anchor.fm/s/13b75468/podcast/rss 一家852: https://anchor.fm/s/13b75468/podcast/rss 留言： Facebook: https://www.facebook.com/kcast852 Facebook Group: https://bit.ly/3czJmS5 Twitter: 一家852 Podcast Instagram: https://www.instagram.com/SimpleTechShow #podcast #廣東話PODCAST #睡眠 #健康 #cantonpodcast",
+        "truncated": false
+      },
+      "published_at": "Sun, 16 May 2021 03:00:10 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "2a4d1f81f5ab733ac906867bed0559cb1bf1dfb7f1eff9a8ebbdc54756ac3475",
+      "guid": "8b730066-699f-4674-9749-37e4810f9dfe",
+      "title": {
+        "text": "[簡約科技] - 第57集 Elon Musk 嘅Space X 第二大project Starlink",
+        "truncated": false
+      },
+      "description": {
+        "text": "[簡約科技] - 第57集 主持人: Anthony K. Elon Musk 嘅Space X 第二大project Starlink。是否會為偏遠地區人事帶來網絡？ 佢仲想將網絡連到火星。 收聽/支持/留言: https://linktr.ee/KCast001 RSS Link: 簡約科技: https://anchor.fm/s/13b5f9ec/podcast/rss 香講852: https://anchor.fm/s/13b75468/podcast/rss 一家852: https://anchor.fm/s/13b75468/podcast/rss 留言: Facebook: https://www.facebook.com/kcast852/ Facebook Group: https://bit.ly/3czJmS5 Twitter: 一家852 Podcast Instagram: https://www.instagram.com/SimpleTechShow",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Dec 2020 05:32:30 GMT",
+      "feed_index": 53
+    },
+    {
+      "id": "6c9d3d07a53788b44b9b46f63b14d782b03ff57eece34dac507eb852908920cc",
+      "guid": "e4ae81fb-2a24-43af-a9b6-4121d6c3d9d3",
+      "title": {
+        "text": "[簡約科技] - 第39集 - \"突輯\" - Amazonbasics 產品品質安全問題",
+        "truncated": false
+      },
+      "description": {
+        "text": "[簡約科技] - 第39集 - \"突輯\" 主持人: Anthony K. Amazonbasics 產品品質安全問題 收聽/支持/留言: https://linktr.ee/KCast001 RSS Link: 簡約科技: https://anchor.fm/s/13b5f9ec/podcast/rss 香講852: https://anchor.fm/s/13b75468/podcast/rss 一家852: https://anchor.fm/s/13b75468/podcast/rss 留言: Facebook: https://www.facebook.com/kcast852/ Facebook Group: https://bit.ly/3czJmS5 Twitter: 一家852 Podcast Instagram: https://www.instagram.com/SimpleTechShow",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Sep 2020 11:00:00 GMT",
+      "feed_index": 71
+    },
+    {
+      "id": "3afb9240152f762fe5a3b57700119ca9b60af856b0109f658dd2e180751a31df",
+      "guid": "e92c4041-c384-4d08-86e0-f9aa5ac02e47",
+      "title": {
+        "text": "[簡約科技] - 第21集 - Main Topic: 北斗導航系統開始使用 / Microsoft Store 關門大吉 / TikTok 外, 仲有53個APP會偷睇你CLIPBOARD",
+        "truncated": false
+      },
+      "description": {
+        "text": "[簡約科技] - 第21集 主持人: Anthony K. 主要題目: Microsoft Store 關門大吉 TikTok 外, 仲有53個APP會偷睇你CLIPBOARD Main Topic: 北斗導航系統開始使用 收聽: Anchor: https://bit.ly/2Ao0k7z Apple Podcast: https://apple.co/3dMjBhj Spotify: https://spoti.fi/2TozAe3 Youtube: https://bit.ly/2TayguS 收聽/支持/贊助： Patreon: https://bit.ly/2WXrmKO RSS Link: 簡約科技: https://anchor.fm/s/13b5f9ec/podcast/rss 香講852: https://anchor.fm/s/13b75468/podcast/rss 一家852: https://anchor.fm/s/13b75468/podcast/rss 留言: Facebook: https://www.facebook.com/kcast852/ Facebook Group: https://bit.ly/3czJmS5 Twitter: 一家852 Podcast",
+        "truncated": false
+      },
+      "published_at": "Sat, 04 Jul 2020 02:04:58 GMT",
+      "feed_index": 89
+    },
+    {
+      "id": "3f72021caebb6fef516cb20e4be598aa813d699418f25ad307bf0331015a7879",
+      "guid": "167ef869-f0c0-4c2c-9add-12cd6b6323ff",
+      "title": {
+        "text": "[簡約科技] - 第11集 - 推介米高左敦記錄片The Last Dance / 社交平台打擊網上謠言 / Telegram加視像, 值得用嗎? / 手機照片BACKUP教學[Google Photo]",
+        "truncated": false
+      },
+      "description": {
+        "text": "[簡約科技] - 第11集 主持人: Anthony K. 主要題目: 推介米高左敦記錄片The Last Dance 社交平台打擊網上謠言 Telegram加視像, 值得用嗎? 手機照片BACKUP教學 [Google Photo] 支持/贊助： Patreon: https://bit.ly/3bOBETa RSS Link: 簡約科技: https://anchor.fm/s/13b5f9ec/podcast/rss 香講852: https://anchor.fm/s/13b75468/podcast/rss 留言: Facebook: https://www.facebook.com/kcast852/",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Apr 2020 23:25:59 GMT",
+      "feed_index": 106
+    },
+    {
+      "id": "00469371d4ab76ce1a6ad087782131c982754e91a3d07f3df63a56b41fd29c7f",
+      "guid": "3916014d-abfb-4a1e-9a88-380f3147116b",
+      "title": {
+        "text": "簡約科技 － Introduction",
+        "truncated": false
+      },
+      "description": {
+        "text": "US based Cantonese podcast channel about daily technology. How technology affect your life? First episode introduction, 簡約科技會同大家報導美國生活科技資訊同IT新聞，希望大家可以利用科技改善生活，美國生活科技同香港生活科技大不同，我會以廣東話，同你分享外國生活科技。",
+        "truncated": false
+      },
+      "published_at": "Sun, 16 Feb 2020 02:39:46 GMT",
+      "feed_index": 124
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "show_id": "1526238249",
+  "feed_url": "http://www.ximalaya.com/album/40444082.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/40444082.xml",
+    "final_url": "http://www.ximalaya.com/album/40444082.xml",
+    "fetched_at": "2026-10-25T14:53:20.234824+00:00",
+    "status": 200,
+    "sha256": "4dac5e060c17e7629c30205fb9423e54721d74619ac8bc79998932d85006bbea"
+  },
+  "status": "ok",
+  "title": {
+    "text": "编程百物语",
+    "truncated": false
+  },
+  "description": {
+    "text": "揭开编程的神秘面纱，分享真实的编程体验。 Olivia和应冬冬一起聊聊编程初学者可能关心的问题。 有人不适合编程吗？什么是最好的编程语言？应该用什么操作系统？什么IDE写起来最顺手？上网课还是自己找资料？ 也许你是初学者，有困惑疑问；也许你早已入门，想聊聊曾经的心路历程，都欢迎与我们分享。你编程过程中的酸甜苦辣，我们都想听。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 4,
+  "episodes": [
+    {
+      "id": "683cce839d7309e58c6e1fb8738867b024fe715939b201bfd8f547cb8803fdcb",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/93e8-audiofreehighqps/FA/80/CMCoOR4DWyK8AYjEeABcq9TC.mp3",
+      "title": {
+        "text": "[003] 不想做大数据的运维不是好前端",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播： Olivia 应冬冬 简介： 大家是为什么决定开始学编程呢？有的人可能是纯粹从兴趣出发，其他人也许是想着能在计算机互联网领域找到一份好工作。那么学了编程到底可以做什么？软件技术都有哪些职业方向可以选择？ 时间戳 00:01 网页相关 00:05 桌面应用 00:07 数据科学 00:09 系统 运维 00:10 黑客？安全？ 00:13 人工智能 00:21 测试工程师 相关链接 Electron 软件技术职业选择之道 联系方式 网站: https://codingmyths.github.io/ 邮箱: [email removed] 微博: 编程百物语 Twitter: @codingmyths",
+        "truncated": false
+      },
+      "published_at": "Tue, 13 Oct 2020 08:05:18 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "9512254197f011b8c4caff56e99bc309ccacf3afb4b0e8a6c96ab8cbcd036e1b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group86/M05/6D/FC/wKg5IF9fLlGj4FxaAeMSNSJ9NC8722.mp3",
+      "title": {
+        "text": "[002] 文科生女生可以成为穿格子衬衫没有头发的木讷程序员吗",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播： Olivia 应冬冬 简介： 看知乎上的问题觉得对于不少新手来说“文科生”，“女生”这样的身份标签对编程的学习有不小的影响。真的是这样吗？ 改变这些观点也许我们应该从创造更“普通人”的程序员形象做起。 时间戳 00:02 先说我们总体态度 00:04 文科生可以学好编程吗 00:11 女生可以学好编程吗 00:18 程序员的刻板印象 00:22 说回女生编程 相关链接 Ada Lovelace https://en..org/wiki/Ada_Lovelace 阿达·洛芙莱斯 https://baike.baidu.com/item/阿达·洛芙莱斯/12010940 Hidden Figures https://en..org/wiki/Hidden_Figures 隐藏人物 https://baike.baidu.com/item/隐藏人物 Teach girls bravery, not perfection https://ed.ted.com/lessons/teach-girls-bravery-not-perfection-reshma-saujani 硅谷 https://baike.baidu.com/item/硅谷/13887941 IT狂人 https://baike.baidu.com/item/it狂人 微微一笑很倾城 https://baike.b",
+        "truncated": true
+      },
+      "published_at": "Mon, 14 Sep 2020 08:48:18 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "3e53bd1d42d7b38d5ce2d4bf3d54dc4c79a4eb6dd50244111690b3896fdbd5cb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group83/M03/39/B9/wKg5HV9DMMnjR4VKA5RaDnEBy38613.mp3",
+      "title": {
+        "text": "[001] 和小郭聊聊天:python网课真香",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播： Olivia 应冬冬 嘉宾 小郭 简介： 和本科学环境化学专业的小郭聊聊他上python网课的经历。学了什么？怎么学的？花了多少钱？ Olivia和应冬冬发现网课和想象中不太一样。 虽然开玩笑说要和风变编程联系，但是发了邮件还没收到回复。这次我们自来水介绍一下这个课程，希望对广大Python初学者有参考价值。如果节目大爆了风变记得和我们联系呀（疯狂暗示）。 时间戳 00:01 小郭的自我介绍 00:03 之前的编程经验 00:04 小郭上了什么网课 00:11 课程中的项目 00:19 课程最复杂的部分 00:24 搜索得到答案 00:29 再学JAVA会怎样 00:31 编程中的开心事 00:34 其他学员 00:36 日常学习有应用python吗？ 00:38 会推荐给朋友吗？ 00:38 费用 00:42 接下来的计划 00:48 应冬冬多说两句 00:53 关于input的小讨论 相关链接 Scrapy爬虫框架 https://scrapy.org/ 联系方式 网站: https://codingmyths.github.io/ 邮箱: [email removed] 微博: 编程百物语 Twitter: @codingmyths 收听方式 RSS: https://codingmyths.github.io/podcast.xml Apple Podcast US",
+        "truncated": true
+      },
+      "published_at": "Mon, 24 Aug 2020 03:15:22 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "e821ea0d91883a248bee10973190151f4bbeb912eb4208b4de791d77eb332fd3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group82/M05/EF/EB/wKg5HF8k582jTXLAAO_1qAN0CfU352-aacv2-48K.m4a",
+      "title": {
+        "text": "[000] 撒花～鼓掌～编程百物语的第0期节目",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播： Olivia 应冬冬 简介： 「编程百物语」播客的第0期节目～ 为什么不是第1期呢？毕竟这是一档聊编程的播客嘛。下标还是要从0开始。 介绍一下节目大概的发展方向，两位主播Olivia和应冬冬的计算机方面背景，然后聊聊他们刚开始学编程的小故事。 时间戳 01:15 节目简介 04:49 主播Olivia和应冬冬的自我介绍 06:31 项目型知识型，两种学习路线 12:36 Olivia的第一个程序 19:58 应冬冬的第一个程序 28:10 关于“笨办法”的一些闲聊 29:37 pandas是什么 相关链接 Processing 编程语言的官网 https://processing.org/ Processing 作品展示 https://www.openprocessing.org/browse/ 微信小程序3小时从0到上线 https://www.bilibili.com/video/BV1D7411x7kc/ Pandas https://pandas.pydata.org/ 联系方式 网站: https://codingmyths.github.io/ 邮箱: [email removed] 微博: 编程百物语 Twitter: @codingmyths 收听方式 RSS: https://codingmyths.github.io/podcast.xml",
+        "truncated": false
+      },
+      "published_at": "Sat, 01 Aug 2020 03:55:23 GMT",
+      "feed_index": 3
+    }
+  ]
+}

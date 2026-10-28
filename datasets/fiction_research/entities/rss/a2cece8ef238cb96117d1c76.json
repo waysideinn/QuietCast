@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/79731553.xml",
+    "final_url": "https://www.ximalaya.com/album/79731553.xml",
+    "fetched_at": "2026-10-26T07:56:27.859510+00:00",
+    "status": 200,
+    "sha256": "ef2dc1c04b149692dbc32f79244aa75abb5e7b4c513e485ef0c5d6af62ffa7c9"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "先婚后爱：锦少的蜜宠甜妻|现代言情|婚恋|豪门",
+      "truncated": false
+    },
+    "description": {
+      "text": "当何云霖再一次表达了要分手的意图，并且缓慢的递过来一张结婚请帖的时候，陆安然再也忍不住心中的怒火。 “啪！ 一个清脆的巴掌打在何云霖的脸上，顿时何云霖的脸上出现五个鲜红的手指印。 “何云霖，我陆安然是瞎了眼了才看上你。“满目的愤怒，仿佛是要把眼前这个男人仔细的看了个清楚。浑身的血液一点点的僵住，仿佛是不知道为什么自己看上的竟然是这样一个男人。 这是她认识五年，爱了三年的男人啊。 为了跟他结婚，她不借跟家里闹翻，连身份证都带了出来，为的就是能嫁给他，然而得到的结果却是，他要结婚了？眼底里氤氲上一股泪水，却又强自撑着不让它流出来。好一会儿，陆安然灿然一笑。拿过那张请帖笑道：“你放心，婚礼我会参加的。”勉强的笑容，一双眼睛从来没有离开过那个男人。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "带给听书"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "带给听书"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Comedy Fiction"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/79731553",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 308,
+    "episodes": [
+      {
+        "title": {
+          "text": "0001 第1集 我眼瞎了，才看上你",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_695056453"
+      },
+      {
+        "title": {
+          "text": "0045 第45集 锦先生的小脾气",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 44,
+        "guid": "xmly_track_695059087"
+      },
+      {
+        "title": {
+          "text": "0089 第89集 我什么时候放弃过？",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 88,
+        "guid": "xmly_track_695067542"
+      },
+      {
+        "title": {
+          "text": "0133 第133集 我们回家",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 132,
+        "guid": "xmly_track_695068786"
+      },
+      {
+        "title": {
+          "text": "0176 第176集 我相信他",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 175,
+        "guid": "xmly_track_695070549"
+      },
+      {
+        "title": {
+          "text": "0220 第220集 绝望",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 219,
+        "guid": "xmly_track_695077335"
+      },
+      {
+        "title": {
+          "text": "0264 第264集 不敢提及的伤",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 263,
+        "guid": "xmly_track_695090448"
+      },
+      {
+        "title": {
+          "text": "0308 第308集 番外(完结)",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 307,
+        "guid": "xmly_track_695105718"
+      }
+    ]
+  }
+}

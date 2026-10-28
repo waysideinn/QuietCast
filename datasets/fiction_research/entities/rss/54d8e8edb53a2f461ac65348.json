@@ -1,0 +1,161 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/3550537.xml",
+    "final_url": "http://www.ximalaya.com/album/3550537.xml",
+    "fetched_at": "2026-10-26T07:53:47.376136+00:00",
+    "status": 200,
+    "sha256": "7414f42b524f40fb6d3958e30a5dd7a7afdf52bce21d0517bfe9514bf09c872d"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "印度│我们的旅行是个烂笑话",
+      "truncated": false
+    },
+    "description": {
+      "text": "我们是麦开心， 想做最有趣的事最有趣的人。 每周一、三、五，音频推送——“我们的旅行是个烂笑话” 讲述我们自己旅行中的各种趣事。 关注微信公众号，更多相关良心搞笑图文展示 ^，哈哈哈 笑醉你们！ 新浪微博：麦开心旅行 微信公众号：麦开心旅行商店",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "麦开心旅行商店 @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "麦开心啷个哩个浪"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "麦开心啷个哩个浪"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Places & Travel"
+      ],
+      [
+        "Comedy"
+      ],
+      [
+        "Religion & Spirituality"
+      ],
+      [
+        "Religion & Spirituality",
+        "Spirituality"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/3550537",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 32,
+    "episodes": [
+      {
+        "title": {
+          "text": "印度│莫名其妙小费合辑",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group11/M01/14/B6/wKgDa1boMOLiKRwbAEP_7t4qbhk830-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "印度│偶遇猴神苦行僧祈福，贵!！",
+          "truncated": false
+        },
+        "description": {
+          "text": "我们是麦开心。 每周一、三、五，音频推送—— \"我们的旅行是个烂笑话\"。 讲述我们旅行中所遇到的好玩事。笑醉你们 ^ 官方微信号：麦开心旅行商店 加入我们，图文推送，更多惊喜！",
+          "truncated": false
+        },
+        "feed_index": 4,
+        "guid": "https://aod.cos.tx.xmcdn.com/group10/M08/17/F7/wKgDaVbdjbmDaDCmACA1pmifzEg131.m4a"
+      },
+      {
+        "title": {
+          "text": "印度│理所当然的天天被人袭胸袭屁股，算了！",
+          "truncated": false
+        },
+        "description": {
+          "text": "摸得太认真的安检，男女都不放过，便宜都被占完了啊！ 每周一、三、五，音频推送—— \"我们的旅行是个烂笑话\"。 讲述我们旅行中所遇到的好玩事。笑醉你们 ^ 微博：http://weibo.com/wcoo 官方微信号：麦开心旅行商店 带着愿望去旅行，正在征集2016年的旅行线路。我们或许可以一起策马奔腾走天涯！",
+          "truncated": false
+        },
+        "feed_index": 9,
+        "guid": "https://aod.cos.tx.xmcdn.com/group10/M08/F9/7D/wKgDZ1a4VZLgJTN_ABhfRUvrgrE031.m4a"
+      },
+      {
+        "title": {
+          "text": "印度│下班高峰期，吓得我们愣愣的",
+          "truncated": false
+        },
+        "description": {
+          "text": "和印度相比，北京的高峰期太小儿科了！ 每周一、三、五，音频推送—— \"我们的旅行是个烂笑话\"。 讲述我们旅行中所遇到的好玩事。笑醉你们 ^ 微博：http://weibo.com/wcoo 官方微信号：麦开心旅行商店 带着愿望去旅行，正在征集2016年的旅行线路。我们或许可以一起策马奔腾走天涯！",
+          "truncated": false
+        },
+        "feed_index": 13,
+        "guid": "https://aod.cos.tx.xmcdn.com/group9/M08/FE/05/wKgDYla4Uliw4L1pACLGsoVt54Y611-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "印度│香死人不偿命的水果摊 2016-2-05",
+          "truncated": false
+        },
+        "description": {
+          "text": "印度香薰水果摊，你想来一份儿水果尝尝吗？ 每周一、三、五，音频推送—— \"我们的旅行是个烂笑话\"。 讲述我们旅行中所遇到的好玩事。笑醉你们 ^ 微博：http://weibo.com/wcoo 官方微信号：麦开心旅行商店 带着愿望去旅行，正在征集2016年的旅行线路。我们或许可以一起策马奔腾走天涯！",
+          "truncated": false
+        },
+        "feed_index": 18,
+        "guid": "https://aod.cos.tx.xmcdn.com/group15/M04/EC/49/wKgDZVagaPfRBaLgABaw39vh4pY232.m4a"
+      },
+      {
+        "title": {
+          "text": "点│听 2016-1-27 印度│闪瞎双眼blingbling的礼物",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 22,
+        "guid": "https://aod.cos.tx.xmcdn.com/group12/M06/E4/39/wKgDW1aWX_DTmhNRABHmkWx009k894.m4a"
+      },
+      {
+        "title": {
+          "text": "印度│人有人票，机有机票，机票是什么鬼？2016-1-15",
+          "truncated": false
+        },
+        "description": {
+          "text": "每周一、三、五，音频推送—— \"我们的旅行是个烂笑话\"。 讲述我们旅行中所遇到的好玩事。笑醉你们 ^ 官方微信号：麦开心旅行商店 带着愿望去旅行，加入我们哦~ 微博：http://weibo.com/wcoo 官方微信号：麦开心旅行商店 带着愿望去旅行，正在征集2016年的旅行线路。我们或许可以一起策马奔腾走天涯！",
+          "truncated": false
+        },
+        "feed_index": 27,
+        "guid": "https://aod.cos.tx.xmcdn.com/group7/M02/E5/11/wKgDWlaV5iqxmXFiAA-ZHvuoO_8891.m4a"
+      },
+      {
+        "title": {
+          "text": "印度│左撇子绝对是高危人群！2016-1-6",
+          "truncated": false
+        },
+        "description": {
+          "text": "来自麦开心在印度的声音故事 ↓ ↓ ↓ 我们的旅行是个烂笑话——笑醉你们！ 左撇子在印度绝对是高危人群！ 反正，开心就好！ 微博：http://weibo.com/wcoo 官方微信号：麦开心旅行商店 带着愿望去旅行，正在征集2016年的旅行线路。我们或许可以一起策马奔腾走天涯！",
+          "truncated": false
+        },
+        "feed_index": 31,
+        "guid": "https://aod.cos.tx.xmcdn.com/group8/M0B/E3/F5/wKgDYFaV4ALCGjEEAA765ZZIka4126-aacv2-48K.m4a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1617508857",
+  "feed_url": "http://www.ximalaya.com/album/59557964.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/59557964.xml",
+    "final_url": "http://www.ximalaya.com/album/59557964.xml",
+    "fetched_at": "2026-10-25T14:55:32.424153+00:00",
+    "status": 200,
+    "sha256": "f139adf2ac3babbcd267cea50d94ef3526b7596564f6aaec7423972f8e1458c6"
+  },
+  "status": "ok",
+  "title": {
+    "text": "罪今朝—现代都市 · 悬疑 · 推理侦探 · 男频",
+    "truncated": false
+  },
+  "description": {
+    "text": "沈今朝得知心爱之人被迫离国，请求姐姐送去机场，万万想不到引发车祸，本该在机场见面的暮成雪在另一辆车内遭受重创，最后警方还在河提走道发现一名死者，由此引发一系列的悬疑纠葛。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 134,
+  "episodes": [
+    {
+      "id": "7ad68a16e350da21999b1cf4e5a486818c6b408350ff7fe84a113398a1d64315",
+      "guid": "xmly_track_512168490",
+      "title": {
+        "text": "《罪今朝》片花（订阅收听不迷路~欢迎多多评论分享呦！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 18 Mar 2022 09:34:47 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f6fc2bce334d062b924f9ed3df3024eed4db1a964320105bab8f0d895258da26",
+      "guid": "xmly_track_513290237",
+      "title": {
+        "text": "《罪今朝》第十九集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Mar 2022 13:28:47 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "7ad4b838ac65159091ed914bd0d4d688430c020f86d8fa74eb80375a693bf63d",
+      "guid": "xmly_track_524081480",
+      "title": {
+        "text": "《罪今朝》第三十九集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Apr 2022 10:58:00 GMT",
+      "feed_index": 38
+    },
+    {
+      "id": "4e6eba32aef09b62529835b1e8dce2bbb72c68f82626163e76107b83c5a88c46",
+      "guid": "xmly_track_530319802",
+      "title": {
+        "text": "《罪今朝》第五十八集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 18 May 2022 04:47:00 GMT",
+      "feed_index": 57
+    },
+    {
+      "id": "d493265ce40d5635022986297b03c50539abe63b48c24d882966efab90efc03f",
+      "guid": "xmly_track_530325040",
+      "title": {
+        "text": "《罪今朝》第七十七集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Jun 2022 04:59:00 GMT",
+      "feed_index": 76
+    },
+    {
+      "id": "62864572240c7893809eecaf24e40faa6724b95f327b34b5d4471b091871f113",
+      "guid": "xmly_track_542638908",
+      "title": {
+        "text": "《罪今朝》第九十六集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Jun 2022 16:50:00 GMT",
+      "feed_index": 95
+    },
+    {
+      "id": "2bf8cd3f0808f4d29960a4f834f5ff457581ba14b5916e9475a478ea93a40f2a",
+      "guid": "xmly_track_542642617",
+      "title": {
+        "text": "《罪今朝》第一百一十五集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 18 Jul 2022 00:00:00 GMT",
+      "feed_index": 114
+    },
+    {
+      "id": "9e57bc6fb846ae1f86e21485bd707b920a39b030c9b1b3acc46788e046060216",
+      "guid": "xmly_track_555386773",
+      "title": {
+        "text": "《罪今朝》第一百三十四集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 06 Aug 2022 23:08:00 GMT",
+      "feed_index": 133
+    }
+  ]
+}

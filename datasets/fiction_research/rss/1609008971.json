@@ -1,0 +1,140 @@
+{
+  "show_id": "1609008971",
+  "feed_url": "http://www.ximalaya.com/album/41869882.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/41869882.xml",
+    "final_url": "http://www.ximalaya.com/album/41869882.xml",
+    "fetched_at": "2026-10-25T14:55:42.598000+00:00",
+    "status": 200,
+    "sha256": "2ae6e5442566bda62783aee7f81bf9adedab454445ec799a01cbbb291a58b9c2"
+  },
+  "status": "ok",
+  "title": {
+    "text": "中英对照有声书《相约星期二》",
+    "truncated": false
+  },
+  "description": {
+    "text": "一堂用生命写就的人生最后一课 an old man, a young man, and life's greatest lesson",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 39,
+  "episodes": [
+    {
+      "id": "88fcb497bc89dff88b1b73dfa46da202c6096a3c46281941a1d94b02adca6175",
+      "guid": "xmly_track_743143818",
+      "title": {
+        "text": "Chapter 22 The Audiovisual, Part Three (39)",
+        "truncated": false
+      },
+      "description": {
+        "text": "The Audiovisual, Part Three 视听教学 第三部分 The \"Nightline\" crew came back for its third and final visit. “晚间专线”团队又找回来想做第三次也是最后一次采访。 The whole tenor of the thing was different now. 这次采访的整个主旨已经完全不一样了。 Less like an interview, more like a sad farewell. 更不像是一次采访，更像是一次悲伤的永别。 Ted Koppel had called several times before coming up, and he had asked Morrie, \"Do you think you can handle it?” 来之前泰德·科佩尔打了好几次电话问莫瑞，“你感觉还能应付得了这次的采访吗？” Morrie wasn't sure he could. 莫瑞并没有把握能够应付。 \"I'm tired all the time now, Ted. And I'm choking a lot If I can't say something, will you say it for me?\" “我现在一直很疲倦，泰德。而且总是会窒息，如果我没法说出话来，你能帮",
+        "truncated": true
+      },
+      "published_at": "Mon, 22 Jul 2024 15:25:11 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "dd6bd395f43d5587dda315d065e63f7a02008fe018f0e785b231e48d16704324",
+      "guid": "xmly_track_695987895",
+      "title": {
+        "text": "Chapter 19 The Ninth Tuesday - We Talk About How Love Goes On (34)",
+        "truncated": false
+      },
+      "description": {
+        "text": "The Ninth Tuesday 第九个星期二 We Talk About How Love Goes On 我们聊了聊爱如何继续 I came to love the way Morrie lit up when I entered the room. 我喜欢当我走进房间时莫瑞面露喜色的方式。 He did this for many people, I know, but it was his special talent to make each visitor feel that the smile was unique. 他对很多人都这样，我知道，但是他有他独特的才能能够让每一个来访者觉得他的微笑是独属于他们的。 \" Ahhh, it's my buddy,\" he would say when he saw me, in that foggy, high- pitched voice. “哎呀呀，是我的小老弟来了呀，”当他看见我时他会用那含混的高音对我这么说。 And it didn't stop with the greeting. 即使是在问候的时候也不会停止。 When Morrie was with you, he was really with you. 当莫瑞和你在一起的时候，他是真正的全身心地和你在一起。 He looked you straight i",
+        "truncated": true
+      },
+      "published_at": "Tue, 26 Dec 2023 14:55:27 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "eefa8fe30b68410dec40b1f9a23a13a59616655b94cc5cc72baf2dd87f88b05b",
+      "guid": "xmly_track_637457172",
+      "title": {
+        "text": "Chapter 15 The Six Tuesday - We Talk About Emotions (28)",
+        "truncated": false
+      },
+      "description": {
+        "text": "The Sixth Tuesday 第六个星期二 We Talk About Emotions 我们聊了聊情绪 \"Ah. You're thinking, Mitch. But detachment doesn't mean you don't let the experience penetrate you. On the contrary, you let it penetrate you fully. That's how you are able to leave it. \" “啊，米契，你在思考了。不过超脱并不意味着你不去充分体验自己的经历。而是相反，你要更充分地去体验。这样才足以让你最终能够离开情绪。” I'm lost. 我不明白。 \"Take any emotion - love for a woman, or grief for a loved one, or what I'm going through, fear and pain from a deadly illness. If you hold back on the emotions - if you don't allow yourself to go all the way through them - you can never get to being detached, you're too",
+        "truncated": true
+      },
+      "published_at": "Sat, 27 May 2023 14:05:54 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "a71cee1567ce338cb6317378bcd8a565e918a40c41233c2ccde72ca3b7937452",
+      "guid": "xmly_track_535223413",
+      "title": {
+        "text": "Chapter 13 The Fourth Tuesday - We Talk About Death(23)",
+        "truncated": false
+      },
+      "description": {
+        "text": "The Fourth Tuesday 第四个星期二 We Talk About Death (23) 我们聊了聊死亡 \"Let's begin with this idea,\" Morrie said. “让我们先来以这样一个构思为出发点，”莫瑞说道。 \"Everyone knows they're going to die, but nobody believes it.\" “每个人都知道人终有一死，但没人愿意真的相信这件事。” He was in a businesslike mood this Tuesday. 莫瑞这周二处于一种高效且有条理的心情。 The subject was death, the first item on my list. 我们（对话）的主题是死亡，列在我名单上的首条。 Before I arrived, Morrie had scribbled a few notes on small white pieces of paper so that he wouldn't forget. 在我到他家之前，莫瑞在一些小白纸片上草草写下了不少笔记以防止忘记。 His shaky handwriting was now indecipherable to everyone but him. 他颤颤巍巍的笔迹现在除了他自己别人已经无法辨认了。 It was a",
+        "truncated": true
+      },
+      "published_at": "Sat, 21 May 2022 10:47:40 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "a9e91a6777b5106dce8911d10a7aaf25dcfa62a0757813fd8e24b4792ef9f271",
+      "guid": "xmly_track_514049253",
+      "title": {
+        "text": "Chapter 9 The Second Tuesday-We Talk About Feeling Sorry For Yourself(17)",
+        "truncated": false
+      },
+      "description": {
+        "text": "The Second Tuesday 第二个星期二 We Talk About Feeling Sorry for Yourself 我们聊了聊自怜情绪 I came back the next Tuesday. 接下来的星期二我又返回去看了莫瑞。 And for many Tuesdays that followed. 以及后面的很多个星期二。 I looked forward to these visits more than one would think, considering I was flying seven hundred miles to sit alongside a dying man. 考虑到我是飞越700多英里的路程去坐在一个将死之人的身边陪伴他，所以我比一个人所能想象到的更加期待对莫瑞的拜访。 But I seemed to slip into a time warp when I visited Morrie, and I liked myself better when I was there. 不过当我去看望莫瑞的时候，我就像是进入了一个时间静止的空间，并且我更喜欢跟莫瑞在一起的那个我。 I no longer rented a cellular phone for the rides from the airport. 我不再从机场来的路上租卫",
+        "truncated": true
+      },
+      "published_at": "Wed, 23 Mar 2022 15:00:52 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "43a6ee648536a04de070c07d9f9a4c2a429a9eeff9a2c8144a28b26f3c174f69",
+      "guid": "xmly_track_494475926",
+      "title": {
+        "text": "Chapter 6 The Classroom (12)",
+        "truncated": false
+      },
+      "description": {
+        "text": "The Classroom (12) 教室 “You know how I'm going to die?” he said. “你知道我会怎么死吗？”他说。 I raised my eyebrows. 我抬起了眉毛。 “I'm going to suffocate. Yes. My lungs, because of my asthma, can't handle the disease. It's moving up my body, this ALS. It's already got my legs. Pretty soon it'll get my arms and hands. And when it hits my lungs ...” “我会窒息而死。没错。我的肺，由于哮喘，无法应对这种病。而且它会逐渐向上蔓延，这个渐冻人症。它已经夺走了我的腿。很快就会夺走我的胳膊和手。当它蔓延到我的肺部。。。” He shrugged his shoulders. 他耸了耸肩膀。 “. . . I'm sunk.” “。。。我就溺死了。” I had no idea what to say, so I said, “Well, you know, I mean . . . you never know.” 我不知道该说些什么，只能勉强开口，“其实，你明白，我意思是。。。也不一定的",
+        "truncated": true
+      },
+      "published_at": "Thu, 20 Jan 2022 11:52:59 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "503f87a5581f4198183a8c6e49740c9c04856b476d937861a7fdb33378a5a3e5",
+      "guid": "xmly_track_480955578",
+      "title": {
+        "text": "Chapter 2 The Syllabus (6)",
+        "truncated": false
+      },
+      "description": {
+        "text": "The Syllabus (6) 教学大纲（6） The fall semester passed quickly. 秋季学期一闪即逝。 The pills increased. 莫瑞的药量增加了。 Therapy became a regular routine. 理疗成为治疗的常态。 Nurses came to his house to work with Morrie's withering legs, to keep the muscle active, bending them back and forth as if pumping water from a well. 护士要到莫瑞的家里治疗他日渐萎缩的双腿，为了保持肌肉的灵活度，要来回前后像从水井里压水一样弯曲他的双腿。 Massage specialists came by once a week to try to soothe the constant, heavy stiffness he felt. 按摩师一周来一次试图舒缓他身上所感到的持续、严重的僵硬感。 He met with meditation teachers, and closed his eyes and narrowed his thoughts until his world shrunk down to a single breath",
+        "truncated": true
+      },
+      "published_at": "Fri, 10 Dec 2021 03:06:31 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "0b9166b0531f1ddbda7989acf7d55519e34ab49dad662d6cd53b0d3fd0e944ce",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/510c-audiofreehighqps/13/0D/GKwRIMAF06HPAA_QtwET_bt6.m4a",
+      "title": {
+        "text": "Chapter 1 The Curriculum (1)",
+        "truncated": false
+      },
+      "description": {
+        "text": "The Curriculum（01） 课程计划 The last class of my old professor’s life took place once a week in his house, by a window in the study where he could watch a small hibiscus plant shed its pink leaves. 我那老教授生命中的最后一堂课在他家里上，就在书房的的窗户边，他可以望着窗外的一小丛木槿花落下粉色的叶子。 The class met on Tuesdays. 这节课在周二会面。 It began after breakfast. 早餐后开始。 The subject was The Meaning of Life. 主题是生命的意义。 It was taught from experience. 这门课的教学来自于经验。 No grades were given, but there were oral exams each week. 这门课没有成绩，但每周都会有口头测试。 You were expected to respond to questions, and you were expected to pose questions of your own. 你需要回答一些问题，也需要提出你自",
+        "truncated": true
+      },
+      "published_at": "Wed, 16 Sep 2020 16:26:15 GMT",
+      "feed_index": 38
+    }
+  ]
+}

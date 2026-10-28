@@ -1,0 +1,140 @@
+{
+  "show_id": "1557180247",
+  "feed_url": "http://www.ximalaya.com/album/43473841.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/43473841.xml",
+    "final_url": "http://www.ximalaya.com/album/43473841.xml",
+    "fetched_at": "2026-10-25T14:42:40.798055+00:00",
+    "status": 200,
+    "sha256": "4bc8916369f4a3aeb8bac3b5662a69208bd36b3e9db51006470aecb3c3c9c48b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "都市小民工（免费双播）爆笑爽文",
+    "truncated": false
+  },
+  "description": {
+    "text": "本小说由有客读书出品授权。 作者 龙猫三号 播讲 晨鑫，喜马拉雅签约主播，代表作 《万界至尊大媒人》《仙怨传说》《阴阳道》《无敌储物戒》《老子是条龙》 女播 棠羽紫邪 声音温暖知性亲和力强塑造角色深入人心，既能演绎俏皮可爱的少女，睿智冷艳的女御，也能驾驭阴狠毒辣的女王，嚣张霸道的泼妇，最擅长唯美凄婉的爱情故事。 代表作；《毒妃权倾天下》《只爱叶知浅》《帝后独宠；妖娆冷后太嚣张》《都市纵横》《别说你爱我》等 后期制作’； 大江老师 家庭贫穷，成绩优异的孙志在大学时代曾是个风云人物，但毕业后，残酷的现实让他四处碰壁，一...",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 1103,
+  "episodes": [
+    {
+      "id": "a0f160431c4224cb95288ddd2a10f2a634eb5bbb6a83a19837ef00fbca83aa9b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a379-audiofreehighqps/E4/23/CMCoOSQDeWUoACWA3wBj4ktu-aacv2-48K.m4a",
+      "title": {
+        "text": "都市小民工 片花",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 Nov 2020 06:56:35 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "9c7a44a906d4b00bfcaafec1ec47b0ba2d70abb079ffedeb68b1a9090a710888",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e21b-audiofreehighqps/3C/8E/CMCoOScD0gMVAF2tQAB6jGUd-aacv2-48K.m4a",
+      "title": {
+        "text": "第157集 正人君子不好做",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 13 Jan 2021 04:01:45 GMT",
+      "feed_index": 157
+    },
+    {
+      "id": "cb42a8d59d7f6ae3f05e448d3d6f8fb56662750e0695eb966d41db52a89c5c80",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1211-audiofreehighqps/CC/C8/CKwRIDoEHenuAEBvKACQmLBo-aacv2-48K.m4a",
+      "title": {
+        "text": "第315集 春乍泄【千万爆更】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Mar 2021 01:54:44 GMT",
+      "feed_index": 315
+    },
+    {
+      "id": "4d36ba1510496ab2bb1c462677bb52f17be31a94bd771e31f1aba6fc56c9a3cf",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7e8b-audiofreehighqps/1D/CA/CKwRIDoEYuGDAGaJ-wCla8PC-aacv2-48K.m4a",
+      "title": {
+        "text": "第472集 带回去再说",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 01 May 2021 09:24:57 GMT",
+      "feed_index": 472
+    },
+    {
+      "id": "8417a4a75f5f04473daf2a8077955d24902320e9eaa2afc1f61bb7a2f9f10f95",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7c1f-audiofreehighqps/98/25/CKwRINsFTazcAG7p5QDwkVjJ-aacv2-48K.m4a",
+      "title": {
+        "text": "第630集 小小心意200万",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 26 Oct 2021 11:43:00 GMT",
+      "feed_index": 630
+    },
+    {
+      "id": "04ebffa11034a8166bbb0cca90a9cf368a4dbc524ac8f441aa0043a0a3ff5b26",
+      "guid": "xmly_track_513426048",
+      "title": {
+        "text": "第787集 将计就计",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 22 Mar 2022 02:25:13 GMT",
+      "feed_index": 787
+    },
+    {
+      "id": "e306064db65064622fabcf1db08aede58583a07100e8555ef42db1064a11c306",
+      "guid": "xmly_track_577680285",
+      "title": {
+        "text": "第945集 被讹八千块",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Oct 2022 09:34:42 GMT",
+      "feed_index": 945
+    },
+    {
+      "id": "59bc942f598b3da8643df906da52c2857eb6fdbcb65aa6682731a5aabf0bcb05",
+      "guid": "xmly_track_971277867",
+      "title": {
+        "text": "第1102集 让你吓一跳",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 19 Apr 2026 13:31:30 GMT",
+      "feed_index": 1102
+    }
+  ]
+}

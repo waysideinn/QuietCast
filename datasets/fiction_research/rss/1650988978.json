@@ -1,0 +1,140 @@
+{
+  "show_id": "1650988978",
+  "feed_url": "https://anchor.fm/s/b069a6d0/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/b069a6d0/podcast/rss",
+    "final_url": "https://anchor.fm/s/b069a6d0/podcast/rss",
+    "fetched_at": "2026-10-25T14:57:22.536375+00:00",
+    "status": 200,
+    "sha256": "24889bb0d84f1aace42b3ab11f4674937f10022ea3e8da9c7453169f2b39aeec"
+  },
+  "status": "ok",
+  "title": {
+    "text": "做个有教养的人",
+    "truncated": false
+  },
+  "description": {
+    "text": "做个有教养的人",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 789,
+  "episodes": [
+    {
+      "id": "5204bdd72a76538f0a63508bfc9d09308d7191af8810e112d6e919bf0c0ae092",
+      "guid": "a61d0e0e-a41e-45bd-b02c-e2c183ff94c4",
+      "title": {
+        "text": "1492.高速公路，为何不能一直免费？",
+        "truncated": false
+      },
+      "description": {
+        "text": "1492.高速公路，为何不能一直免费？",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Jun 2023 06:51:48 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "fa3afcb1e4b9142bce72efcf357a2f3d93fbf09b921c3778a6330a15fb89b4e1",
+      "guid": "9a79fffb-6117-4216-a1a6-6093cb277500",
+      "title": {
+        "text": "122.宝玉向王一帖讨要的“疗妒汤”是为了谁？",
+        "truncated": false
+      },
+      "description": {
+        "text": "122.宝玉向王一帖讨要的“疗妒汤”是为了谁？",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 May 2023 16:24:40 GMT",
+      "feed_index": 113
+    },
+    {
+      "id": "bf58013be152249a486be14a75720ea8573985352a1c32cd3fff0fcfb64b3a92",
+      "guid": "1977ed7d-6268-452a-a487-7da134c7aa45",
+      "title": {
+        "text": "1413.铿锵玫瑰的潇洒生活@逗瓣丨娱乐逗翻天",
+        "truncated": false
+      },
+      "description": {
+        "text": "1413.铿锵玫瑰的潇洒生活@逗瓣丨娱乐逗翻天",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 May 2023 12:14:33 GMT",
+      "feed_index": 225
+    },
+    {
+      "id": "130a9969b732fe66fbb539545a45b7cf18e3cb3b0da68d3335642c7209df9830",
+      "guid": "9c2a3c16-6e74-4ac4-a892-471bcec97088",
+      "title": {
+        "text": "111.男人背叛你的真相，你真的敢听吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "111.男人背叛你的真相，你真的敢听吗？",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Apr 2023 19:39:33 GMT",
+      "feed_index": 338
+    },
+    {
+      "id": "5630ad065c6264dbb8f01faaf037270973dd4ab884ff12c44df41fdb9838d097",
+      "guid": "5e637e9f-71be-49c8-b5dc-9347d3348bcd",
+      "title": {
+        "text": "123.尚小云 - 女起解 (1932年长城唱片)",
+        "truncated": false
+      },
+      "description": {
+        "text": "123.尚小云 - 女起解 (1932年长城唱片)",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Apr 2023 23:42:29 GMT",
+      "feed_index": 450
+    },
+    {
+      "id": "fc7adab6a4994d060e437b36578b38de219015b4b345cb52363b4e4ae1f09018",
+      "guid": "9d56bafa-1c8f-444d-8d32-f8e411120192",
+      "title": {
+        "text": "16098.官宣！历经11轮不胜终惊险保级 泰达与施蒂利克续约一年",
+        "truncated": false
+      },
+      "description": {
+        "text": "16098.官宣！历经11轮不胜终惊险保级 泰达与施蒂利克续约一年",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Mar 2023 05:34:23 GMT",
+      "feed_index": 563
+    },
+    {
+      "id": "303910c93f8df9842adac3f68bca5af5991f400e721ff934c54b95f72f0d913e",
+      "guid": "f34cd0af-1b97-4d6d-a5ed-4c570becf502",
+      "title": {
+        "text": "588.呢喃集序20180428",
+        "truncated": false
+      },
+      "description": {
+        "text": "588.呢喃集序20180428",
+        "truncated": false
+      },
+      "published_at": "Sat, 04 Mar 2023 06:48:08 GMT",
+      "feed_index": 675
+    },
+    {
+      "id": "b18bae3aa0b7f7763b80f0587e0ac5acd5a0dbb7eab82526721e55b73edc157e",
+      "guid": "4644a460-f8fe-4b32-b5c2-9036d91aed5f",
+      "title": {
+        "text": "你怎么还那么没教养？",
+        "truncated": false
+      },
+      "description": {
+        "text": "你怎么还那么没教养？",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Aug 2022 07:32:42 GMT",
+      "feed_index": 788
+    }
+  ]
+}

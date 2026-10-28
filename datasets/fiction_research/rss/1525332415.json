@@ -1,0 +1,140 @@
+{
+  "show_id": "1525332415",
+  "feed_url": "https://feeds.soundon.fm/podcasts/53d5c506-8ad8-4389-a462-3261ce97a389.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/53d5c506-8ad8-4389-a462-3261ce97a389.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/53d5c506-8ad8-4389-a462-3261ce97a389.xml",
+    "fetched_at": "2026-10-25T14:50:31.824218+00:00",
+    "status": 200,
+    "sha256": "889a79d0fc53a4390f4315d6ad2013fbcca7e96fa179379ed4eb215c0232eace"
+  },
+  "status": "ok",
+  "title": {
+    "text": "想像文學收音機 IF. Radio",
+    "truncated": false
+  },
+  "description": {
+    "text": "想像文學收音機是由「想像朋友寫作會」經營的Podcast頻道，分享台灣文學創作的種種事情！ 商業合作或聯絡我們：[email removed] -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 187,
+  "episodes": [
+    {
+      "id": "1b8623cd780a40c7d9e8114bc1eb69f7301aa2fb27ae16d56c9e80b9b2776d0a",
+      "guid": "95e5cf91-8c9a-417d-ac4a-7ed12445c1e4",
+      "title": {
+        "text": "EP.192 - 【說故事的對決】 故事 vs 對決——後設拆解！不同文類真的能對決嗎？最邪惡的快問快答，與最暴力的節目踢館者 Feat. 陳泓名、威同",
+        "truncated": false
+      },
+      "description": {
+        "text": "怎麼樣說好一個故事？各種不同媒介的說故事方法有不同嗎？ 【說故事的對決】這個系列將邀請各路說故事能手，千萬不要錯過！ 陳泓名： https://portaly.cc/hstk24 威同FB: https://reurl.cc/6GLAn5 Time code: 06:58 快問快答 12:02 建築師型vs園丁型，泓名：我覺得跨媒材比較沒有意義 17:30 好的故事本身就蘊含好的技術 28:55 泓名：你欺善怕惡 32:30 換媒材或跨文類創作就失去優勢 44:23 純文學是黑洞 52:15 不同藝術創作是否有可通用之處（泓名：我認為完全不通用，是完全喔，完完全全） 01:02:15 泓名提出靈魂拷問，編織藝術是不是在說故事？ 01:06:40 作品推薦：泓名の寫作課、朴相映《在熙，燒酒，我，還有冰箱裡的藍莓與菸》 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Oct 2026 23:15:58 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "cb2f85aeab7af53aee8f521e7504a804c09dae8359cf61a4253c7c5bda9b81ab",
+      "guid": "b9e38a23-5b42-4e6d-9158-eaab34fb807f",
+      "title": {
+        "text": "EP 163. 有聲書＆ AI 有聲書製作分享、摯愛口袋有聲書單推薦！feat.孟諭",
+        "truncated": false
+      },
+      "description": {
+        "text": "📖 本集介紹｜《有聲書＆ AI 有聲書 製作分享、摯愛口袋有聲書單推薦！feat.孟諭》 你好奇一本書是如何改編成有聲書的嗎？ 想知道現在非常普及的 AI 有聲書該怎麼製作嗎？ 在這個資訊大爆炸的時代，吸收資訊的方式有百百種，而有聲書是在聆聽的過程中，將書籍的內容轉換成聲音，不僅解放雙手，也能透過聆聽的方式吸收新知！ 這一集，在有聲書製作出版社工作兩年的我，想與您分享關於有聲書的出版與製作分享。 一一揭密書籍如何聲音化，並且分享錄製書籍的注意事項。 ✨在節目中，我會分享： 有聲書的編輯與製作！一本書如何變成有聲書？什麼樣的書特別適合錄製！ 一本書 AI 轉換一天能完成嗎? AI 是否真的「取代」人聲？ 通路與上架、自己錄製有聲書可行嗎? 私藏有聲書單分享： 以下是關鍵提示，聽了才知道是哪本書 ➊ 一聽就上癮.ᐟ 有聲劇磅礡的音效超迷人，是史上最暢銷、最膾炙人口的冒險小說 ➋ 日本小說家的職人書寫.ᐟ.ᐟ 若有似無的BL酸甜愛戀.ᐟ.ᐟ ➌ 天菜級的女同志歌手親唸有聲書，特別收入SP大滿足.ᐟ.ᐟ ➍ 終戰80年時刻必聽詩集.ᐟ.ᐟ 詩集也改編成有聲書？ 如果你也好奇關於有聲書的以上幾點，更好奇有聲製作的各種細節，歡迎點擊收聽 讓我們一起體驗聽書的魔力，讓有聲書能成為日常生活外的另一種閱讀選擇。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 25 Sep 2025 13:00:00 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "c970a0e9579bd1c6d7860542d941b02b4426e8bc3d74484be61f6c3783a4df09",
+      "guid": "8d328b35-34cc-4fa0-9165-f7b8114f3f9e",
+      "title": {
+        "text": "EP.134－人物不靠動機驅動？寫作課舉辦是為了什麼？新頻道在路上──BY：陳泓名",
+        "truncated": false
+      },
+      "description": {
+        "text": "「110醬要當Vtuber了嗎? 會幫你加油哦，有人這樣說。」 「如果110當上Vtuber的話，會給大家暗號的。」 「啊沒在用推特，好像沒辦法給暗號。」 「如果真的當上的話，大家要來找出110哦，一個一個去看Vtuber，啊這個就是110！記得來找我哦。」 「我在這裡哦！」 之後去別的地方的話，有緣大家之後見吧 － 文學構築與實作：楫文社文學課 https://forms.gle/LSyLW6BtfrWwiVdS6 ​ 文學創作課程有許多的方向，看似龐雜、叛經離道、存在反抗。但是，「故事」本身就是組成這一系列的基礎骨幹，不論是現代主義、寫實主義、鄉土、新鄉土等等，故事基本構築了文學作品。本課程面向了志於創作的朋友，並且附加文學諮詢時間。 ​ 每次創作故事，找不到方向？透過回顧簡報、技術有所依據。能使用正確的文學名詞，並與同行溝通無礙。知道如何利用資源，組織自己的讀者、找到寫作規律，並為專業作家之路做好準備。白話文來說，這堂課會給予你正確認識「文學創作」這個行業的觀念，我們不談靈感、專注在機制上，不漫無目的漫遊，不建立令人摸不著頭緒的權力關係，在課堂裡，我們教你鍛鍊眼力，不教你亂猜亂通靈，也歡迎去驗證。 ​ 課程內也會帶到一些作品，這些作家也都是文壇中，注視的目標之一。也會把提到的不同的書，當作課程閱讀素材，贈送給學員，絕對讓你閱讀量滿出來。我的期望是，你上完這堂課之後，就「不需要",
+        "truncated": true
+      },
+      "published_at": "Tue, 12 Dec 2023 13:07:05 GMT",
+      "feed_index": 53
+    },
+    {
+      "id": "1df9152ac7cd312d5ebe750eab57b6f1228acdb4d79eee6e31235d9e3c13acc5",
+      "guid": "90dc5b27-8f0d-4d73-b363-8d08af0fcd76",
+      "title": {
+        "text": "EP.107-文學抓周，抓那道溪底的光， 林楷倫-溪底無光 BY：雙元大橋出來瞧(耀元、二源)",
+        "truncated": false
+      },
+      "description": {
+        "text": "讀者回應信箱： https://forms.gle/5KzUkCLGXVUhH8456 林楷倫《雪卡毒》 博客來｜ https://reurl.cc/WD5AAD 誠 品｜ https://reurl.cc/gZOeeL 金石堂｜ https://reurl.cc/Q4y5YZ 讀 墨｜ https://reurl.cc/8qK6D7 想像文學收音機合作：[email removed] -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 12 May 2023 00:05:05 GMT",
+      "feed_index": 80
+    },
+    {
+      "id": "a205b542d85fd9305690827d7297a115eaa7f9cedb353fa6288c78409723eede",
+      "guid": "865327ec-a106-44f9-8d87-2843d35b5731",
+      "title": {
+        "text": "EP.81－《寶石之國》劇情的文學分析，2000年前的希臘悲劇能用在寶石身上，比EVA還人類補完？《炎拳》《隻手探險》都被劇透光",
+        "truncated": false
+      },
+      "description": {
+        "text": "！！！！！！！！！！！！！！！！劇透警告！！！！！！！！！！！！！ 本集直接劇透結局《寶石之國》、《炎拳》、《隻手探險》 請未看過或者想看的聽眾，速速迴避！！！ 本集內容： A部分：前言 那個讀後的幹意 劇透開始請迴避 B部分： 劇情回顧 小磷的四次努力 完整漂亮的與破碎醜陋的 電影院與極樂 中陰與煉獄與月球 一萬年 希臘悲劇 兩種希臘悲劇特性 雙眼戳瞎的伊底帕斯 一種更需要被篩選後的讀者的劇別 C部分： 南極石 能做的與只能做的 幹意與愛 中國悲歌抒情性 感謝文化部贊助！ ＊讀者投信箱： https://forms.gle/yMSpsU3fcYKsoTf76 ＊按讚我們： https://www.facebook.com/ImaginaryFriensLiteratureClub ＊小額贊助我們，留言給我們！： https://pay.soundon.fm/podcasts/53d5c506-8ad8-4389-a462-3261ce97a389 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 18 May 2022 16:40:38 GMT",
+      "feed_index": 106
+    },
+    {
+      "id": "e2211a46ce918caa8cb80ce1af6d50d80cabcdb46734785cdb301432aaa4417b",
+      "guid": "4f62d464-873f-4862-b0b8-be3188bdb608",
+      "title": {
+        "text": "EP.53－對話的應用，理解川端康成《舞姬》內的超長黏接劑｜本節目由國家藝術基金會贊助播出 標靶藥物│全網影音文學行銷",
+        "truncated": false
+      },
+      "description": {
+        "text": "｜本節目由國家藝術基金會贊助播出 標靶藥物│全網影音文學行銷 ＊讀者投信箱： https://forms.gle/yMSpsU3fcYKsoTf76 ＊按讚我們： https://www.facebook.com/ImaginaryFriendsLiteratureClub -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Sep 2021 16:41:19 GMT",
+      "feed_index": 133
+    },
+    {
+      "id": "95b35a0619b04dc3b90b0e4bf812a819d86a77879eb90c45756b1151b62e3c0c",
+      "guid": "1c3b89be-f455-414a-9748-0a4297d6cf69",
+      "title": {
+        "text": "EP.27 - 散文必然真實的界線在哪裡？我們要如何界定對於現實侵犯的可能？FT.林佳樺老師",
+        "truncated": false
+      },
+      "description": {
+        "text": "這集我們邀請到獲獎無數的佳樺老師 作者本人現身分享寫作經驗 聊聊如何「在未來寫回童年」 我們交換了很多寶貴意見！ ＊讀者投信箱： https://forms.gle/yMSpsU3fcYKsoTf76 ＊按讚我們： https://www.facebook.com/ImaginaryFriendsLiteratureClub ＊沒有讀書的夥伴？加入讀書會，泓名與他的夥伴帶你走入文學： https://www.facebook.com/groups/246838310017657/ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Oct 2020 17:49:56 GMT",
+      "feed_index": 159
+    },
+    {
+      "id": "ae7003852d6883f3992cdebef704fa3c3d43354f628c0fe68d184274d5e38420",
+      "guid": "616495cf-64d7-4d27-8d5e-acc3931192e2",
+      "title": {
+        "text": "EP.０ - 文學社群的誕生",
+        "truncated": false
+      },
+      "description": {
+        "text": "為什麼創作者會想要有社群？什麼是社群？該靠近，還是離得遠遠的？洛西極限會撕裂所有的關係嗎？還是倖存下來的人，終究會告訴我們最美的故事呢？ 「不要再相互靠近，毀滅不會終止的。」《鱷魚手記》 ＊本集為試撥集，歡迎點選第一集。 ＊欸欸，我們有讀者信箱了啦！ https://forms.gle/yMSpsU3fcYKsoTf76 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 19 Jul 2020 04:20:00 GMT",
+      "feed_index": 186
+    }
+  ]
+}

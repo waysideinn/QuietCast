@@ -1,0 +1,140 @@
+{
+  "show_id": "1485707007",
+  "feed_url": "https://feeds.megaphone.fm/NCB4333089912",
+  "source": {
+    "url": "https://feeds.megaphone.fm/NCB4333089912",
+    "final_url": "https://feeds.megaphone.fm/NCB4333089912",
+    "fetched_at": "2026-10-25T14:50:55.810573+00:00",
+    "status": 200,
+    "sha256": "0e9d2e0780063f377cd671f1856c151ac94683ca7de09d33582c01213154ca40"
+  },
+  "status": "ok",
+  "title": {
+    "text": "浜松町Innovation Culture Cafe",
+    "truncated": false
+  },
+  "description": {
+    "text": "気鋭の経営学者・入山章栄とともに様々なジャンルのクリエ―ターや専門家、起業家たちが社会課題や未来予想図などをテーマにアイディア、オピニオンをぶつけ合い、より良い未来の姿とそれを実現するイノベーションのヒントを探ります。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "explicit": "no",
+    "type": "episodic"
+  },
+  "feed_item_count": 465,
+  "episodes": [
+    {
+      "id": "ed2e66ea93b2a11c6d7459fd56c720ce7d71131d83dc78f06dc79c6ab706e8bf",
+      "guid": "8c6b611a-c934-11f1-9c66-cff853f41d58",
+      "title": {
+        "text": "#4『起業から考える 人が輝く教育・キャリアとは？』",
+        "truncated": false
+      },
+      "description": {
+        "text": "気鋭の経営学者・入山章栄とともに様々なジャンルのクリエ―ターや専門家、起業家たちが社会課題や未来予想図などをテーマにアイディア、オピニオンをぶつけ合い、より良い未来の姿とそれを実現するイノベーションのヒントを探ります。 #4『起業から考える 人が輝く教育・キャリアとは？』 寺田彼日（AironWorks株式会社 代表取締役CEO） 井口恵（株式会社Kanatta代表取締役社長） [更新 10月23日] [毎週火・金曜日更新][TIME 18:08]",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Oct 2026 01:00:00 -0000",
+      "feed_index": 0
+    },
+    {
+      "id": "93aa58059ff6e27393ca2d78324d1011aa74f89aeb72020054750058e100266f",
+      "guid": "31f46566-13e9-11f1-918b-fbc421556e1a",
+      "title": {
+        "text": "#2「建築思考×数学思考 予測不能なビジネスへの思考とは」",
+        "truncated": false
+      },
+      "description": {
+        "text": "気鋭の経営学者・入山章栄とともに様々なジャンルのクリエ―ターや専門家、起業家たちが社会課題や未来予想図などをテーマにアイディア、オピニオンをぶつけ合い、より良い未来の姿とそれを実現するイノベーションのヒントを探ります。 #2「建築思考×数学思考 予測不能なビジネスへの思考とは」 今井裕平（ビジネスデザイナー、株式会社kenma代表） 深沢真太郎（ビジネス数学教育家、BMコンサルティング株式会社代表取締役） [更新 3月6日] [毎週火・金曜日更新][TIME28:09]",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 Mar 2026 01:00:00 -0000",
+      "feed_index": 66
+    },
+    {
+      "id": "0483d6a62e49d80862bbbd80753f605c8773bdbc423f132430978271e12b00f5",
+      "guid": "e11ab61f-dd7b-4ce4-b23e-b317008a035a",
+      "title": {
+        "text": "#1『人を集めるB to Eの「E」とは!?「地域の力をいかに引き出すか」』竹田好洋（Criacao取締役CSO）松本めぐみ（松本興産取締役、Star Compass代表取締役）",
+        "truncated": false
+      },
+      "description": {
+        "text": "気鋭の経営学者・入山章栄とともに様々なジャンルのクリエ―ターや専門家、起業家たちが社会課題や未来予想図などをテーマにアイディア、オピニオンをぶつけ合い、より良い未来の姿とそれを実現するイノベーションのヒントを探ります。 #1『人を集めるB to Eの「E」とは!?「地域の力をいかに引き出すか」』竹田好洋（Criacao取締役CSO）松本めぐみ（松本興産取締役、Star Compass代表取締役） [更新 7月15日] [毎週火・金曜日更新][TIME 21:33] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Jul 2025 01:00:00 -0000",
+      "feed_index": 133
+    },
+    {
+      "id": "366f37fb1877fc0ced9eba85eee263533497a609a171c831da6ca5a2a270c198",
+      "guid": "1b7e942c-2dfc-4131-bc5a-b229008a60e3",
+      "title": {
+        "text": "第262回前半『海外にない日本の漫画の精神性とは？「ポップカルチャーの魅力を考える」』（11月11日「浜カフェ」）保手濱彰人（株式会社ファンダム！ 代表取締役会長） 神木 健児（漫画ONE PIECE 研究家）",
+        "truncated": false
+      },
+      "description": {
+        "text": "気鋭の経営学者・入山章栄とともに様々なジャンルのクリエ―ターや専門家、起業家たちが社会課題や未来予想図などをテーマにアイディア、オピニオンをぶつけ合い、より良い未来の姿とそれを実現するイノベーションのヒントを探ります。 第262回前半『海外にない日本の漫画の精神性とは？「ポップカルチャーの魅力を考える」』保手濱彰人（株式会社ファンダム！ 代表取締役会長）神木 健児（漫画ONE PIECE 研究家） [更新 11月19日] [毎週火・金曜日更新][TIME 14:56] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Tue, 19 Nov 2024 01:00:00 -0000",
+      "feed_index": 199
+    },
+    {
+      "id": "811e66100f25d3ed362333f6e22d0ef1fcc3e01d543e93f10325fccab7d1a80e",
+      "guid": "fd401a51-059c-4ae6-896c-b07e004acef7",
+      "title": {
+        "text": "第202回『富士山ゴミ拾い後の、温泉とビールの大きな役割「社会課題を自分ごとにするには？」』＃2（9月11日「浜カフェ」）小野田隼人（株式会社ソトコト・ネットワーク代表取締役）たかまつなな（笑下村塾 代表取締役）",
+        "truncated": false
+      },
+      "description": {
+        "text": "気鋭の経営学者・入山章栄とともに様々なジャンルのクリエ―ターや専門家、起業家たちが社会課題や未来予想図などをテーマにアイディア、オピニオンをぶつけ合い、より良い未来の姿とそれを実現するイノベーションのヒントを探ります。 第202回『富士山ゴミ拾い後の、温泉とビールの大きな役割「社会課題を自分ごとにするには？」』＃2小野田隼人（株式会社ソトコト・ネットワーク代表取締役）たかまつなな（笑下村塾 代表取締役）[更新 9月18日] [毎週月曜日更新][TIME 28:08] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Mon, 18 Sep 2023 01:00:00 -0000",
+      "feed_index": 265
+    },
+    {
+      "id": "c96d92f1d1b6ae58c5766b21f15c2af2fc28dd965b8e907b75ac720aaea7cfcc",
+      "guid": "bc4e1725-5590-4953-8862-aeb000ba4f1d",
+      "title": {
+        "text": "第136回「未来の食から見える世界とは？」#2（6月6日（月）「浜カフェ」）中田花奈（元乃木坂46/プロ雀士） 坂口直樹（デロイトトーマツコンサルティング） 十河哲朗（FRDジャパン取締役COO）",
+        "truncated": false
+      },
+      "description": {
+        "text": "気鋭の経営学者・入山章栄とともに様々なジャンルのクリエ―ターや専門家、起業家たちが社会課題や未来予想図などをテーマにアイディア、オピニオンをぶつけ合い、より良い未来の姿とそれを実現するイノベーションのヒントを探ります。 第136回「未来の食から見える世界とは？」#2中田花奈（元乃木坂46/プロ雀士）坂口直樹（デロイトトーマツコンサルティング）十河哲朗（FRDジャパン取締役COO） [更新 6月13日] [毎週月曜日更新][TIME 29:03] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Jun 2022 01:00:00 -0000",
+      "feed_index": 331
+    },
+    {
+      "id": "ee75d9e6849d78b5defd7b5325b16928f4fd16d597e8ad1954d7902e9d11038d",
+      "guid": "https://www.joqr.co.jp/hamacafe_pod/#078871",
+      "title": {
+        "text": "浜松町InnovationCultureCafe Podcast 第67回【株式会社TFJ NEXT社長 藤本JOHNNY孝博、連続起業家/ビジネスデザイナー 菊池紳】",
+        "truncated": false
+      },
+      "description": {
+        "text": "気鋭の経営学者・入山章栄とともに様々なジャンルのクリエ―ターや専門家、起業家たちが社会課題や未来予想図などをテーマにアイディア、オピニオンをぶつけ合い、より良い未来の姿とそれを実現するイノベーションのヒントを探ります。 第67回「いま、飲食店に出来ること。飲食店が出来ること」#1」 株式会社TFJ NEXT社長 藤本JOHNNY孝博 連続起業家/ビジネスデザイナー 菊池紳 [更新 2月1日] [毎週月曜日更新] [TIME 27:24] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 Feb 2021 01:00:00 -0000",
+      "feed_index": 398
+    },
+    {
+      "id": "61b3ea5d7510ffc855c4a74774240a12c968f1c4b2eba2bd725a7da2f19a68fb",
+      "guid": "https://www.joqr.co.jp/hamacafe_pod/#056343",
+      "title": {
+        "text": "浜松町InnovationCultureCafe Podcast 第1回【Panasonic 「GameChangerCatapult」代表 深田昌則、慶應義塾大学大学院教授 中村伊知哉】",
+        "truncated": false
+      },
+      "description": {
+        "text": "気鋭の経営学者・入山章栄とともに様々なジャンルのクリエ―ターや専門家、起業家たちが社会課題や未来予想図などをテーマにアイディア、オピニオンをぶつけ合い、より良い未来の姿とそれを実現するイノベーションのヒントを探ります。 第1回「進化する街・浜松町 再開発に必要なものとは？」 Panasonic 「GameChangerCatapult」代表 深田昌則 慶應義塾大学大学院教授 中村伊知哉 [更新 10月31日] [毎週水曜日更新] [TIME 1:30:34] See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Thu, 31 Oct 2019 05:37:00 -0000",
+      "feed_index": 464
+    }
+  ]
+}

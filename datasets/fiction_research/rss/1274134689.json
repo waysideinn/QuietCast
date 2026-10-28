@@ -1,0 +1,140 @@
+{
+  "show_id": "1274134689",
+  "feed_url": "http://www.ximalaya.com/album/9803351.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/9803351.xml",
+    "final_url": "http://www.ximalaya.com/album/9803351.xml",
+    "fetched_at": "2026-10-25T14:48:35.046467+00:00",
+    "status": 200,
+    "sha256": "5e4af83973bfbba9bcae8c7f78971fe44cf4187b9f64160a7bdeabfa19e0eae8"
+  },
+  "status": "ok",
+  "title": {
+    "text": "听学编程之Python",
+    "truncated": false
+  },
+  "description": {
+    "text": "尊敬的听友们，您好，这里是《听学编程之python》的音频节目。 阿拉伯数字编号的『主系列』 以硬核，高级抽象，探究机理深，课程时间长，消耗精力大为特点，适合于对程序开发有兴趣的， 以探求极致为目的Geeker 。 汉字数字编号的『小白系列 』 以 干货，实操和快速掌握为特点，提供愉快的学习体验，循序渐进的技术路线， 急用先学， 实用了解，适合于无基础的在工作中的 Python实 用者。 最新研究表明，编程能力是由高级抽象的直觉思维，获取信息的方法途径和组织代码编写速度三个部分组成，而思维对编程能力的影响是最关键的。我们都想要升职加薪，想要在公司中获得尊重，不去提高本领和能力，不想着改进学习和工作效率，走任何邪门歪道，那都是痴心妄想。遗憾的是，身边所见学习一门新的编程语言时，大量宝贵的时间和精力，都浪费在无穷的资料和海量的代码中了，认知水平不提高，程序员永远都是在搬砖。听学编程是唯一有效的学习方式，在地铁里，公交上，散步中，不浪费时间，不消耗精力，是闭着眼睛都可以学习的高效方式，让你的编程学习事半而功倍。而且，和各种在线培训网站不同，我们的课程是免费的哦。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 18,
+  "episodes": [
+    {
+      "id": "33eb44f8ae89032dc6ba06e0cf210cabfc3d49dd2b9291586154d0604c03c549",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M01/DE/54/wKgJXlmQN8yQ0y73AGv1skfV0lU093-aacv2-48K.m4a",
+      "title": {
+        "text": "一、（小白系列）Python版本和安装",
+        "truncated": false
+      },
+      "description": {
+        "text": "工欲善其事必先利其器。 快来学习吧！加这个号，拉你入群讨论",
+        "truncated": false
+      },
+      "published_at": "Sun, 13 Aug 2017 11:44:10 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "a452c37de9f480eb677115ddbc255a6c9968d75158eadc139767d0c77a389359",
+      "guid": "https://aod.cos.tx.xmcdn.com/group32/M08/C3/10/wKgJnFmi1OjCiWKwAgygyoDq7AE667-aacv2-48K.m4a",
+      "title": {
+        "text": "三、（小白系列）宝玉在红楼梦里说了什么",
+        "truncated": false
+      },
+      "description": {
+        "text": "文字整理发布在我的知乎文章，需要的朋友，请移步这里 https://zhuanlan.zhihu.com/p/29213486。 学了字符串和列表，我们就来试试看分析一下中文巨著『红楼梦』，我们来看看贾宝玉都说过哪些话？文中下载的处理好的红楼梦文本、宝玉、宝钗、黛玉和凤姐说话的下载地址在这里http://www.luuren.com。 快来学习吧！加这个号，拉你入群讨论",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Aug 2017 14:18:38 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "6205172e65838fd5372e3c2d26293daf8d6cdf9f325e375e3d82511667351557",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M02/EF/57/wKgJSVmMo2fCgGJDAxhI4p3MQx8457-aacv2-48K.m4a",
+      "title": {
+        "text": "3.使用Python解释器",
+        "truncated": false
+      },
+      "description": {
+        "text": "什么是解释器，如果调用解释器，外加全选项配置。 尊敬的各位听友们，本教程中可能是系列中听得最辛苦的一章，希望您能坚持，听完就是胜利，胜利是属于勇于攀登高峰的强者的。有兴趣加群讨论 快来学习吧！加这个号，拉你入群讨论",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Aug 2017 18:15:59 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "d92446d1368cb9fd657587d1f8de6b2e71d49ca0cd8ade07d4b6385b4000945e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group32/M04/9E/02/wKgJnFmgPZuz-qnHAmP_-_4T7xQ060-aacv2-48K.m4a",
+      "title": {
+        "text": "5.Python的流程控制和函数相关",
+        "truncated": false
+      },
+      "description": {
+        "text": "Python的流程控制和函数相关，重点讲解了符号表symbol table，本地local，全局global，变量传递，lambda，闭包closure等细节。 快来学习吧！加这个号，拉你入群讨论",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Aug 2017 15:09:18 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "fb54b806a5ed37fd335a06737dd1eed0a1380a7d68e5ee94c880c1c04cb9a0f1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M08/7E/7D/wKgJSVm0gd2yjl5dAgAlfNgQoPw448-aacv2-48K.m4a",
+      "title": {
+        "text": "8.Python I/O",
+        "truncated": false
+      },
+      "description": {
+        "text": "格式化文书输出，文件的输入输出，数据结构用json。欢迎来使用。 快来学习吧！加这个号，拉你入群讨论",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Sep 2017 00:03:57 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "982e527c6703593e1f7780d91fdf68fbfbf49fbe6b9ef0319a129044003bf6ee",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M04/7B/8B/wKgJXlnPVbihWk9IAvao7NnXST4125-aacv2-48K.m4a",
+      "title": {
+        "text": "10. Python的类（上）面向对象编程和名称空间",
+        "truncated": false
+      },
+      "description": {
+        "text": "为十一献礼啦！python类是个压轴大课，原文中的前序知识要求太高，我试着从开始简单补齐，即使点到为止，也花了一个多小时。不过面向对象编程的概念，名称空间、符号表和范围，这些都是掌握类的必要准备。跟完，保证你会有大收获！ 快来添加这个号，拉你进群讨论。",
+        "truncated": false
+      },
+      "published_at": "Sat, 30 Sep 2017 08:43:41 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "1073451cd502f8dbbb8591118203cc79e0ac4c9126a4236676fb6143e365614f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group53/M00/EB/80/wKgLcVxPohyBn4TvACJn6cybQWA973.m4a",
+      "title": {
+        "text": "4.静态和动态",
+        "truncated": false
+      },
+      "description": {
+        "text": "学习中很多时候会混淆的原因就是没有分清楚静态和动态",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Jan 2019 00:45:09 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "143ca1003c750508246123f69a586ccca81122492741fc7dd403b6ebe384ed0b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group59/M06/B6/FA/wKgLeFzPnbzSM_keBRursPPWslk603-aacv2-48K.m4a",
+      "title": {
+        "text": "12.Python的三个要点",
+        "truncated": false
+      },
+      "description": {
+        "text": "就三个内容，python的核心 1、一切皆对象 2、静态和动态 3、范围是关键 谢谢各位的陪伴，谢谢大家！",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 May 2019 02:36:42 GMT",
+      "feed_index": 17
+    }
+  ]
+}

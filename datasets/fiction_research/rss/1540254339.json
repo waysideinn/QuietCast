@@ -1,0 +1,140 @@
+{
+  "show_id": "1540254339",
+  "feed_url": "http://www.ximalaya.com/album/43701446.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/43701446.xml",
+    "final_url": "http://www.ximalaya.com/album/43701446.xml",
+    "fetched_at": "2026-10-25T14:42:19.140042+00:00",
+    "status": 200,
+    "sha256": "a7045ecadf5b7c63db8f3b22654f71de1977ff58d35e147140075bc82f08a1ec"
+  },
+  "status": "ok",
+  "title": {
+    "text": "透视神婿|都市爽文",
+    "truncated": false
+  },
+  "description": {
+    "text": "入赘三年，他却受尽了白眼，受尽了嘲讽。面对眼前种种，他不怒，只因生活无奈。如今，他的双眼能看穿一切。他将搅动这一方风云。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 90,
+  "episodes": [
+    {
+      "id": "e1479d8f631881c97b1dc533f6c4262f263e136c489a25e069cc9a04a26a0e70",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/80cf-audiofreehighqps/8F/7C/CMCoOSQDgwMhADkddABmViom.m4a",
+      "title": {
+        "text": "第一章 透视",
+        "truncated": false
+      },
+      "description": {
+        "text": "入赘三年，他却受尽了白眼，受尽了嘲讽。面对眼前种种，他不怒，只因生活无奈。如今，他的双眼能看穿一切。他将搅动这一方风云。",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 Nov 2020 14:00:59 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "e75488381f55d1fe846803c95dd82b209398805ad9d2707ebb967ebe2a12e988",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4900-audiofreehighqps/B9/91/CMCoOSIDhcQ3ADGT7ABnAJZc-aacv2-48K.m4a",
+      "title": {
+        "text": "第十四章 不服就试试",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 Nov 2020 16:09:21 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "b7b93e1f4d9ada068b74f243d3f7c126eaa8ec9011d1675c7c45309e188e2267",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/68b0-audiofreehighqps/09/58/CMCoOSUDntukADAjWABts31U.m4a",
+      "title": {
+        "text": "第二十六章 够义气",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Dec 2020 16:55:57 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "241b418f7e3e8c64964c57d64da82d07eea36822c670ba41efff5e725e7d9500",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d30b-audiofreehighqps/83/A3/CMCoOScDzhZsADGcvQB5mfSb.m4a",
+      "title": {
+        "text": "第三十九章 真相",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 08 Jan 2021 12:43:16 GMT",
+      "feed_index": 38
+    },
+    {
+      "id": "d7cb01977388e269fc15c1a0a7d541cc33f145176e42e795a8f07ce449f82933",
+      "guid": "xmly_track_541180495",
+      "title": {
+        "text": "第五十二章 享受西餐",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 07 Jun 2022 16:04:57 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "20af337efa176f888e0360d61237f0597547715cbe3ff41cda801606ca7f1b0a",
+      "guid": "xmly_track_581102658",
+      "title": {
+        "text": "第六十五章 坑死别人",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 28 Oct 2022 16:58:06 GMT",
+      "feed_index": 64
+    },
+    {
+      "id": "9cbf674f8429fc157eaa1e9f82171cbf3cea18436c3843937f4c05f6a933b069",
+      "guid": "xmly_track_581358174",
+      "title": {
+        "text": "第七十七章 醋坛子",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 29 Oct 2022 18:02:04 GMT",
+      "feed_index": 76
+    },
+    {
+      "id": "709e0e0416aebeda8d066e178c347b7ba497e33aa22e8b83f2dd9b61e6093f0a",
+      "guid": "xmly_track_581831229",
+      "title": {
+        "text": "第九十章 王老虎",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 31 Oct 2022 12:30:36 GMT",
+      "feed_index": 89
+    }
+  ]
+}

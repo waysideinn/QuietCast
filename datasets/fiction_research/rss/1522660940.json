@@ -1,0 +1,140 @@
+{
+  "show_id": "1522660940",
+  "feed_url": "https://feeds.soundon.fm/podcasts/aeec8abc-2676-4aeb-a57d-27e25f9b3130.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/aeec8abc-2676-4aeb-a57d-27e25f9b3130.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/aeec8abc-2676-4aeb-a57d-27e25f9b3130.xml",
+    "fetched_at": "2026-10-25T14:52:59.133769+00:00",
+    "status": 200,
+    "sha256": "67236c8d97c1634ba4e369128da9f82887e5322933e843125f8e6519bb5a40f4"
+  },
+  "status": "ok",
+  "title": {
+    "text": "JR健康新幹線",
+    "truncated": false
+  },
+  "description": {
+    "text": "JR健康新幹線，身體健康看得見，維持體態，營養資訊不漏接 由「帥氣營養師」Ricky，加上「甜美專業主持人」白白Jay 帶大家認識更多營養知識、調整體態 一起邁向健康的人生！ -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 55,
+  "episodes": [
+    {
+      "id": "2cc0067b13fa2db2e2037bfcd66004b3ec4463e9a254f33d7b33353f3fcd202b",
+      "guid": "8e643bc8-8249-47cc-bff7-82ad43ca46e3",
+      "title": {
+        "text": "Ep55－睡前運動完還要吃東西?",
+        "truncated": false
+      },
+      "description": {
+        "text": "常有人問，睡覺前可以運動嗎? 睡前運動完還要補充營養嗎? 這樣會不會前功盡棄啊! 以上問題通通回答你! ------------------------------------------ 參與營養師Ricky更多的生活 ►Instagram：https://www.instagram.com/chang_ricky_life/ ►Facebook：https://www.facebook.com/RickyChangJiaxiang/ ►Telegram： https://lihi1.com/AHvWk ►Line：@cd8013 （記得加上＠與我一對一詢問問題） ►FB社團：https://www.facebook.com/groups/998614990525514/",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Jun 2021 09:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "4d72ad9e8f99597c858a46539afa1a7fb5e28f266689040aa80f1e0266fb7b9b",
+      "guid": "30db99e0-308a-44bd-9727-3c9fe2613f6c",
+      "title": {
+        "text": "Ep47－5分鐘JR日常-送禮學問大",
+        "truncated": false
+      },
+      "description": {
+        "text": "送禮送到心坎裡！ 到底要怎麼送裡才對呢？ 一起來聽聽ＪＲ的送禮哲學！ ------------------------------------------ 參與營養師Ricky更多的生活 ►Instagram：https://www.instagram.com/chang_ricky_life/ ►Facebook：https://www.facebook.com/RickyChangJiaxiang/ ►Telegram： https://lihi1.com/AHvWk ►Line：@cd8013 （記得加上＠與我一對一詢問問題） ►FB社團：https://www.facebook.com/groups/998614990525514/",
+        "truncated": false
+      },
+      "published_at": "Wed, 28 Apr 2021 09:11:45 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "c40f485addfe5cce0e08668656b1d61916142a379b62a9b804f8c3e6e586f556",
+      "guid": "06f17d96-f514-40b4-b4b6-3c7df61498a2",
+      "title": {
+        "text": "Ep40－斷食狀況劇3－到底可以吃什麼？",
+        "truncated": false
+      },
+      "description": {
+        "text": "斷食時間百百種 斷食期間到底可以吃什麼? 水，茶、咖啡還有蘋果醋? 怎麼吃怎麼喝聽下去就知道！ ------------------------------------------ 參與營養師Ricky更多的生活 ►Instagram：https://www.instagram.com/chang_ricky_life/ ►Facebook：https://www.facebook.com/RickyChangJiaxiang/ ►Telegram： https://lihi1.com/AHvWk ►Line：@cd8013 （記得加上＠與我一對一詢問問題） ►FB社團：https://www.facebook.com/groups/998614990525514/",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Mar 2021 09:12:32 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "672bd01947a9d3267ce459492b8ac95f1511a6a94e744b29009b7d80c13f7c8c",
+      "guid": "aeeaf9a9-4368-4319-b3e8-0d20e61cd037",
+      "title": {
+        "text": "Ep32－痛風的飲食筆記",
+        "truncated": false
+      },
+      "description": {
+        "text": "有人說，痛風痛起來比生小孩還痛！ 到底為什麼會引發痛風? 有什麼東西最好不要亂吃？ 邊聽邊筆記 ------------------------------------------ 參與營養師Ricky更多的生活 ►Instagram：https://www.instagram.com/chang_ricky_life/ ►Facebook：https://www.facebook.com/RickyChangJiaxiang/ ►Telegram： https://lihi1.com/AHvWk ►Line：@cd8013 （記得加上＠與我一對一詢問問題） ►FB社團：https://www.facebook.com/groups/998614990525514/",
+        "truncated": false
+      },
+      "published_at": "Thu, 14 Jan 2021 08:55:21 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "ac392ffb3eb7d212822af9be83a653909271417d7e9d917d04959807aad7a28a",
+      "guid": "65b7c9e8-16b1-4ab9-bdfe-003489799cde",
+      "title": {
+        "text": "Ep24－5分鐘JR日常-白姐上菜",
+        "truncated": false
+      },
+      "description": {
+        "text": "JR日常又來啦！ 這次又是白白回答！ 一起來聽聽白姊是如何走上小廚娘的道路呢？ 一起來聽聽吧！ ------------------------------------------ 參與營養師Ricky更多的生活 ►Instagram：https://www.instagram.com/chang_ricky_life/ ►Facebook：https://www.facebook.com/RickyChangJiaxiang/ ►Telegram： https://lihi1.com/AHvWk ►Line：@cd8013 （記得加上＠與我一對一詢問問題） ►FB社團：https://www.facebook.com/groups/998614990525514/",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 Nov 2020 09:00:00 GMT",
+      "feed_index": 31
+    },
+    {
+      "id": "40df956cbdb7d74be23dcd468147fabd6600cef99c7ae5b0d9f4760f0e7b47f2",
+      "guid": "dd69508e-f19a-4045-a16a-f285109090a6",
+      "title": {
+        "text": "Ep16－每月QA之保健食品（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "現代人吃保健食品已經成為一種潮流?! 怎麼知道自己需要？ 怎麼挑選怎麼吃？ 讓Ricky挑選粉絲提問大解密!! 參與營養師Ricky更多的生活 ►Instagram：https://www.instagram.com/chang_ricky_life/ ►Facebook：https://www.facebook.com/RickyChangJiaxiang/ ►Telegram： https://lihi1.com/AHvWk ►Line：@cd8013 （記得加上＠與我一對一詢問問題） ►FB社團：https://www.facebook.com/groups/998614990525514/",
+        "truncated": false
+      },
+      "published_at": "Wed, 30 Sep 2020 09:00:00 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "957e1aa8e8e62b8d94a784292ab21c9d529e17b105b36a433501c27f2898a6e9",
+      "guid": "c5c2e878-37af-4317-8ee2-65e087ce933c",
+      "title": {
+        "text": "Ep9－益生菌也愛吃的糖！我可以吃嗎？",
+        "truncated": false
+      },
+      "description": {
+        "text": "用6分半，帶你認識腸道好菌也愛吃的糖 跟代糖一樣嗎？ 它為什麼對身體比較好呢？ 一起來聽聽吧！",
+        "truncated": false
+      },
+      "published_at": "Wed, 12 Aug 2020 09:00:00 GMT",
+      "feed_index": 46
+    },
+    {
+      "id": "174068cb79b83c294a3acd194b1b2431febe10f4ad94387935d21504860fc286",
+      "guid": "c03a1668-276e-47c3-a99c-ae1cd513f5e0",
+      "title": {
+        "text": "Ep1 －天天外食照樣瘦！快聽營養師Ricky首播秀！",
+        "truncated": false
+      },
+      "description": {
+        "text": "什麼？！天菜級營養師Ricky進軍Podcast！ 他不只是營養師、YouTuber，現在更以作家的身分， 帶來《體脂狂降20%！減醣外食快瘦攻略》 教你吃外食也可以「輕鬆」瘦一波 節目中除了公開Ricky過往黑歷史 還加上粉絲們大力敲碗的美女主持人白白Jay一同獻聲 超強卡司，趕快收聽！ 參與營養師Ricky更多的生活 ►Instagram：https://www.instagram.com/chang_ricky_life/ ►Facebook：https://www.facebook.com/RickyChangJiaxiang/ ►Telegram： https://lihi1.com/AHvWk ►Line：@cd8013 （記得加上＠與我一對一詢問問題） ►FB社團：https://www.facebook.com/groups/998614990525514/",
+        "truncated": false
+      },
+      "published_at": "Wed, 08 Jul 2020 09:00:00 GMT",
+      "feed_index": 54
+    }
+  ]
+}

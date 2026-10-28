@@ -1,0 +1,38 @@
+PAGE audiobooks ok 有声图书
+PAGE web-literature ok 网络文学
+PAGE fiction-cn ok 小说
+PAGE drama-cn ok 剧情
+PAGE scifi-cn ok 科幻小说
+PAGE comedy-fiction-cn ok 喜剧小说
+PAGE books-cn ok 图书
+PAGE fiction-us ok 新发现
+PAGE drama-us ok 新发现
+PAGE scifi-us ok 新发现
+PAGE comedy-fiction-us ok 新发现
+LOOKUP 0 309 ok 19
+LOOKUP 20 309 ok 20
+LOOKUP 40 309 ok 15
+LOOKUP 60 309 ok 19
+LOOKUP 80 309 ok 12
+LOOKUP 100 309 ok 20
+LOOKUP 120 309 ok 5
+LOOKUP 140 309 ok 0
+LOOKUP 160 309 ok 0
+LOOKUP 180 309 ok 0
+LOOKUP 200 309 ok 0
+LOOKUP 220 309 ok 0
+LOOKUP 240 309 ok 10
+LOOKUP 260 309 ok 20
+LOOKUP 280 309 ok 19
+LOOKUP 300 309 ok 5
+RSS 10 160
+RSS 20 160
+RSS 30 160
+RSS 40 160
+RSS 50 160
+RSS 70 160
+RSS 80 160
+RSS 90 160
+RSS 110 160
+RSS 120 160
+DONE 164 lookup records 110 RSS attempts

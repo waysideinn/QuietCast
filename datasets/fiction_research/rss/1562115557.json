@@ -1,0 +1,140 @@
+{
+  "show_id": "1562115557",
+  "feed_url": "https://feeds.soundon.fm/podcasts/ebaf8612-7feb-48f7-858d-ca66d0d0ad2b.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/ebaf8612-7feb-48f7-858d-ca66d0d0ad2b.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/ebaf8612-7feb-48f7-858d-ca66d0d0ad2b.xml",
+    "fetched_at": "2026-10-25T14:52:42.880198+00:00",
+    "status": 200,
+    "sha256": "98b7fd1144ebc3ec084085ddc523efb4c85f1c8e4856831d3f9ee67304a673aa"
+  },
+  "status": "ok",
+  "title": {
+    "text": "珍正好時光",
+    "truncated": false
+  },
+  "description": {
+    "text": "《珍正好時光》 探索文學寶藏，相遇跨界書寫。林榮三文學獎連續兩年跨文類首獎、拍台北電影劇本首獎、亞洲週刊年度十大華文小說獎得主、前華視新聞主播朱國珍，每周五、周六晚間6點Podcast首播《珍正好時光》，共享好書正能量。 歡迎透過下列社群平臺與我互動唷！ Facebook https://www.facebook.com/voiceofhan Instagram https://www.instagram.com/voh310601/ Line http://nav.cx/ia17aMq -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 594,
+  "episodes": [
+    {
+      "id": "bdc103d522646d6b1cc0a3dbff0cd9873c412f0f70240da498d7619225a40685",
+      "guid": "8af3d032-4586-460f-b947-0e7b6d5b7f21",
+      "title": {
+        "text": "SDG SDG HARMMONY(永續音樂平台)聯合創辦人何子明與書名號樂團談音樂與永續發展(SDGs)(下)",
+        "truncated": false
+      },
+      "description": {
+        "text": "得獎團體書名號的作品《結果》呼應SDGs第七項 可負擔且潔淨的能源及十四項保育海洋生態。這群大學應屆畢業生，以音樂描繪人與環境之間的連結，在音樂創作、社會影響力與永續理念等方面在比賽脫穎而出。何子明也分享由他作曲、妹妹何子詩作詞的歌曲《世界公民》，希望音樂的功能不只是用於文化娛樂以及餐會募款，更能為社會問題提供解方、展現公共對話、推廣永續發展的理想。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 24 Oct 2026 10:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "dc93fa844aa9b33a6a7de271b95e973812b9462d245fc4dc58bc3e8aeefe174a",
+      "guid": "a5942a35-1e07-4c82-94d2-e2ec2391a37e",
+      "title": {
+        "text": "《忽聞布農踏歌聲》師大附中國文老師許明智談「一名漢人教師接觸臺灣原住民族的十年生命行旅」（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "許明智十六歲時參與部落服務，為布農族孩子設計「我要說好話」教案，希望透過成語故事吸引學生興趣。卻受到其他教師直言這個教案脫離原住民的生活脈絡，使他首次意識到自身的漢人視角對教學內容所產生的影響，也啟發他對於原住民族長達十年的關懷：從大學時期申請布農族部落壯遊計畫，到研究所的原住民族文學研究，乃至於畢業後仍選擇前往原住民族部落服替代役。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 26 Dec 2025 10:00:00 GMT",
+      "feed_index": 85
+    },
+    {
+      "id": "5b2a7671524bf6da5f0a5813893796064e6642de885f0d58b6f2e637d6e3f207",
+      "guid": "0f3c000f-991f-4dd3-9dcc-60903e0ab37b",
+      "title": {
+        "text": "《旅讀》雜誌執行副總編輯鄺介文談盛世養巨星、喜歡李白就來做李「太白」粉（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "鄺介文說，許多人的閱讀史都是從「床前明月光」開始的；戀愛史則是從「妾髮初覆額」開始；至於抗老史，「朝如青絲暮成雪」更令大家熟悉。這些都是李太白著名的詩句，也許你我都在自覺與不自覺間，步步落入李白佈下的網羅。那麼，無論新粉舊粉，歡迎加入太．白．粉！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 Feb 2025 10:00:00 GMT",
+      "feed_index": 169
+    },
+    {
+      "id": "dadd9a47c505f8866701a7a01fdb1784eff3ea761cce3a2de229141df65395cb",
+      "guid": "6509982b-6593-4b7e-be37-7f5080d9bfd4",
+      "title": {
+        "text": "S2E136與台大教授楊雅儒談《人之初．國之史：二十一世紀臺灣小說之宗教修辭與終極關懷》（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "中央大學康來新教授則認為，雖然書名很長，卻都如實對應內容命題與案例。書中所列舉的作家與作品皆是享譽全球華人文壇者，可謂高度經典性。楊雅儒深入研究經典作家的個人信仰、身分認同、情志抉擇等皆一新耳目，具備公∕私、聖∕俗雙面性，作為學術書的實用參考價值貢獻有三：分別是史學的作家傳記資料、文學的次文類新編以及宗教學的區域見證。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 20 Apr 2024 10:00:00 GMT",
+      "feed_index": 254
+    },
+    {
+      "id": "f7240ab830cdd1e28da1db557c6ec3f3c09f734ec0e0ad65bb39419cc31e0917",
+      "guid": "af726a4c-57fd-420e-b8e3-4c902ba032b4",
+      "title": {
+        "text": "S2E51與作家馬欣談《看似很美，其實是壞掉的》（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "馬欣首度虛構極短篇創作與「痛散文」結集。歷經大疫與至親逝去，經過兩年安靜蟄伏，馬欣以不從眾的銳利，刨挖這時代令人疲倦卻難以脫身的病瘡，讓心有虛空的人離開深井，爬出牆外，獲得修復。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 30 Jun 2023 10:00:00 GMT",
+      "feed_index": 339
+    },
+    {
+      "id": "8d1488ba8227b89bf2e548edcd804bade1ce9b657fbc545bc0b4119f03a4c87a",
+      "guid": "363be1fb-92ff-461e-a8e8-be03fc2a2571",
+      "title": {
+        "text": "S2E70與周宜慶上校談《莒光媛地》軍事教育節目製作與幕後花絮（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集節目外出採訪與張淑媛導播共事四十年的劉敏導播與蔣惠美導播，兩人不約而同提到張導播上午訂婚、下午繼續錄製節目「一生懸命」的工作精神，以及周宜慶上校自薦主持《莒光園地》的錄影經驗，坦承自己「錄到生氣」的原因。精采有趣的節目內容在這集完整呈現。 Facebook https://www.facebook.com/voiceofhan Instagram https://www.instagram.com/voh310601/ Line http://nav.cx/ia17aMq -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 03 Sep 2022 10:00:00 GMT",
+      "feed_index": 424
+    },
+    {
+      "id": "a1d7f030e031fce7af1cfbabefdb4fdb9589e53f7b659bab4a792ceb6d8abc84",
+      "guid": "ac9ca7b5-d98d-411a-9fae-7fae30512878",
+      "title": {
+        "text": "S1E86與建中名師凌性傑談吳岱穎絕版詩作精裝復刻《造夢者》（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "屢獲多項重要文學獎新詩首獎的吳岱穎，以剝洋蔥式的閱讀與思考方法，觀察周邊事物隱藏的符號系統，文化意涵與可能的脈絡，除了運用在創作，也傳授給學生，並時時提醒：「詩人用思維的手指穿透事物，帶領讀者看到」。吳岱穎是當代優秀的詩人，不幸早逝，陳育虹說：「我們失去這麼一位好詩人，好老師。但只要我們留住他的文字，我們就留住了他。」 Facebook https://www.facebook.com/voiceofhan Instagram https://www.instagram.com/voh310601/ Line http://nav.cx/ia17aMq -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 13 Nov 2021 10:00:00 GMT",
+      "feed_index": 508
+    },
+    {
+      "id": "2be4603d8ae91200f79fe410611c0d42fe1cf7581a8e51bec33a17f66aeb4402",
+      "guid": "1b4c5bd3-7d36-40e9-ab45-601c8be37eaa",
+      "title": {
+        "text": "S1EP1 與資深鄉民教授祁立峰談文學作品的疆界",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集邀請資深鄉民教授、以《古文撞到鄉民》成為網紅作家的祁立峰老師談出版產業鏈的跨界。新作《書情點播》試圖打破純文學與類型文學的疆界，各項文本改編影視作品的影響力，無論年輕人或大齡人，生命中無法迴避遊走善惡邊緣的人性挑戰。 關於祁立峰｜https://www.linkingbooks.com.tw/LNB/author/Author.aspx?ID=0003025 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 08 Apr 2021 10:00:00 GMT",
+      "feed_index": 593
+    }
+  ]
+}

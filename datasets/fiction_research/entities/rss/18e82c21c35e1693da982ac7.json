@@ -1,0 +1,165 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/81586794.xml",
+    "final_url": "https://www.ximalaya.com/album/81586794.xml",
+    "fetched_at": "2026-10-26T07:56:34.179105+00:00",
+    "status": 200,
+    "sha256": "3fc47e7efe7d0fbf432e727a2a53131dcade2bb556b5370b109ee71b9a44f1ab"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "爽文！全家一起提前囤货穿越末世重生空间种田养崽天灾",
+      "truncated": false
+    },
+    "description": {
+      "text": "【末世】【重生】【空间】【种田】【养崽崽】 纯天灾末世文，无丧尸，无异能！ 宋歌上一世被人出卖，母子惨死。 既然有了重生的机会，提前囤货！ 这一次一定要让在乎的人都活着！ 务必保证全家人都能吃饱喝足！ 新书书名：穿到原始，我妈天天给我烧香上供 新文已开正在抓紧更新 简介：女主穿越原始社会，幸好现代老妈能往里塞物资！ 吃的穿的，打火机瑞士军刀通通安排！ 女儿别怕！吃饱穿暖早日回家！ 老妈别担心！捡到的金子都给你！ 作者：梅花小K@番茄 请支持作者主页 本专辑仅作推广赏析 在这里，我真诚地恳请大家支持这些作者，帮助他们扩大影响力，让更多的人了解并喜欢他们的才华和努力。您可以通过网络途径访问作者的主页，了解更多关于他们的信息，并购买他们的正版作品以及进行打赏，以支持他们的创作。 云麓有声社成立的初衷和目标动力就是希望能够推广和赏析作品，让更多人受益于文学的魅力。我们相信，通过大家的支持和共同努力，这个目标一定能够实现。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "云鹿柔迩@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "云鹿柔迩"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "云鹿柔迩"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Science Fiction"
+      ],
+      [
+        "Arts"
+      ],
+      [
+        "Arts",
+        "Books"
+      ],
+      [
+        "Leisure"
+      ],
+      [
+        "Leisure",
+        "Games"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/81586794",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 252,
+    "episodes": [
+      {
+        "title": {
+          "text": "第1章 重生",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_725701737"
+      },
+      {
+        "title": {
+          "text": "第37章 时间规则",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 36,
+        "guid": "xmly_track_725702267"
+      },
+      {
+        "title": {
+          "text": "第73章 方玲玲",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 72,
+        "guid": "xmly_track_725703988"
+      },
+      {
+        "title": {
+          "text": "第106章 吃人团伙",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 108,
+        "guid": "xmly_track_725763226"
+      },
+      {
+        "title": {
+          "text": "第140章 雪地摩托",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 143,
+        "guid": "xmly_track_725771048"
+      },
+      {
+        "title": {
+          "text": "第173章 坏人侦查器",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 179,
+        "guid": "xmly_track_725771321"
+      },
+      {
+        "title": {
+          "text": "第209章 称呼请自行脑补(ಥ﹏ಥ)",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 215,
+        "guid": "xmly_track_725777851"
+      },
+      {
+        "title": {
+          "text": "第244章 大结局",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 251,
+        "guid": "xmly_track_725799930"
+      }
+    ]
+  }
+}

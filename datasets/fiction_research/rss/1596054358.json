@@ -1,0 +1,140 @@
+{
+  "show_id": "1596054358",
+  "feed_url": "http://www.ximalaya.com/album/53331171.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/53331171.xml",
+    "final_url": "http://www.ximalaya.com/album/53331171.xml",
+    "fetched_at": "2026-10-25T14:54:50.929070+00:00",
+    "status": 200,
+    "sha256": "bde4d2d0c6b30733b57f70d9f2d9796116e8f1b7098a61df2cf61095a79cc408"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【免费精品多人有声剧】战神奶爸下天山",
+    "truncated": false
+  },
+  "description": {
+    "text": "一代杀神，重回尘世，再战辉煌！！曾经是佣兵王，业界第一杀手，因为妻子惨死一怒之下为妻子报仇后带着女儿隐姓埋名，6年后因为女儿学业重回世间。一代杀神，再战尘世间！本书为听音阁社团推出的长篇多人有声小说，希望大家多提宝贵意见，会按照本书订阅数量来增加更新集数，希望大家踊跃订阅哦！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 622,
+  "episodes": [
+    {
+      "id": "8beb9a2a8b35daba81719d008e13bd6be3005736626949700e4d25c95854ce3e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1b23-audiofreehighqps/F6/DA/CKwRIJEFKXfXAEIKUgDnteHB-aacv2-48K.m4a",
+      "title": {
+        "text": "第1章 你家在山上啊！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Sep 2021 14:15:51 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "c012aab91553e3add0280e2cbee4390d45247609f045a54db03e40faba74ab6c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e622-audiofreehighqps/10/BD/CKwRIRwFL3YjADwNSADpFo5Z-aacv2-48K.m4a",
+      "title": {
+        "text": "第90章 她不是你要找的人",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 03 Oct 2021 13:41:44 GMT",
+      "feed_index": 89
+    },
+    {
+      "id": "1799537380fae4b3ceedea8d8663b7fe6ea2b6401f0172a347c9cf58fbb0c744",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a8ad-audiofreehighqps/8B/1F/CKwRIJIFUJ28ADpn1gDxa3F2-aacv2-48K.m4a",
+      "title": {
+        "text": "第178章 不祥之兆",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 29 Oct 2021 00:00:04 GMT",
+      "feed_index": 177
+    },
+    {
+      "id": "2cc500ca9a20f85022b456962d48f8e7c863f0e92382b2c854eab6c657f6fd87",
+      "guid": "xmly_track_482586239",
+      "title": {
+        "text": "第267章 突然出现的高手",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Dec 2021 00:00:04 GMT",
+      "feed_index": 266
+    },
+    {
+      "id": "ea81c8c56166bf006c9acb71023be384872bda33b52b1bd470c9d6081e3e2274",
+      "guid": "xmly_track_508368947",
+      "title": {
+        "text": "第356章 集市喧闹",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 07 Mar 2022 01:27:53 GMT",
+      "feed_index": 355
+    },
+    {
+      "id": "ce8bd73e6d2b30758fe5094c5cf4158b4399dac5c84c5a45dc2330704a305c51",
+      "guid": "xmly_track_526609209",
+      "title": {
+        "text": "第445章 巨龙",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 Apr 2022 14:16:11 GMT",
+      "feed_index": 444
+    },
+    {
+      "id": "ba3562866b8b157c3d69523310d43f572ddb96a721d64f257b99ebfa8cb8006f",
+      "guid": "xmly_track_549307498",
+      "title": {
+        "text": "第533章 机关",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Jul 2022 14:43:07 GMT",
+      "feed_index": 532
+    },
+    {
+      "id": "7df3112d1eb6ad6bbca44086c761723df819ab93cf471005fd171f105fa95ca9",
+      "guid": "xmly_track_568469088",
+      "title": {
+        "text": "第622章 我是妈妈（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Sep 2022 15:17:45 GMT",
+      "feed_index": 621
+    }
+  ]
+}

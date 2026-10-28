@@ -1,0 +1,2215 @@
+{
+  "group": "normal",
+  "term": "健康",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%81%A5%E5%BA%B7&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%81%A5%E5%BA%B7&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:44:35.556241+00:00",
+    "status": 200,
+    "sha256": "668a237ab1a5a189c0b8e4252b737d2a7bf2a851df105ff0a3d7ed2aeb2d320c"
+  },
+  "result_count": 99,
+  "records": [
+    {
+      "collectionId": 1572956645,
+      "trackId": 1572956645,
+      "collectionName": "照顧好健康",
+      "artistName": "照顧好健康",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckownleh0sxab0873nqz883ok",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%85%A7%E9%A1%A7%E5%A5%BD%E5%81%A5%E5%BA%B7/id1572956645?uo=4",
+      "genres": [
+        "營養健康",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512"
+      ],
+      "trackCount": 51,
+      "releaseDate": "2022-05-13T01:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "營養健康"
+    },
+    {
+      "collectionId": 1609589996,
+      "trackId": 1609589996,
+      "collectionName": "陳月卿 健康4.0",
+      "artistName": "陳月卿",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/32055d1d-241d-46f2-80d2-b6d3a7a955fb.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%99%B3%E6%9C%88%E5%8D%BF-%E5%81%A5%E5%BA%B74-0/id1609589996?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 95,
+      "releaseDate": "2026-05-27T10:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1822196484,
+      "trackId": 1822196484,
+      "collectionName": "健康醫聊站",
+      "artistName": "台視新聞",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/4d9a7491-45b6-4efc-997c-fac3e5d1dfaa.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E9%86%AB%E8%81%8A%E7%AB%99/id1822196484?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1489"
+      ],
+      "trackCount": 58,
+      "releaseDate": "2026-09-10T23:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1612751706,
+      "trackId": 1612751706,
+      "collectionName": "早安健康Podcast",
+      "artistName": "早安健康",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/a36ab90f-f547-48fd-8649-e98afb0b2700.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%A9%E5%AE%89%E5%81%A5%E5%BA%B7podcast/id1612751706?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身",
+        "教育"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1304"
+      ],
+      "trackCount": 176,
+      "releaseDate": "2026-09-28T10:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1542796941,
+      "trackId": 1542796941,
+      "collectionName": "宋明樺陪你享瘦享健康",
+      "artistName": "宋明樺",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/3839c8a2-b14a-4107-ad7c-56865572f39b.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%AE%8B%E6%98%8E%E6%A8%BA%E9%99%AA%E4%BD%A0%E4%BA%AB%E7%98%A6%E4%BA%AB%E5%81%A5%E5%BA%B7/id1542796941?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 13,
+      "releaseDate": "2021-05-25T07:49:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 6811337525,
+      "trackId": 6811337525,
+      "collectionName": "今天沒有要打針",
+      "artistName": "台大兒童健康基金會(NTUCHF)",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/9d038355-cc36-40ac-9b32-c3adc2bd50c8.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BB%8A%E5%A4%A9%E6%B2%92%E6%9C%89%E8%A6%81%E6%89%93%E9%87%9D/id6811337525?uo=4",
+      "genres": [
+        "兒童與家庭",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1305",
+        "26",
+        "1304"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2026-09-30T04:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童與家庭"
+    },
+    {
+      "collectionId": 1598268424,
+      "trackId": 1598268424,
+      "collectionName": "好食課健康聊天室",
+      "artistName": "好食課",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckwohgpyc07oj0998venmybvi",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%BD%E9%A3%9F%E8%AA%B2%E5%81%A5%E5%BA%B7%E8%81%8A%E5%A4%A9%E5%AE%A4/id1598268424?uo=4",
+      "genres": [
+        "營養健康",
+        "Podcast",
+        "健康與瘦身",
+        "瘦身"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1514"
+      ],
+      "trackCount": 87,
+      "releaseDate": "2024-08-30T10:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "營養健康"
+    },
+    {
+      "collectionId": 1541121592,
+      "trackId": 1541121592,
+      "collectionName": "十二经络——藏在时间里的健康密码《经闻》",
+      "artistName": "养居益_守护家人健康",
+      "feedUrl": "http://www.ximalaya.com/album/43749406.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8D%81%E4%BA%8C%E7%BB%8F%E7%BB%9C-%E8%97%8F%E5%9C%A8%E6%97%B6%E9%97%B4%E9%87%8C%E7%9A%84%E5%81%A5%E5%BA%B7%E5%AF%86%E7%A0%81-%E7%BB%8F%E9%97%BB/id1541121592?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身",
+        "另類醫學"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1513"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2020-11-21T03:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1590811870,
+      "trackId": 1590811870,
+      "collectionName": "57健康同學會",
+      "artistName": "57健康同學會",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/a8dc222c-d1fa-40a8-a4f7-23da87972082.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/57%E5%81%A5%E5%BA%B7%E5%90%8C%E5%AD%B8%E6%9C%83/id1590811870?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1304"
+      ],
+      "trackCount": 314,
+      "releaseDate": "2022-06-27T05:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1779024584,
+      "trackId": 1779024584,
+      "collectionName": "初一十五練健康",
+      "artistName": "練健康Lkk-wellness",
+      "feedUrl": "https://feed.firstory.me/rss/user/cm3coa0jq0fud01xu5z7ngqtp",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%88%9D%E4%B8%80%E5%8D%81%E4%BA%94%E7%B7%B4%E5%81%A5%E5%BA%B7/id1779024584?uo=4",
+      "genres": [
+        "瘦身",
+        "Podcast",
+        "健康與瘦身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1514",
+        "26",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2026-05-01T07:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "瘦身"
+    },
+    {
+      "collectionId": 1789061182,
+      "trackId": 1789061182,
+      "collectionName": "i哩健康",
+      "artistName": "ｉ醫健康網",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/7e901e96-134b-49fa-8983-7369b7ce1771.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/i%E5%93%A9%E5%81%A5%E5%BA%B7/id1789061182?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 92,
+      "releaseDate": "2026-08-07T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1702789260,
+      "trackId": 1702789260,
+      "collectionName": "中醫式健康管理",
+      "artistName": "中醫式健康管理",
+      "feedUrl": "https://feed.firstory.me/rss/user/clk8l5sie00ar01xago9176yi",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E9%86%AB%E5%BC%8F%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86/id1702789260?uo=4",
+      "genres": [
+        "另類醫學",
+        "Podcast",
+        "健康與瘦身",
+        "醫學"
+      ],
+      "genreIds": [
+        "1513",
+        "26",
+        "1512",
+        "1518"
+      ],
+      "trackCount": 40,
+      "releaseDate": "2024-08-20T11:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "另類醫學"
+    },
+    {
+      "collectionId": 1802155665,
+      "trackId": 1802155665,
+      "collectionName": "Heho健康大風吹",
+      "artistName": "Heho健康",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/0461523e-0124-4577-a192-5639723d1951.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/heho%E5%81%A5%E5%BA%B7%E5%A4%A7%E9%A2%A8%E5%90%B9/id1802155665?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 32,
+      "releaseDate": "2025-08-20T08:46:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1537517875,
+      "trackId": 1537517875,
+      "collectionName": "健康醫起聊",
+      "artistName": "健康醫起聊",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckga9uqzf8iqo0875aewdhorq",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E9%86%AB%E8%B5%B7%E8%81%8A/id1537517875?uo=4",
+      "genres": [
+        "另類醫學",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1513",
+        "26",
+        "1512"
+      ],
+      "trackCount": 26,
+      "releaseDate": "2021-06-01T07:12:00Z",
+      "country": "TWN",
+      "primaryGenreName": "另類醫學"
+    },
+    {
+      "collectionId": 1725131830,
+      "trackId": 1725131830,
+      "collectionName": "健康茶水間",
+      "artistName": "cynthia Lu",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/9728ec5b-351f-4d05-b895-4d57297de14a.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E8%8C%B6%E6%B0%B4%E9%96%93/id1725131830?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1489"
+      ],
+      "trackCount": 131,
+      "releaseDate": "2026-09-24T12:59:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1527859146,
+      "trackId": 1527859146,
+      "collectionName": "兒科知識+ 瘦身/醫美/健康話題",
+      "artistName": "歐淑娟醫師",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckdlq4rortdc908624dwbgihk",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%92%E7%A7%91%E7%9F%A5%E8%AD%98-%E7%98%A6%E8%BA%AB-%E9%86%AB%E7%BE%8E-%E5%81%A5%E5%BA%B7%E8%A9%B1%E9%A1%8C/id1527859146?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512"
+      ],
+      "trackCount": 268,
+      "releaseDate": "2026-10-14T03:23:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1669227060,
+      "trackId": 1669227060,
+      "collectionName": "職米週｜職場健康米蔚週週陪伴你",
+      "artistName": "MIDWAY米蔚健康專業團隊",
+      "feedUrl": "https://feed.firstory.me/rss/user/clbyo609y01tx01p20jhcf7f5",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%81%B7%E7%B1%B3%E9%80%B1-%E8%81%B7%E5%A0%B4%E5%81%A5%E5%BA%B7%E7%B1%B3%E8%94%9A%E9%80%B1%E9%80%B1%E9%99%AA%E4%BC%B4%E4%BD%A0/id1669227060?uo=4",
+      "genres": [
+        "職業",
+        "Podcast",
+        "商業",
+        "健康與瘦身",
+        "醫學"
+      ],
+      "genreIds": [
+        "1410",
+        "26",
+        "1321",
+        "1512",
+        "1518"
+      ],
+      "trackCount": 83,
+      "releaseDate": "2026-09-23T11:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "職業"
+    },
+    {
+      "collectionId": 1556771310,
+      "trackId": 1556771310,
+      "collectionName": "健康營養師＃抗癌防癌美味吃",
+      "artistName": "癌症關懷基金會",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/b7087729-fc62-44b1-a2b2-5812b9971a97.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E7%87%9F%E9%A4%8A%E5%B8%AB-%E6%8A%97%E7%99%8C%E9%98%B2%E7%99%8C%E7%BE%8E%E5%91%B3%E5%90%83/id1556771310?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "藝術",
+        "食物"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1301",
+        "1306"
+      ],
+      "trackCount": 924,
+      "releaseDate": "2026-10-21T12:55:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1573108318,
+      "trackId": 1573108318,
+      "collectionName": "健康不簡單＜君弘保健室 | 惠康草本＞",
+      "artistName": "君弘＜君弘保健室 | 惠康草本＞",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/60a2d66e-2f5f-4fd7-a4d0-1c215b0fddad.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E4%B8%8D%E7%B0%A1%E5%96%AE-%E5%90%9B%E5%BC%98%E4%BF%9D%E5%81%A5%E5%AE%A4-%E6%83%A0%E5%BA%B7%E8%8D%89%E6%9C%AC/id1573108318?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1304"
+      ],
+      "trackCount": 1026,
+      "releaseDate": "2026-10-24T04:49:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1565061161,
+      "trackId": 1565061161,
+      "collectionName": "健康新鲜报",
+      "artistName": "健康百课",
+      "feedUrl": "http://www.ximalaya.com/album/45822446.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E6%96%B0%E9%B2%9C%E6%8A%A5/id1565061161?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身",
+        "營養健康"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1515"
+      ],
+      "trackCount": 1033,
+      "releaseDate": "2023-08-02T21:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1669414223,
+      "trackId": 1669414223,
+      "collectionName": "健康萊了",
+      "artistName": "健康萊了",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/1ae81157-5eb2-4b42-b4a6-20e90b0d5c18.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E8%90%8A%E4%BA%86/id1669414223?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 79,
+      "releaseDate": "2025-08-21T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1574814370,
+      "trackId": 1574814370,
+      "collectionName": "i哩健康",
+      "artistName": "ｉ醫健康網",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/7e901e96-134b-49fa-8983-7369b7ce1771.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/i%E5%93%A9%E5%81%A5%E5%BA%B7/id1574814370?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 92,
+      "releaseDate": "2026-08-07T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1526795511,
+      "trackId": 1526795511,
+      "collectionName": "健康醫療網",
+      "artistName": "健康媒體有限公司",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/ec01e1c6-736a-4a64-9dcf-7ab0e8b82fec.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E9%86%AB%E7%99%82%E7%B6%B2/id1526795511?uo=4",
+      "genres": [
+        "每日新聞",
+        "Podcast",
+        "新聞",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1526",
+        "26",
+        "1489",
+        "1512"
+      ],
+      "trackCount": 127,
+      "releaseDate": "2026-01-22T03:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "每日新聞"
+    },
+    {
+      "collectionId": 1734026528,
+      "trackId": 1734026528,
+      "collectionName": "思思醫師，陪你健康的好朋友",
+      "artistName": "李思賢醫師",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/ee144383-235a-4fd1-a577-282ddbc6b297.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%80%9D%E6%80%9D%E9%86%AB%E5%B8%AB-%E9%99%AA%E4%BD%A0%E5%81%A5%E5%BA%B7%E7%9A%84%E5%A5%BD%E6%9C%8B%E5%8F%8B/id1734026528?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 32,
+      "releaseDate": "2026-10-22T17:03:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1808888566,
+      "trackId": 1808888566,
+      "collectionName": "愛健康小教室",
+      "artistName": "愛健康",
+      "feedUrl": "https://feed.firstory.me/rss/user/cm9cgsldv064501tc54tw8g1c",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%84%9B%E5%81%A5%E5%BA%B7%E5%B0%8F%E6%95%99%E5%AE%A4/id1808888566?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1304"
+      ],
+      "trackCount": 147,
+      "releaseDate": "2026-10-14T02:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1508095512,
+      "trackId": 1508095512,
+      "collectionName": "Tasha健康漫聊",
+      "artistName": "Tasha",
+      "feedUrl": "https://feed.firstory.me/rss/user/ck8zq6i70tr990873fft7ox76",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/tasha%E5%81%A5%E5%BA%B7%E6%BC%AB%E8%81%8A/id1508095512?uo=4",
+      "genres": [
+        "營養健康",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512"
+      ],
+      "trackCount": 222,
+      "releaseDate": "2026-10-18T22:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "營養健康"
+    },
+    {
+      "collectionId": 1546202225,
+      "trackId": 1546202225,
+      "collectionName": "e聊健康Talk",
+      "artistName": "常春月刊",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/3c9efbf2-03b3-45ca-808f-3fdbe7256a01.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/e%E8%81%8A%E5%81%A5%E5%BA%B7talk/id1546202225?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1324"
+      ],
+      "trackCount": 313,
+      "releaseDate": "2026-10-22T06:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1593399525,
+      "trackId": 1593399525,
+      "collectionName": "和宇凡聊聊天-讓你身心健康的小秘訣",
+      "artistName": "賴宇凡Sara",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckucs176d06bv0872h5hj1e58",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%92%8C%E5%AE%87%E5%87%A1%E8%81%8A%E8%81%8A%E5%A4%A9-%E8%AE%93%E4%BD%A0%E8%BA%AB%E5%BF%83%E5%81%A5%E5%BA%B7%E7%9A%84%E5%B0%8F%E7%A7%98%E8%A8%A3/id1593399525?uo=4",
+      "genres": [
+        "另類醫學",
+        "Podcast",
+        "健康與瘦身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1513",
+        "26",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 122,
+      "releaseDate": "2026-06-25T22:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "另類醫學"
+    },
+    {
+      "collectionId": 1529215629,
+      "trackId": 1529215629,
+      "collectionName": "健康聲友會",
+      "artistName": "HealthVoice 聲傳媒",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/58de5a86-b1c0-4262-9af6-a78bba3b71c3.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E8%81%B2%E5%8F%8B%E6%9C%83/id1529215629?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 226,
+      "releaseDate": "2024-05-01T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1769344634,
+      "trackId": 1769344634,
+      "collectionName": "曾記西藥房",
+      "artistName": "阿斯匹靈藥師主持的健康PODCAST",
+      "feedUrl": "https://feed.firstory.me/rss/user/cm0yrl3ml004y01uo3i4070no",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9B%BE%E8%A8%98%E8%A5%BF%E8%97%A5%E6%88%BF/id1769344634?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身",
+        "另類醫學"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1513"
+      ],
+      "trackCount": 107,
+      "releaseDate": "2026-10-18T23:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1853620559,
+      "trackId": 1853620559,
+      "collectionName": "歷史的傷 心會記得",
+      "artistName": "衛生福利部心理健康司",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/8ffaeb40-4f85-4877-861b-9c8d6cab857d.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AD%B7%E5%8F%B2%E7%9A%84%E5%82%B7-%E5%BF%83%E6%9C%83%E8%A8%98%E5%BE%97/id1853620559?uo=4",
+      "genres": [
+        "政府",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1511",
+        "26",
+        "1324"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2025-12-02T22:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "政府"
+    },
+    {
+      "collectionId": 1850579498,
+      "trackId": 1850579498,
+      "collectionName": "好理家在",
+      "artistName": "馴錢師財務健康諮詢師",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmhip17wt03ev01wwfo0v4a9p",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%BD%E7%90%86%E5%AE%B6%E5%9C%A8/id1850579498?uo=4",
+      "genres": [
+        "教學",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1499",
+        "26",
+        "1304"
+      ],
+      "trackCount": 51,
+      "releaseDate": "2026-10-11T22:47:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教學"
+    },
+    {
+      "collectionId": 1635496243,
+      "trackId": 1635496243,
+      "collectionName": "元氣醫聲",
+      "artistName": "聯合報健康事業部",
+      "feedUrl": "https://feed.firstory.me/rss/user/cl5am3ram00m001082k7sfhr5",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%83%E6%B0%A3%E9%86%AB%E8%81%B2/id1635496243?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 185,
+      "releaseDate": "2026-10-16T09:57:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1769523776,
+      "trackId": 1769523776,
+      "collectionName": "育兒童學會",
+      "artistName": "台灣精準兒童健康協會",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/c23a402a-0ef0-41c5-b24e-1cc60a786084.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%82%B2%E5%85%92%E7%AB%A5%E5%AD%B8%E6%9C%83/id1769523776?uo=4",
+      "genres": [
+        "兒童與家庭",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1305",
+        "26"
+      ],
+      "trackCount": 36,
+      "releaseDate": "2026-09-09T23:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童與家庭"
+    },
+    {
+      "collectionId": 1778349074,
+      "trackId": 1778349074,
+      "collectionName": "菠萝健康派",
+      "artistName": "菠萝因子",
+      "feedUrl": "https://feed.xyzfm.space/qe8egag9eycv",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%8F%A0%E8%90%9D%E5%81%A5%E5%BA%B7%E6%B4%BE/id1778349074?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "科學"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1533"
+      ],
+      "trackCount": 133,
+      "releaseDate": "2026-10-21T23:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 6818269314,
+      "trackId": 6818269314,
+      "collectionName": "OUTLIVE 超預期健康",
+      "artistName": "OUTLIVE 超預期健康",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/6210cbe2-5841-4d73-88c3-aee466ea914b.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/outlive-%E8%B6%85%E9%A0%90%E6%9C%9F%E5%81%A5%E5%BA%B7/id6818269314?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2026-10-20T09:23:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1652024783,
+      "trackId": 1652024783,
+      "collectionName": "健康ライフ　ＮＨＫラジオ「マイあさ！」",
+      "artistName": "NHK (Japan Broadcasting Corporation)",
+      "feedUrl": "https://www.nhk.or.jp/s-media/F527/podcast/list/v1/all.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E3%83%A9%E3%82%A4%E3%83%95-%EF%BD%8E%EF%BD%88%EF%BD%8B%E3%83%A9%E3%82%B8%E3%82%AA-%E3%83%9E%E3%82%A4%E3%81%82%E3%81%95/id1652024783?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-10-22T03:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1873161434,
+      "trackId": 1873161434,
+      "collectionName": "護理心聲代",
+      "artistName": "衛生福利部護理及健康照護司",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/4488db31-c977-408f-8653-9c7e41212eb9.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AD%B7%E7%90%86%E5%BF%83%E8%81%B2%E4%BB%A3/id1873161434?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1304"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-02-11T01:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1881909634,
+      "trackId": 1881909634,
+      "collectionName": "健康登機門",
+      "artistName": "護理師1元",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/fb08fb87-cc57-4400-bd70-24e2fce26db5.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E7%99%BB%E6%A9%9F%E9%96%80/id1881909634?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1304"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2026-07-28T22:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1678096968,
+      "trackId": 1678096968,
+      "collectionName": "心健萌 Mental Health for All by 臺灣心理健康聯盟",
+      "artistName": "臺灣心理健康聯盟 TFMH",
+      "feedUrl": "https://feed.firstory.me/rss/user/clefe3l0b00rk01v3hv0u9ou3",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%BF%83%E5%81%A5%E8%90%8C-mental-health-for-all-by-%E8%87%BA%E7%81%A3%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E8%81%AF%E7%9B%9F/id1678096968?uo=4",
+      "genres": [
+        "心理健康",
+        "Podcast",
+        "健康與瘦身",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 43,
+      "releaseDate": "2024-12-29T06:54:00Z",
+      "country": "TWN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1788037822,
+      "trackId": 1788037822,
+      "collectionName": "晚安時光陪你聊心事",
+      "artistName": "心理健康與輔導",
+      "feedUrl": "https://feed.firstory.me/rss/user/cm5cd05h3005601vqb6s92qy7",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%99%9A%E5%AE%89%E6%99%82%E5%85%89%E9%99%AA%E4%BD%A0%E8%81%8A%E5%BF%83%E4%BA%8B/id1788037822?uo=4",
+      "genres": [
+        "心理健康",
+        "Podcast",
+        "健康與瘦身",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 51,
+      "releaseDate": "2026-06-18T13:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1571043645,
+      "trackId": 1571043645,
+      "collectionName": "裝修這檔事‧健康‧生活‧室內設計",
+      "artistName": "Green Design 綠裝修",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckpi63of6n035085816tlcm87",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%A3%9D%E4%BF%AE%E9%80%99%E6%AA%94%E4%BA%8B-%E5%81%A5%E5%BA%B7-%E7%94%9F%E6%B4%BB-%E5%AE%A4%E5%85%A7%E8%A8%AD%E8%A8%88/id1571043645?uo=4",
+      "genres": [
+        "課程",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304"
+      ],
+      "trackCount": 27,
+      "releaseDate": "2021-12-20T04:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "課程"
+    },
+    {
+      "collectionId": 1886803560,
+      "trackId": 1886803560,
+      "collectionName": "紐約健康365",
+      "artistName": "CAlPA Foundation、紐約健康365、世界新聞網",
+      "feedUrl": "https://anchor.fm/s/10d55fbb4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%B4%90%E7%B4%84%E5%81%A5%E5%BA%B7365/id1886803560?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 43,
+      "releaseDate": "2026-10-16T20:58:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1704815000,
+      "trackId": 1704815000,
+      "collectionName": "趙函穎的營養健康報報",
+      "artistName": "趙函穎營養師Rita",
+      "feedUrl": "https://feed.firstory.me/rss/user/clofs9j340jci01tn5iv96bpw",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B6%99%E5%87%BD%E7%A9%8E%E7%9A%84%E7%87%9F%E9%A4%8A%E5%81%A5%E5%BA%B7%E5%A0%B1%E5%A0%B1/id1704815000?uo=4",
+      "genres": [
+        "營養健康",
+        "Podcast",
+        "健康與瘦身",
+        "另類醫學"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1513"
+      ],
+      "trackCount": 32,
+      "releaseDate": "2025-03-18T18:55:00Z",
+      "country": "TWN",
+      "primaryGenreName": "營養健康"
+    },
+    {
+      "collectionId": 1615043050,
+      "trackId": 1615043050,
+      "collectionName": "健康我來顧",
+      "artistName": "IC之音竹科廣播｜王淑榮主持",
+      "feedUrl": "https://www.ic975.com/feed/illbehealthy/",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E6%88%91%E4%BE%86%E9%A1%A7/id1615043050?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1324"
+      ],
+      "trackCount": 363,
+      "releaseDate": "2025-12-26T10:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1828159100,
+      "trackId": 1828159100,
+      "collectionName": "員工健康事 就是我們事",
+      "artistName": "涵泩健康 HaveSome Health",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/3f9d84b6-4bf7-417f-aca1-3627a2f26bf1.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%A1%E5%B7%A5%E5%81%A5%E5%BA%B7%E4%BA%8B-%E5%B0%B1%E6%98%AF%E6%88%91%E5%80%91%E4%BA%8B/id1828159100?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1304"
+      ],
+      "trackCount": 105,
+      "releaseDate": "2026-08-22T15:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1742678840,
+      "trackId": 1742678840,
+      "collectionName": "星之所向",
+      "artistName": "國立成功大學心理健康及諮商輔導組",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/f01f0a41-d7d1-49f0-9f1e-fc15e95c13e5.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%98%9F%E4%B9%8B%E6%89%80%E5%90%91/id1742678840?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1304"
+      ],
+      "trackCount": 21,
+      "releaseDate": "2026-02-12T09:28:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1809042018,
+      "trackId": 1809042018,
+      "collectionName": "健康異常人",
+      "artistName": "Tina",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/3f910ec4-36ef-4198-8fbb-0a8d0ca08f93.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E7%95%B0%E5%B8%B8%E4%BA%BA/id1809042018?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "宗教與精神生活"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1314"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2026-01-06T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1815435309,
+      "trackId": 1815435309,
+      "collectionName": "利百代-健康大錢線",
+      "artistName": "錢怡君 x 好好聽FM",
+      "feedUrl": "https://www.ibo-ad.com/my_rss.php?sid=2089&sbid=20288",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%88%A9%E7%99%BE%E4%BB%A3-%E5%81%A5%E5%BA%B7%E5%A4%A7%E9%8C%A2%E7%B7%9A/id1815435309?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身",
+        "另類醫學"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1513"
+      ],
+      "trackCount": 81,
+      "releaseDate": "2026-10-23T00:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1530116566,
+      "trackId": 1530116566,
+      "collectionName": "《門諾健康會客室》",
+      "artistName": "MchPodcast",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/586bbd59-af62-48bd-87d3-bce10afadb1f.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%96%80%E8%AB%BE%E5%81%A5%E5%BA%B7%E6%9C%83%E5%AE%A2%E5%AE%A4/id1530116566?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1301"
+      ],
+      "trackCount": 48,
+      "releaseDate": "2026-09-07T07:40:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1630745927,
+      "trackId": 1630745927,
+      "collectionName": "台北健康養成記",
+      "artistName": "臺北市政府衛生局",
+      "feedUrl": "https://feed.firstory.me/rss/user/cl4lf2h7c01gd01ygcy242inv",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8F%B0%E5%8C%97%E5%81%A5%E5%BA%B7%E9%A4%8A%E6%88%90%E8%A8%98/id1630745927?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "政府"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1511"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2023-11-29T06:12:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1720687758,
+      "trackId": 1720687758,
+      "collectionName": "睿思．身心健康之旅",
+      "artistName": "健康管理師-蔡惠婷",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/6e02711b-e4c7-4998-bd3f-84ff254bb401.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%9D%BF%E6%80%9D-%E8%BA%AB%E5%BF%83%E5%81%A5%E5%BA%B7%E4%B9%8B%E6%97%85/id1720687758?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1304"
+      ],
+      "trackCount": 298,
+      "releaseDate": "2026-10-21T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1822776290,
+      "trackId": 1822776290,
+      "collectionName": "聞く健康習慣　Hana博士の体調最高ラジオ",
+      "artistName": "FUBI",
+      "feedUrl": "https://feeds.megaphone.fm/taicho",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%81%9E%E3%81%8F%E5%81%A5%E5%BA%B7%E7%BF%92%E6%85%A3-hana%E5%8D%9A%E5%A3%AB%E3%81%AE%E4%BD%93%E8%AA%BF%E6%9C%80%E9%AB%98%E3%83%A9%E3%82%B8%E3%82%AA/id1822776290?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 69,
+      "releaseDate": "2026-10-11T20:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1876767533,
+      "trackId": 1876767533,
+      "collectionName": "嘉馨營養師｜為健康加點薪！",
+      "artistName": "嘉馨 營養師",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmlj4u6b500310113cga7eavw",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%98%89%E9%A6%A8%E7%87%9F%E9%A4%8A%E5%B8%AB-%E7%82%BA%E5%81%A5%E5%BA%B7%E5%8A%A0%E9%BB%9E%E8%96%AA/id1876767533?uo=4",
+      "genres": [
+        "營養健康",
+        "Podcast",
+        "健康與瘦身",
+        "醫學"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1518"
+      ],
+      "trackCount": 34,
+      "releaseDate": "2026-10-16T11:59:00Z",
+      "country": "TWN",
+      "primaryGenreName": "營養健康"
+    },
+    {
+      "collectionId": 6807228253,
+      "trackId": 6807228253,
+      "collectionName": "點亮56・健康話",
+      "artistName": "點亮56",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/c7b0e669-62a1-4303-bb08-bd3dee1af622.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%BB%9E%E4%BA%AE56-%E5%81%A5%E5%BA%B7%E8%A9%B1/id6807228253?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2026-10-23T10:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1663422815,
+      "trackId": 1663422815,
+      "collectionName": "卡關實驗室，物理治療師讓身體不卡關｜健康、運動、體態",
+      "artistName": "動晰物理治療所-阿澤&老鄭",
+      "feedUrl": "https://feed.firstory.me/rss/user/clcixwloj0181010uh32x32n4",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8D%A1%E9%97%9C%E5%AF%A6%E9%A9%97%E5%AE%A4-%E7%89%A9%E7%90%86%E6%B2%BB%E7%99%82%E5%B8%AB%E8%AE%93%E8%BA%AB%E9%AB%94%E4%B8%8D%E5%8D%A1%E9%97%9C-%E5%81%A5%E5%BA%B7-%E9%81%8B%E5%8B%95-%E9%AB%94%E6%85%8B/id1663422815?uo=4",
+      "genres": [
+        "瘦身",
+        "Podcast",
+        "健康與瘦身",
+        "另類醫學"
+      ],
+      "genreIds": [
+        "1514",
+        "26",
+        "1512",
+        "1513"
+      ],
+      "trackCount": 94,
+      "releaseDate": "2024-12-31T12:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "瘦身"
+    },
+    {
+      "collectionId": 1722422243,
+      "trackId": 1722422243,
+      "collectionName": "實在愛健康",
+      "artistName": "郭雅雯",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/a30357bf-99fc-4a83-9629-cf2021461af2.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%AF%A6%E5%9C%A8%E6%84%9B%E5%81%A5%E5%BA%B7/id1722422243?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1324"
+      ],
+      "trackCount": 251,
+      "releaseDate": "2026-10-20T05:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1845060645,
+      "trackId": 1845060645,
+      "collectionName": "皮膚健康Talk Show",
+      "artistName": "台灣青春痘暨玫瑰斑協會",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/a0329d59-6579-48f0-b2e5-78d2c72367f8.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%9A%AE%E8%86%9A%E5%81%A5%E5%BA%B7talk-show/id1845060645?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 20,
+      "releaseDate": "2026-04-16T03:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1540556984,
+      "trackId": 1540556984,
+      "collectionName": "健康報報",
+      "artistName": "Angel",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/c0a33008-3232-4ba3-9f59-b7e7ef09a396.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E5%A0%B1%E5%A0%B1/id1540556984?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 63,
+      "releaseDate": "2022-06-02T08:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1787114202,
+      "trackId": 1787114202,
+      "collectionName": "健康零距離",
+      "artistName": "三立電視股份有限公司",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/6175b666-7827-4132-a400-4eac73e52857.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E9%9B%B6%E8%B7%9D%E9%9B%A2/id1787114202?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 130,
+      "releaseDate": "2025-12-22T02:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1895713485,
+      "trackId": 1895713485,
+      "collectionName": "健康食力派",
+      "artistName": "臺中市政府衛生局",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/5d80dbb3-c6c6-4c54-a01e-e77bb22c5174.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E9%A3%9F%E5%8A%9B%E6%B4%BE/id1895713485?uo=4",
+      "genres": [
+        "政府",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1511",
+        "26",
+        "1304"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2026-05-20T07:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "政府"
+    },
+    {
+      "collectionId": 1835405078,
+      "trackId": 1835405078,
+      "collectionName": "陪你走健康路一段～AI唸完我再說",
+      "artistName": "Howard614",
+      "feedUrl": "https://rss.buzzsprout.com/2531336.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%99%AA%E4%BD%A0%E8%B5%B0%E5%81%A5%E5%BA%B7%E8%B7%AF%E4%B8%80%E6%AE%B5-ai%E5%94%B8%E5%AE%8C%E6%88%91%E5%86%8D%E8%AA%AA/id1835405078?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512"
+      ],
+      "trackCount": 120,
+      "releaseDate": "2026-09-07T00:12:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1790117421,
+      "trackId": 1790117421,
+      "collectionName": "Wellness 365-健康Bar",
+      "artistName": "TAITRA",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/3366cdb5-55b9-405f-84d6-c0034191f9fd.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/wellness-365-%E5%81%A5%E5%BA%B7bar/id1790117421?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1324"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2025-06-01T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1788823211,
+      "trackId": 1788823211,
+      "collectionName": "醫路聊聊 診間悄悄話",
+      "artistName": "康脈健康網",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/0f686bd6-14a4-408b-b656-0f3ad590f14e.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%86%AB%E8%B7%AF%E8%81%8A%E8%81%8A-%E8%A8%BA%E9%96%93%E6%82%84%E6%82%84%E8%A9%B1/id1788823211?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 47,
+      "releaseDate": "2026-10-09T02:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1568969256,
+      "trackId": 1568969256,
+      "collectionName": "艾健康有聲書",
+      "artistName": "艾健康博士",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckp0s7rurbjtg0883ldogk3m0",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%89%BE%E5%81%A5%E5%BA%B7%E6%9C%89%E8%81%B2%E6%9B%B8/id1568969256?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 81,
+      "releaseDate": "2026-09-28T01:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1808912638,
+      "trackId": 1808912638,
+      "collectionName": "青春健身教室",
+      "artistName": "愛健康",
+      "feedUrl": "https://feed.firstory.me/rss/user/cm978yasd05tg01up3kqbbzic",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9D%92%E6%98%A5%E5%81%A5%E8%BA%AB%E6%95%99%E5%AE%A4/id1808912638?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "運動"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1545"
+      ],
+      "trackCount": 61,
+      "releaseDate": "2026-03-09T00:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1857891465,
+      "trackId": 1857891465,
+      "collectionName": "樂齡毛孩的幸福學",
+      "artistName": "中高齡寵物健康促進協會",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/bfda783e-d037-4821-b6ec-3e2066b73a18.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%A8%82%E9%BD%A1%E6%AF%9B%E5%AD%A9%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%AD%B8/id1857891465?uo=4",
+      "genres": [
+        "寵物與動物",
+        "Podcast",
+        "兒童與家庭"
+      ],
+      "genreIds": [
+        "1522",
+        "26",
+        "1305"
+      ],
+      "trackCount": 11,
+      "releaseDate": "2026-10-13T10:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "寵物與動物"
+    },
+    {
+      "collectionId": 1818244898,
+      "trackId": 1818244898,
+      "collectionName": "智平衡療癒夜聲",
+      "artistName": "智平衡健康集團",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmbewvvj91ist01xz0zqr2ow8",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%99%BA%E5%B9%B3%E8%A1%A1%E7%99%82%E7%99%92%E5%A4%9C%E8%81%B2/id1818244898?uo=4",
+      "genres": [
+        "另類醫學",
+        "Podcast",
+        "健康與瘦身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1513",
+        "26",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 20,
+      "releaseDate": "2025-09-07T13:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "另類醫學"
+    },
+    {
+      "collectionId": 1679712501,
+      "trackId": 1679712501,
+      "collectionName": "瘋健時代",
+      "artistName": "瘋狂健康管理者",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/6f6a2db5-e6c4-4faa-8ca3-09463d8b4219.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%98%8B%E5%81%A5%E6%99%82%E4%BB%A3/id1679712501?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "喜劇"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1303"
+      ],
+      "trackCount": 87,
+      "releaseDate": "2026-06-12T08:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1748099420,
+      "trackId": 1748099420,
+      "collectionName": "两性生活10000讲|性心理|性健康|性能力",
+      "artistName": "伴你听书",
+      "feedUrl": "https://www.ximalaya.com/album/80834988.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%A4%E6%80%A7%E7%94%9F%E6%B4%BB10000%E8%AE%B2-%E6%80%A7%E5%BF%83%E7%90%86-%E6%80%A7%E5%81%A5%E5%BA%B7-%E6%80%A7%E8%83%BD%E5%8A%9B/id1748099420?uo=4",
+      "genres": [
+        "兩性",
+        "Podcast",
+        "健康與瘦身",
+        "醫學"
+      ],
+      "genreIds": [
+        "1516",
+        "26",
+        "1512",
+        "1518"
+      ],
+      "trackCount": 2000,
+      "releaseDate": "2026-01-02T13:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兩性"
+    },
+    {
+      "collectionId": 1800023411,
+      "trackId": 1800023411,
+      "collectionName": "夫妻生活丨男人那点事",
+      "artistName": "中医两性健康养生课堂",
+      "feedUrl": "https://www.ximalaya.com/album/49368256.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%AB%E5%A6%BB%E7%94%9F%E6%B4%BB%E4%B8%A8%E7%94%B7%E4%BA%BA%E9%82%A3%E7%82%B9%E4%BA%8B/id1800023411?uo=4",
+      "genres": [
+        "兩性",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1516",
+        "26",
+        "1512"
+      ],
+      "trackCount": 433,
+      "releaseDate": "2026-07-11T15:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兩性"
+    },
+    {
+      "collectionId": 6803088899,
+      "trackId": 6803088899,
+      "collectionName": "李氏夫妻の健康 Power 補給棧",
+      "artistName": "Freya Lin",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmt00s4pn0glt01wnd8srfwh0",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9D%8E%E6%B0%8F%E5%A4%AB%E5%A6%BB%E3%81%AE%E5%81%A5%E5%BA%B7-power-%E8%A3%9C%E7%B5%A6%E6%A3%A7/id6803088899?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1304"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2026-08-19T12:20:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1614205566,
+      "trackId": 1614205566,
+      "collectionName": "健康部落格 / 哈囉趣談秀",
+      "artistName": "健康部落格 : 王秀芳&温蕙甄 / 哈囉趣談秀 : 李姿穎&楊詠智",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/fb3d8a6b-abe5-429a-9a29-75be0a43b58a.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E9%83%A8%E8%90%BD%E6%A0%BC-%E5%93%88%E5%9B%89%E8%B6%A3%E8%AB%87%E7%A7%80/id1614205566?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "兒童與家庭"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1305"
+      ],
+      "trackCount": 562,
+      "releaseDate": "2026-02-19T07:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1848299672,
+      "trackId": 1848299672,
+      "collectionName": "《赛斯书：健康之道》精要",
+      "artistName": "未知的实相",
+      "feedUrl": "https://www.ximalaya.com/album/104472785.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B5%9B%E6%96%AF%E4%B9%A6-%E5%81%A5%E5%BA%B7%E4%B9%8B%E9%81%93-%E7%B2%BE%E8%A6%81/id1848299672?uo=4",
+      "genres": [
+        "靈修",
+        "Podcast",
+        "宗教與精神生活",
+        "社會與文化",
+        "哲學"
+      ],
+      "genreIds": [
+        "1444",
+        "26",
+        "1314",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2025-09-25T05:40:00Z",
+      "country": "TWN",
+      "primaryGenreName": "靈修"
+    },
+    {
+      "collectionId": 1712016871,
+      "trackId": 1712016871,
+      "collectionName": "健康聽得見",
+      "artistName": "bbradio",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/3b7618aa-e83a-42e1-bef4-ef8501614870.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E8%81%BD%E5%BE%97%E8%A6%8B/id1712016871?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "兒童與家庭"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1305"
+      ],
+      "trackCount": 70,
+      "releaseDate": "2025-05-22T02:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 6787155817,
+      "trackId": 6787155817,
+      "collectionName": "健康噗克牌",
+      "artistName": "chehung",
+      "feedUrl": "https://rss.buzzsprout.com/2627093.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E5%99%97%E5%85%8B%E7%89%8C/id6787155817?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身",
+        "營養健康"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1515"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2026-09-11T06:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1863626895,
+      "trackId": 1863626895,
+      "collectionName": "4565存健康",
+      "artistName": "Rutimsroll",
+      "feedUrl": "https://feed.firstory.me/rss/user/cm7a7ikhn006c01zv9rr1ds5p",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/4565%E5%AD%98%E5%81%A5%E5%BA%B7/id1863626895?uo=4",
+      "genres": [
+        "瘦身",
+        "Podcast",
+        "健康與瘦身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1514",
+        "26",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2026-10-13T14:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "瘦身"
+    },
+    {
+      "collectionId": 1804549566,
+      "trackId": 1804549566,
+      "collectionName": "節氣健康指南",
+      "artistName": "Yahootw",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/0793ff87-36e5-4cee-8953-a979ed9f352e.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%AF%80%E6%B0%A3%E5%81%A5%E5%BA%B7%E6%8C%87%E5%8D%97/id1804549566?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1304"
+      ],
+      "trackCount": 27,
+      "releaseDate": "2025-09-30T10:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1823525261,
+      "trackId": 1823525261,
+      "collectionName": "【食疗养生】健康科普，中医保健，疾病预防，营养指南",
+      "artistName": "美丽心晴社",
+      "feedUrl": "https://www.ximalaya.com/album/85343100.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%A3%9F%E7%96%97%E5%85%BB%E7%94%9F-%E5%81%A5%E5%BA%B7%E7%A7%91%E6%99%AE-%E4%B8%AD%E5%8C%BB%E4%BF%9D%E5%81%A5-%E7%96%BE%E7%97%85%E9%A2%84%E9%98%B2-%E8%90%A5%E5%85%BB%E6%8C%87%E5%8D%97/id1823525261?uo=4",
+      "genres": [
+        "另類醫學",
+        "Podcast",
+        "健康與瘦身",
+        "兒童與家庭",
+        "兒童教育"
+      ],
+      "genreIds": [
+        "1513",
+        "26",
+        "1512",
+        "1305",
+        "1519"
+      ],
+      "trackCount": 367,
+      "releaseDate": "2026-10-21T08:24:00Z",
+      "country": "TWN",
+      "primaryGenreName": "另類醫學"
+    },
+    {
+      "collectionId": 1752412940,
+      "trackId": 1752412940,
+      "collectionName": "職人開箱：揭密工作中的危機",
+      "artistName": "台灣職業安全健康連線",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/1bde40ee-c2ea-4430-817a-2f4336e84fa5.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%81%B7%E4%BA%BA%E9%96%8B%E7%AE%B1-%E6%8F%AD%E5%AF%86%E5%B7%A5%E4%BD%9C%E4%B8%AD%E7%9A%84%E5%8D%B1%E6%A9%9F/id1752412940?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1304"
+      ],
+      "trackCount": 20,
+      "releaseDate": "2024-10-25T10:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1748253328,
+      "trackId": 1748253328,
+      "collectionName": "新光醫院子曰論健康",
+      "artistName": "新光吳火獅紀念醫院(新光醫院)",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/11364e28-a796-4d36-b693-feb839207366.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%B0%E5%85%89%E9%86%AB%E9%99%A2%E5%AD%90%E6%9B%B0%E8%AB%96%E5%81%A5%E5%BA%B7/id1748253328?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2025-07-04T12:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1702651753,
+      "trackId": 1702651753,
+      "collectionName": "普羅拜耳的營養攻略｜飲食健康、保健知識",
+      "artistName": "普羅拜耳",
+      "feedUrl": "https://feed.firstory.me/rss/user/clk9kzz4u00q201xa97d17go8",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%99%AE%E7%BE%85%E6%8B%9C%E8%80%B3%E7%9A%84%E7%87%9F%E9%A4%8A%E6%94%BB%E7%95%A5-%E9%A3%B2%E9%A3%9F%E5%81%A5%E5%BA%B7-%E4%BF%9D%E5%81%A5%E7%9F%A5%E8%AD%98/id1702651753?uo=4",
+      "genres": [
+        "營養健康",
+        "Podcast",
+        "健康與瘦身",
+        "另類醫學"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1513"
+      ],
+      "trackCount": 13,
+      "releaseDate": "2023-11-07T12:16:00Z",
+      "country": "TWN",
+      "primaryGenreName": "營養健康"
+    },
+    {
+      "collectionId": 1508865583,
+      "trackId": 1508865583,
+      "collectionName": "健康讲堂 eHealth 营养免疫学",
+      "artistName": "Sidney / 文怀",
+      "feedUrl": "https://feed.podbean.com/jiankangjiangtang/feed.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E8%AE%B2%E5%A0%82-ehealth-%E8%90%A5%E5%85%BB%E5%85%8D%E7%96%AB%E5%AD%A6/id1508865583?uo=4",
+      "genres": [
+        "營養健康",
+        "Podcast",
+        "健康與瘦身",
+        "科學"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1533"
+      ],
+      "trackCount": 100,
+      "releaseDate": "2024-02-02T12:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "營養健康"
+    },
+    {
+      "collectionId": 1447966275,
+      "trackId": 1447966275,
+      "collectionName": "健康减肥 | 减脂瘦身饮食养生",
+      "artistName": "注册营养师-锦虹",
+      "feedUrl": "http://www.ximalaya.com/album/20051786.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E5%87%8F%E8%82%A5-%E5%87%8F%E8%84%82%E7%98%A6%E8%BA%AB%E9%A5%AE%E9%A3%9F%E5%85%BB%E7%94%9F/id1447966275?uo=4",
+      "genres": [
+        "營養健康",
+        "Podcast",
+        "健康與瘦身",
+        "科學"
+      ],
+      "genreIds": [
+        "1515",
+        "26",
+        "1512",
+        "1533"
+      ],
+      "trackCount": 214,
+      "releaseDate": "2024-05-13T15:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "營養健康"
+    },
+    {
+      "collectionId": 1733813459,
+      "trackId": 1733813459,
+      "collectionName": "健康生活家",
+      "artistName": "張NONO&阿如如",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/070c51ff-e64d-49fd-ac98-d798936f0998.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB%E5%AE%B6/id1733813459?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 58,
+      "releaseDate": "2026-07-30T06:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1696558628,
+      "trackId": 1696558628,
+      "collectionName": "健康方程式",
+      "artistName": "高雄廣播電臺",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/361cdc31-a8d0-4ae2-ba92-469664f3a851.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E6%96%B9%E7%A8%8B%E5%BC%8F/id1696558628?uo=4",
+      "genres": [
+        "教育",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "trackCount": 158,
+      "releaseDate": "2026-08-21T08:33:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1819834468,
+      "trackId": 1819834468,
+      "collectionName": "健康紅燈區",
+      "artistName": "唐玉書 x 好好聽FM",
+      "feedUrl": "https://www.ibo-ad.com/my_rss.php?sid=2089&sbid=20287",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E7%B4%85%E7%87%88%E5%8D%80/id1819834468?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512"
+      ],
+      "trackCount": 27,
+      "releaseDate": "2026-10-12T00:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1568927018,
+      "trackId": 1568927018,
+      "collectionName": "艾健康有聲書",
+      "artistName": "艾健康博士",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckp0s7rurbjtg0883ldogk3m0",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%89%BE%E5%81%A5%E5%BA%B7%E6%9C%89%E8%81%B2%E6%9B%B8/id1568927018?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 81,
+      "releaseDate": "2026-09-12T01:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1562843787,
+      "trackId": 1562843787,
+      "collectionName": "健康搞飛機",
+      "artistName": "讓你身體不NG",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckyky5vtj2i2j081423uzxj9a",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E6%90%9E%E9%A3%9B%E6%A9%9F/id1562843787?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 95,
+      "releaseDate": "2025-11-26T03:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1864718354,
+      "trackId": 1864718354,
+      "collectionName": "健康算法：管住嘴 迈开腿",
+      "artistName": "AI博爵AmplifyAI",
+      "feedUrl": "https://www.ximalaya.com/album/104038813.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E7%AE%97%E6%B3%95-%E7%AE%A1%E4%BD%8F%E5%98%B4-%E8%BF%88%E5%BC%80%E8%85%BF/id1864718354?uo=4",
+      "genres": [
+        "生命科學",
+        "Podcast",
+        "科學",
+        "科技"
+      ],
+      "genreIds": [
+        "1541",
+        "26",
+        "1533",
+        "1318"
+      ],
+      "trackCount": 272,
+      "releaseDate": "2026-10-23T08:39:00Z",
+      "country": "TWN",
+      "primaryGenreName": "生命科學"
+    },
+    {
+      "collectionId": 1825173211,
+      "trackId": 1825173211,
+      "collectionName": "粵講愈健康 Cantonese Health Talk with Dr. Wu",
+      "artistName": "Dr. Ivy Wu",
+      "feedUrl": "https://anchor.fm/s/103f34658/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%B2%B5%E8%AC%9B%E6%84%88%E5%81%A5%E5%BA%B7-cantonese-health-talk-with-dr-wu/id1825173211?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 73,
+      "releaseDate": "2026-10-18T08:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1624349188,
+      "trackId": 1624349188,
+      "collectionName": "類情婦健康手冊",
+      "artistName": "波瑟芬妮",
+      "feedUrl": "https://feed.firstory.me/rss/user/cl2gvmkxm09xz01w6dp6rd0h8",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%A1%9E%E6%83%85%E5%A9%A6%E5%81%A5%E5%BA%B7%E6%89%8B%E5%86%8A/id1624349188?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 33,
+      "releaseDate": "2024-02-23T12:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1765969608,
+      "trackId": 1765969608,
+      "collectionName": "Go养|五音疗愈|健康|养生|冥想|安神助眠|中医",
+      "artistName": "GO养琴瑟和韵",
+      "feedUrl": "https://www.ximalaya.com/album/83353557.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/go%E5%85%BB-%E4%BA%94%E9%9F%B3%E7%96%97%E6%84%88-%E5%81%A5%E5%BA%B7-%E5%85%BB%E7%94%9F-%E5%86%A5%E6%83%B3-%E5%AE%89%E7%A5%9E%E5%8A%A9%E7%9C%A0-%E4%B8%AD%E5%8C%BB/id1765969608?uo=4",
+      "genres": [
+        "心理健康",
+        "Podcast",
+        "健康與瘦身",
+        "藝術",
+        "表演"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1301",
+        "1405"
+      ],
+      "trackCount": 273,
+      "releaseDate": "2025-02-25T12:34:00Z",
+      "country": "TWN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1801725354,
+      "trackId": 1801725354,
+      "collectionName": "莊醫師的Podcast ｜聖經智慧與健康生活",
+      "artistName": "莊宏達 醫師",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/0c0bcf55-396f-44c9-b4a0-25d1911aab2a.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%8E%8A%E9%86%AB%E5%B8%AB%E7%9A%84podcast-%E8%81%96%E7%B6%93%E6%99%BA%E6%85%A7%E8%88%87%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB/id1801725354?uo=4",
+      "genres": [
+        "宗教與精神生活",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1314",
+        "26",
+        "1487"
+      ],
+      "trackCount": 82,
+      "releaseDate": "2026-10-24T22:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "宗教與精神生活"
+    },
+    {
+      "collectionId": 1640237992,
+      "trackId": 1640237992,
+      "collectionName": "Living Well, Living Rich 雙語健康財富學院",
+      "artistName": "Shu Chen Hou",
+      "feedUrl": "https://www.spreaker.com/show/5644223/episodes/feed",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/living-well-living-rich-%E9%9B%99%E8%AA%9E%E5%81%A5%E5%BA%B7%E8%B2%A1%E5%AF%8C%E5%AD%B8%E9%99%A2/id1640237992?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育",
+        "商業"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1321"
+      ],
+      "trackCount": 567,
+      "releaseDate": "2026-09-11T20:42:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1522660940,
+      "trackId": 1522660940,
+      "collectionName": "JR健康新幹線",
+      "artistName": "營養師Ricky",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/aeec8abc-2676-4aeb-a57d-27e25f9b3130.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/jr%E5%81%A5%E5%BA%B7%E6%96%B0%E5%B9%B9%E7%B7%9A/id1522660940?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 55,
+      "releaseDate": "2021-06-23T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1773008850,
+      "trackId": 1773008850,
+      "collectionName": "健康好厝邊",
+      "artistName": "健康好厝邊",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/4fde9f76-5c17-40c0-af8f-392e79b48e9d.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%A5%E5%BA%B7%E5%A5%BD%E5%8E%9D%E9%82%8A/id1773008850?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "兒童與家庭"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1305"
+      ],
+      "trackCount": 35,
+      "releaseDate": "2025-12-05T11:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1557086485,
+      "trackId": 1557086485,
+      "collectionName": "講話顧健康",
+      "artistName": "朱為民、徐國祐、雪佛、CoCo",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckkr118uca0vm08054aadu2f9",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AC%9B%E8%A9%B1%E9%A1%A7%E5%81%A5%E5%BA%B7/id1557086485?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512"
+      ],
+      "trackCount": 51,
+      "releaseDate": "2024-05-18T02:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1592444650,
+      "trackId": 1592444650,
+      "collectionName": "運動健康生活，Will說，你聽",
+      "artistName": "Will教練",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/087f042a-f696-449a-b798-c23826cc1f8b.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%81%8B%E5%8B%95%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB-will%E8%AA%AA-%E4%BD%A0%E8%81%BD/id1592444650?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "科學"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1533"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2022-08-06T03:38:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    }
+  ]
+}

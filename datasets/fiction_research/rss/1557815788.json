@@ -1,0 +1,140 @@
+{
+  "show_id": "1557815788",
+  "feed_url": "https://anchor.fm/s/11077769c/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/11077769c/podcast/rss",
+    "final_url": "https://anchor.fm/s/11077769c/podcast/rss",
+    "fetched_at": "2026-10-25T14:52:32.967070+00:00",
+    "status": 200,
+    "sha256": "452f27b89cc2327dc065ee2f5f0acb12c12ad1180317efad3c10ba21d2cf58f7"
+  },
+  "status": "ok",
+  "title": {
+    "text": "玻璃兄弟Glassbrothers玻科客",
+    "truncated": false
+  },
+  "description": {
+    "text": "Two brothers. One mission - to help you think bigger, grow stronger, and build a life by design. Glass Bros Podcast (玻璃兄弟) is your bilingual hub for mindset, strategy, and personal growth. From antifragility and AI to billionaire thinking and vulnerability - we break down the ideas that actually move the needle in your life and career. Whether you are a professional, entrepreneur, or curious mind, this is where East meets West in honest, real conversations. New episodes every week - follow now and never miss a drop. --- 兩兄弟，一個使命——幫助你思維更廣、更堅韌、活出自己設計的人生。 玻璃兄弟 Glass Bros Podcast 是一個雙語的思維與成長頻道，涵蓋反",
+    "truncated": true
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 273,
+  "episodes": [
+    {
+      "id": "f2d74e8caac05eb585c114bcafe6a8eb90dd3d7cb5904ab333a010c2697a77fd",
+      "guid": "c335ea28-1398-4277-b404-db7ca6e7a65c",
+      "title": {
+        "text": "專訪惠旺工業總經理Andy - 臺灣基礎工業的轉型與下一代",
+        "truncated": false
+      },
+      "description": {
+        "text": "台灣製造業真正的競爭力是什麼？是技術、品質、價格，還是經營者看待市場的眼光？ 這一集《玻璃兄弟》，我們邀請到惠旺工業（EVERWIN PNEUMATIC）的 Andy，一起聊聊台灣傳統製造業與國際市場的故事。 惠旺工業深耕氣動工具與五金製造領域。在全球競爭越來越激烈的環境下，台灣製造業如何找到自己的定位？除了把產品做好，企業又該如何思考品牌、客戶與長期競爭力？ 身為同樣來自製造業的玻璃兄弟，我們特別想透過不同產業經營者的視角，重新思考一個問題： 一家製造業要走得長遠，真正重要的到底是什麼？ 無論你是企業經營者、二代接班人，或是對台灣產業發展有興趣的朋友，都歡迎一起來聽聽這場交流。 🎙️《玻璃兄弟 Glass Bros Podcast》 用經營者的視角，聊商業、製造業，以及那些課本不會教的真實人生經驗。 #惠旺工業 #EVERWIN #台灣製造 #企業經營",
+        "truncated": false
+      },
+      "published_at": "Mon, 12 Oct 2026 05:10:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "da60b862751fd3291516fd7f195a6533244801482f6480cd6254c00500327026",
+      "guid": "Buzzsprout-17099291",
+      "title": {
+        "text": "【玻璃兄弟Glassbrothers Ep234】《雞湯無效？你需要的不只是正向思考！》",
+        "truncated": false
+      },
+      "description": {
+        "text": "Send us Fan Mail 「面對生活的壓力，我們真的只需要正面思考嗎？還是該學會面對現實的殘酷？本集節目從心理學與實戰角度出發，拆解你我每天都在經歷的掙扎：希望 vs 真相。帶你找到不焦慮的力量、活出更強的選擇權。」 Support the show 玻璃兄弟Podcast 連結： https://linktr.ee/Glassbros?utm_source=linktree_profile_share<sid=dca9f187-21a4-4fb6-96eb-65f14b455125 Apple: https://shorturl.at/hDG17 Spotify: https://shorturl.at/ilGQ3",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 May 2025 03:00:00 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "65492a5966aaff2a5e940fd9c7f296d1702396112d7efa04326d6349bc780a2c",
+      "guid": "Buzzsprout-15260541",
+      "title": {
+        "text": "從子公司看成長曲線- 案例分析",
+        "truncated": false
+      },
+      "description": {
+        "text": "Send us Fan Mail 自從AI 在台灣掀起浪潮後，每個企業又重新回到“ 如何創造第二曲線” 的議題- 因此，我們該如何去尋找企業再成長的動能呢？ 今天跟我們來分析一個自己的案例，跟大家去反推這樣的議題的琢磨點： 1. 效率好壞如何界定？ 2. 如何知道目前的狀態已經是最好的表現？ 3. 改變與成長的關鍵是什麼？ 聽玻璃兄弟，增加商業邏輯: Support the show 玻璃兄弟Podcast 連結： https://linktr.ee/Glassbros?utm_source=linktree_profile_share<sid=dca9f187-21a4-4fb6-96eb-65f14b455125 Apple: https://shorturl.at/hDG17 Spotify: https://shorturl.at/ilGQ3",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Jun 2024 06:00:00 GMT",
+      "feed_index": 78
+    },
+    {
+      "id": "77451c89faeb54f1e6b77c6d182d0208bb43de643d88427914191c127418c782",
+      "guid": "Buzzsprout-13775727",
+      "title": {
+        "text": "大腦的神經科學- 跟領導力的關係及“ 幸福” 跟成功的不同？",
+        "truncated": false
+      },
+      "description": {
+        "text": "Send us Fan Mail 今天玻璃兄弟要跟大家分享關於大腦的神經科學- 這裡面跟我們的領導力，幸福感跟成功與否究竟是什麼呢？ 1. 交感神經跟副交感神經產生的不同情緒及激素 2. 保護跟展望的X 架構- 領導力的差別 3. 怎麼了解自己- HRV， 主要是在測量壓力指數？ 玻璃兄弟Podcast 連結： https://linkby.tw/glassbrothers?fbclid=IwAR31bNpEbV9FUHkcM8IZWfrmYe1xFAdmF4jDOkrt-WIvXDA5ciuG8SsH0cM Support the show Support the show 玻璃兄弟Podcast 連結： https://linktr.ee/Glassbros?utm_source=linktree_profile_share<sid=dca9f187-21a4-4fb6-96eb-65f14b455125 Apple: https://shorturl.at/hDG17 Spotify: https://shorturl.at/ilGQ3",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 Oct 2023 09:00:00 GMT",
+      "feed_index": 117
+    },
+    {
+      "id": "296ae726bbc71ced05f847583fee6258bcf670d70f65ceb0318919004b25f9a2",
+      "guid": "Buzzsprout-11779806",
+      "title": {
+        "text": "S4EP1 - 設計思維總結及實際案例！ 看看超級品牌酒商如何完成完美專案",
+        "truncated": false
+      },
+      "description": {
+        "text": "Send us Fan Mail 今天玻璃兄弟要來分享我們最近經歷過一場難得並深度認同的品牌品酒會- 皇家禮炮（Royal Salute)在霧峰林家的百年大宅品酩會。 其中有許多關於設計思維的巧思在裡面哦！趕快來聽聽我們的分享： 1. 設計思維的4個不同階段- 【了解】，【發想】，【構思】，【執行】- 為什麼說設計思維是“ 感性+ 性感 \" 的思考？ 2. 皇家禮炮如何帶入設計思維在專案佈局？ 3. 我們可以從中學到什麼？ 大家對於我們節目有沒有建議呢？ 請留言在Apple Podcast 給我們 我們已經第4季了哦！ 以後會不定期推出Podcast 節目- 希望能帶給大家更優質的作品 玻璃兄弟播科客Podcast 鏈接： KKBOX Podcast: https://podcast.kkbox.com/tw/channel/L-ocLLjN4Gogvw-KMx Apple Podcast： https://apple.co/3DbYljB Google Podcast: http://bit.ly/3rTFYJ9 Spotify Podcast: http://spoti.fi/3qRr4lw Buzzsprout Podcast: https://www.buzzsprout.com/1729377/ 關於玻璃兄弟的更多分享: Youtube： https://www.yout",
+        "truncated": true
+      },
+      "published_at": "Tue, 29 Nov 2022 09:00:00 GMT",
+      "feed_index": 155
+    },
+    {
+      "id": "20ecae6cdaa017574485e575d2c7288f602d9c92e67bdfbc226f135ff96c1690",
+      "guid": "Buzzsprout-10222776",
+      "title": {
+        "text": "［新師董聯盟] EP54 天使投資新創篇 本次邀請AVA天使投資平台創辦人方俊傑分享",
+        "truncated": false
+      },
+      "description": {
+        "text": "Send us Fan Mail 本集節目重點 - AVA天使投資簡介 - Angel club和VC/CVC/ friend&family/加速器的不同處 -哪些族群適合了解 -台灣傳產二代數位轉型過程投資新創可以衍伸出什麼新商業模式? - 台灣新創和創投的趨勢 與AIoT數位轉型顧問 裴有恆老師以及新師董聯盟投資長張奕強一起分享敬請期待！ 讓玻璃兄弟繼續加強你的管理知識及商業嗅覺吧！ 玻璃兄弟播科客Podcast 鏈接： KKBOX Podcast: https://podcast.kkbox.com/tw/channel/L-ocLLjN4Gogvw-KMx Apple Podcast: http://apple.co/3cAuiVh Google Podcast: http://bit.ly/3rTFYJ9 Spotify Podcast: http://spoti.fi/3qRr4lw Buzzsprout Podcast: https://www.buzzsprout.com/1729377/ 關於玻璃兄弟的更多分享: Youtube： https://www.youtube.com/channel/UCWeqHMIrWltzneAP83gZ3SA 玻璃哥哥>> https://www.instagram.com/richardthaimaster/ 玻璃弟弟>> ht",
+        "truncated": true
+      },
+      "published_at": "Thu, 10 Mar 2022 04:00:00 GMT",
+      "feed_index": 194
+    },
+    {
+      "id": "63e88ba1e090574171473e9b3995affaadb8d7f05f86084a7209ee7fddaff120",
+      "guid": "Buzzsprout-9160362",
+      "title": {
+        "text": "[新師董聯盟]EP31AI 水循環與AI教育篇 臥龍智慧環境 總經理 謝文彬 與 AI4kids 創辦人 陳佳慧分享",
+        "truncated": false
+      },
+      "description": {
+        "text": "Send us Fan Mail [新師董聯盟]EP31 AI 水循環與AI教育篇 臥龍智慧環境 總經理 謝文彬 與 AI4kids 創辦人 陳佳慧分享 本集節目重點: 臥龍智慧環境 總經理 謝文彬分享： - 當時在科技業工作穩定下怎麼會想出來創業 - AIOT 污水處理新創的核心競爭力 - 未來市場發展潛力與商業模式 AI4kids 創辦人 陳佳慧分享： - 創辦AI4kids的原因 - AI4kids的發展歷程與影響 - AI4kids未來的發展計劃 與AIoT數位轉型顧問裴有恆老師以及新竹縣青諮委員蕭瑞宏一起分享以上創新科技論壇敬請期待！ 謝謝大家的支持！我們不斷再進步和努力，也非常希望各位如果有好的意見或者有想聽的主題的話，我們也非常歡迎到家跟我們說哦～！ Apple Podcast: http://apple.co/3cAuiVh Google Podcast: http://bit.ly/3rTFYJ9 Spotify Podcast: http://spoti.fi/3qRr4lw Buzzsprout Podcast: https://www.buzzsprout.com/1729377/ 關於玻璃兄弟的更多分享: Youtube： https://www.youtube.com/channel/UCWeqHMIrWltzneAP83gZ3SA 玻璃哥哥>>http",
+        "truncated": true
+      },
+      "published_at": "Thu, 09 Sep 2021 04:00:00 GMT",
+      "feed_index": 233
+    },
+    {
+      "id": "2539f9f5928c558938b77c65a210a1def579aab395b6bd35963efc2e29382139",
+      "guid": "Buzzsprout-8119151",
+      "title": {
+        "text": "玻璃兄弟玻科客EP.0 - 全新體驗Podcast 的世界！",
+        "truncated": false
+      },
+      "description": {
+        "text": "Send us Fan Mail 玻璃兄弟的Youtube在開播1年半後， 我們將提供另一個平台 - “玻璃兄弟玻科客” - 來跟大家繼續更深入的分享有趣的議題，人物及故事。 為什麼叫玻璃兄弟玻科客》？ 延續Youtube “玻璃兄弟” 的精神 - 除了介紹玻璃的生活化及美麗以外， 以現在大家在使用的 “播客” 平台來更深入挖掘值得分享的故事！ 除了學習以外也可以聽到許多有趣的人事物，充實精神生活 【 正成集團】- Csemart電商 - 專業Podcast 器材專區 》》https://www.csemart.com/v2/official/SalePageCategory/350058?sortMode=Curator 所有網紅/抖音/Podcast 的專業器材都找正成就對了哦！玻璃兄弟特別感謝正成集團的大力支持 關於玻璃兄弟的更多分享: > Youtube >> https://www.youtube.com/channel/UCWeqHMIrWltzneAP83gZ3SA > IG >> 玻璃哥哥>>https://www.instagram.com/richardthaimaster/ 玻璃弟弟>>https://www.instagram.com/wings_style_wins/ > AquaSoul 水晶靈（華夏玻璃自有品牌）>> https://shopee.tw",
+        "truncated": true
+      },
+      "published_at": "Thu, 11 Mar 2021 04:00:00 GMT",
+      "feed_index": 272
+    }
+  ]
+}

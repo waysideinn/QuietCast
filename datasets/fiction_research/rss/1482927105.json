@@ -1,0 +1,140 @@
+{
+  "show_id": "1482927105",
+  "feed_url": "http://www.ximalaya.com/album/29310580.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/29310580.xml",
+    "final_url": "http://www.ximalaya.com/album/29310580.xml",
+    "fetched_at": "2026-10-25T14:50:52.855285+00:00",
+    "status": 200,
+    "sha256": "30414546d562a9039b216d92a71bd94daa03d3a3e11ef502f8b5138c183a651a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "文都比邻丨2020心理学考研背多分领读",
+    "truncated": false
+  },
+  "description": {
+    "text": "心理学考研冲刺阶段，不知道背什么重点，背了又容易忘？ 冲刺阶段人手一本的《心理学考研背多分-背诵手册》上市了，就是帮你解决不知道背什么，怎么背的问题。 《背多分》 覆盖统考7门科目， 由赵云龙、燕磊老师主编，分析1079道历年真题分析，精选195个超高频考点，并配有136个背诵口诀。真乃冲刺背书的绝密武器！ 为了360无死角帮助大家背诵知识，文都比邻发起背多分领读活动，遴选出7名优秀的小伙伴，帮大家朗读《背多分》。 超精华的内容+超甜蜜的声音，希望陪你度过考研的最后时光，帮你今年上岸！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 52,
+  "episodes": [
+    {
+      "id": "65f4b146108667c3699b1dfdcd2fce7e1ec17b635ba7449285753939188f8ece",
+      "guid": "https://aod.cos.tx.xmcdn.com/group67/M04/2A/01/wKgMbV2qDBHBp_VBAGKL8mMHD-s336.m4a",
+      "title": {
+        "text": "《社会心理学》 第四章 应用",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 19 Oct 2019 00:00:11 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "172dac412a2f55b943831516dafe6c26ca222ea187210618802b9764d1b9ed85",
+      "guid": "https://aod.cos.tx.xmcdn.com/group66/M05/9B/C8/wKgMa12lsY7SMat0AONOQ2JfMmQ534.mp3",
+      "title": {
+        "text": "《心理与教育测量学》 第二章 经典测量理论（中）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Oct 2019 11:47:19 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "37b443300836bb3128049716fff81382acba149b60da0ff1aedd7e4d2d198aa8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group58/M09/2B/B3/wKgLgl2kY-iRowuPACG0xMAV2hQ878.m4a",
+      "title": {
+        "text": "《心理统计学》第四章 差异量数",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 14 Oct 2019 12:03:08 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "ed89898d1c1cbbcc69f47fdcb5dff5e434e38d8def17f53aa1ebdc491df8e20f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group65/M07/62/FF/wKgMal2b716AbBjJAFEjNqWSQoI741.mp3",
+      "title": {
+        "text": "《实验心理学》第四章 反应时",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 11 Oct 2019 12:30:01 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "3702521e47faeb37c5d021639a375e7a65752e0c82d976e2e0d9f254aaaba186",
+      "guid": "https://aod.cos.tx.xmcdn.com/group63/M0B/9A/DA/wKgMcl2ezjzQx-ucAHrnw3nVio0225.m4a",
+      "title": {
+        "text": "《教育心理学》 第二章 一般学习心理",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 08 Oct 2019 13:30:02 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "b5a2931ec98cae70ca54178e9f2074440e2b6afa64e49e97bc70def89e45f848",
+      "guid": "https://aod.cos.tx.xmcdn.com/group66/M06/2D/C0/wKgMa12XbbzDbOyIAPgu8GqkOg8296.mp3",
+      "title": {
+        "text": "《发展心理学》 第四章 婴儿心理发展",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Oct 2019 16:06:22 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "e52c80fc6c8b114c8651cd8fa68710dd8c97ebe5e65b28986c14021412ca6987",
+      "guid": "https://aod.cos.tx.xmcdn.com/group66/M00/D4/43/wKgMdV2QEADzjON2ACqRtsB2GYA877.mp3",
+      "title": {
+        "text": "《普通心理学》第八章 言语",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 29 Sep 2019 02:00:05 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "4e7146880987c8794900c7dc09744247b15afc241d8149774b2028dc3f214896",
+      "guid": "https://aod.cos.tx.xmcdn.com/group64/M01/79/30/wKgMc12KA-vREfXEAE_qdycEuWw051.m4a",
+      "title": {
+        "text": "《普通心理学》 第一章 心理学概述",
+        "truncated": false
+      },
+      "description": {
+        "text": "心理学考研冲刺阶段，不知道背什么重点，背了又容易忘？ 冲刺阶段人手一本的《心理学考研背多分-背诵手册》上市了，就是帮你解决不知道背什么，怎么背的问题。 《背多分》 覆盖统考7门科目， 由赵云龙、燕磊老师主编，分析1079道历年真题分析，精选195个超高频考点，并配有136个背诵口诀。真乃冲刺背书的绝密武器！ 为了360无死角帮助大家背诵知识，文都比邻发起背多分领读活动，遴选出7名优秀的小伙伴，帮大家朗读《背多分》。 超精华的内容+超甜蜜的声音，希望陪你度过考研的最后时光，帮你今年上岸！",
+        "truncated": false
+      },
+      "published_at": "Tue, 24 Sep 2019 11:54:11 GMT",
+      "feed_index": 51
+    }
+  ]
+}

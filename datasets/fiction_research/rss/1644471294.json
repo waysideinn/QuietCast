@@ -1,0 +1,140 @@
+{
+  "show_id": "1644471294",
+  "feed_url": "https://www.ximalaya.com/album/70886023.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/70886023.xml",
+    "final_url": "https://www.ximalaya.com/album/70886023.xml",
+    "fetched_at": "2026-10-25T14:44:45.935749+00:00",
+    "status": 200,
+    "sha256": "c1c145af0a84ce8b82e435982ef54623bf7b77ff4413557bc422681ec97f1bd6"
+  },
+  "status": "ok",
+  "title": {
+    "text": "惊奇录丨黄河手札丨悬疑诡异小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "黄河中的白鱼， 沉于水底的石龟， 夜半漂泊的黑船， 红鲤飞跃的龙门， 那是一个个在黄河居民口中流传的故事。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "serial",
+    "explicit": "false"
+  },
+  "feed_item_count": 51,
+  "episodes": [
+    {
+      "id": "36e212c90fd598c4d631758871a04fa55d867e5600960e002aa30f2892f9f500",
+      "guid": "xmly_track_568001493",
+      "title": {
+        "text": "第001章-黄河白鱼",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Sep 2022 14:15:14 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "a5fb8b50679e3a213dc35f9a62133311b1f5f56511becf47c15e055a7dc14fa8",
+      "guid": "xmly_track_569515323",
+      "title": {
+        "text": "第008章-迎妖入门",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 15 Sep 2022 13:01:03 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "f50097c3dee31f4ae605c11bb71c8aa051f88ac42c3481100f94fefeb46c98b8",
+      "guid": "xmly_track_571057062",
+      "title": {
+        "text": "第015章-惊人大鳖",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 21 Sep 2022 11:37:35 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "addf2e65cdc645312b8b78228e7203af5475772f06ff9cbc8505d64bef75aff5",
+      "guid": "xmly_track_572131044",
+      "title": {
+        "text": "第022章-红色眼睛",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 25 Sep 2022 13:27:04 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "91649c9a3c66b7e1ae24667d5fa931c46321526d4bc6cf30a80bd229ee4eec5a",
+      "guid": "xmly_track_573632129",
+      "title": {
+        "text": "第030章-他的古怪",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 01 Oct 2022 10:00:21 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "ffd832ff387e973c06364e853ed67342cda42e4478067dfbcd65dfb1e9d44fd6",
+      "guid": "xmly_track_576441816",
+      "title": {
+        "text": "第037章-石坡古庙",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 12 Oct 2022 12:16:29 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "0605a008305346cdfc1ae3a2284dc9752eb25e664a75d973d666923738a3fda0",
+      "guid": "xmly_track_580078470",
+      "title": {
+        "text": "第044章-去了哪里",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 Oct 2022 14:07:14 GMT",
+      "feed_index": 43
+    },
+    {
+      "id": "9ff405133df6724d58a0301a1827c9f729849c5b8b54e68403b9f187bea76e7c",
+      "guid": "xmly_track_589337396",
+      "title": {
+        "text": "第051章-地道石棺",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 20 Nov 2022 07:43:11 GMT",
+      "feed_index": 50
+    }
+  ]
+}

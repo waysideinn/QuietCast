@@ -1,0 +1,158 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/78201808.xml",
+    "final_url": "https://www.ximalaya.com/album/78201808.xml",
+    "fetched_at": "2026-10-26T07:58:58.907523+00:00",
+    "status": 200,
+    "sha256": "44e77219f005a30b04818f51b16a0e8425966410e0bedf67cb2aeec9c8c8e1cf"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "校花的修真室友（校园玄幻）",
+      "truncated": false
+    },
+    "description": {
+      "text": "收听福利 全本免费，不定期爆更 1.首发40集，每晚5点更新 2.订阅每满500个，加更5集 3.激赏咖啡满15元，送5集冠名 内容简介 费才修炼三年，从深山归来，本想当个小保安赚点钱维持生活，同时寻找仇人复仇，却没想成了一名高三学生，还跟校花住在了一起，从此走上了人生的第一个巅峰…… 演员角色 主述：枪枪 费才：喜小玖 潘晓琳：渔小小 肖韵：喜小雨 方彤彤：宁小荣 柳菲：喜小骊 其他角色：欧辰、令不冲、喜小迪等 【专辑推荐】 >>>每一个孤独的灵魂都需要陪伴 【女频】：#东方玄幻#《 都市邪尊赘婿 》——就算重生成为废物，也要上天寻仇追爱； #浪漫言情#《 他在等月光来 》——治愈救赎，高甜团宠 【男频】：#超能生活#《 天才奶爸 》——风骚兵王，扮猪吃虎 有声让你迷失自己，再让你找到自己，谢谢你在世界的角落找到了我~ 再见之前，请点赞、订阅我的专辑，您的支持是我做更好节目的最大动力！",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "有声的雪愿"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "有声的雪愿"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Comedy Fiction"
+      ],
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Comedy Fiction"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/78201808",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 160,
+    "episodes": [
+      {
+        "title": {
+          "text": "【校花的修真室友】第1章，火车上的邂逅（上）（新专辑上架，欢迎收听订阅、转评赞）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_666914151"
+      },
+      {
+        "title": {
+          "text": "【校花的修真室友】第24章， 一拳（下）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 23,
+        "guid": "xmly_track_666939801"
+      },
+      {
+        "title": {
+          "text": "【校花的修真室友】第46章，二胡独奏（上）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 45,
+        "guid": "xmly_track_667369765"
+      },
+      {
+        "title": {
+          "text": "【校花的修真室友】第69章，熟悉的身影（下）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 68,
+        "guid": "xmly_track_669804092"
+      },
+      {
+        "title": {
+          "text": "【校花的修真室友】第92章，杀手（上）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 91,
+        "guid": "xmly_track_671486139"
+      },
+      {
+        "title": {
+          "text": "【校花的修真室友】第115章，有福气了（上）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 114,
+        "guid": "xmly_track_673372325"
+      },
+      {
+        "title": {
+          "text": "【校花的修真室友】第137章，神秘女子（上）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 136,
+        "guid": "xmly_track_676130167"
+      },
+      {
+        "title": {
+          "text": "【校花的修真室友】第160章，我全都要（下）（完）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 159,
+        "guid": "xmly_track_678886901"
+      }
+    ]
+  }
+}

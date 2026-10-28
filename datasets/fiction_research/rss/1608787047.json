@@ -1,0 +1,140 @@
+{
+  "show_id": "1608787047",
+  "feed_url": "http://www.ximalaya.com/album/51785668.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/51785668.xml",
+    "final_url": "http://www.ximalaya.com/album/51785668.xml",
+    "fetched_at": "2026-10-25T14:43:49.555696+00:00",
+    "status": 200,
+    "sha256": "1b85ce0ec9f1e0fb8109cf5a7c0593c87650687af80e0a8e22f75691b1b7baf2"
+  },
+  "status": "ok",
+  "title": {
+    "text": "圆梦师‖爆笑万界无限流",
+    "truncated": false
+  },
+  "description": {
+    "text": "欢迎催更 626591666 小李飞刀缘何频频登上头版头条？ 超级反派之子为何沉迷佛经不可自拔？ 笑傲江湖世界护臀板为何供不应求？ 天下会歌舞厅为何人满为患？ 这是一个么得感情的许愿机器，不择手段帮每一个客户实现梦想的故事！ 搞笑欢乐无限文。主角为了客户圆梦不择手段。一心为了事业，没有暧昧女主。 听几章试试看 不好笑你找我~ 第一个故事重录中~",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 633,
+  "episodes": [
+    {
+      "id": "974c67dce46c8091fc254febd785b144debe75c90f385150d6c0ab7c9bcb85f4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2a21-audiofreehighqps/35/A7/CKwRIMAE58NJAHqwlgDVbWfA-aacv2-48K.m4a",
+      "title": {
+        "text": "001 FW能力列表",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 10 Aug 2021 04:27:32 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "64689411bf9fe258a258a11530001ebef3afa950a8fe98b19e1d31f0106daf04",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/74a9-audiofreehighqps/4C/4B/CKwRIJIE6mkmAEbY3wDWhhbJ-aacv2-48K.m4a",
+      "title": {
+        "text": "091 穆星的野心",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 Aug 2021 04:39:54 GMT",
+      "feed_index": 90
+    },
+    {
+      "id": "13f5f488ca671b56fb129ef8ffb58c3221ef3eff76972d652e7c42d165d2e0f0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6760-audiofreehighqps/2A/D6/CKwRIJIE6m5CAFgivgDWiCMN-aacv2-48K.m4a",
+      "title": {
+        "text": "181 离间",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 Aug 2021 05:01:33 GMT",
+      "feed_index": 181
+    },
+    {
+      "id": "a1fdc32bf37b64f76d1c189d79895f03f31df014aa8c9b5e1bdf45866c733194",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0e68-audiofreehighqps/C8/B9/CKwRIRwE6nJbAEMBBQDWicxz-aacv2-48K.m4a",
+      "title": {
+        "text": "265 定情信物",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 Aug 2021 05:19:10 GMT",
+      "feed_index": 271
+    },
+    {
+      "id": "1f59ed7073480e46e9eee18abd09d4825c70878adbad26a3a8e923d393199682",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/492d-audiofreehighqps/AF/A1/CKwRIRwE6nlqAFguegDWjKeR-aacv2-48K.m4a",
+      "title": {
+        "text": "354 女王的命令",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 Aug 2021 05:49:15 GMT",
+      "feed_index": 361
+    },
+    {
+      "id": "d2d3259297fbfed425dbf1f1947d7d676b9679170a21c6ef1bf40b9f98310bf5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8ae9-audiofreehighqps/36/6B/CKwRIRwE6n4hADpHiADWjojq-aacv2-48K.m4a",
+      "title": {
+        "text": "443 关于新白剧情的分析",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 Aug 2021 06:09:25 GMT",
+      "feed_index": 451
+    },
+    {
+      "id": "8c2fc8da703ca6d42196134a3bf8c13ce7308a082f674ddae168472525fd412e",
+      "guid": "xmly_track_496477588",
+      "title": {
+        "text": "534 偷袭",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 Jan 2022 03:00:00 GMT",
+      "feed_index": 542
+    },
+    {
+      "id": "70e5ff33c41f211075ce69511e977ca280f1d86e589750a5862186421ec1710a",
+      "guid": "xmly_track_531995263",
+      "title": {
+        "text": "636 秘议",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 May 2022 08:44:14 GMT",
+      "feed_index": 632
+    }
+  ]
+}

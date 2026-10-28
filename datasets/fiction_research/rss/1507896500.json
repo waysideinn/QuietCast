@@ -1,0 +1,140 @@
+{
+  "show_id": "1507896500",
+  "feed_url": "http://www.ximalaya.com/album/28402558.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/28402558.xml",
+    "final_url": "http://www.ximalaya.com/album/28402558.xml",
+    "fetched_at": "2026-10-25T14:51:58.538488+00:00",
+    "status": 200,
+    "sha256": "a4af2414b00c9bf6e42aac7402e1227b3141818125ac852782e6d7cf34a96dd2"
+  },
+  "status": "ok",
+  "title": {
+    "text": "心理学概论|简单人人听得懂实用",
+    "truncated": false
+  },
+  "description": {
+    "text": "在人们物质生活飞速发展的今天，关注心理学显得尤为重要。在美国大学，心理学是学生人数最多且最受欢迎的学科之一。本课程分为13章，分别阐述绪论、意识、感觉、知觉、学习、记忆、思维、情感、进化、动机、人格、社会以及幸福问题。在每一章中，都会以心理学的实证研究作为例证，以经典理论观点作为主导，以积极正面的心理学研究为方向，让学生掌握心理学的基本内容和前沿动态，了解心理学的思考方式，去除对心理学的疑惑与误解，掌握基本的心理学研究方法。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 57,
+  "episodes": [
+    {
+      "id": "86b8ea85377120b5917fbbd4d6f7313878869243c630667f37d69d2bd082bb21",
+      "guid": "https://aod.cos.tx.xmcdn.com/group75/M05/5B/85/wKgO3V6PMpaydB8mAKOetTD5zzo662.mp3",
+      "title": {
+        "text": "【第十二章：积极心理学】第四节：幸福的方法",
+        "truncated": false
+      },
+      "description": {
+        "text": "在人们物质生活飞速发展的今天，关注心理学显得尤为重要。在美国大学，心理学是学生人数最多且最受欢迎的学科之一。本课程分为13章，分别阐述绪论、意识、感觉、知觉、学习、记忆、思维、情感、进化、动机、人格、社会以及幸福问题。在每一章中，都会以心理学的实证研究作为例证，以经典理论观点作为主导，以积极正面的心理学研究为方向，让学生掌握心理学的基本内容和前沿动态，了解心理学的思考方式，去除对心理学的疑惑与误解，掌握基本的心理学研究方法。",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Apr 2020 14:35:03 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "0062eaa1d253a2c1bbb60c6245bb1f5b3aa034505601027b7889fb0d07b65626",
+      "guid": "https://aod.cos.tx.xmcdn.com/group76/M00/6F/7D/wKgO3l6PLL6BYRD0AIE65-tScpo853.mp3",
+      "title": {
+        "text": "【第十一章：学习与记忆】第一节：什么是学习",
+        "truncated": false
+      },
+      "description": {
+        "text": "在人们物质生活飞速发展的今天，关注心理学显得尤为重要。在美国大学，心理学是学生人数最多且最受欢迎的学科之一。本课程分为13章，分别阐述绪论、意识、感觉、知觉、学习、记忆、思维、情感、进化、动机、人格、社会以及幸福问题。在每一章中，都会以心理学的实证研究作为例证，以经典理论观点作为主导，以积极正面的心理学研究为方向，让学生掌握心理学的基本内容和前沿动态，了解心理学的思考方式，去除对心理学的疑惑与误解，掌握基本的心理学研究方法。",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Apr 2020 14:10:07 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "96afb22b255f13130e4c5b70490facf78ac7172411ddd56a2cf542cad85eee48",
+      "guid": "https://aod.cos.tx.xmcdn.com/group75/M07/63/E6/wKgO016PKgzQQws6AHRxjrlJdBo660.mp3",
+      "title": {
+        "text": "【第八章：社会心理学】第六节：社会关系",
+        "truncated": false
+      },
+      "description": {
+        "text": "在人们物质生活飞速发展的今天，关注心理学显得尤为重要。在美国大学，心理学是学生人数最多且最受欢迎的学科之一。本课程分为13章，分别阐述绪论、意识、感觉、知觉、学习、记忆、思维、情感、进化、动机、人格、社会以及幸福问题。在每一章中，都会以心理学的实证研究作为例证，以经典理论观点作为主导，以积极正面的心理学研究为方向，让学生掌握心理学的基本内容和前沿动态，了解心理学的思考方式，去除对心理学的疑惑与误解，掌握基本的心理学研究方法。",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Apr 2020 13:58:37 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "0e36273a85c2fd068db09d9a882de138028d9eb22fc3eea85ffa75ea32d9cfd8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group77/M08/5B/A3/wKgO316PJ6-QN01NADYoQCgdP6Q579.mp3",
+      "title": {
+        "text": "【第七章：情绪与情感】第三节：达尔文的情绪进化理论",
+        "truncated": false
+      },
+      "description": {
+        "text": "在人们物质生活飞速发展的今天，关注心理学显得尤为重要。在美国大学，心理学是学生人数最多且最受欢迎的学科之一。本课程分为13章，分别阐述绪论、意识、感觉、知觉、学习、记忆、思维、情感、进化、动机、人格、社会以及幸福问题。在每一章中，都会以心理学的实证研究作为例证，以经典理论观点作为主导，以积极正面的心理学研究为方向，让学生掌握心理学的基本内容和前沿动态，了解心理学的思考方式，去除对心理学的疑惑与误解，掌握基本的心理学研究方法。",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Apr 2020 13:48:32 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "09fef0628da1db4ec53a7b9494cc84f05fb4c628fcf0e78c637b29a798d2968d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group66/M00/B4/88/wKgMdV1qm2OxTyDcAHH1Pkdt6n4522.mp3",
+      "title": {
+        "text": "【第五章：意识与自我】第七节：自我意识的调节方法",
+        "truncated": false
+      },
+      "description": {
+        "text": "在人们物质生活飞速发展的今天，关注心理学显得尤为重要。在美国大学，心理学是学生人数最多且最受欢迎的学科之一。本课程分为13章，分别阐述绪论、意识、感觉、知觉、学习、记忆、思维、情感、进化、动机、人格、社会以及幸福问题。在每一章中，都会以心理学的实证研究作为例证，以经典理论观点作为主导，以积极正面的心理学研究为方向，让学生掌握心理学的基本内容和前沿动态，了解心理学的思考方式，去除对心理学的疑惑与误解，掌握基本的心理学研究方法。",
+        "truncated": false
+      },
+      "published_at": "Sat, 31 Aug 2019 16:09:39 GMT",
+      "feed_index": 32
+    },
+    {
+      "id": "96f44e9c4ebeb520be0a89f712b55a0993a592f25b65aa292ce57d93cfe85d2c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group64/M09/B3/F0/wKgMaV1qkJfCDWBlAGYxJlsbgc8474.mp3",
+      "title": {
+        "text": "【第四章：思维】第五节：创造性思维",
+        "truncated": false
+      },
+      "description": {
+        "text": "在人们物质生活飞速发展的今天，关注心理学显得尤为重要。在美国大学，心理学是学生人数最多且最受欢迎的学科之一。本课程分为13章，分别阐述绪论、意识、感觉、知觉、学习、记忆、思维、情感、进化、动机、人格、社会以及幸福问题。在每一章中，都会以心理学的实证研究作为例证，以经典理论观点作为主导，以积极正面的心理学研究为方向，让学生掌握心理学的基本内容和前沿动态，了解心理学的思考方式，去除对心理学的疑惑与误解，掌握基本的心理学研究方法。",
+        "truncated": false
+      },
+      "published_at": "Sat, 31 Aug 2019 15:22:06 GMT",
+      "feed_index": 40
+    },
+    {
+      "id": "954ae4394d48875f096a2a75566ab59f336b0f5fd2d6163176f7664fea782f55",
+      "guid": "https://aod.cos.tx.xmcdn.com/group65/M08/B1/D0/wKgMdF1qfzHg7Xy-ALyRC1twL0Y903-aacv2-48K.m4a",
+      "title": {
+        "text": "【第三章：感觉与知觉】第一节：感觉是什么",
+        "truncated": false
+      },
+      "description": {
+        "text": "在人们物质生活飞速发展的今天，关注心理学显得尤为重要。在美国大学，心理学是学生人数最多且最受欢迎的学科之一。本课程分为13章，分别阐述绪论、意识、感觉、知觉、学习、记忆、思维、情感、进化、动机、人格、社会以及幸福问题。在每一章中，都会以心理学的实证研究作为例证，以经典理论观点作为主导，以积极正面的心理学研究为方向，让学生掌握心理学的基本内容和前沿动态，了解心理学的思考方式，去除对心理学的疑惑与误解，掌握基本的心理学研究方法。",
+        "truncated": false
+      },
+      "published_at": "Sat, 31 Aug 2019 14:08:27 GMT",
+      "feed_index": 48
+    },
+    {
+      "id": "7ac5efc9566a972633ccc7fc36c49253bc5bdf51588a464fc1aef406d404a5e7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group65/M09/99/5B/wKgMal1oxkmhwPpqAFjo-Rmv9N0012.m4a",
+      "title": {
+        "text": "【第一章：绪论】第一节：心理学不是什么",
+        "truncated": false
+      },
+      "description": {
+        "text": "在人们物质生活飞速发展的今天，关注心理学显得尤为重要。在美国大学，心理学是学生人数最多且最受欢迎的学科之一。本课程分为13章，分别阐述绪论、意识、感觉、知觉、学习、记忆、思维、情感、进化、动机、人格、社会以及幸福问题。在每一章中，都会以心理学的实证研究作为例证，以经典理论观点作为主导，以积极正面的心理学研究为方向，让学生掌握心理学的基本内容和前沿动态，了解心理学的思考方式，去除对心理学的疑惑与误解，掌握基本的心理学研究方法。",
+        "truncated": false
+      },
+      "published_at": "Fri, 30 Aug 2019 06:48:58 GMT",
+      "feed_index": 56
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/81639597.xml",
+    "final_url": "https://www.ximalaya.com/album/81639597.xml",
+    "fetched_at": "2026-10-26T07:56:40.764282+00:00",
+    "status": 200,
+    "sha256": "9870ec1e80a161b4484d2c43a5edb102ba390b26783e22ddd0823ad58aff7304"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "【逆袭爽文！】免费完结有声剧|重生七零致富养娃攻略",
+      "truncated": false
+    },
+    "description": {
+      "text": "欢迎来到爽文世界中的优秀广播剧专辑 听到这个故事你会重新思考人生！赚到了！ 【七十年代留守妇女的无助与挣扎】一觉醒来，我竟成了张秋雪！ 【牛棚绝地逆袭】从被欺凌到住进大火炕的故事！ 【一朝穿越决定逆袭人生】青砖瓦房不香吗？ 【婆婆的残酷待遇】大火炕不好睡吗？ 【不再受苦受气】闪亮登场，赚钱搞事业！我偏爱！ 作者：冬月长安 张秋雪一觉醒来成了留守妇女一枚，原主丈夫不归，婆家欺凌，偏偏她还老黄牛属性，儿子都快病死了，还给老韩家卖力流汗，怎一个惨字了得？一朝穿越，张秋雪麻溜腾出草棚，谁爱住谁住去！ 青砖瓦房不香吗？大火炕不好睡吗？什么？不同意？婆婆把吃的都锁起来，宁可放坏也不给他们吃？不管什么时候都要等她做饭？张秋雪利索地东西一收，儿子一抱，分家分钱分房子一条龙伺候，这惨兮兮的日子谁爱过谁过去！ 凭借自己农业大学出身把日子过得红红火火。 就在这个时候，那个活在传说中的丈夫回来了……现在离个婚可还来得及？ 本专辑仅作推广赏析 请支持作者主页及其作品！",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "云鹿柔迩@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "云鹿柔迩"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "云鹿柔迩"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Arts"
+      ],
+      [
+        "Arts",
+        "Books"
+      ],
+      [
+        "Comedy"
+      ],
+      [
+        "Comedy",
+        "Improv"
+      ],
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Comedy Fiction"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/81639597",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 1087,
+    "episodes": [
+      {
+        "title": {
+          "text": "第1章 穿越",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_726504487"
+      },
+      {
+        "title": {
+          "text": "第156章 又见王山花",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 155,
+        "guid": "xmly_track_726727264"
+      },
+      {
+        "title": {
+          "text": "第311章 老爷子挺时髦",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 310,
+        "guid": "xmly_track_726766831"
+      },
+      {
+        "title": {
+          "text": "第465章 看谁磨得过谁",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 465,
+        "guid": "xmly_track_726940118"
+      },
+      {
+        "title": {
+          "text": "第555章",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 621,
+        "guid": "xmly_track_727033957"
+      },
+      {
+        "title": {
+          "text": "第634章 万杏花快死了",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 776,
+        "guid": "xmly_track_727094770"
+      },
+      {
+        "title": {
+          "text": "第718章 被迫害妄想症",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 931,
+        "guid": "xmly_track_727100521"
+      },
+      {
+        "title": {
+          "text": "第1002章 越老越糊涂",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 1086,
+        "guid": "xmly_track_727250884"
+      }
+    ]
+  }
+}

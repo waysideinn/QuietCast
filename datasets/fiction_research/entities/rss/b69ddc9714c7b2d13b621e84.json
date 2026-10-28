@@ -1,0 +1,165 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/122019562.xml",
+    "final_url": "https://www.ximalaya.com/album/122019562.xml",
+    "fetched_at": "2026-10-26T07:58:23.369158+00:00",
+    "status": 200,
+    "sha256": "9fc262dcf4b5c914696cc87ad2a5bc351e4e40320ffd136d301af37aa64cf589"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "原汁原味红楼梦|第一季（完结）：通灵宝玉",
+      "truncated": false
+    },
+    "description": {
+      "text": "保留原著故事性的原汁原味，老少皆宜。 本故事用现代大白话进行了转译，通俗易懂，兼备故事性的同时，去除了大量的非故事性内容。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "云少讲故事"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "云少讲故事"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Relationships"
+      ],
+      [
+        "Arts"
+      ],
+      [
+        "Arts",
+        "Books"
+      ],
+      [
+        "Fiction"
+      ],
+      [
+        "Fiction",
+        "Drama"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/122019562",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 68,
+    "episodes": [
+      {
+        "title": {
+          "text": "第1集：红楼梦引言",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_979028569"
+      },
+      {
+        "title": {
+          "text": "第11集：幻境情迷",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 10,
+        "guid": "xmly_track_979711836"
+      },
+      {
+        "title": {
+          "text": "第20集：张友士妙手断病根",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 19,
+        "guid": "xmly_track_979711895"
+      },
+      {
+        "title": {
+          "text": "第30集：大观园筹建风云",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 29,
+        "guid": "xmly_track_979711951"
+      },
+      {
+        "title": {
+          "text": "第39集：袭人拒走，宝玉痛心",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 38,
+        "guid": "xmly_track_979712001"
+      },
+      {
+        "title": {
+          "text": "第49集：贾芸智献香料得重任",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 48,
+        "guid": "xmly_track_979712071"
+      },
+      {
+        "title": {
+          "text": "第58集：情劫酒令暗藏玄机",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 57,
+        "guid": "xmly_track_979712130"
+      },
+      {
+        "title": {
+          "text": "第68集：惊天责打风波",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 67,
+        "guid": "xmly_track_992219613"
+      }
+    ]
+  }
+}

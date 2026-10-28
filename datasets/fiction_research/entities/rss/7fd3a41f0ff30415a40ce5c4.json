@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/7134236.xml",
+    "final_url": "http://www.ximalaya.com/album/7134236.xml",
+    "fetched_at": "2026-10-26T07:55:42.744050+00:00",
+    "status": 200,
+    "sha256": "33d9fa0d2536c061ab4e854e0cae53ff3bc2fdc9a9baad43855234176b86c835"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "重返阿尔特里亚（冒险广播剧）",
+      "truncated": false
+    },
+    "description": {
+      "text": "龙之谷多人广播剧《重返阿尔特里亚》 喜马拉雅FM 萌音工作室 联合龙之谷手游联合出品 【已完结】",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "NJ早安酱@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "NJ早安酱"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "NJ早安酱"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Arts"
+      ],
+      [
+        "Arts",
+        "Literature"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/7134236",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 8,
+    "episodes": [
+      {
+        "title": {
+          "text": "重返阿尔特里亚丨第一集-穿越吧！魔法少女 03/15 (多人广播剧）",
+          "truncated": false
+        },
+        "description": {
+          "text": "龙之谷多人广播剧《重返阿尔特里亚》 喜马拉雅FM 萌音工作室 联合龙之谷手游联合出品 总导演：早安酱 助理：兮小颜 配音导演：任小邪 后期：薄倾 封面图合作画师：爱肉丸的兔纸鱼 封面美工：M 编剧：卡尔诺兰 配音： 阿卡纳-神隐 阿尔尼塔-冬瓜不说话 巴德尔-喜道 艾薇-早安酱 铁匠伯伯-朝阳 导师-南瓜楠少 黑暗卫士-辰羽、顾辰 小A-剧舞吧波比 特约CV-清灵、 青琳昊 、沁小色（名单未满-后续增加） 结尾歌曲：洛天依《一起去冒险》",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group27/M04/0A/DE/wKgJW1jIxH_Ag1o4AKwDtXV5-9c926.m4a"
+      },
+      {
+        "title": {
+          "text": "重返阿尔特里亚丨第二集-放开那个小娘炮！ 03/22 (新角色登场）",
+          "truncated": false
+        },
+        "description": {
+          "text": "龙之谷多人广播剧《重返阿尔特里亚》 喜马拉雅FM 萌音工作室 联合龙之谷手游联合出品 总导演：早安酱 幕后小仙女：兮小颜 配音导演：任小邪 后期：薄倾 封面图合作画师：爱肉丸的兔纸鱼 封面美工：M 编剧：卡尔诺兰 配音： 阿卡纳-神隐 阿尔尼塔-冬瓜不说话 巴德尔-喜道 艾薇-早安酱 铁匠伯伯-朝阳 导师-南瓜楠少 黑暗卫士-顾辰 小A-剧舞吧波比 长耳小怪-兮小颜 贵族王子哥哥-辰羽 特约CV-清灵、青琳昊、沁小色（名单未满-后续增加） 结尾歌曲：洛天依《一起去冒险》",
+          "truncated": false
+        },
+        "feed_index": 1,
+        "guid": "https://aod.cos.tx.xmcdn.com/group26/M08/6C/89/wKgJRljRYWKTb7gpAIyGATamCNc429.m4a"
+      },
+      {
+        "title": {
+          "text": "重返阿尔特里亚丨第三集-苏醒吧，沉睡的超能力！ 03/29 (龙之谷广播剧）",
+          "truncated": false
+        },
+        "description": {
+          "text": "龙之谷多人广播剧《重返阿尔特里亚》 喜马拉雅FM 萌音工作室 联合龙之谷手游联合出品 总导演：早安酱 幕后小仙女：兮小颜 配音导演：任小邪 后期：薄倾 封面图合作画师：爱肉丸的兔纸鱼 封面美工：M 编剧：卡尔诺兰 配音： 阿卡纳-神隐 阿尔尼塔-冬瓜不说话 巴德尔-喜道 艾薇-早安酱 铁匠伯伯-朝阳 导师-南瓜楠少 黑暗卫士-顾辰 小A-剧舞吧波比 长耳小怪-兮小颜 贵族王子哥哥-辰羽 小正太NPC- 沁小色 红袍牧师杰克-大白 特约CV-清灵、青琳昊、任小邪（名单未满-后续增加） 结尾歌曲：洛天依《一起去冒险》",
+          "truncated": false
+        },
+        "feed_index": 2,
+        "guid": "https://aod.cos.tx.xmcdn.com/group27/M02/CF/7E/wKgJR1jbsfryqmDuAIo0w4wMggo805.m4a"
+      },
+      {
+        "title": {
+          "text": "重返阿尔特里亚丨第四集-预言中的少女 04/07 (龙之谷广播剧-结尾有彩蛋）",
+          "truncated": false
+        },
+        "description": {
+          "text": "龙之谷多人广播剧《重返阿尔特里亚》 喜马拉雅FM 萌音工作室 联合龙之谷手游联合出品 总导演：早安酱 幕后小仙女：兮小颜 配音导演：任小邪 后期：薄倾 封面图合作画师：爱肉丸的兔纸鱼 封面美工：M 焦点图美工：笨小狼 编剧：卡尔诺兰 配音： 阿卡纳-神隐 阿尔尼塔-冬瓜不说话 巴德尔-喜道 艾薇-早安酱 安妮- 沁小色 铁匠伯伯-朝阳 导师-南瓜楠少 黑暗卫士-顾辰 小A-剧舞吧波比 长耳小怪-兮小颜 贵族王子哥哥-辰羽 红袍牧师杰克-大白 侦察兵福古斯-朝阳 特约CV-清灵、青琳昊、任小邪（名单未满-后续增加） 结尾歌曲原唱：洛天依《一起去冒险》 翻唱：神隐 歌曲后期：六六",
+          "truncated": false
+        },
+        "feed_index": 3,
+        "guid": "https://aod.cos.tx.xmcdn.com/group27/M0B/41/BF/wKgJR1jnIOfCc_hTAKaDejF-4zE791.m4a"
+      },
+      {
+        "title": {
+          "text": "重返阿尔特里亚丨第五集-超级毁灭重磅鸭三姐妹 04/16（龙之谷广播剧）",
+          "truncated": false
+        },
+        "description": {
+          "text": "龙之谷多人广播剧《重返阿尔特里亚》 喜马拉雅FM 萌音工作室 联合龙之谷手游联合出品 总导演：早安酱 幕后小仙女：兮小颜 配音导演：任小邪 音效/后期：薄倾 主题曲歌曲后期：六六 封面图合作画师：爱肉丸的兔纸鱼 封面美工：M 焦点图美工：笨小狼 编剧：卡尔诺兰 配音： 阿卡纳-神隐 阿尔尼塔-冬瓜不说话 巴德尔-喜道 艾薇-NJ早安酱 安妮- 沁色 铁匠伯伯-朝阳 导师-南瓜楠少 黑暗卫士-顾辰 小A-剧舞吧波比 长耳小怪-兮小颜 贵族王子哥哥-辰羽 红袍牧师杰克-大白 侦察兵福古斯-朝阳 鹰身人女王-羽希 精灵少女-叶离 人类少年-牛奶胡椒 特约CV-清灵、青琳昊、任小邪（名单未满-后续增加） 结尾歌曲原唱：洛天依《一起去冒险》 翻唱：六六",
+          "truncated": false
+        },
+        "feed_index": 4,
+        "guid": "https://aod.cos.tx.xmcdn.com/group26/M00/BC/70/wKgJRljzDevhxUCFAJhy4e0x7yA232.m4a"
+      },
+      {
+        "title": {
+          "text": "重返阿尔特里亚丨第六集-精灵与人类的爱情 04/24（龙之谷广播剧）",
+          "truncated": false
+        },
+        "description": {
+          "text": "龙之谷多人广播剧《重返阿尔特里亚》 喜马拉雅FM 萌音工作室 联合龙之谷手游联合出品 总导演：早安酱 幕后小仙女：兮小颜 配音导演：任小邪 音效/后期：薄倾 主题曲歌曲后期：六六 封面图合作画师：爱肉丸的兔纸鱼 封面美工：M 焦点图美工：笨小狼 编剧：卡尔诺兰 配音： 阿卡纳-神隐 阿尔尼塔-冬瓜不说话 巴德尔-喜道 艾薇-NJ早安酱 安妮- 沁色 铁匠伯伯-朝阳 导师-南瓜楠少 黑暗卫士-顾辰 小A-剧舞吧波比 长耳小怪-兮小颜 贵族王子哥哥-辰羽 红袍牧师杰克-大白 侦察兵福古斯-朝阳 鹰身人女王-羽希 精灵少女-叶离 人类少年-牛奶胡椒 特约CV-清灵、青琳昊、任小邪（名单未满-后续增加） 结尾歌曲原唱：洛天依《一起去冒险》 翻唱：喜道公子 歌曲后期：六六",
+          "truncated": false
+        },
+        "feed_index": 5,
+        "guid": "https://aod.cos.tx.xmcdn.com/group27/M01/4C/58/wKgJR1j9_N2Bl-HjAJXAtw1Ts3A669.m4a"
+      },
+      {
+        "title": {
+          "text": "重返阿尔特里亚丨第七集-冒险吧！向着未知的远方，出发 05/03（龙之谷广播剧）",
+          "truncated": false
+        },
+        "description": {
+          "text": "龙之谷多人广播剧《重返阿尔特里亚》 喜马拉雅FM 萌音工作室 联合龙之谷手游联合出品 总导演：早安酱 幕后小仙女：兮小颜 配音导演：任小邪 音效/后期：薄倾 主题曲歌曲后期：六六 封面图合作画师：爱肉丸的兔纸鱼 封面美工：M 焦点图美工：笨小狼 编剧：卡尔诺兰 配音： 阿卡纳-神隐白月光 阿尔尼塔-冬瓜不说话 巴德尔/小娘炮-喜道公子 艾薇-NJ早安酱 安妮- 沁色 铁匠伯伯-朝阳 导师/老妖精-南瓜楠少 黑暗卫士-顾辰 小A-剧舞吧波比 长耳小怪-兮小颜 贵族王子哥哥-辰羽 红袍牧师杰克-大白 侦察兵福古斯-朝阳 鹰身人女王/黑暗精灵-羽希 精灵少女-叶离 人类少年-牛奶胡椒 特约CV-清灵、青琳昊、任小邪（名单未满-后续增加） 结尾歌曲原唱：洛天依《一起去冒险》",
+          "truncated": false
+        },
+        "feed_index": 6,
+        "guid": "https://aod.cos.tx.xmcdn.com/group27/M0B/EC/D1/wKgJR1kJ4trxGeNgAK4gGdEV6yw221.m4a"
+      },
+      {
+        "title": {
+          "text": "《与你同行》-龙之谷《重返阿尔特里亚》广播剧原创主题曲",
+          "truncated": false
+        },
+        "description": {
+          "text": "萌音工作室原创出品 龙之谷《重返阿尔特里亚》广播剧主题曲《与你同行》 兼制：NJ早安酱 编曲/作曲：Mr.Tear 作词：66 演唱：声沙 吉他：K牛 分轨：宇谦 母带：Aka暗 后期：蚊子",
+          "truncated": false
+        },
+        "feed_index": 7,
+        "guid": "https://aod.cos.tx.xmcdn.com/group29/M02/39/E5/wKgJWVlVAi-StyAMABYtQ3s5Geo309.m4a"
+      }
+    ]
+  }
+}

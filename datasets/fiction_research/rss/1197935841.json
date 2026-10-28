@@ -1,0 +1,140 @@
+{
+  "show_id": "1197935841",
+  "feed_url": "http://www.ximalaya.com/album/6307881.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/6307881.xml",
+    "final_url": "http://www.ximalaya.com/album/6307881.xml",
+    "fetched_at": "2026-10-25T14:47:58.264369+00:00",
+    "status": 200,
+    "sha256": "c77969f30107f16d8b574ea31c40724b5007a231c4481a92eef5d33d16b0a54d"
+  },
+  "status": "ok",
+  "title": {
+    "text": "妈妈你听",
+    "truncated": false
+  },
+  "description": {
+    "text": "4到12岁的孩子问题多，家庭教育好心烦，怎么办？看书太慢、培训太杂，订阅《妈妈你听》，听 亲子私教李晓闯 讲干货， 10分钟 解决一个家庭教育难题，让你的爱更专业。微信公众号：妈妈你听",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 369,
+  "episodes": [
+    {
+      "id": "2934da6ff73a0f125be505a6c6b234a4e505b336dcfdd644fdf3df742e61438c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group68/M01/1C/98/wKgMbl25KG6RAfndAE3A4KILjMM040-aacv2-48K.m4a",
+      "title": {
+        "text": "第203期丨观看电影妖猫传，你不可不知的无上密",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 30 Oct 2019 06:06:27 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "69d773c6739d90125cf19231300eab708055d21b16484c70bb78afc43b69a039",
+      "guid": "https://aod.cos.tx.xmcdn.com/group52/M0B/84/E0/wKgLe1wzIZ3jxH0mAFjTAQScUHE157.m4a",
+      "title": {
+        "text": "299期 | 当引起家长焦虑的问题被过滤后",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 07 Jan 2019 10:00:00 GMT",
+      "feed_index": 53
+    },
+    {
+      "id": "c6bd5fb6eff46dbcbf2d5b5a1728660c86124bbe46e5388296c88957b7074922",
+      "guid": "https://aod.cos.tx.xmcdn.com/group47/M00/9D/5A/wKgKk1uSST7x-dcTAByVmNGBH-g701.m4a",
+      "title": {
+        "text": "付费版第1期 | 如何才能让孩子好好写作业之“铺垫篇”",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 07 Sep 2018 10:00:00 GMT",
+      "feed_index": 105
+    },
+    {
+      "id": "30f27efe72f71ed9dffe67c4c91a4f108f249e34ced1ef8272f4960db194f70d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group22/M07/35/C5/wKgJM1rsPkfSqpvhAG9ygQZrToQ157.m4a",
+      "title": {
+        "text": "第212期丨如何教孩子正确对待“助人为乐”？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 May 2018 11:05:43 GMT",
+      "feed_index": 158
+    },
+    {
+      "id": "3467a3e11db15111de3b8a42f7404de7bf317b38b048db971ecfb5ae4a27ee70",
+      "guid": "https://aod.cos.tx.xmcdn.com/group33/M09/A2/BE/wKgJTFoALkjRZpniAGSvuiq-QG8724.m4a",
+      "title": {
+        "text": "第159期丨为啥和孩子沟通总觉得“你对他错”？",
+        "truncated": false
+      },
+      "description": {
+        "text": "邀您加入《妈妈你听》全国读书群，扫描二维码加读书小助手为好友，她会拉你进读书群。注意，需要把图片保存下来再扫，喜马拉雅不支持长按图片扫码",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Nov 2017 09:42:00 GMT",
+      "feed_index": 210
+    },
+    {
+      "id": "5b3bd0b6fe98da30a0a1bf994ce35e95f2deadda4fcaaa86ae47d6c0f07964eb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group28/M09/63/8E/wKgJXFkn-8fjJBugAF63MP4k3bU447-aacv2-48K.m4a",
+      "title": {
+        "text": "第106期丨孩子闹情绪时，家长要不要插手",
+        "truncated": false
+      },
+      "description": {
+        "text": "孩子一哭，我们总会下意识的说“宝贝不哭”。孩子在无意识的“宝贝不哭”中学会隐藏自己的情绪。可是，“不哭的宝贝”是真实的吗？ 关注《妈妈你听》微信公众号，阅读本期节目",
+        "truncated": false
+      },
+      "published_at": "Fri, 26 May 2017 10:00:00 GMT",
+      "feed_index": 263
+    },
+    {
+      "id": "00d9151bf7b5a8326d61628a291ec2c0576ad0c0bff8394b7d976be134931405",
+      "guid": "https://aod.cos.tx.xmcdn.com/group17/M02/AF/65/wKgJJFi5MruxZTozACOiiNgyrrE511.m4a",
+      "title": {
+        "text": "第054期丨每周答疑：“妈妈，我被欺负了，可我不敢告诉你”",
+        "truncated": false
+      },
+      "description": {
+        "text": "“今天坐后面的同学总是踢我， 回家要不要跟妈妈说呢？ 要是妈妈嫌我软弱怎么办？ 要是妈妈教训我怎么办？ 算了，还是不说了吧。” 家长们有没有想过 某一天孩子回家前 撅着小嘴这样嘀咕着 听《妈妈你听》 告诉你为什么孩子被欺负了 你却一无所知 妈妈听会了，孩子才会听。 《妈妈你听》，可能是中国最有用的亲子脱口秀。",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Mar 2017 10:00:01 GMT",
+      "feed_index": 315
+    },
+    {
+      "id": "1c56160d0f2251e577c0d52bd583350c277b458e8f8466a64c026e6d057588cc",
+      "guid": "https://aod.cos.tx.xmcdn.com/group25/M04/1D/52/wKgJNlho4TeQX1w3ADOHO1VKLH0789.m4a",
+      "title": {
+        "text": "第001期丨孩子赖床不起？三招轻松搞定！",
+        "truncated": false
+      },
+      "description": {
+        "text": "孩子又赖床不起？每天恨不能叫一百遍，好烦啊？？ 等等，先别抱怨—— 孩子赖床未必是孩子的问题， 有时候，这个锅得家长来背…… 叫孩子起床的姿势不对， 会养成孩子赖床的习惯 正确的姿势在这里—— 在这条音频里，你将听到 “ 李晓闯 起床三板斧”—— 1.界限约定法 2.音乐起床法 3.专心唤醒法 妈妈听会了，孩子才会听。 《妈妈你听》，可能是中国最有用的亲子脱口秀。",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Jan 2017 11:11:57 GMT",
+      "feed_index": 368
+    }
+  ]
+}

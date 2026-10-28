@@ -1,0 +1,84 @@
+{
+  "show_id": "1338444962",
+  "feed_url": "http://www.ximalaya.com/album/12548124.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/12548124.xml",
+    "final_url": "http://www.ximalaya.com/album/12548124.xml",
+    "fetched_at": "2026-10-25T14:48:54.551704+00:00",
+    "status": 200,
+    "sha256": "870d15547b34e366588d4fe6c36724ca35d7f323e55d7e1d536a86ab4f3c308d"
+  },
+  "status": "ok",
+  "title": {
+    "text": "吴勉旅行记之冰岛游",
+    "truncated": false
+  },
+  "description": {
+    "text": "大家好，我是吴勉，这是我第一次录制音频，和大家分享我在冰岛的一些旅行故事，不足之处还请大家一一指出，我也希望我分享的经验可以给大家提供更多的帮助！ 冰岛这个国家给我留下的印象就是人口非常的稀少，但是冰岛人民却是非常的热情，当然，除了极个别的快餐店服务员有点冷淡。 这次的旅行，全程自驾，从冰岛南部地区一直到北部，但是也因为我假期的原因，没有更深入的进入冰岛，到了北部逗留3天后，便回到了南部，之后就回国了。 冰岛主要的旅游季节是冬季的1-3月，夏季的6-9月，我是在冬季去的冰岛，但是因为全球变暖的关系，整个行程中，并没有遇到持续的下雪天气，而据说冰岛的夏季，是非常的美丽，到处都是绿色的苔藓植物，所以如果有机会，我会选择夏季再来一次冰岛。 如果小伙伴有意向去冰岛，有任何疑问的话，可以在讨论区给我留言，我看到后会在第一时间解答",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 4,
+  "episodes": [
+    {
+      "id": "8d532a9406bc5a0ebcebd95e6183c1b7608f9bfa4da335aebf59a6c88810b7c9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group22/M06/13/72/wKgJM1pfVHPjkLyjAISbkFLq2eE380.m4a",
+      "title": {
+        "text": "冰岛-939公路地热众神瀑布熔岩迷宫火山口蓝洞回程",
+        "truncated": false
+      },
+      "description": {
+        "text": "大家好，我是吴勉，终于我们的旅程就快要结束了，很是舍不得，到现在从冰岛回来快一年了，但是总觉得是昨天才去的冰岛。 今天我们先来到了北部的地热风貌，在去往地热的路上，我们先在939公路上经历了一次冒险 溅到水，瞬间结冰的车窗 到处都是白茫茫的一片 最后我们终于找到了地热 远距离的感受了众神瀑布，大家可以看到地上大片大片的冰 入住小木屋之后，第二天，我们参观了一个被淹没的蓝洞 一个洞顶融化的蓝洞 还有蓝冰和黑冰 之后在龙湖边上找冰块拍照 之后我们回到了雷克雅未克 到此，我们在冰岛的所有旅行全部结束，第二天便坐飞机去了巴塞罗那，在那里逗留了3天再回国，其实对冰岛真的有点依依不舍，感觉7天并不够，这里也很推荐各位小伙伴，如果有机会的话，一定要去一次冰岛！ 这次冰岛之旅的音频也到此结束了，谢谢大家收听，下次我会分享我在土耳其的旅游经历，欢迎大家再次收听！",
+        "truncated": false
+      },
+      "published_at": "Wed, 17 Jan 2018 14:35:41 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "4176c40c012bf7c992a19dc70f65f9cc52dd4cb9ad80a158cb986b2328c1ca9d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M09/26/59/wKgJX1peA_yiGoAOAG2PZO3BjSI479.m4a",
+      "title": {
+        "text": "冰岛-黑沙滩斯里亚兰瀑布冰川徒步霍芬小镇",
+        "truncated": false
+      },
+      "description": {
+        "text": "大家好，我是吴勉，这次的音频继续带大家深入冰岛，这次我先达到了黑沙滩，在黑沙滩上经历了惊涛骇浪 来到了壮阔的塞里亚兰大瀑布 参加了一次极限挑战—冰川徒步 开了一次惊心动魄的夜路（小伙伴手机拍的，实在太模糊） 吃了一顿丰盛的龙虾餐，以及一碗美味的龙虾汤 结束了两天的行程，虽然大家都很累，但是却很值得",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Jan 2018 14:18:30 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "a9c5e1481bc37f75d1fd37972fa5622f506a2e7f23534502b18503e44e8be7db",
+      "guid": "https://aod.cos.tx.xmcdn.com/group21/M04/0B/9E/wKgJKFpctT3y3jHYAIUxV1P6NM8386.m4a",
+      "title": {
+        "text": "冰岛-蓝湖温泉,国家公园,间隙泉,黄金瀑布",
+        "truncated": false
+      },
+      "description": {
+        "text": "本段音频介绍了我在冰岛开始旅行的一些经历 首先我们来到了蓝湖温泉，洗去一身的疲惫 第二天，我们来到幸格韦德利国家公园 登上山顶，看到了大裂缝 走了一条“死男人之路” 欣赏了沿途的美景和彩虹 接着我们来到了间隙泉，耐心等待泉水喷发 最后我们来到了黄金瀑布，结束了当天的行程",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Jan 2018 14:07:31 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "f6bfee930243a25191fbaee017dde96dbe723197cf36dd5d2de4e95bc6204546",
+      "guid": "https://aod.cos.tx.xmcdn.com/group35/M02/ED/7A/wKgJnVpZuvTjyy89AJePdNi-4jw926.m4a",
+      "title": {
+        "text": "冰岛自驾游-前期准备篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "大家好，我是吴勉，这是我录制的第一个有声专辑，介绍我17年2月份，在冰岛的旅游故事，我喜欢通过这次的分享，能给更多想去冰岛的驴友提供帮助，我也将会陆续的将我在旅行中的故事以及自由行攻略一一和大家分享， 也希望大家能够支持！",
+        "truncated": false
+      },
+      "published_at": "Sat, 13 Jan 2018 08:01:23 GMT",
+      "feed_index": 3
+    }
+  ]
+}

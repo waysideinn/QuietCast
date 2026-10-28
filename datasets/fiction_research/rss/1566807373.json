@@ -1,0 +1,140 @@
+{
+  "show_id": "1566807373",
+  "feed_url": "http://www.ximalaya.com/album/47613755.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/47613755.xml",
+    "final_url": "http://www.ximalaya.com/album/47613755.xml",
+    "fetched_at": "2026-10-25T14:52:48.693739+00:00",
+    "status": 200,
+    "sha256": "56dafa61512015133131629e114a438e3da214372233badc495eefbcf07898c5"
+  },
+  "status": "ok",
+  "title": {
+    "text": "大宋名探│精品多人古风悬疑剧",
+    "truncated": false
+  },
+  "description": {
+    "text": "【主角介绍】 他出身于南宋一朝廷官吏家庭，中进士乙科后，出任江西信丰县主薄，踏上仕宦生涯。宋慈一生二十余年的官宦生涯中，先后担任数次高级提刑官，广东提点刑狱，江西提点刑狱兼虔州（今赣县）知县，直秘阁提点湖南刑狱。他根据自己的办案经历，著有《洗冤集录》五卷。有关他查办刑案的故事，千百年来在民间留传。 【作者】一流刀，网络小说作者。 【制作团队】闲月阁中文配音社",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 91,
+  "episodes": [
+    {
+      "id": "b17f17f00b332a286fd7831b12e919a4d0edf231e5cfdba22eed31bfe495991f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/14fe-audiofreehighqps/1F/EE/CKwRIUEEJLBhABzY_wCSZPfd-aacv2-48K.m4a",
+      "title": {
+        "text": "片花(欢迎订阅，关注~)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Mar 2021 05:15:07 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "0a86d6d4082a0367d581ff57fb95425d369ddd6ac0eefb11d1b6adaf0fc4012d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/05e9-audiofreehighqps/A7/07/CKwRIRwEMvtjAE_1RQCW3qlT-aacv2-48K.m4a",
+      "title": {
+        "text": "第13集 信以为真",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 27 Mar 2021 04:00:00 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "dfdefee1493fe64354a99b82e08f24383f5bc160045c3e1b12d5f66e2efd7581",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/52c9-audiofreehighqps/19/53/CKwRIUEEXJtPAFATxwCjYqbQ-aacv2-48K.m4a",
+      "title": {
+        "text": "第26集 负气出走",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Apr 2021 15:12:03 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "3e6be7812aa57d70669f80f7ba426706f6f7600ae04d66484847c07702aaa4ba",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8ac7-audiofreehighqps/AF/D9/CKwRIasEhr1VAE1XIwCx3-m0-aacv2-48K.m4a",
+      "title": {
+        "text": "第39集 寻回相公",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 28 May 2021 14:12:21 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "398b14eccc0398816ee358d0e492c495772072fa0815340d0d29d7bac84b0e68",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3b3c-audiofreehighqps/DA/C0/CKwRIRwEsNwMAEu3kwDAjA-C-aacv2-48K.m4a",
+      "title": {
+        "text": "第51集 渐渐明朗",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Jun 2021 12:58:27 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "a4a7b863e96f4aef36380677a8422eeedafdc1fa0e5b2329c82bda2a05115a83",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c062-audiofreehighqps/71/19/CKwRINsEyKdNAE4gUQDJfBrr-aacv2-48K.m4a",
+      "title": {
+        "text": "第64集 暗中调查",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Jul 2021 16:07:00 GMT",
+      "feed_index": 64
+    },
+    {
+      "id": "b3b1a775466102314cce974d025247304a06694788de9f6d9b60c7ad418a9be7",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2824-audiofreehighqps/6A/CA/CKwRIMAE7E4sAE0lNwDXQwhw-aacv2-48K.m4a",
+      "title": {
+        "text": "第77集 宋朝名画",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 13 Aug 2021 15:09:13 GMT",
+      "feed_index": 77
+    },
+    {
+      "id": "8a15e84ca2a4b2ca21088090f1d11e33c8a634895772f3559175ebb6c7b80593",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f9e8-audiofreehighqps/C9/E3/CKwRIJEFClLvAF7V3QDgAvPk-aacv2-48K.m4a",
+      "title": {
+        "text": "第90集 全剧终结（感谢一直以来支持我们的小伙伴，新剧再见~）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Sep 2021 09:37:31 GMT",
+      "feed_index": 90
+    }
+  ]
+}

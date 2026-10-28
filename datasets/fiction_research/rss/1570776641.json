@@ -1,0 +1,140 @@
+{
+  "show_id": "1570776641",
+  "feed_url": "https://feeds.soundon.fm/podcasts/cf8b0ee4-7d73-4849-8abb-b1cdc30f3524.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/cf8b0ee4-7d73-4849-8abb-b1cdc30f3524.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/cf8b0ee4-7d73-4849-8abb-b1cdc30f3524.xml",
+    "fetched_at": "2026-10-25T14:53:02.176196+00:00",
+    "status": 200,
+    "sha256": "b3b0b7f02a2b684fb3586f5e842fb029bbac55831979fdce48e8705075da26fa"
+  },
+  "status": "ok",
+  "title": {
+    "text": "聖嚴法師的有聲書",
+    "truncated": false
+  },
+  "description": {
+    "text": "法鼓山創辦人聖嚴法師是一位思想家、作家暨國際知名禪師。 法師一生著作等身，時以文字、演說教化、感化無數人心，不但思想行誼攝化眾生，尤其在日常生活中的言行身範，處處都見禪慧與悲願。 法師生命歷程極為豐富，對當代影響又如是深廣，我們特別將法師的著作委請專人朗讀錄製成一本本「聖嚴法師的有聲書」，與您分享法師的生命菁華與智慧，願大眾歡喜受用，在安定時富足，艱苦時堅強，迷惘時無懼，幸福時自在。 邀請您來聆聽與細細領略…。 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 640,
+  "episodes": [
+    {
+      "id": "d64fd96325fa4f31afdb0e02adcc42409b1f96026383f5088dcc99b9971af273",
+      "guid": "6fa239f1-fd06-407a-940e-f82fa3c96dd0",
+      "title": {
+        "text": "《春夏秋冬》第十八集 (18之18)",
+        "truncated": false
+      },
+      "description": {
+        "text": "本遊記貫串著聖嚴法師亞、美、歐三洲的遊化行蹤， 讓您一探日本、捷克、比利時、美國、臺灣等的佛教。 隨著聖嚴法師廣博的見識、清新流暢的筆調， 引領您追探世界佛教的堂奧。 是一部佛教歷史的紀錄， 更是一部引人深思的智慧寶典。 --- 朗讀者：袁光麟 --- 第十八集 (18之18) 伊薩卡的康乃爾大學 哈佛大學 哈佛宗教學院．麻省理工學院 國際弘化．十六年的回顧 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 02 Feb 2026 02:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "397904b5beb2c30e2dc2862f4148de8311f467d96e4e94b9b6db2a248f213423",
+      "guid": "776b648c-ab68-44eb-a59c-4a55ec7e3a6f",
+      "title": {
+        "text": "《金山有鑛》第九集 (26之9)",
+        "truncated": false
+      },
+      "description": {
+        "text": "由金山鄉法鼓山的建設，至美國舊金山的弘法， 聖嚴法師進行一連串的遊化記行， 便是以這樣的觀點為自家開鑛，助他人冶金，從中流露法師的弘願悲心。 相信諸佛是鑛中的純金，相信眾生是純金在鑛中， 鑛與金雖有別，同樣是金則無異。。 --- 朗讀者：袁光麟 --- 第九集 (26之9) 東亞圖書館 史丹福大學 柏克萊禪中心 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 04 May 2025 02:00:00 GMT",
+      "feed_index": 91
+    },
+    {
+      "id": "845f90724f6ac23dad21a894026f4a1b2d2630fdcc73e574d319b5e8ad172b9b",
+      "guid": "e66c3196-38d6-44d9-a8c7-dcbe082e44f7",
+      "title": {
+        "text": "《禪與悟》第十三集 (26之13)",
+        "truncated": false
+      },
+      "description": {
+        "text": "禪宗的悟， 或是不假階梯，一觸及悟； 或是苦參實究，一觸即發。 --- 朗讀者：劉忠繼 --- 第十三集 (26之13)：禪──擔水砍柴 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 01 Aug 2024 02:00:00 GMT",
+      "feed_index": 183
+    },
+    {
+      "id": "544acc66f24810d61cac1c3bf570e97972735d1f34f73e78ce5aaafc2863259d",
+      "guid": "69bda4af-6a72-4a77-a4cf-64b133cf5285",
+      "title": {
+        "text": "《拈花微笑》第二十四集 (24之24)",
+        "truncated": false
+      },
+      "description": {
+        "text": "世尊拈花示眾，迦葉破顏微笑，盡虛空遍法界，皆在說最上大法。 --- 朗讀者：袁光麟 --- 第二十四集 (24之24)：中國的維摩詰──龐居士 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 Nov 2023 02:00:00 GMT",
+      "feed_index": 274
+    },
+    {
+      "id": "a3cd98d25df6556c25bef23409801d9a3ce4308e10fd83db68e65d9e65c2d3e8",
+      "guid": "29ae7242-c6eb-4ed3-a3b6-fe68804cd655",
+      "title": {
+        "text": "《正信的佛教》第十六集 (17之16)",
+        "truncated": false
+      },
+      "description": {
+        "text": "佛教在歷經二千多年的傳播後，其根本精神在流布期間，摻雜諸多異質的成分，而有了曲解及湮沒。為了導正信念，究竟佛法的基本認知，書中列舉了七十項淺顯而實際重要的問題，讓人們真正了解佛教，一窺真貌。 --- 朗讀者：袁光麟 --- 第十六集 (17之16) 1. 佛教的真理是什麼？ 2. 和尚、尼姑、居士是什麼？ 3. 禪師、律師、法師是什麼？ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 Feb 2023 02:00:00 GMT",
+      "feed_index": 365
+    },
+    {
+      "id": "1755116ec9aa02e43eb238c8edf25cab131b9dd97df338681e11bf2efc2e62eb",
+      "guid": "c3f1be89-488c-4534-8a9c-c88920beae39",
+      "title": {
+        "text": "《美好的晚年》第十四集 (15之14)",
+        "truncated": false
+      },
+      "description": {
+        "text": "聖嚴法師說：「在晚年裡，我所遇到的人，我所經歷的事，都是那麼可愛， 我的晚年是非常美好的。」 --- 朗讀者：袁光麟 --- 第十四集 (15之14)：啟動心六倫 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 Jul 2022 02:00:00 GMT",
+      "feed_index": 456
+    },
+    {
+      "id": "396c56b5378fa25ee29a1ed7e9b5d5da071cd11cf6dd4b1eaa63b717c024176f",
+      "guid": "a8ea9dcd-da43-4cd5-bc08-a6a8c4930477",
+      "title": {
+        "text": "《禪的世界》第一集 (22之1)",
+        "truncated": false
+      },
+      "description": {
+        "text": "禪並不一定是什麼， 也不肯定或否定什麼， 禪是你要什麼就給你什麼。 --- 朗讀者：劉忠繼 --- 第一集 (22之1) 1. 自序 2. 禪坐的基礎方法 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 30 Dec 2021 05:15:00 GMT",
+      "feed_index": 548
+    },
+    {
+      "id": "5b2c38f43189ad2e75fb98b5bf467404752aff45331b4befbc872c742eed06fa",
+      "guid": "51e5706a-da11-4adb-8dbc-d57042cd4e0f",
+      "title": {
+        "text": "《工作好修行》第一集 (4之1)",
+        "truncated": false
+      },
+      "description": {
+        "text": "工作中的挫折與困境，該如何化解與突破？ 聖嚴法師的38則職場智慧，為你開啟工作新視野，創造自利利他的職場雙贏。 --- 朗讀者：袁光麟 --- 第一集 (4之1) 1. 奉獻工作也是菩薩精神 2. 隨順因緣的求職觀 3. 為磨鍊自己而工作 4. 有利他人的就是好工作 5. 工作好修行 6. 談年輕人創業 7. 工作不只是保住飯碗 8. 如何面對中年失業？ 9. 委屈求全算不算無我？ 10. 忙得快樂，累得歡喜 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Jun 2021 02:20:00 GMT",
+      "feed_index": 639
+    }
+  ]
+}

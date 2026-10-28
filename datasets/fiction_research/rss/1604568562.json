@@ -1,0 +1,140 @@
+{
+  "show_id": "1604568562",
+  "feed_url": "http://www.ximalaya.com/album/54033337.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/54033337.xml",
+    "final_url": "http://www.ximalaya.com/album/54033337.xml",
+    "fetched_at": "2026-10-25T14:43:41.950797+00:00",
+    "status": 200,
+    "sha256": "9c1bcd2d5576d3cb571a5eca115a7fea7a3f87476dd6be67429bde9827f23640"
+  },
+  "status": "ok",
+  "title": {
+    "text": "世界尽头的圣骑士|免费有声轻小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "曾经灭亡的死者之街。 那里有一个孩子和三个不死的人。 被曾经作为英雄的不死者们养育的少年。 继承技能继承知识，注入爱的少年成长。 阐发了下去，不死者的过去，奥秘的谜。 当知道那一切的时候，少年踏上了通往圣骑士的道路。 一个温馨和带有伤感的故事。 《世界尽头的圣骑士》（最果てのパラディン）是柳野かなた自2015年5月1日起在小说网站“成为小说家吧”连载的日本轻小说作品。该作繁体中文版由尖端出版社出版",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 147,
+  "episodes": [
+    {
+      "id": "d0c5d689ad9e409977ae6fbb7d0dbb26c232c212cf48cdb1af5ffedb3f49d6cd",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a9ef-audiofreehighqps/49/EA/GKwRIJEFmP5kADkh2AEFp2qY.m4a",
+      "title": {
+        "text": "第一卷｜ 死者之街的少年｜ 序章01",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 28 Nov 2021 14:34:58 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "74e3233422ba028d1531d09d2f008df66773ad87dc06ced66c48b7edb864a5cc",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5f4b-audiofreehighqps/8C/38/GKwRIUEFn4Z4ABAAAAEHhqEK.mp3",
+      "title": {
+        "text": "第一卷｜ 死者之街的少年｜ 第三章05",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Oct 2021 12:49:21 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "7d36a127120f87eb0eb047a13e9410182fb73e353803761334987570ea570a63",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/25d9-audiofreehighqps/F3/F7/GKwRINsFaM7lABAAAAD3uZSI.mp3",
+      "title": {
+        "text": "第二卷｜ 兽之森的射手｜ 第四章02",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Nov 2021 01:40:05 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "c2c933e450a44d8c4fa5b823e12ccf73e85f04e7606ed0b80cee9f7054b78258",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0320-audiofreehighqps/E6/4B/GKwRIW4Fb-sHABAAAAD5vc2N.mp3",
+      "title": {
+        "text": "第三卷｜铁锈山之王 上｜ 第二章03",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 21 Nov 2021 11:06:24 GMT",
+      "feed_index": 63
+    },
+    {
+      "id": "5140a49f2fa2a1a70fcf3460147478e12cf51afcfcc35c658eefb0ea068a04c2",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/24f1-audiofreehighqps/83/AB/GKwRIUEFd9RCABAAAAD76LY8.mp3",
+      "title": {
+        "text": "第三卷｜铁锈山之王 下｜ 第一章03",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 27 Nov 2021 11:07:22 GMT",
+      "feed_index": 83
+    },
+    {
+      "id": "9dd79f4d8fa6bedd882de53e82a3a76673f573cbc966da963181af7305f6d314",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/fa6f-audiofreehighqps/59/3F/GKwRIDoFfm4-ABAAAAD93HFV.mp3",
+      "title": {
+        "text": "第三卷｜铁锈山之王 下｜ 第四章06",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 04 Dec 2021 13:14:04 GMT",
+      "feed_index": 104
+    },
+    {
+      "id": "c82b1f31041b8b2be9149f24116ad08fe9bff99b1b0bedfc8631ef8318ef0870",
+      "guid": "xmly_track_480055419",
+      "title": {
+        "text": "第四卷｜灯火之港的群像｜ 第二章11",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 11 Dec 2021 04:08:04 GMT",
+      "feed_index": 125
+    },
+    {
+      "id": "d767d5e9c6695b36550d9093eb01172f4a23429bbbf12ec637937c6d7240236e",
+      "guid": "xmly_track_493775888",
+      "title": {
+        "text": "完结篇 播讲人结束语",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 18 Jan 2022 12:17:00 GMT",
+      "feed_index": 146
+    }
+  ]
+}

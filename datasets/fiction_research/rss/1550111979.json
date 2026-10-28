@@ -1,0 +1,112 @@
+{
+  "show_id": "1550111979",
+  "feed_url": "https://feeds.soundon.fm/podcasts/c2b2b3c3-37c2-4349-9f0e-520d857f5e3a.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/c2b2b3c3-37c2-4349-9f0e-520d857f5e3a.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/c2b2b3c3-37c2-4349-9f0e-520d857f5e3a.xml",
+    "fetched_at": "2026-10-25T14:42:33.198054+00:00",
+    "status": 200,
+    "sha256": "95fe6e3dea194c6797951c7cea37a6a8cbd82ac903dbf33b8f68face855ea1eb"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【Words Kill字殺】-類廣播劇",
+    "truncated": false
+  },
+  "description": {
+    "text": "搭配著主題音樂，以Podcast類廣播劇的方式呈現故事。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 6,
+  "episodes": [
+    {
+      "id": "81e465357e2153b1be2c4290d3b59a7713a569bdd2eccf87cc4e6489581989cb",
+      "guid": "2204cd85-45f4-44d1-a40a-a72b7f38fdda",
+      "title": {
+        "text": "EP6: 【Words Kill 字殺】誰取代了誰？",
+        "truncated": false
+      },
+      "description": {
+        "text": "嗨大家好，我是eLynn陳箴！ 感謝你們收聽「Words Kill 字殺」～ 這是一個結合我兩首單曲和 Instagram 解謎的故事企劃。 現在第一首歌曲 Words Kill 已經在各大平台上架囉～ 希望大家可以去聽聽看！ MV在YouTube上也搜尋得到囉～ 裡面有故事中 Aria 和 Bik 的生活照！ 關於Instagram解謎，請大家搜尋我的名字 「eLynn 陳箴」，第一關是1月27日的貼文，圖是一台電視裡我露出一隻眼睛的圖片。 希望大家喜歡整個企劃和我的歌曲歐！",
+        "truncated": false
+      },
+      "published_at": "Wed, 24 Feb 2021 12:07:19 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f186b5a80eff19a96aaaf7531a15b8eda9efb8f4803416fc64a7075a9d336a1b",
+      "guid": "1d3cc9ec-6a01-4655-86de-b5b6bb17d4f0",
+      "title": {
+        "text": "EP5:【Words Kill 字殺】冥冥之中緣分也是沒有錯過。Bik和Carly認識？",
+        "truncated": false
+      },
+      "description": {
+        "text": "「是說你真的跟Aria超像的。尤其是笑起來的樣子。」 「哦，你是說我的雙胞胎姊姊嗎？她現在過得好嗎？雖然我對她沒什麼印象。」 「對啊，Aria….算是過得還不錯吧。那你呢？你對自己以前的印象是什麼呢？怎麼會都不好奇自己的身分呢？」 嗨大家好，我是eLynn陳箴！ 感謝你們收聽「Words Kill 字殺」Podcast到第五集囉～ 這是一個結合我的兩首單曲和 Instagram 解謎的故事企劃。 現在第一首歌曲 Words Kill 已經在各大平台上架囉～ 希望大家可以去聽聽看！ MV在YouTube上也搜尋得到囉～ 裡面有故事中 Aria 和 Bik 的生活照！ 關於Instagram解謎，請大家搜尋我的名字 eLynn 陳箴，第一關是1月27日的貼文，圖是一台電視裡我露出一隻眼睛的圖片。 希望大家喜歡整個企劃和我的歌曲歐！",
+        "truncated": false
+      },
+      "published_at": "Wed, 17 Feb 2021 10:17:55 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "76c7e81242326b4b053bc0fd100812fa56068aa59dd559398fc1d0d9038ccca0",
+      "guid": "31219723-cd15-415e-b456-001d4a898972",
+      "title": {
+        "text": "EP4:【Words Kill 字殺】蝴蝶總是圍繞著花朵。嫌疑人Ｃ出現了？",
+        "truncated": false
+      },
+      "description": {
+        "text": "「把Aria還給我們！」 「敖家從來就沒有Carly這個人。Aria是敖家唯一的千金。」 「怎麼不去死？去死啊！」 Carly 和 Bik 誰更有動機？",
+        "truncated": false
+      },
+      "published_at": "Thu, 11 Feb 2021 09:56:50 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "c0079bd2cdf9741a9d8e691ac90169ba923c32adaa3809d52524bd6977a2fbfd",
+      "guid": "4c1eb6ed-d8de-4336-9648-13c5a443a84d",
+      "title": {
+        "text": "EP3:【Words Kill 字殺】眾人所期待的我。我為她活了下來.....",
+        "truncated": false
+      },
+      "description": {
+        "text": "三天前有一樁遊艇的爆炸案，船上有3人生還，其中一位竟是Aria！ 生還的她，是否知道是誰一直在陷害她？誰的真面目又即將被揭露？",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 Feb 2021 15:04:36 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "81725e56f182d5bac59bbfab010616e4f4a7c61eeb3d308ed3ebb1c4f196bc64",
+      "guid": "2ff6a3ad-72e0-4b61-a95f-fd010f290ca0",
+      "title": {
+        "text": "EP2:【Words Kill 字殺】嫌疑人B的自白",
+        "truncated": false
+      },
+      "description": {
+        "text": "「垃圾！」 「畜生！怎麼不去死！」 「加害者！兇手！」 「妓不如人就大方承認啦，不要只想害別人！」 我是Bik，是媒體與網友推理出來，嫉妒Aria，恨到必須想盡辦法毀掉她的嫌疑人。",
+        "truncated": false
+      },
+      "published_at": "Wed, 03 Feb 2021 10:00:01 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "aee6f4ec79f689758598c61e2f11a40479d55b9caaee51ecd096f28787e4f69a",
+      "guid": "ce274708-becf-4efd-98e9-5c694b34b9a6",
+      "title": {
+        "text": "EP1: 【Words Kill 字殺】失蹤了！他殺？自殺？",
+        "truncated": false
+      },
+      "description": {
+        "text": "「Aria失蹤了？！」咖啡廳內的一位少女刷著手機，看到新聞後驚呼。 「被綁架吧！那麼多天沒消息可能已經被撕票」 「自殺嗎？」 「屁咧，人生勝利組幹嘛自殺！」一群人開始刷著新聞評論，七嘴八舌地談論了起來……….",
+        "truncated": false
+      },
+      "published_at": "Thu, 21 Jan 2021 14:06:47 GMT",
+      "feed_index": 5
+    }
+  ]
+}

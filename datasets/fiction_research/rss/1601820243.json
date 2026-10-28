@@ -1,0 +1,140 @@
+{
+  "show_id": "1601820243",
+  "feed_url": "https://feeds.soundon.fm/podcasts/002cde07-98dc-4952-8ffd-ced80cc4423d.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/002cde07-98dc-4952-8ffd-ced80cc4423d.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/002cde07-98dc-4952-8ffd-ced80cc4423d.xml",
+    "fetched_at": "2026-10-25T14:54:56.416334+00:00",
+    "status": 200,
+    "sha256": "6bb1d4dac1a560cf0eb02b3e0254ff78c8bef8ad64feba0ac8fd0fb4355943ce"
+  },
+  "status": "ok",
+  "title": {
+    "text": "希x叡x燊說故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "小朋友說故事",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 27,
+  "episodes": [
+    {
+      "id": "33df63a102839fdecd8eafbc082a5a64cdeb7bcddd7298b72f73b2fcb35243ed",
+      "guid": "4e58b43e-3a0c-4101-98f7-fa5ed85cff5c",
+      "title": {
+        "text": "27_叡-哆拉A夢-機器人與恐龍2",
+        "truncated": false
+      },
+      "description": {
+        "text": "哆拉A夢-機器人與恐龍2",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Oct 2022 11:05:49 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "dfa948a7dc64897b8823695fb4d9404f597ee9e6d91c60fae2c8a4891c212ead",
+      "guid": "a1f54abb-9948-4459-945b-9c45efc2a504",
+      "title": {
+        "text": "23_希X燊-外星人去地球5-6",
+        "truncated": false
+      },
+      "description": {
+        "text": "希希跟燊燊姊弟一起編了個外星人的故事，童言童語真可愛~",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Jul 2022 10:55:56 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "78adac9b1240095731e21251aaf3dd5be55a21d164fc966e374948a88782122f",
+      "guid": "f7f7f311-01b8-4d78-8a20-85e30fac8944",
+      "title": {
+        "text": "20_叡-不見的黃金2",
+        "truncated": false
+      },
+      "description": {
+        "text": "很喜歡偵探故事的叡叡，自己編了個偵探故事~",
+        "truncated": false
+      },
+      "published_at": "Sun, 03 Jul 2022 10:54:26 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "f98850a68697421e76f20c867dc31280d9f821834f06158582223198022827f2",
+      "guid": "2f8df0a8-99fc-46be-9b57-7140405b90d4",
+      "title": {
+        "text": "16_叡-好人與小豬",
+        "truncated": false
+      },
+      "description": {
+        "text": "6歲的叡自己編的獵人故事",
+        "truncated": false
+      },
+      "published_at": "Fri, 01 Jul 2022 10:50:35 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "5772fd4b76c2b573456790d804303863c32127c5ddae95babb5ef81b50eab8aa",
+      "guid": "ea7743e9-000c-447d-93fe-7b0c47e0124d",
+      "title": {
+        "text": "12_希x叡x燊-故事接龍-海底水族館",
+        "truncated": false
+      },
+      "description": {
+        "text": "小朋友們自編故事玩故事接龍 這次找海洋動物當主角",
+        "truncated": false
+      },
+      "published_at": "Thu, 13 Jan 2022 03:59:11 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "bddc5218f6392104f9bc661f7092014c529b2d6df5166d28c5e14d5d550b2894",
+      "guid": "3a151f92-3fff-4d8f-be8d-e276e39c74fa",
+      "title": {
+        "text": "08_叡叡說故事-小鴨與小雞",
+        "truncated": false
+      },
+      "description": {
+        "text": "叡很愛說故事，數字都亂說一通… 希跟燊在旁邊配音配的很開心",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Jan 2022 04:49:55 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "fb9987cd533c0c4cd72ab494d37cbdaf7de3583a8f6f3d04b4da55274c3405c4",
+      "guid": "009b89aa-06fd-44ee-92de-dd10b2322df8",
+      "title": {
+        "text": "05_叡x燊 故事接龍-小白與小豬",
+        "truncated": false
+      },
+      "description": {
+        "text": "小朋友第一次嘗試自己編故事接龍，小朋友用有限的詞說出充滿無限想像的故事世界 希希姐姐本來不玩，聽一聽很好玩，下一集就參加了",
+        "truncated": false
+      },
+      "published_at": "Tue, 04 Jan 2022 13:19:31 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "f6ca5b80898060865375535cf123d91396e59b3b3ebdd306df725bceaa0c194b",
+      "guid": "4c338845-095c-4257-ab88-9e942f77f726",
+      "title": {
+        "text": "01_cc's story01",
+        "truncated": false
+      },
+      "description": {
+        "text": "Carol and bob 01",
+        "truncated": false
+      },
+      "published_at": "Tue, 21 Dec 2021 17:25:16 GMT",
+      "feed_index": 26
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "show_id": "1178855557",
+    "scope": "excluded_foreign_language",
+    "rationale": "标题明确日语版小王子，采样为日语标题，RSS zh-cn标记不可靠。",
+    "reviewer": "Codex task B",
+    "source": "agent_metadata_review"
+  },
+  {
+    "show_id": "1338197227",
+    "scope": "excluded_foreign_language",
+    "rationale": "标题与单集明确英语版小王子，不能作为中文小说样本。",
+    "reviewer": "Codex task B",
+    "source": "agent_metadata_review"
+  },
+  {
+    "show_id": "1494223839",
+    "scope": "excluded_foreign_language",
+    "rationale": "RSS pt-pt及葡语简介和标题。",
+    "reviewer": "Codex task B",
+    "source": "agent_metadata_review"
+  },
+  {
+    "show_id": "1499460303",
+    "scope": "excluded_foreign_language",
+    "rationale": "RSS es-mx及西语简介和标题。",
+    "reviewer": "Codex task B",
+    "source": "agent_metadata_review"
+  },
+  {
+    "show_id": "1510409203",
+    "scope": "excluded_foreign_language",
+    "rationale": "RSS mn及蒙古语简介。",
+    "reviewer": "Codex task B",
+    "source": "agent_metadata_review"
+  },
+  {
+    "show_id": "1516514082",
+    "scope": "excluded_foreign_language",
+    "rationale": "RSS en及英语简介和标题。",
+    "reviewer": "Codex task B",
+    "source": "agent_metadata_review"
+  },
+  {
+    "show_id": "1517166119",
+    "scope": "excluded_foreign_language",
+    "rationale": "RSS ja、简介日英对谈。",
+    "reviewer": "Codex task B",
+    "source": "agent_metadata_review"
+  },
+  {
+    "show_id": "1518960843",
+    "scope": "excluded_foreign_language",
+    "rationale": "RSS en-EN，简介为音乐DJ混音。",
+    "reviewer": "Codex task B",
+    "source": "agent_metadata_review"
+  },
+  {
+    "show_id": "1519735329",
+    "scope": "excluded_foreign_language",
+    "rationale": "RSS in及印尼语简介和标题。",
+    "reviewer": "Codex task B",
+    "source": "agent_metadata_review"
+  }
+]

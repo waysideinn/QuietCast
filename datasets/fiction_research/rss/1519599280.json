@@ -1,0 +1,140 @@
+{
+  "show_id": "1519599280",
+  "feed_url": "https://feeds.soundon.fm/podcasts/43450f98-f40d-45db-8fc0-f065611b9400.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/43450f98-f40d-45db-8fc0-f065611b9400.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/43450f98-f40d-45db-8fc0-f065611b9400.xml",
+    "fetched_at": "2026-10-25T14:52:40.808856+00:00",
+    "status": 200,
+    "sha256": "0d0bfba933d1d56225ae1e6a716f8c473f87e3031cb657e8fb2cd9e2e432125f"
+  },
+  "status": "ok",
+  "title": {
+    "text": "黑媽教你Be Rich",
+    "truncated": false
+  },
+  "description": {
+    "text": "黑媽現職保險業務員，多年來考取各式金融相關證照， 曾經歷家道中落、繼承負債、開店倒店、中年喪偶… 目前經營臉書粉絲專頁「黑媽家庭經濟研究所」， 立志協助有債務問題的朋友們能盡快脫離現狀。 希望透過這個頻道教你更多理財理債的相關知識， 每一集也會順便與你分享我和女兒合作的音樂作品~ -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 21,
+  "episodes": [
+    {
+      "id": "72f8978372739dc5fdfbd237959082c40993b1180c689f60c0e8bf0c70d3c59c",
+      "guid": "baec74f1-04f0-41fd-bf91-43d517ffab5e",
+      "title": {
+        "text": "EP21用ChatGPT處理個人內耗feat.一人創業導師 Ethan",
+        "truncated": false
+      },
+      "description": {
+        "text": "用ChatGPT處理個人內耗feat.一人創業導師 Ethan -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Apr 2025 15:29:44 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d61731311bb5e7f2ba6de2476621121692377ce976deca75e158cfc31a0c0c6d",
+      "guid": "59bfbefb-5995-431b-b7b9-ebac79fb3f26",
+      "title": {
+        "text": "EP18.淺談定型化契約陷阱 feat.洪瑄憶律師",
+        "truncated": false
+      },
+      "description": {
+        "text": "邀請洪瑄憶律師聊聊定型化契約的實務案例 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 19 Nov 2024 14:31:15 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "1f922bcfa50f6865b2a7614de3137c6adadf190fe07696d70c03f95f3c7134dc",
+      "guid": "925859cb-5fe6-4a84-82a7-15484c7820a0",
+      "title": {
+        "text": "EP15.如何面對沒有穩定收入的恐懼 feat. 一人創業導航師 Ethan",
+        "truncated": false
+      },
+      "description": {
+        "text": "邀請到引領我進入網路行銷領域的Ethan教練， 這集來聊聊面對不穩定的網路創業，如何克服心態上的恐懼? -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 02 Nov 2024 14:26:33 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "9c561c5b69c7d482b5b92eb7329bd7b886680c93a09d98a9aadf34c85ebed808",
+      "guid": "43dd36ef-087b-4fdb-ab30-ce056aacc646",
+      "title": {
+        "text": "EP12 新手要投資什麼，才能安全又賺得到錢?",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集重點 要從哪個投資工具開始，才能安全又賺得到錢？ 「投資自己的腦袋」真的是又安全又一定能讓你賺到錢的投資， 除了網路上豐富的資源之外，偶而看看書， 擴大生活圈結交一些舒適圈以外的朋友，一定能為你增廣見聞。 *預計109.10.27開始新書預購， 【從扛債人生走向財務自由】 請大家多多支持囉!! -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Oct 2020 09:58:56 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "ab12111b1feb8a79b712eeba002062bdbf76f18df2cd9b53df0115f596d52df5",
+      "guid": "6c6c4f8b-f79d-4547-97dc-0a68062db464",
+      "title": {
+        "text": "EP10 理財工具那麼多，到底哪種適合我?",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集金句 判斷理財工具適不適合自己的三個傻瓜原則： 1、把握住你曾經成功過的那個經驗 2、回憶你當初投入金錢的理由 3、多交幾個在理財路上可以交流的朋友 本集歌曲 太陽 更多理財理債相關知識，請追蹤臉書粉絲專頁 黑媽家庭經濟研究所 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 06 Sep 2020 02:00:00 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "17f15d1e75af4355cc043e2f33895ef8fc75620f4271f9eb5e58a5cbef6e0c06",
+      "guid": "1f5c29c4-1797-47cf-82c1-89605ce926ce",
+      "title": {
+        "text": "EP7 記帳是必要的嗎?有沒有什麼好方法?",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集金句 別把記帳當成是最終目標， 真正的目標是不用記帳就能對你掌控的金錢運籌帷幄！ 本集歌曲 我的未來不是夢 更多理財理債相關知識，請追蹤臉書粉絲專頁 黑媽家庭經濟研究所 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Jul 2020 16:49:30 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "9a2ed70c76dfc133112d5f8bf4855f6ff0694d6d9cdf720064657d23ce7aa61d",
+      "guid": "4431c61c-043b-46a8-b876-b7d1148d3fc1",
+      "title": {
+        "text": "EP5存也存不了什麼錢，即時行樂不好嗎?",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集金句 存錢不是什麼偉大的目標志向， 只不過是存給自己一個安全感! 本集歌曲 瘋狂世界 更多理財理債相關知識，請追蹤臉書粉絲專頁 黑媽家庭經濟研究所 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Jul 2020 16:48:49 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "3c5554fdc4809a94f9901ddcd552af0b680cf9ee052f07e2b8096d7cbf0ca613",
+      "guid": "750c08a2-ce0f-4dc6-a3d8-bccf960c09d1",
+      "title": {
+        "text": "EP1 我沒有債務，需要理財嗎?",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集金句 過去有沒有債務，是人事時地物造成的後果 未來有沒有資產，是理財和投資相乘的結果 本集歌曲 讓我留在你身邊 更多理財理債相關知識，請追蹤臉書粉絲專頁 黑媽家庭經濟研究所 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 20 Jun 2020 16:08:38 GMT",
+      "feed_index": 20
+    }
+  ]
+}

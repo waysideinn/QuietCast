@@ -1,0 +1,140 @@
+{
+  "show_id": "1590670330",
+  "feed_url": "http://www.ximalaya.com/album/44599381.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/44599381.xml",
+    "final_url": "http://www.ximalaya.com/album/44599381.xml",
+    "fetched_at": "2026-10-25T14:54:15.392076+00:00",
+    "status": 200,
+    "sha256": "1ecbfe0fdda209fb9ceb40ae1d522b08732453eaa9c3abb34b65a95212cb06b5"
+  },
+  "status": "ok",
+  "title": {
+    "text": "三国演义 | 经典评书系列（小熊有声）",
+    "truncated": false
+  },
+  "description": {
+    "text": "一千八百年前，东汉王朝步入陌路，天下纷争，区域内兄格局，超为蜀汉和动物鼎足而立，这就是历史上著名的三国时代，在这个时代涌现出了无数可歌可泣的英雄人物，经历了荡气回肠的群雄争霸，在这个三国时代的舞台上，英雄辈出，智者如云，看乱世之奸雄，治世之能臣曹孟德如何谋略天下，这里有三顾茅庐的千古佳话，也有赵子龙于万军之中单骑救主的赤胆忠心。感受气势磅礴的火烧赤壁，聆听空城之上诸葛亮高山流水遇知音，与义薄云天关云长一起千里走单及，请您和小熊有声一起进入有声的三国时代……",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 146,
+  "episodes": [
+    {
+      "id": "b4df666d7aed12137df90bd09c805317d39afb45557e691d5150e8109145c943",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c4be-audiofreehighqps/C2/F4/CMCoOSEDpqYaABC0UwBvu1bc.m4a",
+      "title": {
+        "text": "三国演义 花絮 经典评书三国（小熊有声）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 09 Dec 2020 14:45:42 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "03c8341e71f84674e581050f896fdb6a960016ec558ba65bba6cec689350cad9",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4c87-audiofreehighqps/BC/10/CMCoOSMDqtjyAEIqpQBwtUYU.m4a",
+      "title": {
+        "text": "三国演义 021 求订阅，求评论，求转发",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 18 Dec 2020 10:01:15 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "b1713221cb8d74baa88401cf0d4fccba46b718248a7db4f7549ef4202bda00f8",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5ac6-audiofreehighqps/B7/EC/CMCoOR4DujYpAEXWcgB0ht0G.m4a",
+      "title": {
+        "text": "【三国演义】 041 求关注 求订阅 求评论",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 28 Dec 2020 10:01:22 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "6b0279f74ca437c621c6a0563a77889a15beb3b36fbcf500517a5c2fae432282",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5b73-audiofreehighqps/22/72/CMCoOSEDzBc4AEj5qwB5CKCA.m4a",
+      "title": {
+        "text": "三国演义 062 经典评书三国（小熊有声）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Jan 2021 10:01:13 GMT",
+      "feed_index": 62
+    },
+    {
+      "id": "72255c78db18c1fb20fdf0e5ea3eac150877e876db7804c131119d5b1d79fff2",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d7e2-audiofreehighqps/88/D5/CMCoOScD2NpfAEJK8wB8c6Zx.m4a",
+      "title": {
+        "text": "三国演义 083 经典评书三国（小熊有声）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 21 Jan 2021 00:02:55 GMT",
+      "feed_index": 83
+    },
+    {
+      "id": "a0a5a588e824e2371b84ba346ed05c441b9237525aeb2175f2eb9857a561fe79",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8550-audiofreehighqps/A3/BA/CMCoOSYD6dZXAD2yvACBaM1R.m4a",
+      "title": {
+        "text": "三国演义 104 经典评书三国（小熊有声）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 05 Feb 2021 10:00:43 GMT",
+      "feed_index": 104
+    },
+    {
+      "id": "c65add2fc67eb3bc5a766a37da6aa2634ab6ac67dd7e47ab15109417174885d6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e316-audiofreehighqps/DA/4F/CKwRIUEFRHU2AELmlgDuM-Cv.m4a",
+      "title": {
+        "text": "三国演义126 经典评书三国（小熊有声）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 Oct 2021 23:30:00 GMT",
+      "feed_index": 124
+    },
+    {
+      "id": "041efb7c752a67199306f7c1779e5f665553693b5d40a1f14b959091594f31ee",
+      "guid": "xmly_track_555443559",
+      "title": {
+        "text": "三国演义 147 经典评书三国（小熊有声）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 Aug 2022 09:30:00 GMT",
+      "feed_index": 145
+    }
+  ]
+}

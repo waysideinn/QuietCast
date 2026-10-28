@@ -1,0 +1,140 @@
+{
+  "show_id": "1646612485",
+  "feed_url": "https://anchor.fm/s/b1fedec0/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/b1fedec0/podcast/rss",
+    "final_url": "https://anchor.fm/s/b1fedec0/podcast/rss",
+    "fetched_at": "2026-10-25T14:57:12.487714+00:00",
+    "status": 200,
+    "sha256": "bb734154f4211ea11cb80b8d32c0bbde6c2e2b765c322128dae04ad12fb60c3c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "别让手机代替感情",
+    "truncated": false
+  },
+  "description": {
+    "text": "别让手机代替感情",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 813,
+  "episodes": [
+    {
+      "id": "d8f6dac62f55baf8c5c3a393039e82d31dfc5cb80422c13dbad3468787b94216",
+      "guid": "5cad7deb-a1aa-4b00-95a6-38440905985e",
+      "title": {
+        "text": "248.男子暴打女孩事发地确认大连",
+        "truncated": false
+      },
+      "description": {
+        "text": "248.男子暴打女孩事发地确认大连",
+        "truncated": false
+      },
+      "published_at": "Mon, 12 Jun 2023 00:47:24 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "556f02334011ba0253f4e0ffb4711039bc9f45a0589e94bdcbd18d8ae7226b13",
+      "guid": "c078c875-6c41-48ca-a2e7-a24697079457",
+      "title": {
+        "text": "203.大贪官和珅，到底贪了多少钱，令史学家咋舌",
+        "truncated": false
+      },
+      "description": {
+        "text": "203.大贪官和珅，到底贪了多少钱，令史学家咋舌",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 May 2023 19:12:23 GMT",
+      "feed_index": 116
+    },
+    {
+      "id": "269cca11fa4c37d9bb48cffa36ae0fd92637f6ca5e8d8ce2ecfc92ba45a3c59c",
+      "guid": "d64f4bdf-c5f3-4a23-a835-c7bd435ef9b1",
+      "title": {
+        "text": "1973.咖啡分享639,孕妇到底能不能喝咖啡",
+        "truncated": false
+      },
+      "description": {
+        "text": "1973.咖啡分享639,孕妇到底能不能喝咖啡",
+        "truncated": false
+      },
+      "published_at": "Sun, 07 May 2023 22:38:04 GMT",
+      "feed_index": 232
+    },
+    {
+      "id": "b6ad7c5c05cbdeb98a16fb86d53d67a06514e0faba6504ace88cf45f42fcb319",
+      "guid": "0ce3065e-63e8-4d80-8b32-192d84e9a268",
+      "title": {
+        "text": "2662.余生，找个心疼你的人",
+        "truncated": false
+      },
+      "description": {
+        "text": "2662.余生，找个心疼你的人",
+        "truncated": false
+      },
+      "published_at": "Tue, 18 Apr 2023 05:08:54 GMT",
+      "feed_index": 348
+    },
+    {
+      "id": "1b5702a9097e56660b465c51589fddd7e9d4b706d1fe5220f99e7b792091bead",
+      "guid": "598f67e4-d563-48b1-b777-5033e898f362",
+      "title": {
+        "text": "4511.新华简讯 - 美国加州景区翻车事故致中国留学生1死3伤",
+        "truncated": false
+      },
+      "description": {
+        "text": "4511.新华简讯 - 美国加州景区翻车事故致中国留学生1死3伤",
+        "truncated": false
+      },
+      "published_at": "Wed, 05 Apr 2023 10:41:08 GMT",
+      "feed_index": 464
+    },
+    {
+      "id": "967725d3db1b413c49ce44dfefadee0ce6f40d1d284d76b4435aca14e4caf488",
+      "guid": "68bee8bc-3ef6-473f-adcc-195f2b4a79bd",
+      "title": {
+        "text": "4524.美国明着380亿援助以军事巧取豪夺中东石油",
+        "truncated": false
+      },
+      "description": {
+        "text": "4524.美国明着380亿援助以军事巧取豪夺中东石油",
+        "truncated": false
+      },
+      "published_at": "Thu, 23 Mar 2023 15:20:06 GMT",
+      "feed_index": 580
+    },
+    {
+      "id": "5aca0e3f73000f8cdbc396af00d617fba6e675dba8bed53aaec32617a8da54e7",
+      "guid": "25ffe791-dbbe-42c5-996d-088439e7c1d4",
+      "title": {
+        "text": "1904.《不知道为什么领导对我有了“意见”》",
+        "truncated": false
+      },
+      "description": {
+        "text": "1904.《不知道为什么领导对我有了“意见”》",
+        "truncated": false
+      },
+      "published_at": "Wed, 08 Mar 2023 08:17:39 GMT",
+      "feed_index": 696
+    },
+    {
+      "id": "1d80ed4b091442bf01ad977685d34686954492df758d2eaa80cb3479d99634ed",
+      "guid": "f7cef3d9-deed-4f34-8f17-7843ca081087",
+      "title": {
+        "text": "别让手机代替感情",
+        "truncated": false
+      },
+      "description": {
+        "text": "别让手机代替感情",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 Aug 2022 15:35:07 GMT",
+      "feed_index": 812
+    }
+  ]
+}

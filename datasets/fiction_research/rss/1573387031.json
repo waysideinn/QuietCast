@@ -1,0 +1,42 @@
+{
+  "show_id": "1573387031",
+  "feed_url": "https://anchor.fm/s/60908138/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/60908138/podcast/rss",
+    "final_url": "https://anchor.fm/s/60908138/podcast/rss",
+    "fetched_at": "2026-10-25T14:53:20.309817+00:00",
+    "status": 200,
+    "sha256": "eda09948b9ab0f6bfbb2fc00529fb43dd8f78e2ebf53b50e00a66876ccaa380e"
+  },
+  "status": "ok",
+  "title": {
+    "text": "用文學看歷史",
+    "truncated": false
+  },
+  "description": {
+    "text": "以不同方式重新認識經典文學",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 1,
+  "episodes": [
+    {
+      "id": "33d81000e64977fb2c6868a67abe14bc640b47f58344d95ae81cf16966e5015f",
+      "guid": "6481ab31-00a8-4e5b-84cf-2de436aa0218",
+      "title": {
+        "text": "用文學看歷史",
+        "truncated": false
+      },
+      "description": {
+        "text": "用不一樣的方式重新省視經典文學",
+        "truncated": false
+      },
+      "published_at": "Sat, 19 Jun 2021 04:51:50 GMT",
+      "feed_index": 0
+    }
+  ]
+}

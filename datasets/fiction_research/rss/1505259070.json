@@ -1,0 +1,140 @@
+{
+  "show_id": "1505259070",
+  "feed_url": "http://www.ximalaya.com/album/35468916.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/35468916.xml",
+    "final_url": "http://www.ximalaya.com/album/35468916.xml",
+    "fetched_at": "2026-10-25T14:49:47.654513+00:00",
+    "status": 200,
+    "sha256": "934f299b00fcf1ff483430e0e471693520e47239d49fb09dddf4efa71ca523c9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "浮生六记|晚清小红楼梦",
+    "truncated": false
+  },
+  "description": {
+    "text": "沈复，字三白，号梅逸。清乾隆二十八年生于姑苏城南沧浪亭畔士族文人之家，十八岁娶舅女陈芸为妻。婚后夫妻俩举案齐眉、相爱甚笃。然命途多舛，常常事与愿违；幸而二人不落世俗，善苦中作乐。 沈复记录过往生活中点滴趣味及漫游经历，因其以真言述真情，从不刻意造作，流传至今。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 26,
+  "episodes": [
+    {
+      "id": "c5bb8ed5f5d053cb6a1ca9e6ff27c563dd500d05a9aa50a08464ae550e5b73c4",
+      "guid": "https://aod.cos.tx.xmcdn.com/group74/M01/03/AE/wKgO0l6JlvPSkMImACQFIcBRavQ329.m4a",
+      "title": {
+        "text": "浮生六记 导读一",
+        "truncated": false
+      },
+      "description": {
+        "text": "浮生六记 导读（一） 清朝光绪年间，一个叫 杨引传的人在家乡苏州的冷摊上发现了《浮生六记》的书稿，只是书稿只有四记，后两记’中山记历’、’养生记道’丢失，且关于此书的作者沈复，杨引传称“遍访城中无知者”。虽然如此，杨引传还是把书刊布出来，才使得今天的我们能够阅读、欣赏这本书。 此书的作者，沈复，字三白，号梅逸，生于乾隆二十八年（1763年），父亲为姑苏城南沧浪亭畔士族文人。后娶了舅舅的女儿陈芸为妻，婚后两人感情甚笃，然奈何命途多舛，最终芸疾病身故。 《浮生六记》被誉为“《离骚》之外篇，《云仙》之续记”、“晚清小红楼梦”。 此书所录共有四记，分别是’闺房记乐’、’闲情记趣’、’坎坷记愁’、’浪游记快’。 ’闺房记乐’作为开篇之首，是本文的核心精华所在，而沈复的妻子芸是核心中的核心。 芸父亲早丧，独自靠女红养活一家，自小聪慧，听讲一遍《琵琶行》便能背诵，且 自学认字，算得上是一枚才女。 与沈复成婚后，两人会“课书论古，品月评花”； 也经常在月色甚佳的晚上，持轻罗小扇，并坐在窗边，仰头看飞云过天，变化万端。也为了与夫君一起去庙会，办作男装拱手阔步出行。 芸既有小女儿家的可爱有趣之处，也有似男子的洒脱，对珍珠首饰毫不在意，反而珍惜破书残卷，与夫君有着相同的爱好，无怪乎两人感情甚好。 无怪乎林语堂说：“芸娘，我想，是中国文学上一个最可爱的女人”。 第二篇’闲情记趣’，描绘的是日常生活的闲情雅",
+        "truncated": true
+      },
+      "published_at": "Sun, 05 Apr 2020 08:29:34 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "9f5422c6da0af52b2040322e5dfac5f675f6444a65d43e57d968d38c0ddbb15c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group78/M02/9B/15/wKgO1l5x9nvSZz_FAXEh9lzPOB4562.mp3",
+      "title": {
+        "text": "闺房记乐 三",
+        "truncated": false
+      },
+      "description": {
+        "text": "刘樊仙侣世原稀，瞥眼风花又各飞。 赢得红闺传好句，秋深人瘦菊花肥。",
+        "truncated": false
+      },
+      "published_at": "Wed, 18 Mar 2020 13:30:04 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "49b623d5f13b26c41aa12a984b644c5f9e1532f15299d7a5f579d98772b43bf2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group74/M02/C6/1F/wKgO0l50ujWwFaaaAJ93aDN69qg604.mp3",
+      "title": {
+        "text": "闲情记趣 二",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 20 Mar 2020 13:30:05 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "fd81a803a51e7e25fec047c2d90b0d4888ecfcbc50a8e88358c93592e2202b78",
+      "guid": "https://aod.cos.tx.xmcdn.com/group78/M0B/FD/A7/wKgO4F55zLyC3Z9LANf3YCMy434942.mp3",
+      "title": {
+        "text": "坎坷记愁 三",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 24 Mar 2020 13:30:03 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "82e677c6415f137e97901ab12690964628957e7e44fbff2ce0168e95a544e489",
+      "guid": "https://aod.cos.tx.xmcdn.com/group76/M08/3B/7F/wKgO1F58WsCDmgfBASiMCFlGoo4351.mp3",
+      "title": {
+        "text": "坎坷记愁 六",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Mar 2020 13:00:19 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "2a0ffda3f368203e8ddb02fcdf31aac890e6a4ea927cd9914f9d09fffb1261ee",
+      "guid": "https://aod.cos.tx.xmcdn.com/group78/M0A/8E/4B/wKgO1l6BvrvzMGgLAJellsBAgpw750.mp3",
+      "title": {
+        "text": "浪游记快 四",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 30 Mar 2020 13:00:27 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "5ed8198762f5744fa71cdc622d4d73c0a4f7a94206ac85b5edca7ee84ff24ad6",
+      "guid": "https://aod.cos.tx.xmcdn.com/group74/M05/C0/0B/wKgO3F6Fk5fDgcBUAL7Jmna_4zI967.mp3",
+      "title": {
+        "text": "浪游记快 七",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 Apr 2020 07:26:22 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "8f2d5bbbef59a099f702c3d98686bfe6f67442d64261093d048ec9bdfa3bfa4d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group76/M0A/24/F5/wKgO1F6LEViQutIUAKLD7gBUxAU026.mp3",
+      "title": {
+        "text": "浪游记快 十一",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Apr 2020 11:24:15 GMT",
+      "feed_index": 25
+    }
+  ]
+}

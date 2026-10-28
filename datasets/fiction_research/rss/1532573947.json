@@ -1,0 +1,140 @@
+{
+  "show_id": "1532573947",
+  "feed_url": "http://www.ximalaya.com/album/40875101.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/40875101.xml",
+    "final_url": "http://www.ximalaya.com/album/40875101.xml",
+    "fetched_at": "2026-10-25T14:50:54.020990+00:00",
+    "status": 200,
+    "sha256": "38d467ee164747cd8860940a740b2982d48d227ad36139579873fb468a7b9c79"
+  },
+  "status": "ok",
+  "title": {
+    "text": "黑车司机",
+    "truncated": false
+  },
+  "description": {
+    "text": "娱乐同时聊点生活，说东说西也是一吐心中事",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 38,
+  "episodes": [
+    {
+      "id": "30238150e23a34c9000d7b938f896be8bb82e9cb9ecdfd15bb553d1a320a427c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9a67-audiofreehighqps/E8/5F/CKwRIMAEfN8nAZA6zgCuM7Xf.m4a",
+      "title": {
+        "text": "《凡尔赛不可怕，可怕的是没人心疼giegie》",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期两人对谈，聊到深夜没有大的主题，只有各种想法和碎语 【本期嘉宾】：玄宗，小萨 【剪辑&CTO】：老高",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 May 2021 02:33:01 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "588ae832dc5e186b9e2621cbceb608f73753a15a685c19aed8820c200e7165df",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3407-audiofreehighqps/CA/A1/CMCoOR8EW9w3BrvoGgCi-wUs.mp3",
+      "title": {
+        "text": "第三十三期 《指环王重映 听尾巴酱给你叨逼背景设定》",
+        "truncated": false
+      },
+      "description": {
+        "text": "爆燃无数中老年的魔戒再临，听听两位80后带着哭腔的回忆",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Apr 2021 01:37:02 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "e46689b1981331b13b4003e020ffcf190c07e325194efb338ffa53101b28ff7b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9d6f-audiofreehighqps/BD/71/CMCoOSIEJmdDBMZvngCTE7cQ.mp3",
+      "title": {
+        "text": "第二十七期 《越优秀越相亲吗？》上",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Mar 2021 12:27:51 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "c7bcc19a1cc3fac45f0c6c89f37eaac95dfce71ba8d1765031b62e225fb7d1e5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0ce4-audiofreehighqps/4D/54/CMCoOR8D6JP7A8pBOACBCMkW.mp3",
+      "title": {
+        "text": "第二十二期 《理性消费指北针—购物欲》",
+        "truncated": false
+      },
+      "description": {
+        "text": "主持人： 玄宗（一位山东德高望重的新闻编辑） 嘉宾： 老高 （资深媒体从业者） 嘉宾： 小萨 （客服业界一直花） 嘉宾： zoe （媒体工作者）",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 Jan 2021 14:58:06 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "48c3bd012983c4c7a7e1537fd4db832a761d6e8a23ca97406b06b69a2a426f81",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6feb-audiofreehighqps/54/50/CMCoOSUDvFKpCQsEpAB1Bc_S.mp3",
+      "title": {
+        "text": "第十七期 《神奇女侠前传来一套！》",
+        "truncated": false
+      },
+      "description": {
+        "text": "几位DC粉先来给铺垫铺垫神奇女侠的前菜 本期嘉宾：老高，胖灵，小萨，布鲁 运营管理：CTO 老高 运营专员：小海 文案审核：玄宗，左左 美术中心：CAO 斯基 人体光刻机：胖灵",
+        "truncated": false
+      },
+      "published_at": "Sat, 26 Dec 2020 01:19:44 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "16eb23a85589ea9a10040ff89c81b4e0d682c4852288f8c16930c5b14a1f0d24",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f414-audiofreehighqps/36/78/CMCoOSEDkEPeBPPK0wBppjDg.mp3",
+      "title": {
+        "text": "第十二期 《人生初见，我的甲方爸爸！》",
+        "truncated": false
+      },
+      "description": {
+        "text": "介绍： 本期主播：小萨，小R总 运营管理：CTO 老高 运营专员：小海 文案审核：玄宗，左左 美术中心：CAO 斯基 人体光刻机：胖灵",
+        "truncated": false
+      },
+      "published_at": "Sun, 22 Nov 2020 17:13:00 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "91971e051c796c57fe1c3c9c652141c6f22443bca09839077fe8db355b78e0a8",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1dce-audiofreehighqps/D1/5F/CMCoOR8DXyPFC4YhogBdqEYX.mp3",
+      "title": {
+        "text": "第六期 《我和我的家乡》",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期嘉宾：老高，玄宗，小萨，胖灵，斯基，小海 CTO：老高 艺术总监：斯基",
+        "truncated": false
+      },
+      "published_at": "Fri, 16 Oct 2020 08:58:54 GMT",
+      "feed_index": 32
+    },
+    {
+      "id": "d9106b513fa45fdbc842119fde21fd70091da8dff1e923585ae07e9026039f97",
+      "guid": "https://aod.cos.tx.xmcdn.com/group84/M07/64/EE/wKg5JF9eGf-TEMXTCCFrtuoHT-E821.mp3",
+      "title": {
+        "text": "第一期 《出差的奇妙经历》",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期嘉宾：小海，洒脱，玄宗，尾巴 后期制作：老高",
+        "truncated": false
+      },
+      "published_at": "Sun, 13 Sep 2020 13:09:21 GMT",
+      "feed_index": 37
+    }
+  ]
+}

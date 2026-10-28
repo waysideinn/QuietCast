@@ -1,0 +1,140 @@
+{
+  "show_id": "1531931920",
+  "feed_url": "https://anchor.fm/s/3660b5f4/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/3660b5f4/podcast/rss",
+    "final_url": "https://anchor.fm/s/3660b5f4/podcast/rss",
+    "fetched_at": "2026-10-25T14:54:32.805539+00:00",
+    "status": 200,
+    "sha256": "dd55f2244c472f75615968967513868e0994bdefbdbba0bc91725bae11ebfb9a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "録り鉄じゃなく、聴き鉄へ。各駅停車、耳で乗り放題。",
+    "truncated": false
+  },
+  "description": {
+    "text": "日本全国の鉄道路線（ＪＲ、私鉄）のうち、ケーブルカーを除いた全路線について各駅停車限定で乗車及び走行音を収録しています。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 1094,
+  "episodes": [
+    {
+      "id": "1c8ad3f23740b4f0d58baf684f3af17d32195f5916fee90847d74661f1e8da03",
+      "guid": "86b18773-3fd8-4bb3-843a-dea249754cd2",
+      "title": {
+        "text": "耳で楽しむ鉄道旅 北陸本線特急サンダーバード23号 武生→加賀温泉",
+        "truncated": false
+      },
+      "description": {
+        "text": "2022.10.22収録 683系のサンダーバードで、停車駅は福井、芦原温泉です。 10月より、鉄道音サイトを別途立ち上げました。 毎週２つのストーリーをUPしています。 音で、日本全国を旅しよう。 \"Uto Uto\" こちらより ご覧ください。",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Oct 2026 00:02:21 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "dca3659f86a62bc6e0ba79772d45e3ed9ed401e60fe232b95dad59fd238c307b",
+      "guid": "4e94ef9c-d618-4ddf-9862-15bf07a49d8c",
+      "title": {
+        "text": "耳で楽しむ鉄道の旅 武蔵野線 東松戸→北朝霞",
+        "truncated": false
+      },
+      "description": {
+        "text": "武蔵野線は環状線といった感じで進むので、南北を走る様々な路線と接続をしていきます。そのため短い区間での乗客の入れ替えが多く、混雑ぶりも意外と多くあります。 浦和の駅名が連続して埼京線と交差していきます。",
+        "truncated": false
+      },
+      "published_at": "Sat, 22 Nov 2025 22:00:00 GMT",
+      "feed_index": 156
+    },
+    {
+      "id": "35bb22fe752731fd903ad9e3c2b4b3ad8e09c3b7925723b2ebd6fef571e96eb4",
+      "guid": "cc1052fc-a2d9-4af0-ad57-dec63fd61435",
+      "title": {
+        "text": "耳で楽しむ鉄道の旅 秋田内陸縦貫鉄道 米内沢→荒瀬",
+        "truncated": false
+      },
+      "description": {
+        "text": "米内沢で乗客が入れ替わりました。 時折車窓に田んぼアートが見られる区間を進み、阿仁合でほとんどの人が下車。旅行者3人だけになります。 ここで１０分ほど停車したのち山越えに向かいます。",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Jun 2025 22:26:00 GMT",
+      "feed_index": 312
+    },
+    {
+      "id": "69a9558b26898d2d05f3ed010920480bfe9ea76ebabe6374aaca9899b70e76aa",
+      "guid": "9de0cf13-607a-4bfb-81e9-663db90c0087",
+      "title": {
+        "text": "耳で楽しむ鉄道旅 両毛線 臨時特急きらきら足利イルミ 小山→足利",
+        "truncated": false
+      },
+      "description": {
+        "text": "小山を出ると両毛線ホームを左に見ながら転線して両毛線に移動します。途中佐野駅で行き違いをしたりしながらあしかがフラワーパーク駅に到着、ここで大半の人が下車します。最後は鉄道唱歌も流しながら足利駅に到着。",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Jan 2025 22:57:00 GMT",
+      "feed_index": 468
+    },
+    {
+      "id": "9b5afdae75a2285d60c192a080f20b12a59e6bfe1829eb0c98e34624ea270412",
+      "guid": "007be409-f378-4a1f-9f8e-17031db1dad4",
+      "title": {
+        "text": "耳で楽しむ鉄道旅 北陸本線 特急サンダーバード20号・普通 津幡→金沢→小松",
+        "truncated": false
+      },
+      "description": {
+        "text": "特急サンダーバード20号で七尾から移動してきて、金沢で下車をして普通列車に乗り換えます。 まだ大阪行きだったのでかなり混雑していて、金沢駅到着前に前の6両と連結してからドアが開きます。 小松までは普通列車の本数も駅の数も多いです。",
+        "truncated": false
+      },
+      "published_at": "Sat, 10 Aug 2024 22:00:00 GMT",
+      "feed_index": 625
+    },
+    {
+      "id": "d65de2b9d41d87e76fc948f87bb00ace47cbb3360a97751ec49747af037d1353",
+      "guid": "a895018d-4cbb-4e48-b129-d93aaef71538",
+      "title": {
+        "text": "耳で楽しむ鉄道旅 山陽本線 柳井→岩国",
+        "truncated": false
+      },
+      "description": {
+        "text": "柳井を出たあたりから空が明るくなってきました。 かつてブルートレインが走っていた頃はこのあたりで朝を迎えると海岸線沿いを走っているという区間です。 徐々に通学する人が増えてきながら岩国に向かいます。",
+        "truncated": false
+      },
+      "published_at": "Thu, 07 Mar 2024 22:00:00 GMT",
+      "feed_index": 781
+    },
+    {
+      "id": "e54dce5d3f69b7a3e48e761ac278041baa1a57fd1a0365ccdf86cd27b2b40e58",
+      "guid": "a35c5fb4-233e-46e2-9323-f1131d28a327",
+      "title": {
+        "text": "耳で楽しむ鉄道旅 高徳線 特急うずしお24号 三本松→高松",
+        "truncated": false
+      },
+      "description": {
+        "text": "三本松から志度までが一番通過駅が多く16分ほどかかりますが、あとは快速並みの停車駅になります。志度からはことでんの志度線と近づいたり離れたりを繰り返して、そうしているうちに右側に屋島が見えてきます。 栗林公園の北をかすめ、右回りで予讃線と合流して高松駅に着きます。",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Oct 2023 22:00:00 GMT",
+      "feed_index": 937
+    },
+    {
+      "id": "9976529c3aae45cb18daa08f96aaca54df7246805b30f2698e41a9d5d6a1ec28",
+      "guid": "e1db9460-9b2a-44f3-af8b-ad2f99e47503",
+      "title": {
+        "text": "耳で楽しむ鉄道旅 東北本線 仙台→小牛田",
+        "truncated": false
+      },
+      "description": {
+        "text": "2022.3.9 6:00発の始発列車小牛田行きに乗車します。 701系の4両編成、仙台から離れていくのでそれほど混雑はありません。 仙石線がすぐ近くを走ったりしていますが、こちらは駅間も長く山をトンネルで抜けていったりするのであまり眺めを楽しむ時間はありません。 松島を出ると一気にローカルな雰囲気になります。 小牛田が近づいてくると乗り換えて古川あたりに通学する高校生が多く乗り込んできました。",
+        "truncated": false
+      },
+      "published_at": "Fri, 28 Apr 2023 23:37:42 GMT",
+      "feed_index": 1093
+    }
+  ]
+}

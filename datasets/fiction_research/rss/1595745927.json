@@ -1,0 +1,140 @@
+{
+  "show_id": "1595745927",
+  "feed_url": "http://www.ximalaya.com/album/53718661.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/53718661.xml",
+    "final_url": "http://www.ximalaya.com/album/53718661.xml",
+    "fetched_at": "2026-10-25T14:54:45.104820+00:00",
+    "status": 200,
+    "sha256": "6ebd136deb43adc79662be8afe8b11b90bc06f1594758d573c2868ecba0d02c9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "戏中人 | 推理悬疑七宗罪 | 免费多人有声剧",
+    "truncated": false
+  },
+  "description": {
+    "text": "【内容简介】 专业打砸抢的暴躁女黑客和温文尔雅切黑侧写师，科技局呆萌可爱卷毛少年、天天被错当成模特的冰山痕检员、武力值max的美女刑警、颜值和智商成正比的逗比法医之间不得不说的故事。 被替换了身份的女犯，庆功宴上沉默的舞蛇人，布置成七幅哥特风油画的七个犯罪现场，四具整尸拼接成的五具残尸...... 还有，特案组成员们--- “最后的晚餐”。 【作者/主播】 作者：Mr.齐谐，热销悬疑小说作家。 主播：青墨私音，喜马拉雅独家签约主播，代表作品有《戏中人》《清宫帝妃》《我爱的人皆似你》、《阖家欢喜》、《风尘里》、《一不小心收了个总裁》等。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 218,
+  "episodes": [
+    {
+      "id": "789d8ca5fba6b08d0cf52d379436d98b99db5e86817b8f0720479ccae7d97b8b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d55e-audiofreehighqps/4B/EB/CKwRIasFNy-eABrkQwDq5Vv2-aacv2-48K.m4a",
+      "title": {
+        "text": "戏中人 片花（求月票 月票 月票 支持主播免费更新 谢谢大家）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 09 Oct 2021 10:19:02 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b34f478f2d59c671bc73a9411695d17442b0af750ba339660b27a17dc92539ea",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ca0c-audiofreehighqps/58/5C/CKwRIasFQEj9ADuftwDtKZgl.m4a",
+      "title": {
+        "text": "戏中人 031 替换人生（25）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Oct 2021 03:57:00 GMT",
+      "feed_index": 31
+    },
+    {
+      "id": "f8f38ee841d164ec1c80fad6c3051957fd09d1c611e71b86bd9535047db4ebe6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/12b4-audiofreehighqps/AB/FF/CKwRIDoFT-qzAGGl9ADxKset.m4a",
+      "title": {
+        "text": "戏中人 060 七宗罪(8）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 Oct 2021 04:31:29 GMT",
+      "feed_index": 62
+    },
+    {
+      "id": "91ba2196c081734fba7c2a8e0126c5e559ce897a16f68a99b1833a5930f61fdb",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2df3-audiofreehighqps/FF/D9/GKwRIRwFY6kjAF4d4QD2YKtu.m4a",
+      "title": {
+        "text": "戏中人 091 天使判官（11）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 12 Nov 2021 03:57:00 GMT",
+      "feed_index": 93
+    },
+    {
+      "id": "1e3bf11ecbdbe712c556ae30b7251dda7cc84ec4e8ae73ec08901b4714f8d580",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a282-audiofreehighqps/59/4F/GKwRIRwFeMEZAEJ4DwD8HuJj.m4a",
+      "title": {
+        "text": "戏中人 122 浮世礼赞（4）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 28 Nov 2021 03:57:00 GMT",
+      "feed_index": 124
+    },
+    {
+      "id": "6e78573e5a70950a5b07d56ad98401b51f196d83317cd0f00111d946175eed27",
+      "guid": "xmly_track_481953247",
+      "title": {
+        "text": "戏中人 153 空城纪（16）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Dec 2021 04:01:00 GMT",
+      "feed_index": 155
+    },
+    {
+      "id": "8db04ef38b2ed97043cd07b956ccfb5559f6a3624d101d1ecfaa21345ddfc3bc",
+      "guid": "xmly_track_487322507",
+      "title": {
+        "text": "戏中人 184 飓风行动（2）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 29 Dec 2021 04:01:00 GMT",
+      "feed_index": 186
+    },
+    {
+      "id": "77a8c335f70625acd2911ea7c1e7edf8364afbd9fb32b84ef5d8d214c53f3637",
+      "guid": "xmly_track_491017153",
+      "title": {
+        "text": "戏中人 215 番外：我曾夜行如鬼 （完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 10 Jan 2022 04:01:00 GMT",
+      "feed_index": 217
+    }
+  ]
+}

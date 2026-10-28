@@ -1,0 +1,140 @@
+{
+  "show_id": "1559368110",
+  "feed_url": "http://www.ximalaya.com/album/47698262.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/47698262.xml",
+    "final_url": "http://www.ximalaya.com/album/47698262.xml",
+    "fetched_at": "2026-10-25T14:52:33.055347+00:00",
+    "status": 200,
+    "sha256": "ae69b1397fe7e9948da1ec5677cb55bc27ad410a0963e080aa6b03f3ae60dfbc"
+  },
+  "status": "ok",
+  "title": {
+    "text": "未解之谜 | 外星人和宇宙 | 脑洞故事｜大白夜谈",
+    "truncated": false
+  },
+  "description": {
+    "text": "【主播介绍】 「未解之谜」优质调查员 「地摊文学」高级鉴定师 「九漏鱼」全国入围选手 「样样通样样松」践行者 【内容介绍】 来自地外的外星生命，千奇百怪的趣闻脑洞，令人哲思的梦境意识， 这个世界充满了未知与好奇，大白的神秘夜谈，带你了解这个绚烂与隐秘的宇宙。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 116,
+  "episodes": [
+    {
+      "id": "96839cbca2e2c203f5ec1da53ec4890ebb74cbc1c954e45e23aac44199f3b002",
+      "guid": "xmly_track_1001911554",
+      "title": {
+        "text": "脑洞大开：平行宇宙真的存在？科幻小说竟是作家的真实记忆？！",
+        "truncated": false
+      },
+      "description": {
+        "text": "【大白夜谈第117期】如果有人告诉你：这个世界，并不是唯一的世界。在某个几乎完全相同的宇宙里，另一个你，正在过着不同的人生。这听起来，很像是一部科幻小说。但如果再告诉你，说出这一切的人，是20世纪最具影响力的科幻作家之一。他甚至公开说：自己的作品，并非是虚构的，而是来自另一个平行宇宙的记忆。你还会认为，这一切都只是想象吗？",
+        "truncated": false
+      },
+      "published_at": "Mon, 20 Jul 2026 07:45:33 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "cbab8381580119bba7215ff65b1aeead43a7766822c2a92e6394503076c1ac75",
+      "guid": "xmly_track_807436723",
+      "title": {
+        "text": "都市传说：外星人访谈录，老子、佛陀的秘密？意识创造宇宙？",
+        "truncated": false
+      },
+      "description": {
+        "text": "【大白夜谈第101期】 如果宇宙并非是真实的，它的起源会是什么？ 如果生命并非偶然出现，一切的意义会是什么？ 如果地球是一座意识的牢笼，逃离的方法又会是什么？ 一本另类的科幻小说，一次自我的深层探索，一个被人遗忘的神奇奥秘。 人类文明爆发的秘密与古代先贤又有着怎样的神秘联系？ 大家好我是大白，今天我们继续聊令人脑洞大开的科幻故事，外星人访谈录。",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 Feb 2025 05:13:45 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "42a23ae4c302c2743d83ce1e9099d0b05d0b238319060dd16d3887ee785101ce",
+      "guid": "xmly_track_649100861",
+      "title": {
+        "text": "地球编年史02：太阳系神秘的第十二个天体究竟存在吗？创世起源神话中的惊人巧合",
+        "truncated": false
+      },
+      "description": {
+        "text": "【大白夜谈正片系列｜第83期】： 第十二个天体存在玛？谁记录了太阳系的创世起源？苏美尔创世史诗【地球编年史02】 来和大白一起夜谈，聊点你不知道的故事",
+        "truncated": false
+      },
+      "published_at": "Sun, 16 Jul 2023 17:06:50 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "9e896917e879501d8479811352db2b194c0814ad36075839db40cae5ccd60fe7",
+      "guid": "xmly_track_572974839",
+      "title": {
+        "text": "读评论：从月球矩阵的幻象中醒来会如何？摆脱次级实相的bug",
+        "truncated": false
+      },
+      "description": {
+        "text": "【大白夜谈读评论｜第2期】：月球矩阵是什么？人类处于巨大的幻象之中吗？我们正在醒来 留言/私信/提问 月底统一回复 来和大白一起夜谈，聊点你不知道的故事",
+        "truncated": false
+      },
+      "published_at": "Wed, 28 Sep 2022 15:22:44 GMT",
+      "feed_index": 49
+    },
+    {
+      "id": "77849434af2d43ba0710196d7564ac043e88065efdc8f2ea3a9a53c58baa9131",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5526-audiofreehighqps/B4/3A/CKwRIJEFIQCmAHHcwQDloK3a-aacv2-48K.m4a",
+      "title": {
+        "text": "脑洞故事：人类在11500年前就进入了虚拟世界？从天而降的人工智能立方体究竟是什么？",
+        "truncated": false
+      },
+      "description": {
+        "text": "为什么有人觉得我们真的活在虚拟世界中？ 远古人类神话中反复出现的神秘立方体究竟是什么？ 从文字追根溯源脑补出一个神秘的人类起源……",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Sep 2021 14:28:31 GMT",
+      "feed_index": 66
+    },
+    {
+      "id": "928d4995085a53d81e5e59988ceff8f039688855cb47e471693255ba030f36b6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/84f8-audiofreehighqps/34/15/CKwRIW4EL8UdAHR72wCV_69--aacv2-48K.m4a",
+      "title": {
+        "text": "都市传说：南极冰层下竟隔绝着神秘文明？外星人降临还是地底世界遗迹？",
+        "truncated": false
+      },
+      "description": {
+        "text": "南极，地球上唯一还存在未有人类踏足的区域。 面对着那些巨大的冰川， 仿佛这里就是世界的尽头， 那些冰雪覆盖之下的是许许多多人类尚未解读的谜团。 今天我们要来聊一聊，南极冰层下隔绝的秘密。 喜欢大白的内容与脑洞的话，就快来关注大白吧。期待与你每一次的夜谈~",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 Mar 2021 14:58:12 GMT",
+      "feed_index": 82
+    },
+    {
+      "id": "566d5ac684e612a0280c28962daef4e06d6d0789f73a466eb6b01daa5fc79647",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a60e-audiofreehighqps/83/6A/CKwRIRwELlk7AGjEOgCVaZzh-aacv2-48K.m4a",
+      "title": {
+        "text": "你不知道的宇宙与外星人：玛雅文明用石头造了宇宙飞船？",
+        "truncated": false
+      },
+      "description": {
+        "text": "玛雅文明的超科技， 竟然是石头建造的宇宙飞船。 帮助人类心灵疗愈， 与蜥蜴爬虫的渊源。 来自秘密太空计划的番外篇。 今晚大白与你夜谈，聊一聊玛雅文明。",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 Mar 2021 13:05:39 GMT",
+      "feed_index": 99
+    },
+    {
+      "id": "ec3e85b291b372523bba65cd5eff2bda9dcabc7c3a3a830f85c5fdaef5d42050",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/bf3d-audiofreehighqps/30/F4/CKwRIUEEJ8Y3AFjJugCTkxS0-aacv2-48K.m4a",
+      "title": {
+        "text": "外星追密：神秘物体坠落小镇罗斯维尔",
+        "truncated": false
+      },
+      "description": {
+        "text": "历经半个多世纪的隐藏与揭秘，你不可错过的UFO迷入门事件。大白今晚与你夜谈，说一说神秘的罗斯威尔飞碟坠毁事件背后的隐秘。",
+        "truncated": false
+      },
+      "published_at": "Wed, 17 Mar 2021 13:24:52 GMT",
+      "feed_index": 115
+    }
+  ]
+}

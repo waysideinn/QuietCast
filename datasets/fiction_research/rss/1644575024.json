@@ -1,0 +1,140 @@
+{
+  "show_id": "1644575024",
+  "feed_url": "https://anchor.fm/s/b5120290/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/b5120290/podcast/rss",
+    "final_url": "https://anchor.fm/s/b5120290/podcast/rss",
+    "fetched_at": "2026-10-25T14:56:52.791738+00:00",
+    "status": 200,
+    "sha256": "ca0f70a67eab9bf5d30df8e2f7c9b4ebe2bab1e3da5dfddfd7dff7e998fbbe4c"
+  },
+  "status": "ok",
+  "title": {
+    "text": "心镜之湖",
+    "truncated": false
+  },
+  "description": {
+    "text": "心镜之湖",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 793,
+  "episodes": [
+    {
+      "id": "cae8f648dadaae083d98300f83c929e335c8f2ec5da8df79fd2e6b8c75df69e8",
+      "guid": "d9930193-4050-4e84-945e-0dfd2a4fd022",
+      "title": {
+        "text": "987.新能源车纷纷“涉险”，背后是什么逻辑？",
+        "truncated": false
+      },
+      "description": {
+        "text": "987.新能源车纷纷“涉险”，背后是什么逻辑？",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Jun 2023 15:03:10 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f0dba5fb7cf8e2ed57523c9359b852c3da28f9f5482031abfc9acc1112def6bf",
+      "guid": "834700ce-e5ec-4998-bddc-1708253e3fe6",
+      "title": {
+        "text": "975.503我当时非常认真的对小杨说",
+        "truncated": false
+      },
+      "description": {
+        "text": "975.503我当时非常认真的对小杨说",
+        "truncated": false
+      },
+      "published_at": "Wed, 24 May 2023 00:37:15 GMT",
+      "feed_index": 113
+    },
+    {
+      "id": "a402a32936e2c53eff2dc09f314aa9fdd529dbef368701d146e76723a22afc75",
+      "guid": "b9469322-3017-46fd-aa5c-d4a8f09d6cdb",
+      "title": {
+        "text": "983.明明是因为穷，还让十三香默默抗下这一切。│妙宇连朱1018 上",
+        "truncated": false
+      },
+      "description": {
+        "text": "983.明明是因为穷，还让十三香默默抗下这一切。│妙宇连朱1018 上",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 May 2023 23:58:41 GMT",
+      "feed_index": 226
+    },
+    {
+      "id": "98a79fe1e1e18ae7afd6976ecbedbe0501cd9ef902e3bce0538743a6a4a64c24",
+      "guid": "f56be53f-a279-4f40-960a-c15b5b5f21f1",
+      "title": {
+        "text": "967.叫醒自己，改变自己，放过自己",
+        "truncated": false
+      },
+      "description": {
+        "text": "967.叫醒自己，改变自己，放过自己",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Apr 2023 07:06:13 GMT",
+      "feed_index": 339
+    },
+    {
+      "id": "776fd8fb0c8f3152486a6f0b2ba7d4785ced3d871f20ad6cba5a56aaa6de226b",
+      "guid": "8be59977-ccb9-4d61-aebf-d84d34e79c9c",
+      "title": {
+        "text": "9923.美国首现新冠“二次感染”病例-病情比上次更严重 感染间隔仅一个月",
+        "truncated": false
+      },
+      "description": {
+        "text": "9923.美国首现新冠“二次感染”病例-病情比上次更严重 感染间隔仅一个月",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Apr 2023 10:00:02 GMT",
+      "feed_index": 453
+    },
+    {
+      "id": "f3f45b7bd86ecb6a008f74c287ab9d725e7941f9fd132c4524a76c1100e9c562",
+      "guid": "cdc27a37-489a-4435-91a7-ab129f472432",
+      "title": {
+        "text": "9908.160座两汉时期墓葬现身河南郑州 千余件随葬品揭秘古人生活",
+        "truncated": false
+      },
+      "description": {
+        "text": "9908.160座两汉时期墓葬现身河南郑州 千余件随葬品揭秘古人生活",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Mar 2023 18:54:04 GMT",
+      "feed_index": 566
+    },
+    {
+      "id": "02f88620f052da10372f2ce18ef56e8080db656df128057d95648987b09f352b",
+      "guid": "5b2ee441-e256-4163-8ea4-ee7739b6f42c",
+      "title": {
+        "text": "965.《情人节里老公给了另外一个女人“一生一世”的浪漫》",
+        "truncated": false
+      },
+      "description": {
+        "text": "965.《情人节里老公给了另外一个女人“一生一世”的浪漫》",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Mar 2023 13:12:30 GMT",
+      "feed_index": 679
+    },
+    {
+      "id": "95b17fdc68443b74d7cfd52c07ad505fa4b699e37ca57ffd129f80b43f37ef84",
+      "guid": "6245ab04-1a1c-4761-8642-0bbc11893f06",
+      "title": {
+        "text": "义乌小商品",
+        "truncated": false
+      },
+      "description": {
+        "text": "义乌小商品",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Sep 2022 12:03:58 GMT",
+      "feed_index": 792
+    }
+  ]
+}

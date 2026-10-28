@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/6419801.xml",
+    "final_url": "http://www.ximalaya.com/album/6419801.xml",
+    "fetched_at": "2026-10-26T07:55:07.654209+00:00",
+    "status": 200,
+    "sha256": "90895bfa4f56fc2b0ceffa35e31ca926d9cdf43ef7168f81043c1f52312456f3"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "故事酒吧（陈光陈家恒主役）：真实故事换治愈之酒",
+      "truncated": false
+    },
+    "description": {
+      "text": "一家神秘的酒吧里，有一个奇怪的调酒师，只要跟他讲一个真实的人生故事，他便会给讲述者送上一杯治愈人心的鸡尾酒。",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "rbc @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "程涵729"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "程涵729"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Personal Journals"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/6419801",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 426,
+    "episodes": [
+      {
+        "title": {
+          "text": "视频版《人间过客》——故事酒吧的一千零一夜主题歌",
+          "truncated": false
+        },
+        "description": {
+          "text": "刚发现能传视频了~就把去年做的MV放出来吧~",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group59/M02/CF/4C/wKgLelzCxPSwLTCKABwJvUU-XTk217.m4a"
+      },
+      {
+        "title": {
+          "text": "344、 我们不一样，其实我们都一样 演播：钱琛729",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 61,
+        "guid": "https://aod.cos.tx.xmcdn.com/group45/M04/64/4D/wKgKlFtm82_jzhaaAKDzGdwSihg681.m4a"
+      },
+      {
+        "title": {
+          "text": "287、我为女儿付出了一切，可她为什么还恨我？",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 121,
+        "guid": "https://aod.cos.tx.xmcdn.com/group43/M03/83/D8/wKgKklsSU5_DvGcBAKjZIynkj_4621.m4a"
+      },
+      {
+        "title": {
+          "text": "226、在家里，我就是个高端保姆！",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 182,
+        "guid": "https://aod.cos.tx.xmcdn.com/group42/M03/41/B6/wKgJ81qf71Ci9im4AIytqDY3ExU597.m4a"
+      },
+      {
+        "title": {
+          "text": "主题歌抢先放出！故事酒吧新年宣传片花！演唱：陈光",
+          "truncated": false
+        },
+        "description": {
+          "text": "《故事酒吧的一千零一夜》主题歌（部分歌词） 策划：程涵 作词：焰三一 作曲：杰克糖 演唱：陈光 我只是过客，匆匆而过 在你人生旅途，歇了一刻 收集悲欢离合，寄给云朵 一杯酒换你心中的歌……",
+          "truncated": false
+        },
+        "feed_index": 243,
+        "guid": "https://aod.cos.tx.xmcdn.com/group36/M07/DC/DC/wKgJUlpCOxPCdvUzAAiuBl_168g418.m4a"
+      },
+      {
+        "title": {
+          "text": "116、她总是成为别人的第三者，这也是种病",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 304,
+        "guid": "https://aod.cos.tx.xmcdn.com/group33/M03/B8/AA/wKgJnVm9F72ypmfsAKgfO8EBsMQ972.m4a"
+      },
+      {
+        "title": {
+          "text": "59、小城里的传奇老太",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 364,
+        "guid": "https://aod.cos.tx.xmcdn.com/group28/M05/0F/4D/wKgJXFkkHB6y5EZEAK4dKs_WHe0474.m4a"
+      },
+      {
+        "title": {
+          "text": "故事酒吧补粮：阿杰729男主播完整版 配乐：RADWIMPS - 針と棘",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 425,
+        "guid": "https://aod.cos.tx.xmcdn.com/group46/M05/6F/C6/wKgKj1s90-mhvQXCADXReWNTB-s026.m4a"
+      }
+    ]
+  }
+}

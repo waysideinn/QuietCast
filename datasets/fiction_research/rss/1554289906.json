@@ -1,0 +1,140 @@
+{
+  "show_id": "1554289906",
+  "feed_url": "http://www.ximalaya.com/album/46798811.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/46798811.xml",
+    "final_url": "http://www.ximalaya.com/album/46798811.xml",
+    "fetched_at": "2026-10-25T14:57:13.790092+00:00",
+    "status": 200,
+    "sha256": "1405263b03d27217911c19bdcc745dab7d2aafaf1f6aff1b1d353f6b760135b6"
+  },
+  "status": "ok",
+  "title": {
+    "text": "拳人教育whywomenfist",
+    "truncated": false
+  },
+  "description": {
+    "text": "拳人教育whywomenfist播客，是一档以校园为根据地的女性主义视角的泛文化类播客节目。我们认为校园这个小社群是当代女性主义发展的一个重要阵地。在校园中发生的事件也是女性主义在现代社会中的一个缩影。所以我们一群半吊子女权主义者聚在了一起，希望在闲聊中为大家展现一个打拳生态缩影与反思。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 14,
+  "episodes": [
+    {
+      "id": "fc98af8e5d9c0188c7a0ecacf64ffe25a6de942ca075bf76a972389084fcac7d",
+      "guid": "xmly_track_547173967",
+      "title": {
+        "text": "拳人#17: 《瞬息全宇宙》之聊地太多不知道起什麼標題·Virtual Hangout下",
+        "truncated": false
+      },
+      "description": {
+        "text": "本 期伙伴 ： 满 蒂, 紫薯, 阿雷雷, 黄油油, Tong, Qiqi, Sherry shownote： 07:55 超越家庭內的、社群性的「be kind」 09:06 google eye帶來的共感：神經病好可愛！ 14:57 與同為中老年女性的白人稅務員之間的愛恨情仇 17:10 系統性暴力和「be kind」的局限性 22:18 權力不對等之下如何「be kind」 23:43 誇誇女性影人楊紫瓊時刻： 28:18 酷兒身份在大製作電影和小製作電影裡的不同定位 31:32 酷兒生命經驗的真實出櫃 33:52 危險、混沌、虛無中我們對生命的反思 35:41 吶喊「請你閉嘴！」的自我關懷 39:00 再來誇誇電影製作吧！ 42:43 朗誦bell hooks對愛的定義 本期提到的书影音： 【音乐】 Alabama Shakes-Always Alright (Explicit) 【书籍】bell hooks, All About Love: New Visions (2001)",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Jun 2022 09:49:01 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "5ee96c8882bc739754675f3ee36ab177db2a00beb7e20167830d512176bb1f9b",
+      "guid": "xmly_track_523886989",
+      "title": {
+        "text": "拳人#15: 开放关系带来的种种可能性",
+        "truncated": false
+      },
+      "description": {
+        "text": "本 期 主 播 ： 满 蒂 s h o w n o t e ： 01:47 现有的对开放关系的讨论是不足夠的 04:10 在与女性的开放关系中，不确定性增加了？ 05:04 波伏娃中对“本质”和“偶然”的爱的实践里，她对自己要做什么非常确定 12:20 对了解“完整的对方”和“更多的自己”既恐惧又渴望的心理 14:12 开放关系一定会带来嫉妒的情绪吗？ 14:36 开放关系不仅带来了“进行一段关系”的更多想象力， 也带来更多“结束一段关系”的可能性 19:45 倾向于把脆弱袒露给陌生人也会同样难过和失望 22:15 嫉妒的情绪从何而来 22:25 嫉妒还可以怎么描述，怎么理解？ 27:00 “独特的”情感不一定需要是“唯一的” 30:03 和女性的开放关系中，感情是彼此叠加的 36:16 三个人的开放关系势必是不平等的吗 42:08 来聊聊我们的开放关系“睡觉”实践吧！ 本 期 提 到 的 书 影 音 ： 【音乐】Paradise Circus by Massive Attack 【书籍】《成为波伏瓦》，中信出版社，2021 【书籍】《The Days of Abandonment》（被抛弃的日子 ），Elena Ferrante，Europa Editions，2006 【书籍】《道德浪女：多重關係、開放關係與其他冒險的實用指南》，游擊文化，2019 【书籍】《厌女》，上海三联书",
+        "truncated": true
+      },
+      "published_at": "Wed, 20 Apr 2022 15:07:58 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "8615deacb2d4ed69ba7929833547e1a0e354eb741bc9d1026de956a65fd7c33f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d8ae-audiofreehighqps/C4/65/CKwRIUEFYAE1ABAAAAD1bv2d.mp3",
+      "title": {
+        "text": "拳人#13: STOP GREENWASHING! 可持续生活是可行的!（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期主播： 满蒂，正在努力学习可持续运动的环保小土豆。 本期剪辑： 芜雾 本期伙伴： Amber：与人类幼崽打交道的女权主义者。 Emma：可持续内衣设计师，零垃圾经期倡导者，科技月经裤品牌如里Relief创始人。 mengmeng: 在美国中部大农村读博士，研究媒体和性别。女权主义者，素食主义者。 shownote： 05:17 在不同地区的可持续观察 05:46 爆炸的咖啡产业也带来了超级污染 07:53 资本主义之下，可持续现实吗？ 08:25 可持续的责任不应该是“内疚”的一个个个体 09:10 星巴克的“表演式”可持续 10:12 价格更高的环保产品是消费主义骗局吗 10:55 可持续运动与政治息息相关 12:31 一切皆可“greenwashing” 13:48 第三世界女性在环境问题中的脆弱性 15:34 自我感动：把垃圾堆到别人家的后花园 18:30 原住民居住地的资源被大量掠夺 23:03 殖民话术对原住民女性的生育指责 28:00 咖啡种植行业的劳工问题 30:27 纺织行业的回收率只有1%！ 31:18 可持续产品必定会更高吗？ 35:20 为什么可持续时尚对环境的影响微乎其微？ 39:15 资本逻辑之下，回收的目的是刺激消费 41:48 把快时尚变成可持续，是什么狗屎逻辑？！ 本期提到的书影音： 【音乐】Les Rita Mitsouko-Les amant",
+        "truncated": true
+      },
+      "published_at": "Tue, 09 Nov 2021 09:26:49 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "afd1dd9d4dc10c3d543894876a4260403d98c2770ab55443218c38bb3e5c6fe7",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/41ac-audiofreehighqps/B7/E9/CKwRIasE0g3EABAAAADNI0cs.mp3",
+      "title": {
+        "text": "拳人#10: 我们的身材焦虑掩盖了什么？",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期主播：ling/阿库 本期剪辑：芜雾 本期嘉宾： Sandra, 大厂数据分析师，理工世界的文科生。 Lorne，刚刚起步的女权主义者，擅长结合线上线下一起打拳，目前在一个反性别暴力组织里当志愿者。 （说了两句话的）满蒂，最近刚改了一个狠蒂的名字的，愤怒的沙爹风味拳师。 shownote： 02:45 风格与身材到底有什么关系 04:23 难以接纳大码身材的市场 08:23 娇小身材群体也同样存在身材焦虑 09:23 商家投放身材焦虑的手段 16:08 现有的大码穿搭缺乏一定多样性 16:40 大码女孩进退两难的地步 23:12 难以完全摆脱被凝视的目光 26:27 给男性制造身材焦虑这件事，成功过吗？ 27:44 身材焦虑也是一种父权缩影 28:48 不同地区的男性在获得权力的方式的不同 31:18 建立在厌女之上的男性共同体 34:12 丁真惹到谁了？ 42:42 用消费来赋权女性的盲点 本期提到的书影音： 【音乐】WILLOW-t r a n s p a r e n t s o u l (ft Travis Barker) 【电影】《天鹅绒金矿》（Velvet Goldmine），1998 【书籍】《厌女》，（日）上野千鹤子，2005，上海三联书店",
+        "truncated": false
+      },
+      "published_at": "Sat, 24 Jul 2021 17:18:21 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "2de64ee6eb7f61029e2a43ede1996e45ad2dc5442e6d1fac71dc0bb5e43236e7",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/000d-audiofreehighqps/81/81/CKwRINsEvjsMABAAAADFv970.mp3",
+      "title": {
+        "text": "拳人#09: 看见性别问题的两双普通的眼睛",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期主播：满地， Joan （本期和拳人教育的老朋友Joan很聊了聊我们最近观察到的性别议题，聊了聊我们的感受和这些事情与我们的生命的联结，这是一期随意的洽谈，因此没有做shownote，大家可以带着放松的心情听我们聊天...） 本期用到的音乐： Alejandro Martinez-La Comparsita (tango)",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Jul 2021 16:24:46 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "fb7ade240faf8117e17952bfc872d25e2ade4ef9ec93ce64620d6ae07db9b9a6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1ccf-audiofreehighqps/0B/63/CKwRINsEihp9ABAAAACy1-rY.mp3",
+      "title": {
+        "text": "拳人#07: 在各种场域行动的女权行动者的一次对谈 | 上",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期主播： 满地， 活动在国内高校的一名女权主义者 本期嘉宾： 大兔，女权行动者 小毛，女权主义学习者和实践者 阿雷雷，英国女权小组VaChina成员，长期关注女权和种族议题 shownote： 02:03 四个场域的女权行动者 03:17 国内高校性别社团纷纷被禁声 03:52 丰富的英国女权小组VaChina 07:03「相当女子」是怎么来的 08:57 从2015年开始街头行动的方式行不通了 11:39 信任女权主义让我们走到一起 18:23 女权行动对社会产生了真实的改变 22:49 “成为”一名女权主义者的压力 25:27 女权主义者是一种政治身份 27:11 “敏感”作为一种思想禁区 29:29 “思考是一种罪” 30:33 一个信号： 32:40 我们无时无刻不在被驯化 34:00 民族主义的父权性 38:38 政治审查带来了全方位的创伤 本期提到的书影音： · 【音乐 】 Betsy Rose/Womansong Chorus- · 【音乐 】 H i-Posi- · 【书 】《呐喊——中国女性反家庭暴力 报告》陈敏， 2007 年人民出版社",
+        "truncated": false
+      },
+      "published_at": "Mon, 31 May 2021 03:29:24 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "cf98e921c514e1c9751204c2e9791d9e22e73edf21569ce4016d663411de0254",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6907-audiofreehighqps/6A/99/CKwRINsEM3kQABAAAACW_5tg.mp3",
+      "title": {
+        "text": "拳人#03: 超英影视剧中的厌女、异性恋霸权和toxic masculinity",
+        "truncated": false
+      },
+      "description": {
+        "text": "第三期《拳人教育Why Women Fist》，我们从前段时间刚刚完结的《旺达幻视》出发，聊了聊超英影视剧中的厌女、异性恋霸权和toxic masculinity。本期提到的超英影视剧有《旺达幻视》、《自杀小队》、《扎克·施奈德版正义联盟》、《神奇女侠》、《惊奇队长》、《马斯顿教授和神奇女侠》。 【以上影视剧若有尚未观看且不想被剧透，可参考下列书签在适当的时间节点跳过】 本期主播： lingling、Amber 本期嘉宾： 王大娘，社科博士生，国际关系security study方向 shownote： 01:30 嘉宾介绍 02:47 《旺达幻视》—旺达与阿加莎的“雌竞” 04:58 女超英的能力爆发—对女性的污名化 07:40 女性英雄/反派都是辅助性功能 09:55 女性角色作为娇贵的物品，为父权文化背书 10:50 只有性感的时候才有力量吗 11:49 《哈利奎恩》动画版—女性的创作下的新叙事 13:07 困在异性恋框架下的同性友谊 15:28 异性恋霸权叙事下被政治化的LGBTQ icon 16:33 为什么超级英雄会被这样塑造 18:32 电影叙事对LGBTQ群体的规范 21:30 《钢铁侠》—被强烈的意识形态合理化的男性气质 24:21《正义联盟》导剪版— Lois Lane作为超人的“软肋” 25:47 “Beautiful Soul (美丽灵魂)”— 利用女性成全",
+        "truncated": true
+      },
+      "published_at": "Fri, 26 Mar 2021 10:44:55 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "c17d3f42357dfa973241a31f903cab8e4f17f7f40436877f7aa021d20f94a63d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/592a-audiofreehighqps/2A/9F/CKwRIW4EBDTYABAAAACJDnrY.mp3",
+      "title": {
+        "text": "拳人#01: 几个半吊子女权主义者在校园打拳",
+        "truncated": false
+      },
+      "description": {
+        "text": "从把几个半吊子拳师聚集在一起做这档节目的校园社团，展开聊了聊我们在校园里遇到的女权男，厌女言论，和我们正做的女性互助公共项目... shownote： 01:24 六个半吊子女权主义者的自我介绍 03:15 聚在一起的契机：校园女权社团 04:27 聊聊社团现状以及做播客的缘由 08:30 微信讨论群里的爹1 （“存在即合理”，妄想共情所有人） 12: 30 用BDSM里的「契约精神」去求证女性在亲密关系中的「受尊重」地位 13:28 「厌女言论」及回应：女权活动中也需要听到男人的声音 14:23 《妇女参政论者 》，争取投票权 15:55 爹2 （以追求“言论自由”践踏他人的自由） 18:10 男的被骂了： “你们听不了不一样的声音” 19:38 「卖淫代孕都是自愿的？」 21:40 「五花八门」的女权男：男性是否能够共情女性 25:10 「男的打拳是财富密码」 25:30 直人只能是LGBT+群体的「ally」类比男人只能是女人的「ally」 34:00 从「婚驴」的指责反思女性内斗 35:51 「娇妻」一词走向贬义化 36:45 夸大婚姻中女性苦难背后的自主选择权 40:15 将种族、性别、阶级交织在一起思考的「交叉性（intersectionality）」范式 42:42 了解中国本土妇女运动的必要性 45:05 作为校园/学生女权主义者，我们可以做什么 54:37 我们在",
+        "truncated": true
+      },
+      "published_at": "Thu, 18 Feb 2021 13:56:33 GMT",
+      "feed_index": 13
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "source": {
+    "url": "https://feeds.megaphone.fm/NCB9626559467",
+    "final_url": "https://feeds.megaphone.fm/NCB9626559467",
+    "fetched_at": "2026-10-26T07:57:26.045930+00:00",
+    "status": 200,
+    "sha256": "d10c30398d7158e949be9d7ade320769b734a0effa4a5207569b064bf4db42c8"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "週刊秋田書店 ラジオ編集部",
+      "truncated": false
+    },
+    "description": {
+      "text": "秋田書店の漫画作品の魅力を、パーソナリティの2人がラジオ編集部の部員となって、リスナーのみなさんへお届けするラジオ番組。毎回作品をピックアップして、作品の情報やオススメのポイントを時には関連ゲストをお迎えしながらわかりやすく紹介していきます！！ 文化放送(FM91.6／AM1134)超!A&G＋で毎週土曜日21:00から放送の「A&G TRIBAL RADIO エジソン」内で22:40頃放送中！ パーソナリティ：赤﨑千夏・伊東健人 メール：[email removed]",
+      "truncated": false
+    },
+    "language": "ja",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "© Nippon Cultural Broadcasting Inc."
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "文化放送PodcastQR"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "文化放送"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Leisure"
+      ],
+      [
+        "Comedy"
+      ]
+    ],
+    "channel_link": "https://www.joqr.co.jp/",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "traffic.megaphone.fm": 8
+    },
+    "feed_item_count": 341,
+    "episodes": [
+      {
+        "title": {
+          "text": "#343「スカベンジャーズアナザースカイ」ゲスト：古部亮 2026年10月24日放送",
+          "truncated": false
+        },
+        "description": {
+          "text": "秋田書店の漫画作品の魅力を、パーソナリティの3人がラジオ編集部の部員となって、リスナーのみなさんへお届けするラジオ番組。毎回作品をピックアップして、作品の情報やオススメのポイントを時には関連ゲストをお迎えしながらわかりやすく紹介していきます！！文化放送(FM91.6／AM1134)超!A&G＋で毎週土曜日21:00から放送の「A&G TRIBAL RADIO エジソン」内で22:40頃放送中！パーソナリティ：赤﨑千夏・伊東健人・土田玲央メールアドレス：⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠[email removed]⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ [更新 10月26日] [毎週月曜日更新]",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "e5d9d83c-cecd-11f1-969f-3f87b6a0e0b5"
+      },
+      {
+        "title": {
+          "text": "#294「Villainな奥さま」2025年11月15日放送",
+          "truncated": false
+        },
+        "description": {
+          "text": "秋田書店の漫画作品の魅力を、パーソナリティの3人がラジオ編集部の部員となって、リスナーのみなさんへお届けするラジオ番組。毎回作品をピックアップして、作品の情報やオススメのポイントを時には関連ゲストをお迎えしながらわかりやすく紹介していきます！！文化放送(FM91.6／AM1134)超!A&G＋で毎週土曜日21:00から放送の「A&G TRIBAL RADIO エジソン」内で22:40頃放送中！パーソナリティ：赤﨑千夏・伊東健人・土田玲央メールアドレス：[email removed] [更新 11月17日] [毎週月曜日更新][TIME 12:37] See omnystudio.com/listener for privacy information.",
+          "truncated": false
+        },
+        "feed_index": 49,
+        "guid": "59af4492-b995-4698-9e08-b39400a51070"
+      },
+      {
+        "title": {
+          "text": "#246「僕らのポリリズム」 2024年12月14日放送",
+          "truncated": false
+        },
+        "description": {
+          "text": "秋田書店の漫画作品の魅力を、パーソナリティの3人がラジオ編集部の部員となって、リスナーのみなさんへお届けするラジオ番組。毎回作品をピックアップして、作品の情報やオススメのポイントを時には関連ゲストをお迎えしながらわかりやすく紹介していきます！！文化放送(FM91.6／AM1134)超!A&G＋で毎週土曜日21:00から放送の「A&G TRIBAL RADIO エジソン」内で22:40頃放送中！パーソナリティ：赤﨑千夏・伊東健人・土田玲央メールアドレス：[email removed] [更新 12月16日] [毎週月曜日更新][TIME 10:44] See omnystudio.com/listener for privacy information.",
+          "truncated": false
+        },
+        "feed_index": 97,
+        "guid": "bacc8e4f-1b04-4411-b09f-b24800fb42e4"
+      },
+      {
+        "title": {
+          "text": "#197「WORST外伝 サブロクサンタ 名もなきカラスたち」 2024年1月6日放送",
+          "truncated": false
+        },
+        "description": {
+          "text": "秋田書店の漫画作品の魅力を、パーソナリティの2人がラジオ編集部の部員となって、リスナーのみなさんへお届けするラジオ番組。毎回作品をピックアップして、作品の情報やオススメのポイントを時には関連ゲストをお迎えしながらわかりやすく紹介していきます！！文化放送(FM91.6／AM1134)超!A&G＋で毎週土曜日21:00から放送の「A&G TRIBAL RADIO エジソン」内で22:40頃放送中！パーソナリティ：赤﨑千夏・伊東健人メールアドレス：[email removed] [更新 1月8日] [毎週月曜日更新][TIME 15:08] See omnystudio.com/listener for privacy information.",
+          "truncated": false
+        },
+        "feed_index": 146,
+        "guid": "ce4b0d25-35ef-497b-b00b-b0e701828f84"
+      },
+      {
+        "title": {
+          "text": "#149「天災狩り」2023年2月4日放送",
+          "truncated": false
+        },
+        "description": {
+          "text": "秋田書店の漫画作品の魅力を、パーソナリティの2人がラジオ編集部の部員となって、リスナーのみなさんへお届けするラジオ番組。毎回作品をピックアップして、作品の情報やオススメのポイントを時には関連ゲストをお迎えしながらわかりやすく紹介していきます！！文化放送(FM91.6／AM1134)超!A&G＋で毎週土曜日21:00から放送の「A&G TRIBAL RADIO エジソン」内で22:40頃放送中！パーソナリティ：赤﨑千夏・伊東健人メールアドレス：[email removed] [更新 2月6日] [毎週月曜日更新][TIME 13:21] See omnystudio.com/listener for privacy information.",
+          "truncated": false
+        },
+        "feed_index": 194,
+        "guid": "d53220d0-1d91-42f0-ae52-af9d01404761"
+      },
+      {
+        "title": {
+          "text": "#100「わたしの知らない、先輩の100コのこと」 2022年2月26日放送",
+          "truncated": false
+        },
+        "description": {
+          "text": "秋田書店の漫画作品の魅力を、パーソナリティの2人がラジオ編集部の部員となって、リスナーのみなさんへお届けするラジオ番組。毎回作品をピックアップして、作品の情報やオススメのポイントを時には関連ゲストをお迎えしながらわかりやすく紹介していきます！！文化放送(FM91.6／AM1134)超!A&G＋で毎週土曜日21:00から放送の「A&G TRIBAL RADIO エジソン」内で22:40頃放送中！パーソナリティ：赤﨑千夏・伊東健人メールアドレス：[email removed] [更新 2月28日] [毎週月曜日更新][TIME 8:40] See omnystudio.com/listener for privacy information.",
+          "truncated": false
+        },
+        "feed_index": 243,
+        "guid": "2384d1c2-c50f-4542-8911-ae4600edffa8"
+      },
+      {
+        "title": {
+          "text": "#52「僕の心のヤバイやつ」 2021年3月27日放送",
+          "truncated": false
+        },
+        "description": {
+          "text": "秋田書店の漫画作品の魅力を、パーソナリティの2人がラジオ編集部の部員となって、リスナーのみなさんへお届けするラジオ番組。 毎回作品をピックアップして、作品の情報やオススメのポイントを時には関連ゲストをお迎えしながらわかりやすく紹介していきます！！ 文化放送(FM91.6／AM1134)超!A&G＋で毎週土曜日21:00から放送の「A&G TRIBAL RADIO エジソン」内で22:40頃放送中！ パーソナリティ：赤﨑千夏・伊東健人 メールアドレス：[email removed] [更新 3月29日] [毎週月曜日更新] [TIME 11:42] See omnystudio.com/listener for privacy information.",
+          "truncated": false
+        },
+        "feed_index": 291,
+        "guid": "https://www.joqr.co.jp/akita_pod/#079575"
+      },
+      {
+        "title": {
+          "text": "#35「まねきねこのうた」2020年11月28日放送",
+          "truncated": false
+        },
+        "description": {
+          "text": "秋田書店の漫画作品の魅力を、パーソナリティの2人がラジオ編集部の部員となって、リスナーのみなさんへお届けするラジオ番組。 毎回作品をピックアップして、作品の情報やオススメのポイントを時には関連ゲストをお迎えしながらわかりやすく紹介していきます！！ 文化放送(FM91.6／AM1134)超!A&G＋で毎週土曜日21:00から放送の「A&G TRIBAL RADIO エジソン」内で22:40頃放送中！ パーソナリティ：赤﨑千夏・伊東健人 メールアドレス：[email removed] [更新 11月30日] [毎週月曜日更新] [TIME 11:47] See omnystudio.com/listener for privacy information.",
+          "truncated": false
+        },
+        "feed_index": 340,
+        "guid": "https://www.joqr.co.jp/akita_pod/#077364"
+      }
+    ]
+  }
+}

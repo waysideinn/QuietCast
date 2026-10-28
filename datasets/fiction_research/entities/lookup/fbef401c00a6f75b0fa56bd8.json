@@ -1,0 +1,490 @@
+{
+  "source": {
+    "url": "https://itunes.apple.com/lookup?id=1896327902%2C6785381482%2C1829138861%2C1758258377%2C1750133057%2C1826248721%2C1664345469%2C512426799%2C1691672217%2C1348470106%2C1777644913%2C1781425392%2C1764799515%2C1648306891%2C1760987392%2C1789413132%2C1698453574%2C1801532058%2C1801640212%2C1873579254&country=cn",
+    "final_url": "https://itunes.apple.com/lookup?id=1896327902%2C6785381482%2C1829138861%2C1758258377%2C1750133057%2C1826248721%2C1664345469%2C512426799%2C1691672217%2C1348470106%2C1777644913%2C1781425392%2C1764799515%2C1648306891%2C1760987392%2C1789413132%2C1698453574%2C1801532058%2C1801640212%2C1873579254&country=cn",
+    "fetched_at": "2026-10-26T07:53:03.178429+00:00",
+    "status": 200,
+    "sha256": "2119bc84e3e269bc6659dc482d3c23f24e86f7040a89e445676a4c7dc644b2f9"
+  },
+  "status": "ok",
+  "data": [
+    {
+      "collectionId": 1896327902,
+      "trackId": 1896327902,
+      "artistName": "微芒聚声",
+      "collectionName": "东北诡事：我有一双阴阳眼｜悬疑灵异｜精品有声书",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%9C%E5%8C%97%E8%AF%A1%E4%BA%8B-%E6%88%91%E6%9C%89%E4%B8%80%E5%8F%8C%E9%98%B4%E9%98%B3%E7%9C%BC-%E6%82%AC%E7%96%91%E7%81%B5%E5%BC%82-%E7%B2%BE%E5%93%81%E6%9C%89%E5%A3%B0%E4%B9%A6/id1896327902?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/113753641.xml",
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "剧情",
+      "country": "CHN",
+      "trackCount": 153,
+      "releaseDate": "2026-02-16T08:00:00Z"
+    },
+    {
+      "collectionId": 6785381482,
+      "trackId": 6785381482,
+      "artistName": "小何不姓何",
+      "collectionName": "小河边的面包店",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B0%8F%E6%B2%B3%E8%BE%B9%E7%9A%84%E9%9D%A2%E5%8C%85%E5%BA%97/id6785381482?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/125321290.xml",
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "剧情",
+      "country": "CHN",
+      "trackCount": 9,
+      "releaseDate": "2026-10-07T10:24:00Z"
+    },
+    {
+      "collectionId": 1829138861,
+      "trackId": 1829138861,
+      "artistName": "老王故事慧",
+      "collectionName": "郭德纲单口高清版《张小乙下南京》",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%83%AD%E5%BE%B7%E7%BA%B2%E5%8D%95%E5%8F%A3%E9%AB%98%E6%B8%85%E7%89%88-%E5%BC%A0%E5%B0%8F%E4%B9%99%E4%B8%8B%E5%8D%97%E4%BA%AC/id1829138861?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/99450958.xml",
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "primaryGenreName": "喜剧小说",
+      "country": "CHN",
+      "trackCount": 60,
+      "releaseDate": "2025-07-26T10:59:00Z"
+    },
+    {
+      "collectionId": 1758258377,
+      "trackId": 1758258377,
+      "artistName": "云鹿柔迩",
+      "collectionName": "厨神系统！穿越成废材王后做美食称霸后宫美男萌宝上钩",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8E%A8%E7%A5%9E%E7%B3%BB%E7%BB%9F-%E7%A9%BF%E8%B6%8A%E6%88%90%E5%BA%9F%E6%9D%90%E7%8E%8B%E5%90%8E%E5%81%9A%E7%BE%8E%E9%A3%9F%E7%A7%B0%E9%9C%B8%E5%90%8E%E5%AE%AB%E7%BE%8E%E7%94%B7%E8%90%8C%E5%AE%9D%E4%B8%8A%E9%92%A9/id1758258377?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/82707590.xml",
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "primaryGenreName": "喜剧小说",
+      "country": "CHN",
+      "trackCount": 1798,
+      "releaseDate": "2024-07-26T04:06:00Z"
+    },
+    {
+      "collectionId": 1750133057,
+      "trackId": 1750133057,
+      "artistName": "锦鸣茶馆",
+      "collectionName": "对照小奶包，她被七个舅舅团宠了丨团宠丨萌宝",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%AF%B9%E7%85%A7%E5%B0%8F%E5%A5%B6%E5%8C%85-%E5%A5%B9%E8%A2%AB%E4%B8%83%E4%B8%AA%E8%88%85%E8%88%85%E5%9B%A2%E5%AE%A0%E4%BA%86%E4%B8%A8%E5%9B%A2%E5%AE%A0%E4%B8%A8%E8%90%8C%E5%AE%9D/id1750133057?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/82048039.xml",
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "喜剧小说",
+      "country": "CHN",
+      "trackCount": 955,
+      "releaseDate": "2024-07-25T10:02:00Z"
+    },
+    {
+      "collectionId": 1826248721,
+      "trackId": 1826248721,
+      "artistName": "老王故事慧",
+      "collectionName": "郭德纲单口高清版《济公传》",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%83%AD%E5%BE%B7%E7%BA%B2%E5%8D%95%E5%8F%A3%E9%AB%98%E6%B8%85%E7%89%88-%E6%B5%8E%E5%85%AC%E4%BC%A0/id1826248721?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/96978008.xml",
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "primaryGenreName": "喜剧小说",
+      "country": "CHN",
+      "trackCount": 66,
+      "releaseDate": "2025-07-12T03:02:00Z"
+    },
+    {
+      "collectionId": 1664345469,
+      "trackId": 1664345469,
+      "artistName": "蕾蕾蕾小姐_",
+      "collectionName": "【免费双播】我和我的病娇王爷｜轻喜剧古言&穿越",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9%E5%8F%8C%E6%92%AD-%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%97%85%E5%A8%87%E7%8E%8B%E7%88%B7-%E8%BD%BB%E5%96%9C%E5%89%A7%E5%8F%A4%E8%A8%80-%E7%A9%BF%E8%B6%8A/id1664345469?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/65794725.xml",
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "喜剧小说",
+      "country": "CHN",
+      "trackCount": 100,
+      "releaseDate": "2022-08-08T06:00:00Z"
+    },
+    {
+      "collectionId": 512426799,
+      "trackId": 512426799,
+      "artistName": "哈喽怪谈",
+      "collectionName": "哈喽怪谈",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%93%88%E5%96%BD%E6%80%AA%E8%B0%88/id512426799?uo=4",
+      "feedUrl": "https://s2.proxy.wavpub.com/helloguaitan.xml",
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1405"
+      ],
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "表演艺术"
+      ],
+      "primaryGenreName": "剧情",
+      "country": "CHN",
+      "trackCount": 1232,
+      "releaseDate": "2026-10-24T15:59:00Z"
+    },
+    {
+      "collectionId": 1691672217,
+      "trackId": 1691672217,
+      "artistName": "12可可_魔麦有声",
+      "collectionName": "【免费】都市不败仙尊丨重生丨都市修仙丨热血爽文丨玄幻丨爆更丨AI多播",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E9%83%BD%E5%B8%82%E4%B8%8D%E8%B4%A5%E4%BB%99%E5%B0%8A%E4%B8%A8%E9%87%8D%E7%94%9F%E4%B8%A8%E9%83%BD%E5%B8%82%E4%BF%AE%E4%BB%99%E4%B8%A8%E7%83%AD%E8%A1%80%E7%88%BD%E6%96%87%E4%B8%A8%E7%8E%84%E5%B9%BB%E4%B8%A8%E7%88%86%E6%9B%B4%E4%B8%A8ai%E5%A4%9A%E6%92%AD/id1691672217?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/76396210.xml",
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "剧情",
+      "country": "CHN",
+      "trackCount": 1000,
+      "releaseDate": "2023-10-16T22:00:00Z"
+    },
+    {
+      "collectionId": 1348470106,
+      "trackId": 1348470106,
+      "artistId": 1493542612,
+      "artistName": "GZM Shows",
+      "artistViewUrl": "https://podcasts.apple.com/cn/artist/gen-z-media/1493542612?uo=4",
+      "collectionName": "Six Minutes",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/six-minutes/id1348470106?uo=4",
+      "feedUrl": "https://rss.art19.com/sixminutes",
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1405"
+      ],
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "表演艺术"
+      ],
+      "primaryGenreName": "剧情",
+      "country": "CHN",
+      "trackCount": 398,
+      "releaseDate": "2026-10-22T07:00:00Z"
+    },
+    {
+      "collectionId": 1777644913,
+      "trackId": 1777644913,
+      "artistName": "深海鲲鲸",
+      "collectionName": "【免费】【有声书】精品多播｜穿越修仙|系统爽文",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E6%9C%89%E5%A3%B0%E4%B9%A6-%E7%B2%BE%E5%93%81%E5%A4%9A%E6%92%AD-%E7%A9%BF%E8%B6%8A%E4%BF%AE%E4%BB%99-%E7%B3%BB%E7%BB%9F%E7%88%BD%E6%96%87/id1777644913?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/83145318.xml",
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "primaryGenreName": "科幻小说",
+      "country": "CHN",
+      "trackCount": 1125,
+      "releaseDate": "2025-08-14T22:31:00Z"
+    },
+    {
+      "collectionId": 1781425392,
+      "trackId": 1781425392,
+      "artistName": "云鹿柔迩",
+      "collectionName": "丧尸末日！倒霉鬼如何利用超S级丧尸分身成为生存之王",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%A7%E5%B0%B8%E6%9C%AB%E6%97%A5-%E5%80%92%E9%9C%89%E9%AC%BC%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8%E8%B6%85s%E7%BA%A7%E4%B8%A7%E5%B0%B8%E5%88%86%E8%BA%AB%E6%88%90%E4%B8%BA%E7%94%9F%E5%AD%98%E4%B9%8B%E7%8E%8B/id1781425392?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/84591553.xml",
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "primaryGenreName": "科幻小说",
+      "country": "CHN",
+      "trackCount": 2000,
+      "releaseDate": "2025-07-17T06:04:00Z"
+    },
+    {
+      "collectionId": 1764799515,
+      "trackId": 1764799515,
+      "artistName": "云鹿柔迩",
+      "collectionName": "年度霸榜|末日深渊无限火力系统|热血爽文免费有声剧",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%B9%B4%E5%BA%A6%E9%9C%B8%E6%A6%9C-%E6%9C%AB%E6%97%A5%E6%B7%B1%E6%B8%8A%E6%97%A0%E9%99%90%E7%81%AB%E5%8A%9B%E7%B3%BB%E7%BB%9F-%E7%83%AD%E8%A1%80%E7%88%BD%E6%96%87%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%89%A7/id1764799515?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/83222874.xml",
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "primaryGenreName": "科幻小说",
+      "country": "CHN",
+      "trackCount": 281,
+      "releaseDate": "2024-09-24T07:57:00Z"
+    },
+    {
+      "collectionId": 1648306891,
+      "trackId": 1648306891,
+      "artistName": "DDTea",
+      "collectionName": "野地电波",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%87%8E%E5%9C%B0%E7%94%B5%E6%B3%A2/id1648306891?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/33132000.xml",
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "primaryGenreName": "科幻小说",
+      "country": "CHN",
+      "trackCount": 197,
+      "releaseDate": "2026-10-20T17:00:00Z"
+    },
+    {
+      "collectionId": 1760987392,
+      "trackId": 1760987392,
+      "artistName": "云鹿柔迩",
+      "collectionName": "免费末世丧尸病毒来袭！秘密武器超科技房车网店连三界",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9%E6%9C%AB%E4%B8%96%E4%B8%A7%E5%B0%B8%E7%97%85%E6%AF%92%E6%9D%A5%E8%A2%AD-%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8%E8%B6%85%E7%A7%91%E6%8A%80%E6%88%BF%E8%BD%A6%E7%BD%91%E5%BA%97%E8%BF%9E%E4%B8%89%E7%95%8C/id1760987392?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/82935272.xml",
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "primaryGenreName": "科幻小说",
+      "country": "CHN",
+      "trackCount": 1062,
+      "releaseDate": "2024-08-09T13:21:00Z"
+    },
+    {
+      "collectionId": 1789413132,
+      "trackId": 1789413132,
+      "artistName": "建康哥哥说",
+      "collectionName": "惊奇怪谈|半真半假的都市传说",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%83%8A%E5%A5%87%E6%80%AA%E8%B0%88-%E5%8D%8A%E7%9C%9F%E5%8D%8A%E5%81%87%E7%9A%84%E9%83%BD%E5%B8%82%E4%BC%A0%E8%AF%B4/id1789413132?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/85027733.xml",
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "primaryGenreName": "科幻小说",
+      "country": "CHN",
+      "trackCount": 177,
+      "releaseDate": "2026-09-11T13:00:00Z"
+    },
+    {
+      "collectionId": 1698453574,
+      "trackId": 1698453574,
+      "artistName": "Hi唐念念_悦念有声",
+      "collectionName": "【重生之废材大小姐】虐渣|女强|修仙|逆袭|免费",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%87%8D%E7%94%9F%E4%B9%8B%E5%BA%9F%E6%9D%90%E5%A4%A7%E5%B0%8F%E5%A7%90-%E8%99%90%E6%B8%A3-%E5%A5%B3%E5%BC%BA-%E4%BF%AE%E4%BB%99-%E9%80%86%E8%A2%AD-%E5%85%8D%E8%B4%B9/id1698453574?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/76657843.xml",
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "科幻小说",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "科幻小说",
+      "country": "CHN",
+      "trackCount": 218,
+      "releaseDate": "2023-08-05T02:10:00Z"
+    },
+    {
+      "collectionId": 1801532058,
+      "trackId": 1801532058,
+      "artistName": "案夜",
+      "collectionName": "逆天神级系统|永久免费|玄幻异能|超级仙侠",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%80%86%E5%A4%A9%E7%A5%9E%E7%BA%A7%E7%B3%BB%E7%BB%9F-%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9-%E7%8E%84%E5%B9%BB%E5%BC%82%E8%83%BD-%E8%B6%85%E7%BA%A7%E4%BB%99%E4%BE%A0/id1801532058?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/87490430.xml",
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "剧情",
+      "country": "CHN",
+      "trackCount": 1467,
+      "releaseDate": "2025-07-03T11:34:00Z"
+    },
+    {
+      "collectionId": 1801640212,
+      "trackId": 1801640212,
+      "artistName": "爱吃小馄炖",
+      "collectionName": "重生末日囤货|穿越重生|精品|免费有声小说|爽文",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%87%8D%E7%94%9F%E6%9C%AB%E6%97%A5%E5%9B%A4%E8%B4%A7-%E7%A9%BF%E8%B6%8A%E9%87%8D%E7%94%9F-%E7%B2%BE%E5%93%81-%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4-%E7%88%BD%E6%96%87/id1801640212?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/87407195.xml",
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1485"
+      ],
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "科幻小说"
+      ],
+      "primaryGenreName": "剧情",
+      "country": "CHN",
+      "trackCount": 341,
+      "releaseDate": "2025-04-05T09:51:00Z"
+    },
+    {
+      "collectionId": 1873579254,
+      "trackId": 1873579254,
+      "artistName": "Dr桑桥",
+      "collectionName": "侯门娇煞|暴爽免费|重生复仇|嫡女回归||权谋暧昧",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BE%AF%E9%97%A8%E5%A8%87%E7%85%9E-%E6%9A%B4%E7%88%BD%E5%85%8D%E8%B4%B9-%E9%87%8D%E7%94%9F%E5%A4%8D%E4%BB%87-%E5%AB%A1%E5%A5%B3%E5%9B%9E%E5%BD%92-%E6%9D%83%E8%B0%8B%E6%9A%A7%E6%98%A7/id1873579254?uo=4",
+      "feedUrl": "https://www.ximalaya.com/album/116029225.xml",
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "primaryGenreName": "剧情",
+      "country": "CHN",
+      "trackCount": 542,
+      "releaseDate": "2026-10-24T02:02:00Z"
+    }
+  ]
+}

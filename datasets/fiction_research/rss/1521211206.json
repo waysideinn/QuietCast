@@ -1,0 +1,140 @@
+{
+  "show_id": "1521211206",
+  "feed_url": "https://feeds.soundon.fm/podcasts/4f9dc6e4-0c5c-42b5-a8b4-5e9a5cd0331d.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/4f9dc6e4-0c5c-42b5-a8b4-5e9a5cd0331d.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/4f9dc6e4-0c5c-42b5-a8b4-5e9a5cd0331d.xml",
+    "fetched_at": "2026-10-25T14:42:08.231067+00:00",
+    "status": 200,
+    "sha256": "39402304b65ea281722e8bb978b6c5bfc82fe4156953c38b67db07eb3a71d2ee"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【影像重生Testing】",
+    "truncated": false
+  },
+  "description": {
+    "text": "聯繫信箱：[email removed] -- 由影像重生的PM（PoYo）與編劇（關廟詹）所主理之Podcast節目，協同主持人為同為電影系畢業的阿志。 熱愛90年代流行文化，一見面總是幹話連篇。 本設定都想好好聊電影，卻總是走歪路瞎扯淡。 每週五固定更新，錄音片段不定期YouTube上架。 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 119,
+  "episodes": [
+    {
+      "id": "76be4881c084f6b702f09424f83505714e65d8beb5ee87e6403fd3f8bd9bd9f4",
+      "guid": "fe6a2278-c926-4180-8ee2-5cb8553c786f",
+      "title": {
+        "text": "第111訓｜見樹又見林",
+        "truncated": false
+      },
+      "description": {
+        "text": "☀️ 𝟮𝟬𝟮𝟲 𝗡𝗧𝗧【夏日放／FUN時光】現正熱賣中！☀️ ​ 夏天最ＨＩＴ的行程９４來去歌劇院看最ＨＯＴ的【夏日放／FUN時光】系列📣 各位準備好了嗎？‼️ 多檔強棒節目，先搶先贏🔗 ​ 【夏日放／FUN時光】購票 👉 https://npacntt.tw/n12tjqEf -- 本集推薦電影：《極限返航》（Project Hail Mary, 2026） -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 17 Jul 2026 03:52:31 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "668404db1cff6eb7722a81863c998550dd7499b1d4ea414b0d46243615bd2bac",
+      "guid": "ce40b08f-5377-4be4-8b0a-6a415f71aa82",
+      "title": {
+        "text": "第94訓｜師夷長技以制夷",
+        "truncated": false
+      },
+      "description": {
+        "text": "「師夷長技以制夷」意為「學習西方的先進技術從而抵抗西方列強入侵」。 月初IU臺灣演唱會票券開賣，不少黃牛使用電腦程式、包下網咖極限搶票，使許多Uaena（IU粉絲）鎩羽而歸。 阿志在網路詢問有買到票的粉絲如何辦到，對方竟表示用了「比黃牛更厲害的按鍵精靈」，令兩位主持人咋舌不已。 -- 本集推薦電影：《再見機器人》（Robot Dreams, 2023） -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Mar 2024 03:27:46 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "f838df9c0f94d770aad6811aa084b1195564265d6634e7b5b8e5bf48c6cc4877",
+      "guid": "4a64abdb-22d6-456c-97fa-6d9f0dc871f6",
+      "title": {
+        "text": "第77訓｜老調子已經唱完",
+        "truncated": false
+      },
+      "description": {
+        "text": "「我給過他機會，但他自己沒有珍惜。」 前陣子前往電影院觀看《變形金剛：萬獸崛起》的關廟詹，給出了這樣一段評語。 變形金剛系列陪伴我們走過了2010年代，如今變得這樣難堪，到底是誰的問題？ 有機會我們也會針對這個系列作深度的訪談。 而另一方面，靠著《紅翼行動》與馬克華伯格多次合作的彼得柏格，當年《超級戰艦》雖然難看到爆，但還算是賣得可以。 早期的作品也是有著不俗的成績，但跟Ｎ家合作的《史賓賽的機密任務》真的是連電影台電影的娛樂度都跟不上，看不到30分鐘就點掉。 麥克貝、彼得柏格如此動作大導，竟也有江郎才盡的一天嗎？究竟他們該何去何從呢？ — 本期推薦電影：《閃電俠》（The Flash, 2023） -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 Jul 2023 08:57:27 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "4b853dd312570e2988f9c19b3426a834685cb716bc46fae42b82210adeab0067",
+      "guid": "1108943e-4627-444b-8463-c724352237de",
+      "title": {
+        "text": "第60訓｜送進立法院 feat.和平東路路隊長",
+        "truncated": false
+      },
+      "description": {
+        "text": "年關將至，三位年過30歲的無聊男子又聚在一起 試圖想聊聊人生的計畫與變化，無奈卻跟前瞻計畫一樣沒什麼在rolling 30歲後的人生還能像Jolin一樣Don’t STOP嗎？ 這是我們都很想知道的事。 祝大家兔年行大運！ — 本集推薦電影：《小姐好白》（White Chicks, 2004） -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 19 Jan 2023 07:30:31 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "aebbb68103f77e44f6e53a167f5e8fcec82352768ae79f2df6410f3dba34db5c",
+      "guid": "42bc0e46-2b3b-4619-bae8-5bb0cb5bc3c7",
+      "title": {
+        "text": "第44訓｜順人的意就是好功夫（LIVE）",
+        "truncated": false
+      },
+      "description": {
+        "text": "「古有華盛頓砍倒櫻桃樹與父坦承，今有游良福想跟美女愛愛與妻坦承。」 （黃色標志，2022） 2014年，游良福參選市議員時，在電視政見發表會上表示： 「妻子長得不很好看，從政之後應該會有很多誘惑，因為路上到處都有很漂亮的妹妹，我都想跟她愛愛，這沒關係，因為我很誠實。」 2022年，游良福身穿「總統游良福」背心進入桃園市選委會，登記參選桃園市長。 （以上文字部分引用自臉書專頁「已爸偶」） – 本集推薦電影：《哈利波特：阿茲卡班的逃犯》（Harry Potter and the Prisoner of Azkaban, 2004） -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 01 Sep 2022 02:30:05 GMT",
+      "feed_index": 67
+    },
+    {
+      "id": "cf2b6219b400c0efd67a337b97776bfeb5bc8047c7cdc48d5cddde549865d28a",
+      "guid": "741042a7-897f-43cc-a56a-c8940d5ca269",
+      "title": {
+        "text": "第27訓｜請叫我隊長（LIVE）",
+        "truncated": false
+      },
+      "description": {
+        "text": "月讀女僕咖啡進駐台南Focus百貨！ https://reurl.cc/j17noy 想走店的人走起來啦～ -- 本期推薦電影：《時空線索》（Déjà Vu,2006） -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 21 Apr 2022 07:48:26 GMT",
+      "feed_index": 84
+    },
+    {
+      "id": "82087c35bb7dd7cccec2084613855977d279b816852437ecf5afacc66358e583",
+      "guid": "7d24fef4-ff5e-482a-912e-c83a9034ca6a",
+      "title": {
+        "text": "第10訓｜決戰光明頂",
+        "truncated": false
+      },
+      "description": {
+        "text": "塵封已久、在今年過完年就錄好的音檔 居然到現在才有時間釋出 隔了大半年後再回來聽 某些橋段還是自己暗暗笑到不行 上次講婚禮，這次講葬禮！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 23 Dec 2021 02:55:08 GMT",
+      "feed_index": 101
+    },
+    {
+      "id": "fbd1c7e3207f6bd8e60deb658e21b584a25294fb53e1b16e276eff9aae6d11d8",
+      "guid": "641833be-bb86-44bb-afc6-deba1392d428",
+      "title": {
+        "text": "試播集1｜連Podcast都參一腳，根本是蹭熱度之王吧！？",
+        "truncated": false
+      },
+      "description": {
+        "text": "試播集 - 測試錄音錄到講評打架影片，真的有夠瞎 建議搭配影片使用： https://youtu.be/du8sNG6NesE -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 19 May 2020 07:41:58 GMT",
+      "feed_index": 118
+    }
+  ]
+}

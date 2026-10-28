@@ -1,0 +1,165 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/75992036.xml",
+    "final_url": "https://www.ximalaya.com/album/75992036.xml",
+    "fetched_at": "2026-10-26T07:57:12.660822+00:00",
+    "status": 200,
+    "sha256": "89e175043e7f694f3e0301104dbc68719608b9e68b3438c153de90d572c72398"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "去依附：中国化解第一次经济危机的真实经验-温铁军",
+      "truncated": false
+    },
+    "description": {
+      "text": "更多专辑请点击：《全球化与国家竞争》 《居危思危》、《告别百年激进》 《八次危机》、《去依附》 《解构现代化》 中国成功化解了1949—1952年的第1次通胀危机，其经验不仅对其他深陷“发展陷阱”的发展中国家具有指导意义，也正是解决我国现在经济问题之关键。吸纳中国本土的成功经验，使中国经济平稳增长，才能在世界百年未有之大变局中抓住中国的机遇。 本书为温铁军团队继《八次危机》后推出的Z新研究成果，详细记录了我国应对第1次通胀危机的真实经验。1949年中华人民共和国成立，当时既要应对民国延续下来的长期高通胀，又要处置经济发展所内生的新矛盾，正如作者所言“一波未平，一波又起”。最终，中国共产党靠土改提高农民生产积极性，靠增量农产品稳定供给压低城市物价，成功吸纳了过量增发的货币，实现了经济的软着陆。 中国靠乡村土改缓解了通胀危机，而大多数没有开展土地革命的发展中国家至今仍难以从“发展陷阱” 中自拔。这些国家虽然在政治上取得独立，在经济上却又陷入了困境。对比中国经验，探寻如何应对此前半殖民地经济遗留下来的高通胀，归纳其经验和机制，对深化发展经济学理论研究，指导广大发展中国家经济发展，甚至指导世界各国应对通胀危机，都具有重要意义。 对发展经济学的创新，和对发展中国家的启示。民国转向现代化纸币信用的金融改革与当代金融“深改”类似，都是应对输入型危机的产物。其实，远在改成法币之前16世纪中叶开始的",
+      "truncated": true
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "多云下的蛋@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "多云下的蛋"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "多云下的蛋"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Science"
+      ],
+      [
+        "Science",
+        "Social Sciences"
+      ],
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Documentary"
+      ],
+      [
+        "News"
+      ],
+      [
+        "News",
+        "Politics"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/75992036",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 49,
+    "episodes": [
+      {
+        "title": {
+          "text": "第01章：序言 中国 去依附靠的是亿万农民",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "xmly_track_633094818"
+      },
+      {
+        "title": {
+          "text": "第08章：专栏1 美国白银收购法案的出台与实施",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 7,
+        "guid": "xmly_track_633095056"
+      },
+      {
+        "title": {
+          "text": "第15章：专栏7 建国初期的四次人民币贬值",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 14,
+        "guid": "xmly_track_633105134"
+      },
+      {
+        "title": {
+          "text": "第22章：专栏12 包下来 政策的背景",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 21,
+        "guid": "xmly_track_633105410"
+      },
+      {
+        "title": {
+          "text": "第28章：专栏17 中国水利建设中的劳动力动员 以几个大型水利工程为例",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 27,
+        "guid": "xmly_track_633105652"
+      },
+      {
+        "title": {
+          "text": "第35章：专栏21 1950至1952年各级物资交流大会的成效",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 34,
+        "guid": "xmly_track_633105977"
+      },
+      {
+        "title": {
+          "text": "第42章：第一次逆周期调节",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 41,
+        "guid": "xmly_track_633106297"
+      },
+      {
+        "title": {
+          "text": "第49章：第七章 结语 对发展经济学的创新和对发展中国家的启示",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 48,
+        "guid": "xmly_track_633106632"
+      }
+    ]
+  }
+}

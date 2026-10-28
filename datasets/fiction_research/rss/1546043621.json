@@ -1,0 +1,140 @@
+{
+  "show_id": "1546043621",
+  "feed_url": "http://www.ximalaya.com/album/41267197.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/41267197.xml",
+    "final_url": "http://www.ximalaya.com/album/41267197.xml",
+    "fetched_at": "2026-10-25T14:42:25.561574+00:00",
+    "status": 200,
+    "sha256": "eae6a1e16ad95df9d6b26174c480609c334607fae39fe147ae540ae1c75c799b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "一不小心收了个总裁丨都市爱情双播剧",
+    "truncated": false
+  },
+  "description": {
+    "text": "【内容简介】 总说防火防盗防闺蜜，这话绝对是金科玉律！六年前，被闺蜜算计，抢走男友还被那个霸道男人害的四处躲闪，日夜难安。六年后，她带着娃浴血而归，正准备为自己鸣冤，孽绿茶，修理渣男的时候，这倒霉孩子却给自己找个爹回来。 这个当初害了她的男人竟然说要认儿子，拎着一纸合约到她面前，形势所逼，两个被迫契约婚姻。六年前的阴谋也被慢慢的掀开。而这位便宜爹地的真心也渐渐浮出水面。 由青墨私音和雁西楼为您带来的都市言情有声小说《一不小心收了个总裁》火辣开场，萌娃，绿茶婊，帅帅的前男友，色色的霸道总裁一个都不能少，如果你喜欢它，请多多转发，让更多的人能够听到我们的声音，大家的支持，就是我们创作的原动力！爱你们么么哒！ 【作者/主播简介】 作者：雪花灵，网络小说作家。 主播：青墨私音，喜马拉雅独家签约主播。声音温暖知性，声线多变。 代表作：多人有声剧《阖家欢喜》、《冷皇霸爱：极品召唤妻》、《风尘里那些事》《整垮 EX-III》《浮屠缘》《毓秀》等。 雁西楼，喜马拉雅独家签约主播，声音酥痒撩人，人物鲜明立体。 代表作：《子明探案》 参与配音：《神医小毒妃：皇叔太傲娇》《时光清浅向爱则暖》《风华帝后》《凤唳江山》《她从梦里来》等。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 191,
+  "episodes": [
+    {
+      "id": "7df37a94a6e019569596a7d4e28a4bf0bb96b96d8e174598ef76293b1619d2eb",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/349b-audiofreehighqps/E5/A7/CMCoOSIDHqJIABC9JABPifjG-aacv2-48K.m4a",
+      "title": {
+        "text": "一不小心收了个总裁 000 片花（主播求关注啊！！！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 28 Aug 2020 10:41:10 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "6dbc6d2d795dc4df7b9c994887cb5252c7450ce65776d2b6f2b356d48635f29a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group86/M00/F8/A4/wKg5Jl9UXtmx8APHAElTPTTBfoU682-aacv2-48K.m4a",
+      "title": {
+        "text": "一不小心收了个总裁 027 欲擒故纵",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 06 Sep 2020 04:00:01 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "9c88656a15844c8b2c6b3ae6b2356c44ca2ee8702e5e51ecd7d88995b56d5112",
+      "guid": "https://aod.cos.tx.xmcdn.com/group85/M02/79/8C/wKg5JV9gPF7QA2TnAEwbcOS4w9M297-aacv2-48K.m4a",
+      "title": {
+        "text": "一不小心收了个总裁 054 我要跟你一起去",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Sep 2020 04:00:01 GMT",
+      "feed_index": 54
+    },
+    {
+      "id": "c8ae9be36b83f9c8ad97c2ccda867d3dc92dbff224bd3b69925f702b81dfda28",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/89e7-audiofreehighqps/4C/7E/CMCoOSEDQd0MAEh0CgBXXogm-aacv2-48K.m4a",
+      "title": {
+        "text": "一不小心收了个总裁 081 当真知道错了",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 24 Sep 2020 04:00:08 GMT",
+      "feed_index": 81
+    },
+    {
+      "id": "f6c0c5e449bf786790992ef6eca65d8734b8f6a1d32780ccce3ba14892f6f093",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d680-audiofreehighqps/F3/E7/CMCoOR8DTwx_AEd3eQBaJnka-aacv2-48K.m4a",
+      "title": {
+        "text": "一不小心收了个总裁 109 在于",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 04 Oct 2020 04:00:09 GMT",
+      "feed_index": 109
+    },
+    {
+      "id": "e113bbbf9b14df42c21de7834a28870a5a2b40d8347cbb3ddc2868dc1b591df8",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f782-audiofreehighqps/D8/9F/CMCoOSMDYhUcAGkb2gBeXdhw-aacv2-48K.m4a",
+      "title": {
+        "text": "一不小心收了个总裁 136 必须要去",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 18 Oct 2020 14:32:42 GMT",
+      "feed_index": 136
+    },
+    {
+      "id": "a3b1c9745b0fb9fbb09905bc74cba60e586b2fa0c549165ec3ee5875c8cb7853",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7892-audiofreehighqps/1F/8D/CMCoOSUDdUeXAHO1gQBi0luQ-aacv2-48K.m4a",
+      "title": {
+        "text": "一不小心收了个总裁 163 同意进去",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 02 Nov 2020 04:00:08 GMT",
+      "feed_index": 163
+    },
+    {
+      "id": "351dd5866722e54797c629266da4bdc2dafd788cc811cc914442acf573db3147",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c20a-audiofreehighqps/F5/FD/CMCoOSIDjlQOAJgNgwBpIBDV-aacv2-48K.m4a",
+      "title": {
+        "text": "一不小心收了个总裁 190 大结局（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 21 Nov 2020 04:00:06 GMT",
+      "feed_index": 190
+    }
+  ]
+}

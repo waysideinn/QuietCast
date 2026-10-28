@@ -1,0 +1,140 @@
+{
+  "show_id": "1361205685",
+  "feed_url": "http://www.ximalaya.com/album/13883068.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/13883068.xml",
+    "final_url": "http://www.ximalaya.com/album/13883068.xml",
+    "fetched_at": "2026-10-25T14:48:43.021329+00:00",
+    "status": 200,
+    "sha256": "6903d0df008bcd06d5ab6d1a4bacdae5bbc2ff1a98d74fc47ffab46a8222a669"
+  },
+  "status": "ok",
+  "title": {
+    "text": "红楼梦里知多少",
+    "truncated": false
+  },
+  "description": {
+    "text": "讲述红楼女儿的爱恨情仇，品味薄命佳人的钟灵毓秀。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 8,
+  "episodes": [
+    {
+      "id": "f12fe3742156311b835400cd30944d7febc3e02ff2f97f12e10f98316ab62991",
+      "guid": "xmly_track_605019752",
+      "title": {
+        "text": "贾雨村是十恶不赦还是活成了贾宝玉的另一个样子",
+        "truncated": false
+      },
+      "description": {
+        "text": "贾雨村，作者一开始就告诉我们，关于这个人的一切是假的，但是他又是那么鲜活的存在。他的名字叫“假话”，“假是非”，“假语村言”，籍贯又是湖州人（“胡诌”）。颇有点“此地无银三百两”的意思。又说他生于仕宦之家，但到他时，祖宗根基已尽，人口衰丧，只剩下他一人。他想进京求取功名，无奈囊内空空，只得暂在姑苏城里葫芦庙里安身，每日卖文为生。后因甄士隐相助，才有钱上路，开启后来的逆袭之路。看他前面的经历，祖宗根基已尽，卖文为生，几乎就是曹雪芹生活的写照......",
+        "truncated": false
+      },
+      "published_at": "Mon, 16 Jan 2023 16:40:56 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "75af86b4c0eb5f8f0c8dae6d1fb069eec7cc247cf836bd35c885b2c47a78e1bd",
+      "guid": "xmly_track_604285616",
+      "title": {
+        "text": "为王熙凤正名-贾瑞活该？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 13 Jan 2023 19:03:26 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "2751ff5430cb52dea2669b93525fd6a9f9a8e08a5b7d91e2781c5de02bba4136",
+      "guid": "https://aod.cos.tx.xmcdn.com/group40/M07/82/74/wKgJT1rSH4PC3rM8AHkEilgyajg165.m4a",
+      "title": {
+        "text": "红楼梦中的爱情与婚姻6-阶级滑落之巧姐",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 14 Apr 2018 15:34:28 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "17085949100c9fe5f6e56386bc47a0375b26a39c06428ebb90d516cc21430211",
+      "guid": "https://aod.cos.tx.xmcdn.com/group41/M01/00/F8/wKgJ8Vq6YWLx9DCkANatITJ0O50335.m4a",
+      "title": {
+        "text": "红楼梦中的爱情与婚姻5-性感象征之秦可卿",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 27 Mar 2018 15:21:07 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "e7f3d647475fb3766ee5f2c9cdd577046d1f8d8d25c6b898e96aa0dc5f71ed8f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group41/M06/37/F8/wKgJ8lquY_zR5YB8AI9JnPMq0zs074.m4a",
+      "title": {
+        "text": "红楼梦中的爱情与婚姻4之寡妇困境-李纨",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 18 Mar 2018 13:05:00 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "68406a5daa51c9ec437913979ccbfdfafab56fe6f1a117b278cda6dfb6692763",
+      "guid": "https://aod.cos.tx.xmcdn.com/group40/M0A/79/00/wKgJT1qmqCjCbM09AHPze7cy2q8292.m4a",
+      "title": {
+        "text": "红楼梦中的爱情与婚姻3之妻妾制度",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 12 Mar 2018 16:17:45 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "3b917d8c90c2fa8dab2d412a8424d2c515692d37bc80d5e730dd2b637142b721",
+      "guid": "https://aod.cos.tx.xmcdn.com/group40/M04/35/C5/wKgJVFqivALho-tqAJTKlSX3MWU373.m4a",
+      "title": {
+        "text": "红楼梦中的爱情与婚姻2之决定婚姻的因素",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Mar 2018 16:53:22 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "bb515f4fc1a5c9489eacc56cae95db81d0d74a8c187e4b85f7c053c679291d0a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group41/M00/45/85/wKgJ8lqgA12QpOnBAKQcMp6fscI003.m4a",
+      "title": {
+        "text": "红楼梦中的爱情与婚姻1之一些称呼",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 07 Mar 2018 15:21:02 GMT",
+      "feed_index": 7
+    }
+  ]
+}

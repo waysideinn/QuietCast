@@ -1,0 +1,140 @@
+{
+  "show_id": "1462843777",
+  "feed_url": "http://www.ximalaya.com/album/5222744.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/5222744.xml",
+    "final_url": "http://www.ximalaya.com/album/5222744.xml",
+    "fetched_at": "2026-10-25T14:41:47.417365+00:00",
+    "status": 200,
+    "sha256": "adb5fe55511798b9a1c5f487850351326c0893acc5fa62ef6d35fcadedfcb976"
+  },
+  "status": "ok",
+  "title": {
+    "text": "《第十八个盛夏》都市奇幻广播剧",
+    "truncated": false
+  },
+  "description": {
+    "text": "在 A市闹市区的一个背巷的角落里，一家看似平常的小酒馆，酒馆里有一个看似平常的女店员，和一个看着就不太平常的女老板。今年盛夏，是这家酒馆的第十八次开张，没错，这是一个只在夏天才做生意的……奇葩，呃不是，一个只在夏天才做生意的神秘地方。 ——第十八个盛夏2016.09.09·开更喽——",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 16,
+  "episodes": [
+    {
+      "id": "38b2cfd155876703a5cb178bc6e5a1ca9b0bd227f5b1536e6eef3434589e19a8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M04/EE/3F/wKgJLFfSvxWyEJNzAEpEHnplasE814.m4a",
+      "title": {
+        "text": "《第十八个盛夏》1（长安幻月配音工作室出品）",
+        "truncated": false
+      },
+      "description": {
+        "text": "在A市闹市区的一个背巷的角落里，一家看似平常的小酒馆，酒馆里有一个看似平常的女店员，和一个看着就不太平常的女老板。今年盛夏，是这家酒馆的第十八次开张，没错，这是一个只在夏天才做生意的……奇葩，呃不是，一个只在夏天才做生意的神秘地方。",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Sep 2016 14:13:50 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "bb789ec89b7a25e5fe972f5c71d69c57a0ba353e9d2d17155c5abb0401fe8e77",
+      "guid": "https://aod.cos.tx.xmcdn.com/group17/M00/08/C4/wKgJJFfboDOjAKd_AC9KEvtfVik940.m4a",
+      "title": {
+        "text": "《第十八个盛夏》3（中秋超值放送）",
+        "truncated": false
+      },
+      "description": {
+        "text": "彤艺雅/白夏希:冬菱扇 警察叔叔：小吒吒",
+        "truncated": false
+      },
+      "published_at": "Fri, 16 Sep 2016 07:35:08 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "ee62db2c527881ed0b666cff8db62886633d6ff1d5bbd0a67734f47e9c1c5502",
+      "guid": "https://aod.cos.tx.xmcdn.com/group19/M05/08/EB/wKgJK1fboaygd7l3ADApRbceWAQ245.m4a",
+      "title": {
+        "text": "《第十八个盛夏》5（求赞评赏，听友交流Q群：137067080）",
+        "truncated": false
+      },
+      "description": {
+        "text": "苏胜利：麻菊 彤艺雅：冬菱扇",
+        "truncated": false
+      },
+      "published_at": "Fri, 16 Sep 2016 07:40:01 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "6d6848b0a3b888026644f4d1047e2ce3786197664bfb69914c3127877c45dcb7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group18/M06/4A/31/wKgJKlfwi_uSibjaADb_pFpYOjo741.m4a",
+      "title": {
+        "text": "《第十八个盛夏》7（忘记前面剧情的赶紧回放！！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "演员表:冬菱扇/麻菊/雅居（男哥们）",
+        "truncated": false
+      },
+      "published_at": "Sun, 02 Oct 2016 04:24:32 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "fd7c6e713cccb2d4f629ce90acbb867ca46dd184751f3c9aef29161039285ade",
+      "guid": "https://aod.cos.tx.xmcdn.com/group22/M02/22/F4/wKgJLlgdrpbjD9H-AGELRcyXHEQ229.m4a",
+      "title": {
+        "text": "《第十八个盛夏》10（又更新啦啦啦啦啦啦！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集报幕君：风小刀【长安幻月】",
+        "truncated": false
+      },
+      "published_at": "Sat, 05 Nov 2016 10:05:15 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "df9a5582db59f60d305dc802bdf7e827dee8bfc018af645e5a8fb65de795c5f3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group24/M02/92/74/wKgJNVhEHJ-Darb6AFokv9pKjcc555.m4a",
+      "title": {
+        "text": "《第十八个盛夏》12（出发啦~~~~~）",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集友情客串：Plato【长安幻月】",
+        "truncated": false
+      },
+      "published_at": "Sun, 04 Dec 2016 13:39:50 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "8bc76556b4569a8267e147654dfde18d94aff2b9e94ec711a95833b28d87538d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group38/M07/64/6A/wKgJolqE9PTCd1N-AERS0Pjknko588.m4a",
+      "title": {
+        "text": "《gorgeous》新年番外-苏彤篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "第十八个盛夏剧组，祝福各位，新年安康！",
+        "truncated": false
+      },
+      "published_at": "Thu, 15 Feb 2018 12:00:01 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "191dfa3a4408c8bbc15a12ed1aeb4cd2442c3747966cd9f846977235361603d7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group43/M04/05/A7/wKgKklsoynDjdpveABBlFItv9ic427.m4a",
+      "title": {
+        "text": "15集收听指南！一定要听哦！",
+        "truncated": false
+      },
+      "description": {
+        "text": "有任何问题欢迎私信扇子",
+        "truncated": false
+      },
+      "published_at": "Tue, 19 Jun 2018 09:19:15 GMT",
+      "feed_index": 15
+    }
+  ]
+}

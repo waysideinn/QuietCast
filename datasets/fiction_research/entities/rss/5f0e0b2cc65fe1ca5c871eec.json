@@ -1,0 +1,151 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/3710171.xml",
+    "final_url": "http://www.ximalaya.com/album/3710171.xml",
+    "fetched_at": "2026-10-26T07:58:45.552818+00:00",
+    "status": 200,
+    "sha256": "ea0c0f6e33b733ef9d5d7c889ddd61055b9d11b70ca8f145a377b6a1e74c8313"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "元宵佳节：看花灯全秘籍",
+      "truncated": false
+    },
+    "description": {
+      "text": "猴年春节已近尾声，你浪够了吗？没有也莫方，我们还有元宵节这最后一浪。 元宵节别名“灯节”，也称“中国情人节”，所以花灯与爱情成就了许多元宵节不得不说的故事。有情人的话，要去看花灯，赴一场人约黄昏后的浪漫；没有情人的话，更要去看花灯，盼一次灯火阑珊处的邂逅。等不到流星雨散落天际，那就陪你游灯会看流光溢彩。 下面，我们就去看一看全国各地，有哪些精彩的元宵灯会！",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "喜游记"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "喜游记"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Places & Travel"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/3710171",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 8,
+    "episodes": [
+      {
+        "title": {
+          "text": "【上海】两大新春灯会隔江相望，魔都惊现史上最高孙悟空",
+          "truncated": false
+        },
+        "description": {
+          "text": "元宵节赏花灯一直是魔都人民钟爱的传统节目。今年除了豫园新春民俗艺术灯会的重新回归，浦江对岸的世博公园也首次迎来上海有史以来的最大灯会———国际魔灯嘉年华。本次灯会的最大看点无疑是魔灯嘉年华上那只高达 20 米，足以申请吉尼斯纪录的“齐天大圣”。",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group8/M07/04/36/wKgDYFbEKYrhct0VACSKXaaWpbw162.m4a"
+      },
+      {
+        "title": {
+          "text": "【山东/四川/贵州】玩转鲁川黔，观武侯庙会与自贡灯会哪个更绚烂",
+          "truncated": false
+        },
+        "description": {
+          "text": "环球旅游广播联盟《环球旅行家》元宵节特辑 猴年元宵节，环球旅行家带你玩转元宵。转青岛，萝卜、糖球风头强劲更胜元宵；逛四川，观武侯庙会与自贡灯会哪个更绚烂；玩贵州，看最惊险舞龙舞狮尽显民族特色 …… 连线青岛畅行952晓彤带你了解【萝卜·元宵·糖球会】别样特色 连线四川旅游生活广播乐颜让你知晓自贡灯会是多么的华丽壮观 连线贵州旅游广播诺诺告诉你贵州少数民族节的热热闹闹 关注【环球旅行家club】公众微信号了解更多内容！",
+          "truncated": false
+        },
+        "feed_index": 1,
+        "guid": "https://aod.cos.tx.xmcdn.com/group10/M03/FF/F5/wKgDZ1bEVHCR703EAMxDrzTaswc466.m4a"
+      },
+      {
+        "title": {
+          "text": "【江苏】秦淮灯会三十周年，新增非遗体验项目",
+          "truncated": false
+        },
+        "description": {
+          "text": "在南京人眼里，灯亮了，元宵的味道才算有了。南京的秦淮灯会已成为享誉全国的节庆文化活动品牌，成为春节期间南京市民参与面最广的一项民俗文化活动。今年是秦淮灯会恢复举办的 30 周年，也是入选首批国家级非遗项目 10 周年，新增的灯市和灯彩非遗体验馆让人翘首以盼。",
+          "truncated": false
+        },
+        "feed_index": 2,
+        "guid": "https://aod.cos.tx.xmcdn.com/group15/M03/04/08/wKgDZVbFamPh0MJRACTPTsRnaVM190.m4a"
+      },
+      {
+        "title": {
+          "text": "【重庆】山城喜迎首届花灯节，重庆版“清明上河图”艳惊四座",
+          "truncated": false
+        },
+        "description": {
+          "text": "最新的 《中国旅游城市吸引力排行榜》中重庆排名第一。元宵节的赏灯活动，将为在重庆的你呈现文化氛围浓、参与性强的民俗盛宴。将有长 200 米的《清明上河图》等震撼的大型彩灯亮相。你的优秀摄影作品将有机会收录入“发现最美花灯”摄影展，成为宣传城市品牌的信使之一。",
+          "truncated": false
+        },
+        "feed_index": 3,
+        "guid": "https://aod.cos.tx.xmcdn.com/group11/M05/F7/22/wKgDa1bEjzGDuQoCADntZhSa1j8616.m4a"
+      },
+      {
+        "title": {
+          "text": "【浙江】今“宵”醉杭城，灯会面面观",
+          "truncated": false
+        },
+        "description": {
+          "text": "在“人间天堂”——杭州，元宵活动往往是小而精，花样更是多，有灯光小品、杂技表演、音乐会，还有传统的猜灯谜……余杭区的鳌鱼灯堪称一绝，下城区的“钱塘灯会”也是金字招牌，西溪湿地的花谜会精彩纷呈，而运河景区的游船赏灯专线更是一种特别的体验。",
+          "truncated": false
+        },
+        "feed_index": 4,
+        "guid": "https://aod.cos.tx.xmcdn.com/group11/M01/10/AA/wKgDbVbFaqGDGyGmACMLgpbEX8c843.m4a"
+      },
+      {
+        "title": {
+          "text": "【北京】任性五天过元宵，看最有逼格的高科技灯会",
+          "truncated": false
+        },
+        "description": {
+          "text": "在北京，元宵节是胜过春节的最热闹的传统节日，最重要的民俗内容是：吃元宵、赏花灯、猜灯谜。首都有五大灯会最引人瞩目：前门上元灯会、世界花卉大观园灯会、龙庆峡冰灯艺术节、红螺寺灯会和三里屯时尚灯会。“科技”与“时尚”可谓最大的看点。",
+          "truncated": false
+        },
+        "feed_index": 5,
+        "guid": "https://aod.cos.tx.xmcdn.com/group9/M06/05/5C/wKgDZlbFUVfARTx5AIHV0G27Pwo593.m4a"
+      },
+      {
+        "title": {
+          "text": "【青海】走进青海过元宵，为一朵塔尔寺酥油花",
+          "truncated": false
+        },
+        "description": {
+          "text": "青海为位于中国西部，雄踞世界屋脊青藏高原的东北部，这里的元宵习俗可谓独树一帜。一年一度的酥油花展汇集几十万名省内外信教群众、游客来到湟中县的八瓣莲花山下，目睹这难得的盛况。年味十足的社火表演更是每个青海人对于元宵的记忆，涵盖了高台、高跷、旱船、舞狮、舞龙、秧歌等多种活动形式。",
+          "truncated": false
+        },
+        "feed_index": 6,
+        "guid": "https://aod.cos.tx.xmcdn.com/group14/M01/06/70/wKgDY1bFO1ngY18QACsnIruiuqY379.m4a"
+      },
+      {
+        "title": {
+          "text": "【山西】红红火火闹元宵，锣鼓背棍齐上阵",
+          "truncated": false
+        },
+        "description": {
+          "text": "微博/微信搜索“嗨PIE太原”参与互动 正月十五闹元宵！在太原除了看花灯逛庙会是必不可少的新春活动，还有背棍、铁棍、太原秧歌、哑老背妻、太原锣鼓、风火流星等各种独特的民间技艺。往往此时，也是民俗文化活动最地道、最热闹的时候。欢迎五湖四海的听友带上你的家人，来山西太原游走一番，感受我们这里最红火的民俗韵味。",
+          "truncated": false
+        },
+        "feed_index": 7,
+        "guid": "https://aod.cos.tx.xmcdn.com/group15/M05/03/0E/wKgDZVbEB6fjFot7AMyLps_-MJs936.m4a"
+      }
+    ]
+  }
+}

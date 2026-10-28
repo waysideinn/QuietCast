@@ -1,0 +1,140 @@
+{
+  "show_id": "1286642737",
+  "feed_url": "http://www.ximalaya.com/album/9367068.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/9367068.xml",
+    "final_url": "http://www.ximalaya.com/album/9367068.xml",
+    "fetched_at": "2026-10-25T14:48:20.288251+00:00",
+    "status": 200,
+    "sha256": "f07bd7cb090cba7d1362425c584cb20548f23760182b0d3270df6b86d462dd9d"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【青崖白鹿记 】女版金庸武侠类",
+    "truncated": false
+  },
+  "description": {
+    "text": "沈瑄 ——名门遗孤，纵有 回春之术 ，也 不能和心爱之人长相守 。 离儿 —— 失去记忆，一朝醒转，此 身 便由不得自己。 锦绣谷中的那一堆白骨，皇宫密室里的那一双雕像。究竟是什么样的恩怨情仇，就算江湖之大、庙堂之远也避无可避。生命只如山顶的微雪，阳光轻轻一照就了无痕迹；而爱情，落花成阵 …… 斑竹枝上的离离红泪，为谁流，为何流？ 或许，只有那套 “ 梦游剑法 ” 方能将两人的爱恨情仇一一道明。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 74,
+  "episodes": [
+    {
+      "id": "e1ac350db2cd1edd915fc271630a50b11471a1a5be784e74e429b704d9a93716",
+      "guid": "https://aod.cos.tx.xmcdn.com/group29/M05/58/B8/wKgJWVlpPtazZZDaAC7C9647Q60544.m4a",
+      "title": {
+        "text": "青崖白鹿记片花",
+        "truncated": false
+      },
+      "description": {
+        "text": "青崖白鹿记 作者：沈樱樱 播音：微凉 后期:艾兰",
+        "truncated": false
+      },
+      "published_at": "Fri, 14 Jul 2017 22:06:23 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "165cf6bc15319fbbff508c7e9ffcfcac04eb030d893272d716c58ef57df76210",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M07/0E/76/wKgJXlluEAuRIuJ0AJsjlBYmQWY628-aacv2-48K.m4a",
+      "title": {
+        "text": "第10章 恢复记忆",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 18 Jul 2017 22:03:00 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "99409d62707757db0cca5c1f4a989df8aa58d416da170ef676221bf68c3569b2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M04/80/76/wKgJX1l2bk3j7cwHAJ6zeUVHFQk736-aacv2-48K.m4a",
+      "title": {
+        "text": "第21章 夜来夫人来袭",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 24 Jul 2017 22:04:17 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "4aaeb68ee768eea46d2cbc99d674c3e63f9d89451fcee120a418063a92dca7b0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M07/E1/1D/wKgJX1l9BkWDwLA9AI2haP0O1ao675-aacv2-48K.m4a",
+      "title": {
+        "text": "第31章 回三醉宫",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 29 Jul 2017 22:04:46 GMT",
+      "feed_index": 31
+    },
+    {
+      "id": "a31940bebe356f6f797bfa16d73276a46ce7e5a04b5a7f563068e7a5ca66227c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M0A/40/0C/wKgJSVmDnoqTWcctAJktYHHtrOg645-aacv2-48K.m4a",
+      "title": {
+        "text": "第42章 永远也不走",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Aug 2017 22:15:12 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "cb782197119f334595cc8a3a81857ba27508eb315d7bde1cdfdf357343ee3c2b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M09/33/5C/wKgJXlmKNiPRtrneAJLIEI8LQIY691-aacv2-48K.m4a",
+      "title": {
+        "text": "第52章 季如蓝下毒",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 08 Aug 2017 22:14:27 GMT",
+      "feed_index": 52
+    },
+    {
+      "id": "7511d6feb2bd2c7fa716d47a179d08d4ece54adfa83c01777cb8fd6aa81b4067",
+      "guid": "https://aod.cos.tx.xmcdn.com/group31/M05/B2/B2/wKgJSVmSHxrj1YfpAJuOxfs8ASQ719-aacv2-48K.m4a",
+      "title": {
+        "text": "早安~第63章 离离的消息",
+        "truncated": false
+      },
+      "description": {
+        "text": "微信公众号开始更新穿越女频书《皇上，本宫今晚不侍寝》， 《青崖白鹿记》也将近尾声，感谢大家一路支持。",
+        "truncated": false
+      },
+      "published_at": "Mon, 14 Aug 2017 22:07:40 GMT",
+      "feed_index": 63
+    },
+    {
+      "id": "32254cd2588d6b6fb1d344f6e65b1b3d12c702d800f94f0e16c0092b0de385fa",
+      "guid": "https://aod.cos.tx.xmcdn.com/group32/M05/2D/CC/wKgJS1mYtW7xrIoRAHDFthiU_tM164-aacv2-48K.m4a",
+      "title": {
+        "text": "第73章 结局（（推荐新书明宫天下））",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 19 Aug 2017 22:02:40 GMT",
+      "feed_index": 73
+    }
+  ]
+}

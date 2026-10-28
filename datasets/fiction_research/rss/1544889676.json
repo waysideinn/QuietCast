@@ -1,0 +1,140 @@
+{
+  "show_id": "1544889676",
+  "feed_url": "http://www.ximalaya.com/album/31773463.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/31773463.xml",
+    "final_url": "http://www.ximalaya.com/album/31773463.xml",
+    "fetched_at": "2026-10-25T14:51:34.059571+00:00",
+    "status": 200,
+    "sha256": "af45acdc0f2b5f364dd183510cf859bec7c5a5e3d1de2ba8e2c8c023237d5daa"
+  },
+  "status": "ok",
+  "title": {
+    "text": "时光叛徒丨8090集体记忆",
+    "truncated": false
+  },
+  "description": {
+    "text": "有趣有料，有正有骚！一起聊聊80后90后的往事。 电台是由一群奋斗在大城市的八零九零后所创办。旨在记录全景人生，引发共同记忆。 一群逗比，憨货，一起记录时光，记录你！ 原名",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 76,
+  "episodes": [
+    {
+      "id": "27f14b56afc2ed098704724fbb6a0a68c48cf04297e5c8779ede06b1f0b92d8f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8326-audiofreehighqps/0F/6E/CKwRIRwFKgHwAHNTHwDn2Uq4.m4a",
+      "title": {
+        "text": "079《羑里城囚西伯侯》上（姬昌智商不在线）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 29 Sep 2021 10:24:25 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "5824dacaad1c19d4f3499ac5dc1a061b0819d526404f47a6afa512ff89ba41a2",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1e13-audiofreehighqps/94/1E/CKwRIW4EfllyABAAAACurt91.mp3",
+      "title": {
+        "text": "068《云中子进剑除妖》下（大宝剑妨害大宝贝！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 22 May 2021 05:28:22 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "594978862a6fae5630e726dca9262910251c41ee3e5684ed5a4b043fded57c32",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/16b0-audiofreehighqps/19/62/CKwRIRwD_N8EABAAAACHHZXJ.mp3",
+      "title": {
+        "text": "058专辑联动《姬昌解围进妲己》上",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 13 Feb 2021 00:23:37 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "9a482b879d165b91a3e479e06382f62476b8530203499aedcd1bfef84be2b3ef",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0860-audiofreehighqps/86/72/CMCoOSIDh63oAo8EFwBnV23L.mp3",
+      "title": {
+        "text": "046 野生的烟火表演",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播 大伟哥 黑米人",
+        "truncated": false
+      },
+      "published_at": "Mon, 16 Nov 2020 02:59:37 GMT",
+      "feed_index": 32
+    },
+    {
+      "id": "1633dd566033aa494cfc42d26ef38486fa4356f2dba1f46ddabebdccd0bd0f2d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group83/M00/D2/44/wKg5HV85yZzCgAwZASvWQnFmAeM765.m4a",
+      "title": {
+        "text": "035 被我们欺负过的蛇鼠一窝（喜马搜索龙夭之境，听超燃武侠）",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期主播 大伟哥 黑米人 特别推荐 喜马拉雅搜索《龙夭之境》，听长篇热血武侠。 《龙夭之境》灵感来源于龙生九子的东方古老传说。 是一部热血冒险类型的玄幻武侠小说。 世间之人分善恶美丑，世间之事分黑白对错。 生于天地间的你，是随波逐流还是放手一搏？是逆来顺受还是奋起反抗？ 少年，历经艰险，看遍世态炎凉，在热血狂飙的战斗之中，见人见性，见天见地，见未来。 这里有快意恩仇，这里有阴谋诡计，这里有微言大义。 有人搅动风云，有人孤注一掷，有人舍生忘死。 步步为营之后隐藏的大阴谋，看少年如何破解！ 另外，本期主题，是儿时我们欺负的小动物 蛇啊 老鼠啊，地排子啊。这是一个系列，一起回忆当年与各种小生灵的相爱相杀！",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Aug 2020 00:03:58 GMT",
+      "feed_index": 43
+    },
+    {
+      "id": "25d0cfd15c56e47aa8372251fabcc94d7bfe172618dbaa8d0522268e3cf66a18",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3d1d-audiofreehighqps/A2/E9/CMCoOR8DYJQrAmHfsABeAU7a.mp3",
+      "title": {
+        "text": "022 下猪江湖秘籍和骑驴侠",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期主播 大伟哥 黑米人 本期嘉宾 小米 片头曲 久石让 菊次郎的夏天 片尾曲 SHE 波斯猫 一起回忆小时候豢养，宠养，供养过的动物。幽默搞笑，温情浪漫。伴随着动物的日子，总是那么值得留恋。",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Apr 2020 01:06:19 GMT",
+      "feed_index": 54
+    },
+    {
+      "id": "bfe716478103596cf2a20678ef9cbd9610aabb95d9018e68f89b38bfd4786061",
+      "guid": "https://aod.cos.tx.xmcdn.com/group71/M0B/59/D2/wKgOz143eDrCDi6XAzJAOvX2ccE533-aacv2-48K.m4a",
+      "title": {
+        "text": "012 掰了棒子就等好日子！",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期开场 黑米人 本期主播 大伟哥 黑米人 片头曲 久石让 菊次郎的夏天 片尾曲 宋祖英 好日子 武汉告急，全国支援！ 自我防护，自我隔离，不传谣，不造谣！ 这就是最大的贡献！平日里，嘴上说爱国，这时候，用行动表达爱国！ 今天，很多人都复工了，希望大家在公共场合，带好口罩，做好隔离！ 咱们齐心合力，共度难关。",
+        "truncated": false
+      },
+      "published_at": "Mon, 03 Feb 2020 02:00:05 GMT",
+      "feed_index": 64
+    },
+    {
+      "id": "22ba2ca07d8681342a39943f9b9dfea2ba00b5ea9dfd97ffb35f8a63dfe0c6a0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/50cf-audiofreehighqps/83/E3/CMCoOSIDdXI4BPIBnABi2ztm.mp3",
+      "title": {
+        "text": "001 开启追忆之旅|农村游戏大搜罗|玻璃球弹一弹（喜马搜索龙夭之境）",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播 大伟哥 黑米人 开始回忆之旅，让我带你飞回童年！",
+        "truncated": false
+      },
+      "published_at": "Mon, 02 Nov 2020 07:03:24 GMT",
+      "feed_index": 75
+    }
+  ]
+}

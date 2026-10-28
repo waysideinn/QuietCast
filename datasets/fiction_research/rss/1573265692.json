@@ -1,0 +1,140 @@
+{
+  "show_id": "1573265692",
+  "feed_url": "http://www.ximalaya.com/album/50198027.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/50198027.xml",
+    "final_url": "http://www.ximalaya.com/album/50198027.xml",
+    "fetched_at": "2026-10-25T14:42:56.305846+00:00",
+    "status": 200,
+    "sha256": "bbf3f569b057a8e49a369c1ca11616280d6a5500b7e1cf7eca863c25b59ef81b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "邪痞云游 | 热血修仙 ＆ 逆袭斗神",
+    "truncated": false
+  },
+  "description": {
+    "text": "作品简介 金麟岂是池中物，一遇风云变化龙。一个身具杀体和神眼的小乞丐，一旦得到修炼机会，那么天地都会为之颤抖。神挡杀神，佛挡戮佛！看一场轻松不失本性的修仙之途！ 免费小说 大家多多支持订阅呀 后续会不断更新 更好的作品 欢迎收听都喜马拉雅出品的《邪痞云游》 作者：娇娇 演播：皮皮邓",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 106,
+  "episodes": [
+    {
+      "id": "dfbd99fcef89e3657de78a3bc61bd7941a2882956a6457626aa714f1a4f79dec",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1b23-audiofreehighqps/F8/24/CKwRIRwElitjAC35vwC3QvkK-aacv2-48K.m4a",
+      "title": {
+        "text": "邪痞云游 001 小乞丐的求仙之路",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 09 Jun 2021 07:06:02 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "61d1b2a05f13d83107d83383a1113280118fd7163de98b92d19670303158a663",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3f2c-audiofreehighqps/23/6C/CMCoOR4ElMD7AMJTYwC2uJPz.mp3",
+      "title": {
+        "text": "邪痞云游 016 金龙的威力",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 14 Jun 2021 09:30:02 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "b11a0bfdd8cc8bcccc68f7440bf361fc25611c5f37cc9e329c0f3465e446da7b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/68d9-audiofreehighqps/A1/9B/CKwRIJIEnS6EANGljQC5qVOU.mp3",
+      "title": {
+        "text": "邪痞云游 031 侥幸而已",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Jun 2021 01:56:07 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "a603901971027ac867d4c592743d1a257eddbd1b689aa6acd1706e00fe5c0291",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a1ac-audiofreehighqps/DF/9F/CMCoOSAEnS8LAJl8cQC5qZ7q.mp3",
+      "title": {
+        "text": "邪痞云游 46 灵力爆炸",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Jun 2021 09:30:01 GMT",
+      "feed_index": 45
+    },
+    {
+      "id": "6221f4e2b554f5c0d9da9ae74347b5772f00751c800da6d19df453b9a3f9abe7",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/045e-audiofreehighqps/4D/EE/CKwRIMAEqRIjAHW-QAC98Mri.mp3",
+      "title": {
+        "text": "61 一枚棋子",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Jun 2021 09:30:01 GMT",
+      "feed_index": 60
+    },
+    {
+      "id": "5d2e03e948f0a9af6a6d0e433661b86729da7a035e9b9e683e684d0aa9c39bd0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8227-audiofreehighqps/26/44/CMCoOScErL_GAJMJ4gC_HVS4.mp3",
+      "title": {
+        "text": "76 助其进阶",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 06 Jul 2021 09:30:01 GMT",
+      "feed_index": 75
+    },
+    {
+      "id": "c8a22d43c801c9eb9aa4d70cba366aae226dc9e04d40823a1a9261221a6fe8c1",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/38c7-audiofreehighqps/64/FE/CMCoOSAErMAdAH7TmgC_HXVK.mp3",
+      "title": {
+        "text": "91 寿元耗尽",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Jul 2021 09:30:02 GMT",
+      "feed_index": 90
+    },
+    {
+      "id": "170f07f4ed595b3bbc8443ea1a8b4a866dd8a962e84bb537175b3d101551ad87",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/95c9-audiofreehighqps/F9/1D/CKwRIJIErMBtAJnPnAC_HZC9.mp3",
+      "title": {
+        "text": "106 四方浪迹（地表最强奶爸 已上线，快去收听吧)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 21 Jul 2021 09:30:03 GMT",
+      "feed_index": 105
+    }
+  ]
+}

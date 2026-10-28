@@ -1,0 +1,140 @@
+{
+  "show_id": "1507944396",
+  "feed_url": "http://www.ximalaya.com/album/234993.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/234993.xml",
+    "final_url": "http://www.ximalaya.com/album/234993.xml",
+    "fetched_at": "2026-10-25T14:49:56.558091+00:00",
+    "status": 200,
+    "sha256": "58fcffd76a15505d7d22fafda90944f6c97f424c889f6c4be01594db665cd2e8"
+  },
+  "status": "ok",
+  "title": {
+    "text": "幽声隧道频道节目",
+    "truncated": false
+  },
+  "description": {
+    "text": "一档完全个人趣味的电台，包含内容广泛。 音乐：华语\\轰音\\吹泡\\梦泡\\自赏\\英伦\\后摇\\后金属\\年度最佳音乐推荐\\1000首最佳单曲\\音乐人专访 高维：地外文明\\清明梦\\超现实主义绘画\\博尔赫斯\\莫比斯\\埃舍尔\\量子物理\\超心理学\\阅读\\绘画\\电影\\剧集\\动画\\ 休闲：沪语专题电台\\情感话题\\啤酒\\美食\\游戏 微信@gorgias 微博@高尔吉亚in幽声轰音 b站@高尔吉亚 MONO@高尔吉亚 豆瓣@高尔吉亚 QQ音乐@高尔吉亚 QQ视频@高尔吉亚 网易云音乐@高尔吉亚 虾米音乐@高尔吉亚 荔枝FM@幽声隧道 知乎@高尔吉亚",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 656,
+  "episodes": [
+    {
+      "id": "9e1f9a68ceda3d408f6ee454bd9b785b90bc605af537747960342414ec87146c",
+      "guid": "xmly_track_932946512",
+      "title": {
+        "text": "幽声656期 - 《迷宫饭》主题曲原唱Regallily专访，失去与重生",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 20 Nov 2025 03:37:15 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ccb3b010c64f1e5024b9e85ed8675a4f1e3e603d9098bb74542223f9f1f9539e",
+      "guid": "xmly_track_686241181",
+      "title": {
+        "text": "幽声561期 社恐打工日剧第6集 去广州面试摇滚杂志《音乐天堂》之旅 午夜电台第42集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 20 Nov 2023 03:51:09 GMT",
+      "feed_index": 94
+    },
+    {
+      "id": "793bce108aa1e5c1e249ad68915a5c0aa8d0656d97d1387058c1ff7b0889a2eb",
+      "guid": "xmly_track_558864270",
+      "title": {
+        "text": "幽声452期 日本天才女高中生艺术家 平田楓",
+        "truncated": false
+      },
+      "description": {
+        "text": "MV导演，摄像，摄影师，鼓手，创作歌手，集多个艺术身份于一体，这次我们介绍的是一位日本天才女高中生艺术家：平田枫。她也是去年《日本轟音》年度最佳新乐队二月革命的鼓手，今年8月6日发表了自己的首张单曲。为了制作这期节目，我熬了通宵！希望能得到大家的喜爱！",
+        "truncated": false
+      },
+      "published_at": "Sat, 06 Aug 2022 13:05:36 GMT",
+      "feed_index": 187
+    },
+    {
+      "id": "43fb4985ba588c06361282b5c300dfe9e7418a69d21bb8e26f33f0601b4b81d9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group74/M04/1A/66/wKgO3F6bKFaw41MeAaLhNc0nXnA451.mp3",
+      "title": {
+        "text": "幽声隧道电台第342期 - 六一儿童节特别专题",
+        "truncated": false
+      },
+      "description": {
+        "text": "一档完全个人趣味的电台，包含内容广泛。 音乐：华语\\轰音\\吹泡\\梦泡\\自赏\\英伦\\后摇\\后金属\\年度最佳音乐推荐\\1000首最佳单曲\\音乐人专访 高维：地外文明\\清明梦\\超现实主义绘画\\博尔赫斯\\莫比斯\\埃舍尔\\量子物理\\超心理学\\阅读\\绘画\\电影\\剧集\\动画\\ 休闲：沪语专题电台\\情感话题\\啤酒\\美食\\游戏 微信@gorgias 微博@高尔吉亚in幽声轰音 b站@高尔吉亚 MONO@高尔吉亚 豆瓣@高尔吉亚 QQ音乐@高尔吉亚 QQ视频@高尔吉亚 网易云音乐@高尔吉亚 虾米音乐@高尔吉亚 @幽声隧道 知乎@高尔吉亚",
+        "truncated": false
+      },
+      "published_at": "Sat, 18 Apr 2020 16:18:31 GMT",
+      "feed_index": 281
+    },
+    {
+      "id": "9dd13e85b0a335729dd7cf939dc3f2476c1b7c455af6841b441ec126cd885a72",
+      "guid": "https://aod.cos.tx.xmcdn.com/group76/M01/2D/C5/wKgO1F6a2JnAVCOJBUPet0t_R1I751.mp3",
+      "title": {
+        "text": "幽声隧道电台第215期 - 我们从来没有分开过 之量子物理第二集量子纠缠",
+        "truncated": false
+      },
+      "description": {
+        "text": "一档完全个人趣味的电台，包含内容广泛。 音乐：华语\\轰音\\吹泡\\梦泡\\自赏\\英伦\\后摇\\后金属\\年度最佳音乐推荐\\1000首最佳单曲\\音乐人专访 高维：地外文明\\清明梦\\超现实主义绘画\\博尔赫斯\\莫比斯\\埃舍尔\\量子物理\\超心理学\\阅读\\绘画\\电影\\剧集\\动画\\ 休闲：沪语专题电台\\情感话题\\啤酒\\美食\\游戏 微信@gorgias 微博@高尔吉亚in幽声轰音 b站@高尔吉亚 MONO@高尔吉亚 豆瓣@高尔吉亚 QQ音乐@高尔吉亚 QQ视频@高尔吉亚 网易云音乐@高尔吉亚 虾米音乐@高尔吉亚 @幽声隧道 知乎@高尔吉亚",
+        "truncated": false
+      },
+      "published_at": "Sat, 18 Apr 2020 10:38:18 GMT",
+      "feed_index": 374
+    },
+    {
+      "id": "45392822b50ce3b7e01f534ca56666d9734d0595b93a501ff9d29a8de60863c3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group78/M0A/22/69/wKgO1l6aiFyT7E2KA5ufr6Ax1Kc407.mp3",
+      "title": {
+        "text": "幽声隧道电台第120期 - 钢琴摇滚第二集",
+        "truncated": false
+      },
+      "description": {
+        "text": "一档完全个人趣味的电台，包含内容广泛。 音乐：华语\\轰音\\吹泡\\梦泡\\自赏\\英伦\\后摇\\后金属\\年度最佳音乐推荐\\1000首最佳单曲\\音乐人专访 高维：地外文明\\清明梦\\超现实主义绘画\\博尔赫斯\\莫比斯\\埃舍尔\\量子物理\\超心理学\\阅读\\绘画\\电影\\剧集\\动画\\ 休闲：沪语专题电台\\情感话题\\啤酒\\美食\\游戏 微信@gorgias 微博@高尔吉亚in幽声轰音 b站@高尔吉亚 MONO@高尔吉亚 豆瓣@高尔吉亚 QQ音乐@高尔吉亚 QQ视频@高尔吉亚 网易云音乐@高尔吉亚 虾米音乐@高尔吉亚 @幽声隧道 知乎@高尔吉亚",
+        "truncated": false
+      },
+      "published_at": "Sat, 18 Apr 2020 04:55:57 GMT",
+      "feed_index": 468
+    },
+    {
+      "id": "f848725a52b652fed0361e6f5952e55f1464c9a3339b641c4d52817c31abe043",
+      "guid": "https://aod.cos.tx.xmcdn.com/group77/M08/E3/2C/wKgO1V6WlcjiB0gSAr_QgCtgoTc302.mp3",
+      "title": {
+        "text": "幽声隧道电台第025期 - 25期英式吉他专题第一集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Apr 2020 05:04:09 GMT",
+      "feed_index": 561
+    },
+    {
+      "id": "1bdafcaeb1af9259300be833551842a35de6174e78cdd30d7a305c712ab00915",
+      "guid": "https://aod.cos.tx.xmcdn.com/group16/M05/2B/94/wKgDalWI5rqhq1L4Awzm_pzqMyI891.m4a",
+      "title": {
+        "text": "幽声隧道频道第166期 - 日本摇滚音乐男声篇 第3集",
+        "truncated": false
+      },
+      "description": {
+        "text": "制作时间：2014年1月26日 节目主持：高尔吉亚 节目编辑：高尔吉亚 播放时间：105分钟28秒 播出曲目： 1 The Dresscodes - Trash 垃圾 2 The Dresscodes - ゴッホ 3 The Dresscodes - Lolita 4 The Dresscodes - 1954 5 毛皮のマリーズ - THE END 6 Creephyp クリープハイプ - 憂、燦々 7 Creephyp クリープハイプ - 社会の窓 8 indigo la End - she 9 indigo la End - 夜の公園 10 People In The Box - 月曜日消失 11 Amazarashi - 風に流離い 12 Amazarashi - 匿名希望 背景音乐： 1 KYARY PAMYU PAMYU - きゃりーANAN 2 KYARY PAMYU PAMYU - にんし?ゃりは?んは?ん 3 アインシュタインズ - ごめんねパスカル (Instrumental) 4 アインシュタインズ - いちばんぼし (Instrumental) 5 アインシュタインズ - ニコラスくん進化論 (Instrumental) 6 toivoa - Liverleaf 7 toivoa - mjuk 8 toivoa - Kukushka 9 toivoa - K",
+        "truncated": true
+      },
+      "published_at": "Thu, 17 Apr 2014 17:17:08 GMT",
+      "feed_index": 655
+    }
+  ]
+}

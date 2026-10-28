@@ -1,0 +1,140 @@
+{
+  "show_id": "1546202225",
+  "feed_url": "https://feeds.soundon.fm/podcasts/3c9efbf2-03b3-45ca-808f-3fdbe7256a01.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/3c9efbf2-03b3-45ca-808f-3fdbe7256a01.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/3c9efbf2-03b3-45ca-808f-3fdbe7256a01.xml",
+    "fetched_at": "2026-10-25T14:56:13.821018+00:00",
+    "status": 200,
+    "sha256": "994b45294c1c21ec47306f4e707466ae58abe0afd4671ede808f586a08fe41c6"
+  },
+  "status": "ok",
+  "title": {
+    "text": "e聊健康Talk",
+    "truncated": false
+  },
+  "description": {
+    "text": "e聊健康Talk",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 313,
+  "episodes": [
+    {
+      "id": "7ff93a95930ecebc3750fbd3c713ff4b4364faf548e5e5c0bc08874f1b37a5b4",
+      "guid": "1c4341b2-92d8-4f67-8408-023098d4b98d",
+      "title": {
+        "text": "骨鬆用藥別亂停！骨鬆患者拔牙、植牙前，一定要知道的事ft. 李正喆 台大醫院口腔顎面外科教授暨主治醫師",
+        "truncated": false
+      },
+      "description": {
+        "text": "骨質疏鬆患者接受抗骨吸收藥物治療，可以降低骨折風險，但你知道嗎？少數患者在拔牙、植牙或牙周疾病等情況下，可能增加藥物相關顎骨壞死的風險。究竟「補骨」的藥為什麼可能影響顎骨？正在用藥的人遇到拔牙，到底該不該停藥？如果出現牙痛、牙齦傷口不癒合，甚至下巴麻木，該提高哪些警覺？這一集邀請專家帶大家一次了解骨鬆用藥與口腔健康之間的關係。 想聽更多 [https://www.ttvc.com.tw/article/etalk.html]( ) >)",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Oct 2026 06:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "2178e3c92e5beb7166edb34718451a3702c6b5ca37ed5f8c1a14a78371230613",
+      "guid": "9675d608-b331-4533-8545-85adb7b2b74f",
+      "title": {
+        "text": "生吃蔬菜好還是熟吃好？營養師教你正確吃法ft程涵宇營養師",
+        "truncated": false
+      },
+      "description": {
+        "text": "生食雖能保留部分敏感營養素，但衛生與清潔非常重要，尤其是免疫力弱、腎臟病或正在接受化療者，應避免生食，以免造成身體負擔。「健康飲食沒有捷徑，懂得選擇、懂得烹調，比單一堅持生或熟更重要。」",
+        "truncated": false
+      },
+      "published_at": "Thu, 18 Dec 2025 06:00:00 GMT",
+      "feed_index": 45
+    },
+    {
+      "id": "c34b0c079895d1843e366c79007f4a994db469da8aea1fdfc200559d944b5663",
+      "guid": "a0511fed-ad6f-4fcc-ace1-cf425b466b02",
+      "title": {
+        "text": "OHCA等於死亡嗎？葉克膜和猝死有什麼關係？專家解析救命關鍵ft徐展陽 台北慈濟醫院心臟外科主治醫師",
+        "truncated": false
+      },
+      "description": {
+        "text": "我們常在新聞中聽到OHCA、葉克膜、猝死等醫療名詞，但許多人對其真正含義感到困惑，甚至誤以為OHCA（到院前心肺功能停止）等同於死亡，事實真是如此嗎？哪些情況或族群需要葉克膜來搶救生命？今天特別邀請台北慈濟醫院心臟外科主治醫師徐展陽，深入解析這些專業術語，並帶大家了解葉克膜在急救中的關鍵角色！",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Mar 2025 06:00:00 GMT",
+      "feed_index": 89
+    },
+    {
+      "id": "40e356bfc5b36bbed20a40e183c247c914d39f8f9392df92039557f6b9cb96f4",
+      "guid": "74e7cfcd-005a-403a-95ed-88776a9dfd6e",
+      "title": {
+        "text": "頭痛只痛一邊，才叫偏頭痛?能忍就忍，儘量不要吃止痛藥?頭痛其實可以預防?ft.神經內科林志豪醫師",
+        "truncated": false
+      },
+      "description": {
+        "text": "根據《全球疾病負擔研究》報告指出，過去30年以來，偏頭痛高居導致失能疾病的第二名，在50歲以下青壯年族群甚至位居第一，影響全球大約10%-20%的人口。在台灣，大約有200萬人有偏頭痛的困擾，而且女性發生機率比男性來得高，全台女性偏頭痛的比率為14.4%，是男性的3倍之多；尤其容易出現在20-50歲的女性族群，不僅會造成生活品質下降，頻繁的偏頭痛更容易合併焦慮、憂鬱、失眠等身心問題，要注意的是偏頭痛不只是症狀而已，而是一種需要治療的慢性疾病。今天特別邀請神經內科醫師林志豪來跟大家聊一聊。",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 May 2024 06:00:00 GMT",
+      "feed_index": 134
+    },
+    {
+      "id": "ea551e903269a78510f9c89c663c53ca118ad90de52013fffcd03c751bf7ae75",
+      "guid": "6f2fa527-48f4-45b4-af5a-7720dd848a47",
+      "title": {
+        "text": "微喘、全身無力、腳腫，恐是心臟衰竭，放血管支架有用嗎?該如何選擇?ft國泰醫院黃晨祐醫師",
+        "truncated": false
+      },
+      "description": {
+        "text": "有位患者有厭食、微喘、全身無力、腳腫，到了腸胃科就診後發現有腹水、心臟擴大等跡象，後來轉介檢查發現是嚴重血管阻塞的心臟衰竭，還好及早發現，透過藥物療和支架治療之後，症狀完全改善。今天來和大家聊一聊心臟衰竭這個議題，以及支架種類這麼多，該如何挑選?",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 Jul 2023 06:00:00 GMT",
+      "feed_index": 178
+    },
+    {
+      "id": "7ab77cd89c65810bbedbc1c37a3f2dd37f8404fc60fa1f1bbecabf96bd03b6b6",
+      "guid": "4a11ebcb-2af3-446f-bc9d-79c51a83ad7c",
+      "title": {
+        "text": "BA.5來勢洶洶!該怎麼吃才能成為天選之人?抗新冠9大策略--李政純主編",
+        "truncated": false
+      },
+      "description": {
+        "text": "建議民眾平時飲食應多吃新鮮、未加工的植物性食物、補充充足的水分，同時減少油炸、高糖、高鹽的食物，可以幫助預防新冠肺炎的感染及症狀，也將新冠肺炎重症發病率降到最低。 常春樂活GABA芝麻加強錠PLUS 你睡的好嗎?現代人常常睡眠品質不好，真的很困擾。常春樂活GABA芝麻加強錠PLUS， 含高純度芝麻素、GABA專利麩胺酸發酵物，與維生E，經過使用驗證睡前兩錠，可舒緩情緒壓力，安定神經，幫助入睡，好的睡眠品質能從早晨起為全新的一天帶來好氣色好活力，不含西藥，不會成癮，請認明常春樂活GABA芝麻加強錠PLUS。立即點下方連結，結帳輸入┌FREE┐立即取得200元折扣券，限領用一次喔 https://www.evergreen-lohas.com/categories/sleep 常春樂活享健美纖 今天又要吃大餐囉，重視體態的我必隨身攜帶常春樂活的享健美纖。享健美纖含有專利水溶性膳食纖維與專利藤黃果萃取物，原料均通過美國FDA檢測可促進腸道蠕動，使排便順暢，也能增加飽足感，搭配運動，維持體態輕而易舉，吃高熱量大餐時加到食物或飲料中一起食用，不影響食物的美味。不是西藥、蕃瀉葉成份，使用更安全更安心，請認明常春樂活享健美纖，立即點下方連結，請認明結帳輸入┌FREE┐立即取得200元折扣券，限領用一次喔 https://www.evergreen-lohas.com/categories/los",
+        "truncated": true
+      },
+      "published_at": "Thu, 29 Sep 2022 06:30:00 GMT",
+      "feed_index": 223
+    },
+    {
+      "id": "925dec54e0e68e35034c9a7ca5c30a8e73886898dc65a4e1611d61ee3ee38ca1",
+      "guid": "5cd984df-3ef8-4120-91c5-bf72843da404",
+      "title": {
+        "text": "你打第二劑疫苗了沒?有像被火車撞嗎?心臟健康要吃哪些食物?12種好食物保養心血管 ft.李政純",
+        "truncated": false
+      },
+      "description": {
+        "text": "如果您喜歡我們的節目，歡迎 支持 我們！ https://pay.soundon.fm/podcasts/3c9efbf2-03b3-45ca-808f-3fdbe7256a01 常春月刊FB粉絲團 https://www.facebook.com/evergreen.ttvc/ 常春樂活佰益多益生菌 在繁忙的生活中需要可以幫助消化，維持消化道機能的益生菌，常春樂活佰益多益生菌，專為國人飲食習慣設計的配方，三大專利菌株調和，每包都達佰億活菌及三大益生質，以維持益生菌的活性，每日隨時補充，讓ㄣˋㄣˋ維持順暢，咕嚕咕嚕儲值好菌，常春樂活佰益多益生菌，立即點入下方連結，結帳輸入┌FREE┐立即取得200元折扣券，限領用一次喔 https://www.evergreen-lohas.com/categories/intestine-probiotics 常春樂活樂視C+口含錠 現代人手機不離身，除了睡覺休息，3C幾乎佔據了我們大部分的時間，常春樂活樂視C+口含錠，採用世界知名大廠原料，美國專利游離型葉黃素及玉米黃素，使用最佳5:1黃金比例好吸收，另添加萃取自紅球藻的蝦紅素，讓在閱讀、使用3C後有晶潤舒適的最佳保養，常春樂活樂視C+免吞服，對於不愛膠囊的小朋友及老人家是最佳選擇，口味宜人，晶亮有神超方便。請認明常春樂活樂視C+ ，立即點下方連結，結帳輸入┌FREE┐立即取得200元折扣券，限",
+        "truncated": true
+      },
+      "published_at": "Thu, 18 Nov 2021 06:00:00 GMT",
+      "feed_index": 267
+    },
+    {
+      "id": "67c03e5d068636628d2a50856b33ca6a0ef5db0873d6f93acca35f032a93fb6d",
+      "guid": "440c91d0-8d5f-452c-a1a0-a0594a8b765d",
+      "title": {
+        "text": "e聊健康Talk 預告篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "常春月刊推出Podcast e聊健康Talk 所有你會關心的健康大小事 e聊健康Talk 邀請專家、醫師、營養師…等 陪你一起輕鬆聊 趕快按下訂閱 不錯過所有的精彩單集 2021/01/07 磅礡上線 關注 常春月刊FB粉絲團 獲得更多節目消息 https://www.facebook.com/evergreen.ttvc/",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Dec 2020 09:00:00 GMT",
+      "feed_index": 312
+    }
+  ]
+}

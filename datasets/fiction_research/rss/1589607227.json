@@ -1,0 +1,140 @@
+{
+  "show_id": "1589607227",
+  "feed_url": "http://www.ximalaya.com/album/52804420.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/52804420.xml",
+    "final_url": "http://www.ximalaya.com/album/52804420.xml",
+    "fetched_at": "2026-10-25T14:43:16.239798+00:00",
+    "status": 200,
+    "sha256": "520fb785bad50350236d6a8a5d188ab09ee6a00c792ce4b4a91b116f2a3500ba"
+  },
+  "status": "ok",
+  "title": {
+    "text": "婚姻边缘的人儿 | 都市言情 |免费多播",
+    "truncated": false
+  },
+  "description": {
+    "text": "【内容简介】 婚姻里塞满各色各样的人，当婚姻充满着重重迷雾时，那么可能爱情就只剩下了欺骗。 常有人说婚姻是两个人的事、但更是两个家庭和更多人之间的事。 本书从一对夫妻失业开始讲起，男主林木坚一直爱慕着他原来的上司安如玉、而陈涛却迷恋着他的妻子黄英。 两人面临着刚刚失业，没有收入，又遇到股票下跌、存款大幅缩水，随着两家老人的相继到来，矛盾逐渐显现，原本美好的爱情被挤的七零八落。 林木坚和黄英能携手走到最后么？黄雯雯和隋阳最终会在一起么？敬请收听由太阳小小、玲珑花心 “敬请收听由太阳小小、玲珑花心儿、兴宇修灵共同演播的《婚姻边缘的人儿》，欢迎您的订阅。” 【作者简介】 涛哥",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 55,
+  "episodes": [
+    {
+      "id": "dc1e22833577b437082865f2d2bcfe3de622f9af252f6b4bc0750c72d4a7e9d0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/733a-audiofreehighqps/53/83/CKwRINsE_XLCAYcI9QDcnZcO.mp3",
+      "title": {
+        "text": "第一章 黄英发飙-新人主播求订阅 求点赞",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Sep 2021 11:30:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "05daa81a19d1ddab5195780f293bf99eb3fe29450f9dee7fb7e858989655006e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d7da-audiofreehighqps/ED/85/CKwRIW4FEiFoAMsFXwDh-OSM.mp3",
+      "title": {
+        "text": "第九章 两对老人",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Sep 2021 11:30:00 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "4dec8fb4bd840a68c226b332c5979deb769d8bf9afab82fb6cdf71cbc721f49e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3708-audiofreehighqps/66/A9/CKwRIUEFG_YHAO6YNgDkZt-F.mp3",
+      "title": {
+        "text": "第十六章 散心",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 21 Sep 2021 11:30:00 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "985c001891cd69a94640bb76888e1d9d016cdd5dbfba34a0ccd80f236933abcb",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/eb9d-audiofreehighqps/85/AB/CMCoOR4FKh4AARk8FQDn5TwJ.mp3",
+      "title": {
+        "text": "第二十四章-害怕",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 29 Sep 2021 15:30:00 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "a7e20b190ba23839dc75df983755419ab2151efd48a7b4a90527de6b9f5f180c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2cc9-audiofreehighqps/B1/78/CMCoOSIFNFdGARPnEADqN4mN.mp3",
+      "title": {
+        "text": "第三十二章 冰释前嫌",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 07 Oct 2021 15:30:00 GMT",
+      "feed_index": 31
+    },
+    {
+      "id": "004526006fa6605aadb79abb3b28904a5a4d9452e47ad96aa6282530f9158568",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3d08-audiofreehighqps/B3/35/CKwRIUEFP0fzASWHPQDs9DhF.mp3",
+      "title": {
+        "text": "第四十章 询问",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Oct 2021 15:30:00 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "d016d4b1dd976193db9ed27c211166fea6151050a6b54af4a5cdb79eab886ba5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ef89-audiofreehighqps/76/70/CMCoOScFSJT4ASPduQDvTN1A.mp3",
+      "title": {
+        "text": "第四十七章 突降危机",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Oct 2021 15:00:27 GMT",
+      "feed_index": 46
+    },
+    {
+      "id": "51acca4d465ba05518422e9415108f00340c6c6fe8994ab406ace340adca515d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d453-audiofreehighqps/47/09/CMCoOSEFUqR-ATwtcQDx4fPV.mp3",
+      "title": {
+        "text": "第五十五章 无奈的结局（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 30 Oct 2021 15:30:00 GMT",
+      "feed_index": 54
+    }
+  ]
+}

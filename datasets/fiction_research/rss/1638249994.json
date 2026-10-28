@@ -1,0 +1,140 @@
+{
+  "show_id": "1638249994",
+  "feed_url": "https://anchor.fm/s/adf2f1e0/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/adf2f1e0/podcast/rss",
+    "final_url": "https://anchor.fm/s/adf2f1e0/podcast/rss",
+    "fetched_at": "2026-10-25T14:56:21.987641+00:00",
+    "status": 200,
+    "sha256": "64380dd4e21cb00aad9eb96434c63af9d21b29be5358a4e24a74375f7ecaa2af"
+  },
+  "status": "ok",
+  "title": {
+    "text": "和你一起感受温暖",
+    "truncated": false
+  },
+  "description": {
+    "text": "和你一起感受温暖",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 899,
+  "episodes": [
+    {
+      "id": "92d956a809a1f036c738f792f9f274b706986bcf80bbb50665f68095c126db07",
+      "guid": "d2ffeb2d-b810-4293-b6d9-77a6000be701",
+      "title": {
+        "text": "120.都智能时代了，为何还要提倡劳动教育？.mp3",
+        "truncated": false
+      },
+      "description": {
+        "text": "120.都智能时代了，为何还要提倡劳动教育？.mp3",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Jun 2023 09:02:56 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d56a332ea91f18444f97d1526e19168e93cc64fcd3c58762ce0bc5623cb69202",
+      "guid": "ca47efb7-eba2-4368-b6df-d019c116c269",
+      "title": {
+        "text": "002.1144 历史的碎片：私人订制（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "002.1144 历史的碎片：私人订制（上）",
+        "truncated": false
+      },
+      "published_at": "Thu, 01 Jun 2023 00:57:59 GMT",
+      "feed_index": 128
+    },
+    {
+      "id": "b1c8915e9146ad152cb3b3777d7813597869a481938fe781bc2a2552ad0e223c",
+      "guid": "9ede709a-86e7-4d77-8f15-50bdc36ef901",
+      "title": {
+        "text": "001.讲一讲“天涯左央事件”（目前全网最全）上集（求订阅）",
+        "truncated": false
+      },
+      "description": {
+        "text": "001.讲一讲“天涯左央事件”（目前全网最全）上集（求订阅）",
+        "truncated": false
+      },
+      "published_at": "Fri, 12 May 2023 10:22:24 GMT",
+      "feed_index": 257
+    },
+    {
+      "id": "3e8166fe638052e18cbfc07ca12ace534da547a6b84efe18c9e91068288a7d69",
+      "guid": "50060017-3743-4c06-8dd7-dc00e2a3919e",
+      "title": {
+        "text": "001.第3集：好女人也是好男人经营出来的",
+        "truncated": false
+      },
+      "description": {
+        "text": "001.第3集：好女人也是好男人经营出来的",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 Apr 2023 16:22:03 GMT",
+      "feed_index": 385
+    },
+    {
+      "id": "c7ed09f4c71ea657dc97a1edcba3e527ca59c846aa5353f1b08e430b70560646",
+      "guid": "c322096e-0540-49ab-87a0-f81a48197887",
+      "title": {
+        "text": "005.998快讯：20230405 14-00-14-10",
+        "truncated": false
+      },
+      "description": {
+        "text": "005.998快讯：20230405 14-00-14-10",
+        "truncated": false
+      },
+      "published_at": "Wed, 05 Apr 2023 19:08:04 GMT",
+      "feed_index": 513
+    },
+    {
+      "id": "65e34d6346c8de1099ff17270525c721c848b4b5ddf955a9e716d47df356c238",
+      "guid": "20b4e00a-ed2f-4697-87c4-1da8909f1536",
+      "title": {
+        "text": "001.黑洞可能是宇宙给人类的信物",
+        "truncated": false
+      },
+      "description": {
+        "text": "001.黑洞可能是宇宙给人类的信物",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Mar 2023 06:59:23 GMT",
+      "feed_index": 641
+    },
+    {
+      "id": "d8ced193c885df23f5fc1a3378e19598c04dd076bf1ea47edd858481db0bfc9d",
+      "guid": "970594e7-ca3d-4400-ae1d-78c539f21ede",
+      "title": {
+        "text": "053.晚安｜与自己和解吧",
+        "truncated": false
+      },
+      "description": {
+        "text": "053.晚安｜与自己和解吧",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Mar 2023 20:29:19 GMT",
+      "feed_index": 770
+    },
+    {
+      "id": "dfa5650216d6fcfda9f75220f4f299976d73740ce6ce4353721144c6417aefec",
+      "guid": "90655a60-3476-4e6a-b332-ce7c4f5edf8a",
+      "title": {
+        "text": "在说别人坏话吗？",
+        "truncated": false
+      },
+      "description": {
+        "text": "在说别人坏话吗？",
+        "truncated": false
+      },
+      "published_at": "Fri, 05 Aug 2022 02:34:07 GMT",
+      "feed_index": 898
+    }
+  ]
+}

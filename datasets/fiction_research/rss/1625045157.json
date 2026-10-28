@@ -1,0 +1,140 @@
+{
+  "show_id": "1625045157",
+  "feed_url": "https://www.ximalaya.com/album/61938617.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/61938617.xml",
+    "final_url": "https://www.ximalaya.com/album/61938617.xml",
+    "fetched_at": "2026-10-25T14:44:20.679000+00:00",
+    "status": 200,
+    "sha256": "db6e25259efb6f421f5542e404736fd8bd9b2291fbecf8e8e075ea6fda6cd50e"
+  },
+  "status": "ok",
+  "title": {
+    "text": "女杀手穿越成二傻子|古言多播|冷面多情帅皇帝|双穿",
+    "truncated": false
+  },
+  "description": {
+    "text": "H城市的她，是一个冷血杀手，最后落得了一个被师傅出卖的下场，机缘巧合下灵魂穿越到了南翼皇朝，他是南翼国的皇帝，冷酷的他是全国女性的偶像。他们将会经历一场怎样的相识、相知，最后相爱呢？亲，想知道吗？想知道就进来吧！不会让你失望的。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 92,
+  "episodes": [
+    {
+      "id": "5343430cd8cce2644f88e076260e99a6ec4a2cf40ea14478b0ffdee9cf67f37d",
+      "guid": "xmly_track_516954460",
+      "title": {
+        "text": "冷王爷的杀手王妃 片花 欢迎订阅",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 01 Apr 2022 03:12:40 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "78cec9c4a3f84849f55620809146ee23df057c13c578fd934a0cfeca49505967",
+      "guid": "xmly_track_518094719",
+      "title": {
+        "text": "冷王爷的杀手王爷13打入冷宫",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Apr 2022 10:00:10 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "b349ff3cb0b57822462b814c3acff4a20f20319b86202711be6f029e7be8373b",
+      "guid": "xmly_track_519879734",
+      "title": {
+        "text": "冷王爷的杀手王妃26阴谋实施不易",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 09 Apr 2022 11:10:48 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "2947e26b69987546388b4374667ecc51295c8a5cd86285ac351c78bc3d23dc57",
+      "guid": "xmly_track_522351268",
+      "title": {
+        "text": "冷王爷的杀手王妃39晴公主入京",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Apr 2022 10:00:08 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "f34bbcced7bdbe185710a2ad2e8708ae23c0681c8ff89f223554b773b31890ea",
+      "guid": "xmly_track_524451771",
+      "title": {
+        "text": "冷王爷的杀手王妃52学吉他",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Apr 2022 10:00:08 GMT",
+      "feed_index": 52
+    },
+    {
+      "id": "82c813865fda127b9d0eabf20ee157ed22bbfe3164ac1156b4e075859794a626",
+      "guid": "xmly_track_526841218",
+      "title": {
+        "text": "冷王爷的杀手王妃65微服出使",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 29 Apr 2022 10:00:08 GMT",
+      "feed_index": 65
+    },
+    {
+      "id": "443e3b255b9db5b53e44050bf411303be4c0bf532d9808c6217b1a689d14c623",
+      "guid": "xmly_track_528718730",
+      "title": {
+        "text": "冷王爷的杀手王妃78大礼",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 May 2022 10:00:07 GMT",
+      "feed_index": 78
+    },
+    {
+      "id": "7f198c5d60c85684aac8e03639d8c882e2bff5379d76b6853185c05d66c9f6ac",
+      "guid": "xmly_track_531142784",
+      "title": {
+        "text": "冷王爷的杀手王妃91大结局（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 May 2022 10:00:07 GMT",
+      "feed_index": 91
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1139142615",
+  "feed_url": "http://www.ximalaya.com/album/4735586.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/4735586.xml",
+    "final_url": "http://www.ximalaya.com/album/4735586.xml",
+    "fetched_at": "2026-10-25T14:47:33.333263+00:00",
+    "status": 200,
+    "sha256": "0b9de27fbd21de1ea82ddfbea24377c34a4ff304b00092ccb87d824bf984eb7f"
+  },
+  "status": "ok",
+  "title": {
+    "text": "经济学",
+    "truncated": false
+  },
+  "description": {
+    "text": "福利1 ： 点击此处打开→【好买研习社喜马入门群】请扫码进入哦 福利2 ： 点击此处V信分享打开→【新手课程】700期基金课90天畅听 （拷贝链接，到V信打开） 福利3： 点击此处打开→添加【好买研习社】微信公众号，音频文稿及图表站内免费获取",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 260,
+  "episodes": [
+    {
+      "id": "49c2497dbe2a96017a5ff7526ec494d136cd7aba18a28b81a7e9155bb248b08a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group52/M00/C4/24/wKgLcFwTeezgECn2ADTJBCPh2fc513.m4a",
+      "title": {
+        "text": "看懂经济学背后的故事，还能用到投资里，这些老师很牛！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 14 Dec 2018 09:38:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "0576d5013c104301e1e5a307146bec36f81dae397c3ff3af91e26f84ecf5c722",
+      "guid": "https://aod.cos.tx.xmcdn.com/group24/M00/80/60/wKgJMFihg8GxYLihAAxMn62ObiY793.m4a",
+      "title": {
+        "text": "【钓鱼】授人以鱼不如授人以渔？别扯了！",
+        "truncated": false
+      },
+      "description": {
+        "text": "90秒告诉你经济高潮点！好买商学院段子投教科普节目。 更多内容请关注微信公众号：好买商学院（howbuyie）。",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Feb 2017 22:00:01 GMT",
+      "feed_index": 37
+    },
+    {
+      "id": "a483f7f354ca34045fafab708068daa2047591470fe150fac0d788a45d18f41a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group25/M00/26/20/wKgJMVhrjDXi7hy6AB_cMtWONh8682.mp3",
+      "title": {
+        "text": "【修行】拒绝鸡汤，石阶与切菜板的对话！",
+        "truncated": false
+      },
+      "description": {
+        "text": "90秒告诉你经济高潮点！好买商学院段子投教科普节目。 更多内容请关注微信公众号：好买商学院（howbuyie）。",
+        "truncated": false
+      },
+      "published_at": "Tue, 03 Jan 2017 22:00:01 GMT",
+      "feed_index": 74
+    },
+    {
+      "id": "6676dd0853dd2f23fec1629b3064b3bc6aba03082138d76969fc3f6f8776e455",
+      "guid": "https://aod.cos.tx.xmcdn.com/group24/M02/67/88/wKgJNVg4GYKg25amACVEJAtoZqk281.mp3",
+      "title": {
+        "text": "【对台词】我们明明是在对剧本！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Nov 2016 22:00:01 GMT",
+      "feed_index": 111
+    },
+    {
+      "id": "96d4e2f0cc5e90d7c99cb9c69b200aa0853a0a51e798a75c86bbd6bd71132997",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M09/96/9B/wKgJLFgJ6a_jWNsNABGvHduVzp0302.mp3",
+      "title": {
+        "text": "【贴膜】老师真贴心，给学生贴手机膜",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 22 Oct 2016 21:55:00 GMT",
+      "feed_index": 148
+    },
+    {
+      "id": "c57596e882b28ce7633c091621fec275b783d08a094cb9de983df8d35ed475cc",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M03/22/76/wKgJJ1fjOurxZZPdACQBm8PULrU398.mp3",
+      "title": {
+        "text": "【兄弟】三观不同，怎么能在一起？",
+        "truncated": false
+      },
+      "description": {
+        "text": "扫描图中二维码参与活动，领取好买哥派送的“16元红包”！",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Sep 2016 22:00:00 GMT",
+      "feed_index": 185
+    },
+    {
+      "id": "2deccc9c6c620206f6a10d8641842c55bb1a1a64366d444741c26cfefd842758",
+      "guid": "https://aod.cos.tx.xmcdn.com/group17/M06/A3/A5/wKgJJFe2e9DAs1KuABBIhYIZxQw149.mp3",
+      "title": {
+        "text": "【网吧】网吧老板竟然栽在熊孩子手里！",
+        "truncated": false
+      },
+      "description": {
+        "text": "扫描图中二维码参与活动，领取好买哥派送的“16元红包”！ 周末只讲段子，不讲大道理。",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Aug 2016 22:00:01 GMT",
+      "feed_index": 222
+    },
+    {
+      "id": "c1d60c9157596167deed155b260f0162cc19a54e225f8e27ee7857124fb553d9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group25/M04/DF/FE/wKgJMVjBL6jglwnOAMWlklNcUqA274.mp3",
+      "title": {
+        "text": "首富：唐僧夫人",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Mar 2017 10:34:55 GMT",
+      "feed_index": 259
+    }
+  ]
+}

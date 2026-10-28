@@ -1,0 +1,140 @@
+{
+  "show_id": "1632849082",
+  "feed_url": "https://www.ximalaya.com/album/55757735.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/55757735.xml",
+    "final_url": "https://www.ximalaya.com/album/55757735.xml",
+    "fetched_at": "2026-10-25T14:44:32.737953+00:00",
+    "status": 200,
+    "sha256": "957e55deb46b22e3aee0c4d75f4c103e6981c6edf34d993fbdd8f9696ac63f55"
+  },
+  "status": "ok",
+  "title": {
+    "text": "（全本免费）穿越之我不为妾",
+    "truncated": false
+  },
+  "description": {
+    "text": "陌黎，二十一世纪独立女性，莫名穿越。 朝代：不明 ， 环境：青楼 ， 职业；妓女，“编剧，你大爷，你我何怨何愁？穿越到此给我一副好皮囊也说的过去，魅惑人时说一句：做你的妲己，祸国殃民…… 这中等姿色说什么：做你的大姨，穿金戴银？能活过3集吗？ 既...",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 120,
+  "episodes": [
+    {
+      "id": "9288b0bf2a3679bf23d3817666372e7cb7db6f6abed32c7af164a02c3879997c",
+      "guid": "xmly_track_485188815",
+      "title": {
+        "text": "1. 序 (你数学好吗？求心里阴影面积)",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Dec 2021 12:11:29 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "00102afac64af717a9f9eb589580a1d7834f6cec657c9734f8971ebe91f6cd3f",
+      "guid": "xmly_track_523682291",
+      "title": {
+        "text": "18. 不会吧？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Apr 2022 05:56:26 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "99f53ba8f13b066ba903de4a080d87861339e2d2d4674cb680be91a5af89031d",
+      "guid": "xmly_track_535576054",
+      "title": {
+        "text": "35. 哎呀！犯桃花",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 22 May 2022 04:41:37 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "5f827b5047aac1df647955d6ee5e1495a0328769d63fb403781dde92da5f845e",
+      "guid": "xmly_track_540754078",
+      "title": {
+        "text": "52. 失去自由",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Jun 2022 11:22:29 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "dd83099a5d4faa37edc007cc4b9f66d5b042c6c71e5200f1364e82430e09e1bc",
+      "guid": "xmly_track_544549056",
+      "title": {
+        "text": "69. 水铃儿",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 19 Jun 2022 04:01:01 GMT",
+      "feed_index": 68
+    },
+    {
+      "id": "a7c73a2be986e7c3ae89ec97b0db6b3c75cbe6a9df8389ab56e2de716ca5f327",
+      "guid": "xmly_track_547976409",
+      "title": {
+        "text": "86. 去哪",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 01 Jul 2022 03:59:19 GMT",
+      "feed_index": 85
+    },
+    {
+      "id": "f5ee0c84a8673779b6659caa6a5f29a5dd6565dbb661060d2127f866351f110d",
+      "guid": "xmly_track_551179057",
+      "title": {
+        "text": "103. 摇摆不定的心",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 Jul 2022 17:21:38 GMT",
+      "feed_index": 102
+    },
+    {
+      "id": "86c044573d3e562fdcb202ff56870c23a548b606ca70be93095db9fbe0b4b68c",
+      "guid": "xmly_track_556328860",
+      "title": {
+        "text": "120. 放手（大结局）",
+        "truncated": false
+      },
+      "description": {
+        "text": "宝子们！大结局喽！新书火速录制中，点关注，新书依旧免费畅听呦！",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 Jul 2022 13:06:56 GMT",
+      "feed_index": 119
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1140071455",
+  "feed_url": "http://www.ximalaya.com/album/4656829.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/4656829.xml",
+    "final_url": "http://www.ximalaya.com/album/4656829.xml",
+    "fetched_at": "2026-10-25T14:47:41.673265+00:00",
+    "status": 200,
+    "sha256": "969824df73ccf5813d64613950142f06f20904be9186b95344e6f86e59dc28bd"
+  },
+  "status": "ok",
+  "title": {
+    "text": "长篇传奇小说《吴承恩与西游记》镇平侠",
+    "truncated": false
+  },
+  "description": {
+    "text": "西游记姊妹篇 全本播讲 吴承恩如何写成了名著《西游记》 老少皆宜 寓教于乐 播讲：镇平侠（冰戈） 完本 总计176 回 欢迎 收听、 订 阅！ 作者 ： 王树强 丁爱敏 故 事 简 介 明朝嘉靖年间，江苏淮安山阳县染线铺主吴锐携子前往花果山云台寺，与故交普因和尚交谈企盼儿子吴承恩能够读书做官、荣宗耀祖。然而，读书过目不忘、极具天赋的吴承恩，却喜欢上了花果山水帘洞里那些活蹦乱跳的猴子，想象着自己也能像猴子们一样自由自在、天马行空、无所不能----- 相关作品： 长篇传奇神话 电视剧《吴承恩与西游记》 （新制2D版) 编 剧： 王树强 丁爱敏 导 演： 阚卫平 领衔 主演： 六小龄童 迟重瑞 马德华 刘大刚 主 演： 马 苏 石小群 李文颖 孙 涛 尚大庆 牛 犇 薛 勇 关少曾 曹力等。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 177,
+  "episodes": [
+    {
+      "id": "2b8c6bc38246f525429c686220d97c30cde87df5e8b0870d6f2456f26ddb9126",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/66de-audiofreehighqps/0A/97/GKwRIaIFynFsABgRywESV-iU.m4a",
+      "title": {
+        "text": "《吴承恩与西游记》之 开篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "神话大师吴承恩 千古奇绝西游记 老少皆宜共欣赏 寓教于乐携童趣 完本播讲 计198回 欢迎 收听、 订 阅！ 主播： 镇平侠 作者： 王树强 丁爱敏 该书说的是吴承恩是如何写成传世巨著《西游记》的 源自同名传奇神话电视剧《吴承恩与西游记》 导演： 阚卫平 领衔主演： 六小龄童 迟重瑞、马德华、刘大刚 主 演： 马苏、石小群、李文颖、孙涛、尚大庆、薛勇、 关少曾、曹力等。",
+        "truncated": false
+      },
+      "published_at": "Mon, 18 Jul 2016 09:08:05 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d5b904d1469236b140d525362a16bd5bd318a9ede0a36e39b47268ed0b3c6e0e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ca89-audiofreehighqps/EB/C6/CKwRIaIEn3rXAEZDGAC6bhzH.m4a",
+      "title": {
+        "text": "《吴承恩与西游记》25",
+        "truncated": false
+      },
+      "description": {
+        "text": "吴承恩智斗黑风大王惹祸上身，姚老大飞刀解救承恩，二人想起陪练飞刀之事，开怀大笑！",
+        "truncated": false
+      },
+      "published_at": "Sat, 22 Oct 2016 22:30:00 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "34ef4f01f90c5a31973e5d547c4e542cc12cd2b6529b1fe657e008b329f45203",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0bcb-audiofreehighqps/20/CE/CKwRIDoEn35aAFNFfwC6b3t6.m4a",
+      "title": {
+        "text": "《吴承恩与西游记》50",
+        "truncated": false
+      },
+      "description": {
+        "text": "玄明子眼看着人参果树惨遭祸害，给吴承恩留下关于西游记的整理文字后就此归天。在家人及沈坤的劝导下，告别叶芸及小猴子前去龙溪书院读书------",
+        "truncated": false
+      },
+      "published_at": "Mon, 19 Dec 2016 11:30:00 GMT",
+      "feed_index": 50
+    },
+    {
+      "id": "2348b1a49dfb5d6ff07796b96187d9766c52056cb1d3cc2b25df020f04e0b0f9",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e001-audiofreehighqps/CD/4A/CKwRIasEn4mZAFpruAC6dFpw.m4a",
+      "title": {
+        "text": "《吴承恩与西游记》74",
+        "truncated": false
+      },
+      "description": {
+        "text": "沈坤在县衙大堂上受审，突然一只猴子窜了过来将大堂搅乱了套，县官以为猴精出世自己冲撞了神明诧异之极，将沈坤放了出去。他心里明白这肯定是承恩所为-------",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Feb 2017 11:30:01 GMT",
+      "feed_index": 75
+    },
+    {
+      "id": "8952671320adf294aab0f2a4b0bad6e320bcbedfbf8047b9cd1aa577a585cae9",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c31c-audiofreehighqps/2A/3D/CKwRIW4En5Q0AEpr3wC6eiGt.m4a",
+      "title": {
+        "text": "《吴承恩与西游记》100",
+        "truncated": false
+      },
+      "description": {
+        "text": "贼二按照罗万金的吩咐，将白雪艳从家里装麻袋后击昏弄到山里的盘丝洞，毕竟心虚先去酒馆喝酒壮胆，想酒后再把白雪艳扒光扔在山洞里；罗万金则将吴承恩绑架而来，来到了盘丝洞诬陷他强暴自己的小妾；待罗万金、贼二再看时，昏暗的洞里那里还是白雪艳，明明白白却是贼二的老婆陈氏赤身裸体的在地上；他们万万没有料到白雪艳乘贼二喝酒之际来了个将计就计---",
+        "truncated": false
+      },
+      "published_at": "Wed, 05 Apr 2017 11:30:01 GMT",
+      "feed_index": 101
+    },
+    {
+      "id": "88d84b9bb5645dd73716776b273a81ed46aa273ca74a38bd07518b5e4f8bf4ef",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0f0b-audiofreehighqps/DF/09/CKwRIMAEn68TAEUx9QC6jquB.m4a",
+      "title": {
+        "text": "《吴承恩与西游记》125",
+        "truncated": false
+      },
+      "description": {
+        "text": "淮安府学陶先生告诉吴承恩府学推荐他为岁贡生，承恩不顾叶芸期望不愿就此入官，而得知是沈坤举荐怕给沈坤带去不好影响，则婉拒陶先生-----",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 May 2017 11:30:01 GMT",
+      "feed_index": 126
+    },
+    {
+      "id": "010dce082d915b24365bd13e4bfb912cdf5008260b3f78a9bf133703e3a7de37",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4e8f-audiofreehighqps/BE/ED/CKwRIW4En7yRADgz9gC6ngfW.m4a",
+      "title": {
+        "text": "《吴承恩与西游记》150",
+        "truncated": false
+      },
+      "description": {
+        "text": "叶芸与玉凤伤痛欲绝，张里胥告官无门，沈炜仰天长啸，玉凤已然发痴；罗庞被刺瞎左眼，何莲自是盘算让吴承恩痛苦很是高兴却不太顾及罗庞，引起罗庞不快----",
+        "truncated": false
+      },
+      "published_at": "Sun, 02 Jul 2017 11:30:01 GMT",
+      "feed_index": 151
+    },
+    {
+      "id": "04ba1f4ce2468c695784fc23e22a0ab1614d3f40f23a18b0fbdc6749262312f1",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c445-audiofreehighqps/21/19/CKwRIJIEoHGuAGvMhgC6zgCK.m4a",
+      "title": {
+        "text": "《吴承恩与西游记》176（大结局）",
+        "truncated": false
+      },
+      "description": {
+        "text": "公差不让说书人继续说西游记并且要将他抓走，美猴王窜出去将公差们闹得东奔西跑；吴承恩和说书人趁机逃走，由于西游记和美猴王他俩竟探讨起西游记的不足之处，吴承恩感谢说书人的指点而且成为了好友------",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Sep 2017 11:30:02 GMT",
+      "feed_index": 176
+    }
+  ]
+}

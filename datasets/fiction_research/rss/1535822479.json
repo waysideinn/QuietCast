@@ -1,0 +1,140 @@
+{
+  "show_id": "1535822479",
+  "feed_url": "http://www.ximalaya.com/album/42499240.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/42499240.xml",
+    "final_url": "http://www.ximalaya.com/album/42499240.xml",
+    "fetched_at": "2026-10-25T14:50:48.419484+00:00",
+    "status": 200,
+    "sha256": "107473a9734f8eebb6ea2644b62155f2de5bc67aefd74ca2feb71f3bd5c0c235"
+  },
+  "status": "ok",
+  "title": {
+    "text": "任任小说录|短篇恐怖鬼故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "这是我的第一个专辑，希望大家喜欢，我会把我自己收集的恐怖鬼故事分享给大家，期待大家给一个好的反馈，我会一直努力的，谢谢大家，奥利给，加油！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 18,
+  "episodes": [
+    {
+      "id": "a7b9beb61b24a43b9bf250020ff33542af033171cbbfecb5c150f72c816da6c4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3bd3-audiofreehighqps/8B/02/CMCoOR4DZdosAC2Y1QBfN7Vp.m4a",
+      "title": {
+        "text": "恐怖鬼故事 | 蝶舞",
+        "truncated": false
+      },
+      "description": {
+        "text": "这是一座桥 ,传说中,它叫奈何桥 , 桥下, 滚滚的河水不停的拍打着两岸.. 岸边,一片花海红似火 ,这是彼岸花, 花开三年落三年, 花叶两不相见. .故 ,又称曼殊莎华",
+        "truncated": false
+      },
+      "published_at": "Wed, 21 Oct 2020 11:10:31 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "55782832ce594f8a13e286630ae849553c7f9133632aae5ef4159c79314a9e2a",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c904-audiofreehighqps/47/1C/CMCoOSIDYzaHACWbTwBejgJ5.m4a",
+      "title": {
+        "text": "恐怖鬼故事 | 屋子里的怪味",
+        "truncated": false
+      },
+      "description": {
+        "text": "味道是卫生间的。男子说憋死我了。两人跑到卫生间。看看什么地方可以藏东西。他们发现了一个很隐蔽的地方。浴缸下面是一个可以打开的小门。是检查漏水用的。",
+        "truncated": false
+      },
+      "published_at": "Mon, 19 Oct 2020 11:07:46 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "dd69a118d8c204aa5548626f3e5e7a889f1d4fccd6d088385c3ce7015ced3151",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7998-audiofreehighqps/CD/D8/CMCoOScDX0xFAB2HwABdtjbW.m4a",
+      "title": {
+        "text": "恐怖鬼故事 | 猫啼",
+        "truncated": false
+      },
+      "description": {
+        "text": "小王十点钟下班回家。上了楼。他隐约的看见一只眼睛!死死的盯着自己!那是什么。进了屋子。喘着气。凌晨两点。猫叫声又出现了。真的好像是在哭一样。同时里面夹杂着一个女人的哭声。那么的惨烈。寂静的黑夜被渲染成了恐怖的气氛。",
+        "truncated": false
+      },
+      "published_at": "Fri, 16 Oct 2020 11:51:29 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "517d732fee6258707c55d7c1d6013aef12aa36ec3872027abbad5a92356ccdc3",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5261-audiofreehighqps/7C/D8/CMCoOSQDXK4cAJSxOABdGSF8.mp3",
+      "title": {
+        "text": "恐怖鬼故事 | 鬼敲墙亲身经历",
+        "truncated": false
+      },
+      "description": {
+        "text": "回到大姨家，我对这那个坟头就撒了一泡尿。又放两个“开门炮”算是威胁吧，晚上搞我，白天我搞他。",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Oct 2020 12:12:13 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "7d3290c570f2954ab1da0c8af2437c1a75d1c96710f3982a6f7cc655a7325dc0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/97e5-audiofreehighqps/CA/93/CMCoOScDWfikAMNgeABcZNut.mp3",
+      "title": {
+        "text": "恐怖鬼故事 | 纸灵(2)",
+        "truncated": false
+      },
+      "description": {
+        "text": "小老人笑道：“它只是纸体，在正常情况下，每个人头顶、肩两边共有三把火，你有三把火在身上，它目前当然近不了你，更不用说杀你，但今晚是凶夜，到了今晚三点，你身上三把火会熄灭一个时辰，这时，纸魔就会来杀你，吸你的灵魂，所以，在今晚三点到四点这一个小时内，我要教你怎样对付纸魔，被它杀六个人，都是时运低，干了不好的事，三把火最弱的人。”",
+        "truncated": false
+      },
+      "published_at": "Mon, 12 Oct 2020 10:53:25 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "60853fa6d14937d2a762c4e8f6b393353d56b6fb11eff187c494c2e89479bc89",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7193-audiofreehighqps/98/C5/CMCoOR8DWOxgAHNYaABcPQoN.m4a",
+      "title": {
+        "text": "恐怖鬼故事 | 夜风清高的夜晚(2)",
+        "truncated": false
+      },
+      "description": {
+        "text": "再见了，妈妈，再见了，琉璃。",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Oct 2020 15:48:50 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "090b20fa370966c98c577946e5d3af74b303a6643fb8d1593afad13430d583ac",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b0af-audiofreehighqps/EB/32/CMCoOSMDWHHbAEYRMABcFu_s.m4a",
+      "title": {
+        "text": "恐怖鬼故事 | 一座鬼城",
+        "truncated": false
+      },
+      "description": {
+        "text": "王式三人必亡此，一日亲朋来敲门，二日归鸟枪打落，三日晴天突降雨，四日全城瘟疫起，五日魂归奈何桥。",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Oct 2020 07:06:04 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "b38b4214d26eef70b32cbb9187fe7dbef5547c97b3125b9cd99101cd06f5ed71",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b3e6-audiofreehighqps/3D/EB/CMCoOSQDWGmRAEYW0ABcFVlk.m4a",
+      "title": {
+        "text": "恐怖鬼故事 | 蛇恋(1)",
+        "truncated": false
+      },
+      "description": {
+        "text": "再说这个佘公子，他其实不是什么公子，他是在南柳山上修行了八百多年的蛇精。",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Oct 2020 06:30:42 GMT",
+      "feed_index": 17
+    }
+  ]
+}

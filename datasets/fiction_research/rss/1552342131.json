@@ -1,0 +1,140 @@
+{
+  "show_id": "1552342131",
+  "feed_url": "http://www.ximalaya.com/album/42099577.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/42099577.xml",
+    "final_url": "http://www.ximalaya.com/album/42099577.xml",
+    "fetched_at": "2026-10-25T14:56:55.228619+00:00",
+    "status": 200,
+    "sha256": "9a2cd9e82dfdc784b5c9f4a99de804f98047bde56d2692b602dc33c6bbf7e39a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "酉阳杂俎｜大唐文化漫游记",
+    "truncated": false
+  },
+  "description": {
+    "text": "唐朝志怪小说《酉阳杂俎》，被鲁迅认为与唐传奇“并驱争先”。 这本千古奇书，上承六朝、下启宋明，影响了后代众多志怪小说。 我是一只羊毛笔，毕业于北大中文系，文学硕士。 每周二、五，为您品读《酉阳杂俎》，聊聊大唐的奇闻异事。 微博：@巨有文化Juyo 微信公众号：巨有文化 Juyo B站：巨有钱的饭",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 72,
+  "episodes": [
+    {
+      "id": "8359048c578d7d12e2a88b7927bdabf19a58a0aade2d9a6241ea68ad5bea079e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5605-audiofreehighqps/F2/E2/CKwRIRwE4skjANYz_QDTih-O-aacv2-48K.m4a",
+      "title": {
+        "text": "番外篇：清代僵尸遍地走，为啥呢？",
+        "truncated": false
+      },
+      "description": {
+        "text": "番外篇：清代僵尸遍地走，为啥呢？",
+        "truncated": false
+      },
+      "published_at": "Fri, 06 Aug 2021 09:51:01 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8b05d6fc8c6db0b6541f0d45e0efc157259c3cd82f5815adcaaaa428da7a1ceb",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/dc6b-audiofreehighqps/34/BE/CKwRIDoEglhkAE7KqQCwDUFf-aacv2-48K.m4a",
+      "title": {
+        "text": "人眼堆积成山，不可名状的克苏鲁式恐惧",
+        "truncated": false
+      },
+      "description": {
+        "text": "敬畏来源于恐惧， 恐惧来源于未知。 简单聊聊克苏鲁。",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 May 2021 06:12:38 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "f7414f876180f3be84df608115869e121945af3a52e4a68559e1f6414c41370c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3a82-audiofreehighqps/0E/7D/CKwRINsEOLA9AGGJggCYdVlI-aacv2-48K.m4a",
+      "title": {
+        "text": "妒妇专题：历代“河东狮”和“胭脂虎”，最典型的竟然是她？",
+        "truncated": false
+      },
+      "description": {
+        "text": "妒妇，指禁锢丈夫， 残害妾婢的“悍妻”。 今天聊个小专题， 品品从唐代到明清那些颇有脾气的 所谓“河东狮”和“胭脂虎”。 出品：有文化电台 主编：边妍丹 视觉设计：边妍丹/Chancy",
+        "truncated": false
+      },
+      "published_at": "Tue, 30 Mar 2021 09:19:33 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "0db0685d339fad0936378246dd98a95e91ea86bc8960076802e770172bd21034",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2696-audiofreehighqps/1A/42/CMCoOSAECksRAErMogCKuvIt-aacv2-48K.m4a",
+      "title": {
+        "text": "千古侠客文人梦：市井老汉竟敢冲撞京兆尹求雨",
+        "truncated": false
+      },
+      "description": {
+        "text": "吟到恩仇心事涌，江湖侠骨何其多！ 侠是中国人几千年魂牵梦绕的字眼， 侠客专题， 品一品市井奇人的故事 出品：有文化电台 主编：边妍丹 视觉设计：边妍丹/Chancy",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 Feb 2021 10:01:08 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "c2abbe516d42e9b83e3f9aa06447ddd14837f566eb2d75e7cf81f0ede80dbbc0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/77f8-audiofreehighqps/D3/CF/CMCoOSMDyhR6AEbpCAB4eoOa-aacv2-48K.m4a",
+      "title": {
+        "text": "神仙敕令群龙造福百姓，龙女为何坚决顶撞？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Jan 2021 11:45:52 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "2a10122cd79f94c2a79c9cdc1dd416ce072056a78921f52628ef36fcb6e5d14e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9ba6-audiofreehighqps/EC/5D/CMCoOSIDlwKYAGXOBwBrkwaX-aacv2-48K.m4a",
+      "title": {
+        "text": "求雨技术哪家强？李隆基认证的长安第一是梵僧不空！",
+        "truncated": false
+      },
+      "description": {
+        "text": "唐代神僧不空跟多位高人较量求雨，保持全胜战绩。 他还戏耍过会隐身术的罗公远道长。 来听听他的故事吧。 出品：有文化电台 主编：边妍丹 视觉设计：边妍丹/Chancy",
+        "truncated": false
+      },
+      "published_at": "Sat, 28 Nov 2020 00:01:58 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "22e558002e5792b0dbfd1aabb4d465c36e2937cfe3fff156a6feb01b80b0d2d8",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/60bc-audiofreehighqps/95/02/CMCoOSEDZtuxAD8RsQBfdlvH-aacv2-48K.m4a",
+      "title": {
+        "text": "侍从有独特的打猎技巧，皇帝激动地说胡话",
+        "truncated": false
+      },
+      "description": {
+        "text": "今天讲解酉阳杂俎忠志的最后一则，咱们终于讲完卷一了。 今天的故事是关于唐中宗打猎的，读这个故事我们可以了解三个问题。 其一，是当时皇家的打猎方式方法。段成式这段记载非常有名，常被用于唐代狩猎或是鹰犬之戏的民俗考证文中。 其二，是当时流行的俗语和口头禅。 其三呢，我们跳出一点，聊一聊阅读古人文献和今人研究的方法和心得。 中宗景龙中，召学士赐猎，作吐陪行，前方后圆也。有二 大 雕，上仰望之。有放挫啼曰：\"臣能取之。\"乃悬死鼠于鸢足，联其目，放而钓焉。二雕果击于鸢盘。狡兔起前，上举挝击毙之。帝称那庚，从臣皆呼万岁。 出品：有文化电台 主编：边妍丹 视觉设计：边妍丹/Chancy",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Oct 2020 05:29:14 GMT",
+      "feed_index": 61
+    },
+    {
+      "id": "fd9e88459f01a126ef462d1e86a701a44ebccb2979676eb179541b3fd337a0f8",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f1ff-audiofreehighqps/5E/0E/CMCoOSMDQ4mDAFbDywBXwJx7-aacv2-48K.m4a",
+      "title": {
+        "text": "盗墓小说祖师爷竟是它，比《聊斋》更有料！",
+        "truncated": false
+      },
+      "description": {
+        "text": "专辑发刊词：聊聊《酉阳杂俎》作为盗墓小说祖师爷，为何不如《聊斋》知名 比较真实性、史料价值，唐代《酉阳杂俎》远胜清代《聊斋》；从文学性与叙事性观之，千年之后的聊斋更胜一筹。 纵然如此，《酉阳杂俎》伟大价值不该被抹杀，大唐的荒诞与真实，都在这一本千古奇书。",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Sep 2020 10:29:06 GMT",
+      "feed_index": 71
+    }
+  ]
+}

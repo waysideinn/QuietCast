@@ -1,0 +1,140 @@
+{
+  "show_id": "1443574597",
+  "feed_url": "http://www.ximalaya.com/album/14641355.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/14641355.xml",
+    "final_url": "http://www.ximalaya.com/album/14641355.xml",
+    "fetched_at": "2026-10-25T14:48:46.726486+00:00",
+    "status": 200,
+    "sha256": "7314fafbb7b20d85ee4b0fbd314842b0c847d94f77c48611db8f56d2fee24434"
+  },
+  "status": "ok",
+  "title": {
+    "text": "跑题大会",
+    "truncated": false
+  },
+  "description": {
+    "text": "有所不谈天下事，一听跑题误终身！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 459,
+  "episodes": [
+    {
+      "id": "d1d5831baa6569a3fec7d6d948c5ac6c9eeb133e1a3122a2d0fd698d458bbb20",
+      "guid": "xmly_track_1026397361",
+      "title": {
+        "text": "王朝之冬：晚清困局下的朝堂与世相",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：潘采夫 嘉宾：十年砍柴 《王朝之东：晚清困局下的朝堂与世相》是十年砍柴老师的新书，这本书在晚清大变局的历史背景下，不仅展现了曾国藩、左宗棠、李鸿章、 张之洞 等名臣重臣，还关注到了毓贤、连文冲、耆英、赵舒翘等关键时刻的“另类人物”，并从他们的相关事件与人际网络延伸开去，细微观察和客观审视当时的历史和社会，进而深度解析晚清王朝以及个人命运的历史真相。 《王朝之冬：晚清困局下的朝堂与世相》是《风雨飘摇：晚清名臣立身处世之道》 的姊妹篇。",
+        "truncated": false
+      },
+      "published_at": "Wed, 21 Oct 2026 08:58:24 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "9c09c9c94c624e079c506cca2c3705ca27f34e13ad83303832d7960494ca049d",
+      "guid": "xmly_track_880381693",
+      "title": {
+        "text": "这部纪录片拍着拍着主角都跑了",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：潘采夫 嘉宾：唐韬 ，用剪纪录片的钱养活自己做剧情片的影视创作者。截至目前，导过音乐网剧《薛定谔的猫》、《少年有点酷》；剪过纪录片《大学》、《我守敦煌日月长》、《风起前的蒲公英》。 在北京，有这样一所 独特的 中学。这里的学生 是“打工人二代”，他们的 父母是农民工 。家庭不稳定的务工生活，让许多同学要常常经历转学、离京、回乡…… 这 就是位于大兴的蒲公英中学，北京市第一所为农民工子女创办的公益性学校。 纪录片《 风起前的蒲公英 》，将镜头 对准这所中学， 望向这群孩子们 ，讲述他们 的故事。 主创团队 用几年的时间近距离跟随学校 及其 合唱团的发展，聚焦其中几位个性突出的学生，尝试切入留守儿童、城乡差距和素质教育等议题，并提供角度不同的思考。",
+        "truncated": false
+      },
+      "published_at": "Wed, 02 Jul 2025 09:29:00 GMT",
+      "feed_index": 65
+    },
+    {
+      "id": "ec0a0e50382f7669cfc223363915c86325b29009974aa6e4aee12a2777b4d905",
+      "guid": "xmly_track_716007067",
+      "title": {
+        "text": "金庸十三章：从嘉兴烟雨楼开始出发",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：潘采夫 嘉宾：刘晓蕾 今年是金庸诞辰一百周年。一百年前，人们肯定料想不到，这名出身浙江海宁查氏的男婴，日后会在笔下创造出一个多么独一无二的武侠世界。 从1955年起，金庸开始在报纸上连载武侠小说，前两本的《书剑恩仇录》《碧血剑》，主角均是明清时期出身名门世家的儒生少侠形象，尤其是对于陈家洛与海宁陈家的描写，有不少取材自金庸本人对于家乡与家族的记忆。 本期节目是金庸十三章的第一篇，我们先从金庸的出生聊起。欢迎收听～",
+        "truncated": false
+      },
+      "published_at": "Wed, 20 Mar 2024 08:37:09 GMT",
+      "feed_index": 131
+    },
+    {
+      "id": "f9e7aae1bb6bb30a0331bb30f55b9fbf1b7ff0076f45a9037469a524bd9425fd",
+      "guid": "xmly_track_598462624",
+      "title": {
+        "text": "中国足球黑铁一代之狗肉宴",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：老潘 嘉宾：方肇 世界杯已经尘埃落定，本期节目我们来讲讲国际足球之外的中国足球的故事。在之前的节目中，我们已经聊过了05世青赛以及被称为国足「白金一代」的球员，本期节目我们来讲一下是怎么从白金变成了黑铁。 从克劳琛到杜伊科维奇，从南勇到谢亚龙，这些中国足球耳熟能详的名字和他们背后的故事，都在本期节目，欢迎大家点击收听。",
+        "truncated": false
+      },
+      "published_at": "Wed, 21 Dec 2022 09:14:03 GMT",
+      "feed_index": 196
+    },
+    {
+      "id": "b1662da2126fb0dc6e70b3661ded02f6bcee1faa8daba13d5802b2f56b9745c4",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/03e7-audiofreehighqps/7E/F9/CKwRIMAFIKiHAhvD8ADleN_X-aacv2-48K.m4a",
+      "title": {
+        "text": "跑题＊韩浩月：一直聊到海水变蓝",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：潘采夫 嘉宾：韩浩月 韩浩月， 时评人，影评人，专栏作家。 出版代表作为《世间的陀螺 》，影评集《一个人的电影院 》等。 「一直游到海水变蓝」：2019年5月，几十位作家来到山西汾阳的一个小村庄，他们在这里谈论乡村与城市，文学与现实。影片以此为序曲，交响乐般地以18个章节讲述出1949年以来的中国往事。出生于上世纪50年代、60年代和70年代的三位作家贾平凹、余华和梁鸿成为影片最重要的叙述者，他们与已故作家马烽的女儿一起，重新注视了社会变迁中的个人与家庭，让影片成为一部跨度长达70年的中国心灵史。",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Sep 2021 08:10:42 GMT",
+      "feed_index": 262
+    },
+    {
+      "id": "d30fac9791636b0723b1798284f79b748012d0d64e2600a249925771b2777f32",
+      "guid": "https://aod.cos.tx.xmcdn.com/group82/M01/F4/11/wKg5HF886dKRh1vNAeNRFSQ3ClI576-aacv2-48K.m4a",
+      "title": {
+        "text": "欧洲足球最动荡的一周",
+        "truncated": false
+      },
+      "description": {
+        "text": "主播：潘老，格子 欧陆战火行将结束，在过去的一周，我们见证了拜仁8:2送巴萨回家；看到了莱比锡红牛以欧冠新军的姿态斩杀马竞，纳格尔斯曼名震江湖；更有里昂爆出冷门淘汰曼城。在这个不寻常的时间和赛季，我们见证了很多历史，当然也包括足球。 足球不是生活的全部，但是它会成为生活的调味品，希望有了足球，能让你的生活更加精彩。",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Aug 2020 08:55:00 GMT",
+      "feed_index": 327
+    },
+    {
+      "id": "c663a7326c2c57b02c5c4a008e9874b68db0f868633b3bda41e8c3a8b395e892",
+      "guid": "https://aod.cos.tx.xmcdn.com/group62/M07/68/83/wKgMZ10cVFCB-6X4AbEl7dmvURw421.m4a",
+      "title": {
+        "text": "对话韩浩月：格子不懂贾樟柯",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期嘉宾：韩浩月老师 韩浩月，时评人，影评人，专栏作家，中文网络知名写手。 出版代表作为《 世间的陀螺 》，以及《I服了YOU——写给大话时代的告别书》，男性话题作品集《男人道》《涩男人》，影评集《一个人的电影院》，随笔集《午睡主义者》、《一个人的森林》等十余种。 第一、二届华语电影优质大奖评委。上海电影节电影频道传媒大奖评委。为《中国青年报》、《新京报》、《京华时报》、《深圳商报》等多家媒体撰写文娱评论。 另外，我将会在评论中挑选出两条优质的评论，送上韩浩月老师签名版的《世间的陀螺》！",
+        "truncated": false
+      },
+      "published_at": "Wed, 03 Jul 2019 09:00:08 GMT",
+      "feed_index": 393
+    },
+    {
+      "id": "13f429f1af4af36516a0cb5c2e05a16e8eed895e7e9a05268bf1f05bc4789d5c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group41/M07/A9/17/wKgJ8lrEKpnTw8SyAKm5zaTCfLA975-aacv2-48K.m4a",
+      "title": {
+        "text": "第一期 -大师李敖：尊前作剧莫相笑 我死诸君思此狂",
+        "truncated": false
+      },
+      "description": {
+        "text": "大师一路走好",
+        "truncated": false
+      },
+      "published_at": "Wed, 04 Apr 2018 01:40:02 GMT",
+      "feed_index": 458
+    }
+  ]
+}

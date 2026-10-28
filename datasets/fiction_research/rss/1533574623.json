@@ -1,0 +1,140 @@
+{
+  "show_id": "1533574623",
+  "feed_url": "https://feeds.soundon.fm/podcasts/7ed92c43-f670-4ab7-ae95-8aed63ba7171.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/7ed92c43-f670-4ab7-ae95-8aed63ba7171.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/7ed92c43-f670-4ab7-ae95-8aed63ba7171.xml",
+    "fetched_at": "2026-10-25T14:51:04.563569+00:00",
+    "status": 200,
+    "sha256": "e81bc39808d5b26b6e8f1276fb24ffacb9ffd44c8de1611e1fb09f8122d1f515"
+  },
+  "status": "ok",
+  "title": {
+    "text": "嗚喵備忘錄",
+    "truncated": false
+  },
+  "description": {
+    "text": "Hello guys 歡迎來到嗚喵備忘錄 我是NeKo嗚喵！ 每個星期一早上八點準時更新 陪伴大家度過上班通勤的藍色monday 明明是一個youtuber，但我的小貓們迫切期待我來開PODCAST 這邊算是我的心情日記、語音筆記、讀書筆記 如果不嫌棄，謝謝你聽我碎碎念 合作請聯絡：[email removed] ✿在這裡找到我✿ ▶️ YouTube：https://reurl.cc/k0rleL ▶️ IG：https://reurl.cc/q8rkAy -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 308,
+  "episodes": [
+    {
+      "id": "6c73ebb8ffa9d8ed318cc94b770ba579ad362aa46a3a9ad81be7ac89ed95f1e5",
+      "guid": "22c51daf-75c3-474b-b9a9-7c991572d1cd",
+      "title": {
+        "text": "#303 活埋開場，全書無冷場！書上沒寫的我告訴你 《葬身之汐》無雷分享，真的好好看｜嗚喵備忘錄",
+        "truncated": false
+      },
+      "description": {
+        "text": "葬身之汐 作者：尼爾·夏普森（Neil Sharpson） 出版社：千魚娛樂有限公司 https://www.kobo.com/us/en/ebook/iEyzTGMZ-TeOeWKYWKLn2A 00:00 近況報告 02:44 故事大綱 07:12 我看到的細節1：婚姻枷鎖 09:32 我看到的細節2：能者閉嘴 11:25 我看到的細節3：共犯結構 12:31 我看到的細節4：活埋的意思 13:09 我看到的細節5：仇與安寧 15:48 我的觀後感想 #小說 #翻譯文學 ===== Podcast #嗚喵備忘錄 ===== pressplay ▶ https://reurl.cc/ldQXZv apple podcast ▶ https://reurl.cc/N6QDR5 spotify ▶ https://reurl.cc/VXzeR6 soundon ▶ https://reurl.cc/Q3RDb0 KKBOX ▶ https://reurl.cc/8nv75o -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 12 Oct 2026 00:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "2a8aa711f0ecd1753d5ad28c1e8a9b9aa28401d66e41cc1203baa05cdb3d6524",
+      "guid": "d07c21b2-37cc-41a7-b08b-f300e32ee032",
+      "title": {
+        "text": "#259 沒想到被 博客來 的簡介暴雷了ＱＡＱ《貓與罪》《當蟋蟀慢慢痊癒時》嗚喵備忘錄",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集podcast內容 1. 團購開跑 INKO USB 暖墊： https://gbf.tw/fsfou O卡桑 補貨團： https://okasang.tw/2025neko嗚喵專屬團購-3 2. 沒想到我開始對八字感興趣了 3. 當蟋蟀慢慢痊癒時 和 貓與罰，心得感想 #徐玉蘭** #**O卡桑 #當蟋蟀慢慢痊癒時 #貓與罰 #心得感想 #八字 ===== Podcast #嗚喵備忘錄 ===== apple podcast ▶ https://reurl.cc/N6QDR5 spotify ▶ https://reurl.cc/VXzeR6 soundon ▶ https://reurl.cc/Q3RDb0 KKBOX ▶ https://reurl.cc/8nv75o -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 24 Nov 2025 00:00:00 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "cc46ece932ab0377ee920addeef6f227736e1572f1a28429f0a7c590970a4b16",
+      "guid": "375578ed-e6fc-4a2f-b6df-4ce0ecba011d",
+      "title": {
+        "text": "#215 照明商店 和 miu404 也太好看了吧！腦內啡你熟嗎《你的人生，他們六個說了算！：決定你一生的六種物質》說書預告｜嗚喵備忘錄",
+        "truncated": false
+      },
+      "description": {
+        "text": "卸妝霜補貨團~1/8： https://gbf.tw/rne9g 輕鬆洗出好膚質的好東西 你的人生，他們六個說了算！：決定你一生的六種物質 Sex substanser som förändrar ditt liv : dopamin, oxytocin, serotonin, kortisol, endorfin, testosteron 作者： 大衛．JP．菲利浦斯 譯者： 劉維人, 盧靜 出版社：平安文化 出版日期：2024/12/30 語言：繁體中文 https://whitehippo.net/3Ik7L #照明商店 #miu404 #韓劇 #日劇 #腦內啡 #荷爾蒙 #影評 #雜談 麥克風使用：SHURE MV7 ===== Podcast #嗚喵備忘錄 ===== pressplay ▶ https://reurl.cc/ldQXZv apple podcast ▶ https://reurl.cc/N6QDR5 spotify ▶ https://reurl.cc/VXzeR6 soundon ▶ https://reurl.cc/Q3RDb0 KKBOX ▶ https://reurl.cc/8nv75o -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 06 Jan 2025 00:00:00 GMT",
+      "feed_index": 88
+    },
+    {
+      "id": "e622caee8c75ccbc929d0e7d66be36a7aa4ef8410d36dda59bfac090e57229c4",
+      "guid": "2d714040-f019-4980-a3c1-4074e26e672c",
+      "title": {
+        "text": "#171 比較心態可能會是你的人生加速器《逆習慣》我的人生必讀推薦｜嗚喵備忘錄",
+        "truncated": false
+      },
+      "description": {
+        "text": "逆習慣：好奇心改變一切 CURIOUS HABITS：Why we do what we do and how to change 作者： 路克．馬瑟斯 原文作者： Luke Mathers 譯者： 屈家信 出版社：大田 出版日期：2023/12/01 #人生規劃 #自我改變 #個人成長 #心理勵志 ------------ 麥克風使用：SHURE MV7 #applepodcast ▶ https://reurl.cc/N6QDR5​ #spotify ▶ https://reurl.cc/VXzeR6​ #soundon ▶ https://reurl.cc/Q3RDb0​ #KKBOX ▶ https://reurl.cc/8nv75o​ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Mar 2024 00:00:00 GMT",
+      "feed_index": 132
+    },
+    {
+      "id": "8b716c2b9765c9ed037118e8229def0264c1f318ebf6780d5531878e570599fa",
+      "guid": "ebac820f-698c-47a6-b1bf-2ef0830ce76d",
+      "title": {
+        "text": "#128 我是宅妻，我驕傲！我在遊戲裡學到的事情｜嗚喵備忘錄",
+        "truncated": false
+      },
+      "description": {
+        "text": "下一集如果我沒忘記的話…再來聊聊團購的秘辛吧!! 提到的遊戲 FGO 無期迷途 書 我的身體，你的商品(還沒看完，評論不太準) 華爾街操盤手-給年輕人的15堂課 https://www.youtube.com/watch?v=T4EZ3pPqtgU NeKo嗚喵 youtube▶ https://reurl.cc/4ydx3L​​ NeKo嗚喵 IG動態▶ https://goo.gl/s2zTrA NeKo嗚喵 粉絲團▶ http://goo.gl/AybChp ------------ 麥克風使用：SHURE MV7 #applepodcast ▶ https://reurl.cc/N6QDR5​ #spotify ▶ https://reurl.cc/VXzeR6​ #soundon ▶ https://reurl.cc/Q3RDb0​ #KKBOX ▶ https://reurl.cc/8nv75o​ #googlepodcast ▶ https://reurl.cc/KjddgM​ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 01 May 2023 00:00:00 GMT",
+      "feed_index": 175
+    },
+    {
+      "id": "6ba180109e3701944f6854ef5069794d1feadef8c2233b592434ba3d3625086d",
+      "guid": "8bf60632-9e75-4ded-bedd-ab6b621e9687",
+      "title": {
+        "text": "#84 雜談中的雜談《乖乖聽話：邪教裡的禱告與服從》｜嗚喵備忘錄",
+        "truncated": false
+      },
+      "description": {
+        "text": "節目流程 簡介影集 分享書籍 #羞辱創傷 酸民就是紅蜘蛛和介殼蟲 拜託小貓不要吵架 最近還看了什麼影集 不用擔心我很好，只是有點過度疲勞 #周慕姿 #羞辱 #乖乖聽話 #網飛 #Netflix 📚延伸閱讀📚 羞辱創傷：最日常，卻最椎心的痛楚 作者： 周慕姿 出版社：寶瓶文化 出版日期：2022/05/27 語言：繁體中文 #applepodcast ▶ https://reurl.cc/N6QDR5​ #spotify ▶ https://reurl.cc/VXzeR6​ #soundon ▶ https://reurl.cc/Q3RDb0​ #KKBOX ▶ https://reurl.cc/8nv75o​ #googlepodcast ▶ https://reurl.cc/KjddgM​ #NeKo嗚喵 # ------------ 麥克風使用：SHURE MV7 NeKo嗚喵 youtube▶ https://reurl.cc/4ydx3L​​ NeKo嗚喵 粉絲團▶ http://goo.gl/AybChp ​ NeKo嗚喵 IG動態▶ https://goo.gl/s2zTrA -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 20 Jun 2022 00:00:08 GMT",
+      "feed_index": 219
+    },
+    {
+      "id": "388c92d93d94fc321f77538e6d305439425d6f8eb7628b8a86698709284bb685",
+      "guid": "e27a7d44-4653-403b-a400-2fccd9646734",
+      "title": {
+        "text": "#43 家到底是什麼樣子？世界上只有一種性向，那就是心之所向｜嗚喵備忘錄",
+        "truncated": false
+      },
+      "description": {
+        "text": "希望下星期我會有比較營養一點的東西分享給大家 ------------ 麥克風使用：SHURE SM58 NeKo嗚喵 youtube▶ https://reurl.cc/4ydx3L​​ NeKo嗚喵 粉絲團▶ http://goo.gl/AybChp ​ NeKo嗚喵 IG動態▶ https://goo.gl/s2zTrA -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 30 Aug 2021 00:06:33 GMT",
+      "feed_index": 263
+    },
+    {
+      "id": "52735c59917755e12bcece773432b822bce95ae05f6eb64054e04e664f47595d",
+      "guid": "7ddcf010-f033-4f2b-8e39-b3da22aa31c5",
+      "title": {
+        "text": "#00 試播集「那又怎樣」是對自己說，而不是對別人說的｜嗚喵備忘錄",
+        "truncated": false
+      },
+      "description": {
+        "text": "第一次錄音，我有點小緊張… 有什麼可以改進的地方請務必留言給我 我都會看留言喔!! 要找我請到 https://campsite.bio/neko_wumiao -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Sep 2020 09:16:40 GMT",
+      "feed_index": 307
+    }
+  ]
+}

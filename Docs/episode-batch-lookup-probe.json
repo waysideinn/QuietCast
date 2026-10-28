@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-26",
+  "url": "https://itunes.apple.com/lookup?id=1582119137,1738864553&entity=podcastEpisode&limit=5&country=CN",
+  "resultCount": 12,
+  "identifiers": [
+    {
+      "kind": "podcast",
+      "collectionId": 1582119137,
+      "trackId": 1582119137
+    },
+    {
+      "kind": "podcast-episode",
+      "collectionId": 1582119137,
+      "trackId": 1000791192415,
+      "episodeGuid": "6aafab73ac389df82734bbf3"
+    },
+    {
+      "kind": "podcast-episode",
+      "collectionId": 1582119137,
+      "trackId": 1000788210635,
+      "episodeGuid": "6a9d6a20f03e74ee6b05f71d"
+    },
+    {
+      "kind": "podcast-episode",
+      "collectionId": 1582119137,
+      "trackId": 1000779965514,
+      "episodeGuid": "6a719a98ab3a91c24a0f95e2"
+    },
+    {
+      "kind": "podcast-episode",
+      "collectionId": 1582119137,
+      "trackId": 1000777798296,
+      "episodeGuid": "6a5f4f206356eb2d9be61d72"
+    },
+    {
+      "kind": "podcast-episode",
+      "collectionId": 1582119137,
+      "trackId": 1000775884445,
+      "episodeGuid": "6a4d11412e335a35a80fa724"
+    },
+    {
+      "kind": "podcast",
+      "collectionId": 1738864553,
+      "trackId": 1738864553
+    },
+    {
+      "kind": "podcast-episode",
+      "collectionId": 1738864553,
+      "trackId": 1000651025421,
+      "episodeGuid": "xmly_track_719518271"
+    },
+    {
+      "kind": "podcast-episode",
+      "collectionId": 1738864553,
+      "trackId": 1000651025422,
+      "episodeGuid": "xmly_track_719518263"
+    },
+    {
+      "kind": "podcast-episode",
+      "collectionId": 1738864553,
+      "trackId": 1000651025477,
+      "episodeGuid": "xmly_track_719518268"
+    },
+    {
+      "kind": "podcast-episode",
+      "collectionId": 1738864553,
+      "trackId": 1000651025586,
+      "episodeGuid": "xmly_track_719518248"
+    },
+    {
+      "kind": "podcast-episode",
+      "collectionId": 1738864553,
+      "trackId": 1000651025510,
+      "episodeGuid": "xmly_track_719518250"
+    }
+  ]
+}

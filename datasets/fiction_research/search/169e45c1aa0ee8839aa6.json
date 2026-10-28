@@ -1,0 +1,2289 @@
+{
+  "group": "normal",
+  "term": "女性",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%A5%B3%E6%80%A7&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%A5%B3%E6%80%A7&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:44:29.073150+00:00",
+    "status": 200,
+    "sha256": "4a0678910d65517754e53ebfc7e188d85dee3f7495fd711b41d9e810feb499d7"
+  },
+  "result_count": 100,
+  "records": [
+    {
+      "collectionId": 1790609124,
+      "trackId": 1790609124,
+      "collectionName": "女性用風俗 CANDY RADIO",
+      "artistName": "女性用風俗 CANDY RADIO",
+      "feedUrl": "https://anchor.fm/s/100116718/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E7%94%A8%E9%A2%A8%E4%BF%97-candy-radio/id1790609124?uo=4",
+      "genres": [
+        "教學",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1499",
+        "26",
+        "1304"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2025-02-24T09:11:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教學"
+    },
+    {
+      "collectionId": 1616681271,
+      "trackId": 1616681271,
+      "collectionName": "【毎週末更新】女性向けASMR・シチュエーションボイス　(CV.ルーセット)",
+      "artistName": "ルーセット",
+      "feedUrl": "https://anchor.fm/s/8beadc20/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AF%8E%E9%80%B1%E6%9C%AB%E6%9B%B4%E6%96%B0-%E5%A5%B3%E6%80%A7%E5%90%91%E3%81%91asmr-%E3%82%B7%E3%83%81%E3%83%A5%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9C%E3%82%A4%E3%82%B9-cv-%E3%83%AB%E3%83%BC%E3%82%BB%E3%83%83%E3%83%88/id1616681271?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 110,
+      "releaseDate": "2025-02-28T09:54:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1465933343,
+      "trackId": 1465933343,
+      "collectionName": "千嫚 嫚嫚說",
+      "artistName": "知性品味 /自我成長 /女性觀點 /生活啟發 /書籍導讀",
+      "feedUrl": "https://feed.firstory.me/rss/user/cjzi4geu2l5e907583aos3y3u",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8D%83%E5%AB%9A-%E5%AB%9A%E5%AB%9A%E8%AA%AA/id1465933343?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 543,
+      "releaseDate": "2026-10-19T22:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1583739317,
+      "trackId": 1583739317,
+      "collectionName": "女性向音频（有声恋人）",
+      "artistName": "笔趣阁",
+      "feedUrl": "https://feeds.redcircle.com/4282576a-eaf9-40de-b19c-7bdd054d1943",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E5%90%91%E9%9F%B3%E9%A2%91-%E6%9C%89%E5%A3%B0%E6%81%8B%E4%BA%BA/id1583739317?uo=4",
+      "genres": [
+        "兩性",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1516",
+        "26",
+        "1512"
+      ],
+      "trackCount": 312,
+      "releaseDate": "2021-11-16T09:23:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兩性"
+    },
+    {
+      "collectionId": 1635925367,
+      "trackId": 1635925367,
+      "collectionName": "週刊誌記者の「ちょっと聞いて」〜週刊女性Podcast〜",
+      "artistName": "「週刊女性」編集部",
+      "feedUrl": "https://feeds.megaphone.fm/OTO2980619512",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%80%B1%E5%88%8A%E8%AA%8C%E8%A8%98%E8%80%85%E3%81%AE-%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E8%81%9E%E3%81%84%E3%81%A6-%E9%80%B1%E5%88%8A%E5%A5%B3%E6%80%A7podcast/id1635925367?uo=4",
+      "genres": [
+        "娛樂新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1531",
+        "26",
+        "1489"
+      ],
+      "trackCount": 106,
+      "releaseDate": "2023-06-13T08:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "娛樂新聞"
+    },
+    {
+      "collectionId": 1481809208,
+      "trackId": 1481809208,
+      "collectionName": "BYM 女性系列第一季（全）",
+      "artistName": "BYM",
+      "feedUrl": "http://www.ximalaya.com/album/23497655.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/bym-%E5%A5%B3%E6%80%A7%E7%B3%BB%E5%88%97%E7%AC%AC%E4%B8%80%E5%AD%A3-%E5%85%A8/id1481809208?uo=4",
+      "genres": [
+        "心理健康",
+        "Podcast",
+        "健康與瘦身",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2019-05-14T14:12:00Z",
+      "country": "TWN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1449413317,
+      "trackId": 1449413317,
+      "collectionName": "The Lola System™｜女性高端成長與覺醒",
+      "artistName": "Lola Lin - Founder, The Lola System™ Neuro-Somatic Feminine Leadership Expert™",
+      "feedUrl": "https://feeds.transistor.fm/gift-x-super-power-school",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/the-lola-system-%E5%A5%B3%E6%80%A7%E9%AB%98%E7%AB%AF%E6%88%90%E9%95%B7%E8%88%87%E8%A6%BA%E9%86%92/id1449413317?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育",
+        "教學"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 144,
+      "releaseDate": "2026-05-03T22:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1686722025,
+      "trackId": 1686722025,
+      "collectionName": "SMART女性企業家",
+      "artistName": "黃怡霏No.1創業教練",
+      "feedUrl": "https://feed.firstory.me/rss/user/clfeajvj9010r01v015240vve",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/smart%E5%A5%B3%E6%80%A7%E4%BC%81%E6%A5%AD%E5%AE%B6/id1686722025?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2023-12-14T20:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 6789107804,
+      "trackId": 6789107804,
+      "collectionName": "女人清醒识人术丨向上破圈 高效筛选优质男",
+      "artistName": "千兰女性清醒成长",
+      "feedUrl": "https://www.ximalaya.com/album/122404747.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E4%BA%BA%E6%B8%85%E9%86%92%E8%AF%86%E4%BA%BA%E6%9C%AF%E4%B8%A8%E5%90%91%E4%B8%8A%E7%A0%B4%E5%9C%88-%E9%AB%98%E6%95%88%E7%AD%9B%E9%80%89%E4%BC%98%E8%B4%A8%E7%94%B7/id6789107804?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 94,
+      "releaseDate": "2026-08-10T14:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1724061892,
+      "trackId": 1724061892,
+      "collectionName": "ASMR耳かきボイス【女性向け】",
+      "artistName": "日陰のロエン / Hikageno Roen",
+      "feedUrl": "https://anchor.fm/s/f0152e80/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/asmr%E8%80%B3%E3%81%8B%E3%81%8D%E3%83%9C%E3%82%A4%E3%82%B9-%E5%A5%B3%E6%80%A7%E5%90%91%E3%81%91/id1724061892?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2025-06-13T05:19:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1460336261,
+      "trackId": 1460336261,
+      "collectionName": "女性向け恋愛ラジオailca (アイルカ)",
+      "artistName": "ailca",
+      "feedUrl": "https://anchor.fm/s/a95d7ec/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E5%90%91%E3%81%91%E6%81%8B%E6%84%9B%E3%83%A9%E3%82%B8%E3%82%AAailca-%E3%82%A2%E3%82%A4%E3%83%AB%E3%82%AB/id1460336261?uo=4",
+      "genres": [
+        "兩性",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1516",
+        "26",
+        "1512"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2019-04-18T08:13:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兩性"
+    },
+    {
+      "collectionId": 1096128209,
+      "trackId": 1096128209,
+      "collectionName": "恋愛・婚活の専門家JURIの『野獣でも美女を捕まえる』テクニック　女性の本音☆教えます",
+      "artistName": "恋愛・婚活スタイリストJURI",
+      "feedUrl": "http://juriarima.com/category/podcast/feed",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%81%8B%E6%84%9B-%E5%A9%9A%E6%B4%BB%E3%81%AE%E5%B0%82%E9%96%80%E5%AE%B6juri%E3%81%AE-%E9%87%8E%E7%8D%A3%E3%81%A7%E3%82%82%E7%BE%8E%E5%A5%B3%E3%82%92%E6%8D%95%E3%81%BE%E3%81%88%E3%82%8B-%E3%83%86%E3%82%AF%E3%83%8B%E3%83%83%E3%82%AF-%E5%A5%B3%E6%80%A7%E3%81%AE%E6%9C%AC%E9%9F%B3-%E6%95%99%E3%81%88%E3%81%BE%E3%81%99/id1096128209?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 239,
+      "releaseDate": "2021-07-30T09:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1768515013,
+      "trackId": 1768515013,
+      "collectionName": "女性自我成长",
+      "artistName": "职业规划师王虹",
+      "feedUrl": "https://www.ximalaya.com/album/6160140.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E8%87%AA%E6%88%91%E6%88%90%E9%95%BF/id1768515013?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304"
+      ],
+      "trackCount": 249,
+      "releaseDate": "2020-01-05T12:48:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1809566060,
+      "trackId": 1809566060,
+      "collectionName": "女性消防設備士の休憩室ラジオ",
+      "artistName": "女性消防設備士",
+      "feedUrl": "https://anchor.fm/s/103af23c4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E6%B6%88%E9%98%B2%E8%A8%AD%E5%82%99%E5%A3%AB%E3%81%AE%E4%BC%91%E6%86%A9%E5%AE%A4%E3%83%A9%E3%82%B8%E3%82%AA/id1809566060?uo=4",
+      "genres": [
+        "商業",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1321",
+        "26"
+      ],
+      "trackCount": 90,
+      "releaseDate": "2026-10-12T20:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1634947702,
+      "trackId": 1634947702,
+      "collectionName": "女性自我提升必听书《卡耐基写给女人大全集》",
+      "artistName": "Super旭先生",
+      "feedUrl": "https://www.ximalaya.com/album/46608264.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87%E5%BF%85%E5%90%AC%E4%B9%A6-%E5%8D%A1%E8%80%90%E5%9F%BA%E5%86%99%E7%BB%99%E5%A5%B3%E4%BA%BA%E5%A4%A7%E5%85%A8%E9%9B%86/id1634947702?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育",
+        "社會與文化",
+        "人際關係"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 82,
+      "releaseDate": "2022-07-14T13:48:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1879112638,
+      "trackId": 1879112638,
+      "collectionName": "犯罪側寫：女性的獨白",
+      "artistName": "Tiffany",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/cbd64703-a28d-45de-a23e-ea6ce393ac4c.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%8A%AF%E7%BD%AA%E5%81%B4%E5%AF%AB-%E5%A5%B3%E6%80%A7%E7%9A%84%E7%8D%A8%E7%99%BD/id1879112638?uo=4",
+      "genres": [
+        "犯罪紀實",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1488",
+        "26"
+      ],
+      "trackCount": 22,
+      "releaseDate": "2026-07-11T12:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "犯罪紀實"
+    },
+    {
+      "collectionId": 1582586798,
+      "trackId": 1582586798,
+      "collectionName": "漫談~拉岡第二十研討班: 關於愛 欲望 女性性 知識 絕爽",
+      "artistName": "台灣拉岡實踐與推廣協會",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/71744106-7098-45da-9d3a-327a646629d9.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%BC%AB%E8%AB%87-%E6%8B%89%E5%B2%A1%E7%AC%AC%E4%BA%8C%E5%8D%81%E7%A0%94%E8%A8%8E%E7%8F%AD-%E9%97%9C%E6%96%BC%E6%84%9B-%E6%AC%B2%E6%9C%9B-%E5%A5%B3%E6%80%A7%E6%80%A7-%E7%9F%A5%E8%AD%98-%E7%B5%95%E7%88%BD/id1582586798?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1301"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2021-12-31T17:16:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 6787892914,
+      "trackId": 6787892914,
+      "collectionName": "后宫争艳传｜古言｜甄嬛式宫斗｜女性群像",
+      "artistName": "微芒聚声",
+      "feedUrl": "https://www.ximalaya.com/album/124838667.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%90%8E%E5%AE%AB%E4%BA%89%E8%89%B3%E4%BC%A0-%E5%8F%A4%E8%A8%80-%E7%94%84%E5%AC%9B%E5%BC%8F%E5%AE%AB%E6%96%97-%E5%A5%B3%E6%80%A7%E7%BE%A4%E5%83%8F/id6787892914?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "藝術",
+        "表演"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1405"
+      ],
+      "trackCount": 72,
+      "releaseDate": "2026-07-22T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1602345340,
+      "trackId": 1602345340,
+      "collectionName": "✦愛配女性主義✦",
+      "artistName": "世新性別所110",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckxmr7r7e06xx0998zbvucec1",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%84%9B%E9%85%8D%E5%A5%B3%E6%80%A7%E4%B8%BB%E7%BE%A9/id1602345340?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1304"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2021-12-29T07:45:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1569755102,
+      "trackId": 1569755102,
+      "collectionName": "《女力世代》女人創業老實說",
+      "artistName": "HerAttitude女性創業社群",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckowjeadvs8tg0873k79bujf3",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E5%8A%9B%E4%B8%96%E4%BB%A3-%E5%A5%B3%E4%BA%BA%E5%89%B5%E6%A5%AD%E8%80%81%E5%AF%A6%E8%AA%AA/id1569755102?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2022-03-30T03:34:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1347068178,
+      "trackId": 1347068178,
+      "collectionName": "女性瘦身减肥必修课",
+      "artistName": "微微",
+      "feedUrl": "http://www.ximalaya.com/album/11245290.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E7%98%A6%E8%BA%AB%E5%87%8F%E8%82%A5%E5%BF%85%E4%BF%AE%E8%AF%BE/id1347068178?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "運動"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1545"
+      ],
+      "trackCount": 40,
+      "releaseDate": "2021-09-16T05:26:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1534951495,
+      "trackId": 1534951495,
+      "collectionName": "眠れる朗読（優しい女性の声での朗読で快適な睡眠へ）",
+      "artistName": "nemureru roudoku",
+      "feedUrl": "https://anchor.fm/s/3a6fb460/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%9C%A0%E3%82%8C%E3%82%8B%E6%9C%97%E8%AA%AD-%E5%84%AA%E3%81%97%E3%81%84%E5%A5%B3%E6%80%A7%E3%81%AE%E5%A3%B0%E3%81%A7%E3%81%AE%E6%9C%97%E8%AA%AD%E3%81%A7%E5%BF%AB%E9%81%A9%E3%81%AA%E7%9D%A1%E7%9C%A0%E3%81%B8/id1534951495?uo=4",
+      "genres": [
+        "心理健康",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512"
+      ],
+      "trackCount": 73,
+      "releaseDate": "2020-12-24T11:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1530453026,
+      "trackId": 1530453026,
+      "collectionName": "胸キュン乙女ボイスチャンネル【女性向けボイス配信】",
+      "artistName": "胸キュン乙女ボイスチャンネル",
+      "feedUrl": "https://anchor.fm/s/33e0071c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%83%B8%E3%82%AD%E3%83%A5%E3%83%B3%E4%B9%99%E5%A5%B3%E3%83%9C%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB-%E5%A5%B3%E6%80%A7%E5%90%91%E3%81%91%E3%83%9C%E3%82%A4%E3%82%B9%E9%85%8D%E4%BF%A1/id1530453026?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2020-08-30T07:12:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1877878884,
+      "trackId": 1877878884,
+      "collectionName": "青山翔輝の「女性用風俗」PODCAST",
+      "artistName": "青山翔輝",
+      "feedUrl": "https://anchor.fm/s/10ed64ae8/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9D%92%E5%B1%B1%E7%BF%94%E8%BC%9D%E3%81%AE-%E5%A5%B3%E6%80%A7%E7%94%A8%E9%A2%A8%E4%BF%97-podcast/id1877878884?uo=4",
+      "genres": [
+        "兩性",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1516",
+        "26",
+        "1512"
+      ],
+      "trackCount": 25,
+      "releaseDate": "2026-10-13T12:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兩性"
+    },
+    {
+      "collectionId": 1833795205,
+      "trackId": 1833795205,
+      "collectionName": "『白袍下的第二心跳』｜從護理人員到質感主持：聽見女性對話與聚會中最真實的溫度",
+      "artistName": "哈娜",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmefuz16m05vk01ubhbrw75ii",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%99%BD%E8%A2%8D%E4%B8%8B%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%BF%83%E8%B7%B3-%E5%BE%9E%E8%AD%B7%E7%90%86%E4%BA%BA%E5%93%A1%E5%88%B0%E8%B3%AA%E6%84%9F%E4%B8%BB%E6%8C%81-%E8%81%BD%E8%A6%8B%E5%A5%B3%E6%80%A7%E5%B0%8D%E8%A9%B1%E8%88%87%E8%81%9A%E6%9C%83%E4%B8%AD%E6%9C%80%E7%9C%9F%E5%AF%A6%E7%9A%84%E6%BA%AB%E5%BA%A6/id1833795205?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "社會與文化",
+        "人際關係"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2026-05-10T16:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1017218658,
+      "trackId": 1017218658,
+      "collectionName": "中国女性情感指南",
+      "artistName": "许川",
+      "feedUrl": "http://www.ximalaya.com/album/276787.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%80%A7%E6%83%85%E6%84%9F%E6%8C%87%E5%8D%97/id1017218658?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 1224,
+      "releaseDate": "2024-11-14T11:26:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1815871213,
+      "trackId": 1815871213,
+      "collectionName": "一起爬V8!｜专注攀岩x心理学&女性",
+      "artistName": "柯晗",
+      "feedUrl": "https://feed.xyzfm.space/n7n6xur3xn3q",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%80%E8%B5%B7%E7%88%ACv8-%E4%B8%93%E6%B3%A8%E6%94%80%E5%B2%A9x%E5%BF%83%E7%90%86%E5%AD%A6-%E5%A5%B3%E6%80%A7/id1815871213?uo=4",
+      "genres": [
+        "運動",
+        "Podcast",
+        "科學"
+      ],
+      "genreIds": [
+        "1545",
+        "26",
+        "1533"
+      ],
+      "trackCount": 31,
+      "releaseDate": "2026-10-22T12:59:00Z",
+      "country": "TWN",
+      "primaryGenreName": "運動"
+    },
+    {
+      "collectionId": 1448200830,
+      "trackId": 1448200830,
+      "collectionName": "ナレーション業修行の道！アラサー女性の日記的ラジオ by HiromiVoice",
+      "artistName": "Hiromi Sako",
+      "feedUrl": "https://anchor.fm/s/69cd53c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%83%8A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E6%A5%AD%E4%BF%AE%E8%A1%8C%E3%81%AE%E9%81%93-%E3%82%A2%E3%83%A9%E3%82%B5%E3%83%BC%E5%A5%B3%E6%80%A7%E3%81%AE%E6%97%A5%E8%A8%98%E7%9A%84%E3%83%A9%E3%82%B8%E3%82%AA-by-hiromivoice/id1448200830?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 145,
+      "releaseDate": "2025-01-13T13:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1587652531,
+      "trackId": 1587652531,
+      "collectionName": "\"又\" 怎麼了",
+      "artistName": "不熱血社工 洨金名 x 厭世直播主 軒二少 x 都會女性 東",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckub1icy0b18b0808gmh3rt2j",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8F%88-%E6%80%8E%E9%BA%BC%E4%BA%86/id1587652531?uo=4",
+      "genres": [
+        "喜劇",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1303",
+        "26"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2025-06-02T17:37:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇"
+    },
+    {
+      "collectionId": 1712824347,
+      "trackId": 1712824347,
+      "collectionName": "好好爱自己丨每一位女性都应该了解的妇产科知识丨两性知识",
+      "artistName": "龚晓明医生",
+      "feedUrl": "https://www.ximalaya.com/album/12273570.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%BD%E5%A5%BD%E7%88%B1%E8%87%AA%E5%B7%B1%E4%B8%A8%E6%AF%8F%E4%B8%80%E4%BD%8D%E5%A5%B3%E6%80%A7%E9%83%BD%E5%BA%94%E8%AF%A5%E4%BA%86%E8%A7%A3%E7%9A%84%E5%A6%87%E4%BA%A7%E7%A7%91%E7%9F%A5%E8%AF%86%E4%B8%A8%E4%B8%A4%E6%80%A7%E7%9F%A5%E8%AF%86/id1712824347?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身",
+        "兩性"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1516"
+      ],
+      "trackCount": 1066,
+      "releaseDate": "2026-10-22T07:11:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1562939005,
+      "trackId": 1562939005,
+      "collectionName": "王馨世教授-荷小姐的生育之路       (女性生殖及荷爾蒙)",
+      "artistName": "王馨世醫師",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckndyl562onuc0990hycl4fv2",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%8E%8B%E9%A6%A8%E4%B8%96%E6%95%99%E6%8E%88-%E8%8D%B7%E5%B0%8F%E5%A7%90%E7%9A%84%E7%94%9F%E8%82%B2%E4%B9%8B%E8%B7%AF-%E5%A5%B3%E6%80%A7%E7%94%9F%E6%AE%96%E5%8F%8A%E8%8D%B7%E7%88%BE%E8%92%99/id1562939005?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2021-12-24T08:58:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1740994833,
+      "trackId": 1740994833,
+      "collectionName": "女性寫作課",
+      "artistName": "曹麗娟 & 陳斐雯",
+      "feedUrl": "https://feed.firstory.me/rss/user/clv16rhk4111301va4onrb35u",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E5%AF%AB%E4%BD%9C%E8%AA%B2/id1740994833?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2024-07-28T16:13:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1895204398,
+      "trackId": 1895204398,
+      "collectionName": "TWR 希望の女性たち",
+      "artistName": "TWR Japan",
+      "feedUrl": "https://anchor.fm/s/f454f980/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/twr-%E5%B8%8C%E6%9C%9B%E3%81%AE%E5%A5%B3%E6%80%A7%E3%81%9F%E3%81%A1/id1895204398?uo=4",
+      "genres": [
+        "基督教",
+        "Podcast",
+        "宗教與精神生活"
+      ],
+      "genreIds": [
+        "1439",
+        "26",
+        "1314"
+      ],
+      "trackCount": 139,
+      "releaseDate": "2026-10-03T21:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "基督教"
+    },
+    {
+      "collectionId": 1878877556,
+      "trackId": 1878877556,
+      "collectionName": "闪闪发光的她们：100位女性成长访谈录",
+      "artistName": "链接高我的小薇",
+      "feedUrl": "https://feed.xyzfm.space/7chbmwgc8alm",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89%E7%9A%84%E5%A5%B9%E4%BB%AC-100%E4%BD%8D%E5%A5%B3%E6%80%A7%E6%88%90%E9%95%BF%E8%AE%BF%E8%B0%88%E5%BD%95/id1878877556?uo=4",
+      "genres": [
+        "宗教與精神生活",
+        "Podcast",
+        "兒童與家庭"
+      ],
+      "genreIds": [
+        "1314",
+        "26",
+        "1305"
+      ],
+      "trackCount": 38,
+      "releaseDate": "2026-06-02T12:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "宗教與精神生活"
+    },
+    {
+      "collectionId": 6809170665,
+      "trackId": 6809170665,
+      "collectionName": "用心理学挽回爱情丨读懂男人心 重建亲密关系",
+      "artistName": "千兰说女性清醒",
+      "feedUrl": "https://www.ximalaya.com/album/81071606.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%94%A8%E5%BF%83%E7%90%86%E5%AD%A6%E6%8C%BD%E5%9B%9E%E7%88%B1%E6%83%85%E4%B8%A8%E8%AF%BB%E6%87%82%E7%94%B7%E4%BA%BA%E5%BF%83-%E9%87%8D%E5%BB%BA%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB/id6809170665?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 920,
+      "releaseDate": "2026-10-25T13:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1857279552,
+      "trackId": 1857279552,
+      "collectionName": "Reborn Love Radio｜女性性をもう一度取り戻す場所",
+      "artistName": "pio",
+      "feedUrl": "https://anchor.fm/s/10c0c5190/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/reborn-love-radio-%E5%A5%B3%E6%80%A7%E6%80%A7%E3%82%92%E3%82%82%E3%81%86%E4%B8%80%E5%BA%A6%E5%8F%96%E3%82%8A%E6%88%BB%E3%81%99%E5%A0%B4%E6%89%80/id1857279552?uo=4",
+      "genres": [
+        "教學",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1499",
+        "26",
+        "1304"
+      ],
+      "trackCount": 40,
+      "releaseDate": "2026-06-24T10:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教學"
+    },
+    {
+      "collectionId": 1828484009,
+      "trackId": 1828484009,
+      "collectionName": "『白袍下的第二心跳』｜從護理人員到質感主持：聽見女性對話與聚會中最真實的溫度",
+      "artistName": "哈娜",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmefuz16m05vk01ubhbrw75ii",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%99%BD%E8%A2%8D%E4%B8%8B%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%BF%83%E8%B7%B3-%E5%BE%9E%E8%AD%B7%E7%90%86%E4%BA%BA%E5%93%A1%E5%88%B0%E8%B3%AA%E6%84%9F%E4%B8%BB%E6%8C%81-%E8%81%BD%E8%A6%8B%E5%A5%B3%E6%80%A7%E5%B0%8D%E8%A9%B1%E8%88%87%E8%81%9A%E6%9C%83%E4%B8%AD%E6%9C%80%E7%9C%9F%E5%AF%A6%E7%9A%84%E6%BA%AB%E5%BA%A6/id1828484009?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "社會與文化",
+        "人際關係"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2026-05-10T16:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1612959560,
+      "trackId": 1612959560,
+      "collectionName": "细品那不勒斯四部曲｜女性成长 深度思考",
+      "artistName": "淩云青青",
+      "feedUrl": "http://www.ximalaya.com/album/53017177.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BB%86%E5%93%81%E9%82%A3%E4%B8%8D%E5%8B%92%E6%96%AF%E5%9B%9B%E9%83%A8%E6%9B%B2-%E5%A5%B3%E6%80%A7%E6%88%90%E9%95%BF-%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83/id1612959560?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術",
+        "小說",
+        "戲劇"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2022-03-19T11:41:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 6809230841,
+      "trackId": 6809230841,
+      "collectionName": "男人出轨心理分析丨挽回婚姻 不内耗不卑微",
+      "artistName": "千兰说女性清醒",
+      "feedUrl": "https://www.ximalaya.com/album/81504674.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%94%B7%E4%BA%BA%E5%87%BA%E8%BD%A8%E5%BF%83%E7%90%86%E5%88%86%E6%9E%90%E4%B8%A8%E6%8C%BD%E5%9B%9E%E5%A9%9A%E5%A7%BB-%E4%B8%8D%E5%86%85%E8%80%97%E4%B8%8D%E5%8D%91%E5%BE%AE/id6809230841?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 781,
+      "releaseDate": "2026-10-23T14:17:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1776519822,
+      "trackId": 1776519822,
+      "collectionName": "女性と更年期の話",
+      "artistName": "沢岻美奈子女性医療クリニックは閉院しました　産婦人科医　沢岻美奈子",
+      "feedUrl": "https://anchor.fm/s/fc33c500/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E3%81%A8%E6%9B%B4%E5%B9%B4%E6%9C%9F%E3%81%AE%E8%A9%B1/id1776519822?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512"
+      ],
+      "trackCount": 53,
+      "releaseDate": "2026-02-03T04:40:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 6809232161,
+      "trackId": 6809232161,
+      "collectionName": "伴侣越界修复指南丨拉回初心重建婚姻信任",
+      "artistName": "女性清醒导师千兰",
+      "feedUrl": "https://www.ximalaya.com/album/128856125.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BC%B4%E4%BE%A3%E8%B6%8A%E7%95%8C%E4%BF%AE%E5%A4%8D%E6%8C%87%E5%8D%97%E4%B8%A8%E6%8B%89%E5%9B%9E%E5%88%9D%E5%BF%83%E9%87%8D%E5%BB%BA%E5%A9%9A%E5%A7%BB%E4%BF%A1%E4%BB%BB/id6809232161?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324"
+      ],
+      "trackCount": 91,
+      "releaseDate": "2026-10-25T12:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1850241489,
+      "trackId": 1850241489,
+      "collectionName": "节气对女性性格的影响",
+      "artistName": "五行三师姐",
+      "feedUrl": "https://www.ximalaya.com/album/109692235.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%8A%82%E6%B0%94%E5%AF%B9%E5%A5%B3%E6%80%A7%E6%80%A7%E6%A0%BC%E7%9A%84%E5%BD%B1%E5%93%8D/id1850241489?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術",
+        "歷史"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1487"
+      ],
+      "trackCount": 25,
+      "releaseDate": "2025-11-06T21:42:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1789453205,
+      "trackId": 1789453205,
+      "collectionName": "看见她·采访100位不同行业的女性",
+      "artistName": "看见她",
+      "feedUrl": "https://feed.xyzfm.space/ph33tln6d64p",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%9C%8B%E8%A7%81%E5%A5%B9-%E9%87%87%E8%AE%BF100%E4%BD%8D%E4%B8%8D%E5%90%8C%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%A5%B3%E6%80%A7/id1789453205?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 37,
+      "releaseDate": "2026-09-19T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1732981946,
+      "trackId": 1732981946,
+      "collectionName": "女性在职场",
+      "artistName": "精怪",
+      "feedUrl": "https://feed.xyzfm.space/9lxt6p9q8bcy",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E5%9C%A8%E8%81%8C%E5%9C%BA/id1732981946?uo=4",
+      "genres": [
+        "商業",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1321",
+        "26"
+      ],
+      "trackCount": 31,
+      "releaseDate": "2026-05-23T04:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 6809176015,
+      "trackId": 6809176015,
+      "collectionName": "30天挽回前男友丨女生分手复合必读",
+      "artistName": "千兰说女性清醒",
+      "feedUrl": "https://www.ximalaya.com/album/127655004.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/30%E5%A4%A9%E6%8C%BD%E5%9B%9E%E5%89%8D%E7%94%B7%E5%8F%8B%E4%B8%A8%E5%A5%B3%E7%94%9F%E5%88%86%E6%89%8B%E5%A4%8D%E5%90%88%E5%BF%85%E8%AF%BB/id6809176015?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 108,
+      "releaseDate": "2026-10-24T12:54:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1729987520,
+      "trackId": 1729987520,
+      "collectionName": "所有女性的健康指南",
+      "artistName": "所有女性的健康指南",
+      "feedUrl": "https://www.ximalaya.com/album/80423936.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%89%80%E6%9C%89%E5%A5%B3%E6%80%A7%E7%9A%84%E5%81%A5%E5%BA%B7%E6%8C%87%E5%8D%97/id1729987520?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身",
+        "心理健康"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512",
+        "1517"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2024-03-31T12:51:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 6820110488,
+      "trackId": 6820110488,
+      "collectionName": "40代女性の健康美ラジオ",
+      "artistName": "小林くん",
+      "feedUrl": "https://anchor.fm/s/118388e34/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/40%E4%BB%A3%E5%A5%B3%E6%80%A7%E3%81%AE%E5%81%A5%E5%BA%B7%E7%BE%8E%E3%83%A9%E3%82%B8%E3%82%AA/id6820110488?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2026-10-17T01:34:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 6809171533,
+      "trackId": 6809171533,
+      "collectionName": "懂人性挽回爱丨读懂前任心理 做对每一步复合动作",
+      "artistName": "女性清醒导师千兰",
+      "feedUrl": "https://www.ximalaya.com/album/127655431.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%87%82%E4%BA%BA%E6%80%A7%E6%8C%BD%E5%9B%9E%E7%88%B1%E4%B8%A8%E8%AF%BB%E6%87%82%E5%89%8D%E4%BB%BB%E5%BF%83%E7%90%86-%E5%81%9A%E5%AF%B9%E6%AF%8F%E4%B8%80%E6%AD%A5%E5%A4%8D%E5%90%88%E5%8A%A8%E4%BD%9C/id6809171533?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 110,
+      "releaseDate": "2026-10-24T15:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 6809175843,
+      "trackId": 6809175843,
+      "collectionName": "情感逆袭挽回术丨分手复合实战指导",
+      "artistName": "千兰说女性清醒",
+      "feedUrl": "https://www.ximalaya.com/album/127063591.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%83%85%E6%84%9F%E9%80%86%E8%A2%AD%E6%8C%BD%E5%9B%9E%E6%9C%AF%E4%B8%A8%E5%88%86%E6%89%8B%E5%A4%8D%E5%90%88%E5%AE%9E%E6%88%98%E6%8C%87%E5%AF%BC/id6809175843?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 132,
+      "releaseDate": "2026-10-24T13:20:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 6809231681,
+      "trackId": 6809231681,
+      "collectionName": "婚姻危机处理丨拉回爱人守住婚姻",
+      "artistName": "女性清醒导师千兰",
+      "feedUrl": "https://www.ximalaya.com/album/77660098.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A9%9A%E5%A7%BB%E5%8D%B1%E6%9C%BA%E5%A4%84%E7%90%86%E4%B8%A8%E6%8B%89%E5%9B%9E%E7%88%B1%E4%BA%BA%E5%AE%88%E4%BD%8F%E5%A9%9A%E5%A7%BB/id6809231681?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 1011,
+      "releaseDate": "2026-10-25T13:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 6809171322,
+      "trackId": 6809171322,
+      "collectionName": "挽回男友避坑指南丨复合少走弯路 提高成功率",
+      "artistName": "女性清醒导师千兰",
+      "feedUrl": "https://www.ximalaya.com/album/127109320.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%8C%BD%E5%9B%9E%E7%94%B7%E5%8F%8B%E9%81%BF%E5%9D%91%E6%8C%87%E5%8D%97%E4%B8%A8%E5%A4%8D%E5%90%88%E5%B0%91%E8%B5%B0%E5%BC%AF%E8%B7%AF-%E6%8F%90%E9%AB%98%E6%88%90%E5%8A%9F%E7%8E%87/id6809171322?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 127,
+      "releaseDate": "2026-10-25T12:54:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 6789131171,
+      "trackId": 6789131171,
+      "collectionName": "美人心计丨做一个会说话的女子 赢得偏爱",
+      "artistName": "千兰说女性清醒",
+      "feedUrl": "https://www.ximalaya.com/album/124796706.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BE%8E%E4%BA%BA%E5%BF%83%E8%AE%A1%E4%B8%A8%E5%81%9A%E4%B8%80%E4%B8%AA%E4%BC%9A%E8%AF%B4%E8%AF%9D%E7%9A%84%E5%A5%B3%E5%AD%90-%E8%B5%A2%E5%BE%97%E5%81%8F%E7%88%B1/id6789131171?uo=4",
+      "genres": [
+        "時尚與美容",
+        "Podcast",
+        "藝術",
+        "社會與文化",
+        "人際關係"
+      ],
+      "genreIds": [
+        "1459",
+        "26",
+        "1301",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 95,
+      "releaseDate": "2026-08-18T13:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "時尚與美容"
+    },
+    {
+      "collectionId": 1642261154,
+      "trackId": 1642261154,
+      "collectionName": "嘉人慧心-願女性們在未來世界中成為更美好的自己！",
+      "artistName": "小林加繪子",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/4fbb8c82-31f9-4343-a933-07ccfb83ed3a.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%98%89%E4%BA%BA%E6%85%A7%E5%BF%83-%E9%A1%98%E5%A5%B3%E6%80%A7%E5%80%91%E5%9C%A8%E6%9C%AA%E4%BE%86%E4%B8%96%E7%95%8C%E4%B8%AD%E6%88%90%E7%82%BA%E6%9B%B4%E7%BE%8E%E5%A5%BD%E7%9A%84%E8%87%AA%E5%B7%B1/id1642261154?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育",
+        "藝術"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1301"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2022-09-10T02:22:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 6786729301,
+      "trackId": 6786729301,
+      "collectionName": "性別543",
+      "artistName": "東吳大學人權學程 ── 女性主義與社會服務課程",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/69bf9020-2f13-40ce-b960-864486fc554f.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%80%A7%E5%88%A5543/id6786729301?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "電視與電影"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1309"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2026-07-02T08:32:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 6809231530,
+      "trackId": 6809231530,
+      "collectionName": "老公情感越界怎么办丨案例解析",
+      "artistName": "女性清醒导师千兰",
+      "feedUrl": "https://www.ximalaya.com/album/81055753.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%80%81%E5%85%AC%E6%83%85%E6%84%9F%E8%B6%8A%E7%95%8C%E6%80%8E%E4%B9%88%E5%8A%9E%E4%B8%A8%E6%A1%88%E4%BE%8B%E8%A7%A3%E6%9E%90/id6809231530?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 872,
+      "releaseDate": "2026-10-24T14:20:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1671400948,
+      "trackId": 1671400948,
+      "collectionName": "新戀神鑰｜女性專屬精品音頻課",
+      "artistName": "Tony哥哥",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/47f7655f-8d37-41a2-85fc-92d276a32cc1.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%B0%E6%88%80%E7%A5%9E%E9%91%B0-%E5%A5%B3%E6%80%A7%E5%B0%88%E5%B1%AC%E7%B2%BE%E5%93%81%E9%9F%B3%E9%A0%BB%E8%AA%B2/id1671400948?uo=4",
+      "genres": [
+        "教育",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2025-04-28T12:53:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1562792538,
+      "trackId": 1562792538,
+      "collectionName": "TF Lady 女性創業",
+      "artistName": "Lady J",
+      "feedUrl": "https://feed.firstory.me/rss/user/cknffmpdiuw37085336mt0fmu",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/tf-lady-%E5%A5%B3%E6%80%A7%E5%89%B5%E6%A5%AD/id1562792538?uo=4",
+      "genres": [
+        "行銷",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1492",
+        "26",
+        "1321"
+      ],
+      "trackCount": 36,
+      "releaseDate": "2022-01-17T23:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "行銷"
+    },
+    {
+      "collectionId": 6789109383,
+      "trackId": 6789109383,
+      "collectionName": "女生恋爱攻略丨提升情商 让男人主动付出",
+      "artistName": "千兰女性清醒成长",
+      "feedUrl": "https://www.ximalaya.com/album/122147697.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E7%94%9F%E6%81%8B%E7%88%B1%E6%94%BB%E7%95%A5%E4%B8%A8%E6%8F%90%E5%8D%87%E6%83%85%E5%95%86-%E8%AE%A9%E7%94%B7%E4%BA%BA%E4%B8%BB%E5%8A%A8%E4%BB%98%E5%87%BA/id6789109383?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 96,
+      "releaseDate": "2026-08-03T13:47:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 6809175544,
+      "trackId": 6809175544,
+      "collectionName": "读懂男性心理 | 女人恋爱必学技巧 清醒认知",
+      "artistName": "千兰说女性清醒",
+      "feedUrl": "https://www.ximalaya.com/album/76037947.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AF%BB%E6%87%82%E7%94%B7%E6%80%A7%E5%BF%83%E7%90%86-%E5%A5%B3%E4%BA%BA%E6%81%8B%E7%88%B1%E5%BF%85%E5%AD%A6%E6%8A%80%E5%B7%A7-%E6%B8%85%E9%86%92%E8%AE%A4%E7%9F%A5/id6809175544?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 609,
+      "releaseDate": "2026-10-16T14:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1581814544,
+      "trackId": 1581814544,
+      "collectionName": "みんなのとーく｜女性の生き方＆次世代に向けて私たちができること",
+      "artistName": "Her Life Her Way",
+      "feedUrl": "https://anchor.fm/s/65d64510/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%81%A8%E3%83%BC%E3%81%8F-%E5%A5%B3%E6%80%A7%E3%81%AE%E7%94%9F%E3%81%8D%E6%96%B9-%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%AB%E5%90%91%E3%81%91%E3%81%A6%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8/id1581814544?uo=4",
+      "genres": [
+        "子女教養",
+        "Podcast",
+        "兒童與家庭"
+      ],
+      "genreIds": [
+        "1521",
+        "26",
+        "1305"
+      ],
+      "trackCount": 87,
+      "releaseDate": "2026-09-30T21:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "子女教養"
+    },
+    {
+      "collectionId": 1595541737,
+      "trackId": 1595541737,
+      "collectionName": "艾瑜伽愛朗讀-艾揚格女性瑜伽",
+      "artistName": "傑尼姆",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckts9h96ixh4a0b25kmalise2",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%89%BE%E7%91%9C%E4%BC%BD%E6%84%9B%E6%9C%97%E8%AE%80-%E8%89%BE%E6%8F%9A%E6%A0%BC%E5%A5%B3%E6%80%A7%E7%91%9C%E4%BC%BD/id1595541737?uo=4",
+      "genres": [
+        "另類醫學",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1513",
+        "26",
+        "1512"
+      ],
+      "trackCount": 155,
+      "releaseDate": "2022-03-22T14:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "另類醫學"
+    },
+    {
+      "collectionId": 1884217052,
+      "trackId": 1884217052,
+      "collectionName": "50代女性のセカンドキャリア革命",
+      "artistName": "50代からプラスワンの収入構築マスター　米津美香",
+      "feedUrl": "https://mika.koelab.company/feed/podcast/",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/50%E4%BB%A3%E5%A5%B3%E6%80%A7%E3%81%AE%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E9%9D%A9%E5%91%BD/id1884217052?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 33,
+      "releaseDate": "2026-10-22T17:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 6809227468,
+      "trackId": 6809227468,
+      "collectionName": "婚姻修复指南丨挽回爱人",
+      "artistName": "千兰说女性清醒",
+      "feedUrl": "https://www.ximalaya.com/album/79621601.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A9%9A%E5%A7%BB%E4%BF%AE%E5%A4%8D%E6%8C%87%E5%8D%97%E4%B8%A8%E6%8C%BD%E5%9B%9E%E7%88%B1%E4%BA%BA/id6809227468?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 891,
+      "releaseDate": "2026-10-25T14:19:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1546044606,
+      "trackId": 1546044606,
+      "collectionName": "一千个女人的来信 | 女性睡前故事 夜听放松 情感电台",
+      "artistName": "夕拾50",
+      "feedUrl": "http://www.ximalaya.com/album/43887092.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%80%E5%8D%83%E4%B8%AA%E5%A5%B3%E4%BA%BA%E7%9A%84%E6%9D%A5%E4%BF%A1-%E5%A5%B3%E6%80%A7%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B-%E5%A4%9C%E5%90%AC%E6%94%BE%E6%9D%BE-%E6%83%85%E6%84%9F%E7%94%B5%E5%8F%B0/id1546044606?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 339,
+      "releaseDate": "2021-12-09T10:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1693532427,
+      "trackId": 1693532427,
+      "collectionName": "こんちわ（根治の輪） ー乳がんと向き合う女性のための応援ラジオ",
+      "artistName": "三橋ゆか里",
+      "feedUrl": "https://anchor.fm/s/e41bd1b0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%81%93%E3%82%93%E3%81%A1%E3%82%8F-%E6%A0%B9%E6%B2%BB%E3%81%AE%E8%BC%AA-%E3%83%BC%E4%B9%B3%E3%81%8C%E3%82%93%E3%81%A8%E5%90%91%E3%81%8D%E5%90%88%E3%81%86%E5%A5%B3%E6%80%A7%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E5%BF%9C%E6%8F%B4%E3%83%A9%E3%82%B8%E3%82%AA/id1693532427?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2025-05-08T23:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 6809230846,
+      "trackId": 6809230846,
+      "collectionName": "婚姻急救手册丨让你更懂男人 修复婚姻关系",
+      "artistName": "千兰女性清醒成长",
+      "feedUrl": "https://www.ximalaya.com/album/128446176.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A9%9A%E5%A7%BB%E6%80%A5%E6%95%91%E6%89%8B%E5%86%8C%E4%B8%A8%E8%AE%A9%E4%BD%A0%E6%9B%B4%E6%87%82%E7%94%B7%E4%BA%BA-%E4%BF%AE%E5%A4%8D%E5%A9%9A%E5%A7%BB%E5%85%B3%E7%B3%BB/id6809230846?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 94,
+      "releaseDate": "2026-10-15T13:53:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1855522031,
+      "trackId": 1855522031,
+      "collectionName": "女性自我觉醒冥想",
+      "artistName": "吴谷一",
+      "feedUrl": "https://www.ximalaya.com/album/111523753.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E8%87%AA%E6%88%91%E8%A7%89%E9%86%92%E5%86%A5%E6%83%B3/id1855522031?uo=4",
+      "genres": [
+        "靈修",
+        "Podcast",
+        "宗教與精神生活",
+        "佛教"
+      ],
+      "genreIds": [
+        "1444",
+        "26",
+        "1314",
+        "1438"
+      ],
+      "trackCount": 43,
+      "releaseDate": "2026-03-21T04:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "靈修"
+    },
+    {
+      "collectionId": 1801096748,
+      "trackId": 1801096748,
+      "collectionName": "破茧成蝶｜现代女性的情感困境与突破",
+      "artistName": "张江天选打工人",
+      "feedUrl": "https://www.ximalaya.com/album/87417408.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%A0%B4%E8%8C%A7%E6%88%90%E8%9D%B6-%E7%8E%B0%E4%BB%A3%E5%A5%B3%E6%80%A7%E7%9A%84%E6%83%85%E6%84%9F%E5%9B%B0%E5%A2%83%E4%B8%8E%E7%AA%81%E7%A0%B4/id1801096748?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "歷史"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 122,
+      "releaseDate": "2026-03-04T05:37:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 6809174473,
+      "trackId": 6809174473,
+      "collectionName": "高效挽回术丨让前任主动回头找你 不卑微不讨好",
+      "artistName": "千兰女性清醒成长",
+      "feedUrl": "https://www.ximalaya.com/album/127653950.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%AB%98%E6%95%88%E6%8C%BD%E5%9B%9E%E6%9C%AF%E4%B8%A8%E8%AE%A9%E5%89%8D%E4%BB%BB%E4%B8%BB%E5%8A%A8%E5%9B%9E%E5%A4%B4%E6%89%BE%E4%BD%A0-%E4%B8%8D%E5%8D%91%E5%BE%AE%E4%B8%8D%E8%AE%A8%E5%A5%BD/id6809174473?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 110,
+      "releaseDate": "2026-10-25T14:11:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1799547155,
+      "trackId": 1799547155,
+      "collectionName": "【历史上最具代表性的女性】",
+      "artistName": "阿蒙读历史",
+      "feedUrl": "https://www.ximalaya.com/album/86380972.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%85%B7%E4%BB%A3%E8%A1%A8%E6%80%A7%E7%9A%84%E5%A5%B3%E6%80%A7/id1799547155?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast",
+        "社會與文化",
+        "紀實"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324",
+        "1543"
+      ],
+      "trackCount": 19,
+      "releaseDate": "2025-03-01T16:55:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 6809174428,
+      "trackId": 6809174428,
+      "collectionName": "分手复合攻略丨高效挽回爱情 实战指导",
+      "artistName": "千兰女性清醒成长",
+      "feedUrl": "https://www.ximalaya.com/album/127061076.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%88%86%E6%89%8B%E5%A4%8D%E5%90%88%E6%94%BB%E7%95%A5%E4%B8%A8%E9%AB%98%E6%95%88%E6%8C%BD%E5%9B%9E%E7%88%B1%E6%83%85-%E5%AE%9E%E6%88%98%E6%8C%87%E5%AF%BC/id6809174428?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 132,
+      "releaseDate": "2026-10-24T14:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1894777584,
+      "trackId": 1894777584,
+      "collectionName": "永田潤子の人生の羅針盤 ー女性の実学塾ラジオー",
+      "artistName": "女性の実学塾（女性のあしたアカデミー）",
+      "feedUrl": "https://anchor.fm/s/111ace7cc/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B0%B8%E7%94%B0%E6%BD%A4%E5%AD%90%E3%81%AE%E4%BA%BA%E7%94%9F%E3%81%AE%E7%BE%85%E9%87%9D%E7%9B%A4-%E3%83%BC%E5%A5%B3%E6%80%A7%E3%81%AE%E5%AE%9F%E5%AD%A6%E5%A1%BE%E3%83%A9%E3%82%B8%E3%82%AA%E3%83%BC/id1894777584?uo=4",
+      "genres": [
+        "課程",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304"
+      ],
+      "trackCount": 50,
+      "releaseDate": "2026-10-24T22:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "課程"
+    },
+    {
+      "collectionId": 6789132106,
+      "trackId": 6789132106,
+      "collectionName": "女性清醒丨识大佬筛优质・引付出全攻略",
+      "artistName": "千兰说女性清醒",
+      "feedUrl": "https://www.ximalaya.com/album/120423528.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E6%B8%85%E9%86%92%E4%B8%A8%E8%AF%86%E5%A4%A7%E4%BD%AC%E7%AD%9B%E4%BC%98%E8%B4%A8-%E5%BC%95%E4%BB%98%E5%87%BA%E5%85%A8%E6%94%BB%E7%95%A5/id6789132106?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 156,
+      "releaseDate": "2026-08-01T15:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1234086160,
+      "trackId": 1234086160,
+      "collectionName": "女性の事業家井戸端会議",
+      "artistName": "女性の事業家井戸端会議",
+      "feedUrl": "http://mu-chan.tokyo/podcast/feed/podcast/",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E3%81%AE%E4%BA%8B%E6%A5%AD%E5%AE%B6%E4%BA%95%E6%88%B8%E7%AB%AF%E4%BC%9A%E8%AD%B0/id1234086160?uo=4",
+      "genres": [
+        "職業",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1410",
+        "26",
+        "1321"
+      ],
+      "trackCount": 81,
+      "releaseDate": "2018-12-16T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "職業"
+    },
+    {
+      "collectionId": 1432356276,
+      "trackId": 1432356276,
+      "collectionName": "【女性起業家専門】集客パーソナルトレーナー",
+      "artistName": "【女性起業家専門】集客パーソナルトレーナー",
+      "feedUrl": "http://nakatanihitomi.com/feed/podcast/?redirect=no",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E8%B5%B7%E6%A5%AD%E5%AE%B6%E5%B0%82%E9%96%80-%E9%9B%86%E5%AE%A2%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BC/id1432356276?uo=4",
+      "genres": [
+        "商業",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1321",
+        "26"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2018-08-21T04:33:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1611301465,
+      "trackId": 1611301465,
+      "collectionName": "关注女性创业话题",
+      "artistName": "女性的创业故事",
+      "feedUrl": "http://www.ximalaya.com/album/52875305.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%B3%E6%B3%A8%E5%A5%B3%E6%80%A7%E5%88%9B%E4%B8%9A%E8%AF%9D%E9%A2%98/id1611301465?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2023-11-24T13:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1741293099,
+      "trackId": 1741293099,
+      "collectionName": "她说·女性赋能项目",
+      "artistName": "她说女性赋能项目",
+      "feedUrl": "https://www.ximalaya.com/album/80782053.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B9%E8%AF%B4-%E5%A5%B3%E6%80%A7%E8%B5%8B%E8%83%BD%E9%A1%B9%E7%9B%AE/id1741293099?uo=4",
+      "genres": [
+        "紀實",
+        "Podcast",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1543",
+        "26",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2024-05-08T05:48:00Z",
+      "country": "TWN",
+      "primaryGenreName": "紀實"
+    },
+    {
+      "collectionId": 6814174053,
+      "trackId": 6814174053,
+      "collectionName": "小红书纯关键词搜索指南 4remen.cc 深度布局精准女性与生活消费圈层",
+      "artistName": "小红书纯关键词搜索指南 4remen.cc 深度布局精准女性与生活消费圈层",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmu9twyug0ch301vg79378k72",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E7%BA%AF%E5%85%B3%E9%94%AE%E8%AF%8D%E6%90%9C%E7%B4%A2%E6%8C%87%E5%8D%97-4remen-cc-%E6%B7%B1%E5%BA%A6%E5%B8%83%E5%B1%80%E7%B2%BE%E5%87%86%E5%A5%B3%E6%80%A7%E4%B8%8E%E7%94%9F%E6%B4%BB%E6%B6%88%E8%B4%B9%E5%9C%88%E5%B1%82/id6814174053?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-09-20T13:09:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1810928798,
+      "trackId": 1810928798,
+      "collectionName": "群青女性成长说",
+      "artistName": "群青女性",
+      "feedUrl": "https://feed.xyzfm.space/prfly9u7fylm",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BE%A4%E9%9D%92%E5%A5%B3%E6%80%A7%E6%88%90%E9%95%BF%E8%AF%B4/id1810928798?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2026-09-01T02:16:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1225563539,
+      "trackId": 1225563539,
+      "collectionName": "恋愛コンサルタント小田切ユウの『女性をトリコにする恋愛法則』",
+      "artistName": "恋愛コンサルタント小田切ユウの『女性をトリコにする恋愛法則』",
+      "feedUrl": "http://odagiri01.com/podcast/feed/podcast/",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%81%8B%E6%84%9B%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB%E3%82%BF%E3%83%B3%E3%83%88%E5%B0%8F%E7%94%B0%E5%88%87%E3%83%A6%E3%82%A6%E3%81%AE-%E5%A5%B3%E6%80%A7%E3%82%92%E3%83%88%E3%83%AA%E3%82%B3%E3%81%AB%E3%81%99%E3%82%8B%E6%81%8B%E6%84%9B%E6%B3%95%E5%89%87/id1225563539?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 21,
+      "releaseDate": "2017-08-25T12:20:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1213440816,
+      "trackId": 1213440816,
+      "collectionName": "一般女性が悩みに答えるラジオ",
+      "artistName": "一般女性",
+      "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:293788656/sounds.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%80%E8%88%AC%E5%A5%B3%E6%80%A7%E3%81%8C%E6%82%A9%E3%81%BF%E3%81%AB%E7%AD%94%E3%81%88%E3%82%8B%E3%83%A9%E3%82%B8%E3%82%AA/id1213440816?uo=4",
+      "genres": [
+        "喜劇",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1303",
+        "26"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2017-03-28T16:42:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇"
+    },
+    {
+      "collectionId": 1760610228,
+      "trackId": 1760610228,
+      "collectionName": "キタエリラジオ｜女性心理マーケ×SNS集客導線",
+      "artistName": "北森えりこ|自由な暮らしを叶えた女性起業家",
+      "feedUrl": "https://stand.fm/rss/66348642875ed51dcf79eb30",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%82%AD%E3%82%BF%E3%82%A8%E3%83%AA%E3%83%A9%E3%82%B8%E3%82%AA-%E5%A5%B3%E6%80%A7%E5%BF%83%E7%90%86%E3%83%9E%E3%83%BC%E3%82%B1-sns%E9%9B%86%E5%AE%A2%E5%B0%8E%E7%B7%9A/id1760610228?uo=4",
+      "genres": [
+        "行銷",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1492",
+        "26",
+        "1321"
+      ],
+      "trackCount": 47,
+      "releaseDate": "2026-04-25T22:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "行銷"
+    },
+    {
+      "collectionId": 1896945288,
+      "trackId": 1896945288,
+      "collectionName": "女性外科医珍道中",
+      "artistName": "チーム珍道中",
+      "feedUrl": "https://anchor.fm/s/110cac464/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E5%A4%96%E7%A7%91%E5%8C%BB%E7%8F%8D%E9%81%93%E4%B8%AD/id1896945288?uo=4",
+      "genres": [
+        "醫學",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1518",
+        "26",
+        "1512"
+      ],
+      "trackCount": 19,
+      "releaseDate": "2026-10-15T21:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "醫學"
+    },
+    {
+      "collectionId": 1653771877,
+      "trackId": 1653771877,
+      "collectionName": "女性のためのうちカタ塾／住まいづくり 建築系ライフオーガナイザーもりまり",
+      "artistName": "建築系ライフオーガナイザーもりまり",
+      "feedUrl": "https://anchor.fm/s/9dfd30c0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E3%81%86%E3%81%A1%E3%82%AB%E3%82%BF%E5%A1%BE-%E4%BD%8F%E3%81%BE%E3%81%84%E3%81%A5%E3%81%8F%E3%82%8A-%E5%BB%BA%E7%AF%89%E7%B3%BB%E3%83%A9%E3%82%A4%E3%83%95%E3%82%AA%E3%83%BC%E3%82%AC%E3%83%8A%E3%82%A4%E3%82%B6%E3%83%BC%E3%82%82%E3%82%8A%E3%81%BE%E3%82%8A/id1653771877?uo=4",
+      "genres": [
+        "商業",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1321",
+        "26"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2023-01-16T13:20:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1744787703,
+      "trackId": 1744787703,
+      "collectionName": "哇呀挖·女性播客",
+      "artistName": "哇呀挖",
+      "feedUrl": "https://feed.xyzfm.space/t8ym4lxrmu4a",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%87%E5%91%80%E6%8C%96-%E5%A5%B3%E6%80%A7%E6%92%AD%E5%AE%A2/id1744787703?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 33,
+      "releaseDate": "2026-05-09T06:34:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1560371110,
+      "trackId": 1560371110,
+      "collectionName": "女性的声音｜Voice of Female",
+      "artistName": "车厘子的播客",
+      "feedUrl": "http://www.ximalaya.com/album/47993484.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E7%9A%84%E5%A3%B0%E9%9F%B3-voice-of-female/id1560371110?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "藝術",
+        "書籍"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-03-26T11:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 6789107997,
+      "trackId": 6789107997,
+      "collectionName": "高段位择偶丨避坑识人 赢得价值回报",
+      "artistName": "千兰女性清醒成长",
+      "feedUrl": "https://www.ximalaya.com/album/122064316.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%AB%98%E6%AE%B5%E4%BD%8D%E6%8B%A9%E5%81%B6%E4%B8%A8%E9%81%BF%E5%9D%91%E8%AF%86%E4%BA%BA-%E8%B5%A2%E5%BE%97%E4%BB%B7%E5%80%BC%E5%9B%9E%E6%8A%A5/id6789107997?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "人際關係"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 102,
+      "releaseDate": "2026-08-01T14:24:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1686612855,
+      "trackId": 1686612855,
+      "collectionName": "【ＮＹ発】女性が心を整えながら人生の富をふやす～コーチングカフェ～",
+      "artistName": "Junoジュノ",
+      "feedUrl": "https://anchor.fm/s/cf655944/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%EF%BD%8E%EF%BD%99%E7%99%BA-%E5%A5%B3%E6%80%A7%E3%81%8C%E5%BF%83%E3%82%92%E6%95%B4%E3%81%88%E3%81%AA%E3%81%8C%E3%82%89%E4%BA%BA%E7%94%9F%E3%81%AE%E5%AF%8C%E3%82%92%E3%81%B5%E3%82%84%E3%81%99-%E3%82%B3%E3%83%BC%E3%83%81%E3%83%B3%E3%82%B0%E3%82%AB%E3%83%95%E3%82%A7/id1686612855?uo=4",
+      "genres": [
+        "教育",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "trackCount": 94,
+      "releaseDate": "2023-12-21T14:12:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1713693116,
+      "trackId": 1713693116,
+      "collectionName": "初次见面，我们来聊聊独自出游的女性",
+      "artistName": "反骨仔rebel",
+      "feedUrl": "https://www.ximalaya.com/album/78813700.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%88%9D%E6%AC%A1%E8%A7%81%E9%9D%A2-%E6%88%91%E4%BB%AC%E6%9D%A5%E8%81%8A%E8%81%8A%E7%8B%AC%E8%87%AA%E5%87%BA%E6%B8%B8%E7%9A%84%E5%A5%B3%E6%80%A7/id1713693116?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2023-10-25T14:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 302539788,
+      "trackId": 302539788,
+      "collectionName": "それぞれの就活～明日を担う女性たち～",
+      "artistName": "REALWAVE",
+      "feedUrl": "https://futurewoman.seesaa.space/index20.rdf",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E3%81%AE%E5%B0%B1%E6%B4%BB-%E6%98%8E%E6%97%A5%E3%82%92%E6%8B%85%E3%81%86%E5%A5%B3%E6%80%A7%E3%81%9F%E3%81%A1/id302539788?uo=4",
+      "genres": [
+        "職業",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1410",
+        "26",
+        "1321"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2009-03-19T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "職業"
+    },
+    {
+      "collectionId": 6801941953,
+      "trackId": 6801941953,
+      "collectionName": "わたしとキャリアの話。〜女性大学生・社会人のためのPodcast by MeLab〜",
+      "artistName": "RとM",
+      "feedUrl": "https://anchor.fm/s/113314b24/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%82%8F%E3%81%9F%E3%81%97%E3%81%A8%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2%E3%81%AE%E8%A9%B1-%E5%A5%B3%E6%80%A7%E5%A4%A7%E5%AD%A6%E7%94%9F-%E7%A4%BE%E4%BC%9A%E4%BA%BA%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AEpodcast-by-melab/id6801941953?uo=4",
+      "genres": [
+        "職業",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1410",
+        "26",
+        "1321"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-30T15:39:00Z",
+      "country": "TWN",
+      "primaryGenreName": "職業"
+    },
+    {
+      "collectionId": 6788413917,
+      "trackId": 6788413917,
+      "collectionName": "【遺伝子チューニング】エフォートレスに自分を取り戻す！がんばりすぎる女性のための自",
+      "artistName": "中井さやか",
+      "feedUrl": "https://anchor.fm/s/11462c644/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%81%BA%E4%BC%9D%E5%AD%90%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0-%E3%82%A8%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E3%83%AC%E3%82%B9%E3%81%AB%E8%87%AA%E5%88%86%E3%82%92%E5%8F%96%E3%82%8A%E6%88%BB%E3%81%99-%E3%81%8C%E3%82%93%E3%81%B0%E3%82%8A%E3%81%99%E3%81%8E%E3%82%8B%E5%A5%B3%E6%80%A7%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E8%87%AA/id6788413917?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2026-10-20T10:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1545278203,
+      "trackId": 1545278203,
+      "collectionName": "FLOWER OF LIFE 19～団塊ジュニア女性の心の花瓶に水を注ぐラジオ",
+      "artistName": "19（ないん）",
+      "feedUrl": "https://anchor.fm/s/4484abb8/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/flower-of-life-19-%E5%9B%A3%E5%A1%8A%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2%E5%A5%B3%E6%80%A7%E3%81%AE%E5%BF%83%E3%81%AE%E8%8A%B1%E7%93%B6%E3%81%AB%E6%B0%B4%E3%82%92%E6%B3%A8%E3%81%90%E3%83%A9%E3%82%B8%E3%82%AA/id1545278203?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2020-12-25T21:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1736940346,
+      "trackId": 1736940346,
+      "collectionName": "40代女性の転職成功メソッド",
+      "artistName": "キャリアコンサルタント 大関沙代子",
+      "feedUrl": "https://stand.fm/rss/65eeb4a73e0b28cf8161a025",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/40%E4%BB%A3%E5%A5%B3%E6%80%A7%E3%81%AE%E8%BB%A2%E8%81%B7%E6%88%90%E5%8A%9F%E3%83%A1%E3%82%BD%E3%83%83%E3%83%89/id1736940346?uo=4",
+      "genres": [
+        "職業",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1410",
+        "26",
+        "1321"
+      ],
+      "trackCount": 13,
+      "releaseDate": "2024-04-22T11:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "職業"
+    },
+    {
+      "collectionId": 1879166785,
+      "trackId": 1879166785,
+      "collectionName": "The 2nd Stage 働く女性の自分らしいセンス磨き",
+      "artistName": "三好凛佳",
+      "feedUrl": "https://anchor.fm/s/10d0d993c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/the-2nd-stage-%E5%83%8D%E3%81%8F%E5%A5%B3%E6%80%A7%E3%81%AE%E8%87%AA%E5%88%86%E3%82%89%E3%81%97%E3%81%84%E3%82%BB%E3%83%B3%E3%82%B9%E7%A3%A8%E3%81%8D/id1879166785?uo=4",
+      "genres": [
+        "時尚與美容",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1459",
+        "26",
+        "1301"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2026-03-11T13:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "時尚與美容"
+    },
+    {
+      "collectionId": 1470048176,
+      "trackId": 1470048176,
+      "collectionName": "女性起業家の頭の中をのぞき見るラジオ(JNR)",
+      "artistName": "Debbie Aizen",
+      "feedUrl": "https://radiotalk.jp/rss/cf1348a7364b8578",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E6%80%A7%E8%B5%B7%E6%A5%AD%E5%AE%B6%E3%81%AE%E9%A0%AD%E3%81%AE%E4%B8%AD%E3%82%92%E3%81%AE%E3%81%9E%E3%81%8D%E8%A6%8B%E3%82%8B%E3%83%A9%E3%82%B8%E3%82%AA-jnr/id1470048176?uo=4",
+      "genres": [
+        "靈修",
+        "Podcast",
+        "宗教與精神生活"
+      ],
+      "genreIds": [
+        "1444",
+        "26",
+        "1314"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2019-08-02T03:20:00Z",
+      "country": "TWN",
+      "primaryGenreName": "靈修"
+    },
+    {
+      "collectionId": 1895588696,
+      "trackId": 1895588696,
+      "collectionName": "日野佳恵子の「買う理由、買わない理由」 ― 女性インサイトラボ　HERSTORY―",
+      "artistName": "株式会社ハー・ストーリィ",
+      "feedUrl": "https://anchor.fm/s/111acffa0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%A5%E9%87%8E%E4%BD%B3%E6%81%B5%E5%AD%90%E3%81%AE-%E8%B2%B7%E3%81%86%E7%90%86%E7%94%B1-%E8%B2%B7%E3%82%8F%E3%81%AA%E3%81%84%E7%90%86%E7%94%B1-%E5%A5%B3%E6%80%A7%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88%E3%83%A9%E3%83%9C-herstory/id1895588696?uo=4",
+      "genres": [
+        "行銷",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1492",
+        "26",
+        "1321"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2026-09-18T10:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "行銷"
+    },
+    {
+      "collectionId": 1726312421,
+      "trackId": 1726312421,
+      "collectionName": "一页知球 | 全女性播客",
+      "artistName": "限量贩售中",
+      "feedUrl": "https://feed.xyzfm.space/bvgdudlfpx3r",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%80%E9%A1%B5%E7%9F%A5%E7%90%83-%E5%85%A8%E5%A5%B3%E6%80%A7%E6%92%AD%E5%AE%A2/id1726312421?uo=4",
+      "genres": [
+        "運動",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1545",
+        "26"
+      ],
+      "trackCount": 62,
+      "releaseDate": "2026-10-06T06:58:00Z",
+      "country": "TWN",
+      "primaryGenreName": "運動"
+    },
+    {
+      "collectionId": 1844674729,
+      "trackId": 1844674729,
+      "collectionName": "転換期の女性たちへ",
+      "artistName": "Emiko Rasmussen",
+      "feedUrl": "https://rss.libsyn.com/shows/89396/destinations/441486.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%BB%A2%E6%8F%9B%E6%9C%9F%E3%81%AE%E5%A5%B3%E6%80%A7%E3%81%9F%E3%81%A1%E3%81%B8/id1844674729?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 612,
+      "releaseDate": "2026-03-10T20:33:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1825119691,
+      "trackId": 1825119691,
+      "collectionName": "メノ・パワー（Menopause Empowerment) 女性であることを一緒にお祝いしましょう!",
+      "artistName": "TOMOKO",
+      "feedUrl": "https://anchor.fm/s/fce58b28/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%83%A1%E3%83%8E-%E3%83%91%E3%83%AF%E3%83%BC-menopause-empowerment-%E5%A5%B3%E6%80%A7%E3%81%A7%E3%81%82%E3%82%8B%E3%81%93%E3%81%A8%E3%82%92%E4%B8%80%E7%B7%92%E3%81%AB%E3%81%8A%E7%A5%9D%E3%81%84%E3%81%97%E3%81%BE%E3%81%97%E3%82%87%E3%81%86/id1825119691?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 64,
+      "releaseDate": "2026-10-14T04:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    }
+  ]
+}

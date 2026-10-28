@@ -1,0 +1,140 @@
+{
+  "show_id": "1523403762",
+  "feed_url": "http://www.ximalaya.com/album/37778161.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/37778161.xml",
+    "final_url": "http://www.ximalaya.com/album/37778161.xml",
+    "fetched_at": "2026-10-25T14:53:03.704061+00:00",
+    "status": 200,
+    "sha256": "7baf18b8c68b2bb88712ed9923184d0f891e67b1a60778116e006c11a28b2dc0"
+  },
+  "status": "ok",
+  "title": {
+    "text": "GanBei干杯-高端商业访谈",
+    "truncated": false
+  },
+  "description": {
+    "text": "Conversations with leading business executives in China.",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 22,
+  "episodes": [
+    {
+      "id": "9418428998ef564c2da37d7853296398859e78ee3b879b072d1246d6082673f2",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b870-audiofreehighqps/EA/52/CKwRINsEhTN9ABAAAACxK3op.mp3",
+      "title": {
+        "text": "The Xiaomi Playbook: Anatomy of a Successful Case in US Courts",
+        "truncated": false
+      },
+      "description": {
+        "text": "Xiaomi recently won a case in US federal court to block implementation of a rule that would have prevented US persons from investing in their stock. The announcement of this rule had initially sent their stock plummeting. Xiaomi and Luokung, another company facing this rule, have now given other similar companies a playbook for pushing back. We talk with Tim O’Toole, a white collar defense and international trade lawyer at Miller & Chevalier. Tim has brought numerous cases before the same judge in federal court as the Xiaomi and Luokung cases, and he walks us through the rulings and what comes",
+        "truncated": true
+      },
+      "published_at": "Thu, 27 May 2021 10:13:21 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "11afa75720d9ca3e1bbe51ab27918ef8d74f1f2dda1d367e78b0e4e44d9e0322",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/89f8-audiofreehighqps/D2/86/CKwRINsEE33cAQl3ZACNcbJu.m4a",
+      "title": {
+        "text": "Investment in China with Ker Gibbs",
+        "truncated": false
+      },
+      "description": {
+        "text": "An In-depth conversation with Ker Gibbs, President of Amcham Shanghai",
+        "truncated": false
+      },
+      "published_at": "Tue, 02 Mar 2021 04:09:37 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "01de3290f7806d8a1717086580e90ce491432e9da6dfd933f0387ec72ae0ab13",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/196f-audiofreehighqps/07/23/CMCoOR4DwPYaAWIidwB2QnGC.m4a",
+      "title": {
+        "text": "The Early days of Airbnb",
+        "truncated": false
+      },
+      "description": {
+        "text": "In the wake of the recent IPO, we interview three early members of the Airbnb China team on how Airbnb found and stuck to its core advantages against an array of local competitors. And how it managed to emerge as a rare Western tech startup success story in China. Guest lineup: Robert Hao , Co-Founder and COO of Hype, Ltd.; Director of Business Operations and Strategy, HCO, Head of Supply at Airbnb 2012-2017 Bryan Huang , Founder at Annabai Technology; IT Manager at Airbnb 2015-2018 Ziyang David Fan, Head of Digital Trade at World Economic Forum; Senior Legal Counsel at Airbnb 2015-2017",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Dec 2020 13:45:03 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "0e4196674307e9ba3fb1ebb3433f415facc593220bb21eadf57986cdf58bb756",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e24a-audiofreehighqps/9F/94/CMCoOR8Dec2GAfJiqgBkFcx3.m4a",
+      "title": {
+        "text": "The Future of Foreign Investment in China",
+        "truncated": false
+      },
+      "description": {
+        "text": "Our Roundtable format continues with predictions for whether new foreign investment will increase, decrease or continue to flatline in the next 5 years. Our panel includes: Paul Lin - Brand Marketing Consultant at Xavor Corporation and Chair of the Marketing Committee at Amcham Shanghai Nico Bahmanyar, Senior Consultant at LEAF, a French law firm in China Tommy Greb, Partner at Olivar & Greb Capital Management We dissect the consumer, tech, and financial services sectors and give feedback based on what we are seeing with our actual clients here in China. We also unpack the latest Amcham Shangh",
+        "truncated": true
+      },
+      "published_at": "Thu, 05 Nov 2020 14:18:54 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "3d16db0c07e25da068cbd78fd4f44f3df7accbe1c39bcddaff2fb1fccb2d75ca",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/cd56-audiofreehighqps/DC/28/CMCoOSQDGmZsAKX_RwBOK6hN.m4a",
+      "title": {
+        "text": "A Deep Dive on the Huawei Restrictions – Part 1 – The New Rule Explained",
+        "truncated": false
+      },
+      "description": {
+        "text": "A Deep Dive on the Huawei Restrictions – Part 1 – The New Rule Explained · The most recent restrictions on Huawei explained · Detailed timeline of restriction escalations and bans by other countries · Core vs edge computing and why 5G presents so many data security risks · Data privacy frameworks struggling to cope with the “black box” of a modern 5G telecom network such as Huawei’s",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 Aug 2020 05:36:11 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "d25ac49c52ab8bebb4066edcc28cd1bbb8bc6c396746b2c593b8d85ac033382d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/a0c8-audiofreehighqps/1E/F0/CMCoOSYC_pWiATUF3wBHobwj.mp3",
+      "title": {
+        "text": "Sino-Indo Tekno - Comparing the Podcast Markets in China and Indonesia",
+        "truncated": false
+      },
+      "description": {
+        "text": "Sino-Indo Tekno - Comparing the Podcast Markets in China and Indonesia The joint Sino Indo Tekno series continues with Tyo Guritno, founder of leading Indonesia podcasting platform Inspigo. Alan Hellawell of the Indo-Tekno Podcast and Ganbei host Art Dicker dive into a comparison of the two podcast markets. The China podcasting market is much bigger than its relatively nascent Indonesian counterpart. But the potential for growth in Indonesia is enormous especially as content producers and listeners start to embrace the paid content model so widespread in China. Tyo discusses how, like China, l",
+        "truncated": true
+      },
+      "published_at": "Tue, 04 Aug 2020 03:14:44 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "ee44e64e19e5ee3415e5334ca2576ff1323b9cc37236eb73ed19bc6061dd9306",
+      "guid": "https://aod.cos.tx.xmcdn.com/group81/M05/C8/F2/wKgPDV67kqLQ_d0PAVt5nlGeIos493.m4a",
+      "title": {
+        "text": "Digital Marketing in China-Before & After COVID-19, with Paul Lin",
+        "truncated": false
+      },
+      "description": {
+        "text": "We talk with Paul Lin, long-time China resident and chair of the Marketing Committee at the American Chamber of Commerce. On e-commerce trends and how brands reach consumers before and after COVID-19.",
+        "truncated": false
+      },
+      "published_at": "Wed, 13 May 2020 06:21:50 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "488719142c515c9b2497a1de0d0a36e0169e29169af5a2c4e8372d1e368583d7",
+      "guid": "https://aod.cos.tx.xmcdn.com/group80/M09/2F/29/wKgPEV62L4Oiljo-AHD8kEAFaVA631.m4a",
+      "title": {
+        "text": "Lessons from a Serial Entrepreneur in China-With Charles Liao",
+        "truncated": false
+      },
+      "description": {
+        "text": "We interview Charles Liao, who was born in China and grew up in the US, on how he was able to launch multiple successful startups in China.",
+        "truncated": false
+      },
+      "published_at": "Sat, 09 May 2020 04:18:49 GMT",
+      "feed_index": 21
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1596038755",
+  "feed_url": "https://feeds.soundon.fm/podcasts/35f5e2cd-d78a-45c3-8608-9a0c1da4f402.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/35f5e2cd-d78a-45c3-8608-9a0c1da4f402.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/35f5e2cd-d78a-45c3-8608-9a0c1da4f402.xml",
+    "fetched_at": "2026-10-25T14:54:50.365414+00:00",
+    "status": 200,
+    "sha256": "5c65bce41edede76637b6078b3bf45a7353cb6c90f6dcee07bd24de7e785dc12"
+  },
+  "status": "ok",
+  "title": {
+    "text": "聽說。環境 - 環保 X 生態 X 永續 X 有聲書",
+    "truncated": false
+  },
+  "description": {
+    "text": "想吸收環境知識卻不想閱讀大量文字嗎？綠色和平「聽說。環境」有聲系列節目，與你分享氣候、森林、海洋、減塑、綠色生活等環保資訊，以及全球第一線環境工作者的人物故事。 邀請你，一起來「聽」我們「說」關於「環境」的大小事。 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 24,
+  "episodes": [
+    {
+      "id": "bf2aa1c4f6aaffab370b5118533839a92989b2df83f678ef9d54f7cba422b72a",
+      "guid": "e8805733-75f4-4616-9f89-01de508063f6",
+      "title": {
+        "text": "30%保護，足以拯救100%的海洋？",
+        "truncated": false
+      },
+      "description": {
+        "text": "目前全球受到保護的海洋只有 7.65% ，其中 6.93% 屬於國家水域，表示不到 1% 的公海受到完整保護。這樣的保護程度遠不足以恢復原本的海洋生態。 綠色和平與全球海洋守護者努力推動 2030 年前保護至少 30% 海洋，但這真的足以拯救全部海洋嗎？ ►Blog圖文好讀版👉https://act.gp/348VWbW ►聽說.環境有聲書Podcast各平臺上線👉https://act.gp/3oVmmp6 ►綠色和平不接受政府/企業捐款以維持公正獨立，邀請您小額捐助支持環境守護行動👉https://act.gp/3nuShwv #有聲書 #聽書 #環保 #海洋 #海洋保育 #海洋保護區 #海洋公約 #生態 #守護海洋",
+        "truncated": false
+      },
+      "published_at": "Fri, 04 Mar 2022 02:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "7cba993be11654e7376cce0a1263f70bd2735d10dcb152fbc24e2969db20a09a",
+      "guid": "cfa594f4-0e6e-4c12-a9d9-1fcd3971da88",
+      "title": {
+        "text": "非洲森林破壞加劇的4個原因",
+        "truncated": false
+      },
+      "description": {
+        "text": "從剛果盆地的熱帶雨林到西非的幾內亞森林，再到東非的沿海森林，整個非洲大陸的森林覆蓋率正在逐步下降。 遠在地球另一端的非洲森林被蠶食鯨吞，對於身處臺灣的您我有什麼影響？ 事實上，森林不只與生物多樣性相關，更與全球氣候存在密切關聯。 ►Blog圖文好讀版👉https://act.gp/3fN0zdP ►聽說.環境有聲書Podcast各平臺上線👉https://act.gp/3oVmmp6 ►綠色和平不接受政府/企業捐款以維持公正獨立，邀請您小額捐助支持環境守護行動👉https://act.gp/3nuShwv #有聲書 #聽書 #環保 #非洲 #森林 #熱帶雨林 #氣候危機 #氣候變遷",
+        "truncated": false
+      },
+      "published_at": "Fri, 28 Jan 2022 02:00:00 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "8a18c747caf10fe0a33efcc75f5d9a037433215ba127655734217f7903b51cc3",
+      "guid": "7e709979-c4d8-4728-9a37-1f82a4aed97f",
+      "title": {
+        "text": "氣候變遷是什麼？全球暖化原因是？",
+        "truncated": false
+      },
+      "description": {
+        "text": "牛津辭典為2019年選出年度關鍵字，由「氣候緊急」拔得頭籌，成為使用度最高的字辭，不僅顯示大眾對氣候變遷的意識提升，更代表氣候危機正在全球發生。究竟氣候變遷是什麼？它是怎麼造成的？對您我生活又帶來哪些影響？ ►Blog圖文好讀版👉https://act.gp/3ezc4VQ ►聽說.環境有聲書Podcast各平臺上線👉https://act.gp/3oVmmp6 ►綠色和平不接受政府/企業捐款以維持公正獨立，邀請您小額捐助支持環境守護行動👉https://act.gp/3nuShwv",
+        "truncated": false
+      },
+      "published_at": "Fri, 31 Dec 2021 02:00:00 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "1bd7ce2679447644334f14438941cc6c08cd6886314995d11847c6212abf6103",
+      "guid": "dd8b7bb0-f7be-41b4-9dc9-102924fafd71",
+      "title": {
+        "text": "生物可分解塑膠比較環保?",
+        "truncated": false
+      },
+      "description": {
+        "text": "據估計，每年有多達 1,200 萬噸的塑膠進入海洋，相當於每分鐘一卡車的量。而近年各界也開始在尋找替代方案，超市、超商紛紛開始採用「生物可分解塑膠」、「生物基質塑膠」作為一次性塑膠包裝的材質替代，但改變材質真的是最好的解決方法嗎？而生物可分解塑膠真的如企業宣稱一般的環保嗎？ ►Blog圖文好讀版👉https://act.gp/3IExe2D ►沒時間看文章嗎？聽說.環境有聲書讓您輕鬆聽故事👉https://act.gp/3nuSksb ►綠色和平不接受政府/企業捐款以維持公正獨立，邀請您小額捐助支持環境守護行動👉https://act.gp/3nuShwv #有聲書 #聽書 #環保 #PLA #塑膠 #減塑 #生物分解",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Dec 2021 05:00:00 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "75331c873070ce4eba2f1315c630618fc36fede96e9aed405b6a37392fe6d55c",
+      "guid": "12889c96-8a09-48c5-8782-9618e9916928",
+      "title": {
+        "text": "生物多樣性，守護地球的屏障",
+        "truncated": false
+      },
+      "description": {
+        "text": "「生物多樣性」呈現了地球上物種與環境的多元面貌，讓動植物能呼吸、生存、保持健康與美麗。 亞馬遜是地球上生物多樣性最豐富的生態系統之一，然而，隨著人類活動入侵雨林，毀林、砍伐不斷發生，物種滅絕速度急遽升高，生物多樣性飽受威脅。 - - ►Blog圖文好讀版👉https://act.gp/3nnaQC3 ►沒時間看文章嗎？聽說.環境有聲書讓您輕鬆聽故事👉https://act.gp/3nuSksb ►綠色和平不接受政府/企業捐款以維持公正獨立，邀請您小額捐助支持環境守護行動👉https://act.gp/3nuShwv #有聲書 #聽書 #環保 #森林 #亞馬遜雨林 #生物多樣性",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Nov 2021 02:00:00 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "e37e563121abeaf16935578e81c55f1d072f2c77623ea930150fd6350b1a1d38",
+      "guid": "45403797-dcd2-4e39-9875-a5d5d893657f",
+      "title": {
+        "text": "臺灣海洋生物多樣性面臨哪些問題？",
+        "truncated": false
+      },
+      "description": {
+        "text": "臺灣鄰近的海域原本擁有豐富的生物多樣性，光是魚類的種類就高達3,000多種，占將近全球的十分之一！全球僅有7種海龜，當中就有5種會出現在臺灣；珊瑚種類更是多達全球約三分之一，共約700多種。 然而，過去數十年間，過度捕撈導致20種魚類的漁獲量銳減，比起80年代已減少超過90%，更有近一半至三分之二的常見物種變得稀少。 究竟臺灣的海洋生態面臨哪些危機？以及該如何改善？ ►Blog圖文好讀版👉https://act.gp/3Gom5Sn ►沒時間看文章嗎？聽說.環境有聲書讓您輕鬆聽故事👉https://act.gp/3nuSksb ►綠色和平不接受政府/企業捐款以維持公正獨立，邀請您小額捐助支持環境守護行動👉https://act.gp/3nuShwv #有聲書 #聽書 #環保​ #生物多樣性 #海洋 #海洋保護區 #海洋危機 #生態",
+        "truncated": false
+      },
+      "published_at": "Fri, 29 Oct 2021 05:33:45 GMT",
+      "feed_index": 16
+    },
+    {
+      "id": "86283320d2632ee6e7673f6c9b542908b62c3c9831eecc9d02706abf8fb3341d",
+      "guid": "0b1e4a3e-baf8-43cb-9d01-fd1a4c1e58f9",
+      "title": {
+        "text": "後疫情時代的4種綠色生活方式",
+        "truncated": false
+      },
+      "description": {
+        "text": "一場病毒全球大流行，讓人類習以為常的生活方式一夕大亂，當疫情過去，世界或許將再也不同，但這也是個機會，讓我們思考「如何與環境共存？」在都市中活出更永續的綠色人生。 商店歇業，班機停飛，疫情帶來的變化令人措手不及，從2020年初開始，新冠肺炎逐漸蔓延全球，隨著感染人數攀升，國境紛紛關閉，包括臺灣，都感受到生活的改變與經濟衝擊。過去總是門庭若市的各大旅遊景點，突然間安靜了下來。我們究竟該如何規劃更好、更宜居的都市？又該如何反思人類的渺小，應以更永續的方式，讓每一個人活得更安全、更健康，並與地球的萬物共存？ ►Blog圖文好讀版👉https://act.gp/3CO4AYX ►沒時間看文章嗎？聽說.環境有聲書讓您輕鬆聽故事👉https://act.gp/3nuSksb ►綠色和平不接受政府/企業捐款以維持公正獨立，邀請您小額捐助支持環境守護行動👉https://act.gp/38IjpPN #環保​ #後疫情時代 #疫情 #綠色城市 #綠色交通運輸 #綠色飲食 #綠色空間 #有聲書 #聽書 #綠色和平",
+        "truncated": false
+      },
+      "published_at": "Fri, 01 Oct 2021 02:00:02 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "7c125af43c529b360a0d284ace88445f1e729803b07274080bf40dd5e99f4352",
+      "guid": "a9a785f7-64b9-4017-8a83-897e4fca29b8",
+      "title": {
+        "text": "疫情升級能用環保餐具嗎？教您理性防疫",
+        "truncated": false
+      },
+      "description": {
+        "text": "您在疫情期間，是否曾被店家拒絕使用環保餐具？或是在進入賣場前被要求戴上一次性的塑膠手套？ 保護自身健康安全、確實作好防疫，的確是您我的義務，但國際間的公共衛生專家告訴我們，在日常生活中大量改用一次性塑膠並不是真正的方案。讓我們以科學的角度來了解病毒的傳播途徑，以理性兼顧安全和環保… ►Blog圖文好讀版👉https://act.gp/3DUXlA2 ►沒時間看文章嗎？聽說.環境有聲書讓您輕鬆聽故事👉https://act.gp/3nuSksb ►綠色和平不接受政府/企業捐款以維持公正獨立，邀請您小額捐助支持環境守護行動👉https://act.gp/3nuShwv #有聲書 #聽書 #環保​ #環保餐具 #環保杯 #免洗餐具 #疫情 #防疫 #減塑 #綠色和平​",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Sep 2021 02:00:03 GMT",
+      "feed_index": 23
+    }
+  ]
+}

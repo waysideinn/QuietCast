@@ -1,0 +1,611 @@
+{
+  "group": "fiction",
+  "term": "甜宠",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%94%9C%E5%AE%A0&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%94%9C%E5%AE%A0&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:40:35.028284+00:00",
+    "status": 200,
+    "sha256": "250ba17f8ccb0198e5ab2cc68405214aeeaaca7ccc2250dea514eb5050f4d9e8"
+  },
+  "result_count": 25,
+  "records": [
+    {
+      "collectionId": 1824101609,
+      "trackId": 1824101609,
+      "collectionName": "【免费】冥夫别过来|她她演播制作|悬疑言情|甜宠",
+      "artistName": "Tata她她",
+      "feedUrl": "https://www.ximalaya.com/album/84679663.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E5%86%A5%E5%A4%AB%E5%88%AB%E8%BF%87%E6%9D%A5-%E5%A5%B9%E5%A5%B9%E6%BC%94%E6%92%AD%E5%88%B6%E4%BD%9C-%E6%82%AC%E7%96%91%E8%A8%80%E6%83%85-%E7%94%9C%E5%AE%A0/id1824101609?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "表演艺术"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1405"
+      ],
+      "trackCount": 426,
+      "releaseDate": "2026-05-30T16:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1715785848,
+      "trackId": 1715785848,
+      "collectionName": "【免费】赠你深情暖如风|都市言情|豪门|霸总甜宠",
+      "artistName": "沧海夜明_优一剧社",
+      "feedUrl": "https://www.ximalaya.com/album/78776094.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E8%B5%A0%E4%BD%A0%E6%B7%B1%E6%83%85%E6%9A%96%E5%A6%82%E9%A3%8E-%E9%83%BD%E5%B8%82%E8%A8%80%E6%83%85-%E8%B1%AA%E9%97%A8-%E9%9C%B8%E6%80%BB%E7%94%9C%E5%AE%A0/id1715785848?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 1000,
+      "releaseDate": "2024-04-26T16:07:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1643305997,
+      "trackId": 1643305997,
+      "collectionName": "谢少宠上瘾｜免费多播｜余生请多指教 | 甜宠日常",
+      "artistName": "沐婉_",
+      "feedUrl": "https://www.ximalaya.com/album/70695241.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%B0%A2%E5%B0%91%E5%AE%A0%E4%B8%8A%E7%98%BE-%E5%85%8D%E8%B4%B9%E5%A4%9A%E6%92%AD-%E4%BD%99%E7%94%9F%E8%AF%B7%E5%A4%9A%E6%8C%87%E6%95%99-%E7%94%9C%E5%AE%A0%E6%97%A5%E5%B8%B8/id1643305997?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "喜剧小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 206,
+      "releaseDate": "2022-10-11T04:35:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1722811778,
+      "trackId": 1722811778,
+      "collectionName": "从老婆粉到糊咖，爆出了双顶流|甜宠娱乐圈|千万点击",
+      "artistName": "沐婉_",
+      "feedUrl": "https://www.ximalaya.com/album/79729205.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BB%8E%E8%80%81%E5%A9%86%E7%B2%89%E5%88%B0%E7%B3%8A%E5%92%96-%E7%88%86%E5%87%BA%E4%BA%86%E5%8F%8C%E9%A1%B6%E6%B5%81-%E7%94%9C%E5%AE%A0%E5%A8%B1%E4%B9%90%E5%9C%88-%E5%8D%83%E4%B8%87%E7%82%B9%E5%87%BB/id1722811778?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 174,
+      "releaseDate": "2024-01-28T23:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1616379451,
+      "trackId": 1616379451,
+      "collectionName": "满级大佬掌心喵 | 撸猫达人| 霸总甜宠 | 免费",
+      "artistName": "cv兔子",
+      "feedUrl": "http://www.ximalaya.com/album/60100108.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%BB%A1%E7%BA%A7%E5%A4%A7%E4%BD%AC%E6%8E%8C%E5%BF%83%E5%96%B5-%E6%92%B8%E7%8C%AB%E8%BE%BE%E4%BA%BA-%E9%9C%B8%E6%80%BB%E7%94%9C%E5%AE%A0-%E5%85%8D%E8%B4%B9/id1616379451?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "科幻小说"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 97,
+      "releaseDate": "2022-06-20T10:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1725597310,
+      "trackId": 1725597310,
+      "collectionName": "【免费】高门深爱：霍少的临时新娘|先婚后爱|豪门甜宠|都市言情|AI多播",
+      "artistName": "丹丹在发呆",
+      "feedUrl": "https://www.ximalaya.com/album/78896578.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E9%AB%98%E9%97%A8%E6%B7%B1%E7%88%B1-%E9%9C%8D%E5%B0%91%E7%9A%84%E4%B8%B4%E6%97%B6%E6%96%B0%E5%A8%98-%E5%85%88%E5%A9%9A%E5%90%8E%E7%88%B1-%E8%B1%AA%E9%97%A8%E7%94%9C%E5%AE%A0-%E9%83%BD%E5%B8%82%E8%A8%80%E6%83%85-ai%E5%A4%9A%E6%92%AD/id1725597310?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "喜剧小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 167,
+      "releaseDate": "2023-12-06T02:11:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1801386425,
+      "trackId": 1801386425,
+      "collectionName": "【免费】危！冷面王爷开始恋爱脑 | 女强古风甜宠",
+      "artistName": "哎呀壮壮",
+      "feedUrl": "https://www.ximalaya.com/album/87453748.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E5%8D%B1-%E5%86%B7%E9%9D%A2%E7%8E%8B%E7%88%B7%E5%BC%80%E5%A7%8B%E6%81%8B%E7%88%B1%E8%84%91-%E5%A5%B3%E5%BC%BA%E5%8F%A4%E9%A3%8E%E7%94%9C%E5%AE%A0/id1801386425?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 290,
+      "releaseDate": "2025-03-29T14:28:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1831211134,
+      "trackId": 1831211134,
+      "collectionName": "【免费】重生归来：你好司先生｜复仇｜霸总甜宠｜现言",
+      "artistName": "微芒聚声",
+      "feedUrl": "https://www.ximalaya.com/album/93415677.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E9%87%8D%E7%94%9F%E5%BD%92%E6%9D%A5-%E4%BD%A0%E5%A5%BD%E5%8F%B8%E5%85%88%E7%94%9F-%E5%A4%8D%E4%BB%87-%E9%9C%B8%E6%80%BB%E7%94%9C%E5%AE%A0-%E7%8E%B0%E8%A8%80/id1831211134?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 217,
+      "releaseDate": "2025-08-21T04:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1751142643,
+      "trackId": 1751142643,
+      "collectionName": "莫少,轻点宠|甜宠|小少爷|小娇妻",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/79827330.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%8E%AB%E5%B0%91-%E8%BD%BB%E7%82%B9%E5%AE%A0-%E7%94%9C%E5%AE%A0-%E5%B0%8F%E5%B0%91%E7%88%B7-%E5%B0%8F%E5%A8%87%E5%A6%BB/id1751142643?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "trackCount": 380,
+      "releaseDate": "2023-12-30T06:12:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1671078172,
+      "trackId": 1671078172,
+      "collectionName": "跑了7年，霸道总裁追上我丨霸总＆甜宠丨玄幻",
+      "artistName": "汐玥梦梦",
+      "feedUrl": "https://www.ximalaya.com/album/73100768.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%B7%91%E4%BA%867%E5%B9%B4-%E9%9C%B8%E9%81%93%E6%80%BB%E8%A3%81%E8%BF%BD%E4%B8%8A%E6%88%91%E4%B8%A8%E9%9C%B8%E6%80%BB-%E7%94%9C%E5%AE%A0%E4%B8%A8%E7%8E%84%E5%B9%BB/id1671078172?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "喜剧小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 58,
+      "releaseDate": "2022-12-26T11:19:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1585541937,
+      "trackId": 1585541937,
+      "collectionName": "权宠毒妃不好惹 | 强强权谋甜宠多人有声剧 免费有声小说",
+      "artistName": "一念_刘宇宁老婆",
+      "feedUrl": "http://www.ximalaya.com/album/51783236.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9D%83%E5%AE%A0%E6%AF%92%E5%A6%83%E4%B8%8D%E5%A5%BD%E6%83%B9-%E5%BC%BA%E5%BC%BA%E6%9D%83%E8%B0%8B%E7%94%9C%E5%AE%A0%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7-%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4/id1585541937?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "trackCount": 1158,
+      "releaseDate": "2022-04-18T03:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1581106416,
+      "trackId": 1581106416,
+      "collectionName": "【免费双播】放开那个美男丨爆笑甜宠校园丨同名漫画",
+      "artistName": "云开有声",
+      "feedUrl": "http://www.ximalaya.com/album/51993492.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9%E5%8F%8C%E6%92%AD-%E6%94%BE%E5%BC%80%E9%82%A3%E4%B8%AA%E7%BE%8E%E7%94%B7%E4%B8%A8%E7%88%86%E7%AC%91%E7%94%9C%E5%AE%A0%E6%A0%A1%E5%9B%AD%E4%B8%A8%E5%90%8C%E5%90%8D%E6%BC%AB%E7%94%BB/id1581106416?uo=4",
+      "genres": [
+        "脱口秀",
+        "播客",
+        "喜剧",
+        "小说",
+        "喜剧小说"
+      ],
+      "genreIds": [
+        "1497",
+        "26",
+        "1303",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 137,
+      "releaseDate": "2021-10-04T16:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "脱口秀"
+    },
+    {
+      "collectionId": 1655676676,
+      "trackId": 1655676676,
+      "collectionName": "天价宠爱 总裁请克制丨现代甜宠丨霸总丨多人有声",
+      "artistName": "慕溪园园",
+      "feedUrl": "https://www.ximalaya.com/album/72514344.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%A9%E4%BB%B7%E5%AE%A0%E7%88%B1-%E6%80%BB%E8%A3%81%E8%AF%B7%E5%85%8B%E5%88%B6%E4%B8%A8%E7%8E%B0%E4%BB%A3%E7%94%9C%E5%AE%A0%E4%B8%A8%E9%9C%B8%E6%80%BB%E4%B8%A8%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0/id1655676676?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 241,
+      "releaseDate": "2023-06-07T07:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1787824163,
+      "trackId": 1787824163,
+      "collectionName": "猫咪和她的狗勾铲屎官|修仙|爽文|甜宠|多人有声剧",
+      "artistName": "冷静之声",
+      "feedUrl": "https://www.ximalaya.com/album/85012014.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%8C%AB%E5%92%AA%E5%92%8C%E5%A5%B9%E7%9A%84%E7%8B%97%E5%8B%BE%E9%93%B2%E5%B1%8E%E5%AE%98-%E4%BF%AE%E4%BB%99-%E7%88%BD%E6%96%87-%E7%94%9C%E5%AE%A0-%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1787824163?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 244,
+      "releaseDate": "2024-12-23T09:57:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1744710651,
+      "trackId": 1744710651,
+      "collectionName": "R17上流社会|万人迷女主|多男主甜宠商战豪门言情",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/81334488.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/r17%E4%B8%8A%E6%B5%81%E7%A4%BE%E4%BC%9A-%E4%B8%87%E4%BA%BA%E8%BF%B7%E5%A5%B3%E4%B8%BB-%E5%A4%9A%E7%94%B7%E4%B8%BB%E7%94%9C%E5%AE%A0%E5%95%86%E6%88%98%E8%B1%AA%E9%97%A8%E8%A8%80%E6%83%85/id1744710651?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 642,
+      "releaseDate": "2024-10-06T09:36:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1732015589,
+      "trackId": 1732015589,
+      "collectionName": "【免费】总裁,请温柔!-豪门娇妻、爆笑言情、大女主、甜宠虐爱、先婚后恋、沉睡总裁",
+      "artistName": "丹丹在发呆",
+      "feedUrl": "https://www.ximalaya.com/album/80543010.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E6%80%BB%E8%A3%81-%E8%AF%B7%E6%B8%A9%E6%9F%94-%E8%B1%AA%E9%97%A8%E5%A8%87%E5%A6%BB-%E7%88%86%E7%AC%91%E8%A8%80%E6%83%85-%E5%A4%A7%E5%A5%B3%E4%B8%BB-%E7%94%9C%E5%AE%A0%E8%99%90%E7%88%B1-%E5%85%88%E5%A9%9A%E5%90%8E%E6%81%8B-%E6%B2%89%E7%9D%A1%E6%80%BB%E8%A3%81/id1732015589?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "喜剧",
+        "脱口秀"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1303",
+        "1497"
+      ],
+      "trackCount": 955,
+      "releaseDate": "2024-07-10T10:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1751147686,
+      "trackId": 1751147686,
+      "collectionName": "极品男护士|阴谋|甜宠|逆袭",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/79771564.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%9E%81%E5%93%81%E7%94%B7%E6%8A%A4%E5%A3%AB-%E9%98%B4%E8%B0%8B-%E7%94%9C%E5%AE%A0-%E9%80%86%E8%A2%AD/id1751147686?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 380,
+      "releaseDate": "2023-12-25T09:36:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1766015972,
+      "trackId": 1766015972,
+      "collectionName": "免费|顶级特工重生小农女：虐渣逆袭开启苏爽甜宠人生",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/83131015.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E9%A1%B6%E7%BA%A7%E7%89%B9%E5%B7%A5%E9%87%8D%E7%94%9F%E5%B0%8F%E5%86%9C%E5%A5%B3-%E8%99%90%E6%B8%A3%E9%80%86%E8%A2%AD%E5%BC%80%E5%90%AF%E8%8B%8F%E7%88%BD%E7%94%9C%E5%AE%A0%E4%BA%BA%E7%94%9F/id1766015972?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说",
+        "休闲",
+        "动画与漫画"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "trackCount": 1524,
+      "releaseDate": "2025-06-03T00:59:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1744509268,
+      "trackId": 1744509268,
+      "collectionName": "免费有声剧|沟心驯服|甜宠现代言情豪门总裁全已完结",
+      "artistName": "云鹿柔迩",
+      "feedUrl": "https://www.ximalaya.com/album/81619629.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9%E6%9C%89%E5%A3%B0%E5%89%A7-%E6%B2%9F%E5%BF%83%E9%A9%AF%E6%9C%8D-%E7%94%9C%E5%AE%A0%E7%8E%B0%E4%BB%A3%E8%A8%80%E6%83%85%E8%B1%AA%E9%97%A8%E6%80%BB%E8%A3%81%E5%85%A8%E5%B7%B2%E5%AE%8C%E7%BB%93/id1744509268?uo=4",
+      "genres": [
+        "即兴表演",
+        "播客",
+        "喜剧",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1495",
+        "26",
+        "1303",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 136,
+      "releaseDate": "2024-05-01T13:14:00Z",
+      "country": "CHN",
+      "primaryGenreName": "即兴表演"
+    },
+    {
+      "collectionId": 1751148903,
+      "trackId": 1751148903,
+      "collectionName": "免费 | 总裁凶猛，萌妻要出墙 | 陆总的专属小甜心 | 都市甜宠",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/79284104.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%85%8D%E8%B4%B9-%E6%80%BB%E8%A3%81%E5%87%B6%E7%8C%9B-%E8%90%8C%E5%A6%BB%E8%A6%81%E5%87%BA%E5%A2%99-%E9%99%86%E6%80%BB%E7%9A%84%E4%B8%93%E5%B1%9E%E5%B0%8F%E7%94%9C%E5%BF%83-%E9%83%BD%E5%B8%82%E7%94%9C%E5%AE%A0/id1751148903?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "trackCount": 247,
+      "releaseDate": "2023-11-24T09:20:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1780268688,
+      "trackId": 1780268688,
+      "collectionName": "王妃快跑之王爷别撩|甜宠|古言|多播|多人有声剧",
+      "artistName": "冷静之声",
+      "feedUrl": "https://www.ximalaya.com/album/84526658.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%8E%8B%E5%A6%83%E5%BF%AB%E8%B7%91%E4%B9%8B%E7%8E%8B%E7%88%B7%E5%88%AB%E6%92%A9-%E7%94%9C%E5%AE%A0-%E5%8F%A4%E8%A8%80-%E5%A4%9A%E6%92%AD-%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7/id1780268688?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 121,
+      "releaseDate": "2024-11-18T04:48:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1751147696,
+      "trackId": 1751147696,
+      "collectionName": "穆少的天价宝贝|一见钟情|甜宠|总裁",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/79721203.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%A9%86%E5%B0%91%E7%9A%84%E5%A4%A9%E4%BB%B7%E5%AE%9D%E8%B4%9D-%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85-%E7%94%9C%E5%AE%A0-%E6%80%BB%E8%A3%81/id1751147696?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "trackCount": 244,
+      "releaseDate": "2023-12-22T01:46:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1545864039,
+      "trackId": 1545864039,
+      "collectionName": "含羞｜都市言情｜校园甜宠纯爱｜精品免费",
+      "artistName": "月小玲珑",
+      "feedUrl": "http://www.ximalaya.com/album/44848461.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%90%AB%E7%BE%9E-%E9%83%BD%E5%B8%82%E8%A8%80%E6%83%85-%E6%A0%A1%E5%9B%AD%E7%94%9C%E5%AE%A0%E7%BA%AF%E7%88%B1-%E7%B2%BE%E5%93%81%E5%85%8D%E8%B4%B9/id1545864039?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 57,
+      "releaseDate": "2021-01-27T11:31:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1751148430,
+      "trackId": 1751148430,
+      "collectionName": "你的情似烈酒|现代言情|甜宠|废柴流|爽文",
+      "artistName": "带给听书",
+      "feedUrl": "https://www.ximalaya.com/album/78225156.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%BD%A0%E7%9A%84%E6%83%85%E4%BC%BC%E7%83%88%E9%85%92-%E7%8E%B0%E4%BB%A3%E8%A8%80%E6%83%85-%E7%94%9C%E5%AE%A0-%E5%BA%9F%E6%9F%B4%E6%B5%81-%E7%88%BD%E6%96%87/id1751148430?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "trackCount": 324,
+      "releaseDate": "2023-09-21T01:12:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1684406211,
+      "trackId": 1684406211,
+      "collectionName": "轮回劫：花若殇【粤语】古风玄幻言情小说|甜宠完结",
+      "artistName": "车理有声",
+      "feedUrl": "https://www.ximalaya.com/album/67975280.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%BD%AE%E5%9B%9E%E5%8A%AB-%E8%8A%B1%E8%8B%A5%E6%AE%87-%E7%B2%A4%E8%AF%AD-%E5%8F%A4%E9%A3%8E%E7%8E%84%E5%B9%BB%E8%A8%80%E6%83%85%E5%B0%8F%E8%AF%B4-%E7%94%9C%E5%AE%A0%E5%AE%8C%E7%BB%93/id1684406211?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 107,
+      "releaseDate": "2022-11-30T12:54:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    }
+  ]
+}

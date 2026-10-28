@@ -1,0 +1,140 @@
+{
+  "show_id": "1581352532",
+  "feed_url": "http://www.ximalaya.com/album/51981719.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/51981719.xml",
+    "final_url": "http://www.ximalaya.com/album/51981719.xml",
+    "fetched_at": "2026-10-25T14:43:03.621773+00:00",
+    "status": 200,
+    "sha256": "6d6642665af5a45ab20af26c86c0fa11894d826ce5dff27863ef04650d6cb1d3"
+  },
+  "status": "ok",
+  "title": {
+    "text": "爱你到永久 | 爱与恨的纠葛|多人有声剧|都市言情",
+    "truncated": false
+  },
+  "description": {
+    "text": "【内容简介】 她与她，本是相爱的一对，却横遭另一个人的拆害。她爱他，愿与他相守一生。他宠她，愿一世爱护她。可是，却还有另一个女子爱着他，尽量他一直拒绝，她由爱生恨，使出各种计谋去害女主。 【作者简介】 十二月",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 121,
+  "episodes": [
+    {
+      "id": "f59583bfd7da9bb0b951e8d1c1754984c34edda06c49433ff51851bd4851c562",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/14d5-audiofreehighqps/2E/25/CKwRIDoE-i-FABJ7iADbhTFt.m4a",
+      "title": {
+        "text": "多人有声剧《爱你到永久》精彩片花 开播大吉 撒花 撒花",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 09 Aug 2021 16:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ea4c58387d958e3eaf0e9eb8b96fc8ffd0149868cd41bed487e252f3962fa568",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2f6f-audiofreehighqps/50/B4/CKwRINsFA6KQACaiJwDeRy-i.m4a",
+      "title": {
+        "text": "17 - 加个班吧",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Aug 2021 16:00:02 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "96d87a10718282d8bd240004aa47eac5e51165a39067cfed912a6d97dd0b56c3",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/5d0d-audiofreehighqps/81/80/CKwRIRwFA4eOAC7pGQDePheG.m4a",
+      "title": {
+        "text": "34 - 机智自救",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 31 Aug 2021 05:56:18 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "4e9a60ae94ffb63981e78f6a1e4008c4c51c5446dc08d0c5be9a85d1296d7f56",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/36e4-audiofreehighqps/A8/25/CMCoOSEFCq57AIr4PgDgJ-Y2.mp3",
+      "title": {
+        "text": "51 - 再遭绑架",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Sep 2021 16:08:39 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "53d540a8ed7fdf14d41570248d9dd7fa74474a178f54d87583bdf94d9ca11e1e",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2df1-audiofreehighqps/71/3A/CKwRINsFGnavAJBtcgDkFRVd.mp3",
+      "title": {
+        "text": "69 - 第六感觉",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 17 Sep 2021 17:29:53 GMT",
+      "feed_index": 69
+    },
+    {
+      "id": "79c2e0bef1f6bc2cb6f3a22a50dd465133258dc38f145f5ba8e8f00b758d1898",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/26fa-audiofreehighqps/EB/AB/CKwRIJIFLzyVAHhxMgDpAzjE.mp3",
+      "title": {
+        "text": "86 - 幼稚总裁",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Oct 2021 16:00:03 GMT",
+      "feed_index": 86
+    },
+    {
+      "id": "7be2e8c8f5820db9f9ef5eae79c91d44c494c28e5a4e12f0c7b94ceed80abdec",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/591a-audiofreehighqps/83/6B/CKwRIRwFTdrzAHaUjwDwrLIp.mp3",
+      "title": {
+        "text": "104 - 逃跑失败",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 26 Oct 2021 17:21:00 GMT",
+      "feed_index": 103
+    },
+    {
+      "id": "e905464e09b6fae87ef42c2991de1be1e415af1cc5cff9663d111dd40e2ce676",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9729-audiofreehighqps/EB/9B/CMCoOR8FXmwKAIpiuQD0_1p2.mp3",
+      "title": {
+        "text": "121 - 一生所爱（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 Nov 2021 04:35:40 GMT",
+      "feed_index": 120
+    }
+  ]
+}

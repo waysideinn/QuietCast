@@ -1,0 +1,140 @@
+{
+  "show_id": "1547451157",
+  "feed_url": "http://www.ximalaya.com/album/44602943.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/44602943.xml",
+    "final_url": "http://www.ximalaya.com/album/44602943.xml",
+    "fetched_at": "2026-10-25T14:42:27.981135+00:00",
+    "status": 200,
+    "sha256": "a18294a8b0b19f2082489bcd10b3d205a60ba03174873468d74cb38e63d2f902"
+  },
+  "status": "ok",
+  "title": {
+    "text": "《北野武的小酒馆》免费有声小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "小巷深处的小酒馆内，最好的“下酒菜”非毒舌北野武的奇谈妙论莫属！ 时而是令人捧腹不已的灵机妙谈，时而是令人瞠目结舌的率性直言，时而是令人抚掌长叹的严肃正论…… 日本殿堂级导演北野武，犀利自剖前半生，“那场车祸是我人生的转折点，从此我对活着失去了兴趣”，“为了成就我一个，成千上万的人倒了下去”。 稀世奇才北野武从生死、教育、人际关系、规矩、电影五个方面，揭开现代社会种种病灶，唤醒大众逆位思考。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 34,
+  "episodes": [
+    {
+      "id": "b52e5befbf17dcd61ab7234a3986bd6f9af4658fe5b5a8259219894db5bf9b77",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/1a88-audiofreehighqps/72/2F/CMCoOR8Dp9_6ABQclQBwAv4W.m4a",
+      "title": {
+        "text": "第一章 序",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Dec 2020 13:04:54 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "95614fdcaa0b96a15ce188423a201749abfb2c1d610e684925cdc0b876b5347b",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c16f-audiofreehighqps/CC/BF/CMCoOSADrUZkAXhjGQBxXOnF.mp3",
+      "title": {
+        "text": "第一章 死后会怎样 死后就知道答案了",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 14 Dec 2020 15:23:18 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "d0904ff1d016d03d6fda686794e91e306897b44ad524085e41b7c37d9a5fc1d5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d997-audiofreehighqps/BB/31/CKwRIDoDtSKlAUqMZwBzPesJ.mp3",
+      "title": {
+        "text": "第二章 正因为说什么“大家都是好朋友” 才使得欺负人的手段变得越来越阴险",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 20 Dec 2020 23:00:48 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "a83b912f5fb8497891284d8bcf7a4d51eab9d99fa78fb1d5f666b6b1de32f40d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/bdfd-audiofreehighqps/E3/C5/CKwRIDoDyPIzABAAAAB4Ocp0.mp3",
+      "title": {
+        "text": "第三章 能够为他人的成功感到高兴 这样的人是幸福的",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Jan 2021 15:07:49 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "30da1a40f0c3be1dcdaafc956f77c86267b8cb5fc909cb08656cf4cd7d08ef86",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4f5e-audiofreehighqps/F2/3B/CKwRIDoDy5UYABAAAAB4_est.mp3",
+      "title": {
+        "text": "第三章 我们把穷人的圈子称为底层社会 谁也没有意识到这说法有多么粗鄙",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 09 Jan 2021 00:07:00 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "fdf85a82377549f66ce732eda51ea2a2d1453995e8b0b567a7c0c9e9927ba535",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b754-audiofreehighqps/55/49/CKwRIaIEgYopABAAAACv3pgz.mp3",
+      "title": {
+        "text": "第四章 因为信息的数字化 人类的智力在不断地下降",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 May 2021 00:30:00 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "091becfa37a90a9efa3034f041bcaf44b0207be2b4338bc326cd44435b5fc452",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/694b-audiofreehighqps/98/F7/CKwRIRwEu3rRABAAAADEp5ts.mp3",
+      "title": {
+        "text": "第五章 在饥寒交迫的人们旁边看电影 有一种荒诞的感觉",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 07 Jul 2021 14:19:22 GMT",
+      "feed_index": 28
+    },
+    {
+      "id": "f83e8fefa6018812ce1fe6b25cfed6365292479187d83317e2b3a35eba3d65aa",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8d14-audiofreehighqps/C1/92/CKwRIRwEwMD3ABAAAADGgHDw.mp3",
+      "title": {
+        "text": "第五章 O(终章)",
+        "truncated": false
+      },
+      "description": {
+        "text": "这已经是本书的最后一章啦! 感谢各位听众的喜爱与支持. 如果想听更多有声书,请订阅我的频道或给我留言提议",
+        "truncated": false
+      },
+      "published_at": "Tue, 13 Jul 2021 00:40:00 GMT",
+      "feed_index": 33
+    }
+  ]
+}

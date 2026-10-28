@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.1",
+  "status": "pass",
+  "evaluationTime": "2026-10-26T09:01:03.326702+00:00",
+  "sourceHashes": {
+    "Sources/PodcastModels/AppleCategoryMetadata.swift": "565154778b726c8a5dc654d4f6f34be504aec0d3a1257918d68c444195d342cf",
+    "Sources/PodcastModels/Metadata.swift": "723ed776756050552e076f49f97a69071ba56a792e63b26c5f37da3e5d369401",
+    "Sources/PodcastModels/Models.swift": "87bc52c06d3dedb8ed97e2e51c2efc5b143869cf8fd4404647ded0bb92e3462a",
+    "Sources/PodcastModels/PodcastCategories.swift": "d0feac97a5c071101a01d35917a8201473d140dd3c308f309b9b5fdded142713",
+    "Sources/ContentFiltering/AdvancedRules.swift": "4aa1961915bc12927b88f0ad7da8a55049fd4cf7831ea4072095842f0f3187c2",
+    "Sources/ContentFiltering/AdvancedSignals.swift": "ad9401f886f8cfa6c15b1789d80cd9f47b56a733551a3c1fe845714f9a426042",
+    "Sources/ContentFiltering/ContentFiltering.swift": "6646b05fdc202ee81b08f31087a56ab4d8ccc772eb6ebe1d353c2eaac119c4a7",
+    "research/scripts/SwiftProbe.swift": "e4becf897a5b9627709c0f5bb7bfabc8ff34b9a5a7d2029af084030ad16334e6"
+  },
+  "ruleSHA256": "30dfd5e1b60e41f3723289bd89fda1491147679cff6164be1bd42b7c7c36cb3a",
+  "publisherRuleSHA256": "b6be94a4cddcc0c5a83ecb0e5b42a28a85f8830fee89fcc9eefc5e97722e7424",
+  "strategies": {
+    "keywords_only": {
+      "fixtures": 112,
+      "swiftResults": 112,
+      "mismatchCount": 0,
+      "mismatches": []
+    },
+    "publisher_only": {
+      "fixtures": 112,
+      "swiftResults": 112,
+      "mismatchCount": 0,
+      "mismatches": []
+    },
+    "category_only_review": {
+      "fixtures": 112,
+      "swiftResults": 112,
+      "mismatchCount": 0,
+      "mismatches": []
+    },
+    "category_only_block_diagnostic": {
+      "fixtures": 112,
+      "swiftResults": 112,
+      "mismatchCount": 0,
+      "mismatches": []
+    },
+    "joint_v11_score": {
+      "fixtures": 112,
+      "swiftResults": 112,
+      "mismatchCount": 0,
+      "mismatches": []
+    },
+    "joint_all_enabled_sources": {
+      "fixtures": 112,
+      "swiftResults": 112,
+      "mismatchCount": 0,
+      "mismatches": []
+    },
+    "publisher_library_export": {
+      "fixtures": 112,
+      "swiftResults": 112,
+      "mismatchCount": 0,
+      "mismatches": []
+    }
+  },
+  "notes": "Actual A RulesLoader and ContentFilter; one content category, no parent policies. Diagnostic OR and unsafe aggregate are analytical comparisons, not exported packages."
+}

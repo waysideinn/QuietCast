@@ -1,0 +1,140 @@
+{
+  "show_id": "1608628059",
+  "feed_url": "http://www.ximalaya.com/album/56018182.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/56018182.xml",
+    "final_url": "http://www.ximalaya.com/album/56018182.xml",
+    "fetched_at": "2026-10-25T14:43:44.518921+00:00",
+    "status": 200,
+    "sha256": "7337d3e7ffd7118484e1f66c063bcf1d16f7147679bfa3cf26971a50e509cc7a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "蚀境 | 恐怖悬疑小说 | 狮子云云|免费有声小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "蚀境丨恐怖悬疑小说 【作品简介】： 我好像是病了，最近总是梦见些莫名的场景，即便醒着也总能见到些古怪的事物。许多诡异的事件和奇怪的人搅乱了我原本平静的暑假，而这一切似乎与我失踪了十年的爷爷有关 … 【作者】：那花在练水上漂 【主播简介】： 男播-靡路： 喜马拉雅A+签约主播，天府TV-狮子云云有声课培训班优秀学员 。 掌握了画本、演播、对轨、后期等有声书全部录制流程。 擅长作品类型：都市、恐怖、玄幻、武侠类。 音色(干净、柔和、圆润)：主音色 余音袅袅青叔 ，辅音色 正太 公子 总裁 大叔 老年。 女播-婷儿吖： 可爱萝莉/甜美少女/温柔...",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "serial",
+    "explicit": "false"
+  },
+  "feed_item_count": 35,
+  "episodes": [
+    {
+      "id": "c110c39cc17970ed58dd314c8bdc634c439ed2e74dc02036c3d6f26265f862f6",
+      "guid": "xmly_track_488597726",
+      "title": {
+        "text": "第1章 黑雾1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 02 Jan 2022 10:55:45 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "9c176be3ac9b9ef6d649df928f3e19be157fdae89b61e1ba927306d827bc8c71",
+      "guid": "xmly_track_488590453",
+      "title": {
+        "text": "第6章 血2",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 03 Jan 2022 12:44:02 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "a2374f284222a8a073aa99ecf8f520146de20bb608706153e4e01cd69f468312",
+      "guid": "xmly_track_488590916",
+      "title": {
+        "text": "第11章 大学3",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 04 Jan 2022 12:44:04 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "c7e1faf3ac04b07816dbb77a793457d0bb69feb9c3492e9ebad992aef02a3b05",
+      "guid": "xmly_track_488591263",
+      "title": {
+        "text": "第16章 归乡2",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 05 Jan 2022 12:44:06 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "fad731d8e5d396fee19f589379bd26b279c0b5d1f313cf13559005e36090912e",
+      "guid": "xmly_track_488592230",
+      "title": {
+        "text": "第20章 爷爷2",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Jan 2022 12:44:06 GMT",
+      "feed_index": 19
+    },
+    {
+      "id": "b616c6a70da85eee46bad43d4f04c8de49ba0f58cd79e1bd30447ba694348d9c",
+      "guid": "xmly_track_488592506",
+      "title": {
+        "text": "第25章 移风转水阵1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 08 Jan 2022 12:44:00 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "58bb3312d679713492f49d429eb2911cc90f9285c4b5f1b55e9c697c9b476a63",
+      "guid": "xmly_track_488592819",
+      "title": {
+        "text": "第30章 被绑架2",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 09 Jan 2022 12:44:02 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "e396acbc88e5aae0f6363e1856a8464b77c54bd795d6df810ee33fea263ea1e0",
+      "guid": "xmly_track_488593158",
+      "title": {
+        "text": "第35章 诡异的笑（大结局）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 10 Jan 2022 12:44:04 GMT",
+      "feed_index": 34
+    }
+  ]
+}

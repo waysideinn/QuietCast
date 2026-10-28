@@ -1,0 +1,140 @@
+{
+  "show_id": "1146322401",
+  "feed_url": "http://www.ximalaya.com/album/4478958.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/4478958.xml",
+    "final_url": "http://www.ximalaya.com/album/4478958.xml",
+    "fetched_at": "2026-10-25T14:47:26.749070+00:00",
+    "status": 200,
+    "sha256": "cee99e643f5d4ff69c86378a4d335758af66eb3714542f432c06106003534c82"
+  },
+  "status": "ok",
+  "title": {
+    "text": "归期【剧舞吧多人小说剧】",
+    "truncated": false
+  },
+  "description": {
+    "text": "爱情是一场漫长的马拉松，陪你启程的人是否还能在终点相遇？ 著名畅销书作家折火一夏的都市浪漫爱情小说《归期》，漫长的等待，等一个人懂爱，等一个人回头，由剧舞吧有声A组演播制作，喜马拉雅独家奉献，敬请收听！！！ 她究竟知不知道，或者相不相信，我没有把握，我能把握住的，只有现在。所以无论如何，不能放手……",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 42,
+  "episodes": [
+    {
+      "id": "9ed46144500d914f35ed420b6c29accb8f851616c2a155c52cca847d5f605ac8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group16/M09/96/24/wKgDaldk7r2xbWE6ACeY4ycDK6Y150-aacv2-48K.m4a",
+      "title": {
+        "text": "《归期》多人剧片花：新剧《萌妻有些皮》甜宠上线",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎加入剧舞吧听友群：112151156~~喜欢近距离和大咖们一起玩耍的~我们在剧舞吧等你来！！！ 本集参演： 周宴持：汤包【剧舞吧】 杜若衡：译仁【剧舞吧】 康 宸：狐宴【剧舞吧】 沈 初：燕尾【剧舞吧】 苏 裘：沐橙【剧舞吧】 温 怀：鹿九【剧舞吧】 老管家：泫夜【剧舞吧】 蓝玉柔、苏韵：往昔【剧舞吧】 旁白：牛小妞【剧舞吧】 后期：馨芮【剧舞吧】 监制：馨芮【剧舞吧】 编剧：醉虾 、馨芮【剧舞吧】",
+        "truncated": false
+      },
+      "published_at": "Sat, 18 Jun 2016 06:52:05 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "3445ec44366ae9d766e4f2cafd21c1987f23cd308246c35dfe7b6d842ef94a88",
+      "guid": "https://aod.cos.tx.xmcdn.com/group11/M06/A7/A1/wKgDbVdtQArCyOYYAJnzm6CJWaY881-aacv2-48K.m4a",
+      "title": {
+        "text": "归期第6集（更新不易，亲们点赞评论打赏支持哦~~）",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎加入剧舞吧听友群：112151156~~ 我们在剧舞吧等你哦~ 本集参演： 旁白、杜若衡：译仁【剧舞吧】 周宴持：汤包【剧舞吧】 谢先生：泫夜【剧舞吧】 苏 裘：沐橙【剧舞吧】 服务员：往昔【剧舞吧】 后 期：馨芮【剧舞吧】 监 制：馨芮、墨夜【剧舞吧】 报幕君：艾甜甜【剧舞吧】",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Jun 2016 14:13:35 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "741fff9de4622faea56f69a174e5a84942d74e9aa10f735765011f7a29737a8c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group13/M00/A3/2C/wKgDXld1KULzqTzeAJVIT4KR0jI074-aacv2-48K.m4a",
+      "title": {
+        "text": "归期第12集（更新不易，欢迎大家多多点赞、评论、打赏！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎加入剧舞吧听友群：112151156~~喜欢近距离和大咖们一起玩耍的，我们在剧舞吧等你来！！！ 本集参演： 旁白、杜若衡：译仁【剧舞吧】 周宴持：汤包【剧舞吧】 康 宸：狐宴【剧舞吧】 汪菲菲：夕妖【剧舞吧】 女服务1 ：笨笨【剧舞吧】 苏韵/服务2 ：往昔【剧舞吧】 采购张经理： 居士很忙【剧舞吧】 后 期：馨芮【剧舞吧】 监 制：馨芮、 墨夜、 糖豆【剧舞吧】 报幕君：艾甜甜【剧舞吧】 周缇缇：Daisy 【友情客串】",
+        "truncated": false
+      },
+      "published_at": "Thu, 30 Jun 2016 14:14:58 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "b4f0db83ccb49d923d3fa51b27fb6dfb458b90ed77ee92882aa28baa01f65ea2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M07/09/2E/wKgJLFd8-pCA2bT5AJv86SzeLZc082-aacv2-48K.m4a",
+      "title": {
+        "text": "归期第18集（更新不易，大家多多点赞评论打赏支持哦~）",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎加入剧舞吧听友群：112151156~~喜欢近距离和大咖们一起玩耍的，我们在剧舞吧等你来！！！ 本集参演： 周宴持：汤包【剧舞吧】 康宸：狐宴【剧舞吧】 杜若衡、旁白：译仁【剧舞吧】 杜母：七星瓢虫【剧舞吧】 付经理-燃星【剧舞吧】 周缇缇-Daisy",
+        "truncated": false
+      },
+      "published_at": "Thu, 07 Jul 2016 02:12:24 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "39e9088509fc6c1bacb8b5e76380ce77002232401ca0c2a9ec533acb3ea08137",
+      "guid": "https://aod.cos.tx.xmcdn.com/group19/M0B/1B/5F/wKgJK1eDrgyAM2j7AKTckcR9oSg456-aacv2-48K.m4a",
+      "title": {
+        "text": "归期第23集（点赞评论与打赏是主播们更新的动力哦！！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎加入剧舞吧听友群：112151156~~喜欢近距离和大咖们一起玩耍的，我们在剧舞吧等你来！！！ 本集参演： 杜若蘅、旁白：译仁【剧舞吧】 周晏持：汤包【剧舞吧】 管家：优雅【剧舞吧】 沈初：燕尾【剧舞吧】 张雅然、小护士：兰息【剧舞吧】 后 期：笨笨【剧舞吧】 监制：馨芮、糖豆【剧舞吧】 报幕君：艾甜甜【剧舞吧】 周缇缇：Daisy",
+        "truncated": false
+      },
+      "published_at": "Tue, 12 Jul 2016 02:06:20 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "439ea40f8acde6635f86218e2ad7415ffa64a3c4416dfd0a7917a942e2581f03",
+      "guid": "https://aod.cos.tx.xmcdn.com/group17/M07/31/1B/wKgJJFeLme3SeDNuAJpUiCRwvQU790-aacv2-48K.m4a",
+      "title": {
+        "text": "归期第29集（甩浪浪男主正式上线，打赏点赞评论砸过来吧！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎加入剧舞吧听友群：112151156~~喜欢近距离和大咖们一起玩耍的，我们在剧舞吧等你来！！！ 本集参演： 杜若蘅、旁白：译仁【剧舞吧】 周晏持：甩浪浪【剧舞吧】 康 宸: 狐宴【剧舞吧】 苏 裘：沐橙【剧舞吧】 谢晨鑫：燃星【剧舞吧】 女 伴：夕妖【剧舞吧】 后 期：馨芮【剧舞吧】 监 制：馨芮、糖豆【剧舞吧】 周缇缇：Daisy",
+        "truncated": false
+      },
+      "published_at": "Mon, 18 Jul 2016 06:10:37 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "6bea815e0e1cf810aac242720ca12a6c5c81a8d11169a207a0b8531e3b86dfc8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group18/M03/46/A4/wKgJJVeTWATDAoV9AJ-BDvoDxow766-aacv2-48K.m4a",
+      "title": {
+        "text": "归期第35集（旁白君即将康复，谢谢听友大大们的打赏和评论！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎加入剧舞吧听友群：112151156~~喜欢近距离和大咖们一起玩耍的，我们在剧舞吧等你来！！！ 本集参演： 杜若蘅、旁白：译仁【剧舞吧】 周晏持：甩浪浪 【剧舞吧】 康 宸：狐宴【剧舞吧】 杜 母：七星瓢虫【剧舞吧】 汪菲菲：夕妖【剧舞吧】 管 家：优雅【剧舞吧】 后 期：笨笨【剧舞吧】 监 制：馨芮、糖豆【剧舞吧】 报幕君：艾甜甜【剧舞吧】 周缇缇：Daisy",
+        "truncated": false
+      },
+      "published_at": "Sun, 24 Jul 2016 02:21:38 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "7f2b53d3221727d0ae4ad2c32240f8c44afc07343467ce79e59e59768964092f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M07/5A/AA/wKgJLFebGmXBbMFaAJ5W-HH0_fw998-aacv2-48K.m4a",
+      "title": {
+        "text": "归期第41集（完）【30晚九点YY频道剧组庆祝会！感谢理解和支持的所有听友！】",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎加入剧舞吧听友群：112151156~~喜欢近距离和大咖们一起玩耍的，我们在剧舞吧等你来！！！ 本集参演： 杜若蘅、旁白：译仁【剧舞吧】 周晏持：甩浪浪【剧舞吧】 苏 裘：沐橙【剧舞吧】 沈 初：燕尾【剧舞吧】 管 家：优雅【剧舞吧】 聂立薇：兰息【剧舞吧】 男医生： 雅居【剧舞吧】 后 期：笨笨【剧舞吧】 监 制：糖豆【剧舞吧】 报幕君：艾甜甜【剧舞吧】 周缇缇：Daisy",
+        "truncated": false
+      },
+      "published_at": "Fri, 29 Jul 2016 09:47:49 GMT",
+      "feed_index": 41
+    }
+  ]
+}

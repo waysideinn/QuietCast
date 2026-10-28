@@ -1,0 +1,139 @@
+{
+  "show_id": "1092555866",
+  "feed_url": "http://yokohiguchi.net/feed/podcast/",
+  "source": {
+    "url": "http://yokohiguchi.net/feed/podcast/",
+    "final_url": "http://yokohiguchi.net/feed/podcast/",
+    "fetched_at": "2026-10-25T14:47:09.960356+00:00",
+    "status": 200,
+    "sha256": "a298a77fd452c3c6093baccb9cbbd0605adce020c6af2b64bd30cdd97fbd158b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "心理学ニュース",
+    "truncated": false
+  },
+  "description": {
+    "text": "心理学の最新ニュースを配信します",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "explicit": "clean"
+  },
+  "feed_item_count": 60,
+  "episodes": [
+    {
+      "id": "d426dff8610d2981d7827463305fca5888c23001bad741d0d6538f3f8b1a0a72",
+      "guid": "http://yokohiguchi.net/?p=324",
+      "title": {
+        "text": "第60回「子どもの我慢の力と分け与える行為の関連」",
+        "truncated": false
+      },
+      "description": {
+        "text": "紹介する論文は”Do Children…",
+        "truncated": false
+      },
+      "published_at": "Fri, 14 Sep 2018 15:00:42 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "38dc51e32f3074df0563e2cb28159d353d2b81ec8412d9639266bb4f1abe0766",
+      "guid": "http://yokohiguchi.net/?p=305",
+      "title": {
+        "text": "第52回「一目惚れってほんとにあるの？」",
+        "truncated": false
+      },
+      "description": {
+        "text": "一目惚れって実際にあるものなのか、それはどんな心理…",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 May 2018 15:00:21 +0000",
+      "feed_index": 8
+    },
+    {
+      "id": "31aad1e1b40db1d6ac94a319e5c30154daa3372d44b3275891123dae0e01b974",
+      "guid": "http://yokohiguchi.net/?p=270",
+      "title": {
+        "text": "第43回「思っていたより大きいと見つけにくい」",
+        "truncated": false
+      },
+      "description": {
+        "text": "探すべきものが知っている大きさと異なる時、それが大…",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Jan 2018 15:00:34 +0000",
+      "feed_index": 17
+    },
+    {
+      "id": "245f8dc7060a8a9a2eecf649a446dc03dfa17dfe9ccedef288e40933ec1d84fb",
+      "guid": "http://yokohiguchi.net/?p=212",
+      "title": {
+        "text": "第35回「イヌのオスとメスの違い」",
+        "truncated": false
+      },
+      "description": {
+        "text": "紹介する論文は、”Sex differ…",
+        "truncated": false
+      },
+      "published_at": "Fri, 29 Sep 2017 15:00:33 +0000",
+      "feed_index": 25
+    },
+    {
+      "id": "9e2192509b15dd5adaf1dd010ef4f37c9bfbbb44f4dfdce4e1290eac0d755033",
+      "guid": "http://yokohiguchi.net/?p=159",
+      "title": {
+        "text": "第26回「集合体が恐怖を引き起こす？」",
+        "truncated": false
+      },
+      "description": {
+        "text": "紹介する論文は、”Fear of Ho…",
+        "truncated": false
+      },
+      "published_at": "Fri, 26 May 2017 15:00:13 +0000",
+      "feed_index": 34
+    },
+    {
+      "id": "ec7d82c9d9ee479d553a29f1ec1bb47d98ee14eab1700e653cf8c44f3c75398d",
+      "guid": "http://yokohiguchi.net/?p=118",
+      "title": {
+        "text": "第18回「子どもに肝心な時の冗談はNG」",
+        "truncated": false
+      },
+      "description": {
+        "text": "紹介する論文は、”Humor and …",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Feb 2017 15:17:46 +0000",
+      "feed_index": 42
+    },
+    {
+      "id": "3a05c48ee91dc70d47d0af039fbe889edd2e894cc71049f70d4c8e2cfed2b7d0",
+      "guid": "http://yokohiguchi.net/?p=69",
+      "title": {
+        "text": "第9回「ラーメンのかわりになにを食べよう」",
+        "truncated": false
+      },
+      "description": {
+        "text": "紹介する論文はPsychological Scie…",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 Oct 2016 03:51:49 +0000",
+      "feed_index": 51
+    },
+    {
+      "id": "348edbc79bf563374b165b56ac820c7978ee7a10bd75f92463325760d5d71f61",
+      "guid": "http://yokohiguchi.net/?p=31",
+      "title": {
+        "text": "第1回「睡眠不足でぬれぎぬを認めてしまう」",
+        "truncated": false
+      },
+      "description": {
+        "text": "紹介する論文は”Sleep depri…",
+        "truncated": false
+      },
+      "published_at": "Fri, 14 Oct 2016 07:41:31 +0000",
+      "feed_index": 59
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1544216753",
+  "feed_url": "https://anchor.fm/s/43b1b8fc/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/43b1b8fc/podcast/rss",
+    "final_url": "https://anchor.fm/s/43b1b8fc/podcast/rss",
+    "fetched_at": "2026-10-25T14:51:29.620263+00:00",
+    "status": 200,
+    "sha256": "4f019325c6bae40241d4d913da39a5a2d4247123ff776f30d6f278dac55d40e4"
+  },
+  "status": "ok",
+  "title": {
+    "text": "聖嚴法師有聲書 (粵語版)",
+    "truncated": false
+  },
+  "description": {
+    "text": "用心細聽聖嚴法師的著作，以聲音分享佛法智慧",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 193,
+  "episodes": [
+    {
+      "id": "de26046b9a689412ce4339cc0a5e52a7b92c7205e2f833a8dc7790bf7cbc9b9f",
+      "guid": "f363d1a8-e0f1-4660-a133-f30e154f9fa1",
+      "title": {
+        "text": "《聖者的故事》- 法與姑娘",
+        "truncated": false
+      },
+      "description": {
+        "text": "「有聲書」《聖者的故事》 【資料來源】《聖者的故事》由法鼓文化出版 https://www.ddc.com.tw/book/detail.php?id=6499",
+        "truncated": false
+      },
+      "published_at": "Sat, 01 Jan 2022 07:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b9ba09c85d1a96d0160bea2229731ccef1acf9eb721dde860996934bd5e449cc",
+      "guid": "b196c223-e3af-4eee-81be-579ccda8e712",
+      "title": {
+        "text": "《正信的佛教》- 什麼叫作頓與漸？",
+        "truncated": false
+      },
+      "description": {
+        "text": "「有聲書」《正信的佛教》 【資料來源】《正信的佛教》由法鼓文化出版 https://www.ddc.com.tw/book/detail.php?id=4632",
+        "truncated": false
+      },
+      "published_at": "Sat, 27 Nov 2021 07:00:00 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "a2f77459aad1d17f2640ff8dd25dbc3e38476360838745272ce270fbd746a3d4",
+      "guid": "58cc2561-43a9-4d2a-8a84-4c512674c24a",
+      "title": {
+        "text": "《正信的佛教》- 佛教重視神蹟嗎？",
+        "truncated": false
+      },
+      "description": {
+        "text": "「有聲書」《正信的佛教》 【資料來源】《正信的佛教》由法鼓文化出版 https://www.ddc.com.tw/book/detail.php?id=4632",
+        "truncated": false
+      },
+      "published_at": "Sat, 13 Nov 2021 07:00:00 GMT",
+      "feed_index": 55
+    },
+    {
+      "id": "16f6d187a62e1246b6c0acd806aad069849b86d2728117a9ea827464862b2fb1",
+      "guid": "9abd1e8a-86ae-41ac-ab25-5fa2de5fc0b6",
+      "title": {
+        "text": "《正信的佛教》- 佛陀是什麼？",
+        "truncated": false
+      },
+      "description": {
+        "text": "「有聲書」《正信的佛教》 【資料來源】《正信的佛教》由法鼓文化出版 https://www.ddc.com.tw/book/detail.php?id=4632",
+        "truncated": false
+      },
+      "published_at": "Sat, 06 Nov 2021 08:00:00 GMT",
+      "feed_index": 82
+    },
+    {
+      "id": "db4a9e74e039e2075cd352e0a026a45d4342d73a2061593259e54cf8f05d34b3",
+      "guid": "1c8454fd-31af-47f3-a015-0922dfed913d",
+      "title": {
+        "text": "《學佛群疑》- 佛說的「聖言量」經得起考驗嗎？",
+        "truncated": false
+      },
+      "description": {
+        "text": "在多元化的現代社會及各種風俗習慣的衝擊下，佛教正面臨著更多層面的挑戰和考驗。聖嚴法師精選七十五則一般人都可能有的疑惑，以經論為基礎，加以反覆的辨證剖析，為疑者解惑，為信者銘證。 【資料來源】《學佛群疑》由法鼓文化出版 https://www.ddc.com.tw/book/detail.php?id=4924",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Sep 2021 01:00:00 GMT",
+      "feed_index": 110
+    },
+    {
+      "id": "17b1b66f11e96d219894a831c81a76d2baa8860f041b0eaacce285454250c6d8",
+      "guid": "3d7c703d-fd30-4c9a-9154-955a03fabd4f",
+      "title": {
+        "text": "《學佛群疑》- 怎樣辨明佛經的真偽？",
+        "truncated": false
+      },
+      "description": {
+        "text": "在多元化的現代社會及各種風俗習慣的衝擊下，佛教正面臨著更多層面的挑戰和考驗。聖嚴法師精選七十五則一般人都可能有的疑惑，以經論為基礎，加以反覆的辨證剖析，為疑者解惑，為信者銘證。 【資料來源】《學佛群疑》由法鼓文化出版 https://www.ddc.com.tw/book/detail.php?id=4924",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Sep 2021 01:00:00 GMT",
+      "feed_index": 137
+    },
+    {
+      "id": "9fd934778c7d8e7000aa67057db91188bf6d449324394a0925d15bea42b4b9a9",
+      "guid": "62302eb2-6c49-49bd-af1a-71f15125f561",
+      "title": {
+        "text": "《學佛群疑》- 在家學佛如何課誦？",
+        "truncated": false
+      },
+      "description": {
+        "text": "在多元化的現代社會及各種風俗習慣的衝擊下，佛教正面臨著更多層面的挑戰和考驗。聖嚴法師精選七十五則一般人都可能有的疑惑，以經論為基礎，加以反覆的辨證剖析，為疑者解惑，為信者銘證。 【資料來源】《學佛群疑》由法鼓文化出版 https://www.ddc.com.tw/book/detail.php?id=4924",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Sep 2021 01:00:00 GMT",
+      "feed_index": 165
+    },
+    {
+      "id": "8cb060d62223e2d109c1e09c89c6293874cdcdb4d81d093aa9d3a80c790ba7e0",
+      "guid": "2414facb-d213-49c2-8d9c-e97007a460fe",
+      "title": {
+        "text": "《學佛群疑》- 佛教徒可以有感情生活嗎",
+        "truncated": false
+      },
+      "description": {
+        "text": "在多元化的現代社會及各種風俗習慣的衝擊下，佛教正面臨著更多層面的挑戰和考驗。聖嚴法師精選七十五則一般人都可能有的疑惑，以經論為基礎，加以反覆的辨證剖析，為疑者解惑，為信者銘證。 【資料來源】《學佛群疑》由法鼓文化出版 https://www.ddc.com.tw/book/detail.php?id=4924",
+        "truncated": false
+      },
+      "published_at": "Thu, 15 Apr 2021 09:36:30 GMT",
+      "feed_index": 192
+    }
+  ]
+}

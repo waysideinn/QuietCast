@@ -1,0 +1,140 @@
+{
+  "show_id": "1268501410",
+  "feed_url": "http://www.ximalaya.com/album/7281361.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/7281361.xml",
+    "final_url": "http://www.ximalaya.com/album/7281361.xml",
+    "fetched_at": "2026-10-25T14:41:33.967992+00:00",
+    "status": 200,
+    "sha256": "cbbae622030f892cb905cadf6c77ec09d197e49c78357a934f3995280743f159"
+  },
+  "status": "ok",
+  "title": {
+    "text": "山海经新说【玄幻】",
+    "truncated": false
+  },
+  "description": {
+    "text": "上古人、神、兽、妖共存，仁爱天下的炎帝、英勇智慧的黄帝、功修盖世的赤松子、痴情一人的南阳、古灵精怪的女桑、爱上伏羲的九天玄女、超然物外的陆压道君，还有古怪神秘的东海龙神、离奇的南海鲛人族，无敌大BOSS盘古犼神，共同演绎一部东方玄幻大作《山海经新说》。 此书由草堂散人原创的大型玄幻仙侠小说，在华丽迷幻的氛围中，有攻防战争、洪水异兽、道法仙术、迷离幻境、爱恨情仇，在生动曲折的离奇描写中，寄托了中华民族的人文情怀。 郑重公告：在亲爱的粉丝们的热情支持下， 《山海经新说》已升级为付费精品，老读者可以 关注微信公众号“草堂奇谈”菜单“读书赏乐”或打开微信“发现”——”小程序“——搜索“山海经新说”收看文字版及解析。咨询、参与、互动 QQ群号[contact removed]。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 42,
+  "episodes": [
+    {
+      "id": "466bfbd87b8f11808cceb15556cfd941225afa8d6fa680fd58d66688c416726c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group26/M06/79/54/wKgJRljSi67Q1QnGACoNYUQGDp8028.m4a",
+      "title": {
+        "text": "山海经新说001：盘古开天",
+        "truncated": false
+      },
+      "description": {
+        "text": "盘古怒了，他摸到那把与生俱来的大斧，使足了力气挥了出去，只听 “轰”的一声巨响，震耳欲聋，混沌的气体开始暴裂，疯狂的气流开始涌向被巨斧划开的裂口！ 身边的大斧一阵金光闪闪，飞起到天空一化为三，化成了盘古幡、太极图、混沌钟三件神器......",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Mar 2017 14:39:44 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "87688a255e9883fe2b65927b408e1da9f5e443fbe2bf116a17f712e30d09b9cf",
+      "guid": "https://aod.cos.tx.xmcdn.com/group26/M08/3E/DE/wKgJWFj8w2bwT0mVADkh5RzwX50731-aacv2-48K.m4a",
+      "title": {
+        "text": "山海经新说007：梦贤纳才（打赏赞助可让节目更火哦）",
+        "truncated": false
+      },
+      "description": {
+        "text": "一日，黄帝带一队族人去山上巡察，走到树林深处，他们发现一块平整的圆形土地，土地上分别种植着黑白两种不同颜色的植物，那形状就像两条鱼首尾相结，依偎而卧，在两条鱼的中间，一条清澈的小溪蜿蜒穿过。又定睛向远处望去，一位长须青衣的青年正坐在门前，手中正忙着什么？。。。。。。",
+        "truncated": false
+      },
+      "published_at": "Sun, 23 Apr 2017 22:30:00 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "37201cea9e431c5cc81513428159efb5825918befc0f1eb98428b7b93dcff31e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group26/M09/4E/F8/wKgJRlkQkPLC9OUqADpKhPlTOw8809.m4a",
+      "title": {
+        "text": "山海经新说013：大战土蝼",
+        "truncated": false
+      },
+      "description": {
+        "text": "女节看清它的样子时，它已经来到了女节跟前，狰狞的四只角轻轻一挑，女节手中的弓就被甩到了溪水里，发出“咚”的一声闷响，紧接着，土蝼兽张开血盆大嘴咬向女节，手里没了弓箭的女节吓的整个呆在那儿......",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 May 2017 22:00:01 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "6c79ce32d6930aaec06aec1518ad2d7c2fbc95edad1fd8d380657297b119c927",
+      "guid": "https://aod.cos.tx.xmcdn.com/group29/M06/C5/AC/wKgJWVki6KPzgl_gADtP5xW-i3M835-aacv2-48K.m4a",
+      "title": {
+        "text": "山海经新说019：神通修成",
+        "truncated": false
+      },
+      "description": {
+        "text": "只见旋涡之处，石缸里的水飞速的旋转，雾朦朦的青气也跟着旋转起来，越转越快，整个石缸里的水如惊涛骇浪般扭成一股强大的气流，翻腾汹涌着扑向方雷的前胸......",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 May 2017 22:00:01 GMT",
+      "feed_index": 18
+    },
+    {
+      "id": "21a0ee1150a8998f5d028785852da6de8bc25b614a38747e3dd4cadc7f03ac7a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group29/M0A/9F/67/wKgJWVk4FLPzCGYtADbSH3LnCE0992.m4a",
+      "title": {
+        "text": "山海经新说024：告别彤鱼（打赏赞助可让节目更火哦）",
+        "truncated": false
+      },
+      "description": {
+        "text": "先父开天辟地之时将天地之间的恶气化成四只灵兽，饕餮(tao tie)、穷奇、梼杌（tao wu)和混沌，它们负责看管人间恶气......",
+        "truncated": false
+      },
+      "published_at": "Wed, 07 Jun 2017 22:00:01 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "bb6bacb14d53f8febda7809c4f33362104aaa34f517beae63c9bbb497a377d1f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group28/M02/AF/CD/wKgJXFlKkRLQwFCrAE4ZCLwWgqo147-aacv2-48K.m4a",
+      "title": {
+        "text": "山海经新说030：族长受伤（打赏赞助可让节目更火哦！）",
+        "truncated": false
+      },
+      "description": {
+        "text": "屋外树影掩映之中，一条黑影躲过守卫的士族，从树上轻飘飘的落下竖起耳朵听着什么，隐约听到炎帝神农四字，不仅一惊，脚下一滑，发出咯吱吱的轻响，屋里的印莟听到响声一惊问道：“谁？”......",
+        "truncated": false
+      },
+      "published_at": "Wed, 21 Jun 2017 22:00:01 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "3048f5502f9a9a0b638609d1cf08cf3a34b54b7028bbb2f8166cefc881b88460",
+      "guid": "https://aod.cos.tx.xmcdn.com/group29/M09/A7/79/wKgJWVldBGTh6tmbAFCR7Q0cm0k424-aacv2-48K.m4a",
+      "title": {
+        "text": "山海经新说036：五妖驾到",
+        "truncated": false
+      },
+      "description": {
+        "text": "“残刚兄弟，不必担惊，我们来了！嗯-嘿嘿嘿-嗯”远远的，残刚的耳畔传来百里外如婴儿啼哭般乖戾难听的传音，两年间，每当这熟悉的声音响起，他残刚总会欣喜若狂，这声音成了残刚在视默氏族中唯一的企盼......",
+        "truncated": false
+      },
+      "published_at": "Wed, 05 Jul 2017 22:00:01 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "d4ebdfcdc7c7d128b1fbbddff694f82827091e8945dc8e3d8f2f5d9aa1eabd9a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group30/M02/31/1D/wKgJXllvOx7RhwZlAGLA3ftTCx8011-aacv2-48K.m4a",
+      "title": {
+        "text": "042血莲失踪(亲爱的们，该专辑已升级为付费精品，或请转到~微~信小程序阅读文字版）",
+        "truncated": false
+      },
+      "description": {
+        "text": "“师兄，我那株养在玉华池水里的血莲可好？” “这~~”听到此语，他的身体不禁抖了一抖，胸口莫名的涌上一股无比压抑的悲痛感觉，“那血莲是不是有什么~异常？”",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Jul 2017 22:00:02 GMT",
+      "feed_index": 41
+    }
+  ]
+}

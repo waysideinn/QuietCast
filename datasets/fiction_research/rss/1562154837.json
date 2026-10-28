@@ -1,0 +1,140 @@
+{
+  "show_id": "1562154837",
+  "feed_url": "https://feeds.soundon.fm/podcasts/7a8f6410-f4a9-4ea7-9e89-d57396890577.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/7a8f6410-f4a9-4ea7-9e89-d57396890577.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/7a8f6410-f4a9-4ea7-9e89-d57396890577.xml",
+    "fetched_at": "2026-10-25T14:52:44.694247+00:00",
+    "status": 200,
+    "sha256": "3349b7f4662c8c62dcc8e2c09c1c984d1f253e39e17d34819611ff35ef58c173"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Bravo故事亭",
+    "truncated": false
+  },
+  "description": {
+    "text": "新型冠狀病毒（COVID-19)，從全球經濟到生活日常，徹底顛覆人類習以為常的運作模式，我們正經歷著「後疫情時代」的百工群像與生活樣貌。有意識慢下來後，讓人覺知生活當下更需要自我療癒或與親友深刻的對話。 相信每個人都有值得被聽見的故事，每個人都需要有人在乎、記得！ BRAVO FM91.3跨界音樂台企畫《Bravo故事亭》活動，邀請聽友們錄下自己的生命故事或與親友真摯的對話，帶出生命值得紀念的時刻，透過平台，讓每個值得的故事被聽見!",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 51,
+  "episodes": [
+    {
+      "id": "63b90780fb71b6f7eb814b319b83d8d4c69b8f58eb82873e6b97eb2232518a2c",
+      "guid": "9f50c255-4635-4fe4-8c3b-f7ab5b000ca3",
+      "title": {
+        "text": "Bravo故事亭 l 母親節特輯-婕汝篇2",
+        "truncated": false
+      },
+      "description": {
+        "text": "Bravo故事亭 母親節特輯 潔汝篇2",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Apr 2022 03:28:08 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "feba174de580a0cdbc43ae515b91343b3dbd94a9f3a50178e2398d243304c556",
+      "guid": "a05b919d-95da-4902-85f8-76d818e0f276",
+      "title": {
+        "text": "Bravo故事亭 l 請求復學...校長請我當老師 feat賴家慶",
+        "truncated": false
+      },
+      "description": {
+        "text": "阿卡佩拉節目主持人賴家慶曲折的求學生涯分享，請求復學，校長卻請他擔任老師！ ▌臉書粉專 https://reurl.cc/0DR94l ▌官網 https://reurl.cc/KxR4dn ▌LINE@ https://line.me/R/ti/p/%40bravo913",
+        "truncated": false
+      },
+      "published_at": "Thu, 08 Apr 2021 13:20:11 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "6abf85370fd51411353771765f8e8a116357fc2fc14f17bcd0d5e3798972f3aa",
+      "guid": "55a53f17-22d5-4ebb-a1b8-6a8d244db530",
+      "title": {
+        "text": "Bravo故事亭 l 用生命愛紙藝 feat美秀",
+        "truncated": false
+      },
+      "description": {
+        "text": "喜歡手寫的溫度，開始尋找喜歡質感的紙張，學習手工縫製，到自創品牌-加減乘除。 陳櫟沈浸在紙藝的世界，客製化手帳本給獨一無二的你！ ▌臉書粉專 https://reurl.cc/0DR94l ▌官網 https://reurl.cc/KxR4dn ▌LINE@ https://line.me/R/ti/p/%40bravo913",
+        "truncated": false
+      },
+      "published_at": "Thu, 08 Apr 2021 13:09:04 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "0456a3938a7595a624c37057f63f0a56b8e38ed003d6b8ff6bc620e6ddf22083",
+      "guid": "91f14c67-02c4-4d6d-9880-65443238a925",
+      "title": {
+        "text": "Bravo故事亭 l 載乘客不收錢？我有自己的堅持 feat陳嘉穜",
+        "truncated": false
+      },
+      "description": {
+        "text": "帶著孩子開計程車，孩子上了一堂寶貴的人生哲學課。 ▌臉書粉專 https://reurl.cc/0DR94l ▌官網 https://reurl.cc/KxR4dn ▌LINE@ https://line.me/R/ti/p/%40bravo913",
+        "truncated": false
+      },
+      "published_at": "Thu, 08 Apr 2021 12:59:53 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "e0a948dee8dfd40dab56edd02224dc640551c3153163a957f7482c6013aad3f0",
+      "guid": "5b49df61-ced6-4e21-adef-75efa825ef11",
+      "title": {
+        "text": "Bravo故事亭 l 爸爸不想女兒離家feat馮佳慧",
+        "truncated": false
+      },
+      "description": {
+        "text": "人的一生中會邂逅許多心動，愛情、友情、親情… 每個人的表達方式都不同，哀傷、興奮、抱頭痛哭…。 每一肢體、眼神的交匯，都將成為彼此心理最圓滿的痕跡。在此帶給大家一段平靜而觸動人心的小故事。 ▌臉書粉專 https://reurl.cc/0DR94l ▌官網 https://reurl.cc/KxR4dn ▌LINE@ https://line.me/R/ti/p/%40bravo913",
+        "truncated": false
+      },
+      "published_at": "Wed, 07 Apr 2021 11:49:05 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "5c7b677c79ea12683d7e735988cbcf8e3dfb8bf407d23edd8a0289ae8bf07d80",
+      "guid": "b61ce9ea-4742-4f86-82f6-1b9f7895153a",
+      "title": {
+        "text": "Bravo故事亭 l 愛自己 不讓自己委屈feat蔡宇珊",
+        "truncated": false
+      },
+      "description": {
+        "text": "我原本是一個沒有什麼脾氣、沒有什麼個性，對大家都很好的女生。 直到國中發生了一件事，讓我感受到被排擠的感覺，但也因為那件事，讓我蛻變成長，成為了一個友善但有底線的人，也開始有意識地去傾聽自己內心的聲音。 開始學習愛自己、保護自己。希望大家都能夠更善待自己，Be kind but not soft。 ▌臉書粉專 https://reurl.cc/0DR94l ▌官網 https://reurl.cc/KxR4dn ▌LINE@ https://line.me/R/ti/p/%40bravo913",
+        "truncated": false
+      },
+      "published_at": "Wed, 07 Apr 2021 11:41:00 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "c11c165121a2ee8010762954196e4b88663102dca214d0e901a42f5f28404e31",
+      "guid": "1b1cc84c-5585-44a9-975e-a4dd311efa36",
+      "title": {
+        "text": "Bravo故事亭 l 她不只是繼母 她是我媽媽 feat何芸庭",
+        "truncated": false
+      },
+      "description": {
+        "text": "訪問朋友的親身經驗，從中學習到要更珍惜身邊的人並且把握當下，有些事錯過就不會重來了，珍惜是我們每一個人在現在都應該學會的課題。 ▌臉書粉專 https://reurl.cc/0DR94l ▌官網 https://reurl.cc/KxR4dn ▌LINE@ https://line.me/R/ti/p/%40bravo913",
+        "truncated": false
+      },
+      "published_at": "Wed, 07 Apr 2021 11:19:39 GMT",
+      "feed_index": 43
+    },
+    {
+      "id": "ea258756081d74d5f25df0077e5ce23d58e194dabc944589d1f90bcd294df037",
+      "guid": "6a742038-09f3-4512-8b82-102e81f7a7d6",
+      "title": {
+        "text": "Bravo故事亭 l 宣傳廣告-A版",
+        "truncated": false
+      },
+      "description": {
+        "text": "相信每個人都有值得被聽見的故事，每個人都需要有人在乎、記得！ BRAVO FM91.3跨界音樂台企畫《Bravo故事亭》活動，邀請聽友們錄下自己的生命故事或與親友真摯的對話，帶出生命值得紀念的時刻，透過平台，讓每個值得的故事被聽見! 主辦單位：Bravo FM91.3跨界音樂台 活動時間：2021年2月22日至2021年3月15日 活動對象：BRAVO FM91.3聽友群(不限年齡.國籍) 作品規格：以國語、台語、客語為主，音檔長度3-8分鐘為限，音檔規格為mp3或wav格式。 可選擇自錄或採訪親友(詳述如下)，內容避免政治及宗教議題。 【錄下自己的生命故事】 每個人生命體驗都是獨特的，有的人嘗試與自己和解、有的人正經歷完一場冒險、有的人想紀念感動時刻…錄下屬於自己的生命紀念，我們將不再懼怕、不再遺憾，因為我們都將活在故事裡。 【一對一方式採訪親友】 以一對一訪問親友的方式，去同理親人的情感、憂慮、期望…，深切的對話更能凝聚情感。 錄音建議： 安靜的收音空間，有柔軟表面的小房間較不會產生回聲（回音）。 前述「柔軟表面」的意思是房間內有窗簾、地毯、書櫃的書房、有衣櫃的臥室，因為棉被、服飾和地毯..等有助於吸收聲音。避免在太空曠的房間錄音，聲音音量適中（勿太小聲喔!）語速適中。 報名及繳件方式： 請於活動截止前將完整音檔上傳至 https://forms.gle/vUnbrsSaNfQ",
+        "truncated": true
+      },
+      "published_at": "Wed, 17 Feb 2021 13:47:36 GMT",
+      "feed_index": 50
+    }
+  ]
+}

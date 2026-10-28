@@ -1,0 +1,140 @@
+{
+  "show_id": "1130862082",
+  "feed_url": "http://www.ximalaya.com/album/4600139.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/4600139.xml",
+    "final_url": "http://www.ximalaya.com/album/4600139.xml",
+    "fetched_at": "2026-10-25T14:47:17.965762+00:00",
+    "status": 200,
+    "sha256": "21bb7480e52ce75eeb6d7661d5b0118da523678a4d1e0bbe892e662764d6e13b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "You爱的世界——就是有爱，所以你爱。",
+    "truncated": false
+  },
+  "description": {
+    "text": "来自世界各地的LGBT群体中的朋友将在这里讲述他们藏在心里十年甚至十几年故事。 我们执行：吃、穿、住、行、闻、听、聊、侃关注同性恋生活环境，八大板块融合一起为大家带来《You爱的世界》电台版。每天都会更新，每周六大更新。 “让听者最感动的同性恋爱情故事”评选会选取题材来源之一。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 31,
+  "episodes": [
+    {
+      "id": "ffa3bebdef97955931f63a007a014116290d1caa8ee372790afd899393edf951",
+      "guid": "https://aod.cos.tx.xmcdn.com/group5/M06/91/4C/wKgDtldv4RnDCzpSA1E4BMHG5D8588.mp3",
+      "title": {
+        "text": "测试版（修音版）You爱的世界 频道版【嘉宾赵元榕】",
+        "truncated": false
+      },
+      "description": {
+        "text": "（测试版第一期）You爱的世界 电台版【嘉宾赵元榕】 只是测试版，所以有些问题。。。。。主持人非专业人并且还是台湾人普通话不标准，正式版第一期百分百专业人。。。。。大家原谅，今天太赶了，就请了一个非专业人，十分抱歉。",
+        "truncated": false
+      },
+      "published_at": "Sun, 26 Jun 2016 14:06:53 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "4dfeb01816388a4ef011758b73148a92ba2c7134c9473fbc5cb372faf8bbf228",
+      "guid": "https://aod.cos.tx.xmcdn.com/group15/M06/9F/74/wKgDZVdyhDXje3DCA0MWzG-kNz8318.mp3",
+      "title": {
+        "text": "第二期（修音版）You爱的世界 频道版【嘉宾·幻影，赵元榕】",
+        "truncated": false
+      },
+      "description": {
+        "text": "官方豆瓣小站开放了，欢迎大家留言提问，我们会采取到节目中由嘉宾进行回答。 《You爱的世界》第二期 主持人：杨哈哈 邀请嘉宾：幻影、赵元榕 我们要爱，不要伤害。 话题： 网友不解“同性恋活着干嘛”。 电话现在提问“为什么要帮助同性恋”。 我们应该如何正确的向父母进行道德出柜。",
+        "truncated": false
+      },
+      "published_at": "Tue, 28 Jun 2016 14:30:00 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "8d1ccce2ff01fa95db83c070cb07f983af493f79bc27fd2600c6f0111e263c04",
+      "guid": "https://aod.cos.tx.xmcdn.com/group8/M07/A3/52/wKgDYVd2iNyyt_GABH8noxgHKPQ035.mp3",
+      "title": {
+        "text": "第五期（未修音版）You爱的世界 频道版【嘉宾·@les鸣哥哥】",
+        "truncated": false
+      },
+      "description": {
+        "text": "这是原色版本，注意哦，根据自己口味选择音的质量。 【主播的话：技术小哥我和你什么仇啊，看我节目都快完结了，你拿一次后期做好点可以吗？不要以为就你心情不好，我今天可是算心情不错。不然你……】 议论道德出柜的正确性。 身边的人讨厌同性恋我们应该怎么做？ 关于“同性恋公益组织”的定位。 《杨文鑫的易幻想录》之《我是一位诗人（1）》 嘉宾YY女性维权主播@les鸣哥哥，YY直播频道182538，分享你的故事，我们人生都很精彩。",
+        "truncated": false
+      },
+      "published_at": "Fri, 01 Jul 2016 15:18:12 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "1bb99263ff2ea9f57417e4080f6874cc627181dea4798a2a064d040eff713ee0",
+      "guid": "https://aod.cos.tx.xmcdn.com/group18/M00/02/C4/wKgJKld6kHuhmyKfBCCmqK_HNNY705.mp3",
+      "title": {
+        "text": "第六期（修音版）You爱的世界 频道版【嘉宾·李梓轩、龙宇】",
+        "truncated": false
+      },
+      "description": {
+        "text": "第六期（原音版）You爱的世界 电台版【嘉宾·李梓轩、龙宇】 本期节目有关于同性恋道德出柜问题的解答，请大家不要盲目崇尚嘉宾观念，要有自己的想法。 再次声明，嘉宾所说的话只属于嘉宾的个人观点，不代表本节目的观点。 新主持人宋半仙上线！ 同性恋出柜已经“跟风化”？ 节目中带有敏感话题争论，不代表节目总体观念。 李梓轩最后一次做客《You爱的世界》电台版？？？ You爱的世界：我们要爱，不要伤害！",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Jul 2016 17:00:00 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "0a418e7379c9e6cc46b61167b002e193e34a848ce2caf0bcf1b41c2c36252f42",
+      "guid": "https://aod.cos.tx.xmcdn.com/group17/M04/0D/93/wKgJKVd-d3Sizu-xAsraaMhL50w045.mp3",
+      "title": {
+        "text": "第八期（修音版）You爱的世界 频道版【宋半仙的个人脱口秀】",
+        "truncated": false
+      },
+      "description": {
+        "text": "在大陆同性恋的婚姻形式。 来自主持人宋半仙的个人脱口秀，全是由她本人自发而说的。 不代表本台观点。",
+        "truncated": false
+      },
+      "published_at": "Thu, 07 Jul 2016 15:40:41 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "347252bb6d62a6cc2f4328b40bcf92901c07c80a9e5d182b3f9dfb300343bb5e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group18/M08/1B/37/wKgJJVeDp9_wUZZyAepQd1weryo339.m4a",
+      "title": {
+        "text": "第十二期 You爱的世界频道《我们要爱，不要伤害》 【个人脱口秀·大谈同性婚姻】",
+        "truncated": false
+      },
+      "description": {
+        "text": "第十二期 You爱的世界电台《我们要爱，不要伤害》 【个人脱口秀·大谈同性婚姻】",
+        "truncated": false
+      },
+      "published_at": "Mon, 11 Jul 2016 14:06:26 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "c0005e779a5017a62b7bf2458d21ba556ea20a174ace36a6640a7555e3c3d3fb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group19/M06/4E/A3/wKgJK1eWQvHQuxsSBEu7NNqNin0598.mp3",
+      "title": {
+        "text": "第十六期 You爱的世界频道《我们要爱，不要伤害》【勇敢的走出失恋吧】",
+        "truncated": false
+      },
+      "description": {
+        "text": "2016/7/25 Youlove电台原创节目《我们要爱，不要伤害》 第十六期 You爱的世界电台《我们要爱，不要伤害》【勇敢的走出失恋吧】",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Jul 2016 16:49:16 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "0019013c9092c978277298d0a595769d7f787e5a3c921d914d0e790df22e7fe4",
+      "guid": "https://aod.cos.tx.xmcdn.com/group18/M04/41/63/wKgJKlftF07SkYwFBFW-vMhnQsk434.mp3",
+      "title": {
+        "text": "第十九期 You爱的世界频道《我们要爱，不要伤害》【琉璃第一次】",
+        "truncated": false
+      },
+      "description": {
+        "text": "第十九期 You爱的世界电台《我们要爱，不要伤害》【琉璃第一次】",
+        "truncated": false
+      },
+      "published_at": "Thu, 29 Sep 2016 13:30:10 GMT",
+      "feed_index": 30
+    }
+  ]
+}

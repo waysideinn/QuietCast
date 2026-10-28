@@ -1,0 +1,63 @@
+{
+  "group": "boundary",
+  "term": "小说创作",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%B0%8F%E8%AF%B4%E5%88%9B%E4%BD%9C&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%B0%8F%E8%AF%B4%E5%88%9B%E4%BD%9C&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:46:08.539503+00:00",
+    "status": 200,
+    "sha256": "233d646dd9fe085efe37b0d21db7bef6f7a74c9482aa80402c84b3e41534b399"
+  },
+  "result_count": 2,
+  "records": [
+    {
+      "collectionId": 1835105837,
+      "trackId": 1835105837,
+      "collectionName": "AI创作财务职场小说",
+      "artistName": "朝仪",
+      "feedUrl": "https://www.ximalaya.com/album/99168594.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/ai%E5%88%9B%E4%BD%9C%E8%B4%A2%E5%8A%A1%E8%81%8C%E5%9C%BA%E5%B0%8F%E8%AF%B4/id1835105837?uo=4",
+      "genres": [
+        "管理",
+        "播客",
+        "商务",
+        "科技"
+      ],
+      "genreIds": [
+        "1491",
+        "26",
+        "1321",
+        "1318"
+      ],
+      "trackCount": 177,
+      "releaseDate": "2026-05-16T13:40:00Z",
+      "country": "CHN",
+      "primaryGenreName": "管理"
+    },
+    {
+      "collectionId": 1835108006,
+      "trackId": 1835108006,
+      "collectionName": "AI创作财务职场小说",
+      "artistName": "朝仪",
+      "feedUrl": "https://www.ximalaya.com/album/99168594.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/ai%E5%88%9B%E4%BD%9C%E8%B4%A2%E5%8A%A1%E8%81%8C%E5%9C%BA%E5%B0%8F%E8%AF%B4/id1835108006?uo=4",
+      "genres": [
+        "管理",
+        "播客",
+        "商务",
+        "科技"
+      ],
+      "genreIds": [
+        "1491",
+        "26",
+        "1321",
+        "1318"
+      ],
+      "trackCount": 177,
+      "releaseDate": "2026-05-16T13:40:00Z",
+      "country": "CHN",
+      "primaryGenreName": "管理"
+    }
+  ]
+}

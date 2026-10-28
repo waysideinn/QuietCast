@@ -1,0 +1,421 @@
+{
+  "group": "fiction",
+  "term": "都市爽文",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E9%83%BD%E5%B8%82%E7%88%BD%E6%96%87&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E9%83%BD%E5%B8%82%E7%88%BD%E6%96%87&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:40:06.070797+00:00",
+    "status": 200,
+    "sha256": "1c2001ec72a51465587632f41330cb5920cd2ad6e5f699b68a491f4afabf258e"
+  },
+  "result_count": 17,
+  "records": [
+    {
+      "collectionId": 1768418312,
+      "trackId": 1768418312,
+      "collectionName": "【重生之神瞳在世】复仇｜与鬼帝生娃｜逗比阎帝｜商战｜灵异｜都市爽文｜大女主｜脑洞",
+      "artistName": "十月阳光工作室",
+      "feedUrl": "https://www.ximalaya.com/album/82234080.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%87%8D%E7%94%9F%E4%B9%8B%E7%A5%9E%E7%9E%B3%E5%9C%A8%E4%B8%96-%E5%A4%8D%E4%BB%87-%E4%B8%8E%E9%AC%BC%E5%B8%9D%E7%94%9F%E5%A8%83-%E9%80%97%E6%AF%94%E9%98%8E%E5%B8%9D-%E5%95%86%E6%88%98-%E7%81%B5%E5%BC%82-%E9%83%BD%E5%B8%82%E7%88%BD%E6%96%87-%E5%A4%A7%E5%A5%B3%E4%B8%BB-%E8%84%91%E6%B4%9E/id1768418312?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 719,
+      "releaseDate": "2024-09-14T01:47:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1725596995,
+      "trackId": 1725596995,
+      "collectionName": "【免费】我有一条金融街|现代都市|商战爽文|首富逆袭|感情专一|AI多播",
+      "artistName": "丹丹在发呆",
+      "feedUrl": "https://www.ximalaya.com/album/79874009.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9-%E6%88%91%E6%9C%89%E4%B8%80%E6%9D%A1%E9%87%91%E8%9E%8D%E8%A1%97-%E7%8E%B0%E4%BB%A3%E9%83%BD%E5%B8%82-%E5%95%86%E6%88%98%E7%88%BD%E6%96%87-%E9%A6%96%E5%AF%8C%E9%80%86%E8%A2%AD-%E6%84%9F%E6%83%85%E4%B8%93%E4%B8%80-ai%E5%A4%9A%E6%92%AD/id1725596995?uo=4",
+      "genres": [
+        "喜劇小說",
+        "Podcast",
+        "小說",
+        "戲劇"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 670,
+      "releaseDate": "2024-04-07T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇小說"
+    },
+    {
+      "collectionId": 1777645182,
+      "trackId": 1777645182,
+      "collectionName": "【免费】【有声书】双播|都市爽文|打脸|杀穿世界",
+      "artistName": "深海鲲鲸",
+      "feedUrl": "https://www.ximalaya.com/album/83906121.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9-%E6%9C%89%E5%A3%B0%E4%B9%A6-%E5%8F%8C%E6%92%AD-%E9%83%BD%E5%B8%82%E7%88%BD%E6%96%87-%E6%89%93%E8%84%B8-%E6%9D%80%E7%A9%BF%E4%B8%96%E7%95%8C/id1777645182?uo=4",
+      "genres": [
+        "科幻小說",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483"
+      ],
+      "trackCount": 662,
+      "releaseDate": "2025-01-18T22:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科幻小說"
+    },
+    {
+      "collectionId": 1540254339,
+      "trackId": 1540254339,
+      "collectionName": "透视神婿|都市爽文",
+      "artistName": "初心待你",
+      "feedUrl": "http://www.ximalaya.com/album/43701446.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%80%8F%E8%A7%86%E7%A5%9E%E5%A9%BF-%E9%83%BD%E5%B8%82%E7%88%BD%E6%96%87/id1540254339?uo=4",
+      "genres": [
+        "科幻小說",
+        "Podcast",
+        "小說",
+        "戲劇"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 90,
+      "releaseDate": "2022-10-31T12:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科幻小說"
+    },
+    {
+      "collectionId": 1691672217,
+      "trackId": 1691672217,
+      "collectionName": "【免费】都市不败仙尊丨重生丨都市修仙丨热血爽文丨玄幻丨爆更丨AI多播",
+      "artistName": "12可可_魔麦有声",
+      "feedUrl": "https://www.ximalaya.com/album/76396210.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9-%E9%83%BD%E5%B8%82%E4%B8%8D%E8%B4%A5%E4%BB%99%E5%B0%8A%E4%B8%A8%E9%87%8D%E7%94%9F%E4%B8%A8%E9%83%BD%E5%B8%82%E4%BF%AE%E4%BB%99%E4%B8%A8%E7%83%AD%E8%A1%80%E7%88%BD%E6%96%87%E4%B8%A8%E7%8E%84%E5%B9%BB%E4%B8%A8%E7%88%86%E6%9B%B4%E4%B8%A8ai%E5%A4%9A%E6%92%AD/id1691672217?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 1000,
+      "releaseDate": "2023-10-16T22:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1725597310,
+      "trackId": 1725597310,
+      "collectionName": "【免费】高门深爱：霍少的临时新娘|先婚后爱|豪门甜宠|都市言情|AI多播",
+      "artistName": "丹丹在发呆",
+      "feedUrl": "https://www.ximalaya.com/album/78896578.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9-%E9%AB%98%E9%97%A8%E6%B7%B1%E7%88%B1-%E9%9C%8D%E5%B0%91%E7%9A%84%E4%B8%B4%E6%97%B6%E6%96%B0%E5%A8%98-%E5%85%88%E5%A9%9A%E5%90%8E%E7%88%B1-%E8%B1%AA%E9%97%A8%E7%94%9C%E5%AE%A0-%E9%83%BD%E5%B8%82%E8%A8%80%E6%83%85-ai%E5%A4%9A%E6%92%AD/id1725597310?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "喜劇小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 167,
+      "releaseDate": "2023-12-06T02:11:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1791935333,
+      "trackId": 1791935333,
+      "collectionName": "都市最强战帝|废仙逆袭|打脸虐渣|集集爆爽|现言爽文|多播",
+      "artistName": "颜稀尘",
+      "feedUrl": "https://www.ximalaya.com/album/85196998.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%83%BD%E5%B8%82%E6%9C%80%E5%BC%BA%E6%88%98%E5%B8%9D-%E5%BA%9F%E4%BB%99%E9%80%86%E8%A2%AD-%E6%89%93%E8%84%B8%E8%99%90%E6%B8%A3-%E9%9B%86%E9%9B%86%E7%88%86%E7%88%BD-%E7%8E%B0%E8%A8%80%E7%88%BD%E6%96%87-%E5%A4%9A%E6%92%AD/id1791935333?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 192,
+      "releaseDate": "2025-12-26T16:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1747879057,
+      "trackId": 1747879057,
+      "collectionName": "【免费】总裁，请矜持|豪门甜宠|职场商战|逆袭反转|现代都市言情|AI多播",
+      "artistName": "丹丹在发呆",
+      "feedUrl": "https://www.ximalaya.com/album/81892349.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9-%E6%80%BB%E8%A3%81-%E8%AF%B7%E7%9F%9C%E6%8C%81-%E8%B1%AA%E9%97%A8%E7%94%9C%E5%AE%A0-%E8%81%8C%E5%9C%BA%E5%95%86%E6%88%98-%E9%80%86%E8%A2%AD%E5%8F%8D%E8%BD%AC-%E7%8E%B0%E4%BB%A3%E9%83%BD%E5%B8%82%E8%A8%80%E6%83%85-ai%E5%A4%9A%E6%92%AD/id1747879057?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "休閒",
+        "動漫畫"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1502",
+        "1510"
+      ],
+      "trackCount": 870,
+      "releaseDate": "2024-11-03T21:58:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1553874656,
+      "trackId": 1553874656,
+      "collectionName": "最强奶爸在都市丨免费多人有声剧 都市 异能 热血 爽文",
+      "artistName": "__水墨__",
+      "feedUrl": "http://www.ximalaya.com/album/45845601.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%80%E5%BC%BA%E5%A5%B6%E7%88%B8%E5%9C%A8%E9%83%BD%E5%B8%82%E4%B8%A8%E5%85%8D%E8%B4%B9%E5%A4%9A%E4%BA%BA%E6%9C%89%E5%A3%B0%E5%89%A7-%E9%83%BD%E5%B8%82-%E5%BC%82%E8%83%BD-%E7%83%AD%E8%A1%80-%E7%88%BD%E6%96%87/id1553874656?uo=4",
+      "genres": [
+        "喜劇小說",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "trackCount": 1055,
+      "releaseDate": "2022-05-27T23:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇小說"
+    },
+    {
+      "collectionId": 1732015589,
+      "trackId": 1732015589,
+      "collectionName": "【免费】总裁,请温柔!-豪门娇妻、爆笑言情、大女主、甜宠虐爱、先婚后恋、沉睡总裁",
+      "artistName": "丹丹在发呆",
+      "feedUrl": "https://www.ximalaya.com/album/80543010.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9-%E6%80%BB%E8%A3%81-%E8%AF%B7%E6%B8%A9%E6%9F%94-%E8%B1%AA%E9%97%A8%E5%A8%87%E5%A6%BB-%E7%88%86%E7%AC%91%E8%A8%80%E6%83%85-%E5%A4%A7%E5%A5%B3%E4%B8%BB-%E7%94%9C%E5%AE%A0%E8%99%90%E7%88%B1-%E5%85%88%E5%A9%9A%E5%90%8E%E6%81%8B-%E6%B2%89%E7%9D%A1%E6%80%BB%E8%A3%81/id1732015589?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "喜劇",
+        "脫口秀"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1303",
+        "1497"
+      ],
+      "trackCount": 955,
+      "releaseDate": "2024-07-10T10:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1741364860,
+      "trackId": 1741364860,
+      "collectionName": "至尊修道士丨都市玄幻&爽文【免费】",
+      "artistName": "木阿木兮",
+      "feedUrl": "https://www.ximalaya.com/album/81087420.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%87%B3%E5%B0%8A%E4%BF%AE%E9%81%93%E5%A3%AB%E4%B8%A8%E9%83%BD%E5%B8%82%E7%8E%84%E5%B9%BB-%E7%88%BD%E6%96%87-%E5%85%8D%E8%B4%B9/id1741364860?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "喜劇小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 90,
+      "releaseDate": "2024-04-10T15:45:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1699347235,
+      "trackId": 1699347235,
+      "collectionName": "【免费】都市武圣|逆袭|热血|爽文|爆款|AI多播",
+      "artistName": "庐行知",
+      "feedUrl": "https://www.ximalaya.com/album/77235638.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9-%E9%83%BD%E5%B8%82%E6%AD%A6%E5%9C%A3-%E9%80%86%E8%A2%AD-%E7%83%AD%E8%A1%80-%E7%88%BD%E6%96%87-%E7%88%86%E6%AC%BE-ai%E5%A4%9A%E6%92%AD/id1699347235?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "科幻小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1485"
+      ],
+      "trackCount": 222,
+      "releaseDate": "2023-09-24T22:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1557180247,
+      "trackId": 1557180247,
+      "collectionName": "都市小民工（免费双播）爆笑爽文",
+      "artistName": "杨晨鑫_",
+      "feedUrl": "http://www.ximalaya.com/album/43473841.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%83%BD%E5%B8%82%E5%B0%8F%E6%B0%91%E5%B7%A5-%E5%85%8D%E8%B4%B9%E5%8F%8C%E6%92%AD-%E7%88%86%E7%AC%91%E7%88%BD%E6%96%87/id1557180247?uo=4",
+      "genres": [
+        "喜劇小說",
+        "Podcast",
+        "小說",
+        "戲劇"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 1103,
+      "releaseDate": "2026-04-19T13:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇小說"
+    },
+    {
+      "collectionId": 1553844283,
+      "trackId": 1553844283,
+      "collectionName": "打工皇帝丨都市逆袭&精品多人&免费爽文",
+      "artistName": "野贺",
+      "feedUrl": "http://www.ximalaya.com/album/45793202.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%89%93%E5%B7%A5%E7%9A%87%E5%B8%9D%E4%B8%A8%E9%83%BD%E5%B8%82%E9%80%86%E8%A2%AD-%E7%B2%BE%E5%93%81%E5%A4%9A%E4%BA%BA-%E5%85%8D%E8%B4%B9%E7%88%BD%E6%96%87/id1553844283?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 299,
+      "releaseDate": "2021-10-15T06:13:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1727150213,
+      "trackId": 1727150213,
+      "collectionName": "【免费】都市极品小医仙|重生|爽文|AI多播",
+      "artistName": "听峰夜语",
+      "feedUrl": "https://www.ximalaya.com/album/79906071.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%8D%E8%B4%B9-%E9%83%BD%E5%B8%82%E6%9E%81%E5%93%81%E5%B0%8F%E5%8C%BB%E4%BB%99-%E9%87%8D%E7%94%9F-%E7%88%BD%E6%96%87-ai%E5%A4%9A%E6%92%AD/id1727150213?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "喜劇小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 517,
+      "releaseDate": "2024-08-31T04:27:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1770235777,
+      "trackId": 1770235777,
+      "collectionName": "久别重逢时",
+      "artistName": "丹丹在发呆",
+      "feedUrl": "https://www.ximalaya.com/album/83657228.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B9%85%E5%88%AB%E9%87%8D%E9%80%A2%E6%97%B6/id1770235777?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "社會與文化",
+        "人際關係"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 69,
+      "releaseDate": "2024-11-07T16:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1725630094,
+      "trackId": 1725630094,
+      "collectionName": "祸起萧墙：重返六零年代,我只愿一身清白,与你共守红色江山|丹丹在发呆",
+      "artistName": "丹丹在发呆",
+      "feedUrl": "https://www.ximalaya.com/album/79557698.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%A5%B8%E8%B5%B7%E8%90%A7%E5%A2%99-%E9%87%8D%E8%BF%94%E5%85%AD%E9%9B%B6%E5%B9%B4%E4%BB%A3-%E6%88%91%E5%8F%AA%E6%84%BF%E4%B8%80%E8%BA%AB%E6%B8%85%E7%99%BD-%E4%B8%8E%E4%BD%A0%E5%85%B1%E5%AE%88%E7%BA%A2%E8%89%B2%E6%B1%9F%E5%B1%B1-%E4%B8%B9%E4%B8%B9%E5%9C%A8%E5%8F%91%E5%91%86/id1725630094?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "歷史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 220,
+      "releaseDate": "2024-06-02T21:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    }
+  ]
+}

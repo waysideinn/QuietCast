@@ -1,0 +1,140 @@
+{
+  "show_id": "1583478399",
+  "feed_url": "https://feeds.soundon.fm/podcasts/f6c55812-ba17-46ee-9190-9c38e713f478.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/f6c55812-ba17-46ee-9190-9c38e713f478.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/f6c55812-ba17-46ee-9190-9c38e713f478.xml",
+    "fetched_at": "2026-10-25T14:53:52.024390+00:00",
+    "status": 200,
+    "sha256": "b59033aa2e53da58daa4e37f0927104cb09b5d291ac1a1f161bd647ac3402201"
+  },
+  "status": "ok",
+  "title": {
+    "text": "有要好好聊嗎?",
+    "truncated": false
+  },
+  "description": {
+    "text": "每次聊天都會歪掉~~到底能不能好好聊啦!!! 很閒聊的頻道唷，有時講講時下話題，有時抓職人來訪談， 總而言之，就是找人來聊天啦，但!不一定會好好聊!!哈哈 如果有任何想聽的主題建議 或是合作邀約都歡迎來信到 [email removed] IG: Wannatalk0824 謝謝把拔斗內買錄音設備連結: https://pay.soundon.fm/podcasts/f6c55812-ba17-46ee-9190-9c38e713f478 節目在各平台都有上架唷! #Apple Podcast #Spotify #KKBOX Podcast #SoundOn #Google Podcast #Youtube -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 207,
+  "episodes": [
+    {
+      "id": "9e10d965c7ca38e1bc656109c582dc51c88417d9d36c398617ee7589fe5c4b9f",
+      "guid": "08e35b61-c5dc-436f-b517-f5aea7225602",
+      "title": {
+        "text": "想到就錄 - 怎麼可能我的祖先是你家的鬼！導演專訪！Feat. 蘇達",
+        "truncated": false
+      },
+      "description": {
+        "text": "怎麼可能我的祖先是你家的鬼 日本天后歌姬「茱麗葉」（渡邊直美飾）驚喜現身台灣山區， 她帶著面癱臭臉的經紀人小羅（劉以豪飾）一同入山，展開一場追憶母親的尋根之旅。 讓我們歡迎自編自導自演的!! 蘇達導演!!! 來分享劇中和生活大小事 除了聊天以外 電影也已經上映囉!!大家快去看啦!!! 祖先鬼IG傳送門: https://www.instagram.com/ohmyghost_ohmygod/ 導演IG傳送門: https://www.instagram.com/tasu.artist/ 有要好好聊嗎? IG: https://www.instagram.com/wannatalk0824/ 合作邀約歡迎來信到 [email removed] 贊助我們喝咖啡 https://pay.soundon.fm/podcasts/f6c55812-ba17-46ee-9190-9c38e713f478 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Sep 2026 00:10:10 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8a5e7034abcd9830f9d87ec61aa05cfcb656228c0295f497c6c5bb241fc8892b",
+      "guid": "fab6e3a8-395c-4160-aea0-d54695fbe1b9",
+      "title": {
+        "text": "EP176 在你的Ctrl+F裡，有幾個師父",
+        "truncated": false
+      },
+      "description": {
+        "text": "回留言 新年快樂 江蕙微燒 邱軍肇逃 大愛條款 有要好好聊嗎? IG: https://www.instagram.com/wannatalk0824/ 合作邀約歡迎來信到 [email removed] 贊助我們喝咖啡 https://pay.soundon.fm/podcasts/f6c55812-ba17-46ee-9190-9c38e713f478 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 08 Jan 2025 00:10:10 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "1eaf0b7e981422ac7d9f213b9dafb9d02d815b33daa8273976587dd4fa58f5dd",
+      "guid": "d20688b7-e16c-4934-a3cc-156fcfc0daf8",
+      "title": {
+        "text": "EP146 外國人在台灣之澳門蛋餅千金 Feat. 普琳",
+        "truncated": false
+      },
+      "description": {
+        "text": "久違的外國人系列+1 澳門文化和台灣有什麼差別 美食和推薦的景點有哪些 來聽我們普琳說說 有要好好聊嗎? IG: https://www.instagram.com/wannatalk0824/ 合作邀約歡迎來信到 [email removed] 贊助我們喝咖啡 https://pay.soundon.fm/podcasts/f6c55812-ba17-46ee-9190-9c38e713f478 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 12 Jun 2024 00:10:10 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "0ede727309887660050a93416af8dee4a368d505ec490e1baf11a57ef7bef8f1",
+      "guid": "b1f061c7-1360-4aca-922a-54809a3b884c",
+      "title": {
+        "text": "EP117 從婚禮習俗到修仙之路 Feat. 簡少年",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集來聊聊一些中式婚禮習俗 聽聽邏輯戰神跟我們說說 關於習俗，真的有遵從的重要性嗎 聽一聽，不如還是來去修仙好了 簡少年傳送門 IG: https://www.instagram.com/iletyou888/ FB: https://www.facebook.com/TaoTaoShiYoungChien/?locale=zh_TW YT: https://www.youtube.com/@iletyou888 Podcast: https://reurl.cc/6Q49zr 有要好好聊嗎? IG: https://www.instagram.com/wannatalk0824/ 合作邀約歡迎來信到 [email removed] 斗內我們買記憶卡 https://pay.soundon.fm/podcasts/f6c55812-ba17-46ee-9190-9c38e713f478 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Nov 2023 00:10:10 GMT",
+      "feed_index": 88
+    },
+    {
+      "id": "09ff698f080d07d09c7f5e9d0a2dc03c1d2f8f438f8cc39c03e10d32b9a571d6",
+      "guid": "1ad02844-ca7c-40a2-817d-0dc8f3e0fc78",
+      "title": {
+        "text": "EP87 中古買賣商大約等於資源回收場? Feat. 雙buff記趣",
+        "truncated": false
+      },
+      "description": {
+        "text": "中古買賣都在賣什麼 中古商與當鋪與資源回收場的差異 做賊的喊抓賊 奧客集錦 客人單挑 小安的情史 本集略吵~請多包涵 哈哈哈 雙buff記趣傳送門: https://open.firstory.me/user/dbff7679/platforms IG: https://www.instagram.com/doublebuff1613/ 有要好好聊嗎? IG: https://www.instagram.com/wannatalk0824/ 合作邀約歡迎來信到 [email removed] 贊助我們喝咖啡 https://pay.soundon.fm/podcasts/f6c55812-ba17-46ee-9190-9c38e713f478 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 26 Apr 2023 00:10:10 GMT",
+      "feed_index": 118
+    },
+    {
+      "id": "11df6c006e4f3731b7d49a5b58f7d0d0f3e422c943d505702178f0c4dd0e901a",
+      "guid": "33478f25-f4f1-4c5e-9578-e8deb30c2d7e",
+      "title": {
+        "text": "EP60 心理師乾杯，心理測驗有夠白癡!大家一起來玩! Feat. 莊寶",
+        "truncated": false
+      },
+      "description": {
+        "text": "心理測驗遊戲來啦! 首先，假設你是一名全副武裝的獵人，身上的配備齊全， 你興致勃勃地出發，前往你從未去過的森林探險。 #1、你有兩座森林可以選擇，請問你要選擇哪一個？ A. 大森林 B. 小森林 #2、接著你走進森林，你覺得你遇到的第一隻動物是什麼？並用3個特徵描述你對牠的印象 #3、接著走著走著，你遇到了第二隻動物。請說出是什麼動物，並也用3個特徵描述你對牠的印象 #4、你往森林的深處走去，發現了一座泉水，岸邊開了一朵非常美的花，這朵花是你見過最美的花。於是你用Siri查了一下，你發現這朵花在世上只有這一朵，你會選擇⋯？ A. 摘下它， B. 不摘它， #5、你離開泉水處後，又往更深的地方走去 穿過層層的樹林，你發現了一座小木屋，你小心的走到屋子前，發現這屋子的門是⋯？ A. 門半開或微開 B. 完全開著或沒有門 C. 關著並且上了鎖 D. 門關著但沒鎖門 #6、你後來進到了屋子裡，發現桌上放滿了食物，全部都是你愛吃的，這時你會選擇⋯？ A. 吃 B. 不吃 #7、當你覺得累了，坐在一張木椅上休息，看到旁邊的茶几上放了一個杯子，你覺得這個杯子是⋯？ A. 裝滿水 B. 有裝水，但沒有裝滿 C. 沒有水，但杯子很乾淨 D. 杯子倒蓋，上面布滿灰塵 #8、你休息一陣子之後打算離開，這時突然出現一個女神，她告訴你：「你可以帶走世上任何一種動物，並且牠會跟隨你一輩子。」請選擇一種動物，並",
+        "truncated": true
+      },
+      "published_at": "Wed, 05 Oct 2022 00:10:10 GMT",
+      "feed_index": 147
+    },
+    {
+      "id": "2343628abcb0f6c4586fc5967362ba1ef7389cd1074bef85c0e420894e985484",
+      "guid": "4363bd86-0137-4831-a9d3-117b1cead2b8",
+      "title": {
+        "text": "EP30 要當上班族好還是自由工作者好呢?嗯，還是不工作比較好XD",
+        "truncated": false
+      },
+      "description": {
+        "text": "分享一下我們自身的經驗啦 上班族的眉角 自由工作者賺很多? 歡迎都來分享你們的經驗唷! 有要好好聊嗎? IG: https://www.instagram.com/wannatalk0824/ 合作邀約歡迎來信到 [email removed] -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 09 Mar 2022 00:10:10 GMT",
+      "feed_index": 177
+    },
+    {
+      "id": "ae6fa7c5d11e33ffafbf95daea3620e2c73970c58b358fd77a394c536db9b73f",
+      "guid": "826b4f37-c190-4f7b-b5ac-f519c14fb6b9",
+      "title": {
+        "text": "EP1 媽呀!有27億好爽! Feat. 職白人",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集沒有贊助，但第一集就請來一直被我們消費的職白人，哈哈哈 反正就東聊西聊，不如先從中27億開始?XD 【Instagram】 職白人 : https://www.instagram.com/job__white/ yoyo： https://www.instagram.com/eugene_yo_yo/ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 29 Aug 2021 17:07:46 GMT",
+      "feed_index": 206
+    }
+  ]
+}

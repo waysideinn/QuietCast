@@ -1,0 +1,140 @@
+{
+  "show_id": "1520759051",
+  "feed_url": "https://anchor.fm/s/28263bbc/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/28263bbc/podcast/rss",
+    "final_url": "https://anchor.fm/s/28263bbc/podcast/rss",
+    "fetched_at": "2026-10-25T14:50:16.938507+00:00",
+    "status": 200,
+    "sha256": "73e04eeca8497b2efb1a8bd062a00270f5d4dfb69483470c7f58f9787840ec86"
+  },
+  "status": "ok",
+  "title": {
+    "text": "云游—灵性有声书",
+    "truncated": false
+  },
+  "description": {
+    "text": "灵性修行有声书播主。已播出杰德麦肯纳，拜伦凯蒂，埃克哈特托利，阿迪亚香提，奥修等人的作品。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 75,
+  "episodes": [
+    {
+      "id": "002f9d8d28d9d9fed90f98868541f3c0e86a00047ea4850598016bf8c1edeafe",
+      "guid": "eac61964-bbd3-4b71-ac36-d76b611a31bd",
+      "title": {
+        "text": "开悟者眼中的生命真相-030. 最后的宗教+十谏（全书完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "开悟者眼中的生命真相-030. 最后的宗教+十谏（全书完）",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Oct 2025 12:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "7559975afa76ff8ad18ca75298029573364ad6cfa92a6e1d4270d62c01ee004b",
+      "guid": "316bc6d4-8883-4c38-b271-09adb9171f31",
+      "title": {
+        "text": "开悟者眼中的生命真相-019. 东方哲学",
+        "truncated": false
+      },
+      "description": {
+        "text": "开悟者眼中的生命真相-019. 东方哲学",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Oct 2025 08:00:00 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "bfb590d6a1c63f47a3322911b0e101290b9ec87c14440b91ca6c994e78b96258",
+      "guid": "b217c9ba-45df-4e9c-b7f9-fb3dac6e2fca",
+      "title": {
+        "text": "开悟者眼中的生命真相-008. 无须敬畏的奥秘",
+        "truncated": false
+      },
+      "description": {
+        "text": "开悟者眼中的生命真相-008. 无须敬畏的奥秘",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Oct 2025 05:40:00 GMT",
+      "feed_index": 21
+    },
+    {
+      "id": "7f91c88481c3ac7a2bb439ec14af1fc2b7cd168eaca474bba30a4419255f736a",
+      "guid": "e2323f6f-e336-4796-9077-d3c1d76c3761",
+      "title": {
+        "text": "开悟者眼中的生命真相-000A. 推荐序-游乐场中的超级玩家",
+        "truncated": false
+      },
+      "description": {
+        "text": "开悟者眼中的生命真相-000A. 推荐序-游乐场中的超级玩家",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Oct 2025 04:00:00 GMT",
+      "feed_index": 32
+    },
+    {
+      "id": "35f93048cd273276f0b0e94c8b6692aaeee4d124de106b5db95a1b7a272e2cb6",
+      "guid": "3f3aa0ff-74e3-48ff-be66-1fa4daef1849",
+      "title": {
+        "text": "灵性的自我开战-030. 献给一位朋友的挽歌",
+        "truncated": false
+      },
+      "description": {
+        "text": "灵性的自我开战-030. 献给一位朋友的挽歌",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Oct 2025 14:55:01 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "23f6d9965039d3d8e0e0a4993fe750c6beaa092117a80232d050ac9f9f0b4e42",
+      "guid": "a13c4c34-af69-46c4-b8b6-2511207038b0",
+      "title": {
+        "text": "灵性的自我开战-019. 我，见证者",
+        "truncated": false
+      },
+      "description": {
+        "text": "灵性的自我开战-019. 我，见证者",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Oct 2025 13:15:00 GMT",
+      "feed_index": 53
+    },
+    {
+      "id": "1ac56b018eb1b0f866bc837d517085acdc44274ed8ac407e5e91ca3dec48960e",
+      "guid": "a99f380b-8c9d-440b-b6c4-469110c881d3",
+      "title": {
+        "text": "灵性的自我开战-009. 敌托邦",
+        "truncated": false
+      },
+      "description": {
+        "text": "灵性的自我开战-009. 敌托邦",
+        "truncated": false
+      },
+      "published_at": "Tue, 07 Oct 2025 14:40:01 GMT",
+      "feed_index": 63
+    },
+    {
+      "id": "f023705c7ae5fa23e66a77717611acf5aaf2ca4bfe6c9989c82c817902a71205",
+      "guid": "f68ad376-1125-4523-8f53-147158150f39",
+      "title": {
+        "text": "灵性开悟不是你想的那样-杰德麦肯纳 （全集）",
+        "truncated": false
+      },
+      "description": {
+        "text": "杰德麦肯纳的第一本书 觉醒与信仰基本上是相对的两种意识状态，只要是信徒，就永远无法觉醒。 问自己什么是真实的，最后必然会导致对于信仰的幻灭与否定。毕竟在本质上，所有的信仰都是建立于道听途说之上，都是妄念。 我们都是身不由己，照本宣科的演员，完全融入了自己扮演的角色，浑然不觉自己其实只是演员，随时可以出戏。",
+        "truncated": false
+      },
+      "published_at": "Wed, 24 Jun 2020 15:09:07 GMT",
+      "feed_index": 74
+    }
+  ]
+}

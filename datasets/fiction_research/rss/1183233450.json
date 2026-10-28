@@ -1,0 +1,140 @@
+{
+  "show_id": "1183233450",
+  "feed_url": "http://www.ximalaya.com/album/5853933.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/5853933.xml",
+    "final_url": "http://www.ximalaya.com/album/5853933.xml",
+    "fetched_at": "2026-10-25T14:47:48.745661+00:00",
+    "status": 200,
+    "sha256": "d6a7c49875a11518aeeb8f54e7473a660cd0586f104574ad186cc14574912061"
+  },
+  "status": "ok",
+  "title": {
+    "text": "闲话文学史",
+    "truncated": false
+  },
+  "description": {
+    "text": "文学是可爱的。生活是好玩的。艺术是要有所牺牲的。随我来，忽忽五年的一场“文学的远征”！ （新浪微博：谦虚的jack强）",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 36,
+  "episodes": [
+    {
+      "id": "13b8fe037d874c81a5e5bd17f716a43979d5fdf881a9f187ff7a4362def6dc68",
+      "guid": "https://aod.cos.tx.xmcdn.com/group25/M00/44/95/wKgJNlgrC8HyycXbABaGFklFr1k819.m4a",
+      "title": {
+        "text": "【闲话文学史】1、开课引言",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Nov 2016 13:21:01 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1e660d64d01f24e33dbdb45da56f1109312cd9f53c1d65d80a19a03b9025d490",
+      "guid": "https://aod.cos.tx.xmcdn.com/group26/M01/C6/BD/wKgJRlj0KYXx1BxZAT_9vs-ixXg557.m4a",
+      "title": {
+        "text": "【闲话文学史】6、新&旧！约的故事和涵义",
+        "truncated": false
+      },
+      "description": {
+        "text": "文学是可爱的。生活是好玩的。艺术是要有所牺牲的。随我来，忽忽五年的一场“文学的远征”！ （新浪微博：谦虚的插里一世）",
+        "truncated": false
+      },
+      "published_at": "Mon, 17 Apr 2017 02:42:59 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "c2222438dbd4511313244b9c2bcd0f843ee6bb88059de00b7d3e9fa79ec847aa",
+      "guid": "https://aod.cos.tx.xmcdn.com/group21/M06/74/68/wKgJLVg8RlrSIDqAATI19YV5Yso210.m4a",
+      "title": {
+        "text": "【闲话文学史】11、诗经续谈",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 28 Nov 2016 14:59:39 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "dd6f2dea055ad88546e944228643ed7cfc36d0c533cb0219d8642051683fa1a6",
+      "guid": "https://aod.cos.tx.xmcdn.com/group23/M01/A5/9B/wKgJL1hKlI_AKkJYAPHSRV_RSFs179.m4a",
+      "title": {
+        "text": "【闲话文学史】16、孟子、庄子、荀子及其他",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 09 Dec 2016 11:25:03 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "11115757d5681d4ae1cf98f502e1af2bea2853d9e2f5fa9981034633074cf16a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group22/M09/DE/84/wKgJLlhZM56yC1JmAUEJxSV7moc971.m4a",
+      "title": {
+        "text": "【闲话文学史】21、唐诗（二）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 20 Dec 2016 13:35:28 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "acaeea044a726c2503cf4603a366fbea0a4813992ea74e6153e8d5727d0cfb60",
+      "guid": "https://aod.cos.tx.xmcdn.com/group22/M0A/5F/18/wKgJM1hzeZqzL_lRAq2KT5EXfuk281.m4a",
+      "title": {
+        "text": "【闲话文学史】26、中国古代戏曲（一）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 09 Jan 2017 11:53:02 GMT",
+      "feed_index": 25
+    },
+    {
+      "id": "b3caed927d33a4882ddc5102d7b3d6ca3244d86c91a8970a5dfc8760cd142b7d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group25/M03/82/59/wKgJMViho9uDHcFSAe7z8rcE9nw834.m4a",
+      "title": {
+        "text": "【闲话文学史】31、中国古代戏曲（二）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Feb 2017 12:17:32 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "0175a93544981cbce2075c01492c1d2885a3f577f97118e44e60fb3fade899a1",
+      "guid": "https://aod.cos.tx.xmcdn.com/group26/M07/2F/B9/wKgJRljL1w2Q5RBWAdF02yI6PqA863.m4a",
+      "title": {
+        "text": "【闲话文学史】36、十八世纪中国文学与曹雪芹",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 17 Mar 2017 12:31:11 GMT",
+      "feed_index": 35
+    }
+  ]
+}

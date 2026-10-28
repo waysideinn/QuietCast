@@ -1,0 +1,2251 @@
+{
+  "group": "normal",
+  "term": "哲学",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E5%93%B2%E5%AD%A6&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E5%93%B2%E5%AD%A6&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:44:03.427922+00:00",
+    "status": 200,
+    "sha256": "f46676348aced64daf28e4c422370f620bbfefeaa31c90aef61bb48da6e6fa94"
+  },
+  "result_count": 98,
+  "records": [
+    {
+      "collectionId": 1531819660,
+      "trackId": 1531819660,
+      "collectionName": "哲學新媒體 Philosophy Medium",
+      "artistName": "哲學新媒體 Philosophy Medium",
+      "feedUrl": "https://anchor.fm/s/34354c68/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%B8%E6%96%B0%E5%AA%92%E9%AB%94-philosophy-medium/id1531819660?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 144,
+      "releaseDate": "2025-06-04T04:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1807016239,
+      "trackId": 1807016239,
+      "collectionName": "3000分钟讲透老子《道德经》大智慧丨国学｜哲学",
+      "artistName": "谢明语",
+      "feedUrl": "https://www.ximalaya.com/album/88040578.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/3000%E5%88%86%E9%92%9F%E8%AE%B2%E9%80%8F%E8%80%81%E5%AD%90-%E9%81%93%E5%BE%B7%E7%BB%8F-%E5%A4%A7%E6%99%BA%E6%85%A7%E4%B8%A8%E5%9B%BD%E5%AD%A6-%E5%93%B2%E5%AD%A6/id1807016239?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化",
+        "宗教與精神生活",
+        "靈修"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1314",
+        "1444"
+      ],
+      "trackCount": 108,
+      "releaseDate": "2025-08-04T07:41:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1697683303,
+      "trackId": 1697683303,
+      "collectionName": "哲學星期天 Sunday Philosophy",
+      "artistName": "哲學星期天",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/9753c0f7-e497-44d3-bde5-141420ff6722.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%B8%E6%98%9F%E6%9C%9F%E5%A4%A9-sunday-philosophy/id1697683303?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育",
+        "商業"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1321"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2024-01-08T00:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1706960227,
+      "trackId": 1706960227,
+      "collectionName": "土井善晴とクリス智子が料理を哲学するポッドキャスト supported by ZOJIRUSHI",
+      "artistName": "J-WAVE",
+      "feedUrl": "https://feed.sonicbowl.cloud/rss/8f949e41-a278-4923-8a28-a1b8e760de36/",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%9C%9F%E4%BA%95%E5%96%84%E6%99%B4%E3%81%A8%E3%82%AF%E3%83%AA%E3%82%B9%E6%99%BA%E5%AD%90%E3%81%8C%E6%96%99%E7%90%86%E3%82%92%E5%93%B2%E5%AD%A6%E3%81%99%E3%82%8B%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88-supported-by-zojirushi/id1706960227?uo=4",
+      "genres": [
+        "食物",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1306",
+        "26",
+        "1301"
+      ],
+      "trackCount": 77,
+      "releaseDate": "2026-10-08T06:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "食物"
+    },
+    {
+      "collectionId": 1686794716,
+      "trackId": 1686794716,
+      "collectionName": "哲学编年史｜快速了解西方哲学的发展史",
+      "artistName": "里维糖",
+      "feedUrl": "https://www.ximalaya.com/album/75901908.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%A6%E7%BC%96%E5%B9%B4%E5%8F%B2-%E5%BF%AB%E9%80%9F%E4%BA%86%E8%A7%A3%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2/id1686794716?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 59,
+      "releaseDate": "2023-05-12T13:12:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1697687442,
+      "trackId": 1697687442,
+      "collectionName": "ゆる哲学ラジオ",
+      "artistName": "ゆる哲学ラジオ",
+      "feedUrl": "https://api.robotstart.jp/api/v1/feeds/372c0491/get-feeds/podcast",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%82%86%E3%82%8B%E5%93%B2%E5%AD%A6%E3%83%A9%E3%82%B8%E3%82%AA/id1697687442?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 200,
+      "releaseDate": "2026-10-24T11:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1685520779,
+      "trackId": 1685520779,
+      "collectionName": "漫读哲学｜快速看遍全世界哲学著作",
+      "artistName": "里维糖",
+      "feedUrl": "https://www.ximalaya.com/album/75711995.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%BC%AB%E8%AF%BB%E5%93%B2%E5%AD%A6-%E5%BF%AB%E9%80%9F%E7%9C%8B%E9%81%8D%E5%85%A8%E4%B8%96%E7%95%8C%E5%93%B2%E5%AD%A6%E8%91%97%E4%BD%9C/id1685520779?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化",
+        "藝術",
+        "書籍"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 96,
+      "releaseDate": "2023-05-04T15:37:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1836870562,
+      "trackId": 1836870562,
+      "collectionName": "哲學越域",
+      "artistName": "哲學越域",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/b9f0fccb-c008-4342-88a8-8a7cbcfae74d.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%B8%E8%B6%8A%E5%9F%9F/id1836870562?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化",
+        "藝術"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1301"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2025-10-03T06:41:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1512548667,
+      "trackId": 1512548667,
+      "collectionName": "【哲学文本一起品】康德-纯粹理性批判",
+      "artistName": "悠悠Mobi两百斤",
+      "feedUrl": "http://www.ximalaya.com/album/35860402.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%A6%E6%96%87%E6%9C%AC%E4%B8%80%E8%B5%B7%E5%93%81-%E5%BA%B7%E5%BE%B7-%E7%BA%AF%E7%B2%B9%E7%90%86%E6%80%A7%E6%89%B9%E5%88%A4/id1512548667?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2020-05-09T04:34:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1352951413,
+      "trackId": 1352951413,
+      "collectionName": "佛教哲学（新佛学金刚经）",
+      "artistName": "闲者知无涯",
+      "feedUrl": "http://www.ximalaya.com/album/11434523.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BD%9B%E6%95%99%E5%93%B2%E5%AD%A6-%E6%96%B0%E4%BD%9B%E5%AD%A6%E9%87%91%E5%88%9A%E7%BB%8F/id1352951413?uo=4",
+      "genres": [
+        "佛教",
+        "Podcast",
+        "宗教與精神生活",
+        "社會與文化",
+        "哲學"
+      ],
+      "genreIds": [
+        "1438",
+        "26",
+        "1314",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 208,
+      "releaseDate": "2025-12-31T15:42:00Z",
+      "country": "TWN",
+      "primaryGenreName": "佛教"
+    },
+    {
+      "collectionId": 1851653335,
+      "trackId": 1851653335,
+      "collectionName": "“恍神哲学” by 史东183",
+      "artistName": "史東183",
+      "feedUrl": "https://feed.xyzfm.space/kkyrgmy8cc8p",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%81%8D%E7%A5%9E%E5%93%B2%E5%AD%A6-by-%E5%8F%B2%E4%B8%9C183/id1851653335?uo=4",
+      "genres": [
+        "宗教與精神生活",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1314",
+        "26"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-07-26T11:57:00Z",
+      "country": "TWN",
+      "primaryGenreName": "宗教與精神生活"
+    },
+    {
+      "collectionId": 1809555544,
+      "trackId": 1809555544,
+      "collectionName": "政治哲学圆桌",
+      "artistName": "政治哲学研究",
+      "feedUrl": "https://feed.xyzfm.space/xumvcbalnbrj",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%94%BF%E6%B2%BB%E5%93%B2%E5%AD%A6%E5%9C%86%E6%A1%8C/id1809555544?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 43,
+      "releaseDate": "2026-09-04T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1687879526,
+      "trackId": 1687879526,
+      "collectionName": "西方哲学史 罗素｜哲学（完）",
+      "artistName": "由然而达",
+      "feedUrl": "https://www.ximalaya.com/album/75618281.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6%E5%8F%B2-%E7%BD%97%E7%B4%A0-%E5%93%B2%E5%AD%A6-%E5%AE%8C/id1687879526?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化",
+        "歷史"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 264,
+      "releaseDate": "2024-01-07T06:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1887464206,
+      "trackId": 1887464206,
+      "collectionName": "ざわざわ！お喋り哲学ラジオ",
+      "artistName": "若澤佑典（慶應義塾大学文学部准教授）",
+      "feedUrl": "https://anchor.fm/s/1107f1690/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%81%96%E3%82%8F%E3%81%96%E3%82%8F-%E3%81%8A%E5%96%8B%E3%82%8A%E5%93%B2%E5%AD%A6%E3%83%A9%E3%82%B8%E3%82%AA/id1887464206?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 31,
+      "releaseDate": "2026-10-12T11:40:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1694314989,
+      "trackId": 1694314989,
+      "collectionName": "日本一たのしい哲学ラジオ",
+      "artistName": "日本一たのしい哲学ラジオ",
+      "feedUrl": "https://anchor.fm/s/e4d354fc/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%A5%E6%9C%AC%E4%B8%80%E3%81%9F%E3%81%AE%E3%81%97%E3%81%84%E5%93%B2%E5%AD%A6%E3%83%A9%E3%82%B8%E3%82%AA/id1694314989?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 179,
+      "releaseDate": "2026-10-16T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1896580303,
+      "trackId": 1896580303,
+      "collectionName": "星野源を哲学する",
+      "artistName": "miho / tomoe",
+      "feedUrl": "https://anchor.fm/s/11282298c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%98%9F%E9%87%8E%E6%BA%90%E3%82%92%E5%93%B2%E5%AD%A6%E3%81%99%E3%82%8B/id1896580303?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2026-10-13T00:42:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1765108475,
+      "trackId": 1765108475,
+      "collectionName": "谈谈哲学家那些事儿",
+      "artistName": "Teresa叶彬清",
+      "feedUrl": "https://feed.xyzfm.space/ew74puhmgdte",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%B0%88%E8%B0%88%E5%93%B2%E5%AD%A6%E5%AE%B6%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/id1765108475?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "宗教與精神生活"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1314"
+      ],
+      "trackCount": 121,
+      "releaseDate": "2026-09-22T05:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1805591539,
+      "trackId": 1805591539,
+      "collectionName": "永井玲衣×長井優希乃『Wナガイと哲学対話』",
+      "artistName": "J-WAVE",
+      "feedUrl": "https://feed.sonicbowl.cloud/rss/eb8cdf54-d5e8-47c4-836b-0b2576c81572/",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B0%B8%E4%BA%95%E7%8E%B2%E8%A1%A3-%E9%95%B7%E4%BA%95%E5%84%AA%E5%B8%8C%E4%B9%83-w%E3%83%8A%E3%82%AC%E3%82%A4%E3%81%A8%E5%93%B2%E5%AD%A6%E5%AF%BE%E8%A9%B1/id1805591539?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 47,
+      "releaseDate": "2026-07-14T02:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1521027718,
+      "trackId": 1521027718,
+      "collectionName": "今日哲學",
+      "artistName": "婊子＆狄亞哥",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckmiww9d6h08o0822k6ulcuww",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BB%8A%E6%97%A5%E5%93%B2%E5%AD%B8/id1521027718?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 203,
+      "releaseDate": "2024-11-28T16:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1572228236,
+      "trackId": 1572228236,
+      "collectionName": "瑜伽、冥想與人生哲學",
+      "artistName": "Kris Yoga School",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/0d7ce5ed-34bd-4337-a949-819904f2391c.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%91%9C%E4%BC%BD-%E5%86%A5%E6%83%B3%E8%88%87%E4%BA%BA%E7%94%9F%E5%93%B2%E5%AD%B8/id1572228236?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 48,
+      "releaseDate": "2026-05-25T10:59:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1806987009,
+      "trackId": 1806987009,
+      "collectionName": "ペーパードライブ【読書・哲学】",
+      "artistName": "TBS RADIO",
+      "feedUrl": "https://feeds.megaphone.fm/TBS6699678642",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%83%9A%E3%83%BC%E3%83%91%E3%83%BC%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96-%E8%AA%AD%E6%9B%B8-%E5%93%B2%E5%AD%A6/id1806987009?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 86,
+      "releaseDate": "2026-10-13T15:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1557085575,
+      "trackId": 1557085575,
+      "collectionName": "愛貓哲學",
+      "artistName": "愛貓哲學",
+      "feedUrl": "https://feed.firstory.me/rss/user/cklxqaw57p7ua0804m72o7lhk",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%84%9B%E8%B2%93%E5%93%B2%E5%AD%B8/id1557085575?uo=4",
+      "genres": [
+        "嗜好",
+        "Podcast",
+        "休閒"
+      ],
+      "genreIds": [
+        "1505",
+        "26",
+        "1502"
+      ],
+      "trackCount": 49,
+      "releaseDate": "2022-03-10T01:24:00Z",
+      "country": "TWN",
+      "primaryGenreName": "嗜好"
+    },
+    {
+      "collectionId": 1449153058,
+      "trackId": 1449153058,
+      "collectionName": "维生素E|经济学与哲学知识分享",
+      "artistName": "维生素E知识分享",
+      "feedUrl": "http://www.ximalaya.com/album/19758469.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BB%B4%E7%94%9F%E7%B4%A0e-%E7%BB%8F%E6%B5%8E%E5%AD%A6%E4%B8%8E%E5%93%B2%E5%AD%A6%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB/id1449153058?uo=4",
+      "genres": [
+        "教學",
+        "Podcast",
+        "教育",
+        "社會與文化",
+        "哲學"
+      ],
+      "genreIds": [
+        "1499",
+        "26",
+        "1304",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 151,
+      "releaseDate": "2026-06-25T14:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教學"
+    },
+    {
+      "collectionId": 1572447901,
+      "trackId": 1572447901,
+      "collectionName": "牛哥講經丨廣東話哲學、書籍分享",
+      "artistName": "讀物農莊 Anybooks Farm",
+      "feedUrl": "https://anchor.fm/s/5d6da210/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%89%9B%E5%93%A5%E8%AC%9B%E7%B6%93%E4%B8%A8%E5%BB%A3%E6%9D%B1%E8%A9%B1%E5%93%B2%E5%AD%B8-%E6%9B%B8%E7%B1%8D%E5%88%86%E4%BA%AB/id1572447901?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 419,
+      "releaseDate": "2026-10-23T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1814859399,
+      "trackId": 1814859399,
+      "collectionName": "搞哲學不會紅",
+      "artistName": "不是哲學家/聖紘",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/bf04412b-48c6-42c5-9cc4-85fbfcd4f055.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%90%9E%E5%93%B2%E5%AD%B8%E4%B8%8D%E6%9C%83%E7%B4%85/id1814859399?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 22,
+      "releaseDate": "2026-10-16T09:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1621890629,
+      "trackId": 1621890629,
+      "collectionName": "哲学の楽しみ方を探求する〜それ哲ラジオ",
+      "artistName": "それ哲ラジオ",
+      "feedUrl": "https://anchor.fm/s/91818d28/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%A6%E3%81%AE%E6%A5%BD%E3%81%97%E3%81%BF%E6%96%B9%E3%82%92%E6%8E%A2%E6%B1%82%E3%81%99%E3%82%8B-%E3%81%9D%E3%82%8C%E5%93%B2%E3%83%A9%E3%82%B8%E3%82%AA/id1621890629?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 470,
+      "releaseDate": "2026-10-21T14:10:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1692794402,
+      "trackId": 1692794402,
+      "collectionName": "人大社·哲学文库·马克思宗教批判思想及其当代启示",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/76501095.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BA%BA%E5%A4%A7%E7%A4%BE-%E5%93%B2%E5%AD%A6%E6%96%87%E5%BA%93-%E9%A9%AC%E5%85%8B%E6%80%9D%E5%AE%97%E6%95%99%E6%89%B9%E5%88%A4%E6%80%9D%E6%83%B3%E5%8F%8A%E5%85%B6%E5%BD%93%E4%BB%A3%E5%90%AF%E7%A4%BA/id1692794402?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化",
+        "教育",
+        "課程"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1304",
+        "1501"
+      ],
+      "trackCount": 73,
+      "releaseDate": "2023-07-15T23:51:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1539559038,
+      "trackId": 1539559038,
+      "collectionName": "別說你懂哲學 | 宇宙林思宇 熊仁謙 | 快樂大學",
+      "artistName": "宇宙林思宇 熊仁謙 快樂大學",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckha0d5di07bl0813z8f5tlih",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%88%A5%E8%AA%AA%E4%BD%A0%E6%87%82%E5%93%B2%E5%AD%B8-%E5%AE%87%E5%AE%99%E6%9E%97%E6%80%9D%E5%AE%87-%E7%86%8A%E4%BB%81%E8%AC%99-%E5%BF%AB%E6%A8%82%E5%A4%A7%E5%AD%B8/id1539559038?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 156,
+      "releaseDate": "2022-01-12T14:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1692089960,
+      "trackId": 1692089960,
+      "collectionName": "社會人的哲學沉思",
+      "artistName": "鋼哥",
+      "feedUrl": "https://feed.firstory.me/rss/user/clirmytcs05xe01x709hy7n7e",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%A4%BE%E6%9C%83%E4%BA%BA%E7%9A%84%E5%93%B2%E5%AD%B8%E6%B2%89%E6%80%9D/id1692089960?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "哲學"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 158,
+      "releaseDate": "2026-10-20T06:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1821835057,
+      "trackId": 1821835057,
+      "collectionName": "點火者_沒有答案的哲學",
+      "artistName": "點火者",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/0f4edada-79fe-4b33-8c35-85f8196dce42.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%BB%9E%E7%81%AB%E8%80%85-%E6%B2%92%E6%9C%89%E7%AD%94%E6%A1%88%E7%9A%84%E5%93%B2%E5%AD%B8/id1821835057?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1512",
+        "26",
+        "1304"
+      ],
+      "trackCount": 23,
+      "releaseDate": "2026-01-06T12:14:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1751638410,
+      "trackId": 1751638410,
+      "collectionName": "紀金慶哲學森林",
+      "artistName": "紀金慶",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/2ffc044e-06b9-4286-800b-3f99420539cd.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%B4%80%E9%87%91%E6%85%B6%E5%93%B2%E5%AD%B8%E6%A3%AE%E6%9E%97/id1751638410?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2024-06-12T02:56:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1815205340,
+      "trackId": 1815205340,
+      "collectionName": "哲學同學會",
+      "artistName": "四月",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmaup2eij1krn01w7da2zesiz",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%B8%E5%90%8C%E5%AD%B8%E6%9C%83/id1815205340?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2025-06-01T04:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1858213697,
+      "trackId": 1858213697,
+      "collectionName": "講起來很有道理（由哲學啟發的政治、社會文化與個體存在的對話節目）",
+      "artistName": "漫愚",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/16e1e78c-685e-4f9c-9205-b6d1707b10a8.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AC%9B%E8%B5%B7%E4%BE%86%E5%BE%88%E6%9C%89%E9%81%93%E7%90%86-%E7%94%B1%E5%93%B2%E5%AD%B8%E5%95%9F%E7%99%BC%E7%9A%84%E6%94%BF%E6%B2%BB-%E7%A4%BE%E6%9C%83%E6%96%87%E5%8C%96%E8%88%87%E5%80%8B%E9%AB%94%E5%AD%98%E5%9C%A8%E7%9A%84%E5%B0%8D%E8%A9%B1%E7%AF%80%E7%9B%AE/id1858213697?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 384,
+      "releaseDate": "2026-10-23T12:38:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1730476445,
+      "trackId": 1730476445,
+      "collectionName": "罗素论幸福：幸福之路，罗素写给你的生活哲学",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/80374367.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BD%97%E7%B4%A0%E8%AE%BA%E5%B9%B8%E7%A6%8F-%E5%B9%B8%E7%A6%8F%E4%B9%8B%E8%B7%AF-%E7%BD%97%E7%B4%A0%E5%86%99%E7%BB%99%E4%BD%A0%E7%9A%84%E7%94%9F%E6%B4%BB%E5%93%B2%E5%AD%A6/id1730476445?uo=4",
+      "genres": [
+        "人際關係",
+        "Podcast",
+        "社會與文化",
+        "哲學"
+      ],
+      "genreIds": [
+        "1544",
+        "26",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2024-02-18T05:52:00Z",
+      "country": "TWN",
+      "primaryGenreName": "人際關係"
+    },
+    {
+      "collectionId": 1462844138,
+      "trackId": 1462844138,
+      "collectionName": "哲学治愈音乐·第1季",
+      "artistName": "书杰",
+      "feedUrl": "http://www.ximalaya.com/album/10844344.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%A6%E6%B2%BB%E6%84%88%E9%9F%B3%E4%B9%90-%E7%AC%AC1%E5%AD%A3/id1462844138?uo=4",
+      "genres": [
+        "音樂",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1310",
+        "26"
+      ],
+      "trackCount": 107,
+      "releaseDate": "2017-11-05T11:59:00Z",
+      "country": "TWN",
+      "primaryGenreName": "音樂"
+    },
+    {
+      "collectionId": 1584914561,
+      "trackId": 1584914561,
+      "collectionName": "处世哲学|曾国藩家书白话精读版",
+      "artistName": "令扬读书会",
+      "feedUrl": "http://www.ximalaya.com/album/52713772.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%84%E4%B8%96%E5%93%B2%E5%AD%A6-%E6%9B%BE%E5%9B%BD%E8%97%A9%E5%AE%B6%E4%B9%A6%E7%99%BD%E8%AF%9D%E7%B2%BE%E8%AF%BB%E7%89%88/id1584914561?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "歷史"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 123,
+      "releaseDate": "2021-11-13T22:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1840539957,
+      "trackId": 1840539957,
+      "collectionName": "聊點中國哲學, Talking about Chinese Philosophy",
+      "artistName": "Hermes",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmfj8clxt022m01tdbjed3p5p",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%81%8A%E9%BB%9E%E4%B8%AD%E5%9C%8B%E5%93%B2%E5%AD%B8-talking-about-chinese-philosophy/id1840539957?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育",
+        "歷史"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1487"
+      ],
+      "trackCount": 60,
+      "releaseDate": "2026-10-23T16:32:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1740238009,
+      "trackId": 1740238009,
+      "collectionName": "哲学以前の違和感",
+      "artistName": "人間観察者・倉木凪",
+      "feedUrl": "https://anchor.fm/s/f8161be4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%A6%E4%BB%A5%E5%89%8D%E3%81%AE%E9%81%95%E5%92%8C%E6%84%9F/id1740238009?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 2000,
+      "releaseDate": "2026-08-05T00:46:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1819284755,
+      "trackId": 1819284755,
+      "collectionName": "よなよな哲学ラジオ【デザイン・読書・エンタメ】",
+      "artistName": "デザイナーユニット モノグ（monog）",
+      "feedUrl": "https://anchor.fm/s/81d2a330/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%82%88%E3%81%AA%E3%82%88%E3%81%AA%E5%93%B2%E5%AD%A6%E3%83%A9%E3%82%B8%E3%82%AA-%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E8%AA%AD%E6%9B%B8-%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%A1/id1819284755?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 99,
+      "releaseDate": "2026-10-17T23:39:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1645777423,
+      "trackId": 1645777423,
+      "collectionName": "现代西方哲学/语言哲学/哲学漫谈【陈嘉映的哲学课堂】",
+      "artistName": "JasonD",
+      "feedUrl": "https://anchor.fm/s/b91f1e2c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%8E%B0%E4%BB%A3%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E8%AF%AD%E8%A8%80%E5%93%B2%E5%AD%A6-%E5%93%B2%E5%AD%A6%E6%BC%AB%E8%B0%88-%E9%99%88%E5%98%89%E6%98%A0%E7%9A%84%E5%93%B2%E5%AD%A6%E8%AF%BE%E5%A0%82/id1645777423?uo=4",
+      "genres": [
+        "教育",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "trackCount": 37,
+      "releaseDate": "2023-04-30T06:09:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1462842609,
+      "trackId": 1462842609,
+      "collectionName": "哲学的慰藉",
+      "artistName": "书杰",
+      "feedUrl": "http://www.ximalaya.com/album/7437114.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%A6%E7%9A%84%E6%85%B0%E8%97%89/id1462842609?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 66,
+      "releaseDate": "2022-05-12T21:58:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1687878883,
+      "trackId": 1687878883,
+      "collectionName": "人性能达到的境界｜马斯洛｜心理学｜哲学（完）",
+      "artistName": "由然而达",
+      "feedUrl": "https://www.ximalaya.com/album/75633951.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BA%BA%E6%80%A7%E8%83%BD%E8%BE%BE%E5%88%B0%E7%9A%84%E5%A2%83%E7%95%8C-%E9%A9%AC%E6%96%AF%E6%B4%9B-%E5%BF%83%E7%90%86%E5%AD%A6-%E5%93%B2%E5%AD%A6-%E5%AE%8C/id1687878883?uo=4",
+      "genres": [
+        "心理健康",
+        "Podcast",
+        "健康與瘦身",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 65,
+      "releaseDate": "2023-05-10T07:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1851823492,
+      "trackId": 1851823492,
+      "collectionName": "生命哲学",
+      "artistName": "天池青藤",
+      "feedUrl": "https://feed.xyzfm.space/93nravxtv436",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%94%9F%E5%91%BD%E5%93%B2%E5%AD%A6/id1851823492?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "休閒"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1502"
+      ],
+      "trackCount": 321,
+      "releaseDate": "2026-10-20T10:09:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1625951442,
+      "trackId": 1625951442,
+      "collectionName": "思考を自由に言葉にする哲学的雑談RADIO",
+      "artistName": "YUKARIN/ MANAMIN",
+      "feedUrl": "https://anchor.fm/s/956447f0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%80%9D%E8%80%83%E3%82%92%E8%87%AA%E7%94%B1%E3%81%AB%E8%A8%80%E8%91%89%E3%81%AB%E3%81%99%E3%82%8B%E5%93%B2%E5%AD%A6%E7%9A%84%E9%9B%91%E8%AB%87radio/id1625951442?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 123,
+      "releaseDate": "2024-07-30T20:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1658781807,
+      "trackId": 1658781807,
+      "collectionName": "火旺老師的哲學咖啡屋",
+      "artistName": "林火旺 新生代基金會",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/9c17d3d5-af5e-471b-b153-026f93be020d.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%81%AB%E6%97%BA%E8%80%81%E5%B8%AB%E7%9A%84%E5%93%B2%E5%AD%B8%E5%92%96%E5%95%A1%E5%B1%8B/id1658781807?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化",
+        "教育"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1304"
+      ],
+      "trackCount": 128,
+      "releaseDate": "2026-04-30T01:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1657910656,
+      "trackId": 1657910656,
+      "collectionName": "小王子，阅读率最高的童话哲学书（中文女声版）",
+      "artistName": "鼎好听",
+      "feedUrl": "https://www.ximalaya.com/album/72883440.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B0%8F%E7%8E%8B%E5%AD%90-%E9%98%85%E8%AF%BB%E7%8E%87%E6%9C%80%E9%AB%98%E7%9A%84%E7%AB%A5%E8%AF%9D%E5%93%B2%E5%AD%A6%E4%B9%A6-%E4%B8%AD%E6%96%87%E5%A5%B3%E5%A3%B0%E7%89%88/id1657910656?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育",
+        "兒童與家庭",
+        "兒童教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1305",
+        "1519"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2022-12-09T09:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1554211819,
+      "trackId": 1554211819,
+      "collectionName": "易眼觀天下：神話、哲學、文學的跨領域對話",
+      "artistName": "張易生",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/3b32c0de-fb9f-4d3a-811c-df0b75d5533e.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%98%93%E7%9C%BC%E8%A7%80%E5%A4%A9%E4%B8%8B-%E7%A5%9E%E8%A9%B1-%E5%93%B2%E5%AD%B8-%E6%96%87%E5%AD%B8%E7%9A%84%E8%B7%A8%E9%A0%98%E5%9F%9F%E5%B0%8D%E8%A9%B1/id1554211819?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1301"
+      ],
+      "trackCount": 230,
+      "releaseDate": "2026-10-15T01:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1716037318,
+      "trackId": 1716037318,
+      "collectionName": "那些小事 -探索生活的哲學",
+      "artistName": "thoselittlethingssss",
+      "feedUrl": "https://feed.firstory.me/rss/user/clmkmbsol0agh01tcc8fc5um4",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%82%A3%E4%BA%9B%E5%B0%8F%E4%BA%8B-%E6%8E%A2%E7%B4%A2%E7%94%9F%E6%B4%BB%E7%9A%84%E5%93%B2%E5%AD%B8/id1716037318?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 60,
+      "releaseDate": "2025-03-07T03:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1692792683,
+      "trackId": 1692792683,
+      "collectionName": "人大社·哲学文库·先秦两汉哲学论稿",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/76501183.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BA%BA%E5%A4%A7%E7%A4%BE-%E5%93%B2%E5%AD%A6%E6%96%87%E5%BA%93-%E5%85%88%E7%A7%A6%E4%B8%A4%E6%B1%89%E5%93%B2%E5%AD%A6%E8%AE%BA%E7%A8%BF/id1692792683?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化",
+        "歷史"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 170,
+      "releaseDate": "2023-09-02T12:26:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1692794797,
+      "trackId": 1692794797,
+      "collectionName": "人大社·哲学文库·社会公正与制度创新",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/76501127.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BA%BA%E5%A4%A7%E7%A4%BE-%E5%93%B2%E5%AD%A6%E6%96%87%E5%BA%93-%E7%A4%BE%E4%BC%9A%E5%85%AC%E6%AD%A3%E4%B8%8E%E5%88%B6%E5%BA%A6%E5%88%9B%E6%96%B0/id1692794797?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化",
+        "教育",
+        "課程"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1304",
+        "1501"
+      ],
+      "trackCount": 46,
+      "releaseDate": "2023-07-02T12:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1536985876,
+      "trackId": 1536985876,
+      "collectionName": "西方哲学史-伯特兰·罗素(英)",
+      "artistName": "熙娅时光",
+      "feedUrl": "http://www.ximalaya.com/album/42390794.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6%E5%8F%B2-%E4%BC%AF%E7%89%B9%E5%85%B0-%E7%BD%97%E7%B4%A0-%E8%8B%B1/id1536985876?uo=4",
+      "genres": [
+        "課程",
+        "Podcast",
+        "教育",
+        "社會與文化",
+        "哲學"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 333,
+      "releaseDate": "2021-01-29T20:47:00Z",
+      "country": "TWN",
+      "primaryGenreName": "課程"
+    },
+    {
+      "collectionId": 1684731851,
+      "trackId": 1684731851,
+      "collectionName": "Z世代哲學",
+      "artistName": "言同學,洗洗,Lulu,滋滋",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/a58e166f-efc5-46bd-a192-7aad3e6a696f.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/z%E4%B8%96%E4%BB%A3%E5%93%B2%E5%AD%B8/id1684731851?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "科技"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1318"
+      ],
+      "trackCount": 20,
+      "releaseDate": "2026-06-23T15:34:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1734829056,
+      "trackId": 1734829056,
+      "collectionName": "中国哲学史话 学贯中西的哲学大家带你了解往圣先贤",
+      "artistName": "天山揽月",
+      "feedUrl": "https://www.ximalaya.com/album/79519130.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AD%E5%9B%BD%E5%93%B2%E5%AD%A6%E5%8F%B2%E8%AF%9D-%E5%AD%A6%E8%B4%AF%E4%B8%AD%E8%A5%BF%E7%9A%84%E5%93%B2%E5%AD%A6%E5%A4%A7%E5%AE%B6%E5%B8%A6%E4%BD%A0%E4%BA%86%E8%A7%A3%E5%BE%80%E5%9C%A3%E5%85%88%E8%B4%A4/id1734829056?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 49,
+      "releaseDate": "2024-03-28T16:09:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1652605841,
+      "trackId": 1652605841,
+      "collectionName": "认识你自己：近代哲学四百年-理查德大卫普莱希特",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/70711946.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AE%A4%E8%AF%86%E4%BD%A0%E8%87%AA%E5%B7%B1-%E8%BF%91%E4%BB%A3%E5%93%B2%E5%AD%A6%E5%9B%9B%E7%99%BE%E5%B9%B4-%E7%90%86%E6%9F%A5%E5%BE%B7%E5%A4%A7%E5%8D%AB%E6%99%AE%E8%8E%B1%E5%B8%8C%E7%89%B9/id1652605841?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化",
+        "藝術",
+        "書籍"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 117,
+      "releaseDate": "2022-10-26T11:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1708688778,
+      "trackId": 1708688778,
+      "collectionName": "大地上的尺规：历史、科学与艺术的现代哲学剖析",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/78277048.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%A7%E5%9C%B0%E4%B8%8A%E7%9A%84%E5%B0%BA%E8%A7%84-%E5%8E%86%E5%8F%B2-%E7%A7%91%E5%AD%A6%E4%B8%8E%E8%89%BA%E6%9C%AF%E7%9A%84%E7%8E%B0%E4%BB%A3%E5%93%B2%E5%AD%A6%E5%89%96%E6%9E%90/id1708688778?uo=4",
+      "genres": [
+        "歷史",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 39,
+      "releaseDate": "2023-10-09T22:39:00Z",
+      "country": "TWN",
+      "primaryGenreName": "歷史"
+    },
+    {
+      "collectionId": 1333475582,
+      "trackId": 1333475582,
+      "collectionName": "翻轉自己，婷婷的世界幸福哲學 | Ting's Philosophy Of Happiness",
+      "artistName": "Ting Ting Chuang 莊婷婷",
+      "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:375650675/sounds.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BF%BB%E8%BD%89%E8%87%AA%E5%B7%B1-%E5%A9%B7%E5%A9%B7%E7%9A%84%E4%B8%96%E7%95%8C%E5%B9%B8%E7%A6%8F%E5%93%B2%E5%AD%B8-tings-philosophy-of-happiness/id1333475582?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2018-04-07T14:09:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 1813795007,
+      "trackId": 1813795007,
+      "collectionName": "【国学经典】大麦简读《道德经》老子|本经译文|哲学",
+      "artistName": "大麦书屋",
+      "feedUrl": "https://www.ximalaya.com/album/89415467.xmlhttps://www.ximalaya.com/album/89415467.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%9B%BD%E5%AD%A6%E7%BB%8F%E5%85%B8-%E5%A4%A7%E9%BA%A6%E7%AE%80%E8%AF%BB-%E9%81%93%E5%BE%B7%E7%BB%8F-%E8%80%81%E5%AD%90-%E6%9C%AC%E7%BB%8F%E8%AF%91%E6%96%87-%E5%93%B2%E5%AD%A6/id1813795007?uo=4",
+      "genres": [
+        "社會科學",
+        "Podcast",
+        "科學",
+        "社會與文化",
+        "哲學"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 82,
+      "releaseDate": "2025-05-11T23:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會科學"
+    },
+    {
+      "collectionId": 1685857556,
+      "trackId": 1685857556,
+      "collectionName": "哲學五厘米",
+      "artistName": "陶國璋",
+      "feedUrl": "https://anchor.fm/s/e08bd9a0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%B8%E4%BA%94%E5%8E%98%E7%B1%B3/id1685857556?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 76,
+      "releaseDate": "2023-12-31T01:32:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1713060073,
+      "trackId": 1713060073,
+      "collectionName": "种菜哲学",
+      "artistName": "天空nini",
+      "feedUrl": "https://feed.xyzfm.space/rl6n79j3qf4n",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%A7%8D%E8%8F%9C%E5%93%B2%E5%AD%A6/id1713060073?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 92,
+      "releaseDate": "2026-10-15T23:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1892793216,
+      "trackId": 1892793216,
+      "collectionName": "哲學經典有聲書（建置中）",
+      "artistName": "HP",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmnvdiksg094o01ylg6f73l3q",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%B8%E7%B6%93%E5%85%B8%E6%9C%89%E8%81%B2%E6%9B%B8-%E5%BB%BA%E7%BD%AE%E4%B8%AD/id1892793216?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化",
+        "歷史"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2026-04-25T15:56:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1813596559,
+      "trackId": 1813596559,
+      "collectionName": "小題大作の生活哲學",
+      "artistName": "貝小姐&鍥小姐",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmai4ueeb050k01vmemsmgehy",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B0%8F%E9%A1%8C%E5%A4%A7%E4%BD%9C%E3%81%AE%E7%94%9F%E6%B4%BB%E5%93%B2%E5%AD%B8/id1813596559?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "哲學"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2026-08-03T14:24:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1804331711,
+      "trackId": 1804331711,
+      "collectionName": "个人知识：朝向后批判哲学，迈克尔·波兰尼 著",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/81343428.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86-%E6%9C%9D%E5%90%91%E5%90%8E%E6%89%B9%E5%88%A4%E5%93%B2%E5%AD%A6-%E8%BF%88%E5%85%8B%E5%B0%94-%E6%B3%A2%E5%85%B0%E5%B0%BC-%E8%91%97/id1804331711?uo=4",
+      "genres": [
+        "社會科學",
+        "Podcast",
+        "科學",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 151,
+      "releaseDate": "2024-06-01T14:28:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會科學"
+    },
+    {
+      "collectionId": 1692794646,
+      "trackId": 1692794646,
+      "collectionName": "人大社·哲学文库·文化与政治：西方马克思主义研究",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/76501151.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BA%BA%E5%A4%A7%E7%A4%BE-%E5%93%B2%E5%AD%A6%E6%96%87%E5%BA%93-%E6%96%87%E5%8C%96%E4%B8%8E%E6%94%BF%E6%B2%BB-%E8%A5%BF%E6%96%B9%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E7%A0%94%E7%A9%B6/id1692794646?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化",
+        "教育",
+        "課程"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1304",
+        "1501"
+      ],
+      "trackCount": 78,
+      "releaseDate": "2023-07-18T12:17:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1790589741,
+      "trackId": 1790589741,
+      "collectionName": "Sha Talk 心靈分享 - 情緒 思維 人生哲學 - 一齊活得更健康快樂 - By Shaliman 沙利文",
+      "artistName": "Shaliman 沙利文 - SHAcademy 創辦人",
+      "feedUrl": "https://anchor.fm/s/e08b672c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/sha-talk-%E5%BF%83%E9%9D%88%E5%88%86%E4%BA%AB-%E6%83%85%E7%B7%92-%E6%80%9D%E7%B6%AD-%E4%BA%BA%E7%94%9F%E5%93%B2%E5%AD%B8-%E4%B8%80%E9%BD%8A%E6%B4%BB%E5%BE%97%E6%9B%B4%E5%81%A5%E5%BA%B7%E5%BF%AB%E6%A8%82-by-shaliman-%E6%B2%99%E5%88%A9%E6%96%87/id1790589741?uo=4",
+      "genres": [
+        "心理健康",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512"
+      ],
+      "trackCount": 35,
+      "releaseDate": "2026-09-07T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1518327110,
+      "trackId": 1518327110,
+      "collectionName": "Clearing the Air 哲學十分鐘",
+      "artistName": "Miaofen Chen",
+      "feedUrl": "https://anchor.fm/s/261017e4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/clearing-the-air-%E5%93%B2%E5%AD%B8%E5%8D%81%E5%88%86%E9%90%98/id1518327110?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 37,
+      "releaseDate": "2022-11-17T13:34:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1477273339,
+      "trackId": 1477273339,
+      "collectionName": "哲學唸唸唸",
+      "artistName": "Lô Kun-lîm",
+      "feedUrl": "https://anchor.fm/s/d729978/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%B8%E5%94%B8%E5%94%B8%E5%94%B8/id1477273339?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2019-09-21T15:26:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1716917944,
+      "trackId": 1716917944,
+      "collectionName": "我們的生涯慢哲學",
+      "artistName": "Eunice",
+      "feedUrl": "https://anchor.fm/s/e905005c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%88%91%E5%80%91%E7%9A%84%E7%94%9F%E6%B6%AF%E6%85%A2%E5%93%B2%E5%AD%B8/id1716917944?uo=4",
+      "genres": [
+        "心理健康",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1517",
+        "26",
+        "1512"
+      ],
+      "trackCount": 31,
+      "releaseDate": "2024-03-15T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "心理健康"
+    },
+    {
+      "collectionId": 1546031352,
+      "trackId": 1546031352,
+      "collectionName": "鍾旭 易經占卜 哲學諮詢",
+      "artistName": "鍾 旭",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckiwj73uookac08282zibfbrg",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%8D%BE%E6%97%AD-%E6%98%93%E7%B6%93%E5%8D%A0%E5%8D%9C-%E5%93%B2%E5%AD%B8%E8%AB%AE%E8%A9%A2/id1546031352?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2022-12-26T07:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1745443560,
+      "trackId": 1745443560,
+      "collectionName": "哲思解憂會客室",
+      "artistName": "哲學諮商會客室",
+      "feedUrl": "https://anchor.fm/s/f4da05a8/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E6%80%9D%E8%A7%A3%E6%86%82%E6%9C%83%E5%AE%A2%E5%AE%A4/id1745443560?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 23,
+      "releaseDate": "2026-08-09T10:46:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1711158462,
+      "trackId": 1711158462,
+      "collectionName": "哲學研究了沒",
+      "artistName": "小佑",
+      "feedUrl": "https://feed.firstory.me/rss/user/clhomr04u06m601uz10aoeqnd",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%B8%E7%A0%94%E7%A9%B6%E4%BA%86%E6%B2%92/id1711158462?uo=4",
+      "genres": [
+        "紀實",
+        "Podcast",
+        "社會與文化",
+        "歷史"
+      ],
+      "genreIds": [
+        "1543",
+        "26",
+        "1324",
+        "1487"
+      ],
+      "trackCount": 13,
+      "releaseDate": "2023-11-13T13:13:00Z",
+      "country": "TWN",
+      "primaryGenreName": "紀實"
+    },
+    {
+      "collectionId": 6781596736,
+      "trackId": 6781596736,
+      "collectionName": "【10分教養】哲学と歴史を学ぶ～テンミニッツ・アカデミー",
+      "artistName": "テンミニッツ・アカデミー編集部",
+      "feedUrl": "https://anchor.fm/s/112e2657c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/10%E5%88%86%E6%95%99%E9%A4%8A-%E5%93%B2%E5%AD%A6%E3%81%A8%E6%AD%B4%E5%8F%B2%E3%82%92%E5%AD%A6%E3%81%B6-%E3%83%86%E3%83%B3%E3%83%9F%E3%83%8B%E3%83%83%E3%83%84-%E3%82%A2%E3%82%AB%E3%83%87%E3%83%9F%E3%83%BC/id6781596736?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 62,
+      "releaseDate": "2026-10-24T22:45:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1896769128,
+      "trackId": 1896769128,
+      "collectionName": "《沉思錄》 丨羅馬哲學皇帝 馬可奧勒留丨廣東話丨陳老C",
+      "artistName": "Crazymrchan",
+      "feedUrl": "https://anchor.fm/s/112c7ea94/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B2%89%E6%80%9D%E9%8C%84-%E4%B8%A8%E7%BE%85%E9%A6%AC%E5%93%B2%E5%AD%B8%E7%9A%87%E5%B8%9D-%E9%A6%AC%E5%8F%AF%E5%A5%A7%E5%8B%92%E7%95%99%E4%B8%A8%E5%BB%A3%E6%9D%B1%E8%A9%B1%E4%B8%A8%E9%99%B3%E8%80%81c/id1896769128?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 12,
+      "releaseDate": "2026-05-19T15:32:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1573102276,
+      "trackId": 1573102276,
+      "collectionName": "棒賽哲學",
+      "artistName": "駱政宇",
+      "feedUrl": "https://anchor.fm/s/5f387764/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%A3%92%E8%B3%BD%E5%93%B2%E5%AD%B8/id1573102276?uo=4",
+      "genres": [
+        "棒球",
+        "Podcast",
+        "運動"
+      ],
+      "genreIds": [
+        "1549",
+        "26",
+        "1545"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2022-03-26T10:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "棒球"
+    },
+    {
+      "collectionId": 1896591350,
+      "trackId": 1896591350,
+      "collectionName": "哲學普拉提還是普拉提哲學",
+      "artistName": "Philosophy Pilates",
+      "feedUrl": "https://anchor.fm/s/1122497a4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%B8%E6%99%AE%E6%8B%89%E6%8F%90%E9%82%84%E6%98%AF%E6%99%AE%E6%8B%89%E6%8F%90%E5%93%B2%E5%AD%B8/id1896591350?uo=4",
+      "genres": [
+        "健康與瘦身",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1512",
+        "26"
+      ],
+      "trackCount": 37,
+      "releaseDate": "2026-10-25T13:06:00Z",
+      "country": "TWN",
+      "primaryGenreName": "健康與瘦身"
+    },
+    {
+      "collectionId": 6814137183,
+      "trackId": 6814137183,
+      "collectionName": "姚迪的深度对谈播客 — 法律、科技与哲学 (Yao Di)",
+      "artistName": "Yao Di (姚迪)",
+      "feedUrl": "https://theyaodi.com/podcast.zh.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A7%9A%E8%BF%AA%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%AF%B9%E8%B0%88%E6%92%AD%E5%AE%A2-%E6%B3%95%E5%BE%8B-%E7%A7%91%E6%8A%80%E4%B8%8E%E5%93%B2%E5%AD%A6-yao-di/id6814137183?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "科技"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1318"
+      ],
+      "trackCount": 32,
+      "releaseDate": "2026-10-22T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1820118155,
+      "trackId": 1820118155,
+      "collectionName": "男子俱樂部的聊天室｜男人的幹話與哲學",
+      "artistName": "男子俱樂部的聊天室",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/27fa9d3f-2a1a-472e-9cd0-77e16293fadd.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%94%B7%E5%AD%90%E4%BF%B1%E6%A8%82%E9%83%A8%E7%9A%84%E8%81%8A%E5%A4%A9%E5%AE%A4-%E7%94%B7%E4%BA%BA%E7%9A%84%E5%B9%B9%E8%A9%B1%E8%88%87%E5%93%B2%E5%AD%B8/id1820118155?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2025-07-10T04:44:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1224548575,
+      "trackId": 1224548575,
+      "collectionName": "马克思丨唯物辩证法",
+      "artistName": "一合哲学",
+      "feedUrl": "http://www.ximalaya.com/album/6256948.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%A8%E5%94%AF%E7%89%A9%E8%BE%A9%E8%AF%81%E6%B3%95/id1224548575?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 83,
+      "releaseDate": "2022-08-18T15:53:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1863924954,
+      "trackId": 1863924954,
+      "collectionName": "Z世代哲學",
+      "artistName": "言同學,洗洗,Lulu,滋滋",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmjjsjxr8000001x0dpdq6c9y",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/z%E4%B8%96%E4%BB%A3%E5%93%B2%E5%AD%B8/id1863924954?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 20,
+      "releaseDate": "2026-06-23T15:34:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1676892723,
+      "trackId": 1676892723,
+      "collectionName": "しょーごくん＆きよポンの『おもしろ投資哲学』",
+      "artistName": "しょーごくん&きよポンのおもしろ投資哲学",
+      "feedUrl": "https://anchor.fm/s/daf92808/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%81%97%E3%82%87%E3%83%BC%E3%81%94%E3%81%8F%E3%82%93-%E3%81%8D%E3%82%88%E3%83%9D%E3%83%B3%E3%81%AE-%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D%E6%8A%95%E8%B3%87%E5%93%B2%E5%AD%A6/id1676892723?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321"
+      ],
+      "trackCount": 193,
+      "releaseDate": "2026-10-21T23:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 1583790413,
+      "trackId": 1583790413,
+      "collectionName": "深夜哲學Bar",
+      "artistName": "Joan",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/3df58cea-9bfd-4fd2-93fe-790459599400.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B7%B1%E5%A4%9C%E5%93%B2%E5%AD%B8bar/id1583790413?uo=4",
+      "genres": [
+        "喜劇",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1303",
+        "26",
+        "1304"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-08-31T15:16:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇"
+    },
+    {
+      "collectionId": 1598329483,
+      "trackId": 1598329483,
+      "collectionName": "佛教哲学（新佛学）",
+      "artistName": "西陌听书",
+      "feedUrl": "http://www.ximalaya.com/album/50634195.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BD%9B%E6%95%99%E5%93%B2%E5%AD%A6-%E6%96%B0%E4%BD%9B%E5%AD%A6/id1598329483?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化",
+        "宗教與精神生活",
+        "佛教"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1314",
+        "1438"
+      ],
+      "trackCount": 369,
+      "releaseDate": "2026-01-01T01:33:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1712626552,
+      "trackId": 1712626552,
+      "collectionName": "LIFE TALK　-ビジネスリーダーが語る「暮らしの哲学」-",
+      "artistName": "日鉄興和不動産 ライフデザイン総研",
+      "feedUrl": "https://feeds.megaphone.fm/lifetalk",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/life-talk-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%8C%E8%AA%9E%E3%82%8B-%E6%9A%AE%E3%82%89%E3%81%97%E3%81%AE%E5%93%B2%E5%AD%A6/id1712626552?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "創業"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1493"
+      ],
+      "trackCount": 30,
+      "releaseDate": "2026-02-15T21:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 1828933114,
+      "trackId": 1828933114,
+      "collectionName": "うみゆりぃの心ほどける夜語り｜アート｜歌｜小説｜時間哲学",
+      "artistName": "うみゆりぃ|クロノ×エッセイスト″美しく生きる秘密″",
+      "feedUrl": "https://stand.fm/rss/6399d536df23c21009bf3f50",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%81%86%E3%81%BF%E3%82%86%E3%82%8A%E3%81%83%E3%81%AE%E5%BF%83%E3%81%BB%E3%81%A9%E3%81%91%E3%82%8B%E5%A4%9C%E8%AA%9E%E3%82%8A-%E3%82%A2%E3%83%BC%E3%83%88-%E6%AD%8C-%E5%B0%8F%E8%AA%AC-%E6%99%82%E9%96%93%E5%93%B2%E5%AD%A6/id1828933114?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 51,
+      "releaseDate": "2025-08-27T12:55:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1642283983,
+      "trackId": 1642283983,
+      "collectionName": "哲學工程師",
+      "artistName": "艾希",
+      "feedUrl": "https://feed.firstory.me/rss/user/cl64qkqgq00ln01sb6gw5baly",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%B8%E5%B7%A5%E7%A8%8B%E5%B8%AB/id1642283983?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 38,
+      "releaseDate": "2025-11-30T16:10:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1614176399,
+      "trackId": 1614176399,
+      "collectionName": "冬菇妹成長哲學",
+      "artistName": "冬菇妹",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/feb2001a-f0b9-43b6-8563-d7bbc94ca684.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%86%AC%E8%8F%87%E5%A6%B9%E6%88%90%E9%95%B7%E5%93%B2%E5%AD%B8/id1614176399?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "宗教與精神生活"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1314"
+      ],
+      "trackCount": 28,
+      "releaseDate": "2026-08-31T09:38:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1462849901,
+      "trackId": 1462849901,
+      "collectionName": "哲学治愈音乐·第2季",
+      "artistName": "书杰",
+      "feedUrl": "http://www.ximalaya.com/album/10844417.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%A6%E6%B2%BB%E6%84%88%E9%9F%B3%E4%B9%90-%E7%AC%AC2%E5%AD%A3/id1462849901?uo=4",
+      "genres": [
+        "音樂",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1310",
+        "26"
+      ],
+      "trackCount": 87,
+      "releaseDate": "2017-10-01T08:29:00Z",
+      "country": "TWN",
+      "primaryGenreName": "音樂"
+    },
+    {
+      "collectionId": 1617520472,
+      "trackId": 1617520472,
+      "collectionName": "ストーリーとしての思想哲学",
+      "artistName": "思想染色",
+      "feedUrl": "https://anchor.fm/s/89a15598/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E6%80%9D%E6%83%B3%E5%93%B2%E5%AD%A6/id1617520472?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 148,
+      "releaseDate": "2026-07-12T03:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1848842754,
+      "trackId": 1848842754,
+      "collectionName": "《西方哲学史》阅读笔记",
+      "artistName": "HubeiLaoCast",
+      "feedUrl": "https://anchor.fm/s/10af30bb4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6%E5%8F%B2-%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/id1848842754?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2025-10-27T12:12:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1810464766,
+      "trackId": 1810464766,
+      "collectionName": "ちょっぴり賢くなれる夜｜世界史・哲学・宗教・科学の話",
+      "artistName": "ジェリー",
+      "feedUrl": "https://anchor.fm/s/1040a40c4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%81%A1%E3%82%87%E3%81%A3%E3%81%B4%E3%82%8A%E8%B3%A2%E3%81%8F%E3%81%AA%E3%82%8C%E3%82%8B%E5%A4%9C-%E4%B8%96%E7%95%8C%E5%8F%B2-%E5%93%B2%E5%AD%A6-%E5%AE%97%E6%95%99-%E7%A7%91%E5%AD%A6%E3%81%AE%E8%A9%B1/id1810464766?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 35,
+      "releaseDate": "2026-10-12T08:15:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1820467906,
+      "trackId": 1820467906,
+      "collectionName": "ながら哲学",
+      "artistName": "ユンユン",
+      "feedUrl": "https://anchor.fm/s/1052a6f60/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E3%81%AA%E3%81%8C%E3%82%89%E5%93%B2%E5%AD%A6/id1820467906?uo=4",
+      "genres": [
+        "哲學",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324"
+      ],
+      "trackCount": 20,
+      "releaseDate": "2026-03-07T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "哲學"
+    },
+    {
+      "collectionId": 1678468327,
+      "trackId": 1678468327,
+      "collectionName": "夜ふかしの読み明かし【読書・哲学】",
+      "artistName": "文化放送PodcastQR",
+      "feedUrl": "https://feeds.megaphone.fm/NCB3272912411",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%9C%E3%81%B5%E3%81%8B%E3%81%97%E3%81%AE%E8%AA%AD%E3%81%BF%E6%98%8E%E3%81%8B%E3%81%97-%E8%AA%AD%E6%9B%B8-%E5%93%B2%E5%AD%A6/id1678468327?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1301"
+      ],
+      "trackCount": 111,
+      "releaseDate": "2025-03-25T16:35:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1752337126,
+      "trackId": 1752337126,
+      "collectionName": "菁式記錄",
+      "artistName": "菁式記錄哲學諮商師 吳黛菁",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/799946ef-0ad5-4adb-af47-ff8750892c6e.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%8F%81%E5%BC%8F%E8%A8%98%E9%8C%84/id1752337126?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育",
+        "藝術"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1301"
+      ],
+      "trackCount": 47,
+      "releaseDate": "2024-09-03T00:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1663688235,
+      "trackId": 1663688235,
+      "collectionName": "愛月夜眠遲",
+      "artistName": "哲學腦",
+      "feedUrl": "https://feed.firstory.me/rss/user/clcmx56yj018b01yod8itbhvp",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%84%9B%E6%9C%88%E5%A4%9C%E7%9C%A0%E9%81%B2/id1663688235?uo=4",
+      "genres": [
+        "另類醫學",
+        "Podcast",
+        "健康與瘦身",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1513",
+        "26",
+        "1512",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2026-10-10T15:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "另類醫學"
+    },
+    {
+      "collectionId": 1653573393,
+      "trackId": 1653573393,
+      "collectionName": "优内容 《哲学+》",
+      "artistName": "YOU Streaming",
+      "feedUrl": "https://feeds.megaphone.fm/SOODO2965778024",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BC%98%E5%86%85%E5%AE%B9-%E5%93%B2%E5%AD%A6/id1653573393?uo=4",
+      "genres": [
+        "教育",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "trackCount": 42,
+      "releaseDate": "2023-12-20T09:12:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1657910436,
+      "trackId": 1657910436,
+      "collectionName": "小王子，阅读率最高的童话哲学书（中文女声版）",
+      "artistName": "鼎好听",
+      "feedUrl": "https://www.ximalaya.com/album/72883440.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B0%8F%E7%8E%8B%E5%AD%90-%E9%98%85%E8%AF%BB%E7%8E%87%E6%9C%80%E9%AB%98%E7%9A%84%E7%AB%A5%E8%AF%9D%E5%93%B2%E5%AD%A6%E4%B9%A6-%E4%B8%AD%E6%96%87%E5%A5%B3%E5%A3%B0%E7%89%88/id1657910436?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育",
+        "兒童與家庭",
+        "兒童教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1305",
+        "1519"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2022-12-09T09:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1705601081,
+      "trackId": 1705601081,
+      "collectionName": "愛月夜眠遲",
+      "artistName": "哲學腦",
+      "feedUrl": "https://feed.firstory.me/rss/user/clcmx56yj018b01yod8itbhvp",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%84%9B%E6%9C%88%E5%A4%9C%E7%9C%A0%E9%81%B2/id1705601081?uo=4",
+      "genres": [
+        "另類醫學",
+        "Podcast",
+        "健康與瘦身",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1513",
+        "26",
+        "1512",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2026-10-10T15:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "另類醫學"
+    },
+    {
+      "collectionId": 1895093732,
+      "trackId": 1895093732,
+      "collectionName": "于东来哲学 | 胖东来成功和生活幸福的秘诀",
+      "artistName": "阿坑是个坑",
+      "feedUrl": "https://www.ximalaya.com/album/120423663.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%93%B2%E5%AD%A6-%E8%83%96%E4%B8%9C%E6%9D%A5%E6%88%90%E5%8A%9F%E5%92%8C%E7%94%9F%E6%B4%BB%E5%B9%B8%E7%A6%8F%E7%9A%84%E7%A7%98%E8%AF%80/id1895093732?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "商業",
+        "管理"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1321",
+        "1491"
+      ],
+      "trackCount": 181,
+      "releaseDate": "2026-09-17T04:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1813336443,
+      "trackId": 1813336443,
+      "collectionName": "哲學很簡單",
+      "artistName": "吳復國",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmageu7gw161701y48vt0aopx",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%B2%E5%AD%B8%E5%BE%88%E7%B0%A1%E5%96%AE/id1813336443?uo=4",
+      "genres": [
+        "社會科學",
+        "Podcast",
+        "科學",
+        "社會與文化",
+        "哲學"
+      ],
+      "genreIds": [
+        "1535",
+        "26",
+        "1533",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2025-05-23T07:57:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會科學"
+    }
+  ]
+}

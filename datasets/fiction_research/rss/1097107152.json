@@ -1,0 +1,70 @@
+{
+  "show_id": "1097107152",
+  "feed_url": "http://www.ximalaya.com/album/3865985.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/3865985.xml",
+    "final_url": "http://www.ximalaya.com/album/3865985.xml",
+    "fetched_at": "2026-10-25T14:41:18.213541+00:00",
+    "status": 200,
+    "sha256": "2edf06d3fb279ada1d736bd91fe2723e245fa0565d5ef4495879a5800dd710db"
+  },
+  "status": "ok",
+  "title": {
+    "text": "纯爱广播剧【晓满】与你相遇的那个夏天",
+    "truncated": false
+  },
+  "description": {
+    "text": "晓满 由于家庭原因从城市来到到乡下小镇，暂住在亲戚家的少女 晓满 遇到同龄少年阿涛，在这个特别的夏季，两个人为自己青春岁月，划下了那淡淡的蓝色忧伤……",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 3,
+  "episodes": [
+    {
+      "id": "cd6d56c832d9e6efa0caba56d54372a759620f460b8638954cb9c0e909d038c6",
+      "guid": "https://aod.cos.tx.xmcdn.com/group11/M07/12/D0/wKgDa1bmZBKD6CvvACo7IOGCRRo867.m4a",
+      "title": {
+        "text": "与你相遇的那个夏天【晓满】初见篇纯爱广播剧第一期",
+        "truncated": false
+      },
+      "description": {
+        "text": "CAST 晓满 - 子沐 阿涛 - 希罗 STAFF 策划：黑小雨 编剧：李昱辉 导演：黑雨 后期：黑小雨",
+        "truncated": false
+      },
+      "published_at": "Mon, 14 Mar 2016 07:16:04 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "c40ac33590fb7fb049c9e64cdfdd259e801579a856de554ac39ebf83314a6faf",
+      "guid": "https://aod.cos.tx.xmcdn.com/group13/M06/20/DC/wKgDXVbmYdKjOi4OACuMdjHg7rQ469.m4a",
+      "title": {
+        "text": "纯爱广播剧【晓满】ED",
+        "truncated": false
+      },
+      "description": {
+        "text": "演唱 小夏天 歌词 与你在这最后的夏天 抹不去的思念 斜阳里的微笑 渐行渐远 六月的微风吹散你的泪光 深深地铭刻心间 难以忘却 逝去的昨天 最美的期愿 寥寥草草 试卷飞舞 字里行间 昏昏沉沉 之乎者也 乘除加减 你总是这样微微笑着仿佛在说：“我在身边……” 答案我也本想问问你的意见 可面红耳赤心跳加速有口难言 真是的 我这样 口是心非会不会被你讨厌 啊……夜空绽放的烟花 点燃每一个盛夏 总让我莫名伤感 时光像风儿一样 悄悄地消失流淌 晨光映彩霞 夕阳茜风中 你牵着我 走在熟悉的街旁 直到尽头 依依不舍地紧紧相拥 与你在这最后的夏天 抹不去的思念 斜阳里的微笑 渐行渐远 六月的微风吹散你的泪光 深深地铭刻心间 难以忘却 与你许下这最后诺言微笑着离别的夏天 期待与你的重逢 绝不改变 请记得我们一定能够在那遥远的某天再次牵手相见 逝去的昨天 最美的期愿 啊……教室外树影悠扬 不经意蝉鸣声声 总让我不住回想 啊……就算是月色光芒 阴晴圆缺也惆怅 春樱弱枝头 秋枫碎叶红 我依偎着 静静在你的怀中 直到尽头 依依不舍地紧紧相拥 与你许下这最后诺言微笑着离别的夏天 期待与你的重逢 绝不改变 请记得我们一定能够在那遥远的某天再次牵手相见 逝去的昨天 最美的期愿 光阴如梦 往日随风 来不及说出口 你脸颊的泪痕 心随着开始汹涌 请不要再忘记我 微笑请留给我 直到尽头 依依不舍地紧紧相拥 与你在这最后的",
+        "truncated": true
+      },
+      "published_at": "Mon, 14 Mar 2016 07:06:20 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "338a322d6278a825512a5ac5cfa02e1cfd7857295f1d91d08165ed8d9ec09f82",
+      "guid": "https://aod.cos.tx.xmcdn.com/group13/M05/20/51/wKgDXlbllx6D5HkuAAIh1Ja3xGE746.m4a",
+      "title": {
+        "text": "【晓满】纯爱广播剧预告",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 13 Mar 2016 16:51:45 GMT",
+      "feed_index": 2
+    }
+  ]
+}

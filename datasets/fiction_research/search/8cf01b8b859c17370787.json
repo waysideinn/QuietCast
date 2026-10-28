@@ -1,0 +1,101 @@
+{
+  "group": "normal",
+  "term": "科技播客",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%A7%91%E6%8A%80%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%A7%91%E6%8A%80%E6%92%AD%E5%AE%A2&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:42:46.294447+00:00",
+    "status": 200,
+    "sha256": "a00ed1142b7ddeba085b13fb616ef87354bbdb25d6a7093b5e2601e645b6ac22"
+  },
+  "result_count": 4,
+  "records": [
+    {
+      "collectionId": 1755866458,
+      "trackId": 1755866458,
+      "collectionName": "牛言牛语｜跑步科技播客",
+      "artistName": "李二牛li2niu",
+      "feedUrl": "https://feed.xyzfm.space/eq6l7v3hwnmx",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%89%9B%E8%A8%80%E7%89%9B%E8%AF%AD-%E8%B7%91%E6%AD%A5%E7%A7%91%E6%8A%80%E6%92%AD%E5%AE%A2/id1755866458?uo=4",
+      "genres": [
+        "科技",
+        "Podcast",
+        "運動"
+      ],
+      "genreIds": [
+        "1318",
+        "26",
+        "1545"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2025-05-13T04:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1607631971,
+      "trackId": 1607631971,
+      "collectionName": "辣之有物．播客評播客",
+      "artistName": "聲鮮時采科技、崑崑、KJ",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckyz8dpzw06r70851buawsuqj",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%BE%A3%E4%B9%8B%E6%9C%89%E7%89%A9-%E6%92%AD%E5%AE%A2%E8%A9%95%E6%92%AD%E5%AE%A2/id1607631971?uo=4",
+      "genres": [
+        "嗜好",
+        "Podcast",
+        "休閒"
+      ],
+      "genreIds": [
+        "1505",
+        "26",
+        "1502"
+      ],
+      "trackCount": 46,
+      "releaseDate": "2023-01-15T21:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "嗜好"
+    },
+    {
+      "collectionId": 1720679175,
+      "trackId": 1720679175,
+      "collectionName": "女力播客聯盟自主發聲平台",
+      "artistName": "聲鮮時采科技",
+      "feedUrl": "https://feed.firstory.me/rss/user/clpi1c2o602ps011ge9562it1",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A5%B3%E5%8A%9B%E6%92%AD%E5%AE%A2%E8%81%AF%E7%9B%9F%E8%87%AA%E4%B8%BB%E7%99%BC%E8%81%B2%E5%B9%B3%E5%8F%B0/id1720679175?uo=4",
+      "genres": [
+        "政府",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1511",
+        "26"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2023-12-11T06:27:00Z",
+      "country": "TWN",
+      "primaryGenreName": "政府"
+    },
+    {
+      "collectionId": 6814137183,
+      "trackId": 6814137183,
+      "collectionName": "姚迪的深度对谈播客 — 法律、科技与哲学 (Yao Di)",
+      "artistName": "Yao Di (姚迪)",
+      "feedUrl": "https://theyaodi.com/podcast.zh.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A7%9A%E8%BF%AA%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%AF%B9%E8%B0%88%E6%92%AD%E5%AE%A2-%E6%B3%95%E5%BE%8B-%E7%A7%91%E6%8A%80%E4%B8%8E%E5%93%B2%E5%AD%A6-yao-di/id6814137183?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "科技"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1318"
+      ],
+      "trackCount": 32,
+      "releaseDate": "2026-10-22T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1496893742",
+  "feed_url": "https://ad.robotstart.jp/api/v1/feeds/34fa0481/get-feeds/podcast",
+  "source": {
+    "url": "https://ad.robotstart.jp/api/v1/feeds/34fa0481/get-feeds/podcast",
+    "final_url": "https://ad.robotstart.jp/api/v1/feeds/34fa0481/get-feeds/podcast",
+    "fetched_at": "2026-10-25T14:51:32.529156+00:00",
+    "status": 200,
+    "sha256": "3de64a7f8f5e106d7f14097ba7b3cd3d790b084ba3122f1d5437889f270c42ab"
+  },
+  "status": "ok",
+  "title": {
+    "text": "早稲田スポーツ新聞会",
+    "truncated": false
+  },
+  "description": {
+    "text": "『全ての体育各部に光を』をモットーに、44部全ての体育各部の動向を発信しています。学生だからこそ伝えられる早大生アスリートの姿をお届けできるよう、日々取材に励んでいます。ワセダのスポーツのことなら早スポをチェック！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja-JP",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 30,
+  "episodes": [
+    {
+      "id": "d435e72dc1f93db1c2abaef17cd1a69e57a22cacc43707ded4415d6171edc11b",
+      "guid": "6fdb5a54f328a11549a6c22ff092a3b1",
+      "title": {
+        "text": ",post_title",
+        "truncated": false
+      },
+      "description": {
+        "text": "ERRORのニュースです。 ,post_title",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Mar 2024 00:00:00 +0900",
+      "feed_index": 0
+    },
+    {
+      "id": "8cd93be534f19ed3b088b936ce42823a7c23d1b7ca44049d163e7628a2a6554f",
+      "guid": "74dc88700064255067f9c0a32b0277c5",
+      "title": {
+        "text": "【六大学交流戦】,post_title",
+        "truncated": false
+      },
+      "description": {
+        "text": "その他のニュースです。 【六大学交流戦】,post_title",
+        "truncated": false
+      },
+      "published_at": "Wed, 13 Mar 2024 00:00:00 +0900",
+      "feed_index": 4
+    },
+    {
+      "id": "05d5d39fb61d43ff32dc7acf0d461cdeeed40e785abcfe02e523fb8e66cf0bed",
+      "guid": "b8d70303b28653c83aecf74acdb6fffd",
+      "title": {
+        "text": "【連載】『令和５年度卒業記念特集』第35回 春名真平／準硬式野球",
+        "truncated": false
+      },
+      "description": {
+        "text": "その他のニュースです。 【連載】『令和５年度卒業記念特集』第35回 春名真平／準硬式野球 「苦しい」「悔しい」。野球人生を振り返る準硬式野球部令和５年度主将・春名真平は何度も口にした。決して順風満帆なキャリアではなく、周囲の選手との実力差や敗北を味わう時もあった。それでも、高い壁に挫けず、乗り換え続けてきたのが春名の野球人生。高校や大学での補欠時代を乗り越え、３年時にキャプテン役を経験すると、４年生の１年間は全体の主将として、チームを全日本大学選手権出場、東京六大学秋季リーグ戦優勝に導いた。苦しみながらも野球と向き合い続けた春名の戦いの軌跡を振り返る。",
+        "truncated": false
+      },
+      "published_at": "Sun, 10 Mar 2024 00:00:00 +0900",
+      "feed_index": 8
+    },
+    {
+      "id": "70a45e06b017be0d79f095f8acfcaff80b3c77cda554c81858c8bb36233559a5",
+      "guid": "52a2abb1aa9f681fe4d987617d1bfd30",
+      "title": {
+        "text": "【卒業生特集】【特集】第４回卒業生対談 藤澤将匡×ダグラス・ビューワーニック／フェンシング",
+        "truncated": false
+      },
+      "description": {
+        "text": "その他のニュースです。 【卒業生特集】【特集】第４回卒業生対談 藤澤将匡×ダグラス・ビューワーニック／フェンシング 卒業生対談の最終回に登場するのは、藤澤将匡主将とダグラス・ビューワーニックの男子フルーレ陣だ。２人は2022年の王座決定戦で、川村京太とともに優勝を果たし日本一に輝いた経験がある。実力があるがゆえに期待値が高く、最高学年としてのプレッシャーは人一倍であっただろうが、それを見事に跳ね除け最後まで戦い抜いた。小学校６年生からの長い付き合いである２人の、ユーモアあふれる対談をお楽しみあれ。",
+        "truncated": false
+      },
+      "published_at": "Thu, 07 Mar 2024 00:00:00 +0900",
+      "feed_index": 12
+    },
+    {
+      "id": "a3dd1546ac4dc40fd24c9d790d029f2a724aa5f31f17ed06a690173f97dc16c0",
+      "guid": "93586e969dbf111c0ae42cd020a8ecb1",
+      "title": {
+        "text": "【早大競技会】冬季合宿明け初の記録会で、練習の成果を確認！",
+        "truncated": false
+      },
+      "description": {
+        "text": "その他のニュースです。 【早大競技会】冬季合宿明け初の記録会で、練習の成果を確認！ ３月３日、織田幹雄記念陸上競技場にて早大競技会が開催された。早大勢は女子800mと女子やり投、男子走幅跳に計５名が出場。他の選手より一足先にシーズンインを迎えた。",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Mar 2024 00:00:00 +0900",
+      "feed_index": 17
+    },
+    {
+      "id": "2a4b0e747d8601c20cffb488ca7b1d9748b4715d5d164cb01c1cda223ad231c9",
+      "guid": "2373e2879f1af82286535e0e901bbb94",
+      "title": {
+        "text": "【連載】『令和５年度卒業記念特集』第26回 深田雄智／レスリング",
+        "truncated": false
+      },
+      "description": {
+        "text": "その他のニュースです。 【連載】『令和５年度卒業記念特集』第26回 深田雄智／レスリング 「考える」――。早大レスリング部で主将を務めた深田雄智は大学４年間をこう振り返る。どうしたら勝てるのかを常に考え、大学２年時には全日本学生選手権優勝、大学３年時には全日本選抜選手権３位などの結果を残した。最終年には志願して主将に就任。理想とした「結果を出せるキャプテン」には届かなかったが、チームに対する貢献は誰もが認めるものであった。試行錯誤し続けた深田の競技人生に迫る。",
+        "truncated": false
+      },
+      "published_at": "Fri, 01 Mar 2024 00:00:00 +0900",
+      "feed_index": 21
+    },
+    {
+      "id": "b080a745a4b212b292d48661105696787d72371901026c7912c9dc59aca22fab",
+      "guid": "b597633321f1d5cb5823661f46d67787",
+      "title": {
+        "text": "【全日本学生選手権】リレーで男女優勝！ 団体も６年ぶり２度目の男女総合優勝（２月19日）",
+        "truncated": false
+      },
+      "description": {
+        "text": "その他のニュースです。 【全日本学生選手権】リレーで男女優勝！ 団体も６年ぶり２度目の男女総合優勝（２月19日） 第97回全日本学生選手権最終日のこの日はクロスカントリーリレーが行われた。男女ともに他を寄せ付けない滑りで優勝。そして６年ぶり２度目となる男女団体総合優勝を成し遂げた。",
+        "truncated": false
+      },
+      "published_at": "Wed, 28 Feb 2024 00:00:00 +0900",
+      "feed_index": 25
+    },
+    {
+      "id": "79ce76f59144b4dde9622688cc63e62ad0b7638f14f6c2a823f9f17bb625e70b",
+      "guid": "b1aebe1c5f6d75543722e94cfdaa2cab",
+      "title": {
+        "text": "【全日本学生選手権】アルペン、コンバインドでも安定した実力見せる（２月17日）",
+        "truncated": false
+      },
+      "description": {
+        "text": "その他のニュースです。 【全日本学生選手権】アルペン、コンバインドでも安定した実力見せる（２月17日） 全日本学生選手権３日目、アルペン回転とノルディック複合が行われた。早大はこの日も出場した全種目で入賞。団体総合優勝に向けて着実にポイントを獲得していった。",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Feb 2024 00:00:00 +0900",
+      "feed_index": 29
+    }
+  ]
+}

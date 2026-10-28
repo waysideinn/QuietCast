@@ -1,0 +1,140 @@
+{
+  "show_id": "1593571618",
+  "feed_url": "https://rss.buzzsprout.com/1875895.rss",
+  "source": {
+    "url": "https://rss.buzzsprout.com/1875895.rss",
+    "final_url": "https://rss.buzzsprout.com/1875895.rss",
+    "fetched_at": "2026-10-25T14:43:20.617849+00:00",
+    "status": 200,
+    "sha256": "4b53c23f31e3f08da5b2362f91349fdd2a4f389b9f9897694b362690e0a83687"
+  },
+  "status": "ok",
+  "title": {
+    "text": "廣播劇Ｘ中華文化計劃 「古代傑出人物選舉2」",
+    "truncated": false
+  },
+  "description": {
+    "text": "「古代傑出人物選舉 2」計劃由香港都會大學人文社會科學院田家炳中華文化中心及創意藝術學系合辦。本計劃邀請在校修讀廣播劇創作學科的師生參與，為五位古代傑出人物製作廣播劇，介紹其生平事蹟及影響，讓聽眾輕鬆了解中國歷史文化。計劃希望藉著廣播劇的方式推廣中華文化，更開放予中小學學生投票及參加計劃轄下比賽，以嶄新方式認識古代傑出人物！（舉辦機構：香港都會大學人文社會科學院田家炳中華文化中心及創意藝術學系合辦）",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 15,
+  "episodes": [
+    {
+      "id": "03488c520374b9bcc402f41831a6ae6264befb2abc3c5224f15d0125b14f1b7c",
+      "guid": "Buzzsprout-12185446",
+      "title": {
+        "text": "軍事代表：韓信篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "一天，閻羅王正在OT時，黑、白無常慌張趕到，聲稱有一個大人物來到地府並且想回到人間……",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Feb 2023 13:00:00 +0800",
+      "feed_index": 0
+    },
+    {
+      "id": "449270d9dd62336eb344e4ee29e1fa5ce8052aef95cf3c8d6e9d0e194e31b722",
+      "guid": "Buzzsprout-12185441",
+      "title": {
+        "text": "醫學代表：華佗篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "本劇講述了華佗一生事蹟。故事始於華佗少年時遇見神秘的未來人，得知自己將在牢獄中孤苦地死去，但他仍然堅持理想，學醫救人。數年後華佗學有所成，懸壺濟世，但卻因不願意成為曹操侍醫而身困牢獄。雖然華佗身披刑戮，遺作也未能傳世，他仍無悔當初的選擇。",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Feb 2023 13:00:00 +0800",
+      "feed_index": 2
+    },
+    {
+      "id": "06314a13feafa50dd43fc11ad340c4e8059a6a91b9565a6f08c9526ff4bd3c17",
+      "guid": "Buzzsprout-12185433",
+      "title": {
+        "text": "佛家代表：玄奘篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "故事講述玄奘意外地穿越到現代，與三位現代人——沙僧、悟空和八戒在榕樹頭下相遇。在三人的好奇和追問下，他道出了自己追求佛法的各種經歷和感悟。最後，玄奘在回到唐朝前將沙僧、悟空和八戒收為徒弟，期望佛法在現代繼續傳承，普渡眾生。",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Feb 2023 13:00:00 +0800",
+      "feed_index": 4
+    },
+    {
+      "id": "157550a8b1fe3b58a5fa712708abf4ff1a7b5e1f65dfd5722071c96089a725b2",
+      "guid": "Buzzsprout-9418757",
+      "title": {
+        "text": "軍事代表：衛青篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "漢武帝劉徹因匈奴多年侵擾邊境而苦惱，衛子夫推薦她的弟弟衛青出征。衛青受命為將軍率兵攻打匈奴，最終凱旋回歸。",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 Oct 2021 22:00:00 +0800",
+      "feed_index": 6
+    },
+    {
+      "id": "8e0457248e325f67cfb269f8b8efa02102f9eedf7baa159595a2a1b97b1d9619",
+      "guid": "Buzzsprout-9418752",
+      "title": {
+        "text": "文學代表：蘇軾篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "本劇以蘇軾入獄開始，描寫他被貶黃州後如何積極面對生命的攔阻，帶出他豁達的生活態度，亦從中介紹蘇軾的作品，表現他作品的優越。",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 Oct 2021 20:00:00 +0800",
+      "feed_index": 8
+    },
+    {
+      "id": "d653f7e31ee98adae3a7d3a85b99094b24179c9cd7f4415c097fa19b073d9697",
+      "guid": "Buzzsprout-9418748",
+      "title": {
+        "text": "名臣代表：文天祥篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "故事主角李希原想放棄足球隊友而投靠另一枝球隊。後來，他在一次穿越時空而認識文天祥，並與文天祥一同經歷被張弘範逼降的歷史事件，李希被文天祥誓不投降的精神所觸動，最後繼續與隊友並肩作戰，一起取得勝利。",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 Oct 2021 18:00:00 +0800",
+      "feed_index": 10
+    },
+    {
+      "id": "b7a4f1903f38d493bba6ba541ae3628168c5645d9c10801a849caee2e45e7c84",
+      "guid": "Buzzsprout-9418744",
+      "title": {
+        "text": "女性代表：周瑩篇",
+        "truncated": false
+      },
+      "description": {
+        "text": "故事由周瑩的訪問開展。訪問中，大家可以了解周瑩的生平和賑災的事件經過。究竟周瑩如何身體力行幫助老百姓呢？周瑩又如何令擔心生意虧損的管事們信服呢？從中，我們可以認識周瑩是一個營商有道、關愛百姓和國家的商人。",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 Oct 2021 16:00:00 +0800",
+      "feed_index": 12
+    },
+    {
+      "id": "9612d5c7df48b8e686afe78984c2c3a92caf7c7778c04efed535cd7b3f7fd1f3",
+      "guid": "Buzzsprout-9418740",
+      "title": {
+        "text": "終章（老師篇）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 23 Oct 2021 14:00:00 +0800",
+      "feed_index": 14
+    }
+  ]
+}

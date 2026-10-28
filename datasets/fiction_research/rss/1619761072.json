@@ -1,0 +1,140 @@
+{
+  "show_id": "1619761072",
+  "feed_url": "http://www.ximalaya.com/album/64107657.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/64107657.xml",
+    "final_url": "http://www.ximalaya.com/album/64107657.xml",
+    "fetched_at": "2026-10-25T14:55:35.958192+00:00",
+    "status": 200,
+    "sha256": "8c70546e71bd50725773083562a5abe5ed6ae8b1328fd1e0219ca6109d94f49b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "夜听解忧｜艺秋电台 情感FM",
+    "truncated": false
+  },
+  "description": {
+    "text": "【节目更新】每晚9点更新，欢迎订阅 艺秋—喜马拉雅认证作家，职业有声演播人，《艺秋电台》专注夜听情感领域。 感谢您的每一次聆听，冷暖远近，都是继续的力量。 希望能够给《艺秋电台》专辑打个满分支持！ 也欢迎您在评论区留言，也许明天的主题，就是您的故事！ 我会认真回复每一条留言，感谢您的每一条文字！ 我想陪您度过所有孤独的夜晚，带走您所有的忧伤，让您忘却烦恼，陪您进入梦乡。 愿您的梦都是温暖的，都是甜的~",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 77,
+  "episodes": [
+    {
+      "id": "7d0d300a9e6c22a13ec29224088a34f33e4046664396f9ce8c14fa860dfad19c",
+      "guid": "xmly_track_525541323",
+      "title": {
+        "text": "《艺秋电台》做自己的摆渡人",
+        "truncated": false
+      },
+      "description": {
+        "text": "做自己的摆渡人",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 Apr 2022 13:17:15 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "0c0b04cda1f6432231556ebd127ce20f5b8aa603131d86951dd6de6612e247bc",
+      "guid": "xmly_track_528089902",
+      "title": {
+        "text": "《艺秋电台》一段路，你总要一个人去走",
+        "truncated": false
+      },
+      "description": {
+        "text": "一段路，你总要一个人去走",
+        "truncated": false
+      },
+      "published_at": "Tue, 03 May 2022 10:38:37 GMT",
+      "feed_index": 11
+    },
+    {
+      "id": "a05a62ec101aaf5dc6deb1fc07b2eee633861bb997fc48a02eb78fd078d9500d",
+      "guid": "xmly_track_526185361",
+      "title": {
+        "text": "《艺秋电台》要不，还是删了我吧",
+        "truncated": false
+      },
+      "description": {
+        "text": "要不，还是删了我吧",
+        "truncated": false
+      },
+      "published_at": "Wed, 27 Apr 2022 11:36:12 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "4873bf061baaa7bf1c885d48b0b8bb2545a9a30f118a1cbf66e0a61f5d24fc5e",
+      "guid": "xmly_track_524463507",
+      "title": {
+        "text": "《艺秋电台》爱你不远千里，不问归期",
+        "truncated": false
+      },
+      "description": {
+        "text": "爱你不远千里，不问归期",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Apr 2022 10:39:22 GMT",
+      "feed_index": 33
+    },
+    {
+      "id": "25ad8f51f6e18f177e3fbbee64246e29e5b5c261544fc02ac5680c24c1fc043e",
+      "guid": "xmly_track_522719659",
+      "title": {
+        "text": "《艺秋电台》你是独一无二的，好好的爱自己",
+        "truncated": false
+      },
+      "description": {
+        "text": "前路漫长。越是天寒地冻，越要记得爱自己。 你要活在喜悦中，爱你的人才能满心欢喜。",
+        "truncated": false
+      },
+      "published_at": "Sun, 17 Apr 2022 11:36:53 GMT",
+      "feed_index": 43
+    },
+    {
+      "id": "a61c63daf40388b5e8e6f54c984002e32fc72130119d12aba48c5faad5d6de1e",
+      "guid": "xmly_track_522130954",
+      "title": {
+        "text": "《艺秋电台》感谢你来过，不遗憾你离开",
+        "truncated": false
+      },
+      "description": {
+        "text": "珍惜每一次遇见，相信你所走过的路，遇见的人，看过的风景，经历的往事，都会让你成为更好的自己。",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Apr 2022 14:43:42 GMT",
+      "feed_index": 54
+    },
+    {
+      "id": "4e8444e7ef0bcdb5ef4fc2cb9b728810169c22bcfd20570da8154f3ffaa15a04",
+      "guid": "xmly_track_522105413",
+      "title": {
+        "text": "《艺秋电台》网络很浅，孤独很深！",
+        "truncated": false
+      },
+      "description": {
+        "text": "网络可以让开心的人悲伤，让悲伤的人开心；也可以让开心的人更开心；让悲伤的人更悲伤。 我知道，不管我上网去哪里，不管我去做什么，其实我不过是在寻觅等待亦或怀念。 走进网络，初见时繁华耀眼，以至于你无时无刻都想低下头去依赖于此。 等到内心以及现实世界足够忙碌，你才会慢慢的放下。 不一定是光彩数尽，不一定是厌倦，只是在适当的时间去做适当的事罢了",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Apr 2022 13:49:03 GMT",
+      "feed_index": 65
+    },
+    {
+      "id": "944d0fb87916c6c8bb9bc8e9db58a15b2d7c80819214e3826c9ecd72839063c6",
+      "guid": "xmly_track_522072090",
+      "title": {
+        "text": "《艺秋电台》这一生，爱要勇敢一次",
+        "truncated": false
+      },
+      "description": {
+        "text": "在爱情里，更是如此。 有多少真爱，败给了没有勇气开口，只给自己讨回一场意难平。 忘不掉，也得不到，才是最煎熬！",
+        "truncated": false
+      },
+      "published_at": "Fri, 15 Apr 2022 12:40:55 GMT",
+      "feed_index": 76
+    }
+  ]
+}

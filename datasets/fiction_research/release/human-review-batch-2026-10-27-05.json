@@ -1,0 +1,94 @@
+{
+  "batch_id": "human-chat-2026-10-27-05",
+  "recorded_at": "2026-10-27T12:44:12.967984+00:00",
+  "user_statement": "47 有声书 拦截  其他都保留",
+  "review_basis": "User reviewed excerpted public RSS metadata in chat, including translated summaries for foreign-language records. No audio listening reported.",
+  "unit": "show",
+  "predictions_shown": false,
+  "episode_labels_inferred": false,
+  "account_identity_confirmed": false,
+  "independence_audit_status": "pending",
+  "items": [
+    {
+      "number": 41,
+      "show_id": "1474474297",
+      "title": "Nippon MoshiMoshi",
+      "content_label": "nonfiction",
+      "filter_decision": "allow",
+      "chinese_metrics_eligible": false
+    },
+    {
+      "number": 42,
+      "show_id": "1479173448",
+      "title": "稻此一游",
+      "content_label": "nonfiction",
+      "filter_decision": "allow",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 43,
+      "show_id": "1479676767",
+      "title": "怪异电波",
+      "content_label": "nonfiction",
+      "filter_decision": "allow",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 44,
+      "show_id": "1479951603",
+      "title": "【半瓶醋夜未眠】電影、動畫、遊戲及那些年",
+      "content_label": "nonfiction",
+      "filter_decision": "allow",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 45,
+      "show_id": "1482927105",
+      "title": "文都比邻丨2020心理学考研背多分领读",
+      "content_label": "nonfiction",
+      "filter_decision": "allow",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 46,
+      "show_id": "1486700278",
+      "title": "IEO 看什麼？國際財經、產業、科技觀察",
+      "content_label": "nonfiction",
+      "filter_decision": "allow",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 47,
+      "show_id": "1489176388",
+      "title": "經典101 說給孩子聽的有聲書",
+      "content_label": "fiction",
+      "filter_decision": "block",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 48,
+      "show_id": "1489841902",
+      "title": "家庭健康管理师：张旭营养基础班",
+      "content_label": "nonfiction",
+      "filter_decision": "allow",
+      "chinese_metrics_eligible": null
+    },
+    {
+      "number": 49,
+      "show_id": "1490476655",
+      "title": "The Moshi Moshi Podcast",
+      "content_label": "nonfiction",
+      "filter_decision": "allow",
+      "chinese_metrics_eligible": false
+    },
+    {
+      "number": 50,
+      "show_id": "1494068599",
+      "title": "明大スポーツ新聞部",
+      "content_label": "nonfiction",
+      "filter_decision": "allow",
+      "chinese_metrics_eligible": false
+    }
+  ],
+  "language_scope_note": "Items 41,49,50 have foreign-language metadata and are outside the current Chinese-only evaluation cohort. Audio language was not independently verified. Preserve user allow decisions; full language/account/work-family audit remains pending."
+}

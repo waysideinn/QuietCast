@@ -1,0 +1,140 @@
+{
+  "show_id": "1587561762",
+  "feed_url": "http://www.ximalaya.com/album/53261302.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/53261302.xml",
+    "final_url": "http://www.ximalaya.com/album/53261302.xml",
+    "fetched_at": "2026-10-25T14:43:13.586406+00:00",
+    "status": 200,
+    "sha256": "673dc59c2a46fe87b32d410ca69078a8e8279eae67ddb5336b66330c80a2f904"
+  },
+  "status": "ok",
+  "title": {
+    "text": "投资新手广播剧：佳明与思语",
+    "truncated": false
+  },
+  "description": {
+    "text": "有知有行出品的首个面向投资新手的广播剧。微博：@有知有行。官网：youzhiyouxing.cn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 10,
+  "episodes": [
+    {
+      "id": "7d6e059a29e9a19261dfc51e91f43524797767fee6ca7631b6c92fab832c5184",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/66d6-audiofreehighqps/13/E2/CKwRIJEFPpqOABC-mQDswNEB.m4a",
+      "title": {
+        "text": "E00 预告片：这一次，我们一起解锁投资新手村",
+        "truncated": false
+      },
+      "description": {
+        "text": "播出时间：9 月 30 日 - 10 月 8 日，每晚 8 点 节目时长：约 5 min / 集，共 9 集 收听平台：搜索关键词「佳明与思语」，在有知有行 App、 小宇宙、喜马拉雅、网易云音乐等平台收听",
+        "truncated": false
+      },
+      "published_at": "Mon, 27 Sep 2021 11:42:26 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "cf6816fef7292112c439ee2642244cf8f4b7de1b125ff3203331e8215b85fb58",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7cc0-audiofreehighqps/99/C6/CKwRINsFNv05ACkWoQDq2FTc.m4a",
+      "title": {
+        "text": "E01 辛苦赚来的钱，除了银行和余额宝还可以放在哪里？",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎收听《投资新手广播剧：佳明与思语》。 这是有知有行的一次新尝试，在接下来的国庆假期里，每晚 5 分钟，让佳明和思语会陪你扫清投资入门时必问的 9 大困惑。 我们不仅有精心制作的音频，还在有知有行官网（youzhiyouxing.cn）准备了剧本、图表、剧情回顾小纸条、加餐阅读，希望你能善加利用。并且，每晚 8 点，我们四位编辑会轮流在想法区值班，有任何疑问、想法，欢迎与我们交流。 总之，我们这次策划的目标很简单，就是陪你度过一个乐呵且充实的国庆假期。 - 制作团队 制作：有知有行 剪辑：柯霖 - 关于我们 有知有行成立于 2020 年，目前在陪伴投资者用正确的方式学习投资，下场实操。凭借在投资领域的良好口碑，有知有行在初创阶段已与一大批忠实用户同行。未来我们希望成为一家财富管理公司，不仅帮助投资者学习投资，也能让大家在有知有行安心交易，踏实赚钱。 - 收听渠道 有知有行 App、小宇宙、喜马拉雅、QQ 音乐、网易云音乐、苹果播客，以及 Overcast、Pocket Casts、Castro 等泛用型播客客户端。",
+        "truncated": false
+      },
+      "published_at": "Thu, 30 Sep 2021 13:07:05 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "dc8570c6480ea1c52bfb08f2f9c9f41b4b0b0d1e20a4d74ea02144789a8ed1d7",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/dbba-audiofreehighqps/5A/C8/CKwRIaIFMLypACYfiwDpX8pV-aacv2-48K.m4a",
+      "title": {
+        "text": "E03 目前本金少甚至有负债，能不能投资？",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎收听《投资新手广播剧：佳明与思语》。 这是有知有行的一次新尝试，在接下来的国庆假期里，每晚 5 分钟，让佳明和思语会陪你扫清投资入门时必问的 9 大困惑。 我们不仅有精心制作的音频，还在有知有行官网（youzhiyouxing.cn）准备了剧本、图表、剧情回顾小纸条、加餐阅读，希望你能善加利用。并且，每晚 8 点，我们四位编辑会轮流在想法区值班，有任何疑问、想法，欢迎与我们交流。 总之，我们这次策划的目标很简单，就是陪你度过一个乐呵且充实的国庆假期。 - 制作团队 制作：有知有行 剪辑：柯霖",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Oct 2021 12:54:57 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "0d7ebaedacbc4eeadcdfdf16d6df38f8cb9d995190a58050e289e25ae0b21e9c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/819b-audiofreehighqps/D7/FB/CKwRIasFMLy4ADLriQDpX9BF-aacv2-48K.m4a",
+      "title": {
+        "text": "E04 刚开始起步，我该拿多少钱出来投资？",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎收听《投资新手广播剧：佳明与思语》。 这是有知有行的一次新尝试，在接下来的国庆假期里，每晚 5 分钟，让佳明和思语会陪你扫清投资入门时必问的 9 大困惑。 我们不仅有精心制作的音频，还在有知有行官网（youzhiyouxing.cn）准备了剧本、图表、剧情回顾小纸条、加餐阅读，希望你能善加利用。并且，每晚 8 点，我们四位编辑会轮流在想法区值班，有任何疑问、想法，欢迎与我们交流。 总之，我们这次策划的目标很简单，就是陪你度过一个乐呵且充实的国庆假期。 - 制作团队 制作：有知有行 剪辑：柯霖",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Oct 2021 12:55:07 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "3d5e46a0186e526ed1c0823dec885ad2dd8a50f5c3f6e4f1cabc65c520773014",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7fbe-audiofreehighqps/51/D8/CKwRIRwFMCe5ACuA2wDpM2q0-aacv2-48K.m4a",
+      "title": {
+        "text": "E05 对新手来说，简单易上手的方法是什么？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Oct 2021 12:00:00 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "4921ba16f2730fa36249e5f1dad86628c7464457cec384fa4d81d31febaf4774",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8883-audiofreehighqps/49/98/CKwRIaIFL2xCAECfoQDpElbS-aacv2-48K.m4a",
+      "title": {
+        "text": "E06 保险真的有必要买吗？怎么买？",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎收听《投资新手广播剧：佳明与思语》。 这是有知有行的一次新尝试，国庆假期，每晚 5 分钟，让佳明和思语会陪你扫清投资入门时必问的 9 大困惑。 我们不仅有精心制作的音频，还在有知有行官网（youzhiyouxing.cn）准备了剧本、图表、剧情回顾小纸条、加餐阅读，希望你能善加利用。并且，每晚 8 点，我们四位编辑会轮流在想法区值班，有任何疑问、想法，欢迎与我们交流。 总之，我们这次策划的目标很简单，就是陪你度过一个乐呵且充实的国庆假期。 - 制作团队 制作：有知有行 剪辑：柯霖 - 关于我们 有知有行成立于 2020 年，目前在陪伴投资者用正确的方式学习投资，下场实操。凭借在投资领域的良好口碑，有知有行在初创阶段已与一大批忠实用户同行。未来我们希望成为一家财富管理公司，不仅帮助投资者学习投资，也能让大家在有知有行安心交易，踏实赚钱。 - 收听渠道 有知有行 App、小宇宙、喜马拉雅、QQ 音乐、网易云音乐、苹果播客，以及 Overcast、Pocket Casts、Castro 等泛用型播客客户端。",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Oct 2021 12:00:00 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "c4150f6e04523114d89252fa37a91b9ab21cb65c802d06d8bcb674f4aadbada5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/fb6a-audiofreehighqps/DA/26/CKwRINsFMhCHADK-BADpsO6F-aacv2-48K.m4a",
+      "title": {
+        "text": "E08 买了就亏，心里很慌怎么办？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 07 Oct 2021 12:00:00 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "2259bf3cb670aa61affeb83373d8ea0a419543b51f6639d8219a9b6ba3f32852",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/72ec-audiofreehighqps/19/C9/CKwRIaIFMhCpACgKHwDpsP5z.m4a",
+      "title": {
+        "text": "E09 普通工薪族，该怎么存到人生的第一个 10 万？",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 08 Oct 2021 12:00:00 GMT",
+      "feed_index": 9
+    }
+  ]
+}

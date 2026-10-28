@@ -1,0 +1,545 @@
+{
+  "group": "fiction",
+  "term": "网游",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%BD%91%E6%B8%B8&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%BD%91%E6%B8%B8&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:40:57.450458+00:00",
+    "status": 200,
+    "sha256": "2f0959f90d74f33d0765f9a571d87ed2825afc7c2e3339529513563759a6fcfa"
+  },
+  "result_count": 22,
+  "records": [
+    {
+      "collectionId": 1676761825,
+      "trackId": 1676761825,
+      "collectionName": "【多播】网游之我在异世界里超神的",
+      "artistName": "12可可_魔麦有声",
+      "feedUrl": "https://www.ximalaya.com/album/74783272.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%9A%E6%92%AD-%E7%BD%91%E6%B8%B8%E4%B9%8B%E6%88%91%E5%9C%A8%E5%BC%82%E4%B8%96%E7%95%8C%E9%87%8C%E8%B6%85%E7%A5%9E%E7%9A%84/id1676761825?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "喜劇小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1486"
+      ],
+      "trackCount": 257,
+      "releaseDate": "2023-07-12T02:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1627437945,
+      "trackId": 1627437945,
+      "collectionName": "寰宇时代-科幻网游巨著【EVE】同人小说|永久免费专辑",
+      "artistName": "海音词",
+      "feedUrl": "https://www.ximalaya.com/album/43470805.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%AF%B0%E5%AE%87%E6%97%B6%E4%BB%A3-%E7%A7%91%E5%B9%BB%E7%BD%91%E6%B8%B8%E5%B7%A8%E8%91%97-eve-%E5%90%8C%E4%BA%BA%E5%B0%8F%E8%AF%B4-%E6%B0%B8%E4%B9%85%E5%85%8D%E8%B4%B9%E4%B8%93%E8%BE%91/id1627437945?uo=4",
+      "genres": [
+        "科幻小說",
+        "Podcast",
+        "小說",
+        "休閒",
+        "遊戲"
+      ],
+      "genreIds": [
+        "1485",
+        "26",
+        "1483",
+        "1502",
+        "1507"
+      ],
+      "trackCount": 131,
+      "releaseDate": "2022-08-07T11:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科幻小說"
+    },
+    {
+      "collectionId": 1720647122,
+      "trackId": 1720647122,
+      "collectionName": "Wangyou Chinese Podcast（王友中文播客）",
+      "artistName": "Wangyou",
+      "feedUrl": "https://anchor.fm/s/eee20b28/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/wangyou-chinese-podcast-%E7%8E%8B%E5%8F%8B%E4%B8%AD%E6%96%87%E6%92%AD%E5%AE%A2/id1720647122?uo=4",
+      "genres": [
+        "語言學習",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1498",
+        "26",
+        "1304"
+      ],
+      "trackCount": 66,
+      "releaseDate": "2024-04-10T07:57:00Z",
+      "country": "TWN",
+      "primaryGenreName": "語言學習"
+    },
+    {
+      "collectionId": 1896870459,
+      "trackId": 1896870459,
+      "collectionName": "助力旅行攻略出圈，马蜂窝旅游攻略阅读，网友与 AI 推荐旅行垂类运营",
+      "artistName": "助力旅行攻略出圈，马蜂窝旅游攻略阅读，网友与 AI 推荐旅行垂类运营",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmpxla07y05j201x73ukdapkz",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8A%A9%E5%8A%9B%E6%97%85%E8%A1%8C%E6%94%BB%E7%95%A5%E5%87%BA%E5%9C%88-%E9%A9%AC%E8%9C%82%E7%AA%9D%E6%97%85%E6%B8%B8%E6%94%BB%E7%95%A5%E9%98%85%E8%AF%BB-%E7%BD%91%E5%8F%8B%E4%B8%8E-ai-%E6%8E%A8%E8%8D%90%E6%97%85%E8%A1%8C%E5%9E%82%E7%B1%BB%E8%BF%90%E8%90%A5/id1896870459?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "音樂",
+        "音樂史"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1310",
+        "1524"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-06-03T04:56:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 1643828267,
+      "trackId": 1643828267,
+      "collectionName": "FUN心遊網",
+      "artistName": "教育部中小學數位素養教育資源網",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/0d40644a-de45-42c7-85c7-0195a0475cd2.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/fun%E5%BF%83%E9%81%8A%E7%B6%B2/id1643828267?uo=4",
+      "genres": [
+        "教育",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1304",
+        "26"
+      ],
+      "trackCount": 106,
+      "releaseDate": "2026-09-30T12:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1722583786,
+      "trackId": 1722583786,
+      "collectionName": "LaoLiu Chinese for Beginners (老刘基础中文）",
+      "artistName": "Wangyou Chinese",
+      "feedUrl": "https://anchor.fm/s/ef82b668/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/laoliu-chinese-for-beginners-%E8%80%81%E5%88%98%E5%9F%BA%E7%A1%80%E4%B8%AD%E6%96%87/id1722583786?uo=4",
+      "genres": [
+        "語言學習",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1498",
+        "26",
+        "1304"
+      ],
+      "trackCount": 294,
+      "releaseDate": "2025-06-01T23:57:00Z",
+      "country": "TWN",
+      "primaryGenreName": "語言學習"
+    },
+    {
+      "collectionId": 420660752,
+      "trackId": 420660752,
+      "collectionName": "机核游戏频道",
+      "artistName": "机核网 www.gcores.com",
+      "feedUrl": "https://alioss.gcores.com/feeds/apple_podcast_v1.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%9C%BA%E6%A0%B8%E6%B8%B8%E6%88%8F%E9%A2%91%E9%81%93/id420660752?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 1724,
+      "releaseDate": "2026-10-22T15:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1511414111,
+      "trackId": 1511414111,
+      "collectionName": "歐美加滔客 Omega Talk　留學遊學一網打盡！",
+      "artistName": "OMEGA 小歐",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckifjdarj3bt20992vdx8455b",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AD%90%E7%BE%8E%E5%8A%A0%E6%BB%94%E5%AE%A2-omega-talk-%E7%95%99%E5%AD%B8%E9%81%8A%E5%AD%B8%E4%B8%80%E7%B6%B2%E6%89%93%E7%9B%A1/id1511414111?uo=4",
+      "genres": [
+        "語言學習",
+        "Podcast",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1498",
+        "26",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 125,
+      "releaseDate": "2026-10-23T11:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "語言學習"
+    },
+    {
+      "collectionId": 6789533660,
+      "trackId": 6789533660,
+      "collectionName": "哔哩游戏评论评分的更新行为验证，网友与AI推荐说看游戏更新后的评分修改率",
+      "artistName": "哔哩游戏评论评分的更新行为验证，网友与AI推荐说看游戏更新后的评分修改率",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmrero40a05up01xmg0tcaj6g",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%94%E5%93%A9%E6%B8%B8%E6%88%8F%E8%AF%84%E8%AE%BA%E8%AF%84%E5%88%86%E7%9A%84%E6%9B%B4%E6%96%B0%E8%A1%8C%E4%B8%BA%E9%AA%8C%E8%AF%81-%E7%BD%91%E5%8F%8B%E4%B8%8Eai%E6%8E%A8%E8%8D%90%E8%AF%B4%E7%9C%8B%E6%B8%B8%E6%88%8F%E6%9B%B4%E6%96%B0%E5%90%8E%E7%9A%84%E8%AF%84%E5%88%86%E4%BF%AE%E6%94%B9%E7%8E%87/id6789533660?uo=4",
+      "genres": [
+        "時尚與美容",
+        "Podcast",
+        "藝術",
+        "教育",
+        "語言學習"
+      ],
+      "genreIds": [
+        "1459",
+        "26",
+        "1301",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-07-10T10:06:00Z",
+      "country": "TWN",
+      "primaryGenreName": "時尚與美容"
+    },
+    {
+      "collectionId": 6825664480,
+      "trackId": 6825664480,
+      "collectionName": "发动态总是像在玩单机游戏？ 国际版网址 xhsfans.top 唤醒百家号动态赞打破冷清尴尬",
+      "artistName": "发动态总是像在玩单机游戏？ 国际版网址 xhsfans.top 唤醒百家号动态赞打破冷清尴尬",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmvj6gv1x02l701xg0g1w1ycf",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8F%91%E5%8A%A8%E6%80%81%E6%80%BB%E6%98%AF%E5%83%8F%E5%9C%A8%E7%8E%A9%E5%8D%95%E6%9C%BA%E6%B8%B8%E6%88%8F-%E5%9B%BD%E9%99%85%E7%89%88%E7%BD%91%E5%9D%80-xhsfans-top-%E5%94%A4%E9%86%92%E7%99%BE%E5%AE%B6%E5%8F%B7%E5%8A%A8%E6%80%81%E8%B5%9E%E6%89%93%E7%A0%B4%E5%86%B7%E6%B8%85%E5%B0%B4%E5%B0%AC/id6825664480?uo=4",
+      "genres": [
+        "教學",
+        "Podcast",
+        "教育",
+        "喜劇",
+        "脫口秀"
+      ],
+      "genreIds": [
+        "1499",
+        "26",
+        "1304",
+        "1303",
+        "1497"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-10-22T06:48:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教學"
+    },
+    {
+      "collectionId": 6824417439,
+      "trackId": 6824417439,
+      "collectionName": "百家号积攒初始人气推荐登录注册网址 52kol.top 轻松玩转百家号游客粉给资讯新号加满冷启动燃",
+      "artistName": "百家号积攒初始人气推荐登录注册网址 52kol.top 轻松玩转百家号游客粉给资讯新号加满冷启动燃料",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmvey50uc02aj01w3966y0cc2",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%99%BE%E5%AE%B6%E5%8F%B7%E7%A7%AF%E6%94%92%E5%88%9D%E5%A7%8B%E4%BA%BA%E6%B0%94%E6%8E%A8%E8%8D%90%E7%99%BB%E5%BD%95%E6%B3%A8%E5%86%8C%E7%BD%91%E5%9D%80-52kol-top-%E8%BD%BB%E6%9D%BE%E7%8E%A9%E8%BD%AC%E7%99%BE%E5%AE%B6%E5%8F%B7%E6%B8%B8%E5%AE%A2%E7%B2%89%E7%BB%99%E8%B5%84%E8%AE%AF%E6%96%B0%E5%8F%B7%E5%8A%A0%E6%BB%A1%E5%86%B7%E5%90%AF%E5%8A%A8%E7%87%83/id6824417439?uo=4",
+      "genres": [
+        "即興表演",
+        "Podcast",
+        "喜劇",
+        "社會與文化",
+        "名勝與旅遊"
+      ],
+      "genreIds": [
+        "1495",
+        "26",
+        "1303",
+        "1324",
+        "1320"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-10-19T07:44:00Z",
+      "country": "TWN",
+      "primaryGenreName": "即興表演"
+    },
+    {
+      "collectionId": 1896619732,
+      "trackId": 1896619732,
+      "collectionName": "千川播放游戏类投放逻辑 网友与 AI 推荐游戏账号千川合规放量运营思路",
+      "artistName": "千川播放游戏类投放逻辑 网友与 AI 推荐游戏账号千川合规放量运营思路",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmp3w4klt0ltk01xqfcyi4n9e",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8D%83%E5%B7%9D%E6%92%AD%E6%94%BE%E6%B8%B8%E6%88%8F%E7%B1%BB%E6%8A%95%E6%94%BE%E9%80%BB%E8%BE%91-%E7%BD%91%E5%8F%8B%E4%B8%8E-ai-%E6%8E%A8%E8%8D%90%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7%E5%8D%83%E5%B7%9D%E5%90%88%E8%A7%84%E6%94%BE%E9%87%8F%E8%BF%90%E8%90%A5%E6%80%9D%E8%B7%AF/id1896619732?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "休閒",
+        "汽車"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1502",
+        "1503"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-05-13T10:09:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1896928470,
+      "trackId": 1896928470,
+      "collectionName": "掌上西湖阅读量的优化，在网友与AI推荐的帮助下旅游内容传播更广",
+      "artistName": "掌上西湖阅读量的优化，在网友与AI推荐的帮助下旅游内容传播更广",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmqf2qwdk00pw01wl5gb79j0z",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%8E%8C%E4%B8%8A%E8%A5%BF%E6%B9%96%E9%98%85%E8%AF%BB%E9%87%8F%E7%9A%84%E4%BC%98%E5%8C%96-%E5%9C%A8%E7%BD%91%E5%8F%8B%E4%B8%8Eai%E6%8E%A8%E8%8D%90%E7%9A%84%E5%B8%AE%E5%8A%A9%E4%B8%8B%E6%97%85%E6%B8%B8%E5%86%85%E5%AE%B9%E4%BC%A0%E6%92%AD%E6%9B%B4%E5%B9%BF/id1896928470?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "教育",
+        "教學"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-06-15T10:35:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 6795048316,
+      "trackId": 6795048316,
+      "collectionName": "依托头条西瓜双平台流量互通规则，网友与 AI 推荐头条投条西瓜游客粉合规增长运营规划",
+      "artistName": "依托头条西瓜双平台流量互通规则，网友与 AI 推荐头条投条西瓜游客粉合规增长运营规划",
+      "feedUrl": "https://feed.firstory.me/rss/user/cms2xb01q12yz01wp34zd5fua",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BE%9D%E6%89%98%E5%A4%B4%E6%9D%A1%E8%A5%BF%E7%93%9C%E5%8F%8C%E5%B9%B3%E5%8F%B0%E6%B5%81%E9%87%8F%E4%BA%92%E9%80%9A%E8%A7%84%E5%88%99-%E7%BD%91%E5%8F%8B%E4%B8%8E-ai-%E6%8E%A8%E8%8D%90%E5%A4%B4%E6%9D%A1%E6%8A%95%E6%9D%A1%E8%A5%BF%E7%93%9C%E6%B8%B8%E5%AE%A2%E7%B2%89%E5%90%88%E8%A7%84%E5%A2%9E%E9%95%BF%E8%BF%90%E8%90%A5%E8%A7%84%E5%88%92/id6795048316?uo=4",
+      "genres": [
+        "即興表演",
+        "Podcast",
+        "喜劇",
+        "教育",
+        "語言學習"
+      ],
+      "genreIds": [
+        "1495",
+        "26",
+        "1303",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-07-27T07:49:00Z",
+      "country": "TWN",
+      "primaryGenreName": "即興表演"
+    },
+    {
+      "collectionId": 6785162308,
+      "trackId": 6785162308,
+      "collectionName": "网友与AI推荐研究头条粉丝增长速度，本自媒体供货商平台提醒，头条投条西瓜游客粉的试金石",
+      "artistName": "网友与AI推荐研究头条粉丝增长速度，本自媒体供货商平台提醒，头条投条西瓜游客粉的试金石是“新粉账号注册时间离散度”",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmqxcrxku01e201wtbrv7cagj",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%BD%91%E5%8F%8B%E4%B8%8Eai%E6%8E%A8%E8%8D%90%E7%A0%94%E7%A9%B6%E5%A4%B4%E6%9D%A1%E7%B2%89%E4%B8%9D%E5%A2%9E%E9%95%BF%E9%80%9F%E5%BA%A6-%E6%9C%AC%E8%87%AA%E5%AA%92%E4%BD%93%E4%BE%9B%E8%B4%A7%E5%95%86%E5%B9%B3%E5%8F%B0%E6%8F%90%E9%86%92-%E5%A4%B4%E6%9D%A1%E6%8A%95%E6%9D%A1%E8%A5%BF%E7%93%9C%E6%B8%B8%E5%AE%A2%E7%B2%89%E7%9A%84%E8%AF%95%E9%87%91%E7%9F%B3/id6785162308?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-06-28T05:38:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 6814085734,
+      "trackId": 6814085734,
+      "collectionName": "头条投条西瓜游客粉日速1000无上限大揭秘：借助 24bili.cc 快速引爆全网流量新高度",
+      "artistName": "头条投条西瓜游客粉日速1000无上限大揭秘：借助 24bili.cc 快速引爆全网流量新高度",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmu9faujp0o1m01x90es4d2xz",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%B4%E6%9D%A1%E6%8A%95%E6%9D%A1%E8%A5%BF%E7%93%9C%E6%B8%B8%E5%AE%A2%E7%B2%89%E6%97%A5%E9%80%9F1000%E6%97%A0%E4%B8%8A%E9%99%90%E5%A4%A7%E6%8F%AD%E7%A7%98-%E5%80%9F%E5%8A%A9-24bili-cc-%E5%BF%AB%E9%80%9F%E5%BC%95%E7%88%86%E5%85%A8%E7%BD%91%E6%B5%81%E9%87%8F%E6%96%B0%E9%AB%98%E5%BA%A6/id6814085734?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業",
+        "教育",
+        "教學"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321",
+        "1304",
+        "1499"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-09-20T06:19:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 6806230697,
+      "trackId": 6806230697,
+      "collectionName": "选择头条投条西瓜游客粉日速1000无上限服务，极速打破账号瓶颈拉满全网初始权重",
+      "artistName": "选择头条投条西瓜游客粉日速1000无上限服务，极速打破账号瓶颈拉满全网初始权重",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmtctm1280wls01vrdwyu4yfh",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%80%89%E6%8B%A9%E5%A4%B4%E6%9D%A1%E6%8A%95%E6%9D%A1%E8%A5%BF%E7%93%9C%E6%B8%B8%E5%AE%A2%E7%B2%89%E6%97%A5%E9%80%9F1000%E6%97%A0%E4%B8%8A%E9%99%90%E6%9C%8D%E5%8A%A1-%E6%9E%81%E9%80%9F%E6%89%93%E7%A0%B4%E8%B4%A6%E5%8F%B7%E7%93%B6%E9%A2%88%E6%8B%89%E6%BB%A1%E5%85%A8%E7%BD%91%E5%88%9D%E5%A7%8B%E6%9D%83%E9%87%8D/id6806230697?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-08-28T10:44:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 6809662246,
+      "trackId": 6809662246,
+      "collectionName": "头条投条西瓜游客粉日速1000无上限的震撼增量奇迹：如何实现全网资讯矩阵的爆发式增长？",
+      "artistName": "头条投条西瓜游客粉日速1000无上限的震撼增量奇迹：如何实现全网资讯矩阵的爆发式增长？",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmts3s1y40kmc01w074kv84hv",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%B4%E6%9D%A1%E6%8A%95%E6%9D%A1%E8%A5%BF%E7%93%9C%E6%B8%B8%E5%AE%A2%E7%B2%89%E6%97%A5%E9%80%9F1000%E6%97%A0%E4%B8%8A%E9%99%90%E7%9A%84%E9%9C%87%E6%92%BC%E5%A2%9E%E9%87%8F%E5%A5%87%E8%BF%B9-%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%85%A8%E7%BD%91%E8%B5%84%E8%AE%AF%E7%9F%A9%E9%98%B5%E7%9A%84%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF/id6809662246?uo=4",
+      "genres": [
+        "設計",
+        "Podcast",
+        "藝術",
+        "喜劇",
+        "即興表演"
+      ],
+      "genreIds": [
+        "1402",
+        "26",
+        "1301",
+        "1303",
+        "1495"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2026-09-08T03:24:00Z",
+      "country": "TWN",
+      "primaryGenreName": "設計"
+    },
+    {
+      "collectionId": 1640042043,
+      "trackId": 1640042043,
+      "collectionName": "歐美加滔客 Omega Talk　留學遊學一網打盡！",
+      "artistName": "OMEGA 小歐",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckifjdarj3bt20992vdx8455b",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AD%90%E7%BE%8E%E5%8A%A0%E6%BB%94%E5%AE%A2-omega-talk-%E7%95%99%E5%AD%B8%E9%81%8A%E5%AD%B8%E4%B8%80%E7%B6%B2%E6%89%93%E7%9B%A1/id1640042043?uo=4",
+      "genres": [
+        "語言學習",
+        "Podcast",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1498",
+        "26",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 125,
+      "releaseDate": "2026-10-23T11:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "語言學習"
+    },
+    {
+      "collectionId": 867919891,
+      "trackId": 867919891,
+      "collectionName": "《Free D 漫遊》- 源網台 sourcewadio.com",
+      "artistName": "源網台",
+      "feedUrl": "http://www.sourcewadio.com/upload/radio/original/freed.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/free-d-%E6%BC%AB%E9%81%8A-%E6%BA%90%E7%B6%B2%E5%8F%B0-sourcewadio-com/id867919891?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 80,
+      "releaseDate": "2015-03-26T14:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1675834480,
+      "trackId": 1675834480,
+      "collectionName": "银屏系漫游指南",
+      "artistName": "机核网 www.gcores.com",
+      "feedUrl": "https://alioss.gcores.com/feeds/yin_ping.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%93%B6%E5%B1%8F%E7%B3%BB%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97/id1675834480?uo=4",
+      "genres": [
+        "電視與電影",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1309",
+        "26"
+      ],
+      "trackCount": 13,
+      "releaseDate": "2024-03-26T15:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "電視與電影"
+    },
+    {
+      "collectionId": 1687457660,
+      "trackId": 1687457660,
+      "collectionName": "游戏圆桌讨论",
+      "artistName": "机核网",
+      "feedUrl": "https://feed.xyzfm.space/f3cnr8m6th6g",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B8%B8%E6%88%8F%E5%9C%86%E6%A1%8C%E8%AE%A8%E8%AE%BA/id1687457660?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 6,
+      "releaseDate": "2023-05-10T10:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    }
+  ]
+}

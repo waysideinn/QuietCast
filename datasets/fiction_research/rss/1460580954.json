@@ -1,0 +1,140 @@
+{
+  "show_id": "1460580954",
+  "feed_url": "http://www.ximalaya.com/album/20403413.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/20403413.xml",
+    "final_url": "http://www.ximalaya.com/album/20403413.xml",
+    "fetched_at": "2026-10-25T14:49:58.171457+00:00",
+    "status": 200,
+    "sha256": "87fd8697df59893ff9dd9b23491ad0ae628cd0344e0d7dd82c573207f14cba51"
+  },
+  "status": "ok",
+  "title": {
+    "text": "跟Lily说英语去旅行",
+    "truncated": false
+  },
+  "description": {
+    "text": "144节录音帮助你用英语去旅行哟！ 公众微信：贵旅特（ID: iflyclub) FB/IG/Line: flywithlily",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 281,
+  "episodes": [
+    {
+      "id": "b3b80af3e48f37042768151d9ed9db9c6640ee1379601e3f87384ebd68cc991b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group54/M07/57/F0/wKgLclwxLiShNNynAA_4a_o7K-k365-aacv2-48K.m4a",
+      "title": {
+        "text": "Lesson 1：在机场 At the Airport",
+        "truncated": false
+      },
+      "description": {
+        "text": "在机场 At the Airport airport ['ɛr'pɔrt] 机场 terminal [ˈtɜːrmɪnl] 航站楼 ticket (E-ticket) ['tɪkɪt]机票 passport ['pæspɔrt]护照 visa ['vizə]签证 boarding pass 登机牌 airline ['ɛrlaɪn] 航空公司 trolley ['trɑli]行李推车 departure [dɪ'pɑrtʃɚ] 出发 board [bɔrd] 看板；登机 departure board 出发看板 (departure) gate [ɡet]登机门 VIP ＝very important person 贵宾 lounge [laʊndʒ] 休息室 VIP lounge 贵宾室 airport 机场 terminal 航站楼 ticket (E-ticket) 机票 passport 护照 visa 签证 boarding pass 登机牌 airline 航空公司 trolley 行李推车 departure 出发 board 看板；登机 departure board 出发看板 (departure) gate 登机门 VIP ＝very important person 贵宾 lounge 休息室 VIP lounge 贵宾室",
+        "truncated": false
+      },
+      "published_at": "Sat, 05 Jan 2019 22:24:14 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "75ce9bb2c7f27b5ba3aacd160c1f86733d7a1207d8fd2993da683385467d8fd8",
+      "guid": "https://aod.cos.tx.xmcdn.com/group56/M02/31/37/wKgLdlxsalGBQHvhABHLUTWc70c565.m4a",
+      "title": {
+        "text": "Lesson 17.2：买化妆品 Shopping for cosmetics",
+        "truncated": false
+      },
+      "description": {
+        "text": "cologne 古龙水 scent 香味 light 味道淡的 strong 味道浓的 top note 前味 middle note 中味 base note 后味 floral scent 花香调 woody scent 木质调 citrus scent 柑橘调 moisturaizer 保湿用品 essence 精华液 oily skin 油性肌肤 dry skin 干性肌肤 sensitive skin 敏感肌肤 acne 痘痘 blackhead 鼻头粉刺、黑头",
+        "truncated": false
+      },
+      "published_at": "Tue, 19 Feb 2019 22:00:00 GMT",
+      "feed_index": 40
+    },
+    {
+      "id": "30ed57cb1fa2b46967cc79fdd7ed24bc37f721a91cc96569efcbe00bd96d843c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group58/M08/04/CF/wKgLc1ysajnT4iUOABO1k81yop8292.m4a",
+      "title": {
+        "text": "Lesson 9.4: 在加油站 At the Gas Station",
+        "truncated": false
+      },
+      "description": {
+        "text": "Situation 1: At the full-service gas station 请服务员加油 Victor: We’re running out of gas. How far is the nearest gas station? Amy: It’s only a few kilometers to the nearest gas station. [Five minutes later] Victor: Fill it up, please. Attendant: What kind of gas would you like? Victor: Regular, please. Attendant: OK. Victor: How much is that? Attendant: It comes to $50. 维多： 我们的车快没油了，最近的加油站还有多远？ 艾美：再开几公里就到了。 【5分钟后】 维多：请加满。 服务员：要加哪一种油？ 维多：普通汽油。 服务员：好的。 维多：多少钱？ 服务员：总共50美元。 （训练自己可以看着中文说出英文的意思）",
+        "truncated": false
+      },
+      "published_at": "Tue, 09 Apr 2019 21:30:00 GMT",
+      "feed_index": 80
+    },
+    {
+      "id": "b96b607aa306d44b8bf46dc5054e370aa8b736d7741a9ac9ffa970a3a0d73c40",
+      "guid": "https://aod.cos.tx.xmcdn.com/group59/M0B/81/9C/wKgLeFz0ReKyVJsFABszjRczhi4793.m4a",
+      "title": {
+        "text": "Lesson 1.6: 在机场",
+        "truncated": false
+      },
+      "description": {
+        "text": "状况二 Situation 2: 在安全检查处 At the Security Check TSA: Do you have any liquids, laptop computers or ipads in your bag? 安检人员：你有任何液体、手提电脑、或者平板电脑在你的包包里吗？ Me: Yes, I have a laptop. 我：是，我有一个手提电脑。 TSA: Please remove it and put it in a separate tray. 安检人员： 请你把它拿出来放在单独的盘子里。 Me: Okay. 我：好的。 TSA: Any keys, wallet or mobile phones in your pockets? 安检人员：有钥匙，皮夹或手机在你口袋吗？ Me: No, I’ve put them in my bag already. 我：没有，我已经放在我的包包里。 TSA: Okay, please step through the security gate. 安检人员： 好的，请走过安检门。 （BEEP） TSA: Madam, please step over here… Could you lift your arms up…turn around please. 安检人员： 女士，请走过来这，你可以把你的手举高吗？ ..",
+        "truncated": true
+      },
+      "published_at": "Sun, 02 Jun 2019 21:55:42 GMT",
+      "feed_index": 120
+    },
+    {
+      "id": "f406ac2eebed62c0abb74ed6c8e4a7014eb083194b2ff9f80d78a4a95e9ef9f2",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0913-audiofreehighqps/55/98/CMCoOR8D2qeeALRlDAB8zWTD-aacv2-48K.m4a",
+      "title": {
+        "text": "视频直播回放：转机抵达的旅游英语 W3L1",
+        "truncated": false
+      },
+      "description": {
+        "text": "transit/transfer/change planes 转机 transit lounge 转机候机室 transfer counter 转机柜台 immigration 入境柜台 arrival lobby 入境大厅 baggage claim 行李提领处 liquor 酒 cigarette 香烟 airport terminal 航站大厦 baggage carousel 行李转盘 sightseeing 观光 on business/on a business trip 商务洽谈／商务旅行 Fly with Lily 网站 flywithlily.com FB、IG、YT：flywithlily 公众微信号[contact removed]、englishfit 喜马拉雅的Podcast节目名称：学英语环游世界 现在在忙什么？ Podcast 课程： https://hahow.in/cr/lily-podcaster 和 Lily 一起说英语去旅行训练营： https://reurl.cc/Q30YOZ 云雀实验室： https://reurl.cc/4mELG3 喜马拉雅 ximi 团会员招募： https://reurl.cc/Q30Q6M",
+        "truncated": false
+      },
+      "published_at": "Mon, 18 Jan 2021 01:29:27 GMT",
+      "feed_index": 160
+    },
+    {
+      "id": "c7716f7bb03df93278657d2567ba197a575ff68c0a7e0007a8c1cbfc920b9bfa",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/71cd-audiofreehighqps/B7/28/CKwRIUEFCKBWAVT1dgDfiAAK.m4a",
+      "title": {
+        "text": "视频直播回放：国外加油实用对话 W9L6",
+        "truncated": false
+      },
+      "description": {
+        "text": "Lesson 9.6：在加油站At the Gas Station A：How much gas would you like, sir? 您想加多少油，先生？ B：#93, 20 liters. Here's the money. 九十三號的，二十升。給你錢。 A：Ok, wait a moment please…Your gas has been filled, sir. And here's your change. 好的，請稍等……油已經加好了，先生。這是找您的零錢。 B：Thank you. Bye! 謝謝，再見！ A：Our car is running out of gas. 車快沒油了。 B：Is there a gas station nearby? 附近有加油站嗎？ A：There is one over there. 那邊有一個。",
+        "truncated": false
+      },
+      "published_at": "Sat, 04 Sep 2021 02:41:53 GMT",
+      "feed_index": 200
+    },
+    {
+      "id": "79fec665333f09b4507df347b4538da7fdcd0e772dac8a4688f3dec1d0d5f77f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/34aa-audiofreehighqps/25/CC/CKwRIJEEZ69DAI6AjgCmxHoI.m4a",
+      "title": {
+        "text": "视频直播回放： 买化妆品实用句 W17L3",
+        "truncated": false
+      },
+      "description": {
+        "text": "I’m thinking of getting some perfume. 我在想要买点香水。 Do you carry the latest Chanel perfume? 你们有卖最新的香奈儿香水吗？ Which perfume has a rose scent? 哪一个香水有玫瑰味？ I’d like a little lighter scent of perfume. 我想要清淡一点的香水。 What is the base note on this perfume? 这个香水的后味是什么？ Do you have a sample of this? 这有没有试用品？ Can I smell this bottle of perfume? 我可以闻一下这瓶香水吗？ Can I try this bottle of perfume? 我可以试下这瓶香水吗？ Which perfume is your best seller? 哪一款香水你们买的最好？ How many milliliters are there in this container? 这瓶香水是多少毫升？",
+        "truncated": false
+      },
+      "published_at": "Wed, 05 May 2021 00:51:54 GMT",
+      "feed_index": 240
+    },
+    {
+      "id": "15ba8bf9947486faf469812b8cacd4b40d188025d163a417065e371fdbda399c",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f2a0-audiofreehighqps/27/B4/CKwRIaIEqawuAWpBxQC-C-vG.m4a",
+      "title": {
+        "text": "视频直播回放：认识全世界的朋友-- Jayson Miller W24L4",
+        "truncated": false
+      },
+      "description": {
+        "text": "本周直播主题：学习交往全世界朋友的实用句，周一到周六8:15准时收看！ 今天节目嘉宾： Jayson Miller Master Sergeant Retired US Army（退伍美军军官长） 是Miller‘s Military Moments的Podcast播主，他的Podcast分享他在美军二十多年在阿富汗和伊拉克作战的经验、感悟和故事！ 在节目中我问到的问题： 1．Where are you originally from? 你从哪里来？ 2．How long have you been in Florida? 你在佛罗里达州多久了？ 3．Do you speak Mandarin? 你会说中文吗？ 4．While you were in Iraq and Afghanistan, did you pick up the local language? 你在伊拉克和阿富汗的时候，有学到当地的语言吗？ 5．Why did you go to the US Army? Did you go there to get away from the routine or just for responsibility? 你为什么会从军？ 是因为要逃离日常生活还是因为责任呢？ 6．What did you do in the US Army? 你在美军里从事什么工作？ 7．Do y",
+        "truncated": true
+      },
+      "published_at": "Thu, 24 Jun 2021 02:07:10 GMT",
+      "feed_index": 280
+    }
+  ]
+}

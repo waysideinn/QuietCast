@@ -1,0 +1,140 @@
+{
+  "show_id": "1570197352",
+  "feed_url": "https://www.omnycontent.com/d/playlist/d9486183-3dd4-4ad6-aebe-a4c1008455d5/fb94f32c-befd-41b9-95d6-ad2d00429bcb/d77c1a0a-31c3-4ff6-8a42-ad2d004750a9/podcast.rss",
+  "source": {
+    "url": "https://www.omnycontent.com/d/playlist/d9486183-3dd4-4ad6-aebe-a4c1008455d5/fb94f32c-befd-41b9-95d6-ad2d00429bcb/d77c1a0a-31c3-4ff6-8a42-ad2d004750a9/podcast.rss",
+    "final_url": "https://www.omnycontent.com/d/playlist/d9486183-3dd4-4ad6-aebe-a4c1008455d5/fb94f32c-befd-41b9-95d6-ad2d00429bcb/d77c1a0a-31c3-4ff6-8a42-ad2d004750a9/podcast.rss",
+    "fetched_at": "2026-10-25T14:42:55.414154+00:00",
+    "status": 200,
+    "sha256": "2f8118ca1029af84112c81b2a4dcdf9498da62d88619738f69836eeaca028967"
+  },
+  "status": "ok",
+  "title": {
+    "text": "广播剧【蜕变】",
+    "truncated": false
+  },
+  "description": {
+    "text": "劳动力发展局WSG与96.3好FM联合呈献：广播剧《蜕变》。 每一次痛苦都是蜕变，每一次蜕变都是成长。 疫情改变了我们，我们必须蜕变去改变世界。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hans",
+    "type": "episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 80,
+  "episodes": [
+    {
+      "id": "4b90cc801ae686d69683158203b8a344a8791dd372aca4c7c40798060e8a2d5a",
+      "guid": "823a67cd-60f0-40d1-a772-ad67009e8934",
+      "title": {
+        "text": "蜕变 第四十集 A",
+        "truncated": false
+      },
+      "description": {
+        "text": "See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Jul 2021 13:00:00 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "358c9204de6950b7b009e0b4380ea619fae9531b5efe90f4b91a715ceaa0d96f",
+      "guid": "d3affc97-85c2-4731-b2f9-ad64005521ac",
+      "title": {
+        "text": "蜕变 第三十五集 B",
+        "truncated": false
+      },
+      "description": {
+        "text": "See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Fri, 16 Jul 2021 13:00:00 +0000",
+      "feed_index": 11
+    },
+    {
+      "id": "729f2db543a74feaa7ca235d8f91dd597cedfc94add913493754696650c959ce",
+      "guid": "f67a113a-1bd9-473e-8163-ad5b00c5165e",
+      "title": {
+        "text": "蜕变 第二十九集 B",
+        "truncated": false
+      },
+      "description": {
+        "text": "See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Thu, 08 Jul 2021 13:00:00 +0000",
+      "feed_index": 23
+    },
+    {
+      "id": "f4c7ccc9a67403407e627487cfbc3c4227b6660c2214fb95636b5bf43a9f8d65",
+      "guid": "9d854de9-313b-4cfb-9789-ad500072f77d",
+      "title": {
+        "text": "蜕变 第二十三集 A",
+        "truncated": false
+      },
+      "description": {
+        "text": "See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Wed, 30 Jun 2021 13:00:00 +0000",
+      "feed_index": 34
+    },
+    {
+      "id": "014f4ef1eaa3dc4fcd1e295792cb2876c1825c28a6c796a93f06c1af7c87419c",
+      "guid": "935d3f4b-df0b-44ab-aaad-ad44007435b2",
+      "title": {
+        "text": "蜕变 第十八集 B",
+        "truncated": false
+      },
+      "description": {
+        "text": "See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Jun 2021 13:00:00 +0000",
+      "feed_index": 45
+    },
+    {
+      "id": "ded89d4a782c279eb705d53efd0b7adf06258480a3c8029eaabf4012686a0387",
+      "guid": "9159c9da-4ed9-4959-9807-ad440072ae55",
+      "title": {
+        "text": "蜕变 第十二集 A",
+        "truncated": false
+      },
+      "description": {
+        "text": "See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Jun 2021 13:00:00 +0000",
+      "feed_index": 56
+    },
+    {
+      "id": "6b6e4c6026649283cbeeecff24137cc064027ef0c7b7a96805e7a2f5115b3c9f",
+      "guid": "0e92ba2b-57e1-439d-a4e5-ad390042f23e",
+      "title": {
+        "text": "蜕变 第六集 A",
+        "truncated": false
+      },
+      "description": {
+        "text": "See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Mon, 07 Jun 2021 13:00:00 +0000",
+      "feed_index": 68
+    },
+    {
+      "id": "044d25b793ec769f0d5ad76841311565af58a2c527c9e8c5dd38d576bbbff3a8",
+      "guid": "84722e26-1446-4ff5-b135-ad39004189f5",
+      "title": {
+        "text": "蜕变 第一集 B",
+        "truncated": false
+      },
+      "description": {
+        "text": "See omnystudio.com/listener for privacy information.",
+        "truncated": false
+      },
+      "published_at": "Mon, 31 May 2021 13:00:00 +0000",
+      "feed_index": 79
+    }
+  ]
+}

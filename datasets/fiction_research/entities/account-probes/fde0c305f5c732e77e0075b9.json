@@ -1,0 +1,15 @@
+{
+  "source": {
+    "url": "https://www.ximalaya.com/album/81586794",
+    "final_url": "https://www.ximalaya.com/album/81586794",
+    "fetched_at": "2026-10-26T08:06:04.360873+00:00",
+    "status": 200,
+    "sha256": "e775e1b0f290557eec97ef9a3c6d65f40022516474c0c8f5d496d98cd7dc1194"
+  },
+  "status": "ok",
+  "data": {
+    "profile_links": [],
+    "identity_status": "not_available_in_public_profile_links",
+    "note": "A linked profile is not yet verified as album owner. No regex over arbitrary uid scripts."
+  }
+}

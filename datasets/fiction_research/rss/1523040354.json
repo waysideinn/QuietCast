@@ -1,0 +1,140 @@
+{
+  "show_id": "1523040354",
+  "feed_url": "http://www.ximalaya.com/album/29556038.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/29556038.xml",
+    "final_url": "http://www.ximalaya.com/album/29556038.xml",
+    "fetched_at": "2026-10-25T14:50:22.385133+00:00",
+    "status": 200,
+    "sha256": "7fdc406a1a6b01b343958d55306a8d4c2b9c3bf10420e641721506b24bfd2e06"
+  },
+  "status": "ok",
+  "title": {
+    "text": "爆笑免费多人剧|叔叔，你命里缺我",
+    "truncated": false
+  },
+  "description": {
+    "text": "余音公众号：微信搜索 恐怖小姐姐 免费 多播 爆笑 甜言 精品言情 他：“这是我远房一侄女，脑子不太好使！” 海归总裁极品小叔叔。 她：“叔叔，你命里缺我！” 一个向他借钱买早餐的奇葩女孩。 而那抹她带来的清凉软糯的香甜回忆，让他多年念念不忘。所以当她磨磨蹭蹭走到他面前：“老师，我爱你！”他没说话，可是眼睛里却微蕴起了笑意。看着那张很想让人欺负的脸，好像一只百无聊赖的猫，找到了一个毛线团…… 一场最匪夷所思的“潜规则”即将开始。 尽在《叔叔，你命里缺我！》 【作者/演播】 作者：金刚芭比 演播：余音 【更新时间】 地球不炸 绝不断更 余音 分裂派全能女主播，如果您胆子大，可以听听余音讲的《恐怖小姐姐》哟。 没事儿了可以听听《一分钟看透对方心理》了解点心理学小秘密呢， 如果您睡不着啦？请听《余音电台》如果您的宝宝也睡不着？请听《小余儿姐姐讲故事》总之，小余儿，就是讲鬼故事里最会讲童话的，讲言情里最懂心理的，哈哈哈哈 余音 V信：yyfm1004 Q群:935505849 欢迎打扰 喵~",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 180,
+  "episodes": [
+    {
+      "id": "ec341d30aa68d616f066fb420dfb2699728d5f435778a167ff2fe1ae90726e21",
+      "guid": "https://aod.cos.tx.xmcdn.com/group87/M03/44/00/wKg5J177GQGSfu_9AAttXfPO0cM853-aacv2-48K.m4a",
+      "title": {
+        "text": "叔叔，你命里缺我 片花| 新书《怪案奇谈》上架了！",
+        "truncated": false
+      },
+      "description": {
+        "text": "地球不炸 绝不断更 多播 免费 爆笑 甜言 他，海归极品钻石总裁。她，一个向他借钱买早餐的奇葩女孩。而那抹她带来的清凉软糯的香甜回忆，让他多年念念不忘。所以当她磨磨蹭蹭走到他面前：“老师，我爱你！”他没说话，可是眼睛里却微蕴起了笑意。一场最匪夷所思的“潜规则”即将开始。 尽在《靠！被潜了！》 【作者/主播】 作者：金刚芭比 演播：余音 【更新时间】每天11:00准时更新",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Sep 2019 01:39:31 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "d244e8bf04da5f97e9fe885f6608d92aeb0f78d2901d66ab8bf5c8c825e9d24f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group67/M09/2C/7F/wKgMd12qZ9_wtQvlACzeVFROLac224-aacv2-48K.m4a",
+      "title": {
+        "text": "第26集 你怎么用我的牙刷？",
+        "truncated": false
+      },
+      "description": {
+        "text": "地球不炸 绝不断更 免费 多播 爆笑 甜言 他：“这是我远房一侄女，脑子不太好使！” 海归总裁极品小叔叔。 她：“小叔，你命里缺我？还是，我被潜了？” 一个向他借钱买早餐的奇葩女孩。 而那抹她带来的清凉软糯的香甜回忆，让他多年念念不忘。所以当她磨磨蹭蹭走到他面前：“老师，我爱你！”他没说话，可是眼睛里却微蕴起了笑意。看着那张很想让人欺负的脸，好像一只百无聊赖的猫，找到了一个毛线团…… 一场最匪夷所思的“潜规则”即将开始。 尽在《靠！被潜了！》 【作者/演播】 作者：金刚芭比 演播：余音 【更新时间】 每天11:00",
+        "truncated": false
+      },
+      "published_at": "Sat, 19 Oct 2019 03:00:04 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "75bf46852c76c51b48862acfe885b7149e70fa5c309539ea61771b6e49a80280",
+      "guid": "https://aod.cos.tx.xmcdn.com/group69/M0A/63/23/wKgMeV3Mtq3zQanDADfF0lGuhSU141-aacv2-48K.m4a",
+      "title": {
+        "text": "第51集 待会帮我们拿东西！",
+        "truncated": false
+      },
+      "description": {
+        "text": "免费 多播 爆笑 甜言 精品言情 他：“这是我远房一侄女，脑子不太好使！” 海归总裁极品小叔叔。 她：“叔叔，你命里缺我！” 一个向他借钱买早餐的奇葩女孩。 而那抹她带来的清凉软糯的香甜回忆，让他多年念念不忘。所以当她磨磨蹭蹭走到他面前：“老师，我爱你！”他没说话，可是眼睛里却微蕴起了笑意。看着那张很想让人欺负的脸，好像一只百无聊赖的猫，找到了一个毛线团…… 一场最匪夷所思的“潜规则”即将开始。 尽在《叔叔，你命里缺我！》 【作者/演播】 作者：金刚芭比 演播：余音 【更新时间】 隔天11:00 地球不炸 绝不断更 余音 分裂派全能女主播，如果您胆子大，可以听听余音讲的《美女恐怖鬼故事》哟。 没事儿了可以听听《一分钟看透对方心理》了解点心理学小秘密呢， 如果您睡不着啦？请听《余音电台》如果您的宝宝也睡不着？请听《小余儿姐姐讲故事》总之，小余儿，就是讲鬼故事里最会讲童话的，讲言情里最懂心理的，哈哈哈哈 余音 Q群:935505849 欢迎打扰 喵~",
+        "truncated": false
+      },
+      "published_at": "Thu, 14 Nov 2019 03:00:05 GMT",
+      "feed_index": 51
+    },
+    {
+      "id": "14c240ccff5870e2a9c946b81f3e65f08abb3d810db4a58f75071133ee23e071",
+      "guid": "https://aod.cos.tx.xmcdn.com/group75/M06/A4/EC/wKgO3V6EAQKRWdQ5ACgFo1Psias878-aacv2-48K.m4a",
+      "title": {
+        "text": "第76集 你别害怕，我不是什么好人！",
+        "truncated": false
+      },
+      "description": {
+        "text": "免费 多播 爆笑 甜言 精品言情 他：“这是我远房一侄女，脑子不太好使！” 海归总裁极品小叔叔。 她：“叔叔，你命里缺我！” 一个向他借钱买早餐的奇葩女孩。 而那抹她带来的清凉软糯的香甜回忆，让他多年念念不忘。所以当她磨磨蹭蹭走到他面前：“老师，我爱你！”他没说话，可是眼睛里却微蕴起了笑意。看着那张很想让人欺负的脸，好像一只百无聊赖的猫，找到了一个毛线团…… 一场最匪夷所思的“潜规则”即将开始。 尽在《叔叔，你命里缺我！》 【作者/演播】 作者：金刚芭比 演播：余音 【更新时间】 地球不炸 绝不断更 余音 分裂派全能女主播，如果您胆子大，可以听听余音讲的《美女恐怖鬼故事》哟。 没事儿了可以听听《一分钟看透对方心理》了解点心理学小秘密呢， 如果您睡不着啦？请听《余音电台》如果您的宝宝也睡不着？请听《小余儿姐姐讲故事》总之，小余儿，就是讲鬼故事里最会讲童话的，讲言情里最懂心理的，哈哈哈哈 余音 Q群:935505849 欢迎打扰 喵~",
+        "truncated": false
+      },
+      "published_at": "Wed, 01 Apr 2020 02:48:26 GMT",
+      "feed_index": 77
+    },
+    {
+      "id": "e8d64556a9b7713f3c90a0c66ad021fb4b5403f7e12b25c540441bb0c77e8f0d",
+      "guid": "https://aod.cos.tx.xmcdn.com/group79/M08/2C/7B/wKgPEF7J1bTDhrsvACLHXOdp9nA549-aacv2-48K.m4a",
+      "title": {
+        "text": "第101集 田经理，我是真的要辞职！",
+        "truncated": false
+      },
+      "description": {
+        "text": "免费 多播 爆笑 甜言 精品言情 他：“这是我远房一侄女，脑子不太好使！” 海归总裁极品小叔叔。 她：“叔叔，你命里缺我！” 一个向他借钱买早餐的奇葩女孩。 而那抹她带来的清凉软糯的香甜回忆，让他多年念念不忘。所以当她磨磨蹭蹭走到他面前：“老师，我爱你！”他没说话，可是眼睛里却微蕴起了笑意。看着那张很想让人欺负的脸，好像一只百无聊赖的猫，找到了一个毛线团…… 一场最匪夷所思的“潜规则”即将开始。 尽在《叔叔，你命里缺我！》 【作者/演播】 作者：金刚芭比 演播：余音 【更新时间】 地球不炸 绝不断更",
+        "truncated": false
+      },
+      "published_at": "Sun, 24 May 2020 02:00:32 GMT",
+      "feed_index": 102
+    },
+    {
+      "id": "13caf4dd8fa814ec81c2a81b1a78a464cc26feeeff47e5ad739026a4d4edd5cd",
+      "guid": "https://aod.cos.tx.xmcdn.com/group83/M05/DF/34/wKg5I18LztfjqU9NACTAgh5Pj5c666-aacv2-48K.m4a",
+      "title": {
+        "text": "第126集 他这才如梦方醒，也跟着喊了一句：妈 ！",
+        "truncated": false
+      },
+      "description": {
+        "text": "微信搜索 余音公众号： 恐怖小姐姐 余音个人微信[contact removed] CV: 苏亚文：冰城晓东 经理： 雷鸣lemon 爷爷：雨田故事",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Jul 2020 03:02:41 GMT",
+      "feed_index": 128
+    },
+    {
+      "id": "1bb0773aef915ebf949787cb4a9d5734be25f22139573d732d0071ead21a8e2e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group84/M08/4E/70/wKg5JF9cK8LDKjjZAB1UWSZlDGA254-aacv2-48K.m4a",
+      "title": {
+        "text": "第151集 踩着blx还一脸无辜地笑",
+        "truncated": false
+      },
+      "description": {
+        "text": "余音：喜马拉雅签约主播、商业配音员。声音大气甜美、情感细腻百变。代表作：《恐怖小姐姐》、《失联》、《虚拟谋杀》等。 余音个人微信[contact removed] 欢迎来访",
+        "truncated": false
+      },
+      "published_at": "Sat, 12 Sep 2020 02:00:15 GMT",
+      "feed_index": 153
+    },
+    {
+      "id": "ab4c27dd72386c4ff28683e374223c3e3cfdd3d4148eca652d71185c592b8ab5",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6c7f-audiofreehighqps/E6/1E/CMCoOSUDh93lAAGooABnYbAQ.m4a",
+      "title": {
+        "text": "余音新书《我有多爱你，时光它知道》上架啦！",
+        "truncated": false
+      },
+      "description": {
+        "text": "点此跳转： 我有多爱你，时光它知道",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Oct 2020 01:37:34 GMT",
+      "feed_index": 179
+    }
+  ]
+}

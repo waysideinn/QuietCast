@@ -1,0 +1,140 @@
+{
+  "show_id": "1609742899",
+  "feed_url": "http://www.ximalaya.com/album/56958182.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/56958182.xml",
+    "final_url": "http://www.ximalaya.com/album/56958182.xml",
+    "fetched_at": "2026-10-25T14:55:02.208956+00:00",
+    "status": 200,
+    "sha256": "a86cc67ab27c3d84261b1408e6f31bcb667dc0c5ca214865da7c7d8ead0e61c3"
+  },
+  "status": "ok",
+  "title": {
+    "text": "规则类怪谈丨每日一更",
+    "truncated": false
+  },
+  "description": {
+    "text": "每日更新一集丨这里有许多“规则”，请各位务必遵守……但……逐一遵守？就真的安全了吗？要相信自己的选择，相信相信的力量，不要试图去探究它。探究它，只会更容易被它盯上，那时候，已经晚了……",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 182,
+  "episodes": [
+    {
+      "id": "58d99a9f045bc3d7b69e1af1a9d5dc6d5b8a9bd0d3f72f89f6439af8897cb798",
+      "guid": "xmly_track_549225230",
+      "title": {
+        "text": "内巷电影院：解析",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 08 Jul 2022 03:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ab95462318394a62263660a050d0b0565c4ad43f55ff22d562f08592410cda59",
+      "guid": "xmly_track_541892974",
+      "title": {
+        "text": "男友的备忘录：维修预约",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 11 Jun 2022 03:00:00 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "9781dbfe9868701e2e640c51e250f6bd8bf75b616ea53d41f7d8ba0fbdb4e772",
+      "guid": "xmly_track_530352641",
+      "title": {
+        "text": "仁和医院：记者日记（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 12 May 2022 02:02:00 GMT",
+      "feed_index": 52
+    },
+    {
+      "id": "9a39bbfb1398adcbb02a33a52185330e660f2a50f2fc2633c2ceea5589f1079d",
+      "guid": "xmly_track_521344794",
+      "title": {
+        "text": "丽峡图书馆：咖啡厅外勤指南（旧版，已作废）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Apr 2022 02:14:00 GMT",
+      "feed_index": 78
+    },
+    {
+      "id": "143a0b349802178bdeb3ab900870e094b115d887a2f29f4e0cbcadcf0b0c4859",
+      "guid": "xmly_track_514357461",
+      "title": {
+        "text": "切比雪夫糖果厂：车间主管规范（5）",
+        "truncated": false
+      },
+      "description": {
+        "text": "在休息室等待……这样您可能更安全……",
+        "truncated": false
+      },
+      "published_at": "Thu, 24 Mar 2022 13:50:26 GMT",
+      "feed_index": 103
+    },
+    {
+      "id": "b479597223ec4732b67bc4e75cd5b3e7d099913b0178955eb52feb9d9c7219ca",
+      "guid": "xmly_track_509852119",
+      "title": {
+        "text": "去世妹妹的邮件（6）",
+        "truncated": false
+      },
+      "description": {
+        "text": "我渐渐明白，这些邮件在说什么了……",
+        "truncated": false
+      },
+      "published_at": "Fri, 11 Mar 2022 11:11:33 GMT",
+      "feed_index": 129
+    },
+    {
+      "id": "bc260fd94f5e298983d05f35d3b963515c35cf3a7fa6fb545b2f9faa7a2d0381",
+      "guid": "xmly_track_505181036",
+      "title": {
+        "text": "学校怪谈：图书馆篇（2）",
+        "truncated": false
+      },
+      "description": {
+        "text": "不要把手伸进传输口！请按时归还书籍……",
+        "truncated": false
+      },
+      "published_at": "Thu, 24 Feb 2022 14:22:43 GMT",
+      "feed_index": 155
+    },
+    {
+      "id": "869aa5d6636e9c16afa0de3e28b063b902249e1f7c43e811a4c99fa069f389b3",
+      "guid": "xmly_track_500565872",
+      "title": {
+        "text": "妈妈留的纸条：壹",
+        "truncated": false
+      },
+      "description": {
+        "text": "妈妈要临时出差一个月，你在家要遵守规则哦",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Feb 2022 05:04:19 GMT",
+      "feed_index": 181
+    }
+  ]
+}

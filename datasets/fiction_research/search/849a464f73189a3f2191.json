@@ -1,0 +1,747 @@
+{
+  "group": "fiction",
+  "term": "三国演义",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:41:52.049747+00:00",
+    "status": 200,
+    "sha256": "515c72c557c5ba6bcfd21c089ccfc25da87a4531e760121bc44250dbad2f4881"
+  },
+  "result_count": 31,
+  "records": [
+    {
+      "collectionId": 1706854885,
+      "trackId": 1706854885,
+      "collectionName": "《三国演义》原著原文字幕",
+      "artistName": "多云下的蛋",
+      "feedUrl": "https://www.ximalaya.com/album/77937353.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E5%8E%9F%E8%91%97%E5%8E%9F%E6%96%87%E5%AD%97%E5%B9%95/id1706854885?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "社会与文化",
+        "纪实"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1324",
+        "1543"
+      ],
+      "trackCount": 120,
+      "releaseDate": "2023-11-06T01:35:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1849069788,
+      "trackId": 1849069788,
+      "collectionName": "《三国演义》儿童版",
+      "artistName": "小月亮故事屋moon",
+      "feedUrl": "https://www.ximalaya.com/album/109094645.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E5%84%BF%E7%AB%A5%E7%89%88/id1849069788?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "儿童与家庭",
+        "儿童故事"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1305",
+        "1520"
+      ],
+      "trackCount": 120,
+      "releaseDate": "2026-02-24T12:24:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1833387775,
+      "trackId": 1833387775,
+      "collectionName": "我读你听《三国演义》",
+      "artistName": "一锅红烧肉啊",
+      "feedUrl": "https://www.ximalaya.com/album/101498602.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E8%AF%BB%E4%BD%A0%E5%90%AC-%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89/id1833387775?uo=4",
+      "genres": [
+        "历史",
+        "播客"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 13,
+      "releaseDate": "2026-08-30T07:20:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1590670330,
+      "trackId": 1590670330,
+      "collectionName": "三国演义 | 经典评书系列（小熊有声）",
+      "artistName": "小熊有声",
+      "feedUrl": "http://www.ximalaya.com/album/44599381.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E7%BB%8F%E5%85%B8%E8%AF%84%E4%B9%A6%E7%B3%BB%E5%88%97-%E5%B0%8F%E7%86%8A%E6%9C%89%E5%A3%B0/id1590670330?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 146,
+      "releaseDate": "2022-08-07T09:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1609546827,
+      "trackId": 1609546827,
+      "collectionName": "给孩子讲罗贯中全本的三国演义",
+      "artistName": "爱玩的赵先生",
+      "feedUrl": "http://www.ximalaya.com/album/56734981.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BB%99%E5%AD%A9%E5%AD%90%E8%AE%B2%E7%BD%97%E8%B4%AF%E4%B8%AD%E5%85%A8%E6%9C%AC%E7%9A%84%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89/id1609546827?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "科学",
+        "社会科学"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1533",
+        "1535"
+      ],
+      "trackCount": 120,
+      "releaseDate": "2023-03-22T15:30:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1375417096,
+      "trackId": 1375417096,
+      "collectionName": "《三国演义》细节解密",
+      "artistName": "大锤说史",
+      "feedUrl": "http://www.ximalaya.com/album/12260119.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E7%BB%86%E8%8A%82%E8%A7%A3%E5%AF%86/id1375417096?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "社会与文化",
+        "旅行与地方文化"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324",
+        "1320"
+      ],
+      "trackCount": 119,
+      "releaseDate": "2020-05-26T12:39:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 6787386101,
+      "trackId": 6787386101,
+      "collectionName": "三国演义儿童版：写给孩子的三国故事",
+      "artistName": "喜洋洋与村长讲故事",
+      "feedUrl": "https://www.ximalaya.com/album/126338832.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E5%84%BF%E7%AB%A5%E7%89%88-%E5%86%99%E7%BB%99%E5%AD%A9%E5%AD%90%E7%9A%84%E4%B8%89%E5%9B%BD%E6%95%85%E4%BA%8B/id6787386101?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 74,
+      "releaseDate": "2026-09-27T02:51:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1547740550,
+      "trackId": 1547740550,
+      "collectionName": "三国演义-原著朗读",
+      "artistName": "曦爸读经典",
+      "feedUrl": "https://papi.qingting.fm/podcast/channels/10845",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E5%8E%9F%E8%91%97%E6%9C%97%E8%AF%BB/id1547740550?uo=4",
+      "genres": [
+        "历史",
+        "播客"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 324,
+      "releaseDate": "2021-06-25T01:08:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1532170181,
+      "trackId": 1532170181,
+      "collectionName": "细读《三国演义》全本｜解码乱世权谋中的生存智慧",
+      "artistName": "尹岩的言_zsg",
+      "feedUrl": "http://www.ximalaya.com/album/41371898.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%BB%86%E8%AF%BB-%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E5%85%A8%E6%9C%AC-%E8%A7%A3%E7%A0%81%E4%B9%B1%E4%B8%96%E6%9D%83%E8%B0%8B%E4%B8%AD%E7%9A%84%E7%94%9F%E5%AD%98%E6%99%BA%E6%85%A7/id1532170181?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "休闲",
+        "爱好"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 446,
+      "releaseDate": "2021-11-15T21:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1633199577,
+      "trackId": 1633199577,
+      "collectionName": "四大名著之 三国演义 原著原文朗读",
+      "artistName": "自然音乐风",
+      "feedUrl": "https://www.ximalaya.com/album/69232996.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97%E4%B9%8B-%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E5%8E%9F%E8%91%97%E5%8E%9F%E6%96%87%E6%9C%97%E8%AF%BB/id1633199577?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 120,
+      "releaseDate": "2022-07-04T06:35:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1434062971,
+      "trackId": 1434062971,
+      "collectionName": "多多妈讲故事|少儿三国演义",
+      "artistName": "吴多多妈妈",
+      "feedUrl": "http://www.ximalaya.com/album/16693405.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%9A%E5%A4%9A%E5%A6%88%E8%AE%B2%E6%95%85%E4%BA%8B-%E5%B0%91%E5%84%BF%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89/id1434062971?uo=4",
+      "genres": [
+        "儿童与家庭",
+        "播客",
+        "教育",
+        "课程"
+      ],
+      "genreIds": [
+        "1305",
+        "26",
+        "1304",
+        "1501"
+      ],
+      "trackCount": 36,
+      "releaseDate": "2018-08-31T00:20:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童与家庭"
+    },
+    {
+      "collectionId": 1738620832,
+      "trackId": 1738620832,
+      "collectionName": "唠嗑讲故事之三国演义",
+      "artistName": "东北贼大王",
+      "feedUrl": "https://www.ximalaya.com/album/81037286.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%94%A0%E5%97%91%E8%AE%B2%E6%95%85%E4%BA%8B%E4%B9%8B%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89/id1738620832?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "表演艺术"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1405"
+      ],
+      "trackCount": 20,
+      "releaseDate": "2026-06-04T07:40:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1544463635,
+      "trackId": 1544463635,
+      "collectionName": "耳听《新三国》| 带你免费速听整部三国演义",
+      "artistName": "岩谷绘声",
+      "feedUrl": "http://www.ximalaya.com/album/43285608.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%80%B3%E5%90%AC-%E6%96%B0%E4%B8%89%E5%9B%BD-%E5%B8%A6%E4%BD%A0%E5%85%8D%E8%B4%B9%E9%80%9F%E5%90%AC%E6%95%B4%E9%83%A8%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89/id1544463635?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 109,
+      "releaseDate": "2020-11-13T03:50:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1543116288,
+      "trackId": 1543116288,
+      "collectionName": "三国演义丨阿甘为您讲三国",
+      "artistName": "新甘儿大大",
+      "feedUrl": "http://www.ximalaya.com/album/44322382.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E4%B8%A8%E9%98%BF%E7%94%98%E4%B8%BA%E6%82%A8%E8%AE%B2%E4%B8%89%E5%9B%BD/id1543116288?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2020-12-16T05:41:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1713902343,
+      "trackId": 1713902343,
+      "collectionName": "三国演义 原文 原著 全文 男中音",
+      "artistName": "炉火焰山",
+      "feedUrl": "https://www.ximalaya.com/album/78646732.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E5%8E%9F%E6%96%87-%E5%8E%9F%E8%91%97-%E5%85%A8%E6%96%87-%E7%94%B7%E4%B8%AD%E9%9F%B3/id1713902343?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 120,
+      "releaseDate": "2024-09-22T04:41:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1123399470,
+      "trackId": 1123399470,
+      "collectionName": "多爸读讲《三国演义》原著 上",
+      "artistName": "多爸讲书",
+      "feedUrl": "http://www.ximalaya.com/album/2965393.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%9A%E7%88%B8%E8%AF%BB%E8%AE%B2-%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E5%8E%9F%E8%91%97-%E4%B8%8A/id1123399470?uo=4",
+      "genres": [
+        "课程",
+        "播客",
+        "教育",
+        "儿童与家庭"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1305"
+      ],
+      "trackCount": 233,
+      "releaseDate": "2018-08-11T13:05:00Z",
+      "country": "CHN",
+      "primaryGenreName": "课程"
+    },
+    {
+      "collectionId": 1623099660,
+      "trackId": 1623099660,
+      "collectionName": "《三国演义》AI 每天8分钟共读一本名著",
+      "artistName": "听友29354574",
+      "feedUrl": "http://www.ximalaya.com/album/66819380.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-ai-%E6%AF%8F%E5%A4%A98%E5%88%86%E9%92%9F%E5%85%B1%E8%AF%BB%E4%B8%80%E6%9C%AC%E5%90%8D%E8%91%97/id1623099660?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 41,
+      "releaseDate": "2022-06-15T23:57:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1795664490,
+      "trackId": 1795664490,
+      "collectionName": "三国演义-原文朗读【四大名著】",
+      "artistName": "白云出岫",
+      "feedUrl": "https://www.ximalaya.com/album/268522.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E5%8E%9F%E6%96%87%E6%9C%97%E8%AF%BB-%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97/id1795664490?uo=4",
+      "genres": [
+        "喜剧小说",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1486",
+        "26",
+        "1483"
+      ],
+      "trackCount": 248,
+      "releaseDate": "2019-08-20T08:17:00Z",
+      "country": "CHN",
+      "primaryGenreName": "喜剧小说"
+    },
+    {
+      "collectionId": 1552315529,
+      "trackId": 1552315529,
+      "collectionName": "三国演义原著原文",
+      "artistName": "千寻吴鸣",
+      "feedUrl": "http://www.ximalaya.com/album/35248600.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E5%8E%9F%E8%91%97%E5%8E%9F%E6%96%87/id1552315529?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "社会与文化",
+        "纪实"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1324",
+        "1543"
+      ],
+      "trackCount": 131,
+      "releaseDate": "2020-07-27T10:29:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 1539168778,
+      "trackId": 1539168778,
+      "collectionName": "开卷无益丨乱弹水浒传+暗黑西游记+胡侃三国演义",
+      "artistName": "春典",
+      "feedUrl": "http://www.ximalaya.com/album/43040427.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%BC%80%E5%8D%B7%E6%97%A0%E7%9B%8A%E4%B8%A8%E4%B9%B1%E5%BC%B9%E6%B0%B4%E6%B5%92%E4%BC%A0-%E6%9A%97%E9%BB%91%E8%A5%BF%E6%B8%B8%E8%AE%B0-%E8%83%A1%E4%BE%83%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89/id1539168778?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 97,
+      "releaseDate": "2025-02-27T04:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1836579173,
+      "trackId": 1836579173,
+      "collectionName": "【玩宝故事】《三国演义》少儿版",
+      "artistName": "玩千",
+      "feedUrl": "https://www.ximalaya.com/album/103733727.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E7%8E%A9%E5%AE%9D%E6%95%85%E4%BA%8B-%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E5%B0%91%E5%84%BF%E7%89%88/id1836579173?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "儿童与家庭",
+        "儿童教育"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1305",
+        "1519"
+      ],
+      "trackCount": 42,
+      "releaseDate": "2025-08-29T12:18:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 912297656,
+      "trackId": 912297656,
+      "collectionName": "三国演义",
+      "artistName": "ID星空黑夜",
+      "feedUrl": "http://www.ximalaya.com/album/271027.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89/id912297656?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 240,
+      "releaseDate": "2015-03-21T23:25:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1622050411,
+      "trackId": 1622050411,
+      "collectionName": "三国演义-原文演播/三石读名著",
+      "artistName": "三石有声",
+      "feedUrl": "http://www.ximalaya.com/album/49801070.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E5%8E%9F%E6%96%87%E6%BC%94%E6%92%AD-%E4%B8%89%E7%9F%B3%E8%AF%BB%E5%90%8D%E8%91%97/id1622050411?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 121,
+      "releaseDate": "2022-03-20T16:13:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 1209426639,
+      "trackId": 1209426639,
+      "collectionName": "多爸读讲《三国演义》原著 下",
+      "artistName": "多爸讲书",
+      "feedUrl": "http://www.ximalaya.com/album/424114.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%A4%9A%E7%88%B8%E8%AF%BB%E8%AE%B2-%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E5%8E%9F%E8%91%97-%E4%B8%8B/id1209426639?uo=4",
+      "genres": [
+        "教育",
+        "播客",
+        "儿童与家庭"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1305"
+      ],
+      "trackCount": 115,
+      "releaseDate": "2015-12-27T14:24:00Z",
+      "country": "CHN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1833616000,
+      "trackId": 1833616000,
+      "collectionName": "三国演义 | 古登堡现代汉语计划",
+      "artistName": "星抟",
+      "feedUrl": "https://www.ximalaya.com/album/100170069.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E5%8F%A4%E7%99%BB%E5%A0%A1%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AE%A1%E5%88%92/id1833616000?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "历史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 83,
+      "releaseDate": "2025-08-24T11:43:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 945618791,
+      "trackId": 945618791,
+      "collectionName": "三国演义 亲子共读",
+      "artistName": "靓妈1信1画给孩子",
+      "feedUrl": "http://www.ximalaya.com/album/296902.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E4%BA%B2%E5%AD%90%E5%85%B1%E8%AF%BB/id945618791?uo=4",
+      "genres": [
+        "儿童与家庭",
+        "播客",
+        "教育",
+        "课程"
+      ],
+      "genreIds": [
+        "1305",
+        "26",
+        "1304",
+        "1501"
+      ],
+      "trackCount": 335,
+      "releaseDate": "2016-01-01T13:46:00Z",
+      "country": "CHN",
+      "primaryGenreName": "儿童与家庭"
+    },
+    {
+      "collectionId": 1736662689,
+      "trackId": 1736662689,
+      "collectionName": "三国演义-原著演播",
+      "artistName": "寞然挥手",
+      "feedUrl": "https://www.ximalaya.com/album/80749297.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E5%8E%9F%E8%91%97%E6%BC%94%E6%92%AD/id1736662689?uo=4",
+      "genres": [
+        "剧情",
+        "播客",
+        "小说",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 72,
+      "releaseDate": "2024-04-29T03:10:00Z",
+      "country": "CHN",
+      "primaryGenreName": "剧情"
+    },
+    {
+      "collectionId": 6791880787,
+      "trackId": 6791880787,
+      "collectionName": "三国演义·英雄局——拆解三国权谋史诗",
+      "artistName": "苏折灰太",
+      "feedUrl": "https://www.ximalaya.com/album/126991481.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89-%E8%8B%B1%E9%9B%84%E5%B1%80-%E6%8B%86%E8%A7%A3%E4%B8%89%E5%9B%BD%E6%9D%83%E8%B0%8B%E5%8F%B2%E8%AF%97/id6791880787?uo=4",
+      "genres": [
+        "历史",
+        "播客"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 202,
+      "releaseDate": "2026-10-23T08:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 896570807,
+      "trackId": 896570807,
+      "collectionName": "法家三国-法家眼中的三国演义",
+      "artistName": "法家后生",
+      "feedUrl": "http://www.ximalaya.com/album/257487.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%B3%95%E5%AE%B6%E4%B8%89%E5%9B%BD-%E6%B3%95%E5%AE%B6%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89/id896570807?uo=4",
+      "genres": [
+        "灵修",
+        "播客",
+        "宗教与心灵",
+        "社会与文化",
+        "哲学"
+      ],
+      "genreIds": [
+        "1444",
+        "26",
+        "1314",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 677,
+      "releaseDate": "2020-02-11T15:27:00Z",
+      "country": "CHN",
+      "primaryGenreName": "灵修"
+    },
+    {
+      "collectionId": 1511302015,
+      "trackId": 1511302015,
+      "collectionName": "无演义·不“三国”|陆树铭老师倾情推荐",
+      "artistName": "严知有理",
+      "feedUrl": "http://www.ximalaya.com/album/36959017.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E6%97%A0%E6%BC%94%E4%B9%89-%E4%B8%8D-%E4%B8%89%E5%9B%BD-%E9%99%86%E6%A0%91%E9%93%AD%E8%80%81%E5%B8%88%E5%80%BE%E6%83%85%E6%8E%A8%E8%8D%90/id1511302015?uo=4",
+      "genres": [
+        "历史",
+        "播客",
+        "艺术",
+        "图书"
+      ],
+      "genreIds": [
+        "1487",
+        "26",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 140,
+      "releaseDate": "2022-02-11T14:01:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    },
+    {
+      "collectionId": 6801827732,
+      "trackId": 6801827732,
+      "collectionName": "三国志问答局 | 拨开演义滤镜，聊聊正史三国",
+      "artistName": "特莫里克斯",
+      "feedUrl": "https://www.ximalaya.com/album/128491134.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E5%BF%97%E9%97%AE%E7%AD%94%E5%B1%80-%E6%8B%A8%E5%BC%80%E6%BC%94%E4%B9%89%E6%BB%A4%E9%95%9C-%E8%81%8A%E8%81%8A%E6%AD%A3%E5%8F%B2%E4%B8%89%E5%9B%BD/id6801827732?uo=4",
+      "genres": [
+        "历史",
+        "播客"
+      ],
+      "genreIds": [
+        "1487",
+        "26"
+      ],
+      "trackCount": 80,
+      "releaseDate": "2026-08-28T15:34:00Z",
+      "country": "CHN",
+      "primaryGenreName": "历史"
+    }
+  ]
+}

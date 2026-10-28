@@ -1,0 +1,140 @@
+{
+  "show_id": "1578213878",
+  "feed_url": "https://feed.firstory.me/rss/user/ckrd5gb22gild0806s9pthc6f",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckrd5gb22gild0806s9pthc6f",
+    "final_url": "https://feed.firstory.me/rss/user/ckrd5gb22gild0806s9pthc6f",
+    "fetched_at": "2026-10-25T14:53:38.437697+00:00",
+    "status": 200,
+    "sha256": "d130bc21507c9a7905829f346a4f4400e849986f22cbd33bb4e1fb25b979324d"
+  },
+  "status": "ok",
+  "title": {
+    "text": "台灣歷史故事",
+    "truncated": false
+  },
+  "description": {
+    "text": "大家好，我叫阿三是一個喜歡研究台灣歷史故事、人物歷史的鄉村青年，希望能在這裡跟大家分享我蒐集到的故事，希望大家會喜歡 喜歡我們的朋友，歡迎追蹤我的IG \"historytaiwan\" 歡迎到我的部落格觀看圖文： https://reurl.cc/bXrqNy Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "explicit": "no",
+    "keywords": ""
+  },
+  "feed_item_count": 15,
+  "episodes": [
+    {
+      "id": "709f2f1eec6a68646338cd87ee4953ffed682e0517a47cee2cc33ed976d898ee",
+      "guid": "ckvfrckvrn4ka08951qbzj6tb",
+      "title": {
+        "text": "#走讀 02-嘉義民鄉 菁埔村 介紹 貓咪彩繪村、樹神信仰",
+        "truncated": false
+      },
+      "description": {
+        "text": "小額贊助支持本節目： https://pay.firstory.me/user/folkstory 留言告訴我你對這一集的想法： https://open.firstory.me/story/ckvfrckvrn4ka08951qbzj6tb?m=comment 喜歡我們的朋友，歡迎追蹤我的IG FB：台灣歷史故事 IG：\"historytaiwan\" 歡迎到我的部落格觀看圖文： https://reurl.cc/YjDqX0 我的美食部落格： https://historyfood.pixnet.net/blog 片尾 ちょっと休憩（小休息） 編曲： 李芫萱（芫來東京） 作曲： 李芫萱（芫來東京） 製作： 李芫萱（芫來東京） 授權： https://creativecommons.org/licenses/by-nd/4.0/deed.zh_TW Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 31 Oct 2021 21:41:04 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "3350cd591ac3ca133787ecb6ae854df22e177b712e3a3de36e48a1a2e73c64e1",
+      "guid": "cktu1nl8a5qxs08701ciw066a",
+      "title": {
+        "text": "#地方史01-嘉義舊城、諸羅城",
+        "truncated": false
+      },
+      "description": {
+        "text": "嘉義古名諸羅！ 喜歡我們的朋友，歡迎追蹤我的IG FB：台灣歷史故事 IG：\"historytaiwan\" 歡迎到我的部落格觀看圖文： https://bluesea714.pixnet.net/blog/post/354080803 我的美食部落格： https://historyfood.pixnet.net/blog 如果喜歡我的朋友，歡迎贊助一下喔。 https://pay.firstory.me/user/folkstory 片尾 ちょっと休憩（小休息） 編曲： 李芫萱（芫來東京） 作曲： 李芫萱（芫來東京） 製作： 李芫萱（芫來東京） 授權： https://creativecommons.org/licenses/by-nd/4.0/deed.zh_TW Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 21 Sep 2021 12:18:55 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "50a4757da4622ad387d9eddf36f4efabb9f914c9c72fe2458fd64bbe67b546c3",
+      "guid": "cktebwa031j0k0886ud7ukx0t",
+      "title": {
+        "text": "#天災03-嘉義 1906年 梅山大地震",
+        "truncated": false
+      },
+      "description": {
+        "text": "20世紀台灣地震史上第四慘的地震！ 喜歡我們的朋友，歡迎追蹤我的IG FB：台灣歷史故事 IG：\"historytaiwan\" 歡迎到我的部落格觀看圖文： https://bluesea714.pixnet.net/blog/post/354080803 如果喜歡我的朋友，歡迎贊助一下喔。 https://pay.firstory.me/user/folkstory 片尾 ちょっと休憩（小休息） 編曲： 李芫萱（芫來東京） 作曲： 李芫萱（芫來東京） 製作： 李芫萱（芫來東京） 授權： https://creativecommons.org/licenses/by-nd/4.0/deed.zh_TW Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 10 Sep 2021 12:40:22 GMT",
+      "feed_index": 4
+    },
+    {
+      "id": "0b9f5824dc52f24897b044bc55ab1a0b9d2a54f9b2609fb56c6d77f6484d4aef",
+      "guid": "cksx032acelsh0875o6daxszn",
+      "title": {
+        "text": "#天災01-台南 下營 茅港尾港、同治年-台南地震、天后宮-媽祖坐牢一百年",
+        "truncated": false
+      },
+      "description": {
+        "text": "純樸的小農村到底曾經發生過什麼事情呢? 小農村裡竟然有史前時代的石器? 媽祖竟然坐牢? 部分參考維基百科。 喜歡我們的朋友，歡迎追蹤我的IG \"historytaiwan\" 歡迎到我的部落格觀看圖文： https://bluesea714.pixnet.net/blog/post/354080803 片尾 ちょっと休憩（小休息） 編曲： 李芫萱（芫來東京） 作曲： 李芫萱（芫來東京） 製作： 李芫萱（芫來東京） 授權： https://creativecommons.org/licenses/by-nd/4.0/deed.zh_TW Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 29 Aug 2021 09:18:34 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "e855fc4a4fa9820090c001e03c2054eaf177a7008946fa00657ed9262fb8c910",
+      "guid": "cksrhn8e3g8k10858irsyf42g",
+      "title": {
+        "text": "#傳說03-台南 陳守娘顯聖 清代四大奇案",
+        "truncated": false
+      },
+      "description": {
+        "text": "清代四大奇案：林投姐、陳守娘顯聖、呂祖廟燒金、周成過台灣 喜歡我們的朋友，歡迎追蹤我的IG \"historytaiwan\" 歡迎到我的部落格觀看圖文：點吧！ 片尾 ちょっと休憩（小休息） 編曲： 李芫萱（芫來東京） 作曲： 李芫萱（芫來東京） 製作： 李芫萱（芫來東京） 授權： https://creativecommons.org/licenses/by-nd/4.0/deed.zh_TW Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 Aug 2021 12:43:32 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "b577390cab9475f76b0893f9e37d83cd52c6fb7eab746fe5f72c25ae50ba78d4",
+      "guid": "cks7jrizmbiiz0905phmz44y5",
+      "title": {
+        "text": "#傳說02-台南 林投姐 清代四大奇案",
+        "truncated": false
+      },
+      "description": {
+        "text": "清代四大奇案：林投姐、陳守娘顯聖、呂祖廟燒金、周成過台灣 喜歡我們的朋友，歡迎追蹤我的IG \"historytaiwan\" 歡迎到我的部落格觀看圖文： https://reurl.cc/bXrqNy 片尾 ちょっと休憩（小休息） 編曲： 李芫萱（芫來東京） 作曲： 李芫萱（芫來東京） 製作： 李芫萱（芫來東京） 授權： https://creativecommons.org/licenses/by-nd/4.0/deed.zh_TW Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Wed, 11 Aug 2021 13:47:28 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "3ee14903adaaed6425485007e0a614112f45103c7e739c1f44d4012c809569a6",
+      "guid": "ckrsivsd51wbv0854urgrftvv",
+      "title": {
+        "text": "#傳說01-嘉義 大林 大林水鬼",
+        "truncated": false
+      },
+      "description": {
+        "text": "育菁親水公園： 嘉義縣大林鎮中學路1號(大林國中)前 以上均屬傳說，日本時期言論不代表任何政治立場。 歡迎到我的部落格觀看圖文： https://reurl.cc/yEbqva Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 01 Aug 2021 01:26:14 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "b8bff5d0c2beb63f52a2950bc1e53a4bcf903956a4c9a247c07565290f05d156",
+      "guid": "ckreuvle0onl70984050879ve",
+      "title": {
+        "text": "#廟宇01-嘉義 民雄 水流媽傳奇",
+        "truncated": false
+      },
+      "description": {
+        "text": "水流媽廟 地址：嘉義縣民雄鄉豐收村好收 非起乩時間，晚上不建議過去 我的痞客邦部落格－裡面有詳細的圖文介紹。 https://bluesea714.pixnet.net/blog 如果喜歡我的故事，歡迎按下追蹤，並給予5星評價。 片尾： ちょっと休憩（小休息） 編曲： 李芫萱（芫來東京） 作曲： 李芫萱（芫來東京） 製作： 李芫萱（芫來東京） 授權： https://creativecommons.org/licenses/by-nd/4.0/deed.zh_TW Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Jul 2021 11:53:14 GMT",
+      "feed_index": 14
+    }
+  ]
+}

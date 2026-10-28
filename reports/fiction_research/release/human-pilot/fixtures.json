@@ -1,0 +1,3625 @@
+{
+  "evaluationTime": "2026-10-27T12:46:25.160688+00:00",
+  "fixtures": [
+    {
+      "unit": "show",
+      "show_id": "1021963866",
+      "episode_id": null,
+      "title": "文化媒体人",
+      "fields": {
+        "showTitle": "文化媒体人",
+        "showDescription": "最新节目在“充电时间”订阅号连载。",
+        "showCategories": "个人日记\n播客\n社会与文化\n艺术\n图书",
+        "author": "充电时间",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/323825.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1302",
+          "name": "个人日记",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%87%E5%8C%96&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:38.505027+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%87%E5%8C%96&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:38.505027+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社会与文化",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%87%E5%8C%96&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:38.505027+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1301",
+          "name": "艺术",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%87%E5%8C%96&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:38.505027+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1482",
+          "name": "图书",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%87%E5%8C%96&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:38.505027+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "充电时间",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%87%E5%8C%96&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:38.505027+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1030231015",
+      "episode_id": null,
+      "title": "格列佛—听的旅行攻略",
+      "fields": {
+        "showTitle": "格列佛—听的旅行攻略",
+        "showDescription": "格列佛 是我们儿时 《大人国和小人国》 的主人公。 他是 最牛 的旅行达人。 在 时间就是金钱 当今社会， 搞定一份 自由行攻略 需要多少时间呢？10天，20天，30天... 专业 的事情，还是交给 专业的人 来做吧～，让 格列佛 这个专业玩家，为您开启 最便捷自由行 的模式。 通过严格筛选， 格列佛 邀请全球旅行达人，他们是留学多年的 大学讲师 、 艺术工作者 、 公司老板 ，用国人视角， 手把手教你如何在 海外更优雅地 吃喝玩乐 。 用最短时间解决 行程安排 ； 最快了解当地美食，解决 一日三餐 ； 解决 买买买 ，分清潮牌和大牌都有哪些门道； 如何像本地人一样 乘坐公共交通 ； 还有更多风俗和禁忌和旅行小故事， 尽在 格列佛 ——听的旅行攻略， 是您旅行路上最优秀的知识服务商 。 格列佛 的价值： 1、 为您提供最实用攻略，节省您宝贵时间，这是 过滤的价值 ； 2、 为您讲述当地历史，让您获取意义，这是 解释的价值 ； 3、 格列佛 相信，我们提供行程安排，是由专业旅行顾问结合当地景点与特点，精心为你打造的，对于 一个初到此地的游客，格列佛相信可以 涵盖你90%的需求，尤其是格列佛的精品付费内容，内容深度结构化，可作为旅行路书使用。如果没听过瘾，还想和达人一对一交流，定制出更加精彩个性化行程，格列佛愿意 随时为你出谋划策，这是 联通的价值。",
+        "showCategories": "野外\n播客\n体育",
+        "author": "格列佛fm",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/2796303.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1559",
+          "name": "野外",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:06.540413+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:06.540413+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1545",
+          "name": "体育",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:06.540413+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "格列佛fm",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:06.540413+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1058819079",
+      "episode_id": null,
+      "title": "听中国周刊",
+      "fields": {
+        "showTitle": "听中国周刊",
+        "showDescription": "听《中国新闻杂志》的声音……",
+        "showCategories": "社會與文化\nPodcast\n歷史",
+        "author": "中国新闻周刊杂志V",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/3132101.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社會與文化",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%B0%E9%97%BB&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:43:25.155556+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%B0%E9%97%BB&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:43:25.155556+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1487",
+          "name": "歷史",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%B0%E9%97%BB&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:43:25.155556+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "中国新闻周刊杂志V",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%B0%E9%97%BB&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:43:25.155556+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1073849513",
+      "episode_id": null,
+      "title": "情迷武侠梦",
+      "fields": {
+        "showTitle": "情迷武侠梦",
+        "showDescription": "绝代双骄,侠客情 关注官方微信公众号“奔乐计划”更多精彩等着你！",
+        "showCategories": "音乐\n播客",
+        "author": "无音乐不生活",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\n怀旧|经典,主播|节目\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/3156188.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1310",
+          "name": "音乐",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%AD%A6%E4%BE%A0&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:41:19.996650+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%AD%A6%E4%BE%A0&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:41:19.996650+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "无音乐不生活",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%AD%A6%E4%BE%A0&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:41:19.996650+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1095222589",
+      "episode_id": null,
+      "title": "追科技撩艺术",
+      "fields": {
+        "showTitle": "追科技撩艺术",
+        "showDescription": "2019 Apple 最佳播客 海内外华人科学家、开发者、艺术家等创造创新人士带来的有趣视角、观点和趋势。听听激发你思考的诙谐对话。",
+        "showCategories": "科技\n播客\n艺术",
+        "author": "doko.com",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nfalse\nepisodic"
+      },
+      "feed_url": "https://feed.xyzfm.space/gn3duvbrbnm7",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1318",
+          "name": "科技",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1301",
+          "name": "艺术",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "doko.com",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1115782232",
+      "episode_id": null,
+      "title": "政见｜讲座 & 访谈",
+      "fields": {
+        "showTitle": "政见｜讲座 & 访谈",
+        "showDescription": "政见 CNPolitics 举办的沙龙、讲座、访谈精彩内容，原声呈现，如临现场。",
+        "showCategories": "課程\nPodcast\n教育\n科學\n社會科學",
+        "author": "政见 CNPolitics.org",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "no\nzh-CN"
+      },
+      "feed_url": "http://cnpolitics.github.io/radio/scholar/feed.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1501",
+          "name": "課程",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%AE%BF%E8%B0%88&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:43:20.582605+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%AE%BF%E8%B0%88&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:43:20.582605+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1304",
+          "name": "教育",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%AE%BF%E8%B0%88&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:43:20.582605+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1533",
+          "name": "科學",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%AE%BF%E8%B0%88&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:43:20.582605+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1535",
+          "name": "社會科學",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%AE%BF%E8%B0%88&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:43:20.582605+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "政见 CNPolitics.org",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%AE%BF%E8%B0%88&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:43:20.582605+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1125959192",
+      "episode_id": null,
+      "title": "女仙外史【修山者版】",
+      "fields": {
+        "showTitle": "女仙外史【修山者版】",
+        "showDescription": "《女仙外史》全称《新刻逸田叟女仙外史大奇书》。属于神魔小说，又将历史人物纳于其中，富于传奇色彩。此书约成于康熙四十二年（1703），梓行于康熙五十年（1711）。清政府因其中有一些\"淫亵书\"，把它划入淫书之列；故被列入禁毁之书。 全书前14回据谷应泰《明史纪事本末》有关叙述而加以发挥﹐叙唐赛儿奇异诸事。其後写燕王朱棣起兵靖难﹐族灭方孝孺﹑景清﹑铁铉等建文诸臣﹐篡位登基数回﹐又多据史实。以下80回叙唐赛儿起事﹐集合景﹑铁诸人之後﹐尊奉建文正统﹐连拔青﹑登﹑兖诸州﹐占据中原﹐对抗燕兵等事﹐则纯然出於虚构。书中屡议及明代官制仪礼刑律诸事﹐并自颁制度﹐奉吕律为军师﹐实为作者自况。其“平生学问心事﹐皆寄於此”(俞樾《茶香室丛钞》)。",
+        "showCategories": "課程\nPodcast\n教育\n商業",
+        "author": "人相食",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/4243276.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1501",
+          "name": "課程",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E4%BF%AE%E4%BB%99&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:59.787934+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E4%BF%AE%E4%BB%99&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:59.787934+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1304",
+          "name": "教育",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E4%BF%AE%E4%BB%99&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:59.787934+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1321",
+          "name": "商業",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E4%BF%AE%E4%BB%99&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:59.787934+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "人相食",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E4%BF%AE%E4%BB%99&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:59.787934+00:00"
+        }
+      ],
+      "label": "fiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "block",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1128284503",
+      "episode_id": null,
+      "title": "战争与和平有声小说中文版  主播鸡腿小木屋",
+      "fields": {
+        "showTitle": "战争与和平有声小说中文版 主播鸡腿小木屋",
+        "showDescription": "战争与和平 主播 鸡腿小木屋 большое спасибо 《战争与和平》俄国作家列夫·尼古拉耶维奇·托尔斯泰的代表作之一。为了完成这部划时代的巨著，托尔斯泰前后耗费十余年的光阴，并本书于1865年到1869年出版，讲述欧洲拿破仑时期的俄国（今俄罗斯）所发生的事。《战争与和平》自从问世以来，一直被认为是世界上最伟大的小说之一。 故事以1812年俄国卫国战争为中心，反映了1805年至1820年的重大事件，包括奥斯特利茨大战、波罗底诺会战、莫斯科大火、拿破仑溃退等。通过对四大家庭以及安德烈、皮埃尔、娜塔莎在战争与和平环境中的思想和行动的描写，展示了当时俄国社会的风貌。在《战争与和平》中，人物就多达559个，每一个都是活生生的血肉之躯，各有其独特的个性，且充满了生命的悸动，人的欢乐、痛苦、各种内心思绪——在这幅画里都应有尽有。而书中史诗般的辉煌节奏与宽阔视界，也只有荷马的作品可以相提并论",
+        "showCategories": "社會與文化\nPodcast\n歷史",
+        "author": "鸡腿小木屋",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/3155646.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社會與文化",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%B0%8F%E8%AF%B4%E8%AF%84%E8%AE%BA&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:54.432200+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%B0%8F%E8%AF%B4%E8%AF%84%E8%AE%BA&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:54.432200+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1487",
+          "name": "歷史",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%B0%8F%E8%AF%B4%E8%AF%84%E8%AE%BA&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:54.432200+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "鸡腿小木屋",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%B0%8F%E8%AF%B4%E8%AF%84%E8%AE%BA&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:54.432200+00:00"
+        }
+      ],
+      "label": "fiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "block",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1129666229",
+      "episode_id": null,
+      "title": "北京传说故事",
+      "fields": {
+        "showTitle": "北京传说故事",
+        "showDescription": "北京的传说千千万万，在这里你能听到很多耳熟能详的传说，但是那些传说具体是怎么回事，还得听白鹤慢慢道来。最新传说故事，更新在公众号：传说五千年 ID：huaxiagushi 中，还请关注。",
+        "showCategories": "旅行与地方文化\n播客\n社会与文化\n历史",
+        "author": "聚听FM",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/3319365.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1320",
+          "name": "旅行与地方文化",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%95%85%E4%BA%8BFM&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:46:21.143780+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%95%85%E4%BA%8BFM&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:46:21.143780+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社会与文化",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%95%85%E4%BA%8BFM&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:46:21.143780+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1487",
+          "name": "历史",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%95%85%E4%BA%8BFM&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:46:21.143780+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "聚听FM",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%95%85%E4%BA%8BFM&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:46:21.143780+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1136987802",
+      "episode_id": null,
+      "title": "2016年武汉经济广播《今晚我和你》节目录音",
+      "fields": {
+        "showTitle": "2016年武汉经济广播《今晚我和你》节目录音",
+        "showDescription": "武汉 经济广播 FM100.6 《今晚我和你》节目是一档心理咨询类夜间谈话节目，也是全国民生影响力十佳栏目，专业心理咨询师倾力打造的心理健康节目，每晚亚新等候你、聆听你、陪伴你~~ 节目微信平台号：jwwhn1。听友群号分别是173944801；42366444。",
+        "showCategories": "兒童與家庭\nPodcast\n宗教與精神生活\n靈修",
+        "author": "今晚我和你",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/3536707.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1305",
+          "name": "兒童與家庭",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:16.379871+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:16.379871+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1314",
+          "name": "宗教與精神生活",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:16.379871+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1444",
+          "name": "靈修",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:16.379871+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "今晚我和你",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:16.379871+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1139142615",
+      "episode_id": null,
+      "title": "经济学",
+      "fields": {
+        "showTitle": "经济学",
+        "showDescription": "福利1 ： 点击此处打开→【好买研习社喜马入门群】请扫码进入哦 福利2 ： 点击此处V信分享打开→【新手课程】700期基金课90天畅听 （拷贝链接，到V信打开） 福利3： 点击此处打开→添加【好买研习社】微信公众号，音频文稿及图表站内免费获取",
+        "showCategories": "商务\n播客\n新闻\n商业新闻",
+        "author": "好买研习社",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/4735586.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1321",
+          "name": "商务",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:13.007189+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:13.007189+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1489",
+          "name": "新闻",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:13.007189+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1490",
+          "name": "商业新闻",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:13.007189+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "好买研习社",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:13.007189+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1157960349",
+      "episode_id": null,
+      "title": "健康减肥脱口秀---可瘦可乐的生活",
+      "fields": {
+        "showTitle": "健康减肥脱口秀---可瘦可乐的生活",
+        "showDescription": "更多内容请加微信[contact removed]. 减肥脱口秀：搞笑我们是可以减肥的，减肥我们是快乐的。 想减肥，莫紧张，我们一起可瘦可乐。 伊直瘦，让您一直瘦下去",
+        "showCategories": "健康与健身\n播客\n科学",
+        "author": "可瘦可乐",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/5080808.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1512",
+          "name": "健康与健身",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%81%A5%E5%BA%B7&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:32.245135+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%81%A5%E5%BA%B7&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:32.245135+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1533",
+          "name": "科学",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%81%A5%E5%BA%B7&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:32.245135+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "可瘦可乐",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%81%A5%E5%BA%B7&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:32.245135+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1160578978",
+      "episode_id": null,
+      "title": "甜甜圈在澳洲(旅行|留学|移民)",
+      "fields": {
+        "showTitle": "甜甜圈在澳洲(旅行|留学|移民)",
+        "showDescription": "《甜甜圈在澳洲》 第1季 118集 ，这本始于2016年的FM甜甜圈旗下可以 『听』 的澳洲生活指南成为了大家澳洲移民留学旅行投资生活红宝书，喜马拉雅及各境内外平台上收听已近 5千万 人次。 《甜甜圈在澳洲·续》 又名 《甜甜圈在澳洲&深圳》， 是《在澳洲》的第2季，从 第119集 开始甜甜圈归来再出发，在持续第1季澳洲的元素上将更加丰富，更有行走全球各地周游列国之后回到深圳的诸多感悟与分享，带给你更大的世界。 ① 加关注 ，将有机会获得甜甜圈亲笔签名的2016年爱奇艺、喜马拉雅FM、新浪读书、新浪育儿联合推荐的热销“亲子出境游必备读物” 《牵手，去美国》 ！ ② 评论留言互动 ， 加入FM甜甜圈生活定制平台，甜甜圈还能为你旅行 定制 、留学游学定制哦！ 赶紧，让更多FM甜甜圈专辑宠坏你的耳朵吧： 《甜甜圈看世界》 ，最有爱的儿童百科 《甜甜圈和美啦啦100个原创百科》 （ 妈妈带你看世界·第1季） ；儿童百科 《妈妈带你看世界》（第2季） 澳洲 澳大利亚",
+        "showCategories": "社会与文化\n播客\n新闻",
+        "author": "FM甜甜圈",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/5335772.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社会与文化",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:06.540413+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:06.540413+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1489",
+          "name": "新闻",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:06.540413+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "FM甜甜圈",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:06.540413+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1180537872",
+      "episode_id": null,
+      "title": "不存在电台 non-exist",
+      "fields": {
+        "showTitle": "不存在电台 non-exist",
+        "showDescription": "人人都是主播",
+        "showCategories": "個人日誌\nPodcast\n社會與文化\n科技\n藝術\n書籍",
+        "author": "不存在电台 non-exist",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-CN\n\nno"
+      },
+      "feed_url": "http://rss.lizhi.fm/rss/1568752.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1302",
+          "name": "個人日誌",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%AC%AC001%E6%9C%9F&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:33.226639+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%AC%AC001%E6%9C%9F&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:33.226639+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社會與文化",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%AC%AC001%E6%9C%9F&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:33.226639+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1318",
+          "name": "科技",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%AC%AC001%E6%9C%9F&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:33.226639+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1301",
+          "name": "藝術",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%AC%AC001%E6%9C%9F&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:33.226639+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1482",
+          "name": "書籍",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%AC%AC001%E6%9C%9F&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:33.226639+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "不存在电台 non-exist",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%AC%AC001%E6%9C%9F&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:33.226639+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1181770436",
+      "episode_id": null,
+      "title": "多人配音有声小说《乱世为媒》",
+      "fields": {
+        "showTitle": "多人配音有声小说《乱世为媒》",
+        "showDescription": "聪慧如她，宋国灭后本欲退隐深山，却敌不过弟弟弱冠死期，重出江湖。 原以为终需谱一曲刀剑嘶鸣，血染轻纱，殊不料，那人却以这乱世为媒，许她一场江南烟雨，一世相安。 若真能一世相安，该有多好······ 精通医术的阁主告诉她，以大隗氏玉为引可解弟弟子久的蛊毒。然此玉有灵，只停息于慧悟天地，有神缘的人身边。一路走来，小小隗氏玉，却牵出了许多神秘的种族和那些令人扼腕的爱恨情仇。 音：“今飞，为什么你的名字叫今飞？” 今飞：“正巧,有一次襄和公主带来的小公子拿着爷的书卷把玩时，不小心碰到了烛火，小公子是没事，只可惜那本经卷在火中成了灰烬，侯爷在灰中巴拉巴拉，得了两片残字，于是我名字就叫今飞了。” 楚音点点头：“也算是有缘。” 今飞：“你跟侯爷说的一模一样。我当时觉得自己的名字是否取得太突然了。于是淡淡的反应了一下，侯爷很淡然地撂了那么一句‘其实我一开始是想将你取名为来福来着，今日与灰烬中偶得两字也算是有缘，你若不喜欢，来福这个名字也不错，你若还不欢喜，旺财这个名字也······’ 现在想想，今飞这个名字是多么的好听啊。”",
+        "showCategories": "喜剧\n播客\n体育",
+        "author": "乱世为媒剧组",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/4158049.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1303",
+          "name": "喜剧",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1545",
+          "name": "体育",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "乱世为媒剧组",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        }
+      ],
+      "label": "fiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "block",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1183233450",
+      "episode_id": null,
+      "title": "闲话文学史",
+      "fields": {
+        "showTitle": "闲话文学史",
+        "showDescription": "文学是可爱的。生活是好玩的。艺术是要有所牺牲的。随我来，忽忽五年的一场“文学的远征”！ （新浪微博：谦虚的jack强）",
+        "showCategories": "書籍\nPodcast\n藝術\n教育",
+        "author": "jack强",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/5853933.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1482",
+          "name": "書籍",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%87%E5%AD%A6%E5%8F%B2&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:46:30.771573+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%87%E5%AD%A6%E5%8F%B2&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:46:30.771573+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1301",
+          "name": "藝術",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%87%E5%AD%A6%E5%8F%B2&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:46:30.771573+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1304",
+          "name": "教育",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%87%E5%AD%A6%E5%8F%B2&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:46:30.771573+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "jack强",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%87%E5%AD%A6%E5%8F%B2&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:46:30.771573+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1184981897",
+      "episode_id": null,
+      "title": "语桐听艺术",
+      "fields": {
+        "showTitle": "语桐听艺术",
+        "showDescription": "人人都是主播",
+        "showCategories": "哲学\n播客\n社会与文化\n宗教与心灵\n佛教\n艺术\n视觉艺术",
+        "author": "语桐听艺术",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-CN\n\nyes"
+      },
+      "feed_url": "http://rss.lizhi.fm/rss/1516830.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1443",
+          "name": "哲学",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社会与文化",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1314",
+          "name": "宗教与心灵",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1438",
+          "name": "佛教",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1301",
+          "name": "艺术",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1406",
+          "name": "视觉艺术",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "语桐听艺术",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1197935841",
+      "episode_id": null,
+      "title": "妈妈你听",
+      "fields": {
+        "showTitle": "妈妈你听",
+        "showDescription": "4到12岁的孩子问题多，家庭教育好心烦，怎么办？看书太慢、培训太杂，订阅《妈妈你听》，听 亲子私教李晓闯 讲干货， 10分钟 解决一个家庭教育难题，让你的爱更专业。微信公众号：妈妈你听",
+        "showCategories": "兒童與家庭\nPodcast\n健康與瘦身",
+        "author": "momlook",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/6307881.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1305",
+          "name": "兒童與家庭",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%AC%AC001%E6%9C%9F&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:33.226639+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%AC%AC001%E6%9C%9F&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:33.226639+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1512",
+          "name": "健康與瘦身",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%AC%AC001%E6%9C%9F&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:33.226639+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "momlook",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%AC%AC001%E6%9C%9F&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:33.226639+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1234086160",
+      "episode_id": null,
+      "title": "女性の事業家井戸端会議",
+      "fields": {
+        "showTitle": "女性の事業家井戸端会議",
+        "showDescription": "稼ぐ女性になるための。",
+        "showCategories": "職業\nPodcast\n商業",
+        "author": "女性の事業家井戸端会議",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "ja\nclean"
+      },
+      "feed_url": "http://mu-chan.tokyo/podcast/feed/podcast/",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1410",
+          "name": "職業",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%A5%B3%E6%80%A7&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:29.073150+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%A5%B3%E6%80%A7&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:29.073150+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1321",
+          "name": "商業",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%A5%B3%E6%80%A7&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:29.073150+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "女性の事業家井戸端会議",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%A5%B3%E6%80%A7&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:29.073150+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "foreign_metadata",
+      "eligibleForScreenedPilot": false
+    },
+    {
+      "unit": "show",
+      "show_id": "1248691568",
+      "episode_id": null,
+      "title": "关键洞察力：成功沟通的要诀（公关必读）完结",
+      "fields": {
+        "showTitle": "关键洞察力：成功沟通的要诀（公关必读）完结",
+        "showDescription": "博雅公关公司全球总裁，在他从业的50年间，博雅从一个只有六个业务员的小公司成长为全球最大公关公司。本书是他对往事和公关业的回忆。",
+        "showCategories": "商务\n播客\n社会与文化",
+        "author": "青舟访谈360行",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/7573285.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1321",
+          "name": "商务",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%AE%BF%E8%B0%88&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:43:15.342033+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%AE%BF%E8%B0%88&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:43:15.342033+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社会与文化",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%AE%BF%E8%B0%88&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:43:15.342033+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "青舟访谈360行",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%AE%BF%E8%B0%88&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:43:15.342033+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1251826993",
+      "episode_id": null,
+      "title": "每日英文有声小说-长腿叔叔",
+      "fields": {
+        "showTitle": "每日英文有声小说-长腿叔叔",
+        "showDescription": "公众号[contact removed]，英文有声读物， 每日听一听， 锻炼听力，加强语感。更多英文有声读物中英对照同步视频请加V信公众号[contact removed] 《长腿叔叔》是美国女作家简．伟伯斯特于1912年创作的小说，主要讲述青春如初春，如朝日，如百卉之萌动，是人生最宝贵的时期。对青春而言，成长是一个永恒的话题，是一个开始学习与社会相适应、学习如何与他人相处的过程。",
+        "showCategories": "教育\n播客\n艺术\n图书",
+        "author": "有声师姐Memory",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/8710656.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1304",
+          "name": "教育",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1301",
+          "name": "艺术",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1482",
+          "name": "图书",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "有声师姐Memory",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        }
+      ],
+      "label": "fiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "english_fiction_exemption",
+      "eligibleForScreenedPilot": false
+    },
+    {
+      "unit": "show",
+      "show_id": "1262978649",
+      "episode_id": null,
+      "title": "每日英语有声小说-在我入睡前",
+      "fields": {
+        "showTitle": "每日英语有声小说-在我入睡前",
+        "showDescription": "英文原著小说， 每日听一听， 锻炼听力，加强语感。更多英文有声读物中英对照同步视频请关注公众号[contact removed]",
+        "showCategories": "教育\n播客\n社会与文化\n个人日记",
+        "author": "有声师姐Memory",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/9495213.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1304",
+          "name": "教育",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社会与文化",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1302",
+          "name": "个人日记",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "有声师姐Memory",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        }
+      ],
+      "label": "fiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "english_fiction_exemption",
+      "eligibleForScreenedPilot": false
+    },
+    {
+      "unit": "show",
+      "show_id": "1268501410",
+      "episode_id": null,
+      "title": "山海经新说【玄幻】",
+      "fields": {
+        "showTitle": "山海经新说【玄幻】",
+        "showDescription": "上古人、神、兽、妖共存，仁爱天下的炎帝、英勇智慧的黄帝、功修盖世的赤松子、痴情一人的南阳、古灵精怪的女桑、爱上伏羲的九天玄女、超然物外的陆压道君，还有古怪神秘的东海龙神、离奇的南海鲛人族，无敌大BOSS盘古犼神，共同演绎一部东方玄幻大作《山海经新说》。 此书由草堂散人原创的大型玄幻仙侠小说，在华丽迷幻的氛围中，有攻防战争、洪水异兽、道法仙术、迷离幻境、爱恨情仇，在生动曲折的离奇描写中，寄托了中华民族的人文情怀。 郑重公告：在亲爱的粉丝们的热情支持下， 《山海经新说》已升级为付费精品，老读者可以 关注微信公众号“草堂奇谈”菜单“读书赏乐”或打开微信“发现”——”小程序“——搜索“山海经新说”收看文字版及解析。咨询、参与、互动 QQ群号[contact removed]。",
+        "showCategories": "電子遊戲\nPodcast\n休閒\n電視與電影",
+        "author": "草堂奇谈",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/7281361.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1509",
+          "name": "電子遊戲",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%8E%84%E5%B9%BB&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:53.518242+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%8E%84%E5%B9%BB&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:53.518242+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1502",
+          "name": "休閒",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%8E%84%E5%B9%BB&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:53.518242+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1309",
+          "name": "電視與電影",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%8E%84%E5%B9%BB&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:53.518242+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "草堂奇谈",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%8E%84%E5%B9%BB&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:53.518242+00:00"
+        }
+      ],
+      "label": "fiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "block",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1271272846",
+      "episode_id": null,
+      "title": "男女双播玄幻【缥缈·提灯卷】",
+      "fields": {
+        "showTitle": "男女双播玄幻【缥缈·提灯卷】",
+        "showDescription": "白姬绾千妖百鬼系列第一部 男女双人合播， 墨深和张寒的听友群 ：QQ629849358 喜欢这个专辑请点击订阅，这样就可以收到更新提示了 【作者】白姬绾 【演播】纸浅墨深 张寒 【后期】风无念【凌霄剧团】 【内容简介】 大唐光宅年间，西市坊间，阴阳交界处，有一座神秘虚无的缥缈阁。缥缈阁中，贩卖奇珍异宝，七情六欲。人、妖、鬼、神往来其间。缥缈阁，一个似真似幻的空中楼阁，很多人想从中得到名、利，也有人想得到真正的爱。一曲曲悲欢离合的 故事 ，展现了人们无法摆脱的种种欲望和不断挣扎的求索。 此书共有三卷，第一卷《缥缈·提灯卷》、第二卷 《缥缈·鬼面卷》 、第三卷 《缥缈·天咫卷》 【精彩看点 】 匪夷所思的想象力，奇拔跌宕的故事情节，超强画面感的文字。 一折折离奇的故事，无论是写人，还是写妖， 作者 真正要写的还是人心。缥缈阁因为人世间的各种欲望而存在，因为人心的邪恶和善良而存在。百鬼夜行的鬼魅盛唐，其实是盛开在人心的一朵妖异的曼陀罗。 【作者简介】 白姬绾， 双子座，“御姐”控，静懒之人。喜欢有趣的故事，追求真挚唯美、撼动人心的文字。2007年开始写作，先后混迹于榕树下、晋江文学网、天涯社区。作品题材涉及奇幻、武侠、历史，主要作品《缥缈·提灯卷》、《梦华歌》、《明镜录》等。",
+        "showCategories": "電視與電影\nPodcast",
+        "author": "纸浅墨深",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/8810387.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1309",
+          "name": "電視與電影",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%8E%84%E5%B9%BB&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:53.518242+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%8E%84%E5%B9%BB&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:53.518242+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "纸浅墨深",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%8E%84%E5%B9%BB&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:53.518242+00:00"
+        }
+      ],
+      "label": "fiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "block",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1315967431",
+      "episode_id": null,
+      "title": "中国文化概论",
+      "fields": {
+        "showTitle": "中国文化概论",
+        "showDescription": "从文化演变的角度重新解读中国历史，带给你认识世界的另一种视角。",
+        "showCategories": "社会与文化\n播客\n历史",
+        "author": "守望的蜜蜂1990",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/10851392.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社会与文化",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%87%E5%8C%96&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:38.505027+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%87%E5%8C%96&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:38.505027+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1487",
+          "name": "历史",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%87%E5%8C%96&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:38.505027+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "守望的蜜蜂1990",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%87%E5%8C%96&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:38.505027+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1321229059",
+      "episode_id": null,
+      "title": "长篇有声小说 战争风云",
+      "fields": {
+        "showTitle": "长篇有声小说 战争风云",
+        "showDescription": "《战争风云》（The Winds of War） 是一部描写第二次世界大战的长篇小说，作者赫尔曼沃克。本书通过对美国海军军官亨利一家五口人在太平洋战争爆发前生活经历的描写，折射出战争爆发前美，德，苏，英，意等大国之间的政治及军事博弈。书中关于亨利一家人的人物和故事纯属虚构，但小说中有关战争的史实是准确的，其统计数字也是可靠的。罗斯福，丘吉尔，斯大林等大人物的言行或是根据历史事实，或是根据可靠的记载。作者尽最大努力给这样一次人类历史上最大规模的全球性战争描绘出一幅真实宏伟的巨幅全景图。潮哥在录制前对照英文原著对有关译本做了尽可能的修改，以适合于作为小说口语化播出。工作繁杂，时间紧张，谬误在所难免，敬请各位听友指出，以便于今后重播时更正。潮哥原则，自然本色，忠实原著，改良翻译，不断提高。",
+        "showCategories": "剧情\n播客\n小说\n历史",
+        "author": "密西根潮哥",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/9896701.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1484",
+          "name": "剧情",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1483",
+          "name": "小说",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1487",
+          "name": "历史",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "密西根潮哥",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:31.056684+00:00"
+        }
+      ],
+      "label": "fiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "block",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1323470627",
+      "episode_id": null,
+      "title": "蛋比哈哈聊电影",
+      "fields": {
+        "showTitle": "蛋比哈哈聊电影",
+        "showDescription": "蛋比，爱电影的肥肥女王，扯淡是其特长，笑声魔性，平时披着餐饮人的外衣做着漫威梦； 哈哈，自以为是音乐人的舞蹈半调子做着文书工作，平时披着文人外衣。 两个没文化有智商爱电影的当代年轻人，因为混入北大认识，因为爱钢铁侠而混到一起，不跟随时尚，不迁就主流，讲我们所爱，坚持主观判断。 以发掘电影和生活中的快乐为目标， 寻找和我们一样爱电影的亲朋好友。漫威、超级英雄、台湾小清新、经典老电影，每周一次欢聚一堂，听我们聊聊电影。 加入笑友会：先加蛋比“壹 壹5 壹8 壹464 壹” ，加入暗号：看电影就得笑。之后蛋比会拉你入伙。",
+        "showCategories": "電視與電影\nPodcast",
+        "author": "蛋比哈哈",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/7066660.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1309",
+          "name": "電視與電影",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%A9%BF%E8%B6%8A%E5%AE%87%E5%AE%99&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:14.021560+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%A9%BF%E8%B6%8A%E5%AE%87%E5%AE%99&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:14.021560+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "蛋比哈哈",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%A9%BF%E8%B6%8A%E5%AE%87%E5%AE%99&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:14.021560+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1333475582",
+      "episode_id": null,
+      "title": "翻轉自己，婷婷的世界幸福哲學 | Ting's Philosophy Of Happiness",
+      "fields": {
+        "showTitle": "翻轉自己，婷婷的世界幸福哲學 | Ting's Philosophy Of Happiness",
+        "showDescription": "一位單親媽媽，在離婚後成功翻轉自己的心態，從台灣起腳一路向異國發展，通往美國、西班牙、挪威、芬蘭、阿姆斯特丹的冒險旅途。婷婷在這裡與你分享與北歐、親職、生活、旅遊、身心靈健康，能夠讓你探索自我、找到快樂的世界幸福哲學。 Solohikier , Solotraveler, Webdesigner. About Me : http://yutingchuang.com/about_yuting/ IG: Tingtinginordic",
+        "showCategories": "健康與瘦身\nPodcast",
+        "author": "Ting Ting Chuang 莊婷婷",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-tw\nno"
+      },
+      "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:375650675/sounds.rss",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1512",
+          "name": "健康與瘦身",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%93%B2%E5%AD%A6&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:03.427922+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%93%B2%E5%AD%A6&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:03.427922+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "Ting Ting Chuang 莊婷婷",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%93%B2%E5%AD%A6&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:03.427922+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1338444962",
+      "episode_id": null,
+      "title": "吴勉旅行记之冰岛游",
+      "fields": {
+        "showTitle": "吴勉旅行记之冰岛游",
+        "showDescription": "大家好，我是吴勉，这是我第一次录制音频，和大家分享我在冰岛的一些旅行故事，不足之处还请大家一一指出，我也希望我分享的经验可以给大家提供更多的帮助！ 冰岛这个国家给我留下的印象就是人口非常的稀少，但是冰岛人民却是非常的热情，当然，除了极个别的快餐店服务员有点冷淡。 这次的旅行，全程自驾，从冰岛南部地区一直到北部，但是也因为我假期的原因，没有更深入的进入冰岛，到了北部逗留3天后，便回到了南部，之后就回国了。 冰岛主要的旅游季节是冬季的1-3月，夏季的6-9月，我是在冬季去的冰岛，但是因为全球变暖的关系，整个行程中，并没有遇到持续的下雪天气，而据说冰岛的夏季，是非常的美丽，到处都是绿色的苔藓植物，所以如果有机会，我会选择夏季再来一次冰岛。 如果小伙伴有意向去冰岛，有任何疑问的话，可以在讨论区给我留言，我看到后会在第一时间解答",
+        "showCategories": "野外\n播客\n体育",
+        "author": "吴勉",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/12548124.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1559",
+          "name": "野外",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:06.540413+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:06.540413+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1545",
+          "name": "体育",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:06.540413+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "吴勉",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:06.540413+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1342040716",
+      "episode_id": null,
+      "title": "艺术有读",
+      "fields": {
+        "showTitle": "艺术有读",
+        "showDescription": "由两位不务正业的艺术圈人士主持的读书跑题节目 官方微博：艺术有读 微信公号：艺术有读 artispoison 联系邮箱：[email removed] Hosted on Acast. See acast.com/privacy for more information.",
+        "showCategories": "图书\n播客\n艺术\n视觉艺术",
+        "author": "artispoison",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh\n艺术,读书,画廊,拍卖,艺术史,Sammi,胡湖,艺术市场,艺术书\nfalse\nepisodic"
+      },
+      "feed_url": "https://feeds.acast.com/public/shows/618ae0957929510012e11e6a",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1482",
+          "name": "图书",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1301",
+          "name": "艺术",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1406",
+          "name": "视觉艺术",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "artispoison",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1352951413",
+      "episode_id": null,
+      "title": "佛教哲学（新佛学金刚经）",
+      "fields": {
+        "showTitle": "佛教哲学（新佛学金刚经）",
+        "showDescription": "【佛学必读】最全面的佛教哲学笔记 佛言：“吾有正法眼付嘱摩诃迦叶” 玄沙师备言：“但识取金刚眼睛，定世界，盖乾坤，不漏丝发” “但识自身.....不逐五蕴境界，自得超脱” 为什么要继续加字。非得加满100个字才算完善了标签。 程序员的脑子是怎么想的，非要写这么多介绍吗？ 踏莎行 · 山居 朝锁烟霏，暮凝空翠 千峰迥立层霄外。 阴晴变化百千般，丹青难写天然态。 人住山中，年华频改。 山花落尽山长在。 浮生一梦几多时，有谁得似青山耐。 山居诗八首 柴门虽设未尝关， 闲看幽禽自往还。 白璧易埋千载憾， 万金难买一生闲。 雪消晓嶂闻寒瀑， 叶落秋林见远山。 古柏烟销清昼永， 是非不到白云间 。 山厨寂寂断炊烟， 冻锁泉声欲雪天。 面壁老僧无定力， 又思乞食到人间。 天湖水湛琉璃碧， 霞雾山围锦障红。 触目本来成现事， 何须叉手问禅翁。 赠无敌 眼空湖海气凌云， 杰出丛林思不群。 古往今来谁是我？ 得饶人处且饶人。",
+        "showCategories": "佛教\n播客\n宗教与心灵\n社会与文化\n哲学",
+        "author": "闲者知无涯",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/11434523.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1438",
+          "name": "佛教",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%93%B2%E5%AD%A6&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:00.117873+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%93%B2%E5%AD%A6&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:00.117873+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1314",
+          "name": "宗教与心灵",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%93%B2%E5%AD%A6&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:00.117873+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社会与文化",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%93%B2%E5%AD%A6&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:00.117873+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1443",
+          "name": "哲学",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%93%B2%E5%AD%A6&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:00.117873+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "闲者知无涯",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%93%B2%E5%AD%A6&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:00.117873+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1358251055",
+      "episode_id": null,
+      "title": "古风广播剧《今生亦何欢》",
+      "fields": {
+        "showTitle": "古风广播剧《今生亦何欢》",
+        "showDescription": "《今生亦何欢》 ——原创古风BG广播剧(更新中) 何欢在一个下午收到了前女友送来的包裹，被一道莫名奇妙的光带入了姻缘石的世界…… 【STAFF】 策划：海猫 导演：泱葵 编剧：艾亦文 微博@艾亦文 剧务：奈落 美工：司【御声嘲风】 后期：何方妖孽【阡淼广播剧社】 宣传：小归【羽落有声】 【CAST】 何欢：沐子白 幼年何欢：e只猫 幼年无灵：蓝暹萝【墨色千城中文广播剧社】 吴思君：凌雅宁【药店.书浓】 木先生：水火【古今剧社】 赵蕊：慕诺【醉梦流殇音社】 赵蕊闺蜜：澹台七娘【十四桥】 公司员工小李：言倦【言倦是总攻工作室】 幼年无常：白砚 王寡妇：紫惜棠【月玲珑】 王月儿：彧薇·凉【天籁梵音】 画外音：澜",
+        "showCategories": "電視與電影\nPodcast\n喜劇",
+        "author": "艾亦文",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/6447495.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1309",
+          "name": "電視與電影",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%B9%BF%E6%92%AD%E5%89%A7&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:46.935641+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%B9%BF%E6%92%AD%E5%89%A7&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:46.935641+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1303",
+          "name": "喜劇",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%B9%BF%E6%92%AD%E5%89%A7&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:46.935641+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "艾亦文",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%B9%BF%E6%92%AD%E5%89%A7&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:46.935641+00:00"
+        }
+      ],
+      "label": "fiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "block",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1438867843",
+      "episode_id": null,
+      "title": "手机美术馆",
+      "fields": {
+        "showTitle": "手机美术馆",
+        "showDescription": "世界名画详细导赏，轻松了解西方艺术史。 【文艺复兴时期】 扬·凡·艾克、 博斯、 老彼得·勃鲁盖尔、波提切利、达芬奇、米开朗琪罗、拉斐尔、荷尔拜因 【矫饰主义】布隆齐诺 【巴洛克时期】 卡拉瓦乔、 鲁本斯、真蒂莱斯基、伦勃朗、 维米尔、 委拉斯开兹、 拉图尔 【洛可可艺术】弗拉戈纳尔、荷加斯、 卡纳莱托 【新古典主义】大卫 【浪漫主义】籍里柯、 弗里德里希、 透纳 【自然主义】（现实主义、写实主义）康斯特布尔、米勒、列宾、惠斯勒、霍默 【印象派、后印象派、新印象派】马奈、莫奈、雷诺阿、德加、塞尚、 梵高、 高更、 修拉 【象征主义】勃克林 【表现...",
+        "showCategories": "视觉艺术\n播客\n艺术\n社会与文化\n旅行与地方文化",
+        "author": "老吴艺术笔记",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/4695760.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1406",
+          "name": "视觉艺术",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1301",
+          "name": "艺术",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社会与文化",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1320",
+          "name": "旅行与地方文化",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "老吴艺术笔记",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1449153058",
+      "episode_id": null,
+      "title": "维生素E|经济学与哲学知识分享",
+      "fields": {
+        "showTitle": "维生素E|经济学与哲学知识分享",
+        "showDescription": "生命需要维生素e！ 维生素e是一款完全免费的知识分享播客计划，我们分享构成这个世界，解释这个世界，创造这个世界的基础知识，并在基础上试图分析终极问题。 我们相信真理的普遍性，相信人和人之间可以相互理解。相信我们最终，可以通达真理",
+        "showCategories": "实用知识\n播客\n教育\n社会与文化\n哲学",
+        "author": "维生素E知识分享",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/19758469.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1499",
+          "name": "实用知识",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:13.007189+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:13.007189+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1304",
+          "name": "教育",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:13.007189+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社会与文化",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:13.007189+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1443",
+          "name": "哲学",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:13.007189+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "维生素E知识分享",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:13.007189+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1450399086",
+      "episode_id": null,
+      "title": "不正经的艺术",
+      "fields": {
+        "showTitle": "不正经的艺术",
+        "showDescription": "扒一扒艺术的黑历史， 品一品时尚的毒鸡汤， 在八卦趣闻中， 深度解读艺术品， 学习艺术史，提高审美力",
+        "showCategories": "视觉艺术\n播客\n艺术\n社会与文化\n个人日记",
+        "author": "郭晓川_4f",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\ntrue"
+      },
+      "feed_url": "http://www.ximalaya.com/album/18566744.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1406",
+          "name": "视觉艺术",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1301",
+          "name": "艺术",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社会与文化",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1302",
+          "name": "个人日记",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "郭晓川_4f",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%89%BA%E6%9C%AF&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:45.131611+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1455483014",
+      "episode_id": null,
+      "title": "秋野叨历史 | 十分钟的历史故事",
+      "fields": {
+        "showTitle": "秋野叨历史 | 十分钟的历史故事",
+        "showDescription": "大家好，我是秋野，一个不知名的口述历史主播。 《秋野叨历史》是我所讲述的第一个专辑，想通过简单有趣的口述方式给大家讲讲历史中有趣有料的故事，并不拘泥于正史或者野史，还有各种传说和花边小新闻，希望能给您带来不一样的读史体验。 我所讲述的可能是一整段一整段的朝代更迭，例如“元末明初”、“五代十国”，也有可能是历史中著名人物的名人传记，列入“XX名人堂”；也可能是各种有趣的历史故事，多谢您的品尝。",
+        "showCategories": "社会与文化\n播客\n历史",
+        "author": "秋野山人",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/18478585.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社会与文化",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:45:04.219439+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:45:04.219439+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1487",
+          "name": "历史",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:45:04.219439+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "秋野山人",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%8E%86%E5%8F%B2%E6%95%85%E4%BA%8B&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:45:04.219439+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1466577555",
+      "episode_id": null,
+      "title": "世界在你耳边｜旅行趣聊",
+      "fields": {
+        "showTitle": "世界在你耳边｜旅行趣聊",
+        "showDescription": "好玩的媒体人、定制游专家、旅居海外好友......汇聚身边各路好吃爱玩的达人资源，分享环游世界亲眼所见的美景、走过的弯路、经历的奇遇，走到哪儿咱都有的聊！ 主播：Amanda 北京妞， 曾留学欧洲， 游走30个国家，资深媒体人 每周六早9点播出",
+        "showCategories": "旅行与地方文化\n播客\n社会与文化",
+        "author": "gegeamanda",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/18189052.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1320",
+          "name": "旅行与地方文化",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:06.540413+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:06.540413+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社会与文化",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:06.540413+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "gegeamanda",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:06.540413+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1471749688",
+      "episode_id": null,
+      "title": "行迹访谈室",
+      "fields": {
+        "showTitle": "行迹访谈室",
+        "showDescription": "不再只是去大众景点地打卡，而是听在当地生活的人讲好玩的地方 好吃的餐厅。",
+        "showCategories": "名勝與旅遊\nPodcast\n社會與文化\n藝術\n食物",
+        "author": "行迹访谈室",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/23966281.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1320",
+          "name": "名勝與旅遊",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%AE%BF%E8%B0%88&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:43:20.582605+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%AE%BF%E8%B0%88&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:43:20.582605+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社會與文化",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%AE%BF%E8%B0%88&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:43:20.582605+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1301",
+          "name": "藝術",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%AE%BF%E8%B0%88&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:43:20.582605+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1306",
+          "name": "食物",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%AE%BF%E8%B0%88&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:43:20.582605+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "行迹访谈室",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E8%AE%BF%E8%B0%88&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:43:20.582605+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1462843777",
+      "episode_id": null,
+      "title": "《第十八个盛夏》都市奇幻广播剧",
+      "fields": {
+        "showTitle": "《第十八个盛夏》都市奇幻广播剧",
+        "showDescription": "在 A市闹市区的一个背巷的角落里，一家看似平常的小酒馆，酒馆里有一个看似平常的女店员，和一个看着就不太平常的女老板。今年盛夏，是这家酒馆的第十八次开张，没错，这是一个只在夏天才做生意的……奇葩，呃不是，一个只在夏天才做生意的神秘地方。 ——第十八个盛夏2016.09.09·开更喽——",
+        "showCategories": "書籍\nPodcast\n藝術",
+        "author": "冬菱扇",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/5222744.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1482",
+          "name": "書籍",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%B9%BF%E6%92%AD%E5%89%A7&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:46.935641+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%B9%BF%E6%92%AD%E5%89%A7&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:46.935641+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1301",
+          "name": "藝術",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%B9%BF%E6%92%AD%E5%89%A7&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:46.935641+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "冬菱扇",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%B9%BF%E6%92%AD%E5%89%A7&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:39:46.935641+00:00"
+        }
+      ],
+      "label": "fiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "block",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1462850845",
+      "episode_id": null,
+      "title": "如何演播官场商战小说",
+      "fields": {
+        "showTitle": "如何演播官场商战小说",
+        "showDescription": "探索更多人生可能，发现更多精彩内容，点击进入 兴趣兼职频道 第一手新鲜主播资讯、干货攻略来袭， 大咖主播零距离交流互动、经验分享， 不定期的喜播周边、流量曝光等福利发放， 快在微信搜索【喜播教育】关注官方公众号吧~ 痴迷于官场小说，想要在有声的播讲中与听众一起宦海浮沉？ 官场商战的小说类型繁多，到底该如何把握不同类型的官场小说的播讲技巧呢？ 小说里的人物众多，但是自己只有一张嘴，怎样在多角色中切换自如呢？ 同样是官场小说，为什么别人的就能有超高点击率，如何选书播讲并且进行推广？ 这些关于官场小说的播讲知识就由著名的有声书播讲人呵壁问天结合自身实战经验来一一为你解答。从选书开始一步一步带你升级蜕变，打破官场小说的演播壁垒。 课程亮点 l 定向技能：着眼于官场小说这一细分赛道，技能完全适配于官场文学 l 实战经验：呵壁问天结合自身实例，全方位分享自己官场小说的录制心得 l 录制优势：从选书到录制再到推广，全程让你优于他人 你可以获得 1、 不同类型的官场商战小说的播讲技巧 2、 深入的官场小说解读与选书拆书方法 3、 包装和推广自己作品的路径与技巧指导 适合谁听 l 有声书主播 l 官场商战小说爱好者",
+        "showCategories": "教育\n播客",
+        "author": "喜播教育",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/18577120.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1304",
+          "name": "教育",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%B0%8F%E8%AF%B4%E6%BC%94%E6%92%AD&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:37.238211+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%B0%8F%E8%AF%B4%E6%BC%94%E6%92%AD&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:37.238211+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "喜播教育",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%B0%8F%E8%AF%B4%E6%BC%94%E6%92%AD&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:39:37.238211+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1474474297",
+      "episode_id": null,
+      "title": "Nippon MoshiMoshi",
+      "fields": {
+        "showTitle": "Nippon MoshiMoshi",
+        "showDescription": "Nippon Moshimoshi is een podcast waarin ik mijn interesse voor Japan met iedereen deel. In iedere aflevering bespreek ik één of twee topics in verband met de taal, dagdagelijkse cultuur, de geschiedenis en het leven in Japan. Dat bekijk ik door de ogen van een Europeaan en ik probeer toe te lichten, of de aandacht te trekken op verschillen en overeenkomsten die het land zo interessant maken. Hebt u een vraag of een opmerking, laat het dan gerust weten. Indien mogelijk gaan ik er dan ook op in.",
+        "showCategories": "社會與文化\nPodcast",
+        "author": "MoshiMoshi",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "nl-be\nepisodic\nfalse"
+      },
+      "feed_url": "https://anchor.fm/s/afc5b48/podcast/rss",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社會與文化",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%AB%E4%B8%96&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:40:44.604048+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%AB%E4%B8%96&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:40:44.604048+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "MoshiMoshi",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%AB%E4%B8%96&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:40:44.604048+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "foreign_metadata",
+      "eligibleForScreenedPilot": false
+    },
+    {
+      "unit": "show",
+      "show_id": "1479173448",
+      "episode_id": null,
+      "title": "稻此一游",
+      "fields": {
+        "showTitle": "稻此一游",
+        "showDescription": "「稻此一游」由全宇宙最会玩的青年旅行公司稻草人旅行推出。这里有真实动人的旅行故事，超奇葩的旅途奇遇，和那些最有趣的人。 也许有一天我们会一起踏上仙乃日神山的朝圣之路、在拉萨街头的茶馆里喝着甜茶、或是在塞伦盖地大草原上一同仰望星空... 欢迎关注微信公众号「稻草人旅行」，一起爱上这个世界。",
+        "showCategories": "野外\nPodcast\n運動\n社會與文化\n名勝與旅遊",
+        "author": "稻草人旅行",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/3066455.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1559",
+          "name": "野外",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:09.726744+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:09.726744+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1545",
+          "name": "運動",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:09.726744+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社會與文化",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:09.726744+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1320",
+          "name": "名勝與旅遊",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:09.726744+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "稻草人旅行",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%97%85%E8%A1%8C&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:09.726744+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1479676767",
+      "episode_id": null,
+      "title": "怪异电波",
+      "fields": {
+        "showTitle": "怪异电波",
+        "showDescription": "一档杂谈类播客节目，讨论推理相关的文化作品，探究推理小说背后故事，分享有趣生活点滴",
+        "showCategories": "嗜好\nPodcast\n休閒\n電視與電影\n電視節目評論",
+        "author": "怪异故事",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/29093113.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1505",
+          "name": "嗜好",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%8E%A8%E7%90%86%E8%AF%84%E8%AE%BA&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:46:17.825382+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%8E%A8%E7%90%86%E8%AF%84%E8%AE%BA&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:46:17.825382+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1502",
+          "name": "休閒",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%8E%A8%E7%90%86%E8%AF%84%E8%AE%BA&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:46:17.825382+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1309",
+          "name": "電視與電影",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%8E%A8%E7%90%86%E8%AF%84%E8%AE%BA&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:46:17.825382+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1561",
+          "name": "電視節目評論",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%8E%A8%E7%90%86%E8%AF%84%E8%AE%BA&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:46:17.825382+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "怪异故事",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%8E%A8%E7%90%86%E8%AF%84%E8%AE%BA&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:46:17.825382+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1479951603",
+      "episode_id": null,
+      "title": "【半瓶醋夜未眠】電影、動畫、遊戲及那些年",
+      "fields": {
+        "showTitle": "【半瓶醋夜未眠】電影、動畫、遊戲及那些年",
+        "showDescription": "一起來聊聊電影、動畫、遊戲以及那些年吧～ 曾為電影製片，玷汙了影評兩字的自稱影評人，直男，不認真的YouTuber，貓咪飼育者。 深夜實況談話節目【半瓶醋夜未眠】每週五晚上09:30開聊",
+        "showCategories": "電視與電影\nPodcast",
+        "author": "半瓶醋",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-tw\nepisodic\ntrue"
+      },
+      "feed_url": "https://anchor.fm/s/1140c7a14/podcast/rss",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1309",
+          "name": "電視與電影",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%A9%BF%E8%B6%8A%E5%AE%87%E5%AE%99&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:14.021560+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%A9%BF%E8%B6%8A%E5%AE%87%E5%AE%99&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:14.021560+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "半瓶醋",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%A9%BF%E8%B6%8A%E5%AE%87%E5%AE%99&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:45:14.021560+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1482927105",
+      "episode_id": null,
+      "title": "文都比邻丨2020心理学考研背多分领读",
+      "fields": {
+        "showTitle": "文都比邻丨2020心理学考研背多分领读",
+        "showDescription": "心理学考研冲刺阶段，不知道背什么重点，背了又容易忘？ 冲刺阶段人手一本的《心理学考研背多分-背诵手册》上市了，就是帮你解决不知道背什么，怎么背的问题。 《背多分》 覆盖统考7门科目， 由赵云龙、燕磊老师主编，分析1079道历年真题分析，精选195个超高频考点，并配有136个背诵口诀。真乃冲刺背书的绝密武器！ 为了360无死角帮助大家背诵知识，文都比邻发起背多分领读活动，遴选出7名优秀的小伙伴，帮大家朗读《背多分》。 超精华的内容+超甜蜜的声音，希望陪你度过考研的最后时光，帮你今年上岸！",
+        "showCategories": "课程\n播客\n教育",
+        "author": "文都比邻心理学考研",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/29310580.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1501",
+          "name": "课程",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%BF%83%E7%90%86%E5%AD%A6&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:43:28.069088+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%BF%83%E7%90%86%E5%AD%A6&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:43:28.069088+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1304",
+          "name": "教育",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%BF%83%E7%90%86%E5%AD%A6&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:43:28.069088+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "文都比邻心理学考研",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%BF%83%E7%90%86%E5%AD%A6&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:43:28.069088+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1486700278",
+      "episode_id": null,
+      "title": "IEO 看什麼？國際財經、產業、科技觀察",
+      "fields": {
+        "showTitle": "IEO 看什麼？國際財經、產業、科技觀察",
+        "showDescription": "IEObserve 國際經濟觀察版主，閒聊國際財經、科技、政治、影視娛樂、網路產業觀察。 -- Hosting provided by SoundOn",
+        "showCategories": "商業\nPodcast\n科技",
+        "author": "IEO 國際經濟觀察版主",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-tw\nEpisodic\nno"
+      },
+      "feed_url": "https://feeds.soundon.fm/podcasts/c92cb66a-14fc-412f-84aa-08125add5ca9.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1321",
+          "name": "商業",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:16.379871+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:16.379871+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1318",
+          "name": "科技",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:16.379871+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "IEO 國際經濟觀察版主",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E7%BB%8F%E6%B5%8E&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:44:16.379871+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1489176388",
+      "episode_id": null,
+      "title": "經典101 說給孩子聽的有聲書",
+      "fields": {
+        "showTitle": "經典101 說給孩子聽的有聲書",
+        "showDescription": "聲音是真實、有溫度的，耳朵與聲音正是我們學習了解世界的第一步。 而孩子總是先透過聽、學習說話，再慢慢學認字， 我們相信，將沈重的經典化為輕巧的故事，說給孩子聽， 將是引導孩子學會享受閱讀樂趣的開始。 「在孩子踏入小學第一天，送給他一份值得一生回味的經典」 以世界經典名著為讀本，透過耳讀，引導孩子進入閱讀世界 透過貼近生活的語言， 提升孩子的人文性、思想性，學會思考，學會分析 最終提升孩童的語文聆聽與表達能力 因為，透過閱讀經典，可以讓孩子站在巨人的肩膀看世界。 因為，以耳讀引導閱讀，將拉近孩子與經典的距離。 所以，請陪孩子一起聽讀， 用聲音與陪伴，為孩子架起一座通往人類智慧結晶的橋樑。",
+        "showCategories": "兒童教育\nPodcast\n兒童與家庭",
+        "author": "radioad",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-tw\nepisodic\nfalse"
+      },
+      "feed_url": "https://anchor.fm/s/108e208c/podcast/rss",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1519",
+          "name": "兒童教育",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E4%B9%A6&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:42:08.264518+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E4%B9%A6&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:42:08.264518+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1305",
+          "name": "兒童與家庭",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E4%B9%A6&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:42:08.264518+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "radioad",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%89%E5%A3%B0%E4%B9%A6&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:42:08.264518+00:00"
+        }
+      ],
+      "label": "fiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "block",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": false
+    },
+    {
+      "unit": "show",
+      "show_id": "1489841902",
+      "episode_id": null,
+      "title": "家庭健康管理师：张旭营养基础班",
+      "fields": {
+        "showTitle": "家庭健康管理师：张旭营养基础班",
+        "showDescription": "全国家庭健康管理师：张旭营养基础班（www.shajiabiji.com）。本课程通过讲解人体健康与基础营养知识，帮助大家正确认识各类营养素与人体健康的关系。 课程讲师介绍：（中国）市场部产品培训总监-张旭，临床医学专业，曾是一名外科医生，在服务的十五年中，先后从事过多年的营养培训、专业支持等工作，目前全面负责（中国）营养、美容及家居科技等产品的相关培训工作。 沙迦笔记带你学习微营销课程 Amway是一家世界级的跨国公司，1959年成立于美国，距今已经60年了，在全球超过100多个国家和地区都有自己的公司和业务。如何申请Amway公司的优惠会员卡买产品？已经如何利用来互联网Amway创业？ +个人wx号： Bruce1934 ，wx公众号： 沙迦笔记， 更多详情见： www.shajiabiji.com Amway是一家世界级的跨国公司，1959年成立于美国，距今已经60年了，在全球超过100多个国家和地区都有自己的公司和业务。 带你一部手机，利用兼职时间就开始互联网的兼职创业之路 +个人wx号： Bruce1934 , wx公众号： 沙迦笔记 www.shajiabiji.com Amway 中国提供的产品有非常优质的优生活®日用品、家居清洁用品、全球著名的纽崔莱®Nutrilite®营养补充食品、全球高端的雅姿®Artistry®美容护肤品、以及全球销量第一的高科技的益之源®e",
+        "showCategories": "替代保健\n播客\n健康与健身\n营养",
+        "author": "沙迦笔记_Amway安利",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "zh-cn\nepisodic\nfalse"
+      },
+      "feed_url": "http://www.ximalaya.com/album/31430550.xml",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1513",
+          "name": "替代保健",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%81%A5%E5%BA%B7&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:32.245135+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%81%A5%E5%BA%B7&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:32.245135+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1512",
+          "name": "健康与健身",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%81%A5%E5%BA%B7&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:32.245135+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1515",
+          "name": "营养",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%81%A5%E5%BA%B7&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:32.245135+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "沙迦笔记_Amway安利",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E5%81%A5%E5%BA%B7&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:44:32.245135+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "chinese_candidate",
+      "eligibleForScreenedPilot": true
+    },
+    {
+      "unit": "show",
+      "show_id": "1490476655",
+      "episode_id": null,
+      "title": "The Moshi Moshi Podcast",
+      "fields": {
+        "showTitle": "The Moshi Moshi Podcast",
+        "showDescription": "Just a little personal conversation between you and me.",
+        "showCategories": "社會與文化\nPodcast",
+        "author": "Rolando Irizarry",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "en\nclean\nepisodic"
+      },
+      "feed_url": "https://www.spreaker.com/show/4161247/episodes/feed",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1324",
+          "name": "社會與文化",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%AB%E4%B8%96&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:40:44.604048+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "Podcast",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%AB%E4%B8%96&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:40:44.604048+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "Rolando Irizarry",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%9C%AB%E4%B8%96&media=podcast&entity=podcast&country=tw&limit=200",
+          "observedAt": "2026-10-25T14:40:44.604048+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "foreign_metadata",
+      "eligibleForScreenedPilot": false
+    },
+    {
+      "unit": "show",
+      "show_id": "1494068599",
+      "episode_id": null,
+      "title": "明大スポーツ新聞部",
+      "fields": {
+        "showTitle": "明大スポーツ新聞部",
+        "showDescription": "明大スポーツ新聞部は、現在明治大学において唯一の学生新聞部です。明治大学体育会46部の競技成績や、学内外の話題を発信しています。",
+        "showCategories": "体育\n播客",
+        "author": "明大スポーツ新聞部",
+        "episodeTitle": "",
+        "episodeDescription": "",
+        "rssMetadata": "ja-JP\nepisodic\nno"
+      },
+      "feed_url": "https://ad.robotstart.jp/api/v1/feeds/36400496/get-feeds/podcast",
+      "guid": null,
+      "rss_complete": true,
+      "classificationObservations": [
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "1545",
+          "name": "体育",
+          "path": [],
+          "primary": true,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%B0%E9%97%BB&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:43:21.659024+00:00"
+        },
+        {
+          "namespace": "apple.podcasts.genre",
+          "id": "26",
+          "name": "播客",
+          "path": [],
+          "primary": false,
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%B0%E9%97%BB&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:43:21.659024+00:00"
+        }
+      ],
+      "publisherIdentities": [
+        {
+          "namespace": "apple.podcasts.artist",
+          "id": null,
+          "name": "明大スポーツ新聞部",
+          "role": "unknown",
+          "source": "appleSearch",
+          "sourceURL": "https://itunes.apple.com/search?term=%E6%96%B0%E9%97%BB&media=podcast&entity=podcast&country=cn&limit=200",
+          "observedAt": "2026-10-25T14:43:21.659024+00:00"
+        }
+      ],
+      "label": "nonfiction",
+      "label_source": "human",
+      "subtype": null,
+      "expectedFilterDecision": "allow",
+      "scope": "foreign_metadata",
+      "eligibleForScreenedPilot": false
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1157960349",
+  "feed_url": "http://www.ximalaya.com/album/5080808.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/5080808.xml",
+    "final_url": "http://www.ximalaya.com/album/5080808.xml",
+    "fetched_at": "2026-10-25T14:47:47.566021+00:00",
+    "status": 200,
+    "sha256": "70302c25c757d957b5a298d1ced1b33f77019327b84121ee667aa724e0c2f1f6"
+  },
+  "status": "ok",
+  "title": {
+    "text": "健康减肥脱口秀---可瘦可乐的生活",
+    "truncated": false
+  },
+  "description": {
+    "text": "更多内容请加微信[contact removed]. 减肥脱口秀：搞笑我们是可以减肥的，减肥我们是快乐的。 想减肥，莫紧张，我们一起可瘦可乐。 伊直瘦，让您一直瘦下去",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 18,
+  "episodes": [
+    {
+      "id": "00094a203cbfe65d9ba6e714007c2ca345ffe14f41c516b57118e7575e82b4f4",
+      "guid": "https://aod.cos.tx.xmcdn.com/group24/M07/67/9D/wKgJNVg4IFbj4HWzAKOGfu2SHME680.mp3",
+      "title": {
+        "text": "健康减肥脱口秀 第18集 喝水不够好可怕",
+        "truncated": false
+      },
+      "description": {
+        "text": "伊直瘦，专注健康减肥！ 减肥脱口秀第十八集：喝水不够好可怕 伊直瘦，让您一直瘦下去",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Nov 2016 11:33:16 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "6babac341f048b1693ec42be09c16e28bd8268541d9c7a875d9de64c36c1feb9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group23/M02/44/DA/wKgJL1grEhGTDYOwAE85_qLzvI8764.mp3",
+      "title": {
+        "text": "健康减肥脱口秀 第16集 少食多餐控热能",
+        "truncated": false
+      },
+      "description": {
+        "text": "伊直瘦，专注健康减肥！ 减肥脱口秀第十五集：这样的运动能保证瘦下来 伊直瘦，让您一直瘦下去",
+        "truncated": false
+      },
+      "published_at": "Tue, 15 Nov 2016 13:49:36 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "153504ce1cf8fae1b6efded8fb02f83491de9a83e4ab9cc9368f3e3021517161",
+      "guid": "https://aod.cos.tx.xmcdn.com/group21/M03/00/15/wKgJLVgQFKaRWqbwAInH1I9YrM8906.mp3",
+      "title": {
+        "text": "健康减肥脱口秀 13 什么样的运动最减肥",
+        "truncated": false
+      },
+      "description": {
+        "text": "更多内容请加微信[contact removed]. 伊直瘦，专注健康减肥！ 减肥脱口秀第十三集：什么样的运动最减肥 伊直瘦，让您一直瘦下去",
+        "truncated": false
+      },
+      "published_at": "Wed, 26 Oct 2016 02:30:50 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "8237c6b5c264f9aa614548cf0010eaf91bf8bd6dafbcb556884a5ff1af4eee7e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M0B/8E/8F/wKgJJ1gHKW3AU5gZAK9EGs6QfV0338.mp3",
+      "title": {
+        "text": "健康减肥脱口秀 11减肥时水果怎么吃",
+        "truncated": false
+      },
+      "description": {
+        "text": "更多内容请加微信[contact removed]. 伊直瘦，专注健康减肥！ 减肥脱口秀第十一集：减肥时水果怎么吃 伊直瘦，让您一直瘦下去",
+        "truncated": false
+      },
+      "published_at": "Wed, 19 Oct 2016 08:09:45 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "a06a85eca1f1a0b0e6e7016e5587412b84c39b924a920e08095ba0357d17fdb9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group18/M00/38/52/wKgJKlfqPfqQjoVFACzIXL74SZY685.m4a",
+      "title": {
+        "text": "健康减肥脱口秀 8 健康减肥口诀",
+        "truncated": false
+      },
+      "description": {
+        "text": "点击上方的“可瘦可乐”主播名，收听更多节目内容！ 更多内容请加微信[contact removed]. 伊直瘦，专注健康减肥！ 健康减肥脱口秀第八集：健康减肥口诀。 伊直瘦，让您一直瘦下去 点击下方的专辑，收听更多节目内容！",
+        "truncated": false
+      },
+      "published_at": "Tue, 27 Sep 2016 09:39:19 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "d63beb0f1526720089bb518c55ba41ed6aaf597122d4c5abe08dd2d1ea8d1ccf",
+      "guid": "https://aod.cos.tx.xmcdn.com/group18/M07/16/F4/wKgJJVff_PDD6aAHAExlaGkGHfY202.mp3",
+      "title": {
+        "text": "健康减肥脱口秀 6 健康减肥之歌",
+        "truncated": false
+      },
+      "description": {
+        "text": "点击上方的“可瘦可乐”主播名，收听更多节目内容！ 更多内容请加微信[contact removed]. 伊直瘦，专注健康减肥！ 减肥脱口秀第六集：健康减肥之歌。 伊直瘦，让您一直瘦下去 点击下方的专辑，收听更多节目内容！",
+        "truncated": false
+      },
+      "published_at": "Mon, 19 Sep 2016 23:58:00 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "fed8eace249fb0a2fc0c740e4a166dbb8ef39e3a37860d42caf1e991abaf0bc5",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M0B/E0/96/wKgJJ1fNWr2QeLy2AE7jVpA9NAw021.mp3",
+      "title": {
+        "text": "健康减肥脱口秀 3 节食减肥坏处多",
+        "truncated": false
+      },
+      "description": {
+        "text": "点击上方的“可瘦可乐”主播名，收听更多节目内容！ 更多内容请加微信[contact removed]. 伊直瘦，专注健康减肥！ 减肥脱口秀第三集：节食减肥坏处多。 伊直瘦，让您一直瘦下去 点击上方的“可瘦可乐”主播名，收听更多节目内容！",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Sep 2016 11:45:13 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "130f90680a0e6cb8b99c73f2555682178778170dea66b654167752bae15db7af",
+      "guid": "https://aod.cos.tx.xmcdn.com/group20/M0B/DE/D6/wKgJLFfNWqiD3Xr_ADS9sP9nAkU828.mp3",
+      "title": {
+        "text": "健康减肥脱口秀 1 判断减肥方法的三个标准",
+        "truncated": false
+      },
+      "description": {
+        "text": "点击上方的“可瘦可乐”主播名，收听更多节目内容！ 更多内容请加微信[contact removed]. 伊直瘦，专注健康减肥！ 伊直瘦，让您一直瘦下去 点击下方的专辑，收听更多节目内容！",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Sep 2016 11:45:13 GMT",
+      "feed_index": 17
+    }
+  ]
+}

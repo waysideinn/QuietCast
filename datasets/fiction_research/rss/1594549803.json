@@ -1,0 +1,56 @@
+{
+  "show_id": "1594549803",
+  "feed_url": "http://www.ximalaya.com/album/54556680.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/54556680.xml",
+    "final_url": "http://www.ximalaya.com/album/54556680.xml",
+    "fetched_at": "2026-10-25T14:43:26.019416+00:00",
+    "status": 200,
+    "sha256": "cec432f7b5f6cd9987b8facbd75723e9ace6ebebf2cd2985df5557034c1b4917"
+  },
+  "status": "ok",
+  "title": {
+    "text": "超级广播剧",
+    "truncated": false
+  },
+  "description": {
+    "text": "七年感情出现问题，这场分手旅行结果到底是和好如初还是分道扬镳呢。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 2,
+  "episodes": [
+    {
+      "id": "ddda84a87ff04721d3e75a2416fe2e15990f2532df1c4325df117ca58a537364",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4945-audiofreehighqps/10/37/CKwRIW4FX0f8Apn_rgD1RXtw.mp3",
+      "title": {
+        "text": "请和我恋爱吧",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 Nov 2021 20:15:04 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "987ce32120d4fcefebc7607031750af8cb2d762f50ada4647ed78dfeb19af4cb",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/e4c1-audiofreehighqps/C2/5E/CKwRIDoFXkefABAAAAD09Ppv.mp3",
+      "title": {
+        "text": "分手旅行",
+        "truncated": false
+      },
+      "description": {
+        "text": "两人互相猜疑，分手旅行最后的结局到底是和好如初还是彻底分开",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 Nov 2021 02:00:23 GMT",
+      "feed_index": 1
+    }
+  ]
+}

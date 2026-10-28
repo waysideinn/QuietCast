@@ -1,0 +1,84 @@
+{
+  "show_id": "1631657254",
+  "feed_url": "https://feeds.soundon.fm/podcasts/e0a74d34-da6b-4885-9a71-8b0082cc3c52.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/e0a74d34-da6b-4885-9a71-8b0082cc3c52.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/e0a74d34-da6b-4885-9a71-8b0082cc3c52.xml",
+    "fetched_at": "2026-10-25T14:44:27.458404+00:00",
+    "status": 200,
+    "sha256": "f041b73de5bd578c98184f8374327c4603ab1d02e8a35499cd29617992b0304a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "庆余年 有声小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "庆余年 有声小说",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hans",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 4,
+  "episodes": [
+    {
+      "id": "3cb3c06df0c70daf4852fc99171ad79da0f8d4c1b8608e53710e50cf77a6a2ad",
+      "guid": "ce899e0d-eb22-4b7f-b8e0-c68b2500bbfe",
+      "title": {
+        "text": "多人有声剧【庆余年】第四集",
+        "truncated": false
+      },
+      "description": {
+        "text": "多人有声剧【庆余年】第四集",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Jun 2022 08:31:56 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "343cbc0135c6474026e7ff0cd1cb370865aadeaf227def0a8a8cacae9c7341b4",
+      "guid": "1acbe0c6-df68-4b2b-abf6-a129f7eef3aa",
+      "title": {
+        "text": "多人有声剧【庆余年】第三集",
+        "truncated": false
+      },
+      "description": {
+        "text": "多人有声剧【庆余年】第三集",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Jun 2022 07:52:51 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "9e4d92ad240f7522817c718646ffc13b56140b7a9d48eb699e43ce9e4465752b",
+      "guid": "b8b782ce-5dad-43c8-bde0-3c310b8facc8",
+      "title": {
+        "text": "多人有声剧【庆余年】第二集",
+        "truncated": false
+      },
+      "description": {
+        "text": "多人有声剧【庆余年】第二集",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Jun 2022 07:45:25 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "0a8f6e14d69ba4ee9aa4f7af85c0f984078935349f85ac5f51b8862a574be5d7",
+      "guid": "cba87572-878e-4405-99de-b1f7a357ef18",
+      "title": {
+        "text": "多人有声剧【庆余年】第一集",
+        "truncated": false
+      },
+      "description": {
+        "text": "多人有声剧【庆余年】第一集",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Jun 2022 07:03:20 GMT",
+      "feed_index": 3
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1644886179",
+  "feed_url": "https://anchor.fm/s/b49b5550/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/b49b5550/podcast/rss",
+    "final_url": "https://anchor.fm/s/b49b5550/podcast/rss",
+    "fetched_at": "2026-10-25T14:44:45.597284+00:00",
+    "status": 200,
+    "sha256": "882a153a1e39350014de29daabff32c8c7d08cea3e11e495147867189f62f211"
+  },
+  "status": "ok",
+  "title": {
+    "text": "穿越千年来爱你",
+    "truncated": false
+  },
+  "description": {
+    "text": "穿越千年来爱你",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 793,
+  "episodes": [
+    {
+      "id": "d6a5be719eb8ff6d1d6ce6067cb421ef99c257180807a11ad2240a44d0d59621",
+      "guid": "3d66915a-b0c1-4bcb-9e1f-a3398c274104",
+      "title": {
+        "text": "859.午市看盘20220927",
+        "truncated": false
+      },
+      "description": {
+        "text": "859.午市看盘20220927",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Jun 2023 14:16:26 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "dde61ebde28d86512f4b4d1ec2d680b39e2267e5f37cc2a539bf6dc031d53dbe",
+      "guid": "e9656584-2f8d-4a2b-ad04-b9041ad6597d",
+      "title": {
+        "text": "737.740风水五要素，风水之基（一）",
+        "truncated": false
+      },
+      "description": {
+        "text": "737.740风水五要素，风水之基（一）",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 May 2023 23:53:14 GMT",
+      "feed_index": 113
+    },
+    {
+      "id": "062d9361dd97f140c1deae0bde85b7174de85c5d5db6d53f801cd04d808925bb",
+      "guid": "afc8a07c-0a5d-409e-b4a9-d12042fcffc2",
+      "title": {
+        "text": "853.有个肉肉的女朋友是什么体验？@李小妹呐-糗事播报",
+        "truncated": false
+      },
+      "description": {
+        "text": "853.有个肉肉的女朋友是什么体验？@李小妹呐-糗事播报",
+        "truncated": false
+      },
+      "published_at": "Tue, 09 May 2023 01:02:24 GMT",
+      "feed_index": 226
+    },
+    {
+      "id": "b51ec3f86b6276254865b4e1dc4108811cc33c98e41263cf03b0d77579a4d1ee",
+      "guid": "a1066b01-b597-45e8-ae72-30e76b54d362",
+      "title": {
+        "text": "724.有一种爱叫“祝你幸福”",
+        "truncated": false
+      },
+      "description": {
+        "text": "724.有一种爱叫“祝你幸福”",
+        "truncated": false
+      },
+      "published_at": "Thu, 20 Apr 2023 05:42:04 GMT",
+      "feed_index": 339
+    },
+    {
+      "id": "74476719f30892ddc719f5e52b77b673a7186dbee17cdab63185519c428773b8",
+      "guid": "7867e20f-e06a-4a7a-abb0-f3bc88158b39",
+      "title": {
+        "text": "9166.养殖场发现新冠变异病毒 丹麦扑杀1700万只水貂",
+        "truncated": false
+      },
+      "description": {
+        "text": "9166.养殖场发现新冠变异病毒 丹麦扑杀1700万只水貂",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Apr 2023 08:10:24 GMT",
+      "feed_index": 453
+    },
+    {
+      "id": "6cb7f9e23a1c336b3a79f88d497f302d41eb8fcf841401b8a001a07bb35db21a",
+      "guid": "a0709003-138d-4610-89d9-0997200c03e2",
+      "title": {
+        "text": "8972.武磊1000万欧身价创国足全新历史 4个月暴涨近3倍",
+        "truncated": false
+      },
+      "description": {
+        "text": "8972.武磊1000万欧身价创国足全新历史 4个月暴涨近3倍",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Mar 2023 18:16:53 GMT",
+      "feed_index": 566
+    },
+    {
+      "id": "7d6f08ee07c14770420352320e13e67adbb6e2eee3886e0f5d9959a5d9597cfb",
+      "guid": "fc001f67-e794-4a60-8243-b3616087f193",
+      "title": {
+        "text": "707.《微信集锦——生活中的杂七杂八》",
+        "truncated": false
+      },
+      "description": {
+        "text": "707.《微信集锦——生活中的杂七杂八》",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Mar 2023 12:04:27 GMT",
+      "feed_index": 679
+    },
+    {
+      "id": "188008b0e889a17e30f01a389e0792c3d26a2379dda55970008b13b90b9938eb",
+      "guid": "e0c76919-8445-4ac0-a8a8-3ccc4be1e886",
+      "title": {
+        "text": "穿越千年来爱你",
+        "truncated": false
+      },
+      "description": {
+        "text": "穿越千年来爱你",
+        "truncated": false
+      },
+      "published_at": "Sat, 03 Sep 2022 06:31:05 GMT",
+      "feed_index": 792
+    }
+  ]
+}

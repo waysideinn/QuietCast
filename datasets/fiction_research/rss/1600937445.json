@@ -1,0 +1,140 @@
+{
+  "show_id": "1600937445",
+  "feed_url": "http://www.ximalaya.com/album/55524399.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/55524399.xml",
+    "final_url": "http://www.ximalaya.com/album/55524399.xml",
+    "fetched_at": "2026-10-25T14:43:38.131355+00:00",
+    "status": 200,
+    "sha256": "1252a215a677b4e40cf048f74240e5745d14fa52aea83b9afb9b4463a5d857ec"
+  },
+  "status": "ok",
+  "title": {
+    "text": "仙侠玄幻丨修道有问题？一拳解决！【秦洛阳原著演播】",
+    "truncated": false
+  },
+  "description": {
+    "text": "【此书乃本人所著，起点首发，拿来练声，以飨各位读者听众老爷。】 数千年后，昆仑山上，他沙场点将，醉中饮酒，却发现人间千秋难入喉。 于是一剑斩仙魔，一指断山海，一叶渡众生。 他要这人间清净，要那天地同寂；他要让众仙烟消云散，让众生得大自由！ 而现在，他不过是个学什么会什么的轻狂 小道童 。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 70,
+  "episodes": [
+    {
+      "id": "142d0ea0b9b45e7b7cc9dab574ea8fc661c4cc73a200505c1a00092e2cd9f982",
+      "guid": "xmly_track_481974246",
+      "title": {
+        "text": "第一集 奇怪的少年",
+        "truncated": false
+      },
+      "description": {
+        "text": "一、 海王被杀 乌云密布，天公不作美。 云层上不时传来雷的低吼。 雨花 重重地砸 在海面上。 惊涛拍岸，千层雪白浪花击打在礁石上，发出呜咽的声音。 空气中充满着危险的味道，让海边的一切生灵都焦躁不安。 似乎海中的主宰正在狂怒。 有老人说：“这是海王来了。” 仙侠镇的孩子抬着头，似乎在问：海王是什么？ “那是大海的王者，据说四海生灵皆要臣服在海王的威压之下。” “那他是龙王吗？” “海王可不是龙王，”老人摸着自己花白的胡子，向孩子们卖弄因年龄而增加的学识：“龙王有布施降雨权柄，但海王以纯粹肉身力量占优，吸风云兴瀚海，乃海中一霸。” “海王吃人吗？” “ 渔民出海，都要拜祭海王，保佑他们出海能有鱼获。但是百年以降，多少渔民都成了海王的腹中餐食……你看这天，就是海王发怒了……” “他为何怒？” “因为他饿了。” 深海三千尺。 一个少年正握着鱼叉，那柄鱼叉插在一头异形怪鱼的头上。 这条鱼长约十数丈，人首鱼身，鱼鳍状如双翼，有七八丈之宽，其鱼斑如虎纹。 这怪鱼似乎想说什么：“噗噗噗噗噗！” “你说什么？”少年身上有避水珠，此乃上等灵器，在三千尺的水下使人行动如平常。 “噗噗噗噗噗！”那怪鱼海王一脸悲愤之色。 少年一拍脑门：“忘了你在水下了！”说完暗掐灵诀，将海王的头纳入避水范围。 “人，你为何要伤……噗噗噗？”话音未落，少年就又掐诀让海王的脸部陷入水中。 “看你不顺眼。”少年 平静地说道 。",
+        "truncated": true
+      },
+      "published_at": "Mon, 13 Dec 2021 05:25:54 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "780aea4728535d3e080c719f43e9ad9f9c2bd380bac40713300c88269f403cc5",
+      "guid": "xmly_track_483257878",
+      "title": {
+        "text": "十一集 玄真子",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 18 Dec 2021 00:00:00 GMT",
+      "feed_index": 10
+    },
+    {
+      "id": "0ceadf09f761f3339ee923aea20670557288ddd99e60ea2a3677f26c54ded2c1",
+      "guid": "xmly_track_484558797",
+      "title": {
+        "text": "二十一集 诛魔",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Dec 2021 23:00:00 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "353478806ff328837302d3aaae8770cdcdb44407c3bf9049161ba1af2cb320ae",
+      "guid": "xmly_track_486214280",
+      "title": {
+        "text": "三十一集 列阵",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 27 Dec 2021 23:00:02 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "c64c198bc7be76afccb57e3ed694f31746d0abd590a8c85312434dd5e6d465f4",
+      "guid": "xmly_track_488391062",
+      "title": {
+        "text": "四十集 天下震动",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 01 Jan 2022 23:00:00 GMT",
+      "feed_index": 39
+    },
+    {
+      "id": "4c12b6b0db9a82b79bc5666ec3856b4c440ddcd12671bca3ca7158b62aeed7ec",
+      "guid": "xmly_track_491644220",
+      "title": {
+        "text": "五十集 往日旧事",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 12 Jan 2022 03:03:38 GMT",
+      "feed_index": 49
+    },
+    {
+      "id": "54531e4ebdfd65e1c0bf399821e402af8058ab15ef9742a96b1f1de4e4d93cc0",
+      "guid": "xmly_track_494932372",
+      "title": {
+        "text": "五十九集 素墨虚",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 Jan 2022 23:00:00 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "974a8650b2c900b3420517779cdb50d47c7d0e35109a2fe65ec5b4b771f0d983",
+      "guid": "xmly_track_500748344",
+      "title": {
+        "text": "六十九集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 10 Feb 2022 14:34:05 GMT",
+      "feed_index": 69
+    }
+  ]
+}

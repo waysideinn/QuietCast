@@ -1,0 +1,140 @@
+{
+  "show_id": "1585541937",
+  "feed_url": "http://www.ximalaya.com/album/51783236.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/51783236.xml",
+    "final_url": "http://www.ximalaya.com/album/51783236.xml",
+    "fetched_at": "2026-10-25T14:43:09.945258+00:00",
+    "status": 200,
+    "sha256": "621267d507b5bd079226854c4e14eee504102c4b345482a88003f3b0f5068c59"
+  },
+  "status": "ok",
+  "title": {
+    "text": "权宠毒妃不好惹 | 强强权谋甜宠多人有声剧 免费有声小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "【作品简介】 平城裴世子容貌清隽如画，端的是端方雅致，公子无双，一身白衣如画谪仙。 顾家第四女容貌华艳瑰丽，端的是温文尔雅，淑逸闲华，一身红衣如火炽烈。 裴世子喜好温婉大方的美人，对顾家女穷追不舍终是将顾家女娶了回来，新婚之夜红粉变蛇蝎，吓坏了裴世子。 “你的身子我得到了，如何得你的心？” “需拿一颗真心来换，万里江山来聘，百里红妆来迎，方可倾心。” 成为世子妃后 面对夫君，利之诱之。 面对敌人，徐徐图之。 面对情人，狠之又狠。 成为丞相后 面对皇上，顾美人忠心有二。 面对前夫，顾美人毫无招架之力。 面对情人，顾美人百般刁难。成为王妃后 面对夫君，顾美人巧笑嫣然。 面对千军万马，顾美人说一手翻天，一手覆地。面对情人，顾美人说要他皇族一百三十八个人的性命血祭江南。 裴王爷在一边为顾美人擦拭脸上的血一边说：“美人只需笑即可覆灭江山易主什么的都交给为夫。” 【制作团队】 演播：金小刀、叶柒兮、太一 对轨：橙子 审听：纱朵 后期：桃夭夭 #免费小说随便听",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 1158,
+  "episodes": [
+    {
+      "id": "f5143e4867ed223d237e105be90db8edd0ba20cdbababe7d3d190e143e8111c6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/62ff-audiofreehighqps/ED/1A/CKwRINsFLxVaACaazQDo-R2y.m4a",
+      "title": {
+        "text": "权宠毒妃不好惹 001 来日方长你娶我",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 02 Aug 2021 10:00:14 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "8a29beecab686619254470cdd97aeb14efed1269415e80ad23f9969ee5aa52b9",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9da7-audiofreehighqps/2F/50/CKwRIasE8UvuACSUcwDYyCcH.m4a",
+      "title": {
+        "text": "权宠毒妃不好惹 166",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 17 Aug 2021 10:00:21 GMT",
+      "feed_index": 165
+    },
+    {
+      "id": "e2f470895249f3fb91fe88d628d914bb53ae13aeef1234667cb2a6fa739fdf27",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2a8d-audiofreehighqps/01/69/CMCoOSEE6A3-AJ8bAADVlrpu.mp3",
+      "title": {
+        "text": "权宠毒妃不好惹 332",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 03 Sep 2021 10:00:09 GMT",
+      "feed_index": 331
+    },
+    {
+      "id": "c1967877ff8387eddb0322623d48f40ad716775d3f39e60d16c08e8a467a034f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/d397-audiofreehighqps/B2/BF/CKwRIasFFnEBAKG7AADjFq0A.mp3",
+      "title": {
+        "text": "权宠毒妃不好惹 497",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 19 Sep 2021 10:00:11 GMT",
+      "feed_index": 496
+    },
+    {
+      "id": "4235cf52201c5caa12037a20e03e436d5089a2d3da29f62ccab2acc0a27bb902",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b6dc-audiofreehighqps/82/B9/CKwRIDoFQ_qgAJXNAADuDghj.mp3",
+      "title": {
+        "text": "权宠毒妃不好惹 662",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 19 Oct 2021 03:28:02 GMT",
+      "feed_index": 661
+    },
+    {
+      "id": "8ed8393a0ae252443e2c8f457170c0dfcb6ffba3026ff2d1db7b4324cc83c698",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6c3b-audiofreehighqps/32/FB/GKwRIJEFbDiqAJktAAD4zKa0.mp3",
+      "title": {
+        "text": "权宠毒妃不好惹 827",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Nov 2021 08:07:50 GMT",
+      "feed_index": 826
+    },
+    {
+      "id": "337b0417d3bcbf02c328aad7f6a7f0230278583ded776aac49ad413e58073923",
+      "guid": "xmly_track_503085447",
+      "title": {
+        "text": "权宠毒妃不好惹 993",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 18 Feb 2022 03:00:12 GMT",
+      "feed_index": 992
+    },
+    {
+      "id": "77bf521b5d24a89fcad67ebdbce7f5d103fd5aef85ccd027d7b621cb64155a27",
+      "guid": "xmly_track_522917802",
+      "title": {
+        "text": "权宠毒妃不好惹 1160（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 18 Apr 2022 03:00:16 GMT",
+      "feed_index": 1157
+    }
+  ]
+}

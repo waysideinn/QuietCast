@@ -1,0 +1,140 @@
+{
+  "show_id": "1618467149",
+  "feed_url": "http://www.ximalaya.com/album/61980278.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/61980278.xml",
+    "final_url": "http://www.ximalaya.com/album/61980278.xml",
+    "fetched_at": "2026-10-25T14:44:11.786990+00:00",
+    "status": 200,
+    "sha256": "19da614a4f253995c93f3fef4433102edc897e26c19acf4b28716be8ef4017fb"
+  },
+  "status": "ok",
+  "title": {
+    "text": "我的老婆是妖女｜玄幻修仙｜先婚后爱｜精品有声小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "精品双播有声小说，期待您的订阅和支持！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 83,
+  "episodes": [
+    {
+      "id": "d7da0acb28e0e08dfe77dd7aacacec3e31f452b2bd1194993d88632f2473815d",
+      "guid": "xmly_track_517059214",
+      "title": {
+        "text": "001我的老婆是妖女第一集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 02 Apr 2022 02:30:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1fb31617c23663af1f02654aa770494a22c0996f8f858f5e319644a615fbf6b9",
+      "guid": "xmly_track_517357911",
+      "title": {
+        "text": "013我的老婆是妖女第十三集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 08 Apr 2022 01:30:00 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "1ffffa2793a8df76918a86df5f3cc45c6fe3608f8f80d2cfb474ce34a9d804ac",
+      "guid": "xmly_track_517358102",
+      "title": {
+        "text": "024我的老婆是妖女第二十四集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 13 Apr 2022 01:30:02 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "ca4e65284ec598e1936d4d2e4cda6ed561b44c908db6049960d206116b35cb80",
+      "guid": "xmly_track_519665154",
+      "title": {
+        "text": "036我的老婆是妖女第三十六集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 16 Apr 2022 01:30:02 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "6ab22e353fa848d57f29cbd1c463d331232ef3eeacfb86d7a00a6483ddd62996",
+      "guid": "xmly_track_523387410",
+      "title": {
+        "text": "048我的老婆是妖女第四十八集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 22 Apr 2022 01:30:02 GMT",
+      "feed_index": 47
+    },
+    {
+      "id": "8275514647828d6bccdb905db24402463009f7b4e905fc5f60c7991a742a5b9d",
+      "guid": "xmly_track_523389011",
+      "title": {
+        "text": "060我的老婆是妖女第六十集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 Apr 2022 01:30:02 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "e5bdbea165e3c06a638b122321effb5901ab71f4df583521f1e36b4c9b8ce8dd",
+      "guid": "xmly_track_526531406",
+      "title": {
+        "text": "071我的老婆是妖女第七十一集",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 04 May 2022 01:30:00 GMT",
+      "feed_index": 70
+    },
+    {
+      "id": "7387d5b41489ad3420ae97278112f68a85e09ef2b55b346f5192e914d4e185f9",
+      "guid": "xmly_track_528292688",
+      "title": {
+        "text": "083我的老婆是妖女第八十三集（完结）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 10 May 2022 01:30:00 GMT",
+      "feed_index": 82
+    }
+  ]
+}

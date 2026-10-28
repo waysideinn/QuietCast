@@ -1,0 +1,27 @@
+{
+  "show_id": "1553844283",
+  "feed_url": "http://www.ximalaya.com/album/45793202.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/45793202.xml",
+    "final_url": "http://www.ximalaya.com/album/45793202.xml",
+    "fetched_at": "2026-10-25T14:42:34.290565+00:00",
+    "status": 200,
+    "sha256": "7ea8ab3dec8323f290f92fa0e3e196e3aadf30cfa0d0a17d2b7335b2604432bc"
+  },
+  "status": "ok",
+  "title": {
+    "text": "打工皇帝丨都市逆袭&精品多人&免费爽文",
+    "truncated": false
+  },
+  "description": {
+    "text": "乡巴佬？小保安？豪门赘婿？黑道大哥？！孙犁到底有几种身份？！！ 十九岁的农村小伙孙梨本想当兵报效祖国，却不料名额被村长的儿子顶替了，娘让他投奔城里的的小姨，却被小姨想用一顿饭给打发回去，不料，秦总爷爷快过世，迫切想要得到一个孙女婿，冷艳女总裁秦岢岚临时需要一个假男朋友救急！就这样孙犁借着这股东风搅起一团巨浪，从此走上人生巅峰！都市逆袭打脸爽文，精品多人有声小说《打工皇帝》——等你来听！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 0,
+  "episodes": []
+}

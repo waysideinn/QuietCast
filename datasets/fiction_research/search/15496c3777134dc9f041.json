@@ -1,0 +1,2287 @@
+{
+  "group": "boundary",
+  "term": "第001期",
+  "country": "tw",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E7%AC%AC001%E6%9C%9F&media=podcast&entity=podcast&country=tw&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E7%AC%AC001%E6%9C%9F&media=podcast&entity=podcast&country=tw&limit=200",
+    "fetched_at": "2026-10-25T14:45:33.226639+00:00",
+    "status": 200,
+    "sha256": "d52225d55178db2ac3346812141ee027212c4ada61edf90ef077e3d6af44ce3a"
+  },
+  "result_count": 100,
+  "records": [
+    {
+      "collectionId": 1580265227,
+      "trackId": 1580265227,
+      "collectionName": "京言九所",
+      "artistName": "京言九所",
+      "feedUrl": "http://www.ximalaya.com/album/38747589.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BA%AC%E8%A8%80%E4%B9%9D%E6%89%80/id1580265227?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 70,
+      "releaseDate": "2023-01-10T14:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 6817809987,
+      "trackId": 6817809987,
+      "collectionName": "搜神记之搜神夜话|北京爷们聊志怪，专治各种不痛快",
+      "artistName": "子竺说",
+      "feedUrl": "https://www.ximalaya.com/album/128584661.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%90%9C%E7%A5%9E%E8%AE%B0%E4%B9%8B%E6%90%9C%E7%A5%9E%E5%A4%9C%E8%AF%9D-%E5%8C%97%E4%BA%AC%E7%88%B7%E4%BB%AC%E8%81%8A%E5%BF%97%E6%80%AA-%E4%B8%93%E6%B2%BB%E5%90%84%E7%A7%8D%E4%B8%8D%E7%97%9B%E5%BF%AB/id6817809987?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說",
+        "歷史"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483",
+        "1487"
+      ],
+      "trackCount": 71,
+      "releaseDate": "2026-10-24T13:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1638657267,
+      "trackId": 1638657267,
+      "collectionName": "挣扎着录一期",
+      "artistName": "小豆腐恼",
+      "feedUrl": "https://feed.xyzfm.space/79kr6nl483rc",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%8C%A3%E6%89%8E%E7%9D%80%E5%BD%95%E4%B8%80%E6%9C%9F/id1638657267?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast",
+        "喜劇"
+      ],
+      "genreIds": [
+        "1502",
+        "26",
+        "1303"
+      ],
+      "trackCount": 45,
+      "releaseDate": "2024-05-19T12:49:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1638445496,
+      "trackId": 1638445496,
+      "collectionName": "那些年",
+      "artistName": "linglina",
+      "feedUrl": "https://anchor.fm/s/ae2b268c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%82%A3%E4%BA%9B%E5%B9%B4/id1638445496?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 799,
+      "releaseDate": "2023-06-11T03:59:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1638226871,
+      "trackId": 1638226871,
+      "collectionName": "爱如潮水",
+      "artistName": "yujiaqian",
+      "feedUrl": "https://anchor.fm/s/adec02e0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%88%B1%E5%A6%82%E6%BD%AE%E6%B0%B4/id1638226871?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 926,
+      "releaseDate": "2023-06-17T09:09:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1638232136,
+      "trackId": 1638232136,
+      "collectionName": "用耳朵听",
+      "artistName": "gurong",
+      "feedUrl": "https://anchor.fm/s/adee4c6c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%94%A8%E8%80%B3%E6%9C%B5%E5%90%AC/id1638232136?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 966,
+      "releaseDate": "2023-06-17T09:28:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1790618421,
+      "trackId": 1790618421,
+      "collectionName": "零零总总",
+      "artistName": "栗子_Erica",
+      "feedUrl": "https://feed.xyzfm.space/njrqdygjvxbv",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9B%B6%E9%9B%B6%E6%80%BB%E6%80%BB/id1790618421?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 17,
+      "releaseDate": "2026-04-04T13:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1157803271,
+      "trackId": 1157803271,
+      "collectionName": "媒丽山海",
+      "artistName": "媒丽山海",
+      "feedUrl": "http://www.ximalaya.com/album/4827179.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%AA%92%E4%B8%BD%E5%B1%B1%E6%B5%B7/id1157803271?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術",
+        "社會與文化",
+        "哲學"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 56,
+      "releaseDate": "2018-07-06T00:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1754901798,
+      "trackId": 1754901798,
+      "collectionName": "【小白花的聲音】無障礙資訊",
+      "artistName": "小白花的聲音",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/f4b53f2a-bfd1-415c-883b-cc3eee500add.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B0%8F%E7%99%BD%E8%8A%B1%E7%9A%84%E8%81%B2%E9%9F%B3-%E7%84%A1%E9%9A%9C%E7%A4%99%E8%B3%87%E8%A8%8A/id1754901798?uo=4",
+      "genres": [
+        "食物",
+        "Podcast",
+        "藝術",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1306",
+        "26",
+        "1301",
+        "1324"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2025-11-20T05:37:00Z",
+      "country": "TWN",
+      "primaryGenreName": "食物"
+    },
+    {
+      "collectionId": 1507944396,
+      "trackId": 1507944396,
+      "collectionName": "幽声隧道频道节目",
+      "artistName": "高尔吉亚",
+      "feedUrl": "http://www.ximalaya.com/album/234993.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B9%BD%E5%A3%B0%E9%9A%A7%E9%81%93%E9%A2%91%E9%81%93%E8%8A%82%E7%9B%AE/id1507944396?uo=4",
+      "genres": [
+        "音樂評論",
+        "Podcast",
+        "音樂",
+        "宗教與精神生活",
+        "靈修"
+      ],
+      "genreIds": [
+        "1523",
+        "26",
+        "1310",
+        "1314",
+        "1444"
+      ],
+      "trackCount": 656,
+      "releaseDate": "2025-11-20T03:37:00Z",
+      "country": "TWN",
+      "primaryGenreName": "音樂評論"
+    },
+    {
+      "collectionId": 738913729,
+      "trackId": 738913729,
+      "collectionName": "BadCaptain",
+      "artistName": "BadCaptain",
+      "feedUrl": "http://rss.lizhi.fm/rss/10220.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/badcaptain/id738913729?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2016-11-02T15:16:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 870380008,
+      "trackId": 870380008,
+      "collectionName": "海鸟窝",
+      "artistName": "海鸟窝电台",
+      "feedUrl": "http://cdn.lizhi.fm/rss/16532.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B5%B7%E9%B8%9F%E7%AA%9D/id870380008?uo=4",
+      "genres": [
+        "名勝與旅遊",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1320",
+        "26",
+        "1324"
+      ],
+      "trackCount": 86,
+      "releaseDate": "2015-01-19T22:22:00Z",
+      "country": "TWN",
+      "primaryGenreName": "名勝與旅遊"
+    },
+    {
+      "collectionId": 950601546,
+      "trackId": 950601546,
+      "collectionName": "闲远之思",
+      "artistName": "闲远之思",
+      "feedUrl": "http://rss.lizhi.fm/rss/837236.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%97%B2%E8%BF%9C%E4%B9%8B%E6%80%9D/id950601546?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2015-03-20T13:41:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1502410518,
+      "trackId": 1502410518,
+      "collectionName": "这就是韩语 | 每日一句",
+      "artistName": "韩语老师柚子基",
+      "feedUrl": "http://www.ximalaya.com/album/12184625.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%BF%99%E5%B0%B1%E6%98%AF%E9%9F%A9%E8%AF%AD-%E6%AF%8F%E6%97%A5%E4%B8%80%E5%8F%A5/id1502410518?uo=4",
+      "genres": [
+        "語言學習",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1498",
+        "26",
+        "1304"
+      ],
+      "trackCount": 742,
+      "releaseDate": "2026-10-04T04:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "語言學習"
+    },
+    {
+      "collectionId": 1691274864,
+      "trackId": 1691274864,
+      "collectionName": "大懒龙",
+      "artistName": "大懒龙",
+      "feedUrl": "http://rss.lizhi.fm/rss/187368353.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%A7%E6%87%92%E9%BE%99/id1691274864?uo=4",
+      "genres": [
+        "即興表演",
+        "Podcast",
+        "喜劇",
+        "社會與文化",
+        "人際關係"
+      ],
+      "genreIds": [
+        "1495",
+        "26",
+        "1303",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 123,
+      "releaseDate": "2026-10-21T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "即興表演"
+    },
+    {
+      "collectionId": 1533388375,
+      "trackId": 1533388375,
+      "collectionName": "出逃在即",
+      "artistName": "出逃studio",
+      "feedUrl": "http://www.ximalaya.com/album/23362550.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%87%BA%E9%80%83%E5%9C%A8%E5%8D%B3/id1533388375?uo=4",
+      "genres": [
+        "喜劇訪談",
+        "Podcast",
+        "喜劇",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1496",
+        "26",
+        "1303",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 396,
+      "releaseDate": "2026-10-20T00:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇訪談"
+    },
+    {
+      "collectionId": 1894826164,
+      "trackId": 1894826164,
+      "collectionName": "光能来电 · 中国电力市场周报",
+      "artistName": "小橘灯_光能来电",
+      "feedUrl": "https://www.ximalaya.com/album/119554706.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%85%89%E8%83%BD%E6%9D%A5%E7%94%B5-%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%9B%E5%B8%82%E5%9C%BA%E5%91%A8%E6%8A%A5/id1894826164?uo=4",
+      "genres": [
+        "課程",
+        "Podcast",
+        "教育",
+        "商業",
+        "職業"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1321",
+        "1410"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2026-06-27T05:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "課程"
+    },
+    {
+      "collectionId": 1657961109,
+      "trackId": 1657961109,
+      "collectionName": "今天周五！",
+      "artistName": "是木可呀",
+      "feedUrl": "https://www.ximalaya.com/album/72758957.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BB%8A%E5%A4%A9%E5%91%A8%E4%BA%94/id1657961109?uo=4",
+      "genres": [
+        "即興表演",
+        "Podcast",
+        "喜劇",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1495",
+        "26",
+        "1303",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2023-02-17T02:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "即興表演"
+    },
+    {
+      "collectionId": 986718838,
+      "trackId": 986718838,
+      "collectionName": "士兵小站音乐台",
+      "artistName": "士兵小站音乐台",
+      "feedUrl": "http://rss.lizhi.fm/rss/35640.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A3%AB%E5%85%B5%E5%B0%8F%E7%AB%99%E9%9F%B3%E4%B9%90%E5%8F%B0/id986718838?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "政府"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1511"
+      ],
+      "trackCount": 1224,
+      "releaseDate": "2018-08-24T03:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 895741225,
+      "trackId": 895741225,
+      "collectionName": "子芙工作团队",
+      "artistName": "子芙工作团队",
+      "feedUrl": "http://rss.lizhi.fm/rss/139887.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%AD%90%E8%8A%99%E5%B7%A5%E4%BD%9C%E5%9B%A2%E9%98%9F/id895741225?uo=4",
+      "genres": [
+        "音樂",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1310",
+        "26"
+      ],
+      "trackCount": 65,
+      "releaseDate": "2016-04-24T14:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "音樂"
+    },
+    {
+      "collectionId": 1702491337,
+      "trackId": 1702491337,
+      "collectionName": "低音播客",
+      "artistName": "低音",
+      "feedUrl": "https://rss.buzzsprout.com/2232918.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BD%8E%E9%9F%B3%E6%92%AD%E5%AE%A2/id1702491337?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1489",
+        "26",
+        "1324"
+      ],
+      "trackCount": 107,
+      "releaseDate": "2026-10-08T21:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1600827323,
+      "trackId": 1600827323,
+      "collectionName": "他乡明月 | 三小姐美国来信",
+      "artistName": "三小姐晓鹂",
+      "feedUrl": "http://www.ximalaya.com/album/55268589.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BB%96%E4%B9%A1%E6%98%8E%E6%9C%88-%E4%B8%89%E5%B0%8F%E5%A7%90%E7%BE%8E%E5%9B%BD%E6%9D%A5%E4%BF%A1/id1600827323?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "名勝與旅遊"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1320"
+      ],
+      "trackCount": 197,
+      "releaseDate": "2026-10-22T03:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1583730370,
+      "trackId": 1583730370,
+      "collectionName": "读报teleread",
+      "artistName": "读报Teleread",
+      "feedUrl": "https://feed.firstory.me/rss/user/cmbfvskk00tt901x2773h20bp",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AF%BB%E6%8A%A5teleread/id1583730370?uo=4",
+      "genres": [
+        "新聞",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1489",
+        "26"
+      ],
+      "trackCount": 74,
+      "releaseDate": "2026-10-10T15:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "新聞"
+    },
+    {
+      "collectionId": 1091928630,
+      "trackId": 1091928630,
+      "collectionName": "两小无才播客",
+      "artistName": "两小无才播客",
+      "feedUrl": "http://rss.lizhi.fm/rss/1964225.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%A4%E5%B0%8F%E6%97%A0%E6%89%8D%E6%92%AD%E5%AE%A2/id1091928630?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 34,
+      "releaseDate": "2017-09-16T13:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1871883225,
+      "trackId": 1871883225,
+      "collectionName": "星星乐园",
+      "artistName": "星之卡卡",
+      "feedUrl": "https://feed.xyzfm.space/hkef7d49pw8l",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%98%9F%E6%98%9F%E4%B9%90%E5%9B%AD/id1871883225?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2026-01-29T11:36:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1611036825,
+      "trackId": 1611036825,
+      "collectionName": "蒸汽疗法",
+      "artistName": "蒸汽疗法",
+      "feedUrl": "http://rss.lizhi.fm/rss/14187437.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%92%B8%E6%B1%BD%E7%96%97%E6%B3%95/id1611036825?uo=4",
+      "genres": [
+        "電子遊戲",
+        "Podcast",
+        "休閒"
+      ],
+      "genreIds": [
+        "1509",
+        "26",
+        "1502"
+      ],
+      "trackCount": 316,
+      "releaseDate": "2026-10-06T20:12:00Z",
+      "country": "TWN",
+      "primaryGenreName": "電子遊戲"
+    },
+    {
+      "collectionId": 1475866415,
+      "trackId": 1475866415,
+      "collectionName": "双棒播客",
+      "artistName": "双棒播客",
+      "feedUrl": "http://www.ximalaya.com/album/25177774.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8F%8C%E6%A3%92%E6%92%AD%E5%AE%A2/id1475866415?uo=4",
+      "genres": [
+        "電子遊戲",
+        "Podcast",
+        "休閒",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1509",
+        "26",
+        "1502",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 174,
+      "releaseDate": "2026-08-26T14:51:00Z",
+      "country": "TWN",
+      "primaryGenreName": "電子遊戲"
+    },
+    {
+      "collectionId": 1197935841,
+      "trackId": 1197935841,
+      "collectionName": "妈妈你听",
+      "artistName": "momlook",
+      "feedUrl": "http://www.ximalaya.com/album/6307881.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A6%88%E5%A6%88%E4%BD%A0%E5%90%AC/id1197935841?uo=4",
+      "genres": [
+        "兒童與家庭",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1305",
+        "26",
+        "1512"
+      ],
+      "trackCount": 369,
+      "releaseDate": "2019-10-30T06:06:00Z",
+      "country": "TWN",
+      "primaryGenreName": "兒童與家庭"
+    },
+    {
+      "collectionId": 907908617,
+      "trackId": 907908617,
+      "collectionName": "轩闷闷",
+      "artistName": "轩闷闷",
+      "feedUrl": "http://rss.lizhi.fm/rss/270691.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%BD%A9%E9%97%B7%E9%97%B7/id907908617?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術",
+        "音樂"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1310"
+      ],
+      "trackCount": 17,
+      "releaseDate": "2016-04-22T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1646612485,
+      "trackId": 1646612485,
+      "collectionName": "别让手机代替感情",
+      "artistName": "牛文彪",
+      "feedUrl": "https://anchor.fm/s/b1fedec0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%88%AB%E8%AE%A9%E6%89%8B%E6%9C%BA%E4%BB%A3%E6%9B%BF%E6%84%9F%E6%83%85/id1646612485?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 813,
+      "releaseDate": "2023-06-12T00:47:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1615326182,
+      "trackId": 1615326182,
+      "collectionName": "榴莲客栈｜倾听有味道的生活",
+      "artistName": "榴莲客栈",
+      "feedUrl": "http://www.ximalaya.com/album/40848445.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%A6%B4%E8%8E%B2%E5%AE%A2%E6%A0%88-%E5%80%BE%E5%90%AC%E6%9C%89%E5%91%B3%E9%81%93%E7%9A%84%E7%94%9F%E6%B4%BB/id1615326182?uo=4",
+      "genres": [
+        "即興表演",
+        "Podcast",
+        "喜劇",
+        "藝術",
+        "食物"
+      ],
+      "genreIds": [
+        "1495",
+        "26",
+        "1303",
+        "1301",
+        "1306"
+      ],
+      "trackCount": 312,
+      "releaseDate": "2026-10-22T11:59:00Z",
+      "country": "TWN",
+      "primaryGenreName": "即興表演"
+    },
+    {
+      "collectionId": 593831042,
+      "trackId": 593831042,
+      "collectionName": "任天小饭堂",
+      "artistName": "任天小饭堂",
+      "feedUrl": "http://rss.lizhi.fm/rss/13736.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BB%BB%E5%A4%A9%E5%B0%8F%E9%A5%AD%E5%A0%82/id593831042?uo=4",
+      "genres": [
+        "遊戲",
+        "Podcast",
+        "休閒",
+        "電子遊戲"
+      ],
+      "genreIds": [
+        "1507",
+        "26",
+        "1502",
+        "1509"
+      ],
+      "trackCount": 277,
+      "releaseDate": "2026-09-21T14:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "遊戲"
+    },
+    {
+      "collectionId": 1095188273,
+      "trackId": 1095188273,
+      "collectionName": "隐形的小众经济",
+      "artistName": "食课堂",
+      "feedUrl": "http://www.ximalaya.com/album/3820628.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9A%90%E5%BD%A2%E7%9A%84%E5%B0%8F%E4%BC%97%E7%BB%8F%E6%B5%8E/id1095188273?uo=4",
+      "genres": [
+        "商業",
+        "Podcast",
+        "科技"
+      ],
+      "genreIds": [
+        "1321",
+        "26",
+        "1318"
+      ],
+      "trackCount": 24,
+      "releaseDate": "2017-09-11T08:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 1502792444,
+      "trackId": 1502792444,
+      "collectionName": "Robust: 程序员的 TALK PLACE",
+      "artistName": "否子戈",
+      "feedUrl": "http://www.ximalaya.com/album/34869197.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/robust-%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84-talk-place/id1502792444?uo=4",
+      "genres": [
+        "科技",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1318",
+        "26"
+      ],
+      "trackCount": 61,
+      "releaseDate": "2026-09-02T16:20:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1528122245,
+      "trackId": 1528122245,
+      "collectionName": "话室 Chat Room",
+      "artistName": "OpenArt Studio",
+      "feedUrl": "https://www.open-art.co/chat-room?format=rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%AF%9D%E5%AE%A4-chat-room/id1528122245?uo=4",
+      "genres": [
+        "視覺藝術",
+        "Podcast",
+        "藝術",
+        "書籍"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 17,
+      "releaseDate": "2023-11-29T20:07:00Z",
+      "country": "TWN",
+      "primaryGenreName": "視覺藝術"
+    },
+    {
+      "collectionId": 1644463077,
+      "trackId": 1644463077,
+      "collectionName": "无问西东",
+      "artistName": "王小跳 & 鲁小姐",
+      "feedUrl": "https://anchor.fm/s/ae2e3818/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%A0%E9%97%AE%E8%A5%BF%E4%B8%9C/id1644463077?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 6,
+      "releaseDate": "2024-02-28T02:06:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1895732828,
+      "trackId": 1895732828,
+      "collectionName": "J· Talk: J姐的澳洲女子谈",
+      "artistName": "J姐",
+      "feedUrl": "https://anchor.fm/s/112016388/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/j-talk-j%E5%A7%90%E7%9A%84%E6%BE%B3%E6%B4%B2%E5%A5%B3%E5%AD%90%E8%B0%88/id1895732828?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304"
+      ],
+      "trackCount": 6,
+      "releaseDate": "2026-06-22T11:46:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1522780452,
+      "trackId": 1522780452,
+      "collectionName": "多伦多话多多—北美加拿大",
+      "artistName": "多伦多话多多",
+      "feedUrl": "http://www.ximalaya.com/album/35534708.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%9A%E4%BC%A6%E5%A4%9A%E8%AF%9D%E5%A4%9A%E5%A4%9A-%E5%8C%97%E7%BE%8E%E5%8A%A0%E6%8B%BF%E5%A4%A7/id1522780452?uo=4",
+      "genres": [
+        "喜劇訪談",
+        "Podcast",
+        "喜劇",
+        "社會與文化",
+        "紀實"
+      ],
+      "genreIds": [
+        "1496",
+        "26",
+        "1303",
+        "1324",
+        "1543"
+      ],
+      "trackCount": 51,
+      "releaseDate": "2023-04-05T17:44:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇訪談"
+    },
+    {
+      "collectionId": 1136986088,
+      "trackId": 1136986088,
+      "collectionName": "拾盐电台Salt Radio",
+      "artistName": "听友55028590",
+      "feedUrl": "http://www.ximalaya.com/album/4767360.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%8B%BE%E7%9B%90%E7%94%B5%E5%8F%B0salt-radio/id1136986088?uo=4",
+      "genres": [
+        "視覺藝術",
+        "Podcast",
+        "藝術",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1406",
+        "26",
+        "1301",
+        "1512"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2016-12-18T07:29:00Z",
+      "country": "TWN",
+      "primaryGenreName": "視覺藝術"
+    },
+    {
+      "collectionId": 1646354615,
+      "trackId": 1646354615,
+      "collectionName": "无问西东",
+      "artistName": "王小跳 & 鲁小姐",
+      "feedUrl": "https://anchor.fm/s/ae2e3818/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%A0%E9%97%AE%E8%A5%BF%E4%B8%9C/id1646354615?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 6,
+      "releaseDate": "2024-02-28T02:06:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1534830440,
+      "trackId": 1534830440,
+      "collectionName": "世界上最无聊的播客 | The Most Boring Podcast",
+      "artistName": "Yingru Qiu",
+      "feedUrl": "https://anchor.fm/s/3d7f45bc/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E6%97%A0%E8%81%8A%E7%9A%84%E6%92%AD%E5%AE%A2-the-most-boring-podcast/id1534830440?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 3,
+      "releaseDate": "2021-11-27T07:01:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1556777037,
+      "trackId": 1556777037,
+      "collectionName": "自闭症循证干预｜ABA For Life",
+      "artistName": "ABA_For_Life",
+      "feedUrl": "http://www.ximalaya.com/album/32259577.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%87%AA%E9%97%AD%E7%97%87%E5%BE%AA%E8%AF%81%E5%B9%B2%E9%A2%84-aba-for-life/id1556777037?uo=4",
+      "genres": [
+        "課程",
+        "Podcast",
+        "教育",
+        "兒童與家庭",
+        "兒童教育"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1305",
+        "1519"
+      ],
+      "trackCount": 86,
+      "releaseDate": "2022-07-06T10:43:00Z",
+      "country": "TWN",
+      "primaryGenreName": "課程"
+    },
+    {
+      "collectionId": 1074650165,
+      "trackId": 1074650165,
+      "collectionName": "然哥讲故事丨谈古论今",
+      "artistName": "然哥脱口秀",
+      "feedUrl": "http://www.ximalaya.com/album/3418284.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%84%B6%E5%93%A5%E8%AE%B2%E6%95%85%E4%BA%8B%E4%B8%A8%E8%B0%88%E5%8F%A4%E8%AE%BA%E4%BB%8A/id1074650165?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "歷史"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1487"
+      ],
+      "trackCount": 122,
+      "releaseDate": "2021-11-12T09:37:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1642886187,
+      "trackId": 1642886187,
+      "collectionName": "員工編號001",
+      "artistName": "Terry & Sarah",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/dfd28da1-ce60-4b8c-86b2-707080e4469a.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%93%A1%E5%B7%A5%E7%B7%A8%E8%99%9F001/id1642886187?uo=4",
+      "genres": [
+        "創業",
+        "Podcast",
+        "商業"
+      ],
+      "genreIds": [
+        "1493",
+        "26",
+        "1321"
+      ],
+      "trackCount": 60,
+      "releaseDate": "2024-09-04T04:10:00Z",
+      "country": "TWN",
+      "primaryGenreName": "創業"
+    },
+    {
+      "collectionId": 1500194803,
+      "trackId": 1500194803,
+      "collectionName": "簡約科技 KCast001",
+      "artistName": "Anthony K.",
+      "feedUrl": "https://anchor.fm/s/13b5f9ec/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%B0%A1%E7%B4%84%E7%A7%91%E6%8A%80-kcast001/id1500194803?uo=4",
+      "genres": [
+        "科技新聞",
+        "Podcast",
+        "新聞"
+      ],
+      "genreIds": [
+        "1528",
+        "26",
+        "1489"
+      ],
+      "trackCount": 125,
+      "releaseDate": "2022-06-01T04:52:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技新聞"
+    },
+    {
+      "collectionId": 1695281339,
+      "trackId": 1695281339,
+      "collectionName": "听我放屁",
+      "artistName": "榴莲jungle",
+      "feedUrl": "https://www.ximalaya.com/album/76766570.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%90%AC%E6%88%91%E6%94%BE%E5%B1%81/id1695281339?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 6,
+      "releaseDate": "2023-09-24T08:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1532573947,
+      "trackId": 1532573947,
+      "collectionName": "黑车司机",
+      "artistName": "练琴小姑娘",
+      "feedUrl": "http://www.ximalaya.com/album/40875101.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%BB%91%E8%BD%A6%E5%8F%B8%E6%9C%BA/id1532573947?uo=4",
+      "genres": [
+        "喜劇訪談",
+        "Podcast",
+        "喜劇",
+        "運動",
+        "足球"
+      ],
+      "genreIds": [
+        "1496",
+        "26",
+        "1303",
+        "1545",
+        "1546"
+      ],
+      "trackCount": 38,
+      "releaseDate": "2021-05-27T16:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇訪談"
+    },
+    {
+      "collectionId": 1878507507,
+      "trackId": 1878507507,
+      "collectionName": "东的EMO空间",
+      "artistName": "Runy_东",
+      "feedUrl": "https://feed.xyzfm.space/w7gw4rgfu94m",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%9C%E7%9A%84emo%E7%A9%BA%E9%97%B4/id1878507507?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 33,
+      "releaseDate": "2026-07-04T05:29:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1615307683,
+      "trackId": 1615307683,
+      "collectionName": "龙哥聊股",
+      "artistName": "硬派老生_龙哥",
+      "feedUrl": "http://www.ximalaya.com/album/56770138.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%BE%99%E5%93%A5%E8%81%8A%E8%82%A1/id1615307683?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "創業"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1493"
+      ],
+      "trackCount": 29,
+      "releaseDate": "2022-02-25T21:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    },
+    {
+      "collectionId": 1377548071,
+      "trackId": 1377548071,
+      "collectionName": "叨逼叨剧透社",
+      "artistName": "张张何孟宋",
+      "feedUrl": "http://www.ximalaya.com/album/15124730.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8F%A8%E9%80%BC%E5%8F%A8%E5%89%A7%E9%80%8F%E7%A4%BE/id1377548071?uo=4",
+      "genres": [
+        "電視與電影",
+        "Podcast",
+        "音樂"
+      ],
+      "genreIds": [
+        "1309",
+        "26",
+        "1310"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2019-06-25T14:53:00Z",
+      "country": "TWN",
+      "primaryGenreName": "電視與電影"
+    },
+    {
+      "collectionId": 1130862082,
+      "trackId": 1130862082,
+      "collectionName": "You爱的世界——就是有爱，所以你爱。",
+      "artistName": "You爱的世界",
+      "feedUrl": "http://www.ximalaya.com/album/4600139.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/you%E7%88%B1%E7%9A%84%E4%B8%96%E7%95%8C-%E5%B0%B1%E6%98%AF%E6%9C%89%E7%88%B1-%E6%89%80%E4%BB%A5%E4%BD%A0%E7%88%B1/id1130862082?uo=4",
+      "genres": [
+        "表演",
+        "Podcast",
+        "藝術",
+        "社會與文化",
+        "哲學"
+      ],
+      "genreIds": [
+        "1405",
+        "26",
+        "1301",
+        "1324",
+        "1443"
+      ],
+      "trackCount": 31,
+      "releaseDate": "2016-09-29T13:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "表演"
+    },
+    {
+      "collectionId": 845069180,
+      "trackId": 845069180,
+      "collectionName": "老毒先生©",
+      "artistName": "老毒先生©",
+      "feedUrl": "http://rss.lizhi.fm/rss/75321.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%80%81%E6%AF%92%E5%85%88%E7%94%9F/id845069180?uo=4",
+      "genres": [
+        "運動",
+        "Podcast",
+        "宗教與精神生活",
+        "靈修"
+      ],
+      "genreIds": [
+        "1545",
+        "26",
+        "1314",
+        "1444"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2015-02-19T09:29:00Z",
+      "country": "TWN",
+      "primaryGenreName": "運動"
+    },
+    {
+      "collectionId": 6805970120,
+      "trackId": 6805970120,
+      "collectionName": "新青年与我的独立宣言",
+      "artistName": "郭兮君",
+      "feedUrl": "https://www.ximalaya.com/album/127858779.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%96%B0%E9%9D%92%E5%B9%B4%E4%B8%8E%E6%88%91%E7%9A%84%E7%8B%AC%E7%AB%8B%E5%AE%A3%E8%A8%80/id6805970120?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育",
+        "社會與文化",
+        "人際關係"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 34,
+      "releaseDate": "2026-09-27T05:34:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 889479280,
+      "trackId": 889479280,
+      "collectionName": "洋~~~蔥",
+      "artistName": "洋~~~蔥",
+      "feedUrl": "http://rss.lizhi.fm/rss/378696.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B4%8B-%E8%94%A5/id889479280?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 6,
+      "releaseDate": "2015-01-30T16:34:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1721309978,
+      "trackId": 1721309978,
+      "collectionName": "普普瞎嘚嘚",
+      "artistName": "Phageous",
+      "feedUrl": "https://feed.xyzfm.space/p3n3gujfc34p",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%99%AE%E6%99%AE%E7%9E%8E%E5%98%9A%E5%98%9A/id1721309978?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast",
+        "健康與瘦身"
+      ],
+      "genreIds": [
+        "1502",
+        "26",
+        "1512"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2023-12-14T06:08:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1753575757,
+      "trackId": 1753575757,
+      "collectionName": "Don Mandarin",
+      "artistName": "Ognyan Guglev",
+      "feedUrl": "https://rss.buzzsprout.com/2373804.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/don-mandarin/id1753575757?uo=4",
+      "genres": [
+        "藝術",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1301",
+        "26"
+      ],
+      "trackCount": 7,
+      "releaseDate": "2025-01-20T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "藝術"
+    },
+    {
+      "collectionId": 1630645740,
+      "trackId": 1630645740,
+      "collectionName": "墨染的治愈小屋",
+      "artistName": "(甜.墨染.渝)",
+      "feedUrl": "https://ugcup.music.qq.com/AlbumHost/Podcast?mid=003gftxf3S8mjA",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A2%A8%E6%9F%93%E7%9A%84%E6%B2%BB%E6%84%88%E5%B0%8F%E5%B1%8B/id1630645740?uo=4",
+      "genres": [
+        "戲劇",
+        "Podcast",
+        "小說"
+      ],
+      "genreIds": [
+        "1484",
+        "26",
+        "1483"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2022-05-01T11:58:00Z",
+      "country": "TWN",
+      "primaryGenreName": "戲劇"
+    },
+    {
+      "collectionId": 1596403111,
+      "trackId": 1596403111,
+      "collectionName": "PodcastX",
+      "artistName": "正聲廣播公司",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/e1374594-2258-4dd2-94ea-a11dd0038ab6.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/podcastx/id1596403111?uo=4",
+      "genres": [
+        "商業",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1321",
+        "26"
+      ],
+      "trackCount": 43,
+      "releaseDate": "2025-04-01T05:45:00Z",
+      "country": "TWN",
+      "primaryGenreName": "商業"
+    },
+    {
+      "collectionId": 888764912,
+      "trackId": 888764912,
+      "collectionName": "大趸 & 猫史",
+      "artistName": "大趸 & 猫史",
+      "feedUrl": "http://rss.lizhi.fm/rss/248302.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%A7%E8%B6%B8-%E7%8C%AB%E5%8F%B2/id888764912?uo=4",
+      "genres": [
+        "喜劇",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1303",
+        "26"
+      ],
+      "trackCount": 199,
+      "releaseDate": "2017-11-02T11:26:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇"
+    },
+    {
+      "collectionId": 1723638628,
+      "trackId": 1723638628,
+      "collectionName": "淬火文刀",
+      "artistName": "淬火文刀",
+      "feedUrl": "https://feed.xyzfm.space/utjwxbkwt489",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B7%AC%E7%81%AB%E6%96%87%E5%88%80/id1723638628?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 5,
+      "releaseDate": "2024-02-18T14:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1586443746,
+      "trackId": 1586443746,
+      "collectionName": "Kalahari小组项目化学习 - 开国元勋主题展",
+      "artistName": "Kalahari小组",
+      "feedUrl": "http://www.ximalaya.com/album/53040825.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/kalahari%E5%B0%8F%E7%BB%84%E9%A1%B9%E7%9B%AE%E5%8C%96%E5%AD%A6%E4%B9%A0-%E5%BC%80%E5%9B%BD%E5%85%83%E5%8B%8B%E4%B8%BB%E9%A2%98%E5%B1%95/id1586443746?uo=4",
+      "genres": [
+        "課程",
+        "Podcast",
+        "教育",
+        "社會與文化",
+        "名勝與旅遊"
+      ],
+      "genreIds": [
+        "1501",
+        "26",
+        "1304",
+        "1324",
+        "1320"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-09-14T01:03:00Z",
+      "country": "TWN",
+      "primaryGenreName": "課程"
+    },
+    {
+      "collectionId": 1611742490,
+      "trackId": 1611742490,
+      "collectionName": "二十一根狗毛",
+      "artistName": "狮子头切片",
+      "feedUrl": "https://feed.xyzfm.space/4ehdpvfkbwlf",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BA%8C%E5%8D%81%E4%B8%80%E6%A0%B9%E7%8B%97%E6%AF%9B/id1611742490?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast",
+        "電視與電影"
+      ],
+      "genreIds": [
+        "1502",
+        "26",
+        "1309"
+      ],
+      "trackCount": 9,
+      "releaseDate": "2022-05-06T19:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1112466861,
+      "trackId": 1112466861,
+      "collectionName": "Eden的词汇世界（英语脱口秀）",
+      "artistName": "Newbeetion",
+      "feedUrl": "http://www.ximalaya.com/album/4194858.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/eden%E7%9A%84%E8%AF%8D%E6%B1%87%E4%B8%96%E7%95%8C-%E8%8B%B1%E8%AF%AD%E8%84%B1%E5%8F%A3%E7%A7%80/id1112466861?uo=4",
+      "genres": [
+        "教育",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1304",
+        "26",
+        "1324"
+      ],
+      "trackCount": 136,
+      "releaseDate": "2018-05-01T05:06:00Z",
+      "country": "TWN",
+      "primaryGenreName": "教育"
+    },
+    {
+      "collectionId": 1839861042,
+      "trackId": 1839861042,
+      "collectionName": "飞机上12个小时怎么过",
+      "artistName": "hana_TZ2E",
+      "feedUrl": "https://feed.xyzfm.space/khrd9vvcmhk9",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%A3%9E%E6%9C%BA%E4%B8%8A12%E4%B8%AA%E5%B0%8F%E6%97%B6%E6%80%8E%E4%B9%88%E8%BF%87/id1839861042?uo=4",
+      "genres": [
+        "藝術",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1301",
+        "26"
+      ],
+      "trackCount": 16,
+      "releaseDate": "2026-10-11T02:31:00Z",
+      "country": "TWN",
+      "primaryGenreName": "藝術"
+    },
+    {
+      "collectionId": 1594997937,
+      "trackId": 1594997937,
+      "collectionName": "各站停靠",
+      "artistName": "贱圆",
+      "feedUrl": "http://www.ximalaya.com/album/305095.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%90%84%E7%AB%99%E5%81%9C%E9%9D%A0/id1594997937?uo=4",
+      "genres": [
+        "喜劇訪談",
+        "Podcast",
+        "喜劇",
+        "社會與文化",
+        "個人日誌"
+      ],
+      "genreIds": [
+        "1496",
+        "26",
+        "1303",
+        "1324",
+        "1302"
+      ],
+      "trackCount": 42,
+      "releaseDate": "2025-01-27T13:47:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇訪談"
+    },
+    {
+      "collectionId": 1485136822,
+      "trackId": 1485136822,
+      "collectionName": "加一电台",
+      "artistName": "PlusOneFM",
+      "feedUrl": "https://feeds.soundcloud.com/users/soundcloud:users:724584373/sounds.rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8A%A0%E4%B8%80%E7%94%B5%E5%8F%B0/id1485136822?uo=4",
+      "genres": [
+        "喜劇",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1303",
+        "26"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2019-12-30T23:19:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇"
+    },
+    {
+      "collectionId": 1534461444,
+      "trackId": 1534461444,
+      "collectionName": "用心聆听《尤溪笔谈》",
+      "artistName": "尤溪笔谈",
+      "feedUrl": "http://www.ximalaya.com/album/32457216.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%94%A8%E5%BF%83%E8%81%86%E5%90%AC-%E5%B0%A4%E6%BA%AA%E7%AC%94%E8%B0%88/id1534461444?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "教育",
+        "語言學習"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1304",
+        "1498"
+      ],
+      "trackCount": 4,
+      "releaseDate": "2020-06-23T13:25:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1170351486,
+      "trackId": 1170351486,
+      "collectionName": "开心聊斋",
+      "artistName": "纪晓寂",
+      "feedUrl": "http://www.ximalaya.com/album/4920066.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%BC%80%E5%BF%83%E8%81%8A%E6%96%8B/id1170351486?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "藝術",
+        "書籍"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 33,
+      "releaseDate": "2020-04-03T12:37:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 6798163375,
+      "trackId": 6798163375,
+      "collectionName": "深夜故事馆",
+      "artistName": "信华声疗珊瑚",
+      "feedUrl": "https://www.ximalaya.com/album/127952058.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%B7%B1%E5%A4%9C%E6%95%85%E4%BA%8B%E9%A6%86/id6798163375?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育",
+        "宗教與精神生活",
+        "宗教"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1314",
+        "1532"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2026-10-12T02:11:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 942807085,
+      "trackId": 942807085,
+      "collectionName": "Ifree微商沙龙--小科",
+      "artistName": "Ifree微商沙龙--小科",
+      "feedUrl": "http://rss.lizhi.fm/rss/129049.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/ifree%E5%BE%AE%E5%95%86%E6%B2%99%E9%BE%99-%E5%B0%8F%E7%A7%91/id942807085?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 120,
+      "releaseDate": "2015-02-13T00:50:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 854480220,
+      "trackId": 854480220,
+      "collectionName": "雕刻时光小鱼君",
+      "artistName": "雕刻时光小鱼君",
+      "feedUrl": "http://rss.lizhi.fm/rss/10346.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%9B%95%E5%88%BB%E6%97%B6%E5%85%89%E5%B0%8F%E9%B1%BC%E5%90%9B/id854480220?uo=4",
+      "genres": [
+        "書籍",
+        "Podcast",
+        "藝術"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301"
+      ],
+      "trackCount": 143,
+      "releaseDate": "2026-09-17T13:56:00Z",
+      "country": "TWN",
+      "primaryGenreName": "書籍"
+    },
+    {
+      "collectionId": 1681546147,
+      "trackId": 1681546147,
+      "collectionName": "无量人生教练",
+      "artistName": "Regina Wang; Rita Ren",
+      "feedUrl": "https://anchor.fm/s/de94c4f4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%A0%E9%87%8F%E4%BA%BA%E7%94%9F%E6%95%99%E7%BB%83/id1681546147?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304"
+      ],
+      "trackCount": 40,
+      "releaseDate": "2024-07-14T21:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1638247931,
+      "trackId": 1638247931,
+      "collectionName": "为你精挑细选",
+      "artistName": "caozhixing",
+      "feedUrl": "https://anchor.fm/s/adef835c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%BA%E4%BD%A0%E7%B2%BE%E6%8C%91%E7%BB%86%E9%80%89/id1638247931?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 948,
+      "releaseDate": "2023-06-17T09:13:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1650846791,
+      "trackId": 1650846791,
+      "collectionName": "睡前原谅一切",
+      "artistName": "王保安",
+      "feedUrl": "https://anchor.fm/s/b063ab90/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%9D%A1%E5%89%8D%E5%8E%9F%E8%B0%85%E4%B8%80%E5%88%87/id1650846791?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 801,
+      "releaseDate": "2023-06-11T06:44:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1792161958,
+      "trackId": 1792161958,
+      "collectionName": "播客｜较真的麦师傅｜麥侃哔哔叨｜体音美｜金融科普｜",
+      "artistName": "麥西任_听澜阁",
+      "feedUrl": "https://www.ximalaya.com/album/83439868.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%92%AD%E5%AE%A2-%E8%BE%83%E7%9C%9F%E7%9A%84%E9%BA%A6%E5%B8%88%E5%82%85-%E9%BA%A5%E4%BE%83%E5%93%94%E5%93%94%E5%8F%A8-%E4%BD%93%E9%9F%B3%E7%BE%8E-%E9%87%91%E8%9E%8D%E7%A7%91%E6%99%AE/id1792161958?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "兒童與家庭",
+        "兒童故事"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1305",
+        "1520"
+      ],
+      "trackCount": 19,
+      "releaseDate": "2026-05-14T14:04:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1650988978,
+      "trackId": 1650988978,
+      "collectionName": "做个有教养的人",
+      "artistName": "邱日新",
+      "feedUrl": "https://anchor.fm/s/b069a6d0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%81%9A%E4%B8%AA%E6%9C%89%E6%95%99%E5%85%BB%E7%9A%84%E4%BA%BA/id1650988978?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 789,
+      "releaseDate": "2023-06-11T06:51:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1180461525,
+      "trackId": 1180461525,
+      "collectionName": "Ellen Show艾伦秀学习笔记(S15)",
+      "artistName": "DK会谈的D",
+      "feedUrl": "http://www.ximalaya.com/album/3757071.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/ellen-show%E8%89%BE%E4%BC%A6%E7%A7%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-s15/id1180461525?uo=4",
+      "genres": [
+        "喜劇",
+        "Podcast",
+        "音樂"
+      ],
+      "genreIds": [
+        "1303",
+        "26",
+        "1310"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2016-07-05T16:39:00Z",
+      "country": "TWN",
+      "primaryGenreName": "喜劇"
+    },
+    {
+      "collectionId": 1564308689,
+      "trackId": 1564308689,
+      "collectionName": "Triple Snow",
+      "artistName": "爱扣傻鸟舍栗",
+      "feedUrl": "http://www.ximalaya.com/album/48727870.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/triple-snow/id1564308689?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "休閒",
+        "嗜好"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1502",
+        "1505"
+      ],
+      "trackCount": 2,
+      "releaseDate": "2021-05-12T15:24:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1638490920,
+      "trackId": 1638490920,
+      "collectionName": "我在这里等你",
+      "artistName": "chenruhua",
+      "feedUrl": "https://anchor.fm/s/ae3d9fd8/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%88%91%E5%9C%A8%E8%BF%99%E9%87%8C%E7%AD%89%E4%BD%A0/id1638490920?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 810,
+      "releaseDate": "2023-06-16T10:42:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1638249994,
+      "trackId": 1638249994,
+      "collectionName": "和你一起感受温暖",
+      "artistName": "murui",
+      "feedUrl": "https://anchor.fm/s/adf2f1e0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%92%8C%E4%BD%A0%E4%B8%80%E8%B5%B7%E6%84%9F%E5%8F%97%E6%B8%A9%E6%9A%96/id1638249994?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 899,
+      "releaseDate": "2023-06-17T09:02:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1575266742,
+      "trackId": 1575266742,
+      "collectionName": "苏泊比亚",
+      "artistName": "苏泊比亚",
+      "feedUrl": "https://anchor.fm/s/610b70b4/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E8%8B%8F%E6%B3%8A%E6%AF%94%E4%BA%9A/id1575266742?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 59,
+      "releaseDate": "2023-03-17T00:39:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1638509074,
+      "trackId": 1638509074,
+      "collectionName": "每一秒",
+      "artistName": "lishusheng",
+      "feedUrl": "https://anchor.fm/s/ae48ef28/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%AF%8F%E4%B8%80%E7%A7%92/id1638509074?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 797,
+      "releaseDate": "2023-06-16T10:43:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1638556020,
+      "trackId": 1638556020,
+      "collectionName": "属于你我之间",
+      "artistName": "kanxianyang",
+      "feedUrl": "https://anchor.fm/s/ae6aefd8/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B1%9E%E4%BA%8E%E4%BD%A0%E6%88%91%E4%B9%8B%E9%97%B4/id1638556020?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 841,
+      "releaseDate": "2023-06-16T10:43:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1822137390,
+      "trackId": 1822137390,
+      "collectionName": "云碧阁",
+      "artistName": "Jun",
+      "feedUrl": "https://feed.xyzfm.space/7fcryadn7g78",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BA%91%E7%A2%A7%E9%98%81/id1822137390?uo=4",
+      "genres": [
+        "音樂",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1310",
+        "26"
+      ],
+      "trackCount": 19,
+      "releaseDate": "2026-07-25T03:49:00Z",
+      "country": "TWN",
+      "primaryGenreName": "音樂"
+    },
+    {
+      "collectionId": 1586937163,
+      "trackId": 1586937163,
+      "collectionName": "十字路口",
+      "artistName": "AI战略咨询师",
+      "feedUrl": "http://www.ximalaya.com/album/53187301.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3/id1586937163?uo=4",
+      "genres": [
+        "科技",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1318",
+        "26"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2024-07-18T07:29:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1579485294,
+      "trackId": 1579485294,
+      "collectionName": "我爱信仰",
+      "artistName": "法蒂玛",
+      "feedUrl": "https://feed.firstory.me/rss/user/ckrvt1w6lzj4b08093scn267y",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%88%91%E7%88%B1%E4%BF%A1%E4%BB%B0/id1579485294?uo=4",
+      "genres": [
+        "自我成長",
+        "Podcast",
+        "教育",
+        "宗教與精神生活",
+        "伊斯蘭教"
+      ],
+      "genreIds": [
+        "1500",
+        "26",
+        "1304",
+        "1314",
+        "1440"
+      ],
+      "trackCount": 430,
+      "releaseDate": "2021-11-07T03:52:00Z",
+      "country": "TWN",
+      "primaryGenreName": "自我成長"
+    },
+    {
+      "collectionId": 1638363421,
+      "trackId": 1638363421,
+      "collectionName": "夜深了早点休息",
+      "artistName": "lingxueyuan",
+      "feedUrl": "https://anchor.fm/s/ae0e4f58/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%A4%9C%E6%B7%B1%E4%BA%86%E6%97%A9%E7%82%B9%E4%BC%91%E6%81%AF/id1638363421?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 811,
+      "releaseDate": "2023-06-16T10:39:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 859867784,
+      "trackId": 859867784,
+      "collectionName": "一唠永宜",
+      "artistName": "一唠永宜",
+      "feedUrl": "http://rss.lizhi.fm/rss/86061.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%80%E5%94%A0%E6%B0%B8%E5%AE%9C/id859867784?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "音樂",
+        "音樂評論"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1310",
+        "1523"
+      ],
+      "trackCount": 1,
+      "releaseDate": "2021-01-06T09:59:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1586809441,
+      "trackId": 1586809441,
+      "collectionName": "十字路口",
+      "artistName": "AI战略咨询师",
+      "feedUrl": "http://www.ximalaya.com/album/53187301.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3/id1586809441?uo=4",
+      "genres": [
+        "科技",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1318",
+        "26"
+      ],
+      "trackCount": 14,
+      "releaseDate": "2024-07-18T07:29:00Z",
+      "country": "TWN",
+      "primaryGenreName": "科技"
+    },
+    {
+      "collectionId": 1726608372,
+      "trackId": 1726608372,
+      "collectionName": "休息bar",
+      "artistName": "波波 娜娜子",
+      "feedUrl": "https://feeds.soundon.fm/podcasts/0fa87f9c-0ad8-4181-85ca-4adec036f5dc.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BC%91%E6%81%AFbar/id1726608372?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast",
+        "休閒"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1502"
+      ],
+      "trackCount": 11,
+      "releaseDate": "2024-04-09T23:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1827502730,
+      "trackId": 1827502730,
+      "collectionName": "年上年下",
+      "artistName": "哲盛",
+      "feedUrl": "https://feed.xyzfm.space/9gdxhfm9fukr",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E5%B9%B4%E4%B8%8A%E5%B9%B4%E4%B8%8B/id1827502730?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1502",
+        "26",
+        "1324"
+      ],
+      "trackCount": 68,
+      "releaseDate": "2026-10-13T16:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1725420937,
+      "trackId": 1725420937,
+      "collectionName": "既又还有谁",
+      "artistName": "uean",
+      "feedUrl": "https://feed.xyzfm.space/8jrq3qf97te7",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%97%A2%E5%8F%88%E8%BF%98%E6%9C%89%E8%B0%81/id1725420937?uo=4",
+      "genres": [
+        "休閒",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1502",
+        "26"
+      ],
+      "trackCount": 42,
+      "releaseDate": "2025-03-06T23:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "休閒"
+    },
+    {
+      "collectionId": 1638254355,
+      "trackId": 1638254355,
+      "collectionName": "扔进昨天期待明天",
+      "artistName": "caoerlei",
+      "feedUrl": "https://anchor.fm/s/adf40cb0/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%89%94%E8%BF%9B%E6%98%A8%E5%A4%A9%E6%9C%9F%E5%BE%85%E6%98%8E%E5%A4%A9/id1638254355?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 958,
+      "releaseDate": "2023-06-17T09:41:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1180537872,
+      "trackId": 1180537872,
+      "collectionName": "不存在电台 non-exist",
+      "artistName": "不存在电台 non-exist",
+      "feedUrl": "http://rss.lizhi.fm/rss/1568752.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%94%B5%E5%8F%B0-non-exist/id1180537872?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "科技",
+        "藝術",
+        "書籍"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1318",
+        "1301",
+        "1482"
+      ],
+      "trackCount": 34,
+      "releaseDate": "2017-12-27T11:00:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1252205284,
+      "trackId": 1252205284,
+      "collectionName": "星座物语",
+      "artistName": "蝎子小姐的频道",
+      "feedUrl": "http://www.ximalaya.com/album/341741.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%98%9F%E5%BA%A7%E7%89%A9%E8%AF%AD/id1252205284?uo=4",
+      "genres": [
+        "音樂",
+        "Podcast",
+        "健康與瘦身",
+        "兩性"
+      ],
+      "genreIds": [
+        "1310",
+        "26",
+        "1512",
+        "1516"
+      ],
+      "trackCount": 10,
+      "releaseDate": "2018-12-08T08:30:00Z",
+      "country": "TWN",
+      "primaryGenreName": "音樂"
+    },
+    {
+      "collectionId": 1592882364,
+      "trackId": 1592882364,
+      "collectionName": "从长记议",
+      "artistName": "从长记议制作组",
+      "feedUrl": "http://www.ximalaya.com/album/54323818.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BB%8E%E9%95%BF%E8%AE%B0%E8%AE%AE/id1592882364?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324"
+      ],
+      "trackCount": 70,
+      "releaseDate": "2023-11-03T00:37:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1577493020,
+      "trackId": 1577493020,
+      "collectionName": "第一种青年说",
+      "artistName": "第一种青年",
+      "feedUrl": "http://www.ximalaya.com/album/50566541.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E7%AC%AC%E4%B8%80%E7%A7%8D%E9%9D%92%E5%B9%B4%E8%AF%B4/id1577493020?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "兒童與家庭",
+        "兒童教育"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1305",
+        "1519"
+      ],
+      "trackCount": 92,
+      "releaseDate": "2021-09-17T05:29:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1320886570,
+      "trackId": 1320886570,
+      "collectionName": "他们是谁",
+      "artistName": "他们是谁",
+      "feedUrl": "http://www.ximalaya.com/album/11861752.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E4%BB%96%E4%BB%AC%E6%98%AF%E8%B0%81/id1320886570?uo=4",
+      "genres": [
+        "個人日誌",
+        "Podcast",
+        "社會與文化",
+        "商業",
+        "職業"
+      ],
+      "genreIds": [
+        "1302",
+        "26",
+        "1324",
+        "1321",
+        "1410"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2018-01-07T14:27:00Z",
+      "country": "TWN",
+      "primaryGenreName": "個人日誌"
+    },
+    {
+      "collectionId": 1638269446,
+      "trackId": 1638269446,
+      "collectionName": "铸造最美的墙",
+      "artistName": "liangailing",
+      "feedUrl": "https://anchor.fm/s/adf7a49c/podcast/rss",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E9%93%B8%E9%80%A0%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A2%99/id1638269446?uo=4",
+      "genres": [
+        "社會與文化",
+        "Podcast"
+      ],
+      "genreIds": [
+        "1324",
+        "26"
+      ],
+      "trackCount": 891,
+      "releaseDate": "2023-06-17T09:06:00Z",
+      "country": "TWN",
+      "primaryGenreName": "社會與文化"
+    },
+    {
+      "collectionId": 1503188359,
+      "trackId": 1503188359,
+      "collectionName": "懒人笔记LazyBest",
+      "artistName": "懒人笔记LazyBest",
+      "feedUrl": "http://rss.lizhi.fm/rss/174591868.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/tw/podcast/%E6%87%92%E4%BA%BA%E7%AC%94%E8%AE%B0lazybest/id1503188359?uo=4",
+      "genres": [
+        "投資",
+        "Podcast",
+        "商業",
+        "教育",
+        "自我成長"
+      ],
+      "genreIds": [
+        "1412",
+        "26",
+        "1321",
+        "1304",
+        "1500"
+      ],
+      "trackCount": 32,
+      "releaseDate": "2021-08-31T06:05:00Z",
+      "country": "TWN",
+      "primaryGenreName": "投資"
+    }
+  ]
+}

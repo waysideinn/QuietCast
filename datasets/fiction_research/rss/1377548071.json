@@ -1,0 +1,140 @@
+{
+  "show_id": "1377548071",
+  "feed_url": "http://www.ximalaya.com/album/15124730.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/15124730.xml",
+    "final_url": "http://www.ximalaya.com/album/15124730.xml",
+    "fetched_at": "2026-10-25T14:48:36.221396+00:00",
+    "status": 200,
+    "sha256": "4fba0d26b0a545dd6a507e3c986af34463e74e94ccfe681f0dbc635c5b359e96"
+  },
+  "status": "ok",
+  "title": {
+    "text": "叨逼叨剧透社",
+    "truncated": false
+  },
+  "description": {
+    "text": "叨逼叨剧透社的五位“无作品艺术家”希望能和你分享热门的好看的电影观后感。 在剧透社里，我们会定期第一时间追踪最新的院线影片，也会在其中穿插一些我们个人比较喜欢的电影佳作的赏析，希望为你的观影体验带来一些新的视角。 本节目涉及大量剧透，希望听众在观影之后再来收听，也欢迎各位留言互动交流:-)",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 9,
+  "episodes": [
+    {
+      "id": "39da8416bbea4b3ba1ee127d09a53e4264b92b6737f46f899e0c807f0cf3e76a",
+      "guid": "https://aod.cos.tx.xmcdn.com/group61/M03/59/87/wKgMZl0SM0XAsgCkBEKpebML9_k123.mp3",
+      "title": {
+        "text": "第七期 - 切尔诺贝利 Chernobyl",
+        "truncated": false
+      },
+      "description": {
+        "text": "时隔一年，我们的剧透社重新开始叨逼叨啦，很开心这个自嗨的节目又活过来了，希望大家喜欢我们这期分享的切尔诺贝利。",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 Jun 2019 14:53:02 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "5781194b2baa53a36e543b23bcbdfa6f7ae199a1ca7b2330c78b6c01de26dbfb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group44/M06/59/79/wKgKjFsQJP3iJbC7AGG8FUyGxMQ368.mp3",
+      "title": {
+        "text": "第六期 - 星球大战外传 游侠索罗 Solo (彩蛋)",
+        "truncated": false
+      },
+      "description": {
+        "text": "超，记得买乐高的千年凖飞船给我们！",
+        "truncated": false
+      },
+      "published_at": "Thu, 31 May 2018 16:40:01 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "1da941f9076d0035566d25a730a6754f7052f893bd4c80f4b373c0282747abb4",
+      "guid": "https://aod.cos.tx.xmcdn.com/group44/M08/57/E0/wKgKjFsQFGnzXnN-Az9iXWO4us0511.mp3",
+      "title": {
+        "text": "第六期 - 星球大战外传 游侠索罗 Solo",
+        "truncated": false
+      },
+      "description": {
+        "text": "Alex: \"介绍你可以好好写吗？\" ...... “以上！” ---------------------------------------- 我是不敢的 ------------------------------------------ 因为有话想说，虽然节目里面被剪掉，我（⬅️Grace）很不爽。 星战不是不“sophisticated”，是在故事表达上注重人物塑造，人物的感情。导演想表达的不是外太空科学知识，他用自己的想象创造了一个科幻的大背景，从前传（时间线1、2、3集）到正传（时间线4、5、6集）表现Anakin个人的转变。那个转变说的更多是，现实中每个人真实的情感。Anakin因为喜欢去打破规矩，因为恐惧去出卖灵魂，因为爱选择保护光明。 星战不是价值观单一，自己记得的三个细节有表现。第一，忘记谁说的：“光明变强，黑暗也同样变强，世界能量是平衡的”；第二，在共和国统领的时候说过，当Jedi力量太强的时候，其实也是变相专制，跟帝国的统治方式真的有本质的区别吗？在不同时代不同背景的每个当下，个体自己的善恶决定不是更值得我们重视吗；第三，相信George Lucas并不是希望force原力是某家族特定的力量，在新的7、8集里面女主和拿扫帚小男生就是一个开端，可能每个人都有控制原力的机会。 不是星战迷，但是很佩服George Lucas创造的世界和IP，因为这世界上真的很少有",
+        "truncated": true
+      },
+      "published_at": "Thu, 31 May 2018 15:27:48 GMT",
+      "feed_index": 2
+    },
+    {
+      "id": "4dab322057613c09e53f0eb940b4f7631aca252d44f6a3ad572cbe67a427cb10",
+      "guid": "https://aod.cos.tx.xmcdn.com/group43/M0B/A5/75/wKgKklr_EFyQ8aN_A5jy8Kd-c-E991.mp3",
+      "title": {
+        "text": "第五期 - 寂静之地 A Quiet Place",
+        "truncated": false
+      },
+      "description": {
+        "text": "“推荐喔，刷新你的观影体验。” --- 大仁哥 “这怪兽有完没完啊！” --- 表姐 “这电影怎么聊啊。” --- 超超 “提一下反方辩友，说了两句就倒戈了，还等她带领我们吐槽呢。” --- 阿毅 “NONONONONO！” --- 大王 最后我们录了这期50分钟并且吐槽比例只有10%的节目。欢迎大家来贡献嘲点（因为我们录完才发现没吐爽",
+        "truncated": false
+      },
+      "published_at": "Fri, 18 May 2018 17:41:55 GMT",
+      "feed_index": 3
+    },
+    {
+      "id": "1647d27b7d4bae978cb9ca766b63cdfb332705affe981bf37b0fb7b2482361a2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group43/M0A/FA/58/wKgKjVr47CLBAxCFAX7FeH82Cro080.mp3",
+      "title": {
+        "text": "第四期 - 复仇者联盟3 无限战争 Avengers:Infinity War Part I",
+        "truncated": false
+      },
+      "description": {
+        "text": "大仁哥强忍两个礼拜，看完就开始放肆的炸图！",
+        "truncated": false
+      },
+      "published_at": "Mon, 14 May 2018 02:04:26 GMT",
+      "feed_index": 5
+    },
+    {
+      "id": "247bab0948b34ed80db44c2da8f4abdefd68dc28d38b9aa03620bc84e4f3e118",
+      "guid": "https://aod.cos.tx.xmcdn.com/group41/M02/E0/87/wKgJ8lrhJ9zQ5-_hA1Tkffv8UIo096.mp3",
+      "title": {
+        "text": "第三期 - 犬之岛 Isle of Dogs",
+        "truncated": false
+      },
+      "description": {
+        "text": "第三期节目，五个神经电影控终于合体啦！看了美术大神Wes Anderson最新上映的犬之岛，大家都被这部定格画面制作水平震撼到。期待大家收听，如果有什么想法和建议也欢迎留言喔～",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Apr 2018 01:36:01 GMT",
+      "feed_index": 6
+    },
+    {
+      "id": "1dfdf95b7bbae2454a75d450354f1a1569e11104904c918824269775981617f3",
+      "guid": "https://aod.cos.tx.xmcdn.com/group40/M06/A8/1F/wKgJVFrhJV6AZ5h0Av2jwaWivOw603.mp3",
+      "title": {
+        "text": "第二期 - 头号玩家 Ready Player One",
+        "truncated": false
+      },
+      "description": {
+        "text": "第二期节目，是我们在电影院看完之后立刻录的，可能细节没来得及挖掘。不过通过两位二次元大神的分享，真的了解到非常多80年的美国、日本流行文化。想和我们一起讨论的话，欢迎留言喔！",
+        "truncated": false
+      },
+      "published_at": "Thu, 26 Apr 2018 01:06:29 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "12bc7ef14531942c126f7e7bced311592b6737b557df6990cdfeefd2aecadd73",
+      "guid": "https://aod.cos.tx.xmcdn.com/group40/M0B/8E/D8/wKgJVFrf6hLR5sSOAbpSXpB6Blg260.mp3",
+      "title": {
+        "text": "第一期 - Call me by your name",
+        "truncated": false
+      },
+      "description": {
+        "text": "这是我们第一期节目，戏称“双头少女怒怼大叔”。请多多包涵～",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 Apr 2018 02:38:37 GMT",
+      "feed_index": 8
+    }
+  ]
+}

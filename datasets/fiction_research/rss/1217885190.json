@@ -1,0 +1,140 @@
+{
+  "show_id": "1217885190",
+  "feed_url": "http://www.ximalaya.com/album/6796815.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/6796815.xml",
+    "final_url": "http://www.ximalaya.com/album/6796815.xml",
+    "fetched_at": "2026-10-25T14:48:07.667951+00:00",
+    "status": 200,
+    "sha256": "769e33318b9a9a777d6ace57db9e8d736d0bc85196133c65dad384a647410b2a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "心理学才是最危险的专业-陆本著",
+    "truncated": false
+  },
+  "description": {
+    "text": "心理学专业里面到底有多少奇事，说都说不完，这部在天涯论坛人气超高的作品，已经陪伴很多学弟学妹毕业、乃至当上了爸妈，就连我这个播讲人 都从\"不会说话\"成长为\"基本会说话\"的人了。催更之路看到了曙光 .....预告如下： 我是“壹辆松鼠” 从今天开始 我给大家播讲一部心理学题材的长篇恐怖悬疑小说 我已经拿到了小说原作者的正式授权 （大家可以也 @陆本 一下哦）以后会持续更新 欢迎大家关注并支持我(@壹辆松鼠)。 春季共制作22回，精彩不容错过！了解故事后续的发展和走向 欢迎您给我留言或者向小说原作者陆本询问,成为铁杆的陆粉儿和壹...",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 48,
+  "episodes": [
+    {
+      "id": "285f4b13833ed91e0d697f05368f5f243cec69229467a3f362186a28f9767573",
+      "guid": "https://aod.cos.tx.xmcdn.com/group25/M07/AB/1F/wKgJMVit2MDRumv3AFcF6AvgQR0533.m4a",
+      "title": {
+        "text": "心理学才是最危险的专业第1回",
+        "truncated": false
+      },
+      "description": {
+        "text": "大家好！我是“壹辆松鼠” 从今天开始 我给大家播讲一部心理学题材的长篇恐怖悬疑小说 我已经拿到了小说原作者的正式授权 （大家可以也 @陆本 一下哦）以后会持续更新 欢迎大家关注并支持我。",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Feb 2017 18:30:12 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "9b4466d88c363fb0a47939838034ca12305987cd991d560202f3ddaac286e80c",
+      "guid": "https://aod.cos.tx.xmcdn.com/group26/M04/20/91/wKgJRljKW8PCIJItANXmN7t9PGM363.m4a",
+      "title": {
+        "text": "心理学才是最危险的专业第8回",
+        "truncated": false
+      },
+      "description": {
+        "text": "故事是从小齐老师开始，牵扯出包工头老家的怪事，（大家可以也 @陆本 一下哦）以后会持续更新 欢迎大家关注并支持我。",
+        "truncated": false
+      },
+      "published_at": "Thu, 16 Mar 2017 12:04:00 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "aad51ae203df0ca051d29cd164c2d08c9d60b4674128be325befeb6593dcbc22",
+      "guid": "https://aod.cos.tx.xmcdn.com/group26/M09/24/7E/wKgJRljjo9Wgl_2nALAAQ3BnU5A472.m4a",
+      "title": {
+        "text": "心理学才是最危险的专业第14回",
+        "truncated": false
+      },
+      "description": {
+        "text": "在此重申：不许捉迷藏！",
+        "truncated": false
+      },
+      "published_at": "Fri, 07 Apr 2017 00:04:00 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "6f889efd669acfbf3ae5ed0a33f35aaadf1f7a713f809f3483dd4b8b0c3e0df2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group26/M0B/F4/40/wKgJRlkKEJ7SZUfKAKBY6_n--qU247-aacv2-48K.m4a",
+      "title": {
+        "text": "心理学才是最危险的专业第21回",
+        "truncated": false
+      },
+      "description": {
+        "text": "什么是OBE？",
+        "truncated": false
+      },
+      "published_at": "Thu, 04 May 2017 00:04:00 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "af8e89686a31e3792b0f2c6f88c30b8ab90bc75298df67d8f925187c7f7168dd",
+      "guid": "https://aod.cos.tx.xmcdn.com/group53/M07/77/AE/wKgLcVxKjQbCWRsJAFJ8VMWCK9c118.m4a",
+      "title": {
+        "text": "心理学才是最危险的专业第28回",
+        "truncated": false
+      },
+      "description": {
+        "text": "2019年啦,我就在这里陪着你哦，说说表师妹吧， 年轻女老师是谁?曲艺界和心理学也有类似的地方---传承？",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Jan 2019 04:14:00 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "17b2893097b5f667054824f91bd773d4a6726811b7ef9668d805deabc8fd6842",
+      "guid": "https://aod.cos.tx.xmcdn.com/group57/M0B/B2/C4/wKgLd1xZUmDzld62AJVLMbpbt7A686.m4a",
+      "title": {
+        "text": "心理学才是最危险的专业第35回",
+        "truncated": false
+      },
+      "description": {
+        "text": "如果你在这个时候收听，我可以告诉你们一个好消息： 童话故事不够美好是真的！春节发胖不是假的！ 督导听了一个关于伊戈和他的弟弟艾德以及他们的妈妈（老王后）的故事。",
+        "truncated": false
+      },
+      "published_at": "Tue, 05 Feb 2019 09:06:55 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "5b3e21a359d39f2a8093d441c68b63f497a36190b386f8e59091c41747ddc45e",
+      "guid": "https://aod.cos.tx.xmcdn.com/group57/M04/0E/E6/wKgLd1xquVWBIoUgAIOI6VOZKU8531.m4a",
+      "title": {
+        "text": "心理学才是最危险的专业第41回",
+        "truncated": false
+      },
+      "description": {
+        "text": "郭大姐......",
+        "truncated": false
+      },
+      "published_at": "Mon, 18 Feb 2019 14:39:12 GMT",
+      "feed_index": 40
+    },
+    {
+      "id": "78f895c05d4fb6cbf425b8e5aa5809571e45c00381c1b076261cfefc71970b36",
+      "guid": "xmly_track_697522130",
+      "title": {
+        "text": "第48回《恐怖不是这样》之光晕",
+        "truncated": false
+      },
+      "description": {
+        "text": "那个应该就是“Aura”......",
+        "truncated": false
+      },
+      "published_at": "Wed, 03 Jan 2024 09:14:09 GMT",
+      "feed_index": 47
+    }
+  ]
+}

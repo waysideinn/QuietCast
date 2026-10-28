@@ -1,0 +1,70 @@
+{
+  "show_id": "1516514082",
+  "feed_url": "https://anchor.fm/s/236a084c/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/236a084c/podcast/rss",
+    "final_url": "https://anchor.fm/s/236a084c/podcast/rss",
+    "fetched_at": "2026-10-25T14:42:03.579460+00:00",
+    "status": 200,
+    "sha256": "668dd048e87a04841174b8525883aa96f007f3307b932d88c39bbddb3f29bc14"
+  },
+  "status": "ok",
+  "title": {
+    "text": "The Crippled Crusaders",
+    "truncated": false
+  },
+  "description": {
+    "text": "Just a couple of dumbasses with mics.",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "en",
+    "type": "episodic",
+    "explicit": "true"
+  },
+  "feed_item_count": 3,
+  "episodes": [
+    {
+      "id": "b156ff645674535bbd0e7a8b8d9d8c21bc9ca59cfbe08f9c8a506de1a0bf6aad",
+      "guid": "ad7fd10c-2be1-453d-9b10-1729a03a68a6",
+      "title": {
+        "text": "James Is All Alone and Apparently Can't Talk",
+        "truncated": false
+      },
+      "description": {
+        "text": "In which James is all by himself and is becoming an illiterate shit for almost an hour while attempting to be funny without his friends(Spoiler, he's not). I read TheFamousFilms fanfiction on Wattpad, and I suffer. Enjoy it. Please. I'm desperate- Disclaimer: Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. I am very sorry for any braincells lost whilst li",
+        "truncated": true
+      },
+      "published_at": "Sat, 06 Jun 2020 04:08:44 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "e432cd17daa697ef1655c75ec8dc9a4dc71b27c0ce2d509135f3b5f1a8da3d98",
+      "guid": "0dbfd0ac-0ccc-4990-9172-8935c7e967be",
+      "title": {
+        "text": "Cringy Antics and Fanfiction Reading",
+        "truncated": false
+      },
+      "description": {
+        "text": "In out first official episode of our new podcast, we relive James' old memories on Wattpad which then transition to JJBA reading. I'm not happy and I don't know what to say without it seeming awkward, :/ (I also apologize if Noelle was too quiet in this recording). Disclaimer: Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. We are very sorry for any brain",
+        "truncated": true
+      },
+      "published_at": "Thu, 28 May 2020 18:43:10 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "92d1067e153906910ea6f4882e18923556f538026e254d0eccc4efef71fa7314",
+      "guid": "d8f55b69-85b4-4b7c-b9c0-839bba4d5600",
+      "title": {
+        "text": "Teaser :P",
+        "truncated": false
+      },
+      "description": {
+        "text": "Just a teaser for future uploads. Just to show the world how dumb we are in a span of 36 seconds. Enjoy. Disclaimer: Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. We are very sorry for any braincells lost whilst listening to a couple of teenagers act dumb on the internet",
+        "truncated": false
+      },
+      "published_at": "Tue, 26 May 2020 18:15:50 GMT",
+      "feed_index": 2
+    }
+  ]
+}

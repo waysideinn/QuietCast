@@ -1,0 +1,69 @@
+{
+  "show_id": "1500298175",
+  "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:785287867/sounds.rss",
+  "source": {
+    "url": "https://feeds.soundcloud.com/users/soundcloud:users:785287867/sounds.rss",
+    "final_url": "https://feeds.soundcloud.com/users/soundcloud:users:785287867/sounds.rss",
+    "fetched_at": "2026-10-25T14:51:44.870513+00:00",
+    "status": 200,
+    "sha256": "40468928b92c5a0a652155137a8701cdf28905a06596d30ba810107a28a6fa85"
+  },
+  "status": "ok",
+  "title": {
+    "text": "溫暖藝術婚禮顧問/活動企劃/婚禮樂團/春酒/尾牙",
+    "truncated": false
+  },
+  "description": {
+    "text": "Podcast by 溫暖藝術婚禮顧問/活動企劃/婚禮樂團/春酒/尾牙",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "en",
+    "explicit": "no"
+  },
+  "feed_item_count": 3,
+  "episodes": [
+    {
+      "id": "835d8e0e197f0b55bbc74ffa500d84f7a5b409548b2b0eb37166b35b04f484f1",
+      "guid": "tag:soundcloud,2010:tracks/845818888",
+      "title": {
+        "text": "不是因為天氣晴朗才愛你 翻唱COVER｜溫暖樂團",
+        "truncated": false
+      },
+      "description": {
+        "text": "不是因為天氣晴朗才愛你 翻唱COVER｜溫暖樂團 by 溫暖藝術婚禮顧問/活動企劃/婚禮樂團/春酒/尾牙",
+        "truncated": false
+      },
+      "published_at": "Wed, 24 Jun 2020 08:23:50 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "9bf7833887eac8e609e5cea31f63a4692fb802097347d5b9503c28d8f629df96",
+      "guid": "tag:soundcloud,2010:tracks/772236973",
+      "title": {
+        "text": "想見你想見你想見你 鋼琴版 翻唱COVER｜溫暖樂團",
+        "truncated": false
+      },
+      "description": {
+        "text": "想見你想見你想見你 鋼琴版 翻唱COVER｜溫暖樂團 by 溫暖藝術婚禮顧問/活動企劃/婚禮樂團/春酒/尾牙",
+        "truncated": false
+      },
+      "published_at": "Sat, 07 Mar 2020 14:42:45 +0000",
+      "feed_index": 1
+    },
+    {
+      "id": "b9ee09ffb41ae779ce9c2fe669cdf63de1eda0ff2d7aa452ceacd2c94d3b1070",
+      "guid": "tag:soundcloud,2010:tracks/765821965",
+      "title": {
+        "text": "彼個所在 翻唱Cover | 溫暖樂團",
+        "truncated": false
+      },
+      "description": {
+        "text": "魏如萱 - 彼個所在 覺得非常感人的一首歌曲~ 主唱 | 慧慧 伴奏 | 士堯 Youtube：https://www.youtube.com/watch?v=YwAQLpaM474 Instagram：https://www.instagram.com/lovewarmmusic/ Facebook：https://m.facebook.com/lovewarmmusic/",
+        "truncated": false
+      },
+      "published_at": "Mon, 24 Feb 2020 16:08:44 +0000",
+      "feed_index": 2
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+[
+  {
+    "creator_name": "带给听书",
+    "show_id": "1746439164",
+    "result": {
+      "source": {
+        "url": "https://www.ximalaya.com/album/81513331",
+        "final_url": "https://www.ximalaya.com/album/81513331",
+        "fetched_at": "2026-10-26T08:06:01.091646+00:00",
+        "status": 200,
+        "sha256": "f993a9705a553f79e4ba9e8931d75f824d4d3f5b5a209ba31f653b52685e1bfe"
+      },
+      "status": "ok",
+      "data": {
+        "profile_links": [],
+        "identity_status": "not_available_in_public_profile_links",
+        "note": "A linked profile is not yet verified as album owner. No regex over arbitrary uid scripts."
+      }
+    }
+  },
+  {
+    "creator_name": "云鹿柔迩",
+    "show_id": "1743910941",
+    "result": {
+      "source": {
+        "url": "https://www.ximalaya.com/album/81586794",
+        "final_url": "https://www.ximalaya.com/album/81586794",
+        "fetched_at": "2026-10-26T08:06:04.360873+00:00",
+        "status": 200,
+        "sha256": "e775e1b0f290557eec97ef9a3c6d65f40022516474c0c8f5d496d98cd7dc1194"
+      },
+      "status": "ok",
+      "data": {
+        "profile_links": [],
+        "identity_status": "not_available_in_public_profile_links",
+        "note": "A linked profile is not yet verified as album owner. No regex over arbitrary uid scripts."
+      }
+    }
+  },
+  {
+    "creator_name": "冷静之声",
+    "show_id": "1778246046",
+    "result": {
+      "source": {
+        "url": "https://www.ximalaya.com/album/84351742",
+        "final_url": "https://www.ximalaya.com/album/84351742",
+        "fetched_at": "2026-10-26T08:06:07.528918+00:00",
+        "status": 200,
+        "sha256": "9195b1fb58e7e9f0a37e7119a242d12f1902ff7c559876308c432af6a9a1a28c"
+      },
+      "status": "ok",
+      "data": {
+        "profile_links": [],
+        "identity_status": "not_available_in_public_profile_links",
+        "note": "A linked profile is not yet verified as album owner. No regex over arbitrary uid scripts."
+      }
+    }
+  },
+  {
+    "creator_name": "多云下的蛋",
+    "show_id": "1652605841",
+    "result": {
+      "source": {
+        "url": "https://www.ximalaya.com/album/70711946",
+        "final_url": "https://www.ximalaya.com/album/70711946",
+        "fetched_at": "2026-10-26T08:06:10.742199+00:00",
+        "status": 200,
+        "sha256": "316419567db6ab728537244742faf6b02d292afa23ee26613201a04479f8819a"
+      },
+      "status": "ok",
+      "data": {
+        "profile_links": [],
+        "identity_status": "not_available_in_public_profile_links",
+        "note": "A linked profile is not yet verified as album owner. No regex over arbitrary uid scripts."
+      }
+    }
+  },
+  {
+    "creator_name": "斗罗斗破苍穹小说合集",
+    "show_id": "1650507591",
+    "result": {
+      "source": {
+        "url": "https://www.ximalaya.com/album/71718997",
+        "final_url": "https://www.ximalaya.com/album/71718997",
+        "fetched_at": "2026-10-26T08:06:13.994227+00:00",
+        "status": 200,
+        "sha256": "0481effe4f8bbb8a99ac038c30073bc9762ce08692717bdfcbf9381d1ddc04d5"
+      },
+      "status": "ok",
+      "data": {
+        "profile_links": [],
+        "identity_status": "not_available_in_public_profile_links",
+        "note": "A linked profile is not yet verified as album owner. No regex over arbitrary uid scripts."
+      }
+    }
+  }
+]

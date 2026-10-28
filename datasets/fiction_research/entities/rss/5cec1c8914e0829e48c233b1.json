@@ -1,0 +1,150 @@
+{
+  "source": {
+    "url": "https://feeds.megaphone.fm/NCB9690914039",
+    "final_url": "https://feeds.megaphone.fm/NCB9690914039",
+    "fetched_at": "2026-10-26T07:57:23.493956+00:00",
+    "status": 200,
+    "sha256": "432e74dbfd9b4754bd349d8542bde2cb525d6f6abcb41894b1651bed5a7c650e"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "Track Town JPN",
+      "truncated": false
+    },
+    "description": {
+      "text": "ただ走るだけ、ただ飛ぶだけ、ただ投げるだけでない陸上競技の魅力を。日本唯一の陸上『雑談』専門チャンネル『Track Town JPN』 陸上競技を追っ掛け、応援していきます。 2025年東京世界陸上が開催される国立競技場のスタンドを満席に！",
+      "truncated": false
+    },
+    "language": "ja",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "© Nippon Cultural Broadcasting Inc."
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "文化放送PodcastQR"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "文化放送"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Sports"
+      ],
+      [
+        "Leisure"
+      ]
+    ],
+    "channel_link": "https://www.joqr.co.jp/",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "traffic.megaphone.fm": 8
+    },
+    "feed_item_count": 464,
+    "episodes": [
+      {
+        "title": {
+          "text": "ドラマだとしても描き切れないドラマチックな話～TrackTownJPN 第323回2026年10月23日",
+          "truncated": false
+        },
+        "description": {
+          "text": "ただ走るだけ、ただ飛ぶだけ、ただ投げるだけでない陸上競技の魅力を。日本唯一の陸上『雑談』専門チャンネル『Track Town JPN』陸上競技を追っ掛け、応援していきます。2025年東京世界陸上は国立超満員になりました！次の目標は陸上日本選手権を満員に＆日本にダイヤモンドリーグを！出演者への質問もお待ちしています！ ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠[email removed]⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ ＜出演者＞ 西本武司さん（EKIDEN NEWS主宰：OTT理事長） ＜今回の内容＞ ・慶應義塾大学成沢選手は先週の番組を聴いてラスト奮起 ・2020年行ったバーチャレで竹澤健介賞受賞した一橋大学有川選手 ・バーチャレ世代が現役選手世代に ・成沢選手にシューズメーカーから数々のオファーが ・ロングも強い成沢選手を2か月で仕上げる ・当番組で学生連合チームを取り上げて応援します ・横田さんの唯一休める年始休みが無くなりました(笑) 成沢選手のことを知るならこちらから https://www.youtube.com/watch?v=WaHvG2XQ2d4&t=24s コロナ禍2020年にやっていた「バーチャレ」とは https://www.youtu",
+          "truncated": true
+        },
+        "feed_index": 0,
+        "guid": "efa25094-ce17-11f1-a908-1b7d4060eaa0"
+      },
+      {
+        "title": {
+          "text": "気象と大会運営～TrackTownJPN 第260回2025年8月1日",
+          "truncated": false
+        },
+        "description": {
+          "text": "ただ走るだけ、ただ飛ぶだけ、ただ投げるだけでない陸上競技の魅力を。日本唯一の陸上『雑談』専門チャンネル『Track Town JPN』陸上競技を追っ掛け、応援していきます。2025年東京世界陸上が開催される国立競技場を超満員の最高の舞台に！出演者への質問もお待ちしています！ [email removed]＜出演者＞西本武司さん（EKIDEN NEWS主宰：OTT理事長）横田真人さん（TWOLAPS TC代表）加納由理さん（2009ベルリン世界陸上マラソン7位入賞：ランニングアドバイザー）柏原竜二さん（大学院で心理学を勉強中）＜今回の内容＞インターハイを改めて考える・Trackはラウンド減って記録出て、Fieldは試技減って記録出なかった・インターハイは記録目指す大会ではない 強い選手が埋もれる可能性ある・地域差が出る・規模的に調整が難しいけど土壇場過ぎた？・種目別に開催地を変えるとか・複数種目選手は大変だけどモーニングセッションとナイトセッションで開催・この気候は変わらないので年初からレギュレーションを示す・10秒フラット清水選手 現在世陸代表候補3番手9月の世界陸上は気象面で大丈夫か？・8時スタートのマラソン大丈夫か？都内で新谷さんは朝5時に走ってる・選手、観客、審判が大変・東京五輪女子マラソン前日を思い出す・女子100ｍHは中島選手一歩抜けた・落合選手はギリギリ、木村選手はトワ",
+          "truncated": true
+        },
+        "feed_index": 66,
+        "guid": "5bf9dc08-e472-4806-8d5c-b32b00eda428"
+      },
+      {
+        "title": {
+          "text": "日本選手権1万mを振り返る～TrackTownJPN 第202回 2024年5月10日",
+          "truncated": false
+        },
+        "description": {
+          "text": "ただ走るだけ、ただ飛ぶだけ、ただ投げるだけでない陸上競技の魅力を。日本唯一の陸上『雑談』専門チャンネル『Track Town JPN』陸上競技を追っ掛け、応援していきます。2025年東京世界陸上が開催される国立競技場を超満員の最高の舞台に！出演者への質問もお待ちしています！ [email removed]＜出演者＞西本武司さん（EKIDEN NEWS主宰：OTT理事長）柏原竜二さん（大学院生）加納由理さん（2009ベルリン世界陸上マラソン7位入賞：ランニングアドバイザー）＜今回の話題＞柏原さん大学院生生活始まりました 加納さんも静岡エコパへ・クーラーボックスを現地調達してワイワイ観戦日本選手権1万mを振り返る・短距離、長距離におけるエコパマジックとは・小林祐梨子さんタイトルコールから孤軍奮闘・NHKの演出にチャレンジが見られた・レース前のサブトラ見解が「葛西選手が良い」で一致してた・出走枠ぎりぎり前田選手が佐藤圭汰選手の記録を抜いてU20日本記録マーク ・女子は人数が少なかったのはマラソン主導で時期的に難しいのかも・赤崎選手がマラソン練習しながら1万m自己ベスト 新しいスタイル パリ五輪楽しみ・マラソンは大迫選手に注目が行きがちですが、小山選手、赤崎選手に注目を！・road to paris 最新ランキングで男子は太田智樹選手25位、相澤選手27位、田澤選手がランク外Road To",
+          "truncated": true
+        },
+        "feed_index": 132,
+        "guid": "f45a5c99-7dfb-477a-b0df-b16b00bc9d4d"
+      },
+      {
+        "title": {
+          "text": "ホクレンラジオDay3 部活訪問＆深川大会資料作り～Track Town JPN外伝 2023年7月4日",
+          "truncated": false
+        },
+        "description": {
+          "text": "ただ走るだけ、ただ飛ぶだけ、ただ投げるだけでない陸上競技の魅力を。日本唯一の陸上『雑談』専門チャンネル『Track Town JPN』陸上競技を追っ掛け、応援していきます。2025年東京世界陸上が開催される国立競技場を最高の舞台に！出演者への質問もお待ちしています！ [email removed]＜出演者＞西本武司さん（EKIDEN NEWS主宰：OTT理事長）M高史さん（現状打破応援隊長）＜今回の話題＞・部活訪問は旭川龍谷高校と神居東中学。S高史といじられる・7月30日キヌクロでM高史に挑戦。勝ったら現状打破Tシャツ 7月30日はキヌクロ・駒澤大学ポイント練習のレベル上がったのはタータントラック＆宇賀地選手きっかけ・LIVE配信資料作りの際にエントリー選手を即フォロー・PB出たらこの番組でお祝いして応援[更新 7月4日][TIME 48:23] See omnystudio.com/listener for privacy information.",
+          "truncated": false
+        },
+        "feed_index": 198,
+        "guid": "96e89fa3-2ee3-43eb-a9ec-b03401068ff8"
+      },
+      {
+        "title": {
+          "text": "「潤の代わりに淳に訊く」第47回～Track Town JPN外伝2022年11月23日",
+          "truncated": false
+        },
+        "description": {
+          "text": "ただ走るだけ、ただ飛ぶだけ、ただ投げるだけでない陸上競技の魅力を。日本唯一の陸上『雑談』専門チャンネル『Track Town JPN』出演者への質問もお待ちしています！ [email removed] ＜今回の出演者＞ 西本武司さん（EKIDEN NEWS主宰、OTT理事長）生島淳さん（スポーツジャーナリスト） ＜今回のお話し＞ 週刊文春で連載中！池井戸潤さんによる 「俺たちの箱根駅伝」を 毎週読んでは生島淳さん @meganedo と毎週雑談するTrackTownJPN外伝「潤の代わりに淳に訊く」週刊文春11月24日号連載52回について語る [更新 11月23日] [毎週木曜日の週刊文春発売前に更新][TIME 44:58] See omnystudio.com/listener for privacy information.",
+          "truncated": false
+        },
+        "feed_index": 265,
+        "guid": "c87a2af4-bda9-45f5-a951-af56008d7c46"
+      },
+      {
+        "title": {
+          "text": "「潤の代わりに淳に効く」第16回～Track Town JPN外伝2022年3月16日",
+          "truncated": false
+        },
+        "description": {
+          "text": "ただ走るだけ、ただ飛ぶだけ、ただ投げるだけでない陸上競技の魅力を。日本唯一の陸上『雑談』専門チャンネル『Track Town JPN』出演者への質問もお待ちしています！ [email removed] ＜今回の出演者＞ 西本武司さん（EKIDEN NEWS主宰、OTT理事長）生島淳さん（スポーツジャーナリスト） ＜今回のお話し＞ 週刊文春で連載中！池井戸潤さんによる 「俺たちの箱根駅伝」（と「笑い神」）を 毎週読んでは生島淳さん @meganedo と毎週雑談するTrackTownJPN外伝「潤の代わりに淳に効く」週刊文春3月17日号（連載第18回） [更新 3月16日] [毎週木曜日の週刊文春発売前に更新][TIME 26:36] See omnystudio.com/listener for privacy information.",
+          "truncated": false
+        },
+        "feed_index": 331,
+        "guid": "c07603d3-452a-416b-9cf0-ae5900a6e233"
+      },
+      {
+        "title": {
+          "text": "Track Town JPN 第58回 2021年5月21日号",
+          "truncated": false
+        },
+        "description": {
+          "text": "ただ走るだけ、ただ飛ぶだけ、ただ投げるだけでない陸上競技の魅力を。日本唯一の陸上『雑談』専門チャンネル『Track Town JPN』 出演者への質問もお待ちしています！ [email removed] ＜今回の出演者＞ 西本武司さん（EKIDEN NEWS主宰、OTT理事長） 柏原竜二さん（富士通株式会社） 畔蒜洋平さん（日本陸連経営企画部経営企画課） ＜今回のトピックス＞ 畔蒜さんの陸上熱が急上昇！ ・陸連入って8年目にしてついに！ ・東京五輪への道は畔蒜さんのポイント予報。日本選手権までの男子センゴをポイントから見る。 現在の男子センゴのランキングはこちら https://www.worldathletics.org/stats-zone/road-to/7132391?eventId=10229502 ・男子センゴの40秒の壁 ・柏原さんセンゴで5分切った時うれしかった思い出。山の神は中高と永遠の2番手だった！ ・センゴは究極のオールアウト！ ・畔蒜さんがセンゴ再び走る？！ ・永尾薫さんのペースメイクはリムジンに乗っているよう ・6月6日OTTではジョグします。エントリーはこちら https://passmarket.yahoo.co.jp/event/show/detail/01cmcnpy96p11.html ＜畔蒜さんから今週のお知らせ＞ ・「リモート陸上」でnote",
+          "truncated": true
+        },
+        "feed_index": 397,
+        "guid": "https://www.joqr.co.jp/track_pod/#079880"
+      },
+      {
+        "title": {
+          "text": "Track Town JPN Podcast 第1回 2020年4月3日更新",
+          "truncated": false
+        },
+        "description": {
+          "text": "ただ走るだけ、ただ飛ぶだけ、ただ投げるだけでない陸上競技の魅力を。日本唯一の陸上『雑談』専門チャンネル『Track Town JPN』。来年7月に延期となった東京五輪で陸上競技が行われる国立競技場を満員にするために頑張ります！ 2020年3月まで「渋谷のラジオ」で毎週金曜日13時から放送して好評だった『Track Town SHIBUYA』をバージョンアップさせてお送りします。 ＜出演者＞ 西本武司さん（EKIDEN NEWS主宰、OTT理事長） 横田真人さん（陸上男子800Mロンドン五輪代表 現在TWOLAPS TC Head Coach) 柏原竜二さん（富士通株式会社） 生島淳さん（スポーツジャーナリスト） 畔蒜洋平さん（日本陸連事業部RunLink課） ＜今回のトピックス＞ 記念すべき第1回目はリモートでの収録！このご時世の中で唯一の陸上コンテンツ。 ・柏原さん記事になる ・増田明美さんとのお付き合いの仕方 ・アスリート委員会の様子 ・今だからこそできる陸上ファン拡大提案 ・横田さんTwitterにあの方がフォロワーに！ ・陸上界春の人事異動 [更新 4月3日] [毎週金曜日更新] [TIME 63:34] See omnystudio.com/listener for privacy information.",
+          "truncated": false
+        },
+        "feed_index": 463,
+        "guid": "https://www.joqr.co.jp/track_pod/#061460"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "show_id": "1477273339",
+  "feed_url": "https://anchor.fm/s/d729978/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/d729978/podcast/rss",
+    "final_url": "https://anchor.fm/s/d729978/podcast/rss",
+    "fetched_at": "2026-10-25T14:50:30.589050+00:00",
+    "status": 200,
+    "sha256": "bfd8af0e00ad5c95a4448729dfe5019140d2c6d92100343c9fe5baa8bdc666af"
+  },
+  "status": "ok",
+  "title": {
+    "text": "哲學唸唸唸",
+    "truncated": false
+  },
+  "description": {
+    "text": "跟著唸，跟著學，學到什麼看個人。 #反正我大學沒畢業",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 3,
+  "episodes": [
+    {
+      "id": "78ebac27a4b6f7cb66684a133b7730770c841564eeba095ade43b4f31dd61395",
+      "guid": "30bd0307-8bf1-a37b-54ed-93549e16e8d5",
+      "title": {
+        "text": "傅柯《性史》｜第一卷《認知的意願》",
+        "truncated": false
+      },
+      "description": {
+        "text": "原著：Michel Foucault。 譯者：謝石 沈力",
+        "truncated": false
+      },
+      "published_at": "Sat, 21 Sep 2019 15:26:46 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "932b0c5074ec9ba696e589ad3a0ae68fa09a8a24a8adaac9d11028b3ec5b3384",
+      "guid": "47c36072-8d78-05fb-c84e-be5b93ae7ab7",
+      "title": {
+        "text": "德希達《書寫與差異》唸唸看（上冊）｜第一季",
+        "truncated": false
+      },
+      "description": {
+        "text": "試著唸唸看，念完。",
+        "truncated": false
+      },
+      "published_at": "Mon, 19 Aug 2019 09:47:33 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "11c319b4f1f9cedc3fb13ee2f6b56c4bbe45a324abf832350dca9a9142365324",
+      "guid": "0b1e18d9-3867-ebfa-79c9-50c02751ae5c",
+      "title": {
+        "text": "布希亞《物體系》唸唸看",
+        "truncated": false
+      },
+      "description": {
+        "text": "好久沒唸，還是該唸！！",
+        "truncated": false
+      },
+      "published_at": "Thu, 15 Aug 2019 09:22:16 GMT",
+      "feed_index": 2
+    }
+  ]
+}

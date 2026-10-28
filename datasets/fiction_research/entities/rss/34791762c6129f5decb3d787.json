@@ -1,0 +1,165 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/36901831.xml",
+    "final_url": "http://www.ximalaya.com/album/36901831.xml",
+    "fetched_at": "2026-10-26T07:55:58.798120+00:00",
+    "status": 200,
+    "sha256": "a2ed8ee03d5f91cc5ba011b0433fddfa6528eecb5847d26ff09e2ada346b43f5"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "微广播剧 | 古人故人•很凡人",
+      "truncated": false
+    },
+    "description": {
+      "text": "本专辑分为两个版块： 1. 当古人遇上故人 — 主播：秦贤 （历史穿越，迷之相遇） 2. ·很凡人 — 主播：苏小燕 （戏精上身，都是凡人） 节目中有根据一些历史典籍（和脑洞）写的小剧场，也有主播自己对于小剧场的一些回应和分享。 两位主播的母语都不是普通话，但都非常努力学习和练习，希望可以用普通话来分享自己所写的小剧场和其中的感悟~ *《古人故人很凡人》是“微播出炉”的专辑，欢迎关注、收听、讨论~ * 本专辑内容均为原创，转载请注明出处。 * 欢迎关注公众号：微播出炉",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "微播出炉 @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "生命萌动"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "生命萌动"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Places & Travel"
+      ],
+      [
+        "History"
+      ],
+      [
+        "History",
+        "Drama"
+      ],
+      [
+        "Religion & Spirituality"
+      ],
+      [
+        "Religion & Spirituality",
+        "Christianity"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/36901831",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 31,
+    "episodes": [
+      {
+        "title": {
+          "text": "古人故人01 - 当所罗门遇上汉武帝",
+          "truncated": false
+        },
+        "description": {
+          "text": "这是一个脑洞大开的“穿越历史剧”~ 当中国历史伟人遇上以色列历史人物，会有怎样的火花呢？ 当古人遇上故人，今天第一对为你介绍的历史人物，就是所罗门与汉武帝。 虽然所罗门与汉武帝不是出生在同一个时代，但把两个君王放在一起看，仍然是觉得非常有趣的。 首先，他们 在位时间都很长 ，而且都是具有高度能力的人，能够把国家管治理好，开创了他们所属年代的高峰，也为后世带来深远的影响。 而我亦发现他们都很 着重把智慧保存 下来……",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group74/M04/00/FE/wKgO0l6ZLxvgfCm4AGkQbgLRuok231.mp3"
+      },
+      {
+        "title": {
+          "text": "古人故人03 - 当苏秦遇到约伯",
+          "truncated": false
+        },
+        "description": {
+          "text": "又来到当古人遇上故人的时间，你好，我是秦贤。 秦国的秦，贤慧的贤。 这个节目，是透过一个中国历史人物与一个以色列的历史人物相遇和分享的虚构故事， 来思想一下历史人物之间有什么有趣的共同之处。今天跟你分享的一对人物呢，他们的人生就好像过山车一般，高低起伏很大。而其中一个人的名字和我的姓氏还是一样呢! 想到是谁吗? 今日 Battle： 「最强说客」苏季子 (万峰 饰) VS 「正直富翁」约伯(罗文辉 饰)",
+          "truncated": false
+        },
+        "feed_index": 4,
+        "guid": "https://aod.cos.tx.xmcdn.com/group70/M0A/F1/57/wKgO2F6f-TfgmfKpAGkQbqLcebo991.mp3"
+      },
+      {
+        "title": {
+          "text": "很凡人05 - 肥水不流外人田",
+          "truncated": false
+        },
+        "description": {
+          "text": "Hi～欢迎来收听小小剧场！ 在之前第三集：铁汉的友情，也稍微提到过，以色列立国以后，第一个君王就是扫罗，后来扫罗在战场上自杀死了，便由大卫接任，直到 大卫 去世，他的儿子所罗门继承了王位，但是好景不常，所罗门在位的时候，要求百姓缴税，让国家可以无止尽地挥霍，建造华丽堂皇的宫殿，打仗征伐。他除了亏待百姓以外，还娶了很多异教徒妃子，他跟着那些女人，敬拜各种异邦诸神，完全没有把自己施恩于自己本族的神放在眼里。 住在南方的民众生活条件还算是比较好，怎么说也是所罗门的本族。可是北方的百姓老早看他不顺眼。结果，所罗门死了以后，北方的十个支派立马就脱离以色列王国，跟随另外一个领袖，名字叫做耶罗波安。南方那边就只剩下两个支派，那里的人继续由所罗门的儿子罗波安领导着，统一不到一百年的以色列王国宣布分裂。 小小总结一下，南国君王的名字是罗波安；北国君王的名字是耶罗波安，四个字，多了一个“耶”字，他们两个人的名字实在很容易混淆。那么今天这一位被吞进大鱼里的男主约拿，就是耶罗波安二世在任时期的一位北国先知…… 你知道吞掉约拿的什么鱼吗？ 哈哈哈哈〜就是 吞拿鱼 啊！ ！ （就是金枪鱼的另一种说法） 好，不欣赏烂梗没关系，我们言归正传吧……",
+          "truncated": false
+        },
+        "feed_index": 9,
+        "guid": "https://aod.cos.tx.xmcdn.com/group81/M02/56/38/wKgPEl6uLjuA3ml6AGkRLpUByM4547.mp3"
+      },
+      {
+        "title": {
+          "text": "古人故人 07 - 鲍叔牙vs约拿单",
+          "truncated": false
+        },
+        "description": {
+          "text": "有一句成语叫「管鲍之交」，比喻感情深厚的朋友，「管」是指管仲;「鲍」，就是鲍叔牙了。他们两个是春秋时代齐国的大夫，他们的故事见证了伟大的友情。 管仲与鲍叔牙在年少的时候认识，一起做生意。当时精明的管仲，给鲍叔牙留下深刻的印象。后来，他们从事政治活动，鲍叔牙跟随公子小白; 而管仲跟随公子纠，纠纷的纠。当时，齐国的君主被杀，管仲与鲍叔牙各自陪着他们流亡在外的主子赶回齐国，公子纠与公子小白是两兄弟，但他们为了继位而反目成仇……",
+          "truncated": false
+        },
+        "feed_index": 13,
+        "guid": "https://aod.cos.tx.xmcdn.com/group79/M00/96/52/wKgPEF7Dm-awWYymAGkQbl0N3Xw664.mp3"
+      },
+      {
+        "title": {
+          "text": "古人故人09 - 叔齐遇上但以理",
+          "truncated": false
+        },
+        "description": {
+          "text": "伯夷、叔齐是两兄弟，原本来自商朝一个诸候小国，但后来离开本国，投靠以仁德服众的周文王。后来，周文王死，周武王继位，并决定出兵推翻商朝。伯夷、叔齐觉得这是一件不符合仁义的事情，结果他们不再当周朝的大臣，也不吃周朝的粮食，结果去了首阳山采薇(野菜)而食，但被一个妇人质问，说这个天下都已经是周朝的了，连山上的东西也属于周朝的啊! 两兄弟最终为了坚守原则，绝食而亡。这一段历史事件被记载于《史记。伯夷列传》当中，而成语「不吃周粟」就比喻人们坚守立场，气节高尚……",
+          "truncated": false
+        },
+        "feed_index": 17,
+        "guid": "https://aod.cos.tx.xmcdn.com/group84/M09/FC/C6/wKg5Hl7zBiqz8oqZAGkQbmiUyY4131.mp3"
+      },
+      {
+        "title": {
+          "text": "古人故人 11 - 岳飞遇上约书亚",
+          "truncated": false
+        },
+        "description": {
+          "text": "今天的两个人物，都与军事作战有关。第一个是我们宋朝的一位名将。讲到宋代名将，你第一秒想到的不可能不是他吧？没错，就是岳飞。这位来自河南的忠臣，小时候已经文武双全，而且已经培养出很深厚的爱国情怀，愿意为朝廷效力…",
+          "truncated": false
+        },
+        "feed_index": 21,
+        "guid": "https://aod.cos.tx.xmcdn.com/group82/M08/59/65/wKg5HF79gQ3xDBAPAGkR7ssy8l8480.mp3"
+      },
+      {
+        "title": {
+          "text": "很凡人 14 - 婆媳成闺蜜（下）",
+          "truncated": false
+        },
+        "description": {
+          "text": "如果你有收听上个礼拜一的好媳妇好闺女上集，应该会记得我当时卖了一个关子。 古代以色列有两条分别针对孤儿寡妇的律法规定。 捡麦穗的那一条，刚刚路得已经亲身示范了什么叫做一大早起来捡捡捡，捡到晚上回家去。 那么另外一条是什么呢？",
+          "truncated": false
+        },
+        "feed_index": 26,
+        "guid": "https://aod.cos.tx.xmcdn.com/storages/19c6-audiofreehighqps/51/F9/CMCoOSYDAUImAGkRLgBIQaG9.mp3"
+      },
+      {
+        "title": {
+          "text": "很凡人18 - 妓女的选择",
+          "truncated": false
+        },
+        "description": {
+          "text": "小燕说自己非常喜欢的一首粤语诗歌，名字叫“以感恩为祭”，当中有句歌词让我印象特别深刻。 「你的安排往往多新意」 新是新鲜的新，到底怎么个“新鲜”法呢？今天的广播剧来跟你一起分享~",
+          "truncated": false
+        },
+        "feed_index": 30,
+        "guid": "https://aod.cos.tx.xmcdn.com/group82/M06/79/1D/wKg5HF9gTCOCz9WuAGkRLvTbenE456.mp3"
+      }
+    ]
+  }
+}

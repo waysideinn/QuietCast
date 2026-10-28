@@ -1,0 +1,139 @@
+{
+  "show_id": "1547740550",
+  "feed_url": "https://papi.qingting.fm/podcast/channels/10845",
+  "source": {
+    "url": "https://papi.qingting.fm/podcast/channels/10845",
+    "final_url": "https://papi.qingting.fm/podcast/channels/10845",
+    "fetched_at": "2026-10-25T14:51:50.648798+00:00",
+    "status": 200,
+    "sha256": "70bf9def606def2c0c6be2265d42718bd18d46ad34333889aa5bb15e9623c36b"
+  },
+  "status": "ok",
+  "title": {
+    "text": "三国演义-原著朗读",
+    "truncated": false
+  },
+  "description": {
+    "text": "曦爸读经典-三国演义（原著朗读），敬请各位听众赏析！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "explicit": "false"
+  },
+  "feed_item_count": 324,
+  "episodes": [
+    {
+      "id": "a3437e3eee8bf2e153d769bc7e1f2f87f3f3de7c15734422d082180713d60fe7",
+      "guid": "18359385",
+      "title": {
+        "text": "三国演义播读结束叙话",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 25 Jun 2021 01:08:39 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "43858ce13d61b5ae24317d348272bc8ffa8dc28541d09c6c5c9609007dcb0de4",
+      "guid": "17948643",
+      "title": {
+        "text": "105三国演义第一百零五回-武侯预伏锦囊计 魏主拆取承露盘（下）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 01 May 2021 10:04:40 GMT",
+      "feed_index": 46
+    },
+    {
+      "id": "f85d2a0c97b0cc796f5e48155bbd5e680f48f53ca4444ceb252f81e7979c65f1",
+      "guid": "17948599",
+      "title": {
+        "text": "90三国演义第九十回- 驱巨兽六破蛮兵 烧藤甲七擒孟获（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 01 May 2021 09:48:22 GMT",
+      "feed_index": 92
+    },
+    {
+      "id": "320a4dde97e6c31d78c4619230c30565c8755fb3562249fc6ddf47406bd4aafc",
+      "guid": "17818487",
+      "title": {
+        "text": "75第七十五回导读鉴赏",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 16 Apr 2021 00:49:16 GMT",
+      "feed_index": 138
+    },
+    {
+      "id": "bc533b4f5eff9c9e528af861dad26a28b9eda015d3fdf958cda4ec7306f94d6a",
+      "guid": "17326908",
+      "title": {
+        "text": "59三国演义第五十九回- 许诸裸衣斗马超 曹操抹书间韩遂（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 19 Feb 2021 00:37:14 GMT",
+      "feed_index": 185
+    },
+    {
+      "id": "8e640499d2effaa6f3067b264ed07424500411b680e02452c5835e24c8f0e637",
+      "guid": "16890725",
+      "title": {
+        "text": "44第四十四回导读鉴赏",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 27 Dec 2020 11:20:59 GMT",
+      "feed_index": 231
+    },
+    {
+      "id": "cde4c87deefa4b5ccf3d727d8ab4818841a6f7a776e069cf73a67b7326eebf8c",
+      "guid": "16211605",
+      "title": {
+        "text": "24第二十四回导读鉴赏",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Oct 2020 05:52:49 GMT",
+      "feed_index": 277
+    },
+    {
+      "id": "ae6d9ce1ef1cd1fb0e0853ca911e3005f5e87b12b2615cb5d5ee2dfbb70b2022",
+      "guid": "17448452",
+      "title": {
+        "text": "1第一回导读鉴赏",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 06 Mar 2021 09:14:55 GMT",
+      "feed_index": 323
+    }
+  ]
+}

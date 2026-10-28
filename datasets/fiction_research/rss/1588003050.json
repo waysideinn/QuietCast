@@ -1,0 +1,140 @@
+{
+  "show_id": "1588003050",
+  "feed_url": "http://www.ximalaya.com/album/53294207.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/53294207.xml",
+    "final_url": "http://www.ximalaya.com/album/53294207.xml",
+    "fetched_at": "2026-10-25T14:54:16.669394+00:00",
+    "status": 200,
+    "sha256": "6c10010a32c9819e8d561b2e74fd77a22fa44e236cc1c803cabbe7df8e482c3a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "杀人指南|都市悬疑恐怖推理犯罪|青莲真人免费有声",
+    "truncated": false
+  },
+  "description": {
+    "text": "齐鲁市发生了连环杀人案，凶手似乎极其喜欢古代的极刑酷刑，他的手段残忍，每一个受害者都是古代极刑的实验者，警方的侦查陷入了瓶颈，因为警察发现，已发生的几起凶案的被害者，竟然毫无联系……直到第四个受害者那残缺不全的尸体被抬离犯罪现场，我才猛然惊醒，似乎凶手的杀人手段以及逃脱的办法...... 演播：青莲 后期：躺平的土狗",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 268,
+  "episodes": [
+    {
+      "id": "1886ba5ffb143231db6fd0dae39067d32266d9ddaaa6c2e72a096fcee4b04af6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6132-audiofreehighqps/F0/2B/CKwRIRwFIhIkAAbbBgDl04Gp.m4a",
+      "title": {
+        "text": "杀人指南版头",
+        "truncated": false
+      },
+      "description": {
+        "text": "齐鲁市发生了连环杀人案，凶手似乎极其喜欢古代的极刑酷刑，他的手段残忍，每一个受害者都是古代极刑的实验者，警方的侦查陷入了瓶颈，因为警察发现，已发生的几起凶案的被害者，竟然毫无联系……直到第四个受害者那残缺不全的尸体被抬离犯罪现场，我才猛然惊醒，似乎凶手的杀人手段以及逃脱的办法......即将上线，赶快下手订阅哈哈哈：）",
+        "truncated": false
+      },
+      "published_at": "Fri, 24 Sep 2021 00:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1a7dc6518697e39ca5d758b5a3e89133a001f530b45c304c6f043e4360b86f72",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6827-audiofreehighqps/EB/5D/CKwRIW4FNIKuABAAAADqRE4Z.mp3",
+      "title": {
+        "text": "0038 枪杀案的蹊跷",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 13 Oct 2021 00:01:00 GMT",
+      "feed_index": 38
+    },
+    {
+      "id": "9e091f08e89c3216c3b611bb25e36a135c68e0f1dfe3a6c40b6511da4c22d8c3",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7639-audiofreehighqps/DA/BD/CKwRIMAFP0OIABAAAADs8cHK.mp3",
+      "title": {
+        "text": "0076 洗手间的秘密（喜欢请多评论分享朋友圈，老友们谢谢）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 24 Oct 2021 00:01:00 GMT",
+      "feed_index": 76
+    },
+    {
+      "id": "1b1d1115b56440c26fbe4955bbcadd05e6c9ebd85353f214d7853ab82ad33bd3",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/6f61-audiofreehighqps/D3/96/CKwRINsFSw4uABAAAADv5Vxd.mp3",
+      "title": {
+        "text": "0114 打草惊蛇（点赞戳我别手软兄弟）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 02 Nov 2021 12:00:00 GMT",
+      "feed_index": 114
+    },
+    {
+      "id": "143939744640e0d8e2e257c216304850508eebb0f9903e5236fc5666dd235c97",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/abda-audiofreehighqps/F8/04/CKwRIaIFVuA_ABAAAADy_dFH.mp3",
+      "title": {
+        "text": "0153 百家姓（喜欢请多评论分享朋友圈，老友们谢谢）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 12 Nov 2021 13:00:00 GMT",
+      "feed_index": 153
+    },
+    {
+      "id": "14c8ac0ceb1869763e94f14acb7b4bd318c7cbf13bb780049e338ea2f79a9a5d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c07a-audiofreehighqps/CE/E5/GKwRIJEFaA9NABAAAAD3inHt.mp3",
+      "title": {
+        "text": "0191 漫画里的线索《差评》二",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 Nov 2021 00:01:00 GMT",
+      "feed_index": 191
+    },
+    {
+      "id": "c9b449b2f7746301c9aad8008f0a2b6d93bfc428303cf7dcde85f773591c3bb9",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/2791-audiofreehighqps/5B/B7/GKwRIasFch0EABAAAAD6VGus.mp3",
+      "title": {
+        "text": "0229 H 的复出（点赞戳我别手软兄弟）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 01 Dec 2021 13:00:00 GMT",
+      "feed_index": 229
+    },
+    {
+      "id": "563c33585eb5eb19c5d879ad07be80361ff9afea283f9a78717c1b45df1fc6bb",
+      "guid": "xmly_track_476604805",
+      "title": {
+        "text": "0267 哪里不对劲（完结撒花 五星好评来一个谢谢兄弟们）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 11 Dec 2021 00:01:00 GMT",
+      "feed_index": 267
+    }
+  ]
+}

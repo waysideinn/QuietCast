@@ -1,0 +1,42 @@
+{
+  "show_id": "1502916216",
+  "feed_url": "http://www.ximalaya.com/album/34902440.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/34902440.xml",
+    "final_url": "http://www.ximalaya.com/album/34902440.xml",
+    "fetched_at": "2026-10-25T14:51:51.563563+00:00",
+    "status": 200,
+    "sha256": "e42384f912e013ae1b17e3d0baaa71b63aaa0f772538aff7a58f5b91538d0ebd"
+  },
+  "status": "ok",
+  "title": {
+    "text": "哲学有趣",
+    "truncated": false
+  },
+  "description": {
+    "text": "实验性质的哲学播客。每期邀请嘉宾聊天。 主持人：豆瓣@西绪福斯神话",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 1,
+  "episodes": [
+    {
+      "id": "3b3417dc9e7d0d35fe6ba99ab51edca5d32e0ea51b9ace08a3767f7e9d919393",
+      "guid": "https://aod.cos.tx.xmcdn.com/group78/M0A/64/1E/wKgO1l5ufBnC6zHLBJkpYcnsTOk107.mp3",
+      "title": {
+        "text": "科学的逻辑",
+        "truncated": false
+      },
+      "description": {
+        "text": "这一期邀请来豆瓣友邻聊“科学的逻辑”。内容包含逻辑经验主义、科学哲学、哲学史、蒯因、胡塞尔、维特根斯坦、“真问题”、学术。 主持：豆瓣@西绪福斯神话 嘉宾：豆瓣@哲理庐",
+        "truncated": false
+      },
+      "published_at": "Sun, 15 Mar 2020 19:11:12 GMT",
+      "feed_index": 0
+    }
+  ]
+}

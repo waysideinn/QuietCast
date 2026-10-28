@@ -1,0 +1,7 @@
+{
+  "show_id": "1066102133",
+  "feed_url": "http://cnrdl.cnr.cn/audio2016/ondemand/podcast/zwmzzxsdwhyj.xml",
+  "fetched_at": "2026-10-25T14:47:06.531724+00:00",
+  "status": "error",
+  "error": "[Errno 8] nodename nor servname provided, or not known"
+}

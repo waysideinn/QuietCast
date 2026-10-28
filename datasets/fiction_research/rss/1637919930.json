@@ -1,0 +1,140 @@
+{
+  "show_id": "1637919930",
+  "feed_url": "https://www.ximalaya.com/album/70017735.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/70017735.xml",
+    "final_url": "https://www.ximalaya.com/album/70017735.xml",
+    "fetched_at": "2026-10-25T14:44:39.536358+00:00",
+    "status": 200,
+    "sha256": "8ed6a23ae2279dc78e5d2d6b12ec6fa1d391fa5716e8b1e6f6e10b01464ea61e"
+  },
+  "status": "ok",
+  "title": {
+    "text": "《绝色总裁呆萌妻》免费多播-竹易授权",
+    "truncated": false
+  },
+  "description": {
+    "text": "青春 言亲 多播 女频",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 48,
+  "episodes": [
+    {
+      "id": "a1310fae4027e0c67d014ac535cdf039314dae00f9eed51f1714b2e042deecc2",
+      "guid": "xmly_track_557812799",
+      "title": {
+        "text": "絕色總裁呆萌妻 预告片花（心理学科幻新书“人体魔方”上架,欢迎收听）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 03 Aug 2022 06:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "44ec9dad039df290e5000f83dc11a87febc8cd0af96c8cba4b2a46a4e956d041",
+      "guid": "xmly_track_559495654",
+      "title": {
+        "text": "《绝色总裁呆萌妻》07 爷爷or爸爸 （多多评论摸摸哒）",
+        "truncated": false
+      },
+      "description": {
+        "text": "多多评论摸摸哒",
+        "truncated": false
+      },
+      "published_at": "Mon, 15 Aug 2022 06:00:00 GMT",
+      "feed_index": 7
+    },
+    {
+      "id": "c6d6df7cabed32a661d50888be7bd7478b3503822706d42e7891ee907f53277c",
+      "guid": "xmly_track_560378126",
+      "title": {
+        "text": "《绝色总裁呆萌妻》 13 哥哥的亲人 (专辑日更)",
+        "truncated": false
+      },
+      "description": {
+        "text": "专辑日更",
+        "truncated": false
+      },
+      "published_at": "Sun, 21 Aug 2022 06:00:00 GMT",
+      "feed_index": 13
+    },
+    {
+      "id": "fe1849fed414a2cc5f58cfecd034f20463e85d8a0d3a944568eec9974a6effad",
+      "guid": "xmly_track_560380418",
+      "title": {
+        "text": "《绝色总裁呆萌妻》 20 世事难料 （多多好评么么哒）",
+        "truncated": false
+      },
+      "description": {
+        "text": "多多好评么么哒",
+        "truncated": false
+      },
+      "published_at": "Sun, 28 Aug 2022 06:00:00 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "54b380de812eea7a33641e20a5be0d2d130aaeb9426d9eb523407d8701c69e94",
+      "guid": "xmly_track_561762083",
+      "title": {
+        "text": "《绝色总裁呆萌妻》 27 摊牌 (专辑日更)",
+        "truncated": false
+      },
+      "description": {
+        "text": "专辑日更",
+        "truncated": false
+      },
+      "published_at": "Sun, 04 Sep 2022 06:00:00 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "7d4f9f40e4bbde54726ef0273e4bca1633a701ca875568e6c881a1e35ff23cc1",
+      "guid": "xmly_track_567933868",
+      "title": {
+        "text": "《绝色总裁呆萌妻》 34 慕容枫的阴谋 （请多支持,一键三连~）",
+        "truncated": false
+      },
+      "description": {
+        "text": "请多支持,一键三连~",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Sep 2022 06:00:00 GMT",
+      "feed_index": 34
+    },
+    {
+      "id": "e57ba4eea165fda3b1c8c9f3cbb84d884baaafb8ae3f38bf264f6bfdac092f4b",
+      "guid": "xmly_track_569829505",
+      "title": {
+        "text": "《绝色总裁呆萌妻》 40 坏学生的诞生 （请多多支持~）",
+        "truncated": false
+      },
+      "description": {
+        "text": "请多多支持~",
+        "truncated": false
+      },
+      "published_at": "Sat, 17 Sep 2022 06:00:00 GMT",
+      "feed_index": 40
+    },
+    {
+      "id": "e8ab1bb8da80d5107f331c86beb01cb46d181d46cee191dda56710478e161b91",
+      "guid": "xmly_track_570066958",
+      "title": {
+        "text": "《绝色总裁呆萌妻》 47 婚后的幸福生活 （全剧终）",
+        "truncated": false
+      },
+      "description": {
+        "text": "全剧终",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Sep 2022 06:00:00 GMT",
+      "feed_index": 47
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "releaseState": "production_trial_user_accepted",
+  "productionRuleFile": "rules/fiction-audiobooks.json",
+  "productionEligible": true,
+  "formalRuleCounts": {
+    "keywords": 21,
+    "combinations": 16,
+    "publisherBlockAccounts": 0
+  },
+  "candidatePath": "rules/research/fiction-multisource-candidate.json",
+  "candidateStatus": "example",
+  "candidateSHA256": "30dfd5e1b60e41f3723289bd89fda1491147679cff6164be1bd42b7c7c36cb3a",
+  "candidateCounts": {
+    "strongKeywords": 0,
+    "keywords": 19,
+    "combinationKeywords": 14,
+    "regexRules": 1,
+    "exclusions": 12,
+    "classificationRules": 1,
+    "publisherRules": 201
+  },
+  "authoritativeLabelCounts": {
+    "agent_metadata_review": 112,
+    "human": 50
+  },
+  "uniqueHumanLabels": 50,
+  "humanHoldoutLabels": 50,
+  "humanConfirmedPublisherBlockAccounts": 0,
+  "sampling": {
+    "baseCandidates": 2943,
+    "baseRSSSuccess": 861,
+    "baseEpisodeExcerpts": 6416,
+    "note": "Entity enrichment overlaps the baseline; counts are not added together"
+  },
+  "holdout": {
+    "selectedShows": 221,
+    "episodeTasks": 435,
+    "state": "prepared_not_independence_certified"
+  },
+  "independentTest": {
+    "measured": false,
+    "show": {
+      "count": 0,
+      "confusion": {},
+      "fiction_block_recall": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "nonfiction_false_block_rate": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "precision": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "review_rate": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "uncertain_blocked": 0,
+      "subtype": {}
+    },
+    "episode": {
+      "count": 0,
+      "confusion": {},
+      "fiction_block_recall": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "nonfiction_false_block_rate": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "precision": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "review_rate": {
+        "n": 0,
+        "d": 0,
+        "value": null,
+        "wilson95": null
+      },
+      "uncertain_blocked": 0,
+      "subtype": {}
+    },
+    "reason": "No certified human labels; null metrics are not zero error or zero recall"
+  },
+  "exploratoryDevelopment": {
+    "show": {
+      "count": 103,
+      "confusion": {
+        "fiction/block": 32,
+        "fiction/allow": 2,
+        "nonfiction/allow": 40,
+        "uncertain/block": 2,
+        "fiction/review": 14,
+        "uncertain/allow": 8,
+        "uncertain/review": 2,
+        "nonfiction/review": 3
+      },
+      "fiction_block_recall": {
+        "n": 32,
+        "d": 48,
+        "value": 0.6666666666666666,
+        "wilson95": [
+          0.5254010970594798,
+          0.7832321930518142
+        ]
+      },
+      "nonfiction_false_block_rate": {
+        "n": 0,
+        "d": 43,
+        "value": 0.0,
+        "wilson95": [
+          0,
+          0.08200980322579117
+        ]
+      },
+      "precision": {
+        "n": 32,
+        "d": 32,
+        "value": 1.0,
+        "wilson95": [
+          0.8928208017449293,
+          1
+        ]
+      },
+      "review_rate": {
+        "n": 19,
+        "d": 103,
+        "value": 0.18446601941747573,
+        "wilson95": [
+          0.12139537223023854,
+          0.27022656257424815
+        ]
+      },
+      "uncertain_blocked": 2,
+      "subtype": {
+        "apocalypse": {
+          "n": 0,
+          "d": 1,
+          "value": 0.0,
+          "wilson95": [
+            0,
+            0.7934506856227626
+          ]
+        },
+        "audio_drama": {
+          "n": 4,
+          "d": 4,
+          "value": 1.0,
+          "wilson95": [
+            0.5101091635454027,
+            1
+          ]
+        },
+        "children": {
+          "n": 6,
+          "d": 8,
+          "value": 0.75,
+          "wilson95": [
+            0.40927543031016883,
+            0.9285207872478909
+          ]
+        },
+        "classic_literature": {
+          "n": 3,
+          "d": 5,
+          "value": 0.6,
+          "wilson95": [
+            0.2307242812760128,
+            0.882379225767352
+          ]
+        },
+        "contemporary": {
+          "n": 1,
+          "d": 1,
+          "value": 1.0,
+          "wilson95": [
+            0.20654931437723745,
+            1
+          ]
+        },
+        "fantasy": {
+          "n": 2,
+          "d": 3,
+          "value": 0.6666666666666666,
+          "wilson95": [
+            0.2076596008020477,
+            0.9385080552796037
+          ]
+        },
+        "historical_fiction": {
+          "n": 1,
+          "d": 1,
+          "value": 1.0,
+          "wilson95": [
+            0.20654931437723745,
+            1
+          ]
+        },
+        "horror": {
+          "n": 2,
+          "d": 2,
+          "value": 1.0,
+          "wilson95": [
+            0.34238022750665303,
+            1
+          ]
+        },
+        "romance": {
+          "n": 4,
+          "d": 8,
+          "value": 0.5,
+          "wilson95": [
+            0.21521606221387757,
+            0.7847839377861224
+          ]
+        },
+        "science_fiction": {
+          "n": 3,
+          "d": 4,
+          "value": 0.75,
+          "wilson95": [
+            0.30064184258240184,
+            0.9544127391902995
+          ]
+        },
+        "suspense": {
+          "n": 4,
+          "d": 5,
+          "value": 0.8,
+          "wilson95": [
+            0.37553462976252533,
+            0.9637758913675698
+          ]
+        },
+        "time_travel": {
+          "n": 0,
+          "d": 3,
+          "value": 0.0,
+          "wilson95": [
+            5.551115123125783e-17,
+            0.5614970317550454
+          ]
+        },
+        "wuxia": {
+          "n": 2,
+          "d": 3,
+          "value": 0.6666666666666666,
+          "wilson95": [
+            0.2076596008020477,
+            0.9385080552796037
+          ]
+        }
+      }
+    },
+    "episode": {
+      "count": 9,
+      "confusion": {
+        "nonfiction/block": 2,
+        "fiction/block": 4,
+        "nonfiction/allow": 2,
+        "uncertain/block": 1
+      },
+      "fiction_block_recall": {
+        "n": 4,
+        "d": 4,
+        "value": 1.0,
+        "wilson95": [
+          0.5101091635454027,
+          1
+        ]
+      },
+      "nonfiction_false_block_rate": {
+        "n": 2,
+        "d": 4,
+        "value": 0.5,
+        "wilson95": [
+          0.15003898915214947,
+          0.8499610108478506
+        ]
+      },
+      "precision": {
+        "n": 4,
+        "d": 6,
+        "value": 0.6666666666666666,
+        "wilson95": [
+          0.299993315138392,
+          0.9032285888942195
+        ]
+      },
+      "review_rate": {
+        "n": 0,
+        "d": 9,
+        "value": 0.0,
+        "wilson95": [
+          0,
+          0.2991450484195441
+        ]
+      },
+      "uncertain_blocked": 1,
+      "subtype": {
+        "audio_drama": {
+          "n": 3,
+          "d": 3,
+          "value": 1.0,
+          "wilson95": [
+            0.4385029682449546,
+            1
+          ]
+        },
+        "science_fiction": {
+          "n": 1,
+          "d": 1,
+          "value": 1.0,
+          "wilson95": [
+            0.20654931437723745,
+            1
+          ]
+        }
+      }
+    }
+  },
+  "notes": [
+    "No production JSON emitted; example status was not renamed to production.",
+    "No account or brand was added to a default blacklist.",
+    "A separate provisional human metadata pilot was scored; account/work-family independence remains uncertified and pilot results are not formal release metrics.",
+    "Production denotes a user-approved practical release, not independent accuracy certification. Frozen baseline and all previous measurements remain unchanged."
+  ],
+  "provisionalHumanPilot": {
+    "path": "reports/fiction_research/release/human-pilot/results.json",
+    "status": "provisional_human_metadata_pilot_not_certified_independent",
+    "showCount": 50,
+    "independentTestCertified": false,
+    "metrics": {
+      "count": 43,
+      "confusion": {
+        "nonfiction/allow": 34,
+        "fiction/allow": 3,
+        "fiction/block": 5,
+        "nonfiction/block": 1
+      },
+      "fiction_block_recall": {
+        "n": 5,
+        "d": 8,
+        "value": 0.625,
+        "wilson95": [
+          0.30574239460262737,
+          0.8631557141764026
+        ]
+      },
+      "nonfiction_false_block_rate": {
+        "n": 1,
+        "d": 35,
+        "value": 0.02857142857142857,
+        "wilson95": [
+          0.005061491855444203,
+          0.14533087233613673
+        ]
+      },
+      "precision": {
+        "n": 5,
+        "d": 6,
+        "value": 0.8333333333333334,
+        "wilson95": [
+          0.43649717781352987,
+          0.9699466302516935
+        ]
+      },
+      "review_rate": {
+        "n": 0,
+        "d": 43,
+        "value": 0.0,
+        "wilson95": [
+          0,
+          0.08200980322579117
+        ]
+      },
+      "uncertain_blocked": 0,
+      "subtype": {
+        "unspecified": {
+          "n": 5,
+          "d": 8,
+          "value": 0.625,
+          "wilson95": [
+            0.30574239460262737,
+            0.8631557141764026
+          ]
+        }
+      }
+    }
+  },
+  "productionSHA256": "b1d875e5b49415f74c111389f0ec1b3c189abc37cdc547dd5c21e18d3393d765",
+  "appResource": "App/Resources/content-filter.json",
+  "releaseBasis": "Explicit user acceptance of approximate filtering and practical trial; independent validation gate waived",
+  "researchEvidenceGatePassed": false,
+  "outstandingResearchLimitations": [
+    "Held-out work-family/account/language audit is incomplete; independent test not certified",
+    "No certified human independent-test predictions; keyword/category release validity remains unestablished"
+  ]
+}

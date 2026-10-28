@@ -1,0 +1,7 @@
+{
+  "show_id": "1544608180",
+  "feed_url": "https://feeds.soundon.fm/podcasts/3cf3b58b-2ddb-4251-aa58-6fed51745a31.xml",
+  "fetched_at": "2026-10-25T14:55:56.442954+00:00",
+  "status": "error",
+  "error": "response exceeds bounded metadata limit"
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1551595534",
+  "feed_url": "https://feeds.megaphone.fm/TASC5851398719",
+  "source": {
+    "url": "https://feeds.megaphone.fm/TASC5851398719",
+    "final_url": "https://feeds.megaphone.fm/TASC5851398719",
+    "fetched_at": "2026-10-25T14:56:46.244679+00:00",
+    "status": 200,
+    "sha256": "ffdd8494d0dccee9f3078e7f212581eaaa473ff0bca04cc599419da5bb36dc13"
+  },
+  "status": "ok",
+  "title": {
+    "text": "ニュースの学校",
+    "truncated": false
+  },
+  "description": {
+    "text": "受験や就職活動にも使える！ 気になるニュースのキーワードを、サクっと10分ほどで勉強。おしゃべり感覚だから聞きやすい！ 通学・通勤のおともに使ってください。 ご意見・感想・リクエスト https://bit.ly/asapoki_discord ほかにも多彩な番組を配信中！ http://t.asahi.com/womy",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "ja",
+    "explicit": "no",
+    "type": "episodic"
+  },
+  "feed_item_count": 493,
+  "episodes": [
+    {
+      "id": "7cb0fbe2c27ebe7d5a7130449c7cf821a86b06af33e6202de0100a96d20196e8",
+      "guid": "2b3d2f6a-cdfb-11f1-8f31-abebc4a650c5",
+      "title": {
+        "text": "PHPの脆弱性（ぜいじゃくせい）",
+        "truncated": false
+      },
+      "description": {
+        "text": "PHPはウェブサイトの裏側で、利用者の操作に応じた処理などをするために使われるプログラミング言語です。極めて重大な脆弱性が二つ見つかり、日本時間の21日夜に修正プログラムが公表されました。国内でも様々な企業のウェブサイトやサービスが修正へ向けて一時休止となっています。 プログラミング言語「PHP」に重大な脆弱性 各国でサイト休止 https://www.asahi.com/articles/ASVBP4CXWVBPUTIL02TM.html?iref=omny ご意見・感想・リクエスト https://bit.ly/asapoki_discord ほかにも多彩な番組を配信中！ http://t.asahi.com/womy Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Oct 2026 19:00:00 -0000",
+      "feed_index": 0
+    },
+    {
+      "id": "52e7d7ed35b4299f0c0adc96f238d82eff25e66b247e5139306686054312f656",
+      "guid": "aac76acd-6343-4347-b180-b47b00618ba2",
+      "title": {
+        "text": "男系男子",
+        "truncated": false
+      },
+      "description": {
+        "text": "男系男子とは、天皇制を巡る議論で、父方が天皇につながる男性を指します。終戦直後に皇籍を離脱した旧11宮家の子孫である男系男子を養子として皇室に迎え、養子のもとに生まれた男子は皇位継承の対象となることが、政府の示した皇室典範の改正案に盛り込まれました。 「女性皇族が残る」「男系男子の養子」 皇室典範改正へ知りたい要点https://www.asahi.com/articles/ASV5D0T4BV5DUEFT002M.html?iref=omny ご意見・感想・リクエスト https://bit.ly/asapoki_discord ほかにも多彩な番組を配信中！ http://t.asahi.com/womy See omnystudio.com/listener for privacy information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Jul 2026 19:00:00 -0000",
+      "feed_index": 70
+    },
+    {
+      "id": "716b2bb68308adf5929dc084b55f78f35a81b289ef38ed550a847de27b782993",
+      "guid": "3ef59d33-55fd-4c67-b998-b41600362e2d",
+      "title": {
+        "text": "機雷",
+        "truncated": false
+      },
+      "description": {
+        "text": "★月200円で読み放題★スタンダードコース（月額1,980円）が4カ月間は月額200円！https://digital.asahi.com/pr/cp/2026/spr/?ref=cp2026spr_podcast_gaiyoran ※初めてお申し込みの方限定です 【番組内容】 機雷は水の中に仕掛ける爆弾です。船がその上を通ったときに直接触れたり、音や磁気、水の動きなどを感知したりすると爆発するしくみになっています。機雷には重りがついていて、海中や海底にケーブルなどで設置されます。 「イランが機雷敷設」の報道、機雷って何？ 自衛隊の掃海技術とは？https://www.asahi.com/articles/ASV3D23WVV3DUTIL00RM.html?iref=omny ご意見・感想・リクエスト https://bit.ly/asapoki_discord ほかにも多彩な番組を配信中！ http://t.asahi.com/womy See omnystudio.com/listener for privacy information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "truncated": false
+      },
+      "published_at": "Mon, 23 Mar 2026 19:00:00 -0000",
+      "feed_index": 141
+    },
+    {
+      "id": "0481fc64df2c71cb7f8634d3de3a56bb8d7cd302f87976c2eba20283dfd42d0e",
+      "guid": "cba5e424-2378-4f9d-a9cd-b3ae000fbba1",
+      "title": {
+        "text": "後発地震注意情報",
+        "truncated": false
+      },
+      "description": {
+        "text": "後発地震注意情報は、M7級以上の規模の地震が起きたときに、続けて起こる地震（後発地震）への注意を促すものです。ただ、M8級以上の巨大地震が起こるのは100回に1回程度とされています。 「北海道・三陸沖後発地震注意情報」初発表 今後1週間は警戒強化をhttps://www.asahi.com/articles/ASTD85FTBTD8UTIL00LM.html?iref=omny 初の発表「後発地震注意情報」とは 巨大地震の続発に備えを呼びかけhttps://www.asahi.com/articles/ASTD855SQTD8UTFL020M.html?iref=omny ご意見・感想・リクエスト https://bit.ly/asapoki_discord ほかにも多彩な番組を配信中！ http://t.asahi.com/womy See omnystudio.com/listener for privacy information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "truncated": false
+      },
+      "published_at": "Tue, 09 Dec 2025 02:00:00 -0000",
+      "feed_index": 211
+    },
+    {
+      "id": "adc5a5a382d1f1ae8f0a09c75e90a9c1581c734a24a52b3f104a435c2f5758ea",
+      "guid": "fbea90c5-f2aa-4770-8351-b3450091cf43",
+      "title": {
+        "text": "CPU・GPU",
+        "truncated": false
+      },
+      "description": {
+        "text": "CPU（中央処理装置）とGPU（画像処理装置）は、ともにコンピューターで脳の役割を果たす半導体です。CPUが大きな荷物を1台で運ぶトラックだとすれば、GPUは小回りの利くバイクをたくさん使い、小さな荷物を同時に短時間で運ぶようなものと言えます。 生成AIの裏に600兆円企業 鍵握る半導体、秘密は×＋分散処理https://www.asahi.com/articles/AST704RX3T70UTFL005M.html?iref=omny ※30歳以下の方は、月99円で朝日新聞の記事が3カ月間読み放題。解約違約金ゼロ！https://digital.asahi.com/pr/cp/2024/u30/?ref=cp2025u30_podcast_gaiyoran ご意見・感想・リクエスト https://bit.ly/asapoki_discord ほかにも多彩な番組を配信中！ http://t.asahi.com/womy See omnystudio.com/listener for privacy information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 Aug 2025 19:00:00 -0000",
+      "feed_index": 281
+    },
+    {
+      "id": "83497417ae259cb8d5ca4895ebfd740f89168031b69602a748be0bcf31513451",
+      "guid": "4f591086-4d90-40f3-bee9-b2c000597ba0",
+      "title": {
+        "text": "ネット広告（性的な広告の氾濫）",
+        "truncated": false
+      },
+      "description": {
+        "text": "ネット広告の大部分を占めるのが運用型広告です。ユーザーがサイトを訪れた際に、どんな広告を表示するか、多くの広告主の間で瞬時に入札されます。広告主と媒体がリアルタイムで条件をすりあわせる方法で、配信技術の効率化で可能になりました。 ブロックしてもすり抜ける性的な広告 プラットフォーマーの責任はhttps://www.asahi.com/articles/AST470PFJT47UTIL009M.html?iref=omny ご意見・感想・リクエスト https://bit.ly/asapoki_discord ほかにも多彩な番組を配信中！ http://t.asahi.com/womy See omnystudio.com/listener for privacy information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "truncated": false
+      },
+      "published_at": "Tue, 20 May 2025 19:00:00 -0000",
+      "feed_index": 351
+    },
+    {
+      "id": "3c71dc15918af781f2e2c37bbbd23277353850c7d5fb50b1e7a8f351dca9a567",
+      "guid": "c0d48076-7007-4772-9ca2-b26f008e1ae1",
+      "title": {
+        "text": "予算委員会",
+        "truncated": false
+      },
+      "description": {
+        "text": "予算は国政のあらゆることに関わります。そのため、幅広いテーマについて政府と与野党が論戦するのが予算委員会です。議員の質問力、首相らの答弁力が試されます。テレビ中継されることが多く注目度が高いため、国会審議の「花形」と呼ばれています。 【そもそも解説】予算委員会、なぜ花形？首相や閣僚の資質も問われるhttps://www.asahi.com/articles/ASSD5341CSD5UTFK015M.html?iref=omny 【そもそも解説】「国会の花形」予算委員会 予算以外のテーマも議論https://www.asahi.com/articles/ASRCN7FTZRCNUTFK01R.html?iref=omny 少数与党で変わる国会 予算案の修正に向け｢省庁別審査」導入へhttps://www.asahi.com/articles/AST1R3J8TT1RUTFK009M.html?iref=omny ご意見・ご感想やリクエストはdiscordへどうぞ https://discord.gg/YFWsuhd3hE See omnystudio.com/listener for privacy information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "truncated": false
+      },
+      "published_at": "Mon, 03 Feb 2025 19:00:00 -0000",
+      "feed_index": 422
+    },
+    {
+      "id": "8dfc0050714ec12a6a0c65b1f5a36522ad77a5d1b475e4eaa3a0513020942a36",
+      "guid": "e72fab86-5288-409c-a5c9-b2100041fd09",
+      "title": {
+        "text": "「ニュースの学校」はじまります！",
+        "truncated": false
+      },
+      "description": {
+        "text": "（2024年10月28日スタート）受験や就職活動にも使える！ 気になるニュースのキーワードを、サクっと10分ほどで勉強。おしゃべり感覚だから聞きやすい！ 通学・通勤のおともに使ってください。 See omnystudio.com/listener for privacy information. Learn more about your ad choices. Visit megaphone.fm/adchoices",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Oct 2024 04:07:21 -0000",
+      "feed_index": 492
+    }
+  ]
+}

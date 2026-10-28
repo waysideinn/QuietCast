@@ -1,0 +1,42 @@
+{
+  "show_id": "1529416606",
+  "feed_url": "https://feed.firstory.me/rss/user/ckeapt296op4w08396zn44lcx",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckeapt296op4w08396zn44lcx",
+    "final_url": "https://feed.firstory.me/rss/user/ckeapt296op4w08396zn44lcx",
+    "fetched_at": "2026-10-25T14:53:50.862775+00:00",
+    "status": 200,
+    "sha256": "15b43e77fbde104d3eacee9d149484240092701ec3302042a6a4463f79956efd"
+  },
+  "status": "ok",
+  "title": {
+    "text": "丁編經濟人/人生不要窮忙",
+    "truncated": false
+  },
+  "description": {
+    "text": "一個專注於討論高資產客戶如何守護財富，以及如何規劃自己成為高資產人士的頻道。連結學界、知名律師與會計師事務所，將心理學、態度養成、法務、稅務，應用於理財、職場、家庭婚姻、接班人教育等領域，著重個案研究，以及實務分享。 Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "explicit": "no",
+    "keywords": ""
+  },
+  "feed_item_count": 1,
+  "episodes": [
+    {
+      "id": "1fa801583f04182511e7d3ed2089f658c612b56f9fd1202a47abd4ababf1f9ac",
+      "guid": "ckeckcy565hw60839os4qimau",
+      "title": {
+        "text": "跟大客戶提案不失敗的秘密",
+        "truncated": false
+      },
+      "description": {
+        "text": "無論任何事情，愈害怕失敗，只會導致失敗的結果。 其實一次提案失敗，不代表永遠失敗，最重要的是有沒有為下一次提案機會，排除障礙點，拉升最終的成功率。 Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 Aug 2020 08:47:05 GMT",
+      "feed_index": 0
+    }
+  ]
+}

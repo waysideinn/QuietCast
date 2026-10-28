@@ -1,0 +1,140 @@
+{
+  "show_id": "1643828267",
+  "feed_url": "https://feeds.soundon.fm/podcasts/0d40644a-de45-42c7-85c7-0195a0475cd2.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/0d40644a-de45-42c7-85c7-0195a0475cd2.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/0d40644a-de45-42c7-85c7-0195a0475cd2.xml",
+    "fetched_at": "2026-10-25T14:44:43.503523+00:00",
+    "status": 200,
+    "sha256": "cd558e9a0de1736385c67f3ad2c58dbc8d81ba6fb15dd49847b9902966427926"
+  },
+  "status": "ok",
+  "title": {
+    "text": "FUN心遊網",
+    "truncated": false
+  },
+  "description": {
+    "text": "在知識爆炸化、零碎化的資訊時代，你，具備足夠的資訊素養嗎？ 就讓我們跟著傑夫一起來聽「FUN心遊網」，啟動你的數位思辨力吧！ *本節目內容純屬個人意見，不代表主管機關立場。 *本節目由教育部經費補助，中小學數位素養教育推廣計畫執行製作。 -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 106,
+  "episodes": [
+    {
+      "id": "163876961351ee177f0e4172a1a4fbe9da5cce96845a0af3d21b6a75aa2fde80",
+      "guid": "3fd69126-e248-409f-a380-5f8b73d668b6",
+      "title": {
+        "text": "EP106 | 短影音時代的校園危機與數位自保 feat. 劉昱均副執行長",
+        "truncated": false
+      },
+      "description": {
+        "text": "【本集重點】 短影音到底改變了孩子什麼？ 短影音時代下，校園最常見的風險是什麼？ AI 變臉與 Deepfake，為什麼家長和孩子都要特別注意？ 面對短影音風險，孩子最需要培養什麼能力？ 家長如何陪伴，而不是只會禁止？ 【本集來賓】 劉昱均副執行長／iWIN 網路內容防護機構 📢 想瞭解更多資訊素養與倫理相關內容嗎？ 歡迎來 eliteracy 官網找我們唷！ 👉 eliteracy 傳送門 https://linktr.ee/funsurfing -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "c84c955722e9898fd4c67c71d030c0dc354be63e3d238cc7377fef79cc99ff4a",
+      "guid": "a1e0a202-eb3d-4fb5-b9bf-0000cd5c39a7",
+      "title": {
+        "text": "EP91 | 不是玩笑，是傷口—青少年網路霸凌與師長的力量 feat. 李彩華老師",
+        "truncated": false
+      },
+      "description": {
+        "text": "【本集重點】 有遇過哪些學生因為網路霸凌而產生情緒困擾或退縮？ 學生會有哪些「潛在」徵兆？ 常見的霸凌手法有哪些？（匿名帳號、群組排擠、言語攻擊、影片外流…） 如何協助學生意識到匿名與轉傳行為背後的法律風險？有沒有用過一些教材或案例，讓學生更具體了解「違法」的實際情境？ 在課堂、輔導、班級經營中可以怎麼設計預防或干預？ 有哪些可以和孩子一起討論的價值觀或情境題？ 遇到家長不願承認孩子是加害者或受害者，怎麼溝通？ 教師與學校在處理網路霸凌時的角色分工與困境 【本集來賓】 李彩華教師／國立中興高級中學 📢 想瞭解更多資訊素養與倫理相關內容嗎？ 歡迎來 eliteracy 官網找我們唷！ 👉 eliteracy 傳送門 https://linktr.ee/funsurfing -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 18 Mar 2026 12:00:00 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "906f14ba15e9fc91cfdafd858262e47859b24d0c0b6c36a29d2ebb5cc4abb5c9",
+      "guid": "3eb48ca1-1a24-4f7a-8c39-dfc161cf13da",
+      "title": {
+        "text": "EP76 | 資訊素養如何實踐在生活當中 feat. 林晏如老師",
+        "truncated": false
+      },
+      "description": {
+        "text": "【本集重點】 國文科如何結合資訊素養議題？ 介紹曾開設的「報導文學」課程 學校在資訊素養推動上提供的支持 推動上所遇到的挑戰 教學推廣時遇到較深刻的資訊素養案例 最終怎麼將資訊素養實踐在生活當中 【本集來賓】 林晏如組長／桃園市內壢高中 📢 想瞭解更多資訊素養與倫理相關內容嗎？ 歡迎來 eliteracy 官網找我們唷！ 👉 eliteracy 傳送門 https://linktr.ee/funsurfing -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 26 Feb 2025 12:00:00 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "db98907999bc7ab7edf342d528919b9c9b75b3a077db8826f5b6515a0907ed4d",
+      "guid": "c6d5e1d4-b6fd-4d10-9e55-83661486ef1e",
+      "title": {
+        "text": "EP61 | 那些年，我們一起教的囝仔 feat. 蕭宇軒、呂紹柔 & 楊肅浩老師",
+        "truncated": false
+      },
+      "description": {
+        "text": "【本集重點】 為什麼老師們會接觸到資訊素養議題呢？ 數位素養怎麼結合學科領域？ AI 時代下的利與弊 108 課綱下的多元探索精神 音樂創作與國文教學如何連結？ 音樂創作時要留意的資訊素養議題 【本集來賓】 蕭宇軒教師／新北市新北高中 呂紹柔教師／宜蘭縣羅東高商 楊肅浩教師／宜蘭縣羅東高商 📢 想瞭解更多資訊素養與倫理相關內容嗎？ 歡迎來 eliteracy 官網找我們唷！ 👉 eliteracy 傳送門 https://linktr.ee/funsurfing -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 May 2024 12:00:00 GMT",
+      "feed_index": 45
+    },
+    {
+      "id": "7296216073b2deed13e98d25897f39b00bb9bf5c0514e8b9cd92cafaeddb6942",
+      "guid": "c0d38388-4541-43ff-88fb-bcc5069c531a",
+      "title": {
+        "text": "EP46 | 孩子也有網紅夢？談談什麼是人設 feat. 陳茵嵐老師",
+        "truncated": false
+      },
+      "description": {
+        "text": "【本集重點】 你的孩子想當網紅嗎？ 什麼是人物設定（character design）？ 網紅並非一蹴可幾，需要時間及努力。 該認同還是反對？ 可以給孩子什麼建議呢？ 【本集來賓】 陳茵嵐講師／國立臺灣藝術大學通識中心 📢 想瞭解更多資訊素養與倫理相關內容嗎？ 歡迎來 eliteracy 官網找我們唷！ 👉 eliteracy 傳送門 https://linktr.ee/funsurfing -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 25 Oct 2023 12:00:00 GMT",
+      "feed_index": 60
+    },
+    {
+      "id": "3dbdd53f31aba34ed7c6de5e2f24bf699eb4e2f9d5539843aedf6aa5de91a317",
+      "guid": "ac55758a-e522-45da-8f95-1e5831cfe6bb",
+      "title": {
+        "text": "EP31 | 又被騙了嗎？ feat. 翁國恭主任",
+        "truncated": false
+      },
+      "description": {
+        "text": "【本集重點】 為什麼會用這個題目呢？是誰又被騙了嗎？ 詐騙種類有哪些？是否有案例分享？ 平時在學校如何告訴學生防範網路詐騙？ 自己會不會不小心變成網路詐騙者？有沒有法律問題？ 【本集來賓】 翁國恭主任／高雄市政府教育局數位學習推動辦公室 📢 想瞭解更多資訊素養與倫理相關內容嗎？ 歡迎來 eTeacher 官網找我們唷！ 👉 eTeacher 傳送門 https://linktr.ee/funsurfing -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 29 Mar 2023 12:00:00 GMT",
+      "feed_index": 75
+    },
+    {
+      "id": "d1c45c4e50c04de3349b7ccdaaa5c18410a7caeedfca46dc71d59735f6ae328b",
+      "guid": "d5f8115a-b32d-4dcb-8089-b40fa0fa7ffa",
+      "title": {
+        "text": "EP16 | 新興數位性別平等議題與科技發展的趨勢及關係 feat. 石盛文老師",
+        "truncated": false
+      },
+      "description": {
+        "text": "【本集重點】 數位性暴力如同性侵害，應重視特殊性與程序保障。 只究責的刑法難防憾事，訴求以專法因應時代變動。 數位性暴力形式高達 21 種，短中長期規畫讓法令一次到位。 【本集來賓】 石盛文教師／新北市林口國中 📢 想瞭解更多資訊素養與倫理相關內容嗎？ 歡迎來 eTeacher 官網找我們唷！ 👉 eTeacher 傳送門 https://linktr.ee/funsurfing -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Nov 2022 12:00:00 GMT",
+      "feed_index": 90
+    },
+    {
+      "id": "5a82ccd08711054c41cb3cf1dd1ffe0f318f25785d7203cebdb37b3a6024b554",
+      "guid": "19dd2e1f-35ef-4355-b76c-1eb7bd646209",
+      "title": {
+        "text": "EP1 | 網路禮儀是什麼？你在網路上有禮貌嗎？！ feat. 張志銘老師",
+        "truncated": false
+      },
+      "description": {
+        "text": "【本集重點】 蛤？在網路上不是可以為所欲為嗎？ 談什麼禮貌？反正又沒人知道我是誰！ 有哪些網路行為是沒禮貌的？ 你現實與網路的個人形象與行事標準有一致嗎？ 方便不等於隨便，選字用詞請小心！ 【本集來賓】 張志銘教師／桃園市祥安國小 📢 想瞭解更多資訊素養與倫理相關內容嗎？ 歡迎來 eTeacher 官網找我們唷！ 👉 eTeacher 傳送門 https://linktr.ee/funsurfing -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 03 Aug 2022 12:00:00 GMT",
+      "feed_index": 105
+    }
+  ]
+}

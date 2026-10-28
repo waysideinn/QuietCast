@@ -1,0 +1,140 @@
+{
+  "show_id": "1642886094",
+  "feed_url": "https://www.ximalaya.com/album/60101630.xml",
+  "source": {
+    "url": "https://www.ximalaya.com/album/60101630.xml",
+    "final_url": "https://www.ximalaya.com/album/60101630.xml",
+    "fetched_at": "2026-10-25T14:56:44.152876+00:00",
+    "status": 200,
+    "sha256": "9dcc74a24b8224070f48daa8769a1a5345c3a58e41cbec4702724fa4adf6170a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "左聊右侃",
+    "truncated": false
+  },
+  "description": {
+    "text": "热点！奇闻！影视！八卦！ 主播介绍：霄阳风（小左）: 水瓶男，话痨！北京胡同串子，法学专业，资深影视从业者，旅游，美食，文化，科技，二次元等资深爱好者... 33吉祥（小右）: 白羊女，“TG4女团成员”，喜马A+签约主播，明明有颜值，偏偏拼才华...",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 434,
+  "episodes": [
+    {
+      "id": "5e376c790b53e35127e5b146f166857d8ad3db46ead91436fab42db820d8b1a4",
+      "guid": "xmly_track_1027108399",
+      "title": {
+        "text": "一周吐槽集锦丨服刑钱被盗/留学生披日本军旗/儿童手表垄断/老干妈AI事件",
+        "truncated": false
+      },
+      "description": {
+        "text": "出狱后五十多万被转走，服刑人员账户谁来守？留学生在课堂披日本军旗，是真不懂还是坏？一起聊热点背后的漏洞和底线 02:02 服刑期间，手机支付宝转出接近50万的神秘案件 04:07 山西太古看守所内的秘密：隐藏的真相！ 06:13 支付宝支付安全曝光：山西太古看守所内的盗窃案引人深思 09:23 维护财产安全的简单方法：在案件发生时立即采取行动 12:29 中国留学生在莫斯科大学课堂上发现日本军旗，引发争议 15:37 揭秘中国留学生在俄罗斯的争议事件：日本国旗的起源与处理方式 18:47 南京大学留学生成争议，互联网名人均正平发表评论 21:54 刑法第二百四十九条：民族歧视与犯罪惩罚条款，陈桑或将面临严厉制裁！ 25:03 儿童手表领域的小天才：品牌护城河与家长的担忧 28:10 生存压力与服务品质：银行行业的挑战与政策需求 31:18 星巴克的“消费入座”规定：对真正消费者的影响有多大？ 34:25 AI时代下的道德悖论与社会责任——企业的挑战与抉择",
+        "truncated": false
+      },
+      "published_at": "Fri, 23 Oct 2026 20:01:26 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "cda94d4e6f76fc9013c9d8d479fa5dc25297bf7e5574cb09741ca9cbae184729",
+      "guid": "xmly_track_974325643",
+      "title": {
+        "text": "五月灵异事件簿丨宏恩观诡事/阴债/龙王庙命案/黑莲夺魂",
+        "truncated": false
+      },
+      "description": {
+        "text": "历史上“坊间文化”都是极具神话色彩的，其不知道出处的小故事也颇为丰富。民间故事有很多是因为谣言而诞生的，但还是有很多人都会对这种小故事爱不释手，那收听节目的您是否对这些坊间的恐怖小故事感兴趣呢？",
+        "truncated": false
+      },
+      "published_at": "Sun, 03 May 2026 18:24:04 GMT",
+      "feed_index": 62
+    },
+    {
+      "id": "f1f9673c3ec8ff7acf63903ff5a4ad63377d9238f85b35bd9ef6810fc9f8850f",
+      "guid": "xmly_track_931599442",
+      "title": {
+        "text": "一周吐槽集锦丨怪事那么多不吐不舒服（十一月第3期）",
+        "truncated": false
+      },
+      "description": {
+        "text": "每天发生的奇葩事儿实在太多了，我们两口子完全按捺不住吐槽的躁动...我们不是说新闻，而是把看到的奇葩事讲给您听，再跟您唠唠我们是咋想的，不求绝对正确，但保证真心实意！",
+        "truncated": false
+      },
+      "published_at": "Sat, 15 Nov 2025 20:46:11 GMT",
+      "feed_index": 124
+    },
+    {
+      "id": "4a2241cf34ea3047c9f890cddc1d31abb2282c225daefd2b9495f60fd61f4f18",
+      "guid": "xmly_track_850891113",
+      "title": {
+        "text": "2025五月灵异恐怖特辑丨藏地凶物、坟地约会、荒祠夜惊魂",
+        "truncated": false
+      },
+      "description": {
+        "text": "历史上“坊间文化”都是极具神话色彩的，其不知道出处的小故事也颇为丰富。民间故事有很多是因为谣言而诞生的，但还是有很多人都会对这种小故事爱不释手，那收听节目的您是否对这些坊间的恐怖小故事感兴趣呢？",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 May 2025 23:00:00 GMT",
+      "feed_index": 186
+    },
+    {
+      "id": "d7bd0943176fa52c05d1c205c08ad9453671ec632b6013c43304a507ead01141",
+      "guid": "xmly_track_772448164",
+      "title": {
+        "text": "特别加更~有硬货！仅此献给听友八群的阿刘哥，陪伴的力量让我们变得更好！",
+        "truncated": false
+      },
+      "description": {
+        "text": "爱，让我们彼此变得更好！感恩~",
+        "truncated": false
+      },
+      "published_at": "Thu, 07 Nov 2024 16:03:00 GMT",
+      "feed_index": 247
+    },
+    {
+      "id": "3aba0df85569c5680c11c38ea52fcc93495d3d4021879c3197149fc89f0ec031",
+      "guid": "xmly_track_728440685",
+      "title": {
+        "text": "五月“灵异恐怖故事”特辑，胆小者慎入！",
+        "truncated": false
+      },
+      "description": {
+        "text": "历史上“坊间文化”都是极具神话色彩的，其不知道出处的小故事也颇为丰富。民间故事有很多是因为谣言而诞生的，但还是有很多人都会对这种小故事爱不释手，那收听节目的您是否对这些坊间的恐怖小故事感兴趣呢？ 欢迎+V（jixiangyaofeng）入群畅聊！",
+        "truncated": false
+      },
+      "published_at": "Sun, 12 May 2024 23:00:00 GMT",
+      "feed_index": 309
+    },
+    {
+      "id": "c63ec98f2534b9bd44b38fed7fc27e24903eb992609abcc5ca30df58473b39c8",
+      "guid": "xmly_track_627124974",
+      "title": {
+        "text": "震惊韩国的“黑寡妇”案，与她有染的男人居然均不得善终！",
+        "truncated": false
+      },
+      "description": {
+        "text": "2019年6月30日晚上10点24分，韩国京畿道加平郡某派出所接到报案：当地某处旅游景点有一名39岁尹姓男子不幸溺水身亡。与其同行的还有5个朋友，以及他20多岁的年轻妻子。让警方感到意外的是，妻子李恩海当时的反应虽不能 说气定神闲，但也确实没有看出来有多慌张，甚至连正常女人失去丈夫后那种惊恐和悲伤都没能在李恩海的脸上看到。。。 今天，就 带您走进 震惊韩国的“黑寡妇”案 。",
+        "truncated": false
+      },
+      "published_at": "Tue, 18 Apr 2023 00:00:00 GMT",
+      "feed_index": 371
+    },
+    {
+      "id": "c29dc8574f3723f2c6e3e2e10af9ebd0124dc57681ebe144165fbaa1cd04cf36",
+      "guid": "xmly_track_566860728",
+      "title": {
+        "text": "活佛加持的播客节目谁见过?!感谢格桑多杰活佛对“左聊右侃”的加持！",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Sep 2022 11:44:38 GMT",
+      "feed_index": 433
+    }
+  ]
+}

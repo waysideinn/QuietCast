@@ -1,0 +1,140 @@
+{
+  "show_id": "1582621175",
+  "feed_url": "http://www.ximalaya.com/album/49001021.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/49001021.xml",
+    "final_url": "http://www.ximalaya.com/album/49001021.xml",
+    "fetched_at": "2026-10-25T14:53:39.666060+00:00",
+    "status": 200,
+    "sha256": "35cb67f6a60e6009c67a16942cf135c5af538a9aafecfc738724edfc385b6151"
+  },
+  "status": "ok",
+  "title": {
+    "text": "重逢山与海‖免费多人剧‖浪漫高甜",
+    "truncated": false
+  },
+  "description": {
+    "text": "【内容简介】 跨过千山暮雪，看过万里星辰，都不及你，年少时眼底半分笑意……愿你历尽千帆，归来仍是少年。 尽管前程迷茫，但我初心不变，披星戴月奔向理想和你。 后来林跃然问：“徐嘉年，你这样做值不值？” 他那时姿态慵懒地靠坐在医院的长椅上，一时没有动，眼神紧紧盯着不远处已经灯火通明的住院大楼，眼底情绪未名，好一会，才说了句：“以后就奉她为我的梦想。” 【作者简介】 三分糖，起点中文小说网人气作家，擅长玄幻类型小说；主要代表作有《晨至》等，深受广大读者喜爱。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 86,
+  "episodes": [
+    {
+      "id": "53919e6136b2be263a9c96509798f2732d51f57b8516ca573b679c3b258fbbf0",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/c1f1-audiofreehighqps/F3/B3/CKwRIW4EW_oMAEARLwCjBCFq-aacv2-48K.m4a",
+      "title": {
+        "text": "01 楔子 山高水长【梦境边边-宋清浅】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 26 Apr 2021 03:43:57 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f98e6250e66fb8a33908ba9f4fd834d70a53d85b35437ef85ea525f8e667c343",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8282-audiofreehighqps/70/BF/CKwRINsEY5J5AD7YagCllcTd-aacv2-48K.m4a",
+      "title": {
+        "text": "13 他的小家庭6【小鑫的说-林跃然】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 01 May 2021 22:00:02 GMT",
+      "feed_index": 12
+    },
+    {
+      "id": "29a66b68ea82bbc0be5a4967a0b529cb8061ee10262ab555a75e8d419c8b447d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7bb7-audiofreehighqps/DD/12/CKwRIUEEbd22ADllZgCo1Kjh-aacv2-48K.m4a",
+      "title": {
+        "text": "25 故人荣归来6【打call评论分享3连走一波】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 09 May 2021 17:23:59 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "d5de86212309cfc91e1de41652fc6ba2274f97285d7ae0f03f0c28c455366e65",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/45ad-audiofreehighqps/C0/72/CKwRINsEeZY6ADhURACtInSp-aacv2-48K.m4a",
+      "title": {
+        "text": "37 再没有过去6【在你没想清楚前别再找她】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 18 May 2021 14:46:06 GMT",
+      "feed_index": 36
+    },
+    {
+      "id": "e9d553311c7b92c1f045e1e2c73c851a16c7eedbab0b1d0e4b8f8f625f4512b6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/80da-audiofreehighqps/6A/E9/CKwRIDoEgzZzADPWfACwdRSn.m4a",
+      "title": {
+        "text": "50 有一些想念1【想不想我啊？】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 May 2021 22:00:02 GMT",
+      "feed_index": 49
+    },
+    {
+      "id": "03d40e6eed114710f83856bb24cdedff7509d25dcc9e2cd59396befe6391ef8d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/8b91-audiofreehighqps/FF/F5/CKwRIRwEjxP5AEZI9gC01ZTg-aacv2-48K.m4a",
+      "title": {
+        "text": "62 少年的意气1【我之前来过榕城大学……】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 03 Jun 2021 22:00:02 GMT",
+      "feed_index": 61
+    },
+    {
+      "id": "2b1f8ad73b831b0d38b8ba067c2ef0449e6d29d2b9814514ee9cb29aaa7f8335",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/b786-audiofreehighqps/BE/20/CKwRIRwEm1ajADy6jwC48xGL-aacv2-48K.m4a",
+      "title": {
+        "text": "74 看得见未来1【是你自己耍流氓】",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 13 Jun 2021 05:11:55 GMT",
+      "feed_index": 73
+    },
+    {
+      "id": "64ed9d19dfe059a73e25c148efd4d4681bcbe4f3bf8f8da7577a3994933939f6",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/0df5-audiofreehighqps/33/1E/CKwRIJEEqXH0AD79HgC9_B8g-aacv2-48K.m4a",
+      "title": {
+        "text": "番外-徐嘉年求婚唱歌啦（完）同作者新作《星星掉进梦里》筹备中",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Jun 2021 22:00:02 GMT",
+      "feed_index": 85
+    }
+  ]
+}

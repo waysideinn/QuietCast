@@ -1,0 +1,70 @@
+{
+  "show_id": "1534830440",
+  "feed_url": "https://anchor.fm/s/3d7f45bc/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/3d7f45bc/podcast/rss",
+    "final_url": "https://anchor.fm/s/3d7f45bc/podcast/rss",
+    "fetched_at": "2026-10-25T14:51:11.292261+00:00",
+    "status": 200,
+    "sha256": "f8fa6a91d130d1320aac22b3a27d60964ff8fb689230b8d9bf19eeb778e1cd7f"
+  },
+  "status": "ok",
+  "title": {
+    "text": "世界上最无聊的播客 | The Most Boring Podcast",
+    "truncated": false
+  },
+  "description": {
+    "text": "人活着应该干嘛。TA该在何处找到生活的锚点？我们该如何从“应该如此”的人生怪圈中跳脱出来？为了探索更多的可能性，我们会采访各行各业的人，讨论的话题可能会包括游戏，艺术，历史，音乐，数学，科技和一些有趣的社会观察。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 3,
+  "episodes": [
+    {
+      "id": "5e3612b920bd0fb112fed5872efeb4fdb9fa708c65ea6a7f671157bc9d841c74",
+      "guid": "60f9cbf0-3467-45b3-9591-e4623235c6ea",
+      "title": {
+        "text": "第02期 - 对话独立电影制作人Junting Zhou: 我们为什么要讲故事",
+        "truncated": false
+      },
+      "description": {
+        "text": "大家好，这里是世界上最无聊的播客第二期。这期播客其实在一年前就录制好了。结果我拖延了一年才剪辑完成哈哈。希望大家听的开心c: Junting的个人网站: https://juntingzhou.com/ 被NYT选中的纪录片: https://juntingzhou.com/how-my-family-dealt-with-the-coronavirus-outbreak Little Boys: https://juntingzhou.com/little-boy 欢迎大家关注他的ins哟:D! https://www.instagram.com/junting_zhou/ 时间线: 片头曲: Loleta - WMD 00:01:05 - Julian的介绍 00:02:05 - 我们正在经历历史 - 被NYT选上的疫情纪录片 00:05:49 - 什么是cinéma vérité，为什么喜欢用这个拍摄手法？ 00:11:15 - 如何选择拍摄手法和拍摄设备 00:14:23 - 更重要的事: 给世界呈现出一个更加真实的新冠下的中国 00:15:52 - 现在的梦想: 故事讲不停，故事才是目的 00:25:34 - 讲故事带来的力量与疗愈的效果 00:29:52 - 感动到了自己的Essay Film - Little Boys 00:39:17 - 日本动画和美国动画的差别",
+        "truncated": true
+      },
+      "published_at": "Sat, 27 Nov 2021 07:01:07 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f5556b28162aefa75aca2b05fd8c9e0fcea824a571f94299637d0929fc8b758a",
+      "guid": "8dc0d234-319f-4f14-b180-d4b848639d24",
+      "title": {
+        "text": "第01期 - 对话从鹅厂溜走的狸猫林志衡: 如何逃进自由 | 社交媒体在怎样控制我们？| 我们的书影音大推荐！",
+        "truncated": false
+      },
+      "description": {
+        "text": "大家好，这里是世界上最无聊的播客第一期。自想做播客的想法诞生以来已经过了一个月，期间得到了非常多有用的反馈，并让我认识了这位从鹅厂溜走的狸猫林志衡。说他是狸猫是因为他的头像是动森的狸猫，个人感觉长得也很像狸猫，所以擅自加了进去，希望不要被打死哈哈哈。在第0期里对播客还很迷茫的我在录制了这一期后发现了自己到底为什么想做播客，以及想做什么样的播客。也在短短一个星期内从志衡那获得了非常高质量的交流。这集播客呈现的将是我收藏的第一位有趣的灵魂，希望你能听的开心 ^v^! 林志衡的个人网站: https://blog.zhiheng.io/ 欢迎大家在他的豆瓣上找他交流哦 : D 阿西莫娃的Email: [email removed] 时间线: 片头曲: Loleta - WMD 00:00:30 - 阿西莫娃的自我介绍 00:00:53 - 林志衡的介绍 00:01:45 - 为什么想要离开鹅厂，什么是新型的退休？ 00:03:19 - 为离职做了什么样的准备？如何去梳理离职后的不确定性？ 00:04:21 - 如何迈出改变的第一步，我们为什么想要逃避自由 00:06:40 - 感到孤独的时候要怎么办，现代人五官上的平衡 00:10:18 - 无业游民期间去日本游玩了一趟，还考了驾照 | 日本文化的闲谈 00:13:31 - 一人公司的可行性？Jen Yip的例子 00:17:07 - 创",
+        "truncated": true
+      },
+      "published_at": "Wed, 28 Oct 2020 20:37:19 GMT",
+      "feed_index": 1
+    },
+    {
+      "id": "ed8b7efe519a8400c6c2706f1603c96fd7a7c06e594e4a1c86735c7d21967f0f",
+      "guid": "052bbe7d-d4f9-4078-8008-c3f8aea26f76",
+      "title": {
+        "text": "第00期 - 阿西莫娃的独白: 世界如此无聊，让我们一起躺平",
+        "truncated": false
+      },
+      "description": {
+        "text": "大家好，欢迎收听世界上最无聊的播客。 本期主播: 阿西莫娃 Lemmore (精神参与) 时间线: 00:00 - Intro, 我们为什么要做这个播客 01:15 - 无聊人合集 05:48 - 阿西莫娃的私货时间 - 我想结束这一切, Social Dilemma 10:20 - 结语 11:12 - 片尾音乐片头音乐: Loleta - WMD 片尾音乐: KISNOU - Vertigo (feat. AMETHYST) 阿西莫娃的Email: [email removed]",
+        "truncated": false
+      },
+      "published_at": "Wed, 28 Oct 2020 20:36:19 GMT",
+      "feed_index": 2
+    }
+  ]
+}

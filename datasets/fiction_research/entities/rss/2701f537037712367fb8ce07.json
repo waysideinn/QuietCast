@@ -1,0 +1,157 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/2716954.xml",
+    "final_url": "http://www.ximalaya.com/album/2716954.xml",
+    "fetched_at": "2026-10-26T07:53:24.849798+00:00",
+    "status": 200,
+    "sha256": "07614546f02d129ae25eaa5d3107f4bee9e3aea6e5dbb7ce4796f6dbf0930e17"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "鲁鲁兔儿童广播剧（中文）",
+      "truncated": false
+    },
+    "description": {
+      "text": "微信号：“鲁鲁兔儿童频道” ilulutu 前CNBC主播和她的小伙伴们创办的儿童广播剧，有中文和英语两种版本，还有视频和有声电子书。网址m.lulutu.net",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "@喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "听友28584122"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "听友28584122"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Kids & Family"
+      ],
+      [
+        "Education"
+      ],
+      [
+        "Education",
+        "Language Courses"
+      ],
+      [
+        "TV & Film"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/2716954",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 55,
+    "episodes": [
+      {
+        "title": {
+          "text": "小狗罗弗（国语）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group9/M08/75/5A/wKgDZldByQ2wzivtACjrNj1fGqw907.m4a"
+      },
+      {
+        "title": {
+          "text": "DONE不高兴的大个子先生（中文）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 8,
+        "guid": "https://aod.cos.tx.xmcdn.com/group13/M07/47/14/wKgDXlcQ_ASjUfT-ACDIQGlBXec883-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "鲁鲁兔广播剧 | 小兵人（上）CHN",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 15,
+        "guid": "https://aod.cos.tx.xmcdn.com/group16/M02/16/53/wKgDbFbaexuC6pN9AB5LkbVnXcU424-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "老鼠全家运动会 （中文）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 23,
+        "guid": "https://aod.cos.tx.xmcdn.com/group16/M0B/F7/28/wKgDbFauFwfxQJDaAB3B1INK2ZA935-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "鲁鲁兔广播剧丨关于做梦这件事（中文）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 31,
+        "guid": "https://aod.cos.tx.xmcdn.com/group8/M01/D7/4F/wKgDYVZ_yISwni9IAClsSyErbr4536-aacv2-48K.m4a"
+      },
+      {
+        "title": {
+          "text": "鲁鲁兔广播剧丨在一起（中文）",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 39,
+        "guid": "https://aod.cos.tx.xmcdn.com/group8/M01/9A/D6/wKgDYVZDUKaAfsbjABc8YGhCXIw913.m4a"
+      },
+      {
+        "title": {
+          "text": "【中文】三只小熊丨鲁鲁兔儿童广播剧",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 46,
+        "guid": "https://aod.cos.tx.xmcdn.com/group15/M0A/87/16/wKgDaFYjUSzhvC_rAB_Ju-MxRsM835.m4a"
+      },
+      {
+        "title": {
+          "text": "三只小熊（中文）",
+          "truncated": false
+        },
+        "description": {
+          "text": "鲁鲁兔携手英国麦克米伦出版集团，为中国孩子带来最原汁原味的英文绘本！外国孩子学英语，也离不开看绘本听故事。鲁鲁兔为大家挑选了最优秀的英文绘本故事，边玩边学，让大家开开心心讲英语！",
+          "truncated": false
+        },
+        "feed_index": 54,
+        "guid": "https://aod.cos.tx.xmcdn.com/group10/M06/36/D6/wKgDaVcAlGbgloa0ACNTvVuTzqU321-aacv2-48K.m4a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "show_id": "1499460303",
+  "feed_url": "https://www.mmharajuku.net/podcast/index.rss",
+  "source": {
+    "url": "https://www.mmharajuku.net/podcast/index.rss",
+    "final_url": "https://www.mmharajuku.net/podcast/index.rss",
+    "fetched_at": "2026-10-25T14:41:56.587734+00:00",
+    "status": 200,
+    "sha256": "029484b89d04dbcbc539166e2c94cbaaf8817538c9ec02c6e9aade2abe2ff792"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Moshi Moshi Harajuku Radio",
+    "truncated": false
+  },
+  "description": {
+    "text": "Música Electrónica y Cultura Japonesa desde la Ciudad de México, San Francisco, CA y Tokyo, Japón. Síguenos en Facebook, Twitter e Instagram. Escucha la emisón más reciente todos los miércoles a las 10 PM a través de Toxicpro Radio: http://radio.toxicpro.com",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "es-mx",
+    "explicit": "no"
+  },
+  "feed_item_count": 81,
+  "episodes": [
+    {
+      "id": "d4bf9c3302614f797daf948017b14fbbd9ff6bc31dc1596e58cf35da8e3fa894",
+      "guid": "http://www.mmharajuku.net/podcast",
+      "title": {
+        "text": "Trailer",
+        "truncated": false
+      },
+      "description": {
+        "text": "Trailer: Música Electrónica y Cultura Japonesa desde la Ciudad de México, San Francisco, CA y Tokyo, Japón con: Amai Shinse, Kimi Nikkei, Mashiro Bubbles, Ricton Okai y Shaoran Chriz Lee. Desde San Francisco, California, E.E.U.U: Mari Tsukino y Desde Hermosillo Sonora, México: Nappy. Cada semana presentamos Música Electrónica Japonesa e información acerca de: Anime, Manga, Cine, Eventos y conciertos japoneses, Idol, Moda Harajuku, Wotagei y Videjuegos. Síguenos en Facebook, Twitter e Instagram. Escúchanos en tiempo real todos los miércoles a las 10 PM a través de Toxicpro Radio: http://radio.t",
+        "truncated": true
+      },
+      "published_at": "Tue, 4 Feb 2020 00:00:00 -0600",
+      "feed_index": 0
+    },
+    {
+      "id": "1dda9841913a59dbe2b76f928dc7ca3473c7c11bdeefd2984ad7fec32b30042f",
+      "guid": "http://www.mmharajuku.net/podcast/011",
+      "title": {
+        "text": "11: Gus Rodriguez, presentamos a Yukicornio.",
+        "truncated": false
+      },
+      "description": {
+        "text": "Emisión 11 (15/04/2020) Cada semana presentamos Música Electrónica Japonesa e información acerca de: Anime, Manga, Cine, Eventos y conciertos japoneses, Idol, Moda Harajuku, Wotagei y Videjuegos. Síguenos en Facebook, Twitter e Instagram. Escúchanos en tiempo real todos los miércoles a las 10 PM a través de Toxicpro Radio: http://radio.toxicpro.com",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Apr 2020 00:00:00 -0600",
+      "feed_index": 11
+    },
+    {
+      "id": "3cdf0af6c5a25b2a890f7e516fdaf725ec436551f7729756537e13f9ea7bcf33",
+      "guid": "http://www.mmharajuku.net/podcast/023",
+      "title": {
+        "text": "23: Momopyon, desde Perú (3 de 3) y Heidi desde Japón (parte 2).",
+        "truncated": false
+      },
+      "description": {
+        "text": "Emisión 23 (08/07/2020) Cada semana presentamos Música Electrónica Japonesa e información acerca de: Anime, Manga, Cine, Eventos y conciertos japoneses, Idol, Moda Harajuku, Wotagei y Videjuegos. Síguenos en Facebook, Twitter e Instagram. Escúchanos en tiempo real todos los miércoles a las 10 PM a través de Toxicpro Radio: http://radio.toxicpro.com",
+        "truncated": false
+      },
+      "published_at": "Wed, 8 Jul 2020 00:00:00 -0600",
+      "feed_index": 23
+    },
+    {
+      "id": "eedde2e45b10701bb2d83c1dd8e6de49a3a98ad2264c3f0c9332401e0b7d3b18",
+      "guid": "http://www.mmharajuku.net/podcast/034",
+      "title": {
+        "text": "34: Recordando el 1er concierto de °C-ute en México (2 de 3) y entrevista con Dania \"The Strange\". (1 de 2)",
+        "truncated": false
+      },
+      "description": {
+        "text": "Emisión 34 (23/09/2020) Cada semana presentamos Música Electrónica Japonesa e información acerca de: Anime, Manga, Cine, Eventos y conciertos japoneses, Idol, Moda Harajuku, Wotagei y Videjuegos. Síguenos en Facebook, Twitter e Instagram. Escúchanos en tiempo real todos los miércoles a las 10 PM a través de Toxicpro Radio: http://radio.toxicpro.com",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Sep 2020 00:00:00 -0600",
+      "feed_index": 34
+    },
+    {
+      "id": "4dc670059dea147ab17b9b6dc92d49be6ffd529957afa0363e88e9219efd3f78",
+      "guid": "http://www.mmharajuku.net/podcast/046",
+      "title": {
+        "text": "46: Entrevista con Hinootora desde Filipinas",
+        "truncated": false
+      },
+      "description": {
+        "text": "Emisión 46 (16/12/2020) Cada semana presentamos Música Electrónica Japonesa e información acerca de: Anime, Manga, Cine, Eventos y conciertos japoneses, Idol, Moda Harajuku, Wotagei y Videjuegos. Síguenos en Facebook, Twitter e Instagram. Escúchanos en tiempo real todos los miércoles a las 10 PM a través de Toxicpro Radio: http://radio.toxicpro.com",
+        "truncated": false
+      },
+      "published_at": "Wed, 16 Dec 2020 00:00:00 -0600",
+      "feed_index": 46
+    },
+    {
+      "id": "85bc1fd21b01073f25dad2eb0ba3b6a5e4bea52affc913c40d7da055d13aa23a",
+      "guid": "http://www.mmharajuku.net/podcast/057",
+      "title": {
+        "text": "57: Entrevistas con Sotako Anime Rock Band (1 de 2) y Paozikis (2 de 2)",
+        "truncated": false
+      },
+      "description": {
+        "text": "Emisión 57 (03/03/2021) Cada semana presentamos Música Electrónica Japonesa e información acerca de: Anime, Manga, Cine, Eventos y conciertos japoneses, Idol, Moda Harajuku, Wotagei y Videjuegos. Síguenos en Facebook, Twitter e Instagram. Escúchanos en tiempo real todos los miércoles a las 10 PM a través de Toxicpro Radio: http://radio.toxicpro.com",
+        "truncated": false
+      },
+      "published_at": "Wed, 3 Mar 2021 00:00:00 -0600",
+      "feed_index": 57
+    },
+    {
+      "id": "e77ce524dda3663e595e43bdc788d0aaf44b1646a4dbd6e8569b11b215a04fc8",
+      "guid": "http://www.mmharajuku.net/podcast/069",
+      "title": {
+        "text": "69: Música Electrónica Japonesa y Cultura Japonesa",
+        "truncated": false
+      },
+      "description": {
+        "text": "Emisión 69 (26/05/2021) Cada semana presentamos Música Electrónica Japonesa e información acerca de: Anime, Manga, Cine, Eventos y conciertos japoneses, Idol, Moda Harajuku, Wotagei y Videjuegos. Síguenos en Facebook, Twitter e Instagram. Escúchanos en tiempo real todos los miércoles a las 10 PM a través de Toxicpro Radio: http://radio.toxicpro.com",
+        "truncated": false
+      },
+      "published_at": "Wed, 26 May 2021 00:00:00 -0600",
+      "feed_index": 69
+    },
+    {
+      "id": "29a8a9aa65943eb0990278f0e2523a78eeb21d17524b810ff495fccc30806415",
+      "guid": "http://www.mmharajuku.net/podcast/080",
+      "title": {
+        "text": "80: Especial de Bloopers",
+        "truncated": false
+      },
+      "description": {
+        "text": "Emisión 80 (11/08/2021) Cada semana presentamos Música Electrónica Japonesa e información acerca de: Anime, Manga, Cine, Eventos y conciertos japoneses, Idol, Moda Harajuku, Wotagei y Videjuegos. Síguenos en Facebook, Twitter e Instagram. Escúchanos en tiempo real todos los miércoles a las 10 PM a través de Toxicpro Radio: http://radio.toxicpro.com",
+        "truncated": false
+      },
+      "published_at": "Wed, 11 Aug 2021 00:00:00 -0600",
+      "feed_index": 80
+    }
+  ]
+}

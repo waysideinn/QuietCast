@@ -1,0 +1,140 @@
+{
+  "show_id": "1616603917",
+  "feed_url": "http://www.ximalaya.com/album/12423169.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/12423169.xml",
+    "final_url": "http://www.ximalaya.com/album/12423169.xml",
+    "fetched_at": "2026-10-25T14:44:05.667605+00:00",
+    "status": 200,
+    "sha256": "56f082179bfcfb54893cc2b230a979a3132589d98ab9683b4207c4a287e4c195"
+  },
+  "status": "ok",
+  "title": {
+    "text": "乐桃桃玩穿越-情绪感悟系列",
+    "truncated": false
+  },
+  "description": {
+    "text": "鱼淼淼携手儿童心理专家刘鸿雁，通过每集一个经典童话，为孩子和家长们梳理、认知、管理情绪~ 节目还设有“听故事、回答问题”的互动环节，协助家长完成儿童情绪的了解与引导。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 62,
+  "episodes": [
+    {
+      "id": "76125384bd82883fbef272b875e29a7a161cbd198f179334eff2e635f8339b8f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group37/M00/C3/4B/wKgJoFpPF8KD74zjAQU8r72ocJI764.mp3",
+      "title": {
+        "text": "1我很生气之龟兔赛跑",
+        "truncated": false
+      },
+      "description": {
+        "text": "鱼淼淼携手儿童心理专家刘鸿雁，通过每集一个小故事，为孩子和家长们梳理、认知情绪的产生！",
+        "truncated": false
+      },
+      "published_at": "Fri, 05 Jan 2018 06:21:12 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b69ad3c6411fff35c77afd17084c1c8022edd7cacba8baea0f25e86330cfd73b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group41/M05/26/CD/wKgJ8lqVDYngvgHxAbezpN-0VL8519.mp3",
+      "title": {
+        "text": "10我们都很棒之鸡冠花和玫瑰花",
+        "truncated": false
+      },
+      "description": {
+        "text": "鱼淼淼携手儿童心理专家刘鸿雁，通过每集一个小故事，为孩子和家长们梳理、认知、管理情绪~",
+        "truncated": false
+      },
+      "published_at": "Tue, 27 Feb 2018 07:49:35 GMT",
+      "feed_index": 9
+    },
+    {
+      "id": "80ea550fa4c1c9dc4bef83da305f97fdfb75382816a87e761cb6ecd0c1cafb5b",
+      "guid": "xmly_track_515851015",
+      "title": {
+        "text": "18-咕咚来了",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Mar 2022 02:05:02 GMT",
+      "feed_index": 17
+    },
+    {
+      "id": "63e03c21de8544905c94b9ff811ce7433e9bd2c5f36b0657b76d9e4363a3fd0d",
+      "guid": "xmly_track_515851170",
+      "title": {
+        "text": "28-青蛙与男孩",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Mar 2022 02:05:34 GMT",
+      "feed_index": 26
+    },
+    {
+      "id": "26816a8f912004c8a60a0c66e7bd1cd31e57715a4e4d79a7ee47fdaee90e741d",
+      "guid": "xmly_track_515851334",
+      "title": {
+        "text": "37-拨苗助长",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Mar 2022 02:06:09 GMT",
+      "feed_index": 35
+    },
+    {
+      "id": "efbb5572c0b3144772606fc0e53b4cb0cbabc0a1a35c4664f78926a8f8047b14",
+      "guid": "xmly_track_515851472",
+      "title": {
+        "text": "46-爱美的梅花鹿",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Mar 2022 02:06:44 GMT",
+      "feed_index": 44
+    },
+    {
+      "id": "bf642a50d9cdbbf1efbb009128137ea3dfcd9f929dfbf6de9bd02e0ec7ab1884",
+      "guid": "xmly_track_515851630",
+      "title": {
+        "text": "55-兔子朋友",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Mar 2022 02:07:17 GMT",
+      "feed_index": 52
+    },
+    {
+      "id": "2e5269e9303652b6973ba06b88b228d93d6ecdefa81262ff6fa906409f8f3ae5",
+      "guid": "xmly_track_515851880",
+      "title": {
+        "text": "64-生气汤",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Mar 2022 02:08:09 GMT",
+      "feed_index": 61
+    }
+  ]
+}

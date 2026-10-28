@@ -1,0 +1,140 @@
+{
+  "show_id": "1030231015",
+  "feed_url": "http://www.ximalaya.com/album/2796303.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/2796303.xml",
+    "final_url": "http://www.ximalaya.com/album/2796303.xml",
+    "fetched_at": "2026-10-25T14:46:59.028391+00:00",
+    "status": 200,
+    "sha256": "4e50c358e94e780ff933c5bf3d4a191793d0d9bb983fee00fd78375a40e26328"
+  },
+  "status": "ok",
+  "title": {
+    "text": "格列佛—听的旅行攻略",
+    "truncated": false
+  },
+  "description": {
+    "text": "格列佛 是我们儿时 《大人国和小人国》 的主人公。 他是 最牛 的旅行达人。 在 时间就是金钱 当今社会， 搞定一份 自由行攻略 需要多少时间呢？10天，20天，30天... 专业 的事情，还是交给 专业的人 来做吧～，让 格列佛 这个专业玩家，为您开启 最便捷自由行 的模式。 通过严格筛选， 格列佛 邀请全球旅行达人，他们是留学多年的 大学讲师 、 艺术工作者 、 公司老板 ，用国人视角， 手把手教你如何在 海外更优雅地 吃喝玩乐 。 用最短时间解决 行程安排 ； 最快了解当地美食，解决 一日三餐 ； 解决 买买买 ，分清潮牌和大牌都有哪些门道； 如何像本地人一样 乘坐公共交通 ； 还有更多风俗和禁忌和旅行小故事， 尽在 格列佛 ——听的旅行攻略， 是您旅行路上最优秀的知识服务商 。 格列佛 的价值： 1、 为您提供最实用攻略，节省您宝贵时间，这是 过滤的价值 ； 2、 为您讲述当地历史，让您获取意义，这是 解释的价值 ； 3、 格列佛 相信，我们提供行程安排，是由专业旅行顾问结合当地景点与特点，精心为你打造的，对于 一个初到此地的游客，格列佛相信可以 涵盖你90%的需求，尤其是格列佛的精品付费内容，内容深度结构化，可作为旅行路书使用。如果没听过瘾，还想和达人一对一交流，定制出更加精彩个性化行程，格列佛愿意 随时为你出谋划策，这是 联通的价值。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 217,
+  "episodes": [
+    {
+      "id": "9e4381d33a8fba2315b3d18503074a5926cf90214bdc9c1ad0070c4e69960aeb",
+      "guid": "https://aod.cos.tx.xmcdn.com/group50/M06/31/A1/wKgKnVv6EC_TVPDEAI05Jkbxnps795.m4a",
+      "title": {
+        "text": "No.210 如何欣赏大提顿的美",
+        "truncated": false
+      },
+      "description": {
+        "text": "关注微信——tinggeliefo，有更多旅行攻略和故事，等着您。",
+        "truncated": false
+      },
+      "published_at": "Sun, 23 Dec 2018 04:00:01 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b3a84614cfd1d0f830a9ead2b613bc839b9ae283b327a8349e9a1c23c8aa4014",
+      "guid": "https://aod.cos.tx.xmcdn.com/group39/M00/62/D9/wKgJn1pwANOgRdJFAOofaPYOiHs638.mp3",
+      "title": {
+        "text": "韩国年轻人是如何筹办自己的婚礼的 No.179",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎订阅精品攻略《跟着格列佛一键畅听韩国》完整版，关注“tinggeliefo”有机会请达人为你定制个性化的行程。",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Feb 2018 04:00:02 GMT",
+      "feed_index": 31
+    },
+    {
+      "id": "e247c7b7dc458d9c27dccd215e91d8f93a5f2f569baffe210166cc08920598ac",
+      "guid": "https://aod.cos.tx.xmcdn.com/group29/M0B/49/85/wKgJXVlDqE6AQFhgAE9L8NQ3VWQ809.m4a",
+      "title": {
+        "text": "吃过这些才算去过越南——越南美食攻略 No. 157",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎关注微信，tinggeliefo，不仅提供文字版内容，同时也会按照各目的地，提供更完整的旅行攻略信息。 祝大家旅行愉快。",
+        "truncated": false
+      },
+      "published_at": "Fri, 16 Jun 2017 09:45:36 GMT",
+      "feed_index": 62
+    },
+    {
+      "id": "0077ef9708297d6e86a78aa6b86af9e4142854b2dd3cd43a772906f4f25a61d2",
+      "guid": "https://aod.cos.tx.xmcdn.com/group19/M05/81/A1/wKgJK1ephv-jZNz5Ade28lFhE4k120.mp3",
+      "title": {
+        "text": "4个半小时就可前往的海外度假圣地——塞班岛 No.122",
+        "truncated": false
+      },
+      "description": {
+        "text": "欢迎关注我们微信号——tingglf，有更多精彩故事、攻略等着你。 塞班岛有着晶莹剔透的海水，银白色的沙滩和五彩缤纷的珊瑚礁，水天一色，在阳光的折射下，海水呈现淡绿、碧绿、深蓝、墨蓝等不同颜色，非常漂亮。",
+        "truncated": false
+      },
+      "published_at": "Tue, 09 Aug 2016 07:36:21 GMT",
+      "feed_index": 93
+    },
+    {
+      "id": "679537d4c5783f7c4a07c333044950ddbe97d659c754e5a43f84cdb791e2034b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M09/09/56/wKgDZlbKyDXT8h-AAjxfLJn-O6U872.mp3",
+      "title": {
+        "text": "伴你一游彩云南——丽江古城 美食、购物攻略 No.92",
+        "truncated": false
+      },
+      "description": {
+        "text": "收听更多精彩攻略，欢迎关注微信“格列佛”。或者加我私人微信“stone[phone removed]”参与格列佛成长和建设。",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 Feb 2016 08:37:39 GMT",
+      "feed_index": 123
+    },
+    {
+      "id": "82ce694fa7c8655e1534ee3439bd29c99d3f90155205337a43e4da124a9b4b3b",
+      "guid": "https://aod.cos.tx.xmcdn.com/group9/M08/94/BD/wKgDZlY64sCDfrdYAJovHWw8EmA509.m4a",
+      "title": {
+        "text": "3.6 万平方公里的精致小岛——台湾十大美食攻略 No.63",
+        "truncated": false
+      },
+      "description": {
+        "text": "台湾的美味数之不尽，享用不完，对于我们这些短暂路过的行者来说，只能有选择的尝尝其中最为卓绝的几样了。于是我们斗胆做了这样一个盘点，来数数台湾美食“十大”。当然挑选这十味菜品已经是个极大挑战了。",
+        "truncated": false
+      },
+      "published_at": "Thu, 05 Nov 2015 06:02:19 GMT",
+      "feed_index": 154
+    },
+    {
+      "id": "5ebaa70e97111e71bdbcb9022a6240c59128ffc8182f0483c59b3c1fc4b23aee",
+      "guid": "https://aod.cos.tx.xmcdn.com/group13/M01/61/F4/wKgDXlXWiIXAR2qeANGKXDSbz60013.mp3",
+      "title": {
+        "text": "美国富人度假天堂迈阿密——旅行攻略 No.32",
+        "truncated": false
+      },
+      "description": {
+        "text": "有着“阳光之州”美誉的佛罗里 达以其宜人、和煦的天气及美丽的海滩闻名于世，而迈阿密则是这个“阳光之州”中最阳光的 城市，被称为“上帝的等候室”",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 Aug 2015 04:00:16 GMT",
+      "feed_index": 185
+    },
+    {
+      "id": "3f35c7f3d719d0447d692ac0710baeabd56e231ddf27064a91b0128e5d991fd9",
+      "guid": "https://aod.cos.tx.xmcdn.com/group16/M0B/4B/AD/wKgDbFWvMyrjERV5AKiu1Csengs467.m4a",
+      "title": {
+        "text": "No. 7 首尔购物手册",
+        "truncated": false
+      },
+      "description": {
+        "text": "格列佛是《大人国和小人国》的主人公， 他是最牛B旅行达人。 我们就是要把旅行路上有趣故事和攻略，讲给你听。 旅行路上，听格列佛。 格列佛，听的旅行攻略。",
+        "truncated": false
+      },
+      "published_at": "Wed, 22 Jul 2015 06:08:37 GMT",
+      "feed_index": 216
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "show_id": "1530715663",
+  "feed_url": "https://feeds.soundon.fm/podcasts/0248e7a2-4ede-4e9b-9074-3640d922f97e.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/0248e7a2-4ede-4e9b-9074-3640d922f97e.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/0248e7a2-4ede-4e9b-9074-3640d922f97e.xml",
+    "fetched_at": "2026-10-25T14:54:12.885317+00:00",
+    "status": 200,
+    "sha256": "66f4a587e0098a36b3fb908ea30c14ae007eb1aa1a4d065825d4f26264469dd9"
+  },
+  "status": "ok",
+  "title": {
+    "text": "台灣名人堂",
+    "truncated": false
+  },
+  "description": {
+    "text": "《台灣名人堂》由台視新聞主播侯乃榕主持，以人為經，以故事為緯，發掘在台灣社會裡，對土地貢獻心力，做出有意義的事的人們，邀請他們暢談對台灣社會的情感、理想與行動。 台灣名人堂FB：https://www.facebook.com/TTVNews.Interview 主播侯乃榕臉書FB：https://www.facebook.com/NJHou 台視官方YouTube頻道：https://www.youtube.com/user/ttv -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 141,
+  "episodes": [
+    {
+      "id": "d6a22f5cf7341d2e380a54802a2847d97020fba7b618e68d41f8d9739b4f18fb",
+      "guid": "eb0b6bfa-58d3-4060-927b-170839819129",
+      "title": {
+        "text": "EP 139｜卓榮泰｜兒少TISA帳戶 卓揆:人民\"包贏\"",
+        "truncated": false
+      },
+      "description": {
+        "text": "新北市長侯友宜繼2024總統大選後，他首度接受電視媒體專訪，面對年底新北市長即將交棒，侯友宜在節目中公開肯定台北市副市長李四川，更形容對方與自己性格相近，做事投入也願意扛責，他也透露曾問李四川，萬一出現三角督僵局該如何解? 川伯回應:「拚到底」展現了決心。此外，他也回應外界對他卸任後的生涯規劃關心，他表示自己活在當下，未來無論在什麼位置都會全力以赴。 ▲《台灣名人堂》每週六晚上22:00 台視新聞台 首播 ▲《台灣名人堂》Podcast版 每週一更新 台灣名人堂FB： https://www.facebook.com/TTVNews.Interview 主播侯乃榕FB： https://www.facebook.com/NJHou 台視官方YouTube頻道： https://www.youtube.com/user/ttv -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 25 May 2026 01:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "1bad02ba8df582d35fdc07ad788570e1c9b3ff154f451479f209138f65ee54a9",
+      "guid": "8ba6b16b-eb68-48cf-8367-cc64c4ab9cd7",
+      "title": {
+        "text": "EP 119｜林鴻道｜巴黎奧運 受邀傳遞聖火意義非凡",
+        "truncated": false
+      },
+      "description": {
+        "text": "台灣名人堂本周專訪中華奧林匹克委員會主席 林鴻道，七月巴黎奧運即將登場，國人期待中華隊選手能夠再創佳績。擔任奧會主席已十年的林鴻道，分享近年推動「黃金計畫2.0 」、「國家級運動科學中心」及「優秀運動員轉任專任教練」計劃，對於幫助台灣運動再升級的重要性，也感性分享自己事業有成之外，還出錢出力投入中華奧會，背後的最重要原因。 ▲《台灣名人堂》每週六晚上22:00 台視新聞台 首播 ▲《台灣名人堂》Podcast版 每週一更新 台灣名人堂FB： https://www.facebook.com/TTVNews.Interview 主播侯乃榕FB： https://www.facebook.com/NJHou 台視官方YouTube頻道： https://www.youtube.com/user/ttv -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 08 Jul 2024 07:51:19 GMT",
+      "feed_index": 20
+    },
+    {
+      "id": "05b4bd7a8c7092813d6c99872ba0dee5a4a5bd780b9bc9c199c83c5e53d79a15",
+      "guid": "199b4806-135c-4304-99fc-7e38b9289a7f",
+      "title": {
+        "text": "EP 99｜吳念真｜礦區成長背景 父訓練讀報練就說故事本領",
+        "truncated": false
+      },
+      "description": {
+        "text": "台灣名人堂專訪導演吳念真，他被譽為「最會說故事的歐吉桑」，擅長用舞台劇、電影、和文字作品打動人心，身為導演、編劇、演員、作詞人及藝術監督，他回憶自己說故事的本領是從小在礦區唸報紙給鄰居聽練就而成的。寫過上百部劇本的他坦言，當作品觸碰到觀眾內心，收到觀眾真誠的親筆回饋時就是他最感動的時刻，哪怕是商業電影裡的ㄧ兩句對白，只要有人牢牢記住，他就覺得「事情沒有白做」。 ▲《台灣名人堂》每週六晚上22:00 台視新聞台 首播 ▲《台灣名人堂》Podcast版 每週一更新 台灣名人堂FB： https://www.facebook.com/TTVNews.Interview 主播侯乃榕FB： https://www.facebook.com/NJHou 台視官方YouTube頻道： https://www.youtube.com/user/ttv -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 22 May 2023 06:01:22 GMT",
+      "feed_index": 40
+    },
+    {
+      "id": "53d7eb648aa08a34db73e238f2dc316cf7224f0358bd58e51f64bbfd1d83976c",
+      "guid": "023128db-96e1-4b37-8b9f-e6121a8543f2",
+      "title": {
+        "text": "EP 79｜萬冠麗、齊廷洹｜創基金會延續齊柏林精神 珍貴影像數位化工程浩大",
+        "truncated": false
+      },
+      "description": {
+        "text": "台灣名人堂專訪「看見齊柏林基金會」執行長萬冠麗及齊柏林長子-齊廷洹。身為齊柏林摯友的萬冠麗，在五年前齊柏林驟然離世後成立基金會，接續了齊導的精神，致力於環境教育，在龐大資金、人力的壓力下，努力把齊柏林25年空拍歷程留下的珍貴影像數位化，讓更多人看見台灣之美。她在節目中回憶起老友齊柏林，仍然為他一路堅持的傻勁所感動，齊柏林之子齊廷洹更在節目中透露為父親蓄髮五年的感動故事，也談及父親的離世讓他體悟到「原來有些生命的價值是從死亡之後才開始的」。 ▲《台灣名人堂》每週六晚上10:00 台視新聞台 首播 ▲《台灣名人堂》Podcast版 每週更新 台灣名人堂FB：https://www.facebook.com/TTVNews.Interview 主播侯乃榕臉書FB：https://www.facebook.com/NJHou 台視官方YouTube頻道：https://www.youtube.com/user/ttv -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sat, 01 Oct 2022 15:00:00 GMT",
+      "feed_index": 60
+    },
+    {
+      "id": "aa8e4b23d66c520b2ae74d180ce6c876a72ed03588f9921bac02685016ba86b0",
+      "guid": "2eec23ba-dd69-488b-ade4-a732e6f4c8c3",
+      "title": {
+        "text": "EP 59｜黃敏惠｜幸福城市發揚人文特色 提振經濟普發現金 「現金牆」壯觀 壓力山大",
+        "truncated": false
+      },
+      "description": {
+        "text": "有300年歷史的嘉義市近幾年不斷將地方特有的文化發揚光大，去年的「2021台灣設計展」，結合文創和歷史，成功吸引超過200萬人次到訪，嘉義市長黃敏惠喊話，接下來希望讓嘉義輕軌圓夢，把嘉義的交通便捷更推進一步。節目中市長還接受了快問快答挑戰，細數最愛的美食景點，也難得在鏡頭前對老公溫情喊話，展現了理性施政之外，私下感性的一面。 ▲《台灣名人堂》每週六晚上10:00 台視新聞台 首播 ▲《台灣名人堂》Podcast版 每週日上架 台灣名人堂FB： https://www.facebook.com/TTVNews.Interview 主播侯乃榕臉書FB： https://www.facebook.com/NJHou 台視官方YouTube頻道： https://www.youtube.com/user/ttv -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Feb 2022 10:11:56 GMT",
+      "feed_index": 80
+    },
+    {
+      "id": "dea6bce9f29e9bfcd86bbc66b1727cf6c74103da44fa5eae15ef3ecfc13c202d",
+      "guid": "2be44507-bd47-4b15-bb9b-9244e9707f74",
+      "title": {
+        "text": "EP 40 演員｜郭子乾、郎祖筠｜模仿天王尬千面女郎 帶給觀眾雙重享受",
+        "truncated": false
+      },
+      "description": {
+        "text": "台灣名人堂本週專訪演員郭子乾及郎祖筠。 出道已經超過30年的他們，演技早已備受肯定，模仿天王郭子乾能維妙維肖演繹五百多個角色，他表示出道時連母親都不看好他，自己也曾經懷疑過：「我成天在模仿別人，那什麼才是真正的自己」，但一位心理師告訴他：「觀眾喜歡看你模仿，這就是你啊！」自此他彷彿開了竅，自勉「只有小演員，沒有小角色」，認真扮演好每一個劇中人物。 資深演員郎祖筠，以飾演女丑出道，她坦言早期的作品不是扮醜就是要不計形象，曾經在路上被人指指點點，但她心念一轉，認為這就是對她演技的肯定，也就坦然釋懷。 ▲《台灣名人堂》Podcast版 每週日上架 ▲《台灣名人堂》台視新聞台每週日晚上10點（首播），台視財經台每週日晚上11點 台灣名人堂FB： https://www.facebook.com/TTVNews.Interview 主播侯乃榕臉書FB： https://www.facebook.com/NJHou 台視官方YouTube頻道： https://www.youtube.com/user/ttv -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 04 Apr 2021 09:56:30 GMT",
+      "feed_index": 100
+    },
+    {
+      "id": "c46bd5f3306ccd6e17651febdeff69864340e8dbc32f9fbfb9bf02780c1e373e",
+      "guid": "8dc3e326-dedd-402b-90a4-61d8f62fc4fa",
+      "title": {
+        "text": "EP20 設計師｜詹朴｜金馬御用旅英時尚設計師 用布料演繹奇幻旅程",
+        "truncated": false
+      },
+      "description": {
+        "text": "台灣名人堂本週專訪旅英服裝設計師詹朴。從小在台灣土生土長的他，在英國碩士畢業後，26歲自創品牌，連續14季在倫敦時裝週發表作品，在國際上大放異彩。 近年在國內，也跟雲門舞集、蘇打綠、長榮航空、麥當勞等知名表演者、品牌異業合作，讓設計迸出了許多耀眼火花。他在節目中暢談從學生到創立品牌、站上國際的努力過程，也坦言在這個快速變動的時代，很多時候是沒有機會準備好的，只能邊做邊摸索出未來方向。 因為講話輕聲細語，有人用「害羞設計師」來形容他，詹朴不以為意，認為能不能促成更多合作、能不能得到更多不同發表的機會，「重點還是回到作品本身」。 ▲《台灣名人堂》Podcast版 每週三、日上架 ▲《台灣名人堂》台視新聞台每週日晚上10點（首播），台視財經台每週日晚上11點 台灣名人堂FB： https://www.facebook.com/TTVNews.Interview 主播侯乃榕臉書FB： https://www.facebook.com/NJHou 台視官方YouTube頻道： https://www.youtube.com/user/ttv -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 09 Dec 2020 10:30:00 GMT",
+      "feed_index": 120
+    },
+    {
+      "id": "717b135e25642ef651ee4548ba6092ad4ccf80d0d5efacce1bfe300bb0ac111b",
+      "guid": "2f5672e7-c118-4710-85f9-07122ed7ca6e",
+      "title": {
+        "text": "EP1(上) 作家｜張曼娟｜思覺失調的爸爸和失智的媽媽",
+        "truncated": false
+      },
+      "description": {
+        "text": "暢銷作家張曼娟的父親患了思覺失調，在一夜之間成了陌生人；母親接著罹患失智症，險些連她也忘了。她坦言生活的重擔，讓她曾有過輕生的念頭，甚至開始恐懼，「是否從此再也不能寫作了」。所幸她咬牙接受邀稿，打下第一個字的時候「熱淚盈眶」，靈感湧現！ ▲《台灣名人堂》Podcast版 每週三、日上架 ▲《台灣名人堂》台視新聞台每週日晚上10點（首播），台視財經台每週日晚上11點 台灣名人堂FB：https://www.facebook.com/TTVNews.Interview 主播侯乃榕臉書FB：https://www.facebook.com/NJHou 台視官方YouTube頻道：https://www.youtube.com/user/ttv -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Sun, 06 Sep 2020 08:26:07 GMT",
+      "feed_index": 140
+    }
+  ]
+}

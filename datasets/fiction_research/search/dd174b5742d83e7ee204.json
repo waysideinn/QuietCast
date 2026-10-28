@@ -1,0 +1,159 @@
+{
+  "group": "boundary",
+  "term": "文学史",
+  "country": "cn",
+  "source": {
+    "url": "https://itunes.apple.com/search?term=%E6%96%87%E5%AD%A6%E5%8F%B2&media=podcast&entity=podcast&country=cn&limit=200",
+    "final_url": "https://itunes.apple.com/search?term=%E6%96%87%E5%AD%A6%E5%8F%B2&media=podcast&entity=podcast&country=cn&limit=200",
+    "fetched_at": "2026-10-25T14:46:27.472955+00:00",
+    "status": 200,
+    "sha256": "69a02f9b8d9329b06a08b1be3e0590926a3189ba49dc5a659dca366596ab3022"
+  },
+  "result_count": 6,
+  "records": [
+    {
+      "collectionId": 1541273122,
+      "trackId": 1541273122,
+      "collectionName": "书房文学史｜书房连着厨房",
+      "artistName": "书房连着厨房_声音",
+      "feedUrl": "http://www.ximalaya.com/album/43889824.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B9%A6%E6%88%BF%E6%96%87%E5%AD%A6%E5%8F%B2-%E4%B9%A6%E6%88%BF%E8%BF%9E%E7%9D%80%E5%8E%A8%E6%88%BF/id1541273122?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "小说",
+        "剧情"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1483",
+        "1484"
+      ],
+      "trackCount": 34,
+      "releaseDate": "2026-10-23T10:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1833773970,
+      "trackId": 1833773970,
+      "collectionName": "史铁生文学深度剖析",
+      "artistName": "文化很有限",
+      "feedUrl": "https://www.ximalaya.com/album/101032264.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8F%B2%E9%93%81%E7%94%9F%E6%96%87%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90/id1833773970?uo=4",
+      "genres": [
+        "哲学",
+        "播客",
+        "社会与文化",
+        "情感与人际关系"
+      ],
+      "genreIds": [
+        "1443",
+        "26",
+        "1324",
+        "1544"
+      ],
+      "trackCount": 8,
+      "releaseDate": "2025-08-17T01:00:00Z",
+      "country": "CHN",
+      "primaryGenreName": "哲学"
+    },
+    {
+      "collectionId": 1759319679,
+      "trackId": 1759319679,
+      "collectionName": "叛逆者觉醒/史诗级大作/诗歌/诺贝尔文学奖提名作品",
+      "artistName": "低调的会长大人",
+      "feedUrl": "https://www.ximalaya.com/album/82093320.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E5%8F%9B%E9%80%86%E8%80%85%E8%A7%89%E9%86%92-%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%A4%A7%E4%BD%9C-%E8%AF%97%E6%AD%8C-%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E6%8F%90%E5%90%8D%E4%BD%9C%E5%93%81/id1759319679?uo=4",
+      "genres": [
+        "电视评论",
+        "播客",
+        "电视与电影",
+        "宗教与心灵",
+        "灵修"
+      ],
+      "genreIds": [
+        "1561",
+        "26",
+        "1309",
+        "1314",
+        "1444"
+      ],
+      "trackCount": 15,
+      "releaseDate": "2024-09-03T12:37:00Z",
+      "country": "CHN",
+      "primaryGenreName": "电视评论"
+    },
+    {
+      "collectionId": 1183233450,
+      "trackId": 1183233450,
+      "collectionName": "闲话文学史",
+      "artistName": "jack强",
+      "feedUrl": "http://www.ximalaya.com/album/5853933.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E9%97%B2%E8%AF%9D%E6%96%87%E5%AD%A6%E5%8F%B2/id1183233450?uo=4",
+      "genres": [
+        "图书",
+        "播客",
+        "艺术",
+        "教育"
+      ],
+      "genreIds": [
+        "1482",
+        "26",
+        "1301",
+        "1304"
+      ],
+      "trackCount": 36,
+      "releaseDate": "2017-04-17T02:42:00Z",
+      "country": "CHN",
+      "primaryGenreName": "图书"
+    },
+    {
+      "collectionId": 1336323610,
+      "trackId": 1336323610,
+      "collectionName": "乐死人的文学史｜宋代篇",
+      "artistName": "诸葛学堂",
+      "feedUrl": "http://www.ximalaya.com/album/12164932.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E4%B9%90%E6%AD%BB%E4%BA%BA%E7%9A%84%E6%96%87%E5%AD%A6%E5%8F%B2-%E5%AE%8B%E4%BB%A3%E7%AF%87/id1336323610?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客",
+        "历史"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1487"
+      ],
+      "trackCount": 18,
+      "releaseDate": "2017-12-19T01:21:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    },
+    {
+      "collectionId": 1443574597,
+      "trackId": 1443574597,
+      "collectionName": "跑题大会",
+      "artistName": "跑题大会",
+      "feedUrl": "http://www.ximalaya.com/album/14641355.xml",
+      "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/%E8%B7%91%E9%A2%98%E5%A4%A7%E4%BC%9A/id1443574597?uo=4",
+      "genres": [
+        "社会与文化",
+        "播客",
+        "历史"
+      ],
+      "genreIds": [
+        "1324",
+        "26",
+        "1487"
+      ],
+      "trackCount": 483,
+      "releaseDate": "2026-10-21T08:58:00Z",
+      "country": "CHN",
+      "primaryGenreName": "社会与文化"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "show_id": "1615721133",
+  "feed_url": "http://www.ximalaya.com/album/55979435.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/55979435.xml",
+    "final_url": "http://www.ximalaya.com/album/55979435.xml",
+    "fetched_at": "2026-10-25T14:44:02.071603+00:00",
+    "status": 200,
+    "sha256": "92408b554c140e1e95733f0600c23e79927add57416a51dba53a9ae6482be632"
+  },
+  "status": "ok",
+  "title": {
+    "text": "滑雪迷踪——悬疑小说",
+    "truncated": false
+  },
+  "description": {
+    "text": "一个好问题，三个帮！！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 2,
+  "episodes": [
+    {
+      "id": "f34ad21d9cc7d78b89f6b432ba3153ce5c339f5e7d052c071de80e1d473c0d20",
+      "guid": "xmly_track_513867201",
+      "title": {
+        "text": "【滑雪迷踪】第二章——一个都不能走（中）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Mar 2022 07:23:35 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "25b0df0d5f7e174e1ac116801536f65a87e07e109bbd1bc7bf8c72f8ce77f5a6",
+      "guid": "xmly_track_513864320",
+      "title": {
+        "text": "【滑雪迷踪】第一章———一个都不能走（上）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Mar 2022 07:10:36 GMT",
+      "feed_index": 1
+    }
+  ]
+}

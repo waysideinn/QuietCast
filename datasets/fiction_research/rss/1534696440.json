@@ -1,0 +1,140 @@
+{
+  "show_id": "1534696440",
+  "feed_url": "https://anchor.fm/s/3a0cb9b4/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/3a0cb9b4/podcast/rss",
+    "final_url": "https://anchor.fm/s/3a0cb9b4/podcast/rss",
+    "fetched_at": "2026-10-25T14:50:44.425047+00:00",
+    "status": 200,
+    "sha256": "09e489a22cd29faa06ea7fe75f5a1d025c872599943e91e5581a0228ffacc159"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Memthoven 背多芬 | 真人朗讀法條有聲書",
+    "truncated": false
+  },
+  "description": {
+    "text": "大家好，這裡是背多芬法條有聲書，每一句你所聽見的文字，都是本人一句句錄製、剪輯的內容。 親切的鄰家嗓音，是您備考時的溫暖陪伴！🥰 真人實錄，自然好聽；阿芬陪你，榜上有名！ 2026.10.19 感謝各位六年的陪伴，本頻道突破50萬下載次數啦！💖",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 169,
+  "episodes": [
+    {
+      "id": "456fc9009facaef863ae754fb85c802bbb0a09da0b87a3a777b67352ce606a69",
+      "guid": "fee60e31-c7db-4e51-bd0c-eaa198ee0ce6",
+      "title": {
+        "text": "死刑從核准到執行，要經過幾道程序？《執行死刑規則》全文真人朗讀 | 監所管理員 典獄長 監獄行刑法 法務部檢察署 憲法法庭 受刑人 執行槍決 會同法醫 死刑定讞",
+        "truncated": false
+      },
+      "description": {
+        "text": "本集YouTube 字幕影片 https://youtu.be/yKr-gF-KdX8 在台灣，一個人被判處死刑且判決確定後，並不代表可以立即執行。 法務部必須先審核案件，確認是否符合法定執行條件，以及有沒有依法應暫停執行的情況，例如法院裁定停止執行等。 確認可以執行並經法務部核准後，再由相關檢察機關依規定辦理，原則上須在核准後三日內執行，但仍須遵守其他法定限制。 執行當天，檢察官及監獄相關人員須確認受刑人身分，並詢問其最後留言及通知親友的意願。 死刑依規定採適當方式執行，執行後由檢察官會同法醫師覆驗，確認死亡，再將相關資料呈報法務部，並通知家屬。 簡單來說，《執行死刑規則》就是在規範死刑判決確定後，國家執行死刑時必須遵守的程序與限制。 一起來聽！",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 Oct 2026 08:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "5cf4deff453a8361ae2e24f8eb86d1247f27e747ae550f513c2627c4ec4fc062",
+      "guid": "649b3e48-a6b2-4a5d-ba47-bb73fbb618a1",
+      "title": {
+        "text": "《政府採購法》真人朗讀 | 背多芬法條有聲書 Memthoven",
+        "truncated": false
+      },
+      "description": {
+        "text": "YouTube全字幕影片：https://youtu.be/gJSUq5UOxlI 《政府採購法》是台灣規範政府機關、學校、公營事業等單位在採購貨品、勞務或工程時，應遵守的法律。其核心目標是確保 公平競爭、透明公開、效能最佳化，避免貪污或不當交易，並提升政府資源的運用效率。 📌 立法目的 為了讓政府採購程序更加透明、公正，並確保公共資源合理運用，政府於1999 年（民國 88 年）制定《政府採購法》，規範各類政府單位的採購行為，確保價格合理、品質優良、程序公平。 📌 主要規範內容 1. 適用範圍 各級政府機關、學校、公營事業等使用公帑進行的採購。 🫸 標的包含：工程建設（如橋梁、道路）、勞務（如顧問服務）、貨品（如辦公設備）。 2. 採購方式 🫸 公開招標：最常見方式，透過公告讓合格廠商競標，確保透明與競爭。 🫸 選擇性招標：適用於技術門檻較高的專案，如國防、醫療設備採購，須經資格審查後邀請投標。 🫸 限制性招標：如緊急救災、特殊技術需求等情況，可直接與特定廠商洽談採購。 3. 最低標與最有利標 🫸 最低標：符合基本規格者，最低價得標，常用於標準化產品（如文具、電腦）。 🫸 最有利標：考量品質、技術能力、後續服務等因素，由評審委員會評選（如資訊系統開發、重大工程）。 4. 資訊公開與異議處理 採購資訊須公告於 政府電子採購網，接受社會監督。 供應商如對採購結果有異議，可提申訴，避免",
+        "truncated": true
+      },
+      "published_at": "Sat, 11 Apr 2026 08:57:57 GMT",
+      "feed_index": 24
+    },
+    {
+      "id": "c6da910fb420362eb532c78f66d22c9644d4c434655f7a074b36ef74e5549bbf",
+      "guid": "80bda34b-74d0-4cca-ba79-1cc6b5eb6381",
+      "title": {
+        "text": "《海岸巡防法》真人朗讀 | 海巡特考 海巡行政 海巡觀通監控 海洋巡護 | 背多芬法條有聲書",
+        "truncated": false
+      },
+      "description": {
+        "text": "《海岸巡防法》全文共17條，為海巡特考、海巡行政、海巡觀通監控、海洋巡護等公職的重要考科。YouTube 影片連結https://youtu.be/jiyJ-Xzib8M",
+        "truncated": false
+      },
+      "published_at": "Wed, 15 Jan 2025 23:47:00 GMT",
+      "feed_index": 48
+    },
+    {
+      "id": "49e4cd73039fda5a27c3d11f474e3500735f6bbc3519190d4596fbdb6aa8dd91",
+      "guid": "5d38b2ee-164f-4fbe-ae3c-85e2a8c7d8d9",
+      "title": {
+        "text": "《平均地權條例》真人朗讀 | 背多芬法條有聲書 Memthoven | 112年最新修法 | 區段徵收 禁止紅單轉讓 農業用地 非都市用地 自用住宅 地價評議委員會 耕地出租",
+        "truncated": false
+      },
+      "description": {
+        "text": "🌼試聽一到四章https://youtu.be/NUhGFTAer3E🍀完整版一到八章https://youtu.be/gpVHop5KfIY",
+        "truncated": false
+      },
+      "published_at": "Sun, 08 Dec 2024 06:28:57 GMT",
+      "feed_index": 72
+    },
+    {
+      "id": "9278e8c4b35cc19c768975f394e08183e069e6fa79addb62e764efedd34c91e6",
+      "guid": "ea0a2425-7d9b-4783-89e8-6d43f2fa6a51",
+      "title": {
+        "text": "《記帳士法》真人朗讀 | 背多芬法條有聲書 Memthoven",
+        "truncated": false
+      },
+      "description": {
+        "text": "真人實錄，自然好聽！ 非文字轉語音可比擬的真實人聲， 給您在有溫度、如友人談話的輕鬆氣氛下， 放鬆眼睛的同時，一次次熟悉法條。🍵 本集影片版：https://youtu.be/KNYri4aFgVc 🍵 政府採購法 https://youtu.be/-7EwKGrjTs0 🍵 商業會計法 https://youtu.be/qyzSxlWCa4I 🍵 稅捐稽徵法 https://youtu.be/552wgiem6pc 🍵 公 司 法 https://youtu.be/cJW0wEnYxps 🍵 審 計 法 https://youtu.be/NPwXddMkhu0 🍵 營業稅法 https://youtu.be/O8lAe5BM_9o 🍵 決 算 法 https://youtu.be/O_f77vnslJo",
+        "truncated": false
+      },
+      "published_at": "Mon, 04 Nov 2024 21:05:09 GMT",
+      "feed_index": 96
+    },
+    {
+      "id": "dfa2cebd412d90aa51a3cdbf348b63ca41213047b9aa9ebad21fdc0097ac84e6",
+      "guid": "15a0983b-f854-440d-af89-7a29edf8450d",
+      "title": {
+        "text": "《職業安全衛生法》真人朗讀 | 背多芬法條有聲書",
+        "truncated": false
+      },
+      "description": {
+        "text": "職安法YouTube 影片在這唷https://youtu.be/dgmqGGZhcNs",
+        "truncated": false
+      },
+      "published_at": "Wed, 10 Jul 2024 11:43:54 GMT",
+      "feed_index": 120
+    },
+    {
+      "id": "64870de26a34817b00108775f296a592eb1d3275ca9d73ec1f795456172bb880",
+      "guid": "bd2202e3-abb9-41aa-94ef-153ffde133e1",
+      "title": {
+        "text": "ㄅㄆㄇ拼音 | 獻給升小一的孩子們",
+        "truncated": false
+      },
+      "description": {
+        "text": "Hey各位準小學生！學拼音也可以很無痛~每日早上刷牙放來聽，60天暑假後，一定能輕鬆學會✨😍 爸爸媽媽也別急著要孩子跟著讀出聲音，有些孩子習慣先用感官觀察，每個小朋友有自己的學習速度，無痛、維持良好學習心情，養好學習胃口，就是最棒的學習步伐唷！背多芬小老師~下課！",
+        "truncated": false
+      },
+      "published_at": "Thu, 30 Jun 2022 22:04:49 GMT",
+      "feed_index": 144
+    },
+    {
+      "id": "060bc2a75495335577bae8d9c3a3c3f43b7e7a83e690b4b91f58dd9b50bc5966",
+      "guid": "5302e45f-dfa1-4605-b2c2-afe1a51c8106",
+      "title": {
+        "text": "兵法三十六計 The 36 Stratagems | Memthoven 背多芬",
+        "truncated": false
+      },
+      "description": {
+        "text": "除了美人計、苦肉計，還有哪些計呢？來看看你認得哪些吧！",
+        "truncated": false
+      },
+      "published_at": "Tue, 29 Dec 2020 16:03:04 GMT",
+      "feed_index": 168
+    }
+  ]
+}

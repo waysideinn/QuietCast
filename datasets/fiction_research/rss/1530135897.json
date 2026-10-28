@@ -1,0 +1,140 @@
+{
+  "show_id": "1530135897",
+  "feed_url": "http://www.ximalaya.com/album/40623577.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/40623577.xml",
+    "final_url": "http://www.ximalaya.com/album/40623577.xml",
+    "fetched_at": "2026-10-25T14:50:30.299833+00:00",
+    "status": 200,
+    "sha256": "9ea4124f42ed043dbc9ad1a4492cb9014337c8793be6beab0b71acc2f71a47cd"
+  },
+  "status": "ok",
+  "title": {
+    "text": "大剑师传奇（黄易奇幻武侠）",
+    "truncated": false
+  },
+  "description": {
+    "text": "帝国第一剑手兰特遭帝国统治者大元首倾全力追杀，逃至魔女国，然而魔女国领袖魔女百合因大元首的毒计而进入假死状态，兰特遂率领魔女国军队对抗帝国军的进袭。兰特在重创大元首后，横跨大沙漠直至淨土国追杀大元首。淨土国受外族黑叉人进犯，兰特成为了淨土预言中的「圣剑骑士」，不仅率淨土军击退黑叉军，同时也歼灭了大元首，但后来才知道大元首背后有力量更为邪恶的巫帝。 为了要歼灭巫帝，兰特重返帝国准备统一分裂的帝国与沙漠诸部。后兰特远征巫国与巫帝决战，巫帝却借公主的人身重返地面，与兰特长期角力。两人最后在「魔眼」废墟决战，兰特藉由与魔女百合合体的力量消灭了巫帝，世界进入新的秩序。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 292,
+  "episodes": [
+    {
+      "id": "f78b03d70e21ee2983daea015b9f73a29094742831f6c0932b3d03ef84c1bfa6",
+      "guid": "https://aod.cos.tx.xmcdn.com/group86/M02/6F/8E/wKg5Jl8wfTCBypRWAEjyVeBZzi4600-aacv2-48K.m4a",
+      "title": {
+        "text": "001 第一章 逃出帝国-1（求订阅）",
+        "truncated": false
+      },
+      "description": {
+        "text": "传说中的玄幻种马文鼻祖...",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Aug 2020 14:51:50 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "ec63b1fccfe1e0dff9b63b548a88246477ee9402dee9b6c63ab202818821379f",
+      "guid": "https://aod.cos.tx.xmcdn.com/group85/M05/77/51/wKg5H19IfoKgt9YSAD-BSBS7Ivo732-aacv2-48K.m4a",
+      "title": {
+        "text": "043第十五章 有美偕行-1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 28 Aug 2020 03:48:09 GMT",
+      "feed_index": 42
+    },
+    {
+      "id": "2f59abaaa047aba6ff9382db3e3bc1f1d8c3e74b40b38de81b8ca25586758d25",
+      "guid": "https://aod.cos.tx.xmcdn.com/group88/M05/78/2C/wKg5CV9m1ZnhS4zYAFs6PUy8MFM232-aacv2-48K.m4a",
+      "title": {
+        "text": "084 第三十四章 亡月峡谷-1",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 20 Sep 2020 04:07:41 GMT",
+      "feed_index": 83
+    },
+    {
+      "id": "4acebdaa851999554e5f45ebba59000226635910ddd3241b389f797089afc291",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/9455-audiofreehighqps/82/72/CMCoOSADfNhTADl4fgBkw2qm-aacv2-48K.m4a",
+      "title": {
+        "text": "126 第四十八章 仙城之役-7",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 07 Nov 2020 21:44:42 GMT",
+      "feed_index": 125
+    },
+    {
+      "id": "2ce988f5a145e6c1e54213f1bf999193058cb3499a0835514482ee1f9c55a44f",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/4607-audiofreehighqps/02/3B/CKwRIaIEfO-2AFka6QCuOH13-aacv2-48K.m4a",
+      "title": {
+        "text": "167 第六十八章 夜狼之行（2）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 May 2021 03:44:27 GMT",
+      "feed_index": 166
+    },
+    {
+      "id": "84ec79318b2d7e8f3a14b8d0dace36a04bd20b0a4f31abdfbfbcbff58abedfb8",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/99ee-audiofreehighqps/2B/AC/CKwRINsE8ogXAGMkrADZM55r-aacv2-48K.m4a",
+      "title": {
+        "text": "209 第九十章 迎浪之城（2）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Wed, 18 Aug 2021 08:29:53 GMT",
+      "feed_index": 208
+    },
+    {
+      "id": "01ea32129aeb56b86a895ab85cb4fc1b40d21c2d91091cf30b816cbff465d9f5",
+      "guid": "xmly_track_542264199",
+      "title": {
+        "text": "250 第一百一十以章 游山玩水（1）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 11 Jun 2022 10:58:06 GMT",
+      "feed_index": 249
+    },
+    {
+      "id": "235b360f12af21fe9cc8c42742f11a512b173e20983883a7e3096df194b9c538",
+      "guid": "xmly_track_586654574",
+      "title": {
+        "text": "（完结）292 第一百二十八章 后记（02）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 11 Nov 2022 21:55:46 GMT",
+      "feed_index": 291
+    }
+  ]
+}

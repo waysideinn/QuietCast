@@ -1,0 +1,140 @@
+{
+  "show_id": "1539168778",
+  "feed_url": "http://www.ximalaya.com/album/43040427.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/43040427.xml",
+    "final_url": "http://www.ximalaya.com/album/43040427.xml",
+    "fetched_at": "2026-10-25T14:51:07.613811+00:00",
+    "status": 200,
+    "sha256": "69780a99c3da3a608680bfeb225805b16bf21cc8514753eebf6297eda48ebc41"
+  },
+  "status": "ok",
+  "title": {
+    "text": "开卷无益丨乱弹水浒传+暗黑西游记+胡侃三国演义",
+    "truncated": false
+  },
+  "description": {
+    "text": "微信公众号：：春典JARGON 关注后可以投稿、进群聊天，收听大尺度节目《春风大典》和免费的下架节目。 看直播回放： B站：春典JARGON 了解主播日常，关注： 微博：春典JARGON",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 97,
+  "episodes": [
+    {
+      "id": "f1a01ef96a5f60a3de14b9f7d2977b60c6f4e405c677a9e0245e8adef970d536",
+      "guid": "xmly_track_807413284",
+      "title": {
+        "text": "胡侃三国-三让徐州事件，刘备的进退两难，君子还是小人？",
+        "truncated": false
+      },
+      "description": {
+        "text": "微信公众号：春典 关注后可以投稿、进群聊天、打开更多隐藏内容。 本期资料引用： 《三国演义》 《三国演义》94版电视剧 《三国志》",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 Feb 2025 04:00:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "6dc52895e686828a520270a306939ef4a85e6d2d8eac2d5bdcf84538301fae3a",
+      "guid": "xmly_track_589704681",
+      "title": {
+        "text": "暗黑西游-唐僧被金鼻白老鼠破了元阳？",
+        "truncated": false
+      },
+      "description": {
+        "text": "微信公众号：春典 关注后可以投稿、进群聊天、打开更多隐藏内容。 《西游记》是中国古代第一部浪漫主义章回体长篇神魔小说。现存明刊百回本《西游记》均无作者署名，清代学者吴玉搢等首先提出《西游记》作者是明代吴承恩。",
+        "truncated": false
+      },
+      "published_at": "Thu, 24 Nov 2022 16:00:00 GMT",
+      "feed_index": 14
+    },
+    {
+      "id": "1afb1f486232424b84c12d7b2a932b20980d92e649d700560240d867e48bfbec",
+      "guid": "xmly_track_544303828",
+      "title": {
+        "text": "暗黑西游-剑指金角银角，扫黑除恶专项斗争",
+        "truncated": false
+      },
+      "description": {
+        "text": "微信公众号：春典 关注后可以进群和投稿哦 《西游记》是中国古代第一部浪漫主义章回体长篇神魔小说。现存明刊百回本《西游记》均无作者署名，清代学者吴玉搢等首先提出《西游记》作者是明代吴承恩。",
+        "truncated": false
+      },
+      "published_at": "Thu, 21 Jul 2022 16:00:00 GMT",
+      "feed_index": 27
+    },
+    {
+      "id": "aeca4e5430694d64766d851da5eb4cf13b4257e32c2747a7c701d5a39309446d",
+      "guid": "xmly_track_517055788",
+      "title": {
+        "text": "暗黑西游-独角鬼王哪儿来的勇气封孙悟空齐天大圣",
+        "truncated": false
+      },
+      "description": {
+        "text": "微信公众号：春典 关注后可以进群和投稿哦 《西游记》是中国古代第一部浪漫主义章回体长篇神魔小说。现存明刊百回本《西游记》均无作者署名，清代学者吴玉搢等首先提出《西游记》作者是明代吴承恩。",
+        "truncated": false
+      },
+      "published_at": "Thu, 07 Apr 2022 16:00:00 GMT",
+      "feed_index": 41
+    },
+    {
+      "id": "79a5ee741ba603cfe020876c31267dc202d0e004fd48c6aa5f18606149280b6d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/7b0f-audiofreehighqps/E4/76/CKwRINsFBeeDAOVHCQDe1VBO-aacv2-48K.m4a",
+      "title": {
+        "text": "乱弹水浒-董平张清，哼哈二傻直男帅渣将？",
+        "truncated": false
+      },
+      "description": {
+        "text": "共纵号：春典 董平是《水浒传》中的人物，绰号双枪将，河东上党郡人氏。他原是东平府兵马都监，后被宋江用计生擒，遂归顺梁山。梁山大聚义时，一百零八将之一，排第十五位，上应天立星，担任马军五虎将。因常打头阵，又称董一撞。征四寇时屡立战功。征方腊时战死于独松关，追封忠武郎。 张清是《水浒传》中的人物，绰号“没羽箭”，彰德府人氏，原为东昌府守将。他擅用飞石，曾连打梁山十五员战将。归顺梁山后，梁山一百零八将之一，排第十六位，上应天捷星，担任马军八骠骑兼先锋使。征四寇时屡立战功。征方腊时战死于独松关，追封忠武郎。",
+        "truncated": false
+      },
+      "published_at": "Thu, 02 Sep 2021 16:00:00 GMT",
+      "feed_index": 55
+    },
+    {
+      "id": "b9ab9d41e74ac071c2ed5b9f63a11f7dab4ecc9a3b4cbda5a6462b5d0a0e791d",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/f919-audiofreehighqps/4F/34/CKwRIW4Eb5voALFR9ACpcv3C-aacv2-48K.m4a",
+      "title": {
+        "text": "乱弹水浒-时迁的愿望是天下无贼",
+        "truncated": false
+      },
+      "description": {
+        "text": "功中号：春典 时迁是《水浒传》中的人物，绰号鼓上蚤，高唐州人氏，出身盗贼，在与杨雄、石秀投奔梁山途中，因偷鸡被祝家庄活捉，引出梁山三打祝家庄。他曾到东京盗取雁翎金圈甲，赚取徐宁上梁山，并在梁山攻破大名府、曾头市的战役中立下大功。梁山大聚义时，一百零八将之一，排第一百零七位，上应“地贼星”，担任走报机密步军头领。征方腊后病死于杭州，追封义节郎。",
+        "truncated": false
+      },
+      "published_at": "Thu, 20 May 2021 16:00:00 GMT",
+      "feed_index": 69
+    },
+    {
+      "id": "bc6aa8ecf4872ed47c0442ae15dac85c33d3750ab6ca17a81feca80b08296a61",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/413b-audiofreehighqps/87/8D/CKwRIW4D7SsyALZG7QCCOhwK-aacv2-48K.m4a",
+      "title": {
+        "text": "乱弹水浒-秦明是典型的大智若愚吧？",
+        "truncated": false
+      },
+      "description": {
+        "text": "【V：chundian2019】 天猛星霹雳火秦明 秦明，中国古典小说《水浒传》中的人物，梁山一百单八将之一。因其性如烈火，故而人称“霹雳火”。祖籍山后开州。善使一条狼牙棒。本是青州指挥司统制，攻打清风山时，因中宋江的计策，被俘后无家可归，只得归顺。自上梁山后，秦明凭手中狼牙棒，在一系列战斗中屡立战功。大聚义排座次时，在梁山排行第7位，上应“天猛星”。又被封为“马军五虎将”第3位。梁山受招安后，随宋江征讨辽国、王庆、田虎、方腊，多建功勋。在征方腊接近尾声的清溪县之战时，秦明与方腊之侄方杰大战，因躲避暗器，被分散了注意力，方杰趁机一戟将秦明杀死，回京后，被追封为忠武郎",
+        "truncated": false
+      },
+      "published_at": "Tue, 09 Feb 2021 16:00:22 GMT",
+      "feed_index": 82
+    },
+    {
+      "id": "1f21eba009eb0188af5644a22dbe3f519ccea9bc8d3cf423e3d7ce295a3083cd",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/3360-audiofreehighqps/51/EC/CMCoOSYDlot_AKH0CgBrXg8H-aacv2-48K.m4a",
+      "title": {
+        "text": "乱弹水浒-开篇序言",
+        "truncated": false
+      },
+      "description": {
+        "text": "【V：chundian2019】",
+        "truncated": false
+      },
+      "published_at": "Tue, 17 Nov 2020 16:00:39 GMT",
+      "feed_index": 96
+    }
+  ]
+}

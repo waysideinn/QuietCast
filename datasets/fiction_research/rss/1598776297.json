@@ -1,0 +1,140 @@
+{
+  "show_id": "1598776297",
+  "feed_url": "http://www.ximalaya.com/album/55153920.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/55153920.xml",
+    "final_url": "http://www.ximalaya.com/album/55153920.xml",
+    "fetched_at": "2026-10-25T14:43:35.433948+00:00",
+    "status": 200,
+    "sha256": "cdda155ec6be6cb86154594fc7ee30df8ddf5c03777850562826314d9d4f0fc8"
+  },
+  "status": "ok",
+  "title": {
+    "text": "【精品多播】颜倾天下之君本无情丨女明星穿越跑错片场",
+    "truncated": false
+  },
+  "description": {
+    "text": "【内容简介】 当红女明星伊顔苒拍摄时不慎坠崖，醒来后发现穿越至不知名的古代，还阴差阳错的遇上了妖孽皇帝！亲眼见证了古代的权谋及后宫的争斗。本以为可以和相爱的人长长久久，却因怀疑和猜忌再一次失掉性命。最终等待伊顔苒的会是什么结局呢？",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 152,
+  "episodes": [
+    {
+      "id": "3e53a47a00d104c2782ab9714253b20de175483a996a0256f42d499b368ef431",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/eb62-audiofreehighqps/88/EA/GKwRINsFfpsrABWXbwD99rqI-aacv2-48K.m4a",
+      "title": {
+        "text": "颜倾天下之君本无情 000 楔子丨片花",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 29 Nov 2021 10:07:00 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "06bce735c5ce20a3c2b27d12e5e5398aa532efb41daff16351cad5fea7f87630",
+      "guid": "xmly_track_480562392",
+      "title": {
+        "text": "颜倾天下之君本无情 022 不知道怎么穿",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Dec 2021 00:00:04 GMT",
+      "feed_index": 22
+    },
+    {
+      "id": "7d71c879afe733adbe6e9c0e082f0f40f2d4323d4e518d5b71c5cb968c3abbb1",
+      "guid": "xmly_track_483953925",
+      "title": {
+        "text": "颜倾天下之君本无情 043 白马",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 19 Dec 2021 00:00:07 GMT",
+      "feed_index": 43
+    },
+    {
+      "id": "95e3d293016b3c4b8ff037ded5152a0013503774f37d7f09b3444274cf8f1604",
+      "guid": "xmly_track_487595110",
+      "title": {
+        "text": "颜倾天下之君本无情 065 下药",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 30 Dec 2021 00:00:04 GMT",
+      "feed_index": 65
+    },
+    {
+      "id": "0e9037a064d3c8c743ee0bfad43baee43992af8d962ba72bf66283a87dea8e0a",
+      "guid": "xmly_track_490961597",
+      "title": {
+        "text": "颜倾天下之君本无情 086 没事",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 10 Jan 2022 00:00:04 GMT",
+      "feed_index": 86
+    },
+    {
+      "id": "d6a9ceb68b45ddb53cbeb230ca2b01b16f1e99db493b89baf11392f4432b7c8e",
+      "guid": "xmly_track_494625744",
+      "title": {
+        "text": "颜倾天下之君本无情 108 明夜行动",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 21 Jan 2022 00:00:04 GMT",
+      "feed_index": 108
+    },
+    {
+      "id": "6aabb2e725b50d2ff4c1acf2ce950304b67b9531c77d9e3fa176c178f3983431",
+      "guid": "xmly_track_497928948",
+      "title": {
+        "text": "颜倾天下之君本无情 129 他的改变",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 31 Jan 2022 00:00:04 GMT",
+      "feed_index": 129
+    },
+    {
+      "id": "75d5742b2bf09242dc16b419673b5a7aa6d5e2ea0f85e3e86d733509bde3eed1",
+      "guid": "xmly_track_500817718",
+      "title": {
+        "text": "颜倾天下之君本无情 151 伊顔苒之死（完）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Fri, 11 Feb 2022 00:00:04 GMT",
+      "feed_index": 151
+    }
+  ]
+}

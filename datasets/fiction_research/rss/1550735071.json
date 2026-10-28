@@ -1,0 +1,139 @@
+{
+  "show_id": "1550735071",
+  "feed_url": "https://feeds.soundcloud.com/users/soundcloud:users:927668821/sounds.rss",
+  "source": {
+    "url": "https://feeds.soundcloud.com/users/soundcloud:users:927668821/sounds.rss",
+    "final_url": "https://feeds.soundcloud.com/users/soundcloud:users:927668821/sounds.rss",
+    "fetched_at": "2026-10-25T14:52:05.090372+00:00",
+    "status": 200,
+    "sha256": "1b26da13946a9190c9d02ec673a971fd4064dc5fc9889cb7189e7530de8a48d1"
+  },
+  "status": "ok",
+  "title": {
+    "text": "宇宙光有聲雜誌",
+    "truncated": false
+  },
+  "description": {
+    "text": "富含深意的小故事、溫馨雋永的文章，期許以一份提升人靈性、德性、知性、感性的雜誌，將我們對於社會、人文、關懷等議題的看見傳遞出去。我們堅持給您最真心的聲音。（本節目更新至2025.12.23）❤宇宙光雜誌訂閱 https://reurl.cc/g82K8z",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-tw",
+    "explicit": "no"
+  },
+  "feed_item_count": 14,
+  "episodes": [
+    {
+      "id": "e2e78a69e147c662e64a10546185ce7cccdce2c8ad8aa178fd1295bcc46cb2e0",
+      "guid": "tag:soundcloud,2010:tracks/2234855177",
+      "title": {
+        "text": "宇宙光小故事：第一個聖誕老人",
+        "truncated": false
+      },
+      "description": {
+        "text": "宇宙光小故事：第一個聖誕老人 by Cosmic Light",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 Dec 2025 03:10:58 +0000",
+      "feed_index": 0
+    },
+    {
+      "id": "5d98b58596d247821bf0dfb510c5091145c976974686375d3efec2d838f89a5c",
+      "guid": "tag:soundcloud,2010:tracks/2234853989",
+      "title": {
+        "text": "德的美好：台大教授郭瑞祥的生命見證",
+        "truncated": false
+      },
+      "description": {
+        "text": "德的美好：台大教授郭瑞祥的生命見證 by Cosmic Light",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 Dec 2025 03:06:39 +0000",
+      "feed_index": 2
+    },
+    {
+      "id": "d372496501e59fd9fc1ec6a13d2492eef1dd69a28a149c73b036178aa4f800ff",
+      "guid": "tag:soundcloud,2010:tracks/2234853518",
+      "title": {
+        "text": "感的體悟：聖誕組曲",
+        "truncated": false
+      },
+      "description": {
+        "text": "感的體悟：聖誕組曲 by Cosmic Light",
+        "truncated": false
+      },
+      "published_at": "Tue, 23 Dec 2025 03:04:29 +0000",
+      "feed_index": 4
+    },
+    {
+      "id": "63b11dede3e14af56f02b166e2560102c29afa3724d3295e46c306d58499dcd8",
+      "guid": "tag:soundcloud,2010:tracks/2230535135",
+      "title": {
+        "text": "靈的飛翔：社工不是神",
+        "truncated": false
+      },
+      "description": {
+        "text": "最近喧騰一時的社會新聞，是不滿兩歲的愷愷被保母虐待而死，讓人非常心痛。總幹事—李棟良就這個事件寫了一篇「社工不是神」，請聽他的分享。.....",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Dec 2025 06:56:45 +0000",
+      "feed_index": 6
+    },
+    {
+      "id": "882096c531a2ad34c39e1a58819faa230f58b7cb730deca946f0743f4333af0c",
+      "guid": "tag:soundcloud,2010:tracks/2230533902",
+      "title": {
+        "text": "德的美好：閱讀是旅程，不是KPI —吳億盼的閱讀之旅",
+        "truncated": false
+      },
+      "description": {
+        "text": "配合主題，梁家芝訪問了閱讀人—吳億盼，寫了一篇「閱讀是旅程，不是KPI —吳億盼的閱讀之旅」，一起來聽。.....",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Dec 2025 06:51:11 +0000",
+      "feed_index": 7
+    },
+    {
+      "id": "9ac8621ca145f3a72dc98b18fc5dfe2a455d9866f96771820dc42926751c5833",
+      "guid": "tag:soundcloud,2010:tracks/2230532846",
+      "title": {
+        "text": "感的體悟：玉蘭花香",
+        "truncated": false
+      },
+      "description": {
+        "text": "劉廖美惠女士，我們稱她為劉媽媽，她和劉叔曾經是宇宙光中國事工的負責人；退休之後在中國待了20多年，推廣了多項事工。劉叔在2023年回歸天家，對相守62年的劉媽來說，雖知道劉叔去了美好地方，但仍有訴不盡的思念與感懷。這篇「玉蘭花香」是劉媽在他們結婚60年的時候，集結的日記之一，讀來深觸人心，讓我讀給您聽.....",
+        "truncated": false
+      },
+      "published_at": "Tue, 16 Dec 2025 06:46:12 +0000",
+      "feed_index": 9
+    },
+    {
+      "id": "d4b5bd1cd4d8ebf9700ec0b744377764ce4e492aff70a66d2a8ce414fb333a5b",
+      "guid": "tag:soundcloud,2010:tracks/2226472526",
+      "title": {
+        "text": "宇宙光小故事：寡婦兒子的復活",
+        "truncated": false
+      },
+      "description": {
+        "text": "富含深意的小故事，選自宇宙光有聲雜誌，一份兼具提昇人靈性、德性、知性、感性的有聲出版品。",
+        "truncated": false
+      },
+      "published_at": "Tue, 09 Dec 2025 02:37:50 +0000",
+      "feed_index": 11
+    },
+    {
+      "id": "c6c3fd57d7a732e0985df20eccec641b499187f70f73c5c4397efb32b27e89e0",
+      "guid": "tag:soundcloud,2010:tracks/2223611573",
+      "title": {
+        "text": "理的思辨：1%的突破，讓福音撞擊生命",
+        "truncated": false
+      },
+      "description": {
+        "text": "理的思辨：1%的突破，讓福音撞擊生命 by Cosmic Light",
+        "truncated": false
+      },
+      "published_at": "Thu, 04 Dec 2025 03:33:44 +0000",
+      "feed_index": 13
+    }
+  ]
+}

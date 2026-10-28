@@ -1,0 +1,140 @@
+{
+  "show_id": "1644569354",
+  "feed_url": "https://anchor.fm/s/b51558dc/podcast/rss",
+  "source": {
+    "url": "https://anchor.fm/s/b51558dc/podcast/rss",
+    "final_url": "https://anchor.fm/s/b51558dc/podcast/rss",
+    "fetched_at": "2026-10-25T14:56:50.473385+00:00",
+    "status": 200,
+    "sha256": "02ee1520eb863a67cdaa4fc40223f58d3f78352a761b4bacd4dd308c971b79d4"
+  },
+  "status": "ok",
+  "title": {
+    "text": "两颗心的距离",
+    "truncated": false
+  },
+  "description": {
+    "text": "两颗心的距离",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 799,
+  "episodes": [
+    {
+      "id": "3a1fe3ee5569a2e0d091c17545cfa434d3eaa6d73ca5c25e11928749bb5d9676",
+      "guid": "4619ee0f-7f7e-4d1b-a306-27725b12e0fb",
+      "title": {
+        "text": "998.支持扩大知识产权质押融资-2019-06-27",
+        "truncated": false
+      },
+      "description": {
+        "text": "998.支持扩大知识产权质押融资-2019-06-27",
+        "truncated": false
+      },
+      "published_at": "Sun, 11 Jun 2023 15:08:38 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "83ab5bfa88278ae9515b68554539c0a5a17e85917931417acdfe007ce4d4ac4f",
+      "guid": "49c7a270-198c-4b7d-9eec-c66538899f4f",
+      "title": {
+        "text": "984.资治通鉴白话版_第170卷,陈纪四,陈临海王光大元年2",
+        "truncated": false
+      },
+      "description": {
+        "text": "984.资治通鉴白话版_第170卷,陈纪四,陈临海王光大元年2",
+        "truncated": false
+      },
+      "published_at": "Thu, 25 May 2023 15:50:17 GMT",
+      "feed_index": 114
+    },
+    {
+      "id": "765de45642ec660fe827c252bf14a6919a7724474ab1f92266328f31e68c4b69",
+      "guid": "4df6f21d-6174-42fb-b9ae-c998b61e3528",
+      "title": {
+        "text": "989.网逃犯拿哥哥身份证乘高铁，没想到哥哥也是网逃《然哥脱口秀》20190321",
+        "truncated": false
+      },
+      "description": {
+        "text": "989.网逃犯拿哥哥身份证乘高铁，没想到哥哥也是网逃《然哥脱口秀》20190321",
+        "truncated": false
+      },
+      "published_at": "Tue, 09 May 2023 17:21:38 GMT",
+      "feed_index": 228
+    },
+    {
+      "id": "096eedbaafaa2ccd7b7b35c6fb22f1c62ce34d3f10402bc0e70b4d49b206b42e",
+      "guid": "66f44e15-1d73-48bb-94cc-aeac1e75cd53",
+      "title": {
+        "text": "979.让过去过去 让开始开始",
+        "truncated": false
+      },
+      "description": {
+        "text": "979.让过去过去 让开始开始",
+        "truncated": false
+      },
+      "published_at": "Thu, 20 Apr 2023 06:28:44 GMT",
+      "feed_index": 342
+    },
+    {
+      "id": "6c2e7c523fc603719ea5cc855f6d4078af7cbf9e694fe4d38979eb263d9d3916",
+      "guid": "0aa7ee7e-0a74-44cf-a2c5-2bd144c39091",
+      "title": {
+        "text": "9948.998快讯：20200401 14-00-14-10",
+        "truncated": false
+      },
+      "description": {
+        "text": "9948.998快讯：20200401 14-00-14-10",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Apr 2023 23:11:42 GMT",
+      "feed_index": 456
+    },
+    {
+      "id": "0e2e69379e6ab6c06db570fdea356e8db1bba8a7f4418997dd9bb6f62e370ea1",
+      "guid": "6b7b5a80-fbeb-4453-a6c6-fcb542b10272",
+      "title": {
+        "text": "940.棚改新政，是一盘大棋",
+        "truncated": false
+      },
+      "description": {
+        "text": "940.棚改新政，是一盘大棋",
+        "truncated": false
+      },
+      "published_at": "Sat, 25 Mar 2023 13:32:03 GMT",
+      "feed_index": 570
+    },
+    {
+      "id": "7b031febb3696b0d5aaf4fff24e5f267958a65d982c30be2e6e0ed36ac18f7d8",
+      "guid": "1675f21f-f226-42f2-bde4-e005bbb41194",
+      "title": {
+        "text": "981.0926期：开心茶馆",
+        "truncated": false
+      },
+      "description": {
+        "text": "981.0926期：开心茶馆",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Mar 2023 13:16:35 GMT",
+      "feed_index": 684
+    },
+    {
+      "id": "c3f357f0f16220886e1c85994cf94b48d9c18c843127b52cfcc25178559c4ba0",
+      "guid": "78fc9eff-8f56-48f3-88d9-001b511a9391",
+      "title": {
+        "text": "周杰伦",
+        "truncated": false
+      },
+      "description": {
+        "text": "周杰伦",
+        "truncated": false
+      },
+      "published_at": "Mon, 05 Sep 2022 13:21:40 GMT",
+      "feed_index": 798
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "batch_id": "human-chat-2026-10-27-04",
+  "recorded_at": "2026-10-27T12:41:11.636697+00:00",
+  "user_statement": "32 拦截 是广播剧 也要拦截  38拦截 是小说 有声书  其他保留",
+  "review_basis": "Chat excerpts of public metadata; no listening reported.",
+  "predictions_shown": false,
+  "episode_labels_inferred": false,
+  "independence_audit_status": "pending",
+  "items": [
+    {
+      "number": 31,
+      "show_id": "1352951413",
+      "title": "佛教哲学（新佛学金刚经）",
+      "requested_filter_decision": "allow",
+      "status": "recorded"
+    },
+    {
+      "number": 32,
+      "show_id": "1358251055",
+      "title": "古风广播剧《今生亦何欢》",
+      "requested_filter_decision": "block",
+      "status": "recorded"
+    },
+    {
+      "number": 33,
+      "show_id": "1438867843",
+      "title": "手机美术馆",
+      "requested_filter_decision": "allow",
+      "status": "recorded"
+    },
+    {
+      "number": 34,
+      "show_id": "1449153058",
+      "title": "维生素E|经济学与哲学知识分享",
+      "requested_filter_decision": "allow",
+      "status": "recorded"
+    },
+    {
+      "number": 35,
+      "show_id": "1450399086",
+      "title": "不正经的艺术",
+      "requested_filter_decision": "allow",
+      "status": "recorded"
+    },
+    {
+      "number": 36,
+      "show_id": "1455483014",
+      "title": "秋野叨历史 | 十分钟的历史故事",
+      "requested_filter_decision": "allow",
+      "status": "recorded"
+    },
+    {
+      "number": 37,
+      "show_id": "1462843777",
+      "title": "《第十八个盛夏》都市奇幻广播剧",
+      "requested_filter_decision": "allow",
+      "status": "recorded_after_clarification",
+      "final_filter_decision": "block",
+      "final_content_label": "fiction"
+    },
+    {
+      "number": 38,
+      "show_id": "1462850845",
+      "title": "如何演播官场商战小说",
+      "requested_filter_decision": "block",
+      "status": "recorded_after_clarification",
+      "final_filter_decision": "allow",
+      "final_content_label": "nonfiction"
+    },
+    {
+      "number": 39,
+      "show_id": "1466577555",
+      "title": "世界在你耳边｜旅行趣聊",
+      "requested_filter_decision": "allow",
+      "status": "recorded"
+    },
+    {
+      "number": 40,
+      "show_id": "1471749688",
+      "title": "行迹访谈室",
+      "requested_filter_decision": "allow",
+      "status": "recorded"
+    }
+  ],
+  "clarifications": {
+    "37": "User broadly allowed remaining shows, but item 37 is explicitly titled urban fantasy audio drama; verify intended decision.",
+    "38": "Metadata describes an audiobook performance training course, not a novel performance. Confirm whether user wants to extend filtering scope to these courses or revise this decision."
+  },
+  "clarification_reply": {
+    "recorded_at": "2026-10-27T12:42:26.420113+00:00",
+    "user_statement": "37 看漏了 你是对的 广播剧 拦截 38 教学程程不用拦截 保留",
+    "note": "Clarification followed factual metadata reminders, not model predictions. Preserve original decisions above."
+  },
+  "clarifications_resolved": true
+}

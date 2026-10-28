@@ -1,0 +1,140 @@
+{
+  "show_id": "1598143267",
+  "feed_url": "http://www.ximalaya.com/album/55061061.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/55061061.xml",
+    "final_url": "http://www.ximalaya.com/album/55061061.xml",
+    "fetched_at": "2026-10-25T14:43:30.657050+00:00",
+    "status": 200,
+    "sha256": "20c0110f92868b04b38f3a78067493782e5cf46c5315e4dd5f49a98ea4944188"
+  },
+  "status": "ok",
+  "title": {
+    "text": "九阳神功 我在昆仑当掌教丨搞笑逆袭&修仙奇遇",
+    "truncated": false
+  },
+  "description": {
+    "text": "感谢各位支持 欢迎点赞，评论以及转发分享哦！！！给镭震子动力吧！！！ 昆仑新任掌教居然是一个憨人痴相，不得慧根，懵懵懂懂的 8 岁小胖子！？！？！ 是什么让一个小胖子如此逆天？ 是人性的泯灭还是道德的沦丧？ 是穿越的灵魂还是无敌的金手指？ 他带领一穷二白的昆仑派，寻镜灵、捞仙晶鱼、挖晶核、修堡垒，发家致富，称霸修仙界。 魔界来攻怎么办？打回去！神舟七号一炮八百，魔教闻之色变。魔教幸存者口口相传，昆仑范水桶，奸猾狠辣冠绝天下！ 他只是个普通的孩子，阴差阳错以先天废脉千年榆木桩继任掌教，如果硬说有什么不一样，他爷爷留下的《德彪语录》是他的行动指南，凭借此书范水桶横扫正魔，傲世寰宇。到底《德彪语录》中记录了什么让小胖子成就不世威名？此范德彪与我们熟知的范德彪到底什么关系？让我们进入九阳神功的世界寻找答案吧！",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 1066,
+  "episodes": [
+    {
+      "id": "61918f98f5bfd56ec1c5d48be8bb248f302ac74f8c56a18f94a96c2082877d6c",
+      "guid": "xmly_track_479253906",
+      "title": {
+        "text": "九阳神功-契子",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sun, 05 Dec 2021 07:36:36 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "9f077e4a6cf377d8ab4806b9f50c566e293d4bfeebcbb400db0d853ac2031191",
+      "guid": "xmly_track_480831314",
+      "title": {
+        "text": "《九阳神功》第150集 搅拌，海怪末日 上",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 09 Dec 2021 14:19:36 GMT",
+      "feed_index": 152
+    },
+    {
+      "id": "77f21651c80291390ab37803956f2bbbf3d1e2b3215a50d170f17667e9996d00",
+      "guid": "xmly_track_485626938",
+      "title": {
+        "text": "《九阳神功》第302集 天地，奇蟹显威 下",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 23 Dec 2021 15:53:51 GMT",
+      "feed_index": 304
+    },
+    {
+      "id": "c818a1cd165524a8439ea02689e7f28ae600477ceb4882476445890727c54e8d",
+      "guid": "xmly_track_489814295",
+      "title": {
+        "text": "《九阳神功》第454集 折服，手腕通天 上",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 06 Jan 2022 15:17:10 GMT",
+      "feed_index": 456
+    },
+    {
+      "id": "7890d7930bc179491ff6de151db463f1129f06619b32e95c46c32d0420847fa6",
+      "guid": "xmly_track_503920327",
+      "title": {
+        "text": "《九阳神功》第606集 争锋 上",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Feb 2022 16:21:00 GMT",
+      "feed_index": 609
+    },
+    {
+      "id": "460f8c8e3b1743cb3bf98ccac1ddfcba4d78be3304466a31fac80d039f33788a",
+      "guid": "xmly_track_511729563",
+      "title": {
+        "text": "《九阳神功》第757集 大会，奇衣叠出 陆",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 17 Mar 2022 04:16:04 GMT",
+      "feed_index": 761
+    },
+    {
+      "id": "8911c3b433a9148379a2dfd58866aaa4ac868f4c22bf080fc3a73fecd7917f8e",
+      "guid": "xmly_track_542711741",
+      "title": {
+        "text": "《九阳神功》第910集 隐府，害人小贼 下",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 13 Jun 2022 00:57:54 GMT",
+      "feed_index": 913
+    },
+    {
+      "id": "e3b5696c26953af9a2e37de5a464aeb00fc4649ca332c79809ed625273591b62",
+      "guid": "xmly_track_570806848",
+      "title": {
+        "text": "《九阳神功》第1062集 结局，刹那芳华",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 20 Sep 2022 12:35:50 GMT",
+      "feed_index": 1065
+    }
+  ]
+}

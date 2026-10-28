@@ -1,0 +1,10 @@
+{
+  "unique_show_ids": "pass",
+  "unique_feed_ids": "pass",
+  "label_references_checked": 74,
+  "unit_tests": "..............\n----------------------------------------------------------------------\nRan 14 tests in 0.005s\n\nOK",
+  "unsealed_test_guard": "pass",
+  "human_label_counts": {},
+  "production_gate": "not_ready_missing_human_gold_and_independent_test",
+  "no_app_files_modified_by_task_B": true
+}

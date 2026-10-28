@@ -1,0 +1,140 @@
+{
+  "show_id": "1521027718",
+  "feed_url": "https://feed.firstory.me/rss/user/ckmiww9d6h08o0822k6ulcuww",
+  "source": {
+    "url": "https://feed.firstory.me/rss/user/ckmiww9d6h08o0822k6ulcuww",
+    "final_url": "https://feed.firstory.me/rss/user/ckmiww9d6h08o0822k6ulcuww",
+    "fetched_at": "2026-10-25T14:52:47.423975+00:00",
+    "status": 200,
+    "sha256": "00000582c26e0e47de15b542debe4fa5d2d8aae74cfb482abe30428d34724eec"
+  },
+  "status": "ok",
+  "title": {
+    "text": "今日哲學",
+    "truncated": false
+  },
+  "description": {
+    "text": "聊哲學，或聊今日。 不聊時事，只說實話。 [email removed] 想更認識我們？ https://pay.firstory.me/user/todayphilosophy Powered by Firstory Hosting",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-Hant",
+    "type": "episodic",
+    "explicit": "yes"
+  },
+  "feed_item_count": 203,
+  "episodes": [
+    {
+      "id": "341bf7b2e4482ccfb33c460796beb8fc9102db96a5a916618c7fe51dbfbca5ec",
+      "guid": "cm3f0gnqn000w01whdid6f7h2",
+      "title": {
+        "text": "EP203 大人的標準",
+        "truncated": false
+      },
+      "description": {
+        "text": "跟另一伴攜手走下去前，不只是甜言蜜語、浪漫送禮，這件事做好準備更重要！預防 HPV 是對彼此「愛情」最基本的尊重和承諾。別讓對健康的傷害變成愛情的阻礙，為彼此主動做好HPV預防才能說是「真愛」。 立即諮詢醫師，展現你對愛的承諾。 男女1+1 主動防禦HPV(人類乳突病毒) https://fstry.pse.is/9pftt2 —— 以上為 Firstory Podcast 廣告 —— 難度：★☆☆☆☆ 曲名：Canon 小額贊助支持本節目： https://open.firstory.me/user/ckmiww9d6h08o0822k6ulcuww 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckmiww9d6h08o0822k6ulcuww/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Thu, 28 Nov 2024 16:08:10 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "f1202351c7a07e60555c1e7f2e40b689167b527c33ad5bf95db315eca00dedb4",
+      "guid": "clk0u3osw00z101ru3tkr3b06",
+      "title": {
+        "text": "EP174 致異類",
+        "truncated": false
+      },
+      "description": {
+        "text": "難度：★☆☆☆☆ 歌曲 Hard To Get 表演者 peach tinted 小額贊助支持本節目： https://open.firstory.me/user/ckmiww9d6h08o0822k6ulcuww 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckmiww9d6h08o0822k6ulcuww/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 14 Jul 2023 12:31:13 GMT",
+      "feed_index": 29
+    },
+    {
+      "id": "d791f73df89db42b80dcd101a01e21f153637e932e174a5626472ab138f0c57c",
+      "guid": "cl6s9fu73011p01xo8qd8hydn",
+      "title": {
+        "text": "EP145 完美的小客體不ㄘ...",
+        "truncated": false
+      },
+      "description": {
+        "text": "難度：★★★☆☆ 歌曲 Couple of Fruits 表演者 Big Fella 小額贊助支持本節目： https://open.firstory.me/user/ckmiww9d6h08o0822k6ulcuww 留言告訴我你對這一集的想法： https://open.firstory.me/user/ckmiww9d6h08o0822k6ulcuww/comments Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sat, 13 Aug 2022 18:58:16 GMT",
+      "feed_index": 58
+    },
+    {
+      "id": "23ac762969de4c2af70f5fc6bd1e8610e5ed2f0c18fb76d29a22316ccbee6807",
+      "guid": "ckx93mc430km80954o747mmm1",
+      "title": {
+        "text": "EP116 倒錯異鄉人",
+        "truncated": false
+      },
+      "description": {
+        "text": "馬桶重新開放 歌曲 Diane 表演者 Blueburn 小額贊助支持本節目： https://open.firstory.me/join/todayphilosophy 留言告訴我你對這一集的想法： https://open.firstory.me/story/ckx93mc430km80954o747mmm1?m=comment Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Fri, 17 Dec 2021 17:00:06 GMT",
+      "feed_index": 87
+    },
+    {
+      "id": "b02dd30acc54a6ee1be18ab44d4400df89fae304f870b5f25b0a6103c55fcb5b",
+      "guid": "ckpbebg87kmem0807u1cwrobg",
+      "title": {
+        "text": "EP88 零基礎、免會費 ！第二批判保證班",
+        "truncated": false
+      },
+      "description": {
+        "text": "康德、實踐理性批判、倫理學、義務論 表演者： LOUD HOUND 歌曲： Voicemail Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sun, 30 May 2021 16:26:57 GMT",
+      "feed_index": 115
+    },
+    {
+      "id": "7af0fda5d8e2d38acdbad0f50c9d97ea4ade25596ae97db24b62ee78b1791f13",
+      "guid": "c91dd6b7-7741-4989-9b48-7c7ec96aa611",
+      "title": {
+        "text": "EP59 賽博龐克式的自由",
+        "truncated": false
+      },
+      "description": {
+        "text": "歌曲 殭屍王 表演者 美秀集團 --- Send in a voice message: https://anchor.fm/todayphilosophy/message Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Wed, 23 Dec 2020 23:53:31 GMT",
+      "feed_index": 144
+    },
+    {
+      "id": "f7037f3c0a70217175007d554310131a6635f417c706d91249f083648c48ac16",
+      "guid": "8a6689c9-fece-4d21-8e78-82e192cb01f5",
+      "title": {
+        "text": "EP30 最強交友術",
+        "truncated": false
+      },
+      "description": {
+        "text": "零失敗、免會費，終生有效。 歌曲 Somebody Told Me (Radio Edit) 演出者 The Killers --- Send in a voice message: https://anchor.fm/todayphilosophy/message Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Tue, 22 Sep 2020 10:28:18 GMT",
+      "feed_index": 173
+    },
+    {
+      "id": "b622ff34d07db935ae9f423adff1694b7f0d1e69a60400e58ab793d837053c2e",
+      "guid": "cdd54344-574a-49bc-a1fa-c08be92999fc",
+      "title": {
+        "text": "EP1 仇女大將軍 叔本華",
+        "truncated": false
+      },
+      "description": {
+        "text": "為您提供最新的哲學資訊。 --- Send in a voice message: https://anchor.fm/todayphilosophy/message Powered by Firstory Hosting",
+        "truncated": false
+      },
+      "published_at": "Sat, 27 Jun 2020 15:01:42 GMT",
+      "feed_index": 202
+    }
+  ]
+}

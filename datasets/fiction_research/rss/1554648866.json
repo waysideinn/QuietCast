@@ -1,0 +1,27 @@
+{
+  "show_id": "1554648866",
+  "feed_url": "http://www.ximalaya.com/album/30743908.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/30743908.xml",
+    "final_url": "http://www.ximalaya.com/album/30743908.xml",
+    "fetched_at": "2026-10-25T14:42:38.188745+00:00",
+    "status": 200,
+    "sha256": "7efac52d7da880f5aeced49ee03102e81b73c16358b6fb74c3459a6575fb9314"
+  },
+  "status": "ok",
+  "title": {
+    "text": "寻秦记/黄易/2021年国语/玄幻穿越有声书",
+    "truncated": false
+  },
+  "description": {
+    "text": "小说《寻秦记》的有声书，我本人在网上找了好多个版本来听，都不是很满意，尤其是听到有人把书中人物的名字都读错了，我就很难受。查查字典又不是很困难的一回事。算了，我还是自己注册主播账号，自己读吧，虽然未必有声优的专业美声效果，但是原生态的语调，我自认为也挺好。希望听友们喜欢。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 0,
+  "episodes": []
+}

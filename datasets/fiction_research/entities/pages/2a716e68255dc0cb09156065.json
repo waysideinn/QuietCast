@@ -1,0 +1,362 @@
+{
+  "source": {
+    "url": "https://podcasts.apple.com/cn/grouping/197714",
+    "final_url": "https://podcasts.apple.com/cn/grouping/197714",
+    "fetched_at": "2026-10-26T07:50:53.532440+00:00",
+    "status": 200,
+    "sha256": "cfed0c90ca4bb128c93f2857d0ef57bc426b33762ed40ef64e842594ceb2c73d"
+  },
+  "status": "ok",
+  "data": {
+    "heading": "有声图书",
+    "shows": [
+      {
+        "apple_id": "1780511535",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%98%8E%E6%9C%9D%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/id1780511535",
+        "title": "诙谐语言解读三百年风云兴衰 听明朝真实面貌在此鲜活重现"
+      },
+      {
+        "apple_id": "1765082057",
+        "url": "https://podcasts.apple.com/cn/podcast/%E4%B8%80%E5%8F%A5%E9%A1%B6%E4%B8%80%E4%B8%87%E5%8F%A5/id1765082057",
+        "title": "刘震云书写乡村小人物故事 一出一回延宕百年追梦之路"
+      },
+      {
+        "apple_id": "1765080753",
+        "url": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%B2%94%E5%8F%A3%7C%E5%91%A8%E5%BE%B7%E4%B8%9C%E6%82%AC%E7%96%91%E6%8E%A8%E7%90%86%E5%8A%9B%E4%BD%9C%E5%90%88%E9%9B%86/id1765080753",
+        "title": "著名悬疑推理作家惊悚力作 惊人复仇计划引出重重谜团"
+      },
+      {
+        "apple_id": "1765104464",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%8E%86%E5%8F%B2%E5%BF%85%E8%AF%BB%E4%B9%A6%E4%B8%A8100%E9%83%A8%E7%BB%8F%E5%85%B8/id1765104464",
+        "title": "百部经典带你读懂前人智慧 四大板块洞察历史不同方面"
+      },
+      {
+        "apple_id": "1845815034",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%88%98%E4%BA%89%E4%B8%8E%E5%92%8C%E5%B9%B3/id1845815034",
+        "title": "小说"
+      },
+      {
+        "apple_id": "1829910107",
+        "url": "https://podcasts.apple.com/cn/podcast/%E4%B9%94%E5%B8%83%E6%96%AF%E4%BC%A0%7C%E4%B9%94%E5%B8%83%E6%96%AF%E4%BC%A0%E5%A5%87/id1829910107",
+        "title": "自我完善"
+      },
+      {
+        "apple_id": "1780510588",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E4%BA%BA%E7%94%9F%E4%B9%A6%E5%8D%95100%E6%9C%AC/id1780510588",
+        "title": "图书"
+      },
+      {
+        "apple_id": "1765082190",
+        "url": "https://podcasts.apple.com/cn/podcast/%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%E4%BD%9C%E5%93%8150%E6%9C%AC%E7%BB%8F%E5%85%B8/id1765082190",
+        "title": "图书"
+      },
+      {
+        "apple_id": "1765086236",
+        "url": "https://podcasts.apple.com/cn/podcast/%E8%A2%AB%E8%AE%A8%E5%8E%8C%E7%9A%84%E5%8B%87%E6%B0%94/id1765086236",
+        "title": "自我完善"
+      },
+      {
+        "apple_id": "1764275498",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%BC%A0%E7%88%B1%E7%8E%B2%E5%85%A8%E9%9B%86%E6%9C%89%E5%A3%B0%E5%89%A7-%7C-%E7%AC%AC%E4%B8%80%E7%82%89%E9%A6%99%E3%80%81%E5%80%BE%E5%9F%8E%E4%B9%8B%E6%81%8B%E5%8E%9F%E8%91%97/id1764275498",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765086501",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%98%BF%E5%BE%B7%E5%8B%92%E5%BF%83%E7%90%86%E5%AD%A6/id1765086501",
+        "title": "自我完善"
+      },
+      {
+        "apple_id": "1765080735",
+        "url": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E5%9B%BD%E6%9C%BA%E5%AF%86-%7C-%E9%A9%AC%E4%BC%AF%E5%BA%B8%E4%BD%9C%E5%93%81/id1765080735",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765080346",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%AB%98%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA%7C%E7%B4%AB%E9%87%91%E9%99%88%E4%BD%9C%E5%93%81/id1765080346",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765080544",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%AA%91%E5%A3%AB%E7%9A%84%E7%8C%AE%E7%A5%AD%7C%E9%82%A3%E5%A4%9A%E6%82%AC%E7%96%91%E9%9B%86/id1765080544",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1784187776",
+        "url": "https://podcasts.apple.com/cn/podcast/%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%7C%E9%A9%AC%E4%BC%AF%E5%BA%B8%E4%BD%9C%E5%93%81/id1784187776",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765077874",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%9D%8F%E5%B0%8F%E5%AD%A9%7C%E7%B4%AB%E9%87%91%E9%99%88%E4%BB%A3%E8%A1%A8%E4%BD%9C/id1765077874",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765080698",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%85%AB%E8%A7%92%E4%BA%AD%E8%B0%9C%E9%9B%BE/id1765080698",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765263271",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%B0%B8%E6%A1%88%E8%B0%83%E6%9F%A5%E7%A7%91%EF%BC%88%E5%85%A87%E5%86%8C%EF%BC%89/id1765263271",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1780513069",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%93%A6%E5%B0%94%E7%99%BB%E6%B9%96/id1780513069",
+        "title": "图书"
+      },
+      {
+        "apple_id": "1780510538",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%9C%88%E4%BA%AE%E4%B8%8E%E5%85%AD%E4%BE%BF%E5%A3%AB/id1780510538",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1780510503",
+        "url": "https://podcasts.apple.com/cn/podcast/%E3%80%8A%E5%91%BC%E5%85%B0%E6%B2%B3%E4%BC%A0%E3%80%8B%E6%9C%89%E5%A3%B0%E5%85%A8%E6%9C%AC%EF%BC%88%E8%B5%A0%E7%B2%BE%E8%AE%B2%E5%AF%BC%E8%AF%BB%EF%BC%89/id1780510503",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1780511009",
+        "url": "https://podcasts.apple.com/cn/podcast/%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84%E7%9B%96%E8%8C%A8%E6%AF%94/id1780511009",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765082329",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%AE%89%E5%A8%9C%E2%80%A2%E5%8D%A1%E5%88%97%E5%B0%BC%E5%A8%9C/id1765082329",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765096920",
+        "url": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%85%A8%E6%9C%AC%E6%9C%89%E5%A3%B0%E5%89%A7/id1765096920",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765082160",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%9F%BA%E7%9D%A3%E5%B1%B1%E4%BC%AF%E7%88%B5/id1765082160",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1780510890",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%B2%81%E8%BF%85%E6%95%A3%E6%96%87%E5%85%A8%E9%9B%86/id1780510890",
+        "title": "图书"
+      },
+      {
+        "apple_id": "1780512984",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A0%91%E6%9E%97%EF%BD%9C%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E8%8E%AB%E8%A8%80%E4%BD%9C%E5%93%81/id1780512984",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1764275566",
+        "url": "https://podcasts.apple.com/cn/podcast/%E4%B8%B0%E4%B9%B3%E8%82%A5%E8%87%80%EF%BC%88%E8%8E%AB%E8%A8%80%E6%9C%89%E5%A3%B0%E4%BD%9C%E5%93%81%E5%A4%A7%E7%B3%BB%EF%BC%8C%E6%9D%A8%E6%99%A8%E3%80%81%E5%BC%A0%E9%9C%87%E6%BC%94%E6%92%AD%EF%BC%89/id1764275566",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765103506",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95%E4%B8%8E%E4%B8%89%E5%8D%81%E5%85%AD%E8%AE%A1/id1765103506",
+        "title": "历史"
+      },
+      {
+        "apple_id": "1765096867",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%BA%A2%E6%A5%BC%E6%A2%A6/id1765096867",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1764275604",
+        "url": "https://podcasts.apple.com/cn/podcast/%E8%92%99%E6%9B%BC%E8%AE%B2%E7%BA%A2%E6%A5%BC%E6%A2%A6%EF%BD%9C%E7%99%BE%E5%AE%B6%E8%AE%B2%E5%9D%9B%E5%90%8D%E5%B8%88%E5%BC%80%E8%AE%B2%E7%BB%8F%E5%85%B8%E5%90%8D%E8%91%97/id1764275604",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1780512701",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%AB%98%E6%95%8F%E6%84%9F%E6%98%AF%E7%A7%8D%E5%A4%A9%E8%B5%8B/id1780512701",
+        "title": "自我完善"
+      },
+      {
+        "apple_id": "1780512704",
+        "url": "https://podcasts.apple.com/cn/podcast/%E8%87%AA%E5%8D%91%E4%B8%8E%E8%B6%85%E8%B6%8A/id1780512704",
+        "title": "自我完善"
+      },
+      {
+        "apple_id": "1765082300",
+        "url": "https://podcasts.apple.com/cn/podcast/%E4%B8%96%E7%95%8C%E5%90%8D%E8%91%97%E7%B2%BE%E8%AF%BB100%E6%9C%AC%7C%E6%9C%97%E8%AF%BB%E8%80%85%E3%80%81%E7%AE%80%E7%88%B1%E3%80%81%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E7%AD%89%E7%BB%8F%E5%85%B8%E6%96%87%E5%AD%A6%E5%90%8D%E8%91%97/id1765082300",
+        "title": "图书"
+      },
+      {
+        "apple_id": "1780512639",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%A7%98%E5%AF%86%EF%BC%9A%E7%88%B1%E3%80%81%E5%81%A5%E5%BA%B7%E4%B8%8E%E9%87%91%E9%92%B1/id1780512639",
+        "title": "自我完善"
+      },
+      {
+        "apple_id": "1765082399",
+        "url": "https://podcasts.apple.com/cn/podcast/%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9A%E7%BB%8F%E5%85%B8%E6%9C%89%E5%A3%B0%E5%89%A7-%7C-%E4%B8%96%E7%95%8C%E5%90%8D%E6%A0%A1%E6%95%99%E6%8E%88%E9%80%90%E9%83%A8%E8%B5%8F%E6%9E%90/id1765082399",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765255892",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%81%87%E5%A6%82%E7%BB%99%E6%88%91%E4%B8%89%E5%A4%A9%E5%85%89%E6%98%8E/id1765255892",
+        "title": "纪实"
+      },
+      {
+        "apple_id": "1765097078",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%B2%BE%E8%AF%BB%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97%EF%BD%9C%E7%BA%A2%E6%A5%BC%E6%A2%A6%E3%80%81%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%81%E6%B0%B4%E6%B5%92%E4%BC%A0%E3%80%81%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89/id1765097078",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765096962",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%B5%81%E6%B2%99%E6%B2%B3%E8%AE%B2%E8%AF%97%E7%BB%8F/id1765096962",
+        "title": "艺术"
+      },
+      {
+        "apple_id": "1765096971",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%A9%AC%E7%91%9E%E8%8A%B3%E5%93%81%E8%AF%BB%E3%80%8A%E7%BA%A2%E6%A5%BC%E6%A2%A6%E3%80%8B/id1765096971",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765096994",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%B1%B1%E6%B2%B3%E5%94%90%E8%AF%97%EF%BC%9A%E6%9B%B9%E7%8E%89%E9%AA%9E%E7%BB%86%E8%AE%B2%E5%94%90%E8%AF%97100%E9%A6%96/id1765096994",
+        "title": "艺术"
+      },
+      {
+        "apple_id": "1765097308",
+        "url": "https://podcasts.apple.com/cn/podcast/%E8%A5%BF%E6%B8%B8%E7%9A%84%E9%98%B4%E8%B0%8B%EF%BC%9A%E8%A7%A3%E8%AF%BB%E8%A5%BF%E6%B8%B8%E8%AE%B0%E6%9C%AA%E8%A7%A3%E4%B9%8B%E8%B0%9C%E4%B8%A8%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E4%B8%A8%E5%A6%82%E6%9D%A5%E7%9A%84%E5%B1%80%E4%B8%A8%E5%8E%9F%E5%88%9B/id1765097308",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765097285",
+        "url": "https://podcasts.apple.com/cn/podcast/108%E4%B8%AA%E3%80%8A%E6%B0%B4%E6%B5%92%E4%BC%A0%E3%80%8B%E8%B0%9C%E5%9B%A2/id1765097285",
+        "title": "剧情"
+      },
+      {
+        "apple_id": "1765254856",
+        "url": "https://podcasts.apple.com/cn/podcast/%E8%AE%BA%E8%AF%AD%E8%AF%B4%E4%BB%80%E4%B9%88%7C%E6%A2%81%E5%86%AC%E8%AE%B2%E8%AE%BA%E8%AF%AD/id1765254856",
+        "title": "图书"
+      },
+      {
+        "apple_id": "1765259417",
+        "url": "https://podcasts.apple.com/cn/podcast/%E9%80%BB%E8%BE%91%E8%A1%A8%E8%BE%BE%E5%8A%9B/id1765259417",
+        "title": "自我完善"
+      },
+      {
+        "apple_id": "1765086413",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%BC%97%E6%B4%9B%E4%BC%8A%E5%BE%B7%E3%80%8A%E6%A2%A6%E7%9A%84%E8%A7%A3%E6%9E%90%E3%80%8B%E5%AE%8C%E6%95%B4%E8%AF%91%E6%9C%AC%EF%BC%8C%E6%BC%AB%E9%95%BF%E7%9A%84%E5%AD%A3%E8%8A%82%E6%8E%A8%E8%8D%90%EF%BD%9C%E5%8D%9A%E9%9B%86%E6%96%B0%E5%AA%92/id1765086413",
+        "title": "自我完善"
+      },
+      {
+        "apple_id": "1765086512",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%A7%AF%E6%9E%81%E5%BF%83%E7%90%86%E8%AF%BE%EF%BC%9A%E5%81%9A%E4%B8%AA%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E6%88%90%E5%B9%B4%E4%BA%BA/id1765086512",
+        "title": "自我完善"
+      },
+      {
+        "apple_id": "1765259597",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%A8%8A%E7%99%BB%E8%A7%A3%E8%AF%BB%EF%BC%9A20%E6%9C%AC%E4%B9%A6%E5%8A%A9%E4%BD%A0%E7%AA%81%E7%A0%B4%E4%BA%8B%E4%B8%9A%E7%93%B6%E9%A2%88/id1765259597",
+        "title": "自我完善"
+      },
+      {
+        "apple_id": "1765260084",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%A4%8D%E7%9B%98%E4%B8%A8%E4%B8%8D%E6%87%82%E5%A4%8D%E7%9B%98%EF%BC%8C%E5%86%8D%E5%8A%AA%E5%8A%9B%E9%83%BD%E6%98%AF%E4%BD%8E%E6%B0%B4%E5%B9%B3/id1765260084",
+        "title": "自我完善"
+      },
+      {
+        "apple_id": "1765259441",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%BC%A0%E5%BE%B7%E8%8A%AC%E5%BF%83%E7%81%B5%E6%88%90%E9%95%BF%E8%AF%BE/id1765259441",
+        "title": "自我完善"
+      },
+      {
+        "apple_id": "1764275501",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%8F%8D%E8%84%86%E5%BC%B1%E4%B8%A8%E5%81%9C%E6%AD%A2%E5%BF%83%E7%90%86%E5%86%85%E8%80%97%EF%BC%8C%E5%81%9A%E4%B8%80%E4%B8%AA%E5%86%85%E5%BF%83%E5%BC%BA%E5%A4%A7%E7%9A%84%E4%BA%BA/id1764275501",
+        "title": "自我完善"
+      },
+      {
+        "apple_id": "1845815287",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%8F%98%E5%BD%A2%E8%AE%B0/id1845815287",
+        "title": ""
+      },
+      {
+        "apple_id": "1845815270",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%AF%8D%E9%99%A2/id1845815270",
+        "title": ""
+      },
+      {
+        "apple_id": "1845815133",
+        "url": "https://podcasts.apple.com/cn/podcast/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/id1845815133",
+        "title": ""
+      },
+      {
+        "apple_id": "1845815008",
+        "url": "https://podcasts.apple.com/cn/podcast/%E7%BE%8E%E4%B8%BD%E6%96%B0%E4%B8%96%E7%95%8C/id1845815008",
+        "title": ""
+      },
+      {
+        "apple_id": "1845814741",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%B0%8F%E5%A6%87%E4%BA%BA/id1845814741",
+        "title": ""
+      },
+      {
+        "apple_id": "1845815150",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%8C%85%E6%B3%95%E5%88%A9%E5%A4%AB%E4%BA%BA/id1845815150",
+        "title": ""
+      },
+      {
+        "apple_id": "1821384654",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%82%89%E8%BE%BE%E5%A4%9A/id1821384654",
+        "title": ""
+      },
+      {
+        "apple_id": "1765082304",
+        "url": "https://podcasts.apple.com/cn/podcast/%E8%9B%99-%E8%8E%AB%E8%A8%80%E4%BD%9C%E5%93%81-%E6%9D%A8%E6%99%A8-%E5%BC%A0%E9%9C%87%E6%BC%94%E6%92%AD/id1765082304",
+        "title": ""
+      },
+      {
+        "apple_id": "1809084780",
+        "url": "https://podcasts.apple.com/cn/podcast/%E4%B9%A6%E5%B2%9B-%E4%BA%BA%E7%94%9F%E6%B5%B7%E6%B5%B7-%E7%B2%BE%E5%93%81%E6%9C%89%E5%A3%B0%E5%89%A7/id1809084780",
+        "title": ""
+      },
+      {
+        "apple_id": "1765082283",
+        "url": "https://podcasts.apple.com/cn/podcast/%E5%BA%9F%E9%83%BD-%E8%B4%BE%E5%B9%B3%E5%87%B9%E9%95%BF%E7%AF%87%E7%BB%8F%E5%85%B8/id1765082283",
+        "title": ""
+      },
+      {
+        "apple_id": "1795920652",
+        "url": "https://podcasts.apple.com/cn/podcast/%E4%B8%89%E4%BD%93/id1795920652",
+        "title": ""
+      },
+      {
+        "apple_id": "1809084845",
+        "url": "https://podcasts.apple.com/cn/podcast/%E6%88%91%E8%B5%B0%E5%85%A5%E5%AE%81%E9%9D%99%E8%94%9A%E8%93%9D%E7%9A%84%E6%97%A5%E5%AD%90/id1809084845",
+        "title": ""
+      }
+    ],
+    "channels": [
+      {
+        "apple_channel_id": "6670304506",
+        "url": "https://podcasts.apple.com/cn/channel/%E8%AF%91%E6%96%87%E6%9C%89%E5%A3%B0-%E7%99%BE%E9%83%A8%E4%B8%96%E7%95%8C%E7%BB%8F%E5%85%B8/id6670304506",
+        "name": "用声音演绎百部世界文学瑰宝，让文字为经典赋予新生。 免费单集"
+      },
+      {
+        "apple_channel_id": "6639609380",
+        "url": "https://podcasts.apple.com/cn/channel/%E6%96%87%E5%AD%A6%E6%98%9F%E7%A9%BA/id6639609380",
+        "name": "从不朽经典到先锋之作，带你畅游瑰丽文学世界。 免费单集"
+      },
+      {
+        "apple_channel_id": "6639609529",
+        "url": "https://podcasts.apple.com/cn/channel/%E6%96%87%E9%9F%B5%E5%8D%8E%E7%AB%A0/id6639609529",
+        "name": "穿越千年，品鉴中华文化瑰宝 【文韵华章VIP】想知道李白如何将酒入诗，谱写出千古绝唱吗？好奇曹雪芹笔下的大观园，究竟隐喻着怎样的人生百态？在字里行间感受中华文化的博大精深，在诗词歌赋中品味古人的风骨气节。 订阅我们，一同徜徉在文字的海洋中，在历史的长河里寻找永恒的智慧与美！ 更多精彩内容，上喜马拉雅官网：https:/"
+      },
+      {
+        "apple_channel_id": "6639614548",
+        "url": "https://podcasts.apple.com/cn/channel/%E5%BF%83%E7%90%86%E8%A7%A3%E7%A0%81/id6639614548",
+        "name": "探索心理学背后的奥秘，助你更好管理情绪、面对困境。 免费单集"
+      },
+      {
+        "apple_channel_id": "6639614666",
+        "url": "https://podcasts.apple.com/cn/channel/%E6%80%9D%E7%BB%B4%E5%AE%9E%E9%AA%8C%E5%AE%A4/id6639614666",
+        "name": "蜕变从今天开始！ 【思维实验室VIP】从时间管理到情绪调节，从专业技能到人际关系，这里有助您突破瓶颈的实用技巧，有引领您走向成功的真实案例。 点击订阅，找到适合自己的成长路径！ 更多精彩内容，上喜马拉雅官网：https://www.ximalaya.com/ 免费单集"
+      },
+      {
+        "apple_channel_id": "6639614482",
+        "url": "https://podcasts.apple.com/cn/channel/%E5%9B%BD%E5%AD%A6%E6%96%B0%E7%9F%A5/id6639614482",
+        "name": "跨越时空听古今，深入传统典籍窥见华夏先贤人生智慧。 免费单集"
+      }
+    ]
+  }
+}

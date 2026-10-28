@@ -1,0 +1,42 @@
+{
+  "show_id": "1586443746",
+  "feed_url": "http://www.ximalaya.com/album/53040825.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/53040825.xml",
+    "final_url": "http://www.ximalaya.com/album/53040825.xml",
+    "fetched_at": "2026-10-25T14:54:08.824821+00:00",
+    "status": 200,
+    "sha256": "2bc3ee581ab16ff46da34a4acabe54d2ab8d2e7d1379eb17e7b7db0673270727"
+  },
+  "status": "ok",
+  "title": {
+    "text": "Kalahari小组项目化学习 - 开国元勋主题展",
+    "truncated": false
+  },
+  "description": {
+    "text": "本频道是上海市义务教育项目化学习三年行动计划（2020—2022年），东华大学附属实验学校试点，八年级组Kalahari小组的官方频道。 我们将此频道用于发布每期内容的Podcast版（稿件进行部分修改）。 我们不将收益收入等据为己有，部分将会为我们项目化学习的进展提供经费，另外多余的部分则会通过慈善机构捐献给有需要的人。",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 1,
+  "episodes": [
+    {
+      "id": "b48e52e238dc2bfd41bd8cc364979af9820122d4c7011b18ddefebd0398978ae",
+      "guid": "https://aod.cos.tx.xmcdn.com/storages/ca3c-audiofreehighqps/B4/91/CKwRINsFFbfYACCEywDi2R2e.m4a",
+      "title": {
+        "text": "第一期 - 南湖革命纪念馆",
+        "truncated": false
+      },
+      "description": {
+        "text": "本期Podcast是Kalahari小组于暑期探访浙江省南湖革命纪念馆的Podcast 部分内容较视频版有修改 欲了解视频版内容，请至以下平台播放： https://www.bilibili.com/video/BV1Uo4y1Q72i https://www.youtube.com/watch?v=g-sD0DZ4hI8&t=32s",
+        "truncated": false
+      },
+      "published_at": "Tue, 14 Sep 2021 01:03:13 GMT",
+      "feed_index": 0
+    }
+  ]
+}

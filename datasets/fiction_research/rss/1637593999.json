@@ -1,0 +1,140 @@
+{
+  "show_id": "1637593999",
+  "feed_url": "https://feeds.soundon.fm/podcasts/573f0a6f-07b2-400a-9141-ea85f09c4089.xml",
+  "source": {
+    "url": "https://feeds.soundon.fm/podcasts/573f0a6f-07b2-400a-9141-ea85f09c4089.xml",
+    "final_url": "https://feeds.soundon.fm/podcasts/573f0a6f-07b2-400a-9141-ea85f09c4089.xml",
+    "fetched_at": "2026-10-25T14:56:07.978302+00:00",
+    "status": 200,
+    "sha256": "a067dc5b44c532a2f98af42569204e0e747d80be5fb0a4e31cc2e2603f5cc5ac"
+  },
+  "status": "ok",
+  "title": {
+    "text": "DOC來開槓！你不知道的大小事",
+    "truncated": false
+  },
+  "description": {
+    "text": "#屏東#臺東#澎湖 #你不知道的在地大小事 想聽聽看在臺灣不同鄉鎮的角落裡，隱藏著什麼樣的歷史故事、什麼樣的秘密旅遊景點、什麼樣的在地新聞嗎？什麼都講，什麼都不隱藏，你想知道的通通告訴你！ -- Hosting provided by SoundOn",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh",
+    "type": "Episodic",
+    "explicit": "no"
+  },
+  "feed_item_count": 54,
+  "episodes": [
+    {
+      "id": "98614a016393c38088f784d1b0e65362eb834ef1534c6b96f83e3ffc428a3daa",
+      "guid": "0181459b-a83e-4101-b11e-f6c0672fd940",
+      "title": {
+        "text": "EP55 ｜【萬巒DOC】聲聲細品萬金-湯保香ft.魏啟軒",
+        "truncated": false
+      },
+      "description": {
+        "text": "聽完這集《聲聲細品萬金》，包你口水直流、雙腳蠢蠢欲動！ 主持人阿香與在地青年阿軒，要帶你開箱大武山腳下的寶藏小鎮。節目不僅大方分享「不用排隊」的萬巒豬腳口袋名單與神級吃法，還要偷偷告訴你聖誕節去萬金聖母聖殿的私房停車秘笈！這裡除了有百年歷史的教堂，更有結合閩南、客家、馬卡道族與越南新住民的豐富多元文化；別忘了順道去佳和村，品嚐拿獎拿到手軟的世界級屏東巧克力！下次別吃完豬腳就拍拍屁股走人，跟著這趟聲音旅程深度漫步吧！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 25 Aug 2026 07:36:08 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "b43d699c7fdbacc5bf2fd90b17d6411482f0d893e92e79fda6e1c6c952d01a55",
+      "guid": "e7331fa3-7ba4-4deb-b834-966198f68ffc",
+      "title": {
+        "text": "EP46 ｜【關山DOC】長興45農園_陳佳吟 ft蘇桂仙",
+        "truncated": false
+      },
+      "description": {
+        "text": "長興45農園位於臺東關山紅石部落，現由蘇桂仙經營。農園前身是其父母所創立的長興竹行，早期主要從事竹子、竹片外銷。隨著產業變遷，農園致力於延續竹藝文化並結合觀光，發展出多元的竹藝DIY體驗，將其成功轉型。此外，積極參與社區活動，攜手在地婦女與志工推動竹藝手作、社區導覽及在地飲食體驗，讓大家可以更深入認識當地的文化。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Wed, 30 Jul 2025 05:42:34 GMT",
+      "feed_index": 8
+    },
+    {
+      "id": "eb95f7d9fd51c077b713faa00b52fddf137e96f15f6754001ecc77532c1f201f",
+      "guid": "c788dec4-b23b-431f-a34f-2e864ea7f101",
+      "title": {
+        "text": "EP39 ｜ 【內埔DOC】老埤出好味！從紅藜到雞油蔥酥都自己來_郭玥嫺 ft.林玉美",
+        "truncated": false
+      },
+      "description": {
+        "text": "老埤社區以馬卡道族的傳統文化為根基，逐步發展出獨具地方特色的產品。從種植原生紅藜、製作紅藜風味捲，到飼養土雞並加工成雞油蔥酥與辣椒醬，建立起一條從生產到加工的「自給自足」體系。 在林玉美理事長的號召下，居民踴躍投入，尤其是熱心的長輩志工們，更是捲起袖子親自下田參與紅藜栽種。他們對參與社區事務和產品研發充滿熱情，感受到自己的付出被看見，心中滿是成就感。有些平時在家忙碌的主婦，也因為產品開發第一次拿起麥克風，甚至參加了廚藝競賽，學習了嶄新的技能。 雖然大家在加工和行銷上還在學習，但透過這樣的產業規劃，不但幫助長輩增加收入，也讓社區更有凝聚力。賺到的錢會拿來辦活動、修設備、照顧長輩，還希望能開技能課，讓大家學一技之長，甚至創業。這些產品讓傳統文化延續下來，也為社區帶來新活力。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 22 May 2025 02:15:25 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "abe431299e5abd076ccf3db2b9c01eece9c736e0499458c1bce18a92ba9be6af",
+      "guid": "afe0462f-95c6-4823-b817-9249c0cd9600",
+      "title": {
+        "text": "EP31｜【萬巒DOC】聽見信仰的聲音：萬金聖母聖殿的歷史回響-林駿毅 ft. 潘世華",
+        "truncated": false
+      },
+      "description": {
+        "text": "萬金聖母聖殿是臺灣最古老的教堂，更是屏東萬巒鄉居民的信仰中心。這座融合西班牙古堡式建築與在地特色的聖殿，自清同治年間創建以來，就一直是當地重要的地標。 每年12月的主保瞻禮，更是吸引眾多信徒前來朝聖，一同參與盛大的宗教活動。對於萬巒鄉的居民來說，萬金聖母聖殿不僅是宗教信仰的寄託，更是凝聚社區情感的重要場所。這座古蹟不只是建築，更是承載著無數故事與情感的活歷史。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 02 Sep 2024 03:35:13 GMT",
+      "feed_index": 23
+    },
+    {
+      "id": "2d23ebc36d9dcd3ddb868734867547327042d5332a4fb9b1bd88ada57e7e885f",
+      "guid": "0c1103a9-b4d3-4eb4-8ab4-6a66d23b47c1",
+      "title": {
+        "text": "EP24 ｜【內埔DOC】一顆顆麥香撲鼻的麵包，每口都是幸福味道-郭姐手作 ft. 郭奕伶",
+        "truncated": false
+      },
+      "description": {
+        "text": "「用最天然的食材，分享讓家人一吃直呼幸福的手工麵包！」 人稱郭姐的郭奕伶老闆娘，她對烘焙的熱愛，讓她一頭栽入學習知識與技術，加上對飲食健康的重視，從麵粉、果乾的嚴格把關，到菌種的培養、麵團發酵，每個環節毫不馬虎，因此每天新鮮出爐、麥香十足、口感鬆軟的麵包，成功擄獲許多麵包控的心！ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Mon, 27 Nov 2023 06:25:41 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "35963da4c144d644d0f164786f6093c11836b8080257477b35600678179996f8",
+      "guid": "72043fe7-19d6-40f7-8a4a-7f72ab805584",
+      "title": {
+        "text": "EP16 ｜【長治DOC】護庄衛民–義勇恩公廟傳奇 ft.周文寬、趙英如",
+        "truncated": false
+      },
+      "description": {
+        "text": "每年的農曆十二月初三，來到長治鄉繁華地區，會發現家家戶戶都在忙著備牲禮祭拜。 原來，這一天是社區內「番仔寮義勇恩公廟」的18名義勇恩公忌日。 究竟，義勇恩公廟背後是有什麼樣偉大的故事，讓在地民眾願意年年祭拜呢？ -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Thu, 29 Jun 2023 07:23:45 GMT",
+      "feed_index": 38
+    },
+    {
+      "id": "5eedde87fba6d9ad009010cbff86340ad0fbce15f9034b95ee33f00609449fc6",
+      "guid": "f9e523b7-3569-4deb-82ff-661321ead886",
+      "title": {
+        "text": "EP9 ｜【佳冬DOC】四句閩南俚語，帶你體驗人生哲理 - 陳宣丞ft.周翠萍、陳英美、曾義妹",
+        "truncated": false
+      },
+      "description": {
+        "text": "由佳冬DOC策畫的「老仙角播客秀」，這次邀請到三位阿嬤，要來跟大家分享四句有趣的閩南俚語：「膨風水蛙殺沒肉」、「要勤儉才不會唸、要來撿才不用借」、「草繩長長拖咱公、拖咱伯」、「頂巷教兒下巷乖」，每一句俚語的背後都隱藏了深厚的意涵，一起來聽阿嬤們聊聊人生哲理吧！ 配樂來源: –––––––––––––––––––––––––––––– Campfire by Roa https://soundcloud.com/roa_music1031 Creative Commons — Attribution 3.0 Unported — CC BY 3.0 Free Download / Stream: http://bit.ly/al-campfire Music promoted by Audio Library https://youtu.be/lxdDvNO5aD0 –––––––––––––––––––––––––––––– -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 11 Apr 2023 02:19:46 GMT",
+      "feed_index": 45
+    },
+    {
+      "id": "331d59bca67b11499d37a1bb890ac9b8099eb6a42c10b5a73a3e0ebe80f3aacf",
+      "guid": "04256930-03ab-4c6d-a896-1fc75a71d1e7",
+      "title": {
+        "text": "EP1 ｜澎湖【湖西DOC】湖西頌 - 一首詞曲道盡湖西鄉的故事 ft.辛天澤",
+        "truncated": false
+      },
+      "description": {
+        "text": "#澎湖 #湖西DOC #湖西頌 湖西頌，是道盡湖西鄉當地的人、事、時、地、物及慶典、氣候等，所創作出來的詞曲。湖西社區發展協會 辛天澤 理事長，利用道地的澎湖湖西腔的臺語，將湖西頌朗誦出來，透過字字句句的表達，讓人想像並了解當時在地人的生活、心情模樣與歷史故事。 -- Hosting provided by SoundOn",
+        "truncated": false
+      },
+      "published_at": "Tue, 02 Aug 2022 07:42:36 GMT",
+      "feed_index": 53
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "source": {
+    "url": "http://www.ximalaya.com/album/4268473.xml",
+    "final_url": "http://www.ximalaya.com/album/4268473.xml",
+    "fetched_at": "2026-10-26T07:54:09.746223+00:00",
+    "status": 200,
+    "sha256": "0241ec1acc46fa7e50904e52b8c2817e621fad1aad849eea127a244dbb91aa05"
+  },
+  "status": "ok",
+  "data": {
+    "title": {
+      "text": "【《锁子》 荆棘鸟】幻思系有声科幻小说",
+      "truncated": false
+    },
+    "description": {
+      "text": "【出品】@ 幻思系 【作者】@荆棘鸟 【监制】@非我非非我 【演播】贰飞",
+      "truncated": false
+    },
+    "language": "zh-cn",
+    "credits": [
+      {
+        "field": "copyright",
+        "role": "copyright_notice_claim",
+        "value": "幻思系（幻思文化） @喜马拉雅FM"
+      },
+      {
+        "field": "{http://www.itunes.com/dtds/podcast-1.0.dtd}author",
+        "role": "itunes_author_creator_claim",
+        "value": "幻思系"
+      },
+      {
+        "field": "itunes:owner/name",
+        "role": "rss_owner_name_claim",
+        "value": "幻思系"
+      }
+    ],
+    "itunes_category_paths": [
+      [
+        "Arts"
+      ],
+      [
+        "Arts",
+        "Literature"
+      ],
+      [
+        "Society & Culture"
+      ],
+      [
+        "Society & Culture",
+        "Personal Journals"
+      ],
+      [
+        "TV & Film"
+      ]
+    ],
+    "channel_link": "https://www.ximalaya.com/album/4268473",
+    "generator": "",
+    "sampled_audio_endpoint_hosts": {
+      "jt.ximalaya.com": 8
+    },
+    "feed_item_count": 9,
+    "episodes": [
+      {
+        "title": {
+          "text": "【《锁子 序》 荆棘鸟】女声版 幻思系有声科幻小说",
+          "truncated": false
+        },
+        "description": {
+          "text": "http://huansixi.com/",
+          "truncated": false
+        },
+        "feed_index": 0,
+        "guid": "https://aod.cos.tx.xmcdn.com/group13/M04/5D/0C/wKgDXlcpjF6Rhr0-AFC_ioN_iEw747.m4a"
+      },
+      {
+        "title": {
+          "text": "【《锁子01》 荆棘鸟】幻思系有声科幻小说",
+          "truncated": false
+        },
+        "description": {
+          "text": "http://huansixi.com/",
+          "truncated": false
+        },
+        "feed_index": 1,
+        "guid": "https://aod.cos.tx.xmcdn.com/group9/M00/5F/CC/wKgDZlcsdn6BXRIyAEPbAuZ2CpQ452.m4a"
+      },
+      {
+        "title": {
+          "text": "【《锁子02》 荆棘鸟】幻思系有声科幻小说",
+          "truncated": false
+        },
+        "description": {
+          "text": "【出品】 幻思系 【监制】非我非非我",
+          "truncated": false
+        },
+        "feed_index": 2,
+        "guid": "https://aod.cos.tx.xmcdn.com/group9/M06/64/03/wKgDZlcwuVCywkRFAD0TukVzW2c195.m4a"
+      },
+      {
+        "title": {
+          "text": "【《锁子03》 荆棘鸟】幻思系有声科幻小说",
+          "truncated": false
+        },
+        "description": {
+          "text": "【出品】@ 幻思系 【监制】@非我非非我",
+          "truncated": false
+        },
+        "feed_index": 3,
+        "guid": "https://aod.cos.tx.xmcdn.com/group8/M00/64/46/wKgDYVcxq5TxQDV3AFEx_7FFdVY542.m4a"
+      },
+      {
+        "title": {
+          "text": "【《锁子05》 荆棘鸟】幻思系有声科幻小说",
+          "truncated": false
+        },
+        "description": {
+          "text": "",
+          "truncated": false
+        },
+        "feed_index": 5,
+        "guid": "https://aod.cos.tx.xmcdn.com/group10/M03/62/5B/wKgDZ1c0YTOSWb8lAElYRZFYnj4661.m4a"
+      },
+      {
+        "title": {
+          "text": "【《锁子06》 荆棘鸟】幻思系有声科幻小说",
+          "truncated": false
+        },
+        "description": {
+          "text": "幻思系 有声科幻小说",
+          "truncated": false
+        },
+        "feed_index": 6,
+        "guid": "https://aod.cos.tx.xmcdn.com/group11/M00/5D/EB/wKgDa1c5fSzDm9zZAEr46WhahgI848.m4a"
+      },
+      {
+        "title": {
+          "text": "【《锁子07》 荆棘鸟】幻思系有声科幻小说",
+          "truncated": false
+        },
+        "description": {
+          "text": "幻思系 有声科幻小说",
+          "truncated": false
+        },
+        "feed_index": 7,
+        "guid": "https://aod.cos.tx.xmcdn.com/group7/M02/6D/C9/wKgDX1c60XqClnGbANYFWeJSw94703.mp3"
+      },
+      {
+        "title": {
+          "text": "【《锁子08》 荆棘鸟】幻思系有声科幻小说",
+          "truncated": false
+        },
+        "description": {
+          "text": "【出品】@幻思系 【作者】@荆棘鸟 【监制】@非我非非我 【演播】贰飞",
+          "truncated": false
+        },
+        "feed_index": 8,
+        "guid": "https://aod.cos.tx.xmcdn.com/group7/M08/6F/A2/wKgDX1c8Yn3BLJAfAE_fCp65_2M888.m4a"
+      }
+    ]
+  }
+}

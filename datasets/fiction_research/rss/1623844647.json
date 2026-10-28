@@ -1,0 +1,140 @@
+{
+  "show_id": "1623844647",
+  "feed_url": "http://www.ximalaya.com/album/56305797.xml",
+  "source": {
+    "url": "http://www.ximalaya.com/album/56305797.xml",
+    "final_url": "http://www.ximalaya.com/album/56305797.xml",
+    "fetched_at": "2026-10-25T14:44:19.421485+00:00",
+    "status": 200,
+    "sha256": "0330d6e889a1642290ff9e2797db8d89c18a95e4a8ca2caadc49f9c577785c0a"
+  },
+  "status": "ok",
+  "title": {
+    "text": "亲爱的绵羊先生 | 甜宠 | 娱乐圈 | 多人剧",
+    "truncated": false
+  },
+  "description": {
+    "text": "大型多播甜撩剧 不想蛀牙不要听",
+    "truncated": false
+  },
+  "metadata": {
+    "language": "zh-cn",
+    "type": "episodic",
+    "explicit": "false"
+  },
+  "feed_item_count": 105,
+  "episodes": [
+    {
+      "id": "19ec5d91d98b7581077de55bc2f75e841d139a6775f7692c82d650cad4378675",
+      "guid": "xmly_track_492217145",
+      "title": {
+        "text": "亲爱的绵羊先生 第1章 当红男星姜时晏-上（新书“人体魔方”上架,欢迎收听）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 13 Jan 2022 17:18:35 GMT",
+      "feed_index": 0
+    },
+    {
+      "id": "631909859a18e7f7782494c8db1b59700d5661bad236555484d78d66fb53d302",
+      "guid": "xmly_track_496879597",
+      "title": {
+        "text": "亲爱的绵羊先生 第15章 啊啊啊啊哥哥太帅",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Thu, 27 Jan 2022 10:26:56 GMT",
+      "feed_index": 15
+    },
+    {
+      "id": "df9439ea8287ec96b5ce51415bfdebec579555d6d7a480fcfa4ec3c7758d670d",
+      "guid": "xmly_track_510762520",
+      "title": {
+        "text": "亲爱的绵羊先生 第30章 搭车",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 14 Mar 2022 07:46:39 GMT",
+      "feed_index": 30
+    },
+    {
+      "id": "9ab2c4ee1687e558e032f2e8e130c39504f8df253103143d675efe9623609b0a",
+      "guid": "xmly_track_519831920",
+      "title": {
+        "text": "亲爱的绵羊先生 第45章 某人还说我上次吃太多",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Sat, 09 Apr 2022 08:16:32 GMT",
+      "feed_index": 45
+    },
+    {
+      "id": "67d59bb920cf5bf6a84b686cba1f8a8b497549424b3aae5454b259941c1c3f4b",
+      "guid": "xmly_track_529130331",
+      "title": {
+        "text": "亲爱的绵羊先生 第59章 要不要出来见一面",
+        "truncated": false
+      },
+      "description": {
+        "text": "甜吧？ 喜欢本专辑请订阅+点赞+五星好评哟~ (～o￣3￣)～",
+        "truncated": false
+      },
+      "published_at": "Sun, 15 May 2022 12:00:00 GMT",
+      "feed_index": 59
+    },
+    {
+      "id": "5d87e6c9d871f59c4d29e8b8f3fad2aed869c3fdabdb6447d1578fefa205e750",
+      "guid": "xmly_track_581083405",
+      "title": {
+        "text": "亲爱的绵羊先生 第74章 我是清华北大得不到的人",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Tue, 01 Nov 2022 06:00:00 GMT",
+      "feed_index": 74
+    },
+    {
+      "id": "9dc9cde58a5c52f47d3cf6144c11e79e5a1863ef99ec474a94288c8d562607e8",
+      "guid": "xmly_track_589372301",
+      "title": {
+        "text": "亲爱的绵羊先生 第90章 小姑娘送你的",
+        "truncated": false
+      },
+      "description": {
+        "text": "继续撒甜甜的糖~",
+        "truncated": false
+      },
+      "published_at": "Mon, 21 Nov 2022 06:00:00 GMT",
+      "feed_index": 89
+    },
+    {
+      "id": "43c8315d5e8e882b1c7b7875b6c1fb2fa067f1471364df87f28edb5fd3da86ac",
+      "guid": "xmly_track_667480933",
+      "title": {
+        "text": "亲爱的绵羊先生 第105集 甜甜的味道（新书“人体魔方”上架,欢迎收听）",
+        "truncated": false
+      },
+      "description": {
+        "text": "",
+        "truncated": false
+      },
+      "published_at": "Mon, 02 Oct 2023 06:00:00 GMT",
+      "feed_index": 104
+    }
+  ]
+}

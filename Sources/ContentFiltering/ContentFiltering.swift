@@ -195,6 +195,30 @@ public struct ContentFilter: Sendable {
     public let now: Date
     public init(rules: RuleSet?, policy: ParentalPolicy, now: Date = Date()) { self.rules = rules; self.policy = policy; self.now = now }
     public func evaluate(show: Podcast, episode: Episode? = nil) -> FilterResult {
+        evaluate(show: show, episode: episode, prepared: nil)
+    }
+    /// Share immutable show metadata/signals across an RSS's episodes, never across policies or dates.
+    public func prepare(show: Podcast) -> PreparedShowFilter { PreparedShowFilter(filter: self, show: show) }
+    /// Earliest time-dependent decision boundary. Display caches expire here, including across relaunch.
+    public func nextChangeDate(shows: [Podcast]) -> Date? {
+        var dates: [Date] = []
+        let active = (rules?.categories ?? []).filter { $0.enabled && policy.enabledCategoryIDs.contains($0.id) }
+        for category in active {
+            for rule in category.publisherRules ?? [] {
+                if let date = AdvancedRulesValidator.date(rule.expiresAt), date > now { dates.append(date) }
+                if let date = AdvancedRulesValidator.date(rule.confirmation.at), date > now { dates.append(date) }
+            }
+            let age = Double((category.recognition ?? RecognitionConfiguration()).metadataMaxAgeDays) * 86400
+            for show in shows {
+                let observations = (show.classificationObservations ?? []).map(\.observedAt) + (show.publisherIdentities ?? []).map(\.observedAt)
+                for date in observations {
+                    for boundary in [date.addingTimeInterval(-300), date.addingTimeInterval(age)] where boundary > now { dates.append(boundary) }
+                }
+            }
+        }
+        return dates.min()
+    }
+    fileprivate func evaluate(show: Podcast, episode: Episode?, prepared: PreparedShowFilter?) -> FilterResult {
         let version = rules?.ruleVersion ?? "unavailable"
         func simple(_ d: Decision, _ reason: String) -> FilterResult { .simple(d, version: version, reason: reason) }
         guard policy.enabled else { return simple(.allow, "过滤已关闭") }
@@ -207,7 +231,7 @@ public struct ContentFilter: Sendable {
         }
         if policy.showBlocklist.contains(show.id) { return simple(.block, "家长节目禁止") }
         if policy.showAllowlist.contains(show.id) { return simple(.allow, "家长节目允许") }
-        if let category = blockedCategory(for: show) {
+        if let category = prepared.map({ $0.blockedCategory }) ?? blockedCategory(for: show) {
             var denied = simple(.block, "家长禁用分类：\(category.title)")
             var evidence = RuleEvidence(ruleID: "parent-apple-category", kind: "parentCategory", fields: [.showCategories], value: category.path.joined(separator: " / "), contribution: 0)
             evidence.family = "appleCategories"; evidence.matchedIdentity = category.appleID
@@ -219,10 +243,10 @@ public struct ContentFilter: Sendable {
         }
         if categories.contains(where: { $0.showBlocklist.contains(show.id) }) { return simple(.block, "词库节目黑名单") }
         if categories.contains(where: { $0.showAllowlist.contains(show.id) }) { return simple(.allow, "词库节目白名单") }
-        let fields: [ContentField: String] = [
-            .showTitle: show.title + "\n" + (show.directoryTitle ?? ""), .showDescription: show.summary, .showCategories: show.categories.joined(separator: "\n"), .author: show.author,
-            .episodeTitle: episode?.title ?? "", .episodeDescription: episode?.summary ?? "", .rssMetadata: show.metadata + "\n" + (episode?.metadata ?? "")
-        ].mapValues(TextNormalizer.normalize)
+        var fields = prepared?.fields ?? Self.showFields(show)
+        fields[.episodeTitle] = TextNormalizer.normalize(episode?.title ?? "")
+        fields[.episodeDescription] = TextNormalizer.normalize(episode?.summary ?? "")
+        fields[.rssMetadata] = TextNormalizer.normalize(show.metadata + "\n" + (episode?.metadata ?? ""))
         for term in policy.customKeywords {
             let word = TextNormalizer.normalize(term)
             let matched = ContentField.allCases.filter { !word.isEmpty && fields[$0, default: ""].contains(word) }
@@ -235,7 +259,7 @@ public struct ContentFilter: Sendable {
         var overall = simple(show.hasRSSMetadata ? .allow : .review, show.hasRSSMetadata ? "未达到限制阈值" : "目录信息不完整，需先获取 RSS 元数据")
         for c in categories {
             let config = c.recognition ?? RecognitionConfiguration()
-            let signals = AdvancedSignals.evaluate(c, show: show, now: now)
+            let signals = prepared?.signals[c.id] ?? AdvancedSignals.evaluate(c, show: show, now: now)
             var keywordFields = fields
             if signals.evidence.contains(where: { $0.family == "appleCategories" && $0.kind != "staleMetadata" }) { keywordFields[.showCategories] = "" }
             if signals.evidence.contains(where: { $0.family == "publishers" && $0.kind == "publisher" }) { keywordFields[.author] = "" }
@@ -314,6 +338,26 @@ public struct ContentFilter: Sendable {
         return nil
     }
     private func rank(_ d: Decision) -> Int { d == .block ? 2 : d == .review ? 1 : 0 }
+    fileprivate static func showFields(_ show: Podcast) -> [ContentField: String] {
+        [.showTitle: show.title + "\n" + (show.directoryTitle ?? ""), .showDescription: show.summary,
+         .showCategories: show.categories.joined(separator: "\n"), .author: show.author].mapValues(TextNormalizer.normalize)
+    }
+}
+
+public struct PreparedShowFilter: Sendable {
+    fileprivate let filter: ContentFilter
+    fileprivate let show: Podcast
+    fileprivate let blockedCategory: PodcastCategory?
+    fileprivate let fields: [ContentField: String]
+    fileprivate let signals: [String: AdvancedSignals]
+    fileprivate init(filter: ContentFilter, show: Podcast) {
+        self.filter = filter; self.show = show
+        blockedCategory = filter.blockedCategory(for: show); fields = ContentFilter.showFields(show)
+        signals = Dictionary(uniqueKeysWithValues: (filter.rules?.categories ?? [])
+            .filter { $0.enabled && filter.policy.enabledCategoryIDs.contains($0.id) }
+            .map { ($0.id, AdvancedSignals.evaluate($0, show: show, now: filter.now)) })
+    }
+    public func evaluate(episode: Episode? = nil) -> FilterResult { filter.evaluate(show: show, episode: episode, prepared: self) }
 }
 
 public enum AccessEntry: String, Codable, CaseIterable, Sendable {

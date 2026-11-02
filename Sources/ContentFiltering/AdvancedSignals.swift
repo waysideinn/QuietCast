@@ -1,7 +1,7 @@
 import Foundation
 import PodcastModels
 
-struct AdvancedSignals {
+struct AdvancedSignals: Sendable {
     var evidence: [RuleEvidence] = []
     var categoryScore = 0.0
     var publisherScore = 0.0

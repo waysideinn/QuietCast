@@ -76,6 +76,7 @@ struct DownloadsView: View {
                 if !completed.isEmpty {
                     Text("这些是已经下载到本地的节目，无需网络即可收听").font(.subheadline).foregroundStyle(.secondary)
                     ForEach(completed) { record in EpisodeRow(episode: record.episode, entry: .download) }
+                    if store.preparingPresentation { ProgressView("正在补充本机单集…") }
                 } else if store.preparingPresentation { ProgressView("正在整理下载…") }
                 else { EmptyViewMessage(icon: "arrow.down.circle", title: "还没有已完成的下载", detail: "下载完成后会显示在这里。") }
             }
@@ -104,6 +105,6 @@ struct DownloadsView: View {
             }
         }.navigationTitle("下载").navigationBarTitleDisplayMode(.inline)
             .task { await manager.validateLocalFiles() }
-            .refreshable { await manager.validateLocalFiles() }
+            .refreshable { await manager.validateLocalFiles(force: true) }
     }
 }

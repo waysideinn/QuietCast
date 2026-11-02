@@ -2,6 +2,94 @@ import Combine
 import PodcastCore
 import SwiftUI
 import UniformTypeIdentifiers
+import UIKit
+
+@MainActor
+final class ParentExceptionFeedback: ObservableObject {
+    enum State: Equatable { case idle, saving, success(String), failure(String) }
+    @Published private(set) var state = State.idle
+    var busy: Bool { state == .saving }
+    func allow(success: String, action: @escaping @MainActor () async throws -> Void) {
+        guard !busy else { return }
+        state = .saving
+        Task {
+            // Give SwiftUI a frame to render saving/disabled controls before the Keychain transaction.
+            try? await Task.sleep(nanoseconds: 30_000_000)
+            do { try await action(); state = .success(success); announce(success) }
+            catch { let text = "允许失败：\(error.localizedDescription)"; state = .failure(text); announce(text) }
+        }
+    }
+    private func announce(_ text: String) { UIAccessibility.post(notification: .announcement, argument: text) }
+}
+
+@MainActor
+struct BlockedRecordDetailView: View {
+    @EnvironmentObject private var store: AppStore
+    @StateObject private var feedback: ParentExceptionFeedback
+    let event: BlockEvent
+    let grant: ParentGrant
+    init(event: BlockEvent, grant: ParentGrant, feedback: ParentExceptionFeedback? = nil) {
+        self.event = event; self.grant = grant
+        _feedback = StateObject(wrappedValue: feedback ?? ParentExceptionFeedback())
+    }
+    private var showAllowed: Bool { store.policy.showAllowlist.contains(event.show.id) && !store.policy.showBlocklist.contains(event.show.id) }
+    private var episodeAllowed: Bool { event.episode.map { store.policy.episodeAllowlist.contains($0.id) && !store.policy.episodeBlocklist.contains($0.id) } ?? false }
+    var body: some View {
+        ScrollViewReader { proxy in
+        Form {
+            Section("记录内容") {
+                Text(event.show.title).font(.headline)
+                if let episode = event.episode { Text(episode.title) }
+                Text("入口：\(event.entry.rawValue)"); Text(event.date, style: .date)
+            }
+            Section("当前授权状态") {
+                Label(showAllowed ? "节目：已允许" : store.policy.showBlocklist.contains(event.show.id) ? "节目：已单独禁止" : "节目：未设置允许例外", systemImage: showAllowed ? "checkmark.circle.fill" : "circle")
+                    .accessibilityIdentifier("parent.showStatus")
+                if let episode = event.episode {
+                    Text(episodeAllowed ? "单集：已单独允许，仅对此单集生效" : store.policy.episodeBlocklist.contains(episode.id) ? "单集：已单独禁止，节目允许不会覆盖此限制" : showAllowed ? "单集：随节目允许" : "单集：未设置允许例外")
+                        .accessibilityIdentifier("parent.episodeStatus")
+                }
+                Text("当前判定：\(store.result(show: event.show, episode: event.episode).reason)")
+            }
+            Section("纠正拦截") {
+                if let episode = event.episode {
+                    Button {
+                        feedback.allow(success: "已允许这个单集，仅对此单集生效。请重新执行播放或下载。") {
+                            try store.setException(show: event.show, episode: episode, allow: true, grant: grant)
+                        }
+                    } label: {
+                        HStack { if feedback.busy { ProgressView() }; Text(feedback.busy ? "正在保存授权…" : episodeAllowed ? "已允许这个单集" : "允许这个单集") }
+                    }.disabled(feedback.busy || episodeAllowed).accessibilityIdentifier("parent.allowEpisode")
+                }
+                Button {
+                    feedback.allow(success: "已允许这个节目；单集单独禁止仍然有效。请重新执行播放或下载。") {
+                        try store.setException(show: event.show, episode: nil, allow: true, grant: grant)
+                    }
+                } label: {
+                    HStack { if feedback.busy { ProgressView() }; Text(feedback.busy ? "正在保存授权…" : showAllowed ? "已允许这个节目" : "允许这个节目") }
+                }.disabled(feedback.busy || showAllowed).accessibilityIdentifier("parent.allowShow")
+                Text("节目例外适用于整个节目；单集例外只适用于当前单集。记录中的原拦截原因会保留。").font(.footnote).foregroundStyle(.secondary)
+                Group { switch feedback.state {
+                case .idle: EmptyView()
+                case .saving: ProgressView("正在保存家长授权…").accessibilityIdentifier("parent.feedback")
+                case .success(let text): Label(text, systemImage: "checkmark.circle.fill").foregroundStyle(.green).accessibilityIdentifier("parent.feedback")
+                case .failure(let text): Label(text, systemImage: "exclamationmark.triangle.fill").foregroundStyle(.red).accessibilityIdentifier("parent.feedback")
+                } }.id("parent.feedback").captureLayout("parent.feedback")
+            }
+            Section("当时的拦截原因") { VerdictView(result: event.result) }
+        }.navigationTitle("拦截记录详情").navigationBarTitleDisplayMode(.inline)
+            .onChange(of: feedback.state) { _ in revealFeedback(proxy) }
+            .onAppear { revealFeedback(proxy) }
+        }
+    }
+    private func revealFeedback(_ proxy: ScrollViewProxy) {
+        guard feedback.state != .idle else { return }
+        Task { @MainActor in
+            await Task.yield()
+            withAnimation { proxy.scrollTo("parent.feedback", anchor: .center) }
+        }
+    }
+}
 
 @MainActor
 struct ParentAccessView<Content: View>: View {
@@ -167,14 +255,14 @@ struct ParentSettingsView: View {
             Section {
                 NavigationLink("被拦截记录（\(store.blockEvents.count)）") {
                     List(store.blockEvents) { event in
-                        NavigationLink { Form { Text(event.show.title).font(.headline); if let ep = event.episode { Text(ep.title) }; Text("入口：\(event.entry.rawValue)"); Text(event.date, style: .date); VerdictView(result: event.result); Button("纠正：允许此内容") { perform { try store.setException(show: event.show, episode: event.episode, allow: true, grant: grant) } }; Button("允许整个节目") { perform { try store.setException(show: event.show, episode: nil, allow: true, grant: grant) } } } } label: { VStack(alignment: .leading) { Text(event.episode?.title ?? event.show.title); Text(event.result.reason).font(.caption).foregroundStyle(.secondary) } }
+                        NavigationLink { BlockedRecordDetailView(event: event, grant: grant) } label: { VStack(alignment: .leading) { Text(event.episode?.title ?? event.show.title); Text(event.result.reason).font(.caption).foregroundStyle(.secondary) } }
                     }.navigationTitle("拦截记录")
                 }
             }
             Section("修改家长 PIN") {
                 SecureField("新 PIN（6～12 位数字）", text: $newPIN).keyboardType(.numberPad)
                 SecureField("确认新 PIN", text: $confirmPIN).keyboardType(.numberPad)
-                Button("保存新 PIN") { Keyboard.dismiss(); perform { try store.authority?.changePIN(newPIN, confirmation: confirmPIN, grant: grant); newPIN = ""; confirmPIN = "" } }
+                Button("保存新 PIN") { Keyboard.dismiss(); perform { try store.authority?.changePIN(newPIN, confirmation: confirmPIN, grant: grant); store.revalidate(); newPIN = ""; confirmPIN = "" } }
             }
             if let error { Section { Text(error).foregroundStyle(.red) } }
         }.navigationTitle("家长管理")

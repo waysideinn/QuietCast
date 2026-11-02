@@ -54,6 +54,7 @@ final class UIRedesignTests: XCTestCase {
         let root = try temporary()
         let transport = StubTransport([.data(200, Data(#"{"results":[]}"#.utf8))])
         let store = AppStore(rootURL: root, http: HTTPClient(transport: transport, directoryInterval: 0), parentAuthority: try ParentAuthority(store: MemorySecureStore()))
+        await store.waitForPresentation()
         store.change { $0.searchHistory = ["旧资料保留兼容"] }
         store.search("科学", country: "CN")
         try await Task.sleep(nanoseconds: 100_000_000)
@@ -69,6 +70,7 @@ final class UIRedesignTests: XCTestCase {
         let authority = try ParentAuthority(store: MemorySecureStore())
         let grant = try authority.setup(pin: "246813", confirmation: "246813", recoveryAcknowledged: true)
         let store = AppStore(rootURL: try temporary(), parentAuthority: authority)
+        await store.waitForPresentation()
         let show = Podcast(feedURL: URL(string: "https://example.com/policy")!, title: "科学节目", hasRSSMetadata: true)
         let episode = Episode(podcastID: show.id, guid: "policy", title: "科学访谈", audioURL: URL(string: "https://example.com/policy.mp3")!)
         store.change { $0.merge(Feed(podcast: show, episodes: [episode])); $0.favorites.insert(episode.id); $0.queue = [episode.id]; $0.subscriptions.insert(show.id) }
@@ -87,12 +89,13 @@ final class UIRedesignTests: XCTestCase {
         let records = [ep.id: DownloadRecord(id: ep.id, episode: ep, status: .downloaded, fileExtension: "mp3")]
         try JSONEncoder().encode(records).write(to: root.appendingPathComponent("manifest.json"))
         let manager = DownloadManager(directory: root, sessionIdentifier: "org.quietcast.ui-tests." + UUID().uuidString)
+        await manager.waitUntilReady()
         XCTAssertNil(manager.localURL(ep.id)); XCTAssertEqual(manager.records[ep.id]?.status, .failed)
         XCTAssertFalse(manager.availableDownloadIDs.contains(ep.id))
     }
     @MainActor func testFirstKeyboardReturnCommitsChineseAndStartsUnifiedSearchWithoutRegionChange() async throws {
         let transport = RegionalSearchTransport()
-        let store = try makeFixture(http: HTTPClient(transport: transport, directoryInterval: 0))
+        let store = try await makeFixture(http: HTTPClient(transport: transport, directoryInterval: 0))
         defer { store.player.unload() }
         _ = try await capture(NavigationStack { HomeView() }.environmentObject(store), size: CGSize(width: 375, height: 667), name: "first-keyboard-search") { view in
             let field = try XCTUnwrap(self.descendants(view).compactMap { $0 as? UITextField }.first { $0.accessibilityIdentifier == "explore.search" })
@@ -133,11 +136,13 @@ final class UIRedesignTests: XCTestCase {
         let grant = try authority.setup(pin: "246813", confirmation: "246813", recoveryAcknowledged: true)
         let http = HTTPClient(transport: StubTransport([.data(200, Data(#"{"results":[]}"#.utf8))]), directoryInterval: 0)
         let store = AppStore(rootURL: root, http: http, parentAuthority: authority)
+        await store.waitForPresentation()
         store.search("科学"); store.search("历史"); store.search("科学"); store.search("")
         let records = try store.parentSearchRecords(grant: grant)
         XCTAssertEqual(records.map(\.term), ["科学", "历史"]); XCTAssertEqual(records.first?.count, 2)
         XCTAssertTrue(store.library.searchHistory.isEmpty)
         let reopened = AppStore(rootURL: root, http: http, parentAuthority: authority)
+        await reopened.waitForPresentation()
         XCTAssertEqual(try reopened.parentSearchRecords(grant: grant), records)
         _ = try await capture(NavigationStack { ParentSearchHistoryView(grant: grant) }.environmentObject(store), size: CGSize(width: 375, height: 667), name: "parent-search-history")
         authority.lock()
@@ -149,12 +154,13 @@ final class UIRedesignTests: XCTestCase {
         try store.deleteSearchRecords(grant: newGrant)
         XCTAssertTrue(try store.parentSearchRecords(grant: newGrant).isEmpty)
         let cleared = AppStore(rootURL: root, http: http, parentAuthority: authority)
+        await cleared.waitForPresentation()
         XCTAssertTrue(try cleared.parentSearchRecords(grant: newGrant).isEmpty)
         await store.flushPersistence(); await reopened.flushPersistence(); await cleared.flushPersistence()
     }
     @MainActor func testLateCancelledSearchCannotOverwriteNewResultsOrRestoreClearedSearch() async throws {
         let transport = LateSearchTransport()
-        let store = try makeFixture(http: HTTPClient(transport: transport, directoryInterval: 0))
+        let store = try await makeFixture(http: HTTPClient(transport: transport, directoryInterval: 0))
         defer { store.player.unload() }
         store.search("旧词")
         let started = Date().addingTimeInterval(2)
@@ -172,7 +178,7 @@ final class UIRedesignTests: XCTestCase {
         await store.flushPersistence()
     }
     @MainActor func testHomeBottomStaysVisibleAfterScrollingStops() async throws {
-        let store = try makeFixture()
+        let store = try await makeFixture()
         defer { store.player.unload() }
         await store.waitForPresentation()
         let oldTab = UserDefaults.standard.object(forKey: "navigation.selectedSection")
@@ -192,7 +198,7 @@ final class UIRedesignTests: XCTestCase {
     @MainActor func testShowMoreEpisodesStaysVisibleAfterScrollingStops() async throws {
         let rss = Data("<rss xmlns:itunes=\"http://www.itunes.com/dtds/podcast-1.0.dtd\"><channel><title>嗑嗑科学</title><itunes:category text=\"Science\"/></channel></rss>".utf8)
         let transport = StubTransport([.data(200, rss)])
-        let store = try makeFixture(http: HTTPClient(transport: transport, directoryInterval: 0))
+        let store = try await makeFixture(http: HTTPClient(transport: transport, directoryInterval: 0))
         defer { store.player.unload() }
         let show = try XCTUnwrap(store.library.podcasts[store.player.episode!.podcastID])
         store.change { library in
@@ -244,7 +250,7 @@ final class UIRedesignTests: XCTestCase {
         XCTAssertEqual(scroll.contentOffset.y, max(-scroll.adjustedContentInset.top, scroll.contentSize.height - scroll.bounds.height + scroll.adjustedContentInset.bottom), accuracy: 1)
     }
     @MainActor func testPlayerFirstScreenAndRootDockLayouts() async throws {
-        let store = try makeFixture()
+        let store = try await makeFixture()
         await store.waitForPresentation()
         defer { store.player.unload(); LayoutDiagnostics.activeID = nil }
         if let scene = UIApplication.shared.connectedScenes.compactMap({ $0 as? UIWindowScene }).first {
@@ -300,12 +306,72 @@ final class UIRedesignTests: XCTestCase {
         XCTAssertNil(frames["miniPlayer"]); XCTAssertNotNil(frames["bottomTabs"])
         await store.flushPersistence()
     }
+    @MainActor func testBlockedRecordFeedbackPersistsScopePreventsDuplicatesAndReportsFailure() async throws {
+        let root = try temporary(), secure = MemorySecureStore()
+        let authority = try ParentAuthority(store: secure)
+        let grant = try authority.setup(pin: "246813", confirmation: "246813", recoveryAcknowledged: true)
+        let store = AppStore(rootURL: root, parentAuthority: authority)
+        await store.waitForPresentation()
+        let show = Podcast(feedURL: URL(string: "https://example.com/blocked")!, title: "小说朗读", hasRSSMetadata: true)
+        let one = Episode(podcastID: show.id, guid: "one", title: "小说朗读一", audioURL: URL(string: "https://example.com/one.mp3")!)
+        let two = Episode(podcastID: show.id, guid: "two", title: "小说朗读二", audioURL: URL(string: "https://example.com/two.mp3")!)
+        store.change { $0.merge(Feed(podcast: show, episodes: [one, two])); $0.favorites = [one.id, two.id]; $0.queue = [one.id, two.id] }
+        var policy = store.policy; policy.showBlocklist = [show.id]; try store.updatePolicy(policy, grant: grant)
+        let event = BlockEvent(show: show, episode: one, entry: .playback, result: store.result(show: show, episode: one))
+        let feedback = ParentExceptionFeedback()
+        var actions = 0
+        feedback.allow(success: "已允许单集") {
+            actions += 1
+            try await Task.sleep(nanoseconds: 50_000_000)
+            try store.setException(show: show, episode: one, allow: true, grant: grant)
+        }
+        XCTAssertEqual(feedback.state, .saving)
+        feedback.allow(success: "不应重复") { actions += 1 }
+        while feedback.busy { try await Task.sleep(nanoseconds: 10_000_000) }
+        XCTAssertEqual(actions, 1); XCTAssertEqual(feedback.state, .success("已允许单集"))
+        XCTAssertEqual(store.result(show: show, episode: one).decision, .allow)
+        XCTAssertEqual(store.result(show: show, episode: two).decision, .block)
+        XCTAssertTrue(store.policy.showBlocklist.contains(show.id))
+        await store.waitForPresentation()
+        XCTAssertEqual(store.presentation.favorites.map(\.id), [one.id])
+        _ = try await capture(NavigationStack { BlockedRecordDetailView(event: event, grant: grant, feedback: feedback) }.environmentObject(store), size: CGSize(width: 375, height: 667), name: "parent-allowed-episode") { try await self.waitForFeedback(in: $0) }
+        // A show exception must not clear an independently blocked episode.
+        try store.setException(show: show, episode: two, allow: false, grant: grant)
+        try store.setException(show: show, episode: nil, allow: true, grant: grant)
+        XCTAssertEqual(store.result(show: show).decision, .allow)
+        XCTAssertEqual(store.result(show: show, episode: two).decision, .block)
+        let reopened = try ParentAuthority(store: secure)
+        XCTAssertTrue(reopened.policy.episodeAllowlist.contains(one.id)); XCTAssertTrue(reopened.policy.showAllowlist.contains(show.id))
+        secure.rejectWrites = true
+        feedback.allow(success: "不能成功") { try store.setException(show: show, episode: two, allow: true, grant: grant) }
+        while feedback.busy { try await Task.sleep(nanoseconds: 10_000_000) }
+        guard case .failure(let failure) = feedback.state else { return XCTFail("Expected visible storage failure") }
+        XCTAssertTrue(failure.contains("允许失败")); XCTAssertTrue(store.policy.episodeBlocklist.contains(two.id))
+        _ = try await capture(NavigationStack { BlockedRecordDetailView(event: event, grant: grant, feedback: feedback) }.environmentObject(store), size: CGSize(width: 375, height: 667), name: "parent-allow-failure") { try await self.waitForFeedback(in: $0) }
+        secure.rejectWrites = false; authority.lock()
+        feedback.allow(success: "不能过期授权") { try store.setException(show: show, episode: two, allow: true, grant: grant) }
+        while feedback.busy { try await Task.sleep(nanoseconds: 10_000_000) }
+        guard case .failure(let expired) = feedback.state else { return XCTFail("Expected expired grant failure") }
+        XCTAssertTrue(expired.contains("过期")); XCTAssertTrue(store.policy.episodeBlocklist.contains(two.id))
+        await store.flushPersistence()
+    }
+    @MainActor private func waitForFeedback(in view: UIView) async throws {
+        let deadline = Date().addingTimeInterval(2)
+        while Date() < deadline {
+            view.layoutIfNeeded()
+            if let frame = LayoutDiagnostics.frames["parent.feedback"], !frame.isEmpty, frame.minY >= 0, frame.maxY <= view.bounds.height { return }
+            try await Task.sleep(nanoseconds: 50_000_000)
+        }
+        let frame = try XCTUnwrap(LayoutDiagnostics.frames["parent.feedback"])
+        XCTAssertGreaterThanOrEqual(frame.minY, 0)
+        XCTAssertLessThanOrEqual(frame.maxY, view.bounds.height, "Authorization feedback must scroll into view on a small phone")
+    }
     private func temporary() throws -> URL {
         let root = FileManager.default.temporaryDirectory.appendingPathComponent("QuietCastUI-" + UUID().uuidString)
         try FileManager.default.createDirectory(at: root, withIntermediateDirectories: true)
         addTeardownBlock { try? FileManager.default.removeItem(at: root) }; return root
     }
-    @MainActor private func makeFixture(http: HTTPClient = HTTPClient()) throws -> AppStore {
+    @MainActor private func makeFixture(http: HTTPClient = HTTPClient()) async throws -> AppStore {
         let root = try temporary()
         var state = LibraryState(), snapshot = DiscoverySnapshot()
         let names = ["嗑嗑科学", "历史的回声", "生活观察", "科技与未来", "科学会客厅", "城市漫游", "自然之声", "周末读书"]
@@ -334,6 +400,7 @@ final class UIRedesignTests: XCTestCase {
         try AtomicLibraryStore(url: root.appendingPathComponent("library.json")).save(state)
         try DiscoveryCacheStore(url: root.appendingPathComponent("discovery.json")).save(snapshot)
         let store = AppStore(rootURL: root, http: http, parentAuthority: try ParentAuthority(store: MemorySecureStore()))
+        await store.waitForPresentation()
         store.discoveryCountry = "CN"
         return store
     }

@@ -14,7 +14,7 @@ git switch main
 open QuietCast.xcodeproj
 ```
 
-安装完整 Xcode 后，按 README 运行核心测试、模拟器构建和 `Scripts/build-ipa.sh`。需要恢复固定版本时，先 `git tag --list`，再 `git switch --detach v1.1.2`。继续开发可从该版本创建自己的新分支。
+安装完整 Xcode 后，按 README 运行核心测试、模拟器构建和 `Scripts/build-ipa.sh`。需要恢复固定版本时，先 `git tag --list`，再 `git switch --detach v1.1.3`。继续开发可从该版本创建自己的新分支。
 
 首次上传之后，**先在另一个目录从远端完整克隆并检查源码、词库、文档和标签**，再决定是否删除旧本地目录。最占空间的 `build/`、`.build/` 是可重建缓存；本次上传任务不会自动删除它们。若有唯一的手机沙盒备份或尚未发布的版本记录，请先另外加密保存。Git 不会恢复 App 手机端状态。
 

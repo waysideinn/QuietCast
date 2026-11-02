@@ -33,6 +33,14 @@ struct DownloadRecord: Codable, Identifiable, Equatable, Sendable {
     @Published private(set) var records: [String: DownloadRecord] = [:]
     @Published private(set) var diskUsage: Int64 = 0
     @Published private(set) var orderedIDs: [String] = []
+    @Published private(set) var initializing = true
+    private var initializationTask: Task<Void, Never>?
+    private var validationTask: Task<Void, Never>?
+    private var validatedAt: Date?
+    private var transfersRestored = false
+    private let writer: DownloadIndexWriter
+    private var pendingWrite: Task<Void, Never>?
+    private(set) var validationCount = 0
     private var indexRevision: UInt64 = 0
     private(set) var availableDownloadIDs: Set<String> = []
     var storageLimit: Int64 = 3_000_000_000
@@ -48,34 +56,36 @@ struct DownloadRecord: Codable, Identifiable, Equatable, Sendable {
         return URLSession(configuration: c, delegate: self, delegateQueue: queue)
     }()
     init(directory: URL, sessionIdentifier: String = DownloadManager.sessionID) {
-        self.directory = directory; self.sessionIdentifier = sessionIdentifier; super.init()
-        do {
-            try FileManager.default.createDirectory(at: directory, withIntermediateDirectories: true)
-            var values = URLResourceValues(); values.isExcludedFromBackup = true
-            var dir = directory; try dir.setResourceValues(values)
-            let manifest = directory.appendingPathComponent("manifest.json")
-            if FileManager.default.fileExists(atPath: manifest.path) { records = try JSONDecoder().decode([String: DownloadRecord].self, from: Data(contentsOf: manifest)) }
-            for id in records.keys where records[id]?.status == .downloaded && records[id]?.fileExtension == nil {
-                let legacy = fileURL(id)
-                if FileManager.default.fileExists(atPath: legacy.path), let ext = try? OfflineFiles.mediaExtension(at: legacy, sourceURL: records[id]?.episode.audioURL), ext != "audio" {
-                    let destination = OfflineFiles(directory: directory).fileURL(id, fileExtension: ext)
-                    try FileManager.default.moveItem(at: legacy, to: destination); records[id]?.fileExtension = ext
-                }
-            }
-            for id in records.keys where records[id]?.status == .downloaded && !FileManager.default.fileExists(atPath: fileURL(id).path) { records[id]?.status = .failed; records[id]?.error = "下载文件已丢失，请重新下载" }
-            persist()
-        } catch { DispatchQueue.main.async { [weak self] in self?.onError?("下载索引读取失败：\(error.localizedDescription)") } }
-        recalculate()
+        self.directory = directory; self.sessionIdentifier = sessionIdentifier
+        writer = DownloadIndexWriter(url: directory.appendingPathComponent("manifest.json"))
+        super.init()
+        let loader = Task.detached(priority: .userInitiated) { DownloadBootstrap.load(directory: directory) }
+        initializationTask = Task { [weak self] in
+            let value = await loader.value
+            guard let self else { return }
+            self.records = value.records; self.orderedIDs = value.orderedIDs; self.diskUsage = value.diskUsage
+            self.availableDownloadIDs = Set(value.records.values.filter { $0.status == .downloaded }.map(\.id))
+            self.validatedAt = Date(); self.initializing = false
+            if value.changed { self.persist() }
+            if let error = value.error { self.onError?(error) }
+        }
+    }
+    func waitUntilReady() async { await initializationTask?.value }
+    func flushPersistence() async { await waitUntilReady(); await pendingWrite?.value }
+    /// AppStore installs the live access gate and loaded library before reconnecting background transfers.
+    func restoreTransfers() {
+        guard !transfersRestored else { return }; transfersRestored = true
         session.getAllTasks { [weak self] all in
             DispatchQueue.main.async { [weak self] in
                 guard let self else { return }
+                var changed = false
                 for task in all {
                     guard let id = task.taskDescription, let download = task as? URLSessionDownloadTask,
                           self.records[id] != nil, self.authorize?(id) == true else { task.cancel(); continue }
                     self.tasks[id] = download
                 }
-                for id in self.records.keys where self.records[id]?.status == .downloading && self.tasks[id] == nil { self.records[id]?.status = .paused }
-                self.persist()
+                for id in self.records.keys where self.records[id]?.status == .downloading && self.tasks[id] == nil { self.records[id]?.status = .paused; changed = true }
+                if changed { self.persist() }
             }
         }
     }
@@ -85,18 +95,29 @@ struct DownloadRecord: Codable, Identifiable, Equatable, Sendable {
         guard records[id]?.status == .downloaded, FileManager.default.fileExists(atPath: fileURL(id).path) else { return nil }
         return fileURL(id)
     }
-    func validateLocalFiles() async {
+    func validateLocalFiles(force: Bool = false) async {
+        await waitUntilReady()
+        if let validationTask { await validationTask.value; return }
+        guard force || Date().timeIntervalSince(validatedAt ?? .distantPast) >= 60 else { return }
         let revision = indexRevision
         let files = records.values.filter { $0.status == .downloaded }.map { ($0.id, fileURL($0.id)) }
-        let missing = await Task.detached(priority: .utility) {
-            files.filter { !FileManager.default.fileExists(atPath: $0.1.path) }.map { $0.0 }
-        }.value
-        guard revision == indexRevision else { return }
-        for id in missing { records[id]?.status = .failed; records[id]?.error = "下载文件已丢失，请重新下载" }
-        if !missing.isEmpty { persist() }
+        validationCount += 1
+        validationTask = Task { [weak self] in
+            let missing = await Task.detached(priority: .utility) {
+                files.filter { !FileManager.default.fileExists(atPath: $0.1.path) }.map { $0.0 }
+            }.value
+            guard let self else { return }
+            defer { self.validationTask = nil }
+            guard revision == self.indexRevision else { return }
+            self.validatedAt = Date()
+            for id in missing { self.records[id]?.status = .failed; self.records[id]?.error = "下载文件已丢失，请重新下载" }
+            if !missing.isEmpty { self.persist() }
+        }
+        await validationTask?.value
     }
     func start(_ episode: Episode) {
-        guard authorize?(episode.id) == true, tasks[episode.id] == nil, localURL(episode.id) == nil else { return }
+        guard !initializing, authorize?(episode.id) == true, tasks[episode.id] == nil, localURL(episode.id) == nil else { return }
+        restoreTransfers()
         guard diskUsage < storageLimit else { onError?("下载空间达到上限，请清理或在设置中调整上限。"); return }
         let task: URLSessionDownloadTask
         if let resume = try? Data(contentsOf: resumeURL(episode.id)) { task = session.downloadTask(withResumeData: resume) }
@@ -197,7 +218,55 @@ struct DownloadRecord: Codable, Identifiable, Equatable, Sendable {
             guard let self, self.indexRevision == revision else { return }
             self.orderedIDs = ids
         }
-        do { try JSONEncoder().encode(records).write(to: directory.appendingPathComponent("manifest.json"), options: .atomic) }
-        catch { onError?("下载状态无法保存：\(error.localizedDescription)") }
+        let writer = writer
+        pendingWrite?.cancel()
+        pendingWrite = Task { [weak self] in
+            do { try await Task.sleep(nanoseconds: 100_000_000) } catch { return }
+            do { try await writer.save(snapshot, revision: revision) }
+            catch { self?.onError?("下载状态无法保存：\(error.localizedDescription)") }
+        }
+    }
+}
+
+private actor DownloadIndexWriter {
+    let url: URL
+    var savedRevision: UInt64 = 0
+    init(url: URL) { self.url = url }
+    func save(_ records: [String: DownloadRecord], revision: UInt64) throws {
+        guard revision > savedRevision else { return }
+        try JSONEncoder().encode(records).write(to: url, options: .atomic); savedRevision = revision
+    }
+}
+
+private struct DownloadBootstrap: Sendable {
+    var records: [String: DownloadRecord] = [:]
+    var orderedIDs: [String] = []
+    var diskUsage: Int64 = 0
+    var changed = false
+    var error: String?
+    static func load(directory: URL) -> Self {
+        var value = Self()
+        do {
+            try FileManager.default.createDirectory(at: directory, withIntermediateDirectories: true)
+            var flags = URLResourceValues(); flags.isExcludedFromBackup = true
+            var dir = directory; try dir.setResourceValues(flags)
+            let manifest = directory.appendingPathComponent("manifest.json"), files = OfflineFiles(directory: directory)
+            if FileManager.default.fileExists(atPath: manifest.path) { value.records = try JSONDecoder().decode([String: DownloadRecord].self, from: Data(contentsOf: manifest)) }
+            for id in value.records.keys where value.records[id]?.status == .downloaded {
+                if value.records[id]?.fileExtension == nil {
+                    let legacy = files.fileURL(id)
+                    if FileManager.default.fileExists(atPath: legacy.path), let ext = try? OfflineFiles.mediaExtension(at: legacy, sourceURL: value.records[id]?.episode.audioURL), ext != "audio" {
+                        try FileManager.default.moveItem(at: legacy, to: files.fileURL(id, fileExtension: ext)); value.records[id]?.fileExtension = ext; value.changed = true
+                    }
+                }
+                if !FileManager.default.fileExists(atPath: files.fileURL(id, fileExtension: value.records[id]?.fileExtension ?? "audio").path) {
+                    value.records[id]?.status = .failed; value.records[id]?.error = "下载文件已丢失，请重新下载"; value.changed = true
+                }
+            }
+            value.orderedIDs = value.records.values.sorted { $0.episode.title.localizedStandardCompare($1.episode.title) == .orderedAscending }.map(\.id)
+            let urls = try FileManager.default.contentsOfDirectory(at: directory, includingPropertiesForKeys: [.fileSizeKey])
+            value.diskUsage = urls.filter { OfflineFiles.audioExtensions.contains($0.pathExtension) || $0.pathExtension == "resume" }.reduce(0) { $0 + Int64((try? $1.resourceValues(forKeys: [.fileSizeKey]).fileSize) ?? 0) }
+        } catch { value.error = "下载索引读取失败：\(error.localizedDescription)" }
+        return value
     }
 }

@@ -55,6 +55,7 @@ struct ShowDetailView: View {
                 Section("单集") {
                     ForEach(Array(listedEpisodes.prefix(episodeLimit))) { EpisodeRow(episode: $0) }
                     if listedEpisodes.count > episodeLimit { Button("显示更多单集") { episodeLimit += 100 }.frame(minHeight: 44).accessibilityIdentifier("show.moreEpisodes").captureLayout("show.moreEpisodes") }
+                    if store.preparingPresentation { ProgressView("正在整理本机单集…") }
                     if listedEpisodes.isEmpty && !loading && !store.preparingPresentation { Text("暂无可显示单集").foregroundStyle(.secondary) }
                 }
             }

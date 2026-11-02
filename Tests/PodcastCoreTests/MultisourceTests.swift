@@ -21,6 +21,23 @@ final class MultisourceTests: XCTestCase {
     func publisher(status: String = "confirmed", scope: String = "allShows", role: String = "publisher", ids: [String] = [], action: String = "block") -> [String: Any] {
         ["id":"account-test","enabled":true,"identities":[["namespace":"apple.podcasts.artist","id":"123"]],"names":["创作团队"],"role":role,"scope":scope,"showIDs":ids,"action":action,"score":6,"confirmation":["status":status,"by":"test-reviewer","at":"2026-10-01T00:00:00Z","evidence":["test account evidence"]],"expiresAt":"2027-01-01T00:00:00Z","note":"Test-only account rule"]
     }
+    func testPreparedShowFilterMatchesLiveGateAcrossMetadataAndExceptions() throws {
+        let rules = try rules { $0["publisherRules"] = [publisher()] }
+        for show in [show(), show("小说朗读", id: "123", genre: "1483"), show(id: "456", observed: now.addingTimeInterval(-100 * 86400)), show(genre: "1533")] {
+            let episode = Episode(podcastID: show.id, guid: "prepared", title: "科学与小说朗读", audioURL: URL(string: "https://example.com/a.mp3")!)
+            var allowed = ParentalPolicy(); allowed.episodeAllowlist = [episode.id]
+            var denied = ParentalPolicy(); denied.showAllowlist = [show.id]; denied.episodeBlocklist = [episode.id]
+            var custom = ParentalPolicy(); custom.customKeywords = ["科学"]
+            for policy in [ParentalPolicy(), allowed, denied, custom] {
+                for date in [now, now.addingTimeInterval(365 * 86400)] {
+                    let filter = ContentFilter(rules: rules, policy: policy, now: date)
+                    let prepared = filter.prepare(show: show)
+                    XCTAssertEqual(prepared.evaluate(), filter.evaluate(show: show))
+                    XCTAssertEqual(prepared.evaluate(episode: episode), filter.evaluate(show: show, episode: episode))
+                }
+            }
+        }
+    }
     func testV11LoadsAndOldV10StillLoads() throws {
         XCTAssertEqual(try rules().schemaVersion,"1.1")
         let old = Bundle.module.url(forResource: "example-fiction", withExtension: "json", subdirectory: "Fixtures")!

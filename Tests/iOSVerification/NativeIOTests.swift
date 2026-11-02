@@ -105,8 +105,8 @@ final class NativeIOTests:XCTestCase {
         XCTAssertEqual(rules.schemaVersion,"1.1")
         XCTAssertEqual(rules.status,"production")
         XCTAssertEqual(rules.ruleVersion,"fiction-zh-2026-10-27-v1")
-        XCTAssertEqual(Bundle.main.object(forInfoDictionaryKey:"CFBundleShortVersionString") as? String,"1.1.2")
-        XCTAssertEqual(Bundle.main.object(forInfoDictionaryKey:"CFBundleVersion") as? String,"5")
+        XCTAssertEqual(Bundle.main.object(forInfoDictionaryKey:"CFBundleShortVersionString") as? String,"1.1.3")
+        XCTAssertEqual(Bundle.main.object(forInfoDictionaryKey:"CFBundleVersion") as? String,"6")
     }
     func testApplicationIdentityAndBackgroundAudioConfiguration() throws {
         XCTAssertEqual(Bundle.main.bundleIdentifier,"org.quietcast.family")
@@ -149,7 +149,7 @@ final class NativeIOTests:XCTestCase {
         allowed=false;player.resume();player.seek(15)
         XCTAssertFalse(player.isPlaying);XCTAssertEqual(player.position,9,accuracy:0.3)
     }
-    @MainActor func testLegacyDownloadIndexMigratesWithoutLosingAudio() throws {
+    @MainActor func testLegacyDownloadIndexMigratesWithoutLosingAudio() async throws {
         let root=try temporary()
         let show=Podcast(feedURL:URL(string:"https://verification.invalid/rss")!,title:"Legacy download",hasRSSMetadata:true)
         let episode=Episode(podcastID:show.id,guid:"legacy",title:"Legacy audio",audioURL:URL(string:"https://verification.invalid/opaque")!)
@@ -158,9 +158,11 @@ final class NativeIOTests:XCTestCase {
         let record=DownloadRecord(id:episode.id,episode:episode,status:.downloaded)
         try JSONEncoder().encode([episode.id:record]).write(to:root.appendingPathComponent("manifest.json"))
         let manager=DownloadManager(directory:root,sessionIdentifier:"org.quietcast.verification."+UUID().uuidString)
+        await manager.waitUntilReady()
         let local=try XCTUnwrap(manager.localURL(episode.id))
         XCTAssertEqual(local.pathExtension,"wav");XCTAssertEqual(try Data(contentsOf:local),wave())
         XCTAssertFalse(FileManager.default.fileExists(atPath:legacy.path))
+        await manager.flushPersistence()
         let saved=try JSONDecoder().decode([String:DownloadRecord].self,from:Data(contentsOf:root.appendingPathComponent("manifest.json")))
         XCTAssertEqual(saved[episode.id]?.fileExtension,"wav")
         manager.delete(episode.id);XCTAssertEqual(manager.diskUsage,0)
@@ -170,6 +172,7 @@ final class NativeIOTests:XCTestCase {
         let show=Podcast(feedURL:URL(string:"https://verification.invalid/rss")!,title:"Download verification",hasRSSMetadata:true)
         let episode=Episode(podcastID:show.id,guid:"download",title:"Local transfer verification",audioURL:remote)
         let manager=DownloadManager(directory:root.appendingPathComponent("Audio"),sessionIdentifier:"org.quietcast.verification."+UUID().uuidString)
+        await manager.waitUntilReady()
         var allowed=true;manager.authorize={_ in allowed};var failure:String?;manager.onError={failure=$0}
         manager.start(episode)
         try await wait({manager.records[episode.id]?.status == .downloaded || failure != nil},seconds:45)

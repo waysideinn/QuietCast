@@ -7,12 +7,14 @@ struct RootView: View {
     @State private var fullPlayer = false
     var body: some View {
         RootTabs(player: store.player, expand: { fullPlayer = true })
+            .disabled(store.initializing)
             .tint(Color.listeningAccent)
             .safeAreaInset(edge: .top, spacing: 0) {
                 if let error = store.storageError { StorageErrorBanner(error: error) }
             }
             .fullScreenCover(isPresented: $fullPlayer) { PlayerView(player: store.player) }
             .modifier(AppMessages(enabled: !fullPlayer))
+            .overlay { if store.initializing { ProgressView("正在读取本机资料…").padding().background(.regularMaterial, in: RoundedRectangle(cornerRadius: 12)) } }
     }
 }
 

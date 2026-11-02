@@ -199,6 +199,7 @@ public actor DiscoveryService {
     private let categoryCharts: PublicChartsClient
     private let disk: DiscoveryCacheStore
     private var cache: DiscoverySnapshot
+    private var loaded = false
     private var attempts: [String: Date] = [:]
     private let candidateLimit: Int
     public init(http: HTTPClient, interactiveHTTP: HTTPClient? = nil, cacheURL: URL, candidateLimit: Int = 8) {
@@ -206,11 +207,16 @@ public actor DiscoveryService {
         directory = DirectoryClient(http: http); rss = FeedClient(http: http); charts = PublicChartsClient(http: http)
         let interactive = interactiveHTTP ?? http
         categoryDirectory = DirectoryClient(http: interactive); categoryRSS = FeedClient(http: interactive); categoryCharts = PublicChartsClient(http: interactive)
-        disk = DiscoveryCacheStore(url: cacheURL); cache = (try? disk.load()) ?? DiscoverySnapshot()
+        disk = DiscoveryCacheStore(url: cacheURL); cache = DiscoverySnapshot()
     }
     public static func key(_ kind: DiscoveryKind, country: String, category: PodcastCategory? = nil) -> String { country.uppercased() + ":" + kind.rawValue + ":" + (category?.id ?? "all") }
-    public func cached() -> DiscoverySnapshot { cache }
+    private func ensureLoaded() {
+        guard !loaded else { return }; loaded = true
+        cache = (try? disk.load()) ?? DiscoverySnapshot()
+    }
+    public func cached() -> DiscoverySnapshot { ensureLoaded(); return cache }
     public func load(_ kind: DiscoveryKind, category: PodcastCategory? = nil, library: LibraryState, filter: ContentFilter, country: String = "CN", force: Bool = false, onUpdate: (@Sendable (DiscoveryLoad) async -> Void)? = nil) async -> DiscoveryLoad {
+        ensureLoaded()
         if kind == .category, let category { return await loadCategory(category, library: library, filter: filter, country: country, force: force, onUpdate: onUpdate) }
         let key = Self.key(kind, country: country, category: category)
         if let previous = cache.sections[key], !force && CacheFreshness.isFresh(previous.generatedAt, ttl: Self.dailyTTL) {

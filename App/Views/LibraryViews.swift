@@ -16,20 +16,24 @@ struct SubscriptionsView: View {
                 } else {
                     ScrollView(.horizontal, showsIndicators: false) {
                         LazyHStack(alignment: .top, spacing: 14) {
-                            ForEach(Array(store.presentation.subscribed.prefix(8))) { show in
+                            ForEach(store.presentation.subscribed) { show in
                                 NavigationLink { ShowDetailView(show: show) } label: {
                                     VStack(alignment: .leading, spacing: 6) { Artwork(url: show.artworkURL, size: 64); Text(show.title).font(.caption).lineLimit(2).frame(width: 76, alignment: .leading) }
-                                }.buttonStyle(.plain)
+                                }.buttonStyle(.plain).accessibilityIdentifier("subscriptions.show.\(show.id)").captureLayout("subscriptions.show.\(show.id)")
                             }
                         }.padding(.vertical, 4)
                     }
                 }
             } header: {
-                HStack { Text("已订阅节目"); Spacer(); NavigationLink("全部节目") { SubscribedShowsView() } }
+                HStack { Text("已订阅节目"); Spacer(); NavigationLink("订阅列表") { SubscribedShowsView() } }
             }
             Section("最近更新") {
                 Picker("更新范围", selection: $onlyUnplayed) { Text("未播放").tag(true); Text("全部").tag(false) }.pickerStyle(.segmented)
                 if store.refreshing { ProgressView("正在更新订阅…") }
+                if store.refreshWasCancelled { Text("更新已中断，已完成的内容已保留。下拉可重试。").font(.footnote).foregroundStyle(.secondary) }
+                if !store.refreshFailures.isEmpty {
+                    NavigationLink("更新详情（\(store.refreshFailures.count) 个节目未更新）") { SubscriptionRefreshReportView() }.font(.subheadline)
+                }
                 if store.preparingPresentation && items.isEmpty { ProgressView("正在整理单集…") }
                 else if items.isEmpty { Text(onlyUnplayed ? "最近更新的单集都已听完" : "订阅节目暂无可显示单集").font(.subheadline).foregroundStyle(.secondary).padding(.vertical, 12) }
                 ForEach(Array(items.prefix(limit))) { EpisodeRow(episode: $0) }
@@ -45,6 +49,24 @@ struct SubscriptionsView: View {
                     Button { importRSS = true } label: { Image(systemName: "plus").frame(minWidth: 44, minHeight: 44) }.accessibilityLabel("添加 RSS 或节目链接")
                 }
             }.sheet(isPresented: $importRSS) { RSSImportView() }
+    }
+}
+
+@MainActor
+struct SubscriptionRefreshReportView: View {
+    @EnvironmentObject private var store: AppStore
+    var body: some View {
+        List {
+            Section { Text("已保留之前的单集、下载和收听进度。以下是最近一次更新实际遇到的问题；已取消或尚未请求的节目不计为失败。").font(.footnote) }
+            ForEach(store.refreshFailures.filter { store.visible($0.show) }) { failure in
+                VStack(alignment: .leading, spacing: 6) {
+                    Text(failure.show.title).font(.headline)
+                    Text(failure.reason).font(.subheadline)
+                    Text(failure.show.feedURL.host ?? "公开 RSS").font(.caption).foregroundStyle(.secondary)
+                }.padding(.vertical, 4).captureLayout("refresh.failure.\(failure.id)")
+            }
+            if store.refreshFailures.contains(where: { !store.visible($0.show) }) { Text("部分节目受当前家长规则限制，详情已隐藏。").font(.footnote).foregroundStyle(.secondary) }
+        }.navigationTitle("更新详情").navigationBarTitleDisplayMode(.inline)
     }
 }
 

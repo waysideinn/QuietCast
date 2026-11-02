@@ -182,3 +182,96 @@ final class AcceptanceRegressionTests: XCTestCase {
         XCTAssertEqual(requests.filter { $0.url?.host == "feeds.example" }.count, 1, "Reuse three completed RSS feeds; only fetch the missing one")
     }
 }
+
+// Routes by endpoint/entity so simultaneous show and episode channels cannot accidentally share fixtures.
+actor EpisodeSearchTransport: HTTPTransport {
+    var requests: [URLRequest] = []
+    var failEpisodes = false
+    var failAll = false
+    var holdOld = false
+    var released = false
+    var wrongGUID = false
+    func configure(failEpisodes: Bool = false, failAll: Bool = false, holdOld: Bool = false, wrongGUID: Bool = false) {
+        self.failEpisodes = failEpisodes; self.failAll = failAll; self.holdOld = holdOld; self.wrongGUID = wrongGUID
+    }
+    func release() { released = true }
+    static func row(show: Int = 100, episode: Int = 200, title: String = "黑洞之旅", guid: String? = "g-one") -> [String: Any] {
+        var value: [String: Any] = ["kind": "podcast-episode", "collectionId": show, "trackId": episode, "collectionName": "黑洞科学访谈", "trackName": title, "feedUrl": "https://episode.example/\(show).xml", "episodeUrl": "https://episode.example/\(episode).mp3", "description": "探索宇宙", "releaseDate": "2026-10-01T00:00:00Z", "trackTimeMillis": 120000, "genres": [["id": "1533", "name": "Science"]], "collectionViewUrl": "https://podcasts.apple.com/cn/podcast/science/id\(show)"]
+        if let guid { value["episodeGuid"] = guid }
+        return value
+    }
+    func fetch(_ request: URLRequest) async throws -> (Data, HTTPURLResponse) {
+        requests.append(request)
+        let url = request.url!, items = URLComponents(url: url, resolvingAgainstBaseURL: false)?.queryItems ?? []
+        func value(_ key: String) -> String? { items.first { $0.name == key }?.value }
+        // Deliberately ignore cancellation to exercise generation protection in both channels.
+        while holdOld && value("term") == "旧词" && !released { try? await Task.sleep(nanoseconds: 10_000_000); await Task.yield() }
+        if failAll || (failEpisodes && value("entity") == "podcastEpisode") { throw URLError(.timedOut) }
+        let data: Data
+        if url.path == "/search", value("entity") == "podcastEpisode" {
+            let term = value("term") ?? "黑洞"
+            data = try JSONSerialization.data(withJSONObject: ["results": [Self.row(title: term + "之旅", guid: wrongGUID ? "unmatched" : "g-one"), Self.row(title: "无关单集", guid: "unrelated"), Self.row(show: 101, episode: 201, title: term + "之旅", guid: "g-two")]])
+        } else if url.path == "/search" || url.path == "/lookup" {
+            let id = value("id") ?? "100"
+            data = try JSONSerialization.data(withJSONObject: ["results": [["collectionName": "科学访谈", "artistName": "科学团队", "feedUrl": "https://episode.example/\(id).xml", "genres": ["Science"], "genreIds": ["1533"], "artistId": 123]]])
+        } else {
+            let title = "科学访谈"
+            data = Data("<rss version=\"2.0\"><channel><title>\(title)</title><description>科学与生活</description><item><title>黑洞之旅</title><description>探索宇宙</description><guid>g-one</guid><enclosure url=\"https://episode.example/200.mp3\" type=\"audio/mpeg\" length=\"100\"/></item></channel></rss>".utf8)
+        }
+        return (data, HTTPURLResponse(url: url, statusCode: 200, httpVersion: nil, headerFields: nil)!)
+    }
+}
+
+extension AcceptanceRegressionTests {
+    func testPublicEpisodeSearchUsesOwnTextAndStableIDsWithoutLoadingRSS() async throws {
+        let transport = EpisodeSearchTransport()
+        let directory = DirectoryClient(http: HTTPClient(transport: transport, directoryInterval: 0))
+        let result = try await UnifiedDirectorySearch(directory: directory).search("黑洞", includeEpisodes: true)
+        XCTAssertEqual(result.completedSources, 6); XCTAssertEqual(result.failedSources, 0)
+        XCTAssertEqual(result.episodes.count, 2, "Cross-store candidates deduplicate by stable collection/track ID; homonyms remain distinct")
+        XCTAssertEqual(Set(result.episodes.map { $0.identity!.showDirectoryID }), ["100", "101"])
+        XCTAssertTrue(result.episodes.allSatisfy { $0.episode.title == "黑洞之旅" && $0.episode.duration == 120 && $0.episode.published != nil })
+        XCTAssertTrue(result.episodes.allSatisfy { !$0.show.hasRSSMetadata && $0.show.artworkURL == nil })
+        XCTAssertEqual(result.episodes[0].show.classificationObservations?.first?.id, "1533")
+        let calls = await transport.requests
+        XCTAssertEqual(calls.count, 6); XCTAssertTrue(calls.allSatisfy { $0.url?.path == "/search" })
+        XCTAssertEqual(calls.filter { $0.url!.query!.contains("entity=podcastEpisode") }.count, 3)
+    }
+    func testLocalEpisodeSearchMatchesEpisodeFieldsAndPreservesUnsubscribedDiscovery() throws {
+        var library = LibraryState()
+        let show = Podcast(feedURL: URL(string: "https://episode.example/100.xml")!, title: "黑洞节目", hasRSSMetadata: true)
+        let match = Episode(podcastID: show.id, guid: "one", title: "BLACK holes", summary: "探索宇宙", audioURL: URL(string: "https://episode.example/one.mp3")!)
+        let showOnly = Episode(podcastID: show.id, guid: "two", title: "普通访谈", audioURL: URL(string: "https://episode.example/two.mp3")!)
+        library.merge(Feed(podcast: show, episodes: [match, showOnly]))
+        XCTAssertTrue(library.subscriptions.isEmpty)
+        XCTAssertEqual(EpisodeSearch.local("black HOLES", library: library, filter: try filter()).map(\.episode.id), [match.id])
+        XCTAssertEqual(EpisodeSearch.local("宇宙", library: library, filter: try filter()).map(\.episode.id), [match.id])
+        XCTAssertTrue(EpisodeSearch.local("黑洞", library: library, filter: try filter()).isEmpty)
+        var policy = ParentalPolicy(); policy.episodeBlocklist.insert(match.id)
+        XCTAssertTrue(EpisodeSearch.local("black", library: library, filter: try filter(policy)).isEmpty)
+        policy.showBlocklist.insert(show.id); policy.episodeBlocklist.removeAll(); policy.episodeAllowlist.insert(match.id)
+        XCTAssertEqual(EpisodeSearch.local("black", library: library, filter: try filter(policy)).count, 1)
+    }
+    func testEpisodeResolutionNeverGuessesByTitleAndDeduplicatesLocalGUIDOrEnclosure() async throws {
+        let hits = try await DirectoryClient(http: HTTPClient(transport: EpisodeSearchTransport(), directoryInterval: 0)).searchEpisodes("黑洞")
+        let hit = try XCTUnwrap(hits.first)
+        var show = hit.show; show.hasRSSMetadata = true
+        var episode = hit.episode; episode.title = "RSS 已更名"; episode.audioURL = URL(string: "https://episode.example/new.mp3")!
+        let feed = Feed(podcast: show, episodes: [episode])
+        XCTAssertEqual(EpisodeSearch.resolve(hit, in: feed)?.id, episode.id)
+        XCTAssertNil(EpisodeSearch.resolve(hit, in: Feed(podcast: hits[1].show, episodes: [episode])))
+        var sameTitle = episode; sameTitle.guid = "wrong-guid"; sameTitle.title = hit.episode.title
+        XCTAssertNil(EpisodeSearch.resolve(hit, in: Feed(podcast: show, episodes: [sameTitle])))
+        XCTAssertNil(EpisodeSearch.resolve(hit, in: Feed(podcast: show, episodes: [episode, episode])))
+        let local = SearchEpisodeHit(show: show, episode: episode)
+        XCTAssertEqual(EpisodeSearch.deduplicated([local, hit] + hits).count, 2)
+        let noGUID = SearchEpisodeHit(show: show, episode: episode, identity: DirectoryEpisodeIdentity(showDirectoryID: "100", episodeDirectoryID: "200", guid: nil, audioURL: episode.audioURL, sourceURL: hit.identity!.sourceURL))
+        XCTAssertEqual(EpisodeSearch.resolve(noGUID, in: feed)?.id, episode.id)
+    }
+    func testOneUnavailableEpisodeChannelIsPartialSuccess() async throws {
+        let transport = EpisodeSearchTransport(); await transport.configure(failEpisodes: true)
+        let value = try await UnifiedDirectorySearch(directory: DirectoryClient(http: HTTPClient(transport: transport, directoryInterval: 0))).search("黑洞", includeEpisodes: true)
+        XCTAssertEqual(value.failedSources, 3); XCTAssertEqual(value.completedSources, 6)
+        XCTAssertFalse(value.shows.isEmpty); XCTAssertTrue(value.episodes.isEmpty)
+    }
+}

@@ -7,7 +7,7 @@ import PodcastCore
     }
     static func run() async throws {
         let args = Array(CommandLine.arguments.dropFirst())
-        guard let command = args.first else { print("quietcast-tools validate <rules.json> | smoke-network [keyword] | smoke-home [CN/HK/US] | score <rules.json> <show-title> [episode-title]"); return }
+        guard let command = args.first else { print("quietcast-tools validate <rules.json> | smoke-network [keyword] | smoke-home [CN/HK/US] | smoke-episodes [keyword] [country] | score <rules.json> <show-title> [episode-title]"); return }
         switch command {
         case "validate", "score":
             guard args.count >= 2 else { throw PodcastError.rule("缺少规则文件路径") }
@@ -34,6 +34,28 @@ import PodcastCore
                 print("\(kind.rawValue): origin=\(section.origin.rawValue), source=\(section.sourceURL?.absoluteString ?? "directory"), allowed=\(entries.count), cached=\(loaded.fromCache)")
                 if let error = loaded.error { print(error) }
             }
+        case "smoke-episodes":
+            let term = args.count > 1 ? args[1] : "星际拓荒", country = args.count > 2 ? args[2] : "US"
+            let http = HTTPClient(), directory = DirectoryClient(http: http)
+            let hits = try await directory.searchEpisodes(term, country: country)
+            print("PUBLIC_EPISODE_SEARCH country=\(country) term=\(term) ownTextMatches=\(hits.count)")
+            let rules = try RulesLoader.decode(FileRulesProvider(url: URL(fileURLWithPath: "App/Resources/content-filter.json")).load())
+            var aligned = false
+            // Explicit verification of selected candidates only; the app does not do this during search.
+            for hit in hits.prefix(3) {
+                do {
+                    let identity = hit.identity!
+                    let show = try await directory.lookup(identity.showDirectoryID, country: country)
+                    guard show.id == hit.show.id else { throw PodcastError.invalidFeed("Search/Lookup RSS identity mismatch") }
+                    var feed = try await FeedClient(http: http).fetch(show.feedURL)
+                    feed.podcast = feed.podcast.mergingDirectoryMetadata(from: show)
+                    guard let episode = EpisodeSearch.resolve(hit, in: feed) else { throw PodcastError.invalidFeed("No unique RSS GUID/enclosure match") }
+                    let verdict = ContentFilter(rules: rules, policy: ParentalPolicy()).evaluate(show: feed.podcast, episode: episode)
+                    print("PUBLIC_RSS_ALIGNED collectionID=\(identity.showDirectoryID) trackID=\(identity.episodeDirectoryID) guid=\(episode.guid) rssItems=\(feed.episodes.count) title=\(episode.title) permission=\(verdict.decision.rawValue) enclosure=\(episode.audioURL.absoluteString)")
+                    aligned = true; break
+                } catch { print("PUBLIC_RSS_UNAVAILABLE \(hit.show.feedURL.absoluteString): \(error.localizedDescription)") }
+            }
+            guard aligned else { throw PodcastError.invalidFeed("No selected candidate could be uniquely verified in its public RSS") }
         case "smoke-network":
             let term = args.count > 1 ? args[1] : "科学"
             let http = HTTPClient(); let found = try await DirectoryClient(http: http).search(term)

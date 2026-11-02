@@ -10,11 +10,18 @@ struct UnlockRequest: Identifiable {
     let result: FilterResult
 }
 
+struct SubscriptionRefreshFailure: Identifiable {
+    let show: Podcast
+    let reason: String
+    var id: String { show.id }
+}
+
 @MainActor final class AppStore: ObservableObject {
     @Published private(set) var library = LibraryState()
     @Published private(set) var rules: RuleSet?
     @Published private(set) var policy = ParentalPolicy()
     @Published private(set) var results: [Podcast] = []
+    @Published private(set) var episodeResults: [SearchEpisodeHit] = []
     @Published private(set) var discoverySnapshot = DiscoverySnapshot()
     @Published private(set) var discoveryLoading: Set<String> = []
     @Published private(set) var discoveryErrors: [String: String] = [:]
@@ -34,6 +41,9 @@ struct UnlockRequest: Identifiable {
     #endif
     @Published private(set) var searching = false
     @Published private(set) var refreshing = false
+    @Published private(set) var homeRefreshing = false
+    @Published private(set) var refreshFailures: [SubscriptionRefreshFailure] = []
+    @Published private(set) var refreshWasCancelled = false
     @Published private(set) var searchTerm = ""
     @Published private(set) var searchWarning: String?
     @Published private(set) var searchError: String?
@@ -57,7 +67,10 @@ struct UnlockRequest: Identifiable {
     private(set) var authority: ParentAuthority?
     let downloads: DownloadManager
     private var searchTask: Task<Void, Never>?
+    private var homeRefreshTask: Task<Void, Never>?
     private var searchGeneration = UUID()
+    private var searchLocalHits: [SearchEpisodeHit] = []
+    private var searchDirectoryHits: [SearchEpisodeHit] = []
     private var grants: ParentGrant?
     lazy var player: PodcastPlayer = {
         let p = PodcastPlayer()
@@ -231,6 +244,20 @@ struct UnlockRequest: Identifiable {
             }
         }
     }
+    /// Own a user-requested refresh across SwiftUI refresh-control replacements. Normal
+    /// page loading keeps its existing cancellation/freshness behavior and does not call this.
+    func refreshHome() async {
+        await waitUntilReady()
+        if let task = homeRefreshTask { await task.value; return }
+        homeRefreshing = true
+        let task = Task { [weak self] in
+            guard let self else { return }
+            defer { self.homeRefreshing = false; self.homeRefreshTask = nil }
+            await self.loadHome(force: true)
+        }
+        homeRefreshTask = task
+        await task.value
+    }
     func retryStorage() {
         guard storageError != nil, !initializing else { return }
         let disk = persistence
@@ -244,7 +271,7 @@ struct UnlockRequest: Identifiable {
     func search(_ text: String, country: String? = nil) {
         searchTask?.cancel(); let generation = UUID(); searchGeneration = generation
         let term = text.trimmingCharacters(in: .whitespacesAndNewlines)
-        searchTerm = term; searchError = nil; searchWarning = nil; results = []
+        searchTerm = term; searchError = nil; searchWarning = nil; results = []; episodeResults = []; searchLocalHits = []; searchDirectoryHits = []
         searching = !term.isEmpty
         guard !term.isEmpty else { searchTask = nil; return }
         let recordAfterLoading = initializing
@@ -253,19 +280,28 @@ struct UnlockRequest: Identifiable {
             await waitUntilReady()
             if recordAfterLoading { recordSearch(term) }
             guard !Task.isCancelled, searchGeneration == generation else { return }
+            // Start remote work before local indexing; a large first-upgrade library must not delay discovery.
+            async let remote = UnifiedDirectorySearch(directory: directory).search(term, countries: country.map { [$0] } ?? ["CN", "HK", "US"], includeEpisodes: true) { [weak self] batch in
+                await self?.acceptSearch(batch, generation: generation)
+            }
+            let state = library, currentFilter = filter
+            let visibleIDs = preparingPresentation || (presentation.validUntil ?? .distantFuture) <= Date() || presentation.builtAt > Date() ? nil : presentation.visibleEpisodeIDs
+            let localTask = Task.detached(priority: .userInitiated) { EpisodeSearch.local(term, library: state, filter: currentFilter, visibleIDs: visibleIDs) }
+            let local = await withTaskCancellationHandler(operation: { await localTask.value }, onCancel: { localTask.cancel() })
+            guard !Task.isCancelled, searchGeneration == generation else { return }
+            searchLocalHits = local
+            episodeResults = searchDirectoryHits.isEmpty ? local : EpisodeSearch.deduplicated(local + searchDirectoryHits)
             do {
-                if let country {
-                    let found = try await directory.search(term, country: country)
-                    acceptSearch(found, generation: generation)
-                } else {
-                    let found = try await UnifiedDirectorySearch(directory: directory).search(term) { [weak self] batch in
-                        await self?.acceptSearch(batch.shows, generation: generation)
-                    }
-                    guard !Task.isCancelled, searchGeneration == generation else { return }
-                    if found.failedSources > 0 { searchWarning = "部分目录暂时无法连接，已保留可用结果。" }
-                }
+                let found = try await remote
+                guard !Task.isCancelled, searchGeneration == generation else { return }
+                if found.failedSources > 0 { searchWarning = "部分节目或单集目录暂时无法连接，已保留本机和可用目录结果。" }
             } catch is CancellationError { }
-            catch { if searchGeneration == generation { searchError = error.localizedDescription } }
+            catch {
+                if searchGeneration == generation {
+                    if local.isEmpty { searchError = error.localizedDescription }
+                    else { searchWarning = "公开目录暂时无法连接，已保留本机匹配单集。" }
+                }
+            }
             if searchGeneration == generation { searching = false }
         }
     }
@@ -291,18 +327,64 @@ struct UnlockRequest: Identifiable {
         searchJournal = next; searchJournalError = nil
         objectWillChange.send()
     }
-    private func acceptSearch(_ found: [Podcast], generation: UUID) {
+    private func acceptSearch(_ batch: UnifiedSearchResult, generation: UUID) {
         guard !Task.isCancelled, searchGeneration == generation else { return }
-        if !found.isEmpty {
-            change { state in for show in found { state.merge(Feed(podcast: show, episodes: [])) } }
-            revalidate()
+        // Search is transient. Persist only the selected RSS, avoiding repeated whole-library projections/writes.
+        results = batch.shows.filter(visible)
+        searchDirectoryHits = batch.episodes
+        episodeResults = batch.episodes.isEmpty ? searchLocalHits : EpisodeSearch.deduplicated(searchLocalHits + batch.episodes)
+    }
+    func visibleSearchHit(_ hit: SearchEpisodeHit) -> Bool {
+        if hit.identity == nil { return presentation.visibleEpisodeIDs.contains(hit.id) }
+        if hit.identity?.guid == nil, let audio = hit.identity?.audioURL {
+            // The display index excludes blocked episodes. Inspect raw identities here so a
+            // GUID-less directory row cannot hide a known episode blacklist behind a temporary ID.
+            let matches = library.episodes.values.filter { $0.podcastID == hit.show.id && $0.audioURL == audio }
+            if matches.count > 1 { return false }
+            if let episode = matches.first { return result(show: hit.show, episode: episode).decision != .block }
         }
-        results = found.map { library.podcasts[$0.id] ?? $0 }.filter(visible)
+        let episode = cachedSearchEpisode(hit) ?? hit.episode
+        return result(show: hit.show, episode: episode).decision != .block
+    }
+    private func cachedSearchEpisode(_ hit: SearchEpisodeHit) -> Episode? {
+        if hit.identity == nil { return library.episodes[hit.id] }
+        // Search usually has a GUID, so avoid scanning the entire library while rendering rows.
+        if let guid = hit.identity?.guid {
+            return library.episodes[Identity.hash(hit.show.id + "\n" + guid)]
+        }
+        return nil
+    }
+    func resolveSearchEpisode(_ hit: SearchEpisodeHit) async throws -> Episode {
+        await waitUntilReady()
+        try Task.checkCancellation()
+        guard visibleSearchHit(hit) else { throw PodcastError.blocked("内容已受家长规则限制") }
+        if hit.identity == nil, let episode = library.episodes[hit.id] { return episode }
+        guard let identity = hit.identity else { throw PodcastError.invalidFeed("本机单集已不可用") }
+        // Lookup the stable collection ID before trusting the candidate's feed association.
+        let catalogShow = try await directory.lookup(identity.showDirectoryID, country: hit.country)
+        try Task.checkCancellation()
+        guard catalogShow.id == hit.show.id else { throw PodcastError.invalidFeed("目录的 RSS 地址已变化，请重新搜索") }
+        let show = try await load(catalogShow)
+        try Task.checkCancellation()
+        let feed = Feed(podcast: show, episodes: library.episodes.values.filter { $0.podcastID == show.id })
+        guard let episode = EpisodeSearch.resolve(hit, in: feed) else {
+            throw PodcastError.invalidFeed("当前 RSS 中无法按单集标识找到这一集，可能已从公开源移除。")
+        }
+        guard result(show: show, episode: episode).decision != .block else { throw PodcastError.blocked("内容已受家长规则限制") }
+        return episode
     }
     @discardableResult func load(_ show: Podcast, force: Bool = false, entry: AccessEntry = .detail) async throws -> Podcast {
         await waitUntilReady()
         if !force, let cached = library.podcasts[show.id], cached.hasRSSMetadata,
-           CacheFreshness.isFresh(cached.rssFetchedAt ?? .distantPast, ttl: 3600) { return cached }
+           CacheFreshness.isFresh(cached.rssFetchedAt ?? .distantPast, ttl: 3600) {
+            if cached == show { return cached }
+            let merged = cached.mergingDirectoryMetadata(from: show)
+            if merged != cached {
+                guard change({ $0.merge(Feed(podcast: merged, episodes: [])) }) else { throw PodcastError.storage(storageError ?? "无法保存节目") }
+                revalidate()
+            }
+            return merged
+        }
         let feed = try await feedClient.fetch(show.feedURL, force: force)
         var full = feed; full.podcast = feed.podcast.mergingDirectoryMetadata(from: show).mergingDirectoryMetadata(from: library.podcasts[show.id])
         guard change({ $0.merge(full) }) else { throw PodcastError.storage(storageError ?? "无法保存节目") }
@@ -333,16 +415,52 @@ struct UnlockRequest: Identifiable {
     }
     func refresh() async {
         await waitUntilReady()
-        guard !refreshing, Date().timeIntervalSince(library.subscriptionRefreshAttemptAt ?? .distantPast) >= 60 else { return }
-        refreshing = true; defer { refreshing = false }
-        change(updatePresentation: false) { $0.subscriptionRefreshAttemptAt = Date() }
-        var failures = 0
-        for id in library.subscriptions {
-            guard let show = library.podcasts[id] else { continue }
-            do { _ = try await load(show, force: true) } catch { failures += 1 }
+        guard !Task.isCancelled, !refreshing, Date().timeIntervalSince(library.subscriptionRefreshAttemptAt ?? .distantPast) >= 60 else { return }
+        let previousAttempt = library.subscriptionRefreshAttemptAt
+        refreshing = true; refreshWasCancelled = false; refreshFailures = []
+        var failures: [SubscriptionRefreshFailure] = [], interrupted = false
+        defer {
+            refreshing = false; refreshFailures = failures; refreshWasCancelled = interrupted
+            // An interrupted attempt must not prevent the user from retrying for a minute.
+            if interrupted { change(updatePresentation: false) { $0.subscriptionRefreshAttemptAt = previousAttempt } }
         }
-        if failures == 0 { change(updatePresentation: false) { $0.subscriptionRefreshedAt = Date() } }
-        if failures > 0 { message = "\(failures) 个节目暂时无法更新，已保留之前的数据。" }
+        guard change(updatePresentation: false, { $0.subscriptionRefreshAttemptAt = Date() }) else { return }
+        for id in library.subscriptions {
+            guard !Task.isCancelled else { interrupted = true; return }
+            guard let show = library.podcasts[id] else { continue }
+            do { _ = try await load(show, force: true) }
+            catch {
+                if Task.isCancelled || error is CancellationError || (error as? URLError)?.code == .cancelled { interrupted = true; return }
+                failures.append(SubscriptionRefreshFailure(show: show, reason: refreshFailureReason(error)))
+            }
+        }
+        guard !Task.isCancelled else { interrupted = true; return }
+        if failures.isEmpty { change(updatePresentation: false) { $0.subscriptionRefreshedAt = Date() } }
+        else { message = "\(failures.count) 个节目暂时无法更新，已保留之前的数据。可在订阅页查看更新详情。" }
+    }
+    private func refreshFailureReason(_ error: Error) -> String {
+        if let url = error as? URLError {
+            switch url.code {
+            case .notConnectedToInternet: return "当前网络未连接。"
+            case .timedOut: return "连接节目源超时，请稍后重试。"
+            case .cannotFindHost, .dnsLookupFailed: return "无法解析节目源地址，可能是网络或源站问题。"
+            case .cannotConnectToHost, .networkConnectionLost: return "无法连接节目源，或连接中断。"
+            case .secureConnectionFailed, .serverCertificateUntrusted, .serverCertificateHasBadDate: return "节目源的安全连接或证书验证失败。"
+            default: return "网络请求失败：\(url.localizedDescription)"
+            }
+        }
+        if let podcast = error as? PodcastError {
+            switch podcast {
+            case .http(404), .http(410): return "节目源地址不存在或已移除（HTTP \(podcast == .http(404) ? 404 : 410)）。"
+            case .http(403): return "节目源拒绝访问（HTTP 403），可能需要源站恢复公开 RSS。"
+            case .http(429): return "节目源暂时限制请求频率（HTTP 429），请稍后重试。"
+            case .http(let status): return "节目源返回 HTTP \(status)。"
+            case .invalidFeed: return "节目源返回的 RSS 无法解析。\(podcast.localizedDescription)"
+            case .oversized: return "节目源数据超过当前 8 MB 安全上限。"
+            default: return podcast.localizedDescription
+            }
+        }
+        return error.localizedDescription
     }
     @discardableResult func authorize(show: Podcast, episode: Episode? = nil, entry: AccessEntry, requestUnlock: Bool = true) -> Bool {
         let verdict = result(show: show, episode: episode)

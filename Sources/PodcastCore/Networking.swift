@@ -101,6 +101,38 @@ public struct DirectoryClient: Sendable {
         c.queryItems = [.init(name: "term", value: trimmed), .init(name: "media", value: "podcast"), .init(name: "entity", value: "podcast"), .init(name: "country", value: country), .init(name: "limit", value: "20"), .init(name: "version", value: "2")]
         return try await results(c.url!, source: .appleSearch, timeout: timeout, retries: retries)
     }
+    /// Official Search API entity. No RSS, artwork, preview audio or private Apple endpoints are fetched here.
+    public func searchEpisodes(_ term: String, country: String = "CN") async throws -> [SearchEpisodeHit] {
+        struct Genre: Decodable { let id: FlexibleID?; let name: String? }
+        struct Row: Decodable {
+            let kind: String?; let trackId: FlexibleID?; let collectionId: FlexibleID?
+            let trackName: String?; let collectionName: String?; let artistName: String?
+            let episodeGuid: String?; let episodeUrl: String?; let feedUrl: String?
+            let collectionViewUrl: URL?; let description: String?; let releaseDate: String?
+            let trackTimeMillis: Double?; let genres: [Genre]?
+        }
+        struct Response: Decodable { let results: [Row] }
+        let term = term.trimmingCharacters(in: .whitespacesAndNewlines)
+        guard !term.isEmpty else { return [] }
+        var c = URLComponents(string: "https://itunes.apple.com/search")!
+        c.queryItems = [.init(name: "term", value: term), .init(name: "media", value: "podcast"), .init(name: "entity", value: "podcastEpisode"), .init(name: "country", value: country), .init(name: "limit", value: "20"), .init(name: "version", value: "2")]
+        let rows = try JSONDecoder().decode(Response.self, from: await http.get(c.url!, directory: true, timeout: 8, retries: 0)).results
+        let date = ISO8601DateFormatter()
+        return EpisodeSearch.deduplicated(rows.compactMap { row in
+            guard row.kind == "podcast-episode", let showID = row.collectionId?.value, let episodeID = row.trackId?.value,
+                  let title = row.trackName, !title.isEmpty, let showTitle = row.collectionName,
+                  let feed = row.feedUrl.flatMap({ try? PublicURL.parse($0) }),
+                  let audio = row.episodeUrl.flatMap({ try? PublicURL.parse($0) }) else { return nil }
+            var show = Podcast(feedURL: feed, title: showTitle, author: row.artistName ?? "", categories: row.genres?.compactMap(\.name) ?? [], directoryURL: row.collectionViewUrl)
+            show.directoryTitle = showTitle
+            show.classificationObservations = row.genres?.map { ClassificationObservation(namespace: "apple.podcasts.genre", id: $0.id?.value, name: $0.name ?? "", source: .appleSearch, sourceURL: c.url!) }
+            let guid = row.episodeGuid.flatMap { $0.isEmpty ? nil : $0 }
+            let episode = Episode(podcastID: show.id, guid: guid ?? "directory:" + episodeID, title: title, summary: row.description ?? "", audioURL: audio, published: row.releaseDate.flatMap(date.date), duration: row.trackTimeMillis.map { $0 / 1000 })
+            // Reject catalog matches based only on collectionName/hidden ranking signals.
+            guard EpisodeSearch.matches(episode, query: term) else { return nil }
+            return SearchEpisodeHit(show: show, episode: episode, identity: DirectoryEpisodeIdentity(showDirectoryID: showID, episodeDirectoryID: episodeID, guid: guid, audioURL: audio, sourceURL: c.url!), country: country)
+        })
+    }
     public func lookup(_ id: String, country: String = "CN") async throws -> Podcast {
         guard !id.isEmpty, id.allSatisfy(\.isNumber) else { throw PodcastError.invalidURL }
         var c = URLComponents(string: "https://itunes.apple.com/lookup")!

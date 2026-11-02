@@ -19,12 +19,12 @@ struct PodcastSearchField: UIViewRepresentable {
     func makeCoordinator() -> Coordinator { Coordinator(self) }
     func makeUIView(context: Context) -> UITextField {
         let field = UITextField()
-        field.placeholder = "搜索节目、作者或关键词"
+        field.placeholder = "搜索节目、单集或关键词"
         field.returnKeyType = .search; field.enablesReturnKeyAutomatically = true
         field.autocorrectionType = .no; field.autocapitalizationType = .none
         field.adjustsFontForContentSizeCategory = true; field.font = .preferredFont(forTextStyle: .body)
         field.setContentCompressionResistancePriority(.defaultLow, for: .horizontal)
-        field.accessibilityLabel = "搜索节目、作者或关键词"; field.accessibilityIdentifier = "explore.search"
+        field.accessibilityLabel = "搜索节目、单集或关键词"; field.accessibilityIdentifier = "explore.search"
         field.delegate = context.coordinator
         field.addTarget(context.coordinator, action: #selector(Coordinator.changed(_:)), for: .editingChanged)
         return field

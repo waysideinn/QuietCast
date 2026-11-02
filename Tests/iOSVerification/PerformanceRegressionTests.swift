@@ -12,7 +12,7 @@ final class PerformanceRegressionTests: XCTestCase {
     }
     @MainActor func testSearchReturnsWithoutFetchingEveryResultRSS() async throws {
         let body = Data(#"{"results":[{"collectionName":"科学","artistName":"团队","feedUrl":"https://example.com/science.xml","genres":["Science"]}]}"#.utf8)
-        let transport = StubTransport([.data(200, body)])
+        let transport = StubTransport([.data(200, body), .data(200, body)])
         let store = AppStore(rootURL: try temporary(), http: HTTPClient(transport: transport, directoryInterval: 0))
         await store.waitForPresentation()
         store.search("科学", country: "CN")
@@ -20,7 +20,7 @@ final class PerformanceRegressionTests: XCTestCase {
         while (store.results.isEmpty || store.searching) && Date() < deadline { try await Task.sleep(nanoseconds: 10_000_000) }
         XCTAssertEqual(store.results.first?.title, "科学"); XCTAssertFalse(store.searching)
         let requests = await transport.requests
-        XCTAssertEqual(requests.count, 1); XCTAssertEqual(requests.first?.url?.path, "/search")
+        XCTAssertEqual(requests.count, 2); XCTAssertTrue(requests.allSatisfy { $0.url?.path == "/search" })
         XCTAssertTrue(store.library.episodes.isEmpty)
         // Directory-only results cannot bypass the required RSS check before playback/subscription.
         XCTAssertEqual(store.result(show: try XCTUnwrap(store.results.first)).decision, .review)
@@ -144,6 +144,32 @@ extension PerformanceRegressionTests {
         XCTAssertEqual(reopened.downloads.availableDownloadIDs.count, 500)
         XCTAssertLessThan(reopenTime, 5)
         print("REOPEN_BENCHMARK localReady=\(reopenTime) filterEvaluations=\(evaluations) episodes=4000 downloads=500")
+        let searchBuilds = await reopened.presentationWorker.buildCount
+        let searchBytes = try Data(contentsOf: root.appendingPathComponent("library.json"))
+        let searchStart = Date()
+        reopened.search("第")
+        var lastTick = Date(), largestGap: TimeInterval = 0
+        while reopened.searching && Date().timeIntervalSince(searchStart) < 5 {
+            try await Task.sleep(nanoseconds: 10_000_000)
+            largestGap = max(largestGap, Date().timeIntervalSince(lastTick)); lastTick = Date()
+        }
+        XCTAssertFalse(reopened.searching); XCTAssertEqual(reopened.episodeResults.count, 4000)
+        let readStart = Date()
+        XCTAssertEqual(reopened.episodeResults.filter(reopened.visibleSearchHit).count, 4000)
+        let readTime = Date().timeIntervalSince(readStart)
+        let searchAfterBuilds = await reopened.presentationWorker.buildCount
+        XCTAssertEqual(searchAfterBuilds, searchBuilds)
+        XCTAssertEqual(try Data(contentsOf: root.appendingPathComponent("library.json")), searchBytes)
+        XCTAssertLessThan(largestGap, 0.2, "Local episode search must yield the main actor")
+        XCTAssertLessThan(readTime, 0.1, "Search rendering must reuse current validated local display IDs")
+        let directoryHits = reopened.episodeResults.prefix(60).enumerated().map { index, hit in
+            SearchEpisodeHit(show: hit.show, episode: hit.episode, identity: DirectoryEpisodeIdentity(showDirectoryID: "\(index)", episodeDirectoryID: "\(index)", guid: hit.episode.guid, audioURL: hit.episode.audioURL, sourceURL: URL(string: "https://itunes.apple.com/search")!))
+        }
+        let mergeStart = Date()
+        XCTAssertEqual(EpisodeSearch.deduplicated(reopened.episodeResults + directoryHits).count, 4000)
+        let mergeTime = Date().timeIntervalSince(mergeStart)
+        XCTAssertLessThan(mergeTime, 0.1, "Incremental directory merges must reuse computed GUID/enclosure keys")
+        print("LOCAL_SEARCH_BENCHMARK episodes4000=\(Date().timeIntervalSince(searchStart)) mainMaxGap=\(largestGap) visible4000=\(readTime) merge4000plus60=\(mergeTime) projectionBuilds=\(searchAfterBuilds - searchBuilds)")
         // Keep an isolated, opt-in Debug fixture for actual simulator process termination/relaunch.
         let qa = FileManager.default.temporaryDirectory.appendingPathComponent("QuietCastLifecycleQA")
         try FileManager.default.createDirectory(at: qa.appendingPathComponent("Audio"), withIntermediateDirectories: true)
@@ -235,6 +261,74 @@ extension PerformanceRegressionTests {
         XCTAssertEqual(after, calls, "A failed refresh must be throttled on ordinary page return")
         do { _ = try await store.load(show, force: true); XCTFail("Expected offline feed failure") } catch { }
         XCTAssertEqual(store.presentation.favorites.map(\.id), before)
+        await store.flushPersistence()
+    }
+}
+
+private actor CancelledRefreshTransport: HTTPTransport {
+    var count = 0
+    func fetch(_ request: URLRequest) async throws -> (Data, HTTPURLResponse) {
+        count += 1
+        if count == 5 { try await Task.sleep(nanoseconds: 10_000_000_000) }
+        let rss = Data("<rss version=\"2.0\"><channel><title>科学节目</title><item><title>科学单集</title><guid>one</guid><enclosure url=\"https://refresh.example/one.mp3\" type=\"audio/mpeg\"/></item></channel></rss>".utf8)
+        return (rss, HTTPURLResponse(url: request.url!, statusCode: 200, httpVersion: nil, headerFields: nil)!)
+    }
+}
+extension PerformanceRegressionTests {
+    @MainActor func testCancelledRefreshDoesNotMisreportRemainingNineAsFailed() async throws {
+        let root = try temporary(), transport = CancelledRefreshTransport()
+        var state = LibraryState()
+        for index in 0..<13 {
+            let show = Podcast(feedURL: URL(string: "https://refresh.example/\(index).xml")!, title: "科学节目 \(index)", hasRSSMetadata: true)
+            state.merge(Feed(podcast: show, episodes: [])); state.subscriptions.insert(show.id)
+        }
+        try AtomicLibraryStore(url: root.appendingPathComponent("library.json")).save(state)
+        let store = AppStore(rootURL: root, http: HTTPClient(transport: transport, directoryInterval: 0), parentAuthority: try ParentAuthority(store: MemorySecureStore()))
+        await store.waitForPresentation()
+        let task = Task { await store.refresh() }
+        let deadline = Date().addingTimeInterval(3)
+        while await transport.count < 5 && Date() < deadline { try await Task.sleep(nanoseconds: 10_000_000) }
+        task.cancel(); await task.value
+        print("REFRESH_CANCELLATION_REPRO message=\(store.message ?? "none") completed=\(store.library.episodes.count)")
+        XCTAssertNil(store.message)
+        XCTAssertTrue(store.refreshWasCancelled); XCTAssertTrue(store.refreshFailures.isEmpty)
+        XCTAssertNil(store.library.subscriptionRefreshAttemptAt); XCTAssertNil(store.library.subscriptionRefreshedAt)
+        XCTAssertEqual(store.library.episodes.count, 4)
+        let interruptedCalls = await transport.count; XCTAssertEqual(interruptedCalls, 5)
+        // Retry immediately: cancellation must not consume the failed-request backoff.
+        await store.refresh()
+        let retriedCalls = await transport.count; XCTAssertEqual(retriedCalls, 18)
+        XCTAssertFalse(store.refreshWasCancelled); XCTAssertTrue(store.refreshFailures.isEmpty)
+        XCTAssertNotNil(store.library.subscriptionRefreshedAt); XCTAssertEqual(store.library.episodes.count, 13)
+        await store.flushPersistence()
+    }
+}
+
+extension PerformanceRegressionTests {
+    @MainActor func testRealRefreshFailuresKeepLocalDataAndRecordIndividualCauses() async throws {
+        let root = try temporary()
+        let transport = StubTransport([.data(404, Data()), .timeout, .timeout, .data(200, Data("<html>not RSS</html>".utf8))])
+        var state = LibraryState()
+        for index in 0..<3 {
+            let show = Podcast(feedURL: URL(string: "https://failure.example/\(index)")!, title: "科学节目 \(index)", hasRSSMetadata: true)
+            let episode = Episode(podcastID: show.id, guid: "old", title: "已有单集", audioURL: URL(string: "https://failure.example/\(index).mp3")!)
+            state.merge(Feed(podcast: show, episodes: [episode])); state.subscriptions.insert(show.id); state.favorites.insert(episode.id)
+            state.record(episodeID: episode.id, position: 30, duration: 100)
+        }
+        try AtomicLibraryStore(url: root.appendingPathComponent("library.json")).save(state)
+        let store = AppStore(rootURL: root, http: HTTPClient(transport: transport, directoryInterval: 0, defaultRetries: 0), parentAuthority: try ParentAuthority(store: MemorySecureStore()))
+        await store.waitForPresentation()
+        await store.refresh()
+        XCTAssertEqual(store.refreshFailures.count, 3); XCTAssertFalse(store.refreshWasCancelled)
+        XCTAssertTrue(store.refreshFailures.contains { $0.reason.contains("404") })
+        XCTAssertTrue(store.refreshFailures.contains { $0.reason.contains("超时") })
+        XCTAssertTrue(store.refreshFailures.contains { $0.reason.contains("RSS 无法解析") })
+        XCTAssertTrue(store.message?.contains("3 个节目") == true); XCTAssertTrue(store.message?.contains("更新详情") == true)
+        XCTAssertEqual(store.library.episodes, state.episodes); XCTAssertEqual(store.library.favorites, state.favorites)
+        XCTAssertEqual(store.library.progress, state.progress); XCTAssertNil(store.library.subscriptionRefreshedAt)
+        let before = await transport.count
+        await store.refreshIfNeeded()
+        let after = await transport.count; XCTAssertEqual(before, after, "Actual failures retain backoff on ordinary returns")
         await store.flushPersistence()
     }
 }

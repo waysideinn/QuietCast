@@ -105,8 +105,8 @@ final class NativeIOTests:XCTestCase {
         XCTAssertEqual(rules.schemaVersion,"1.1")
         XCTAssertEqual(rules.status,"production")
         XCTAssertEqual(rules.ruleVersion,"fiction-zh-2026-10-27-v1")
-        XCTAssertEqual(Bundle.main.object(forInfoDictionaryKey:"CFBundleShortVersionString") as? String,"1.1.3")
-        XCTAssertEqual(Bundle.main.object(forInfoDictionaryKey:"CFBundleVersion") as? String,"6")
+        XCTAssertEqual(Bundle.main.object(forInfoDictionaryKey:"CFBundleShortVersionString") as? String,"1.1.5")
+        XCTAssertEqual(Bundle.main.object(forInfoDictionaryKey:"CFBundleVersion") as? String,"8")
     }
     func testApplicationIdentityAndBackgroundAudioConfiguration() throws {
         XCTAssertEqual(Bundle.main.bundleIdentifier,"org.quietcast.family")

@@ -113,7 +113,7 @@ final class UIRedesignTests: XCTestCase {
             XCTAssertEqual(store.results.count, 4)
         }
         let calls = await transport.requests
-        XCTAssertEqual(calls.count, 3, "A single first Return must start exactly one unified search")
+        XCTAssertEqual(calls.count, 6, "One Return starts one search with a show and episode channel for each storefront")
         XCTAssertTrue(calls.allSatisfy { URLComponents(url: $0.url!, resolvingAgainstBaseURL: false)?.queryItems?.first { $0.name == "term" }?.value == "科学" })
         XCTAssertTrue(store.library.searchHistory.isEmpty)
         await store.flushPersistence()
@@ -371,7 +371,7 @@ final class UIRedesignTests: XCTestCase {
         try FileManager.default.createDirectory(at: root, withIntermediateDirectories: true)
         addTeardownBlock { try? FileManager.default.removeItem(at: root) }; return root
     }
-    @MainActor private func makeFixture(http: HTTPClient = HTTPClient()) async throws -> AppStore {
+    @MainActor private func makeFixture(http: HTTPClient = HTTPClient(), discoveryHTTP: HTTPClient? = nil) async throws -> AppStore {
         let root = try temporary()
         var state = LibraryState(), snapshot = DiscoverySnapshot()
         let names = ["嗑嗑科学", "历史的回声", "生活观察", "科技与未来", "科学会客厅", "城市漫游", "自然之声", "周末读书"]
@@ -399,7 +399,7 @@ final class UIRedesignTests: XCTestCase {
         }
         try AtomicLibraryStore(url: root.appendingPathComponent("library.json")).save(state)
         try DiscoveryCacheStore(url: root.appendingPathComponent("discovery.json")).save(snapshot)
-        let store = AppStore(rootURL: root, http: http, parentAuthority: try ParentAuthority(store: MemorySecureStore()))
+        let store = AppStore(rootURL: root, http: http, parentAuthority: try ParentAuthority(store: MemorySecureStore()), discoveryHTTP: discoveryHTTP)
         await store.waitForPresentation()
         store.discoveryCountry = "CN"
         return store
@@ -445,5 +445,327 @@ final class UIRedesignTests: XCTestCase {
         LayoutDiagnostics.activeID = nil
         window.isHidden = true; window.rootViewController = nil
         return frames
+    }
+}
+
+extension UIRedesignTests {
+    @MainActor private func finishSearch(_ store: AppStore) async throws {
+        let end = Date().addingTimeInterval(5)
+        while store.searching && Date() < end { try await Task.sleep(nanoseconds: 10_000_000) }
+        XCTAssertFalse(store.searching)
+    }
+    @MainActor func testEpisodeSearchIsIncrementalTransientAndResolvesOnlySelectedRSS() async throws {
+        let transport = EpisodeSearchTransport(), root = try temporary()
+        let authority = try ParentAuthority(store: MemorySecureStore())
+        let grant = try authority.setup(pin: "246813", confirmation: "246813", recoveryAcknowledged: true)
+        let store = AppStore(rootURL: root, http: HTTPClient(transport: transport, directoryInterval: 0), parentAuthority: authority)
+        await store.waitForPresentation()
+        let builds = await store.presentationWorker.buildCount
+        store.search("黑洞")
+        try await finishSearch(store)
+        XCTAssertEqual(store.episodeResults.count, 2); XCTAssertEqual(store.results.count, 1)
+        XCTAssertTrue(store.library.episodes.isEmpty); XCTAssertTrue(store.library.podcasts.isEmpty)
+        let afterBuilds = await store.presentationWorker.buildCount
+        XCTAssertEqual(builds, afterBuilds, "Incremental search must not rebuild or persist the full library")
+        XCTAssertEqual(try store.parentSearchRecords(grant: grant).first?.count, 1)
+        let first = try XCTUnwrap(store.episodeResults.first { $0.identity?.showDirectoryID == "100" })
+        store.play(first.episode); store.enqueue(first.episode)
+        XCTAssertNil(store.player.episode); XCTAssertTrue(store.library.queue.isEmpty)
+        let episode = try await store.resolveSearchEpisode(first)
+        XCTAssertEqual(episode.guid, "g-one"); XCTAssertEqual(episode.title, "黑洞之旅")
+        XCTAssertEqual(store.library.episodes.count, 1)
+        let calls = await transport.requests
+        XCTAssertEqual(calls.filter { $0.url?.path == "/lookup" }.count, 1)
+        XCTAssertEqual(calls.filter { $0.url?.path.hasSuffix(".xml") == true }.map { $0.url!.absoluteString }, ["https://episode.example/100.xml"])
+        await store.waitForPresentation()
+        store.search("黑洞"); try await finishSearch(store)
+        XCTAssertEqual(store.episodeResults.count, 2, "The same local GUID and remote candidate form one row")
+        XCTAssertNil(store.episodeResults.first?.identity)
+        XCTAssertEqual(try store.parentSearchRecords(grant: grant).first?.count, 2)
+        _ = try await capture(NavigationStack { SearchEpisodeRow(hit: first) }.environmentObject(store), size: CGSize(width: 375, height: 667), name: "search-episode-row")
+        _ = try await capture(NavigationStack { SearchEpisodeDetailView(hit: first) }.environmentObject(store), size: CGSize(width: 375, height: 667), name: "search-episode-detail")
+        await store.flushPersistence()
+    }
+    @MainActor func testEpisodeSearchLateCancellationPartialFailuresAndLocalOfflineResults() async throws {
+        let transport = EpisodeSearchTransport(); await transport.configure(holdOld: true)
+        let store = AppStore(rootURL: try temporary(), http: HTTPClient(transport: transport, directoryInterval: 0), parentAuthority: try ParentAuthority(store: MemorySecureStore()))
+        await store.waitForPresentation()
+        store.search("旧词")
+        let deadline = Date().addingTimeInterval(2)
+        while await transport.requests.count < 6 && Date() < deadline { try await Task.sleep(nanoseconds: 10_000_000) }
+        store.search("新词"); try await finishSearch(store)
+        await transport.release()
+        try await Task.sleep(nanoseconds: 100_000_000)
+        XCTAssertEqual(store.episodeResults.count, 2)
+        XCTAssertTrue(store.episodeResults.allSatisfy { $0.episode.title == "新词之旅" })
+        store.search(""); XCTAssertTrue(store.episodeResults.isEmpty); XCTAssertTrue(store.results.isEmpty)
+        await transport.configure(failEpisodes: true)
+        store.search("黑洞"); try await finishSearch(store)
+        XCTAssertFalse(store.results.isEmpty); XCTAssertTrue(store.episodeResults.isEmpty); XCTAssertNotNil(store.searchWarning); XCTAssertNil(store.searchError)
+        var show = Podcast(feedURL: URL(string: "https://episode.example/local.xml")!, title: "本机科学", hasRSSMetadata: true)
+        show.rssFetchedAt = Date()
+        let episode = Episode(podcastID: show.id, guid: "local", title: "黑洞本机命中", audioURL: URL(string: "https://episode.example/local.mp3")!)
+        store.change { $0.merge(Feed(podcast: show, episodes: [episode])) }; await store.waitForPresentation()
+        await transport.configure(failAll: true)
+        store.search("黑洞"); try await finishSearch(store)
+        XCTAssertEqual(store.episodeResults.map(\.episode.id), [episode.id]); XCTAssertNil(store.searchError); XCTAssertNotNil(store.searchWarning)
+        store.search("没有匹配"); try await finishSearch(store)
+        XCTAssertTrue(store.episodeResults.isEmpty); XCTAssertNotNil(store.searchError)
+        await store.flushPersistence()
+    }
+    @MainActor func testSearchEpisodeCannotBypassRuleChangesOrUnmatchedGUID() async throws {
+        let transport = EpisodeSearchTransport(), authority = try ParentAuthority(store: MemorySecureStore())
+        let grant = try authority.setup(pin: "246813", confirmation: "246813", recoveryAcknowledged: true)
+        let store = AppStore(rootURL: try temporary(), http: HTTPClient(transport: transport, directoryInterval: 0), parentAuthority: authority)
+        await store.waitForPresentation()
+        store.search("黑洞"); try await finishSearch(store)
+        let hit = try XCTUnwrap(store.episodeResults.first { $0.identity?.showDirectoryID == "100" })
+        XCTAssertEqual(store.result(show: hit.show, episode: hit.episode).decision, .review)
+        var policy = store.policy; policy.episodeBlocklist.insert(hit.episode.id); policy.showAllowlist.insert(hit.show.id)
+        try store.updatePolicy(policy, grant: grant)
+        XCTAssertFalse(store.visibleSearchHit(hit))
+        do { _ = try await store.resolveSearchEpisode(hit); XCTFail("Blocked candidate must not resolve") } catch { }
+        let requests = await transport.requests.count; XCTAssertEqual(requests, 6)
+        var rssShow = hit.show; rssShow.hasRSSMetadata = true
+        store.change { $0.merge(Feed(podcast: rssShow, episodes: [hit.episode])) }
+        await store.waitForPresentation()
+        let noGUID = SearchEpisodeHit(show: hit.show, episode: Episode(podcastID: hit.show.id, guid: "directory:200", title: hit.episode.title, audioURL: hit.episode.audioURL), identity: DirectoryEpisodeIdentity(showDirectoryID: "100", episodeDirectoryID: "200", guid: nil, audioURL: hit.episode.audioURL, sourceURL: hit.identity!.sourceURL))
+        XCTAssertFalse(store.visibleSearchHit(noGUID), "A GUID-less candidate must respect a known blocked enclosure even though it is absent from display indexes")
+        policy.episodeBlocklist.removeAll(); policy.showAllowlist.removeAll(); policy.blockedAppleCategories = ["1533"]
+        try store.updatePolicy(policy, grant: grant); XCTAssertFalse(store.visibleSearchHit(hit))
+        policy.blockedAppleCategories = []; try store.updatePolicy(policy, grant: grant)
+        await transport.configure(wrongGUID: true)
+        // Isolate this case from the existing local enclosure: dedup correctly prefers that
+        // known RSS row and would otherwise remove the deliberately conflicting candidate.
+        let mismatchStore = AppStore(rootURL: try temporary(), http: HTTPClient(transport: transport, directoryInterval: 0), parentAuthority: authority)
+        await mismatchStore.waitForPresentation()
+        mismatchStore.search("宇宙"); try await finishSearch(mismatchStore)
+        let wrong = try XCTUnwrap(mismatchStore.episodeResults.first { $0.identity?.showDirectoryID == "100" })
+        do { _ = try await mismatchStore.resolveSearchEpisode(wrong); XCTFail("Same title or audio must not override a conflicting GUID") }
+        catch { XCTAssertTrue(error.localizedDescription.contains("单集标识")) }
+        XCTAssertNil(mismatchStore.library.episodes[wrong.episode.id]); XCTAssertNil(mismatchStore.player.episode); XCTAssertTrue(mismatchStore.library.queue.isEmpty)
+        await mismatchStore.flushPersistence()
+        await store.flushPersistence()
+    }
+    @MainActor func testSubscriptionRail120ShowsRendersLazilyReachesLastAndDoesNoIO() async throws {
+        let root = try temporary(), transport = StubTransport([])
+        let authority = try ParentAuthority(store: MemorySecureStore())
+        let grant = try authority.setup(pin: "246813", confirmation: "246813", recoveryAcknowledged: true)
+        var state = LibraryState()
+        for index in 0...120 {
+            let show = Podcast(feedURL: URL(string: "https://rail.example/\(index).xml")!, title: String(format: "科学节目 %03d", index), author: "科学团队", hasRSSMetadata: true, rssFetchedAt: Date())
+            state.merge(Feed(podcast: show, episodes: [])); state.subscriptions.insert(show.id)
+        }
+        state.subscriptionRefreshAttemptAt = Date()
+        try AtomicLibraryStore(url: root.appendingPathComponent("library.json")).save(state)
+        // Eight visible cards reproduce the old rail's cardinality while retaining all 121 local shows.
+        let baselineRoot = try temporary()
+        var baselineState = state
+        baselineState.subscriptions = Set(state.podcasts.values.sorted { $0.title < $1.title }.prefix(8).map(\.id))
+        try AtomicLibraryStore(url: baselineRoot.appendingPathComponent("library.json")).save(baselineState)
+        let baselineStore = AppStore(rootURL: baselineRoot, http: HTTPClient(transport: transport, directoryInterval: 0), parentAuthority: authority)
+        await baselineStore.waitForPresentation()
+        let baselineStart = Date()
+        _ = try await capture(NavigationStack { SubscriptionsView() }.environmentObject(baselineStore), size: CGSize(width: 375, height: 667), name: "subscriptions-8-first") { _ in
+            print("RAIL_BENCHMARK initial8=\(Date().timeIntervalSince(baselineStart)) materialized=\(LayoutDiagnostics.frames.keys.filter { $0.hasPrefix("subscriptions.show.") }.count)")
+        }
+        let store = AppStore(rootURL: root, http: HTTPClient(transport: transport, directoryInterval: 0), parentAuthority: authority)
+        await store.waitForPresentation()
+        let blocked = try XCTUnwrap(state.podcasts["https://rail.example/60.xml"])
+        try store.setException(show: blocked, episode: nil, allow: false, grant: grant)
+        await store.waitForPresentation(); await store.flushPersistence()
+        XCTAssertEqual(store.presentation.subscribed.count, 120)
+        let last = try XCTUnwrap(store.presentation.subscribed.last)
+        let bytes = try Data(contentsOf: root.appendingPathComponent("library.json")), builds = await store.presentationWorker.buildCount
+        let start = Date()
+        _ = try await capture(NavigationStack { SubscriptionsView() }.environmentObject(store), size: CGSize(width: 375, height: 667), name: "subscriptions-120-last") { view in
+            let initialFrames = LayoutDiagnostics.frames.keys.filter { $0.hasPrefix("subscriptions.show.") }
+            print("RAIL_BENCHMARK initial120=\(Date().timeIntervalSince(start)) materialized=\(initialFrames.count)")
+            XCTAssertLessThan(initialFrames.count, 20, "The first viewport must not materialize all 120 cover views")
+            let scroll = try XCTUnwrap(self.descendants(view).compactMap { $0 as? UIScrollView }.first { $0.contentSize.width > $0.bounds.width + 200 && $0.bounds.height < 250 })
+            let scrollStart = Date(); var steps = 0
+            while steps < 150 {
+                scroll.layoutIfNeeded()
+                let end = max(0, scroll.contentSize.width - scroll.bounds.width)
+                scroll.setContentOffset(CGPoint(x: min(end, scroll.contentOffset.x + scroll.bounds.width * 0.85), y: scroll.contentOffset.y), animated: false)
+                try await Task.sleep(nanoseconds: 16_000_000); view.layoutIfNeeded(); steps += 1
+                if abs(scroll.contentOffset.x - (scroll.contentSize.width - scroll.bounds.width)) < 1 { break }
+            }
+            let frame = try XCTUnwrap(LayoutDiagnostics.frames["subscriptions.show.\(last.id)"])
+            XCTAssertGreaterThanOrEqual(frame.minX, 0); XCTAssertLessThanOrEqual(frame.maxX, view.bounds.width + 1)
+            XCTAssertFalse(LayoutDiagnostics.frames.keys.contains("subscriptions.show.\(blocked.id)"))
+            print("RAIL_BENCHMARK scroll120=\(Date().timeIntervalSince(scrollStart)) steps=\(steps) last=\(last.id) lastFrame=\(frame)")
+        }
+        _ = try await capture(NavigationStack { ShowDetailView(show: last) }.environmentObject(store), size: CGSize(width: 375, height: 667), name: "subscriptions-120-last-detail")
+        XCTAssertEqual(store.library.podcasts[last.id]?.title, last.title)
+        let calls = await transport.requests.count, after = await store.presentationWorker.buildCount
+        XCTAssertEqual(calls, 0); XCTAssertEqual(after, builds)
+        XCTAssertEqual(try Data(contentsOf: root.appendingPathComponent("library.json")), bytes)
+        _ = try await capture(NavigationStack { SubscriptionsView() }.environmentObject(store).dynamicTypeSize(.accessibility3), size: CGSize(width: 667, height: 375), name: "subscriptions-120-landscape-large-text")
+        await store.flushPersistence()
+    }
+}
+
+extension UIRedesignTests {
+    @MainActor func testSearchScopeLayoutsAndChineseFirstReturnWithEpisodeResults() async throws {
+        for (name, size, type, scope) in [
+            ("search-combined", CGSize(width: 375, height: 667), DynamicTypeSize.large, 0),
+            ("search-episodes", CGSize(width: 375, height: 667), DynamicTypeSize.large, 2),
+            ("search-episodes-large-text", CGSize(width: 667, height: 375), DynamicTypeSize.accessibility3, 2)
+        ] {
+            let transport = EpisodeSearchTransport()
+            let store = try await makeFixture(http: HTTPClient(transport: transport, directoryInterval: 0))
+            defer { store.player.unload() }
+            _ = try await capture(NavigationStack { HomeView() }.environmentObject(store).dynamicTypeSize(type), size: size, name: name) { view in
+                let field = try XCTUnwrap(self.descendants(view).compactMap { $0 as? UITextField }.first { $0.accessibilityIdentifier == "explore.search" })
+                XCTAssertTrue(field.becomeFirstResponder())
+                field.setMarkedText("黑洞", selectedRange: NSRange(location: 2, length: 0)); field.sendActions(for: .editingChanged)
+                XCTAssertFalse(try XCTUnwrap(field.delegate?.textFieldShouldReturn)(field))
+                XCTAssertFalse(field.isFirstResponder)
+                try await self.finishSearch(store)
+                XCTAssertEqual(store.episodeResults.count, 2)
+                let picker = try XCTUnwrap(self.descendants(view).compactMap { $0 as? UISegmentedControl }.first)
+                picker.selectedSegmentIndex = scope; picker.sendActions(for: .valueChanged)
+                try await Task.sleep(nanoseconds: 350_000_000); view.layoutIfNeeded()
+                XCTAssertEqual(picker.numberOfSegments, 3)
+                XCTAssertEqual(picker.selectedSegmentIndex, scope)
+                if type.isAccessibilitySize { try await self.restAtBottom(view) }
+            }
+            await store.flushPersistence()
+        }
+    }
+    @MainActor func testFreshCachedRSSStillAdoptsDirectoryPermissionChangesWithoutRSSRequest() async throws {
+        let transport = StubTransport([]), authority = try ParentAuthority(store: MemorySecureStore())
+        let grant = try authority.setup(pin: "246813", confirmation: "246813", recoveryAcknowledged: true)
+        let store = AppStore(rootURL: try temporary(), http: HTTPClient(transport: transport, directoryInterval: 0), parentAuthority: authority)
+        await store.waitForPresentation()
+        let show = Podcast(feedURL: URL(string: "https://cached.example/science.xml")!, title: "科学", hasRSSMetadata: true, rssFetchedAt: Date())
+        let episode = Episode(podcastID: show.id, guid: "cached", title: "访谈", audioURL: URL(string: "https://cached.example/1.mp3")!)
+        store.change { $0.merge(Feed(podcast: show, episodes: [episode])); $0.queue = [episode.id] }
+        await store.waitForPresentation()
+        var policy = store.policy; policy.blockedAppleCategories = ["1533"]
+        try store.updatePolicy(policy, grant: grant)
+        var incoming = show
+        incoming.hasRSSMetadata = false
+        incoming.classificationObservations = [ClassificationObservation(namespace: "apple.podcasts.genre", id: "1533", name: "Science", source: .appleLookup, sourceURL: show.feedURL)]
+        let updated = try await store.load(incoming)
+        XCTAssertEqual(store.result(show: updated, episode: episode).decision, .block)
+        XCTAssertTrue(store.library.queue.isEmpty)
+        let calls = await transport.requests.count; XCTAssertEqual(calls, 0)
+        await store.waitForPresentation(); XCTAssertFalse(store.presentation.visibleEpisodeIDs.contains(episode.id))
+        await store.flushPersistence()
+    }
+}
+
+extension UIRedesignTests {
+    @MainActor func testRefreshFailureDetailsAreVisibleAndRespectParentRules() async throws {
+        let transport = EpisodeSearchTransport(); await transport.configure(failAll: true)
+        let store = try await makeFixture(http: HTTPClient(transport: transport, directoryInterval: 0))
+        defer { store.player.unload() }
+        let grant = try XCTUnwrap(store.authority).setup(pin: "246813", confirmation: "246813", recoveryAcknowledged: true)
+        let blocked = try XCTUnwrap(store.presentation.subscribed.first)
+        try store.setException(show: blocked, episode: nil, allow: false, grant: grant)
+        store.change(updatePresentation: false) { $0.subscriptionRefreshAttemptAt = nil }
+        await store.waitForPresentation()
+        await store.refresh()
+        XCTAssertEqual(store.refreshFailures.count, 2)
+        let visible = try XCTUnwrap(store.refreshFailures.first { store.visible($0.show) })
+        let frames = try await capture(NavigationStack { SubscriptionRefreshReportView() }.environmentObject(store), size: CGSize(width: 375, height: 667), name: "refresh-failure-details")
+        XCTAssertNotNil(frames["refresh.failure.\(visible.id)"])
+        XCTAssertNil(frames["refresh.failure.\(blocked.id)"])
+        await store.flushPersistence()
+    }
+}
+
+private actor NativeRefreshProbeTransport: HTTPTransport {
+    var rssCount = 0
+    var cancelled = 0
+    private var holdFirst = false
+    private var released = false
+    func pauseFirst() { holdFirst = true }
+    func release() { released = true }
+    func fetch(_ request: URLRequest) async throws -> (Data, HTTPURLResponse) {
+        let data: Data
+        if request.url?.host == "refresh.example" || (request.url?.host == "example.com" && request.url?.path.hasPrefix("/ui/") == true) {
+            rssCount += 1
+            do {
+                while holdFirst && rssCount == 1 && !released { try await Task.sleep(nanoseconds: 10_000_000) }
+                try await Task.sleep(nanoseconds: 40_000_000)
+            }
+            catch { cancelled += 1; throw error }
+            data = Data("<rss version=\"2.0\"><channel><title>科学节目更新</title><item><title>更新单集</title><guid>one</guid><enclosure url=\"https://refresh.example/one.mp3\" type=\"audio/mpeg\"/></item></channel></rss>".utf8)
+        } else { data = Data(#"{"results":[]}"#.utf8) }
+        return (data, HTTPURLResponse(url: request.url!, statusCode: 200, httpVersion: nil, headerFields: nil)!)
+    }
+}
+extension UIRedesignTests {
+    @MainActor func testNativeRefreshCompletesWhileStayingOnSubscriptionsAndHome() async throws {
+        for (subscriptions, enteringRefresh) in [(true, false), (false, false), (false, true)] {
+            let root = try temporary(), transport = NativeRefreshProbeTransport()
+            if enteringRefresh { await transport.pauseFirst() }
+            let http = HTTPClient(transport: transport, directoryInterval: 0)
+            var state = LibraryState(), snapshot = DiscoverySnapshot()
+            for index in 0..<13 {
+                let show = Podcast(feedURL: URL(string: "https://refresh.example/\(index).xml")!, title: "科学节目 \(index)", hasRSSMetadata: true, rssFetchedAt: Date())
+                let episode = Episode(podcastID: show.id, guid: "one", title: "已有单集", audioURL: URL(string: "https://refresh.example/\(index).mp3")!)
+                let feed = Feed(podcast: show, episodes: [episode]); state.merge(feed); state.subscriptions.insert(show.id)
+                snapshot.feeds[show.id] = CachedDiscoveryFeed(feed: feed, fetchedAt: Date())
+            }
+            state.subscriptionRefreshAttemptAt = Date().addingTimeInterval(enteringRefresh ? -7200 : -120)
+            for kind in [DiscoveryKind.topShows, .topEpisodes, .personalized, .newShows] {
+                let key = DiscoveryService.key(kind, country: "CN")
+                snapshot.sections[key] = DiscoverySection(id: key, kind: kind, title: key, origin: .localLibrary, country: "CN", generatedAt: Date(), entries: [])
+            }
+            try AtomicLibraryStore(url: root.appendingPathComponent("library.json")).save(state)
+            try DiscoveryCacheStore(url: root.appendingPathComponent("discovery.json")).save(snapshot)
+            let store = AppStore(rootURL: root, http: http, parentAuthority: try ParentAuthority(store: MemorySecureStore()), discoveryHTTP: http)
+            await store.waitForPresentation()
+            let content = subscriptions ? AnyView(SubscriptionsView()) : AnyView(HomeView())
+            _ = try await capture(NavigationStack { content }.environmentObject(store), size: CGSize(width: 375, height: 667), name: subscriptions ? "refresh-native-subscriptions" : enteringRefresh ? "refresh-native-home-on-entry" : "refresh-native-home") { view in
+                let control = try XCTUnwrap(self.descendants(view).compactMap { $0 as? UIScrollView }.compactMap(\.refreshControl).first)
+                let prior = await transport.rssCount; XCTAssertEqual(prior, enteringRefresh ? 1 : 0)
+                let start = Date()
+                control.beginRefreshing(); control.sendActions(for: .valueChanged)
+                if enteringRefresh { try await Task.sleep(nanoseconds: 50_000_000); await transport.release() }
+                while Date().timeIntervalSince(start) < 6 {
+                    if await transport.rssCount == 13 && !store.refreshing { break }
+                    try await Task.sleep(nanoseconds: 10_000_000)
+                }
+                let calls = await transport.rssCount, cancelled = await transport.cancelled
+                print("NATIVE_REFRESH_STAYING page=\(subscriptions ? "subscriptions" : "home") onEntry=\(enteringRefresh) rss=\(calls) cancelled=\(cancelled) interrupted=\(store.refreshWasCancelled) failures=\(store.refreshFailures.count) message=\(store.message ?? "none") elapsed=\(Date().timeIntervalSince(start))")
+                XCTAssertEqual(calls, 13); XCTAssertEqual(cancelled, 0); XCTAssertFalse(store.refreshWasCancelled)
+                XCTAssertTrue(store.refreshFailures.isEmpty); XCTAssertNil(store.message)
+            }
+            await store.flushPersistence()
+        }
+    }
+}
+
+extension UIRedesignTests {
+    @MainActor func testManualHomeRefreshSurvivesCancelledCallerAndCoalescesRepeatPulls() async throws {
+        let transport = NativeRefreshProbeTransport(); await transport.pauseFirst()
+        let http = HTTPClient(transport: transport, directoryInterval: 0)
+        let store = try await makeFixture(http: http, discoveryHTTP: http)
+        store.player.unload()
+        store.change(updatePresentation: false) { $0.subscriptionRefreshAttemptAt = Date().addingTimeInterval(-120) }
+        let subscriptions = store.library.subscriptions, favorites = store.library.favorites, progress = store.library.progress
+        let first = Task { await store.refreshHome() }
+        let deadline = Date().addingTimeInterval(3)
+        while await transport.rssCount < 1 && Date() < deadline { try await Task.sleep(nanoseconds: 10_000_000) }
+        first.cancel()
+        let second = Task { await store.refreshHome() }
+        try await Task.sleep(nanoseconds: 100_000_000)
+        XCTAssertTrue(store.homeRefreshing); XCTAssertTrue(store.refreshing)
+        let held = await transport.rssCount; XCTAssertEqual(held, 1)
+        await transport.release()
+        await first.value; await second.value
+        let count = await transport.rssCount, cancelled = await transport.cancelled
+        XCTAssertEqual(count, 2, "Concurrent refresh callers must share one subscription refresh")
+        XCTAssertEqual(cancelled, 0); XCTAssertFalse(store.homeRefreshing); XCTAssertFalse(store.refreshing)
+        XCTAssertFalse(store.refreshWasCancelled); XCTAssertTrue(store.refreshFailures.isEmpty); XCTAssertNil(store.message)
+        XCTAssertNotNil(store.library.subscriptionRefreshedAt)
+        XCTAssertEqual(store.library.subscriptions, subscriptions); XCTAssertEqual(store.library.favorites, favorites); XCTAssertEqual(store.library.progress, progress)
+        print("MANUAL_REFRESH_OWNERSHIP cancelledCaller=true rss=\(count) cancelledRequests=\(cancelled) coalesced=true")
+        await store.flushPersistence()
     }
 }
